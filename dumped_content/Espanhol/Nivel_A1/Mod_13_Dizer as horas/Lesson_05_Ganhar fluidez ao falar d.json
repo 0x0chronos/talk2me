@@ -1,0 +1,577 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+    "attemptId": "8cf00f36-17e8-4839-9004-7caa5c92671a",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "c7fd4e56-1035-492a-a12a-60fb727d4e41",
+      "dcefa5e5-53fe-4f46-a9ca-00af089e3397",
+      "a68a6902-439e-4377-8863-d547e4afa1e0",
+      "3c47cf34-8357-4b84-963a-e8f943c84cf3",
+      "83a37165-a1e1-48e9-b209-b85764ea9850"
+    ],
+    "evaluationExerciseIds": [
+      "46539fa6-bc00-480f-8f32-2968f2aa8153",
+      "2754f7a3-0add-42b5-9b6c-7bcdd7f653b8",
+      "4454b39c-9450-414e-9195-2546b341c5fe",
+      "9d2436d0-5791-4200-bc0f-8b33c6f33c4c",
+      "7da39c08-3b27-4486-86d7-901956b998f4"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:46.7233524Z"
+  },
+  "contents": [
+    {
+      "id": "69832a18-2134-45a9-bf51-c5e28177637c",
+      "title": "Escute e acompanhe a frase em espanhol.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "88f90d88-fd48-4a6b-ac1d-62ac67e17a24",
+          "textContent": "<p>Escute a frase.</p><p><strong>Los lunes estudio español a las siete.</strong></p><p>Em português: <strong>Às segundas eu estudo espanhol às sete.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a3cce60acb3b4bcfa41d6f863ab46a5a_b01-los-lunes-estudio-espanol-a-las-siete.mp3?Expires=1794099467&Signature=QA1q28adht4gMojLXj2TPXGWlof~9~YZflOrReeLQwuuVOFnJSteY8Ezc4cqqlafIVqEnQVZ~mFZWSZenlJzuHtNwk2D1lz3108GStq9midoHAXQXzpr4NMOz4IKpELJeb66-Wj9Se8C4bGAxUJfxzjsx1vSojA1RxGnqKBW~Ps1EA~ivL-VaSIO9BE4Ua27-zM0HSwvSnFdGKekH1nRQJEx0nAM-I1y5N5MbNktlXKRGjcrKabeUUUGb7ir41KZspucSrKi2ZTnFs0Q29Kyia~q5~ZA-MNLTVu4jKZhtrgL3aJdmdTH6uevPm9ArgFncSs6yEHv7L-9F1PtAe4FDA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3993fcfa-a19a-4426-b4aa-249c6caac9da",
+      "title": "Observe como dia, atividade e horário aparecem na frase.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "3b094b68-7d26-4e9c-92b5-dd70db18ac62",
+          "textContent": "<p>Observe a ordem da frase.</p><ul><li><strong>Los lunes</strong>: o dia</li><li><strong>estudio español</strong>: a atividade</li><li><strong>a las siete</strong>: o horário</li></ul><p>Esse formato ajuda a falar de um compromisso fixo da sua semana.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "78322c5b-c042-4531-b2e1-44c7961a46ef",
+      "title": "Escute e acompanhe a nova frase em espanhol.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "3086c0c2-9c4f-45d2-9a84-3a709820d42c",
+          "textContent": "<p>Agora veja o mesmo tipo de frase com <strong>una</strong>.</p><p><strong>Los miércoles tengo clase a la una.</strong></p><p>Em português: <strong>Às quartas eu tenho aula à uma.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/725054258019408fba8c7285666653d2_b03-los-miercoles-tengo-clase-a-la-una.mp3?Expires=1794099467&Signature=ZVC5Bvbnp6ltRwDV2Mqh48Uar3BH6pvikT04EOiemOVzTyqAuXMZ0O7BkUsVpyzAHBuSQeelMXw7LQfShIzkFflRSYbNW38v1Rz-TUWSg0oVtvf7hUOSc1Sp4E9RAkLPwqvSD5lXP2r~xw278JQfxR7NC7O-Hp-64BbxiFlb70huczZd5hyfMchoMvtk1kbt2Ic6TK8mciAD57nHY~8ttt2QxN6mqyQap89hmYzBnOHDuzB2EpRzsy1iYulTtBHwjEcSFtaAkkGhWj7c4JokHgDN66vXbu-gE68qlBBvdy5f2WWJoczcs9LFvK6aNLbMoOvlqvi0gGnH62QjvrSMtQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2b21ab7c-11fb-46f6-a503-210c6beb1991",
+      "title": "Leia a nota curta sobre o uso de a la una.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "f34fc996-95f6-4020-9efd-d2b79b23a777",
+          "textContent": "<p>Com <strong>una</strong>, o padrão muda.</p><p>Use <strong>a la una</strong>, não <strong>a las una</strong>.</p><p><strong>Los miércoles tengo clase a la una.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "44fe40ff-97c8-40a7-9990-084ac22acc6a",
+      "title": "Escute e acompanhe as duas frases em sequência.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "e54834c2-ab4e-46cb-9a62-77c2f74419ef",
+          "textContent": "<p>Agora veja duas partes da rotina juntas.</p><p><strong>Los lunes estudio español a las siete.</strong></p><p><strong>Los miércoles tengo clase a la una.</strong></p><p>Em português: <strong>Às segundas eu estudo espanhol às sete.</strong></p><p><strong>Às quartas eu tenho aula à uma.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4778605148fb41af94fb393a45770449_b05-rutina-corta.mp3?Expires=1794099467&Signature=RzMsAZX5WOaEX~HHHvnAAFnfkJgk5DIYE7wQRJbfzqQCman0l1aqU0uCTlyJGzMwoCqcHsQTB7MQrgvuSKgvlAXaIDI0KsKtTQZ0K7KgGZd87lKmmROCwn8t2IQouk4gedqvByWrfIfvZcz3PpLZt2xZQp~ImMJG5W-2iydR4ujnw1hunadO5BmUS1r5PpdFZexYTtTq6gM1MuCigwej4hL4R7r8r6ued6EruKEqVtrtrgsyIzjDBz7qB12idwtAA47Rs9F80gdIcBVG1bGxgVr8ndYw1qbwlG88Y-edf8GXHNGmONVthGiIRf8tBijNRLg3AfrpWWo9XPNyaAvhtQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3d89edde-1796-4e75-9e6a-fef79cdbc619",
+      "title": "Leia o resumo final e veja onde esse formato aparece no dia a dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "20d1034c-93f8-4d15-85b0-5e92f6e55de6",
+          "textContent": "<p>Com esse formato, você já consegue falar de trechos simples da sua semana.</p><p><strong>Los lunes estudio español a las siete.</strong></p><p><strong>Los miércoles tengo clase a la una.</strong></p><p>Isso é útil para comentar sua aula, sua agenda ou um compromisso fixo do dia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "c7fd4e56-1035-492a-a12a-60fb727d4e41",
+      "title": "Escolha a frase correta",
+      "content": "<p>Qual frase segue o padrão certo para falar de um compromisso fixo à uma hora?</p>",
+      "contentPlain": "Qual frase segue o padrão certo para falar de um compromisso fixo à uma hora?",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa reforça o contraste entre a las e a la una dentro da rotina.",
+      "feedbackError": "Esta tarefa reforça o contraste entre a las e a la una dentro da rotina.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1e863a5e-0b9b-4342-abf8-a0ade3a19233",
+          "textContent": "Los miércoles tengo clase a las una.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7fd4e56-1035-492a-a12a-60fb727d4e41"
+        },
+        {
+          "id": "481ad8f7-4fe2-4af4-8d6c-13fc41b22cef",
+          "textContent": "Los miércoles tengo clase a la una.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c7fd4e56-1035-492a-a12a-60fb727d4e41"
+        },
+        {
+          "id": "54e56698-08e7-4290-a3e4-4c31b12464ce",
+          "textContent": "Los lunes estudio español a las siete.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7fd4e56-1035-492a-a12a-60fb727d4e41"
+        },
+        {
+          "id": "7c88d51b-2a4b-4aa8-a149-b67030a76d76",
+          "textContent": "Los miércoles tengo clase a las siete.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7fd4e56-1035-492a-a12a-60fb727d4e41"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "dcefa5e5-53fe-4f46-a9ca-00af089e3397",
+      "title": "Ouça a frase de quarta",
+      "content": "<p>Ouça o áudio e marque somente as palavras em espanhol que fazem parte da frase.</p>",
+      "contentPlain": "Ouça o áudio e marque somente as palavras em espanhol que fazem parte da frase.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb4bc098fce64a98ba65523b71bf3a2b_b03-los-miercoles-tengo-clase-a-la-una.mp3?Expires=1794099467&Signature=OPQmjntMH-Ibx0pEJVfR0bWJDmGc0~l1NjHzGksfp~0KtVdf8IGfqkDk2noE0sqdivBJkRONEXjlfHBx06RVRULKcsoslkte-MrAPyuvZgJe~F9kRoefNHM-4Z2Smnie6OqqWzrohtTxlnXcx9i8PgrkWw7sdPFb5PxcpQD~d-NLPkjFwdEfTuN6Z2A4kp6PuifCfQGoh63ByfpqdojeeSqSsUjrf9O-277elHV~ti4CiU5t8i7nS1b4oAfGL-dumFj0FToddYQu3Br5oGFwsFXn-nRnfP-3CDCXPGhosPLAebta3VGZt-Y2PjHZH3QQhmLZ-tHWOIjdTsD3ZWthmA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa reforça as pistas sonoras da frase com quarta-feira e uma hora.",
+      "feedbackError": "Esta tarefa reforça as pistas sonoras da frase com quarta-feira e uma hora.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "017bd4f4-3a7d-4df4-aef1-8ae960a41b9d",
+          "textContent": "lunes",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dcefa5e5-53fe-4f46-a9ca-00af089e3397"
+        },
+        {
+          "id": "0a26f522-5587-43fc-9e6c-71c4ea6af331",
+          "textContent": "miércoles",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dcefa5e5-53fe-4f46-a9ca-00af089e3397"
+        },
+        {
+          "id": "349dbe1f-4a63-4f75-bd5c-6ecf7c0178a6",
+          "textContent": "clase",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dcefa5e5-53fe-4f46-a9ca-00af089e3397"
+        },
+        {
+          "id": "4c8802f9-13a5-4dd2-afdd-50fd272aed03",
+          "textContent": "siete",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dcefa5e5-53fe-4f46-a9ca-00af089e3397"
+        },
+        {
+          "id": "a11b3063-8ffd-4428-9878-0141b0d7542c",
+          "textContent": "estudio",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dcefa5e5-53fe-4f46-a9ca-00af089e3397"
+        },
+        {
+          "id": "a26718f0-d945-4a8f-9093-cd6a29d213f5",
+          "textContent": "una",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dcefa5e5-53fe-4f46-a9ca-00af089e3397"
+        },
+        {
+          "id": "f07e5302-6435-4c3f-9a61-f47aff65b733",
+          "textContent": "tengo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dcefa5e5-53fe-4f46-a9ca-00af089e3397"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a68a6902-439e-4377-8863-d547e4afa1e0",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta as duas frases curtas da rotina.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta as duas frases curtas da rotina.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1dc4b5adc8184b148270c9f61e5f126d_b05-rutina-corta.mp3?Expires=1794099467&Signature=pLxC0mifp~mL8sJX8xxzLpDjuJsHK2KPw91VQw~zHPuzC9EGfuU0G7WDPZ06NJTfyh6XiGUeG7C5VAOW4A-yzxBXN5gdqH886-vdnYdhVVrI4OyXD9Re1KTIFlTpa8ry1osr~nw8KNRRjdpeChVUSS3Si1limLS4Xg6ZOdByo43e8fuCDLjygVMfGPPW5idqA2WBB0YQPmJMYTzO4YJ3yykUL~55gmtMgUG6EL8WSzQNKUQLzSlxDvYC10npqR~KFyuYlwVoppUfAdz4syHGbvSL-zWmMcoUFDw1HDjxJuEKK1csKgPZpa56-7gt6nVx1vkRXLc2os4HHpd4mO34IA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa ativa em voz alta a combinação de dia, atividade e horário na rotina.",
+      "feedbackError": "Esta tarefa ativa em voz alta a combinação de dia, atividade e horário na rotina.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Los lunes estudio español a las siete. Los miércoles tengo clase a la una.",
+      "typeSpecificData": "{\"expectedText\":\"Los lunes estudio espa\\u00F1ol a las siete. Los mi\\u00E9rcoles tengo clase a la una.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/1dc4b5adc8184b148270c9f61e5f126d_b05-rutina-corta.mp3?Expires=1794099467\\u0026Signature=pLxC0mifp~mL8sJX8xxzLpDjuJsHK2KPw91VQw~zHPuzC9EGfuU0G7WDPZ06NJTfyh6XiGUeG7C5VAOW4A-yzxBXN5gdqH886-vdnYdhVVrI4OyXD9Re1KTIFlTpa8ry1osr~nw8KNRRjdpeChVUSS3Si1limLS4Xg6ZOdByo43e8fuCDLjygVMfGPPW5idqA2WBB0YQPmJMYTzO4YJ3yykUL~55gmtMgUG6EL8WSzQNKUQLzSlxDvYC10npqR~KFyuYlwVoppUfAdz4syHGbvSL-zWmMcoUFDw1HDjxJuEKK1csKgPZpa56-7gt6nVx1vkRXLc2os4HHpd4mO34IA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3c47cf34-8357-4b84-963a-e8f943c84cf3",
+      "title": "Ouça e associe as frases",
+      "content": "<p>Associe cada áudio a uma das duas frases da mini rotina semanal.</p>",
+      "contentPlain": "Associe cada áudio a uma das duas frases da mini rotina semanal.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa reforça a escuta das duas frases centrais da rotina curta.",
+      "feedbackError": "Esta tarefa reforça a escuta das duas frases centrais da rotina curta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "107677af-8010-42d8-b058-312fe046521c",
+          "exerciseId": "3c47cf34-8357-4b84-963a-e8f943c84cf3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f48375f14a614d65bfc2ab4b2e399410_b01-los-lunes-estudio-espanol-a-las-siete.mp3?Expires=1794099467&Signature=U8D5TYpEWHNSoOvnPoBe~oA8CLo0yUrJ2d3vMXNgkFbSIK1oMaOO-fuZ-c6OV9z7u20CkqmXnFS9m~9Atx8sNguxMCTxv59FXRT0VIE4QnCX~EiUjydVK8cbYQzY~WQBf5zx3VawbS~BLw8nQ4fr4lzskIfu4XXLfJ1cX9RknfsAOLZZpT15iEJr4OSf84npKldvlGpxW44yEsB8Zc6hqUQi4CgYxpB5hq3r~BSaoilJWDtOxkC4XtrPPYy-b1NusZIBs0TTxly29dnhPzD9~mXISCM6DGvOYSUzfy63nDDJKddhzhL4kmiDp0wUTOo713Z~kMo2qVZX9FGkNc3~Ew__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Los lunes estudio español a las siete.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "94482ce5-a2a0-4642-b4ad-7a1da19308dc",
+          "exerciseId": "3c47cf34-8357-4b84-963a-e8f943c84cf3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb4bc098fce64a98ba65523b71bf3a2b_b03-los-miercoles-tengo-clase-a-la-una.mp3?Expires=1794099467&Signature=OPQmjntMH-Ibx0pEJVfR0bWJDmGc0~l1NjHzGksfp~0KtVdf8IGfqkDk2noE0sqdivBJkRONEXjlfHBx06RVRULKcsoslkte-MrAPyuvZgJe~F9kRoefNHM-4Z2Smnie6OqqWzrohtTxlnXcx9i8PgrkWw7sdPFb5PxcpQD~d-NLPkjFwdEfTuN6Z2A4kp6PuifCfQGoh63ByfpqdojeeSqSsUjrf9O-277elHV~ti4CiU5t8i7nS1b4oAfGL-dumFj0FToddYQu3Br5oGFwsFXn-nRnfP-3CDCXPGhosPLAebta3VGZt-Y2PjHZH3QQhmLZ-tHWOIjdTsD3ZWthmA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Los miércoles tengo clase a la una.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "83a37165-a1e1-48e9-b209-b85764ea9850",
+      "title": "Ligue parte e sentido",
+      "content": "<p>Relacione cada trecho da frase-modelo ao significado que ele traz na rotina.</p>",
+      "contentPlain": "Relacione cada trecho da frase-modelo ao significado que ele traz na rotina.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa organiza dia, atividade e horário na frase curta de rotina.",
+      "feedbackError": "Esta tarefa organiza dia, atividade e horário na frase curta de rotina.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1a4b3f1f-2809-43ae-9475-74a61335444a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "83a37165-a1e1-48e9-b209-b85764ea9850"
+        },
+        {
+          "id": "5b0c1650-442b-4547-911b-44944ebf90de",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "83a37165-a1e1-48e9-b209-b85764ea9850"
+        }
+      ],
+      "associations": [
+        {
+          "id": "95d96af2-7037-4ca7-9f37-e660bea9421d",
+          "exerciseId": "83a37165-a1e1-48e9-b209-b85764ea9850",
+          "leftContent": "Los lunes",
+          "rightContent": "às segundas-feiras",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0071087e-34ab-4394-94f5-dcfd1abc22fa",
+          "exerciseId": "83a37165-a1e1-48e9-b209-b85764ea9850",
+          "leftContent": "estudio español",
+          "rightContent": "estudo espanhol",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c846e822-6101-46a5-8ec7-508b9f24173a",
+          "exerciseId": "83a37165-a1e1-48e9-b209-b85764ea9850",
+          "leftContent": "a las siete",
+          "rightContent": "às sete",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "46539fa6-bc00-480f-8f32-2968f2aa8153",
+      "title": "Complete o dia",
+      "content": "<p><strong>Los _____ estudio español a las siete.</strong></p><p>Tradução: Às segundas-feiras eu estudo espanhol às sete.</p>",
+      "contentPlain": "Los _____ estudio español a las siete. Tradução: Às segundas-feiras eu estudo espanhol às sete.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma como a frase de rotina começa pelo dia da semana.",
+      "feedbackError": "Esta tarefa retoma como a frase de rotina começa pelo dia da semana.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lunes",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2754f7a3-0add-42b5-9b6c-7bcdd7f653b8",
+      "title": "Reconstrua a rotina",
+      "content": "<p>Ligue cada início ao trecho certo para recompor as duas frases da rotina semanal.</p>",
+      "contentPlain": "Ligue cada início ao trecho certo para recompor as duas frases da rotina semanal.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa recompõe as duas frases centrais da rotina com menos apoio.",
+      "feedbackError": "Esta tarefa recompõe as duas frases centrais da rotina com menos apoio.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "84477f09-5eb5-46ff-8b99-bf3c4c57c351",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2754f7a3-0add-42b5-9b6c-7bcdd7f653b8"
+        },
+        {
+          "id": "c36e88f5-ebab-4b44-b4c9-77a89fb3f02c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2754f7a3-0add-42b5-9b6c-7bcdd7f653b8"
+        }
+      ],
+      "associations": [
+        {
+          "id": "c7657fdf-a809-444c-8d91-aa3c45c8affa",
+          "exerciseId": "2754f7a3-0add-42b5-9b6c-7bcdd7f653b8",
+          "leftContent": "Los lunes",
+          "rightContent": "estudio español a las siete",
+          "sequenceItem": 1
+        },
+        {
+          "id": "672e770c-beb4-4cad-97c1-5fa0014c17a8",
+          "exerciseId": "2754f7a3-0add-42b5-9b6c-7bcdd7f653b8",
+          "leftContent": "Los miércoles",
+          "rightContent": "tengo clase a la una",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "4454b39c-9450-414e-9195-2546b341c5fe",
+      "title": "Recupere as pistas do áudio",
+      "content": "<p>Cada áudio traz uma das frases finais da aula. Associe cada um ao conjunto correto de dia, atividade e horário.</p>",
+      "contentPlain": "Cada áudio traz uma das frases finais da aula. Associe cada um ao conjunto correto de dia, atividade e horário.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa recupera as combinações de dia, atividade e horário na rotina semanal.",
+      "feedbackError": "Esta tarefa recupera as combinações de dia, atividade e horário na rotina semanal.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "8d22a199-8b28-4060-8280-9756c0036dbb",
+          "exerciseId": "4454b39c-9450-414e-9195-2546b341c5fe",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f48375f14a614d65bfc2ab4b2e399410_b01-los-lunes-estudio-espanol-a-las-siete.mp3?Expires=1794099467&Signature=U8D5TYpEWHNSoOvnPoBe~oA8CLo0yUrJ2d3vMXNgkFbSIK1oMaOO-fuZ-c6OV9z7u20CkqmXnFS9m~9Atx8sNguxMCTxv59FXRT0VIE4QnCX~EiUjydVK8cbYQzY~WQBf5zx3VawbS~BLw8nQ4fr4lzskIfu4XXLfJ1cX9RknfsAOLZZpT15iEJr4OSf84npKldvlGpxW44yEsB8Zc6hqUQi4CgYxpB5hq3r~BSaoilJWDtOxkC4XtrPPYy-b1NusZIBs0TTxly29dnhPzD9~mXISCM6DGvOYSUzfy63nDDJKddhzhL4kmiDp0wUTOo713Z~kMo2qVZX9FGkNc3~Ew__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "los lunes / estudio español / a las siete",
+          "sequenceItem": 1
+        },
+        {
+          "id": "34a50ef4-4636-4964-b998-d3d8272c1d37",
+          "exerciseId": "4454b39c-9450-414e-9195-2546b341c5fe",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb4bc098fce64a98ba65523b71bf3a2b_b03-los-miercoles-tengo-clase-a-la-una.mp3?Expires=1794099467&Signature=OPQmjntMH-Ibx0pEJVfR0bWJDmGc0~l1NjHzGksfp~0KtVdf8IGfqkDk2noE0sqdivBJkRONEXjlfHBx06RVRULKcsoslkte-MrAPyuvZgJe~F9kRoefNHM-4Z2Smnie6OqqWzrohtTxlnXcx9i8PgrkWw7sdPFb5PxcpQD~d-NLPkjFwdEfTuN6Z2A4kp6PuifCfQGoh63ByfpqdojeeSqSsUjrf9O-277elHV~ti4CiU5t8i7nS1b4oAfGL-dumFj0FToddYQu3Br5oGFwsFXn-nRnfP-3CDCXPGhosPLAebta3VGZt-Y2PjHZH3QQhmLZ-tHWOIjdTsD3ZWthmA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "los miércoles / tengo clase / a la una",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "9d2436d0-5791-4200-bc0f-8b33c6f33c4c",
+      "title": "Ouça as pistas da rotina",
+      "content": "<p>Foque nas palavras-chave de dia e atividade nas duas frases e marque somente o que aparece no áudio.</p>",
+      "contentPlain": "Foque nas palavras-chave de dia e atividade nas duas frases e marque somente o que aparece no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1dc4b5adc8184b148270c9f61e5f126d_b05-rutina-corta.mp3?Expires=1794099467&Signature=pLxC0mifp~mL8sJX8xxzLpDjuJsHK2KPw91VQw~zHPuzC9EGfuU0G7WDPZ06NJTfyh6XiGUeG7C5VAOW4A-yzxBXN5gdqH886-vdnYdhVVrI4OyXD9Re1KTIFlTpa8ry1osr~nw8KNRRjdpeChVUSS3Si1limLS4Xg6ZOdByo43e8fuCDLjygVMfGPPW5idqA2WBB0YQPmJMYTzO4YJ3yykUL~55gmtMgUG6EL8WSzQNKUQLzSlxDvYC10npqR~KFyuYlwVoppUfAdz4syHGbvSL-zWmMcoUFDw1HDjxJuEKK1csKgPZpa56-7gt6nVx1vkRXLc2os4HHpd4mO34IA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa reforça a escuta das pistas centrais das duas frases da rotina.",
+      "feedbackError": "Esta tarefa reforça a escuta das pistas centrais das duas frases da rotina.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "11a0d536-2f87-45e1-9a57-ce264c67ec8e",
+          "textContent": "miércoles",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9d2436d0-5791-4200-bc0f-8b33c6f33c4c"
+        },
+        {
+          "id": "16d5d737-6c8f-4fb8-9acf-401f1f14d024",
+          "textContent": "estudio",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9d2436d0-5791-4200-bc0f-8b33c6f33c4c"
+        },
+        {
+          "id": "74c7d290-b03b-4961-9171-e1e9c887fa3a",
+          "textContent": "martes",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9d2436d0-5791-4200-bc0f-8b33c6f33c4c"
+        },
+        {
+          "id": "8082779b-c13d-479d-8b71-f220c4e0da85",
+          "textContent": "lunes",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9d2436d0-5791-4200-bc0f-8b33c6f33c4c"
+        },
+        {
+          "id": "85599438-b8df-459c-b795-157c50bff12a",
+          "textContent": "ocho",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9d2436d0-5791-4200-bc0f-8b33c6f33c4c"
+        },
+        {
+          "id": "a7f06d3d-b030-4a85-bb87-bd514a1fee98",
+          "textContent": "clase",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9d2436d0-5791-4200-bc0f-8b33c6f33c4c"
+        },
+        {
+          "id": "cde8208a-28f0-4c8a-9e0a-0ce9b3b554f7",
+          "textContent": "trabajo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9d2436d0-5791-4200-bc0f-8b33c6f33c4c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7da39c08-3b27-4486-86d7-901956b998f4",
+      "title": "Complete o horário",
+      "content": "<p><strong>Los miércoles tengo clase a __ una.</strong></p><p>Tradução: Às quartas-feiras eu tenho aula à uma.</p>",
+      "contentPlain": "Los miércoles tengo clase a __ una. Tradução: Às quartas-feiras eu tenho aula à uma.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a forma a la una dentro da rotina semanal.",
+      "feedbackError": "Esta tarefa retoma a forma a la una dentro da rotina semanal.",
+      "answerType": "buildWord",
+      "expectedAnswer": "la",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Ganhar fluidez ao falar da rotina"
+}

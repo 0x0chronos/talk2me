@@ -1,0 +1,567 @@
+{
+  "attemptId": "49d3dd8a-5482-4e2d-b8ee-8b9039c07b67",
+  "exercises": [
+    {
+      "exerciseId": "659ab0b0-6f63-4ba8-bbe4-f8a4d7024fa7",
+      "sequence": 1,
+      "lessonId": "034f2a04-0403-4a0b-b26b-73c3eb0a5201",
+      "title": "Recupere os possessivos pelo áudio",
+      "content": "<p>Escute a recapitulação completa e marque só as palavras que indicam de quem é cada grupo.</p>",
+      "contentPlain": "Escute a recapitulação completa e marque só as palavras que indicam de quem é cada grupo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6632651942494ce19383700859afdda4_b10-mis-tus-sus-amigas.mp3?Expires=1794099424&Signature=DTk1vmLG~0~EgWogzAs0Z0PQm8RXAHsH~9kRmhzlCzlJDI7~uLA8Vhqvoyg~ee6VXXwzXsw~BOr4pIuHOFUjfxLIcLgXnsMDqswr~kA9dNA089KvZLxntc6ZWvZJRNziMCaofq0GEHqkDwrgT7AgmRjoXsK7cU6fuE9DYzXNie0AbbqSYSb5~aClMdD7gM~GuQRcJ7BUzWhQLJlVAH9ZBgmllefiWFKfb06PYbu38M1jk~K1voBdDbUshYTepTCepFiL10yARk2MH2eGVH79hDHLgUa3BKYv0E8L5J~X0oz6UUfcabt04J9GkO9XhAaVnFvcZtxJ4LqfTSBhpxDxyA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A recapitulação final reúne mis, tus e sus para contrastar três pontos de vista no plural.",
+      "feedbackError": "A recapitulação final reúne mis, tus e sus para contrastar três pontos de vista no plural.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "15ebfca6-9c8a-47e9-806c-55a25511ee93",
+          "text": "mi",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "25a8d950-c61b-43fd-ab8c-77a33aa1070c",
+          "text": "tu",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4c5d764f-6ae1-47ea-9dd3-4879bddcc3d0",
+          "text": "sus",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7f61d206-c5ce-4703-a5f4-1c5a178297bd",
+          "text": "mis",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f5a5b7c2-4eed-4b11-9da5-17d1f4e40e82",
+          "text": "su",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fb48246f-7cf9-44ba-b3d4-9dca1728c710",
+          "text": "tus",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "61216597-71cb-4b79-90c5-874d045d793f",
+      "sequence": 2,
+      "lessonId": "5ad00d41-657f-4f91-b28c-a9ba25ea5a36",
+      "title": "Recupere a resposta curta",
+      "content": "<p>Escute a resposta do microdiálogo e marque apenas as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a resposta do microdiálogo e marque apenas as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9c4cdd4f5b804c7189cf2a7763b8f89e_b10-d05-si-muy-sociable.mp3?Expires=1794099424&Signature=ri-06ot9EaBKTS~0HD6YQjsLP4hVUCIq~kfxQ65RKGDeJlECmRxiqOabJLJC4CmasZoqRwUrBm25lPdHqvBELjfpQMJxpbTyiLkesPI2~iO00CXPRE1xhw8CZ47~Fk-9KxelKxVyySjB~6qYvydcq0NZG-L18flU7c0oPOsEHUT0ftTYHlaR-zEwNkSd4FDoFjCSwmMZFy10U6rWUV1O5MHRrxvwKCx3NI3NEb5XavBx2~JKkpHXgxg4yJnfavzn~mbs39IAD-8aJwu~Engk7jcqLIBVy69CuaOnfHtZ0BGr-GA9mLFojo4DsWYmuCiVdre9umWBXgNnO38ck3MdYA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, muy sociable reforça a descrição de Camila em uma resposta curta.",
+      "feedbackError": "No diálogo, muy sociable reforça a descrição de Camila em uma resposta curta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2372d4b3-aae1-444f-9e56-f5b020afaf83",
+          "text": "muy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2445ce49-b5b1-4032-9f9f-7c20e8ce7ad7",
+          "text": "mateo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4097e504-4c79-43ed-94c3-5ba3993740da",
+          "text": "sí",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ec16c7fa-2d6e-4882-84e6-80257d72b518",
+          "text": "sociable",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f29d6ed7-a8a6-4a2b-9064-41c63967c24a",
+          "text": "seria",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c73a7988-8f2c-4165-b21e-a271c76bd70b",
+      "sequence": 3,
+      "lessonId": "42a840cb-1af4-4b46-906c-7aa32f55edde",
+      "title": "Complete a forma",
+      "content": "<p>Complete a frase em espanhol: Nosotras _____ serias.</p><p>Tradução: Nós somos sérias.</p>",
+      "contentPlain": "Complete a frase em espanhol: Nosotras _____ serias. Tradução: Nós somos sérias.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui `somos` marca que quem fala faz parte do grupo.",
+      "feedbackError": "Aqui `somos` marca que quem fala faz parte do grupo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "somos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "978f061f-900f-44cc-bfbe-4fffdb32ab72",
+      "sequence": 4,
+      "lessonId": "4225ea2a-2e5e-4a61-ac99-75c7dc23a18b",
+      "title": "Complete o primeiro perfil",
+      "content": "<p>Nora es ________ y alegre.</p><p>Tradução: Nora é sociável e alegre.</p>",
+      "contentPlain": "Nora es ________ y alegre. Tradução: Nora é sociável e alegre.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma o primeiro perfil da aula com os dois traços de Nora.",
+      "feedbackError": "Esta tarefa retoma o primeiro perfil da aula com os dois traços de Nora.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sociable",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c41cbaef-055e-497a-bc8a-9420bc72484b",
+      "sequence": 5,
+      "lessonId": "e459795f-dd42-4eb3-8680-3bbbf69014fb",
+      "title": "Recupere a palavra",
+      "content": "<p>Clara es ________.</p><p>Tradução: Clara é sociável.</p>",
+      "contentPlain": "Clara es ________. Tradução: Clara é sociável.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, sociable mantém a mesma forma no singular ao descrever uma pessoa.",
+      "feedbackError": "Nesta aula, sociable mantém a mesma forma no singular ao descrever uma pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sociable",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6cce70da-2d54-41b7-b9bb-9497c1112f32",
+      "sequence": 6,
+      "lessonId": "99c0df78-8c56-4484-bbd8-4d3a9b6c1ff4",
+      "title": "Recupere a descrição pelo áudio",
+      "content": "<p>As três versões são parecidas e mudam só no modo de encadear os traços. Ouça com atenção e combine.</p>",
+      "contentPlain": "As três versões são parecidas e mudam só no modo de encadear os traços. Ouça com atenção e combine.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula trabalha a fluidez em passos: um traço, dois traços na mesma frase e dois traços em frases curtas.",
+      "feedbackError": "Esta aula trabalha a fluidez em passos: um traço, dois traços na mesma frase e dois traços em frases curtas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "1d10b491-da93-487f-94cc-7ef7daa4607c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/405f6ec4e35d499b9e026ef79dfe43c2_b04-soy-trabajadora.mp3?Expires=1794099424&Signature=iNETe09ZlycjIWnFUVHdTymOrg4Wmk2-lRhw8MLExZf6vMd-rVHQm5QE0OetHIw2uurkI7S4pavfJWwTT9B0E53vR8LlBrItmBU3ZBPhX59rEq19KU5NzWnhyaWKgC8E3F-fOjdGZDS8iTau-FVrRTyt0hcjlBuebgLcWPded3YHeDvKBm4WbzRUJBcT2chegIJSXOalEtQCCnNxG9fgKONg2fuT1vRNWoJPufBYQPHbBsm8lIygl3oy~MV9jJEVPTJsvjeMrduAla1RllyU2rXBet-7NSoS8-WouN6y2-7KtXvS97~WnPKP5tgyPKlZ6qeYtcrTqo01MgFd8qiCiA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy trabajadora.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b7dbf251-9bfd-40aa-8235-f872c75726c1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a0864ea927d4d2e84737eca94086b69_b07-02-soy-trabajadora-y-sociable.mp3?Expires=1794099424&Signature=mWi~o0BpcX2GlA9nzuWS~eAap4AXlu9cna7iCypCtkDK8-V5bIX6y7NQT0rqW-uo-GDOdK-0fclYHjFq1mCQnM5Cz8VNELM6EBfsjrcBXp8Cp6nDMagbrAjkIPAuGlcNSPOnuk7N~xcinZbunz6nD5O81a9tO~AInC9jXRPlT9u99GiT7hzqQWDuJiZtXR0SUzEVFFYw9AB5bBdfWOgIhFsl~4VHfO1Hf0LV-0iYTq1iy9qtDulKxVzm9WC56XxgeMiQZyQNtfI1R29zLwnI1UNh6Y9dVtndxhVMFSuETZ8r3Db6VIQBOczHUtVJperQL6FTY3W98jGulXbpwSsXAA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy trabajadora y sociable.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "edbd9f4b-ce1f-410a-a1d0-9581f573eea1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fc4c3cea72314eacad76e97c3981d2fb_b07-03-soy-trabajadora-soy-sociable.mp3?Expires=1794099424&Signature=fQ8wyPAO52Fbm7kA49uvR~jatr89~dG6-nSoCLdH3-aR7zSzUuNMNHHrZesG6OjccHC233GoedBkib7yEJBq0UyPfKXR9Y1CaLDPKobYo3rmygFDK0eFtFUXRPSLmmTsBaMZd0Om96CRpBhTSltyFynMzIf80rn~QHS0TXN4N6aK1rXXGxaAoYyRnpo0YkkQ5dIYPx-fNPtJKiI-PY8V~Gf9U0FxMPOY5RxPRuShyIuhBpqsct9olN8rR9gPDfBFj82uYGOp6qi9P~WU5XWbYJcHbi68PYiRHvkHqKXL8NXKnrHnvXyeaOXFypyYJmdPsXFEj5-HPibOOtYJ3Xzswg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy trabajadora. Soy sociable.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "05b086bf-58a9-4f24-ab50-6f37e45184b4",
+      "sequence": 7,
+      "lessonId": "034f2a04-0403-4a0b-b26b-73c3eb0a5201",
+      "title": "Complete a frase sobre o grupo da pessoa com quem você fala",
+      "content": "<p>___ amigas son sociables.</p><p>Tradução: Suas amigas são sociáveis.</p>",
+      "contentPlain": "___ amigas son sociables. Tradução: Suas amigas são sociáveis.",
+      "fileUrl": null,
+      "feedbackSuccess": "Tus marca o grupo da pessoa com quem você está falando.",
+      "feedbackError": "Tus marca o grupo da pessoa com quem você está falando.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tus",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "625d1c6f-3f50-45ed-bf57-84c818fb15b1",
+      "sequence": 8,
+      "lessonId": "99c0df78-8c56-4484-bbd8-4d3a9b6c1ff4",
+      "title": "Ouça e recupere a frase",
+      "content": "<p>Agora a descrição vem em uma única frase. Marque apenas as palavras que realmente aparecem no áudio.</p>",
+      "contentPlain": "Agora a descrição vem em uma única frase. Marque apenas as palavras que realmente aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a0864ea927d4d2e84737eca94086b69_b07-02-soy-trabajadora-y-sociable.mp3?Expires=1794099424&Signature=mWi~o0BpcX2GlA9nzuWS~eAap4AXlu9cna7iCypCtkDK8-V5bIX6y7NQT0rqW-uo-GDOdK-0fclYHjFq1mCQnM5Cz8VNELM6EBfsjrcBXp8Cp6nDMagbrAjkIPAuGlcNSPOnuk7N~xcinZbunz6nD5O81a9tO~AInC9jXRPlT9u99GiT7hzqQWDuJiZtXR0SUzEVFFYw9AB5bBdfWOgIhFsl~4VHfO1Hf0LV-0iYTq1iy9qtDulKxVzm9WC56XxgeMiQZyQNtfI1R29zLwnI1UNh6Y9dVtndxhVMFSuETZ8r3Db6VIQBOczHUtVJperQL6FTY3W98jGulXbpwSsXAA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta aula mostra que a fluidez também aparece quando dois traços entram na mesma frase com y.",
+      "feedbackError": "Esta aula mostra que a fluidez também aparece quando dois traços entram na mesma frase com y.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "227bf526-0d4e-49b1-a63a-4e180479a701",
+          "text": "y",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2ef91642-bf5b-4506-93b4-ca810a4a31b0",
+          "text": "sociable",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "333092ad-aaed-4258-9c6c-eeb9e64230d9",
+          "text": "inteligente",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6827d064-df82-400d-b2e3-aec11d50f171",
+          "text": "soy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a7bd29c2-2665-4e14-a84e-749c107339ed",
+          "text": "seria",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b5eabc86-dc07-4b31-8407-c88940a8293e",
+          "text": "alegre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d476f2b2-d850-4720-900b-747ca78b497d",
+          "text": "trabajadora",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "4a9661f9-86af-425c-8e72-ad48904342d2",
+      "sequence": 9,
+      "lessonId": "99c0df78-8c56-4484-bbd8-4d3a9b6c1ff4",
+      "title": "Associe descrição e organização",
+      "content": "<p>Relacione cada versão da aula ao jeito como a descrição cresce.</p>",
+      "contentPlain": "Relacione cada versão da aula ao jeito como a descrição cresce.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula trabalha a fluidez em passos: um traço, dois traços na mesma frase e dois traços em frases curtas.",
+      "feedbackError": "Esta aula trabalha a fluidez em passos: um traço, dois traços na mesma frase e dois traços em frases curtas.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "88498dc0-32f7-4452-938e-c382e06ad730",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d73e5e8b-a2b0-48db-af73-e5a0228fa8fa",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "6f63d3a5-abc0-4923-9365-34c239d06b4a",
+          "leftContent": "Soy trabajadora.",
+          "rightContent": "uma característica só",
+          "sequenceItem": 1
+        },
+        {
+          "id": "83a70a0e-8b41-4310-9fd2-4d3c4d4addf4",
+          "leftContent": "Soy trabajadora y sociable.",
+          "rightContent": "duas características na mesma frase",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1b78b033-0faf-4669-b07c-086b257026ad",
+          "leftContent": "Soy trabajadora. Soy sociable.",
+          "rightContent": "duas características em frases curtas separadas",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "e91d551a-6d1c-4ffd-9c24-08e49d300d49",
+      "sequence": 10,
+      "lessonId": "5ad00d41-657f-4f91-b28c-a9ba25ea5a36",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Ouça três falas do microdiálogo e ligue cada áudio ao texto correspondente em espanhol.</p>",
+      "contentPlain": "Ouça três falas do microdiálogo e ligue cada áudio ao texto correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O microdiálogo recompõe três descrições curtas com o mesmo molde da aula.",
+      "feedbackError": "O microdiálogo recompõe três descrições curtas com o mesmo molde da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "23bd9f79-54de-485c-8b91-d593c191bdbf",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/aec965132d67497ea967fbd7490bff68_b10-d02-mateo-es-simpatico.mp3?Expires=1794099424&Signature=EiK0QYqS1pFsYrzFK1jVOGWxJ32HcIKVgUdYsH28jZRNbIItodEjeATZP2hwXAsq7FolKq~ADs2QN-fNJbQwdK1C2W7r~IPi80JjRXOrlxXP6LA6qEi2PENaMJf~tIfRXiM7bt59cr9Vg-7f40UIjgkFsETMJ77k9Z47ZvxlqbZzRdm1CY9dFsClNMjXcqbr0wW4~Amq27-5ItsazKifkQ6cqUv9deyRSVnvQzcigD3UlHreWvMLhwaO6UfxB9klI5bHTxgDIDkMKeGSC-6YDQPxHE8yQAI0dPDtr6qVkMy7YW9Q57MKzoAuaq43ky~IshVn~UOUHCnQwEkijPk1UQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mateo es simpático.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "68c7efaf-81d7-44e4-91fc-2d34104c3ac5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/737290183ea44d53ac16e7e2970566b0_b10-d03-si-irene-es-seria.mp3?Expires=1794099424&Signature=D4c8jy0ijiTHN-rm1T524tA3gI-SAtrL-qiNFpDwyOJJ8~tw8lxU-vazmDlpF7vY1eHZ1BzPL61IXfjuOr0MsB4oGhHUfkRTugoPGrCQaIZhv-OV3o1xC7xsmSyrjbWhrQx~FbAjoTIeycbiItQ71xEBjD-0a~0v6xeGmWMn9gI9YPKnXBT9tpWiFSJBvoiYmqHWwwXSmB8P66146VDqbs8yJFsQO99Q2c6OF3cYUqrIpIMU1GYPTOx3z~35AC7bSuY9yWk8BNaW0uiciEy-KM5RCi4jweT-SCrJega~GkSIFOuXRi8anUffpxykty4Zfy6jFIpM6qLWty0Ct8os3Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, Irene es seria.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "87005f82-41f7-4ca4-b832-d9f1c2e9b9d2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cce5841cc2e8468c9f51d63be28cdd64_b10-d04-y-camila-es-sociable.mp3?Expires=1794099424&Signature=xpk4sL3YxiTJLSv4h5EUT9cb3BjvdAeDLIaGMvAQ8C8xGo3AuyxOhL94EsbPafTA8ieeM6y5bEiQvOzkm4ZtvIbgqH5rKMUra8kBJr-U0av3wCyps1Iqq9CFfPHLeHjsmkSPLKQxvEuxslc-GQcyhIfHzNCw1whsIb0W7i3Ru5G4eBIr4F631SYQk5tZMebQxdfWQ~vpBOI2qWXHOy55BXKUNbYa-yZzgk-H7XYcwExgBmQOOI9KLBUeeR-2ediPcC6EdXrYkc9UTfZPz9SE4nDJVmY4AE03sGT8Z4X7MNiqLYkeyyY9ZAoksEbjxJEJCXlbqziDh3QqjNSirNQYaA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Y Camila es sociable.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "234c026a-03a1-4549-8dfe-b7c9516bfc18",
+      "sequence": 11,
+      "lessonId": "4225ea2a-2e5e-4a61-ac99-75c7dc23a18b",
+      "title": "Recupere as frases pelo áudio",
+      "content": "<p>Escute cada áudio e ligue-o ao trecho correspondente em espanhol.</p>",
+      "contentPlain": "Escute cada áudio e ligue-o ao trecho correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a sequência da aula: dois perfis e um ponto em comum.",
+      "feedbackError": "Esta tarefa retoma a sequência da aula: dois perfis e um ponto em comum.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "15448779-6827-4c7c-ba52-3b189328d582",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0b3e5dba3712491caf15bb58525b0162_b02-nora-es-sociable-y-alegre.mp3?Expires=1794099424&Signature=Kzy1Ty5cZ7KaIar6DRe5~ozniFrfOECqxfv3qABW408x03xeYX9unhDtpvpdOSveMB9bGRnaQCeitOo0oZ22RVNzJB3nirZ2YPd6rMv1vzZxCXRphIhWIRTjNfVtsqeUA1oN9QeToMjlTsLyEbgpfB6VC91tN3gqikFOKZI3q8CLAZhaqKmfSFg~SrMJSB7nml8hpzKumN1m3aC8NPCHSl~Ouh-pQkvg8frVLGh5JamuDA18buxVZma0KiRD6oYlpAttCD5hWwmpko7eVocwAa2tL4AV1Sf6i53qVFLjJE6TXW1TUwdC3~vN9cXwaxUKJxiQuSd2waPminlHr5-ezQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Nora es sociable y alegre.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5bc889b7-b811-4d1d-bdce-84e22c07447f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cf0705c1cb7046b196acc1773ebfa091_b04-vera-es-seria-y-trabajadora.mp3?Expires=1794099424&Signature=m2gXbYUKZI4475jkqH8wQ1OnMmXlmY3fHQ8HVZatJSojE6xl4kBquMpuJ9G48Rg6VoLe5TuIK44aofiDUoI5BBpSekqDydRSPIl4ahkx4Dy94PY-djn-wL5aAPik3A9r-17t94bvUQMf1JmV0GmbLr5V~yLc86gM1Paolbe2bLnjmWQdL4EGOnvEjjLG5X2a3fwp3F2Gf7msuFUse80A6Y9VFAfhe65NvpLAJjWu~uPBwYcTxAGs-8uhxGbyRTe~DB-FLsJcvKPdZuErvhbHFckUp84AlSJglEr0p1xabQXLHvcCurWpWV59b0J0rXFilT3PlJ5bvnLx-jdh4cbiRQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vera es seria y trabajadora.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c731b09c-58f5-4640-a116-05cd2056a968",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6f055516e3fe4cf990575bd4e3785343_b06-nora-y-vera-son-inteligentes.mp3?Expires=1794099424&Signature=D1sVhzHAOqy0q~10lmUF9s5EIt10lgvsF5m302YFyj0AKrjkc~KW6PDcfajXNZ5coJ-vETW-inxhMFXk9QHvyIzAs4UauV41tow~~h71cIG5yi6iJqOC22TXg38qSb5NRZ3M233sqVrEnOS2I1XlZ8Boy6zNGjBCRvpctZzOX~FiwXbtzsnMwDda3fvU3vuFdNNMGQeHtrae8WLVf~un3GUTEwBrtOm3AWCoy~WYJr-o91W1T6DL~X2OqdL~7P36aiKewv3J8U53EhoSPX30aTJCDJebCRjb0heIFkkCqC8d9w2zvOkmeq1zXkX-luHcU39IThIY1NdTmg0Vg9GaMw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Nora es sociable y alegre. Vera es seria y trabajadora. Las dos son inteligentes.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "bd6abcba-92a7-406f-b683-ec59787d06fa",
+      "sequence": 12,
+      "lessonId": "e459795f-dd42-4eb3-8680-3bbbf69014fb",
+      "title": "Ligue situação e frase",
+      "content": "<p>Combine cada pista em português com a frase em espanhol que melhor descreve essa personalidade.</p>",
+      "contentPlain": "Combine cada pista em português com a frase em espanhol que melhor descreve essa personalidade.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, as descrições curtas combinam ser com adjetivos de personalidade no singular e no plural.",
+      "feedbackError": "Nesta aula, as descrições curtas combinam ser com adjetivos de personalidade no singular e no plural.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "636ceda1-535a-408b-8778-c90ea78aa01c",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ad379d15-57e4-4f61-916c-63daadf6701a",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "047e05c4-b902-431f-a887-61d640b10c65",
+          "leftContent": "uma pessoa que conversa com facilidade",
+          "rightContent": "Clara es sociable.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5387f98d-3dc5-4b02-b8b0-7e00b34c6b22",
+          "leftContent": "uma pessoa com energia leve",
+          "rightContent": "Nora es alegre.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "9ff09152-bacc-475f-ab8c-2c2faef693a9",
+          "leftContent": "várias pessoas que aprendem rápido",
+          "rightContent": "Ellas son inteligentes.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "3edb8d2a-7575-400c-8909-7b3741aff585",
+      "sequence": 13,
+      "lessonId": "4225ea2a-2e5e-4a61-ac99-75c7dc23a18b",
+      "title": "Complete o ponto em comum",
+      "content": "<p>Las dos son ____________.</p><p>Tradução: As duas são inteligentes.</p>",
+      "contentPlain": "Las dos son ____________. Tradução: As duas são inteligentes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a frase que une as duas personalidades no final.",
+      "feedbackError": "Esta tarefa retoma a frase que une as duas personalidades no final.",
+      "answerType": "buildWord",
+      "expectedAnswer": "inteligentes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "cd3e84c0-b268-414d-a5d8-cfd0556c7d02",
+      "sequence": 14,
+      "lessonId": "034f2a04-0403-4a0b-b26b-73c3eb0a5201",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Ouça os trechos do diálogo e ligue cada áudio à frase certa em espanhol.</p>",
+      "contentPlain": "Ouça os trechos do diálogo e ligue cada áudio à frase certa em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula recombina mis, tus e sus em comentários curtos sobre fotos.",
+      "feedbackError": "O diálogo da aula recombina mis, tus e sus em comentários curtos sobre fotos.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "2c7345e0-30c5-4b5f-8eb5-61c1314d107d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6b00c5629f2d4ed4bf81c64e8a4c2c62_b08-d01-mira-esta-foto-mis-amigas-son-muy-alegres.mp3?Expires=1794099424&Signature=zgxWGqKXU17DToutD-8e~Qxcv7XST52n4HzzcSfxXfan56r4Vcd5EerMhP326hb~PVbvijXp09PIAQCcRYWUXVwwAl17DsmEcXBUmFVNz2kYehmLNVd4Uf1om~9b2fg~prvQ3qijjVsgXWBoZM4SRpqeYkzjvM~Oe0Lt1~NXekec3Eh8PFLYYPsMsG3OWa26bkCzx6BCrtvu5M~FCkoek~EwHnqSGm7sfqTfPhGCC71CuqrgGMyolITytPR2i-LR2vJkSeEm8Gno~up1tJ6JL5fmjeH~HwmFef0YuzQ5eDqrQlLxB8rg-Uw6HfGNrVVLITUFib0osiLDLTkhPiLBVA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mira esta foto. Mis amigas son muy alegres.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "cb14d539-0b61-478e-9472-29a09bec2145",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b02fa30f150640d7b9e9ecd884c0ff46_b08-d02-si-y-tus-amigas-son-sociables.mp3?Expires=1794099424&Signature=Opxb~XGDfjIzOt9nl~sOqFFq957fxtLYFwJXtMvmbc4PtT6s0h4kc6rJPo17ZlVibV1nr845JOhPw1fPie4eYpOIzOI~RrWeP6jnFSmsOWC7awP98Ob5V02jfjjAKvufgsZxYKx1PZK~2VQipn19VnHSG7UGcrk-z0GiCuKmMYEhn7E7ilLF80hSRrFjZGeylSnYliN21iDt0lpUisJkSxqoAMvMTi6c6CQ2GVKBIbflJwdHLrKaTNWpRrfPc2erBOhbmPngxNqqxOzhSXgdXYt3vYKpEV-PlaH9ByoJ9PjAv-MHEWeflqGwp2VFD83HFbyt8gaEJKrxSn0E7fxvwg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, y tus amigas son sociables.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f9b9fdb8-0120-417a-b960-95f14d5e7447",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/173a9c3391f5498ba7bd9b667dbdaa55_b08-d03-en-esta-otra-foto-sus-amigas-son-trabajadoras.mp3?Expires=1794099424&Signature=XsfBfZ05OvxvD8dJPrIBQ~37jBvaRnVXDAuIt6E7JAZCbaspR9IA03uPTQ94ASQpnSf5~5kIs0KJxaPZ3OcPeWKeUTf4OXZhuQyUv3UREuPSrKKOmVuZ68QpfcZZHk-VKwrcI17gr5Siw0o67Xg07RO6Il5ukMelyv8yGtPkg1lY-2ZiYCchNOIIZbvsH3bZQO8p4iiCtR6SStXZXSV6uv97rmCOS8Qqy8M3QMHq0XJ5291QNMCbLgB4jk3EjLtjwYibH4jD3Mqva1dtXdh0ryi5-Q~zZvdNdF5bsygleSqVn6ZLy-jUGwsGtLiF4mjOCUpWX-NjEVSAVmoTmvqv8g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En esta otra foto, sus amigas son trabajadoras.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "ec4ed95f-860b-4221-ba3f-ff8c954450b4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ab5d900a1b4c46c9b30916d6a6703196_b08-d04-si-sus-amigas-son-muy-serias.mp3?Expires=1794099424&Signature=sqvx3-dE3U~I97Y3ufg5bBaMOc5GziJtcCFerYhFTMBqohxhzpYHAruckTJeLKGqgVPX1p9OoQVASVv9PfGadBRMst8IPAGa9oJrx8mNi1lo0Lmg-zwKJXCUKe24uDO8pXTZDVVidpogCCDUv-J-IcCpVqKcAmgZAByZnaXsnWRD66g2RhFucXscT-2NFxyfkJ6UcfG9FEKzt7OmluPwROyJxPQcWgL6I-OSbssxzgZe4JnKVUbm3rvKpjqya4-XHpjuxhtG-wc8D6NjoU9PJZuELFwaqPhLV9ZikuE95sjuFf28PSAA3vfYc~zyQ0YlY3v8aDrFifRFLB~7IOlW7g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, sus amigas son muy serias.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "c653742d-51fe-4d1f-b005-a750aa21a4c8",
+      "sequence": 15,
+      "lessonId": "42a840cb-1af4-4b46-906c-7aa32f55edde",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a frase sobre um grupo que está fora da fala e marque apenas as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a frase sobre um grupo que está fora da fala e marque apenas as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9d83a0bfc40248e88d6bd4129b8391cb_b05-ellos-son-muy-serios.mp3?Expires=1794099424&Signature=gecUbRGi7ouOyvGQ~cFewOlcDfe-vHKE2hi4HyJ0jS7u2wk0xq2X400ZhHUIk5OmG77pNMN6tA90KRCtsAke9ZCXxk4b0wwR1n9ohykifdGeqZbsfy~gWTzB~6mjxn~6RPDA7sLXlU4ctBLbdIJ1ssaS5gUHH7~su~IHxZXtcPGuBLkyVSOflln8bFUER-iDUNsWJHY8PmyXCdzfNIIAS88~NtstuLF4xrCPmXAOCpH69WeCJX9qjLUBdYd4TdB2EfZr9uA5sKORiHR4GWiqGPnxrUpIUf8o~gDMvRqClpDEIfxW6GomDtqyeIjQc2QG2keZy2CeTH2RCPoXrFx98g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta frase, `son` aparece quando o grupo descrito fica fora da fala.",
+      "feedbackError": "Nesta frase, `son` aparece quando o grupo descrito fica fora da fala.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2f3d601e-954a-41eb-9290-e2c6de216d0a",
+          "text": "muy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "67c6657d-8dc5-49b8-b076-7195768ec234",
+          "text": "somos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "88aa2f18-93f6-487a-bb5d-87771ec30b1b",
+          "text": "son",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9bfe7a95-1063-49a3-b392-b322f33bad6e",
+          "text": "sois",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cda26ba1-90b0-40b0-be7a-d80d39e7591f",
+          "text": "ellos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f1d653f0-c62b-4ecb-b408-d1e2d1ced344",
+          "text": "serios",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

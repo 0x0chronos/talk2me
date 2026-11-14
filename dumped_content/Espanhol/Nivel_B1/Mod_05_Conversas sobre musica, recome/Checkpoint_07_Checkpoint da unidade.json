@@ -1,0 +1,610 @@
+{
+  "attemptId": "8d506b5a-3fe4-4c8e-8076-3666cf550596",
+  "exercises": [
+    {
+      "exerciseId": "458841f1-cb8b-47e4-b854-31c9216e713e",
+      "sequence": 1,
+      "lessonId": "c7a7550e-5b55-4a0c-9a4e-95ae23360fae",
+      "title": "Ligue o contexto a recomendação",
+      "content": "<p>Recupere como o diálogo adapta a sugestão ligando cada contexto a resposta mais adequada.</p>",
+      "contentPlain": "Recupere como o diálogo adapta a sugestão ligando cada contexto a resposta mais adequada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ligar cada contexto de escuta à recomendação que melhor se ajusta a ele.",
+      "feedbackError": "Aqui o foco é ligar cada contexto de escuta à recomendação que melhor se ajusta a ele.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1c8cba1c-dc8d-4d2e-afe6-8ca29e0ff918",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "da4a910c-c0b3-41b9-ae2f-73cc9a2bab44",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "f033b81f-6025-43e8-b027-612a548bc5ec",
+          "leftContent": "Quer algo tranquilo para a volta para casa.",
+          "rightContent": "Te recomiendo la playlist Ruta de noche.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "6e6a21ba-592e-4309-b5b0-378632e8c1e9",
+          "leftContent": "Disse que prefere vozes suaves.",
+          "rightContent": "Deberías escuchar a Vera Luz.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "da0363a4-c3a5-4f7b-b372-3fb44269df31",
+          "leftContent": "Quer um ponto de partida concreto.",
+          "rightContent": "Yo que tú, empezaría por su último disco.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "cb6bb5dd-257f-4b61-b579-a9cc9d189751",
+      "sequence": 2,
+      "lessonId": "d0c7eba0-c61e-4f9c-8b0f-58a73d5722df",
+      "title": "Ligue o modelo aos efeitos",
+      "content": "<p>Relacione cada trecho do modelo final ao papel que ele cumpre para construir uma escolha compartilhada.</p>",
+      "contentPlain": "Relacione cada trecho do modelo final ao papel que ele cumpre para construir uma escolha compartilhada.",
+      "fileUrl": null,
+      "feedbackSuccess": "O modelo final junta gosto próprio, atenção ao outro, recomendação e fechamento.",
+      "feedbackError": "O modelo final junta gosto próprio, atenção ao outro, recomendação e fechamento.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "acdb8369-d20f-45b7-bdf9-0004b0dcda5b",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f416cb48-1497-467c-a127-8acd242f36cb",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "317ad37d-2f7d-40aa-8464-5183367b9014",
+          "leftContent": "A mí me encantan las canciones con letra clara.",
+          "rightContent": "marcar a preferência de quem fala",
+          "sequenceItem": 1
+        },
+        {
+          "id": "bec7c179-efa6-4c27-9605-a122765cf84a",
+          "leftContent": "sé que tú prefieres algo con ritmo.",
+          "rightContent": "considerar a preferência da outra pessoa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4b82d159-0ae1-440c-9579-2f6db826f9a3",
+          "leftContent": "Yo que tú, escucharía este disco.",
+          "rightContent": "recomendar uma opção",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c8bc2757-5caf-459f-84b0-62d3eb708923",
+          "leftContent": "Entonces, escuchamos este disco.",
+          "rightContent": "fechar a decisão",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "896bf218-0748-458c-a17e-6bb8771d6e81",
+      "sequence": 3,
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "title": "Recupere a resposta pelo áudio",
+      "content": "<p>Escute a frase completa e selecione apenas as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a frase completa e selecione apenas as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/995f6e8ca371424d8bbd618fcddef432_l01b03-escucho-pop-casi-todos-los-dias.mp3?Expires=1794099592&Signature=1sPevbS8quzJQPgQ5cRH1pURc1xxJ7vVDdmpTrUDqBVhEM4gZkKNCmDvkmFkjWNYz89nEz0nCT2qgl0BxqwPflNLEwHRy3ek5L3li3pCDx9~fK3KH6FcKyyz0Jz-cEIxODLW-4OTk9Bs-nLet7i-2dmZqpLGP9vvEx-V-cMFcTgqChInz5ETOBzevzVzM7PInxZaWQ3JI0BIKQqrrx8~VT2C-bQr73LgI8-Ao~OBz~BiDk30DkqqMJwjHnUktWv-rwzJknAjML5urbampbg3hm8asUGsHp9i~8hLnNW7CRlNhnIdAY-Oxo8n83BspD5MPAqePl41GTRAhg~OFuxQ4g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Escucho pop casi todos los días. junta estilo e frequência na resposta central da aula.",
+      "feedbackError": "Escucho pop casi todos los días. junta estilo e frequência na resposta central da aula.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "320191a6-2b98-430a-882e-55f678c78be4",
+          "text": "Escucho",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "482f0d35-15dd-4a3c-9ba9-ebf50754775f",
+          "text": "todos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "723a3994-fb30-4828-ba8e-22578bb9d327",
+          "text": "relaja",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "af760ece-d528-4da3-af03-9bc2e36ce7e8",
+          "text": "pop",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bf3e07f5-4ab1-4d26-85de-9d89e7d4fd73",
+          "text": "casi",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f6d5cf17-eeb9-4315-a283-194686ec620a",
+          "text": "días",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fbce2982-197f-441c-b534-faa8610cda7c",
+          "text": "porque",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "aa9b2664-fdf4-443e-8257-160d794aaeb3",
+      "sequence": 4,
+      "lessonId": "1ceb2a67-9f7d-443e-8248-94ac46f8abb1",
+      "title": "Classifique os comentários",
+      "content": "<p>Associe cada comentário completo ao tipo de leitura que ele acrescenta sobre o fenômeno.</p>",
+      "contentPlain": "Associe cada comentário completo ao tipo de leitura que ele acrescenta sobre o fenômeno.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este passo retoma que comentário relevante explica efeito, descoberta ou crítica com função.",
+      "feedbackError": "Este passo retoma que comentário relevante explica efeito, descoberta ou crítica com função.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "485e0307-925e-4b08-8d98-d8aa5e4efee5",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e4c9e235-9fb9-43b1-ad04-26dcd6551d45",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "4c1ac748-463f-48e6-85ca-34dc8e02d6c5",
+          "leftContent": "Me gusta porque parece un concierto pequeño, aunque lo veo en el móvil.",
+          "rightContent": "explica sensação de proximidade",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3f64b1b4-94d3-4448-934c-c4e10e36d94e",
+          "leftContent": "Gracias a estas sesiones conocí grupos de otros barrios.",
+          "rightContent": "mostra descoberta de grupos fora do próprio circuito",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8d795190-1c66-4c4e-8cf2-c7b0999ec7c8",
+          "leftContent": "A veces las versiones se parecen demasiado, pero la idea acerca a la gente.",
+          "rightContent": "traz crítica e ainda reconhece conexão social",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "fdc7c1f5-549a-4133-8ea8-20318ee3a625",
+      "sequence": 5,
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "title": "Relacione fala e função",
+      "content": "<p>Ligue cada frase em espanhol ao efeito que ela cumpre na conversa sobre música.</p>",
+      "contentPlain": "Ligue cada frase em espanhol ao efeito que ela cumpre na conversa sobre música.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fluxo da aula passa por abrir o tema, dizer o que se ouve e justificar de forma breve.",
+      "feedbackError": "O fluxo da aula passa por abrir o tema, dizer o que se ouve e justificar de forma breve.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "c0e3631e-8924-4662-8f2a-668fe4ebb942",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fa3df6e0-8aca-4921-94e3-ec57d37dd9d4",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "8e6800a3-b155-46c2-95b0-08cc872f9097",
+          "leftContent": "¿Qué música escuchas?",
+          "rightContent": "abrir o tema",
+          "sequenceItem": 1
+        },
+        {
+          "id": "da38b92b-ce89-4465-849b-de2fede7d935",
+          "leftContent": "Escucho pop casi todos los días.",
+          "rightContent": "responder sobre o hábito de escuta",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8a1cd4c1-7670-49a0-b149-39f05e4d4213",
+          "leftContent": "Me gusta porque me relaja.",
+          "rightContent": "acrescentar um motivo pessoal",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "cf122910-72e9-4fb3-8eba-584209713409",
+      "sequence": 6,
+      "lessonId": "c7a7550e-5b55-4a0c-9a4e-95ae23360fae",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Associe cada trecho do diálogo ao texto correspondente em espanhol.</p>",
+      "contentPlain": "Associe cada trecho do diálogo ao texto correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo desta aula ajusta a recomendação passo a passo conforme o gosto da outra pessoa.",
+      "feedbackError": "O diálogo desta aula ajusta a recomendação passo a passo conforme o gosto da outra pessoa.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "6d7cdbf0-c6ef-4954-a2a7-c3ecb9ea6e0f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bb7d2ae2a7674f3f9b4bbe4eb1e3095c_b06-dlg-01-hoy-quiero-algo-tranquilo.mp3?Expires=1794099592&Signature=I9viQecaSDrWBbEIfzYN2It4satDd9mSAVeHoLPyG33wyh1D3p~m-WVcXERC7slJIeszXTSzHk85B~ukjN4sfaB5c5z3IwhySxX6lT4G~10-m-sHM4jzJVrBVy5eMb3c1W8zdvQ6av6BYfTa-5q1o68r7RTAYia5UyIBxXR9fl5ln6xFhD29zL8tTlarfA1kvAETlwMwdKi6pwtPzx9pwf16qCmjsCh1PJo6IAY8To2lflQhzl2FTGrBmfr5vknKyTgTp6DdyXw8yMN46VnqfUpdUB2dpF9YVg9rEpt4KsW9rRjOkLLuOYZ3ZLARq3ORAQE4Cpd91dMGYoNyQakFbg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy quiero algo tranquilo para volver a casa.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ce5f65d7-f640-489d-a895-fb37118f9e6f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fe44187ed0645999fb80ebecbe86f6c_b06-dlg-02-te-recomiendo-ruta-de-noche.mp3?Expires=1794099592&Signature=PHb3shlPTBIwWVIUqtRGbb-86tqscNSdTjFGcHviVlh5wLCtFNM-0edn~RRsSGD5R7VsXW03jyrjFu~v1ut87N4kagKepkea4XKOhHrbvRnJBwZgv-8RL-99YxqWIewIghraHcuK50FvIcj6UG-bK0n-NPXk67mk3zODboaXnVjXbwu4vYzbxnLoLceRXSh6WuYwBkGn2GAkiTTlm7weLyMH2v~y-HOJx2lVgNSKO-Anq2OiDy-cFggAAMqweSlioj~Usn-ekjagn2o195AYEhwILwugCwL9KCCse4Rv-VR-98IDJ3P-Bxo6sdVpNWor52bFVcuiPofOqAAbMWLCQg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Te recomiendo la playlist Ruta de noche.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "aac554a6-f49f-408f-922e-075e63e29907",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/966b996ccefe47af8326438befad8f51_b06-dlg-03-prefiero-voces-suaves.mp3?Expires=1794099592&Signature=uMtwVWlIMN2qSjDqf3iRMzG86Byo5y~fDyJk6vxtW8nwuIHOkoG5e85AxtqDV4H-UD~Z0RC7fjXXLoekLrk06J0MoRdfvpmbwF2rqx8DKDhBPMdN-gB8eSpFpw9Txz3hcG94ncsjMD2H1ok0oGUBoTluCW29VTW2OHLxqcp0c4XqYi9aKpGDvtheSQVOX31zeVxlUKCXOh0GzkLCQRJ9VB562bmAI7nmnkDEd0A1jFzLlysTJyTIPHmSYYC0dCW8IKgUzAxdN4G-i76rqH2in68bOtRf-5Y5dU7F09C5c60uFFfd~tmzKxllrQce-X6vHk07uiHK8NReGvCek4D14Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Suena bien, pero prefiero voces suaves.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "6c3e7b19-7af8-4e1c-8ca4-78e7989d2a44",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/480919e1699e4b6d945d721025bef953_b06-dlg-04-entonces-deberias-escuchar-a-vera-luz.mp3?Expires=1794099592&Signature=1nu5yl735uznV~osr9PPb9JNQIonIsHgXFT558OFQeFPhRFAABQl0k9NI28r85IacCZdvYIsR9uVUUuAUw-c6rbrNtfbI-tHEooxWjAbwMt8F2MczxWgl0wXhQ~EQlVjVwngzUjFFPgoeKw3aaES1cZOYr-ElQDm7P-L5VRlKHDRJ952nD3vbXW1sYQEQOBFjCM0Un3mxiugL-LzVzzWxiK6Sy9cFSGpE7oyFmANSdfjYKrBCGdVh~hmLq4zpmHm3-TfVrl4Ui5uXOi6a4FgERos2WF7mnfR28qxYgfH6U4a4kBdsm9pZLSIMeyl87l94i~2GL2-zCqZe0U3WJOWNw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Entonces deberías escuchar a Vera Luz. Yo que tú, empezaría por su último disco.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "171e8120-3a2b-4815-8383-bf2f57960c5c",
+      "sequence": 7,
+      "lessonId": "a20165c2-b645-4677-a5b3-2af2dad1248f",
+      "title": "Escolha a resposta completa",
+      "content": "<p>Se alguém te manda uma música e você quer responder como no recap, qual opção segue a ordem da aula?</p>",
+      "contentPlain": "Se alguém te manda uma música e você quer responder como no recap, qual opção segue a ordem da aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "A resposta final da aula abre pelo gênero e depois contrasta ritmo e letra.",
+      "feedbackError": "A resposta final da aula abre pelo gênero e depois contrasta ritmo e letra.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7c63d504-2853-4bb9-bb45-e3601aadd071",
+          "text": "El ritmo es pegadizo, pero la letra me aburre.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "89352c0f-3f89-482d-83a2-a73709bc9a05",
+          "text": "Es indie. La letra me aburre, pero el ritmo es pegadizo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "94542052-91b7-47b1-9a5f-e6afd817143d",
+          "text": "Es indie. El ritmo es pegadizo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bb30afdc-ef27-417b-9119-d4faf3e90efd",
+          "text": "Es indie. El ritmo es pegadizo, pero la letra me aburre.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b04dad74-87e7-4189-bbd8-1f71cc81a9a8",
+      "sequence": 8,
+      "lessonId": "1ceb2a67-9f7d-443e-8248-94ac46f8abb1",
+      "title": "Recupere a palavra",
+      "content": "<p>Complete a frase em espanhol: Los videos son sencillos, pero ________ mucho porque mezclan ritmos conocidos con un ambiente íntimo.</p><p>Tradução: Os vídeos são simples, mas circulam muito porque misturam ritmos conhecidos com um ambiente íntimo.</p>",
+      "contentPlain": "Complete a frase em espanhol: Los videos son sencillos, pero ________ mucho porque mezclan ritmos conocidos con un ambiente íntimo. Tradução: Os vídeos são simples, mas circulam muito porque misturam ritmos conhecidos com um ambiente íntimo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este ponto recupera a palavra que liga simplicidade do vídeo e alcance do fenômeno.",
+      "feedbackError": "Este ponto recupera a palavra que liga simplicidade do vídeo e alcance do fenômeno.",
+      "answerType": "buildWord",
+      "expectedAnswer": "circulan",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "638adbd9-4c82-4417-8fae-a9cc18202938",
+      "sequence": 9,
+      "lessonId": "caecdaab-592d-44df-a52e-d457a7e88d70",
+      "title": "Complete a comparação para baixo",
+      "content": "<p>Complete em espanhol: La música indie es _____ comercial que el pop.</p><p>Tradução: A música indie é menos comercial do que o pop.</p>",
+      "contentPlain": "Complete em espanhol: La música indie es _____ comercial que el pop. Tradução: A música indie é menos comercial do que o pop.",
+      "fileUrl": null,
+      "feedbackSuccess": "Menos reduz a intensidade da qualidade quando você compara a primeira opção com a segunda.",
+      "feedbackError": "Menos reduz a intensidade da qualidade quando você compara a primeira opção com a segunda.",
+      "answerType": "buildWord",
+      "expectedAnswer": "menos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7ab991cc-cdd5-45ce-9c55-a5c0377d37bf",
+      "sequence": 10,
+      "lessonId": "a20165c2-b645-4677-a5b3-2af2dad1248f",
+      "title": "Recupere a fala sobre a letra",
+      "content": "<p>Marque todas as palavras da fala que comenta o conteúdo da música.</p>",
+      "contentPlain": "Marque todas as palavras da fala que comenta o conteúdo da música.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fc746687394f4e2db96e29e00e92206d_b05-la-letra-me-aburre.mp3?Expires=1794099592&Signature=S6EW7zPpWfq~naZkRavcjQuK7sIQd6sdtw5m7Y9yX6c7I7wA5Uw~xFGpS34VDrgVMmtkZh5HZpHWZBsbW5ysWkTgo9m5O8BhA1cwqqsjuAQoPLQb-x~mGpE3TXM8cAOupAU7ldE-If6ZVWxxlxLN2WruPoGZmjT2r1i3IOJzyxhDc83jXjiW3j12UqNbOviIsOUz2qDIQxYbQz3Tntt0jD0T0OYVYE5FTRfnx0SiZRC6tGzeg3NjWTnGMWlXBFeBDSw31WUeF~d6dOUB1WxOXGvpk3Yw2b8SiigJz2PogWME7btLOlbacrpO~wnlWLDAbcP1lnOoF0zjfbTWSs~EDw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "La letra me aburre. é a forma curta da aula para reagir ao conteúdo da música.",
+      "feedbackError": "La letra me aburre. é a forma curta da aula para reagir ao conteúdo da música.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3544bed4-3fdc-4a79-8ab6-5a7eed97d960",
+          "text": "aburre",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4837061d-02cd-433f-b397-592747189d50",
+          "text": "me",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "56c8f673-aa3c-476e-b011-5f8c550c95bf",
+          "text": "la",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5ec068dd-4628-4a1d-b067-eabc20b4839f",
+          "text": "ritmo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7794d1f2-fb02-421f-b62b-8279e785bd98",
+          "text": "letra",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9c364311-a7a6-4af4-96ee-60f68df6ec5c",
+          "text": "pegadizo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b8edffef-586c-40ff-969e-6c90a8c30f9f",
+          "text": "indie",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "7da7f320-2958-4475-af9c-5c641f7471e7",
+      "sequence": 11,
+      "lessonId": "d0c7eba0-c61e-4f9c-8b0f-58a73d5722df",
+      "title": "Complete a recomendação",
+      "content": "<p>Complete em espanhol: Yo que tú, escucharía este _____.</p><p>Tradução: Eu, no seu lugar, ouviria este disco.</p>",
+      "contentPlain": "Complete em espanhol: Yo que tú, escucharía este _____. Tradução: Eu, no seu lugar, ouviria este disco.",
+      "fileUrl": null,
+      "feedbackSuccess": "A recomendação central da aula empurra a conversa para uma opção concreta: este disco.",
+      "feedbackError": "A recomendação central da aula empurra a conversa para uma opção concreta: este disco.",
+      "answerType": "buildWord",
+      "expectedAnswer": "disco",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a24e8b7a-dbe2-4b1c-96e5-1c541379533d",
+      "sequence": 12,
+      "lessonId": "d0c7eba0-c61e-4f9c-8b0f-58a73d5722df",
+      "title": "Recupere o detalhe do gosto",
+      "content": "<p>Complete em espanhol: A mí me encantan las canciones con letra _____.</p><p>Tradução: Eu adoro músicas com letra clara.</p>",
+      "contentPlain": "Complete em espanhol: A mí me encantan las canciones con letra _____. Tradução: Eu adoro músicas com letra clara.",
+      "fileUrl": null,
+      "feedbackSuccess": "O gosto desta aula se ancora em canciones con letra clara.",
+      "feedbackError": "O gosto desta aula se ancora em canciones con letra clara.",
+      "answerType": "buildWord",
+      "expectedAnswer": "clara",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "42faebb1-62cd-4fe5-a6f7-178b51bad486",
+      "sequence": 13,
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "title": "Escolha a sequência da conversa",
+      "content": "<p>Selecione a ordem que melhor recupera a passagem de pergunta, resposta e motivo pessoal.</p>",
+      "contentPlain": "Selecione a ordem que melhor recupera a passagem de pergunta, resposta e motivo pessoal.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula segue uma ordem simples: abrir o tema, responder e acrescentar o motivo.",
+      "feedbackError": "O diálogo da aula segue uma ordem simples: abrir o tema, responder e acrescentar o motivo.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4aca8528-fb8b-489d-814e-cc464bf09536",
+          "text": "Escucho pop casi todos los días. Me gusta porque me relaja. ¿Qué música escuchas?",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6f6c7b9a-2e83-4bd5-ac06-2d2b87e450a8",
+          "text": "Me gusta porque me relaja. ¿Qué música escuchas? Escucho pop casi todos los días.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a80f868c-2a1a-493c-b485-f78469a12b40",
+          "text": "¿Qué música escuchas? Me gusta porque me relaja. Escucho pop casi todos los días.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eba2a068-d83a-4ee8-8536-462f872cfdf6",
+          "text": "¿Qué música escuchas? Escucho pop casi todos los días. Me gusta porque me relaja.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "6a631b6f-5af9-498f-bdcb-728d1fb4faed",
+      "sequence": 14,
+      "lessonId": "a20165c2-b645-4677-a5b3-2af2dad1248f",
+      "title": "Complete o conector do recap",
+      "content": "<p>Es indie. El ritmo es pegadizo, ____ la letra me aburre.</p><p>Tradução: É do gênero indie. O ritmo é cativante, mas a letra me entedia.</p>",
+      "contentPlain": "Es indie. El ritmo es pegadizo, ____ la letra me aburre. Tradução: É do gênero indie. O ritmo é cativante, mas a letra me entedia.",
+      "fileUrl": null,
+      "feedbackSuccess": "No recap, pero conecta o elogio ao ritmo com a ressalva sobre a letra.",
+      "feedbackError": "No recap, pero conecta o elogio ao ritmo com a ressalva sobre a letra.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pero",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "168d4e91-d637-43ab-b562-58e1e909b065",
+      "sequence": 15,
+      "lessonId": "caecdaab-592d-44df-a52e-d457a7e88d70",
+      "title": "Reconstrua as frases da aula",
+      "content": "<p>Associe cada começo ao final exato com que a frase aparece na aula.</p>",
+      "contentPlain": "Associe cada começo ao final exato com que a frase aparece na aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap junta as quatro estruturas que fecham a aula sobre estilo e popularidade.",
+      "feedbackError": "O recap junta as quatro estruturas que fecham a aula sobre estilo e popularidade.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "01851667-5f87-4fdf-9318-3abb1d510cf6",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e9c12ce4-383b-456c-b850-8da5ee5c35d7",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "a283b6a0-2b36-4d72-ae51-23515ace3e9c",
+          "leftContent": "El reguetón es más pegadizo",
+          "rightContent": "que el rock.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3bcac96d-f6dc-4539-ba2e-02b90d9d3536",
+          "leftContent": "La música indie es menos comercial",
+          "rightContent": "que el pop.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "94bc64ef-38af-469e-8e23-8caee71cdb29",
+          "leftContent": "El pop es igual de pegadizo",
+          "rightContent": "que el reguetón.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "746dad1c-13ef-4590-8524-a204e503018f",
+          "leftContent": "Esta canción ya tiene más de",
+          "rightContent": "un millón de reproducciones.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ]
+}

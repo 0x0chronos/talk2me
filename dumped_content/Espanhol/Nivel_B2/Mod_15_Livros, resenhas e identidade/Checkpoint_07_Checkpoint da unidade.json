@@ -1,0 +1,679 @@
+{
+  "attemptId": "3843ba83-0137-4463-b617-dbbb0f721b33",
+  "exercises": [
+    {
+      "exerciseId": "84eea616-0f69-4c86-833f-6fcad7a58af4",
+      "sequence": 1,
+      "lessonId": "14b17e40-51de-4ef7-a8d3-0b9e49ed8aae",
+      "title": "Reconstrua o recap pela escuta",
+      "content": "<p>Associe cada trecho de áudio ao segmento correspondente do fechamento da aula, sem apoio em português.</p>",
+      "contentPlain": "Associe cada trecho de áudio ao segmento correspondente do fechamento da aula, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula encadeia causa, efeito e recomendação dentro de uma mesma resenha oral curta.",
+      "feedbackError": "O fechamento da aula encadeia causa, efeito e recomendação dentro de uma mesma resenha oral curta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "54ea21d0-59b5-40ab-aa08-ba9ed1e9d05e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/14f30d41aef14e81b7908972626aab09_ex-c05-como-la-historia-mantiene-la-tension-sin-exagerar.mp3?Expires=1794099811&Signature=OZ5FOq4CYMaFOzN9CzVL3Oiu7U4~OsGKuRR4JrcCY7I9H8q2lMJiSvjdOIXj9-IsFjb8Hh0uISTUNl6-IyomvZUxi~PSXvPsYXxsF8J8OawIABNNsH3H0prfXaatCloMpAdB1rUUeQ6-UWqrKSNfQ7otqpqlKxYi0Lqp-uwyQZPDd3my1u0jlHlUopowu~dVYn8K9HHFzHjTdoqRd6Bx5L5ddacicDe9ZBemVUt-rwZ6Yd1I2eAXxMoexfbQR7OpOtRNyhQKPRv7Tkt-zQOyF~JqWy-LiIqnRIcaDedFJ4X~XqiLvFcRExFpZGrDaX9lCYCMDXWBOglNgjUCH-SMJw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Como la historia mantiene la tensión sin exagerar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8a0ca468-122d-4c2c-8e56-3bf3aa0e384a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/434fb5be25304d76a55414c4a0e142af_ex-c05-la-termine-en-un-fin-de-semana.mp3?Expires=1794099811&Signature=BeJbFy2nQCTk~EPwZn9DhXfLakL0J1PtMvg0la-u0M1EOiUASH6Ick~p8JsVSURfHnKruH17cj9qKNK2oPAiPG0hCqxDbiSVjV-HtmjpspDjkefOfUxmzRvRCVs30kINCVYNqetn8fIwnAbkJ5KInfRXXOggQ2-sodoSL7ay4dQ3uXMwhmsaSkjOYyieHaqSVQPi5Xt6K6Br7u2e7dR~Vw-w4ghzIFQUWwbANLLoHDZUMdOFXVxllwGeQlF98qF8uMZMFyIMFZXFbX-CMpGW8PufVAVDr~4f06nPKQSoJv5H2LoLrLwIC-PPqtOCLZ7L6hhGJ1mxW7-z9QuB1w7OnA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "la terminé en un fin de semana",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a00a0e2c-e34b-424b-acea-3a2c436a782e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ee1a07a5ffdb4b1c97de7a7fe366ac4e_ex-c05-por-eso-la-recomiendo-cuando-alguien-busca-una-lectura-que-de-verdad-atrape.mp3?Expires=1794099811&Signature=nVxwbwBcMKPIVphV~46QK1AnK19Oii7LIdS7aJcWlrwt3pLZDaVWNquiaa95Zd2IINwc3biqTknFolcHZYlzmeDbuz8L05f6w~8q8DjF7RKdbPaHfpRjRJ5Q7OfnuY5szjgvBCFgAUOz3DSJ2dRoMo5EIi7YH3yb-gw~9-qvTgudbcq~LEyYALtNRn9oPLNXX76gU3IIkacEZmw~txNj15I75yU8lcgehl14weLOY3bTK0ZyHmSDv4g-g1lkse-YTzpyEm7K-tPGgwcMoBooc856hPT5MfeC~ihIFFkESYaCRne~YR-5iJI~l91IzVNVptQLgq52xACgoFk0r85UYg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "por eso la recomiendo cuando alguien busca una lectura que de verdad atrape",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "1bf51b13-bbfd-493c-94e1-6af85dbcc40d",
+      "sequence": 2,
+      "lessonId": "14b17e40-51de-4ef7-a8d3-0b9e49ed8aae",
+      "title": "Filtre as palavras da reação",
+      "content": "<p>Marque somente as palavras realmente ouvidas na frase com <strong>como</strong>.</p>",
+      "contentPlain": "Marque somente as palavras realmente ouvidas na frase com como .",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5ba192b96df04a3c8fb09fd4eef35c79_b02-como-cada-capitulo-deja-una-pregunta-abierta-segui-leyendo-hasta-tarde.mp3?Expires=1794099811&Signature=sOIYstuQ1fT8kNaiR0PXLJ9kb7hkTGh5sICl3odEevD5uTAfioJcSdzQrZtLQleLSjqWu2XfmJq6ymIVRwYvzQd2ndEW6oA0D3LpE4UCu6ffeQTFilYw8UEHLsSSBHOEyRjQlI5DQ-ThsnKfSziIVNJX93BndKr8XCXzJP4WYFKMPj6Baf9QX0uLCvAIvcTpShli501WNPte8J-~Q1weF2RKD~h4I~yndiMFSNHxeglgSX~OZbmf4lr8GgfmDl88ga2tJWNllOGIf9oMUSCreZCWHfWiZjjNFcDTNwG0wYEfDnzBjxFQQWjkODv42evRlZU63fNf6MSw3vW~yZMXzw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A linha com como junta causa e efeito pessoal para explicar por que a leitura prendeu.",
+      "feedbackError": "A linha com como junta causa e efeito pessoal para explicar por que a leitura prendeu.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4829d881-61f8-48a8-b406-b8206a9a399d",
+          "text": "pregunta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4be5fa48-9461-491e-8de4-6d4adf365160",
+          "text": "seguí",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "50fc6c58-d8e3-4530-a974-78fda1fba0b5",
+          "text": "autora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c1de6358-c978-4385-95d4-84e6b087274e",
+          "text": "recomiendo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ee84906b-3d90-42c1-873f-6ccddf8b74b7",
+          "text": "tarde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f14e9ba5-4582-4194-9934-ad19b92ffcea",
+          "text": "capítulo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fa394693-3a21-4714-bc5e-4f4ce084a066",
+          "text": "lectura",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "3d95223e-55e3-4239-ba22-1fedb985086c",
+      "sequence": 3,
+      "lessonId": "61c84359-c0d4-4207-92b7-78e1960cae94",
+      "title": "Reconstrua os fragmentos da resenha",
+      "content": "<p>Associe os cinco áudios aos fragmentos exatos da mini-resenha, sem apoio em português.</p>",
+      "contentPlain": "Associe os cinco áudios aos fragmentos exatos da mini-resenha, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O bloco final pode ser reconstruído em partes curtas sem perder avaliação, motivo e efeito.",
+      "feedbackError": "O bloco final pode ser reconstruído em partes curtas sem perder avaliação, motivo e efeito.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "c2c35fe3-f8cb-41e9-81f0-482a1a46fe6c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7cff15a0c48148878f4d0658632d62f8_b2c15l03c05-a1-esta-novela-es-breve-intensa-y-muy-absorbente.mp3?Expires=1794099811&Signature=yloZfkPHfFatx9WRhQI-IHUI1aZoFN2or-VG1RlrxlqON0vEU5BUw1QUxwVT6ltzQIB7w2qISfJ5dzT1Br3sPPnAdY9z7UK60WX8m5xLSYOCm2d~rVFCBrh6zrSxTut98RukdAJyJntQRvViVyo7C0eSSYQFQb29p44--LTJDfrhOHroGn7xtU~3zXbovEDvEPk49jh3xdzyslohej6wiyozLscyEkOuG8h2mJRo0Yd6bt8B8ulACHVq38jFEUWYw2KDm9yjO4XyEbhbqtJQdTXnuiQwqD5I8Xi8Jh5fFznkxok85EjDvXtSUqSaE16aynGMByqygDdvWjgC~Zt4zg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta novela es breve, intensa y muy absorbente.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "cb65d3bf-ee74-4a6c-8920-5c5ba406ec75",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/53010f6c974041c38fc4ac7e655d384c_b2c15l03c05-a2-la-recomiendo-porque.mp3?Expires=1794099811&Signature=uY1o~-AbPLoffrWtaCHRDOI9Vji0ezQo6l3ck7mmq9Kh3x1DNEpZRPwus8aP8WyheXS3YNYwIDk8qrC7AsRvZXg18VhkfWKMMzgSicInlsYtqt8yjN8IZnIBsRC2RjlHcSqXOz01-M0RVFpFt4-ERh3~QYaxR76b9oV6-6spd2sU42blFjsQPDR-hwuL1PaAtMs3tplY0SV4ud4dYblMBvZJPW0JEoNwQekILEcC0WLz3qsTBW1G5dtzBcjdBaKh1h9S7I7xQM4pLb1dX8HGL96CXrrFCkFjviaCQJYeSoSy1Yk9kxlxMimfJ3iy4MgawEq8zuJtrT1N4lPNu~G~Zg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La recomiendo porque",
+          "sequenceItem": 2
+        },
+        {
+          "id": "22268118-9a86-41ea-9086-29f9690f9909",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/31de3175fa2947fcbeb4f11eb09831a3_b2c15l03c05-a3-mantiene-la-tension-con-capitulos-cortos.mp3?Expires=1794099811&Signature=X5GsyNyCDUwUPHAqId69LObG6Eb2UrIuRhyTqkA47WpyzFoHsZt4P81gnEZs4vKe6LHhMc2geaLEDd4nOHhun8gP--8ivh~HTgLIBBb0int5VuwMOFitKhp5I65rTBcBwn0Sl8kltsvUs4CzOq~AaJ-D4ilcLUFRs109t-rT2DhV6DSvEwBKasy5-m5II67rypdE3bdrZ2TlS~6jTHgKBIvcVcezx-joaUZcymA7jvXLo-mtCow2U7UlimM7It5zrwF-r-QzfrsVg62PWqmux0xbZBjcpim6PkI7SA5EiYKwFuDv6-99ZCCcNhc26IpQYqlBYtkYntS8d8HRF38VCQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "mantiene la tensión con capítulos cortos.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "b8ba8ae5-0195-4bc1-aebb-35e23018bb2a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c50105a8866d4b8fb5dcd04f6b505e9b_b2c15l03c05-a4-al-terminarla.mp3?Expires=1794099811&Signature=JMbJ8voqk1h464gzOkR2E0LeENyIYy4By8Z6XOMeyMQDvqFDyLOdKMnrazobuKuTMEWd3R9jMsuJRoo801khbHekDhhGGXcfz8kQA~4FB8witl2HP075cHHuoVvIYa9eWrj41W-PEvb0wO9WGae1z9wQ5Z-~Lcl92GyE86CeW9e9G6WcHw3zKAmQLciQVNEP0Q0xi5hUiW0rYitaDb664MrRMVaBZKM19-zCiTADcg7-IPWJpFqTjxPfwWvJZ9c0AIIBp4eLLdTi2La69xyKdFNOaqO3YpuN4ZssBmUkWCIcxVQcHE93v3O5U757OSBbr5EMTz4~XDNdHx4GND~Tlg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al terminarla",
+          "sequenceItem": 4
+        },
+        {
+          "id": "d642c969-0d72-40bb-8fb5-834c949f1587",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/373fbc38d7434620af82d977a43f1519_b2c15l03c05-a5-te-deja-pensando-en-las-decisiones-de-los-personajes.mp3?Expires=1794099811&Signature=q38o7Nsj~72QNnDbSqTdxBl7IxeeRGfNBxeL82IBp~ylYrGr6UlYbJu~LOgSfOexNXlyaDqbXqn~6CEC8mCHmkvqXQUrv-IfPdg9Bw0wZH4Z4KiI444KYIGhWdwq7Z5UnudH6Ym1bG1Bi7ww5V4QcGtLV1pz2yVx5yZcuCUmtelR85kdLQIhmjBfN3x9Swd2~QS8583JsNzR100GH5T0~L3u1Z9EfbMDVN1wblpp9mum7H9a-8DM78DsrNKEUYSCCqtzbvxEVBsBWTUlmNE4AwORkbOIBPKViNNdrFYLmgu~rBnBFAhhZxi6GbKUpSQAPY3OeSJsfFnbbnHyd5BJlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "te deja pensando en las decisiones de los personajes.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "286784ef-d6cb-4f4a-9502-878c9bd3d5c3",
+      "sequence": 4,
+      "lessonId": "9efde6da-ca74-42ca-bd8f-b7aa5cd1cfe5",
+      "title": "Associe formulação e efeito",
+      "content": "<p>Ligue cada formulação em espanhol ao efeito mais preciso que ela cria dentro do relato integrado da aula.</p>",
+      "contentPlain": "Ligue cada formulação em espanhol ao efeito mais preciso que ela cria dentro do relato integrado da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "No desafio, o foco é distinguir interesse, especialização, finalidade e direção no mesmo relato.",
+      "feedbackError": "No desafio, o foco é distinguir interesse, especialização, finalidade e direção no mesmo relato.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "141c25d9-4f95-4e1a-b73d-98b5f1690181",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a2c14e09-9ccc-452f-bd59-83085ac780da",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "184c6287-ae06-4b2e-a982-067fca25e2bf",
+          "leftContent": "quería trabajar con libros y entender mejor cómo se forman los lectores",
+          "rightContent": "explica o interesse que sustenta a escolha do curso",
+          "sequenceItem": 1
+        },
+        {
+          "id": "111ecf81-8d80-4476-83aa-209c43feae0f",
+          "leftContent": "Después hice un máster en edición digital",
+          "rightContent": "marca um passo posterior de especialização",
+          "sequenceItem": 2
+        },
+        {
+          "id": "50a060c7-f5f2-4997-ae42-6999101fb5b7",
+          "leftContent": "para acercarme al trabajo editorial",
+          "rightContent": "mostra a finalidade prática do estudo complementar",
+          "sequenceItem": 3
+        },
+        {
+          "id": "7314ba6d-7d39-4361-b42c-1d047b6d0f6c",
+          "leftContent": "Con el tiempo me orienté hacia la edición educativa",
+          "rightContent": "resume a direção profissional que ganhou força",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "6073d816-8a14-4877-a7eb-33a756503caa",
+      "sequence": 5,
+      "lessonId": "f2a1913d-65ce-4528-83f1-6470f3a0fb5d",
+      "title": "Associe frase e etapa",
+      "content": "<p>Ligue cada frase em espanhol ao momento da trajetória acadêmica que ela descreve.</p>",
+      "contentPlain": "Ligue cada frase em espanhol ao momento da trajetória acadêmica que ela descreve.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula encadeia origem da escolha, foco universitário e continuidade da leitura.",
+      "feedbackError": "O fechamento da aula encadeia origem da escolha, foco universitário e continuidade da leitura.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1c1ade43-3f08-4b65-9e5f-497e1d5ec49c",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "38385f21-2d6b-4044-a8b2-9780b934d75a",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "9079b7bc-c145-428b-aae2-f13e042f965d",
+          "leftContent": "Leer crónicas sobre desigualdad me llevó a estudiar Sociología.",
+          "rightContent": "leitura que influenciou a escolha da área",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c1c336f3-bccc-4017-b7ed-076b819878dd",
+          "leftContent": "En la universidad me interesé por la investigación social.",
+          "rightContent": "interesse que ganhou recorte na universidade",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e416b496-5694-4d3d-b985-b26ab42ade8d",
+          "leftContent": "Hoy sigo leyendo para entender mejor mi campo.",
+          "rightContent": "prática de leitura que continua ajudando hoje",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "5b721546-79ab-4b28-b736-bc8bfcbef506",
+      "sequence": 6,
+      "lessonId": "59b00491-9780-4d80-bd6c-1df3d22ca864",
+      "title": "Recupere a formação",
+      "content": "<p>Ese interés me llevó a estudiar __________ cultural.</p><p>Tradução: Esse interesse me levou a estudar jornalismo cultural.</p>",
+      "contentPlain": "Ese interés me llevó a estudiar __________ cultural. Tradução: Esse interesse me levou a estudar jornalismo cultural.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me llevó a estudiar... mostra como o interesse vira direção de estudo.",
+      "feedbackError": "Me llevó a estudiar... mostra como o interesse vira direção de estudo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "periodismo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7bb0a679-e613-46af-b5dd-4f7085c9fe56",
+      "sequence": 7,
+      "lessonId": "f2a1913d-65ce-4528-83f1-6470f3a0fb5d",
+      "title": "Recupere a ponte com a escolha",
+      "content": "<p>Leer crónicas sobre desigualdad me _____ a estudiar Sociología.</p><p>Tradução: Ler crônicas sobre desigualdade me levou a estudar Sociologia.</p>",
+      "contentPlain": "Leer crónicas sobre desigualdad me _____ a estudiar Sociología. Tradução: Ler crônicas sobre desigualdade me levou a estudar Sociologia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com me llevó a..., a aula mostra uma leitura que empurra uma decisão posterior.",
+      "feedbackError": "Com me llevó a..., a aula mostra uma leitura que empurra uma decisão posterior.",
+      "answerType": "buildWord",
+      "expectedAnswer": "llevó",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1e95bdf9-7128-4c2f-9e5d-1fca695a24ba",
+      "sequence": 8,
+      "lessonId": "3f098680-17c4-459f-a541-db930efdce7c",
+      "title": "Recupere a preferência",
+      "content": "<p>Yo ________ los relatos breves.</p><p>Tradução: Eu prefiro contos curtos.</p>",
+      "contentPlain": "Yo ________ los relatos breves. Tradução: Eu prefiro contos curtos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, prefiero ajuda a marcar preferência clara por um tipo de texto.",
+      "feedbackError": "Nesta aula, prefiero ajuda a marcar preferência clara por um tipo de texto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "prefiero",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "bd3c2740-ece9-4e7f-a829-ca2489a9fe44",
+      "sequence": 9,
+      "lessonId": "59b00491-9780-4d80-bd6c-1df3d22ca864",
+      "title": "Ouça a resposta integrada",
+      "content": "<p>Marque somente as palavras que pertencem à resposta que liga leitura e formação.</p>",
+      "contentPlain": "Marque somente as palavras que pertencem à resposta que liga leitura e formação.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/67ad48b9284e4f2b98dfbe9c5e61fc39_phase4-b07-d02-la-literatura-latinoamericana-desperto-mi-interes.mp3?Expires=1794099811&Signature=Wbanwb6IpXtgcWQ4RK9-z8LDs8lklkA6cIfMJHPpjPDn3eVPAAZ5vavQEzGrQ4OGoyvp71BPB5v1KGPc9F4fJzRUDH4tOhhGQilpoIqck61t0EEfe-f6b7yFNM3mSvg3ajJ5IantEh~nJDUup-8hVKZ1jenaFyFKxUY9Wl5F1EXhSfTIVNErsjDKspD89B-WCF-~vzHlrwIxQ8NyjZ6xzAq-IstBLVF6RRaXf8I3jMp4k0Ziw3KD66xVmdgiszgKVFumB3Sojaq4VZyaQMl51UC8HTWZhCfTaIzenN3b2Q6yrxn3~bkk1QlF1UfFJfhxJbigvXhluEKoLkSU39ejuw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O diálogo recompõe o elo entre interesse cultural e escolha de formação.",
+      "feedbackError": "O diálogo recompõe o elo entre interesse cultural e escolha de formação.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "04eb9b06-1eee-4d0b-a09f-940f863c607f",
+          "text": "periodismo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "078a73a1-55f5-4057-b90e-e10c1fd9d598",
+          "text": "interés",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "338961d2-5927-48dc-ac75-ce6d098b7bf4",
+          "text": "editoriales",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "70698367-eb0c-4161-b0b0-626d37f28944",
+          "text": "ahora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8a162780-f905-46ce-a87e-90754204d32a",
+          "text": "cultural",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8acc40a9-d4e7-4504-84ed-fef332b16475",
+          "text": "historia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "91d67419-9ded-4167-9856-0b71d9c319e7",
+          "text": "trabajo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bbd431ce-235f-434e-b16d-6e3ea088f4a9",
+          "text": "estudiar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fe65c856-ff08-411e-b84f-1c2ce7720c3f",
+          "text": "literatura",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "6f292e14-4ec6-4fad-b61e-615de43b3a54",
+      "sequence": 10,
+      "lessonId": "9efde6da-ca74-42ca-bd8f-b7aa5cd1cfe5",
+      "title": "Recupere o foco de interesse",
+      "content": "<p>Elegí estudiar Letras porque quería trabajar con libros y entender mejor cómo se forman los ________.</p><p>Tradução: Escolhi estudar Letras porque queria trabalhar com livros e entender melhor como se formam os leitores.</p>",
+      "contentPlain": "Elegí estudiar Letras porque quería trabajar con libros y entender mejor cómo se forman los ________. Tradução: Escolhi estudar Letras porque queria trabalhar com livros e entender melhor como se formam os leitores.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escolha inicial nasce do interesse por livros e por quem lê.",
+      "feedbackError": "A escolha inicial nasce do interesse por livros e por quem lê.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lectores",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e87238be-c05d-413a-b85b-ebd085506652",
+      "sequence": 11,
+      "lessonId": "61c84359-c0d4-4207-92b7-78e1960cae94",
+      "title": "Recupere o verbo da indicação",
+      "content": "<p>La __________ porque mantiene la tensión con capítulos cortos.</p><p>Tradução: Eu a recomendo porque mantém a tensão com capítulos curtos.</p>",
+      "contentPlain": "La __________ porque mantiene la tensión con capítulos cortos. Tradução: Eu a recomendo porque mantém a tensão com capítulos curtos.",
+      "fileUrl": null,
+      "feedbackSuccess": "A parte do apoio usa recomiendo para transformar avaliação em recomendação.",
+      "feedbackError": "A parte do apoio usa recomiendo para transformar avaliação em recomendação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "recomiendo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2da6b56e-572e-482f-96b3-2f4d71db3552",
+      "sequence": 12,
+      "lessonId": "61c84359-c0d4-4207-92b7-78e1960cae94",
+      "title": "Ligue trecho e efeito na resenha",
+      "content": "<p>Associe cada linha ao efeito que ela cria dentro da mini-resenha curta.</p>",
+      "contentPlain": "Associe cada linha ao efeito que ela cria dentro da mini-resenha curta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a mini-resenha funciona porque cada trecho cumpre um papel claro na progressão do comentário.",
+      "feedbackError": "Nesta aula, a mini-resenha funciona porque cada trecho cumpre um papel claro na progressão do comentário.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "183947fc-4c46-406f-bc38-bd95082ee71e",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ae4711b7-76b2-4491-9cac-95dab48b151f",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "d943a47a-25df-47d0-a013-7ed5d91f9104",
+          "leftContent": "Esta novela es breve, intensa y muy absorbente.",
+          "rightContent": "posiciona a experiência geral de leitura",
+          "sequenceItem": 1
+        },
+        {
+          "id": "46e01410-8549-45c5-bf0f-cb186f6dbe60",
+          "leftContent": "La recomiendo porque...",
+          "rightContent": "transforma opinião em indicação com motivo",
+          "sequenceItem": 2
+        },
+        {
+          "id": "46230095-d2ab-42e4-8a14-c38dead9c282",
+          "leftContent": "mantiene la tensión con capítulos cortos",
+          "rightContent": "dá um detalhe concreto para sustentar a recomendação",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d1389cc5-4a23-4e47-85f7-353a59e421a4",
+          "leftContent": "Al terminarla, te deja pensando en las decisiones de los personajes.",
+          "rightContent": "fecha com o efeito que continua no leitor",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "6f7963db-0b94-49c0-b58b-38b2694ab720",
+      "sequence": 13,
+      "lessonId": "3f098680-17c4-459f-a541-db930efdce7c",
+      "title": "Filtre as palavras do recap",
+      "content": "<p>Escute o fechamento e marque apenas as palavras que pertencem a ele.</p>",
+      "contentPlain": "Escute o fechamento e marque apenas as palavras que pertencem a ele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/72c120e129ae4734ac59ad0721663f25_b09-recap-gusto-lector-preciso.mp3?Expires=1794099811&Signature=dZepBbDuxDEIufRp6PF3bX2bt98kHB3FLpvXjH2oWtmxHVXemI8WifsWcpH5HU1SdtfsNkwcWbqEmTNjtICr2zWh9KEVocVjhzl9rpUDtD6Jig8rcHudquVs68FYoFfG1-2ZAbhm848K6xcbcBylf02nIencg9-bTACIs-rrgMUwF0yi7GNTi52gZl2XM5jTZDreJ435iq~V~ln87CHFZ8-REupLwfCYhn9P2X9hIz1r2iQWAx~gLtEcWIjbjeHFH2biZ4mPvvRdrDJgZOEm2n4zAcO8SVRM~7yEh9VEIjQIJArnRKNI0yDov78mWKMJ3HI5aRKP7uKwnl8mp6wqJg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final reúne gênero, formato e critério numa fala única sobre gosto de leitura.",
+      "feedbackError": "O recap final reúne gênero, formato e critério numa fala única sobre gosto de leitura.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "042a0d09-cfb8-4ce8-b5f4-cf82d3bc880b",
+          "text": "últimamente",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "0a94ce2b-5446-4bf0-a46f-d9bf20c4835a",
+          "text": "histórica",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "0b5de41b-c6b0-4bce-8084-308ef112f66a",
+          "text": "ensayo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "274f5e04-e3a8-4462-9e05-5ebca4ed4416",
+          "text": "lectura",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "48f48348-2994-4fb5-be7a-74d08274dce5",
+          "text": "novela",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "49557b73-eeb6-4b27-8d30-6fa72f161475",
+          "text": "poetas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "498a7bd8-0413-457a-bddb-82e60a6f20e9",
+          "text": "argumento",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6fcfdffe-d062-4efa-bc27-9e6ba09bdfbb",
+          "text": "breves",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "957231a4-f8ec-43af-ae5a-55b5d74e8653",
+          "text": "relatos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "97af61cb-7b47-436f-b59e-409c43fad193",
+          "text": "preciso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a357573e-e54d-459d-a67e-afcc24df957b",
+          "text": "personajes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "babd30ed-a635-4116-a11f-190089e8bf7e",
+          "text": "conversación",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "db909a4c-0fe5-43d8-9daf-6f01c80c5bf8",
+          "text": "librería",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f1442119-4f22-49d8-b851-9ac2440d7942",
+          "text": "prefiero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b75bb839-55f4-4afa-b836-a0c0b0b7dc50",
+      "sequence": 14,
+      "lessonId": "14b17e40-51de-4ef7-a8d3-0b9e49ed8aae",
+      "title": "Filtre as palavras do recap",
+      "content": "<p>Escute o fechamento da aula e marque só as palavras que realmente aparecem nele.</p>",
+      "contentPlain": "Escute o fechamento da aula e marque só as palavras que realmente aparecem nele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4528f9bc4d7e4abaa783796852baf1f9_b07-recap-lectura-que-de-verdad-atrape.mp3?Expires=1794099811&Signature=FZeXFMWGS~1Ncabua7uzEOkHQoZZmjMoxe62wMe3QVug-KY-V-edf~2MeGBDqwXhjRgGRcnjQCTLjmkP9SorIqgkLL-o3MaPyTqDKGLHVS71nV~RKGdo0SonqjdHYm0kjPwSOHJUOEgbAQO6rcfHGMEIA7YMbNcKx-Zd07fwIcd3d5OXrVgXZ9-O5i29q-7ThuuFMJDr20TUATUthVySDkV-ZG~mbyY6orCbSrts3J44KetqBLL2Vita68K-u8I5tVGpEvltyZN35PdZEAZOGWsQQfv9EPjdf5wKWwPm5gBT~onFd1RZ-HM9M73qdoW~53uUFGdJoad1nRdqF1GCAQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap integra causa, efeito e recomendação numa fala única sobre a leitura.",
+      "feedbackError": "O recap integra causa, efeito e recomendação numa fala única sobre a leitura.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "00f5df4e-3ddc-4dbf-9f2a-98275e4fc699",
+          "text": "enganchó",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "06069e61-f223-439d-a80b-7de4761a5f31",
+          "text": "historia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "06d60ae9-737e-428e-8f9a-bc88182934fb",
+          "text": "capítulo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8f2bcd41-6fd1-4439-8c17-024631c89225",
+          "text": "terminé",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9ca65629-03b6-4a9b-8130-65c9171c84b0",
+          "text": "autora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d2b5576a-e737-40f6-b2d2-8607b9ffb161",
+          "text": "recomiendo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d6806458-cbcf-4386-9d5c-0b30b12b5c91",
+          "text": "absorbente",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e0ef6b7e-bf5c-4146-9931-23950ae63c36",
+          "text": "atrape",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "6d24df87-864d-4e4c-ac1c-3ca3ac6103c1",
+      "sequence": 15,
+      "lessonId": "3f098680-17c4-459f-a541-db930efdce7c",
+      "title": "Recupere o critério",
+      "content": "<p>Para mí, lo más importante es el _________.</p><p>Tradução: Para mim, o mais importante é o enredo.</p>",
+      "contentPlain": "Para mí, lo más importante es el _________. Tradução: Para mim, o mais importante é o enredo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, argumento resume o que sustenta a história e pesa mais na leitura.",
+      "feedbackError": "Nesta aula, argumento resume o que sustenta a história e pesa mais na leitura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "argumento",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

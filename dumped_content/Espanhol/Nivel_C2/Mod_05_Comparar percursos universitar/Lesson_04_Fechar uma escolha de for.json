@@ -1,0 +1,551 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+    "attemptId": "e043e4f8-23f5-476e-95e3-b9560c27c5ab",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "5965c1a6-9762-4936-8480-c2214fac98ee",
+      "2456246c-7018-4f88-919f-318e7ba8642e",
+      "6ef04fe6-54a4-42e3-bd34-75de7597e59a",
+      "7debce9d-f104-4065-a855-386fa04c5c8f",
+      "bf0bc8e3-572a-4fe0-ab65-90534f1952d1"
+    ],
+    "evaluationExerciseIds": [
+      "29890fb8-7d4e-4969-b0e8-657cc8d70785",
+      "3a0e6854-e638-425b-a46e-d4446c23d55b",
+      "c0ecb6ae-913a-4fc2-bcad-f6685bd85678",
+      "309b3ae5-990b-49b9-bb52-5a60ee26f12c",
+      "3b6209a5-350d-4ce8-8af6-b84d350ab27f"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:26.6017073Z"
+  },
+  "contents": [
+    {
+      "id": "fdab3eca-e820-4fe7-8589-ad3de61f4ea4",
+      "title": "Leia o contexto e acompanhe que tipo de decisão a aula vai fechar em espanhol.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "532ef5f0-46da-484e-98eb-a39957cb5ade",
+          "textContent": "<p>Uma profissional de recursos humanos quer migrar para análise de dados sem largar o emprego atual.</p><p>Ela tem um ano para ganhar tração na área nova e precisa de um percurso que combine aplicação prática, reconhecimento e rotina possível.</p><p>Nesta aula, o foco é ver como fechar essa escolha em espanhol sem transformar a resposta numa lista solta de vantagens.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4c6bcef4-5479-4cef-99bb-496a39d3ea81",
+      "title": "Leia a frase-modelo e observe como a escolha já aparece conectada ao que ela resolve.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "48df280e-9577-4954-bcb5-eec3b9de09ca",
+          "textContent": "<p>Primeira linha de decisão:</p><p><strong>Si tuviera que decidir hoy, me inclinaría por una certificación aplicada, porque me permitiría seguir trabajando y entrar antes en el área.</strong></p><p>Em português: <strong>Se eu tivesse de decidir hoje, eu me inclinaria por uma certificação aplicada, porque isso me permitiria continuar trabalhando e entrar na área mais cedo.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "42dc7214-0bf5-4c22-92f3-f887ec0835f1",
+      "title": "Leia a nota curta e observe o papel de me inclinaria por e da justificativa com porque.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "e9740c82-51c0-4cf1-94e6-dbe7efd52d16",
+          "textContent": "<p><strong>me inclinaría por</strong> fecha a escolha como preferência pensada, não como verdade universal.</p><p><strong>porque me permitiría...</strong> não enfeita a frase: mostra o critério que faz essa rota ganhar.</p><p>Em decisões reais, essa combinação ajuda a soar coerente mesmo quando outras vias continuam possíveis.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6b8547c6-d180-4158-ba7c-d4871e25a4f3",
+      "title": "Leia a segunda linha e observe como a comparação reconhece valor sem tirar o foco da decisão central.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "95a2757e-b3f6-477d-98a0-5cdf3593b841",
+          "textContent": "<p>Agora a alternativa fica visível sem tirar o foco da escolha:</p><p><strong>Un posgrado tendría más peso académico, pero ahora mismo me exigiría un ritmo que no puedo sostener.</strong></p><p>Em português: <strong>Um posgrado teria mais peso acadêmico, mas agora exigiria de mim um ritmo que eu não consigo sustentar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ea9dac59-30b0-4294-879e-aa7fc776a9f9",
+      "title": "Leia o contraste e note por que a frase fica mais forte quando a alternativa não é caricaturada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "60829847-db28-43f3-b585-372f88fd30ef",
+          "textContent": "<p><strong>tendría más peso académico</strong> reconhece o valor real da alternativa.</p><p><strong>pero ahora mismo...</strong> recoloca a decisão nos critérios do caso: tempo, energia e compatibilidade com o trabalho atual.</p><p>A comparação fica mais forte quando a outra via não é ridicularizada; ela apenas deixa de vencer neste momento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a8749662-f78c-4276-92f9-28c521471db0",
+      "title": "Leia a frase e observe como a fala fecha a decisão sem apagar totalmente as outras possibilidades.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "d06b2635-9fa4-4cfa-9d31-8cd7a15e140f",
+          "textContent": "<p>Fechando a escolha com grau de convicção:</p><p><strong>No digo que sea la única vía, pero estoy bastante convencida de que es la más realista para alguien que ya trabaja.</strong></p><p>Em português: <strong>Não digo que seja o único caminho, mas estou bem convencida de que é a via mais realista para alguém que já trabalha.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "305cb4c2-f682-441d-b89a-ca3a231170de",
+      "title": "Leia a nota e compare o que a frase preserva em aberto com o que ela assume de forma clara.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "fae5b17f-1493-48d4-8a64-b29547a74db2",
+          "textContent": "<p><strong>No digo que sea la única vía</strong> deixa as outras opções vivas, sem reabrir toda a decisão.</p><p><strong>estoy bastante convencida de que</strong> mostra compromisso real com a escolha, mas sem soar inflexível.</p><p>Em escolhas educacionais, isso costuma soar mais crível do que falar como se não houvesse nenhuma margem de dúvida.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2d9a0352-d4b5-4269-be16-04e4021d8c35",
+      "title": "Leia o recap final e conecte cada movimento da aula a conversas reais sobre estudo, trabalho e reorientação profissional.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "7fd8a057-1e1f-4037-8300-f88b8141c220",
+          "textContent": "<p>Para fechar uma escolha educacional em espanhol, o comentário curto costuma fazer três coisas:</p><ul><li><strong>me inclinaría por...</strong> para dizer qual rota parece mais adequada agora</li><li><strong>tendría más peso..., pero...</strong> para reconhecer outra via sem perder o critério central</li><li><strong>estoy bastante convencida de que...</strong> para marcar convicção suficiente sem soar absoluta</li></ul><p>Isso serve em conversas com mentores, candidaturas, entrevistas e explicações simples sobre por que um percurso combina melhor com seu momento de vida.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "5965c1a6-9762-4936-8480-c2214fac98ee",
+      "title": "Associe moldura e função",
+      "content": "<p>Ligue cada trecho em espanhol ao papel que ele cumpre no fechamento da escolha educacional.</p>",
+      "contentPlain": "Ligue cada trecho em espanhol ao papel que ele cumpre no fechamento da escolha educacional.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final junta escolha, contraste e convicção em três movimentos curtos.",
+      "feedbackError": "O recap final junta escolha, contraste e convicção em três movimentos curtos.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0c8cd057-727e-45c2-8216-e7c16b8bece2",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5965c1a6-9762-4936-8480-c2214fac98ee"
+        },
+        {
+          "id": "30412b1f-17bd-498e-b303-604d7e2e6b37",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5965c1a6-9762-4936-8480-c2214fac98ee"
+        }
+      ],
+      "associations": [
+        {
+          "id": "6ee822d5-7cba-40e9-b7d9-f582e9cde392",
+          "exerciseId": "5965c1a6-9762-4936-8480-c2214fac98ee",
+          "leftContent": "me inclinaría por...",
+          "rightContent": "indica a rota preferida agora",
+          "sequenceItem": 1
+        },
+        {
+          "id": "862e77b4-4c47-48e6-8540-6d0a445a9c95",
+          "exerciseId": "5965c1a6-9762-4936-8480-c2214fac98ee",
+          "leftContent": "tendría más peso..., pero...",
+          "rightContent": "reconhece outra via sem tirar o foco da escolha",
+          "sequenceItem": 2
+        },
+        {
+          "id": "44751669-b06a-4119-9d03-467c3a6da93c",
+          "exerciseId": "5965c1a6-9762-4936-8480-c2214fac98ee",
+          "leftContent": "estoy bastante convencida de que...",
+          "rightContent": "marca convicção suficiente sem certeza total",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "2456246c-7018-4f88-919f-318e7ba8642e",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Un posgrado tendría más peso académico, pero ahora mismo me exigiría un _____ que no puedo sostener.</p><p>Tradução: Um posgrado teria mais peso acadêmico, mas agora exigiria de mim um ritmo que eu não consigo sustentar.</p>",
+      "contentPlain": "Complete a frase em espanhol: Un posgrado tendría más peso académico, pero ahora mismo me exigiría un _____ que no puedo sostener. Tradução: Um posgrado teria mais peso acadêmico, mas agora exigiria de mim um ritmo que eu não consigo sustentar.",
+      "fileUrl": null,
+      "feedbackSuccess": "A alternativa perde força quando o ritmo exigido não cabe no momento atual.",
+      "feedbackError": "A alternativa perde força quando o ritmo exigido não cabe no momento atual.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ritmo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "6ef04fe6-54a4-42e3-bd34-75de7597e59a",
+      "title": "Reconheça a escolha principal",
+      "content": "<p>Qual opção recupera a preferência central da aula para quem precisa continuar trabalhando?</p>",
+      "contentPlain": "Qual opção recupera a preferência central da aula para quem precisa continuar trabalhando?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa me inclinaría por para fechar a rota preferida com critério.",
+      "feedbackError": "A aula usa me inclinaría por para fechar a rota preferida com critério.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "59eb5b9d-fc1a-41ce-afc3-a1e71075a156",
+          "textContent": "No digo que sea la única vía.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6ef04fe6-54a4-42e3-bd34-75de7597e59a"
+        },
+        {
+          "id": "bc4c8af2-b183-4c97-ada7-681818e78eea",
+          "textContent": "Me inclinaría por una certificación aplicada.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6ef04fe6-54a4-42e3-bd34-75de7597e59a"
+        },
+        {
+          "id": "df99a55b-d35a-4477-b574-e503fcb9505a",
+          "textContent": "Un posgrado tendría más peso académico.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6ef04fe6-54a4-42e3-bd34-75de7597e59a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7debce9d-f104-4065-a855-386fa04c5c8f",
+      "title": "Associe fragmento e matiz",
+      "content": "<p>Ligue cada parte da frase de convicção ao matiz que ela produz no comentário.</p>",
+      "contentPlain": "Ligue cada parte da frase de convicção ao matiz que ela produz no comentário.",
+      "fileUrl": null,
+      "feedbackSuccess": "A convicção da aula fica firme, mas ainda deixa margem para nuance.",
+      "feedbackError": "A convicção da aula fica firme, mas ainda deixa margem para nuance.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0600d1ab-f856-4bee-9671-497492c79949",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7debce9d-f104-4065-a855-386fa04c5c8f"
+        },
+        {
+          "id": "92e1ffe3-4618-4bc9-8854-def6d22be15f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7debce9d-f104-4065-a855-386fa04c5c8f"
+        }
+      ],
+      "associations": [
+        {
+          "id": "d35ec222-91c6-4e4a-a8b1-d69624b4864a",
+          "exerciseId": "7debce9d-f104-4065-a855-386fa04c5c8f",
+          "leftContent": "No digo que sea la única vía",
+          "rightContent": "deixa outras opções vivas",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1d181850-d804-4d23-a9be-469864981ea0",
+          "exerciseId": "7debce9d-f104-4065-a855-386fa04c5c8f",
+          "leftContent": "estoy bastante convencida de que",
+          "rightContent": "mostra compromisso real com a escolha",
+          "sequenceItem": 2
+        },
+        {
+          "id": "abd96bad-1033-4d4f-af5d-30eebdf8c3dc",
+          "exerciseId": "7debce9d-f104-4065-a855-386fa04c5c8f",
+          "leftContent": "es la más realista para alguien que ya trabaja",
+          "rightContent": "fecha a justificativa pelo critério de realidade",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "bf0bc8e3-572a-4fe0-ab65-90534f1952d1",
+      "title": "Reconheça o contraste com critério",
+      "content": "<p>Qual opção reconhece o peso acadêmico de outra via, mas a recoloca nos limites do momento?</p>",
+      "contentPlain": "Qual opção reconhece o peso acadêmico de outra via, mas a recoloca nos limites do momento?",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste da aula reconhece a alternativa, mas a recoloca no critério do momento.",
+      "feedbackError": "O contraste da aula reconhece a alternativa, mas a recoloca no critério do momento.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "51212525-f37c-49ee-a5dc-f9eba29ff607",
+          "textContent": "No digo que sea la única vía, pero estoy bastante convencida de que es la más realista para alguien que ya trabaja.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bf0bc8e3-572a-4fe0-ab65-90534f1952d1"
+        },
+        {
+          "id": "8814ca9a-8bb7-439e-92fd-5f90f640bbb0",
+          "textContent": "Si tuviera que decidir hoy, me inclinaría por una certificación aplicada, porque me permitiría seguir trabajando y entrar antes en el área.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bf0bc8e3-572a-4fe0-ab65-90534f1952d1"
+        },
+        {
+          "id": "ce8ad59c-6781-45e7-987b-2df2a00fa95b",
+          "textContent": "Un posgrado tendría más peso académico, pero ahora mismo me exigiría un ritmo que no puedo sostener.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bf0bc8e3-572a-4fe0-ab65-90534f1952d1"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "29890fb8-7d4e-4969-b0e8-657cc8d70785",
+      "title": "Monte a palavra-chave",
+      "content": "<p>Complete a frase em espanhol: Si tuviera que decidir hoy, me inclinaría por una certificación aplicada, porque me __________ seguir trabajando y entrar antes en el área.</p><p>Tradução: Se eu tivesse de decidir hoje, eu me inclinaria por uma certificação aplicada, porque isso me permitiria continuar trabalhando e entrar na área mais cedo.</p>",
+      "contentPlain": "Complete a frase em espanhol: Si tuviera que decidir hoy, me inclinaría por una certificación aplicada, porque me __________ seguir trabajando y entrar antes en el área. Tradução: Se eu tivesse de decidir hoje, eu me inclinaria por uma certificação aplicada, porque isso me permitiria continuar trabalhando e entrar na área mais cedo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A justificativa ganha força quando a escolha aparece ligada ao que ela permite fazer agora.",
+      "feedbackError": "A justificativa ganha força quando a escolha aparece ligada ao que ela permite fazer agora.",
+      "answerType": "buildWord",
+      "expectedAnswer": "permitiría",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3a0e6854-e638-425b-a46e-d4446c23d55b",
+      "title": "Monte a palavra-chave",
+      "content": "<p>Complete a frase em espanhol: No digo que sea la única vía, pero estoy bastante __________ de que es la más realista para alguien que ya trabaja.</p><p>Tradução: Não digo que seja o único caminho, mas estou bem convencida de que é a via mais realista para alguém que já trabalha.</p>",
+      "contentPlain": "Complete a frase em espanhol: No digo que sea la única vía, pero estoy bastante __________ de que es la más realista para alguien que ya trabaja. Tradução: Não digo que seja o único caminho, mas estou bem convencida de que é a via mais realista para alguém que já trabalha.",
+      "fileUrl": null,
+      "feedbackSuccess": "Estoy bastante convencida de que fecha a escolha com firmeza sem apagar a nuance.",
+      "feedbackError": "Estoy bastante convencida de que fecha a escolha com firmeza sem apagar a nuance.",
+      "answerType": "buildWord",
+      "expectedAnswer": "convencida",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c0ecb6ae-913a-4fc2-bcad-f6685bd85678",
+      "title": "Monte a palavra-chave",
+      "content": "<p>Complete a frase em espanhol: Un posgrado tendría más peso académico, pero ahora mismo me exigiría un ritmo que no puedo ________.</p><p>Tradução: Um posgrado teria mais peso acadêmico, mas agora exigiria de mim um ritmo que eu não consigo sustentar.</p>",
+      "contentPlain": "Complete a frase em espanhol: Un posgrado tendría más peso académico, pero ahora mismo me exigiría un ritmo que no puedo ________. Tradução: Um posgrado teria mais peso acadêmico, mas agora exigiria de mim um ritmo que eu não consigo sustentar.",
+      "fileUrl": null,
+      "feedbackSuccess": "O limite prático da aula não cancela a alternativa; ele só mostra por que ela perde agora.",
+      "feedbackError": "O limite prático da aula não cancela a alternativa; ele só mostra por que ela perde agora.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sostener",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "309b3ae5-990b-49b9-bb52-5a60ee26f12c",
+      "title": "Remonte o comentário final",
+      "content": "<p>Religue os quatro movimentos do comentário final: escolha, critério, limite da alternativa e convicção.</p>",
+      "contentPlain": "Religue os quatro movimentos do comentário final: escolha, critério, limite da alternativa e convicção.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário final da aula se organiza por escolha, critério, limite e convicção.",
+      "feedbackError": "O comentário final da aula se organiza por escolha, critério, limite e convicção.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "244a4f00-4be2-485f-9d43-2c82a76a58f7",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "309b3ae5-990b-49b9-bb52-5a60ee26f12c"
+        },
+        {
+          "id": "ce1d1b5c-d8d8-48e1-ad27-58579326e156",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "309b3ae5-990b-49b9-bb52-5a60ee26f12c"
+        }
+      ],
+      "associations": [
+        {
+          "id": "43691940-f0ba-416d-b55f-3afeed60ee9b",
+          "exerciseId": "309b3ae5-990b-49b9-bb52-5a60ee26f12c",
+          "leftContent": "me inclinaría por una certificación aplicada",
+          "rightContent": "fecha a rota escolhida",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3b91ec76-87e6-4a2c-b175-941956d0807f",
+          "exerciseId": "309b3ae5-990b-49b9-bb52-5a60ee26f12c",
+          "leftContent": "me permitiría seguir trabajando",
+          "rightContent": "liga a escolha ao critério de compatibilidade",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c0176ac5-bad3-43e7-b6b1-0b23c9291d32",
+          "exerciseId": "309b3ae5-990b-49b9-bb52-5a60ee26f12c",
+          "leftContent": "me exigiría un ritmo que no puedo sostener",
+          "rightContent": "explica por que a alternativa perde agora",
+          "sequenceItem": 3
+        },
+        {
+          "id": "50eb8a46-2f79-4eda-b0c7-c38d3f7e5099",
+          "exerciseId": "309b3ae5-990b-49b9-bb52-5a60ee26f12c",
+          "leftContent": "estoy bastante convencida de que es la más realista",
+          "rightContent": "fecha com convicção matizada",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "3b6209a5-350d-4ce8-8af6-b84d350ab27f",
+      "title": "Monte a palavra-chave",
+      "content": "<p>Complete a frase em espanhol: Si tuviera que decidir hoy, me __________ por una certificación aplicada.</p><p>Tradução: Se eu tivesse de decidir hoje, eu me inclinaria por uma certificação aplicada.</p>",
+      "contentPlain": "Complete a frase em espanhol: Si tuviera que decidir hoy, me __________ por una certificación aplicada. Tradução: Se eu tivesse de decidir hoje, eu me inclinaria por uma certificação aplicada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me inclinaría marca a preferência pensada sem transformar a fala em certeza absoluta.",
+      "feedbackError": "Me inclinaría marca a preferência pensada sem transformar a fala em certeza absoluta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "inclinaría",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Fechar uma escolha de formacao com criterio"
+}

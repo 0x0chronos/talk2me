@@ -1,0 +1,435 @@
+{
+  "attemptId": "d32c2f07-114d-471d-b602-fe73830f05e1",
+  "exercises": [
+    {
+      "exerciseId": "73e8e43d-63df-42d8-9b41-0a009ffea2bb",
+      "sequence": 1,
+      "lessonId": "063cbbc7-e334-47ca-9be8-a68135250d75",
+      "title": "Recupere a frase negativa pelo áudio",
+      "content": "<p>Escute a descrição da área e marque só as palavras realmente presentes.</p>",
+      "contentPlain": "Escute a descrição da área e marque só as palavras realmente presentes.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0de90aac7c05470895f52dbd0e512c6b_b04-en-esta-zona-no-hay-estacion-de-tren.mp3?Expires=1794099478&Signature=M2j1~tJMngNLb88KMVqP9i7WhvJ6iD1aj7wWysk636-04e3eaIbBzSb02SviQju-9~bCZayvk82PwQgQfDqrRmoorHxBWZoK-SJ7AA6TLXSwJT8OHYNiOTvhMLhC7QJqq6fHFvLvVPBywI4cxnOQtuKyuqC5hymM0rdeChlU6hSmydzc~1g4wrWRZO6DCcaECP~nUm0x36VzHX3Bv43~qL9kKAvX48QK6I-3njL1WwSRG7ONd1fcFq8bZhMqhjgH7KX239S522WU1FCIexYNV4kyusRqGYKHvGCxXiF6pdPL2UDzVkj~~UqY9DJ2ocC7pujEzLDCG1MJu9rXbyNa1w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A frase negativa da aula combina `no hay` com o lugar que falta na área.",
+      "feedbackError": "A frase negativa da aula combina `no hay` com o lugar que falta na área.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "05e4a735-a4e2-4ae5-87dc-9bf7d687c4dd",
+          "text": "tren",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "33e01e33-471c-4c2d-b32c-a7456eaabe4b",
+          "text": "no",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3cecc6ba-031a-4688-8909-d5d6697012ae",
+          "text": "estación",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5cc6c4fd-402a-4515-84db-f6f6636747bf",
+          "text": "hay",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6600f5a7-7685-4b85-964c-1eb48d244788",
+          "text": "mercado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "868b078e-6d3f-4d59-a142-90be19128c10",
+          "text": "zona",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8d673d5d-890b-4314-86f2-75342408a18f",
+          "text": "barrio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c511a412-9bc3-43ea-82de-efcd7e3bc694",
+      "sequence": 2,
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "title": "Complete o nome do jornal",
+      "content": "<p>el _________</p><p>Tradução: o jornal impresso</p>",
+      "contentPlain": "el _________ Tradução: o jornal impresso",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, el periódico aparece como o objeto impresso associado a momentos simples de leitura.",
+      "feedbackError": "Nesta aula, el periódico aparece como o objeto impresso associado a momentos simples de leitura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "periódico",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6e857ce8-faf1-4cae-ad30-7a7efcc8a962",
+      "sequence": 3,
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "title": "Recupere a frase completa",
+      "content": "<p>Ligue cada pista curta ao enunciado inteiro em espanhol, sem tradução nas respostas.</p>",
+      "contentPlain": "Ligue cada pista curta ao enunciado inteiro em espanhol, sem tradução nas respostas.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final retoma três saídas curtas para falar da mesma cena com mais naturalidade.",
+      "feedbackError": "O resumo final retoma três saídas curtas para falar da mesma cena com mais naturalidade.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "6d54d3fd-4ada-497a-bc82-875e1ea081e6",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e8903dd5-2fac-438e-a834-40ff4b7cb19b",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "95229dd9-6c4c-4df7-8895-157d41923a43",
+          "leftContent": "falar do que existe ao redor ao caminhar pelo bairro",
+          "rightContent": "En mi barrio hay un café y una farmacia.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "502f7f7a-5f29-4223-a3ae-5bdc13278602",
+          "leftContent": "identificar um objeto sobre a mesa do café",
+          "rightContent": "Este móvil es negro.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a4ba947f-8093-4074-a0d7-c748fb005966",
+          "leftContent": "dizer que a carteira é sua em uma cena cotidiana",
+          "rightContent": "La cartera es mía.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "8065b99d-20e5-4cda-85a7-2f498771f8a9",
+      "sequence": 4,
+      "lessonId": "4953c12c-d969-489b-868c-300357d62ab1",
+      "title": "Complete o nome das lojas",
+      "content": "<p>las _______</p><p>Tradução: as lojas</p>",
+      "contentPlain": "las _______ Tradução: as lojas",
+      "fileUrl": null,
+      "feedbackSuccess": "`Tiendas` aparece nesta aula para falar de lojas em geral, normalmente em conjunto.",
+      "feedbackError": "`Tiendas` aparece nesta aula para falar de lojas em geral, normalmente em conjunto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tiendas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b4c592c9-c14e-4a67-9201-5df350ab282c",
+      "sequence": 5,
+      "lessonId": "331ee21d-3879-4e4a-b8fd-452d2dec65f6",
+      "title": "Complete a forma dos óculos",
+      "content": "<p>Estas gafas son las ________.</p><p>Tradução: Estes óculos são os nossos.</p>",
+      "contentPlain": "Estas gafas son las ________. Tradução: Estes óculos são os nossos.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Las nuestras` retoma um objeto feminino no plural.",
+      "feedbackError": "`Las nuestras` retoma um objeto feminino no plural.",
+      "answerType": "buildWord",
+      "expectedAnswer": "nuestras",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d11fe4b7-f323-46f3-86b4-4c620dc4b506",
+      "sequence": 6,
+      "lessonId": "423eb12e-dc07-4932-b724-c96d1a44f84c",
+      "title": "Complete a frase dos óculos",
+      "content": "<p>Las gafas son ____.</p><p>Tradução: Os óculos são meus.</p>",
+      "contentPlain": "Las gafas son ____. Tradução: Os óculos são meus.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Mías` retoma a mesma ideia de posse quando o objeto aparece no plural.",
+      "feedbackError": "`Mías` retoma a mesma ideia de posse quando o objeto aparece no plural.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mías",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2b12068d-fc71-40c4-8ed3-da69dfd25f44",
+      "sequence": 7,
+      "lessonId": "06bc0337-3e75-43b4-a115-efb4790842c2",
+      "title": "Recupere a forma feminina",
+      "content": "<p>Complete em espanhol: _______ cartera.</p><p>Tradução: aquela carteira.</p>",
+      "contentPlain": "Complete em espanhol: _______ cartera. Tradução: aquela carteira.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, aquella marca feminino singular para algo que está longe.",
+      "feedbackError": "Nesta aula, aquella marca feminino singular para algo que está longe.",
+      "answerType": "buildWord",
+      "expectedAnswer": "aquella",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7bb835ec-3103-4a99-bec8-18876117b42e",
+      "sequence": 8,
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "title": "Recupere um lugar do bairro",
+      "content": "<p>Complete a frase: Hay un _______ en mi barrio.</p><p>Tradução: Existe um mercado no meu bairro.</p>",
+      "contentPlain": "Complete a frase: Hay un _______ en mi barrio. Tradução: Existe um mercado no meu bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "feedbackError": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mercado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "dc44701d-0383-4b10-a347-59d0e7b95844",
+      "sequence": 9,
+      "lessonId": "049a844a-615b-4bba-ab70-66604e69e5a0",
+      "title": "Associe o áudio ao trecho central",
+      "content": "<p>Escute e relacione cada áudio ao trecho que destaca a quantidade.</p>",
+      "contentPlain": "Escute e relacione cada áudio ao trecho que destaca a quantidade.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste desta aula está entre hay una farmacia e hay dos farmacias.",
+      "feedbackError": "O contraste desta aula está entre hay una farmacia e hay dos farmacias.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "c2100a03-7820-4b3f-8ebd-57a77e777c39",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0230fffad4364a37ab15864f7ba6e907_b01-en-esta-calle-hay-una-farmacia.mp3?Expires=1794099478&Signature=pz6Qy3~QWUizxbpNGDVrHYuXnNetEXSkJKvCKRD7r~vRxF9U973vT3~NkRmqGMVijDC4Tr5GkwUlClNbeBdHiXYIJGDjpSdOt42RVOraEEhr19zsG-DRC4PkVNwyNdz3YjbkJDYd3s7yDr164JO0DdyiaiXqJE3Fb6vKvDa1fLF4M3Wcx-JxPQtoorVPmYg-UXFQMO64mheAcPKVPt3OuJ8PoBG8~pMipM14yQ1K~c4d20ooFU8YcvfPr4WEprzXZMtfSKBSh4rt-VrRBVeMk7NjFvcJYcGxJy~VZzv8w~h8Ge8mwmvyrNgTHF57GT3whmEWvOxxR7uyr2ew-goijQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hay una farmacia",
+          "sequenceItem": 1
+        },
+        {
+          "id": "aa889cbb-45cd-433a-9fdf-ec29756263b5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a500157d271146c3be9724ec1806d2c3_b03-en-este-barrio-hay-dos-farmacias.mp3?Expires=1794099478&Signature=vbs0sfEUF8MKrIWPPVggNOVk5UJHrmwByWb01UP7hgeNO-J~lhIYfh7345JphpT3pWMieyp9HxxSIgNqD8ZFPlC6LqnBxbgZg6QOoy72gpbQ3xEfqd5wHAFzCUjOkK71yvp9FZtAiaWym0RTs5AJp4X21dtUZ6jYINhEF82fl332rugTz41FTi8f~BibpVvI9Xm4a-vQi3DxBIabXy2W59VidUea0sSc0EFJYeJ0HkgQ~3Awt~J4wpGu-Mi3ZreN588vnl8end0tiYBfqSZCvdjuTspcZRRJSOqry2zdP4eHOALy00q2GyTbMp-C8fgPiVERAbN5cLruUx8GG2bEZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hay dos farmacias",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "94a18c09-50f3-49c6-ade1-1c6dd06ebb95",
+      "sequence": 10,
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "title": "Recupere a fala certa da conversa",
+      "content": "<p>Ligue cada situação curta à frase inteira em espanhol sem apoio de áudio.</p>",
+      "contentPlain": "Ligue cada situação curta à frase inteira em espanhol sem apoio de áudio.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula combina quatro falas curtas para pedir e dar informação sobre lugares.",
+      "feedbackError": "O diálogo da aula combina quatro falas curtas para pedir e dar informação sobre lugares.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0c9a34db-1481-4bc7-a6cb-b484e455ef7b",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "588b2223-af12-4d7e-8493-b47ec52e66a9",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "193a91e0-a22d-446c-ac42-088a9e27fae5",
+          "leftContent": "quer saber se existe um mercado perto de você",
+          "rightContent": "¿Hay un mercado por aquí?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "baa2cd8e-ef09-402c-8c57-107c6c4084ff",
+          "leftContent": "ouve que não há mercado nessa rua, mas há outra opção perto",
+          "rightContent": "No, no hay un mercado en esta calle, pero hay una tienda cerca.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0a62b2f2-eb01-4b18-a59d-54365f5e4107",
+          "leftContent": "quer perguntar onde fica uma cafeteria",
+          "rightContent": "¿Dónde hay una cafetería?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "82caeab8-d3da-49bf-8cd1-0e3165ec7d10",
+          "leftContent": "recebe a indicação de que a cafeteria fica no final da rua",
+          "rightContent": "Hay una cafetería al final de esta calle.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "260a7f76-4efb-4481-ab9b-8a3a3b113c75",
+      "sequence": 11,
+      "lessonId": "9c7dc263-b931-412e-9300-9fd7eba0022f",
+      "title": "Recupere a frase completa",
+      "content": "<p>Ligue cada pista curta à frase inteira em espanhol sem apoio de áudio.</p>",
+      "contentPlain": "Ligue cada pista curta à frase inteira em espanhol sem apoio de áudio.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio pede recuperar frases completas a partir do sentido central da revisão.",
+      "feedbackError": "O desafio pede recuperar frases completas a partir do sentido central da revisão.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "81d70fe8-85e6-4a04-86ca-96fe18c0d077",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cbf626c4-89c4-402a-be06-0e94e04e2e42",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "6c185f00-f143-4b79-9987-f2eeea2c0174",
+          "leftContent": "um celular preto perto de mim",
+          "rightContent": "Este móvil negro es mío.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2190d6b2-237d-40a5-b7c6-aee304a0b27e",
+          "leftContent": "uma carteira vermelha perto de mim, que é sua",
+          "rightContent": "Esta cartera roja es tuya.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "cb48805c-3607-4a72-a862-72e76042ffbc",
+          "leftContent": "uns óculos pretos perto de mim",
+          "rightContent": "Estas gafas negras son mías.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "d2f2269c-99e6-40d4-a186-dee49017a929",
+      "sequence": 12,
+      "lessonId": "595ebfe5-bfcb-4e46-b1ed-0837b56f560d",
+      "title": "Complete a indicação",
+      "content": "<p>Na seta: ____</p><p>Tradução: aqui</p>",
+      "contentPlain": "Na seta: ____ Tradução: aqui",
+      "fileUrl": null,
+      "feedbackSuccess": "Em aquí, o acento mostra que a força cai em quí.",
+      "feedbackError": "Em aquí, o acento mostra que a força cai em quí.",
+      "answerType": "buildWord",
+      "expectedAnswer": "aquí",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "77f9f1ab-fd46-40c5-91cc-2631355123d9",
+      "sequence": 13,
+      "lessonId": "9368fa31-b885-40e7-beef-4a3a2eaee6ff",
+      "title": "Complete a forma feminina singular",
+      "content": "<p>____ cartera.</p><p>Tradução: esta carteira.</p>",
+      "contentPlain": "____ cartera. Tradução: esta carteira.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, esta acompanha um nome feminino singular que está perto.",
+      "feedbackError": "Nesta aula, esta acompanha um nome feminino singular que está perto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "esta",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "96c2fa91-f8b2-4594-982a-9b20135495be",
+      "sequence": 14,
+      "lessonId": "a5d2e0af-08d8-4482-bf17-03d8db81b575",
+      "title": "Complete a combinação masculina",
+      "content": "<p>el móvil _____</p><p>Tradução: o celular preto.</p>",
+      "contentPlain": "el móvil _____ Tradução: o celular preto.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula mostra que negro é a forma usada com el móvil.",
+      "feedbackError": "A aula mostra que negro é a forma usada com el móvil.",
+      "answerType": "buildWord",
+      "expectedAnswer": "negro",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3592f6aa-86dd-41af-a964-64d3a194b91c",
+      "sequence": 15,
+      "lessonId": "92c09d8f-f0bb-4603-a6f6-9ea681a3a02c",
+      "title": "Reconstrua os três lugares da aula",
+      "content": "<p>Ouça os três modelos curtos e ligue cada áudio ao lugar certo em espanhol.</p>",
+      "contentPlain": "Ouça os três modelos curtos e ligue cada áudio ao lugar certo em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula reúne três lugares úteis para orientação básica na cidade.",
+      "feedbackError": "O fechamento da aula reúne três lugares úteis para orientação básica na cidade.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "52a9e411-1c4e-4a1b-ac55-73f7400ba6e2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/832dd48ec09343dd85b1bd8f37ae1635_b02-la-parada-de-autobus.mp3?Expires=1794099478&Signature=FA2vOSX6ksYRGUpnwS2xq2Az46~6Syx~08UcdH0q3PEXQZrUYEbw2fLo1xr~~j9vGzrI6UIcSqb7cgz~TZHdVnNKzKtFXrAUf2QcAJL-~2vj5kzIX67gCc3yrKa1VIbzKVT9xpSNQw9wEEoGmC~81UM2EmwynUS8lhpWztJ3UIRut34edyWSaPGkIkIooYd6XEKNJKU5CFPLFg2RfOmzEesbFtXI7ZvFbyO-5XUJ7-nMZARPsGXm5-LM8yRiUgiyXEtUW3Pc9YN8-YKCH9jFom8mygjoimFWYgOUHI6jA4iSCNEjE-acNPwrO5Ld9jvpU1O3KFgl1e969Z-jCyjCQA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "la parada de autobús",
+          "sequenceItem": 1
+        },
+        {
+          "id": "587f3b3a-2af8-404c-9a60-9daf0b36ef0b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e10d97e988ef4de0afde8a21dd98f61b_b04-la-estacion-de-tren.mp3?Expires=1794099478&Signature=WwcL3nLiUS6pE5-h9Mh0uspzROM1dXFt7iy0hJqRzP6712eyneDpEgyKZbPiZK9lkm5jVWsxVF1ZsHq~PkYSfgYMKBTxd7WHYhvJmHBN1ls31Fi3yUSJT3UcsuTxLGSHPgsSdYaYhngQZmDuEWZvuZkCnttahHihi-E3jL~O-Pil5dWNaycYJhwOAWqnOtJtpq7~J7Nm092GLtUxdkA2ih2B0xvnipfeYb~s-yC1Wth9wdJr-bkz2ezIJ3gsdDX8BrM-tXm1A1craQp3o02D9KsR0qORanSlGyYnbqx5YxC4kC3wao~T~knfcOR2OK93GKVJ6CjqZl-IstwMSE~ChA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "la estación de tren",
+          "sequenceItem": 2
+        },
+        {
+          "id": "632632bf-5af1-48a7-ae8f-ea8f7fc67286",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cf5f423a6e2042f99519c443d3e30782_b06-el-hospital.mp3?Expires=1794099478&Signature=ld-GhSP~2z~Ekf8f3L~Ztsih5tYqidupg6S7lCI3Bfa9~m9RjcXNVk1K~SuqPMSV8ELqXz0MTVRDfDMqZ-o84ykJmHGL07zk5IABE23DCtEtZXrzQjAaKoUYV28tABLUrdsuuWWcee52s6S5FUiNd-Tz2wBHzhKlHAUqJXdZ~r0WqcJcUaTtgRNddAn5MgF5jXc9ndrtF5wjCMME9VIpLriW0Oil8atnaMaxVGwYfGQ7fdp868rD~~cz5AUMDcgcSwJbDX0kuoWOqB0NcCT4K6Wo5buiHIYPPq0KgKLYsJRUGlR3DVG8VoKuq6FTMKPMevlgog5YpyTO0fExEgJ9OA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "el hospital",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ]
+}

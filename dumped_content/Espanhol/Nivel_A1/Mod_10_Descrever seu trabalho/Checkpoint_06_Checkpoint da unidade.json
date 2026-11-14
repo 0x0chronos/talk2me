@@ -1,0 +1,407 @@
+{
+  "attemptId": "3cedadd8-9357-4e24-961f-ea9d98e9cdf3",
+  "exercises": [
+    {
+      "exerciseId": "5f5a19da-1a2b-4e93-b6f9-238950f6223c",
+      "sequence": 1,
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase: Trabajo en una _______.</p><p>Tradução: Trabalho em uma escola.</p>",
+      "contentPlain": "Complete a frase: Trabajo en una _______. Tradução: Trabalho em uma escola.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, trabajo en + lugar completa a resposta curta com o local de trabalho.",
+      "feedbackError": "Nesta aula, trabajo en + lugar completa a resposta curta com o local de trabalho.",
+      "answerType": "buildWord",
+      "expectedAnswer": "escuela",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2e5a7a51-b877-4371-9f4a-8c4b31ab8df1",
+      "sequence": 2,
+      "lessonId": "aea70d71-1a9b-4969-91b7-8c928e0c3e34",
+      "title": "Combine a fala com as pistas",
+      "content": "<p>Cada áudio reúne profissão e lugar. Associe cada fala ao conjunto correto em espanhol.</p>",
+      "contentPlain": "Cada áudio reúne profissão e lugar. Associe cada fala ao conjunto correto em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "No fechamento da aula, o padrão junta profissão e lugar para descrever o trabalho.",
+      "feedbackError": "No fechamento da aula, o padrão junta profissão e lugar para descrever o trabalho.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "554b3ecb-4384-4a8f-ab3b-fc7fb7c7043a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5a87961b809a438eb996ddd216edd452_ch05-soy-profesor-trabajo-en-la-escuela.mp3?Expires=1794099453&Signature=2GQsFSldbgbP4cu~ESxC9lmLrafm6HmLRfgFsUthb1EokDL6K-3vi57L55GmxJn6KzX~IIPIxgQ4OkTsT6ckQwhyaEcnCfYlWcMYD0maPx4uth478AJTU4rPZyscPqoLbNRt9PjOKlE-HWLJvceT~SDx9Sj6U3SSeeShA3KxjuMcVkUBA2hqG7doLXwd7r~KxhtrpzvaAgGlTOXody4B9eEcW8OZmSTF5qLIWjOaX2G7DF0kYLfcz8f9stXLrp4044t7ZMs1vqBoJyfeAuGVSyCQK4EyEiap5Sa6EYOd0p6ICpV8BrKj~zcVDeyOLglfpwm-3M-hJthCbxQ5c5alDQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "profesor / escuela",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5a8ffd36-a0ed-4a50-a7ae-742da6f15cfc",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/13f1717135184709ae4f162aebc1cad8_ch05-soy-medica-trabajo-en-el-hospital.mp3?Expires=1794099453&Signature=LOvrL4H5yvdYmc5j5zilHldb3RtTaI5tNemcORBcT-iWqdcueBsSaHb7NKP832u6US2xps8TPkZ1b9k2xfdbft~6o7II5mUxDWOz2lcYObXiQMTKcjvef48z7e1P9YpD2RXdngFMBZ9twzHaZ7K4vhrKmrq2cNIQ5U64hCDKr4DO6t3SUShgdQa~1BI81uXLgKtCSeeB8bim~RoBsh6T3JkfXmfB8g0JxDl2H8~thC~JYVcgaqiqwYArq2AGnGE-txt3OwRGqquOWw4eAc2i55Uqnt4FCZZa9MAc89CCAYWO4oSGv~82cHJY40dzCBtRacNJNZpyq9OFxDkutgXcOw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "médica / hospital",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "fc0a5862-98b4-4f04-a975-75d59e7ea5c1",
+      "sequence": 3,
+      "lessonId": "e12e859e-4bf1-49cd-b847-2df240c9e810",
+      "title": "Complete a expressão de vários escritórios",
+      "content": "<p>___ oficinas</p><p>Tradução: os escritórios.</p>",
+      "contentPlain": "___ oficinas Tradução: os escritórios.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com oficinas no plural, o artigo muda de la para las.",
+      "feedbackError": "Com oficinas no plural, o artigo muda de la para las.",
+      "answerType": "buildWord",
+      "expectedAnswer": "las",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "507f08de-45c6-454e-8028-1d7d20831789",
+      "sequence": 4,
+      "lessonId": "aea70d71-1a9b-4969-91b7-8c928e0c3e34",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase: Trabajo en el ________.</p><p>Tradução: Trabalho no hospital.</p>",
+      "contentPlain": "Complete a frase: Trabajo en el ________. Tradução: Trabalho no hospital.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na conversa desta aula, trabajo en + lugar mostra onde a pessoa trabalha.",
+      "feedbackError": "Na conversa desta aula, trabajo en + lugar mostra onde a pessoa trabalha.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hospital",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5ab69ff0-c77f-4d0f-a877-e08e4ee46fcb",
+      "sequence": 5,
+      "lessonId": "aea70d71-1a9b-4969-91b7-8c928e0c3e34",
+      "title": "Ouça a fala e selecione as palavras",
+      "content": "<p>Agora a escuta junta profissão e lugar. Marque apenas as palavras que fazem parte da fala.</p>",
+      "contentPlain": "Agora a escuta junta profissão e lugar. Marque apenas as palavras que fazem parte da fala.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/13f1717135184709ae4f162aebc1cad8_ch05-soy-medica-trabajo-en-el-hospital.mp3?Expires=1794099453&Signature=LOvrL4H5yvdYmc5j5zilHldb3RtTaI5tNemcORBcT-iWqdcueBsSaHb7NKP832u6US2xps8TPkZ1b9k2xfdbft~6o7II5mUxDWOz2lcYObXiQMTKcjvef48z7e1P9YpD2RXdngFMBZ9twzHaZ7K4vhrKmrq2cNIQ5U64hCDKr4DO6t3SUShgdQa~1BI81uXLgKtCSeeB8bim~RoBsh6T3JkfXmfB8g0JxDl2H8~thC~JYVcgaqiqwYArq2AGnGE-txt3OwRGqquOWw4eAc2i55Uqnt4FCZZa9MAc89CCAYWO4oSGv~82cHJY40dzCBtRacNJNZpyq9OFxDkutgXcOw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, a mesma pessoa pode dizer a profissão e o lugar em duas frases curtas.",
+      "feedbackError": "No diálogo, a mesma pessoa pode dizer a profissão e o lugar em duas frases curtas.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "06ec0879-0f71-414e-8ab3-000949f04b76",
+          "text": "hospital",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4abce7fe-2602-4617-8e52-3d4da00fd3bc",
+          "text": "profesor",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "55a03757-d687-47e3-8365-b451323f51d7",
+          "text": "soy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "978c08b8-b37c-496b-ad46-ed414295bb16",
+          "text": "escuela",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a0cb606c-61f1-45e2-9d83-4e7434ea3d45",
+          "text": "médica",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d3d6174a-7fb4-42b2-ba76-d28c9d12fa8f",
+          "text": "trabajo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "0f2e56ae-0cea-42ff-b73b-3b9f51cfbab7",
+      "sequence": 6,
+      "lessonId": "e12e859e-4bf1-49cd-b847-2df240c9e810",
+      "title": "Complete a expressão do hospital",
+      "content": "<p>__ hospital</p><p>Tradução: o hospital.</p>",
+      "contentPlain": "__ hospital Tradução: o hospital.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, el acompanha hospital quando falamos de um lugar só.",
+      "feedbackError": "Nesta aula, el acompanha hospital quando falamos de um lugar só.",
+      "answerType": "buildWord",
+      "expectedAnswer": "el",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb",
+      "sequence": 7,
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "title": "Ouça a resposta e selecione as palavras",
+      "content": "<p>Agora a escuta junta profissão e lugar. Marque apenas as palavras que fazem parte da resposta ouvida.</p>",
+      "contentPlain": "Agora a escuta junta profissão e lugar. Marque apenas as palavras que fazem parte da resposta ouvida.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a28bb884335f4ac28075156927b37a21_b04-a-soy-profesor-trabajo-en-una-escuela.mp3?Expires=1794099453&Signature=CocSbnzFMWOo3f8xaYxpxm7HLNr~i1U9ACqijoWPuDo7glllU4lIq40AA65e3ZYsgRQv8hPXcIPTVDyg-0Za7trfAvxVFq2oV-xGF9k~4JrrOFDS3Lwe6Q92ATj4yXPwSNvdzok7mtbWrPvwe6Cv4L1n0uenwLYMOp-bmbpOnYAJJxWjf-OYVWZ0yw2EEUu6MkL9nmRUY5lqg~1FHwLLkFdEYAtxY76lqKWl8os0hu7tul8~OnmqDhL2-2Okb9d6z8fIN1YIcIgJW~I49BkRhBRd6lc6ABpKjb9oav4ZXSeLJfTA92~A-0r7P3XT3H5FwTKnYowJZNIF7L1pzzr6iQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na troca curta desta aula, a resposta completa combina profissão e lugar sem precisar de frase longa.",
+      "feedbackError": "Na troca curta desta aula, a resposta completa combina profissão e lugar sem precisar de frase longa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2b496a87-f2c2-4fc9-82ab-0c55250c498a",
+          "text": "hospital",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3eb64063-15e1-41cc-97ec-48617b132a23",
+          "text": "médica",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5591a945-7d41-4af9-8a54-49ccba0facf1",
+          "text": "una",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "58ef8119-623e-43a2-afe1-556b0b8710b1",
+          "text": "soy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6b3c70f8-c653-4906-8304-e71c4b624aff",
+          "text": "profesor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6fd55d79-2acd-4267-ab75-ce513c313ccd",
+          "text": "trabajo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "716959be-3379-471a-b966-18f7e323797c",
+          "text": "escuela",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "74e5c404-beeb-4e67-99d8-89df7e1dcb70",
+      "sequence": 8,
+      "lessonId": "663d6d84-6cba-4b8b-a331-6fc18cf30671",
+      "title": "Diferencie médica e médico",
+      "content": "<p>Escute com atenção e associe cada áudio à resposta exata.</p>",
+      "contentPlain": "Escute com atenção e associe cada áudio à resposta exata.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste da aula mostra como médica e médico mudam com quem fala.",
+      "feedbackError": "O contraste da aula mostra como médica e médico mudam com quem fala.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "9804ef8a-a6fd-4eb2-a8d2-09a1bd1e701c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9ccccef0bc4f4bcea4230802c470a9b8_soy-medica.mp3?Expires=1794099453&Signature=E9Dt-UbssTiVJ1I4plsgRZbkHqRLkGx9uJUn5bLQD8pvGqKdevI8hov0nSqZ4-0LDykCYXvpyuccWdGw2DOcR-pxbzXL9g7ytG3AInhUYKaGl8JzPOrbVWRmBD90sWNyZSj30JC~nDwfExkg9M6MftyQ3br4U5DnL3ydkmddQmN4MC4YRykTmteCJ6C4Gy-GO70zxfyjiMFZyL-r0gAdpWtsT7ZmS6s11byAP-aNR0iQ4zdzEYdHAkitI3IgKvBwqfHiSHeXE5LCr2o6CYx8V1lZxwijvH98oRyNEHVmRWpEPbLZkbeadzpqTY7-24YjJJUkF7NalPFTueA6yw02AQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy médica.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "95bbd068-4ebb-4eda-bf68-0f8f11781b47",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/af89f6c7e53749959488c30a59d189a9_soy-medico.mp3?Expires=1794099453&Signature=mhdbmaeQ1ICXDO5roejomLUXZ-UOIDBL8E-D4GpAHY6WPjink40Ei562mRo3NVapXJyrAY4pWRRlMsR5VMO6~lGy2xViu83hXWqQ6U9jnOolOyw5WPhqIh7u~Mh4l7v5vXI7qK~7g4~3MwTY~n5gdhKSODJZXJP~OgXHpZvRQGAYW5Y1X7J7kFL4MnlAqzX3n2x9p-7~pVhaN-ahKJ-SY90CHoDxpus-3pKWTdUo9E-7yI3miYeuJCZweNUbuzHnUVcFN9TzgRjOu65xSaD11PBOTNmio7Z4JyUw0QJ8KHsc0rg43V3OviRnTN5nQZag4t7XdSmxeAwVm8tNxepw4g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy médico.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "05ff53a2-76d7-4fac-9672-891bd34b6957",
+      "sequence": 9,
+      "lessonId": "a1b82486-781d-4c15-b9a6-303c27e6c42c",
+      "title": "Troque apenas o lugar",
+      "content": "<p>Trabajo en un ________.</p><p>Tradução: Eu trabalho em um hospital.</p>",
+      "contentPlain": "Trabajo en un ________. Tradução: Eu trabalho em um hospital.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, hospital mostra que o começo da frase fica igual e só o lugar muda.",
+      "feedbackError": "Nesta aula, hospital mostra que o começo da frase fica igual e só o lugar muda.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hospital",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1843990f-9525-43db-b880-816c01c73bc2",
+      "sequence": 10,
+      "lessonId": "a1b82486-781d-4c15-b9a6-303c27e6c42c",
+      "title": "Reconstrua o começo da frase",
+      "content": "<p>_______ en una oficina.</p><p>Tradução: Eu trabalho em um escritório.</p>",
+      "contentPlain": "_______ en una oficina. Tradução: Eu trabalho em um escritório.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, Trabajo abre a frase curta usada para dizer onde você trabalha.",
+      "feedbackError": "Nesta aula, Trabajo abre a frase curta usada para dizer onde você trabalha.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Trabajo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "98c3dd76-4074-4463-97ee-525b0b1fbf96",
+      "sequence": 11,
+      "lessonId": "a1b82486-781d-4c15-b9a6-303c27e6c42c",
+      "title": "Complete com o lugar",
+      "content": "<p>Trabajo en una _______.</p><p>Tradução: Eu trabalho em um escritório.</p>",
+      "contentPlain": "Trabajo en una _______. Tradução: Eu trabalho em um escritório.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, oficina entra depois de en para indicar o lugar onde a pessoa trabalha.",
+      "feedbackError": "Nesta aula, oficina entra depois de en para indicar o lugar onde a pessoa trabalha.",
+      "answerType": "buildWord",
+      "expectedAnswer": "oficina",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7b797e70-1ff9-4b46-84bd-935a2b078953",
+      "sequence": 12,
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a pergunta: ¿En qué ________?</p><p>Tradução: Em que você trabalha?</p>",
+      "contentPlain": "Complete a pergunta: ¿En qué ________? Tradução: Em que você trabalha?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, ¿En qué trabajas? aparece como outra forma de pedir a mesma resposta sobre trabalho.",
+      "feedbackError": "Nesta aula, ¿En qué trabajas? aparece como outra forma de pedir a mesma resposta sobre trabalho.",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabajas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f72abdb4-3d2e-4253-8d34-32a31935e133",
+      "sequence": 13,
+      "lessonId": "663d6d84-6cba-4b8b-a331-6fc18cf30671",
+      "title": "Complete a devolução da fala",
+      "content": "<p>Complete em espanhol: Soy médica, ¿y __?</p><p>Tradução: Sou médica, e você?</p>",
+      "contentPlain": "Complete em espanhol: Soy médica, ¿y __? Tradução: Sou médica, e você?",
+      "fileUrl": null,
+      "feedbackSuccess": "O trecho ¿y tú? serve para responder e passar a vez para a outra pessoa.",
+      "feedbackError": "O trecho ¿y tú? serve para responder e passar a vez para a outra pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tú",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2b796096-94e9-484c-9122-47e9439331fa",
+      "sequence": 14,
+      "lessonId": "663d6d84-6cba-4b8b-a331-6fc18cf30671",
+      "title": "Recupere a pergunta pelo áudio",
+      "content": "<p>Escute com atenção e marque só as palavras presentes na pergunta da aula.</p>",
+      "contentPlain": "Escute com atenção e marque só as palavras presentes na pergunta da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/daecf8c1b65246388dcf525f2824cac8_a-que-te-dedicas.mp3?Expires=1794099453&Signature=X26aFnLaPi-fDuEfUVtj5NMTEDjellBd5Z22t-LnWt-utL6xJinJgFtaVEZskX8KQrnofX8F0esLLbQmjb-vVMVP7oVgYWi0HBXdoLrYDKCWDguFhnNt0mcPllyhKJVBhXGRDYxa5QcUq4aKZpGM0BJmNTi4ys5Ma6y66SuRJxRH-53Hk1gOuSYR6ZvbfHJlGD8yOmFsSSeS~ehz-C382gjIsJPM6E3gv87BtaOz1LGwqfSQCdxiDhesAv6-oainEJ~V0UlYgS-MjWkplEvu4qLLTEdL0b02k0LrwRtgY0Vi5GnFgOMj2h8WXqJZVeACFjli7H5XOIPDKY6Yp--j5Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta da aula reúne a qué te dedicas para saber a profissão de alguém.",
+      "feedbackError": "A pergunta da aula reúne a qué te dedicas para saber a profissão de alguém.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "42ec8fe8-77ec-43ea-9b46-3ed99b681a6e",
+          "text": "soy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ca82411c-19e8-4855-af09-ea4e6bcd6e51",
+          "text": "te",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cb42f3f6-4aca-459e-894f-746321f66df4",
+          "text": "qué",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e2037acf-7f00-4713-aafc-f6e71ffc8f20",
+          "text": "a",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ea9ef809-3c15-480f-a1bb-dbffdf06615f",
+          "text": "médico",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ff2aa35b-4b13-4d26-ad97-25508a7dd9f9",
+          "text": "dedicas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "dcd22eff-9f37-4c1e-8d49-0a4dbbd9315a",
+      "sequence": 15,
+      "lessonId": "e12e859e-4bf1-49cd-b847-2df240c9e810",
+      "title": "Complete a expressão de vários hospitais",
+      "content": "<p>___ hospitales</p><p>Tradução: os hospitais.</p>",
+      "contentPlain": "___ hospitales Tradução: os hospitais.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com hospitales no plural, o artigo muda de el para los.",
+      "feedbackError": "Com hospitales no plural, o artigo muda de el para los.",
+      "answerType": "buildWord",
+      "expectedAnswer": "los",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

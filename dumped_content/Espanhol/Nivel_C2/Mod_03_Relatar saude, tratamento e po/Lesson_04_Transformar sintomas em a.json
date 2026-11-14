@@ -1,0 +1,736 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+    "attemptId": "f663bee2-0c66-4aae-bae1-0813e0fe2faf",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "13fe673c-75dd-472d-8bbc-c8ee9a1c9224",
+      "08653af7-d37c-4766-9ba3-75cbf2b6bd13",
+      "a8b35eac-3631-4b2c-a4ff-660826d62b57",
+      "771ec6d0-94e4-417a-bd78-1e4d0f07c8ac",
+      "cf03bee4-4ef9-471d-ac73-5e6f999eaa85"
+    ],
+    "evaluationExerciseIds": [
+      "0238988c-2389-45f4-b07b-6e6e84f26f5b",
+      "fb383ff1-a2e5-430f-b9f4-dfcad4c928b5",
+      "6460b353-44da-4193-8bd7-73c61136eebd",
+      "8fd959d3-8832-4f9d-9005-d459569b8f50",
+      "d6bb5ecb-01b5-44c7-a854-bece4f276ae6"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:18.463195Z"
+  },
+  "contents": [
+    {
+      "id": "2de79bf4-6e42-4fdc-adbd-0d024dce3f65",
+      "title": "Leia a abertura e observe os três movimentos que a interação vai organizar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "2d56fcf7-62fe-4557-875d-bc157c893a71",
+          "textContent": "<p>Nesta aula, o foco não é explicar um caso médico inteiro.</p><p>O ganho aqui é atravessar uma interação curta com três movimentos claros: <strong>apresentar o sintoma principal</strong>, <strong>entender como a recepção avalia a urgência</strong> e <strong>seguir a orientação inicial</strong>.</p><p>As próximas telas mantém uma carga por vez para transformar sintomas soltos em atendimento real.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b11449ad-5a9e-4479-9f24-90ba6ca3d46f",
+      "title": "Escute a frase e ligue o espanhol ao apoio em portugues.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "0b92924d-842b-4e35-9fda-5e5a0737e0c8",
+          "textContent": "<p>Na recepção, ajuda mais dizer o problema com alguma precisão do que repetir apenas que a pessoa está mal.</p><p><strong>Tengo fiebre alta desde anoche y me siento muy débil.</strong></p><p>Em portugues: <strong>Estou com febre alta desde ontem a noite e me sinto muito fraco.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3eccc14ae1944a069d766cbb10026e37_b02-tengo-fiebre-alta-desde-anoche-y-me-siento-muy-debil.mp3?Expires=1794099919&Signature=Jk8~mx4oFAxsWQSO88WTrOLoy~ijv6hYWD2onRUJNHvpUkUfcFVFCrkpSJsSUyOEEYyAXu0Byu6FrTfu6oQOrOJGv0eto1MXn-zO9y3rbaP-Ul-x9e0yBXw~QvGGwUd90TwDjyDW0Bc3DQN09Gdzf3BqDiD04iXLFVe3rj8Puz7BGLbF7y3AJ1h-Ap~2zdQYUx~WVrrBCBPO0~8aJE0IljUjNIi0KoinEykyRGJU5riiLzyV0j4HwWdWRhDUsWRa2jWkaSTYq3Gmsu53pMbhtF0WZ7-s8vexAC9DSNFtT3Er4dqluqmquA~kP9h04~Ht9nGLFrt7kUd-UhfC0SRHjg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "78184cda-960c-4e19-9981-912065beb04a",
+      "title": "Leia a nota e observe o papel de cada parte da frase.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "154587da-4f5a-451c-8254-7bfdc6d5acca",
+          "textContent": "<p><strong>desde anoche</strong> localiza o problema no tempo.</p><p><strong>fiebre alta</strong> entrega o foco principal sem rodeio.</p><p><strong>me siento muy débil</strong> mostra como o quadro afeta o corpo, o que ajuda a recepção a entender se a situação parece leve, persistente ou mais preocupante.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "69d923b1-84a9-4e44-93ef-6e8b4594b8d2",
+      "title": "Escute a frase e repare como a avaliacao nao fecha a porta para o atendimento.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "4d493cd4-d778-4ad9-908a-fb99b248324c",
+          "textContent": "<p>Agora a recepcao situa o caso sem alarmar a pessoa.</p><p><strong>No parece una urgencia inmediata, pero conviene que te vea un médico hoy.</strong></p><p>Em portugues: <strong>Nao parece uma urgencia imediata, mas convem que um medico veja voce hoje.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3d6f13255a0141b0a75f3721d0e2ec38_b04-no-parece-una-urgencia-inmediata-pero-conviene-que-te-vea-un-medico-hoy.mp3?Expires=1794099919&Signature=ldHOX7Ysd3ORdsL374E4PMgXXVuIeG9Ymw0OIsPakOXU7~ptV6rdfJPzrJ6lSm9Avus8mJoOa11EyPFvN~PK3GgayGNYP34mFkHq9jNewnjerPDOOpzNv3oyVvgtWVXxyMlzcjRLkqJxW0kUDlEZPl3GhMhiivq12mWsOvKunoReC7w2sVW0Vuo~DIGo3QchxBHmbHdaETZuS52hel9OubKI-uzeo~VmVK~3NYTpButFwsjDybCEDK5saCgnAowGS1zqqw2DYvTkjC6z2CGlSV4kRcVn4RAIFHM5xUiyth5BOMIbS8othBnh31MVr16lHP1k2LNd2zq0C9A2nYTMlQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1abb402a-a9f2-4209-9d1d-cd0f971b5701",
+      "title": "Leia a nota curta e observe o papel de no parece e conviene que.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "93d6ba13-161d-41c6-b329-9594c7f0f79e",
+          "textContent": "<p><strong>No parece...</strong> avalia o caso sem soar absoluta demais.</p><p><strong>conviene que te vea...</strong> muda da avaliação para o encaminhamento e reusa a lógica de modo da lição 2: a recepção não descreve um fato fechado, mas orienta o passo seguinte.</p><p>Assim, a fala não banaliza o quadro nem dramatiza sem necessidade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d8dbee73-c096-491b-b4da-8429befbcc0f",
+      "title": "Escute a frase e observe qual acao ela pede imediatamente.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "3032c9b6-6257-4204-859c-d3ba408c7a20",
+          "textContent": "<p>Depois da avaliacao, a recepcao fecha o movimento com uma orientacao concreta.</p><p><strong>Siéntate un momento y ahora te llamamos para la consulta.</strong></p><p>Em portugues: <strong>Sente-se um momento e agora vamos chamar voce para a consulta.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6a7511ac9d784195bbd2d50d29ddf12e_b06-sientate-un-momento-y-ahora-te-llamamos-para-la-consulta.mp3?Expires=1794099919&Signature=h7GmXMqQ8vOjF-Eje4cENtsDLJ1lFeHqDB0uqHF8VpaJFMoWVR6KxQsUOyGLSryEj-Aj3XUv6jjXLxnKrxD680Xe2dvYdiSxWCsLVBwDYWrMpUhhj0gBsO2C3h56N95GxSoYXB9u5UcTJXjKEVNVRgWP0G8xJqNPCB3fqVuZfDaGEJXEqlKX7-FZmApKOQoVp0DnjYlYelQQUHgEI9-MWrlNjTsdOMUX3ekNF0cN0g7f2KpCmGVgInvtmOOZ2SkX1BPvKDkohZ7Kx2DsmN6G2wWyaqNEFSp-L7UiwPDHpmib66qGBHkr7lKXdEH-r669WUNnBH~UK49oGkD2EEwMng__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "79015ddc-6b5f-42d0-9b08-cd1083fe8998",
+      "title": "Leia a nota e observe o que essa frase resolve no fluxo do atendimento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "d24881e9-7daf-4ae6-8390-cbd9616838de",
+          "textContent": "<p><strong>Siéntate un momento...</strong> não explica tratamento nem fecha diagnóstico.</p><p>Ela transforma a avaliação anterior em ação imediata: esperar, manter a calma e passar para a consulta.</p><p>Esse tipo de fala aparece quando a recepção já entendeu o caso e precisa organizar o fluxo do atendimento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b9982ce4-0238-4d44-8a60-34a5ef8e5695",
+      "title": "Leia o mapa e compare o que pertence ao paciente e o que pertence ao atendimento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "9e4bbba6-0da5-493e-ad44-e4f120128594",
+          "textContent": "<p><strong>Tengo fiebre alta desde anoche y me siento muy débil.</strong> abre o caso com sintoma, tempo e impacto.</p><p><strong>No parece una urgencia inmediata, pero conviene que te vea un médico hoy.</strong> situa a gravidade e define a necessidade de atendimento.</p><p><strong>Siéntate un momento y ahora te llamamos para la consulta.</strong> fecha a recepção com o próximo passo.</p><p>O importante aqui não é decorar uma fala teatral, mas perceber como cada turno empurra a interação para frente.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "59b52da7-4941-427c-a99b-3807fbf8943c",
+      "title": "Na recepção do centro de saúde",
+      "description": "<p>Esta troca junta as peças da aula ém ordem funcional: a recepção abre, o paciente situa o quadro, aparece uma pergunta breve de triagem e a orientação final fecha o atendimento inicial.</p>",
+      "contentType": 7,
+      "sequenceItem": 9,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Buenos días. Dime qué te ocurre.</div>\n  <div style=\"opacity: 0.45;\">Bom dia. Diga o que está acontecendo com você.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0c38fd4fae1548dfb4ceaa6db8978267_b08-d01-buenos-dias-dime-que-te-ocurre.mp3?Expires=1794099919&Signature=WgN8ENG9rxOAMXt7suUx-r58bD5P-90vo9v3T-FdeHlyVsjaVhJ9BrXjqtJlabqlGrOMA5aDk5IVJCPjP4s7mpNAir65fpYFYBh9Xro~10vp4ykPGCJIsMrOSwyco-59s56cEs~J9dEA5bGX4I4uDtrfBw86Hg2iPXW6ohBoi1G09BWXT63JntX8ekvA-8Us0UcQohJOFlOtBp6dKznnhIPY4mbpVVbZi804xoySZ4pHT6EIsGKh69h4jdExeONNdke1pWzLvhoK-aoYiKrXOa1oul1Z4iMgegpWdWf3l4fLYQ5fjiYAzTphD1p8a2POXxNBesjlYPQo8jmG6E92MA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Tengo fiebre alta desde anoche y me siento muy débil.</div>\n  <div style=\"opacity: 0.45;\">Estou com febre alta desde ontem a noite e me sinto muito fraco.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a624124859347c69d0028bbfff5f56a_b02-tengo-fiebre-alta-desde-anoche-y-me-siento-muy-debil.mp3?Expires=1794099919&Signature=r0htEcSk8rynD6gRfcJVaJlKnMvoeGStzapcPoybBu-Z2gE0WdnQfMcj3CSSUU7Q39cMuj3cMzLqte6hH8StpCL7bZPeZQuB7~MMwzBYmzre1~oYBKT9CjTiWMcxMvHHPy1yBUTGQsDkt79gSDWyY5qHcydZjFpp2aAXqZa-vI4NVIQObWBu6BEnFBFBzlltKA0qXg2bgQDOUHIW9PlYp1HgLYkCZKI92-AmMRr3G7OGcTn8~S7o8Bo52k6Md5I~MxiTZxjZ18~0yIH8wYMn5-kWz5v4N1oPA7Lsme1Q4GRDeT0XLLwY~vlQQhV8TSUwQsQIZMNrtDTU6tBTfybIZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Te cuesta respirar o el malestar es más bien general?</div>\n  <div style=\"opacity: 0.45;\">Está difícil respirar ou o mal-estar é mais geral?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c19fadab06a42ad891d9c6596dc9ccb_b08-d03-te-cuesta-respirar-o-el-malestar-es-mas-bien-general.mp3?Expires=1794099919&Signature=0yXimCXfFgrE54~QjGuep2Te6xT4JwKtVEJMoVybg6w8wF8uGdmPWoooEIQlcLTyV-EZrb4Pi-oGqRf6oWCHO36BoIBt~HiNUldcxzUd7Q7NNr0U~lB-MbStwt6X414cLSqAV6D9duXkNF7gbIpDg90D93Ww1x1TpH0RllbHwmmvG7kqjxvLuewe1uY4vAk7c93gU9DgJwUsAWvVupu1v94UKR8gR74X~qIKwdOFoXg3eN9heX7usdeuYBPhjhRpDaY5kYn2IBZA1A0Nd9NyBukHDRl8YcogS3~QjOMKNlZB~uOSIVz9nx7ZF0eYB7gVZ2skahKViUdm5gp3cZfX6A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Es más bien general, pero me mareo cuando me levanto.</div>\n  <div style=\"opacity: 0.45;\">É mais um mal-estar geral, mas fico tonto quando me levanto.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/23ef6fcbda7c41e1b585d6d16a8d3977_b08-d04-es-mas-bien-general-pero-me-mareo-cuando-me-levanto.mp3?Expires=1794099919&Signature=u0Qv49OpbDe09H5lycmvfBB0kfVYzbCQNkvcdC8fgBGVA5QhzM2ohYkWAbVByEPTbaJxUFCsIEueq4LelTSeejR5NRRlea6XiTF-7hmm2M7Ru~NlozZBDsq-JjhPoqtlc~jJLAvJLDh1Sp8fHEiCtcleg8ceGNoDtqVo7e0-ufXdGl7fs8RVkyO-bSStp5~ye7K-SumloMM44eFAhB6iZt53APVRaC~uOft4ioAtXih5gZVtv7ZOKuipUadoc9g2OggZhS4Hb8DjwXzHjy0lqw533AxH-lVVpI9IJVvmlZArLZCfEnyHDA7OQrMA7NXw7ZoC~~rkZNOpjIdaaaLvaQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">No parece una urgencia inmediata, pero conviene que te vea un médico hoy.</div>\n  <div style=\"opacity: 0.45;\">Não parece uma urgência imediata, mas convém que um médico veja você hoje.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2754b1a8ae614883b0d3eac5a7741cdb_b04-no-parece-una-urgencia-inmediata-pero-conviene-que-te-vea-un-medico-hoy.mp3?Expires=1794099919&Signature=Vm77qaC6a6JKOfHdVb6r-r-8U3yXcqtCmqJhaZE14Y~W4~FNmzUQZCmxzKVkbqJ6YiPvFakX9D-emi8tT8hERF1DLDHkLn0vkKF1KxANd~T~4Zyd1IeqA8OstFrhN27WHnlXH68KPRQClvx8i8Q6iyA-q2zWZON77yR46VnbmKEsBrmlotdi6HHUOAJwb819IUluUVsAEtrubxhiCVLD5Je1oy2yyifjj~hEWxmgHWfuYIfkQHy37PNYssO6YdU4~rzZFyJJWma2BJPski5rkGi89HNTaM77GFa5ry985tbOzaGxJr5d5DCykEAXTXonBAN1WIKCnRtHFZWhTuCYsw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Siéntate un momento y ahora te llamamos para la consulta.</div>\n  <div style=\"opacity: 0.45;\">Sente-se um momento e agora vamos chamar você para a consulta.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/865117f2be9c4569aaf1739fa5fdc086_b06-sientate-un-momento-y-ahora-te-llamamos-para-la-consulta.mp3?Expires=1794099919&Signature=V3eyLaSOp4n-OFZJd3-lfqMeKMZqNF7aJT7oWsA3mRiO~0xy5mKTC7xp8r36vPP7HJnaRaSpkBsSSOhgh-C3f3Fs1rnzYQuEjHnixCUWEnTmREj6pa4xc0dkn5NAsHVOG4LBToZIJ9dBbusVkytcFZkcjnue-36bsuMJF13Wj8OOTWFzwsBKg4tfQGt9V-iXuGBFoPutmcWDEAeNlQaw7AQ4pT7C8pXD73Tu6PPa7H4Vn1XLbt4wjeZTqvZZYWV-NdfoIq9jaANpG7UI3XMGSWYdHfLE~SQ6RdNmgkjCHQPaC23B9YX-02IRG5nDn9dBz7br3h2lcrM~QWC1Y1eKFg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "9d65486c-17bc-4f7f-b9d4-d2fed9db7e21",
+      "title": "Leia o fechamento e imagine essa sequência em um centro de saúde, numa clínica do bairro ou num pronto atendimento sem emergência.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "1bfd736d-ce6e-4cb7-a135-3a30b831d4c8",
+          "textContent": "<p>Num centro de saúde, numa clínica do bairro ou num atendimento sem emergência, a troca costuma caber em três passos curtos.</p><ul><li><strong>Tengo fiebre alta desde anoche y me siento muy débil.</strong> abre o problema com tempo e impacto.</li><li><strong>No parece una urgencia inmediata, pero conviene que te vea un médico hoy.</strong> situa a gravidade sem dramatizar.</li><li><strong>Siéntate un momento y ahora te llamamos para la consulta.</strong> fecha a recepção com o próximo passo.</li></ul><p>Esse encadeamento serve para consultas no bairro, centros de saúde e atendimentos presenciais em que a pessoa precisa explicar o quadro e entender o que vem agora.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "10adc31c-d2f3-47f9-8040-55d0d9b93a97",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "7e05ff03-3c94-4263-8f7a-7c1355c9268e",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2b76f15809a64207a9119cc437031cc6_MEC-IDIOMAS_CAP_3_-_AULA_04_ESP.mp4?Expires=1794099919&Signature=1E47J2TMNckUhsBRXyPvNmqRDSeyiA-7tgMo9JD65bdNhoBYQdolXVeCUUZ8XP8dda~TbrrXIEM1TpU7FrAAfPA2cvKFPubXxBg8Q7T7oIP3F-KJ2vfR1CT4X5ATMUREj8Sv48cRauu0-rc9zbuR9ato3doXH0fzedqgWkLq8eoHAp9wOI9ITyrWjHy~mmuhxh5K2hLvPi5zBnrvEg83VsoIKUh~NYbPQsKzc8MGEdanudu5LckLpwkbMfhfY2FiyLLNe256P~kOxAnzude9LzEqX4bGblxwjBmwude4788l~AffnT1mReZo1XKgQMsPy6kwjugkcRfjpp0WiLuv9Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2b76f15809a64207a9119cc437031cc6_MEC-IDIOMAS_CAP_3_-_AULA_04_ESP.mp4?Expires=1794099919&Signature=1E47J2TMNckUhsBRXyPvNmqRDSeyiA-7tgMo9JD65bdNhoBYQdolXVeCUUZ8XP8dda~TbrrXIEM1TpU7FrAAfPA2cvKFPubXxBg8Q7T7oIP3F-KJ2vfR1CT4X5ATMUREj8Sv48cRauu0-rc9zbuR9ato3doXH0fzedqgWkLq8eoHAp9wOI9ITyrWjHy~mmuhxh5K2hLvPi5zBnrvEg83VsoIKUh~NYbPQsKzc8MGEdanudu5LckLpwkbMfhfY2FiyLLNe256P~kOxAnzude9LzEqX4bGblxwjBmwude4788l~AffnT1mReZo1XKgQMsPy6kwjugkcRfjpp0WiLuv9Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "13fe673c-75dd-472d-8bbc-c8ee9a1c9224",
+      "title": "Associe áudio e linha-chave",
+      "content": "<p>Revise pela escuta as três falas que sustentam a cadeia curta do atendimento.</p>",
+      "contentPlain": "Revise pela escuta as três falas que sustentam a cadeia curta do atendimento.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta retoma a sequência entre queixa, avaliação e orientação.",
+      "feedbackError": "A escuta retoma a sequência entre queixa, avaliação e orientação.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "a9fafdf7-0176-4688-8c6d-d551f41e99b5",
+          "exerciseId": "13fe673c-75dd-472d-8bbc-c8ee9a1c9224",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a624124859347c69d0028bbfff5f56a_b02-tengo-fiebre-alta-desde-anoche-y-me-siento-muy-debil.mp3?Expires=1794099919&Signature=r0htEcSk8rynD6gRfcJVaJlKnMvoeGStzapcPoybBu-Z2gE0WdnQfMcj3CSSUU7Q39cMuj3cMzLqte6hH8StpCL7bZPeZQuB7~MMwzBYmzre1~oYBKT9CjTiWMcxMvHHPy1yBUTGQsDkt79gSDWyY5qHcydZjFpp2aAXqZa-vI4NVIQObWBu6BEnFBFBzlltKA0qXg2bgQDOUHIW9PlYp1HgLYkCZKI92-AmMRr3G7OGcTn8~S7o8Bo52k6Md5I~MxiTZxjZ18~0yIH8wYMn5-kWz5v4N1oPA7Lsme1Q4GRDeT0XLLwY~vlQQhV8TSUwQsQIZMNrtDTU6tBTfybIZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo fiebre alta desde anoche y me siento muy debil.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "12f50e1d-1dee-4ad4-8e16-9cdb25002be3",
+          "exerciseId": "13fe673c-75dd-472d-8bbc-c8ee9a1c9224",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2754b1a8ae614883b0d3eac5a7741cdb_b04-no-parece-una-urgencia-inmediata-pero-conviene-que-te-vea-un-medico-hoy.mp3?Expires=1794099919&Signature=Vm77qaC6a6JKOfHdVb6r-r-8U3yXcqtCmqJhaZE14Y~W4~FNmzUQZCmxzKVkbqJ6YiPvFakX9D-emi8tT8hERF1DLDHkLn0vkKF1KxANd~T~4Zyd1IeqA8OstFrhN27WHnlXH68KPRQClvx8i8Q6iyA-q2zWZON77yR46VnbmKEsBrmlotdi6HHUOAJwb819IUluUVsAEtrubxhiCVLD5Je1oy2yyifjj~hEWxmgHWfuYIfkQHy37PNYssO6YdU4~rzZFyJJWma2BJPski5rkGi89HNTaM77GFa5ry985tbOzaGxJr5d5DCykEAXTXonBAN1WIKCnRtHFZWhTuCYsw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No parece una urgencia inmediata, pero conviene que te vea un medico hoy.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "284d8116-37fc-47dd-839d-dffdd6b6f61b",
+          "exerciseId": "13fe673c-75dd-472d-8bbc-c8ee9a1c9224",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/865117f2be9c4569aaf1739fa5fdc086_b06-sientate-un-momento-y-ahora-te-llamamos-para-la-consulta.mp3?Expires=1794099919&Signature=V3eyLaSOp4n-OFZJd3-lfqMeKMZqNF7aJT7oWsA3mRiO~0xy5mKTC7xp8r36vPP7HJnaRaSpkBsSSOhgh-C3f3Fs1rnzYQuEjHnixCUWEnTmREj6pa4xc0dkn5NAsHVOG4LBToZIJ9dBbusVkytcFZkcjnue-36bsuMJF13Wj8OOTWFzwsBKg4tfQGt9V-iXuGBFoPutmcWDEAeNlQaw7AQ4pT7C8pXD73Tu6PPa7H4Vn1XLbt4wjeZTqvZZYWV-NdfoIq9jaANpG7UI3XMGSWYdHfLE~SQ6RdNmgkjCHQPaC23B9YX-02IRG5nDn9dBz7br3h2lcrM~QWC1Y1eKFg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sientate un momento y ahora te llamamos para la consulta.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "08653af7-d37c-4766-9ba3-75cbf2b6bd13",
+      "title": "Filtre a pergunta pela escuta",
+      "content": "<p>Resolva só pela escuta e marque apenas as palavras presentes na pergunta de triagem.</p>",
+      "contentPlain": "Resolva só pela escuta e marque apenas as palavras presentes na pergunta de triagem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c19fadab06a42ad891d9c6596dc9ccb_b08-d03-te-cuesta-respirar-o-el-malestar-es-mas-bien-general.mp3?Expires=1794099919&Signature=0yXimCXfFgrE54~QjGuep2Te6xT4JwKtVEJMoVybg6w8wF8uGdmPWoooEIQlcLTyV-EZrb4Pi-oGqRf6oWCHO36BoIBt~HiNUldcxzUd7Q7NNr0U~lB-MbStwt6X414cLSqAV6D9duXkNF7gbIpDg90D93Ww1x1TpH0RllbHwmmvG7kqjxvLuewe1uY4vAk7c93gU9DgJwUsAWvVupu1v94UKR8gR74X~qIKwdOFoXg3eN9heX7usdeuYBPhjhRpDaY5kYn2IBZA1A0Nd9NyBukHDRl8YcogS3~QjOMKNlZB~uOSIVz9nx7ZF0eYB7gVZ2skahKViUdm5gp3cZfX6A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A triagem curta tenta diferenciar o tipo de mal-estar antes do encaminhamento.",
+      "feedbackError": "A triagem curta tenta diferenciar o tipo de mal-estar antes do encaminhamento.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "01a980d9-5146-4a8d-bb0e-849670ff7573",
+          "textContent": "fiebre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "08653af7-d37c-4766-9ba3-75cbf2b6bd13"
+        },
+        {
+          "id": "4de9321f-a04b-4157-bade-ff2e5d95466e",
+          "textContent": "malestar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "08653af7-d37c-4766-9ba3-75cbf2b6bd13"
+        },
+        {
+          "id": "6d5a8c4c-7073-434f-8023-f26f6cdf7e2b",
+          "textContent": "respirar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "08653af7-d37c-4766-9ba3-75cbf2b6bd13"
+        },
+        {
+          "id": "8672dbed-da73-443e-a91e-c36e3fe12d17",
+          "textContent": "general",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "08653af7-d37c-4766-9ba3-75cbf2b6bd13"
+        },
+        {
+          "id": "f065b9e3-da6a-43b7-aed2-52e23037e8f8",
+          "textContent": "consulta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "08653af7-d37c-4766-9ba3-75cbf2b6bd13"
+        },
+        {
+          "id": "f8f08572-d7d2-4572-95bf-600b8b309595",
+          "textContent": "cuesta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "08653af7-d37c-4766-9ba3-75cbf2b6bd13"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a8b35eac-3631-4b2c-a4ff-660826d62b57",
+      "title": "Encontre o fechamento da recepção",
+      "content": "<p>No mapa central da aula, qual fala não descreve o problema nem avalia a urgência, mas organiza o próximo passo imediato?</p>",
+      "contentPlain": "No mapa central da aula, qual fala não descreve o problema nem avalia a urgência, mas organiza o próximo passo imediato?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula separa queixa, avaliação e orientação para manter o atendimento curto em ordem.",
+      "feedbackError": "A aula separa queixa, avaliação e orientação para manter o atendimento curto em ordem.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "78f08889-1fb9-4b72-bebc-1b9570701d1f",
+          "textContent": "Es mas bien general, pero me mareo cuando me levanto.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a8b35eac-3631-4b2c-a4ff-660826d62b57"
+        },
+        {
+          "id": "8b143847-4fc1-4ba7-9e85-a0d1bbd8834f",
+          "textContent": "Sientate un momento y ahora te llamamos para la consulta.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a8b35eac-3631-4b2c-a4ff-660826d62b57"
+        },
+        {
+          "id": "f532c1a5-0765-4bb5-9fce-2e1eab077043",
+          "textContent": "No parece una urgencia inmediata, pero conviene que te vea un medico hoy.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a8b35eac-3631-4b2c-a4ff-660826d62b57"
+        },
+        {
+          "id": "f73412d3-1bbc-48a4-93ae-543019f42f48",
+          "textContent": "Tengo fiebre alta desde anoche y me siento muy debil.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a8b35eac-3631-4b2c-a4ff-660826d62b57"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "771ec6d0-94e4-417a-bd78-1e4d0f07c8ac",
+      "title": "Ligue fala e função",
+      "content": "<p>Recupere o mapa funcional da aula ligando cada linha em espanhol ao trabalho que ela faz no atendimento.</p>",
+      "contentPlain": "Recupere o mapa funcional da aula ligando cada linha em espanhol ao trabalho que ela faz no atendimento.",
+      "fileUrl": null,
+      "feedbackSuccess": "Cada fala empurra a interação para frente com uma função diferente.",
+      "feedbackError": "Cada fala empurra a interação para frente com uma função diferente.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "213348a2-a1d6-444a-b210-f6032daab8a0",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "771ec6d0-94e4-417a-bd78-1e4d0f07c8ac"
+        },
+        {
+          "id": "5ef03999-3801-4db4-8df4-6c8dcfc84f52",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "771ec6d0-94e4-417a-bd78-1e4d0f07c8ac"
+        }
+      ],
+      "associations": [
+        {
+          "id": "69009772-ea9c-4817-b46e-f0e18d032804",
+          "exerciseId": "771ec6d0-94e4-417a-bd78-1e4d0f07c8ac",
+          "leftContent": "Tengo fiebre alta desde anoche y me siento muy debil.",
+          "rightContent": "abre a queixa com sintoma, tempo e impacto",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0d6f3741-a29c-407e-a2ed-085e42470b34",
+          "exerciseId": "771ec6d0-94e4-417a-bd78-1e4d0f07c8ac",
+          "leftContent": "No parece una urgencia inmediata, pero conviene que te vea un medico hoy.",
+          "rightContent": "avalia a gravidade e encaminha para atendimento no mesmo turno",
+          "sequenceItem": 2
+        },
+        {
+          "id": "feadb6c4-82c8-4fc6-8ba9-1aeff4af9da2",
+          "exerciseId": "771ec6d0-94e4-417a-bd78-1e4d0f07c8ac",
+          "leftContent": "Sientate un momento y ahora te llamamos para la consulta.",
+          "rightContent": "organiza a espera antes da consulta",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "cf03bee4-4ef9-471d-ac73-5e6f999eaa85",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase que abre a queixa com sintoma, tempo e impacto.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase que abre a queixa com sintoma, tempo e impacto.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a624124859347c69d0028bbfff5f56a_b02-tengo-fiebre-alta-desde-anoche-y-me-siento-muy-debil.mp3?Expires=1794099919&Signature=r0htEcSk8rynD6gRfcJVaJlKnMvoeGStzapcPoybBu-Z2gE0WdnQfMcj3CSSUU7Q39cMuj3cMzLqte6hH8StpCL7bZPeZQuB7~MMwzBYmzre1~oYBKT9CjTiWMcxMvHHPy1yBUTGQsDkt79gSDWyY5qHcydZjFpp2aAXqZa-vI4NVIQObWBu6BEnFBFBzlltKA0qXg2bgQDOUHIW9PlYp1HgLYkCZKI92-AmMRr3G7OGcTn8~S7o8Bo52k6Md5I~MxiTZxjZ18~0yIH8wYMn5-kWz5v4N1oPA7Lsme1Q4GRDeT0XLLwY~vlQQhV8TSUwQsQIZMNrtDTU6tBTfybIZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A abertura junta sintoma, tempo e impacto para a recepção entender o caso.",
+      "feedbackError": "A abertura junta sintoma, tempo e impacto para a recepção entender o caso.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Tengo fiebre alta desde anoche y me siento muy debil.",
+      "typeSpecificData": "{\"expectedText\":\"Tengo fiebre alta desde anoche y me siento muy debil.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/8a624124859347c69d0028bbfff5f56a_b02-tengo-fiebre-alta-desde-anoche-y-me-siento-muy-debil.mp3?Expires=1794099919\\u0026Signature=r0htEcSk8rynD6gRfcJVaJlKnMvoeGStzapcPoybBu-Z2gE0WdnQfMcj3CSSUU7Q39cMuj3cMzLqte6hH8StpCL7bZPeZQuB7~MMwzBYmzre1~oYBKT9CjTiWMcxMvHHPy1yBUTGQsDkt79gSDWyY5qHcydZjFpp2aAXqZa-vI4NVIQObWBu6BEnFBFBzlltKA0qXg2bgQDOUHIW9PlYp1HgLYkCZKI92-AmMRr3G7OGcTn8~S7o8Bo52k6Md5I~MxiTZxjZ18~0yIH8wYMn5-kWz5v4N1oPA7Lsme1Q4GRDeT0XLLwY~vlQQhV8TSUwQsQIZMNrtDTU6tBTfybIZQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "0238988c-2389-45f4-b07b-6e6e84f26f5b",
+      "title": "Escute a avaliação sem perder a precisão",
+      "content": "<p>Selecione apenas as palavras que aparecem na fala de triagem.</p>",
+      "contentPlain": "Selecione apenas as palavras que aparecem na fala de triagem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2754b1a8ae614883b0d3eac5a7741cdb_b04-no-parece-una-urgencia-inmediata-pero-conviene-que-te-vea-un-medico-hoy.mp3?Expires=1794099919&Signature=Vm77qaC6a6JKOfHdVb6r-r-8U3yXcqtCmqJhaZE14Y~W4~FNmzUQZCmxzKVkbqJ6YiPvFakX9D-emi8tT8hERF1DLDHkLn0vkKF1KxANd~T~4Zyd1IeqA8OstFrhN27WHnlXH68KPRQClvx8i8Q6iyA-q2zWZON77yR46VnbmKEsBrmlotdi6HHUOAJwb819IUluUVsAEtrubxhiCVLD5Je1oy2yyifjj~hEWxmgHWfuYIfkQHy37PNYssO6YdU4~rzZFyJJWma2BJPski5rkGi89HNTaM77GFa5ry985tbOzaGxJr5d5DCykEAXTXonBAN1WIKCnRtHFZWhTuCYsw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A recepção combina avaliação cautelosa e encaminhamento no mesmo turno.",
+      "feedbackError": "A recepção combina avaliação cautelosa e encaminhamento no mesmo turno.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "599e686f-df1e-4120-a065-f562bbefc38a",
+          "textContent": "urgencia",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0238988c-2389-45f4-b07b-6e6e84f26f5b"
+        },
+        {
+          "id": "61848581-94f0-4608-a4cf-6bbcc77d780a",
+          "textContent": "inmediata",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0238988c-2389-45f4-b07b-6e6e84f26f5b"
+        },
+        {
+          "id": "7e4dd04e-df9b-4836-840f-0c6f212fddb9",
+          "textContent": "parece",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0238988c-2389-45f4-b07b-6e6e84f26f5b"
+        },
+        {
+          "id": "83c28baa-15a9-45a1-a90e-4585b498d07f",
+          "textContent": "conviene",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0238988c-2389-45f4-b07b-6e6e84f26f5b"
+        },
+        {
+          "id": "946bb3b6-9a2f-49cb-b05d-f447f69877ed",
+          "textContent": "fiebre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0238988c-2389-45f4-b07b-6e6e84f26f5b"
+        },
+        {
+          "id": "ad30ca13-9c89-4c10-88e1-793682dd694f",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0238988c-2389-45f4-b07b-6e6e84f26f5b"
+        },
+        {
+          "id": "d98bf980-704d-40f8-b595-856e1b611a9c",
+          "textContent": "consulta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0238988c-2389-45f4-b07b-6e6e84f26f5b"
+        },
+        {
+          "id": "f74e9edf-d682-4a7b-b50f-04e964224297",
+          "textContent": "medico",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0238988c-2389-45f4-b07b-6e6e84f26f5b"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "fb383ff1-a2e5-430f-b9f4-dfcad4c928b5",
+      "title": "Reconstrua a troca pela escuta",
+      "content": "<p>Refaca pela escuta a cadeia curta do atendimento sem apoio de tradução.</p>",
+      "contentPlain": "Refaca pela escuta a cadeia curta do atendimento sem apoio de tradução.",
+      "fileUrl": null,
+      "feedbackSuccess": "A troca funciona porque cada turno empurra o atendimento para o passo seguinte.",
+      "feedbackError": "A troca funciona porque cada turno empurra o atendimento para o passo seguinte.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "47f36f60-4d02-4759-ae3e-527577cb341f",
+          "exerciseId": "fb383ff1-a2e5-430f-b9f4-dfcad4c928b5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0c38fd4fae1548dfb4ceaa6db8978267_b08-d01-buenos-dias-dime-que-te-ocurre.mp3?Expires=1794099919&Signature=WgN8ENG9rxOAMXt7suUx-r58bD5P-90vo9v3T-FdeHlyVsjaVhJ9BrXjqtJlabqlGrOMA5aDk5IVJCPjP4s7mpNAir65fpYFYBh9Xro~10vp4ykPGCJIsMrOSwyco-59s56cEs~J9dEA5bGX4I4uDtrfBw86Hg2iPXW6ohBoi1G09BWXT63JntX8ekvA-8Us0UcQohJOFlOtBp6dKznnhIPY4mbpVVbZi804xoySZ4pHT6EIsGKh69h4jdExeONNdke1pWzLvhoK-aoYiKrXOa1oul1Z4iMgegpWdWf3l4fLYQ5fjiYAzTphD1p8a2POXxNBesjlYPQo8jmG6E92MA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Buenos dias. Dime que te ocurre.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "007d9ae0-64cb-411a-918c-0ae5a912dff7",
+          "exerciseId": "fb383ff1-a2e5-430f-b9f4-dfcad4c928b5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a624124859347c69d0028bbfff5f56a_b02-tengo-fiebre-alta-desde-anoche-y-me-siento-muy-debil.mp3?Expires=1794099919&Signature=r0htEcSk8rynD6gRfcJVaJlKnMvoeGStzapcPoybBu-Z2gE0WdnQfMcj3CSSUU7Q39cMuj3cMzLqte6hH8StpCL7bZPeZQuB7~MMwzBYmzre1~oYBKT9CjTiWMcxMvHHPy1yBUTGQsDkt79gSDWyY5qHcydZjFpp2aAXqZa-vI4NVIQObWBu6BEnFBFBzlltKA0qXg2bgQDOUHIW9PlYp1HgLYkCZKI92-AmMRr3G7OGcTn8~S7o8Bo52k6Md5I~MxiTZxjZ18~0yIH8wYMn5-kWz5v4N1oPA7Lsme1Q4GRDeT0XLLwY~vlQQhV8TSUwQsQIZMNrtDTU6tBTfybIZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo fiebre alta desde anoche y me siento muy debil.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b0503732-fe70-417b-a656-910c8428d24b",
+          "exerciseId": "fb383ff1-a2e5-430f-b9f4-dfcad4c928b5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/23ef6fcbda7c41e1b585d6d16a8d3977_b08-d04-es-mas-bien-general-pero-me-mareo-cuando-me-levanto.mp3?Expires=1794099919&Signature=u0Qv49OpbDe09H5lycmvfBB0kfVYzbCQNkvcdC8fgBGVA5QhzM2ohYkWAbVByEPTbaJxUFCsIEueq4LelTSeejR5NRRlea6XiTF-7hmm2M7Ru~NlozZBDsq-JjhPoqtlc~jJLAvJLDh1Sp8fHEiCtcleg8ceGNoDtqVo7e0-ufXdGl7fs8RVkyO-bSStp5~ye7K-SumloMM44eFAhB6iZt53APVRaC~uOft4ioAtXih5gZVtv7ZOKuipUadoc9g2OggZhS4Hb8DjwXzHjy0lqw533AxH-lVVpI9IJVvmlZArLZCfEnyHDA7OQrMA7NXw7ZoC~~rkZNOpjIdaaaLvaQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es mas bien general, pero me mareo cuando me levanto.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "65387b73-e03b-40b9-b53b-fe2e555555ab",
+          "exerciseId": "fb383ff1-a2e5-430f-b9f4-dfcad4c928b5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2754b1a8ae614883b0d3eac5a7741cdb_b04-no-parece-una-urgencia-inmediata-pero-conviene-que-te-vea-un-medico-hoy.mp3?Expires=1794099919&Signature=Vm77qaC6a6JKOfHdVb6r-r-8U3yXcqtCmqJhaZE14Y~W4~FNmzUQZCmxzKVkbqJ6YiPvFakX9D-emi8tT8hERF1DLDHkLn0vkKF1KxANd~T~4Zyd1IeqA8OstFrhN27WHnlXH68KPRQClvx8i8Q6iyA-q2zWZON77yR46VnbmKEsBrmlotdi6HHUOAJwb819IUluUVsAEtrubxhiCVLD5Je1oy2yyifjj~hEWxmgHWfuYIfkQHy37PNYssO6YdU4~rzZFyJJWma2BJPski5rkGi89HNTaM77GFa5ry985tbOzaGxJr5d5DCykEAXTXonBAN1WIKCnRtHFZWhTuCYsw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No parece una urgencia inmediata, pero conviene que te vea un medico hoy.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "6850888e-581a-4568-aad0-090d92d15ef1",
+          "exerciseId": "fb383ff1-a2e5-430f-b9f4-dfcad4c928b5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/865117f2be9c4569aaf1739fa5fdc086_b06-sientate-un-momento-y-ahora-te-llamamos-para-la-consulta.mp3?Expires=1794099919&Signature=V3eyLaSOp4n-OFZJd3-lfqMeKMZqNF7aJT7oWsA3mRiO~0xy5mKTC7xp8r36vPP7HJnaRaSpkBsSSOhgh-C3f3Fs1rnzYQuEjHnixCUWEnTmREj6pa4xc0dkn5NAsHVOG4LBToZIJ9dBbusVkytcFZkcjnue-36bsuMJF13Wj8OOTWFzwsBKg4tfQGt9V-iXuGBFoPutmcWDEAeNlQaw7AQ4pT7C8pXD73Tu6PPa7H4Vn1XLbt4wjeZTqvZZYWV-NdfoIq9jaANpG7UI3XMGSWYdHfLE~SQ6RdNmgkjCHQPaC23B9YX-02IRG5nDn9dBz7br3h2lcrM~QWC1Y1eKFg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sientate un momento y ahora te llamamos para la consulta.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "6460b353-44da-4193-8bd7-73c61136eebd",
+      "title": "Separe o trabalho de cada fala",
+      "content": "<p>Ligue cada trecho em espanhol ao movimento discursivo que ele faz dentro da troca curta.</p>",
+      "contentPlain": "Ligue cada trecho em espanhol ao movimento discursivo que ele faz dentro da troca curta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Cada turno faz o atendimento avançar sem virar consulta longa.",
+      "feedbackError": "Cada turno faz o atendimento avançar sem virar consulta longa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5456a334-9bed-4cd1-b03e-1973261320fc",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6460b353-44da-4193-8bd7-73c61136eebd"
+        },
+        {
+          "id": "8e2cf500-9a0a-41fc-92a9-dcc152b3e03b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6460b353-44da-4193-8bd7-73c61136eebd"
+        }
+      ],
+      "associations": [
+        {
+          "id": "9def7000-79ae-4897-9e07-46ae310efe78",
+          "exerciseId": "6460b353-44da-4193-8bd7-73c61136eebd",
+          "leftContent": "Buenos dias. Dime que te ocurre.",
+          "rightContent": "abre o atendimento e pede foco no problema",
+          "sequenceItem": 1
+        },
+        {
+          "id": "bbe432d6-831f-42ce-b3e8-165f5d11c572",
+          "exerciseId": "6460b353-44da-4193-8bd7-73c61136eebd",
+          "leftContent": "Tengo fiebre alta desde anoche y me siento muy debil.",
+          "rightContent": "apresenta a queixa com tempo e impacto fisico",
+          "sequenceItem": 2
+        },
+        {
+          "id": "be8ada7c-9f12-436d-a4f9-85e80c14e075",
+          "exerciseId": "6460b353-44da-4193-8bd7-73c61136eebd",
+          "leftContent": "Es mas bien general, pero me mareo cuando me levanto.",
+          "rightContent": "ajusta o quadro e acrescenta um efeito funcional",
+          "sequenceItem": 3
+        },
+        {
+          "id": "5ce19957-20fc-4fca-ae28-c83a0378f307",
+          "exerciseId": "6460b353-44da-4193-8bd7-73c61136eebd",
+          "leftContent": "No parece una urgencia inmediata, pero conviene que te vea un medico hoy.",
+          "rightContent": "avalia a gravidade sem alarmar e mantem a necessidade de consulta",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "8fd959d3-8832-4f9d-9005-d459569b8f50",
+      "title": "Recupere o elo do encaminhamento",
+      "content": "<p>No parece una urgencia inmediata, pero ________ que te vea un medico hoy.</p><p>Tradução: Não parece uma urgência imediata, mas convém que um médico veja você hoje.</p>",
+      "contentPlain": "No parece una urgencia inmediata, pero ________ que te vea un medico hoy. Tradução: Não parece uma urgência imediata, mas convém que um médico veja você hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "Conviene que move a fala da avaliação para o passo seguinte.",
+      "feedbackError": "Conviene que move a fala da avaliação para o passo seguinte.",
+      "answerType": "buildWord",
+      "expectedAnswer": "conviene",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d6bb5ecb-01b5-44c7-a854-bece4f276ae6",
+      "title": "Recupere o marcador de tempo",
+      "content": "<p>Tengo fiebre alta desde ______ y me siento muy debil.</p><p>Tradução: Estou com febre alta desde ontem a noite e me sinto muito fraco.</p>",
+      "contentPlain": "Tengo fiebre alta desde ______ y me siento muy debil. Tradução: Estou com febre alta desde ontem a noite e me sinto muito fraco.",
+      "fileUrl": null,
+      "feedbackSuccess": "Desde anoche fixa o início do quadro dentro da abertura da queixa.",
+      "feedbackError": "Desde anoche fixa o início do quadro dentro da abertura da queixa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "anoche",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Transformar sintomas em atendimento"
+}

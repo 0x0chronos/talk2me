@@ -1,0 +1,630 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+    "attemptId": "ac4edb12-4b2d-46e1-ae5e-8c6956eff7e2",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "9cad6a41-3e5a-46b7-9acc-206f3b639313",
+      "2fe4111f-d67e-4acb-b0fe-c25aaf865bba",
+      "efe6ebd9-35b0-42a0-8bf6-f2c8d8ae7aac",
+      "5b5a6a70-7c0c-4828-a43a-fe7770e2f550",
+      "b111ae47-bd6f-4e7a-b832-0a423308846a"
+    ],
+    "evaluationExerciseIds": [
+      "57aa9bf0-28d9-40c5-b891-e958a88c7c17",
+      "156f0591-2356-48bb-9782-6ff519665b60",
+      "d865778e-591a-4910-b15b-533799a4a819",
+      "f21c7e2f-f437-423b-81ee-15f413441464",
+      "642c7681-1703-41f7-90db-36c2833bbcdf"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:56:35.9692858Z"
+  },
+  "contents": [
+    {
+      "id": "4171e73f-9290-4b50-a59d-96d1121455bb",
+      "title": "Observe a cena e note quais informações costumam aparecer quando alguém fala de si.",
+      "description": null,
+      "contentType": 4,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "a19139e4-81ab-448c-a8b7-8c81dc36ced3",
+          "textContent": "<p>Imagine o começo de uma aula de espanhol.</p><p>Nesse momento, uma apresentação curta costuma trazer <strong>nome</strong>, <strong>nacionalidade</strong> e <strong>idiomas</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c74afd4ed1c64d94aa9926ebc2578885_b01-apresentacao-na-aula.png?Expires=1794099396&Signature=O~6a4HIE-xgP9P9pHfyD0i2j9NLUAacwvlwEQO9lVXevvuo0GGLK3icnO2A5sduzZfDzwlFbqSSsD9Q0sfzAL-Ni1TlOvI7h8B259129tR5M0A7q97jaWQ~6KIQQjpxRv5-auMZXU~ccKSgt45SPv8qAXYf8PxfhWrksCEIHcIQzPLtjQAr1khnHmVDngK7p724NIEvA8JzifNAaqiru3HlcH5yfM2tswnw19Y-deZH4xGeo0oPlYspM8KUirar8Lxrrh6MqxhW7Px~UONfoqkuOH8GruUnbWhWd2r2b6jpQ0Ky62LCAt5L74bxpm1fjFMMorUJKkcLlpLudWzzxoQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0f6270bc-bae8-46ca-a03e-0372eae922aa",
+      "title": "Observe a frase, escute o áudio e ligue o espanhol ao sentido em português.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "9b2bed7e-7aa0-458e-bc2a-1b47e09342cc",
+          "textContent": "<p>Uma forma simples de dizer seu nome é:</p><p><strong>Me llamo Camila.</strong></p><p>Em português: <strong>Meu nome é Camila.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c74afd4ed1c64d94aa9926ebc2578885_b01-apresentacao-na-aula.png?Expires=1794099396&Signature=O~6a4HIE-xgP9P9pHfyD0i2j9NLUAacwvlwEQO9lVXevvuo0GGLK3icnO2A5sduzZfDzwlFbqSSsD9Q0sfzAL-Ni1TlOvI7h8B259129tR5M0A7q97jaWQ~6KIQQjpxRv5-auMZXU~ccKSgt45SPv8qAXYf8PxfhWrksCEIHcIQzPLtjQAr1khnHmVDngK7p724NIEvA8JzifNAaqiru3HlcH5yfM2tswnw19Y-deZH4xGeo0oPlYspM8KUirar8Lxrrh6MqxhW7Px~UONfoqkuOH8GruUnbWhWd2r2b6jpQ0Ky62LCAt5L74bxpm1fjFMMorUJKkcLlpLudWzzxoQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/bdbbc1194e17488cac00c1482571a2a2_b02-me-llamo-camila.mp3?Expires=1794099396&Signature=PvES2~V34E-iU4Pp1m3bgCxZxpXQjWX64R~LhBYV0l7vQnJKEM92qLnJrfpPWj-Puoe22mnhPKJLmJ-qPCADbegEtDokhTQJ~3FrYjORPIH4MLj2xkfpW-YAnu~aMBeFqb6OFM-Lfbfh5O8TJ4~KQrNx6vHovM56mc7l4H7wpHvlGgDumzm9CJaxbPLiO7I8GV8AJLWLYI2gzD8LtMotsu1Kii5zIBZ6ekWe27o2sBAJ2SsJr0zfMMupmr2NLIMfiMlgwqF1u-f7MlhsjI9hsKzgB80ivciJVHesaKoznCKarb8omqLTzx8-niMPveMfTMWi3qbhkdttRVB5JbemgA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "264971d8-1852-4eeb-bdae-dfa8e01c2c14",
+      "title": "Escute a pergunta e observe como ela abre espaço para a resposta com me llamo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "fdf4c237-e899-4bb3-9926-e8b283ac9387",
+          "textContent": "<p>Essa resposta costuma vir logo depois desta pergunta:</p><p><strong>¿Cómo te llamas?</strong></p><p>Em português: <em>Como você se chama?</em></p><p>Quando você ouve essa pergunta, a resposta mais direta começa com <strong>Me llamo...</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6ee6b8eaf1ae478ca4e4a79da09c34ae_b03-como-te-llamas.mp3?Expires=1794099396&Signature=TfMzUTL8czg~lMxXqX4QBuSwsT1wSF3zwRr8~3~ROAEuxyY1ade45SyNiNC8cFXD9RMU-4tEXFYytZPavGBk17ycC~pMekO8LaczpRMWnOprExZWipwbBw1c2uFEX26XE7XCew05ETFJX8Q50i0wEzxw~czDiRTzaCEPmE4cg4QbGAftcPjRjyZgrbEn42q0KPkuUEFuXUSCavk0dSQ85ikv0Ht9htXEPQ9-FZhkR~EBWMmnLjiytIIE2H2T6MG4xwcjfBeZp2WXLla8V9hrvvI2uKOZM~A1oq6jKRePhpfvKgz-ifliHKSiNzRNDnIA4alEN68uuZ2M66J9QT1L4w__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "41163ece-b712-43be-9c1f-ab97acd3f4b3",
+      "title": "Escute a frase e observe como a nacionalidade entra logo depois de soy.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "57ac96de-9f38-4f06-80b1-227b561564bd",
+          "textContent": "<p>Outra parte comum da apresentação é a nacionalidade.</p><p><strong>Soy brasileña.</strong></p><p>Em português: <strong>Sou brasileira.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5660eb71fc70444399bbc25f0a017923_b04-soy-brasilena.mp3?Expires=1794099396&Signature=0BfvPs9xVF8HEGWHapyqJgDWHlH94Keo9hEsu70a3QwDqLgMzVmWuIe6THXd5Hsr2-PagVOY1FCyP883OKdMdKZIxrfcIq0PHjcd-NhBakuFPmMPbRdhQpaEfnohJMjXjbymn-hVGUO6sZlxpCLyshKgcuNtBHR6WhZUMviXHbwZAj0oKYOKBJRr8X~Eyd3CzVkrwT9OC9HtrHOlZNYdcSEsZ~gVmYlj-4-SLUrTaJUotbEgnWjLTybZK057qvGDw9~l0jb1C0SVPzXn0ZFzLDI1RL4wbmvhMHpYaEZWdQeD56W3840C~GHbYURxp7aXqC4kgWsvhD3Px0rAzYDpYg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "45e0e940-94ac-4c2c-8244-416add1017ae",
+      "title": "Compare as duas frases e note o que fica igual e o que muda.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "78bf9da7-7507-4303-9532-a9fe6f00bf37",
+          "textContent": "<p>Na autoapresentação, <strong>soy</strong> continua igual.</p><p>O final da nacionalidade muda com quem fala.</p><ul><li><strong>Soy brasileña.</strong> para mulher</li><li><strong>Soy brasileño.</strong> para homem</li></ul><p>O núcleo da resposta continua sendo o mesmo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0bde2829-a37d-4dbf-95a1-74cd52e6d478",
+      "title": "Escute a frase e observe como hablo já resolve uma resposta bem direta.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "770812fc-692b-445b-8609-768e7d2c545e",
+          "textContent": "<p>Para falar de idioma, uma resposta pode ser bem curta.</p><p><strong>Hablo español.</strong></p><p>Em português: <strong>Eu falo espanhol.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ead4ad94b1734c20b8927bdce36ad7a6_b06-hablo-espanol.mp3?Expires=1794099396&Signature=SHueay3EKWVDfHPLgUVbCzeKjxmMAXI7uaBGQtGEV6s84O7dhI8X14ANWMUcFp39-Pz2~9hDgmXg8xGFBRQWLYk1ZJzqC8IICVrRlGoHQCaidILlU7o2P-m8k8ZjcOo8uGZQvHD2vz02Cd6VqpNiVK7uw2oVw3RtiTSrjLICuJne90I5R7SyOunZco~cwqHKMsE7SL81mHSPD6JfBxAS3IqPYLF9FeYuzbFfgkQpWkGyUhh1s1OV8168JnQgMFtyRzPVnPUwYXkdXsfRBFQL9IkvqMPy-AolrR5Gk0DY~wTKqeZ~5Tw1-Ubmjbq1BoOt~3rtMUIDf7vdR9ZFyFi6Zg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e4d5500b-1d0c-4418-b994-1ae5ad0249d4",
+      "title": "Escute a frase e compare mentalmente com a resposta curta da tela anterior.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "1f80e512-0295-418d-adcb-1622d2fe4479",
+          "textContent": "<p>Agora veja a mesma ideia em uma versão um pouco mais completa.</p><p><strong>Yo hablo portugués y un poco de español.</strong></p><p>Em português: <strong>Eu falo português e um pouco de espanhol.</strong></p><p><strong>un poco de</strong> ajuda a indicar um nível inicial.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4954553357f74ba1bdc0ae6d98989b38_b07-yo-hablo-portugues-y-un-poco-de-espanol.mp3?Expires=1794099396&Signature=w3uegN6ZRasb7ZNKMBInH4PK9NhkdSny~0DPM3fPqi9iITx7lREucu14OQrQmjm0yZjpSWctzdvMPV7qeeFwmYYvDiZhziDfIJf1AFj64kESgUOXQvLiPd6m08LeSxSMyGG-cxaiQAUcgLwv9LX6wk32EW8ODuVsOw5gYPnS1WVBTisq5580B8g9nTT2cObPs1OuUxfkjmUwQbz~QjTU6ANdd9Zx4rqlC-iaQ9VCSQKkwktcmHY4HpWzw8v5qxYao8usQQeIAGvi7ZFYbSGd4GXRmYjxrpa0Qh5vLJNQsFWjLL6GaMXuTHZti2WKjgv2kAXbOIgNa41c-xct0AWuZA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c535b27a-aed1-4af7-8617-73c13b8c0141",
+      "title": "Observe o mapa curto e ligue cada frase ao tipo de informação que ela entrega.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "5f465bb9-6400-4e9a-9037-b56a7865e6db",
+          "textContent": "<p>Estas três respostas falam de partes diferentes sobre você.</p><ul><li><strong>Nome:</strong> <strong>Me llamo Camila.</strong></li><li><strong>Nacionalidade:</strong> <strong>Soy brasileña.</strong></li><li><strong>Idiomas:</strong> <strong>Yo hablo portugués y un poco de español.</strong></li></ul><p>Essa ordem deixa a apresentação curta e fácil de acompanhar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fcc6b47a-8ca9-48b2-8b64-23850cc80227",
+      "title": "Escute a apresentação completa e observe como cada frase acrescenta uma informação.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "269199cc-b19a-4abc-82a4-c7a32b38c701",
+          "textContent": "<p><strong>Hola. Me llamo Camila. Soy brasileña. Yo hablo portugués y un poco de español.</strong></p><p>Primeiro vem o nome, depois a nacionalidade e por fim os idiomas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8d85c49d09e448dabbb895d9e284378a_b09-presentacion-completa.mp3?Expires=1794099396&Signature=ssk0lxu~-11VyFVSMqCNtK~-6tQ69VmUYUfLwTLCtxJ8~elwjIQv3uNFqUmZwrscAdV27wwpDd7NTDL4v~YPt7DqH~m2vD~wZK5MCQTdpSo7rOhatMx51HZgHycgjSoJgZTAlNEAGpv~sUL1MoD2SrDeoOkwiJwJlYJOoxwGkvfgQrvIQSj0UI-icBPxi4HyB5KvqN8RdHW5rD27milVoNu-4izV57Mvu9OxCwGNizKvG1gGqepYpLIboI47eFwlFWciORYUzhjFysqHxIrdCSKOXYdMSxWVk6MzotCexfc87YtONj8Xj8HVYxTlG9O0iO2XYWBQ9O4VqOk36cj7Ng__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6974261b-d3ef-4ed6-9156-f29248bc97e2",
+      "title": "Leia o fechamento e note em que momentos essa sequência já é suficiente.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "a1e9b735-665a-43ef-ac41-ec2d57815589",
+          "textContent": "<p>Em uma aula nova, em um grupo de conversa ou no começo de uma reunião online, estas três partes já resolvem uma apresentação breve.</p><ol><li><strong>Me llamo...</strong></li><li><strong>Soy...</strong></li><li><strong>Hablo...</strong></li></ol><p>Com esse repertório, você já consegue dizer o essencial sobre si em um primeiro contato.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "9cad6a41-3e5a-46b7-9acc-206f3b639313",
+      "title": "Ouça o áudio e selecione as palavras",
+      "content": "<p>Ouça o áudio e selecione apenas as palavras da lista que aparecem nele.</p>",
+      "contentPlain": "Ouça o áudio e selecione apenas as palavras da lista que aparecem nele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4954553357f74ba1bdc0ae6d98989b38_b07-yo-hablo-portugues-y-un-poco-de-espanol.mp3?Expires=1794099396&Signature=w3uegN6ZRasb7ZNKMBInH4PK9NhkdSny~0DPM3fPqi9iITx7lREucu14OQrQmjm0yZjpSWctzdvMPV7qeeFwmYYvDiZhziDfIJf1AFj64kESgUOXQvLiPd6m08LeSxSMyGG-cxaiQAUcgLwv9LX6wk32EW8ODuVsOw5gYPnS1WVBTisq5580B8g9nTT2cObPs1OuUxfkjmUwQbz~QjTU6ANdd9Zx4rqlC-iaQ9VCSQKkwktcmHY4HpWzw8v5qxYao8usQQeIAGvi7ZFYbSGd4GXRmYjxrpa0Qh5vLJNQsFWjLL6GaMXuTHZti2WKjgv2kAXbOIgNa41c-xct0AWuZA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Este passo retoma como falar dos idiomas que você usa na apresentação.",
+      "feedbackError": "Este passo retoma como falar dos idiomas que você usa na apresentação.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "06df2e68-698b-47e8-88ca-8921f14602b3",
+          "textContent": "yo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9cad6a41-3e5a-46b7-9acc-206f3b639313"
+        },
+        {
+          "id": "25ce3041-a623-489f-bdfb-339bb169894c",
+          "textContent": "portugués",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9cad6a41-3e5a-46b7-9acc-206f3b639313"
+        },
+        {
+          "id": "6c20b165-60de-4077-8125-d195ed9c6f12",
+          "textContent": "adiós",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9cad6a41-3e5a-46b7-9acc-206f3b639313"
+        },
+        {
+          "id": "6ee4052a-45a6-4258-92b8-e8038c425ff9",
+          "textContent": "español",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9cad6a41-3e5a-46b7-9acc-206f3b639313"
+        },
+        {
+          "id": "afc92176-8f95-4d3b-82c8-d5059c14e75c",
+          "textContent": "hablo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9cad6a41-3e5a-46b7-9acc-206f3b639313"
+        },
+        {
+          "id": "db33626b-ebba-44df-b983-359999fe94d8",
+          "textContent": "inglés",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9cad6a41-3e5a-46b7-9acc-206f3b639313"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2fe4111f-d67e-4acb-b0fe-c25aaf865bba",
+      "title": "Escolha a melhor resposta",
+      "content": "<p>Você ouve a pergunta <strong>¿Cómo te llamas?</strong>.</p><p>Escolha a resposta que fala do nome da pessoa.</p>",
+      "contentPlain": "Você ouve a pergunta ¿Cómo te llamas? . Escolha a resposta que fala do nome da pessoa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você retoma a parte da apresentação que responde pelo nome.",
+      "feedbackError": "Aqui você retoma a parte da apresentação que responde pelo nome.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1b645ae4-0ea8-4c25-bada-45acbaec1e11",
+          "textContent": "Yo hablo portugués y un poco de español.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2fe4111f-d67e-4acb-b0fe-c25aaf865bba"
+        },
+        {
+          "id": "30aa245d-2ff9-4da7-86f9-55a2cc0a6cc2",
+          "textContent": "Soy brasileña.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2fe4111f-d67e-4acb-b0fe-c25aaf865bba"
+        },
+        {
+          "id": "ac2bfc87-ecb0-4dfb-b61f-437ed6f5e590",
+          "textContent": "Me llamo Lucía.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2fe4111f-d67e-4acb-b0fe-c25aaf865bba"
+        },
+        {
+          "id": "c3e0ef4d-830e-4239-afae-e7451651c9f9",
+          "textContent": "Hablo español.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2fe4111f-d67e-4acb-b0fe-c25aaf865bba"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "efe6ebd9-35b0-42a0-8bf6-f2c8d8ae7aac",
+      "title": "Combine áudio e frase",
+      "content": "<p>Ouça cada áudio e combine com a frase escrita correspondente.</p><p>São três partes curtas que reaparecem na apresentação pessoal.</p>",
+      "contentPlain": "Ouça cada áudio e combine com a frase escrita correspondente. São três partes curtas que reaparecem na apresentação pessoal.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reforça as três linhas curtas que montam uma apresentação pessoal.",
+      "feedbackError": "Aqui você reforça as três linhas curtas que montam uma apresentação pessoal.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "45908767-4d1a-4748-962d-d6ca4ccc2f43",
+          "exerciseId": "efe6ebd9-35b0-42a0-8bf6-f2c8d8ae7aac",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/52ef5c7cee544fb9b9ff63bc2f077548_b02-me-llamo-camila.mp3?Expires=1794099396&Signature=JQBkF96EU450GagbGHYzQwomqagvKX720lq3RbsgXsmwYHh2eg2n5dlgIJYxeUfVx7ngE3F2yIHJ1MnhFwvyfh4kTXtojRG4S0NbGTTujqpRMIPSNCUYv4a7a-~GYMoF4LHv8ouC04JQqaZNO8nonecZMNhZU58ZZvr1SaiUp1OxUbW0DIRF3CtNPFyJ6jdGcNICHgBil6MjgPQqrSJpGWORXofz-IAEqoI6kdSuiIMCrro~cnht8bhcfhTVqK07yEo6YC8Dvc55VJGjZmYezg1KpxVx7sH3ohad~gZqcz0NSJOxNgnc3romlPjn1wzhMXDsVsyusV4Tdhsv9Ut8ow__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me llamo Camila.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ae03c9d2-a073-4fd8-89cd-cb1ba16361f3",
+          "exerciseId": "efe6ebd9-35b0-42a0-8bf6-f2c8d8ae7aac",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9153d3eaa3d743bd8bd735d3499ddf38_b04-soy-brasilena.mp3?Expires=1794099396&Signature=fY98GyXfBRvmkg37lJlnSy09LqaM502ayskQp0z7jJcEFVS~XOvINSWhIlqJoB-X2rAlRsXhwc4Hk6ESWhX7bYK0OR-dRBnXWKwaAob8jQ5HAYkh3daDI2P5w1~yXUgPkK-0jxuyyoPZGp~YSyr5aS2poUuO2~I1TAyQ0a7h-UTCInzT9G~5uS5lYM0Kb7gVTM7bBL1T2C0AZBqONNYm5BzViAQCFDi1TeuD~5RcQ3H-wCTthDiI6cV3ERoUbMAE7giutb7VzSNSr5QqCANos2LBFupJ43HqQfpmeJoaWOfUfSCLQZvfktW8c2ij~~jNIbM-nnyI7uiJ5IZaz5CgZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy brasileña.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7cca4f7e-396e-44fa-8bc4-596c89a300ab",
+          "exerciseId": "efe6ebd9-35b0-42a0-8bf6-f2c8d8ae7aac",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6d3e8af8c5d74155a98862905af479fd_b06-hablo-espanol.mp3?Expires=1794099396&Signature=bCGbDdaDZ4Cb8WMucaFmucHwwSgaHo0yLzCfSyG9jpdQmxltTqu3RVjXG~FRkbVZUXgOHrsi8CO3EKY8iGsdWJqjNw3wXnD6GGO15xR0JjEiFEIZ6b33dZ5suPBdPlaQ-QEKQMfH7J7ER5r9--4AYxIVxGSi3XsER0l89h0KnfrtjNU3ob4YNd2VZPimqy8lxrBPNyZEiQ3X0tSjFl03NpNmFhWnUSxBZ1S1STiVyohaqecXxOK0W-bYfObdQlNNnc-hXVZFdGYYnerDZMhfJsQaoZJTrWXP1glcuBohdvAiK5C0Mw4G91JXzXC6t~ThDMF~h6l8OcKsvOqEVzEP0Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hablo español.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "5b5a6a70-7c0c-4828-a43a-fe7770e2f550",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a autoapresentação em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a autoapresentação em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c8725b4a07d14bf8973a82406aa6ca61_A1_M002_L05_audio_8d85c49d_hola-soy-de-brasil-yo-hablo-portugues-y-un-poco-de-espanol.mp3?Expires=1794099396&Signature=M3SwoTDePsAdwvBJFEdnvBloB7LfoDZdsLYmFu2bqMomQr4nKI4sXnla93imA0CoNVbaMxNrOGlxwWSxkMDKkOXYibE5qRTHiz0x2tdEti5ovDJRF5rAvmjW6BhoUzGOYEf5X-5Zs--M7HwR~kpXT2UdJDU40b3XOBohKn7FclHR3ljLTqE867Yls74uTcFoCULpxEsLuJh0dfbCGksCWXQFRJu1SDINqf7qV9aoS2PavUfIzafaiNOCDtKqhbycKzLyK1WlVvoTDPS3k8E6WTePH0w~PJ8cLAiveOp3PkdlC-xmjnjDaPkhwli7P1DHcNnb2dsLE3FtzRNUDnvJYA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta repetição junta origem e idiomas em uma fala só.",
+      "feedbackError": "Esta repetição junta origem e idiomas em uma fala só.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Hola. Soy de Brasil. Yo hablo portugués y un poco de español.",
+      "typeSpecificData": "{\"expectedText\":\"Hola. Soy de Brasil. Yo hablo portugu\\u00E9s y un poco de espa\\u00F1ol.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/c8725b4a07d14bf8973a82406aa6ca61_A1_M002_L05_audio_8d85c49d_hola-soy-de-brasil-yo-hablo-portugues-y-un-poco-de-espanol.mp3?Expires=1794099396\\u0026Signature=M3SwoTDePsAdwvBJFEdnvBloB7LfoDZdsLYmFu2bqMomQr4nKI4sXnla93imA0CoNVbaMxNrOGlxwWSxkMDKkOXYibE5qRTHiz0x2tdEti5ovDJRF5rAvmjW6BhoUzGOYEf5X-5Zs--M7HwR~kpXT2UdJDU40b3XOBohKn7FclHR3ljLTqE867Yls74uTcFoCULpxEsLuJh0dfbCGksCWXQFRJu1SDINqf7qV9aoS2PavUfIzafaiNOCDtKqhbycKzLyK1WlVvoTDPS3k8E6WTePH0w~PJ8cLAiveOp3PkdlC-xmjnjDaPkhwli7P1DHcNnb2dsLE3FtzRNUDnvJYA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b111ae47-bd6f-4e7a-b832-0a423308846a",
+      "title": "Relacione frase e informação",
+      "content": "<p>Associe cada frase em espanhol ao tipo de informação que ela traz em uma apresentação curta.</p>",
+      "contentPlain": "Associe cada frase em espanhol ao tipo de informação que ela traz em uma apresentação curta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este exercício organiza nome, nacionalidade e idiomas na sua apresentação.",
+      "feedbackError": "Este exercício organiza nome, nacionalidade e idiomas na sua apresentação.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "23736b56-eb51-4525-b2e0-7d1cb3c2f2ae",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b111ae47-bd6f-4e7a-b832-0a423308846a"
+        },
+        {
+          "id": "834f22f6-c87f-49e2-abb5-1e7025cf58cc",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b111ae47-bd6f-4e7a-b832-0a423308846a"
+        }
+      ],
+      "associations": [
+        {
+          "id": "5b9d16d3-13d4-421f-904a-06747765044d",
+          "exerciseId": "b111ae47-bd6f-4e7a-b832-0a423308846a",
+          "leftContent": "Me llamo Bruno.",
+          "rightContent": "nome",
+          "sequenceItem": 1
+        },
+        {
+          "id": "59c0cc8b-4d98-435e-a8ee-fd61493a1af5",
+          "exerciseId": "b111ae47-bd6f-4e7a-b832-0a423308846a",
+          "leftContent": "Soy brasileño.",
+          "rightContent": "nacionalidade",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d945233f-a7ed-4fc4-be26-70b95a4e3288",
+          "exerciseId": "b111ae47-bd6f-4e7a-b832-0a423308846a",
+          "leftContent": "Yo hablo portugués y un poco de español.",
+          "rightContent": "idiomas que fala",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "57aa9bf0-28d9-40c5-b891-e958a88c7c17",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Me _____ Lucía.</p><p>Tradução: Meu nome é Lucía.</p>",
+      "contentPlain": "Complete a frase em espanhol: Me _____ Lucía. Tradução: Meu nome é Lucía.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você recupera a palavra central para dizer seu nome.",
+      "feedbackError": "Aqui você recupera a palavra central para dizer seu nome.",
+      "answerType": "buildWord",
+      "expectedAnswer": "llamo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "156f0591-2356-48bb-9782-6ff519665b60",
+      "title": "Combine áudio e texto",
+      "content": "<p>Ouça cada áudio e combine com o trecho escrito correto.</p><p>Agora as opções misturam partes isoladas e a apresentação completa.</p>",
+      "contentPlain": "Ouça cada áudio e combine com o trecho escrito correto. Agora as opções misturam partes isoladas e a apresentação completa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este desafio pede reconhecer partes isoladas e a apresentação completa pelo som.",
+      "feedbackError": "Este desafio pede reconhecer partes isoladas e a apresentação completa pelo som.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "154e04b7-211b-45f8-9140-726c79ec4513",
+          "exerciseId": "156f0591-2356-48bb-9782-6ff519665b60",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bee767ca269242d6b1dee15ce2429d2b_b07-yo-hablo-portugues-y-un-poco-de-espanol.mp3?Expires=1794099396&Signature=bBCXvD9buBqMiqFIGUOKlLmfRZrimHh-24hAxeBB0x4o9cbs94EfnTnusi5srU2B9x5G9Zfl~G-xKmvjyYPCjQdq9TcUJTm71qf8LZO3Z4Si-KW8D74f8oo9RNmrCVjhrl-Wnnis6s8H2pfvgeaAENyeWCsxORDePDUG3oJADZA-5zAtVFsZ9xPEzyG-eML~Ox9A0vON8r1wRhD0YYIWdKUPT7ePnmbKjHPXc9X9rdY4WelcETqm3qmEpE3QJNQ1AhmXVcLY-F9-SWDORRfsp9Jn7RpEqlCcjo7yPxG-bAEDLss~sf8zJmrlmFTM9VfCwsDFyMFyKTsuZ4iDkRcp7A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo hablo portugués y un poco de español.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "700e52d8-3b0c-4ffd-ae51-074a6529a2ab",
+          "exerciseId": "156f0591-2356-48bb-9782-6ff519665b60",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2e3d00e8fa9a4db6a783d0e416f60391_b09-presentacion-completa.mp3?Expires=1794099396&Signature=OfJ0fqaaXtymEofADstvlIN0GVLHWbKulYLKY3a9yAJQkVomrZJAwaTn46Gp5myTuKg5-fcMnxKX0yvCJJFJf23zv3k3Q-ds2C2g8uYrttAODekyMDcbUReUvIdJvF9gvkYyhrGEWdPN-52K5qCT11pCa82tVRE77fy-RN1xjnEicZByJsvaeZZmtT6gQeTzL0zwz4iuPScjONJYFhQXp83VteOjw81rL5AHHpe~0IIbpu4r3LwunhI2wJyUfMlxphySBBFCdw6J3pfwwEVsCYC7F9oawmQhfc5YePuL7MYVj91UN-jeuwVwyNDgTDxgC5xHYqdfXMzwD3RApW64xw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hola. Me llamo Camila. Soy brasileña. Yo hablo portugués y un poco de español.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "346781e9-8d12-482f-a715-d01fa0147b45",
+          "exerciseId": "156f0591-2356-48bb-9782-6ff519665b60",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9153d3eaa3d743bd8bd735d3499ddf38_b04-soy-brasilena.mp3?Expires=1794099396&Signature=fY98GyXfBRvmkg37lJlnSy09LqaM502ayskQp0z7jJcEFVS~XOvINSWhIlqJoB-X2rAlRsXhwc4Hk6ESWhX7bYK0OR-dRBnXWKwaAob8jQ5HAYkh3daDI2P5w1~yXUgPkK-0jxuyyoPZGp~YSyr5aS2poUuO2~I1TAyQ0a7h-UTCInzT9G~5uS5lYM0Kb7gVTM7bBL1T2C0AZBqONNYm5BzViAQCFDi1TeuD~5RcQ3H-wCTthDiI6cV3ERoUbMAE7giutb7VzSNSr5QqCANos2LBFupJ43HqQfpmeJoaWOfUfSCLQZvfktW8c2ij~~jNIbM-nnyI7uiJ5IZaz5CgZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy brasileña.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "d865778e-591a-4910-b15b-533799a4a819",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Yo hablo _________ y un poco de español.</p><p>Tradução: Eu falo português e um pouco de espanhol.</p>",
+      "contentPlain": "Complete a frase em espanhol: Yo hablo _________ y un poco de español. Tradução: Eu falo português e um pouco de espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reconstrói a parte de idiomas dentro da apresentação.",
+      "feedbackError": "Aqui você reconstrói a parte de idiomas dentro da apresentação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "portugués",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f21c7e2f-f437-423b-81ee-15f413441464",
+      "title": "Ouça o áudio e selecione as palavras",
+      "content": "<p>Ouça a apresentação completa e selecione as palavras da lista que aparecem nela.</p>",
+      "contentPlain": "Ouça a apresentação completa e selecione as palavras da lista que aparecem nela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8d85c49d09e448dabbb895d9e284378a_b09-presentacion-completa.mp3?Expires=1794099396&Signature=ssk0lxu~-11VyFVSMqCNtK~-6tQ69VmUYUfLwTLCtxJ8~elwjIQv3uNFqUmZwrscAdV27wwpDd7NTDL4v~YPt7DqH~m2vD~wZK5MCQTdpSo7rOhatMx51HZgHycgjSoJgZTAlNEAGpv~sUL1MoD2SrDeoOkwiJwJlYJOoxwGkvfgQrvIQSj0UI-icBPxi4HyB5KvqN8RdHW5rD27milVoNu-4izV57Mvu9OxCwGNizKvG1gGqepYpLIboI47eFwlFWciORYUzhjFysqHxIrdCSKOXYdMSxWVk6MzotCexfc87YtONj8Xj8HVYxTlG9O0iO2XYWBQ9O4VqOk36cj7Ng__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Este áudio reúne as três partes da autoapresentação em sequência.",
+      "feedbackError": "Este áudio reúne as três partes da autoapresentação em sequência.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "313c1709-5527-4051-8c62-c5b2fbedff9d",
+          "textContent": "hola",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f21c7e2f-f437-423b-81ee-15f413441464"
+        },
+        {
+          "id": "6a18bfda-ed8b-4ee8-a113-9c2872e2afdb",
+          "textContent": "brasileña",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f21c7e2f-f437-423b-81ee-15f413441464"
+        },
+        {
+          "id": "8eeb97fb-746d-4d28-a8dd-03a3fee0dcae",
+          "textContent": "inglés",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f21c7e2f-f437-423b-81ee-15f413441464"
+        },
+        {
+          "id": "b88f4a86-f486-4adf-873b-c19367acc6cf",
+          "textContent": "español",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f21c7e2f-f437-423b-81ee-15f413441464"
+        },
+        {
+          "id": "d94a1b4d-3c8f-454f-a784-b1e5139df7e7",
+          "textContent": "adiós",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f21c7e2f-f437-423b-81ee-15f413441464"
+        },
+        {
+          "id": "da508bd7-6193-4fb3-9753-63821a410a34",
+          "textContent": "portugués",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f21c7e2f-f437-423b-81ee-15f413441464"
+        },
+        {
+          "id": "e3b549b6-e6da-4ec6-b82f-e3b6e6f9e618",
+          "textContent": "llamo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f21c7e2f-f437-423b-81ee-15f413441464"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "642c7681-1703-41f7-90db-36c2833bbcdf",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol para um homem: Soy _________.</p><p>Tradução: Sou brasileiro.</p>",
+      "contentPlain": "Complete a frase em espanhol para um homem: Soy _________. Tradução: Sou brasileiro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este item retoma o contraste entre brasileña e brasileño.",
+      "feedbackError": "Este item retoma o contraste entre brasileña e brasileño.",
+      "answerType": "buildWord",
+      "expectedAnswer": "brasileño",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "72023c14-d928-4deb-b539-e4fd863f8cdc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Falar sobre você"
+}

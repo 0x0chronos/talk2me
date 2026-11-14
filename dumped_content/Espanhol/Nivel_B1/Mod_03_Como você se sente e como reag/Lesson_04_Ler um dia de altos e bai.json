@@ -1,0 +1,622 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+    "attemptId": "2a10f997-f719-4ba1-9351-9ab3839ad25c",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "566cb71e-5f2d-4f2b-a87e-9fb06873d862",
+      "60534cd2-fbdb-402e-a4ff-06b0ce6746c7",
+      "55b5a4ff-0e1e-4f3d-878b-52960a96da4b",
+      "30449b04-db11-47b0-b86b-edfb3174c8dd",
+      "1c3bbef1-f633-4fb5-a907-d3d0b4b23891"
+    ],
+    "evaluationExerciseIds": [
+      "cd495f2f-63ff-45b4-b2cd-9cc42f6849ef",
+      "59488acc-f4f7-41b9-a467-95ae3f988644",
+      "348e9ebb-52af-461a-a1dd-ce31a54967be",
+      "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b",
+      "185b6598-05de-4c29-9f82-8fcb384b5589"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:43.1339994Z"
+  },
+  "contents": [
+    {
+      "id": "322019ea-3b31-4494-860c-58f04f3d0519",
+      "title": "Leia a situação e acompanhe três pistas ao longo da aula: como Valeria se sente, por que isso muda e como Diego reage.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "4977873c-6efc-40cd-b541-1dd525553650",
+          "textContent": "<p>Você vai ler um relato curto sobre um dia de altos e baixos.</p><p>Valeria sai de casa bem, passa por um contratempo no trabalho e termina a tarde mais tranquila depois de duas notícias importantes.</p><p>O fio da leitura é sempre o mesmo: <strong>estado</strong>, <strong>causa</strong> e <strong>reação</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8d9d5d77-9430-4a4e-9d56-cf8128f7314d",
+      "title": "Leia a primeira parte e observe como o texto marca um começo leve e um alívio rápido.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "9c7ca109-cd41-4264-ae4c-cb78d92d84e4",
+          "textContent": "<p><strong>Valeria empezó el día de buen humor porque había dormido bien.</strong></p><p><strong>En el metro recibió un mensaje: la primera reunión se cancelaba. Sintió alivio, ya que ganaba una hora para terminar una presentación.</strong></p><p>Até aqui, o dia muda dentro do mesmo campo positivo: primeiro há bom humor; depois aparece alívio por um motivo bem concreto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9c3bf6d0-9efa-4bbe-a529-9cb70e757540",
+      "title": "Leia a continuação e note como o texto deixa a causa clara com porque e como.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "fdb4c206-9a12-4c65-be2c-921deb35885f",
+          "textContent": "<p><strong>Después del almuerzo, se puso de mal humor porque el ordenador dejó de funcionar.</strong></p><p><strong>Como perdió unos cambios importantes, le escribió a Diego para desahogarse.</strong></p><p><strong>Al final de la tarde, el técnico arregló el problema y su hermano le confirmó que su padre ya estaba mejor. Entonces volvió a tranquilizarse.</strong></p><p>Aqui o relato mostra a queda do humor, explicita o motivo e abre espaço para a reação de outra pessoa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4c1b6c89-1ce1-4de9-b660-b03ff7dfbcc4",
+      "title": "A reação depois do dia difícil",
+      "description": "<p>Depois das notícias do fim da tarde, Valeria avisa Diego e recebe uma reação curta e natural.</p>",
+      "contentType": 7,
+      "sequenceItem": 4,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Menos mal. Ya funciona el ordenador y mi padre está mejor.</div>\n  <div style=\"opacity: 0.45;\">Ainda bem. O computador já funciona e meu pai está melhor.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac9aeb0694e7439782f1a6369f04e22b_l04b04-dlg-01-menos-mal-ya-funciona.mp3?Expires=1794099583&Signature=RxF5SZgXIXRIEaARqaUVxL1XiTM67VYHOeqokP-1rkxCtQbJoPgW3rstAhK4TIGlipGRhnWXZjgl~b-EPqlDS4iboxJ0kFfvO8MWLWVHWgOygnuT~ab~nxQchdFp54E1q3LoKIA~1HlYbv0onvIYLMYO3VIRnL7ueEEHuB-KGMVY~3tGm4YobqY5uUlBDunnkuwyED1YV1e80VucP0HwTxEqKvsOwH~3sLfOOi-5L4O4bTvW-Q~8EJkD-2ZRJDJ5~vV1Smn1fV7bBKhmVIjnW1p-h9J1rOHkoK88lUOabISJtH0UK0Vml9QXQkXjbxw5k9aN~cDEvPnKjRvKl2Fhvg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¡Qué alivio! Me alegro por ti.</div>\n  <div style=\"opacity: 0.45;\">Que alívio! Fico feliz por você.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/101bc3826d2a427e9ab5c2245e027f23_l04b04-dlg-02-que-alivio-me-alegro.mp3?Expires=1794099583&Signature=uy2ytXajIkIKcb011u3FqUrHdYtqKS87lfwvr3QPvO1U4c8RyUTblLAq3n3mH4TQd43g1mte8n2tz4kky2dv1xHNXaOe4LYgyCZ0EavuaJJlb7wS2jciuOzKRPJ7sr1besAKrWLzYwRFFHvRUQ5~t18oep-3uXGXLud3GlIcyNLQ1nNJG2p8K6qT22-YA5O73FKTsHB2doBsLuMa4V~hny3lHGV4V0XfcOhZrI9dtnlGf9HxGqtGUhJ9~mPDMaVpnTouZ5bAA3ZlfTNbuY9Tr9Yojf05M1MPkZKN9aItiWTTpOWP5VW5DcKfqm1v08sNszaTqvKrGBVwig7rPqDrrQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Gracias. Hace una hora estaba fatal.</div>\n  <div style=\"opacity: 0.45;\">Obrigada. Há uma hora eu estava péssima.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/44976743aa854262ba351671c7109669_l04b04-dlg-03-gracias-hace-una-hora.mp3?Expires=1794099583&Signature=Dfgbeygwy9zQm8PMe9yQfusMn6hTcRAPt9caXkwTR4g2l1GRLQv3l8vupu7RsdyU3nxEOgk4g9GFdRiTRwiqhpamileXVUKtKRyy1OjE3rZ~i2iDDpQ8P3x121aYycD3Ty5AorlDZ0Cmzty6VkdrxEifFnHI~R3lKT~tXzMatvn8teu0D~BOz0ZtEAaas1p8AV1-qWHkKqhrsMcoc8-l2ZdaVXac4inj6GZZrPQGIuWeHEkprWm7Kkmy8-pJwjfsxT4rKgyNo~uEF1xRQZNJPXYZzuiOWujKCyvInfW41Y4b91gbsPsYAs1qB7pjf3aRDtpEhXjk-AEl-oKyGrOhpA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¡Vaya día! Esta noche vas a dormir mejor.</div>\n  <div style=\"opacity: 0.45;\">Que dia! Hoje à noite você vai dormir melhor.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f4deee4986af482aa4a29a7d991c8605_l04b04-dlg-04-vaya-dia-esta-noche.mp3?Expires=1794099583&Signature=UbaWJvWp-R7NbFmlg7f7ZCqRxyUMDN52PtuWhh5kuT89VJ4kaQ0QMCx8sbSN-XeR5n4L1TmZjrv0nq18SN6PSraUuv9gHouDtAGEfhY8nzkZDMSMTKZ01aZ42pjJSpN79J~mj~RT2raP04~1ZrJZSfPT75hday0lDlFGDWatNzuy4FHydJrViDBNX~aNP1etkZpTjzCfXLdZBxtU6iTbFyV~M6p1i5TbjwaLwweaNhHgAgDzGCstPPl~iHfyFxIaD-w2cLNP6JM97tLDy7uPdwKY-NgizhPIhbTAjY4zWMJWIDZT1EEsRoCFj6oSKFmt5p~k-lvOjnExBRD9r6ZExg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "d47a1b05-856d-49b0-935f-1f158f5e9f55",
+      "title": "Passe pelo mapa e veja como cada momento do dia junta pessoa, estado, causa e reação.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "33ea1c57-6460-46ef-91b0-aa53d5034838",
+          "textContent": "<p><strong>Valeria - de buen humor</strong></p><p><strong>porque había dormido bien</strong> e porque ganhou mais tempo para terminar a apresentação.</p><p>O primeiro trecho combina estado positivo e causa imediata.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "c0c46bf9-5926-4f79-afed-18f30e66f962",
+          "textContent": "<p><strong>Valeria - de mal humor</strong></p><p><strong>porque el ordenador dejó de funcionar</strong> e ela perdeu mudanças importantes.</p><p>A metade do relato marca a virada negativa do dia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "55424600-a82a-471f-81ff-aaa478318f87",
+          "textContent": "<p><strong>Diego - ¡Qué alivio! Me alegro por ti.</strong></p><p>A reação responde à melhora do fim do dia e fecha o arco emocional do relato.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/101bc3826d2a427e9ab5c2245e027f23_l04b04-dlg-02-que-alivio-me-alegro.mp3?Expires=1794099583&Signature=uy2ytXajIkIKcb011u3FqUrHdYtqKS87lfwvr3QPvO1U4c8RyUTblLAq3n3mH4TQd43g1mte8n2tz4kky2dv1xHNXaOe4LYgyCZ0EavuaJJlb7wS2jciuOzKRPJ7sr1besAKrWLzYwRFFHvRUQ5~t18oep-3uXGXLud3GlIcyNLQ1nNJG2p8K6qT22-YA5O73FKTsHB2doBsLuMa4V~hny3lHGV4V0XfcOhZrI9dtnlGf9HxGqtGUhJ9~mPDMaVpnTouZ5bAA3ZlfTNbuY9Tr9Yojf05M1MPkZKN9aItiWTTpOWP5VW5DcKfqm1v08sNszaTqvKrGBVwig7rPqDrrQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6b64ce4d-20d3-4b13-9bc5-0a3b53f1452a",
+      "title": "Leia o fechamento e note o formato curto que reaparece quando alguém conta como foi o próprio dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "9909319a-a497-4fd6-b1c9-77a21df487e5",
+          "textContent": "<p><strong>Valeria empezó de buen humor, luego se puso de mal humor por un problema técnico y terminó con alivio.</strong></p><p><strong>Diego reaccionó con: ¡Qué alivio! Me alegro por ti.</strong></p><p>Em relatos reais por mensagem, no trabalho ou no fim do dia, esse mapa costuma voltar assim: <strong>como alguém estava</strong>, <strong>por que isso mudou</strong> e <strong>como a outra pessoa reagiu</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8c61cb56-ccf9-468f-abfe-0dc3c19ca047",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "aa4c8e8f-cdb2-46bb-a0b6-07d44a17a8fd",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1d3c8a4f321242989d423b18c7ae657e_MEC-IDM_MODB1-CAP_03-AULA_04.mp4?Expires=1794099583&Signature=MaKZdZdK5O5tpckLPaJ6Rsh7KAGf2iQ14NwqIziBpxZNAmyDSicejN7kNPCB3KfBY1qn2orKXHfW1slQyw3OurUJqNnnpGJSaMmK6S9-8gPwFbV3Pa8Djg7H43bBDlHuj2uFFzPNmTOgYBAGnFzO2zzJn~wkIBmIgaBFzEc1QlbpogLDoVyqwmG~OjryNInZfCNOZIwTe-yZKf54PnyfHKpy1metSb9R3GSpqhw2DJ4dwx5I-CjPtjCYGxftCXbzxXV5lrka9KOLjDvTKTQxk9H8HreSwW01n9W6SQnIAMcbodkTQ49n-aCDRFvonYCNlHpKaaOcPjnv2vxmQ2wOeg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1d3c8a4f321242989d423b18c7ae657e_MEC-IDM_MODB1-CAP_03-AULA_04.mp4?Expires=1794099583&Signature=MaKZdZdK5O5tpckLPaJ6Rsh7KAGf2iQ14NwqIziBpxZNAmyDSicejN7kNPCB3KfBY1qn2orKXHfW1slQyw3OurUJqNnnpGJSaMmK6S9-8gPwFbV3Pa8Djg7H43bBDlHuj2uFFzPNmTOgYBAGnFzO2zzJn~wkIBmIgaBFzEc1QlbpogLDoVyqwmG~OjryNInZfCNOZIwTe-yZKf54PnyfHKpy1metSb9R3GSpqhw2DJ4dwx5I-CjPtjCYGxftCXbzxXV5lrka9KOLjDvTKTQxk9H8HreSwW01n9W6SQnIAMcbodkTQ49n-aCDRFvonYCNlHpKaaOcPjnv2vxmQ2wOeg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "566cb71e-5f2d-4f2b-a87e-9fb06873d862",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a reação em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a reação em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/101bc3826d2a427e9ab5c2245e027f23_l04b04-dlg-02-que-alivio-me-alegro.mp3?Expires=1794099583&Signature=uy2ytXajIkIKcb011u3FqUrHdYtqKS87lfwvr3QPvO1U4c8RyUTblLAq3n3mH4TQd43g1mte8n2tz4kky2dv1xHNXaOe4LYgyCZ0EavuaJJlb7wS2jciuOzKRPJ7sr1besAKrWLzYwRFFHvRUQ5~t18oep-3uXGXLud3GlIcyNLQ1nNJG2p8K6qT22-YA5O73FKTsHB2doBsLuMa4V~hny3lHGV4V0XfcOhZrI9dtnlGf9HxGqtGUhJ9~mPDMaVpnTouZ5bAA3ZlfTNbuY9Tr9Yojf05M1MPkZKN9aItiWTTpOWP5VW5DcKfqm1v08sNszaTqvKrGBVwig7rPqDrrQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta repetição ativa a reação curta que fecha o arco de emoção, causa e resposta da aula.",
+      "feedbackError": "Esta repetição ativa a reação curta que fecha o arco de emoção, causa e resposta da aula.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "¡Qué alivio! Me alegro por ti.",
+      "typeSpecificData": "{\"expectedText\":\"\\u00A1Qu\\u00E9 alivio! Me alegro por ti.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/101bc3826d2a427e9ab5c2245e027f23_l04b04-dlg-02-que-alivio-me-alegro.mp3?Expires=1794099583\\u0026Signature=uy2ytXajIkIKcb011u3FqUrHdYtqKS87lfwvr3QPvO1U4c8RyUTblLAq3n3mH4TQd43g1mte8n2tz4kky2dv1xHNXaOe4LYgyCZ0EavuaJJlb7wS2jciuOzKRPJ7sr1besAKrWLzYwRFFHvRUQ5~t18oep-3uXGXLud3GlIcyNLQ1nNJG2p8K6qT22-YA5O73FKTsHB2doBsLuMa4V~hny3lHGV4V0XfcOhZrI9dtnlGf9HxGqtGUhJ9~mPDMaVpnTouZ5bAA3ZlfTNbuY9Tr9Yojf05M1MPkZKN9aItiWTTpOWP5VW5DcKfqm1v08sNszaTqvKrGBVwig7rPqDrrQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "60534cd2-fbdb-402e-a4ff-06b0ce6746c7",
+      "title": "Relacione estado e sentido",
+      "content": "<p>Junte cada expressão do mapa da leitura ao sentido que ela tem no arco do dia de Valeria.</p>",
+      "contentPlain": "Junte cada expressão do mapa da leitura ao sentido que ela tem no arco do dia de Valeria.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este passo retoma o mapa central da aula: estado, causa e desfecho dentro do mesmo relato.",
+      "feedbackError": "Este passo retoma o mapa central da aula: estado, causa e desfecho dentro do mesmo relato.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "04b2a617-2109-4dbe-b691-676e5c58e5c1",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "60534cd2-fbdb-402e-a4ff-06b0ce6746c7"
+        },
+        {
+          "id": "a5f63538-e904-4739-ac4a-4185f57a1d42",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "60534cd2-fbdb-402e-a4ff-06b0ce6746c7"
+        }
+      ],
+      "associations": [
+        {
+          "id": "7d9a74fa-05f9-40bf-b788-2d3349571e13",
+          "exerciseId": "60534cd2-fbdb-402e-a4ff-06b0ce6746c7",
+          "leftContent": "de buen humor",
+          "rightContent": "começar o dia bem",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4da93c6d-f5ba-4dad-80a9-86d52545e748",
+          "exerciseId": "60534cd2-fbdb-402e-a4ff-06b0ce6746c7",
+          "leftContent": "de mal humor",
+          "rightContent": "ficar irritada por causa do problema",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ce9a583a-82f5-438f-9bde-2c463abe6d13",
+          "exerciseId": "60534cd2-fbdb-402e-a4ff-06b0ce6746c7",
+          "leftContent": "volvió a tranquilizarse",
+          "rightContent": "terminar a tarde mais calma",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "55b5a4ff-0e1e-4f3d-878b-52960a96da4b",
+      "title": "Identifique a mudança positiva",
+      "content": "<p>No começo da leitura, o texto mostra uma melhora rápida antes do problema técnico. Qual frase aponta esse momento?</p>",
+      "contentPlain": "No começo da leitura, o texto mostra uma melhora rápida antes do problema técnico. Qual frase aponta esse momento?",
+      "fileUrl": null,
+      "feedbackSuccess": "O foco aqui é localizar no relato quando o estado muda e qual frase marca esse momento.",
+      "feedbackError": "O foco aqui é localizar no relato quando o estado muda e qual frase marca esse momento.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2ab5ac2d-6795-4ec3-a7e5-07d64f8e74df",
+          "textContent": "Gracias. Hace una hora estaba fatal.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "55b5a4ff-0e1e-4f3d-878b-52960a96da4b"
+        },
+        {
+          "id": "73b59b03-dfde-4be9-967a-705df4c6a701",
+          "textContent": "Se puso de mal humor porque el ordenador dejó de funcionar.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "55b5a4ff-0e1e-4f3d-878b-52960a96da4b"
+        },
+        {
+          "id": "e9c133a7-d890-492e-8226-8018d4c750ac",
+          "textContent": "Sintió alivio, ya que ganaba una hora para terminar una presentación.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "55b5a4ff-0e1e-4f3d-878b-52960a96da4b"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "30449b04-db11-47b0-b86b-edfb3174c8dd",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Su padre ya estaba _____.</p><p>Tradução: O pai dela já estava melhor.</p>",
+      "contentPlain": "Complete a frase em espanhol: Su padre ya estaba _____. Tradução: O pai dela já estava melhor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este exercício recupera a palavra que fecha a melhora do fim da tarde no relato.",
+      "feedbackError": "Este exercício recupera a palavra que fecha a melhora do fim da tarde no relato.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mejor",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1c3bbef1-f633-4fb5-a907-d3d0b4b23891",
+      "title": "Escute e combine as falas",
+      "content": "<p>Associe três falas do diálogo final ao texto em espanhol correspondente.</p>",
+      "contentPlain": "Associe três falas do diálogo final ao texto em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final consolida a reação curta depois da melhora do dia e liga som ao texto.",
+      "feedbackError": "O diálogo final consolida a reação curta depois da melhora do dia e liga som ao texto.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "f13b45a1-6794-42c7-82af-99cff38ac1ab",
+          "exerciseId": "1c3bbef1-f633-4fb5-a907-d3d0b4b23891",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac9aeb0694e7439782f1a6369f04e22b_l04b04-dlg-01-menos-mal-ya-funciona.mp3?Expires=1794099583&Signature=RxF5SZgXIXRIEaARqaUVxL1XiTM67VYHOeqokP-1rkxCtQbJoPgW3rstAhK4TIGlipGRhnWXZjgl~b-EPqlDS4iboxJ0kFfvO8MWLWVHWgOygnuT~ab~nxQchdFp54E1q3LoKIA~1HlYbv0onvIYLMYO3VIRnL7ueEEHuB-KGMVY~3tGm4YobqY5uUlBDunnkuwyED1YV1e80VucP0HwTxEqKvsOwH~3sLfOOi-5L4O4bTvW-Q~8EJkD-2ZRJDJ5~vV1Smn1fV7bBKhmVIjnW1p-h9J1rOHkoK88lUOabISJtH0UK0Vml9QXQkXjbxw5k9aN~cDEvPnKjRvKl2Fhvg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Menos mal. Ya funciona el ordenador y mi padre está mejor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3ea0fc4b-e6bd-4e04-b74e-57fa8093df1c",
+          "exerciseId": "1c3bbef1-f633-4fb5-a907-d3d0b4b23891",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/101bc3826d2a427e9ab5c2245e027f23_l04b04-dlg-02-que-alivio-me-alegro.mp3?Expires=1794099583&Signature=uy2ytXajIkIKcb011u3FqUrHdYtqKS87lfwvr3QPvO1U4c8RyUTblLAq3n3mH4TQd43g1mte8n2tz4kky2dv1xHNXaOe4LYgyCZ0EavuaJJlb7wS2jciuOzKRPJ7sr1besAKrWLzYwRFFHvRUQ5~t18oep-3uXGXLud3GlIcyNLQ1nNJG2p8K6qT22-YA5O73FKTsHB2doBsLuMa4V~hny3lHGV4V0XfcOhZrI9dtnlGf9HxGqtGUhJ9~mPDMaVpnTouZ5bAA3ZlfTNbuY9Tr9Yojf05M1MPkZKN9aItiWTTpOWP5VW5DcKfqm1v08sNszaTqvKrGBVwig7rPqDrrQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¡Qué alivio! Me alegro por ti.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ce048dc7-59f2-4c47-b351-c6b440c1fd5e",
+          "exerciseId": "1c3bbef1-f633-4fb5-a907-d3d0b4b23891",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/44976743aa854262ba351671c7109669_l04b04-dlg-03-gracias-hace-una-hora.mp3?Expires=1794099583&Signature=Dfgbeygwy9zQm8PMe9yQfusMn6hTcRAPt9caXkwTR4g2l1GRLQv3l8vupu7RsdyU3nxEOgk4g9GFdRiTRwiqhpamileXVUKtKRyy1OjE3rZ~i2iDDpQ8P3x121aYycD3Ty5AorlDZ0Cmzty6VkdrxEifFnHI~R3lKT~tXzMatvn8teu0D~BOz0ZtEAaas1p8AV1-qWHkKqhrsMcoc8-l2ZdaVXac4inj6GZZrPQGIuWeHEkprWm7Kkmy8-pJwjfsxT4rKgyNo~uEF1xRQZNJPXYZzuiOWujKCyvInfW41Y4b91gbsPsYAs1qB7pjf3aRDtpEhXjk-AEl-oKyGrOhpA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Gracias. Hace una hora estaba fatal.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "cd495f2f-63ff-45b4-b2cd-9cc42f6849ef",
+      "title": "Recupere a palavra",
+      "content": "<p>Complete a frase em espanhol: Sintió ______, ya que ganaba una hora para terminar una presentación.</p><p>Tradução: Ela sentiu alívio, já que ganhava uma hora para terminar uma apresentação.</p>",
+      "contentPlain": "Complete a frase em espanhol: Sintió ______, ya que ganaba una hora para terminar una presentación. Tradução: Ela sentiu alívio, já que ganhava uma hora para terminar uma apresentação.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este ponto recupera a emoção específica que aparece quando o problema ainda não começou.",
+      "feedbackError": "Este ponto recupera a emoção específica que aparece quando o problema ainda não começou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "alivio",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "59488acc-f4f7-41b9-a467-95ae3f988644",
+      "title": "Recupere a palavra",
+      "content": "<p>Complete a fala em espanhol: Hace una hora estaba _____.</p><p>Tradução: Há uma hora eu estava péssima.</p>",
+      "contentPlain": "Complete a fala em espanhol: Hace una hora estaba _____. Tradução: Há uma hora eu estava péssima.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta recuperação ajuda a contrastar o estado ruim de antes com a melhora que veio depois.",
+      "feedbackError": "Esta recuperação ajuda a contrastar o estado ruim de antes com a melhora que veio depois.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fatal",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "348e9ebb-52af-461a-a1dd-ce31a54967be",
+      "title": "Associe o diálogo completo",
+      "content": "<p>Faça a associação sem apoio em português e recupere as quatro falas exatas do fechamento.</p>",
+      "contentPlain": "Faça a associação sem apoio em português e recupere as quatro falas exatas do fechamento.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este fechamento pede recuperar o diálogo inteiro para ligar melhora, reação e comentário final.",
+      "feedbackError": "Este fechamento pede recuperar o diálogo inteiro para ligar melhora, reação e comentário final.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "ad82157f-b469-4865-aac1-ba9a38a98362",
+          "exerciseId": "348e9ebb-52af-461a-a1dd-ce31a54967be",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac9aeb0694e7439782f1a6369f04e22b_l04b04-dlg-01-menos-mal-ya-funciona.mp3?Expires=1794099583&Signature=RxF5SZgXIXRIEaARqaUVxL1XiTM67VYHOeqokP-1rkxCtQbJoPgW3rstAhK4TIGlipGRhnWXZjgl~b-EPqlDS4iboxJ0kFfvO8MWLWVHWgOygnuT~ab~nxQchdFp54E1q3LoKIA~1HlYbv0onvIYLMYO3VIRnL7ueEEHuB-KGMVY~3tGm4YobqY5uUlBDunnkuwyED1YV1e80VucP0HwTxEqKvsOwH~3sLfOOi-5L4O4bTvW-Q~8EJkD-2ZRJDJ5~vV1Smn1fV7bBKhmVIjnW1p-h9J1rOHkoK88lUOabISJtH0UK0Vml9QXQkXjbxw5k9aN~cDEvPnKjRvKl2Fhvg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Menos mal. Ya funciona el ordenador y mi padre está mejor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "65b4f09b-d971-4097-a255-948a53ae2b2d",
+          "exerciseId": "348e9ebb-52af-461a-a1dd-ce31a54967be",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/101bc3826d2a427e9ab5c2245e027f23_l04b04-dlg-02-que-alivio-me-alegro.mp3?Expires=1794099583&Signature=uy2ytXajIkIKcb011u3FqUrHdYtqKS87lfwvr3QPvO1U4c8RyUTblLAq3n3mH4TQd43g1mte8n2tz4kky2dv1xHNXaOe4LYgyCZ0EavuaJJlb7wS2jciuOzKRPJ7sr1besAKrWLzYwRFFHvRUQ5~t18oep-3uXGXLud3GlIcyNLQ1nNJG2p8K6qT22-YA5O73FKTsHB2doBsLuMa4V~hny3lHGV4V0XfcOhZrI9dtnlGf9HxGqtGUhJ9~mPDMaVpnTouZ5bAA3ZlfTNbuY9Tr9Yojf05M1MPkZKN9aItiWTTpOWP5VW5DcKfqm1v08sNszaTqvKrGBVwig7rPqDrrQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¡Qué alivio! Me alegro por ti.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a4d9bb65-bdce-4392-ae25-62068d82cda3",
+          "exerciseId": "348e9ebb-52af-461a-a1dd-ce31a54967be",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/44976743aa854262ba351671c7109669_l04b04-dlg-03-gracias-hace-una-hora.mp3?Expires=1794099583&Signature=Dfgbeygwy9zQm8PMe9yQfusMn6hTcRAPt9caXkwTR4g2l1GRLQv3l8vupu7RsdyU3nxEOgk4g9GFdRiTRwiqhpamileXVUKtKRyy1OjE3rZ~i2iDDpQ8P3x121aYycD3Ty5AorlDZ0Cmzty6VkdrxEifFnHI~R3lKT~tXzMatvn8teu0D~BOz0ZtEAaas1p8AV1-qWHkKqhrsMcoc8-l2ZdaVXac4inj6GZZrPQGIuWeHEkprWm7Kkmy8-pJwjfsxT4rKgyNo~uEF1xRQZNJPXYZzuiOWujKCyvInfW41Y4b91gbsPsYAs1qB7pjf3aRDtpEhXjk-AEl-oKyGrOhpA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Gracias. Hace una hora estaba fatal.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "e3f449ae-22d5-447f-8856-ea4da27b4eb9",
+          "exerciseId": "348e9ebb-52af-461a-a1dd-ce31a54967be",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f4deee4986af482aa4a29a7d991c8605_l04b04-dlg-04-vaya-dia-esta-noche.mp3?Expires=1794099583&Signature=UbaWJvWp-R7NbFmlg7f7ZCqRxyUMDN52PtuWhh5kuT89VJ4kaQ0QMCx8sbSN-XeR5n4L1TmZjrv0nq18SN6PSraUuv9gHouDtAGEfhY8nzkZDMSMTKZ01aZ42pjJSpN79J~mj~RT2raP04~1ZrJZSfPT75hday0lDlFGDWatNzuy4FHydJrViDBNX~aNP1etkZpTjzCfXLdZBxtU6iTbFyV~M6p1i5TbjwaLwweaNhHgAgDzGCstPPl~iHfyFxIaD-w2cLNP6JM97tLDy7uPdwKY-NgizhPIhbTAjY4zWMJWIDZT1EEsRoCFj6oSKFmt5p~k-lvOjnExBRD9r6ZExg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¡Vaya día! Esta noche vas a dormir mejor.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b",
+      "title": "Selecione só o que você ouvir",
+      "content": "<p>Escute a atualização de Valeria e marque somente as palavras presentes no áudio.</p>",
+      "contentPlain": "Escute a atualização de Valeria e marque somente as palavras presentes no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac9aeb0694e7439782f1a6369f04e22b_l04b04-dlg-01-menos-mal-ya-funciona.mp3?Expires=1794099583&Signature=RxF5SZgXIXRIEaARqaUVxL1XiTM67VYHOeqokP-1rkxCtQbJoPgW3rstAhK4TIGlipGRhnWXZjgl~b-EPqlDS4iboxJ0kFfvO8MWLWVHWgOygnuT~ab~nxQchdFp54E1q3LoKIA~1HlYbv0onvIYLMYO3VIRnL7ueEEHuB-KGMVY~3tGm4YobqY5uUlBDunnkuwyED1YV1e80VucP0HwTxEqKvsOwH~3sLfOOi-5L4O4bTvW-Q~8EJkD-2ZRJDJ5~vV1Smn1fV7bBKhmVIjnW1p-h9J1rOHkoK88lUOabISJtH0UK0Vml9QXQkXjbxw5k9aN~cDEvPnKjRvKl2Fhvg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta escuta seletiva confirma como a melhora final aparece em palavras bem concretas no diálogo.",
+      "feedbackError": "Esta escuta seletiva confirma como a melhora final aparece em palavras bem concretas no diálogo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1dd90187-e7a0-4e9d-b7e3-913b56d12b1d",
+          "textContent": "fatal",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b"
+        },
+        {
+          "id": "312de0ea-6233-48ed-9c0f-cfef53f3dbc0",
+          "textContent": "padre",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b"
+        },
+        {
+          "id": "3523f084-c0b4-43d9-90b1-e875f1719dc5",
+          "textContent": "funciona",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b"
+        },
+        {
+          "id": "779b1455-4363-487a-8f50-05d1693ffbe8",
+          "textContent": "ordenador",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b"
+        },
+        {
+          "id": "7a7c20d6-b5a1-4e3b-bdb4-563331442b2a",
+          "textContent": "alivio",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b"
+        },
+        {
+          "id": "868c0b1e-e496-4bfe-8342-02746b1e0a2c",
+          "textContent": "noche",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b"
+        },
+        {
+          "id": "8d938697-b7bf-49fb-99ae-ea43f68ffb9d",
+          "textContent": "menos",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b"
+        },
+        {
+          "id": "f8d0681e-94b1-4580-8ad6-751247c20183",
+          "textContent": "mejor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "185b6598-05de-4c29-9f82-8fcb384b5589",
+      "title": "Selecione só o que você ouvir",
+      "content": "<p>Escute o comentário final de Diego e marque somente as palavras presentes na fala.</p>",
+      "contentPlain": "Escute o comentário final de Diego e marque somente as palavras presentes na fala.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f4deee4986af482aa4a29a7d991c8605_l04b04-dlg-04-vaya-dia-esta-noche.mp3?Expires=1794099583&Signature=UbaWJvWp-R7NbFmlg7f7ZCqRxyUMDN52PtuWhh5kuT89VJ4kaQ0QMCx8sbSN-XeR5n4L1TmZjrv0nq18SN6PSraUuv9gHouDtAGEfhY8nzkZDMSMTKZ01aZ42pjJSpN79J~mj~RT2raP04~1ZrJZSfPT75hday0lDlFGDWatNzuy4FHydJrViDBNX~aNP1etkZpTjzCfXLdZBxtU6iTbFyV~M6p1i5TbjwaLwweaNhHgAgDzGCstPPl~iHfyFxIaD-w2cLNP6JM97tLDy7uPdwKY-NgizhPIhbTAjY4zWMJWIDZT1EEsRoCFj6oSKFmt5p~k-lvOjnExBRD9r6ZExg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta escuta final reforça como Diego reage depois que o dia de Valeria melhora.",
+      "feedbackError": "Esta escuta final reforça como Diego reage depois que o dia de Valeria melhora.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "378fd110-7919-4d08-9136-999b5d598290",
+          "textContent": "vas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "185b6598-05de-4c29-9f82-8fcb384b5589"
+        },
+        {
+          "id": "7308ba7b-6790-44f7-8281-1dcbe158396c",
+          "textContent": "fatal",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "185b6598-05de-4c29-9f82-8fcb384b5589"
+        },
+        {
+          "id": "81959380-3862-453c-bdec-16618e9fa269",
+          "textContent": "mejor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "185b6598-05de-4c29-9f82-8fcb384b5589"
+        },
+        {
+          "id": "8be3ab28-0d4e-4230-ad56-917a6d42b2c6",
+          "textContent": "vaya",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "185b6598-05de-4c29-9f82-8fcb384b5589"
+        },
+        {
+          "id": "a6b482aa-4004-49e7-abc2-c4495c59dd01",
+          "textContent": "día",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "185b6598-05de-4c29-9f82-8fcb384b5589"
+        },
+        {
+          "id": "acfcee2a-df27-4f01-83f6-d4fcaed81f00",
+          "textContent": "padre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "185b6598-05de-4c29-9f82-8fcb384b5589"
+        },
+        {
+          "id": "b76ef390-c728-443a-85bf-bd6a51e1a9f7",
+          "textContent": "noche",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "185b6598-05de-4c29-9f82-8fcb384b5589"
+        },
+        {
+          "id": "dbebeb3b-c8a6-4c2f-82fe-5ca8659a6a0b",
+          "textContent": "dormir",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "185b6598-05de-4c29-9f82-8fcb384b5589"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "title": "Ler um dia de altos e baixos"
+}

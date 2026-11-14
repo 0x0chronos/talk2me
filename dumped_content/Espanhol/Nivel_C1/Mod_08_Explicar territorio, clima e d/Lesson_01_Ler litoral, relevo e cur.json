@@ -1,0 +1,709 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+    "attemptId": "2feb733e-08d4-45fc-9788-4c6cb5f9d589",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "55453376-8000-4c4c-87d0-805f27f4e7a9",
+      "c6fc8efa-c52e-49bd-add4-b101e7fea8ca",
+      "8e797d5a-e601-4744-b47c-0ce8364678c3",
+      "95a1f5ba-e757-4b7c-b003-30c1a705bf4a",
+      "58fc6fb9-0b42-4f29-9a97-1e2c4effe43a"
+    ],
+    "evaluationExerciseIds": [
+      "0a72f4d6-5898-42ea-a1ad-299f236346dc",
+      "c90c0cd3-1f08-451a-88b5-392509bac306",
+      "5fcfc376-2f04-4a83-9599-2ca632fcba9f",
+      "a15d0557-ae7a-410c-af3e-308357dc0e80",
+      "150944f0-c4ae-4241-9646-0e7647417e9d"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:04:51.2791219Z"
+  },
+  "contents": [
+    {
+      "id": "11a0a7af-690d-43f4-a8fa-53dae8f47910",
+      "title": "Leia o mapa inicial e guarde as três perguntas que vão orientar os microtextos da aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "d9dc47b2-d021-46f1-be31-2f27f8261286",
+          "textContent": "<p>Nesta aula, o foco não é decorar uma lista de lugares, e sim perceber <strong>que tipo de território</strong> um texto constrói.</p><p>Ao ler cada trecho, pergunte:</p><ul><li><strong>onde a água circula ou termina?</strong></li><li><strong>que forma o relevo sugere?</strong></li><li><strong>o lugar soa aberto, protegido, disperso ou de transição?</strong></li></ul><p>Essas pistas vão ajudar a ler litoral, cursos d'água e relevo com mais precisão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "30fe6ba2-73e5-4058-9d01-1285e2bd4a2d",
+      "title": "Leia o trecho em espanhol e acompanhe a tradução. Foque no ponto em que o rio passa a organizar a paisagem costeira.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "a35f6eb8-7796-4a92-bf37-346a525b4052",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>La pasarela de madera termina junto a una desembocadura amplia, donde el río pierde velocidad antes de abrirse al mar.</strong></p><p>Em português: <strong>A passarela de madeira termina junto a uma desembocadura ampla, onde o rio perde velocidade antes de se abrir para o mar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "958c8d79-b83f-41c5-a6a3-12b424836697",
+      "title": "Leia a nota e observe por que essa palavra faz o texto soar mais preciso do que praia ou margem.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "a5cd45a0-457d-487b-b0d6-10da5f49449b",
+          "textContent": "<p><strong>Desembocadura</strong> não é qualquer faixa de costa. A palavra marca o ponto em que um rio <strong>chega</strong> ao mar ou a outra massa de água.</p><p>Por isso, o texto não descreve uma praia aberta de modo genérico. Ele guia a leitura para uma zona de encontro, mudança de fluxo e passagem entre dois ambientes.</p><p>Quando aparece <strong>desembocadura</strong>, o leitor costuma inferir um litoral mais articulado pela presença do rio.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b6fe0e24-5c13-4825-9b11-2a99d8d34811",
+      "title": "Leia o trecho em espanhol e acompanhe a tradução. Repare que o texto não fala só da água, mas do desenho que ela segue.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "f4de3894-814e-42bf-8074-a0db9004e2c0",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>En este tramo, el cauce baja estrecho entre piedras claras, pero las orillas muestran hasta donde llega el agua cuando crece.</strong></p><p>Em português: <strong>Neste trecho, o leito do rio desce estreito entre pedras claras, mas as margens mostram até onde a água chega quando sobe.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d5bd9c8b-7eed-4ce5-a36b-e53a85a49c81",
+      "title": "Leia a explicação curta e compare o que o texto diz sobre o cauce e sobre as orillas.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "dd6528e2-211f-4bbe-9e7a-bc379953f69a",
+          "textContent": "<p><strong>Cauce</strong> ajuda a ver por onde o rio corre e que forma esse percurso assume naquele ponto.</p><p>No trecho, <strong>baja estrecho</strong> dá uma leitura de canalização mais apertada; depois, <strong>las orillas muestran hasta donde llega el agua</strong> amplia a cena e sugere variação de volume.</p><p>Assim, o leitor não imagina só \"um rio ali\". Ele passa a ler <strong>estrutura, limite e movimento</strong> do curso d'água.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b5e5f5b8-9916-4d79-bacf-8c7146514ff3",
+      "title": "Leia o trecho em espanhol e acompanhe a tradução. Observe como o texto define o lugar pelo tipo de solo e pelo equilíbrio ambiental.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "ea27bbdc-ec73-4983-b6e3-6b1f13580ff6",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>El sendero bordea un humedal protegido: el suelo retiene agua, cambian las aves y cualquier desvío altera el equilibrio del lugar.</strong></p><p>Em português: <strong>A trilha contorna uma área úmida protegida: o solo retém água, as aves mudam e qualquer desvio altera o equilíbrio do lugar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "bddaea1b-9c42-405a-bf60-9636c8b6c68b",
+      "title": "Leia a nota e observe como o texto associa água, solo e fragilidade de uso.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "e96458ab-03a6-4c08-a939-9a2a6b67091b",
+          "textContent": "<p><strong>Humedal</strong> nomeia um espaço em que água e terra se misturam de forma estável o bastante para criar um ecossistema próprio.</p><p>O texto reforça isso com três pistas: <strong>el suelo retiene agua</strong>, <strong>cambian las aves</strong> e <strong>cualquier desvío altera el equilibrio</strong>.</p><p>Quando um lugar aparece como <strong>humedal</strong>, o leitor tende a inferir uso mais sensível, circulação mais controlada e valor ambiental explícito.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "354a84b6-2307-41bd-8748-2b222d4f8384",
+      "title": "Leia o trecho em espanhol e acompanhe a tradução. Foque em como o relevo muda a forma de ocupar o espaço.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "acee702d-8082-43f9-a2c1-caa0544beed6",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>Las aldeas quedan dispersas en la sierra, unidas por carreteras estrechas que siguen la pendiente en lugar de cruzarla.</strong></p><p>Em português: <strong>As aldeias ficam dispersas na serra, ligadas por estradas estreitas que seguem a inclinação em vez de cortá-la.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5a62185f-88a4-40f8-9b79-935d7c9f820d",
+      "title": "Leia a explicação curta e observe o efeito conjunto de aldeas dispersas, carreteras estrechas e pendiente.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "109d7021-e3d1-4337-a5a5-c32b0bdb4cdf",
+          "textContent": "<p><strong>Sierra</strong> costuma sugerir um relevo elevado e recortado, com passagens menos lineares e ocupação mais espalhada.</p><p>O microtexto confirma essa leitura com <strong>aldeas dispersas</strong> e com estradas que <strong>siguen la pendiente</strong>. O caminho se adapta ao relevo, em vez de impor uma linha reta.</p><p>Assim, <strong>sierra</strong> ajuda o leitor a imaginar um território de desnível, acesso mais sinuoso e conexões menos diretas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a7783ac0-70b3-4dd6-a1b5-814555ca525c",
+      "title": "Leia o texto final e observe como relevo, área úmida e curso d'água constroem uma paisagem coerente sem precisar de mapa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "a402be77-0399-4cf5-9232-027d18e50ab9",
+          "textContent": "<p>Agora as pistas aparecem juntas.</p><p><strong>El municipio baja desde la sierra hasta un humedal costero. Al final, el río ensancha su cauce y forma una desembocadura amplia, de modo que el paisaje se lee como un territorio de transición y no como una playa abierta sin matices.</strong></p><p>Em português: <strong>O município desce da serra até uma área úmida costeira. No final, o rio alarga seu leito e forma uma desembocadura ampla, de modo que a paisagem se lê como um território de transição, e não como uma praia aberta sem nuances.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "19ebb79d-4fde-4a92-af65-cb336a710eac",
+      "title": "Leia o recap final e ligue esse repertório a contextos reais em que o texto precisa explicar um lugar com mais precisão.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "d5111f31-9c3d-47d4-a397-69d32f68dbce",
+          "textContent": "<p>Quando um texto usa <strong>desembocadura</strong>, <strong>cauce</strong>, <strong>humedal</strong> ou <strong>sierra</strong>, ele não só nomeia lugares: ele orienta <strong>como ler a paisagem</strong>.</p><p>Esse repertório aparece em guias de parque, reportagens sobre pressão ambiental, textos de prefeitura, descrições de trilha e apresentações de uma região para visitantes.</p><p>Quanto mais cedo você reconhece essas pistas, mais fácil fica entender <strong>que tipo de território</strong> o espanhol está construindo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "55453376-8000-4c4c-87d0-805f27f4e7a9",
+      "title": "Complete a palavra central",
+      "content": "<p>En este tramo, el _____ baja estrecho entre piedras claras.</p><p>Tradução: Neste trecho, o leito do rio desce estreito entre pedras claras.</p>",
+      "contentPlain": "En este tramo, el _____ baja estrecho entre piedras claras. Tradução: Neste trecho, o leito do rio desce estreito entre pedras claras.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Cauce` ajuda a ler por onde a água corre e que forma esse percurso assume.",
+      "feedbackError": "`Cauce` ajuda a ler por onde a água corre e que forma esse percurso assume.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cauce",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c6fc8efa-c52e-49bd-add4-b101e7fea8ca",
+      "title": "Reconheça o relevo descrito",
+      "content": "<p>Qual palavra em espanhol ajuda a imaginar aldeias dispersas e estradas que seguem a inclinação?</p>",
+      "contentPlain": "Qual palavra em espanhol ajuda a imaginar aldeias dispersas e estradas que seguem a inclinação?",
+      "fileUrl": null,
+      "feedbackSuccess": "`Sierra` projeta relevo recortado, ocupação dispersa e caminhos menos diretos.",
+      "feedbackError": "`Sierra` projeta relevo recortado, ocupação dispersa e caminhos menos diretos.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1142b496-dc3b-4d41-9f9d-848bb4a7be54",
+          "textContent": "desembocadura",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c6fc8efa-c52e-49bd-add4-b101e7fea8ca"
+        },
+        {
+          "id": "5b988886-925c-479d-bb8d-7709522ec6c8",
+          "textContent": "sierra",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c6fc8efa-c52e-49bd-add4-b101e7fea8ca"
+        },
+        {
+          "id": "656bf087-5367-4127-a290-ed69508d111c",
+          "textContent": "humedal",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c6fc8efa-c52e-49bd-add4-b101e7fea8ca"
+        },
+        {
+          "id": "6eee071e-9746-4237-882d-bc4458ca468e",
+          "textContent": "cauce",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c6fc8efa-c52e-49bd-add4-b101e7fea8ca"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8e797d5a-e601-4744-b47c-0ce8364678c3",
+      "title": "Associe termo e sentido",
+      "content": "<p>Ligue cada palavra central da aula ao tipo de pista que ela oferece para ler a paisagem.</p>",
+      "contentPlain": "Ligue cada palavra central da aula ao tipo de pista que ela oferece para ler a paisagem.",
+      "fileUrl": null,
+      "feedbackSuccess": "A leitura territorial depende de ligar cada termo ao tipo de paisagem que ele constrói.",
+      "feedbackError": "A leitura territorial depende de ligar cada termo ao tipo de paisagem que ele constrói.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1b96e70e-206a-4a45-b122-8c6a59de2d23",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8e797d5a-e601-4744-b47c-0ce8364678c3"
+        },
+        {
+          "id": "b8540dc3-00b6-420b-b6c0-4a74877f5ceb",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "8e797d5a-e601-4744-b47c-0ce8364678c3"
+        }
+      ],
+      "associations": [
+        {
+          "id": "90b3a8ac-3124-47e8-807c-40ac77b93cc9",
+          "exerciseId": "8e797d5a-e601-4744-b47c-0ce8364678c3",
+          "leftContent": "desembocadura",
+          "rightContent": "encontro entre rio e mar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "85bf346e-348f-4bb8-a225-128403767d99",
+          "exerciseId": "8e797d5a-e601-4744-b47c-0ce8364678c3",
+          "leftContent": "cauce",
+          "rightContent": "leito e percurso do rio",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e3374038-70f7-4d88-a886-c6a3d859a15e",
+          "exerciseId": "8e797d5a-e601-4744-b47c-0ce8364678c3",
+          "leftContent": "humedal",
+          "rightContent": "área de água e terra em equilíbrio sensível",
+          "sequenceItem": 3
+        },
+        {
+          "id": "1e458c34-713a-4cc9-a07c-4921b1381f59",
+          "exerciseId": "8e797d5a-e601-4744-b47c-0ce8364678c3",
+          "leftContent": "sierra",
+          "rightContent": "relevo elevado com acesso menos direto",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "95a1f5ba-e757-4b7c-b003-30c1a705bf4a",
+      "title": "Ligue trecho e leitura",
+      "content": "<p>No texto final, associe cada trecho em espanhol ao efeito que ele produz na paisagem.</p>",
+      "contentPlain": "No texto final, associe cada trecho em espanhol ao efeito que ele produz na paisagem.",
+      "fileUrl": null,
+      "feedbackSuccess": "No microtexto final, as pistas se combinam para formar uma paisagem coerente.",
+      "feedbackError": "No microtexto final, as pistas se combinam para formar uma paisagem coerente.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7cf01893-6974-4ece-bdac-3143713926c0",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "95a1f5ba-e757-4b7c-b003-30c1a705bf4a"
+        },
+        {
+          "id": "8cffa370-9aab-4002-b63c-4a0458876f3d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "95a1f5ba-e757-4b7c-b003-30c1a705bf4a"
+        }
+      ],
+      "associations": [
+        {
+          "id": "a30c328f-566d-4a77-9ace-f36bcea8a404",
+          "exerciseId": "95a1f5ba-e757-4b7c-b003-30c1a705bf4a",
+          "leftContent": "baja desde la sierra",
+          "rightContent": "indica descida a partir de relevo elevado",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9a672aa0-639b-4151-93f9-85839c6c88c8",
+          "exerciseId": "95a1f5ba-e757-4b7c-b003-30c1a705bf4a",
+          "leftContent": "humedal costero",
+          "rightContent": "sugere uma zona sensível de transição",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e6518da5-061d-4fff-b380-fc0e43838b75",
+          "exerciseId": "95a1f5ba-e757-4b7c-b003-30c1a705bf4a",
+          "leftContent": "ensancha su cauce",
+          "rightContent": "mostra que o rio ganha largura",
+          "sequenceItem": 3
+        },
+        {
+          "id": "abfab0ab-a099-4110-8c15-4ad06c87d774",
+          "exerciseId": "95a1f5ba-e757-4b7c-b003-30c1a705bf4a",
+          "leftContent": "desembocadura amplia",
+          "rightContent": "marca a abertura do rio para o mar",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "58fc6fb9-0b42-4f29-9a97-1e2c4effe43a",
+      "title": "Reconheça o encontro da água",
+      "content": "<p>Qual palavra em espanhol leva o leitor a imaginar uma zona de encontro entre rio e mar?</p>",
+      "contentPlain": "Qual palavra em espanhol leva o leitor a imaginar uma zona de encontro entre rio e mar?",
+      "fileUrl": null,
+      "feedbackSuccess": "`Desembocadura` orienta a leitura do encontro entre curso d'água e litoral.",
+      "feedbackError": "`Desembocadura` orienta a leitura do encontro entre curso d'água e litoral.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "049a9247-9d43-45e4-80ce-565b3fb74eec",
+          "textContent": "humedal",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "58fc6fb9-0b42-4f29-9a97-1e2c4effe43a"
+        },
+        {
+          "id": "88ba9d96-ccc8-4a7f-9b67-3203c1eec1e7",
+          "textContent": "sierra",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "58fc6fb9-0b42-4f29-9a97-1e2c4effe43a"
+        },
+        {
+          "id": "e1796e39-f490-4ddb-9a7d-e3492dda25fa",
+          "textContent": "desembocadura",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "58fc6fb9-0b42-4f29-9a97-1e2c4effe43a"
+        },
+        {
+          "id": "f9e889cd-5c79-4cb9-8eb2-daab977e23a2",
+          "textContent": "cauce",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "58fc6fb9-0b42-4f29-9a97-1e2c4effe43a"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "0a72f4d6-5898-42ea-a1ad-299f236346dc",
+      "title": "Relacione pista e inferência",
+      "content": "<p>Associe os trechos do microtexto final à leitura mais precisa que eles permitem.</p>",
+      "contentPlain": "Associe os trechos do microtexto final à leitura mais precisa que eles permitem.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio aqui é ler como cada pista restringe a interpretação do território.",
+      "feedbackError": "O desafio aqui é ler como cada pista restringe a interpretação do território.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "113f1a63-12ef-4bec-813d-659fd05ff25d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0a72f4d6-5898-42ea-a1ad-299f236346dc"
+        },
+        {
+          "id": "e9dec765-b6e6-41fa-90d4-e97786de5de7",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0a72f4d6-5898-42ea-a1ad-299f236346dc"
+        }
+      ],
+      "associations": [
+        {
+          "id": "631086c0-5ab5-4ad7-9d18-47acb4944e46",
+          "exerciseId": "0a72f4d6-5898-42ea-a1ad-299f236346dc",
+          "leftContent": "desde la sierra",
+          "rightContent": "afasta a ideia de planície uniforme",
+          "sequenceItem": 1
+        },
+        {
+          "id": "95ca5552-96cf-47d9-b92b-a58b19de37cb",
+          "exerciseId": "0a72f4d6-5898-42ea-a1ad-299f236346dc",
+          "leftContent": "hasta un humedal costero",
+          "rightContent": "introduz transição entre terra e água",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1239c535-b185-4d56-ae00-84dd10c32eea",
+          "exerciseId": "0a72f4d6-5898-42ea-a1ad-299f236346dc",
+          "leftContent": "ensancha su cauce",
+          "rightContent": "acrescenta variação ao curso do rio",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a9aa5731-2961-4d2f-b357-8ad56abc309e",
+          "exerciseId": "0a72f4d6-5898-42ea-a1ad-299f236346dc",
+          "leftContent": "no como una playa abierta sin matices",
+          "rightContent": "bloqueia uma leitura genérica do litoral",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "c90c0cd3-1f08-451a-88b5-392509bac306",
+      "title": "Feche a leitura costeira",
+      "content": "<p>Al final, el río ensancha su cauce y forma una _____________ amplia.</p><p>Tradução: No final, o rio alarga seu leito e forma uma desembocadura ampla.</p>",
+      "contentPlain": "Al final, el río ensancha su cauce y forma una _____________ amplia. Tradução: No final, o rio alarga seu leito e forma uma desembocadura ampla.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Desembocadura` fecha a leitura do rio chegando ao litoral.",
+      "feedbackError": "`Desembocadura` fecha a leitura do rio chegando ao litoral.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desembocadura",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5fcfc376-2f04-4a83-9599-2ca632fcba9f",
+      "title": "Escolha o melhor resumo",
+      "content": "<p>Qual resumo em espanhol respeita a leitura territorial construída no texto final?</p>",
+      "contentPlain": "Qual resumo em espanhol respeita a leitura territorial construída no texto final?",
+      "fileUrl": null,
+      "feedbackSuccess": "O texto final apresenta um território de transição, não uma paisagem costeira genérica.",
+      "feedbackError": "O texto final apresenta um território de transição, não uma paisagem costeira genérica.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "19af4659-965d-46a1-8e2d-a2aed69ad6a1",
+          "textContent": "La escena muestra una sierra aislada sin litoral ni cambios de agua.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5fcfc376-2f04-4a83-9599-2ca632fcba9f"
+        },
+        {
+          "id": "7fd71233-5a34-44a0-bfa3-dafe67f77815",
+          "textContent": "El territorio combina sierra, humedal y desembocadura en una zona de transición.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5fcfc376-2f04-4a83-9599-2ca632fcba9f"
+        },
+        {
+          "id": "827ea34d-5370-4a4c-a0de-14b81a495dbf",
+          "textContent": "El lugar se describe como una playa abierta y lineal sin influencia del río.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5fcfc376-2f04-4a83-9599-2ca632fcba9f"
+        },
+        {
+          "id": "ffd94701-47e3-4208-873c-7dae470c56a8",
+          "textContent": "El humedal reemplaza por completo al cauce y elimina la desembocadura.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5fcfc376-2f04-4a83-9599-2ca632fcba9f"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a15d0557-ae7a-410c-af3e-308357dc0e80",
+      "title": "Transfira o vocabulário",
+      "content": "<p>Ligue cada termo em espanhol a um contexto de uso real citado no recap.</p>",
+      "contentPlain": "Ligue cada termo em espanhol a um contexto de uso real citado no recap.",
+      "fileUrl": null,
+      "feedbackSuccess": "No recap, o vocabulário aparece como ferramenta para entender textos reais sobre território.",
+      "feedbackError": "No recap, o vocabulário aparece como ferramenta para entender textos reais sobre território.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7be45018-e781-4925-9425-8b285bd4ddc9",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a15d0557-ae7a-410c-af3e-308357dc0e80"
+        },
+        {
+          "id": "d5dba796-5738-4624-b3d2-15778d91fa08",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a15d0557-ae7a-410c-af3e-308357dc0e80"
+        }
+      ],
+      "associations": [
+        {
+          "id": "965362bd-418d-41b2-b832-931a60e914e7",
+          "exerciseId": "a15d0557-ae7a-410c-af3e-308357dc0e80",
+          "leftContent": "desembocadura",
+          "rightContent": "guia local que explica encontro entre rio e mar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "181599fe-50f5-4fca-8f40-c9320c27bc96",
+          "exerciseId": "a15d0557-ae7a-410c-af3e-308357dc0e80",
+          "leftContent": "cauce",
+          "rightContent": "descrição de trilha que acompanha o curso do rio",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8bb7429a-605f-4ff2-aa17-9b3dd266605d",
+          "exerciseId": "a15d0557-ae7a-410c-af3e-308357dc0e80",
+          "leftContent": "humedal",
+          "rightContent": "texto sobre conservação e pressão ambiental",
+          "sequenceItem": 3
+        },
+        {
+          "id": "e4f0c23c-8499-418e-bf3f-2b3b3c81c96b",
+          "exerciseId": "a15d0557-ae7a-410c-af3e-308357dc0e80",
+          "leftContent": "sierra",
+          "rightContent": "apresentação regional com relevo e acessos sinuosos",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "150944f0-c4ae-4241-9646-0e7647417e9d",
+      "title": "Recupere a zona de transição",
+      "content": "<p>El municipio baja desde la sierra hasta un _______ costero.</p><p>Tradução: O município desce da serra até uma área úmida costeira.</p>",
+      "contentPlain": "El municipio baja desde la sierra hasta un _______ costero. Tradução: O município desce da serra até uma área úmida costeira.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Humedal` ativa a leitura de transição entre água, solo e uso sensível do espaço.",
+      "feedbackError": "`Humedal` ativa a leitura de transição entre água, solo e uso sensível do espaço.",
+      "answerType": "buildWord",
+      "expectedAnswer": "humedal",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Ler litoral, relevo e cursos d'agua em descricoes situadas"
+}

@@ -1,0 +1,575 @@
+{
+  "attemptId": "6f6261b1-d899-40e3-90a9-a410adc4549a",
+  "exercises": [
+    {
+      "exerciseId": "d12b8534-8355-4f6e-a10f-f37cd52c7a96",
+      "sequence": 1,
+      "lessonId": "6b0c553a-a284-4b52-8fd7-1f7e4f5586aa",
+      "title": "Complete o conector",
+      "content": "<p>Complete a frase: Estoy de mejor humor ______ dormí bien.</p><p>Tradução: Estou de melhor humor porque dormi bem.</p>",
+      "contentPlain": "Complete a frase: Estoy de mejor humor ______ dormí bien. Tradução: Estou de melhor humor porque dormi bem.",
+      "fileUrl": null,
+      "feedbackSuccess": "O conector central desta aula é porque, ligando o estado ao motivo.",
+      "feedbackError": "Retome o molde em três partes e complete o conector que liga estado e motivo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "porque",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "185b6598-05de-4c29-9f82-8fcb384b5589",
+      "sequence": 2,
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "title": "Selecione só o que você ouvir",
+      "content": "<p>Escute o comentário final de Diego e marque somente as palavras presentes na fala.</p>",
+      "contentPlain": "Escute o comentário final de Diego e marque somente as palavras presentes na fala.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f4deee4986af482aa4a29a7d991c8605_l04b04-dlg-04-vaya-dia-esta-noche.mp3?Expires=1794099585&Signature=cUAwVXn~CBlj632yDjLMZY5SRX7HO8M9SQ1gRQ1JPzh3l0e2alc4Pu6EfLKOLsosfT8JeW-pjAKjLYWOQZo2-Ion93aEPfZjRXpVjbY6tm9yYAPXOL9ksVocB76rWwLycsTDSbs9qAzERIpBqIsqeZpTBHskKI1eqJorKKwqUgUmW5R5GNlIhLLCSrma928We43dUwz96gshRtFgby9h9IorFG7-Ylp8~8tcaGyBDRRq5CPJAgMvDdA9LjPMpejgxH0lYnBpHjoMTDC51DkJogKmP3Iwu8hSww1Pkj8eHylc53GrYnAoj~T8xuwtd8t~z7-IoVVCIbTYE8wgkuHCfA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta escuta final reforça como Diego reage depois que o dia de Valeria melhora.",
+      "feedbackError": "Esta escuta final reforça como Diego reage depois que o dia de Valeria melhora.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "378fd110-7919-4d08-9136-999b5d598290",
+          "text": "vas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7308ba7b-6790-44f7-8281-1dcbe158396c",
+          "text": "fatal",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "81959380-3862-453c-bdec-16618e9fa269",
+          "text": "mejor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8be3ab28-0d4e-4230-ad56-917a6d42b2c6",
+          "text": "vaya",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a6b482aa-4004-49e7-abc2-c4495c59dd01",
+          "text": "día",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "acfcee2a-df27-4f01-83f6-d4fcaed81f00",
+          "text": "padre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b76ef390-c728-443a-85bf-bd6a51e1a9f7",
+          "text": "noche",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "dbebeb3b-c8a6-4c2f-82fe-5ca8659a6a0b",
+          "text": "dormir",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "12249bf9-1d55-49eb-b5d6-3d3e0c63ac6b",
+      "sequence": 3,
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "title": "Selecione só o que você ouvir",
+      "content": "<p>Escute a atualização de Valeria e marque somente as palavras presentes no áudio.</p>",
+      "contentPlain": "Escute a atualização de Valeria e marque somente as palavras presentes no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac9aeb0694e7439782f1a6369f04e22b_l04b04-dlg-01-menos-mal-ya-funciona.mp3?Expires=1794099585&Signature=aTONjR1P1thqqhxlwDo-vhQjydBZo~pXez3SKof3eYX~6CauImRb~yn3~STNdP8Z6RgpzH6LmlN0UppyMxpo~v6VqntzbSSkVWK2mJjkKkhIULG-D5vyofoMTcqaJ7lu8C01qfC4ZWSRGbNWkhVj2e0FZlqwrfOdChEK-gdAvNVpKjGLksks92wJjLKHySq2rQxlFQkYfJv2WATx-CyZHVeRQmHtxSlGmxPmCVngHbsBnXbNHMzEvY603D~NERkp9NuXdNo16OZrhR4yrKA3HtS~GufIf7U3jmYVwPxxCBw7m1DCe-hIrvDAAgb8L4ppIYsxnSc5R65zmiqeirMYcw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta escuta seletiva confirma como a melhora final aparece em palavras bem concretas no diálogo.",
+      "feedbackError": "Esta escuta seletiva confirma como a melhora final aparece em palavras bem concretas no diálogo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1dd90187-e7a0-4e9d-b7e3-913b56d12b1d",
+          "text": "fatal",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "312de0ea-6233-48ed-9c0f-cfef53f3dbc0",
+          "text": "padre",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3523f084-c0b4-43d9-90b1-e875f1719dc5",
+          "text": "funciona",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "779b1455-4363-487a-8f50-05d1693ffbe8",
+          "text": "ordenador",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7a7c20d6-b5a1-4e3b-bdb4-563331442b2a",
+          "text": "alivio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "868c0b1e-e496-4bfe-8342-02746b1e0a2c",
+          "text": "noche",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8d938697-b7bf-49fb-99ae-ea43f68ffb9d",
+          "text": "menos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f8d0681e-94b1-4580-8ad6-751247c20183",
+          "text": "mejor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "20ff4574-56c4-46d9-a6a0-72d241d18f60",
+      "sequence": 4,
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "title": "Complete o motivo curto",
+      "content": "<p>Complete a frase: Estoy de mal humor ___ la reunión.</p><p>Tradução: Estou de mau humor por causa da reunião.</p>",
+      "contentPlain": "Complete a frase: Estoy de mal humor ___ la reunión. Tradução: Estou de mau humor por causa da reunião.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com por, o motivo aparece como grupo curto, não como oração completa.",
+      "feedbackError": "Com por, o motivo aparece como grupo curto, não como oração completa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "por",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5e984a49-d25a-4183-a1de-63ac2194da50",
+      "sequence": 5,
+      "lessonId": "f4c19bdf-c8a9-433f-8430-de878480ebcd",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a frase: <strong>Estoy de buen _____.</strong></p>",
+      "contentPlain": "Complete a frase: Estoy de buen _____.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. A palavra humor fecha a expressão completa.",
+      "feedbackError": "Recupere a palavra final da expressão usada para falar do estado atual.",
+      "answerType": "buildWord",
+      "expectedAnswer": "humor",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9d214ee1-e8f9-4433-a930-fd5d830ade84",
+      "sequence": 6,
+      "lessonId": "f4c19bdf-c8a9-433f-8430-de878480ebcd",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a frase: <strong>Siento ______ ahora.</strong></p>",
+      "contentPlain": "Complete a frase: Siento ______ ahora.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. A palavra alivio completa a fala do bloco positivo.",
+      "feedbackError": "Retome a expressão de alívio e reconstrua a palavra que falta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "alivio",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c92882be-395f-4691-8835-d7efd7f99303",
+      "sequence": 7,
+      "lessonId": "6b0c553a-a284-4b52-8fd7-1f7e4f5586aa",
+      "title": "Escolha a combinação coerente",
+      "content": "<p>Qual combinação de estado, motivo e reação corresponde a uma notícia ruim, como nos cartões de apoio?</p>",
+      "contentPlain": "Qual combinação de estado, motivo e reação corresponde a uma notícia ruim, como nos cartões de apoio?",
+      "fileUrl": null,
+      "feedbackSuccess": "Você escolheu a combinação que mantém coerência entre sentimento, motivo e reação.",
+      "feedbackError": "Volte aos cartões de apoio e procure a combinação que carrega notícia ruim e reação compatível.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2d8d8224-084a-4f06-9e9b-9d0f9ca64c38",
+          "text": "Estoy nervioso porque mañana empiezo en un trabajo nuevo. ¿Qué me dices?",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "46f2df97-9475-4592-8d46-86e2c840f41b",
+          "text": "Estoy de mal humor porque cancelaron el plan. ¡Qué mal!",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4d167dea-fa76-4a9f-962c-8f9fb1eb2bb8",
+          "text": "Estoy contenta porque por fin terminé el informe. ¡Qué bien!",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "824e88a8-e804-4d93-9781-612bd1b65be4",
+          "text": "Estoy aliviado porque ya encontré las llaves. Me alegro por ti.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "efdffced-bb01-4055-a431-48b89f7ecfaa",
+      "sequence": 8,
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "title": "Ligue a fala à função",
+      "content": "<p>Recupere o mini diálogo e associe cada linha ao papel que ela cumpre na conversa.</p>",
+      "contentPlain": "Recupere o mini diálogo e associe cada linha ao papel que ela cumpre na conversa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo reúne pergunta causal e três maneiras de explicar ou comentar o motivo.",
+      "feedbackError": "O diálogo reúne pergunta causal e três maneiras de explicar ou comentar o motivo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "43a23ca4-0ecd-4a78-a66a-e408d65a90b6",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a04eb219-a1e1-43f4-b33f-2bf29422b7a5",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "8948e35b-d2b8-4eca-ba3d-a91dbb1263b7",
+          "leftContent": "¿Por qué estás de mal humor?",
+          "rightContent": "pedir o motivo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "449dedfb-69af-4e03-a1c9-157099f16c74",
+          "leftContent": "Porque discutí con mi hermano.",
+          "rightContent": "responder com porque",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c55944c9-899b-4675-8316-b6e9382a7958",
+          "leftContent": "Ya que fue una mañana pesada, tómate un café primero.",
+          "rightContent": "comentar com ya que",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d06404ef-9dbc-4648-978f-8145c30fd00f",
+          "leftContent": "Sí. Como casi no dormí, ahora estoy nerviosa por la reunión.",
+          "rightContent": "pôr a causa antes do estado",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "13f179c9-77ca-4057-93ae-5490479bc35e",
+      "sequence": 9,
+      "lessonId": "bbb73599-24bb-487e-ba5d-53fa2e36569c",
+      "title": "Combine novidade e reação",
+      "content": "<p>Recupere as microtrocas da aula ligando cada novidade à resposta curta mais coerente.</p>",
+      "contentPlain": "Recupere as microtrocas da aula ligando cada novidade à resposta curta mais coerente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a resposta curta muda conforme a novidade é boa, ruim ou difícil de acreditar.",
+      "feedbackError": "Nesta aula, a resposta curta muda conforme a novidade é boa, ruim ou difícil de acreditar.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "9b7a94f8-178a-4a6d-910d-23336bb2f4f9",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a7725134-50d8-4094-a1e4-29269bb66cf8",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "33b653aa-dee3-4e2a-abac-d909bf922e7d",
+          "leftContent": "Al final me dieron la beca.",
+          "rightContent": "¡Qué bien! Me alegro por ti.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "54be0683-0da1-4738-b1ae-1cf6ccc4d3a9",
+          "leftContent": "Cancelaron el viaje de mañana.",
+          "rightContent": "¡Qué mal! ¿Qué me dices?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1c820f45-d9ce-42e5-9867-14c49d189cc9",
+          "leftContent": "El seguro cuesta mil euros al mes.",
+          "rightContent": "¿Qué me dices? ¡Qué locura!",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "d45cd3a8-d082-4931-9434-4cbc515d2bc9",
+      "sequence": 10,
+      "lessonId": "6b0c553a-a284-4b52-8fd7-1f7e4f5586aa",
+      "title": "Combine atualização e reação",
+      "content": "<p>Recupere os cartões da aula e ligue cada atualização à reação mais coerente em espanhol.</p>",
+      "contentPlain": "Recupere os cartões da aula e ligue cada atualização à reação mais coerente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Você ligou cada atualização à reação coerente sem apoio de português.",
+      "feedbackError": "Revise os cartões de apoio e recupere qual reação combina com cada tipo de atualização.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "47d05e90-9f7e-481b-b099-3d3de1d14a50",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c53e2bd1-16e3-4330-83ac-c4fe0ae796f6",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "2411fa13-ce5d-4fb2-a94a-124a8b239d9f",
+          "leftContent": "Estoy contenta porque por fin terminé el informe.",
+          "rightContent": "¡Qué bien!",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c001cf2d-4b94-4efe-b53f-3f4b5467c32c",
+          "leftContent": "Estoy de mal humor porque cancelaron el plan.",
+          "rightContent": "¡Qué mal!",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e966781f-0977-4f7c-a15d-b2eccf10feb7",
+          "leftContent": "Estoy aliviado porque ya encontré las llaves.",
+          "rightContent": "Me alegro por ti.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "0f7be5b8-4809-4e0e-8bcf-7ba0cd45d6ef",
+      "sequence": 11,
+      "lessonId": "f4c19bdf-c8a9-433f-8430-de878480ebcd",
+      "title": "O que aparece no áudio?",
+      "content": "<p>Escute o mini-check-in e selecione apenas as palavras que fazem parte dele.</p>",
+      "contentPlain": "Escute o mini-check-in e selecione apenas as palavras que fazem parte dele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d9b3bc02d6554317bebaeaa3794a7c4f_l01b05-esta-manana-estaba-de-mal-humor-pero-ahora-siento-alivio.mp3?Expires=1794099585&Signature=tk9tU-I3KDA9JzjUiLvoYJ-ZwhTAuikDHqf5HB8zx8dG1V~a5px-DRvx0O0Iq8cIFBfqSSWSlnUsEc-Vq5JtrLEf9tOvzttlryHwwb-3rquNQAdHMvZupG6qDCJb-eaNwx7f6PsAvbgf8KE5nOj9fYmUjrZHPTWxiaw7DtXAZR3Us2bw1NHfc-3BbXVnO-RaRIGLdQTjTZRmBJd7i~siidY5EGPOpiCBPCvu~p1JjZp-VnIpGiv9NVEX7ri99hgNq8Rxry-gyqI-lmUT~ftk0~hxqXPT0mXLzL1lFotMXsYeLth7Sv3Awi7DK8Yac~UbAR9-Ef91zC1l8yVtN9mQhA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta. Você identificou as palavras-chave do mini-check-in.",
+      "feedbackError": "Ouça novamente e marque só as palavras que realmente aparecem nesse áudio.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1c2d389e-d174-4367-98c7-8f9be4c80563",
+          "text": "ahora",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8141952d-c2be-4e12-b14a-2798b026ccb9",
+          "text": "miedo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9cd4a5d4-6d80-4622-b717-3c30b8b22b17",
+          "text": "alivio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ac273cb3-433b-4d3b-b327-b2e3a28906a7",
+          "text": "mañana",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d8502932-3294-4894-990b-e57ca329e3af",
+          "text": "humor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "ac65ca12-d666-48bb-8067-217b19c83a12",
+      "sequence": 12,
+      "lessonId": "bbb73599-24bb-487e-ba5d-53fa2e36569c",
+      "title": "Complete a reação",
+      "content": "<p>Complete a frase: Me ______ por ti.</p><p>Tradução: Fico feliz por você.</p>",
+      "contentPlain": "Complete a frase: Me ______ por ti. Tradução: Fico feliz por você.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, Me alegro por ti é a reação positiva mais pessoal do conjunto.",
+      "feedbackError": "Nesta aula, Me alegro por ti é a reação positiva mais pessoal do conjunto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "alegro",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c725f6e2-3487-4040-9b77-2de2146affed",
+      "sequence": 13,
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "title": "Complete o conector inicial",
+      "content": "<p>Complete a frase: ____ casi no dormí, hoy estoy de mal humor.</p><p>Tradução: Como quase não dormi, hoje estou de mau humor.</p>",
+      "contentPlain": "Complete a frase: ____ casi no dormí, hoy estoy de mal humor. Tradução: Como quase não dormi, hoje estou de mau humor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com como, a frase começa pelo motivo e só depois mostra o estado.",
+      "feedbackError": "Com como, a frase começa pelo motivo e só depois mostra o estado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "como",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "92853492-d54f-47aa-962d-d7ea2d6990a1",
+      "sequence": 14,
+      "lessonId": "bbb73599-24bb-487e-ba5d-53fa2e36569c",
+      "title": "Recupere a resposta de espanto",
+      "content": "<p>Escute a resposta do microdiálogo e marque somente as palavras que formam essa reação em espanhol.</p>",
+      "contentPlain": "Escute a resposta do microdiálogo e marque somente as palavras que formam essa reação em espanhol.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/243be8d703d74107aae11cfc2d320323_l03b05-linea-06.mp3?Expires=1794099585&Signature=J8DIreyC1HF2-OQ430onGP1KXizyieNLgmf~8DwJi1O1cl3DCxkbafx3lBl2UiQ-Fqala1PaRiQqIsuyf0KcoUqUppBfw6X5X2zTgGtIaZcdYTH4b7iYxVtdPfPgSBtT8bIuYeUzgAswdQ1Hk~JTELBZBh4~mHr2h~Rxhdp6K-VyUXhg1pe9GW0TwakTA95NZe3BZodgqJ-QkPGP0~yUbDEJ25XD18dJuTCPdArDGYwFrONLQLeCNJxAHThYNGdAqupysqp5fZWs5rwCeEjNGJBjClSAxlpLGN9obLROITyrEt76CpUDQHxfqLFHEwy~bB0AbK6nXn5a19-Jg4D92g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, o espanto pode começar com surpresa e terminar em ¡Qué locura!.",
+      "feedbackError": "Nesta aula, o espanto pode começar com surpresa e terminar em ¡Qué locura!.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5537661c-532b-4824-b538-9025972fcb69",
+          "text": "dices",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9d74ac65-e50e-4ec2-867f-180b4409c329",
+          "text": "mal",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b1100841-d382-434c-8b3c-833a3daa84d8",
+          "text": "locura",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b4ce677a-bd0b-4d1c-a1d4-ef7993119296",
+          "text": "me",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c79b2fd7-e0f2-4e6f-9543-eb71fbd75352",
+          "text": "qué",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e6138a10-c1a3-4596-a754-f2b0569725a6",
+          "text": "alegro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "cd495f2f-63ff-45b4-b2cd-9cc42f6849ef",
+      "sequence": 15,
+      "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+      "title": "Recupere a palavra",
+      "content": "<p>Complete a frase em espanhol: Sintió ______, ya que ganaba una hora para terminar una presentación.</p><p>Tradução: Ela sentiu alívio, já que ganhava uma hora para terminar uma apresentação.</p>",
+      "contentPlain": "Complete a frase em espanhol: Sintió ______, ya que ganaba una hora para terminar una presentación. Tradução: Ela sentiu alívio, já que ganhava uma hora para terminar uma apresentação.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este ponto recupera a emoção específica que aparece quando o problema ainda não começou.",
+      "feedbackError": "Este ponto recupera a emoção específica que aparece quando o problema ainda não começou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "alivio",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

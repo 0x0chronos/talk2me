@@ -1,0 +1,499 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+    "attemptId": "fbef2a19-aa50-4d85-85e4-df47815e3ee8",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "04d91925-6aee-42df-a22f-67e4e8557198",
+      "9b44078f-a2b4-43b7-ba95-5b6d66929729",
+      "7edcf061-d524-4176-9df6-36d1176db22d",
+      "6287ad0d-aa96-4cd9-a2d8-011f732188a8",
+      "6772d98b-3b4c-457d-86c1-53d9bd68ab91"
+    ],
+    "evaluationExerciseIds": [
+      "e88764b3-d9a0-44ac-90b0-c24d1d9e78ed",
+      "4e57ad6c-6598-4cfb-a1fb-8827bb3a0cd7",
+      "a5229fc1-2073-44f0-8297-1a828991325e",
+      "aa403ab1-c500-46b6-845f-42338a6ae8e8",
+      "cb255f7d-0fe8-4d5d-a9b2-240105dca9e7"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:18.3666881Z"
+  },
+  "contents": [
+    {
+      "id": "9827f684-d70f-4cb3-894f-439dab22f80f",
+      "title": "Leia a orientação curta e prepare-se para localizar quem é a pessoa e qual gosto aparece.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "f6ecaeec-1a6b-4ef7-bfb7-b9e677901071",
+          "textContent": "<p>Agora você vai ler microperfis em espanhol.</p><p>Em textos assim, procure primeiro o <strong>nome</strong> e depois a parte que mostra o <strong>gosto principal</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c2ee2bd3-19bc-403e-a8b6-d594ccd48814",
+      "title": "Leia o perfil, escute o áudio e ligue a frase em espanhol ao sentido em português.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "7a68bba0-c554-4b91-857e-e5fd6a507ad1",
+          "textContent": "<p>Leia o primeiro perfil.</p><p><strong>Nadia</strong></p><p><strong>Le gusta escuchar música.</strong></p><p>Tradução: Ela gosta de escutar música.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9198104fb8704b1590f64532f5490bea_le-gusta-escuchar-musica.mp3?Expires=1794099438&Signature=vK5Ykhxc~z361jqCSa9qAUae~m0ZGDfUAi2~~vCjiujAwOPDr-BNnr2aSft4cuoIu77HZ1Hqni~hfF98UrM-cHPDPURvqJyY743PdAHxU~54XfBAw4YloiUQNLnQGGoF0z5JLAfEf27xKS-gotkuRhFKfaGoNXrFgPk7-nG8pVMCJtwx5oAQ6Jh4YIaB1L75mOFlWOQsVDcuOThdQ3KLXb2o4DZDtAnbzfLiQ0tMlXIEFKZM4mPxkm7k73bYB6dDvU6XFNrOJSMAF~SYJwTtetM6gr4E3uxPrL475sTfV6KY9CQQ8M0XO2bUfoUjKDdcu6VCmaact0iO3TleZRgSrg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "549a24f2-434a-442e-afe4-c6b79f73cd8f",
+      "title": "Observe a expressão destacada e note que o perfil fala de Nadia, não de quem está lendo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "fd32b23f-2433-42ef-a805-7c771f6b14a1",
+          "textContent": "<p>Na aula anterior, você viu <strong>me gusta</strong> para falar de você.</p><p>Quando o perfil fala de outra pessoa, a pista muda para <strong>le gusta</strong>.</p><p><strong>Le gusta escuchar música.</strong> fala do gosto de Nadia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "79a5c6b7-f2e9-438e-8014-e334289762fa",
+      "title": "Leia o novo perfil, escute o áudio e confirme o sentido da frase com a tradução.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "2fcd4a89-d5de-4f33-8219-bf1d729316b3",
+          "textContent": "<p>Veja agora outro microperfil.</p><p><strong>Raúl</strong></p><p><strong>Le gusta hablar español.</strong></p><p>Tradução: Ele gosta de falar espanhol.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d13ca71dbc9464d82008237e731d8a2_le-gusta-hablar-espanol.mp3?Expires=1794099438&Signature=sS77r7MDU~dQNBRIZ-MaYv418MmIm55uwDwDmEkeSeOPRjkKZAHLnXkruMJO4VeDwMXtOdxia1TR1rpR9g5M5b7xTjNjDrRTbTXFZdsYrQ2fEXsbPCEE552XXGqQnL~GmrJuFj5FAhYTj8YfQqoUKMSFD4AIOedKMW~3MNjCslH22q0qtDpZxtclurAptekSg8Z~wamKlpBlRWVLmVCYOqxaDoOzmHmwZALN3AbBoy4BAjjCNmwhh7IfkJaRSVZ-sR67DM6e6i2ysrKdc2bSsBZepcgIsTk3QjgnQ6V3TaMfJQgqO8Xhok8KJnk2G5ui2I79ehoTdN0M7qj5o9984A__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a4ce094b-dd12-446d-83b2-d5cea106d43b",
+      "title": "Compare os dois microperfis e junte cada nome à parte que vem depois de `le gusta`.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "fbd4b148-cde2-4e0b-8aef-289baab70b56",
+          "textContent": "<p>Em leitura rápida, junte o nome à parte com <strong>le gusta</strong>.</p><ul><li><strong>Nadia</strong> -> escuchar música</li><li><strong>Raúl</strong> -> hablar español</li></ul><p>Assim, você reconhece quem gosta de quê sem reler o perfil inteiro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "964cad97-423d-4993-9dcb-7bb12efb8ac7",
+      "title": "Leia o fechamento e guarde o padrão que ajuda a entender gostos em perfis curtos.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "84207b2c-faca-4dc2-ab61-90f99997c7f9",
+          "textContent": "<p>Em perfis, apresentações rápidas e bios curtas, esse padrão aparece bastante.</p><p><strong>Nadia: Le gusta escuchar música.</strong></p><p><strong>Raúl: Le gusta hablar español.</strong></p><p>Quando você encontra nome + <strong>le gusta...</strong>, já entende um gosto básico de outra pessoa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "04d91925-6aee-42df-a22f-67e4e8557198",
+      "title": "Escolha a frase do perfil",
+      "content": "<p>Nadia aparece em um microperfil.</p>\n          <p>Qual frase completa esse perfil?</p>",
+      "contentPlain": "Nadia aparece em um microperfil. Qual frase completa esse perfil?",
+      "fileUrl": null,
+      "feedbackSuccess": "Em perfis curtos, le gusta mostra o gosto de outra pessoa.",
+      "feedbackError": "Em perfis curtos, le gusta mostra o gosto de outra pessoa.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4c6cee62-ef6d-4074-989c-538f6281281c",
+          "textContent": "Le gusta escuchar música.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "04d91925-6aee-42df-a22f-67e4e8557198"
+        },
+        {
+          "id": "a5477df1-0a27-483b-9ebe-18fde08f6360",
+          "textContent": "Le gusta hablar español.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "04d91925-6aee-42df-a22f-67e4e8557198"
+        },
+        {
+          "id": "acfc668d-b781-4955-8621-cd09b01284e1",
+          "textContent": "Me gusta escuchar música.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "04d91925-6aee-42df-a22f-67e4e8557198"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "9b44078f-a2b4-43b7-ba95-5b6d66929729",
+      "title": "Associe frase e sentido",
+      "content": "<p>Associe cada frase do perfil ao sentido correto em português.</p>",
+      "contentPlain": "Associe cada frase do perfil ao sentido correto em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O foco aqui é ligar le gusta ao sentido do microperfil.",
+      "feedbackError": "O foco aqui é ligar le gusta ao sentido do microperfil.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "b4fbb29f-79bc-410f-94d5-7562f9fa961a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9b44078f-a2b4-43b7-ba95-5b6d66929729"
+        },
+        {
+          "id": "bfacf53a-34b0-4799-ac16-1035a11f4569",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9b44078f-a2b4-43b7-ba95-5b6d66929729"
+        }
+      ],
+      "associations": [
+        {
+          "id": "494e7f82-c6ba-4147-bbfb-f4e2a4125ef7",
+          "exerciseId": "9b44078f-a2b4-43b7-ba95-5b6d66929729",
+          "leftContent": "Le gusta escuchar música.",
+          "rightContent": "Ela gosta de escutar música.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "69628ca7-4138-4a71-ad6c-26c3891c620b",
+          "exerciseId": "9b44078f-a2b4-43b7-ba95-5b6d66929729",
+          "leftContent": "Le gusta hablar español.",
+          "rightContent": "Ele gosta de falar espanhol.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "7edcf061-d524-4176-9df6-36d1176db22d",
+      "title": "Ouça e combine",
+      "content": "<p>Escute os dois áudios e combine cada um com a frase correta em espanhol.</p>",
+      "contentPlain": "Escute os dois áudios e combine cada um com a frase correta em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os áudios retomam o padrão de leitura com le gusta em perfis.",
+      "feedbackError": "Os áudios retomam o padrão de leitura com le gusta em perfis.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "8cdf524e-f7e9-4366-a666-a870476f17ba",
+          "exerciseId": "7edcf061-d524-4176-9df6-36d1176db22d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9198104fb8704b1590f64532f5490bea_le-gusta-escuchar-musica.mp3?Expires=1794099438&Signature=vK5Ykhxc~z361jqCSa9qAUae~m0ZGDfUAi2~~vCjiujAwOPDr-BNnr2aSft4cuoIu77HZ1Hqni~hfF98UrM-cHPDPURvqJyY743PdAHxU~54XfBAw4YloiUQNLnQGGoF0z5JLAfEf27xKS-gotkuRhFKfaGoNXrFgPk7-nG8pVMCJtwx5oAQ6Jh4YIaB1L75mOFlWOQsVDcuOThdQ3KLXb2o4DZDtAnbzfLiQ0tMlXIEFKZM4mPxkm7k73bYB6dDvU6XFNrOJSMAF~SYJwTtetM6gr4E3uxPrL475sTfV6KY9CQQ8M0XO2bUfoUjKDdcu6VCmaact0iO3TleZRgSrg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Le gusta escuchar música.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "073b2540-b890-4913-bcf0-80ae6b2a3571",
+          "exerciseId": "7edcf061-d524-4176-9df6-36d1176db22d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d13ca71dbc9464d82008237e731d8a2_le-gusta-hablar-espanol.mp3?Expires=1794099438&Signature=sS77r7MDU~dQNBRIZ-MaYv418MmIm55uwDwDmEkeSeOPRjkKZAHLnXkruMJO4VeDwMXtOdxia1TR1rpR9g5M5b7xTjNjDrRTbTXFZdsYrQ2fEXsbPCEE552XXGqQnL~GmrJuFj5FAhYTj8YfQqoUKMSFD4AIOedKMW~3MNjCslH22q0qtDpZxtclurAptekSg8Z~wamKlpBlRWVLmVCYOqxaDoOzmHmwZALN3AbBoy4BAjjCNmwhh7IfkJaRSVZ-sR67DM6e6i2ysrKdc2bSsBZepcgIsTk3QjgnQ6V3TaMfJQgqO8Xhok8KJnk2G5ui2I79ehoTdN0M7qj5o9984A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Le gusta hablar español.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "6287ad0d-aa96-4cd9-a2d8-011f732188a8",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute o perfil e selecione apenas as palavras que você ouvir.</p>",
+      "contentPlain": "Escute o perfil e selecione apenas as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9198104fb8704b1590f64532f5490bea_le-gusta-escuchar-musica.mp3?Expires=1794099438&Signature=vK5Ykhxc~z361jqCSa9qAUae~m0ZGDfUAi2~~vCjiujAwOPDr-BNnr2aSft4cuoIu77HZ1Hqni~hfF98UrM-cHPDPURvqJyY743PdAHxU~54XfBAw4YloiUQNLnQGGoF0z5JLAfEf27xKS-gotkuRhFKfaGoNXrFgPk7-nG8pVMCJtwx5oAQ6Jh4YIaB1L75mOFlWOQsVDcuOThdQ3KLXb2o4DZDtAnbzfLiQ0tMlXIEFKZM4mPxkm7k73bYB6dDvU6XFNrOJSMAF~SYJwTtetM6gr4E3uxPrL475sTfV6KY9CQQ8M0XO2bUfoUjKDdcu6VCmaact0iO3TleZRgSrg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O áudio ajuda a reconhecer as palavras dentro da frase do perfil.",
+      "feedbackError": "O áudio ajuda a reconhecer as palavras dentro da frase do perfil.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0a2af7ec-d035-4367-a32a-a1011c3cf754",
+          "textContent": "gusta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6287ad0d-aa96-4cd9-a2d8-011f732188a8"
+        },
+        {
+          "id": "560bacde-4a7d-4e08-a05e-8aef14542e62",
+          "textContent": "música",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6287ad0d-aa96-4cd9-a2d8-011f732188a8"
+        },
+        {
+          "id": "a161b639-3c1d-47d3-a3b5-19877703a150",
+          "textContent": "español",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6287ad0d-aa96-4cd9-a2d8-011f732188a8"
+        },
+        {
+          "id": "c1a68c22-40b1-42e7-993d-feb2245a64fe",
+          "textContent": "le",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6287ad0d-aa96-4cd9-a2d8-011f732188a8"
+        },
+        {
+          "id": "c34089a7-6d9a-419a-87af-afbe8aabbdd9",
+          "textContent": "escuchar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6287ad0d-aa96-4cd9-a2d8-011f732188a8"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6772d98b-3b4c-457d-86c1-53d9bd68ab91",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase completa em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase completa em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d13ca71dbc9464d82008237e731d8a2_le-gusta-hablar-espanol.mp3?Expires=1794099438&Signature=sS77r7MDU~dQNBRIZ-MaYv418MmIm55uwDwDmEkeSeOPRjkKZAHLnXkruMJO4VeDwMXtOdxia1TR1rpR9g5M5b7xTjNjDrRTbTXFZdsYrQ2fEXsbPCEE552XXGqQnL~GmrJuFj5FAhYTj8YfQqoUKMSFD4AIOedKMW~3MNjCslH22q0qtDpZxtclurAptekSg8Z~wamKlpBlRWVLmVCYOqxaDoOzmHmwZALN3AbBoy4BAjjCNmwhh7IfkJaRSVZ-sR67DM6e6i2ysrKdc2bSsBZepcgIsTk3QjgnQ6V3TaMfJQgqO8Xhok8KJnk2G5ui2I79ehoTdN0M7qj5o9984A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A repetição reforça a frase de perfil com le gusta.",
+      "feedbackError": "A repetição reforça a frase de perfil com le gusta.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Le gusta hablar español.",
+      "typeSpecificData": "{\"expectedText\":\"Le gusta hablar espa\\u00F1ol.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/2d13ca71dbc9464d82008237e731d8a2_le-gusta-hablar-espanol.mp3?Expires=1794099438\\u0026Signature=sS77r7MDU~dQNBRIZ-MaYv418MmIm55uwDwDmEkeSeOPRjkKZAHLnXkruMJO4VeDwMXtOdxia1TR1rpR9g5M5b7xTjNjDrRTbTXFZdsYrQ2fEXsbPCEE552XXGqQnL~GmrJuFj5FAhYTj8YfQqoUKMSFD4AIOedKMW~3MNjCslH22q0qtDpZxtclurAptekSg8Z~wamKlpBlRWVLmVCYOqxaDoOzmHmwZALN3AbBoy4BAjjCNmwhh7IfkJaRSVZ-sR67DM6e6i2ysrKdc2bSsBZepcgIsTk3QjgnQ6V3TaMfJQgqO8Xhok8KJnk2G5ui2I79ehoTdN0M7qj5o9984A__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "e88764b3-d9a0-44ac-90b0-c24d1d9e78ed",
+      "title": "Ouça e associe a parte principal",
+      "content": "<p>Escute os áudios e associe cada um à parte do perfil que mostra o gosto principal.</p>",
+      "contentPlain": "Escute os áudios e associe cada um à parte do perfil que mostra o gosto principal.",
+      "fileUrl": null,
+      "feedbackSuccess": "Em perfis curtos, você pode separar a parte do gosto do resto da frase.",
+      "feedbackError": "Em perfis curtos, você pode separar a parte do gosto do resto da frase.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "4159d3da-b29c-49ba-9586-854e990b48bf",
+          "exerciseId": "e88764b3-d9a0-44ac-90b0-c24d1d9e78ed",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9198104fb8704b1590f64532f5490bea_le-gusta-escuchar-musica.mp3?Expires=1794099438&Signature=vK5Ykhxc~z361jqCSa9qAUae~m0ZGDfUAi2~~vCjiujAwOPDr-BNnr2aSft4cuoIu77HZ1Hqni~hfF98UrM-cHPDPURvqJyY743PdAHxU~54XfBAw4YloiUQNLnQGGoF0z5JLAfEf27xKS-gotkuRhFKfaGoNXrFgPk7-nG8pVMCJtwx5oAQ6Jh4YIaB1L75mOFlWOQsVDcuOThdQ3KLXb2o4DZDtAnbzfLiQ0tMlXIEFKZM4mPxkm7k73bYB6dDvU6XFNrOJSMAF~SYJwTtetM6gr4E3uxPrL475sTfV6KY9CQQ8M0XO2bUfoUjKDdcu6VCmaact0iO3TleZRgSrg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "escuchar música",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7e01b8f1-97e5-45ea-b228-c65301d335f5",
+          "exerciseId": "e88764b3-d9a0-44ac-90b0-c24d1d9e78ed",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d13ca71dbc9464d82008237e731d8a2_le-gusta-hablar-espanol.mp3?Expires=1794099438&Signature=sS77r7MDU~dQNBRIZ-MaYv418MmIm55uwDwDmEkeSeOPRjkKZAHLnXkruMJO4VeDwMXtOdxia1TR1rpR9g5M5b7xTjNjDrRTbTXFZdsYrQ2fEXsbPCEE552XXGqQnL~GmrJuFj5FAhYTj8YfQqoUKMSFD4AIOedKMW~3MNjCslH22q0qtDpZxtclurAptekSg8Z~wamKlpBlRWVLmVCYOqxaDoOzmHmwZALN3AbBoy4BAjjCNmwhh7IfkJaRSVZ-sR67DM6e6i2ysrKdc2bSsBZepcgIsTk3QjgnQ6V3TaMfJQgqO8Xhok8KJnk2G5ui2I79ehoTdN0M7qj5o9984A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hablar español",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "4e57ad6c-6598-4cfb-a1fb-8827bb3a0cd7",
+      "title": "Complete a palavra do perfil",
+      "content": "<p>Complete o microperfil em espanhol: Raúl: Le _____ hablar español.</p>\n          <p>Tradução: Raúl: Ele gosta de falar espanhol.</p>",
+      "contentPlain": "Complete o microperfil em espanhol: Raúl: Le _____ hablar español. Tradução: Raúl: Ele gosta de falar espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Le gusta é a pista central para ler o gosto de outra pessoa.",
+      "feedbackError": "Le gusta é a pista central para ler o gosto de outra pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "gusta",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "a5229fc1-2073-44f0-8297-1a828991325e",
+      "title": "Complete a palavra do perfil",
+      "content": "<p>Complete o microperfil em espanhol: Nadia: __ gusta escuchar música.</p>\n          <p>Tradução: Nadia: Ela gosta de escutar música.</p>",
+      "contentPlain": "Complete o microperfil em espanhol: Nadia: __ gusta escuchar música. Tradução: Nadia: Ela gosta de escutar música.",
+      "fileUrl": null,
+      "feedbackSuccess": "Le gusta é a pista central para ler o gosto de outra pessoa.",
+      "feedbackError": "Le gusta é a pista central para ler o gosto de outra pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Le",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "aa403ab1-c500-46b6-845f-42338a6ae8e8",
+      "title": "Ligue nome e gosto",
+      "content": "<p>Associe cada nome à parte do perfil que mostra o gosto principal.</p>",
+      "contentPlain": "Associe cada nome à parte do perfil que mostra o gosto principal.",
+      "fileUrl": null,
+      "feedbackSuccess": "Em leitura rápida, o objetivo é ligar nome e gosto sem reler tudo.",
+      "feedbackError": "Em leitura rápida, o objetivo é ligar nome e gosto sem reler tudo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "84ded0db-07db-4870-9e76-cf6447b74ff3",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "aa403ab1-c500-46b6-845f-42338a6ae8e8"
+        },
+        {
+          "id": "ad678a08-ce5c-4e81-a948-a58e1cecbc82",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "aa403ab1-c500-46b6-845f-42338a6ae8e8"
+        }
+      ],
+      "associations": [
+        {
+          "id": "6028a04f-68e8-4d5b-9a62-126da4b0f8f4",
+          "exerciseId": "aa403ab1-c500-46b6-845f-42338a6ae8e8",
+          "leftContent": "Nadia",
+          "rightContent": "escuchar música",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f20875d9-47e4-4a70-b399-ec652a04c707",
+          "exerciseId": "aa403ab1-c500-46b6-845f-42338a6ae8e8",
+          "leftContent": "Raúl",
+          "rightContent": "hablar español",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "cb255f7d-0fe8-4d5d-a9b2-240105dca9e7",
+      "title": "Complete a palavra do perfil",
+      "content": "<p>Complete o microperfil em espanhol: Raúl: Le gusta hablar _______.</p>\n          <p>Tradução: Raúl: Ele gosta de falar espanhol.</p>",
+      "contentPlain": "Complete o microperfil em espanhol: Raúl: Le gusta hablar _______. Tradução: Raúl: Ele gosta de falar espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio aqui é recuperar a palavra final do gosto lido no perfil.",
+      "feedbackError": "O desafio aqui é recuperar a palavra final do gosto lido no perfil.",
+      "answerType": "buildWord",
+      "expectedAnswer": "español",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fb9971ad-5510-456b-9d87-6dfe4f9734a7",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Identificar gostos em perfis curtos"
+}

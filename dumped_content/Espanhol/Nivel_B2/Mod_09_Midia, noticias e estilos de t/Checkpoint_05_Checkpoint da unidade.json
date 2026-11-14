@@ -1,0 +1,525 @@
+{
+  "attemptId": "28a3d9d6-1da7-4af5-a154-ddb32694dbd0",
+  "exercises": [
+    {
+      "exerciseId": "7b086990-7bc6-491f-870a-aa442e7d9991",
+      "sequence": 1,
+      "lessonId": "134ce377-e0f5-481b-ae6b-31dfe1cc36f7",
+      "title": "Escute o perfil de viagem",
+      "content": "<p>Marque só as palavras que aparecem no áudio sobre o perfil do viajante.</p>",
+      "contentPlain": "Marque só as palavras que aparecem no áudio sobre o perfil do viajante.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac8a9d6373ab4c698329a53d748913ef_phase5-challenge-02-pareja-busca-silencio-campo.mp3?Expires=1794099756&Signature=qx8YUzjSfQHSMEJoZEO4aF7l7gaW5jU~BB6MAHARF-hUV26P8QLb5DJjoccgT6Ip8K8rU4r2FCKOe5Ge7viTwcafmR7DfMdHzltVXwOMbDW2p5lcWE-Q7noL~yVF1f06F63OlWxgF7j64xnLOdXQl1gQwjEqbRv1mcU17Aq7JJu6J81~xv37tCfZ3EfNVSb3KkBUCc8tfx7AissjJVOA7q1mK8zz5FBI0ki8FSpRvZmTMmOb~CExz3g5IMedPTT-3SuxOLnaMtyx057I5-zLkY0IbJJ6jUbUJnT1yskfQW9kLpz1bVdbsmA-PzNGmLBbP0bOI5iPZel1udoaAarOQw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui o foco é ouvir as pistas de perfil que apontam para turismo rural.",
+      "feedbackError": "Aqui o foco é ouvir as pistas de perfil que apontam para turismo rural.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "28bb0050-95b6-46c2-af19-2b6e5878e7a9",
+          "text": "pareja",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "30d10929-961a-4707-903f-8f7750bac4f8",
+          "text": "tranquila",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5602a327-a7f9-44a6-af7e-17081b866f33",
+          "text": "campo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "641d0ca7-472c-4ec5-9e1b-93a859db3ff5",
+          "text": "museos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "73b0eb9a-549d-4501-bfbf-60e03462a2ef",
+          "text": "impacto",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "985624b4-0c0e-49ca-afee-9e5751337579",
+          "text": "silencio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "9523ddf1-6ea9-466f-9456-a02bb4162b9c",
+      "sequence": 2,
+      "lessonId": "01eccec0-b69d-4b14-9d26-c8a0562e8fa1",
+      "title": "Recupere os termos centrais pelo áudio",
+      "content": "<p>Escute o fechamento da aula e marque só os quatro termos de mídia que estruturam a rotina narrada.</p>",
+      "contentPlain": "Escute o fechamento da aula e marque só os quatro termos de mídia que estruturam a rotina narrada.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8048d4cc987a46908c5d1d0c0f59c3f4_b10-recap-rutina-media.mp3?Expires=1794099756&Signature=nIrM14ZmjkOD1RN2E1c~YGuVvJnvCWyLnV10w7ivK35O5nDixPrh9kWnDA-Ev2cLBlZgc3KIsa7BON4-CtF38OtkcpAAYPHl2Fich9IpZgzTlK4yNlmawLjPj4zqgGkVjJcb95zXUDcN3F8TEijk6U2~x1kvYXOVQXovC~GARee~y2Za9SGYto4w9SPMUQCJlE9tSJHUOD4h1rI3aa8h30gugbjrsj1oPDWiqkYuD8Nul93OTwOOmWGCwQTumWLHhbR2w8bSf7caJJ4YoEgHEjMUknx6Y2~13cnZ6us208lD1Pf8Qy7i7WXIhoOODVMxOSTMxQjL5ike2iQzGlbwdA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final junta os quatro termos da aula em uma única rotina de notícias.",
+      "feedbackError": "O recap final junta os quatro termos da aula em uma única rotina de notícias.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2d7ee73f-4561-476d-bed0-ea1125a8cb20",
+          "text": "perfiles",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "37c635ba-fd99-4755-9d97-50bd85518ea6",
+          "text": "medios",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "41de6719-c1df-46a1-abe6-e650a9373b11",
+          "text": "titulares",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9820e70e-56bf-4a84-a26d-7e9f807cdd26",
+          "text": "prensa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c2feee32-b16b-4408-be03-7965f05b0a24",
+          "text": "boletines",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cd56b3d4-785d-41cd-97bb-25b65ea8dace",
+          "text": "fuentes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "2afeee4e-efaf-4212-a45a-643241a6d38c",
+      "sequence": 3,
+      "lessonId": "001be841-340d-4100-8a6f-3460d1e8ddf5",
+      "title": "Reconstrua o diálogo",
+      "content": "<p>Relacione os quatro áudios diretamente às falas corretas em espanhol.</p>",
+      "contentPlain": "Relacione os quatro áudios diretamente às falas corretas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo completo encadeia pergunta, hábito, critério e verificação antes do compartilhamento.",
+      "feedbackError": "O diálogo completo encadeia pergunta, hábito, critério e verificação antes do compartilhamento.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "d9d5a3ab-56fb-4741-a243-febd82f00a2a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/efe6085a40b646508c4911ddb73966c3_b06-d01-tu-por-donde-te-informas.mp3?Expires=1794099756&Signature=2IfHorTWBtZT81lNEnVe9rHLZVU~bn4eRZhhj57DPjf3dOEbAoIz2SrqBZiKzQcEhF~CjCCVs7jj6EdJm4jWowbtTd6B4aOyvzo3KZ4f7WTfFZazT23OHtTIx2f2Ut5Or5kY5qD0hRUTlqXfo532DRGjEWkiNy9X3D4NfCNnilR7cU4sfB3UVUBIgSYUufvsg6VXIXYViHYpu105VSQePpZ-4RzhjXCufMplROxNrJcsQ5va53rAO8UzPyzI~7bP5C5-5PzJpc1NDRqCsqOCFlWfGopBTu7218B1o5V1kjgS6V8xahC-aI1X9fN-khBlJ7GmgGexgHb~lUKNNJ~kZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Tú por dónde te informas cuando pasa algo importante?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4646a2b1-abbb-4b52-b5b8-c1539e12e5f8",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1a1628be87df4c33af77c569af11d7f7_b02-suelo-informarme-por-la-radio-local-camino-al-trabajo.mp3?Expires=1794099756&Signature=ULu9zLEIzDDTU3UHMM3Cg0IgSGaQU~9WYgzgA4pD4BMPLROvM2A2F7yB2JSF0PNH1iAPFMeWExMKCVdyPT6nZJZJrEb9nmhYhUsu7dIRQCGr2w5n1kMqnc~kypUjA490KkR0PPOFZRvlTDBfa7-EfQdNvaFmepJNvsW1YnIRNZwaSmMvUUQOsMCXi-J50JtLD71Q~62xpls13EnnqJCN9XemsKA4y8Itmpq5PK4hciTOoZ~aD6XMExF3GypSALuvKy2mL~8v1ubfJY8uQ7ip2a9tw0BquoDEl6DgIQ4jAgv0w5SS0aOfR5uRcmMcedGx3450CYNEcK0HfGQdO4EaEA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Suelo informarme por la radio local camino al trabajo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "da4b07f4-785b-4b2d-b276-2abf3f051806",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bf70d2e41b4b4e95ad82df96e4ce8147_b06-d03-yo-me-fio-mas-de-los-medios-que-citan-sus-fuentes.mp3?Expires=1794099756&Signature=AQxN1-yGifd-wDLfIFtsdUdUglFeTuO38x-vwDpbr9~W7hDDZA1KOXejGQ3~SrMFj5THon0n9el6OrGJtQNIRD4t1p5A9IbbSsJy0gjbZtRVgCSuWd~oJzSlL-GY9BW3Z8HDMcnJkXOJI9a59UBsopT3sFapdSFBkC4tLL05MfR0Jnhqf7nwFdgYyNiF9rUzHrojAdZzx-eMd13DpV4wAbbFceLPGue~byANwzjeL6x~Zyr6L0USTZktrThxaPU5tvPv3ODL3IQdpfKue~zOW1o53sZQmVsCnczSC29Gnd7tY~lRDgK8YdkiN401gwtGYPWGnnjq9SUum2R9huQ~tQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo me fío más de los medios que citan sus fuentes.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "3bbd4049-aca0-4097-8c0a-0a9cb7d704eb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d7c0fae7d2f84e8986aabade5849c749_b06-d04-comparar-versiones-antes-de-compartir.mp3?Expires=1794099756&Signature=g1NhSdqQUwojYEUWcE3rdpWSP4441Uyku2gSrTptb7OyWv9jJ2aP8EJRiG8UbIW2ODR-ipe8Orb1KD4GsizhR0RE6jdMbNBbEm4441hSXoBglsElxRnCViqScjcR4goRL6FlKvoCfBEdtU6hkjZClK6QSBlg6hvTbeBkHzRO~9XmWOLbQqakgv1yHMIUKzUpCqEWAbq0GJPKPC3GQ6Din3REPH1zzf97bqXZttyO-QHSuLOcKx45JOaAd4KBsFrW0C3C~JwQ3Nxuv4zGVUYTUA7wo3mdlVOblebDgu75oS9DarJVu4H3cwrBbHrZNBHFpI5oQfv6pyvaUgH2~prKUg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, así es más fácil comparar versiones antes de compartir una noticia.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "1e961edb-af59-47b8-9b21-dfbee0b98744",
+      "sequence": 4,
+      "lessonId": "001be841-340d-4100-8a6f-3460d1e8ddf5",
+      "title": "Filtre as palavras do recap",
+      "content": "<p>Escute o fechamento da aula e marque apenas as palavras que realmente aparecem nele.</p>",
+      "contentPlain": "Escute o fechamento da aula e marque apenas as palavras que realmente aparecem nele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/eafc5536e81340fd848eb5ace912e2b1_b07-recap-radio-local-y-fuentes.mp3?Expires=1794099756&Signature=Mn9ycqnCVLu1IQdYVdS8FvpqRHeV96vM41n780H2H2ogoJhHP2Zq8ga3DSQoo7sVho613kbM4tBruIToUZoIr8BETAixpPBygQD5bDfdesvZBAjGSNG4L6e5tYYDTQ2sCa-YTTCIK-VH8LGMYVDW9Ow2Mp0S0~K8nnKR~POmV318jsUpcPrIfA7Yb0gjRc5OAEFo9cUbBAM5KXmkcn9etXu9Nf9Hu4NzuCcbFbXh~SvlxXYxUMTBYF3fYgloPyAIrSX9w0NFX20EP~ojbEeRl5eelYXgG1I9-WU01ffwvGepBUFoz~TCnB05OAPNbyvFTkDmfMpe9wpb0-IDSNfd4g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap junta hábito de informação e critério de confiança numa fala única e reutilizável.",
+      "feedbackError": "O recap junta hábito de informação e critério de confiança numa fala única e reutilizável.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0c89c599-a9a4-4cd1-b4cd-a28fa674bac9",
+          "text": "local",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "248a3671-d603-40e5-9aa8-e5faf41c933d",
+          "text": "suelo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "425e14bd-1b34-442c-8145-24fcb03e4cb0",
+          "text": "citan",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5cc302f4-1e9a-4ded-a35f-a8a96eba9281",
+          "text": "noticia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5dcf8fc7-2358-4752-849a-8840ccd3f649",
+          "text": "vida",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "670e7346-6871-4a5b-9103-715b6784245d",
+          "text": "fuentes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "699c15a5-412b-47db-bebd-5a586c04114e",
+          "text": "fío",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "756fe362-b323-4e49-92ea-7bc98d25e25e",
+          "text": "trabajo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "98d8c40c-4a65-4306-b553-842a3b1a4197",
+          "text": "informarme",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9f0d29f2-c032-478f-bc68-4a0919c3645f",
+          "text": "importante",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b5232871-f20f-46ac-8a3a-415c350680ce",
+          "text": "comparar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b7377f92-3677-4e26-918b-f31e7c9c71d9",
+          "text": "radio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "fe32e8b9-a094-4321-a731-1537f1fe66e7",
+      "sequence": 5,
+      "lessonId": "134ce377-e0f5-481b-ae6b-31dfe1cc36f7",
+      "title": "Recupere a palavra do destino",
+      "content": "<p>Complete a frase em espanhol: <strong>Prefiero los ______ porque quiero entender la historia local.</strong></p><p>Tradução: Prefiro os museus porque quero entender a história local.</p>",
+      "contentPlain": "Complete a frase em espanhol: Prefiero los ______ porque quiero entender la historia local. Tradução: Prefiro os museus porque quero entender a história local.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a palavra museos no contexto do turismo cultural.",
+      "feedbackError": "Aqui o foco é recuperar a palavra museos no contexto do turismo cultural.",
+      "answerType": "buildWord",
+      "expectedAnswer": "museos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5cf22038-818e-45e6-8e31-e67448518e5f",
+      "sequence": 6,
+      "lessonId": "01eccec0-b69d-4b14-9d26-c8a0562e8fa1",
+      "title": "Complete a frase sobre a origem da noticia",
+      "content": "<p>La noticia cita dos _______ del hospital.</p><p>Tradução: A notícia cita duas fontes do hospital.</p>",
+      "contentPlain": "La noticia cita dos _______ del hospital. Tradução: A notícia cita duas fontes do hospital.",
+      "fileUrl": null,
+      "feedbackSuccess": "Las fuentes aparece na aula como o nome da origem dos dados, falas ou testemunhos citados.",
+      "feedbackError": "Las fuentes aparece na aula como o nome da origem dos dados, falas ou testemunhos citados.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fuentes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6aa15c64-b8b6-4031-907e-91f6394510b6",
+      "sequence": 7,
+      "lessonId": "134ce377-e0f5-481b-ae6b-31dfe1cc36f7",
+      "title": "Relacione perfil e estilo",
+      "content": "<p>Ligue cada descrição em espanhol ao estilo que combina melhor com esse perfil.</p>",
+      "contentPlain": "Ligue cada descrição em espanhol ao estilo que combina melhor com esse perfil.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é conectar perfil e recomendação diretamente em espanhol.",
+      "feedbackError": "Aqui o foco é conectar perfil e recomendação diretamente em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7d73d943-2b0a-4f26-ba75-e8bf97b4abbe",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "84d266a2-3108-44ad-8ff0-591abcfc6bda",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "38d456ec-f682-4498-9d29-184a1e4bfd87",
+          "leftContent": "Quiere silencio, campo y una experiencia tranquila.",
+          "rightContent": "Turismo rural",
+          "sequenceItem": 1
+        },
+        {
+          "id": "473e4f83-ec5c-490f-a9e4-f61ff7042271",
+          "leftContent": "Quiere viajar con menos impacto y respetar el ambiente.",
+          "rightContent": "Ecoturismo",
+          "sequenceItem": 2
+        },
+        {
+          "id": "16120127-08cb-4076-b1d6-1627b32831cd",
+          "leftContent": "Quiere museos, historia y tradiciones.",
+          "rightContent": "Turismo cultural",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "e3fea288-03ed-4f49-ba28-31b12cb59b2b",
+      "sequence": 8,
+      "lessonId": "001be841-340d-4100-8a6f-3460d1e8ddf5",
+      "title": "Recupere a etapa de verificação",
+      "content": "<p>Sí, así es más fácil ________ versiones antes de compartir una noticia.</p><p>Tradução: Sim, assim fica mais fácil comparar versões antes de compartilhar uma notícia.</p>",
+      "contentPlain": "Sí, así es más fácil ________ versiones antes de compartir una noticia. Tradução: Sim, assim fica mais fácil comparar versões antes de compartilhar uma notícia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na troca final, comparar versiones mostra o critério em ação antes de compartilhar.",
+      "feedbackError": "Na troca final, comparar versiones mostra o critério em ação antes de compartilhar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "comparar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9f9ccce6-f0f1-489d-ab2d-351821ec7d02",
+      "sequence": 9,
+      "lessonId": "01eccec0-b69d-4b14-9d26-c8a0562e8fa1",
+      "title": "Reconstrua a rotina pelo áudio",
+      "content": "<p>Ligue cada gravação à frase certa e recupere uma sequência plausível de consumo de notícias.</p>",
+      "contentPlain": "Ligue cada gravação à frase certa e recupere uma sequência plausível de consumo de notícias.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta rotina recompõe imprensa, manchetes, meios digitais e fontes em passos curtos.",
+      "feedbackError": "Esta rotina recompõe imprensa, manchetes, meios digitais e fontes em passos curtos.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "a62972c9-d336-4209-8301-bc9b5709be59",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7846cd1131fb4401a58001c1db396c38_ex01-sigo-la-prensa-cada-manana.mp3?Expires=1794099756&Signature=dv0m43nXBKHw3tGqar3qF5pXWzuD~95lvc0035yKWqzd4~ju~sGJhXnl4rWR5TbU~6JQp7ryifunDs5mrNkpzjpsN-7XQs44wYOtvaBn6Z6zuPH18pqH6dx7e6sR0cmXLB7FcujlL~HllBIcbyvdB0Rf8XoP545t6cvt3FXoJs2-TyYIywcUmVHo1aBP0dHNVVrUNbZgjTAotC~AmW5sGwCa~e~6i9~sy1CqFCSx-T4XBy8m99q6u0e5QmXt2LGkPGrxIRJmqum~c54rm-Xt7z3vDE-Aw2BaAde4SJyn-Ve4pzJX6q0ODWWEmHj4onUxJiZZ0O1BBZoO9LsH~wEYTQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sigo la prensa cada mañana.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e419b463-5097-4013-b90a-c8c3c8a248b3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/493c1196e7cb4a5e9960dde1894c4259_ex02-reviso-los-titulares-en-el-movil.mp3?Expires=1794099756&Signature=P5185hdPVk3kw-mIz4UdujxX~cJgN8Ut-4yEtu~RMGRFzrrecwB07BJNOBZ8EUdRn89FTmkU~WgjpH6hqK7mHLiVPlTtemghnRyt7D7fQWpSSM0exMFgN6e0cH~dF9hPEUTrkh1ivz~tW7K8IMMIkkvei1EOg-Hr9GaG4mDMszo9Lw9JAd5GDeMgVuy-K~5Q9vuJf0h2SJVpwZGu6XZ987feLReVLIW0Yj9KgB80p2WTGKUb1xkffVTLY0MxeoRKCqkPW-wTWLUlvXgL3Y8hmC-XXaKqopnVXLjYpv5VSzn9KbunOghfprQroNgoRnUTBxQvm3wBSyUOwiLWfSaMig__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Reviso los titulares en el móvil.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c4ea91d1-ac7c-4df1-8f37-d0168f4e913f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/772c2470fe5e4682bc7bda4fd4956da0_ex03-me-informo-por-medios-digitales.mp3?Expires=1794099756&Signature=lL4ejnAgXVUejhBUtB33NGOvB3lK3ozeiZ32G4UMcnyhBv23steLjRnKuH6HkUHA4oiJpzWJMmeL6AHGmkjCfh43xAK0b~cqgc86OAN97AwINaCY6JfQLkcrKzveE1Zqc4IffK8NStAA8HVx6X9wvOSP2glPhRwPBu2Ol2zv83XhhLjzTQ3k5m5~t2J3AXw1i3QGCpBVErkdpG8s7GoSLolXnGPzWhzjDUX8fNkPMuggadENllvKVtZcklXt0qWJPBj4wGpOXvMCV7vY9oqzSn~F9YZuvJ7UXZf0HkkRULf2EIGV3TQAuvKZpSFwnfnJbDTA4rH4IbQNdEDUrfZyeA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me informo por medios digitales.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d33ae1ea-9076-4bc0-9748-0a5ec79b51d9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a149a1f287974672a3462e1244e0db83_ex04-despues-comparo-las-fuentes.mp3?Expires=1794099756&Signature=x3JwBeUz484yJeFJBlCoJOzCfLNDRKtue-wt~HW2UMYb6CYckOnvvzGdR4JyJKq2n8ObOSIlWotAcSItbgv2n1R~pZ9g8gGvLzfgBSz7e~tTgHV6N7tqpE47QV8LHRg8zARJMeTGU8Ht0vinwL1qHwifj8vgyCmYCseVsoT-OI-ElZxrwW2eBn6PCL6OLECbu4~3-36qLxVhekdLfk1b8GJXEro9kERQpypsOw~wQb23MO~5DfJfrr9XLuako6eiRhumwgtvzP6a-BO3cdJ0SeN3egwc0aIQyRi9CAFs15QnOyfylKY7ePmoNS8L03GEZ-yjTzJxMR3WlQb40BtkIg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Después comparo las fuentes.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "127f84ee-df74-4fed-b304-0f4fcb321acc",
+      "sequence": 10,
+      "lessonId": "f78d8661-d6f2-4b17-b90c-640656704e38",
+      "title": "Recupere o momento da decisão",
+      "content": "<p>Antes de ________, suelo leer la prensa local y comparar lo que cuentan otros viajeros.</p><p>Tradução: Antes de reservar, costumo ler a imprensa local e comparar o que outros viajantes contam.</p>",
+      "contentPlain": "Antes de ________, suelo leer la prensa local y comparar lo que cuentan otros viajeros. Tradução: Antes de reservar, costumo ler a imprensa local e comparar o que outros viajantes contam.",
+      "fileUrl": null,
+      "feedbackSuccess": "Antes de reservar marca o ponto em que a pesquisa entra na decisão.",
+      "feedbackError": "Antes de reservar marca o ponto em que a pesquisa entra na decisão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "reservar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "19b6f32d-01e0-4dd1-bacc-c659669e48d3",
+      "sequence": 11,
+      "lessonId": "f78d8661-d6f2-4b17-b90c-640656704e38",
+      "title": "Recupere o contraste final",
+      "content": "<p>Entonces la decisión no depende solo de un _______.</p><p>Tradução: Então a decisão não depende só de uma manchete.</p>",
+      "contentPlain": "Entonces la decisión no depende solo de un _______. Tradução: Então a decisão não depende só de uma manchete.",
+      "fileUrl": null,
+      "feedbackSuccess": "No diálogo, titular contrasta uma manchete isolada com uma escolha mais criteriosa.",
+      "feedbackError": "No diálogo, titular contrasta uma manchete isolada com uma escolha mais criteriosa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "titular",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1af67ea9-7f6a-4e22-93b8-758909749bfa",
+      "sequence": 12,
+      "lessonId": "f78d8661-d6f2-4b17-b90c-640656704e38",
+      "title": "Recupere o verbo do encaixe",
+      "content": "<p>Así elijo un destino que ______ mejor con el tipo de viaje que quiero.</p><p>Tradução: Assim eu escolho um destino que combina melhor com o tipo de viagem que eu quero.</p>",
+      "contentPlain": "Así elijo un destino que ______ mejor con el tipo de viaje que quiero. Tradução: Assim eu escolho um destino que combina melhor com o tipo de viagem que eu quero.",
+      "fileUrl": null,
+      "feedbackSuccess": "Encaja mejor liga o destino ao tipo de experiência desejada.",
+      "feedbackError": "Encaja mejor liga o destino ao tipo de experiência desejada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "encaja",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "79613c33-36c4-4469-b186-6d306ab22159",
+      "sequence": 13,
+      "lessonId": "134ce377-e0f5-481b-ae6b-31dfe1cc36f7",
+      "title": "Escute as recomendações",
+      "content": "<p>Relacione cada áudio à frase correspondente. Use apenas as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio à frase correspondente. Use apenas as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é distinguir recomendações completas sem apoio em português.",
+      "feedbackError": "Aqui o foco é distinguir recomendações completas sem apoio em português.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "fa87d81b-61c0-4067-a798-c25edaeb19df",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/55dd781aec28445cab331c12a9410036_phase5-challenge-05-si-quieres-campo-y-calma.mp3?Expires=1794099756&Signature=1nzjp6Zl9yzhOw9HXAqADJV-~64FTlMWFweRXPhZ1vN~8eLz5Vr83EfCwwQTEPu-n-r25XiZcjq86IdyeaSBKVtjVLnZ7Zb4LW2GkTzmDe0uw9POTxfvpZoI7T0JwM1xnJD0IsTuzLsWF60UXcOizGU18X4UjL3dDtNt-2cHI0o-WYYNWdZLBrk2~XSecuTraZmIG5E~YU4u2KRi5PhXWDModK135OGhGa6rYf6HSATbtOehMHB2pnaH~eiQt3M7Jw5-C2BSqIumGs0ghcTa7UV9KsbvfUbCPnbBn~8A2Seyi0ruF3JUq~vt8d~O2zOW8tXRvrNyzkOYuVHrSEzVmw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si quieres campo y calma, te recomiendo el turismo rural.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ddd8cdc5-db0f-46ff-9e0e-d49f0eb6acd6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/296107a27cd74661b0c8a5bc8ea80d16_phase5-challenge-05-si-buscas-naturaleza.mp3?Expires=1794099756&Signature=cKHXHNaAwSovUL7HO0EI-zXzJoz51AYZxCNFar222kRLIrvds8Ts0zMjycygiZolD30U-YmO6h26ejUGvBkMg-4cOaYGy0X4QA3Yiib8lmJ24hbHL2z9H9RhzFBf560tuoE1mvsbId7b2NusiEL5mS7rXDz9nmN4M5EsRAqoOijVlDq0-toSNNIDz0LeXt6honHXTteDTHwEbqgx6WNGTZw1bzOPKmdrYFL5p0RK4H5WJUUXhKcxdoxLgk11voscS7Y141kmTPpk6RlXZq6DMsK9nSnUjBp6rjdnt5WvoYZT5vxJY2TGpzH~-aopN2jqqAXi6lJUwys3k4hwZ6CKKw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si buscas naturaleza con menos impacto, te recomiendo el ecoturismo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d873d56a-c517-4567-bf8e-72039c99218e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7d800b86435441438b551a815e22b85e_phase5-challenge-05-si-quieres-museos.mp3?Expires=1794099756&Signature=p9BQJB4N6MrdPS3pR5hsfCbidCRkQxI5VW7INzmM3D7j2anpIZs1fz9S87h8Br6Q2Ad~zrSpZrljEAkWuyQgp79kmcOESr1G3wuAqNJJ-FAnxQKLhpTMi2Y6rA3r9csFvfN0auvnO8skOcq0Tm0unPLzzSH4Hy0afJzEabmZpGkQRrja~cegphyOGWN5AO7EhXnq1KHrpnGAW0PKbsmPiKY-31NIuLpHz9N9B2YvEB9Li9IsX7jRYrlU9TXexnDpFnCEdQHixFCsRHmYF8opWFgoez06r0~pN4Z242J0NDQb-t6L~z9Rwh88y8EVAxRjNNf7dsO5jaw95vPXvfgwgA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si quieres museos e historia local, te recomiendo el turismo cultural.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "6a7aa977-ec8b-476f-ae35-20ee2148235d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d6851e33371540bfbf802bf4bc875449_phase5-challenge-05-estilo-ideal-depende.mp3?Expires=1794099756&Signature=1qguEyfB8~5a2Q6rMQu1841q6ppzd9~svj54cBniV~VkEPaaEHcgrwWHbIRYXp~QMv0HEQSCt2Z8JAIWTEbI3DRjplpMU2VEPzcfoKvad9SM-SLY6SFfb7sX7~W7f-ZF5OTHRcmC5Pp~hODUQBUwqAx9dl5y~fPlkcRHbMSTH-rSdAWla9WxO93y-7sjqkatofaJ6FKqzJAgKSc5gtrSkr6j1cA5Qb5OAJ1d5bz2e3TvHHCgdz0wW4Wa2mB0mfJmzLChjqvPFcV5DorxwFSn10nTMdf-SzMeakwXmhHWz3oxrvMMNgpgH~eS2PJsfy9lfi8FJb1~DdpJFIsrfRP~zw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El estilo ideal depende de la experiencia que quieras vivir.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "379816c5-ae17-42bb-8fe4-0818b0940c8f",
+      "sequence": 14,
+      "lessonId": "01eccec0-b69d-4b14-9d26-c8a0562e8fa1",
+      "title": "Complete a frase sobre o canal online",
+      "content": "<p>Me informo por medios _________ durante el trayecto.</p><p>Tradução: Eu me informo por meios digitais durante o trajeto.</p>",
+      "contentPlain": "Me informo por medios _________ durante el trayecto. Tradução: Eu me informo por meios digitais durante o trajeto.",
+      "fileUrl": null,
+      "feedbackSuccess": "Los medios digitales nomeia o canal online por onde a notícia chega até você.",
+      "feedbackError": "Los medios digitales nomeia o canal online por onde a notícia chega até você.",
+      "answerType": "buildWord",
+      "expectedAnswer": "digitales",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "178bb77a-866b-43e2-849e-d3cd5fd9e06d",
+      "sequence": 15,
+      "lessonId": "001be841-340d-4100-8a6f-3460d1e8ddf5",
+      "title": "Recupere o hábito de informação",
+      "content": "<p>_____ informarme por la radio local camino al trabajo.</p><p>Tradução: Costumo me informar pela rádio local no caminho para o trabalho.</p>",
+      "contentPlain": "_____ informarme por la radio local camino al trabajo. Tradução: Costumo me informar pela rádio local no caminho para o trabalho.",
+      "fileUrl": null,
+      "feedbackSuccess": "Suelo + infinitivo nesta aula marca um costume de informação, não um caso isolado.",
+      "feedbackError": "Suelo + infinitivo nesta aula marca um costume de informação, não um caso isolado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Suelo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

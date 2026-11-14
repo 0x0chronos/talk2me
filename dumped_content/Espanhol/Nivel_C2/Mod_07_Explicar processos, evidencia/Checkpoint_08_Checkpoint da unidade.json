@@ -1,0 +1,417 @@
+{
+  "attemptId": "77e08273-6d38-4a01-9443-d0e7a91024a5",
+  "exercises": [
+    {
+      "exerciseId": "bac77b99-4da0-4224-97b9-e0929222a362",
+      "sequence": 1,
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "title": "Recupere a moldura",
+      "content": "<p>Complete a frase em espanhol: De _______, el analista ya pidio un aval para abrir el expediente.</p>\n          <p>Tradução: De cara, o analista já pediu um aval para abrir o processo.</p>",
+      "contentPlain": "Complete a frase em espanhol: De _______, el analista ya pidio un aval para abrir el expediente. Tradução: De cara, o analista já pediu um aval para abrir o processo.",
+      "fileUrl": null,
+      "feedbackSuccess": "de entrada marca o que surge logo no primeiro filtro do caso.",
+      "feedbackError": "de entrada marca o que surge logo no primeiro filtro do caso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "entrada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3d3ba9ea-d560-4f98-91e4-7ee4353a84cd",
+      "sequence": 2,
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "title": "Reconstrua a cautela da evidência",
+      "content": "<p>Complete em espanhol: Según los ________ datos, el consumo de la red bajó un 28 % durante los meses de más calor.</p><p>Tradução: Segundo os primeiros dados, o consumo da rede caiu 28 % durante os meses de mais calor.</p>",
+      "contentPlain": "Complete em espanhol: Según los ________ datos, el consumo de la red bajó un 28 % durante los meses de más calor. Tradução: Segundo os primeiros dados, o consumo da rede caiu 28 % durante os meses de mais calor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, según los primeros datos ancora a leitura sem transformar indício em certeza total.",
+      "feedbackError": "Na aula, según los primeros datos ancora a leitura sem transformar indício em certeza total.",
+      "answerType": "buildWord",
+      "expectedAnswer": "primeros",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "58182f8e-9baf-4f3e-97cc-09dcfd5e67a5",
+      "sequence": 3,
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "title": "Recupere a moldura",
+      "content": "<p>Complete a frase em espanhol: A estas _______, la cuota ya superaba lo que podian asumir.</p>\n          <p>Tradução: A esta altura, a parcela já superava o que eles podiam assumir.</p>",
+      "contentPlain": "Complete a frase em espanhol: A estas _______, la cuota ya superaba lo que podian asumir. Tradução: A esta altura, a parcela já superava o que eles podiam assumir.",
+      "fileUrl": null,
+      "feedbackSuccess": "a estas alturas marca uma leitura tardia em que o peso do caso já mudou.",
+      "feedbackError": "a estas alturas marca uma leitura tardia em que o peso do caso já mudou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "alturas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c9777c93-53ac-41e9-811d-a5e56481441c",
+      "sequence": 4,
+      "lessonId": "137e5d56-07ba-42cc-acde-0e501347f3ed",
+      "title": "Feche a moldura da mudança",
+      "content": "<p>La transicion _____ pierde fuerza si cambia la fuente pero descuida la estabilidad del servicio.</p><p>Tradução: A transicao verde perde força se muda a fonte, mas descuida a estabilidade do serviço.</p>",
+      "contentPlain": "La transicion _____ pierde fuerza si cambia la fuente pero descuida la estabilidad del servicio. Tradução: A transicao verde perde força se muda a fonte, mas descuida a estabilidade do serviço.",
+      "fileUrl": null,
+      "feedbackSuccess": "Transicion verde funciona como moldura ampla, não como tecnologia isolada.",
+      "feedbackError": "Transicion verde funciona como moldura ampla, não como tecnologia isolada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "verde",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2c0dc183-ef61-4b36-ad9e-5415567b1b27",
+      "sequence": 5,
+      "lessonId": "b4df6c8e-f7d1-4758-b013-594f3f1b5952",
+      "title": "Reconstrua a locução da rapidez",
+      "content": "<p>En ________ de minutos, el equipo recompuso el calendario y siguio adelante.</p><p>Tradução: Em questão de minutos, a equipe recompôs o calendario e seguiu em frente.</p>",
+      "contentPlain": "En ________ de minutos, el equipo recompuso el calendario y siguio adelante. Tradução: Em questão de minutos, a equipe recompôs o calendario e seguiu em frente.",
+      "fileUrl": null,
+      "feedbackSuccess": "En cuestion de minutos condensa o comentário para destacar resolução muito rápida.",
+      "feedbackError": "En cuestion de minutos condensa o comentário para destacar resolução muito rápida.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuestion",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0ee84879-af60-4f84-957f-4ddf33c8f6d3",
+      "sequence": 6,
+      "lessonId": "137e5d56-07ba-42cc-acde-0e501347f3ed",
+      "title": "Reencaixe o vocabulário no debate",
+      "content": "<p>Resolva sem apoio de tradução direta, ligando cada situação ao termo da lição que melhor organiza o comentário.</p>",
+      "contentPlain": "Resolva sem apoio de tradução direta, ligando cada situação ao termo da lição que melhor organiza o comentário.",
+      "fileUrl": null,
+      "feedbackSuccess": "O repertório da lição ganha força quando cada termo entra no contexto público certo.",
+      "feedbackError": "O repertório da lição ganha força quando cada termo entra no contexto público certo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0baa004d-bfd5-459a-a26d-59df13cfe755",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "0d60bc19-b7dc-47b1-8ff1-9a587e5192db",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "e8302359-897e-4018-95ea-bac2ab0bd653",
+          "leftContent": "telhados de edifícios públicos gerando parte da eletricidade",
+          "rightContent": "energia solar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4fb69889-82ab-4958-8d9d-e0a54652b2d7",
+          "leftContent": "plano regional para reduzir a dependência do diesel",
+          "rightContent": "energia eolica",
+          "sequenceItem": 2
+        },
+        {
+          "id": "64ee4d21-e7b5-49c8-8165-688e850b39db",
+          "leftContent": "base antiga que concentra emissão e dependência",
+          "rightContent": "combustibles fosiles",
+          "sequenceItem": 3
+        },
+        {
+          "id": "48c9f8b5-3bd5-49b1-b938-93885fffe2cb",
+          "leftContent": "mudança ampla sem perder estabilidade nem acesso",
+          "rightContent": "transición verde",
+          "sequenceItem": 4
+        },
+        {
+          "id": "5d3810e5-7275-489d-b7b0-aa127057cc67",
+          "leftContent": "efeito que considera dano evitado e emissão acumulada",
+          "rightContent": "impacto ambiental",
+          "sequenceItem": 5
+        },
+        {
+          "id": "ff5cf97c-fd17-474f-8206-19f00df585f3",
+          "leftContent": "viabilidade diante da conta final e do apoio político",
+          "rightContent": "coste",
+          "sequenceItem": 6
+        }
+      ]
+    },
+    {
+      "exerciseId": "c5e76a87-be19-4a03-9701-4bbbdc4bf570",
+      "sequence": 7,
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "title": "Recupere a comparação metódica",
+      "content": "<p>Las 48 muestras fueron analizadas en dos laboratorios independientes y fueron __________ con registros del verano anterior para descartar errores de lectura.</p><p>Tradução: As 48 amostras foram analisadas em dois laboratórios independentes e foram comparadas com registros do verão anterior para descartar erros de leitura.</p>",
+      "contentPlain": "Las 48 muestras fueron analizadas en dos laboratorios independientes y fueron __________ con registros del verano anterior para descartar errores de lectura. Tradução: As 48 amostras foram analisadas em dois laboratórios independentes e foram comparadas com registros do verão anterior para descartar erros de leitura.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Comparadas` reforça a leitura de método verificável da aula.",
+      "feedbackError": "`Comparadas` reforça a leitura de método verificável da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "comparadas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f2591285-3aff-4238-a876-9c38d3a2ca73",
+      "sequence": 8,
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "title": "Recupere a atribuicao cautelosa",
+      "content": "<p>Tras una segunda revision, se descarto una falla del sensor y se ________ la variacion a un cambio temporal del caudal.</p><p>Tradução: Após uma segunda revisão, descartou-se uma falha do sensor e atribuiu-se a variação a uma mudança temporária do fluxo de água.</p>",
+      "contentPlain": "Tras una segunda revision, se descarto una falla del sensor y se ________ la variacion a un cambio temporal del caudal. Tradução: Após uma segunda revisão, descartou-se uma falha do sensor e atribuiu-se a variação a uma mudança temporária do fluxo de água.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Atribuyo` fecha a leitura de conclusão sustentada sem soar como opinião pessoal.",
+      "feedbackError": "`Atribuyo` fecha a leitura de conclusão sustentada sem soar como opinião pessoal.",
+      "answerType": "buildWord",
+      "expectedAnswer": "atribuyo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a0c25aed-1f80-4065-9abe-f3ed4c52dab8",
+      "sequence": 9,
+      "lessonId": "2d9aed20-2b17-4351-a64f-d3fc24e9a4f1",
+      "title": "Recupere a verificacao por método",
+      "content": "<p>Despues intentaron comprobar _______________ si el efecto se repetia en distintos laboratorios.</p><p>Tradução: Depois tentaram verificar cientificamente se o efeito se repetia em laboratórios diferentes.</p>",
+      "contentPlain": "Despues intentaron comprobar _______________ si el efecto se repetia en distintos laboratorios. Tradução: Depois tentaram verificar cientificamente se o efeito se repetia em laboratórios diferentes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Comprobar cientificamente pede método, medição e possibilidade de repetir o resultado.",
+      "feedbackError": "Comprobar cientificamente pede método, medição e possibilidade de repetir o resultado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cientificamente",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4061f479-6a2e-4fb5-9f6a-9aff10be2eb3",
+      "sequence": 10,
+      "lessonId": "2d9aed20-2b17-4351-a64f-d3fc24e9a4f1",
+      "title": "Escolha a expressão pela intencao",
+      "content": "<p>Agora o apoio vem do efeito discursivo. Ligue cada situação a expressão em espanhol que melhor nomeia essa etapa.</p>",
+      "contentPlain": "Agora o apoio vem do efeito discursivo. Ligue cada situação a expressão em espanhol que melhor nomeia essa etapa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio sobe quando você escolhe a expressão pela etapa do processo, não pela copia da frase.",
+      "feedbackError": "O desafio sobe quando você escolhe a expressão pela etapa do processo, não pela copia da frase.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "ad817fb6-39ab-47db-bb7e-ee9f5dc758a0",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c965da77-d7cd-47f8-8909-877c6bf92e56",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "e7589753-7760-49ef-93fe-e088af97d144",
+          "leftContent": "apresentar uma solução relevante sem detalhar ainda a prova",
+          "rightContent": "la innovación científica",
+          "sequenceItem": 1
+        },
+        {
+          "id": "897d588c-e011-4717-99dc-73d14e31f700",
+          "leftContent": "formular uma explicação inicial que depois sera testada",
+          "rightContent": "plantear una hipotesis",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c5bcf540-8fc0-4c2b-a5ec-ec59026c8dbb",
+          "leftContent": "mostrar uma verificacao apoiada no uso e na observacao direta",
+          "rightContent": "comprobar empiricamente",
+          "sequenceItem": 3
+        },
+        {
+          "id": "09f5fb56-d5d4-407c-b871-5f3028e910d3",
+          "leftContent": "sustentar uma verificacao com método, medição e repeticao",
+          "rightContent": "comprobar cientificamente",
+          "sequenceItem": 4
+        },
+        {
+          "id": "d31a27b0-1a16-4d7a-bdb0-bb9569196bca",
+          "leftContent": "indicar que a criação já entrou em proteção formal",
+          "rightContent": "patentar un invento",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "a87d5c89-caf2-491e-b02d-73f4b437e5fd",
+      "sequence": 11,
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "title": "Recupere o limite da prova",
+      "content": "<p>Los datos todavia son _________ y el dispositivo funciona mejor en interiores de paso lento.</p><p>Tradução: Os dados ainda são iniciais e o dispositivo funciona melhor em interiores de circulacao lenta.</p>",
+      "contentPlain": "Los datos todavia son _________ y el dispositivo funciona mejor en interiores de paso lento. Tradução: Os dados ainda são iniciais e o dispositivo funciona melhor em interiores de circulacao lenta.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula trata a cautela como parte central da linguagem de evidência.",
+      "feedbackError": "A aula trata a cautela como parte central da linguagem de evidência.",
+      "answerType": "buildWord",
+      "expectedAnswer": "iniciales",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d7dd3409-e63e-49d9-9aa4-f68da95ac14a",
+      "sequence": 12,
+      "lessonId": "2d9aed20-2b17-4351-a64f-d3fc24e9a4f1",
+      "title": "Recupere a etapa de proteção",
+      "content": "<p>Cuando los resultados dejaron de ser inestables, la empresa penso en ________ el sistema.</p><p>Tradução: Quando os resultados deixaram de ser instaveis, a empresa pensou em patentear o sistema.</p>",
+      "contentPlain": "Cuando los resultados dejaron de ser inestables, la empresa penso en ________ el sistema. Tradução: Quando os resultados deixaram de ser instaveis, a empresa pensou em patentear o sistema.",
+      "fileUrl": null,
+      "feedbackSuccess": "Patentar marca a passagem da criação para a etapa de proteção formal.",
+      "feedbackError": "Patentar marca a passagem da criação para a etapa de proteção formal.",
+      "answerType": "buildWord",
+      "expectedAnswer": "patentar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ccdad332-72db-4bf6-8f9c-1013e432f03d",
+      "sequence": 13,
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "title": "Associe pista e efeito",
+      "content": "<p>Observe as pistas em espanhol e ligue cada uma ao ganho de precisão que ela traz para o comentário.</p>",
+      "contentPlain": "Observe as pistas em espanhol e ligue cada uma ao ganho de precisão que ela traz para o comentário.",
+      "fileUrl": null,
+      "feedbackSuccess": "As pistas da aula fazem o comentário soar aplicado, não vago.",
+      "feedbackError": "As pistas da aula fazem o comentário soar aplicado, não vago.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "6fec3de0-abd3-422a-885c-4eae16a81d94",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b833b73e-00cb-4e77-9699-e9e0e07606ed",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "6915c513-061b-4f8e-b4a0-f76ba15b4893",
+          "leftContent": "se instalaron",
+          "rightContent": "priorizar a intervenção realizada antes de nomear agentes",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9cc11540-9d16-4d44-b299-0680e08b9678",
+          "leftContent": "bajó un 28 %",
+          "rightContent": "medir o resultado em vez de sugerir melhora vaga",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0d7915d8-ecfd-43e0-8183-44aba292f183",
+          "leftContent": "cortes frecuentes",
+          "rightContent": "explicar o problema coletivo que torna o impacto relevante",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "6c3b9852-5a24-4b34-b27b-6aa83ccea55c",
+      "sequence": 14,
+      "lessonId": "b4df6c8e-f7d1-4758-b013-594f3f1b5952",
+      "title": "Escolha a moldura pelo efeito",
+      "content": "<p>Agora o apoio vem do efeito discursivo. Ligue cada situação a locução que melhor enquadra o comentário.</p>",
+      "contentPlain": "Agora o apoio vem do efeito discursivo. Ligue cada situação a locução que melhor enquadra o comentário.",
+      "fileUrl": null,
+      "feedbackSuccess": "No desafio, a escolha da locução precisa partir do efeito que ela produz no comentário.",
+      "feedbackError": "No desafio, a escolha da locução precisa partir do efeito que ela produz no comentário.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "498eca5c-c3b9-4699-a95f-54bb8c3cabbf",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b2f521c9-ca47-4e5a-8f7a-c0e623b9bc27",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "d0f64dc7-1cbc-443e-999c-ebe3560523aa",
+          "leftContent": "mostrar que a resposta saiu quase de imediato",
+          "rightContent": "en cuestion de minutos",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e8760211-4a55-41d5-9756-0f8538b50b70",
+          "leftContent": "marcar que a mudança apareceu quase no limite",
+          "rightContent": "a ultima hora",
+          "sequenceItem": 2
+        },
+        {
+          "id": "55e3d438-9b8d-4059-8a41-4c49708fd8c2",
+          "leftContent": "deixar clara a boa vontade de colaborar",
+          "rightContent": "de buena gana",
+          "sequenceItem": 3
+        },
+        {
+          "id": "904106d8-3095-4630-9919-1cba74087289",
+          "leftContent": "sublinhar que algo foi feito em segredo",
+          "rightContent": "a escondidas",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "f70f2f1b-60d6-4749-a578-8a61d4725495",
+      "sequence": 15,
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "title": "Recupere o gatilho do sistema",
+      "content": "<p>La tira se ilumina durante unos segundos cuando detecta __________.</p><p>Tradução: A faixa se ilumina durante alguns segundos quando detecta movimento.</p>",
+      "contentPlain": "La tira se ilumina durante unos segundos cuando detecta __________. Tradução: A faixa se ilumina durante alguns segundos quando detecta movimento.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, a ativacao do sistema faz parte da explicação concreta do mecanismo.",
+      "feedbackError": "Na aula, a ativacao do sistema faz parte da explicação concreta do mecanismo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "movimiento",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

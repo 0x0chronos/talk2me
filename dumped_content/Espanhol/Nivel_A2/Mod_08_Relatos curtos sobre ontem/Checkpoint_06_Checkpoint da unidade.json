@@ -1,0 +1,459 @@
+{
+  "attemptId": "2cb53b6b-a137-4014-ad8d-0e2cd6b47313",
+  "exercises": [
+    {
+      "exerciseId": "06699987-da08-49f6-a5e2-c106d63637e6",
+      "sequence": 1,
+      "lessonId": "9a815671-187d-4294-9f43-6116a332c6cd",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio com a frase correspondente usando apenas pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente usando apenas pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você reconheceu os quatro enunciados só pela escuta em espanhol.",
+      "feedbackError": "Escute de novo e compare o marcador temporal de abertura de cada áudio com as frases disponíveis.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "ce64d2fc-cd61-43a7-88de-701ef9648760",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9db3747b32a24b07bdc02dbc3190aac6_b02-ayer-fui-al-mercado.mp3?Expires=1794099541&Signature=Y1036hHCcD9RU6E-s9S9bF~ydlYU2MeWN0DjekSXuBrZXmhHlW4xnaNYe~hSxyFtXAbzo7pN~PLw86A9SG6wqUF5kFc4Pl2LnxyDyr6GGYrU0wlllUznPix2hXEyeOJM9FQLp5RGkBziwHVQqwZPQb3CQNZZwsa5cOqw-yUB9J3hWlg3z2i6Op38r1e4~WLw4AHTkkW1hXMbzas5Uk1TBv5NCVpV4YY-DL4AM6tGTjm7BDph~vEHsC-fgnEHkDaLBLRlvOzAM1hFhKNZTdu42WNcvWd6wmho9KpmxHwQRGcgF0bIOfr~-3OASu3gaTU78oZq2UtmWHwZgcMoDTZY-w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ayer fui al mercado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a1180657-fdf3-40bd-989d-299b1b4cea0a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/29939d51a5db4ec8a228f6be6bbcb520_b04-anoche-sali-temprano.mp3?Expires=1794099541&Signature=HwFO1hhYHXkFbR9WRE0w3a4A6YgB~k7H2Ze8oamDZz2o9Mj~PtN3fOx781Keci-pVsRPlGJ2Mt6lo~mYYC-HBZk0pXfo5fm6l~XPaax7-jePRlbtIMHCtBw2ibpPjtgeCINqje0H4rLU5EY4Se4qVbifpE8hzmTxwhKE5ns6Alf9ReiNokPcQWP21OojEiMs8XolW2WA99kfojBKgTDFZm2klR7EEgAbtGU5eAFPcD1rt-0I-Dw~feXWRW1P2I2xWgct5oiAoDXI2tJujgTWXZlku2iEXtdmQYJyzceypDJSPWD6EnPimpa-1VDT3dJcQHB1lmJnmcg8DGniFRerxg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Anoche salí temprano.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b2dd96cc-44d4-4a57-aa48-f3eee875d09f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5af132df4374446198e9fd9c39350a4f_b05-la-semana-pasada-comi-con-mis-primos.mp3?Expires=1794099541&Signature=jkAh6TCNRQ0mYi9XALQOteiNFGJ-R5WUPC9E-xRc6~6TLm60wGqxG6PtodpHjmSVTi77j~GUvMqn6rsOzTjYA1vGuOpLwVfCR0R2FUN6a0tzf0mFTFtVmcrUk3ItKvwtLJwos1Tz4e5NtUTajfbQ5IQpHIrfdYQpmf14DG6zHWJqrR8GdXyWdaNynLThif2fP5eexPTR3bkjfooU89xfS3MLwxN~rCG0ED1eD1FBya73adgmEsc8xz08v2ZML5PB2oPi0jabiMieHYuCrGgcKF0WUE3TK5Vk~sqJf~ZrJHXXjgH3DwyJQF86dcRw18ZLsYR0PwgaxuIntLV2Dqrc-Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La semana pasada comí con mis primos.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "0e1638cf-d44d-4b0f-ac0d-e63ba0633303",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a44b2c68786a4cea8f2b27a71327d418_b06-el-ano-pasado-compre-una-bicicleta.mp3?Expires=1794099541&Signature=zahNoEDIgXPTEko9Co~ViX7nADM5-hsRCG8RTScYKuFo3N5OSvUtFFidrinHduvvGynDvkrC2-I7rC8cwMWEFYXkT8vkyjfcQqdQ3EOtvgzZUHv2KnIOhnuGP~LgMkAHRPHz~7KN5y22-xBPhBMs~O0hzroPfNlzvaGN5y12ZaPaTMWV6rgPOUFCG7o2pikcSuRuyYYeZaI8rF9vyxh-F9Bezy5FCLUniv9y~3vqC6MsMfEjcclNkppGptRNZUiHQK5GL4qtXoydm3-EHKeqxiWyBba5frNRCAHIGvWkWVjP-JbThXPRiCPe9uy7Y89BpejezvWAMM8UanncwOm42w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El año pasado compré una bicicleta.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "8bdf1154-a599-4e85-9d51-9b00adc198e6",
+      "sequence": 2,
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio ao texto certo usando só as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio ao texto certo usando só as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você conectou os áudios diretamente às formas em espanhol.",
+      "feedbackError": "Repita a escuta comparando o áudio isolado de `hiciste` com a pergunta completa.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "51e64569-9478-41c4-8ea5-1a62b41d5a5d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3e14e9fc0b5c435ca49840077e1e955c_b01-ayer.mp3?Expires=1794099541&Signature=BqduhMUBm4Q139CJ9x2IaGq7kc85tBjnChNVJYXkveeCmuijAz5XhcJ1j5kNAHaLM2h6Pu3A23xjEYXCIrSpCVMNAuiL5wPyAn~5Yl~Rb5wC79s3iOgim7QV5n9rsDwwFcXb2iUEqgLl2gdthc58k5okdjUq6R1r~K-YAEUz-D4AAgA0f-oz4Q0Yz2uzyPvf-KANhS3aZcES~p8sUeqAfCXl1~qX84SyL0SSzF3XeQ36cOXXL89~sFmS9w9DBchykOov4zYPoBRGLBZr7EezifDahctKUm7tzKBHGJlg6EkFsMeUHTIW9eZXTV17AV1AWUYGJdizLXCBfKMIgWUbwA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "ayer",
+          "sequenceItem": 1
+        },
+        {
+          "id": "18272dc9-2b5f-49a2-9528-16ac3f6a2538",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4ee25ba727444189be79b2d5a2889031_b05-hiciste.mp3?Expires=1794099541&Signature=FGyYp~jysJ94~9jr49WAeXb~7DL8qUJclGYw1Dd3mbU6XJyBmD0-2ci-lnp7hskTYujy5CCwtezXNqzYHuVNlqUAKC7lSkXkAQtPUqDzMDxTef8ihaa7hS-xTCS3NkgdpL4czPJlvH9n-lKe1FUeRyyPZ00PX894cU9iI4W9t1x4xuXngZ9ePR0xGkVWNqPRsai2QsNAnOPHoLBBDUHXhb04NNzFlqvUYSNfuc1Ryqrs5839yURwpgS3AHty~Gex30itZ-Zan5~oro9E~TjFr9T28KNDIBn0miMUICVa3aTsnTC60-UoFA0-EPaAbn5bFwKY~xwvs5J7M0g0VB779Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hiciste",
+          "sequenceItem": 2
+        },
+        {
+          "id": "475af233-7cef-478e-9f0e-395e9231b93f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099541&Signature=ncnriQadBleA78ryW-iLL9~qhb3F8YakQcoe5uZRVlFWg-n2Rnl3QrKtokPq21UifLnIwaWRTHTr3JOKZLgzpXTsmI0l2xh7QD-ZGTxPolFkvm4YBWKuysRNFikxIHAqPpRifwQUaOBYrsmENDn-hzDQRdarOw4o~jXF63AzKvKNYOLlqM3upYtpF1d3JA5QLrdG5MXnvZ8tQbgtX57ofOH1nmpK4wGbgOo2g-xe6NsQskC35xzveE3lCV8-dOQyti3RAp7QTPz72FLhE6RkMqPe0QaQWEU3IvaKAj8Q2hdrMjC0hRlSz2KDKeBLTim~TLKKGpXorbQpjakYjIEBLQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué hiciste ayer?",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "af1a5669-09c0-4e38-b5aa-d2bfa1196e7a",
+      "sequence": 3,
+      "lessonId": "5fdb129e-868f-4277-a613-33633939f676",
+      "title": "Recupere a frase pelo som",
+      "content": "<p>Ouça os dois áudios e ligue cada um à frase correspondente usando apenas as pistas em espanhol.</p>",
+      "contentPlain": "Ouça os dois áudios e ligue cada um à frase correspondente usando apenas as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou as duas respostas apenas pelo som.",
+      "feedbackError": "Escute outra vez e diferencie qual áudio fala de deslocamento e qual fala de presença em um lugar.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "3e7e128b-b182-4539-8968-5d3c762917b1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/81fc32d4e755488abfbce91f038ae81d_b02-ayer-fui-al-mercado.mp3?Expires=1794099541&Signature=rnWhcB2cR3FjzoTcpCB2pviMuQolgRfuhOGJMEosptrZsRHuafEAfVF-hPy3TZU4sH2nsUEI5f8UJbi07zBpi4FH594-0g6m6ls2Vz9U~U25AbRCp-Iau52SEglElLsLqACen5OBWYZ1H-EH1TdmriqTsFSICdMo~HmsyNATLag~WOyrxpRlTLNG7gSEvftMORzepttIAjxCLSBfWD01rxKt~cURiMPWJrxdkObl9g4y7q-YuGPELgqgjQa5jOrIOp~hS5eYI3BF3yv0wAWVuXHegjfI7iIENQ5nR7aqhtO1iXS71mG6B1eVFBuIiGxVf-fs1eN0GuIsT-~XAmwG2Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ayer fui al mercado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ede8c9ba-b374-4145-8a96-e0052c9b2e95",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/35ba48bbd6be4a578b1445fbfdd90bd3_b04-ayer-estuve-en-la-oficina.mp3?Expires=1794099541&Signature=iQ4JrWDtwm~sRj4j99VLR~HtWAOdDcDsl64MEhc5pB0Djp8d8L-2581smXB~0zPv~HSlIOq4KB1EEE7Qm8BkNzBG~nRyMhLqhpMy3hopt4~2x6E5BTTqzJSGRcWwniXs-hU8WdqL4PKVqfq4Ho36~2TL8UbJ7p8pesAX0UHqjezs1iZ~m8BZW9nUJ3YtAzf580O0tmjVgPWl~R4nRiQwzg-bjr4WIUuJAyrYlaW1xKARCCrTGTZPPSldyPVaYWzVYD~l3oPJvxMvbIIHByI38rd4SYNMeG4aYVLDpdAdzz1blndsh4TbAATEo0PugZ~AsJUsOG2CN6RI9C0lTIsvZg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ayer estuve en la oficina.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "d53e93fa-8daa-4747-a3c8-2c8ceaed8172",
+      "sequence": 4,
+      "lessonId": "9a815671-187d-4294-9f43-6116a332c6cd",
+      "title": "Recupere a forma correta",
+      "content": "<p>El año ______ compré una bicicleta.</p>",
+      "contentPlain": "El año ______ compré una bicicleta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. `pasado` fecha o marcador `el año pasado`.",
+      "feedbackError": "Volte ao bloco do ano anterior e recupere a palavra final do marcador.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pasado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ef850b7f-009a-4d50-a7fd-37b753f9aa33",
+      "sequence": 5,
+      "lessonId": "5fdb129e-868f-4277-a613-33633939f676",
+      "title": "Identifique pelo áudio",
+      "content": "<p>Ouça a resposta completa e marque só o verbo que você escuta.</p>",
+      "contentPlain": "Ouça a resposta completa e marque só o verbo que você escuta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/35ba48bbd6be4a578b1445fbfdd90bd3_b04-ayer-estuve-en-la-oficina.mp3?Expires=1794099541&Signature=iQ4JrWDtwm~sRj4j99VLR~HtWAOdDcDsl64MEhc5pB0Djp8d8L-2581smXB~0zPv~HSlIOq4KB1EEE7Qm8BkNzBG~nRyMhLqhpMy3hopt4~2x6E5BTTqzJSGRcWwniXs-hU8WdqL4PKVqfq4Ho36~2TL8UbJ7p8pesAX0UHqjezs1iZ~m8BZW9nUJ3YtAzf580O0tmjVgPWl~R4nRiQwzg-bjr4WIUuJAyrYlaW1xKARCCrTGTZPPSldyPVaYWzVYD~l3oPJvxMvbIIHByI38rd4SYNMeG4aYVLDpdAdzz1blndsh4TbAATEo0PugZ~AsJUsOG2CN6RI9C0lTIsvZg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Isso. No áudio da oficina, a forma central é `estuve`.",
+      "feedbackError": "Escute novamente e foque na palavra que vem antes de `en la oficina`.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "227b775f-d80f-4fdf-a15a-5f18eae79a8d",
+          "text": "mercado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "42cfab86-9a7f-41a9-a59f-d094289d5dd4",
+          "text": "ayer",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9ab6beb5-c2a1-4e35-b1ca-5462ed424097",
+          "text": "estuve",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e532360e-f402-4624-ba33-3913c41fb283",
+          "text": "fui",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "0626a765-fde8-4f1b-8d2f-454a07b0ba7f",
+      "sequence": 6,
+      "lessonId": "c7e93c20-af47-45fc-b76a-b9b04854fa46",
+      "title": "Ouça e selecione",
+      "content": "<p>Qual marcador temporal você ouve no início da frase?</p>",
+      "contentPlain": "Qual marcador temporal você ouve no início da frase?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2310f2691a1a44de8c49dd40250cd4e6_b02-ayer-compre-cafe.mp3?Expires=1794099541&Signature=f6yeTrzzy8ZEYLUYEbJExRXKyiMY84-z59MVTpG0Q3tr19n5~UNoFZc2N4~uKV~yQAOHTNNdvNy1In5IJ8YPWHNPtlOCUDnivpO9q-Xii5uLj3enf4BbUbqM7GHW~31l~UQV2gAOWEurdnfhHmt9BEW1ZG-3ZpjnZx8FxvbNvpzx284D1etu0IYVDtLjc~tfj4~XXHKFPFFkyJSFv~42QbLOFvKByIKLs4yJ8qhBnYTa7Z9k1KyAUKvzkc2RfdXwis4q~wUbtm8fzy3EVJEFRxO4JSEq4FsF8G4fq-uZ97E6pHWM5lHIBlatH2KvUIbH~-ntyBxG7~MWr2tnQKlrOQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. O áudio abre com `ayer`.",
+      "feedbackError": "Escute de novo o início da frase e foque só no marcador temporal.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "226333fe-3521-4eb4-9809-e23aec6fd0dd",
+          "text": "anoche",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "287ce1ef-ecd5-47eb-bb74-0e2e76b814a4",
+          "text": "ayer",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b160b950-5906-495d-9894-9977c71a290d",
+          "text": "mañana",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c76e8b25-33de-403d-9fbb-6dbc5ea1157e",
+          "text": "hoy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "d124e08d-7050-449d-b2db-b190ec26c777",
+      "sequence": 7,
+      "lessonId": "c7e93c20-af47-45fc-b76a-b9b04854fa46",
+      "title": "Complete a forma final",
+      "content": "<p>Anoche salí _____.</p>",
+      "contentPlain": "Anoche salí _____.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `tarde` fecha a segunda linha com um detalhe simples e concreto.",
+      "feedbackError": "Revise a frase da noite e complete com a palavra final que fecha a ideia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tarde",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5edb3bb6-faec-45be-a159-68b0376ee455",
+      "sequence": 8,
+      "lessonId": "5fdb129e-868f-4277-a613-33633939f676",
+      "title": "Reconstrua a forma correta",
+      "content": "<p>Ayer ___ al mercado.</p>",
+      "contentPlain": "Ayer ___ al mercado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `fui` completa o modelo usado para dizer para onde a pessoa foi.",
+      "feedbackError": "Volte à nota de `fui a + lugar` e recupere a forma curta usada com `al mercado`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fui",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "099cf44d-86dc-443c-b332-18315938109e",
+      "sequence": 9,
+      "lessonId": "eb98987f-2fb8-470e-9214-1c00990c1d8e",
+      "title": "Ouça e selecione",
+      "content": "<p>Marque somente as palavras em espanhol que você escuta na pergunta.</p>",
+      "contentPlain": "Marque somente as palavras em espanhol que você escuta na pergunta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2c165e919dcb482e9354f58477d3570c_review-anchor-que-hiciste-ayer.mp3?Expires=1794099541&Signature=RwgvG3yyra64qItg7eLfxNiBOpGFJmqBd2i1jqWULVsz7IsUgD8IkC8bN6VT2Bzb6sYhUlSDHX1xzbECvNyZXqLDtzv2zzRupevV~6nZnAuZuJMtupyITGeyJs1v~Xa1IMnQgxDyndNxpXYnhKBs-ioO2KHvzyKc9T9f5jDvRocwB95aB1SOxaTGmOS72kppdG~gv2CPXzBO96Mf364RcMUj6L0BTWiFlr9YWL8-S658Hy2j3DQVXNp5mDICnEXbstFqeIibWqw91QHNrO4M3mTlRvbkK~I9c4-ZEM0p9NtCFb5KNfftD1JIYg-99cuwAGAMCx~hmcSl~6QvHsgKlA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Você identificou as três palavras da pergunta-âncora pelo áudio.",
+      "feedbackError": "Escute de novo e marque apenas os itens que aparecem na pergunta `¿Qué hiciste ayer?`.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2a21a1c1-c29f-4b00-a331-510f660fbf0c",
+          "text": "anoche",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "65a670fa-93f5-4cf3-b3af-08d8ddb60d8c",
+          "text": "hiciste",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "665f21eb-920c-45bb-85d6-c31ac692927e",
+          "text": "compré",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "893c0da5-19d1-4175-80a6-4893f276b0c3",
+          "text": "ayer",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b0abbcd8-0520-4f2e-beac-ed48d5c45d79",
+          "text": "qué",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "940e4a11-eeb9-4850-94bf-bcbb22e7ada5",
+      "sequence": 10,
+      "lessonId": "eb98987f-2fb8-470e-9214-1c00990c1d8e",
+      "title": "Escolha a resposta natural",
+      "content": "<p>Você quer dizer <strong>Ontem à noite saí tarde</strong>. Qual resposta funciona melhor?</p>",
+      "contentPlain": "Você quer dizer Ontem à noite saí tarde . Qual resposta funciona melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa é a resposta curta que preserva o foco na noite de ontem.",
+      "feedbackError": "Procure a opção que responde com `anoche` em vez de repetir a pergunta ou mudar a ação.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2aa95e17-9256-46ad-b380-3550ce4491dd",
+          "text": "Ayer compré café.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "76872e00-c832-4631-acce-492b4c867620",
+          "text": "Anoche salí tarde.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "860c937e-5fe1-4137-8238-dddccc8f1a0a",
+          "text": "¿Qué hiciste ayer?",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "2cc80a2b-3f63-4c74-a509-bd0c10d921fd",
+      "sequence": 11,
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "title": "Recupere a forma que falta",
+      "content": "<p>¿Qué _______ ayer?</p>",
+      "contentPlain": "¿Qué _______ ayer?",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. `hiciste` é a forma que, junto com `ayer`, leva a pergunta para o passado.",
+      "feedbackError": "Volte ao bloco de observação e recupere a forma verbal destacada na pergunta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hiciste",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a7de40f9-485c-4497-a707-0b4fd1a0926a",
+      "sequence": 12,
+      "lessonId": "eb98987f-2fb8-470e-9214-1c00990c1d8e",
+      "title": "Recupere o marcador correto",
+      "content": "<p>______ salí tarde. (Ontem à noite saí tarde.)</p>",
+      "contentPlain": "______ salí tarde. (Ontem à noite saí tarde.)",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `Anoche` é o marcador que coloca a resposta na noite de ontem.",
+      "feedbackError": "Revise a segunda linha-modelo e complete a frase com o marcador temporal usado nela.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Anoche",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "878a924c-669b-4206-8706-cddd17927713",
+      "sequence": 13,
+      "lessonId": "c7e93c20-af47-45fc-b76a-b9b04854fa46",
+      "title": "Reconstrua pelo áudio",
+      "content": "<p>Associe cada áudio ao trecho correto em espanhol sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio ao trecho correto em espanhol sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você recuperou as linhas e o minirrelato completo só pelo áudio.",
+      "feedbackError": "Escute novamente e compare quais áudios trazem uma linha só e qual traz as duas linhas juntas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "174f335e-719c-4a97-b877-9ba50489112e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/92b2d3239bdd4b3a985b457dd87aeed4_b02-ayer-compre-cafe.mp3?Expires=1794099541&Signature=a8G7i~IrqGozU8wJfbRlxSrKnwsW-hFxPj5kIM7SfT2EPygnzHM6-xk8p2e66gWn9Y6n0RlAunkCeYxhSVirzUSQT4QoBZ1pMK0uw2uek7zNn3n4m2Po6qDcIgV2D132QFNnZLwi-kj4YIPu2CmIhHWz53u793Xm6UgipOh91Qtf9cH6gl5-xWjk07BZW8LtQkDA6OjCvhe0xPlyTDgWf8upTQMlV4XAvaGhNFu2iH7OOKgZLI5P61XWXRRiRjuWvay7jadLQ-hmmgoPp83EQBpdXFTn-hVOX-nc7Y6hgNUyQoD6zzGMWz30jd6KJLVsYHPNUEXqNvXn8cdEcKGDMw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ayer compré café.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5ee6e3f6-8536-4f7a-852a-8dd7c4c4e327",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ba926ec7a6844d6d80c23c5874242212_b04-anoche-sali-tarde.mp3?Expires=1794099541&Signature=V40akS4cTAZBz0LPORWSCqMm0pJb3-noKfnUibwnTvWWS2s2wBW58LIXhgW04VEthA851NJ5xMcjQEY5iTq-bMRWp650~pFpo412qUbV9JMXVXahhyb51mqORyjJ87ynQuyHGs0Z5zPNshe08cMhfk6WcjX9srbmokqG0joNa4nGfZ8tJT-nI02Kquw~xvmyEeAy1XJ94Rjgsj~exWLywn3jeufYzx1~pffsWS5XC4j4cPDqH4yCubZTK8wIh--GpPvNfmggDsPwvchcWiUJ-ocUA6gsDWBuX52tC3kxRyDCIRAf2XItBwZ0QccGeartOnYZWPvbq4mOxRXOo6j2fg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Anoche salí tarde.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "eebb2f3b-71fa-40c1-bed2-bb7b9984c93c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b335d44bc2d842fc89bb19bc6600861a_b05-mini-relato.mp3?Expires=1794099541&Signature=db6egiceV8FbaxplvcP2el~FEgPayDeFtb6BbpLVAbimInrOu5xaSwGHXoUjfj-j8O5G-0TQHa2pr2VnjmaQY-17RBvMCEsqC~OJlKppxpDTfB-mqgc9eyb6pQ-~ohI2sSmPlI3141OFRhZpvioXMAh5oGXunwE07PmNJL2ydkrKmWJh5RXQyccra-YBM1C~M-UO35lzlV0sjLXu6EmLl7Ox06gXeqwk05apxxhcSwPIvRztV6mmF0GEQYh4k6Ia~Cc-Xdns7dpLZ-FQuVVCy0Id8eu0zxsoKlpGC~tqlOfpkvbcZBFjBVp0PByutxTZlKxqRKi6tT48fyI0BuUk8Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ayer compré café. Anoche salí tarde.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "045f0b8c-e127-4eff-8d27-db896ad229a2",
+      "sequence": 14,
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "title": "Ouça o final da pergunta",
+      "content": "<p>Na pergunta completa, qual é a última palavra que você ouve?</p>",
+      "contentPlain": "Na pergunta completa, qual é a última palavra que você ouve?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099541&Signature=ncnriQadBleA78ryW-iLL9~qhb3F8YakQcoe5uZRVlFWg-n2Rnl3QrKtokPq21UifLnIwaWRTHTr3JOKZLgzpXTsmI0l2xh7QD-ZGTxPolFkvm4YBWKuysRNFikxIHAqPpRifwQUaOBYrsmENDn-hzDQRdarOw4o~jXF63AzKvKNYOLlqM3upYtpF1d3JA5QLrdG5MXnvZ8tQbgtX57ofOH1nmpK4wGbgOo2g-xe6NsQskC35xzveE3lCV8-dOQyti3RAp7QTPz72FLhE6RkMqPe0QaQWEU3IvaKAj8Q2hdrMjC0hRlSz2KDKeBLTim~TLKKGpXorbQpjakYjIEBLQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. A pergunta termina com `ayer`, que ancora o tema no dia anterior.",
+      "feedbackError": "Escute outra vez e foque na palavra final da pergunta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "37b6cc51-cad5-490b-aedd-54a97d360a6d",
+          "text": "ayer",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6639eeba-803a-4f3d-89b0-a09413663192",
+          "text": "hoy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a58cbf90-3ff6-48d5-b462-f3cee13122ae",
+          "text": "ahora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "8891fb80-23fd-4635-a84f-f4a0030fb2be",
+      "sequence": 15,
+      "lessonId": "9a815671-187d-4294-9f43-6116a332c6cd",
+      "title": "Monte a palavra que falta",
+      "content": "<p>La semana ______ comí con mis primos.</p>",
+      "contentPlain": "La semana ______ comí con mis primos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `pasada` completa o marcador `la semana pasada`.",
+      "feedbackError": "Recupere a palavra final do marcador que aparece no bloco sobre a semana anterior.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pasada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "attemptId": "a706b276-a783-4774-a63d-533eedf430e7",
+  "exercises": [
+    {
+      "exerciseId": "33effb8e-2cc1-4319-943f-332ada6e816e",
+      "sequence": 1,
+      "lessonId": "0236aac8-7d6c-44ec-bc75-25794c83a8d9",
+      "title": "Ouça e recupere a frase",
+      "content": "<p>Marque somente as palavras do áudio sobre gosto pessoal por vegetais.</p>",
+      "contentPlain": "Marque somente as palavras do áudio sobre gosto pessoal por vegetais.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f480c270c1ec410d9c681d382b995755_b08-me-gustan-mucho-las-verduras.mp3?Expires=1794099494&Signature=xopP-a4zmbHc8roObCSmwqqvlse3VnIxNzJJw3MGoCZGAEJb-M4EMiUIaXGHK1ggG9uGXMAQX8BfNwaRTcwFhZEc6IrLo8KGEMIR5F3fDljpQqjgd5GRH22beAg5ufJ0DxjIYADWGXnTFT3P-oP~TClbuF3-wjuhg6XwWwiERdIQjPgSnAkkyH60IUW6MdIwB0WcNsfVBlEcKGGyWZCrhakZTMdLGUNkr2OQmeaP6OvLCioFhe-G8GaY4w6S~i4hFhAYgKO6ljIK-Vt4wuB5O4FU7Ws9HPBm5SV9LRQS7ZCzTE~HUZffyyruyWbmyzMFo3PQSdfAkIcvQRZgJsUhyg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A frase com verduras combina gosto pessoal e vocabulário de comida em um enunciado curto.",
+      "feedbackError": "A frase com verduras combina gosto pessoal e vocabulário de comida em um enunciado curto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1329832b-f4f8-4516-8479-a2a7f17cec83",
+          "text": "mucho",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1ee8f1c0-5d08-4bb1-b348-0031749c4914",
+          "text": "gustan",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "38667cc8-d73a-4a5f-80ff-5c9d6926fa83",
+          "text": "las",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4bf2fb92-c3ee-48d3-b38d-1b2d6b33af49",
+          "text": "pescado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "63fed0d1-4741-44f9-9131-2b2743a762b8",
+          "text": "carne",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "961efa94-4745-45db-9dfe-1dfbb9cb03e9",
+          "text": "verduras",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e1b981a8-a43f-483a-ac51-e39c3b8fa121",
+          "text": "me",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b5449eb2-c241-43d7-b270-796a48a2f629",
+      "sequence": 2,
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "title": "Complete a quantidade",
+      "content": "<p>Complete a frase: Compro _____ fruta.</p><p>Tradução: Compro muita fruta.</p>",
+      "contentPlain": "Complete a frase: Compro _____ fruta. Tradução: Compro muita fruta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, mucha aparece antes do alimento para indicar quantidade.",
+      "feedbackError": "Nesta aula, mucha aparece antes do alimento para indicar quantidade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mucha",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8ee60aa1-2df6-407c-8582-9f4642032e28",
+      "sequence": 3,
+      "lessonId": "8589b8d5-949a-45b7-8254-c783db7c29ec",
+      "title": "Ouça e identifique as palavras",
+      "content": "<p>Escute o modelo curto e marque só as palavras que você realmente ouve.</p>",
+      "contentPlain": "Escute o modelo curto e marque só as palavras que você realmente ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9f974116c2bc4085a852d9fdcca0afb5_b02-dos-tomates.mp3?Expires=1794099494&Signature=mlvU6pjHLiOXAKF29g06lJIbSp0MLGjprQFDXV6ek2VWh8LL9qw3y9pD1u9OhMHu3RxyukZFLcn-AWCk56T56dzX3u8Lagqr5zI-rLDz4mdKF0PsVRfb2yyYZwIzXVQJkGt6pXIPiw2PyIXabKf2RxFvqeE-bmKGYOj7I-HS0hpPLojhEqpBodALmVCvqqnkfwf5n~hKjYb5oazFPff58BmF4Rmw2lrDLn5VOJ6RsrKdbhBMSDvjWZWJapUAQ5HWFnAtKVzSykLOoUeue1f8JG7LbecLyqcHuk-JvJikd2lNrMqRWeKO6E4TgQkaqw-vfb8oS3TBVJXOmwiMqgyfhw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta lição, o foco é distinguir alimentos por unidades e alimentos que pedem embalagem ou medida.",
+      "feedbackError": "Nesta lição, o foco é distinguir alimentos por unidades e alimentos que pedem embalagem ou medida.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "09f48b83-2da7-4a38-a10c-0a76b8b61557",
+          "text": "tomate",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "612913dc-68da-4948-a2a3-17d06af6f352",
+          "text": "dos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "73d7b905-17ab-4524-83ff-c8c7f491bd17",
+          "text": "tomates",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bc5fc7c5-b94b-4888-878c-66d09c7a4a8f",
+          "text": "arroz",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "dbf250e5-6d35-49ab-a016-72c5003a34cd",
+          "text": "paquete",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "d99cf56d-8563-4895-8de1-e737b87a8c09",
+      "sequence": 4,
+      "lessonId": "25cd5625-2c21-4416-b2ef-bc7eea78c85a",
+      "title": "Complete com o ingrediente",
+      "content": "<p>Complete a frase: La tortilla española se hace con ______.</p><p>Tradução: A tortilla espanhola é feita com ovos.</p>",
+      "contentPlain": "Complete a frase: La tortilla española se hace con ______. Tradução: A tortilla espanhola é feita com ovos.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa final da aula liga tortilla española a huevos.",
+      "feedbackError": "O mapa final da aula liga tortilla española a huevos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "huevos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5d29cbfe-8347-4107-af67-e113cd28a413",
+      "sequence": 5,
+      "lessonId": "fe3b6330-443a-400c-bf16-78c81295d89c",
+      "title": "Ouça e recupere a frase",
+      "content": "<p>Marque somente as palavras do áudio que fala de uma compra em grande quantidade.</p>",
+      "contentPlain": "Marque somente as palavras do áudio que fala de uma compra em grande quantidade.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b1bf4b750e9d456fbf66079259af6eb0_compramos-mucha-fruta-para-la-semana.mp3?Expires=1794099494&Signature=TRO4kduttK1KtCuy6wWpxncp9xrk40v-j293jSl6yHK7eB6vRx~RyobDXc4EXCuVFCJcDKwxEntZkcBI3EV3RFzGfNyo8gzvITj6J-bFRSVsHeknTr-iq5c0c8CrYdeA7LthYIEDubwob~9QfDNhaJ3BzBkUr7btn1mRq4HqxKVx7vTKmJh7M3uGKEb7AQzGqr92ymhW6BnyHFSbxYMq6Q78VD6k3ERPIJKJ5DWot8njeZ5QTQebrcZH3nIXZ610CvA6NzAjxDhg21mCrt49TFXAQhwVeD9bq4VniaCfdWMXbTBL4XIiSwNXg-Gc09~6j5W15Q1XVhk0S3qZxLSLyw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, mucho e mucha marcam grande quantidade e acompanham o substantivo.",
+      "feedbackError": "Nesta aula, mucho e mucha marcam grande quantidade e acompanham o substantivo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1a0860d1-dd50-402a-b5a5-8b8398d6ae47",
+          "text": "bastante",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7b5ca5a9-26db-498f-869f-2b7a737541b7",
+          "text": "semana",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "90771d17-f0cd-41d5-905d-23c5235d0d7e",
+          "text": "fruta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "94636fbe-4056-4576-acaf-451b1758a90a",
+          "text": "mucha",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "da64be91-faa8-4a28-979d-79ce02e76b06",
+          "text": "compramos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e917d540-a2c3-452e-b70c-47c6e8d5d861",
+          "text": "plato",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b4af4169-e476-4d4e-b569-3bd2ae5aff81",
+      "sequence": 6,
+      "lessonId": "0236aac8-7d6c-44ec-bc75-25794c83a8d9",
+      "title": "Complete a frase",
+      "content": "<p>Complete a frase: Compro ___ para el desayuno.</p><p>Tradução: Compro pão para o café da manhã.</p>",
+      "contentPlain": "Complete a frase: Compro ___ para el desayuno. Tradução: Compro pão para o café da manhã.",
+      "fileUrl": null,
+      "feedbackSuccess": "Pan aparece na aula em uma frase curta ligada ao desayuno.",
+      "feedbackError": "Pan aparece na aula em uma frase curta ligada ao desayuno.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pan",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "60669a8b-7337-4666-8c5b-d5e3b1fa029e",
+      "sequence": 7,
+      "lessonId": "6a4a8f84-29bb-486c-a4fe-5b3c9cc8c8a1",
+      "title": "Ligue a loja ao alimento",
+      "content": "<p>Relacione cada nome de loja ao alimento principal que aparece ligado a ela no conteúdo da aula.</p>",
+      "contentPlain": "Relacione cada nome de loja ao alimento principal que aparece ligado a ela no conteúdo da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "No fechamento da aula, cada nome de loja se conecta ao alimento mais esperado naquele lugar.",
+      "feedbackError": "No fechamento da aula, cada nome de loja se conecta ao alimento mais esperado naquele lugar.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5a9b84f8-4fba-43e9-8ec6-73d00d50555b",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ea7fa7b7-1b20-404b-a6c8-6431ba492ba8",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "8955022b-bc38-4f8a-8f5b-5468af1f1173",
+          "leftContent": "panadería",
+          "rightContent": "pan",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a4bb0a55-c3a6-481b-8704-0d3a4b6fe587",
+          "leftContent": "carnicería",
+          "rightContent": "carne",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a6160da2-6777-4cc3-bb93-a5aabf5d5535",
+          "leftContent": "pescadería",
+          "rightContent": "pescado",
+          "sequenceItem": 3
+        },
+        {
+          "id": "5f6e55b4-63b7-4dc2-a791-460adac51c6b",
+          "leftContent": "frutería",
+          "rightContent": "fruta",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "ab894c6e-afcd-4cd1-8417-3f1193790f4a",
+      "sequence": 8,
+      "lessonId": "fe3b6330-443a-400c-bf16-78c81295d89c",
+      "title": "Complete com a forma correta",
+      "content": "<p>Complete a frase: Hay _____ arroz para el almuerzo.</p><p>Tradução: Tem muito arroz para o almoço.</p>",
+      "contentPlain": "Complete a frase: Hay _____ arroz para el almuerzo. Tradução: Tem muito arroz para o almoço.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, mucho aparece com substantivos como arroz para indicar grande quantidade.",
+      "feedbackError": "Nesta aula, mucho aparece com substantivos como arroz para indicar grande quantidade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mucho",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "96215259-1453-4369-bb35-25657560e150",
+      "sequence": 9,
+      "lessonId": "25cd5625-2c21-4416-b2ef-bc7eea78c85a",
+      "title": "Ligue a situação ao item",
+      "content": "<p>Use o recap da aula para relacionar cada situação cotidiana ao item em espanhol correspondente.</p>",
+      "contentPlain": "Use o recap da aula para relacionar cada situação cotidiana ao item em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula conecta bebida, ingredientes e pratos a situações reais.",
+      "feedbackError": "O fechamento da aula conecta bebida, ingredientes e pratos a situações reais.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "624272a3-9b6a-413c-939e-e78f74fad70f",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "abcc17ea-f098-4ccc-ad66-09eeadf3729e",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "6b6e0603-1e07-4070-b2ae-9335cfd240c9",
+          "leftContent": "um pedido simples numa cafeteria",
+          "rightContent": "un café con leche",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ddb87af0-f26d-46a1-bc45-c902e5a22e1f",
+          "leftContent": "algo para adoçar o café",
+          "rightContent": "el azúcar",
+          "sequenceItem": 2
+        },
+        {
+          "id": "49158df3-db0b-49d4-8286-d1eaa4413f50",
+          "leftContent": "um prato feito com arroz",
+          "rightContent": "la paella",
+          "sequenceItem": 3
+        },
+        {
+          "id": "b1929e99-c350-48f5-9e19-a97db550ab3e",
+          "leftContent": "um prato feito com ovos",
+          "rightContent": "la tortilla española",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "405e5a64-f5f4-4890-adb2-511d8278ef4b",
+      "sequence": 10,
+      "lessonId": "d2205fc4-01ea-4912-86d7-308b42a92b72",
+      "title": "Complete o lugar da compra",
+      "content": "<p>En la _________ compro pan para hoy.</p><p>Tradução: Na padaria, compro pão para hoje.</p>",
+      "contentPlain": "En la _________ compro pan para hoy. Tradução: Na padaria, compro pão para hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "A frase da padaria usa o lugar primeiro e depois o produto comprado.",
+      "feedbackError": "A frase da padaria usa o lugar primeiro e depois o produto comprado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "panadería",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "915c383d-daba-4965-92bd-8a1d0ad8d222",
+      "sequence": 11,
+      "lessonId": "8589b8d5-949a-45b7-8254-c783db7c29ec",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Para hablar de cantidad, se usa un paquete de _____.</p><p>Tradução: Para falar de quantidade, usa-se um pacote de arroz.</p>",
+      "contentPlain": "Complete a frase em espanhol: Para hablar de cantidad, se usa un paquete de _____. Tradução: Para falar de quantidade, usa-se um pacote de arroz.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, o foco é distinguir alimentos por unidades e alimentos que pedem embalagem ou medida.",
+      "feedbackError": "Nesta lição, o foco é distinguir alimentos por unidades e alimentos que pedem embalagem ou medida.",
+      "answerType": "buildWord",
+      "expectedAnswer": "arroz",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0c231adf-4eea-454f-929b-68407bb1c012",
+      "sequence": 12,
+      "lessonId": "8589b8d5-949a-45b7-8254-c783db7c29ec",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Falta un _______ de arroz.</p><p>Tradução: Falta um pacote de arroz.</p>",
+      "contentPlain": "Complete a frase em espanhol: Falta un _______ de arroz. Tradução: Falta um pacote de arroz.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, o foco é distinguir alimentos por unidades e alimentos que pedem embalagem ou medida.",
+      "feedbackError": "Nesta lição, o foco é distinguir alimentos por unidades e alimentos que pedem embalagem ou medida.",
+      "answerType": "buildWord",
+      "expectedAnswer": "paquete",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "00a8d1b3-c406-4c6c-9a85-0623a4752945",
+      "sequence": 13,
+      "lessonId": "d2205fc4-01ea-4912-86d7-308b42a92b72",
+      "title": "Complete o pedido",
+      "content": "<p>Quiero un ____ con leche y poco azúcar.</p><p>Tradução: Quero um café com leite e pouco açúcar.</p>",
+      "contentPlain": "Quiero un ____ con leche y poco azúcar. Tradução: Quero um café com leite e pouco açúcar.",
+      "fileUrl": null,
+      "feedbackSuccess": "O pedido curto do café mostra como dizer a bebida e a preferência na mesma linha.",
+      "feedbackError": "O pedido curto do café mostra como dizer a bebida e a preferência na mesma linha.",
+      "answerType": "buildWord",
+      "expectedAnswer": "café",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a5f81581-6ab2-4833-80f9-a47bc1418132",
+      "sequence": 14,
+      "lessonId": "6a4a8f84-29bb-486c-a4fe-5b3c9cc8c8a1",
+      "title": "Recupere a palavra",
+      "content": "<p>Complete em espanhol: __________</p><p>Tradução: açougue.</p>",
+      "contentPlain": "Complete em espanhol: __________ Tradução: açougue.",
+      "fileUrl": null,
+      "feedbackSuccess": "carnicería aparece na aula como nome da loja ligada à compra de carne.",
+      "feedbackError": "carnicería aparece na aula como nome da loja ligada à compra de carne.",
+      "answerType": "buildWord",
+      "expectedAnswer": "carnicería",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7691e0b4-1e21-493c-a866-f4476a07223f",
+      "sequence": 15,
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "title": "Complete o alimento",
+      "content": "<p>Complete a frase: Compro ___ en la panadería.</p><p>Tradução: Compro pão na padaria.</p>",
+      "contentPlain": "Complete a frase: Compro ___ en la panadería. Tradução: Compro pão na padaria.",
+      "fileUrl": null,
+      "feedbackSuccess": "O molde da aula combina alimento e loja na resposta curta.",
+      "feedbackError": "O molde da aula combina alimento e loja na resposta curta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pan",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

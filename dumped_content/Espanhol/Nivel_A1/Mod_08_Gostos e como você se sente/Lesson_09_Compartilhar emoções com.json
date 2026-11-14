@@ -1,0 +1,600 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+    "attemptId": "8a6b9e15-bcb9-4685-b107-3a13db87567e",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "8ec58b2a-07df-4f50-82fa-f67ff6f2f32f",
+      "9754cae1-7689-495f-af0f-73aae70269f7",
+      "85bd8d7b-0a33-4187-aea8-51897aec2a17",
+      "f7a5f79d-148a-4423-a13c-f777672f29c0",
+      "78dae3bf-b62a-4f1c-8091-17817abf1064"
+    ],
+    "evaluationExerciseIds": [
+      "db820832-c6ff-477b-9db5-931bab870e52",
+      "a2d587ce-e2e9-467b-9065-7160b0917414",
+      "1d368303-a049-45da-b495-96f58cc5c82d",
+      "539ff048-e9d6-4805-9b6b-8f312664ad3f",
+      "f77747ca-e9d6-42a6-b8d9-01abed05e974"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:22.6747528Z"
+  },
+  "contents": [
+    {
+      "id": "841b6926-886a-483d-9a30-5ca6b06fcfaf",
+      "title": "Observe a imagem, escute o áudio e leia a pergunta.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "be50b332-1417-4c1e-8dce-b437fdbde661",
+          "textContent": "<p>Observe a cena e escute a pergunta.</p><p><strong>¿Cómo están ustedes hoy?</strong></p><p>Em português: <strong>Como vocês estão hoje?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/16bbed796cfe4686a478d86ccb53a54f_b01-group-conversation.png?Expires=1794099443&Signature=RXkIzZa-PSX4lqCisvAA7D~x76a1dE6~HCx6mqWDshWLCOO6BY7iUmq9R0eZMWedIaBzIR7lnryEKjqZ-eTlduV2rY1bUrbHjIJYZCtb3IP1DfPQiOLtiD1RR8xNOrasg94ut1yBDIyfRiQo0FJ9vEdvneXJcNjDyDE2p~5VnVgHBhAENktiMI53fCXcFtR70CX~VoPK2NUn6rEjVUs10a9ju~jkO69sBjLJgcsXQsvhgJpcqNphL7J4ZIuifjPg8U0uULjCjv28Xf2YclQJfXZxdO2iWmRRALVqlNf1ybVpxqOsdP7wyiG~thHbLb-P2L6uCwvLtatS-cIPBELKoQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/244d20c00a5944f5a05aed4e623a1a6c_b01-como-estan-ustedes-hoy.mp3?Expires=1794099443&Signature=zIHMVagA5kVT4B5n5XRpbHB61paeEXYaNRnBNQkqSMgBbhGVOQ5a8YvNYTQQrxCUml4plKKfXc9qcj6uqVwYkFewpGgiNg9kba-iKqWRK9KR2-l-xOndb-eRkPNS2ki6chm3~6b37kHeD6jfkssHx9xcOIVqBLeh-RfTve8zinwxI6L5IMw6xSBvoiFsqP6FxP92ztheYSeWB5dElEq~2svE8RVSb4wFea5EsNByONgGkh-boFMB7hFkRSZEi8UznxwXS12gTJ46nSMCoTRDXicEwwLv9U6ofaJjnYP-6-S-ctOOwcLYkYLKhjTq7Ng4FWC1WHsHuENA7Wd3d~UIFg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8791620d-8170-4b36-b994-ba227b9a60c8",
+      "title": "Leia a nota curta e ligue a pergunta ao grupo certo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "92d937fe-8145-4c5b-b9fb-63190bd1fe67",
+          "textContent": "<p><strong>ustedes</strong> aponta para as pessoas com quem você está falando.</p><p>Aqui, a pergunta vai para um grupo, não para uma pessoa só.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5eb19656-538e-4e15-98fc-3071e08a4b79",
+      "title": "Escute e observe a resposta em espanhol.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "1ed852a6-56fb-4787-aac1-f60bafb3e302",
+          "textContent": "<p>Agora veja uma resposta do grupo.</p><p><strong>Estamos bien.</strong></p><p>Em português: <strong>Nós estamos bem.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f570f0d97fed4bf2baa5a37ea94ba607_b03-estamos-bien.mp3?Expires=1794099443&Signature=1s1-q7Bwu~QOxdTJscHkc7wKigBBochc~fSvy~EL3W7-tzlwDHWQfHCIC5rljgBg2s5mA5Xt2pB2VeNcfNhSCL9d0uOJniEGI-MvLxEGbSiCasV4mObUCcAWg9btF0oYqcdLZbgP~2lGOruJtMOaVLe28Kh1ZrdcXsJtqBzkFMH-OcLVfef4ziy-NYlQ1aF-R4ZYUOsdXFwOVrIAPXRSzCHfYsWVyYRA2T4B5tQzSKeLiuVH4PUjNOoUQPi9H9j6BG2L3b48To0XxoQ2y5JpcsiFNve00mdjtPkf5cXBpHQAWuBQNjP-MbTx8eKRcFqMBJpgvOqpdLuttBVz7JbdeQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c5d01b4d-0b57-4493-9610-cc1f4667f26d",
+      "title": "Leia a nota e observe quem está incluído na resposta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "ec995d99-e910-4e29-906d-5adafec831da",
+          "textContent": "<p>Uma pessoa pode responder pelo grupo com <strong>estamos</strong>.</p><p>Nessa resposta, quem fala se inclui junto com as outras pessoas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5cb8e67b-bab0-43c0-8948-7ce8246050e2",
+      "title": "Escute e observe a frase em espanhol.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "4fbdc49b-fb0d-4a33-8cab-9e97068955a7",
+          "textContent": "<p>Depois, uma pessoa pode falar de si.</p><p><strong>Yo estoy cansado.</strong></p><p>Em português: <strong>Eu estou cansado.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/72918b664a3a4963add7e2a5050ab37c_A1_M008_L09_audio_65a07323_b05-yo-estoy-cansado.mp3?Expires=1794099443&Signature=WwsBK-m20OUFClxBFHPUUiGJzteog8RX1L4HVWiYx2cssRhqmqEiZrsAmXMfu9lR3EWb3xCe2bU9fHGj02F5BfT92ZFwgGpvFPYPZgf2sq~EGJ8fgGAHzUpsXS8gS7trH24psLBIDz61XBEX3GCEuUIPKu9RWYNNrIo9Pa0xei8YR-QcBEP6CRASlQ27AiOGTHiFhc9KOmlhofjYqsBt6dHO44Ys153UfTfDO51pF60WvZU6~sT6mpaFMnoA3t2VXwZdHnPRz-JPvD3D3OJPiS-ua0~90rQeJpyohQhw-NHRQffKdjil8h-eoDklloFAL8wgub5bMTkyzlsboGtaDg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "caadeec7-c01c-49d3-a3d2-b2718d124e3c",
+      "title": "Leia a explicação curta e observe a mudança de foco.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "48642ea2-3851-4637-b1f3-7b52c60e0fa8",
+          "textContent": "<p>No mesmo diálogo, pode aparecer uma resposta sobre o grupo e depois um comentário individual.</p><p>Assim, você entende quando alguém fala por todos e quando fala só de si.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b6680c40-851d-4ade-bf2f-a95af6fe0793",
+      "title": "Conversa curta",
+      "description": "<p>Agora veja as três falas na ordem em que aparecem em uma conversa breve.</p>",
+      "contentType": 7,
+      "sequenceItem": 7,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Cómo están ustedes hoy?</div>\n  <div style=\"opacity: 0.45;\">Como vocês estão hoje?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/08e6a2b7cbc74a1fad4ca3ed920cb2dd_A1_M008_L09_audio_244d20c0_b01-como-estan-ustedes-hoy.mp3?Expires=1794099443&Signature=HU87Fqz-p4qy7A8TNHlO27NlSo8zZVOiyQ~3aYAmxgkpxJsCHGpWiUZZIUrHBX5BD4PtLPfVoHmMXdlVCDk0N3uZy4VtqmBRY8VitkSlg4vYajmzQI1WlDIEMeAu8SS07B1Cm-kc7HDwwzUKs8FZHu6pGdMbSfxa6S2XaEsIVA2B0PZmPzqAjAoYfpBAT6gKW-nTYSoGgXhnG5s~8q15bg-X0c1wVn8PTq9aitX6gitmPpFPjJdkzfuIC1Fab2wfGIyP4u-dUInSH-m0vTtJNpgfG-wQQBR~X1efclZSWfIz2Z7wOtN6rbUyK86JDcSiYDvT~ldqYI-jegAx6vbKIA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Estamos bien.</div>\n  <div style=\"opacity: 0.45;\">Nós estamos bem.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f570f0d97fed4bf2baa5a37ea94ba607_b03-estamos-bien.mp3?Expires=1794099443&Signature=1s1-q7Bwu~QOxdTJscHkc7wKigBBochc~fSvy~EL3W7-tzlwDHWQfHCIC5rljgBg2s5mA5Xt2pB2VeNcfNhSCL9d0uOJniEGI-MvLxEGbSiCasV4mObUCcAWg9btF0oYqcdLZbgP~2lGOruJtMOaVLe28Kh1ZrdcXsJtqBzkFMH-OcLVfef4ziy-NYlQ1aF-R4ZYUOsdXFwOVrIAPXRSzCHfYsWVyYRA2T4B5tQzSKeLiuVH4PUjNOoUQPi9H9j6BG2L3b48To0XxoQ2y5JpcsiFNve00mdjtPkf5cXBpHQAWuBQNjP-MbTx8eKRcFqMBJpgvOqpdLuttBVz7JbdeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Yo estoy cansado.</div>\n  <div style=\"opacity: 0.45;\">Eu estou cansado.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6f745e1e57e649528fad26f7bcb597cd_A1_M008_L09_audio_65a07323_b05-yo-estoy-cansado.mp3?Expires=1794099443&Signature=1jdhbXt7RCJBXz5JAQBi8DgziAyQBtopBt8pDBH8GzWTHiQwkTCAbgyZ30iMWyAE5vBR88ETg4NVS6i9hwU4coY3SkPTuXVGBFJAk-RDAGctE3UstrOVcd1KvvHYXcOQpRfr4AhuNexsaEMcmV9bP2SYiqZqs8YltrUZ4804tYgwfF96xdVcVSKF3H4uiAEHHKEuHXjg3s3wpQNtvvXjGVTmfrE0ZyD7GTUid9Iqz88zq76INY~pqDDlAXcJB1B1FhbAKYoKqaq3EoFq-Vhg275IeHm5Ro5D584k~H6j9lKexWsV4r4sb3eaPbI2SwhxrV8Dq5CgAvDwmWixKMZ62Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "896aed51-9697-4c09-a97c-f6066b1179bb",
+      "title": "Leia o resumo final e conecte a conversa a situações reais.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "2a751150-bfef-4bbf-8a60-e4d533b8e28e",
+          "textContent": "<p>No dia a dia, essa troca aparece quando você encontra amigos, colegas ou familiares.</p><p>Você pode ouvir uma pergunta ao grupo, uma resposta coletiva e depois o comentário de uma pessoa, como em <strong>¿Cómo están ustedes hoy?</strong>, <strong>Estamos bien.</strong> e <strong>Yo estoy cansado.</strong></p><p>Isso ajuda a entender rápido quem está falando pelo grupo e quem está falando de si.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "8ec58b2a-07df-4f50-82fa-f67ff6f2f32f",
+      "title": "Identifique as palavras da pergunta",
+      "content": "<p>Escute o áudio e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute o áudio e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/244d20c00a5944f5a05aed4e623a1a6c_b01-como-estan-ustedes-hoy.mp3?Expires=1794099443&Signature=zIHMVagA5kVT4B5n5XRpbHB61paeEXYaNRnBNQkqSMgBbhGVOQ5a8YvNYTQQrxCUml4plKKfXc9qcj6uqVwYkFewpGgiNg9kba-iKqWRK9KR2-l-xOndb-eRkPNS2ki6chm3~6b37kHeD6jfkssHx9xcOIVqBLeh-RfTve8zinwxI6L5IMw6xSBvoiFsqP6FxP92ztheYSeWB5dElEq~2svE8RVSb4wFea5EsNByONgGkh-boFMB7hFkRSZEi8UznxwXS12gTJ46nSMCoTRDXicEwwLv9U6ofaJjnYP-6-S-ctOOwcLYkYLKhjTq7Ng4FWC1WHsHuENA7Wd3d~UIFg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta da aula traz cómo, están, ustedes e hoy para falar com o grupo.",
+      "feedbackError": "A pergunta da aula traz cómo, están, ustedes e hoy para falar com o grupo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1d6a1b37-06ec-477d-a537-04bdd5c96142",
+          "textContent": "están",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8ec58b2a-07df-4f50-82fa-f67ff6f2f32f"
+        },
+        {
+          "id": "2fa1aad5-869e-4d6e-ae61-46b211856565",
+          "textContent": "estamos",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "8ec58b2a-07df-4f50-82fa-f67ff6f2f32f"
+        },
+        {
+          "id": "6139a5d9-5f1b-4c64-bd2c-d99e43fa85fa",
+          "textContent": "ustedes",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8ec58b2a-07df-4f50-82fa-f67ff6f2f32f"
+        },
+        {
+          "id": "8e7ba478-9ffe-4c72-a9c8-dfc384b57da1",
+          "textContent": "cómo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8ec58b2a-07df-4f50-82fa-f67ff6f2f32f"
+        },
+        {
+          "id": "b7eeae9d-cd91-4479-a4ec-9e689aed5f53",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8ec58b2a-07df-4f50-82fa-f67ff6f2f32f"
+        },
+        {
+          "id": "c6272f60-9233-415a-ba6f-5c82b41df1b9",
+          "textContent": "cansado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "8ec58b2a-07df-4f50-82fa-f67ff6f2f32f"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "9754cae1-7689-495f-af0f-73aae70269f7",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a resposta coletiva da aula.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a resposta coletiva da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f570f0d97fed4bf2baa5a37ea94ba607_b03-estamos-bien.mp3?Expires=1794099443&Signature=1s1-q7Bwu~QOxdTJscHkc7wKigBBochc~fSvy~EL3W7-tzlwDHWQfHCIC5rljgBg2s5mA5Xt2pB2VeNcfNhSCL9d0uOJniEGI-MvLxEGbSiCasV4mObUCcAWg9btF0oYqcdLZbgP~2lGOruJtMOaVLe28Kh1ZrdcXsJtqBzkFMH-OcLVfef4ziy-NYlQ1aF-R4ZYUOsdXFwOVrIAPXRSzCHfYsWVyYRA2T4B5tQzSKeLiuVH4PUjNOoUQPi9H9j6BG2L3b48To0XxoQ2y5JpcsiFNve00mdjtPkf5cXBpHQAWuBQNjP-MbTx8eKRcFqMBJpgvOqpdLuttBVz7JbdeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A resposta coletiva da aula usa estamos bien para falar pelo grupo.",
+      "feedbackError": "A resposta coletiva da aula usa estamos bien para falar pelo grupo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Estamos bien.",
+      "typeSpecificData": "{\"expectedText\":\"Estamos bien.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/f570f0d97fed4bf2baa5a37ea94ba607_b03-estamos-bien.mp3?Expires=1794099443\\u0026Signature=1s1-q7Bwu~QOxdTJscHkc7wKigBBochc~fSvy~EL3W7-tzlwDHWQfHCIC5rljgBg2s5mA5Xt2pB2VeNcfNhSCL9d0uOJniEGI-MvLxEGbSiCasV4mObUCcAWg9btF0oYqcdLZbgP~2lGOruJtMOaVLe28Kh1ZrdcXsJtqBzkFMH-OcLVfef4ziy-NYlQ1aF-R4ZYUOsdXFwOVrIAPXRSzCHfYsWVyYRA2T4B5tQzSKeLiuVH4PUjNOoUQPi9H9j6BG2L3b48To0XxoQ2y5JpcsiFNve00mdjtPkf5cXBpHQAWuBQNjP-MbTx8eKRcFqMBJpgvOqpdLuttBVz7JbdeQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "85bd8d7b-0a33-4187-aea8-51897aec2a17",
+      "title": "Escute e combine as falas",
+      "content": "<p>Associe cada gravação à fala correspondente e recupere a sequência central da aula.</p>",
+      "contentPlain": "Associe cada gravação à fala correspondente e recupere a sequência central da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você liga o som às três falas centrais do diálogo da aula.",
+      "feedbackError": "Aqui você liga o som às três falas centrais do diálogo da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "f30959ee-7ff9-40e4-92aa-fe2ec81b5279",
+          "exerciseId": "85bd8d7b-0a33-4187-aea8-51897aec2a17",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/be987492305b40b587c2c2849af58f1e_A1_M008_L09_audio_244d20c0_b01-como-estan-ustedes-hoy.mp3?Expires=1794099443&Signature=QYtEBRKKqliO4i0WIkyfUEE6RRly4YcvHJvctf3hTZBrUK6hzGKw-8-160kNU7tcwt5gfQxuVKoYW1ANWLv1qTNMuE7H9VQ~Ozieg5wjFG2wRcAt5v1i-9r8TnJz4vkYqGFkquYkRopMXuGyZhSLphQsD-pSoNhnLm1KyEWSJJBlaP6t1nWxQZ~Xy9uBWLXk0GEW7OPXuLC0hpZDr9aoYjajMGl4xvqMX235oH94SQFlP96ArN9pYqE1-PkVy6E8uyWFbDFN7uWdYfFDN1zVx4DpGVbXQTMRCkL5fqX7aQwQOkuEG3P74x17vmAeyEmAw0N~TItXERIWA2OU6T0jug__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Cómo están ustedes hoy?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1c22ffaf-ea1b-4996-b3af-21a21f4abb0a",
+          "exerciseId": "85bd8d7b-0a33-4187-aea8-51897aec2a17",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f570f0d97fed4bf2baa5a37ea94ba607_b03-estamos-bien.mp3?Expires=1794099443&Signature=1s1-q7Bwu~QOxdTJscHkc7wKigBBochc~fSvy~EL3W7-tzlwDHWQfHCIC5rljgBg2s5mA5Xt2pB2VeNcfNhSCL9d0uOJniEGI-MvLxEGbSiCasV4mObUCcAWg9btF0oYqcdLZbgP~2lGOruJtMOaVLe28Kh1ZrdcXsJtqBzkFMH-OcLVfef4ziy-NYlQ1aF-R4ZYUOsdXFwOVrIAPXRSzCHfYsWVyYRA2T4B5tQzSKeLiuVH4PUjNOoUQPi9H9j6BG2L3b48To0XxoQ2y5JpcsiFNve00mdjtPkf5cXBpHQAWuBQNjP-MbTx8eKRcFqMBJpgvOqpdLuttBVz7JbdeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estamos bien.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5b9fd719-35ca-403c-b80e-ef7eb01110f4",
+          "exerciseId": "85bd8d7b-0a33-4187-aea8-51897aec2a17",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/afbc611aa187480789ff6b20a2ee11d3_A1_M008_L09_audio_65a07323_b05-yo-estoy-cansado.mp3?Expires=1794099443&Signature=dBwpR93Tipa9MdbWJGFL6rPcjL~RdyDcGzXN8AyyF7F0BBMJ5v7G1Ms3~y7G-HQCSGxRZ5SiCcyhsnVHC9Axp946tg3ig-5ye35xuFsKAP2LzNmIAi2KM0mqdxfq~NQGN9kItYRdNOitrrELZb0hnIoJEZ8hOG1eh9CKt3sBH04Dv3I6XFoVntRZeiLvqlpTo5wlwaZiXGu7N4sIGaIntjArdsuETr4R5qsFwKLmVoFzWda1k8gbmWch6YnwUUNYjU3fREB-katghkQ2nTMCKlq7Lxv28aVhRQH10bmGzzwKo-nGPD1TcIO9oPgL1q45GlvStq06jvSNnkeYuRbHIA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo estoy cansado.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "f7a5f79d-148a-4423-a13c-f777672f29c0",
+      "title": "Encontre a palavra do grupo",
+      "content": "<p>Na pergunta <strong>¿Cómo están ustedes hoy?</strong>, qual palavra mostra que a fala vai para várias pessoas?</p>",
+      "contentPlain": "Na pergunta ¿Cómo están ustedes hoy? , qual palavra mostra que a fala vai para várias pessoas?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, ustedes marca que a pergunta vai para mais de uma pessoa.",
+      "feedbackError": "Nesta aula, ustedes marca que a pergunta vai para mais de uma pessoa.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "02a7d641-a6a8-4568-b90d-9b8728471908",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f7a5f79d-148a-4423-a13c-f777672f29c0"
+        },
+        {
+          "id": "a106a41b-a371-4e65-9ac2-83bea6fc8cb1",
+          "textContent": "cómo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f7a5f79d-148a-4423-a13c-f777672f29c0"
+        },
+        {
+          "id": "e6c9721a-fe62-457e-bd12-1e83f9990382",
+          "textContent": "ustedes",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f7a5f79d-148a-4423-a13c-f777672f29c0"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "78dae3bf-b62a-4f1c-8091-17817abf1064",
+      "title": "Ligue cada fala ao sentido",
+      "content": "<p>Relacione as três falas do diálogo curto ao apoio em português.</p>",
+      "contentPlain": "Relacione as três falas do diálogo curto ao apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo curto junta pergunta ao grupo, resposta coletiva e comentário individual.",
+      "feedbackError": "O diálogo curto junta pergunta ao grupo, resposta coletiva e comentário individual.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5e514379-efbe-4638-9b5f-a7319ec7d5c6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "78dae3bf-b62a-4f1c-8091-17817abf1064"
+        },
+        {
+          "id": "e0cbe83d-ab52-4119-b675-8ad888f1c08b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "78dae3bf-b62a-4f1c-8091-17817abf1064"
+        }
+      ],
+      "associations": [
+        {
+          "id": "7323ceb1-8ef1-47d8-b112-004cab8d7f11",
+          "exerciseId": "78dae3bf-b62a-4f1c-8091-17817abf1064",
+          "leftContent": "¿Cómo están ustedes hoy?",
+          "rightContent": "Como vocês estão hoje?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0a84c70a-962a-4706-880b-738a5ab9fd92",
+          "exerciseId": "78dae3bf-b62a-4f1c-8091-17817abf1064",
+          "leftContent": "Estamos bien.",
+          "rightContent": "Nós estamos bem.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "137c6fd9-84ba-461b-a371-a172ea720792",
+          "exerciseId": "78dae3bf-b62a-4f1c-8091-17817abf1064",
+          "leftContent": "Yo estoy cansado.",
+          "rightContent": "Eu estou cansado.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "db820832-c6ff-477b-9db5-931bab870e52",
+      "title": "Recupere o comentário pelo áudio",
+      "content": "<p>Escute com atenção e marque só as palavras que você ouvir.</p>",
+      "contentPlain": "Escute com atenção e marque só as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8e44f2213d4f43df9bd528eeb96644cd_A1_M008_L09_audio_65a07323_b05-yo-estoy-cansado.mp3?Expires=1794099443&Signature=ebvqLkgRTswMnL0hPg4zcEWYzBFlv8qir-7p3iy46LE2mLZD0dsArc66vWtsUMUb3kFTJCoDvMGuUh-NAQDnKxuYtB1jYE8byvaihmM747B9EtdO2yOD7sBRpwwFtvkZxoR~c7ImVjJov9SUr32T6kPhpJiATVy01CwVtkh2z~D~WyE4-d-Bc~up29K8aEWgtE~o3WiSXD45oPtbotK1y-7I2SVgnWe6PakdZR6IjjrDqBgHHINxFt4gqyjDnAV6qkXfWf~CmrShmlxme0HnbuEGiTt8ZcEzw67~YLxGN3BM7X7Auo-HV0Tn8CbM2KZFqF5~heV9ZTatyaD3gk~7tg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, yo estoy cansado é a fala em que uma pessoa comenta só de si.",
+      "feedbackError": "No diálogo, yo estoy cansado é a fala em que uma pessoa comenta só de si.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "14010e74-46bb-4815-bee9-e5afca54c58b",
+          "textContent": "cansado",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "db820832-c6ff-477b-9db5-931bab870e52"
+        },
+        {
+          "id": "1c50b367-4a64-4fc5-92e9-0e32adaceb50",
+          "textContent": "estamos",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "db820832-c6ff-477b-9db5-931bab870e52"
+        },
+        {
+          "id": "76af9c9c-45d0-4a06-888f-7bbc96ce7aed",
+          "textContent": "ustedes",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "db820832-c6ff-477b-9db5-931bab870e52"
+        },
+        {
+          "id": "9c0f6ed5-b8cc-40e4-b015-7fd8e46f2d1b",
+          "textContent": "estoy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "db820832-c6ff-477b-9db5-931bab870e52"
+        },
+        {
+          "id": "a14b85f5-4e3f-44f0-aef2-d640ed26975b",
+          "textContent": "bien",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "db820832-c6ff-477b-9db5-931bab870e52"
+        },
+        {
+          "id": "b7e3eff5-8a7a-4f3b-81ce-9c17976e9ccd",
+          "textContent": "yo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "db820832-c6ff-477b-9db5-931bab870e52"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a2d587ce-e2e9-467b-9065-7160b0917414",
+      "title": "Recupere o papel de cada fala",
+      "content": "<p>Relacione cada frase ao que ela faz na conversa curta desta aula.</p>",
+      "contentPlain": "Relacione cada frase ao que ela faz na conversa curta desta aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula contrasta pergunta ao grupo, resposta coletiva e comentário individual.",
+      "feedbackError": "A aula contrasta pergunta ao grupo, resposta coletiva e comentário individual.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5322f357-456f-428a-9a57-449c26e2295e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a2d587ce-e2e9-467b-9065-7160b0917414"
+        },
+        {
+          "id": "a02e2899-db05-4b73-959f-5eb559f1a8c0",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a2d587ce-e2e9-467b-9065-7160b0917414"
+        }
+      ],
+      "associations": [
+        {
+          "id": "d88fdb6a-da8c-4456-b4c8-a6dd77b49ce9",
+          "exerciseId": "a2d587ce-e2e9-467b-9065-7160b0917414",
+          "leftContent": "¿Cómo están ustedes hoy?",
+          "rightContent": "perguntar ao grupo como ele está",
+          "sequenceItem": 1
+        },
+        {
+          "id": "fd9ba957-3a72-4699-bda9-c6bf78cb4aca",
+          "exerciseId": "a2d587ce-e2e9-467b-9065-7160b0917414",
+          "leftContent": "Estamos bien.",
+          "rightContent": "responder em nome do grupo",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a250dff7-9c6d-4fa6-8829-e8019705d9a0",
+          "exerciseId": "a2d587ce-e2e9-467b-9065-7160b0917414",
+          "leftContent": "Yo estoy cansado.",
+          "rightContent": "comentar como uma pessoa está",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "1d368303-a049-45da-b495-96f58cc5c82d",
+      "title": "Complete o comentário pessoal",
+      "content": "<p>Yo _____ cansado.</p><p>Tradução: Eu estou cansado.</p>",
+      "contentPlain": "Yo _____ cansado. Tradução: Eu estou cansado.",
+      "fileUrl": null,
+      "feedbackSuccess": "No comentário individual da aula, yo combina com estoy.",
+      "feedbackError": "No comentário individual da aula, yo combina com estoy.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estoy",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "539ff048-e9d6-4805-9b6b-8f312664ad3f",
+      "title": "Complete a resposta do grupo",
+      "content": "<p>Estamos ____.</p><p>Tradução: Nós estamos bem.</p>",
+      "contentPlain": "Estamos ____. Tradução: Nós estamos bem.",
+      "fileUrl": null,
+      "feedbackSuccess": "A resposta coletiva da aula é Estamos bien.",
+      "feedbackError": "A resposta coletiva da aula é Estamos bien.",
+      "answerType": "buildWord",
+      "expectedAnswer": "bien",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f77747ca-e9d6-42a6-b8d9-01abed05e974",
+      "title": "Complete a pergunta ao grupo",
+      "content": "<p>¿Cómo están _______ hoy?</p><p>Tradução: Como vocês estão hoje?</p>",
+      "contentPlain": "¿Cómo están _______ hoy? Tradução: Como vocês estão hoje?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, ustedes deixa claro que a pergunta vai para várias pessoas.",
+      "feedbackError": "Nesta aula, ustedes deixa claro que a pergunta vai para várias pessoas.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ustedes",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "dc5a58f9-b604-4e4d-971b-dd342e8d57af",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Compartilhar emoções com outras pessoas"
+}

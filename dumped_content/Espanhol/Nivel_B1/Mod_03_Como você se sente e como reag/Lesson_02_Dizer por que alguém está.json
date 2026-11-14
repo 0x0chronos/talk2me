@@ -1,0 +1,604 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+    "attemptId": "693a18f3-2e2f-4a5c-a7d8-55a326fb668f",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "599b7b8c-ee06-4992-934e-7145400e4605",
+      "6b390e8c-c92f-4c70-ac0d-dc87d8075d09",
+      "405369f8-0ad7-4a85-9fbe-76a7b0e1bfbd",
+      "32a51e6b-525a-43b4-98ae-cf6d2afd8330",
+      "d4f15e05-54d7-4b1f-93f1-57b104babd68"
+    ],
+    "evaluationExerciseIds": [
+      "efdffced-bb01-4055-a431-48b89f7ecfaa",
+      "7ef59d60-1bd3-438b-9807-9c94439e9cdb",
+      "01594f16-0ecf-4d6a-8e1b-88668e6d5291",
+      "20ff4574-56c4-46d9-a6a0-72d241d18f60",
+      "c725f6e2-3487-4040-9b77-2de2146affed"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:40.5485353Z"
+  },
+  "contents": [
+    {
+      "id": "8db27780-0b30-4644-994c-0fdad7998af5",
+      "title": "Escute e leia as duas frases. Repare que primeiro vem o estado, e depois entra o motivo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "6d895c3c-3685-49d3-8466-fbb7caffc1b0",
+          "textContent": "<p>Primeiro, aparece o estado. Depois, vem o motivo.</p><p><strong>Estoy de buen humor porque dormí bien.</strong></p><p>Em português: <strong>Estou de bom humor porque dormi bem.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/84fad7d5e9294a87ae576fa803f0c359_l02b01-estoy-de-buen-humor-porque-dormi-bien.mp3?Expires=1794099581&Signature=ZZSuK20p3LiDHlOTIaZuSLHFImrFBya-KNtcumUMm6gpPfgZnPchTA43nExsLUVEylz-oCZKzVt61EdkxbdpvYkZTmdyXDmvranT-4~9RKtROqZqFLd-11HoTSRei-SFHBQkU1vclz8MxKTPMfg13LFnpcPSd93zhYFjY-mwBBmYAWsDgUBChH8yhnIdLSadFAdX5O4-AGiaecvayF-eHMMzQlzPRii121FoMyOFFbtg34sMIN9JEYjV6ulc4aNZZo8eUSKh3lXfp63nsMfXFOmXU1naiu3tTWznoEFXTzFudrR2X4HFq5OJ-Y0HQ-7N6dLui0m5pjucpUBFOfhj4g__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "7d811e42-5bc9-474e-94e7-e5637e934a3d",
+          "textContent": "<p>A mesma lógica também aparece com outra forma muito usada.</p><p><strong>Sigo más tranquila, ya que hablé con mi hermana hace un rato.</strong></p><p>Em português: <strong>Continuo mais tranquila, já que falei com a minha irmã faz pouco.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ad4bae1ded3940e88da298fa17e5c6dc_l02b01-sigo-mas-tranquila-ya-que-hable-con-mi-hermana.mp3?Expires=1794099581&Signature=HUHrAZp4GOdJoLYCrqgycoRmRhqYYV2C93-17xGfqHLhE5hT0jotsS49G4N6ax8PvRfzAjB5UX9X2h5sBkPJf6l0bIN5~K0muxPP9hZYYGbo4OKDrrSEv1g50GfVjBD0OlsuWwJLDE0ksQBkV-paWLFTehLiDOU~Fiu6aGhreeowe3WHT2QrBT0TVoQsep0xHgc9scfdB46vV2QoL5L74fm-8oCk4ZOPjvirpIzyF3s8cQb-o74SQ4O0kNXujX-3jc82snZ5eO4~6xFJLDwubr3xkFurzWfoJo0Vl~bsv08dVj7HAHGM9zDmpgXBYap2pezVj8tPqRyhzA3M~s8HKQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c55b9b1c-7c28-45a5-8529-61f72a0c4f45",
+      "title": "Leia a nota curta e observe como os dois conectores entram depois do estado ou da situação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "0132604e-c624-4858-b855-447a5df1b02a",
+          "textContent": "<p><strong>porque</strong> e <strong>ya que</strong> funcionam bem quando você primeiro diz como a pessoa está e depois acrescenta a razão.</p><p><strong>porque</strong> costuma soar mais direto e responde facilmente a <strong>¿Por qué?</strong></p><p><strong>ya que</strong> também introduz a causa, mas pode soar um pouco mais explicativo ou mais ligado ao contexto que as duas pessoas já conhecem.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "485d207e-9883-4261-80c1-e4846f1918b4",
+      "title": "Escute e leia a frase. Note que agora a causa vem primeiro, e o estado aparece depois.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "4fc02b06-d602-4913-93a7-f762d0f2f456",
+          "textContent": "<p>Agora a frase começa pelo motivo.</p><p><strong>Como casi no dormí, hoy estoy de mal humor.</strong></p><p>Em português: <strong>Como quase não dormi, hoje estou de mau humor.</strong></p><p>A causa abre a frase, e depois aparece o estado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a44afb02218746f894a9f22e597ac014_l02b03-como-casi-no-dormi-hoy-estoy-de-mal-humor.mp3?Expires=1794099581&Signature=tpx-7vBW7ka8C5~xj~Aafy8EaPWDaUPYDJJA4AF85-wt4uOq64QPQaXvuKh~Qcj1bcklVMnMaRU2H9L3XBj690cpH6HsywqL~xs1Y1gVsmjJnUtqerpevhW2Po8VN1m7OS7KA5xuz4bKjtGEEtrX2TpMfDPRShZ94JNSxgf1T8mbGwk-iTRdPfi1y7TlPfcgLbhrc~NQmKW9YKhjR9O2~3mdwWaZsq5H4Gjaw6-k6i3pcm~olMleVSLAAOVhVqO~2rXbjxEfUtCl1oIhsTHyDHOxBIDiLe4d55i69UpjQKGOE0SOSctOKPKO-TyTMrunvH0rkXELXJkMPkvV~1wDhA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7acb28f7-8730-42c5-a362-ac7f612bf0bf",
+      "title": "Compare as duas frases e observe o tamanho da informação que vem depois do conector.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "ff46cf3e-979a-4101-acf5-0e91abcaa90a",
+          "textContent": "<p>Compare estes dois formatos.</p><p><strong>Estoy de mal humor porque tengo una reunión difícil.</strong></p><p><strong>Estoy de mal humor por la reunión.</strong></p><p>Com <strong>porque</strong>, a causa vem como uma oração inteira. Com <strong>por</strong>, a razão cabe em poucas palavras.</p><p>Esse formato curto com <strong>por</strong> é útil em check-ins e mensagens rápidas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "122e949a-3f57-412d-8521-7645cb56f514",
+      "title": "Explicando o motivo no meio da conversa",
+      "description": "<p>As falas continuam curtas de propósito. O foco é ouvir a pergunta causal e notar como a resposta pode mudar de forma sem sair do cotidiano imediato.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Por qué estás de mal humor?</div>\n  <div style=\"opacity: 0.45;\">Por que você está de mau humor?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/48f93df4ad804a8ca8c17d54f43cf747_l02b05-linea-01.mp3?Expires=1794099581&Signature=uGPAkKDdX6ansuwcwXv1b7mYKM7TLkAI0DhR2Z6ZPRjaYKNCiEH-dwN4QuMs0fvCHVDJHCsKbStsaK6q7SXt0j4E3isbUyWrRvlllhy43b~q-uKKxxWV8mYvL7qLieLS3ec~hg6shnSkqRrcZWnVB50-UnF8LRV7CbnOF7o7PGnfKSdqtEJa0ekhNPweNmLLxrjmqNnDqKaViv~ZjvP6u6--yUhUNvsI45AUoBYDPJmgI~KgbrW2gaDsRMWzRP61G0leezFbbKldfdelToNrjt0eaBwnpK2DQgIMIwnOfbDczAi1wT7katcznfOM~19uwTIjT2GYIIIFU-EzA8IB~g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Porque discutí con mi hermano.</div>\n  <div style=\"opacity: 0.45;\">Porque discuti com meu irmão.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b357c8628c4949feb6be05f78822e0f8_l02b05-linea-02.mp3?Expires=1794099581&Signature=aMJ161N7mImgKEQLyv72GhFpgA4yKInmvX3g~gS1AmMOgE-U622wN8PIpdDJ-igL0~E-d6869Ig~Oqpgjh0lioSuI9cN0LXYuBgKgeL6ZsEyHm7ENYv1SsI0Dz~rJBKCK9f-gB1cdLAhlNiP3Vg0lc4tcj4Ubo30TKn6pNdioqrw2Pw~O3vDR9ok38KU9f-EfMRTOZ15aSh8SaPwfoIaG0hIsHS3lwD7XRenZBQyi3OQSWNI-Yazop88QTQuC-TS-ZXSNFp7FbsQuGSHHP0a5xE~5~mPvwrrIpWgnheWpdudXvqpifm3rcvVDFB708qkqaSm9zW2PTldDoeIGwXKGg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Ya que fue una mañana pesada, tómate un café primero.</div>\n  <div style=\"opacity: 0.45;\">Já que foi uma manhã pesada, tome um café primeiro.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/caeb11c3925b4410b612a4e4b2df8989_l02b05-linea-03.mp3?Expires=1794099581&Signature=uDcrt6YuYQMXRSB5sU-q7n-2gVnlwHtNW4GmWpbM7S8uGGAx9FNrmYJFBsxcJKFp1hqC9YykrTrHmNYfsaibuaODWZ~KpzCdngmt206xaDOQwMqSt2Mzn1nhCohaWDy5VdhBRTY8fpwEYODMJo~IaRLqjTgqTTVReKYik4bMNzvqyZxebn0dQFDe~c5Y0U8YAYoj~1M4p8iPRnCsFrN4r1cod575Zwa3474NurT1wkhXkX5PqnG9lQWjuJpVIJLU~9RtLPPkv1EfwYjfxbjHafERIMl-WOO7nIOPVHIsq2op~w0XIdwASNCeuIFFOtz2qv4jSaPJiYN9xszDf~nYlg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Sí. Como casi no dormí, ahora estoy nerviosa por la reunión.</div>\n  <div style=\"opacity: 0.45;\">Sim. Como quase não dormi, agora estou nervosa por causa da reunião.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/05420e08a6db4c4db8cb8e6f1167cd49_l02b05-linea-04.mp3?Expires=1794099581&Signature=M-OjSdVjEOHvpAJqphpOkIu-L-EoSjlkmQNC4oEBCC15YtNew9b~XYT0gzuus7E6vrGaqZ9YJD0WufQAvmNT8EJwarJuDjMy79ZAB4~rWIcJFl82Id0J5KScUXahsbZWBHDdM44ByGmHf49eaF05fTyO2rO7-h9w4zh6t1YCPUu87Nh1Z8pYtz6AEKXjo3xjJbhke7IVr5d4ne4EvSfCKHqbCgyCKvsZYpVgqYKyHrNr1LyL4gjLZ82xpA1wPNtb28glgJuSUja83h7wHOX3-dbbcneUAEqycnYwQTFkR-~hPyF8ah2I1K4x8Zgihvfo1zH9r6--Kk7a8BDVksD7zA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "5f41192b-00b9-48d3-a07b-83df293c51cd",
+      "title": "Leia o quadro final e pense em qual formato combinaria melhor com um áudio, um chat ou um check-in do trabalho.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "37f018df-7c39-4db1-9e71-f13b3987f9f3",
+          "textContent": "<p>Em check-ins, mensagens e conversas rápidas, a escolha muda conforme o formato da causa.</p><ul><li><strong>porque</strong>: resposta direta a <strong>¿Por qué estás así?</strong></li><li><strong>ya que</strong>: motivo que explica ou suaviza um comentário já contextualizado</li><li><strong>como</strong>: causa primeiro, estado depois</li><li><strong>por</strong>: motivo curto em poucas palavras, como <strong>por la reunión</strong> ou <strong>por el examen</strong></li></ul><p>Na vida real, isso ajuda a justificar o seu humor em um áudio, explicar um atraso no trabalho ou dizer rapidamente por que outra pessoa está assim.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "599b7b8c-ee06-4992-934e-7145400e4605",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/84fad7d5e9294a87ae576fa803f0c359_l02b01-estoy-de-buen-humor-porque-dormi-bien.mp3?Expires=1794099581&Signature=ZZSuK20p3LiDHlOTIaZuSLHFImrFBya-KNtcumUMm6gpPfgZnPchTA43nExsLUVEylz-oCZKzVt61EdkxbdpvYkZTmdyXDmvranT-4~9RKtROqZqFLd-11HoTSRei-SFHBQkU1vclz8MxKTPMfg13LFnpcPSd93zhYFjY-mwBBmYAWsDgUBChH8yhnIdLSadFAdX5O4-AGiaecvayF-eHMMzQlzPRii121FoMyOFFbtg34sMIN9JEYjV6ulc4aNZZo8eUSKh3lXfp63nsMfXFOmXU1naiu3tTWznoEFXTzFudrR2X4HFq5OJ-Y0HQ-7N6dLui0m5pjucpUBFOfhj4g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A frase-modelo junta estado emocional e motivo com porque.",
+      "feedbackError": "A frase-modelo junta estado emocional e motivo com porque.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Estoy de buen humor porque dormí bien.",
+      "typeSpecificData": "{\"expectedText\":\"Estoy de buen humor porque dorm\\u00ED bien.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/84fad7d5e9294a87ae576fa803f0c359_l02b01-estoy-de-buen-humor-porque-dormi-bien.mp3?Expires=1794099581\\u0026Signature=ZZSuK20p3LiDHlOTIaZuSLHFImrFBya-KNtcumUMm6gpPfgZnPchTA43nExsLUVEylz-oCZKzVt61EdkxbdpvYkZTmdyXDmvranT-4~9RKtROqZqFLd-11HoTSRei-SFHBQkU1vclz8MxKTPMfg13LFnpcPSd93zhYFjY-mwBBmYAWsDgUBChH8yhnIdLSadFAdX5O4-AGiaecvayF-eHMMzQlzPRii121FoMyOFFbtg34sMIN9JEYjV6ulc4aNZZo8eUSKh3lXfp63nsMfXFOmXU1naiu3tTWznoEFXTzFudrR2X4HFq5OJ-Y0HQ-7N6dLui0m5pjucpUBFOfhj4g__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "6b390e8c-c92f-4c70-ac0d-dc87d8075d09",
+      "title": "Ligue a frase ao tipo de motivo",
+      "content": "<p>Recupere o contraste do bloco e associe cada frase ao tamanho da causa.</p>",
+      "contentPlain": "Recupere o contraste do bloco e associe cada frase ao tamanho da causa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste da aula separa oração causal com porque e motivo curto com por.",
+      "feedbackError": "O contraste da aula separa oração causal com porque e motivo curto com por.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "ace9f90d-23fb-42bb-9dad-df7a0a107c3a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6b390e8c-c92f-4c70-ac0d-dc87d8075d09"
+        },
+        {
+          "id": "c692a4b8-ed27-43c9-9002-6cb6945f9353",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6b390e8c-c92f-4c70-ac0d-dc87d8075d09"
+        }
+      ],
+      "associations": [
+        {
+          "id": "3076bd8b-40f3-4dfe-af10-f6b875e28e1a",
+          "exerciseId": "6b390e8c-c92f-4c70-ac0d-dc87d8075d09",
+          "leftContent": "Estoy de mal humor porque tengo una reunión difícil.",
+          "rightContent": "causa em oração completa",
+          "sequenceItem": 1
+        },
+        {
+          "id": "27d81044-ed8c-40a6-b5af-668beb05236c",
+          "exerciseId": "6b390e8c-c92f-4c70-ac0d-dc87d8075d09",
+          "leftContent": "Estoy de mal humor por la reunión.",
+          "rightContent": "motivo curto em poucas palavras",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "405369f8-0ad7-4a85-9fbe-76a7b0e1bfbd",
+      "title": "Reconheça o conector",
+      "content": "<p>No recap final, qual conector serve para começar a frase pelo motivo?</p>",
+      "contentPlain": "No recap final, qual conector serve para começar a frase pelo motivo?",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final distingue quando a causa vem primeiro e quando aparece depois do estado.",
+      "feedbackError": "O recap final distingue quando a causa vem primeiro e quando aparece depois do estado.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "694c6030-59bd-4a03-b01c-4969b72a7b5b",
+          "textContent": "porque",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "405369f8-0ad7-4a85-9fbe-76a7b0e1bfbd"
+        },
+        {
+          "id": "7e6fd5d3-c87d-409d-ab2d-ba62abea9b25",
+          "textContent": "pero",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "405369f8-0ad7-4a85-9fbe-76a7b0e1bfbd"
+        },
+        {
+          "id": "91f4e80d-7309-411c-96d8-65f1b84a3576",
+          "textContent": "como",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "405369f8-0ad7-4a85-9fbe-76a7b0e1bfbd"
+        },
+        {
+          "id": "e5d4c44f-24b8-4fef-8c1f-665818360ee2",
+          "textContent": "por",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "405369f8-0ad7-4a85-9fbe-76a7b0e1bfbd"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "32a51e6b-525a-43b4-98ae-cf6d2afd8330",
+      "title": "Escute e combine",
+      "content": "<p>Associe cada gravação do bloco inicial à frase exata que aparece na tela.</p>",
+      "contentPlain": "Associe cada gravação do bloco inicial à frase exata que aparece na tela.",
+      "fileUrl": null,
+      "feedbackSuccess": "A abertura da aula mostra duas formas frequentes de dizer o estado e depois o motivo.",
+      "feedbackError": "A abertura da aula mostra duas formas frequentes de dizer o estado e depois o motivo.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "d9d0c102-1a09-41ea-bcfd-a6030ee9920a",
+          "exerciseId": "32a51e6b-525a-43b4-98ae-cf6d2afd8330",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/84fad7d5e9294a87ae576fa803f0c359_l02b01-estoy-de-buen-humor-porque-dormi-bien.mp3?Expires=1794099581&Signature=ZZSuK20p3LiDHlOTIaZuSLHFImrFBya-KNtcumUMm6gpPfgZnPchTA43nExsLUVEylz-oCZKzVt61EdkxbdpvYkZTmdyXDmvranT-4~9RKtROqZqFLd-11HoTSRei-SFHBQkU1vclz8MxKTPMfg13LFnpcPSd93zhYFjY-mwBBmYAWsDgUBChH8yhnIdLSadFAdX5O4-AGiaecvayF-eHMMzQlzPRii121FoMyOFFbtg34sMIN9JEYjV6ulc4aNZZo8eUSKh3lXfp63nsMfXFOmXU1naiu3tTWznoEFXTzFudrR2X4HFq5OJ-Y0HQ-7N6dLui0m5pjucpUBFOfhj4g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estoy de buen humor porque dormí bien.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "95d6b66b-9474-4a5b-b300-45d83aef5ac4",
+          "exerciseId": "32a51e6b-525a-43b4-98ae-cf6d2afd8330",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ad4bae1ded3940e88da298fa17e5c6dc_l02b01-sigo-mas-tranquila-ya-que-hable-con-mi-hermana.mp3?Expires=1794099581&Signature=HUHrAZp4GOdJoLYCrqgycoRmRhqYYV2C93-17xGfqHLhE5hT0jotsS49G4N6ax8PvRfzAjB5UX9X2h5sBkPJf6l0bIN5~K0muxPP9hZYYGbo4OKDrrSEv1g50GfVjBD0OlsuWwJLDE0ksQBkV-paWLFTehLiDOU~Fiu6aGhreeowe3WHT2QrBT0TVoQsep0xHgc9scfdB46vV2QoL5L74fm-8oCk4ZOPjvirpIzyF3s8cQb-o74SQ4O0kNXujX-3jc82snZ5eO4~6xFJLDwubr3xkFurzWfoJo0Vl~bsv08dVj7HAHGM9zDmpgXBYap2pezVj8tPqRyhzA3M~s8HKQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sigo más tranquila, ya que hablé con mi hermana hace un rato.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "d4f15e05-54d7-4b1f-93f1-57b104babd68",
+      "title": "Ouça e marque as palavras",
+      "content": "<p>Escute a frase que começa pelo motivo e marque somente as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a frase que começa pelo motivo e marque somente as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a44afb02218746f894a9f22e597ac014_l02b03-como-casi-no-dormi-hoy-estoy-de-mal-humor.mp3?Expires=1794099581&Signature=tpx-7vBW7ka8C5~xj~Aafy8EaPWDaUPYDJJA4AF85-wt4uOq64QPQaXvuKh~Qcj1bcklVMnMaRU2H9L3XBj690cpH6HsywqL~xs1Y1gVsmjJnUtqerpevhW2Po8VN1m7OS7KA5xuz4bKjtGEEtrX2TpMfDPRShZ94JNSxgf1T8mbGwk-iTRdPfi1y7TlPfcgLbhrc~NQmKW9YKhjR9O2~3mdwWaZsq5H4Gjaw6-k6i3pcm~olMleVSLAAOVhVqO~2rXbjxEfUtCl1oIhsTHyDHOxBIDiLe4d55i69UpjQKGOE0SOSctOKPKO-TyTMrunvH0rkXELXJkMPkvV~1wDhA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Com como, a causa abre a frase e o estado aparece depois.",
+      "feedbackError": "Com como, a causa abre a frase e o estado aparece depois.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "05795fc2-c8d1-45a1-8f46-66edf4d3217b",
+          "textContent": "tranquila",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d4f15e05-54d7-4b1f-93f1-57b104babd68"
+        },
+        {
+          "id": "41aee816-971b-419e-81cd-3e3d803f6b20",
+          "textContent": "reunión",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d4f15e05-54d7-4b1f-93f1-57b104babd68"
+        },
+        {
+          "id": "4cc150cf-6a3a-4820-866d-b135c340cd10",
+          "textContent": "como",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d4f15e05-54d7-4b1f-93f1-57b104babd68"
+        },
+        {
+          "id": "69d05075-f560-4251-98f1-f267a33b5ac9",
+          "textContent": "dormí",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d4f15e05-54d7-4b1f-93f1-57b104babd68"
+        },
+        {
+          "id": "7667feff-68c4-4366-8757-68740944c0d2",
+          "textContent": "humor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d4f15e05-54d7-4b1f-93f1-57b104babd68"
+        },
+        {
+          "id": "e0df58d3-5343-4faf-9b66-3ad6776218e7",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d4f15e05-54d7-4b1f-93f1-57b104babd68"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "efdffced-bb01-4055-a431-48b89f7ecfaa",
+      "title": "Ligue a fala à função",
+      "content": "<p>Recupere o mini diálogo e associe cada linha ao papel que ela cumpre na conversa.</p>",
+      "contentPlain": "Recupere o mini diálogo e associe cada linha ao papel que ela cumpre na conversa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo reúne pergunta causal e três maneiras de explicar ou comentar o motivo.",
+      "feedbackError": "O diálogo reúne pergunta causal e três maneiras de explicar ou comentar o motivo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "43a23ca4-0ecd-4a78-a66a-e408d65a90b6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "efdffced-bb01-4055-a431-48b89f7ecfaa"
+        },
+        {
+          "id": "a04eb219-a1e1-43f4-b33f-2bf29422b7a5",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "efdffced-bb01-4055-a431-48b89f7ecfaa"
+        }
+      ],
+      "associations": [
+        {
+          "id": "8948e35b-d2b8-4eca-ba3d-a91dbb1263b7",
+          "exerciseId": "efdffced-bb01-4055-a431-48b89f7ecfaa",
+          "leftContent": "¿Por qué estás de mal humor?",
+          "rightContent": "pedir o motivo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "449dedfb-69af-4e03-a1c9-157099f16c74",
+          "exerciseId": "efdffced-bb01-4055-a431-48b89f7ecfaa",
+          "leftContent": "Porque discutí con mi hermano.",
+          "rightContent": "responder com porque",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c55944c9-899b-4675-8316-b6e9382a7958",
+          "exerciseId": "efdffced-bb01-4055-a431-48b89f7ecfaa",
+          "leftContent": "Ya que fue una mañana pesada, tómate un café primero.",
+          "rightContent": "comentar com ya que",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d06404ef-9dbc-4648-978f-8145c30fd00f",
+          "exerciseId": "efdffced-bb01-4055-a431-48b89f7ecfaa",
+          "leftContent": "Sí. Como casi no dormí, ahora estoy nerviosa por la reunión.",
+          "rightContent": "pôr a causa antes do estado",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "7ef59d60-1bd3-438b-9807-9c94439e9cdb",
+      "title": "Ouça e recupere a fala",
+      "content": "<p>Escute a última linha do diálogo e marque somente as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a última linha do diálogo e marque somente as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/05420e08a6db4c4db8cb8e6f1167cd49_l02b05-linea-04.mp3?Expires=1794099581&Signature=M-OjSdVjEOHvpAJqphpOkIu-L-EoSjlkmQNC4oEBCC15YtNew9b~XYT0gzuus7E6vrGaqZ9YJD0WufQAvmNT8EJwarJuDjMy79ZAB4~rWIcJFl82Id0J5KScUXahsbZWBHDdM44ByGmHf49eaF05fTyO2rO7-h9w4zh6t1YCPUu87Nh1Z8pYtz6AEKXjo3xjJbhke7IVr5d4ne4EvSfCKHqbCgyCKvsZYpVgqYKyHrNr1LyL4gjLZ82xpA1wPNtb28glgJuSUja83h7wHOX3-dbbcneUAEqycnYwQTFkR-~hPyF8ah2I1K4x8Zgihvfo1zH9r6--Kk7a8BDVksD7zA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na última fala do diálogo, como apresenta a causa antes do estado e do motivo curto.",
+      "feedbackError": "Na última fala do diálogo, como apresenta a causa antes do estado e do motivo curto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "051e121f-f8e1-4412-bfec-381fe201e824",
+          "textContent": "reunión",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7ef59d60-1bd3-438b-9807-9c94439e9cdb"
+        },
+        {
+          "id": "24645e11-fd64-4813-abcc-2bec03338dae",
+          "textContent": "como",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7ef59d60-1bd3-438b-9807-9c94439e9cdb"
+        },
+        {
+          "id": "25b7d9ce-564b-40e4-9fd7-a8976bf13454",
+          "textContent": "hermano",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7ef59d60-1bd3-438b-9807-9c94439e9cdb"
+        },
+        {
+          "id": "a8b42858-e885-4556-b0cf-5204c78a8dd0",
+          "textContent": "nerviosa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7ef59d60-1bd3-438b-9807-9c94439e9cdb"
+        },
+        {
+          "id": "ae041e49-7ef0-438e-bab4-710da7afe122",
+          "textContent": "café",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7ef59d60-1bd3-438b-9807-9c94439e9cdb"
+        },
+        {
+          "id": "e526e689-bf3e-4e5f-9ef8-da8babd0e184",
+          "textContent": "dormí",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7ef59d60-1bd3-438b-9807-9c94439e9cdb"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "01594f16-0ecf-4d6a-8e1b-88668e6d5291",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Associe cada gravação do diálogo à fala exata correspondente.</p>",
+      "contentPlain": "Associe cada gravação do diálogo à fala exata correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final reaproveita porque, ya que, como e por dentro da mesma conversa.",
+      "feedbackError": "O diálogo final reaproveita porque, ya que, como e por dentro da mesma conversa.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "bfb81e3f-8345-431c-a95f-2e3e5cc262ef",
+          "exerciseId": "01594f16-0ecf-4d6a-8e1b-88668e6d5291",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/48f93df4ad804a8ca8c17d54f43cf747_l02b05-linea-01.mp3?Expires=1794099581&Signature=uGPAkKDdX6ansuwcwXv1b7mYKM7TLkAI0DhR2Z6ZPRjaYKNCiEH-dwN4QuMs0fvCHVDJHCsKbStsaK6q7SXt0j4E3isbUyWrRvlllhy43b~q-uKKxxWV8mYvL7qLieLS3ec~hg6shnSkqRrcZWnVB50-UnF8LRV7CbnOF7o7PGnfKSdqtEJa0ekhNPweNmLLxrjmqNnDqKaViv~ZjvP6u6--yUhUNvsI45AUoBYDPJmgI~KgbrW2gaDsRMWzRP61G0leezFbbKldfdelToNrjt0eaBwnpK2DQgIMIwnOfbDczAi1wT7katcznfOM~19uwTIjT2GYIIIFU-EzA8IB~g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Por qué estás de mal humor?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5b04394f-eff7-4181-9f77-3176a1c6f03c",
+          "exerciseId": "01594f16-0ecf-4d6a-8e1b-88668e6d5291",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b357c8628c4949feb6be05f78822e0f8_l02b05-linea-02.mp3?Expires=1794099581&Signature=aMJ161N7mImgKEQLyv72GhFpgA4yKInmvX3g~gS1AmMOgE-U622wN8PIpdDJ-igL0~E-d6869Ig~Oqpgjh0lioSuI9cN0LXYuBgKgeL6ZsEyHm7ENYv1SsI0Dz~rJBKCK9f-gB1cdLAhlNiP3Vg0lc4tcj4Ubo30TKn6pNdioqrw2Pw~O3vDR9ok38KU9f-EfMRTOZ15aSh8SaPwfoIaG0hIsHS3lwD7XRenZBQyi3OQSWNI-Yazop88QTQuC-TS-ZXSNFp7FbsQuGSHHP0a5xE~5~mPvwrrIpWgnheWpdudXvqpifm3rcvVDFB708qkqaSm9zW2PTldDoeIGwXKGg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Porque discutí con mi hermano.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b05457e9-0c6a-47a7-9793-88668686bb5f",
+          "exerciseId": "01594f16-0ecf-4d6a-8e1b-88668e6d5291",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/caeb11c3925b4410b612a4e4b2df8989_l02b05-linea-03.mp3?Expires=1794099581&Signature=uDcrt6YuYQMXRSB5sU-q7n-2gVnlwHtNW4GmWpbM7S8uGGAx9FNrmYJFBsxcJKFp1hqC9YykrTrHmNYfsaibuaODWZ~KpzCdngmt206xaDOQwMqSt2Mzn1nhCohaWDy5VdhBRTY8fpwEYODMJo~IaRLqjTgqTTVReKYik4bMNzvqyZxebn0dQFDe~c5Y0U8YAYoj~1M4p8iPRnCsFrN4r1cod575Zwa3474NurT1wkhXkX5PqnG9lQWjuJpVIJLU~9RtLPPkv1EfwYjfxbjHafERIMl-WOO7nIOPVHIsq2op~w0XIdwASNCeuIFFOtz2qv4jSaPJiYN9xszDf~nYlg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ya que fue una mañana pesada, tómate un café primero.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "62a12bd8-a3dc-4a70-bbd2-32191cf5be90",
+          "exerciseId": "01594f16-0ecf-4d6a-8e1b-88668e6d5291",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/05420e08a6db4c4db8cb8e6f1167cd49_l02b05-linea-04.mp3?Expires=1794099581&Signature=M-OjSdVjEOHvpAJqphpOkIu-L-EoSjlkmQNC4oEBCC15YtNew9b~XYT0gzuus7E6vrGaqZ9YJD0WufQAvmNT8EJwarJuDjMy79ZAB4~rWIcJFl82Id0J5KScUXahsbZWBHDdM44ByGmHf49eaF05fTyO2rO7-h9w4zh6t1YCPUu87Nh1Z8pYtz6AEKXjo3xjJbhke7IVr5d4ne4EvSfCKHqbCgyCKvsZYpVgqYKyHrNr1LyL4gjLZ82xpA1wPNtb28glgJuSUja83h7wHOX3-dbbcneUAEqycnYwQTFkR-~hPyF8ah2I1K4x8Zgihvfo1zH9r6--Kk7a8BDVksD7zA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí. Como casi no dormí, ahora estoy nerviosa por la reunión.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "20ff4574-56c4-46d9-a6a0-72d241d18f60",
+      "title": "Complete o motivo curto",
+      "content": "<p>Complete a frase: Estoy de mal humor ___ la reunión.</p><p>Tradução: Estou de mau humor por causa da reunião.</p>",
+      "contentPlain": "Complete a frase: Estoy de mal humor ___ la reunión. Tradução: Estou de mau humor por causa da reunião.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com por, o motivo aparece como grupo curto, não como oração completa.",
+      "feedbackError": "Com por, o motivo aparece como grupo curto, não como oração completa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "por",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c725f6e2-3487-4040-9b77-2de2146affed",
+      "title": "Complete o conector inicial",
+      "content": "<p>Complete a frase: ____ casi no dormí, hoy estoy de mal humor.</p><p>Tradução: Como quase não dormi, hoje estou de mau humor.</p>",
+      "contentPlain": "Complete a frase: ____ casi no dormí, hoy estoy de mal humor. Tradução: Como quase não dormi, hoje estou de mau humor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com como, a frase começa pelo motivo e só depois mostra o estado.",
+      "feedbackError": "Com como, a frase começa pelo motivo e só depois mostra o estado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "como",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Dizer por que alguém está assim"
+}

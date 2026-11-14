@@ -1,0 +1,760 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+    "attemptId": "395488aa-69fd-4622-9fa1-542eff288954",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "df00d576-7cba-42cc-a3b1-cdd253215cd0",
+      "ad390214-a714-4b91-aa57-e268a66533b7",
+      "98226905-6c5f-4115-9c32-c49b3a58901b",
+      "69394d93-05dd-457a-963d-036642e240b9",
+      "ae69d633-8d90-4661-b4a3-26299ce6aa6e"
+    ],
+    "evaluationExerciseIds": [
+      "bad24ae5-fa4f-4eb7-a22f-a15b849c7e2b",
+      "69925c6c-014d-4497-910d-1903a471eaf1",
+      "3eaf0408-7ba7-4c3b-8803-bbae8959e2c6",
+      "b94a8533-4c48-4e83-86d6-a5cb6278982a",
+      "3a7ee8dd-7470-406d-9f5f-5fe41a21417c"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:04:05.4103177Z"
+  },
+  "contents": [
+    {
+      "id": "3bfb4be9-d457-433b-a137-c1ca0aeadaa5",
+      "title": "Escute e leia a frase. Repare de onde começa a mudança e o que continua acontecendo agora.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "81af22a8-8ea0-4557-9b4e-cf17755cb35d",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Desde que probamos el menú de mediodía, volvemos a esa taberna cada viernes.</strong></p><p>Em portugues: <strong>Desde que provamos o menu do meio-dia, voltamos a essa taberna toda sexta-feira.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/120f8a7eb89548d99e97f3f15bd8bf1f_phase4-b01-desde-que-probamos-el-menu-de-mediodia.mp3?Expires=1794099846&Signature=paHrc7CifgqVgxGzu5OKwwpPC3vHqIQkJBZpB14gJGzsRvhJDWGbzs34~pN3m-EtCZdkt7eUDFkgppH1ERXuqL0lcSTSD2yToIJr7MxacQ9wIKsdD66guy6THUNXYb5sys9Dem~bwJ2oqM4ds3c6CvrAXeuIFhRyXAuApW6-IrUUve~SfY47Gm8Nlsfh72WiKwZ1ZpXcUDPGIehkMLIElY57Em2v2LjbdvVgU8k3qBIlfYXTUfwkztc~3djEOUSQSGWNnE785w5kZuB9xeaQP1-74St1oe-AE46vRZtf79mCB2~CCsHK6BxQKOF41X2GFIbx7bUBh1n8jgdwbrVslg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4cb63bdc-ec6f-476b-b692-6d0f1d6513e1",
+      "title": "Leia a nota e observe que o foco não está num dia isolado, mas no período que começa ali.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "ea8988b9-67fe-497b-a26e-8e1f9b332ae4",
+          "textContent": "<p><strong>desde que</strong> marca o momento a partir do qual algo muda e continua valendo.</p><p>A frase não enumera visitas separadas; ela mostra um novo hábito que nasce depois de provar o menu.</p><p>Em comentários sobre comida, esse conector liga uma experiência passada a um efeito presente.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "94fb24b4-67be-4f09-9db2-0a6712a28ae4",
+      "title": "Escute e leia a frase. Note o evento que se repete e a reacao que volta com ele.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "0f758bec-b098-49dc-8e77-3a12ae5ab3e2",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Cada vez que pruebo ese caldo picante, necesito agua y unos segundos de silencio.</strong></p><p>Em portugues: <strong>Toda vez que provo esse caldo picante, preciso de água e de alguns segundos de silêncio.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4cf6e1808a9c4d5d9e36734b19ce9641_phase4-b03-cada-vez-que-pruebo-ese-caldo-picante.mp3?Expires=1794099846&Signature=h2QwAq74~lAyQpeWQ-UcLL68iv6vxYG0FsR7Wq1siekK6AENXi~Eu3kHsiYtcDHCkTfMQkpSweyeP3gqurQwyaVUjymnjMScYr8ZOWylNrwNpGBoX8cZc33I-5XViKuNDQmg6IFKnFNvOasZy7BmLXrl3iRaO-5pC0wZA7jkD~39PaA7jI-HUZUauaUYaqRoKJVA1L~UGlryJJERNzK2aGWpohCedoZj5atOhvqmvgMYgaEA1ZpZAZFN88ax9S6LhFXLA~y3AktXL7UIqEULloyunB6-OHMpM-NM-JTaKzF15wBVtB3yZbjiohJ5imcFJem-10mwU9~Cggi7X-j6zg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "91205a2d-0d17-4a0f-a62a-ec4d409beec4",
+      "title": "Leia o contraste e compare o que cada conector responde numa conversa sobre refeição.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "5247350a-6613-4a83-92d7-37119fb552b7",
+          "textContent": "<p><strong>Desde que...</strong> responde a <strong>desde quando isso passou a valer?</strong></p><p><strong>Cada vez que...</strong> responde a <strong>sempre que isso acontece, o que volta a acontecer?</strong></p><ul><li><strong>Desde que probamos el menú...</strong> abre um período novo.</li><li><strong>Cada vez que pruebo ese caldo...</strong> mostra uma reação que reaparece.</li></ul><p>Se o comentário aponta um ponto de virada, use <strong>desde que</strong>. Se aponta repetição, use <strong>cada vez que</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f1a62619-d7ca-4be0-a702-260233800b6a",
+      "title": "Escute e leia a frase. Note qual etapa da mesa se fecha e o que muda depois dela.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "c5786425-7b68-448d-baf7-0a0faec46e4b",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Una vez que llega el postre, la conversación se vuelve más lenta y más personal.</strong></p><p>Em portugues: <strong>Quando a sobremesa chega, a conversa fica mais lenta e mais pessoal.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/be76d2db299c4e188e928e058e221878_phase4-b05-una-vez-que-llega-el-postre.mp3?Expires=1794099846&Signature=sbKNhw7UvGDxmIbYdejE1RxRahUvgaVQhZ5mNtgBTXwYC7vWiyuhDTM39qb-7OTjv0LSNH0IwEONRYtcgomSqPCN2TOcAH5p0lGzGDCIvxs405cBBCBW9bURAbZkEGxRbHNNS4lNDa-Ki9Z6eLTInJHpjTJ~EYxupF1GmxkGSSfZcXmaA1MIaieL5SafedQ-~Iw1A-qkpsfj3TY2xGzlxNECjrpZFZkkfUOzAh6wWHYGwO3WXrdbl3zgJLAvia4U~YSpDg1QEVzN~X~QMRIH8ue1WR8~1npKt0CPIGgoMRs3dbMf~Qrzk-zjCc4JEsGz8~tJ~jmlaA-ZL3QP0XvFrw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d4de9ad3-0958-4327-acdd-09d78c197408",
+      "title": "Escute e leia a frase. Repare como o comentário encurta a distância entre provar e perceber.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "daa8e434-c0e6-44df-97f2-4dc2fdbd1a52",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>En cuanto pruebo la salsa cítrica, noto el amargor del final.</strong></p><p>Em português: <strong>Assim que provo o molho cítrico, noto o amargor do final.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8d82b97006c4df68cdd39b8e5b5af29_phase4-b06-en-cuanto-pruebo-la-salsa-citrica.mp3?Expires=1794099846&Signature=1401YEO0L7jH5JHCz9xRDfpo0KqHZKCV9qgPfBHC1x9yhCN4Ril2bXd~geCa8PPu7a4IxdL1IO099CP6JR4swvzo60qCamkNqlXhofV6W-EGgpkk9GNhAhLlbMbH-fub7l1~alzR-cNIF4T8jj3Z4tTc8CuWh7CEqgwzZnVw7-cmhr9XD5cwVXER0jbqbNEJJLB9ifC68-AmAQEhUX2Wu7oMVKQyPf~rQiTkmoF2BsefmV3X-quA6SkwMfg-8zgDPM-DApN1HGCjnBzq6BY1HHIRZXD~UV58a8VcZBl3WAf8ngMJsNiAqtOpOyWBApKe7KyOb9a5plNbN6492G4F4Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c57cc580-fe80-4ce0-9d5b-b4e4b143bb8f",
+      "title": "Leia o contraste e decida se cada frase fala de passagem de etapa ou de imediatidade.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "1c4163c1-71f6-4c47-9e7e-45b2315bbdc9",
+          "textContent": "<p><strong>una vez que</strong> enquadra o que vem depois de um marco já instalado na cena.</p><p><strong>en cuanto</strong> quase elimina a distância entre o gatilho e a reação.</p><ul><li><strong>Una vez que llega el postre...</strong> abre uma nova fase da mesa.</li><li><strong>En cuanto pruebo la salsa...</strong> comprime o tempo e destaca a percepção imediata.</li></ul><p>Se o comentário precisa dizer <strong>o que vem depois</strong>, use <strong>una vez que</strong>. Se precisa dizer <strong>o que acontece assim que</strong>, use <strong>en cuanto</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9a1fc810-1204-492c-9521-a37d26ec9adf",
+      "title": "Escute e leia a frase. Observe a ação que entra antes do próximo momento da mesa.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "ecc11e37-d9a0-4340-9bea-4894245e7f98",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Antes de que llegue el plato principal, reviso otra vez el maridaje.</strong></p><p>Em portugues: <strong>Antes que o prato principal chegue, revejo a harmonização mais uma vez.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2113b521d6634f33bf6a0cc63e2744bb_phase4-b08-antes-de-que-llegue-el-plato-principal.mp3?Expires=1794099846&Signature=VuaWkhFmtjLpMLpQ2rKHxYFr51F3FCb58j7K1LpiKqc4w4n-sutdw3YDH12JOAPu444D353yAdxKiCA2aj7F~d8Uc2nyFWCttwB1A9I1eOQgib1XOYq~YaDEQ2W5q3leb-uKo7ChRNTuriHke7ro5B4wM2SgrXohq8DsW1sB1D6D8KwWbSNd0~FEbXvd1CyjJdEKIuIKKWasfoe-kmjINIHxGaVgur8jKuvGohw2rPMKMAHvsoE123I3sjI~VW7QMreOC-3I5V8B4l0sZXRav4fgIN30cvprV9BgQSHph8hJBQKMFwGfLNK7-1BpcWsN1rhrXRbrHuL0aYlj17C8kA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c8a04d38-3d39-4522-98b7-b647d7bd42a3",
+      "title": "Leia a nota e observe por que aparece llegue, e não llega, depois do conector.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "594a6704-e835-471f-95e0-d19ab11fb369",
+          "textContent": "<p><strong>antes de que</strong> olha para um evento que ainda não aconteceu.</p><p>Por isso, o verbo seguinte aparece em outra forma: <strong>llegue</strong>, e não <strong>llega</strong>.</p><p>Em comentários de refeição, esse conector encaixa o que você faz, observa ou comenta antes do próximo passo da mesa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c16f57a8-42b2-4cd2-8e9c-09a4405b2549",
+      "title": "Passe pelas frases e ligue cada conector ao tipo de comentário que ele ajuda a construir numa refeição real.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "98f401f3-8ac6-4157-8d69-c45ee1e9ab81",
+          "textContent": "<p><strong>Desde que probamos el menú de mediodía, volvemos a esa taberna cada viernes.</strong></p><p>Bom para marcar o ponto de partida de um novo habito.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/120f8a7eb89548d99e97f3f15bd8bf1f_phase4-b01-desde-que-probamos-el-menu-de-mediodia.mp3?Expires=1794099846&Signature=paHrc7CifgqVgxGzu5OKwwpPC3vHqIQkJBZpB14gJGzsRvhJDWGbzs34~pN3m-EtCZdkt7eUDFkgppH1ERXuqL0lcSTSD2yToIJr7MxacQ9wIKsdD66guy6THUNXYb5sys9Dem~bwJ2oqM4ds3c6CvrAXeuIFhRyXAuApW6-IrUUve~SfY47Gm8Nlsfh72WiKwZ1ZpXcUDPGIehkMLIElY57Em2v2LjbdvVgU8k3qBIlfYXTUfwkztc~3djEOUSQSGWNnE785w5kZuB9xeaQP1-74St1oe-AE46vRZtf79mCB2~CCsHK6BxQKOF41X2GFIbx7bUBh1n8jgdwbrVslg__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "1dd82f75-55b3-45aa-983e-cd3af15b8a13",
+          "textContent": "<p><strong>Cada vez que pruebo ese caldo picante, necesito agua y unos segundos de silencio.</strong></p><p>Bom para reações que se repetem sempre que o mesmo sabor volta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4cf6e1808a9c4d5d9e36734b19ce9641_phase4-b03-cada-vez-que-pruebo-ese-caldo-picante.mp3?Expires=1794099846&Signature=h2QwAq74~lAyQpeWQ-UcLL68iv6vxYG0FsR7Wq1siekK6AENXi~Eu3kHsiYtcDHCkTfMQkpSweyeP3gqurQwyaVUjymnjMScYr8ZOWylNrwNpGBoX8cZc33I-5XViKuNDQmg6IFKnFNvOasZy7BmLXrl3iRaO-5pC0wZA7jkD~39PaA7jI-HUZUauaUYaqRoKJVA1L~UGlryJJERNzK2aGWpohCedoZj5atOhvqmvgMYgaEA1ZpZAZFN88ax9S6LhFXLA~y3AktXL7UIqEULloyunB6-OHMpM-NM-JTaKzF15wBVtB3yZbjiohJ5imcFJem-10mwU9~Cggi7X-j6zg__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "fad95f6f-568a-49fd-ab38-1c525171c53e",
+          "textContent": "<p><strong>Una vez que llega el postre, la conversación se vuelve más lenta y más personal.</strong></p><p>Bom para abrir a etapa seguinte de uma refeicao.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/be76d2db299c4e188e928e058e221878_phase4-b05-una-vez-que-llega-el-postre.mp3?Expires=1794099846&Signature=sbKNhw7UvGDxmIbYdejE1RxRahUvgaVQhZ5mNtgBTXwYC7vWiyuhDTM39qb-7OTjv0LSNH0IwEONRYtcgomSqPCN2TOcAH5p0lGzGDCIvxs405cBBCBW9bURAbZkEGxRbHNNS4lNDa-Ki9Z6eLTInJHpjTJ~EYxupF1GmxkGSSfZcXmaA1MIaieL5SafedQ-~Iw1A-qkpsfj3TY2xGzlxNECjrpZFZkkfUOzAh6wWHYGwO3WXrdbl3zgJLAvia4U~YSpDg1QEVzN~X~QMRIH8ue1WR8~1npKt0CPIGgoMRs3dbMf~Qrzk-zjCc4JEsGz8~tJ~jmlaA-ZL3QP0XvFrw__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "977efae5-270b-43da-9005-215cb7706926",
+          "textContent": "<p><strong>En cuanto pruebo la salsa cítrica, noto el amargor del final.</strong></p><p>Bom para reação imediata ao primeiro contato com um sabor.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8d82b97006c4df68cdd39b8e5b5af29_phase4-b06-en-cuanto-pruebo-la-salsa-citrica.mp3?Expires=1794099846&Signature=1401YEO0L7jH5JHCz9xRDfpo0KqHZKCV9qgPfBHC1x9yhCN4Ril2bXd~geCa8PPu7a4IxdL1IO099CP6JR4swvzo60qCamkNqlXhofV6W-EGgpkk9GNhAhLlbMbH-fub7l1~alzR-cNIF4T8jj3Z4tTc8CuWh7CEqgwzZnVw7-cmhr9XD5cwVXER0jbqbNEJJLB9ifC68-AmAQEhUX2Wu7oMVKQyPf~rQiTkmoF2BsefmV3X-quA6SkwMfg-8zgDPM-DApN1HGCjnBzq6BY1HHIRZXD~UV58a8VcZBl3WAf8ngMJsNiAqtOpOyWBApKe7KyOb9a5plNbN6492G4F4Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "8fc9ffd4-b1e4-4fd5-9a15-5e09b1c1fe92",
+          "textContent": "<p><strong>Antes de que llegue el plato principal, reviso otra vez el maridaje.</strong></p><p>Bom para situar algo antes de um passo que ainda vai acontecer.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2113b521d6634f33bf6a0cc63e2744bb_phase4-b08-antes-de-que-llegue-el-plato-principal.mp3?Expires=1794099846&Signature=VuaWkhFmtjLpMLpQ2rKHxYFr51F3FCb58j7K1LpiKqc4w4n-sutdw3YDH12JOAPu444D353yAdxKiCA2aj7F~d8Uc2nyFWCttwB1A9I1eOQgib1XOYq~YaDEQ2W5q3leb-uKo7ChRNTuriHke7ro5B4wM2SgrXohq8DsW1sB1D6D8KwWbSNd0~FEbXvd1CyjJdEKIuIKKWasfoe-kmjINIHxGaVgur8jKuvGohw2rPMKMAHvsoE123I3sjI~VW7QMreOC-3I5V8B4l0sZXRav4fgIN30cvprV9BgQSHph8hJBQKMFwGfLNK7-1BpcWsN1rhrXRbrHuL0aYlj17C8kA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "799c5441-e332-412b-bcf6-6e6e21cd249f",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "c38241c6-fc78-4e26-ac62-a4ddaeab6c09",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9bc86a7ed47a4ab6a21bbc7a56e3cc76_MEC-IDIOMAS_CAP_1_-_AULA_04_ESP.mp4?Expires=1794099846&Signature=LZ3wqrPzOeV-2TARMhCnMxHrN23-4ud6-1nlwt9ox-keP-8eG2DHAvG769lP4nxhKmh7bVilCQeYVCEeJQCpg~kvnWIMkK9kxEX4ZQoRYDc79eLo322MMgFqHsimvQUMeaDiNfgorq3jP1YJhYnNwNIOXv-838lYPUB6Hg0Ms~nczZb2TsV9fvK0Ystb3924idaspaShYmLBhWL0p6v~1oXXT~UChAaKg4j6y~cXYZPZDWk~ciDgkYQjXbwjQ-gUa~gkwRVR6mqCszqqmUFZscsEU1FzWr8QHM6gvm3bwLT0xzd6Y2jGvWUd4PFSrtVT-7uUF~OVm6G8zaJXPL0NsA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9bc86a7ed47a4ab6a21bbc7a56e3cc76_MEC-IDIOMAS_CAP_1_-_AULA_04_ESP.mp4?Expires=1794099846&Signature=LZ3wqrPzOeV-2TARMhCnMxHrN23-4ud6-1nlwt9ox-keP-8eG2DHAvG769lP4nxhKmh7bVilCQeYVCEeJQCpg~kvnWIMkK9kxEX4ZQoRYDc79eLo322MMgFqHsimvQUMeaDiNfgorq3jP1YJhYnNwNIOXv-838lYPUB6Hg0Ms~nczZb2TsV9fvK0Ystb3924idaspaShYmLBhWL0p6v~1oXXT~UChAaKg4j6y~cXYZPZDWk~ciDgkYQjXbwjQ-gUa~gkwRVR6mqCszqqmUFZscsEU1FzWr8QHM6gvm3bwLT0xzd6Y2jGvWUd4PFSrtVT-7uUF~OVm6G8zaJXPL0NsA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "df00d576-7cba-42cc-a3b1-cdd253215cd0",
+      "title": "Escolha o conector recorrente",
+      "content": "<p>Qual conector responde melhor a <strong>sempre que isso acontece, o que volta a acontecer?</strong></p>",
+      "contentPlain": "Qual conector responde melhor a sempre que isso acontece, o que volta a acontecer?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é distinguir o valor temporal de cada conector no comentário sobre a refeição.",
+      "feedbackError": "Aqui o foco é distinguir o valor temporal de cada conector no comentário sobre a refeição.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6b36f05c-894d-4607-a1c6-fef292990a66",
+          "textContent": "desde que",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "df00d576-7cba-42cc-a3b1-cdd253215cd0"
+        },
+        {
+          "id": "adefe209-5b09-4b8e-a090-7212e12c4cb1",
+          "textContent": "una vez que",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "df00d576-7cba-42cc-a3b1-cdd253215cd0"
+        },
+        {
+          "id": "e81e0fe7-43d8-4728-af7e-3420bee6ea43",
+          "textContent": "en cuanto",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "df00d576-7cba-42cc-a3b1-cdd253215cd0"
+        },
+        {
+          "id": "f0d7cedc-5e8f-4911-ae52-75183afca557",
+          "textContent": "cada vez que",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "df00d576-7cba-42cc-a3b1-cdd253215cd0"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "ad390214-a714-4b91-aa57-e268a66533b7",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase completa em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase completa em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c83f428cf8344beaa189dc1ba197ad17_phase4-b05-una-vez-que-llega-el-postre.mp3?Expires=1794099846&Signature=acWhqJl-WT8xmtiZW-m~2F3HCfAjK-lHVuoCu1Ce7p9HbzJMoLGUExsGYD8kCyZmbjb9yY41G-VEA5fCKJy4LKNyeygxqk5d1vuZHoFmRg6bcyPEdGYIajxBi2F61pIRlI~usOvxJnmEyUli~StAGZPQdqisQj0-Uuw7ly5LkS4iCHhL-5262bGF70qtR6zairHf~vjLcp7LGTu-2FKpYwzY65-TwQSI3WD0ub1Uuu-rhKF5l5Ft-iVIpDLTQNOpBqxmW30D5TDkwH1qMa~0Hr7ngvjIWHGohFRvsXUdzJmE1fcuvuBz3IzDShHn5IpLgYnM20-Vf79Aea0OlF-WtA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui o foco é repetir o ritmo do conector dentro de uma frase completa.",
+      "feedbackError": "Aqui o foco é repetir o ritmo do conector dentro de uma frase completa.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Una vez que llega el postre, la conversación se vuelve más lenta y más personal.",
+      "typeSpecificData": "{\"expectedText\":\"Una vez que llega el postre, la conversaci\\u00F3n se vuelve m\\u00E1s lenta y m\\u00E1s personal.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/c83f428cf8344beaa189dc1ba197ad17_phase4-b05-una-vez-que-llega-el-postre.mp3?Expires=1794099846\\u0026Signature=acWhqJl-WT8xmtiZW-m~2F3HCfAjK-lHVuoCu1Ce7p9HbzJMoLGUExsGYD8kCyZmbjb9yY41G-VEA5fCKJy4LKNyeygxqk5d1vuZHoFmRg6bcyPEdGYIajxBi2F61pIRlI~usOvxJnmEyUli~StAGZPQdqisQj0-Uuw7ly5LkS4iCHhL-5262bGF70qtR6zairHf~vjLcp7LGTu-2FKpYwzY65-TwQSI3WD0ub1Uuu-rhKF5l5Ft-iVIpDLTQNOpBqxmW30D5TDkwH1qMa~0Hr7ngvjIWHGohFRvsXUdzJmE1fcuvuBz3IzDShHn5IpLgYnM20-Vf79Aea0OlF-WtA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "98226905-6c5f-4115-9c32-c49b3a58901b",
+      "title": "Ouça e relacione",
+      "content": "<p>Associe cada áudio à frase em espanhol correspondente.</p>",
+      "contentPlain": "Associe cada áudio à frase em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "feedbackError": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "5d4dd139-f57f-426b-91c7-5a9132e5f81c",
+          "exerciseId": "98226905-6c5f-4115-9c32-c49b3a58901b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2fbcd7452d8a4e1db0a9b64a457953ad_phase4-b01-desde-que-probamos-el-menu-de-mediodia.mp3?Expires=1794099846&Signature=afan7JD3Gw5Gs3ZgPnAp5kZVyP89UkHn94PvjbzZoB4g9wqaEkI0~sirjDARX0JAoYeuKTP08k~BzDrJA6McJg14VX3oEKSBOQqPnT9f7WxWnGIFH26OAWZ1y~O7OTHn5JqmisxTZbZiYagkwoW7PEKN5OziZXK~jmH0-UfkW38XQvPDAFj5MjkNz2NW5SBb8JnpV5oa2Xe3WPf4PVUJaTcd5B2TL5STp3wq9u15WQbTiH-7Y17bWRvtLDT1aIExowtUPN5uxmLF-CDF7wBPMSFSUqwaz9cTLXXAcn9ntCGh8E0EqxfrQR36LIoIr7PqnA7y9wlSre64Hq3rdtCPVw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Desde que probamos el menú de mediodía, volvemos a esa taberna cada viernes.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a36cfda5-032e-45a7-b534-58e86e3f9c4a",
+          "exerciseId": "98226905-6c5f-4115-9c32-c49b3a58901b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4fc8a8e93b1242499af3554bd132620a_phase4-b03-cada-vez-que-pruebo-ese-caldo-picante.mp3?Expires=1794099846&Signature=1TzZ79xU4a8ggtgpgQMQU6Y8hRLteaVgRTvMevOR9GH30iDRkVwEzgst8d2npC~kt-iq0GBQdZJA-fHtBw6V9a3lTUlUjXLDtF7l-~DyEffoSoro4djYYzIuQuuccj4IB4pYXtbvKRIVB4RY6QuftG4srZlx52Sku6v-xTf9fS2DziwxK9xkG-zghh-Ma3wYK9x2daOGaN9WIN8SiG52QerY8Vr6dd~z6YXvAWpsT6c2vYS82zDH~zTJjNYXLSw2zu9cds4QtyooqK2Rv3tjtDsK-1fIIhStGZzzxP6T3TLcpCFqdetLKPE6S695QLK-pYxYx0Csq0hJVltQcFYlDQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cada vez que pruebo ese caldo picante, necesito agua y unos segundos de silencio.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ba2334f2-da2c-4e0a-940d-4050cbc18d99",
+          "exerciseId": "98226905-6c5f-4115-9c32-c49b3a58901b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c83f428cf8344beaa189dc1ba197ad17_phase4-b05-una-vez-que-llega-el-postre.mp3?Expires=1794099846&Signature=acWhqJl-WT8xmtiZW-m~2F3HCfAjK-lHVuoCu1Ce7p9HbzJMoLGUExsGYD8kCyZmbjb9yY41G-VEA5fCKJy4LKNyeygxqk5d1vuZHoFmRg6bcyPEdGYIajxBi2F61pIRlI~usOvxJnmEyUli~StAGZPQdqisQj0-Uuw7ly5LkS4iCHhL-5262bGF70qtR6zairHf~vjLcp7LGTu-2FKpYwzY65-TwQSI3WD0ub1Uuu-rhKF5l5Ft-iVIpDLTQNOpBqxmW30D5TDkwH1qMa~0Hr7ngvjIWHGohFRvsXUdzJmE1fcuvuBz3IzDShHn5IpLgYnM20-Vf79Aea0OlF-WtA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Una vez que llega el postre, la conversación se vuelve más lenta y más personal.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "f21effcc-a93c-4005-9801-f55a013be3a5",
+          "exerciseId": "98226905-6c5f-4115-9c32-c49b3a58901b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1843e834319d49dcbf6a8c391fc47b5c_phase4-b06-en-cuanto-pruebo-la-salsa-citrica.mp3?Expires=1794099846&Signature=yOeFSA90zZRIj4onK5fmvL-eutINawZO37Q6Rd9rq~0q~1D9DLWWuanY7qpWrSoSr2XY3iV1Bewr9CYl8Cg7Y8Z245xY-RfYHlcuKOLNFnPoM6YuK4mM90k5Yf-BzUuH-s6vKGJesguIqsBfh4C1HJIM1jMMJRiswRTzN3b6So6R4LgHr8OjZ7P3mwHkXPXxMO~QFUiNU9Yvokok9BBVUXGkR9KZjXkLG14YgqWd3Nrjme1dMxjoUQyJh~VR~h2IDcqblcTbfoO3DTkd5czIfLqr30GbM1ApD10a50g32DYzLaG~EyHwufE3gNi0BRiY7PfO9OEZ5Vvlh3e~BDWFcg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En cuanto pruebo la salsa cítrica, noto el amargor del final.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "69394d93-05dd-457a-963d-036642e240b9",
+      "title": "Associe conector e sentido",
+      "content": "<p>Ligue cada conector em espanhol ao tipo de relação temporal que ele costuma organizar numa refeição.</p>",
+      "contentPlain": "Ligue cada conector em espanhol ao tipo de relação temporal que ele costuma organizar numa refeição.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é distinguir o valor temporal de cada conector no comentário sobre a refeição.",
+      "feedbackError": "Aqui o foco é distinguir o valor temporal de cada conector no comentário sobre a refeição.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "90a845d2-fecd-4bf9-8163-e44477f05a8b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "69394d93-05dd-457a-963d-036642e240b9"
+        },
+        {
+          "id": "b74962a3-187b-4cc8-8e27-b6f9f11cb91c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "69394d93-05dd-457a-963d-036642e240b9"
+        }
+      ],
+      "associations": [
+        {
+          "id": "262dbb4c-1243-4c02-a7fd-67ef2ac31e84",
+          "exerciseId": "69394d93-05dd-457a-963d-036642e240b9",
+          "leftContent": "desde que",
+          "rightContent": "ponto inicial que continua valendo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5ac7a0ec-291c-427e-803b-7d13382034c3",
+          "exerciseId": "69394d93-05dd-457a-963d-036642e240b9",
+          "leftContent": "cada vez que",
+          "rightContent": "gatilho repetido com reação recorrente",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d36001d4-a2ad-44d1-a957-9e5f3bf11d5d",
+          "exerciseId": "69394d93-05dd-457a-963d-036642e240b9",
+          "leftContent": "una vez que",
+          "rightContent": "fase seguinte depois de um marco",
+          "sequenceItem": 3
+        },
+        {
+          "id": "8edd6342-4fec-4723-bcbe-4033dff4dd44",
+          "exerciseId": "69394d93-05dd-457a-963d-036642e240b9",
+          "leftContent": "en cuanto",
+          "rightContent": "reação quase imediata",
+          "sequenceItem": 4
+        },
+        {
+          "id": "c3ef6999-3ed1-42bd-8c2e-f9819ac8ed3f",
+          "exerciseId": "69394d93-05dd-457a-963d-036642e240b9",
+          "leftContent": "antes de que",
+          "rightContent": "ação antes de um passo ainda não realizado",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "ae69d633-8d90-4661-b4a3-26299ce6aa6e",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Toque o áudio e marque apenas as palavras que você realmente ouve na frase.</p>",
+      "contentPlain": "Toque o áudio e marque apenas as palavras que você realmente ouve na frase.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1843e834319d49dcbf6a8c391fc47b5c_phase4-b06-en-cuanto-pruebo-la-salsa-citrica.mp3?Expires=1794099846&Signature=yOeFSA90zZRIj4onK5fmvL-eutINawZO37Q6Rd9rq~0q~1D9DLWWuanY7qpWrSoSr2XY3iV1Bewr9CYl8Cg7Y8Z245xY-RfYHlcuKOLNFnPoM6YuK4mM90k5Yf-BzUuH-s6vKGJesguIqsBfh4C1HJIM1jMMJRiswRTzN3b6So6R4LgHr8OjZ7P3mwHkXPXxMO~QFUiNU9Yvokok9BBVUXGkR9KZjXkLG14YgqWd3Nrjme1dMxjoUQyJh~VR~h2IDcqblcTbfoO3DTkd5czIfLqr30GbM1ApD10a50g32DYzLaG~EyHwufE3gNi0BRiY7PfO9OEZ5Vvlh3e~BDWFcg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "feedbackError": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "11e48b1a-d028-4d7a-9a88-17ab8fe2502e",
+          "textContent": "cuanto",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ae69d633-8d90-4661-b4a3-26299ce6aa6e"
+        },
+        {
+          "id": "6e135663-c87b-4aed-ba32-c632946f725f",
+          "textContent": "pruebo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ae69d633-8d90-4661-b4a3-26299ce6aa6e"
+        },
+        {
+          "id": "8f1094f9-dba7-4f83-967c-95ef3fdcbc05",
+          "textContent": "viernes",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ae69d633-8d90-4661-b4a3-26299ce6aa6e"
+        },
+        {
+          "id": "af402827-b028-4a26-99dc-46139833d87a",
+          "textContent": "postre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ae69d633-8d90-4661-b4a3-26299ce6aa6e"
+        },
+        {
+          "id": "b70311a0-c41f-47b6-9b12-c829daf29cd4",
+          "textContent": "en",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ae69d633-8d90-4661-b4a3-26299ce6aa6e"
+        },
+        {
+          "id": "fb7b2d35-2219-4eee-86e9-b24623c571dc",
+          "textContent": "amargor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ae69d633-8d90-4661-b4a3-26299ce6aa6e"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "bad24ae5-fa4f-4eb7-a22f-a15b849c7e2b",
+      "title": "Complete a forma depois do conector",
+      "content": "<p>Complete a frase em espanhol: <strong>Antes de que ______ el plato principal, reviso otra vez el maridaje.</strong></p><p>Tradução: Antes que o prato principal chegue, revejo a harmonização mais uma vez.</p>",
+      "contentPlain": "Complete a frase em espanhol: Antes de que ______ el plato principal, reviso otra vez el maridaje. Tradução: Antes que o prato principal chegue, revejo a harmonização mais uma vez.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a forma que aparece depois de antes de que quando o passo ainda não aconteceu.",
+      "feedbackError": "Aqui o foco é recuperar a forma que aparece depois de antes de que quando o passo ainda não aconteceu.",
+      "answerType": "buildWord",
+      "expectedAnswer": "llegue",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "69925c6c-014d-4497-910d-1903a471eaf1",
+      "title": "Recupere o ponto de partida",
+      "content": "<p>Complete a frase em espanhol: <strong>_____ que probamos el menú de mediodía, volvemos a esa taberna cada viernes.</strong></p><p>Tradução: Desde que provamos o menu do meio-dia, voltamos a essa taberna toda sexta-feira.</p>",
+      "contentPlain": "Complete a frase em espanhol: _____ que probamos el menú de mediodía, volvemos a esa taberna cada viernes. Tradução: Desde que provamos o menu do meio-dia, voltamos a essa taberna toda sexta-feira.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a forma exata que abre um hábito a partir de um ponto de virada.",
+      "feedbackError": "Aqui o foco é recuperar a forma exata que abre um hábito a partir de um ponto de virada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desde",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3eaf0408-7ba7-4c3b-8803-bbae8959e2c6",
+      "title": "Ouça o passo anterior",
+      "content": "<p>Marque só as palavras que aparecem no áudio sobre o momento antes do prato principal.</p>",
+      "contentPlain": "Marque só as palavras que aparecem no áudio sobre o momento antes do prato principal.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a28eb0bfb465482aaba793fca19acc20_phase4-b08-antes-de-que-llegue-el-plato-principal.mp3?Expires=1794099846&Signature=DJWaffOsSnAmwNSAMK4TmtjVccv-u3sRLZ5Efl9cCk1V1S5CcBzQ9jNHD0CI~gNyHhHybWkqy4ql3Z10iNQ14UF4M6HipNyS0D-6-t4gIDJSIVhYwCOPQCxGPQCWDsWgOOpWjY5TjojplnqCMZTjZ5NrXGU7k0jMV6YNHhQ6zIcM-~em1eddRi2l8SotgkrgIhuPo3~C10nz~j7l5ajUCw4SO4YLJoHUbEDZ9GO4yKL4WZX10mj10wKlR~UG5DLLeW3zuMGoINY~sKPIabh3WkRPGAs1dfRSSnZbvz~XthgDmVd3cMi10~ZpLyJvFuoDaNV08ovzNdmKqCVnycRLUA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "feedbackError": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2fe722d0-a9d9-43ad-956b-3b611c645e30",
+          "textContent": "maridaje",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3eaf0408-7ba7-4c3b-8803-bbae8959e2c6"
+        },
+        {
+          "id": "48795ed4-55f6-46d9-97bc-f600e02d80b5",
+          "textContent": "postre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3eaf0408-7ba7-4c3b-8803-bbae8959e2c6"
+        },
+        {
+          "id": "5dc4699b-a67e-40b2-845b-19e97cba33a9",
+          "textContent": "principal",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3eaf0408-7ba7-4c3b-8803-bbae8959e2c6"
+        },
+        {
+          "id": "d33d0a16-1147-4544-a3e2-edafb7dbf83e",
+          "textContent": "llegue",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3eaf0408-7ba7-4c3b-8803-bbae8959e2c6"
+        },
+        {
+          "id": "f67b1258-e49e-4c97-9072-f613cdb24df7",
+          "textContent": "antes",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3eaf0408-7ba7-4c3b-8803-bbae8959e2c6"
+        },
+        {
+          "id": "feeba99b-7983-4811-9fba-156d7c2ca640",
+          "textContent": "silencio",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3eaf0408-7ba7-4c3b-8803-bbae8959e2c6"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "b94a8533-4c48-4e83-86d6-a5cb6278982a",
+      "title": "Associe frase e função temporal",
+      "content": "<p>Ligue cada frase em espanhol ao efeito temporal mais preciso em português.</p>",
+      "contentPlain": "Ligue cada frase em espanhol ao efeito temporal mais preciso em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é distinguir o valor temporal de cada conector no comentário sobre a refeição.",
+      "feedbackError": "Aqui o foco é distinguir o valor temporal de cada conector no comentário sobre a refeição.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "9ee692cb-63b9-4d3e-9006-6a1dfefe8559",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b94a8533-4c48-4e83-86d6-a5cb6278982a"
+        },
+        {
+          "id": "bc490602-f2d6-4afc-ae93-ccec043c9503",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b94a8533-4c48-4e83-86d6-a5cb6278982a"
+        }
+      ],
+      "associations": [
+        {
+          "id": "2c4300e3-f5d6-4eec-8003-0986f13d0009",
+          "exerciseId": "b94a8533-4c48-4e83-86d6-a5cb6278982a",
+          "leftContent": "Desde que probamos el menú de mediodía, volvemos a esa taberna cada viernes.",
+          "rightContent": "novo hábito que nasce num ponto de virada e continua valendo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "756b2a77-c0e7-4c60-a870-14fc4201cfe6",
+          "exerciseId": "b94a8533-4c48-4e83-86d6-a5cb6278982a",
+          "leftContent": "Cada vez que pruebo ese caldo picante, necesito agua y unos segundos de silencio.",
+          "rightContent": "reação que reaparece sempre que o mesmo evento volta",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4bbcac24-e434-4ff7-aa32-e71635932087",
+          "exerciseId": "b94a8533-4c48-4e83-86d6-a5cb6278982a",
+          "leftContent": "Una vez que llega el postre, la conversación se vuelve más lenta y más personal.",
+          "rightContent": "nova fase da refeição depois de um marco já instalado",
+          "sequenceItem": 3
+        },
+        {
+          "id": "930906e0-e9ba-455e-ace4-549b2a42897f",
+          "exerciseId": "b94a8533-4c48-4e83-86d6-a5cb6278982a",
+          "leftContent": "En cuanto pruebo la salsa cítrica, noto el amargor del final.",
+          "rightContent": "percepção quase imediata logo no primeiro contato",
+          "sequenceItem": 4
+        },
+        {
+          "id": "14e9268b-5855-4916-abce-b2e3b7e5a79f",
+          "exerciseId": "b94a8533-4c48-4e83-86d6-a5cb6278982a",
+          "leftContent": "Antes de que llegue el plato principal, reviso otra vez el maridaje.",
+          "rightContent": "ação colocada antes de um passo que ainda vai acontecer",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "3a7ee8dd-7470-406d-9f5f-5fe41a21417c",
+      "title": "Ouça e ligue sem apoio",
+      "content": "<p>Relacione os cinco áudios diretamente às frases em espanhol. Use só as pistas da própria língua.</p>",
+      "contentPlain": "Relacione os cinco áudios diretamente às frases em espanhol. Use só as pistas da própria língua.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "feedbackError": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "92274cfc-9fb6-48eb-816e-e6d521ab55e3",
+          "exerciseId": "3a7ee8dd-7470-406d-9f5f-5fe41a21417c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2fbcd7452d8a4e1db0a9b64a457953ad_phase4-b01-desde-que-probamos-el-menu-de-mediodia.mp3?Expires=1794099846&Signature=afan7JD3Gw5Gs3ZgPnAp5kZVyP89UkHn94PvjbzZoB4g9wqaEkI0~sirjDARX0JAoYeuKTP08k~BzDrJA6McJg14VX3oEKSBOQqPnT9f7WxWnGIFH26OAWZ1y~O7OTHn5JqmisxTZbZiYagkwoW7PEKN5OziZXK~jmH0-UfkW38XQvPDAFj5MjkNz2NW5SBb8JnpV5oa2Xe3WPf4PVUJaTcd5B2TL5STp3wq9u15WQbTiH-7Y17bWRvtLDT1aIExowtUPN5uxmLF-CDF7wBPMSFSUqwaz9cTLXXAcn9ntCGh8E0EqxfrQR36LIoIr7PqnA7y9wlSre64Hq3rdtCPVw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Desde que probamos el menú de mediodía, volvemos a esa taberna cada viernes.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "131ed97a-75e3-4614-970f-606e6bb556c5",
+          "exerciseId": "3a7ee8dd-7470-406d-9f5f-5fe41a21417c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4fc8a8e93b1242499af3554bd132620a_phase4-b03-cada-vez-que-pruebo-ese-caldo-picante.mp3?Expires=1794099846&Signature=1TzZ79xU4a8ggtgpgQMQU6Y8hRLteaVgRTvMevOR9GH30iDRkVwEzgst8d2npC~kt-iq0GBQdZJA-fHtBw6V9a3lTUlUjXLDtF7l-~DyEffoSoro4djYYzIuQuuccj4IB4pYXtbvKRIVB4RY6QuftG4srZlx52Sku6v-xTf9fS2DziwxK9xkG-zghh-Ma3wYK9x2daOGaN9WIN8SiG52QerY8Vr6dd~z6YXvAWpsT6c2vYS82zDH~zTJjNYXLSw2zu9cds4QtyooqK2Rv3tjtDsK-1fIIhStGZzzxP6T3TLcpCFqdetLKPE6S695QLK-pYxYx0Csq0hJVltQcFYlDQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cada vez que pruebo ese caldo picante, necesito agua y unos segundos de silencio.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "93002c07-6ff9-4a57-b99e-4177fecf45d8",
+          "exerciseId": "3a7ee8dd-7470-406d-9f5f-5fe41a21417c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c83f428cf8344beaa189dc1ba197ad17_phase4-b05-una-vez-que-llega-el-postre.mp3?Expires=1794099846&Signature=acWhqJl-WT8xmtiZW-m~2F3HCfAjK-lHVuoCu1Ce7p9HbzJMoLGUExsGYD8kCyZmbjb9yY41G-VEA5fCKJy4LKNyeygxqk5d1vuZHoFmRg6bcyPEdGYIajxBi2F61pIRlI~usOvxJnmEyUli~StAGZPQdqisQj0-Uuw7ly5LkS4iCHhL-5262bGF70qtR6zairHf~vjLcp7LGTu-2FKpYwzY65-TwQSI3WD0ub1Uuu-rhKF5l5Ft-iVIpDLTQNOpBqxmW30D5TDkwH1qMa~0Hr7ngvjIWHGohFRvsXUdzJmE1fcuvuBz3IzDShHn5IpLgYnM20-Vf79Aea0OlF-WtA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Una vez que llega el postre, la conversación se vuelve más lenta y más personal.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "79f72d13-8edf-4fc3-9bc1-4615c8239d8a",
+          "exerciseId": "3a7ee8dd-7470-406d-9f5f-5fe41a21417c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1843e834319d49dcbf6a8c391fc47b5c_phase4-b06-en-cuanto-pruebo-la-salsa-citrica.mp3?Expires=1794099846&Signature=yOeFSA90zZRIj4onK5fmvL-eutINawZO37Q6Rd9rq~0q~1D9DLWWuanY7qpWrSoSr2XY3iV1Bewr9CYl8Cg7Y8Z245xY-RfYHlcuKOLNFnPoM6YuK4mM90k5Yf-BzUuH-s6vKGJesguIqsBfh4C1HJIM1jMMJRiswRTzN3b6So6R4LgHr8OjZ7P3mwHkXPXxMO~QFUiNU9Yvokok9BBVUXGkR9KZjXkLG14YgqWd3Nrjme1dMxjoUQyJh~VR~h2IDcqblcTbfoO3DTkd5czIfLqr30GbM1ApD10a50g32DYzLaG~EyHwufE3gNi0BRiY7PfO9OEZ5Vvlh3e~BDWFcg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En cuanto pruebo la salsa cítrica, noto el amargor del final.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "955c963f-c6a6-40fd-bbc9-a7083ffe54c5",
+          "exerciseId": "3a7ee8dd-7470-406d-9f5f-5fe41a21417c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a28eb0bfb465482aaba793fca19acc20_phase4-b08-antes-de-que-llegue-el-plato-principal.mp3?Expires=1794099846&Signature=DJWaffOsSnAmwNSAMK4TmtjVccv-u3sRLZ5Efl9cCk1V1S5CcBzQ9jNHD0CI~gNyHhHybWkqy4ql3Z10iNQ14UF4M6HipNyS0D-6-t4gIDJSIVhYwCOPQCxGPQCWDsWgOOpWjY5TjojplnqCMZTjZ5NrXGU7k0jMV6YNHhQ6zIcM-~em1eddRi2l8SotgkrgIhuPo3~C10nz~j7l5ajUCw4SO4YLJoHUbEDZ9GO4yKL4WZX10mj10wKlR~UG5DLLeW3zuMGoINY~sKPIabh3WkRPGAs1dfRSSnZbvz~XthgDmVd3cMi10~ZpLyJvFuoDaNV08ovzNdmKqCVnycRLUA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Antes de que llegue el plato principal, reviso otra vez el maridaje.",
+          "sequenceItem": 5
+        }
+      ]
+    }
+  ],
+  "title": "Amarrar o tempo de uma experiencia a mesa"
+}

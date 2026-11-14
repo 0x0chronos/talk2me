@@ -1,0 +1,14 @@
+Options -Indexes
+DirectoryIndex index.html
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L]
+<FilesMatch "^\.">
+  Require all denied
+</FilesMatch>
+<IfModule mod_headers.c>
+  <Files "sw.js">
+    Header set Cache-Control "no-cache"
+    Header set Service-Worker-Allowed "/"
+  </Files>
+</IfModule>

@@ -1,0 +1,478 @@
+{
+  "attemptId": "7c7963d8-9a0d-4a18-9dfd-5e89401add68",
+  "exercises": [
+    {
+      "exerciseId": "6c448f88-704e-4862-8b8a-b5889b420f6a",
+      "sequence": 1,
+      "lessonId": "f2949785-0694-4084-a662-34d2fa78ff7c",
+      "title": "Reconstrua o retrato pela escuta",
+      "content": "<p>Resolva sem apoio em português, distinguindo o fragmento exato que cada linha ativa dentro do perfil profissional.</p>",
+      "contentPlain": "Resolva sem apoio em português, distinguindo o fragmento exato que cada linha ativa dentro do perfil profissional.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta de desafio pede reconhecer o fragmento certo dentro de um retrato mais denso.",
+      "feedbackError": "A escuta de desafio pede reconhecer o fragmento certo dentro de um retrato mais denso.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "9192fb1a-8de8-4513-9c76-1fcedc705591",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/aeff4092982944fb926db00fdccfa0a1_ex-b03-iniciativa.mp3?Expires=1794099883&Signature=lSj3OAlV-P5gICFaHgAASsw0t4lGWNd4z-IJQreAn4OWvUIP-qTuRLP5Gt2q-nyDI5KdBBvKWrdsRWAncN~nSKLLCQbsmBj-iZrGpoUGf5eF24s25NWXayGqZZYmPVr~LkEP6A68qcYH4qkP1e7dBlHM768qrqzkfgvvm6~zXZvm9c1ZRP3F3izCsz2rzrmd44Hk7a23lmqfWmSzkheWvyRZBGZ33GEbJlW2FOf7M4R4kqG9AwL9hDh6P3nfkjK01vwNiz44aFI746-atq-jDQUEIiUWQWZxffzMn~ri-S-Eg8PQsyfU6hp5XGMRCoXRSY1khVBNqJHrTetKBa1NDw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "propone ajustes viables, pide contexto cuando hace falta",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d8b32c59-d45a-42c3-82b8-a2f790ba44c3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1356e387627a4284beb5b5406fd81d22_ex-b04-encaixe.mp3?Expires=1794099883&Signature=wcuGt4ouSJA14tYJkUkuatimbq0gwOfREerDb72~HXjfNiequtBnoQ30C-WSCmt06kq3NAFrDgHxkSd2cyaoeH7FaY664UBDE0HvxKHB1Hcxo1kQ~~wy9hAHg11XkftMV7pQJNga-hZbet0GySm~ct74ZPxEq3v11lHVld7H5rTr~Tpu1puiDtOsTSgNlH3tjemvBOi3~jnE9n3nK7zjX8pocjPkW8JyK5GQuMOmckHb9-fjDZhBZIHVK43J3NatVv~aFyUXjDc6OIdjPAs41FVHPkBT9vMtsIeCq~E7DbCv-Clvw91QgF2MZEKJxqQAyiURGgQzRBb6MWde2W3MOw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "escucha, reformula y no pierde el foco común",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b13f5ffd-cefc-420e-bfaf-d857ab60297f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/878123187a0248279746eef54c852c0d_ex-b05-matiz.mp3?Expires=1794099883&Signature=ZqIvACNznoG~jKBBmCQr10Z3MgmMHQervjKZvYm7jeDzj4HH4-2dkUE9b9qWfQ4APhoUWAQDjYhmpd8eCrnXqoxcR3lK0RnROdlhyU3OlrrS-NFeGhdyruYaZXp6oRNSXy-hWQy-zcUFeIlE-jO4YC2lvaAujIdwLtS0iFjdDK1ohkBiRNY-hGUxSFXUhRIs6vVQ4qxr9DB3wg79YWXlrHnEGwno4-cg3yIYYe05CPbt1OTNdr5kb~xnQd1a1Ljpv7YzwPMh8bjLuhaUaTKVGXREr0ROYXre8RhzINJqujDLXYsCS4GUWm~8yRkmPHJ-VOtoYwvmlR1wTgHXxt-VEQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "aunque necesita un marco compartido para priorizar",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "f90d4237-0d2d-4ee4-a99c-d38bf4bd2181",
+      "sequence": 2,
+      "lessonId": "7710b3f4-3f37-4261-8e9c-ca124fb1f463",
+      "title": "Recupere o percurso da selecao",
+      "content": "<p>La consultora lleva dos meses con una _______ abierta en el equipo de datos.\nTradução: A consultoria está há dois meses com uma vaga aberta na equipe de dados.</p>",
+      "contentPlain": "La consultora lleva dos meses con una _______ abierta en el equipo de datos. Tradução: A consultoria está há dois meses com uma vaga aberta na equipe de dados.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vacante destaca a vaga aberta que ainda precisa ser preenchida, e não a função em geral (puesto).",
+      "feedbackError": "Vacante destaca a vaga aberta que ainda precisa ser preenchida, e não a função em geral (puesto).",
+      "answerType": "buildWord",
+      "expectedAnswer": "vacante",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0eb8b50f-3978-444e-a028-ac3db5a6c51d",
+      "sequence": 3,
+      "lessonId": "b62164dc-2120-4de2-806b-31ec8bba9d6a",
+      "title": "Ouça o referente com preposicao",
+      "content": "<p>Marque só as palavras que aparecem no áudio sobre o contato com o candidato.</p>",
+      "contentPlain": "Marque só as palavras que aparecem no áudio sobre o contato com o candidato.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/abe9d75b11bb4efaab7b730157f2958b_b04-el-candidato-al-que-escribio-el-equipo-de-seleccion.mp3?Expires=1794099883&Signature=H1Xc-zdeMcjKOMUT7He3agMY8PWob24esdl32DIMJnT3yZxn~sE25e4QWCk-pg4ZA5Gh7sRZ8JkYP01GD6pWGd6BjN596MEm18ivNcKlbYc7iH4yyhTIUqi0FcZJcsqXIxtAfjnz82Fc4g7o1z0Xjx3da2-UO4jTnJ2ywSLSNSfrHvVQToG8AD3hyuWBM75nqudATNhieZ3Rpbwpb~1wEc8M~SoSLxFemOOdGyNIdsAHiMIEukseUzyW3o44lOuCQMR04IVlesvssVowvap68DjmWtMEOCjJPqzyM4uecz1hiZs9L1ZSzYBMKpSXdV6Q08N4qpF5PxsAFrREg2c9hQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui o foco é ouvir al que dentro de uma frase que mantém a preposicao ligada ao referente.",
+      "feedbackError": "Aqui o foco é ouvir al que dentro de uma frase que mantém a preposicao ligada ao referente.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "202f7918-1933-43bd-a7e4-2fea9b3f1f3a",
+          "text": "propuestas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2b495062-2b8c-4223-8142-d3582e0dce08",
+          "text": "escribió",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "32170f2b-b09f-492f-bfa3-72c8418674d6",
+          "text": "selección",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "83cf503c-6db3-44b5-ac85-bf384200cc49",
+          "text": "mensual",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a38a20bd-dbe7-40a4-b410-5cfc30662fca",
+          "text": "candidato",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eae8f8eb-4ab7-4fde-9606-76d9f1f663b2",
+          "text": "pidió",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f58d9cbe-be09-49c7-b594-cdc1040168ed",
+      "sequence": 4,
+      "lessonId": "7710b3f4-3f37-4261-8e9c-ca124fb1f463",
+      "title": "Recupere o percurso da seleção",
+      "content": "<p>El _______ de selección se alargó porque el equipo buscaba un perfil muy específico.</p><p>Tradução: O processo de seleção se alongou porque a equipe buscava um perfil muito específico.</p>",
+      "contentPlain": "El _______ de selección se alargó porque el equipo buscaba un perfil muy específico. Tradução: O processo de seleção se alongou porque a equipe buscava um perfil muito específico.",
+      "fileUrl": null,
+      "feedbackSuccess": "Proceso de selección deixa o comentário falar de etapas, critérios e ritmo.",
+      "feedbackError": "Proceso de selección deixa o comentário falar de etapas, critérios e ritmo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "proceso",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "314180a6-0908-4664-847a-28757407b8b0",
+      "sequence": 5,
+      "lessonId": "9095817d-f78b-4530-99af-2d7e41fd5bbe",
+      "title": "Recupere a palavra do apoio firme",
+      "content": "<p>No cabe ____ de que Inés resuelve bien los imprevistos.</p><p>Tradução: Não há dúvida de que a Ines resolve bem os imprevistos.</p>",
+      "contentPlain": "No cabe ____ de que Inés resuelve bien los imprevistos. Tradução: Não há dúvida de que a Ines resolve bem os imprevistos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta atividade reforça a moldura de convicção alta usada para respaldar uma avaliação.",
+      "feedbackError": "Esta atividade reforça a moldura de convicção alta usada para respaldar uma avaliação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "duda",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "95344003-25dd-4340-a3b9-e4c541b7ed26",
+      "sequence": 6,
+      "lessonId": "62db8832-28b9-40e2-97e1-c4462f2735d4",
+      "title": "Recupere o efeito interno",
+      "content": "<p>Paula es responsable de cuentas clave. Acompaña a los clientes estratégicos y ________ sus prioridades al equipo.</p><p>Tradução: Paula é responsável por contas-chave. Ela acompanha os clientes estratégicos e leva suas prioridades para a equipe.</p>",
+      "contentPlain": "Paula es responsable de cuentas clave. Acompaña a los clientes estratégicos y ________ sus prioridades al equipo. Tradução: Paula é responsável por contas-chave. Ela acompanha os clientes estratégicos e leva suas prioridades para a equipe.",
+      "fileUrl": null,
+      "feedbackSuccess": "O perfil de ponte fica claro quando a prioridade externa vira alinhamento interno.",
+      "feedbackError": "O perfil de ponte fica claro quando a prioridade externa vira alinhamento interno.",
+      "answerType": "buildWord",
+      "expectedAnswer": "traslada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7e8e6398-a657-4c24-9dc3-e0e4c712879a",
+      "sequence": 7,
+      "lessonId": "62db8832-28b9-40e2-97e1-c4462f2735d4",
+      "title": "Recupere a área da função",
+      "content": "<p>Sergio es responsable __________. Supervisa el presupuesto del área y detecta desvíos a tiempo.</p><p>Tradução: Sergio é responsável financeiro. Ele supervisiona o orçamento da área e detecta desvios a tempo.</p>",
+      "contentPlain": "Sergio es responsable __________. Supervisa el presupuesto del área y detecta desvíos a tiempo. Tradução: Sergio é responsável financeiro. Ele supervisiona o orçamento da área e detecta desvios a tempo.",
+      "fileUrl": null,
+      "feedbackSuccess": "O cargo já aponta o território de responsabilidade.",
+      "feedbackError": "O cargo já aponta o território de responsabilidade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "financiero",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9e937a68-41aa-4db9-b200-1e662228d2a8",
+      "sequence": 8,
+      "lessonId": "9095817d-f78b-4530-99af-2d7e41fd5bbe",
+      "title": "Ouça a objeção estruturada",
+      "content": "<p>Marque só as palavras que você identifica na frase sobre prontidão para liderar.</p>",
+      "contentPlain": "Marque só as palavras que você identifica na frase sobre prontidão para liderar.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6b9211a21caf4c85b68fd55efe43add7_b08-no-cuestiono-que-haya-mejorado-pero-para-liderar-el-equipo-todavia-necesita-mas-capacidad-de-escucha.mp3?Expires=1794099883&Signature=VbYJ20oqhtSKDG3ppJmqd9YGOvWTxRmwYteskA2yGhJRUbLe3IB~SkK9caOI15CK9gYVmigIuaznmjZG3IBZLJmws89TlCWSBuZA4Mk79vhilMM11zc7ka87iVpXsI8O~D-KfIs15IMr1utYp39XU97xmMZoMPYcRKmAVLFzekVTok-4gQS4Vev8mG9Dc-Eytd2c7IV3JJgry9SziTcyf2BIwIles5N86PIN~imw7tYg~lxIztqqJEPTAyy6OABX01CM5iw0722sh8dbQoz7GQhyB~5IQ7hAnWf51YQZUD~6yrX1H5AZ2HxKYOHmmk015ikmeyr2obnT~qHR6gl43Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta atividade reforça a escuta fina da moldura que concede um ponto antes de objetar.",
+      "feedbackError": "Esta atividade reforça a escuta fina da moldura que concede um ponto antes de objetar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "d09787b9-2eef-48c0-bafb-79ea6404f208",
+          "text": "delegar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "00790162-7785-4b83-9be2-f5c9998b4c59",
+          "text": "mejorado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "45019881-0e8a-4af7-8a6d-98e5e1edf31b",
+          "text": "escucha",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "61749b2e-03e8-412d-b4b5-88f352cb64f1",
+          "text": "cuestiono",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "72d43f0d-c83f-4fe8-8122-6857abddcfe1",
+          "text": "duda",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7da7eef8-9120-4ac3-b85f-57676f17006b",
+          "text": "liderar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ae56fe27-da88-447b-8db5-bfae33d324bb",
+          "text": "claro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bc48bc75-e891-4418-81d0-b17f91a22d15",
+          "text": "imprevistos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "d1f89ba3-3edd-4227-b7f5-65ba37171819",
+      "sequence": 9,
+      "lessonId": "b62164dc-2120-4de2-806b-31ec8bba9d6a",
+      "title": "Feche a escolha entre opcoes",
+      "content": "<p>De las dos propuestas, __ que evita m&#225;s retrabajo tambi&#233;n es la m&#225;s f&#225;cil de implementar.</p><p>Tradu&#231;&#227;o: Das duas propostas, a que evita mais retrabalho também é a mais fácil de implementar.</p>",
+      "contentPlain": "De las dos propuestas, __ que evita más retrabajo también es la más fácil de implementar. Tradução: Das duas propostas, a que evita mais retrabalho também é a mais fácil de implementar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar la que como forma que separa uma opção entre várias.",
+      "feedbackError": "Aqui o foco é recuperar la que como forma que separa uma opção entre várias.",
+      "answerType": "buildWord",
+      "expectedAnswer": "la",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "53d07f90-2626-407c-8f94-7a9c5614b2c8",
+      "sequence": 10,
+      "lessonId": "62db8832-28b9-40e2-97e1-c4462f2735d4",
+      "title": "Separe responsabilidade e efeito",
+      "content": "<p>Ligue cada fragmento em espanhol ao tipo de leitura funcional que ele pede, sem se apoiar só no nome do cargo.</p>",
+      "contentPlain": "Ligue cada fragmento em espanhol ao tipo de leitura funcional que ele pede, sem se apoiar só no nome do cargo.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio aqui é ler responsabilidade e impacto sem ficar só no rótulo do cargo.",
+      "feedbackError": "O desafio aqui é ler responsabilidade e impacto sem ficar só no rótulo do cargo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "c2bfbec0-f069-45a6-82c1-06e95b5d68c3",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f767eba0-db8b-44e4-96a0-d30a293b52a1",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "fd10f842-de52-44e6-a75d-74a425707757",
+          "leftContent": "lleva el turno de tarde",
+          "rightContent": "mostra quem sustenta o fluxo diário da operação",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ac5eb213-aad6-437e-abb2-e72aec65f519",
+          "leftContent": "detecta desvíos a tiempo",
+          "rightContent": "explicita o valor preventivo do controle financeiro",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6a0fbf35-5e50-46d2-8c8e-23e3b940914b",
+          "leftContent": "traslada sus prioridades al equipo",
+          "rightContent": "converte prioridades externas em alinhamento interno",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "72059e8c-be9e-4356-b9e7-abfd4bfb65e3",
+      "sequence": 11,
+      "lessonId": "f2949785-0694-4084-a662-34d2fa78ff7c",
+      "title": "Recupere a iniciativa util",
+      "content": "<p>No espera a que le marquen cada paso: _______ ajustes viables, pide contexto cuando hace falta y sostiene el ritmo sin absorber toda la atención.</p><p>Tradução: Não espera que ditem cada passo: propõe ajustes viáveis, pede contexto quando faz falta e sustenta o ritmo sem puxar toda a atenção.</p>",
+      "contentPlain": "No espera a que le marquen cada paso: _______ ajustes viables, pide contexto cuando hace falta y sostiene el ritmo sin absorber toda la atención. Tradução: Não espera que ditem cada passo: propõe ajustes viáveis, pede contexto quando faz falta e sustenta o ritmo sem puxar toda a atenção.",
+      "fileUrl": null,
+      "feedbackSuccess": "A iniciativa forte da aula aparece como ajuste viavel, contexto e ritmo.",
+      "feedbackError": "A iniciativa forte da aula aparece como ajuste viavel, contexto e ritmo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "propone",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "246df5c0-262e-4aee-8f76-88e7e2956e74",
+      "sequence": 12,
+      "lessonId": "9095817d-f78b-4530-99af-2d7e41fd5bbe",
+      "title": "Associe comentário e uso",
+      "content": "<p>Ligue cada linha do recap ao momento profissional em que ela faz mais sentido.</p>",
+      "contentPlain": "Ligue cada linha do recap ao momento profissional em que ela faz mais sentido.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta atividade reforça quando cada moldura se encaixa em recomendação, ressalva e objeção.",
+      "feedbackError": "Esta atividade reforça quando cada moldura se encaixa em recomendação, ressalva e objeção.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0cead819-86fb-414d-b6d0-6e279d14b118",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b210efc5-3662-4f7a-ac26-60e01e4c55f2",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "552c26cf-6192-4e9f-96e2-86ee0f71f384",
+          "leftContent": "No cabe duda de que Inés resuelve bien los imprevistos.",
+          "rightContent": "respalda uma recomendação firme",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9334a571-513f-4a21-a2b5-66d90fb74475",
+          "leftContent": "Estoy de acuerdo hasta cierto punto, pero le cuesta delegar.",
+          "rightContent": "aceita parte da avaliação, mas marca um limite",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1c131283-d92b-4e71-9408-88ab2f9a18cd",
+          "leftContent": "No lo veo tan claro: en la última entrega repartió mejor las tareas.",
+          "rightContent": "freia uma conclusão apressada com critério",
+          "sequenceItem": 3
+        },
+        {
+          "id": "deae1694-dc08-4a38-8292-5ed25af8ff66",
+          "leftContent": "No cuestiono que haya mejorado, pero para liderar el equipo todavía necesita más capacidad de escucha.",
+          "rightContent": "reconhece melhora antes de uma objeção mais pesada",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "2e0d7c7a-90db-4345-acb0-23019f772e41",
+      "sequence": 13,
+      "lessonId": "f2949785-0694-4084-a662-34d2fa78ff7c",
+      "title": "Complete o gesto de encaixe",
+      "content": "<p>Encaja bien en equipos donde hay cambios de prioridad, porque escucha, _________ y no pierde el foco común.</p><p>Tradução: Encaixa bem em equipes em que há mudanças de prioridade, porque escuta, reformula e não perde o foco comum.</p>",
+      "contentPlain": "Encaja bien en equipos donde hay cambios de prioridad, porque escucha, _________ y no pierde el foco común. Tradução: Encaixa bem em equipes em que há mudanças de prioridade, porque escuta, reformula e não perde o foco comum.",
+      "fileUrl": null,
+      "feedbackSuccess": "O encaixe operativo da aula depende de escuta, reformulação e foco comum.",
+      "feedbackError": "O encaixe operativo da aula depende de escuta, reformulação e foco comum.",
+      "answerType": "buildWord",
+      "expectedAnswer": "reformula",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ec76181f-5e6a-486b-a68e-d65fe4734b4e",
+      "sequence": 14,
+      "lessonId": "7710b3f4-3f37-4261-8e9c-ca124fb1f463",
+      "title": "Recupere a aplicação avaliada",
+      "content": "<p>Su ___________ ganó peso cuando presentó resultados concretos del último proyecto.</p><p>Tradução: A candidatura dela ganhou peso quando apresentou resultados concretos do último projeto.</p>",
+      "contentPlain": "Su ___________ ganó peso cuando presentó resultados concretos del último proyecto. Tradução: A candidatura dela ganhou peso quando apresentou resultados concretos do último projeto.",
+      "fileUrl": null,
+      "feedbackSuccess": "Candidatura permite avaliar a força da aplicação dentro do processo.",
+      "feedbackError": "Candidatura permite avaliar a força da aplicação dentro do processo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "candidatura",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0dd5d5fa-d19e-4ef4-aa93-1d7e5054ebce",
+      "sequence": 15,
+      "lessonId": "b62164dc-2120-4de2-806b-31ec8bba9d6a",
+      "title": "Associe pontuacao e leitura",
+      "content": "<p>Ligue cada exemplo ou pista ao efeito que a relativa cria quando identifica ou apenas comenta o referente.</p>",
+      "contentPlain": "Ligue cada exemplo ou pista ao efeito que a relativa cria quando identifica ou apenas comenta o referente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é separar relativa que identifica de relativa que só acrescenta contexto.",
+      "feedbackError": "Aqui o foco é separar relativa que identifica de relativa que só acrescenta contexto.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2b59a101-6476-4505-ae4b-55b7aa72f47f",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "80af307f-ec01-4d6e-945d-21c42d0d11ce",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "b98ddd07-0980-4968-bbba-a5d0ad81fca1",
+          "leftContent": "La persona que llevaba meses resolviendo incidencias críticas asumió la coordinación regional.",
+          "rightContent": "seleciona qual pessoa assume o novo papel",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3eecb36c-5205-4388-b4d4-a50c2b2d0a11",
+          "leftContent": "Sofía, que llevaba meses resolviendo incidencias críticas, asumió la coordinación regional.",
+          "rightContent": "só acrescenta um dado sobre Sofia",
+          "sequenceItem": 2
+        },
+        {
+          "id": "50903ae3-602f-4fc9-bb9b-8b733308b73e",
+          "leftContent": "sin comas",
+          "rightContent": "o referente ainda precisa ser delimitado",
+          "sequenceItem": 3
+        },
+        {
+          "id": "21ce714b-833a-48b3-9121-b453fc9af9b3",
+          "leftContent": "entre comas",
+          "rightContent": "o referente já está claro antes da relativa",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ]
+}

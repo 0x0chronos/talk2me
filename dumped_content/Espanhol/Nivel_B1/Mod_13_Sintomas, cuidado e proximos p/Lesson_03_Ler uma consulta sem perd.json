@@ -1,0 +1,628 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+    "attemptId": "2fe80cb6-d7b6-4718-8dbe-bf2c3dd89701",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "2f27f023-c72b-4a79-807d-4d45926d58e7",
+      "eec3d8df-092d-44dc-9b79-bbbf2acf1d34",
+      "d8c6f0ee-d8a0-45b2-8bda-17fa0e920fdc",
+      "915b3964-9e08-4a98-b785-4baa3ab001f3",
+      "1a8e4bff-10b2-429c-9739-2015a2890084"
+    ],
+    "evaluationExerciseIds": [
+      "1f7a7265-1f3c-49b2-8b40-e339c2d2bc00",
+      "d489d973-f1c2-4bd4-aeee-737611549e29",
+      "3bb33b88-a102-4f19-9cb4-c349cfa010ff",
+      "4d29c2fd-4ece-494c-acb9-63f2ff070ee5",
+      "f215f800-925a-4850-beb3-be73f6eabb19"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:34.0101234Z"
+  },
+  "contents": [
+    {
+      "id": "e7657e75-4e3b-46a2-8547-7ebaf37ec34d",
+      "title": "Leia a orientação e prepare-se para buscar queixa, pergunta importante e recomendação inicial.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "7c56c11a-a492-4dcf-a904-f0c07a80158b",
+          "textContent": "<p>Nesta leitura, não tente traduzir tudo.</p><p>Procure três pontos: a <strong>queixa principal</strong>, a <strong>pergunta que muda o rumo</strong> e a <strong>recomendação inicial</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "dcff2242-35ed-4499-919b-ddf80c875827",
+      "title": "Escute e leia a frase que abre a consulta.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "75e6c69e-b43e-46c3-aefb-3336979d1470",
+          "textContent": "<p>Primeiro, aparece a queixa da pessoa.</p><p><strong>Llevo tres días con dolor de garganta y me encuentro peor.</strong></p><p>Em português: <strong>Estou com dor de garganta há três dias e estou pior.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c5ab3d71b30244829eb970596b23d7ae_l03b02-queja-principal.mp3?Expires=1794099634&Signature=Cv6fsNH7FUvr~haZzCy3~wJKoROJdynOShzOVZ4~jhamwfSfp1WX93lD8qy48rKgm5OfyplR9FemOSScl9IvLWx7lxCLjx2Btbk2Z9askdVTj0bWJxjEtFt7ncBmyhj1NdLV1ffnw1Nehe4bXeoYUeacBbhrxyuFcBQvnDF9ovxXeTTeFeNFDSZRaIaVd8bDDzcHLfG6z8ZO0ZE3za7OhaSkdssI86VzKrBBqcFGs2s19PMk5Tr4X1s7mjifB-G4pisjBbGb2sqj235w7lWvdxJK6nxNKReGPVjqVtSW4On3kxOiWHAFeILW6JNI2eUSs0rlEyTdJof1eiQgR5vJQw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d0819fe8-f007-4ed0-99d9-680c12a01861",
+      "title": "Leia a nota curta e observe quais pistas já aparecem nessa primeira frase.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "b8f249e4-cce7-443e-ab13-18a0c66dbdd0",
+          "textContent": "<p>A queixa principal costuma aparecer logo no começo.</p><p>Aqui, a pessoa entrega o <strong>sintoma</strong>, a <strong>duração</strong> e a <strong>mudança do quadro</strong>.</p><p>Isso já basta para entender o problema central sem tradução linha a linha.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "70134c22-7aa4-4812-98c2-6778702288e6",
+      "title": "Escute e leia a pergunta importante da consulta.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "eeb96935-f6a2-44f1-8496-571e0540802f",
+          "textContent": "<p>Agora veja a pergunta que afunila a leitura.</p><p><strong>¿Tienes fiebre?</strong></p><p>Em português: <strong>Você tem febre?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/393d49bbaa3943b1b648ef6eb5c62f58_l03b04-pregunta-clave.mp3?Expires=1794099634&Signature=pxtvOIO3XdSfgg2PVUUfW0EAdrtE3UboVFnfKsmPkxSFM0y7kh~wbhEE95oTILDDQaEhXifQxvDFscI-tfB5Xwu13oCb5hg7wDqMKEYFhdFuScd5cFvN4Ew9WbyuoOLr9Pt5kYJvitwQboViMM-CBjheQKnwe1~6gz54gCd2Vb--ZYwtCMTWQuVeIsQ-SuRpi7qGkxIo3hEpC4ednGi7EcLHIxTNszpeI3LaKBl0UZsH8g6iXpApjhJa00j79g69Mq3AEICOH1q80chJWKVJ1wZH5C9MyNcTa4fyhlNsy0mgl4AKrWVECjL2pf8CS6~uAk5~j~VvBFqz4pairKMs0w__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "45486da2-0930-42ed-a632-9ee1fecf3da5",
+      "title": "Leia a nota e observe por que essa pergunta importa tanto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "8cbd2f75-280c-4f24-be0a-db3bc0d9c936",
+          "textContent": "<p>Essa é a pergunta importante porque ela testa outra pista do quadro.</p><p>O profissional ainda não recomenda nada: primeiro confirma um detalhe que pode mudar o próximo passo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6dc78219-29e9-41d1-8562-34a513c5ffa4",
+      "title": "Escute e leia a recomendação inicial.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "337618d0-5e75-4b52-96eb-708a615113aa",
+          "textContent": "<p>Depois da pergunta, aparece a primeira orientação.</p><p><strong>Lo primero es descansar hoy.</strong></p><p>Em português: <strong>A primeira coisa é descansar hoje.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/79d328e0396a49f29fa3e8f7e27c8ee3_l03b06-recomendacion-inicial.mp3?Expires=1794099634&Signature=fusr9DpEXWZ4uZqrGzaUbDYkhlxLqiZl-2COm7GBhjhqcoQZ7ilFluJSGUPuf1C-XzvI3vYJhoRL17ZXnPLNFpW62ZJfT~9ZdlR6bL5qfmgNDsKAK8zz3sJ7C4IGseyC0QafYWIENFAODAIgzICoFb6lbqQ1mHwwOB6Bd0Te~wPkZhb1N9qYhTIpaQ-IgjmSnyplhnf4OoWJZoBqIsAGxW2aU6ktUgKNG~5YdgSVTtx4BtZdAmrMRE5Q~38F576hpnd-g--uqZ62QbtBTzlpunIEwYdH~Tod9bGeNTReFrKe7HuvYqEw99clvVeLQTan40PqDWhBEdrwL6HhMzKmTw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ac9a914a-f307-41e3-b364-a0fac56bcbb9",
+      "title": "Leia a explicação curta e observe o foco dessa orientação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "1fee5476-9f16-420a-9fae-34f364d1d523",
+          "textContent": "<p><strong>Lo primero</strong> sinaliza a recomendação inicial.</p><p>O foco aqui não é dar um diagnóstico completo, mas indicar o <strong>próximo passo imediato</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "65df126b-0950-4bda-b56c-59be513c055a",
+      "title": "Leia o fechamento e guarde a ordem que ajuda você a acompanhar consultas curtas.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "6104968e-a0e5-412b-a6c7-6c7507e32d85",
+          "textContent": "<p>Em clínicas, teleatendimentos e consultas breves, esse fio aparece com frequência.</p><ul><li><strong>Queja principal:</strong> Llevo tres días con dolor de garganta y me encuentro peor.</li><li><strong>Pregunta importante:</strong> ¿Tienes fiebre?</li><li><strong>Recomendación inicial:</strong> Lo primero es descansar hoy.</li></ul><p>Se você reconhece essa sequência, já acompanha o essencial da consulta sem se perder.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "2f27f023-c72b-4a79-807d-4d45926d58e7",
+      "title": "Ouça e marque as palavras da queixa",
+      "content": "<p>Escute a abertura da consulta e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a abertura da consulta e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/06d66196dc65473c83d6a75458ed23bc_l03b02-queja-principal.mp3?Expires=1794099634&Signature=dXu7rZ-YtRkW1jCFGW3PBJaHGXvTVqYa07GD4r6k8k8BwsQtQHjPBkkWAtSoM9KdKmPV1E6w0IwVMqHb3jVYzw~4OrKJ-MCvTltDsoMpAjXxlOBzm~NiYnKAMq7tyhdKiO0M3YfPtLU2sk0CcdaxNfBvcNAy-f0A3PlL2C8JpF5zQ8Skutuwdm7J1rUlq~CwUz~i7tMk8YcVqi0fcQ~oNte9ckzDGN6092~xgfASYOKYJ-O6fDPmWWl1-TLtmI5w8sDllE-EXoiupxG12C2afQam4iDFCIVgGrGRYPBQLslq4SGAAKRx2KyYWwSFcibsvXWZTX1Vk3U1cPpxpDH3QQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A queixa principal já concentra sintoma, duração e piora do quadro.",
+      "feedbackError": "A queixa principal já concentra sintoma, duração e piora do quadro.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "04fd1183-6aa8-4eb2-8b70-0076a413b4b9",
+          "textContent": "llevo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2f27f023-c72b-4a79-807d-4d45926d58e7"
+        },
+        {
+          "id": "41769e7d-51a6-4646-9d67-5877058dac03",
+          "textContent": "tres",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2f27f023-c72b-4a79-807d-4d45926d58e7"
+        },
+        {
+          "id": "5da565b4-8dc7-4d12-b83b-8e6c42bd46db",
+          "textContent": "descansar",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2f27f023-c72b-4a79-807d-4d45926d58e7"
+        },
+        {
+          "id": "613dff16-16c5-400b-8fcf-56c9cc234f2e",
+          "textContent": "garganta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2f27f023-c72b-4a79-807d-4d45926d58e7"
+        },
+        {
+          "id": "6f3be21e-de6c-405f-a199-368ebed73cd1",
+          "textContent": "peor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2f27f023-c72b-4a79-807d-4d45926d58e7"
+        },
+        {
+          "id": "7185e50a-4f4b-4191-9b47-b1740e280e98",
+          "textContent": "fiebre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2f27f023-c72b-4a79-807d-4d45926d58e7"
+        },
+        {
+          "id": "8ffa40a8-6101-41bc-a4c9-9f73186c2694",
+          "textContent": "días",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2f27f023-c72b-4a79-807d-4d45926d58e7"
+        },
+        {
+          "id": "a2942329-2cfa-4860-a129-08575319006b",
+          "textContent": "dolor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2f27f023-c72b-4a79-807d-4d45926d58e7"
+        },
+        {
+          "id": "b734f1fe-8a93-4c74-91e6-8acf319cba47",
+          "textContent": "encuentro",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2f27f023-c72b-4a79-807d-4d45926d58e7"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "eec3d8df-092d-44dc-9b79-bbbf2acf1d34",
+      "title": "Escute e recupere o fio da consulta",
+      "content": "<p>Associe cada áudio da aula a linha correspondente em espanhol.</p>",
+      "contentPlain": "Associe cada áudio da aula a linha correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os três áudios principais retomam o fio da consulta: queixa, pergunta e recomendação.",
+      "feedbackError": "Os três áudios principais retomam o fio da consulta: queixa, pergunta e recomendação.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "7adca577-5896-47ac-928e-4d6410817a80",
+          "exerciseId": "eec3d8df-092d-44dc-9b79-bbbf2acf1d34",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/06d66196dc65473c83d6a75458ed23bc_l03b02-queja-principal.mp3?Expires=1794099634&Signature=dXu7rZ-YtRkW1jCFGW3PBJaHGXvTVqYa07GD4r6k8k8BwsQtQHjPBkkWAtSoM9KdKmPV1E6w0IwVMqHb3jVYzw~4OrKJ-MCvTltDsoMpAjXxlOBzm~NiYnKAMq7tyhdKiO0M3YfPtLU2sk0CcdaxNfBvcNAy-f0A3PlL2C8JpF5zQ8Skutuwdm7J1rUlq~CwUz~i7tMk8YcVqi0fcQ~oNte9ckzDGN6092~xgfASYOKYJ-O6fDPmWWl1-TLtmI5w8sDllE-EXoiupxG12C2afQam4iDFCIVgGrGRYPBQLslq4SGAAKRx2KyYWwSFcibsvXWZTX1Vk3U1cPpxpDH3QQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Llevo tres días con dolor de garganta y me encuentro peor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2626d4cb-1439-4150-8d45-1c79047626ce",
+          "exerciseId": "eec3d8df-092d-44dc-9b79-bbbf2acf1d34",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b76fedec9355461188c39a49e17cbd1f_l03b04-pregunta-clave.mp3?Expires=1794099634&Signature=saqi96~1z4DN4uLixjyETSK6QGQdXPy8cjKodO-oIo4ewAMuiWhTI9DU1Sru6R-umHWPjultcDjQ-~syIaXyoSnBgCVMsApl~h5eGbYB1KW6v4kXogbVoXZyWPLjNexdpAV9NyPqDT6IFzwPqwm3lWE2cR8oVfLbXMtxUEE4ooTiLjfAPfHHer8TZcRV-Yc5QCOFOnw307c5b7oIuU9R-yorsjWvAGwm5DqNnDCqvYzbqj0rxId5w7u-RaQQjVUG0Pm4nQ1BTlQfcdUR3W~KNjGK9EODlkZRqtMi5hQ5LAtENb9eHuexFd5pxOr1eLrmbN2i9xllb18kGiV8-bkj3Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Tienes fiebre?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "006490d9-9de2-47ad-b49f-2c9f45970107",
+          "exerciseId": "eec3d8df-092d-44dc-9b79-bbbf2acf1d34",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bbada4e9967a43e5b7c600ff84e32c4f_l03b06-recomendacion-inicial.mp3?Expires=1794099634&Signature=EofbL1mJ~07XDqzvggtQPusCJkJfL2ah6VVgRLKWf5I-t-MtZhVXPUhXN8hBcX9QoEn~7-149UxQ5sLD63oyiTlusCr3teejAwu~TD54vZJP047NwnrGNGUEYp8NIT7EIFBfRkATYAo9VvwjT~uSj39lVum0B95oad8cuS~6eFL5yuiT88k3dwoSa7h40FyyjW1CYhOVHzKBIZDN30EAtM5x5RGEWonpNKHYZpEXG4ZtY7ktOKkWHw7HkXE4NFDHBjBcGrUtQE06ff65ZVAsEj6~7rRyFz0nEFsPeF~D9xZ52UPjt-kPkVR4ka3xdmHGo96riIQ1L8yh0HKsq36V~w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo primero es descansar hoy.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "d8c6f0ee-d8a0-45b2-8bda-17fa0e920fdc",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a recomendação inicial completa.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a recomendação inicial completa.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/bbada4e9967a43e5b7c600ff84e32c4f_l03b06-recomendacion-inicial.mp3?Expires=1794099634&Signature=EofbL1mJ~07XDqzvggtQPusCJkJfL2ah6VVgRLKWf5I-t-MtZhVXPUhXN8hBcX9QoEn~7-149UxQ5sLD63oyiTlusCr3teejAwu~TD54vZJP047NwnrGNGUEYp8NIT7EIFBfRkATYAo9VvwjT~uSj39lVum0B95oad8cuS~6eFL5yuiT88k3dwoSa7h40FyyjW1CYhOVHzKBIZDN30EAtM5x5RGEWonpNKHYZpEXG4ZtY7ktOKkWHw7HkXE4NFDHBjBcGrUtQE06ff65ZVAsEj6~7rRyFz0nEFsPeF~D9xZ52UPjt-kPkVR4ka3xdmHGo96riIQ1L8yh0HKsq36V~w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Lo primero marca o próximo passo imediato dentro da consulta.",
+      "feedbackError": "Lo primero marca o próximo passo imediato dentro da consulta.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Lo primero es descansar hoy.",
+      "typeSpecificData": "{\"expectedText\":\"Lo primero es descansar hoy.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/bbada4e9967a43e5b7c600ff84e32c4f_l03b06-recomendacion-inicial.mp3?Expires=1794099634\\u0026Signature=EofbL1mJ~07XDqzvggtQPusCJkJfL2ah6VVgRLKWf5I-t-MtZhVXPUhXN8hBcX9QoEn~7-149UxQ5sLD63oyiTlusCr3teejAwu~TD54vZJP047NwnrGNGUEYp8NIT7EIFBfRkATYAo9VvwjT~uSj39lVum0B95oad8cuS~6eFL5yuiT88k3dwoSa7h40FyyjW1CYhOVHzKBIZDN30EAtM5x5RGEWonpNKHYZpEXG4ZtY7ktOKkWHw7HkXE4NFDHBjBcGrUtQE06ff65ZVAsEj6~7rRyFz0nEFsPeF~D9xZ52UPjt-kPkVR4ka3xdmHGo96riIQ1L8yh0HKsq36V~w__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "915b3964-9e08-4a98-b785-4baa3ab001f3",
+      "title": "Escolha a função da pergunta",
+      "content": "<p>Na consulta, que papel tem a pergunta <strong>¿Tienes fiebre?</strong>?</p>",
+      "contentPlain": "Na consulta, que papel tem a pergunta ¿Tienes fiebre? ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta leitura, a pergunta importante confirma um detalhe antes de abrir a recomendação.",
+      "feedbackError": "Nesta leitura, a pergunta importante confirma um detalhe antes de abrir a recomendação.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1bdd5dee-42ae-410e-81c3-0965694af3ef",
+          "textContent": "indicar o próximo passo imediato",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "915b3964-9e08-4a98-b785-4baa3ab001f3"
+        },
+        {
+          "id": "99e36d03-63a4-49aa-b438-a723c4d64723",
+          "textContent": "confirmar um detalhe antes da orientação",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "915b3964-9e08-4a98-b785-4baa3ab001f3"
+        },
+        {
+          "id": "aa41d17d-d0f5-436f-a49d-852abed8544c",
+          "textContent": "apresentar a queixa principal",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "915b3964-9e08-4a98-b785-4baa3ab001f3"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "1a8e4bff-10b2-429c-9739-2015a2890084",
+      "title": "Ligue cada linha ao seu papel",
+      "content": "<p>Recupere o fio da consulta breve associando cada frase ao momento certo.</p>",
+      "contentPlain": "Recupere o fio da consulta breve associando cada frase ao momento certo.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fio desta consulta breve passa por queixa principal, pergunta importante e recomendação inicial.",
+      "feedbackError": "O fio desta consulta breve passa por queixa principal, pergunta importante e recomendação inicial.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4ae32bb4-cfcf-48b4-ae76-8748fe8f3d3b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1a8e4bff-10b2-429c-9739-2015a2890084"
+        },
+        {
+          "id": "8051f486-2f88-4783-93c0-67f424a45244",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1a8e4bff-10b2-429c-9739-2015a2890084"
+        }
+      ],
+      "associations": [
+        {
+          "id": "4bde54a6-57a3-4a6b-b0b0-e004fd5ab140",
+          "exerciseId": "1a8e4bff-10b2-429c-9739-2015a2890084",
+          "leftContent": "Llevo tres días con dolor de garganta y me encuentro peor.",
+          "rightContent": "queixa principal",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a6619708-3d74-473a-8bfb-5571cd7c8aef",
+          "exerciseId": "1a8e4bff-10b2-429c-9739-2015a2890084",
+          "leftContent": "¿Tienes fiebre?",
+          "rightContent": "pergunta importante",
+          "sequenceItem": 2
+        },
+        {
+          "id": "824b08ed-c326-49af-8057-0a680ad90bf3",
+          "exerciseId": "1a8e4bff-10b2-429c-9739-2015a2890084",
+          "leftContent": "Lo primero es descansar hoy.",
+          "rightContent": "recomendação inicial",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "1f7a7265-1f3c-49b2-8b40-e339c2d2bc00",
+      "title": "Complete o sintoma central",
+      "content": "<p>Complete em espanhol: Llevo tres días con dolor de ________.</p><p>Tradução: Estou com dor de garganta há três dias.</p>",
+      "contentPlain": "Complete em espanhol: Llevo tres días con dolor de ________. Tradução: Estou com dor de garganta há três dias.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na queixa principal, dolor de garganta identifica o sintoma central.",
+      "feedbackError": "Na queixa principal, dolor de garganta identifica o sintoma central.",
+      "answerType": "buildWord",
+      "expectedAnswer": "garganta",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d489d973-f1c2-4bd4-aeee-737611549e29",
+      "title": "Complete a pergunta importante",
+      "content": "<p>Complete em espanhol: ¿Tienes ______?</p><p>Tradução: Você tem febre?</p>",
+      "contentPlain": "Complete em espanhol: ¿Tienes ______? Tradução: Você tem febre?",
+      "fileUrl": null,
+      "feedbackSuccess": "A pergunta importante verifica se há febre antes da orientação.",
+      "feedbackError": "A pergunta importante verifica se há febre antes da orientação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fiebre",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3bb33b88-a102-4f19-9cb4-c349cfa010ff",
+      "title": "Recupere a recomendação pelo áudio",
+      "content": "<p>Escute a orientação curta da consulta e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a orientação curta da consulta e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/bbada4e9967a43e5b7c600ff84e32c4f_l03b06-recomendacion-inicial.mp3?Expires=1794099634&Signature=EofbL1mJ~07XDqzvggtQPusCJkJfL2ah6VVgRLKWf5I-t-MtZhVXPUhXN8hBcX9QoEn~7-149UxQ5sLD63oyiTlusCr3teejAwu~TD54vZJP047NwnrGNGUEYp8NIT7EIFBfRkATYAo9VvwjT~uSj39lVum0B95oad8cuS~6eFL5yuiT88k3dwoSa7h40FyyjW1CYhOVHzKBIZDN30EAtM5x5RGEWonpNKHYZpEXG4ZtY7ktOKkWHw7HkXE4NFDHBjBcGrUtQE06ff65ZVAsEj6~7rRyFz0nEFsPeF~D9xZ52UPjt-kPkVR4ka3xdmHGo96riIQ1L8yh0HKsq36V~w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A recomendação inicial combina o marcador lo primero com a ação imediata descansar.",
+      "feedbackError": "A recomendação inicial combina o marcador lo primero com a ação imediata descansar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "005018cf-f0c0-4040-b904-e8f16e85037a",
+          "textContent": "primero",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3bb33b88-a102-4f19-9cb4-c349cfa010ff"
+        },
+        {
+          "id": "0dd8c640-d7dc-485f-a38b-f0d9fa9e13fa",
+          "textContent": "descansar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3bb33b88-a102-4f19-9cb4-c349cfa010ff"
+        },
+        {
+          "id": "1e3a929f-0a14-45e1-bc7c-6dc564fde177",
+          "textContent": "peor",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3bb33b88-a102-4f19-9cb4-c349cfa010ff"
+        },
+        {
+          "id": "48a70c1b-2c64-4edd-b9e3-90deed779ce5",
+          "textContent": "es",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3bb33b88-a102-4f19-9cb4-c349cfa010ff"
+        },
+        {
+          "id": "77eeb3e9-7f00-43c4-bed5-69d40e0219b7",
+          "textContent": "garganta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3bb33b88-a102-4f19-9cb4-c349cfa010ff"
+        },
+        {
+          "id": "9516351c-a21c-4a21-8ced-151844cfc6a3",
+          "textContent": "fiebre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3bb33b88-a102-4f19-9cb4-c349cfa010ff"
+        },
+        {
+          "id": "a290d84a-3837-4473-a33e-027b954b41c6",
+          "textContent": "lo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3bb33b88-a102-4f19-9cb4-c349cfa010ff"
+        },
+        {
+          "id": "eb7706ce-0dd0-43b4-8883-25879bf970d1",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3bb33b88-a102-4f19-9cb4-c349cfa010ff"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4d29c2fd-4ece-494c-acb9-63f2ff070ee5",
+      "title": "Separe as pistas dentro da queixa",
+      "content": "<p>Leia a queixa principal com mais precisão e ligue cada trecho a informação que ele entrega.</p>",
+      "contentPlain": "Leia a queixa principal com mais precisão e ligue cada trecho a informação que ele entrega.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na linha da queixa, a leitura fina separa sintoma, duração e mudança do quadro.",
+      "feedbackError": "Na linha da queixa, a leitura fina separa sintoma, duração e mudança do quadro.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1182e075-15b3-4a95-97b8-f33d503c8443",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4d29c2fd-4ece-494c-acb9-63f2ff070ee5"
+        },
+        {
+          "id": "6aedc786-fc60-4349-a263-0a76dc84b68f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4d29c2fd-4ece-494c-acb9-63f2ff070ee5"
+        }
+      ],
+      "associations": [
+        {
+          "id": "f0b27580-21ea-429d-9e6a-5a34d52896ff",
+          "exerciseId": "4d29c2fd-4ece-494c-acb9-63f2ff070ee5",
+          "leftContent": "dolor de garganta",
+          "rightContent": "sintoma",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7beeca77-e861-43ba-8bd5-e75b59519046",
+          "exerciseId": "4d29c2fd-4ece-494c-acb9-63f2ff070ee5",
+          "leftContent": "tres días",
+          "rightContent": "duração",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3b48b860-3373-4466-bcda-a5452521b1fc",
+          "exerciseId": "4d29c2fd-4ece-494c-acb9-63f2ff070ee5",
+          "leftContent": "me encuentro peor",
+          "rightContent": "mudança do quadro",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "f215f800-925a-4850-beb3-be73f6eabb19",
+      "title": "Complete o cuidado imediato",
+      "content": "<p>Complete em espanhol: Lo primero es _________ hoy.</p><p>Tradução: A primeira coisa é descansar hoje.</p>",
+      "contentPlain": "Complete em espanhol: Lo primero es _________ hoy. Tradução: A primeira coisa é descansar hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "A recomendação inicial aponta o primeiro cuidado imediato: descansar.",
+      "feedbackError": "A recomendação inicial aponta o primeiro cuidado imediato: descansar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "descansar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Ler uma consulta sem perder o fio"
+}

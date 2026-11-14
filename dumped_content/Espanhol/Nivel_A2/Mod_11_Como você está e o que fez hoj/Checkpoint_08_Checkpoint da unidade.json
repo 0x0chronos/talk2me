@@ -1,0 +1,540 @@
+{
+  "attemptId": "f56596b7-e54e-4a2c-a79c-7d115bae4ca6",
+  "exercises": [
+    {
+      "exerciseId": "23822e09-ca55-4158-a6a9-2eb4b4dbba6c",
+      "sequence": 1,
+      "lessonId": "81d6ec04-83bd-43e8-9c43-d9029e88824b",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol para distinguir he, has e ha.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol para distinguir he, has e ha.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você diferenciou as três formas diretamente pelo áudio em espanhol.",
+      "feedbackError": "Escute outra vez e compare quem fala, para quem se pergunta e sobre quem se comenta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "6d4aa6ee-24b7-4476-9701-82ebe613220e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/43b67fe0660844c29fc3dd2585417a35_b01-hoy-he-ordenado-mi-escritorio.mp3?Expires=1794099559&Signature=m1Lx1w-PHQQELfL6Jt9cBu4VEzZGDuJ5yPEl5yQzyYVe3ik~8aYYW85Z-ol3xbdh-vKlUl3zVfWplj0UYi0NF0AmYR8Ek9HPKE2F5ZmSCMWbkOtxpfE4K6ushVrw4NP2P3gLrekMIAxFeIjHlQBtdZ5702u2~tInmU2-HzCjLvl-A-G88ETN7-~74GgYDrjKazz5kTv9DwiqyVdFRIaZ8oH8z01QyiznOPdhfYU1Hp-H8tUlhX37PTew0vx9ap1CZBZdcvcrqdtdpeeMTK-0aSq3HpjbZCMlbrt8A5WqZtC983zjixib1jc99F5jCaXDs2N16erGfUCfpH5-B98eTA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy he ordenado mi escritorio.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "91d61077-938a-4abc-88c0-c21e4c241700",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/be447f4e0c5e483f9bc8a0f4f522a790_b03-has-hablado-con-diego-hoy.mp3?Expires=1794099559&Signature=qJ1sB-UDDtE-lJhp7QPQPkVPXa1i4OdQ4P7zX9gY36MqcvWxo2SSlC5vNR9EpsxqDaBsZNVAwk9Y-NBudwCdlZnPUNlm31LqPgYr09GBZqXACTC-MCkxFWf215EePDZttxLWcrKSStZdn8dBj47xOk6OvzUBa75ZZdrt-kf~wW1ZA-9pGrtkmzKxMi42oCSQIT6o-dvCy4364s23RCHscqWSTjgCmABrc2yB66HoQku3IzahB8frjO7d3uQyZsN8XCGZPjnkaULcS~atSRDw4-842iyi9zks3p6XEjf5dnwjtDh32Fuq6lSUH4hia4QOJ8iiFmMREjmEA~~WavJ57A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Has hablado con Diego hoy?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "aa42d4bc-f7e4-481b-a8e6-e23a62bf6742",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7c8ce96fe5354e9d9fcaaf2eb3f8ec5a_b04-diego-ha-trabajado-desde-casa.mp3?Expires=1794099559&Signature=mCOQdXf5CeZsNUXdqJ6NachZVobaHXeu65yXW8g6lKUgU-KxTawBnfoUO84La4E4d5OYWjmd5JpGZmNcN0gTLZW8u0d~H3s~3Pag~l-C5aHYsnPlAuaVj7mT4kLAIw9RYV3FucL8Wu2HOTjPB1x6A-bfKWX5~ih2Wh1~Ypy9TeYvU4inVnB5wB~kWyx4toxwAlVY4xeodMmHXFINQEWVfEqV0Kkk9N4NwSxs6krCvyUOKky2SShBAz092Nr8HZliTTXU7I1m6g5Q6a99KiW6bhtS8ePf8HtyFgoPDrPfbCkx8prNnwwHfVcidrcbfrC2DOAY-X8zsRiPxCKXt78JJg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Diego ha trabajado desde casa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "7c1b474e-db58-4cfa-9278-57fd142972b6",
+      "sequence": 2,
+      "lessonId": "180d1628-798b-4deb-b516-36a71c88ee1c",
+      "title": "Reconstrua o check-in",
+      "content": "<p>Escute os áudios e relacione cada um à frase certa para reconstruir a troca curta sobre o dia.</p>",
+      "contentPlain": "Escute os áudios e relacione cada um à frase certa para reconstruir a troca curta sobre o dia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa reconstrução. Você identificou a pergunta e as duas respostas do check-in.",
+      "feedbackError": "Escute de novo e compare qual áudio abre a troca e quais dois entregam atualizações do dia.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "81597c57-914d-421c-9be5-4651ac5ce566",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb479dd5d9a341209dd4829b487ba8a7_l04b01-que-has-hecho-hoy-contexto.mp3?Expires=1794099559&Signature=OGLSzuS~-Rc6BUN6EMB3pn-HENfN9QQtfZhRPfo8WzPUn3LwvhafmDbJ-nRi0DwRtl6Tg2HG8jGtUpAd9A~zXG~tbKZ72J8dIlLKK-vE5Y~JYubYy2Akle6pRElprvauTjv1UgeTpWctGbJu9sSQFLJBvyEzHn4nPheDqWtt-I4miHCpQpkY5vsbsp3Bj2sxGHqHBsyiSEMe5Zh3oM-lU3JaYh0svqWkSEBSiPiKWk19hKR4e3fPxXXrRWS5FyiNqKmEb~WY-j4ioQx5Jk8M2k1ZB1jfgkEx4o49jKbsFy4pZZT9gB1MvJtHdlbR9QJe1zVgPCmvENe01yCBQJQGjw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué has hecho hoy?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "6c1c87df-508a-443c-92d3-2277ed8b25a9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d9086292f18c47f09a7f2350d00ab676_l04b03-hoy-he-trabajado-desde-casa.mp3?Expires=1794099559&Signature=us-QOLjvZ4oZWxgNQio-EcwiA9XvC5eIPzxvrG1MQ7FxJIttTK2uwVjQDviAVhsuCua8~2HzbicwgQxWvU19x~iuP5jGK8PuvsXwkAn3MZUd~HxRz0x4DeO7wzMRokeyIgHnzHDMtlvnafvsa2oA~~nIe4k0rvD6U-ZvbNnAYA1k4-MY7uedHUd96B3sIj6gqEX-MyOP-fEp0PmZaP-s3lsWWqw0JrqjDapySZGl9XoAq9RBgz4-agozYscc5DJa5pl1J5WWFmrwK6j~WRHEbuVYNDE7II7lO2j-ab5OfekGgbxhhP05O3PNELZC3lJKeV5~QiGPieAtKBpNJ3OyIw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy he trabajado desde casa.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "87df51f1-34c0-4274-b578-c28ac20fd663",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d822df605b564e28bcb71624a4afd3e6_l04b05-esta-manana-he-hablado-con-mi-hermana.mp3?Expires=1794099559&Signature=Zslykf0BAUsL-i1sP6OAM0DUKAAC2I9-0YnQpW7bHC~OKDUXp3PPZ-NkRg6ybxJwFTk3Sz0dQ3Xwt1E-558uCqSJ0jaqLt97fR0nqO9ZaQXcrJHHNes91JvVzAGBal8Hm-ulpzjdtW7Py6VgQUooYkh9IqqXkiKpXtv8JnrR0pAMIPX7MgpJKVDYbttViqBhoi5OEUqyXUFvhrPGgGUfLbGdvifLFMlWRYYTLiEh0zqFR3nQcSMTsUef~mmS4YCg5tVlAqRzj1MON3i~hyrhaGx6JC1Pexdkhom6Za7KLCy7SKS5jILebgVz6rD8y1IomPCGUcLXa0tm4~jcJ0lYaA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta mañana he hablado con mi hermana.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "fd803c9f-65a1-4400-b5cb-33e35e955428",
+      "sequence": 3,
+      "lessonId": "4ec90069-c568-4a38-85d1-62dbfcfa15c9",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio com a frase correspondente. Use só as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente. Use só as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você identificou as quatro frases diretamente pelo áudio em espanhol.",
+      "feedbackError": "Escute mais uma vez e diferencie os particípios irregulares em cada frase.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "f88a0cba-4ce6-43f1-9dbb-ec0e0a01df03",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/eac74d726f254def8421f33fc9b42442_l06b01-hoy-he-hecho-la-compra-phase4.mp3?Expires=1794099559&Signature=Vkw5uy9LcrIYfnQBh6GIynrnpy-qaM2y2D2SjH6k-UqRq39bhWj5UomtCclDrWOW5j1DBrMX0UwlOk-iD0ydZntgo12DKyKsonZTQQse0e08FPo-XJCGw6RNoFLiOeR-5~2o4xnDOK0pPontvsf0MjRvKTM5OoPJ3t-tjmuliCZQEen4hpmXCAl-4UWlahsIrKdO1R3cCKBb0iUatb74l5AAYgDUkbGGDCU~oZnGOIMTBDy1E2~vAKZ7wGvxBy1~7o8Of0Y1TjcnIXcFRREo-9~rLWtPvKgeI~uEzt03Lv2oE~Tn4Wel04hAk~JMkq4l-NRgqdGEDneT-HjhDsOgHA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy he hecho la compra.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "fd5d2784-18d7-4dad-bbe4-8016c1e5d0dd",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8f3abb0cb02246dc938fca049dafba9a_l06b03-hoy-he-visto-a-laura-en-el-cafe-phase4.mp3?Expires=1794099559&Signature=btM~DSNtq2tx-e0y7y7~89ZW5lcTDvLroWQwsN6bdLNma8CvqWyliS27JlWqwtHPvceqnNAlmi-5EMXhR7wVTWkcdoEsj6YynSDx8vIN8JSV8thsrdqdYpzDSMJ0Zwl6lh~X2CBvVvWpCzT9LOnLYr3XgGa6jqzeGUWbKrUeOYkAu6m-c0Lcr-2E2kbI1Wr6Abapg2sflrDREjx6MtrYnU~k6CyMVm1vPRjRNPoBEOHh2uaNkXJid8ppJi56bBIH6oxIrQUDXbdL5582LyT3pN82V0~sWOMHPJp~UCxWP0rx7wktYIyuxd04wLyrv6LZWgxqVifhcGvBYVXit0mvIA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy he visto a Laura en el café.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "96d9ddc5-2c75-40d0-9ec3-9ccc19900df2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7566a523ed6d4a3fb134ba703cd18a6c_l06b05-luego-he-vuelto-a-casa-phase4.mp3?Expires=1794099559&Signature=eBD-Nb0dKf0SINgcFBfMORkWg2SW1BP8zf6KxkPRtLMcD7YWGHU9jXgb2e3gAYk81gbPfFv~nNRzo4W2DOmgChwPWgC6ZENJRl~h3180ThDart4yg9Zu8UGGAfiD0mR4J6fS83zwsxIfmoWdOvUabUkU3x9xeaIsEATc~znt9OH9TpykocgS9SomNE9BnhALlafQXC1aTFuX7AS6EEMP9h3B78Id3ZwzWXIPpzhIhUtzLD1b4DFEjx0ozf-B0YU3l51EW-jszNg9Tf2VjsN3kBej-pJ-OQ70fZ6adEvdV2gX~JuKAP5dgd6ZgtL4zxh-VhOrmtVp2y6qLsVl1lF5dQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Luego he vuelto a casa.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "01b45e2a-69ff-4774-ba35-14f4f9684fc2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9854839f39ef457ebec636d6e10508c6_l06b07-ya-he-puesto-el-movil-en-silencio-phase4.mp3?Expires=1794099559&Signature=SR9vFpdcJ-4jrw6LwVVpJ~-8nuJjt8PW2UwxyeodGD6udz8qCOlsapGu5WSWeLq9t8I0Br5Y~r7hx~OwSUkunoX2pZrbNR5uYJ8wQh4RguFH8~u59EEO4w742kSe3PmDVdXgReMMqpiI9gSizxuSQbOFPeaoJcV4SInSQInfybFYmRCnICY6XNskWep9X7b2-QhrJQ3FvyCc4sXkpjrmtsr92fGpUlyy2P9omfR2VXwdctSSqyO1-43hVcBdjvxHB4qyXoX0RMgbpr2Nud4LR3dmrATAhOx4rDUZbU7vXb4FgU33DmPID4E7cLydHog0Pw-mjsR7lyTM7I8IoHozjA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ya he puesto el móvil en silencio.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "71bd29b2-080d-416e-aada-d48aafe5214d",
+      "sequence": 4,
+      "lessonId": "c98b1d7f-dc43-4594-8f16-27e2338f03ff",
+      "title": "Ouça o áudio e selecione as palavras",
+      "content": "<p>Escute a atualização completa e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a atualização completa e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f5657782fede442199c17d9c797bc0e8_l02b07-symptom-update.mp3?Expires=1794099559&Signature=gpzpcxwJYADq34zW5Amdc3JwGRDd~VdezQfYOfQjbpA2VpEmUuJ6yDmWIJKBDmfDzZHI29koekV5VPS7co~6J7ymw0l84NltEb9zxgDOc4qSiHWdSJ8Owsn~1RTmIDvCYP0I5msRwBPoyQG36MwSnpIrQYCP-MaWEyLm-nuLh6OdTtFpL4vLGpSoHckrHiHavpcD84WFgYOKKNLGN01G2-VC4RfhHBF6bgTMf5MYIouXixLLkI-1wTJ8RJX2Cmkfyg4WKYLcvozS1OzdCRCfB7X9AtBuubjwq5tKcNnWDnln0dJm-el4r4dOSccDVEerxCH1YxqnNoRhDmHWjeYl-w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta. Você identificou os elementos centrais do áudio.",
+      "feedbackError": "Escute novamente e marque só as palavras que aparecem na atualização final.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5def49fc-4c2d-4cb3-b487-bc3b29cffe41",
+          "text": "cabeza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "825610b7-63e2-4606-b6cb-fe66ada73699",
+          "text": "nervioso",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ab76837d-3a75-4f27-a1ba-0c5ef10b475a",
+          "text": "tengo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b3112c7f-d977-4b95-82d0-123559241489",
+          "text": "bien",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cb4bf39b-1736-415f-a3f8-2b69926d8f83",
+          "text": "no",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ce04b1d2-edd6-421e-98a8-79c77fde38ce",
+          "text": "encuentro",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d9e1d0e1-5375-45f9-9ac5-c3d41372bf2a",
+          "text": "fiebre",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e58c6ca5-c9d2-4c33-b7e2-2c53b896797e",
+          "text": "duele",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "bb5e3350-6c18-415d-9bd5-8406fb5aeaeb",
+      "sequence": 5,
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "title": "O que você ouve?",
+      "content": "<p>Ouça a atualização final e selecione todas as palavras em espanhol que aparecem no áudio.</p>",
+      "contentPlain": "Ouça a atualização final e selecione todas as palavras em espanhol que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1a40e48030d24d4d986cf938066e5ab7_l07b06-health-and-day-update.mp3?Expires=1794099559&Signature=JP12ivnXt-syq3568-S28GHgfdGNqaIXLmS4rfYcIztWAR~YJetmrLkN~ABe~VnW8IasVUBon0pFsJBKqvcnV5Sh5hMhsWpQsUVu56ShuvQqJU-yZOK4jUmjKXUzP-MHmrg4lWPjwxGRX0DDPWEcV0OY8B74wnXLVgBfP9moDHkq1Nel68ChoD2Sx934~hXM436qxGtvqc2iciOJyMUYdVqxeGIejPPVOx~Q~wPvitG76fW7quhk8SGZwFxXxW2HLaJ9eK2Pc6QxSJeOxEKQ5iwl-MWdKT948Dq9UFP7iZycPPBQmv5Nhg92MWNuKJ20vc~iOyUWPNwR7j00b1c5JQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta. Você identificou palavras-chave da atualização completa.",
+      "feedbackError": "Ouça novamente e procure só as palavras realmente presentes no áudio final.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "360f2b5f-f56f-4a00-9562-8f4decd3f2d4",
+          "text": "trabajado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "440c208b-bf4d-4cbf-9823-cd8c0e01c194",
+          "text": "temprano",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "961439d2-8fb9-463c-a10c-5b2f00247192",
+          "text": "cansado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9ea04a5e-9e2d-4c52-9cc9-b0c927bd99fe",
+          "text": "cabeza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a373c326-d2dd-4cf5-b8e9-87985f043d37",
+          "text": "médico",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "0588911a-7248-4497-9e59-0e91ba6e4794",
+      "sequence": 6,
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "title": "Associe os trechos do áudio",
+      "content": "<p>Ouça os trechos e associe cada um à linha escrita correta em espanhol.</p>",
+      "contentPlain": "Ouça os trechos e associe cada um à linha escrita correta em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ótimo. Você reconheceu os trechos e a revisão ampliada pelo áudio.",
+      "feedbackError": "Compare cada clipe com a frase exata antes de tentar de novo.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8316091a-6b86-4797-8fe4-3798e6deb8c8",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7b16d3896282433c87691941e41a56e8_l07b01-hoy-estoy-cansado.mp3?Expires=1794099559&Signature=HFFk9UwcsddZJxxdljUYsIQgjc0v3ySUUv7KC21pgwwFfLdG0IpssPzQg9IbWB6EqcvD~5geGVMgFgzuud1hichB8ZUmWhOWUiexu7NXKdHHSUQpI5rf4CDp9h9HMotYzqbDCGnkC0Ir52lHx0KOSBbvz7isuJ2VFuuyJgk7lioqa2WlqjW8qri~MJqXRdU9q7VhCI-PronO~QpJtQxhh9lCi2rEaLena6k29z1Q4hLFTJgZ~iSM~EE5osY4Q1~y~54ALavRnOxR9-kYlblBFzEYPkUfBSsYaThIndryufKw1NGgz4UdTPsJXj37AMJuEx5iFqOja9o7Ahc~WB9WsQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy estoy cansado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0257ed07-4f94-4664-92de-2b6e2538df0b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/24736e60651b45e489bb306015d666fc_l07b03-me-duele-la-cabeza.mp3?Expires=1794099559&Signature=BnFuKr3IRcLDWqdAur0g5pXYr3GEkdTtl4md3wwLZRoT6M4HwmYXCDrfxWG5XgNEBDhz2hFNQjpfTX~FEufwphTN9dZ3PJQYP7AFxmQvSxkDP9s~T-Qysk6kg4bc8wVaCLGmMxf0Q2pu9ZYweiyokX7spWVl5o2W3976KLmNt7R45bIx1TiGsD7xeinLmk7Mb1VTYzsFX5QWViek6rydDFIK7IQiE5kTFXkzpqdLF~gyLAWUfODZDi4~JBQcc-cbQYELG2uisV4fQ7N7BBAzILLfWs1xKgwSo3Lv4vbInf4PNFMxQnutFhu7groKYNrIG8uDFj71N6f5YjRMtSFpsQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me duele la cabeza.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "95754629-18cc-4266-ba3f-e91a962883ab",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/40bdf76cfbb543bb901dee7f9650c5a3_l07b04-esta-manana-he-trabajado-mucho.mp3?Expires=1794099559&Signature=nbVNeKGWdsS1c5BTbqKaJd4DSkM-52pRtAdeZEd7Q6kNYc0h7OMOjiSMwjU-SHYQX65UPrD1fmBI5u-gm9d7dz39lfOaUWHYrFEmsFt5c4o7RQAycCGtyYEi6bZCkq2UAUrtlHsw52d6YJdxnVUGFbOjhjhqbCPw0GrAPAR5U9VM8NasnIP7qQly4bqBU3S-Pkh5ksyfcbiF2vCJgY6cR0BLzy8SOalohrRoZTIQWtm-dgN0~0l6TJQTXB588nU7ZXF0j1Cnb924V6we8yg0Nrj840h6rHy8pZxf-G-JOhFPLFHYPgvMTYqQSEpOEgpkujiznHSlyxaAhmN2NjLCxA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta mañana he trabajado mucho.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "5c307e82-c67c-406d-9221-d3166a72b266",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3e6e98897e7e4d5983a8db28019215d7_l07b06-health-and-day-update.mp3?Expires=1794099559&Signature=1lzrlgg0jEHz3FtIIR6MqxtFs-phHz5DZTADdn5pWMDnok65ljNWEW3w7UqFWAYAg23~8SvUAuPoZBcZcpux8KzjCxL8W2xoTlGPKfCjXT7-huYIl6D-GjNxD2xDZS~XhDk8~4zRDmjTQ6~2wG7yYrflpvexfDe~x69xsvYziL7MnWJuXb8ON0Mt3dRQHN34fvGRU90oEF6ASG8HnyRO~j6xkxeXDl9FrOOjPgvL~c5sbkKeZfdRFVPtjsLp12Rt99NV6U7hxTUMk4tscNgsUgWfVMT~jF9Y~ueNbY6d2ffWBoxllL6VRuf8vvippnuUOLd2~ZNQe2vNUB8K4wtY3g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy estoy cansado y me duele la cabeza. Esta mañana he trabajado mucho y luego he vuelto a casa temprano.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "02547e26-0f5d-426e-91d8-cdda0a2a4e1f",
+      "sequence": 7,
+      "lessonId": "c98b1d7f-dc43-4594-8f16-27e2338f03ff",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Me _____ la cabeza.</p>",
+      "contentPlain": "Complete a frase em espanhol: Me _____ la cabeza.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou a forma usada para nomear a dor localizada.",
+      "feedbackError": "Tente novamente e complete a frase curta que fala de dor de cabeça.",
+      "answerType": "buildWord",
+      "expectedAnswer": "duele",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "805674b6-f5ee-4a4f-8354-cc2a42d674c7",
+      "sequence": 8,
+      "lessonId": "2cb8c474-692e-4f5c-b2a0-9ad83171d905",
+      "title": "Recupere a palavra",
+      "content": "<p>Complete a frase em espanhol: Necesito ver a un ______.</p>",
+      "contentPlain": "Complete a frase em espanhol: Necesito ver a un ______.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou a palavra-chave do pedido de atendimento.",
+      "feedbackError": "Volte à frase usada para pedir atendimento direto na recepção.",
+      "answerType": "buildWord",
+      "expectedAnswer": "médico",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b965fd9b-2349-40b1-a4d6-6cc94146e852",
+      "sequence": 9,
+      "lessonId": "4ec90069-c568-4a38-85d1-62dbfcfa15c9",
+      "title": "Monte a forma que falta",
+      "content": "<p>Hoy he _____ la compra.</p>",
+      "contentPlain": "Hoy he _____ la compra.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. Hacer vira hecho no particípio.",
+      "feedbackError": "Falta a forma irregular de hacer que aparece no primeiro bloco da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hecho",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0097d6d9-650b-4806-b2a6-508ba921b410",
+      "sequence": 10,
+      "lessonId": "c98b1d7f-dc43-4594-8f16-27e2338f03ff",
+      "title": "Combine os pares",
+      "content": "<p>Escute com atenção e associe cada áudio ao texto certo sem apoio em português.</p>",
+      "contentPlain": "Escute com atenção e associe cada áudio ao texto certo sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta. Você distinguiu as três frases sem depender de tradução.",
+      "feedbackError": "Escute novamente e compare qual áudio fala de mal-estar geral, de dor de cabeça e de febre.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "3ffdec6c-8e38-4a80-b83d-e6a34cc88be1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/17d8d9d82be544daa15f451423bdf023_l02b05-tengo-fiebre.mp3?Expires=1794099559&Signature=bDDwau7bXR5JztDW0zM7Z~EZad9WL7buDZg3E-Eve6rgEwXAxxYPisU0FzAWSy9X5MGjUNJB5lkVBtDbx2vm1HO94aCmaYEpps1qzylwabHe7QRxFQR0zOGgKu~9jXahMASEDzYif1kZNqubtBR7cHGkkbIapqvbO00YnR0S9DKRxsGMtYO6R4Kc48pjMXVHa26zSsTmmdXHYB5YhZ3XGpjzrtDse02FZyEmgzFZ~AVIMOrBwf~BCl6MvDaUWeXMzlJVqqanl473HiTJg08WiPqgZvNGzWhm66eZrl-4mGlh21h4bNA6T0g-zYruuvEmDiXSjHUtHYaQhpXUC6oaIw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo fiebre.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5f6ec79d-4528-4b85-b619-c32f63631f01",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/39fb873d5da94351bca984b10304f38a_l02b01-no-me-encuentro-bien.mp3?Expires=1794099559&Signature=m~4GvlrmsUiXeqxRFiEEcaqjE~lOWHVRbqsJxgtPrqQyyiacXisf0dwQVL6eO5BzwD24pPYkSr8ClssJWYeYLZMXYpUTvZtEW35UoCGmc35n8T5noSUgnlON3tlOvyC8rlp2b1KrcsW55McwRvhIMfbngNkEw4GHME28i2TKdKObjEcSJ5g-K3A0eSXfp-vdPSZl0jm6ThWB~eTbKe0Bpx68Alp3Q0zlkpRp0qPF-nHC2DBduuVlv1rVZDhdSk1mJ7mM2yatV-xWqks37mdgRIU3TcF3My1F-DCBCeTCNg-8RDNH8zvuMnIxa5itq3mw5W0gwjqB8rSWthEWbWDrMg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No me encuentro bien.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8e181d74-b23a-450b-9ad2-211014bcdefc",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/dd8b6703f95e4d899785d8b9461d6077_l02b03-me-duele-la-cabeza.mp3?Expires=1794099559&Signature=svPN2rjCRl-0x1JqS9K9Sa5CXIfckv4jUMK7mZ1SkSnGdLPi4f9iMODYVAUAX2y5XrC09uDCR2IYSLMOrVOSW6t-0yB2J8FCy37Hk5E6iIaT0cvaftI13IPz76kvVjWzAyETJvWELVGmLSU76oUbSlzLpHsXeIwFHZlNjb36cVJkvVSVV~M0uM-N9rUMxjrZ1ZQSMpD5iV-zI2PJpOlqvJY9BE1VzLCbe0fT0Q-XhdmBMtp~yGwVtoTvoTR3CfHfm~VKNAqU8t0prpxW5BF0kbFlM055Za9pnsTOLcCP0sBvy8tgCtm~dZE28C6185EQ4LOjBsSKKiV9zCO0ijfM9w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me duele la cabeza.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "eeafef59-9226-4a87-b3e4-7afa4cac0e30",
+      "sequence": 11,
+      "lessonId": "180d1628-798b-4deb-b516-36a71c88ee1c",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Hoy he _________ desde casa.</p>",
+      "contentPlain": "Complete a frase em espanhol: Hoy he _________ desde casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. A resposta ficou completa.",
+      "feedbackError": "Tente novamente e monte o particípio que aparece no modelo da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabajado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b39353d4-02e6-4398-9a3e-0d2dc2ba557a",
+      "sequence": 12,
+      "lessonId": "81d6ec04-83bd-43e8-9c43-d9029e88824b",
+      "title": "Ouça e selecione",
+      "content": "<p>Qual forma você ouve na pergunta do áudio?</p>",
+      "contentPlain": "Qual forma você ouve na pergunta do áudio?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/be447f4e0c5e483f9bc8a0f4f522a790_b03-has-hablado-con-diego-hoy.mp3?Expires=1794099559&Signature=qJ1sB-UDDtE-lJhp7QPQPkVPXa1i4OdQ4P7zX9gY36MqcvWxo2SSlC5vNR9EpsxqDaBsZNVAwk9Y-NBudwCdlZnPUNlm31LqPgYr09GBZqXACTC-MCkxFWf215EePDZttxLWcrKSStZdn8dBj47xOk6OvzUBa75ZZdrt-kf~wW1ZA-9pGrtkmzKxMi42oCSQIT6o-dvCy4364s23RCHscqWSTjgCmABrc2yB66HoQku3IzahB8frjO7d3uQyZsN8XCGZPjnkaULcS~atSRDw4-842iyi9zks3p6XEjf5dnwjtDh32Fuq6lSUH4hia4QOJ8iiFmMREjmEA~~WavJ57A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Isso. Na pergunta para a outra pessoa, a forma ouvida é has.",
+      "feedbackError": "Escute de novo e foque na palavra curta logo antes de hablado.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "71421531-d004-4326-960d-d3fd8c4cd0a6",
+          "text": "he",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e88ac0c6-9ffb-4fef-a2a7-c0ca3a1dacaf",
+          "text": "has",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f5f00f5e-4737-4ca5-a3e4-ee409731ff13",
+          "text": "ha",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b0ef320f-e582-403b-bf9b-73610f75445c",
+      "sequence": 13,
+      "lessonId": "2f0baac1-f03b-4790-b885-63d9ef74d02e",
+      "title": "Escolha a resposta curta correta",
+      "content": "<p>Você quer responder a <strong>¿Cómo estás hoy?</strong> falando do seu estado de agora. Qual opção segue o padrão da aula?</p>",
+      "contentPlain": "Você quer responder a ¿Cómo estás hoy? falando do seu estado de agora. Qual opção segue o padrão da aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. A resposta curta usa hoy + estoy + estado.",
+      "feedbackError": "Revise a nota sobre a estrutura curta com hoy e estar antes de tentar outra vez.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "47a68b05-c133-4cb2-b8cc-b1d7b138e6a4",
+          "text": "Estoy hoy cansado de.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "87cfb727-9ae0-4e7b-9f51-fdd7b3d090ed",
+          "text": "Hoy soy cansado.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8fbbe58b-e463-4295-9995-5fd3ffa03e89",
+          "text": "Hoy estoy cansado.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "50f88da8-aabb-46ed-a357-fccfd000c358",
+      "sequence": 14,
+      "lessonId": "2cb8c474-692e-4f5c-b2a0-9ad83171d905",
+      "title": "Escolha a continuação mais adequada",
+      "content": "<p>Depois de dizer <strong>No me encuentro bien.</strong>, qual continuação em espanhol pede atendimento de forma adequada?</p>",
+      "contentPlain": "Depois de dizer No me encuentro bien. , qual continuação em espanhol pede atendimento de forma adequada?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa continuação transforma o sintoma em um pedido direto de atendimento.",
+      "feedbackError": "Escolha a frase dita pela pessoa que precisa de ajuda, não o nome do lugar nem a fala da recepção.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "71a83085-a381-49b8-8e95-410479181ce2",
+          "text": "Necesito ver a un médico.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ab3da845-87db-467c-a115-9813c1c83d03",
+          "text": "Pase a la sala de espera.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c3d7a082-7604-4dad-9d0e-5d7acc806e8f",
+          "text": "la sala de espera",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "69d288da-4e6d-4714-ac57-41bfa9a33d6b",
+      "sequence": 15,
+      "lessonId": "2f0baac1-f03b-4790-b885-63d9ef74d02e",
+      "title": "Selecione só o que você ouvir",
+      "content": "<p>Marque somente as palavras presentes no áudio.</p>",
+      "contentPlain": "Marque somente as palavras presentes no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/70a29c1d17904f70a4eebcb90e5408a3_hoy-estoy-nervioso.mp3?Expires=1794099559&Signature=sItIx7O6H~uKfWoGGmCYd~mgTYdRHsCsLobiSuVUf-mMTKK5RW4eK~CpasmYgaarvVpNburFcxi-b1-juNtRDe3kd83P1ATkZy08eoCtwLi0VjAFUTm9Cg5DI59MkeGn3-q4AsuWsdCo3~BVxnKJkXZ1KpAQnSn-0U17VG-ee8ynE4Mgtx~BN4vcxGPMyYgSNRK7H2OJpvXKHjQvTnvm4MppT5enAs6y5ESUo3FeR6giCVe6xIs-ECqXuAFrumKq5MfNNZ1DIos5J0IaduS955088ZRiDOkAXOBGNeSBSXFMChfnaTde2FIlunRPUDmSci9As83QSps~0rhZfn4qnA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Você separou com precisão as palavras da frase ouvida.",
+      "feedbackError": "Escute outra vez e selecione apenas as palavras que aparecem nessa resposta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5cbdd4b7-14ac-41c6-820c-8739074cd7f6",
+          "text": "cansado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "75179520-af14-4c08-9d25-c6f7df2bb189",
+          "text": "nervioso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "82451deb-8e56-45b1-9b2f-e2cf9039686a",
+          "text": "estoy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e7d22761-8461-40da-8299-4997fbad0a9a",
+          "text": "hoy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

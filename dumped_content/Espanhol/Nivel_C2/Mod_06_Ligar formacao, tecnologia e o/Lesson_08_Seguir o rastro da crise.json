@@ -1,0 +1,654 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+    "attemptId": "2d78292d-bbbb-492c-ac43-16401870a9aa",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "4b221560-1aa3-4ad9-8637-05f0c4455d8a",
+      "fbf46369-50aa-408d-8f67-396bdd80c846",
+      "e9167d19-734a-49bd-b388-ebbfa57f1ed1",
+      "e023c62d-cad0-47cd-ae59-39743ea16d6a",
+      "cae692ee-a4cc-4d63-b2df-6ef7a4a2cd62"
+    ],
+    "evaluationExerciseIds": [
+      "c237cc54-e50c-4c90-8825-057b29a2e5af",
+      "96c21466-c7d4-49ad-88ee-f0cc7df5b4c9",
+      "b38b6efb-14fd-4326-8126-49c123c84a9d",
+      "8c8db92c-8466-47eb-83e4-7b785aff83ee",
+      "651cddce-0a13-49ce-8ca8-a87d2c948e03"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:30.9175175Z"
+  },
+  "contents": [
+    {
+      "id": "6c043d76-c15a-4740-b9cf-dd4cd6faef43",
+      "title": "Leia o mapa inicial e guarde as três perguntas que vao orientar os microtextos da aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "bd509a83-b15a-4dc4-9574-4870a1b689ef",
+          "textContent": "<p>Nesta aula, o sistema financeiro não aparece como apoio a projeto, e sim como parte de uma <strong>cadeia de pressão</strong>.</p><p>Ao ler cada trecho, pergunte:</p><ul><li><strong>que medida ou mudança institucional entra em cena?</strong></li><li><strong>como ela passa pelo banco, pela moeda ou pela dívida?</strong></li><li><strong>que margem de escolha das famílias fica menor depois disso?</strong></li></ul><p>Essas três perguntas ajudam a seguir a leitura sem reduzir a crise a uma lista solta de termos econômicos.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9fad87ed-b3d9-43f5-bd49-84b1071f6079",
+      "title": "Leia o trecho em espanhol e acompanhe a tradução. Foque no momento em que a medida bancaria interrompe o uso do próprio dinheiro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "25d61940-7f4a-478a-b366-2679644596e4",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>Tras la restricción temporal de retiros, muchas familias dejaron de disponer de sus ahorros justo cuando más los necesitaban.</strong></p><p>Em português: <strong>Depois da restrição temporaria de saques, muitas familias deixaram de ter acesso as proprias economias justamente quando mais precisavam delas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cbf58ecf-772b-48d9-9bc4-da8ab3b25547",
+      "title": "Leia a nota e observe como a frase sai da medida financeira e chega direto ao problema prático das familias.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "98531ab5-cab5-4b66-a574-b69299a11940",
+          "textContent": "<p><strong>restricción temporal de retiros</strong> nomeia a medida institucional; <strong>dejaron de disponer de sus ahorros</strong> mostra o efeito concreto dela.</p><p>O texto não precisa explicar todas as regras do banco para produzir sentido. Basta ligar a limitacao ao momento em que as familias precisavam usar o próprio dinheiro.</p><p>Essa combinacao faz a leitura sair do mostrador bancario e entrar em pagamento, consumo e margem imediata de decisão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a4a9a4eb-134f-408c-ab85-df98c485dfd8",
+      "title": "Leia o trecho em espanhol e acompanhe a tradução. Repare em como a mudança da moeda altera o tamanho real das parcelas.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "3d93c1c2-07bf-481f-8c47-1461fdf79451",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>Cuando la moneda local se devaluó, las cuotas fijadas en dólares empezaron a pesar mucho más sobre ingresos que no crecieron al mismo ritmo.</strong></p><p>Em português: <strong>Quando a moeda local se desvalorizou, as parcelas fixadas em dólares passaram a pesar muito mais sobre rendas que não cresceram no mesmo ritmo.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c19c6a18-796d-4b04-929d-04411f134f2f",
+      "title": "Leia a explicacao curta e observe por que o trecho fala de moeda, cuotas e ingresos ao mesmo tempo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "98df4e9f-0cd4-46d9-8843-b45de014c6f9",
+          "textContent": "<p>O centro da frase não é a existencia abstrata da dívida, e sim o <strong>desencaixe</strong> que surge depois da devaluacao.</p><p><strong>las cuotas fijadas en dólares</strong> mantém a referência externa; <strong>ingresos que no crecieron al mismo ritmo</strong> mostra por que a mesma parcela passa a ocupar mais espaco no orcamento.</p><p>Assim, o texto explica a crise como mudança de proporcao: a renda continua local, mas a carga da dívida fica mais pesada.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0b9959ea-419b-4ea6-a89d-efc4b23bc4a2",
+      "title": "Leia o trecho em espanhol e acompanhe a tradução. Foque em como a desconfiança passa do sentimento individual para uma reacao visível.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "1ca7ee11-4bac-4c3b-a88e-7cd6d9ceabde",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>A medida que crecía la desconfianza, se alargaron las colas en las sucursales y muchas personas optaron por guardar efectivo fuera del sistema bancario.</strong></p><p>Em português: <strong>A medida que a desconfiança crescia, as filas nas agencias ficaram maiores e muitas pessoas passaram a guardar dinheiro vivo fora do sistema bancario.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2981b6be-ae93-4325-a896-63f61f93369d",
+      "title": "Leia a nota e observe por que o trecho combina desconfianza, colas e efectivo fora do sistema na mesma cena.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "3fb681eb-2ed7-403c-9e58-163d1fa60ca6",
+          "textContent": "<p><strong>desconfianza</strong> ainda parece abstrata. O resto da frase a torna visível.</p><p><strong>se alargaron las colas</strong> mostra um comportamento público repetido; <strong>guardar efectivo fuera del sistema bancario</strong> mostra que a relação com a instituição já mudou.</p><p>Com isso, o texto deixa de falar apenas de ansiedade individual e passa a descrever uma resposta social mais ampla a perda de confianca.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fe7af1b7-7b3d-45aa-b871-1d0a908c6970",
+      "title": "Leia o mapa e observe como cada expressão em espanhol ocupa um ponto diferente da mesma cadeia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "4cc4a40d-f952-4c1c-bcc4-071f583a1a6c",
+          "textContent": "<p>Uma leitura institucional curta desta crise costuma avancar em três movimentos:</p><ul><li><strong>restricción temporal de retiros</strong> = a medida corta o acesso imediato ao próprio dinheiro</li><li><strong>cuotas fijadas en dólares</strong> = a dívida deixa de caber no mesmo orcamento</li><li><strong>guardar efectivo fuera del sistema bancario</strong> = a perda de confianca muda o comportamento coletivo</li></ul><p>Em vez de ler cada frase como caso separado, vale seguir como uma puxa a outra.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d0d8e795-d13e-4053-9fd4-48877cc51334",
+      "title": "Leia o texto final e observe como banco, moeda e familias ficam ligados sem sair do registro explicativo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "ab8d4b3e-8ac5-47ed-8b66-f1f59bef09fa",
+          "textContent": "<p>Agora as três peças aparecem juntas.</p><p><strong>La restricción inicial no se quedó en el mostrador del banco. Al encarecerse las cuotas fijadas en dólares y extenderse la desconfianza, numerosos hogares aplazaron pagos, redujeron gastos y reorganizaron decisiones que dependían de una estabilidad mínima.</strong></p><p>Em português: <strong>A restrição inicial não ficou parada no caixa do banco. Ao encarecerem as parcelas fixadas em dólares e ao se espalhar a desconfiança, muitos lares adiaram pagamentos, reduziram gastos e reorganizaram decisões que dependiam de um mínimo de estabilidade.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "183543ea-bb86-498c-8763-3d691ac82983",
+      "title": "Leia o recap final e ligue esse tipo de leitura a reportagens, analises economicas e comentários institucionais sobre endividamento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "e3ca56a9-4482-4c07-a116-0770997ea0d0",
+          "textContent": "<p>Quando um texto junta <strong>restricción</strong>, <strong>cuotas</strong>, <strong>desconfianza</strong> e <strong>sistema bancario</strong>, ele não fala só de economia abstrata.</p><p>Ele mostra como uma decisão financeira se converte em perda de acesso, aumento do peso da dívida e mudança de comportamento coletivo.</p><p>Esse repertório aparece em reportagens sobre crise, em analises de crédito, em comentários sobre desigualdade e em textos que explicam por que a instabilidade institucional atinge diretamente a vida das familias.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "4b221560-1aa3-4ad9-8637-05f0c4455d8a",
+      "title": "Recupere a palavra bloqueada",
+      "content": "<p>Complete a frase em espanhol: muchas familias dejaron de disponer de sus _______ justo cuando más los necesitaban.</p><p>Traducao: muitas familias deixaram de ter acesso as proprias economias justamente quando mais precisavam delas.</p>",
+      "contentPlain": "Complete a frase em espanhol: muchas familias dejaron de disponer de sus _______ justo cuando más los necesitaban. Traducao: muitas familias deixaram de ter acesso as proprias economias justamente quando mais precisavam delas.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula liga a restrição de retiros a perda de acesso ao dinheiro que já pertencia as familias.",
+      "feedbackError": "A aula liga a restrição de retiros a perda de acesso ao dinheiro que já pertencia as familias.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ahorros",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "fbf46369-50aa-408d-8f67-396bdd80c846",
+      "title": "Ligue acao e ajuste familiar",
+      "content": "<p>No fechamento da leitura, a crise passa para o cotidiano das familias. Associe cada acao em espanhol ao ajuste que ela deixa implicito.</p>",
+      "contentPlain": "No fechamento da leitura, a crise passa para o cotidiano das familias. Associe cada acao em espanhol ao ajuste que ela deixa implicito.",
+      "fileUrl": null,
+      "feedbackSuccess": "No microtexto integrado, a crise aparece em pagamentos, consumo e reorganização da vida cotidiana.",
+      "feedbackError": "No microtexto integrado, a crise aparece em pagamentos, consumo e reorganização da vida cotidiana.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2c9d83b4-b899-48e9-906f-bff11120237e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "fbf46369-50aa-408d-8f67-396bdd80c846"
+        },
+        {
+          "id": "d765a3f4-0f50-4f0d-897d-3b7f1b5e1e1a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "fbf46369-50aa-408d-8f67-396bdd80c846"
+        }
+      ],
+      "associations": [
+        {
+          "id": "168ac93b-a55e-4ddd-8947-5736f8ea839c",
+          "exerciseId": "fbf46369-50aa-408d-8f67-396bdd80c846",
+          "leftContent": "aplazaron pagos",
+          "rightContent": "adiar compromissos por falta de margem",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8bccf205-8154-4a77-9cb5-0a7b82ecede0",
+          "exerciseId": "fbf46369-50aa-408d-8f67-396bdd80c846",
+          "leftContent": "redujeron gastos",
+          "rightContent": "cortar despesas para absorver a crise",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0f5cb733-ebb9-40e8-9734-95cb561d9b21",
+          "exerciseId": "fbf46369-50aa-408d-8f67-396bdd80c846",
+          "leftContent": "reorganizaron decisiones",
+          "rightContent": "revisar escolhas que dependiam de estabilidade minima",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "e9167d19-734a-49bd-b388-ebbfa57f1ed1",
+      "title": "Reconheca a referência da dívida",
+      "content": "<p>No segundo eixo da aula, uma expressão mostra por que a mesma parcela deixa de caber no mesmo orcamento. Qual é ela?</p>",
+      "contentPlain": "No segundo eixo da aula, uma expressão mostra por que a mesma parcela deixa de caber no mesmo orcamento. Qual é ela?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula mostra que a dívida muda de escala quando a referência externa e a renda local deixam de andar juntas.",
+      "feedbackError": "A aula mostra que a dívida muda de escala quando a referência externa e a renda local deixam de andar juntas.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "34d2efd8-0843-4d19-90fc-90a462804660",
+          "textContent": "restricción temporal de retiros",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e9167d19-734a-49bd-b388-ebbfa57f1ed1"
+        },
+        {
+          "id": "68b178a2-0feb-4640-ab2f-1e72c158287b",
+          "textContent": "moneda local",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e9167d19-734a-49bd-b388-ebbfa57f1ed1"
+        },
+        {
+          "id": "a25cfe50-2de9-4194-bbd0-694b47e816f8",
+          "textContent": "guardar efectivo fuera del sistema bancario",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e9167d19-734a-49bd-b388-ebbfa57f1ed1"
+        },
+        {
+          "id": "b1187b0e-c346-44ce-a66b-d7503f2c66e4",
+          "textContent": "cuotas fijadas en dolares",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e9167d19-734a-49bd-b388-ebbfa57f1ed1"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "e023c62d-cad0-47cd-ae59-39743ea16d6a",
+      "title": "Reconheca a referencia da divida",
+      "content": "<p>No segundo eixo da aula, uma expressao mostra por que a mesma parcela deixa de caber no mesmo orcamento. Qual e ela?</p>",
+      "contentPlain": "No segundo eixo da aula, uma expressao mostra por que a mesma parcela deixa de caber no mesmo orcamento. Qual e ela?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula mostra que a divida muda de escala quando a referencia externa e a renda local deixam de andar juntas.",
+      "feedbackError": "A aula mostra que a divida muda de escala quando a referencia externa e a renda local deixam de andar juntas.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4ca2dee4-1fdc-4e8e-a6fc-187112a9eca7",
+          "textContent": "restricción temporal de retiros",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e023c62d-cad0-47cd-ae59-39743ea16d6a"
+        },
+        {
+          "id": "d78a706a-6c51-43a9-bc2f-6be47ee5914b",
+          "textContent": "moneda local",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e023c62d-cad0-47cd-ae59-39743ea16d6a"
+        },
+        {
+          "id": "d9b65270-21a0-4be5-8b83-77a3fc84355d",
+          "textContent": "cuotas fijadas en dolares",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e023c62d-cad0-47cd-ae59-39743ea16d6a"
+        },
+        {
+          "id": "f3e0336b-cfe5-4204-ba40-c9a5aec71f04",
+          "textContent": "guardar efectivo fuera del sistema bancario",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e023c62d-cad0-47cd-ae59-39743ea16d6a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "cae692ee-a4cc-4d63-b2df-6ef7a4a2cd62",
+      "title": "Ligue expressão e papel",
+      "content": "<p>Recupere o mapa da aula ligando cada expressão em espanhol ao papel que ela cumpre na cadeia da crise.</p>",
+      "contentPlain": "Recupere o mapa da aula ligando cada expressão em espanhol ao papel que ela cumpre na cadeia da crise.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa da aula organiza a crise como medida, peso da dívida e mudança de comportamento coletivo.",
+      "feedbackError": "O mapa da aula organiza a crise como medida, peso da dívida e mudança de comportamento coletivo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1f10ff0b-b84e-4742-bd31-24ec2a245385",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "cae692ee-a4cc-4d63-b2df-6ef7a4a2cd62"
+        },
+        {
+          "id": "be4a7286-50c9-4852-8a13-36b0e1cd20f2",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cae692ee-a4cc-4d63-b2df-6ef7a4a2cd62"
+        }
+      ],
+      "associations": [
+        {
+          "id": "85441c3b-2412-4648-92ca-c2067eec4a59",
+          "exerciseId": "cae692ee-a4cc-4d63-b2df-6ef7a4a2cd62",
+          "leftContent": "restriccion temporal de retiros",
+          "rightContent": "corta o acesso imediato ao próprio dinheiro",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d9f69c57-645c-456d-84ef-6bf1a42e545f",
+          "exerciseId": "cae692ee-a4cc-4d63-b2df-6ef7a4a2cd62",
+          "leftContent": "cuotas fijadas en dolares",
+          "rightContent": "faz a dívida pesar mais no orcamento",
+          "sequenceItem": 2
+        },
+        {
+          "id": "37a21122-b01d-4ceb-a139-12ccadc8216a",
+          "exerciseId": "cae692ee-a4cc-4d63-b2df-6ef7a4a2cd62",
+          "leftContent": "guardar efectivo fuera del sistema bancario",
+          "rightContent": "mostra perda de confiança no banco",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "c237cc54-e50c-4c90-8825-057b29a2e5af",
+      "title": "Recupere quem sente a crise",
+      "content": "<p>Complete a frase em espanhol: numerosos _______ aplazaron pagos, redujeron gastos y reorganizaron decisiones.</p><p>Traducao: numerosos lares adiaram pagamentos, reduziram gastos e reorganizaram decisões.</p>",
+      "contentPlain": "Complete a frase em espanhol: numerosos _______ aplazaron pagos, redujeron gastos y reorganizaron decisiones. Traducao: numerosos lares adiaram pagamentos, reduziram gastos e reorganizaram decisões.",
+      "fileUrl": null,
+      "feedbackSuccess": "No fecho da aula, a crise deixa de ser abstrata e aparece no cotidiano dos lares.",
+      "feedbackError": "No fecho da aula, a crise deixa de ser abstrata e aparece no cotidiano dos lares.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hogares",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "96c21466-c7d4-49ad-88ee-f0cc7df5b4c9",
+      "title": "Releia a cadeia de causa e efeito",
+      "content": "<p>O microtexto final junta custo da dívida, desconfiança e ajuste familiar. Associe cada trecho em espanhol ao efeito que ele ajuda a explicar.</p>",
+      "contentPlain": "O microtexto final junta custo da dívida, desconfiança e ajuste familiar. Associe cada trecho em espanhol ao efeito que ele ajuda a explicar.",
+      "fileUrl": null,
+      "feedbackSuccess": "O microtexto final recompõe a crise como encadeamento entre custo da dívida, desconfiança e ajuste das familias.",
+      "feedbackError": "O microtexto final recompõe a crise como encadeamento entre custo da dívida, desconfiança e ajuste das familias.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "33c1c086-95e1-4ac5-9d3f-1e36bd1b2961",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "96c21466-c7d4-49ad-88ee-f0cc7df5b4c9"
+        },
+        {
+          "id": "f8782d09-6685-40d6-90ef-a5d131132aba",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "96c21466-c7d4-49ad-88ee-f0cc7df5b4c9"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ed4cdcb9-c0bc-4e64-8711-a9e2f5e0886d",
+          "exerciseId": "96c21466-c7d4-49ad-88ee-f0cc7df5b4c9",
+          "leftContent": "al encarecerse las cuotas fijadas en dolares",
+          "rightContent": "a carga da dívida sobe",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3169410e-3d29-48da-bd2a-49eae84a58ab",
+          "exerciseId": "96c21466-c7d4-49ad-88ee-f0cc7df5b4c9",
+          "leftContent": "extenderse la desconfianza",
+          "rightContent": "o vinculo com o banco perde estabilidade",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3bea01fe-7535-495a-a139-e59ef18b275d",
+          "exerciseId": "96c21466-c7d4-49ad-88ee-f0cc7df5b4c9",
+          "leftContent": "aplazaron pagos",
+          "rightContent": "compromissos deixam de caber no prazo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2b092e71-72af-46f3-b7a3-c0e66cf00caa",
+          "exerciseId": "96c21466-c7d4-49ad-88ee-f0cc7df5b4c9",
+          "leftContent": "redujeron gastos",
+          "rightContent": "o orcamento encolhe",
+          "sequenceItem": 4
+        },
+        {
+          "id": "1771b122-a968-410b-9405-82216f2fd8ac",
+          "exerciseId": "96c21466-c7d4-49ad-88ee-f0cc7df5b4c9",
+          "leftContent": "reorganizaron decisiones",
+          "rightContent": "escolhas cotidianas passam a depender da crise",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "b38b6efb-14fd-4326-8126-49c123c84a9d",
+      "title": "Recupere a resposta a desconfiança",
+      "content": "<p>Complete a frase em espanhol: muchas personas optaron por guardar ________ fuera del sistema bancario.</p><p>Traducao: muitas pessoas passaram a guardar dinheiro vivo fora do sistema bancario.</p>",
+      "contentPlain": "Complete a frase em espanhol: muchas personas optaron por guardar ________ fuera del sistema bancario. Traducao: muitas pessoas passaram a guardar dinheiro vivo fora do sistema bancario.",
+      "fileUrl": null,
+      "feedbackSuccess": "A perda de confianca fica visível quando o dinheiro passa a circular fora do sistema bancario.",
+      "feedbackError": "A perda de confianca fica visível quando o dinheiro passa a circular fora do sistema bancario.",
+      "answerType": "buildWord",
+      "expectedAnswer": "efectivo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "8c8db92c-8466-47eb-83e4-7b785aff83ee",
+      "title": "Recupere a palavra da dívida",
+      "content": "<p>Complete a frase em espanhol: las ______ fijadas en dólares empezaron a pesar mucho más sobre ingresos que no crecieron al mismo ritmo.</p><p>Traducao: as parcelas fixadas em dólares passaram a pesar muito mais sobre rendas que não cresceram no mesmo ritmo.</p>",
+      "contentPlain": "Complete a frase em espanhol: las ______ fijadas en dólares empezaron a pesar mucho más sobre ingresos que no crecieron al mismo ritmo. Traducao: as parcelas fixadas em dólares passaram a pesar muito mais sobre rendas que não cresceram no mesmo ritmo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula mostra que a crise pesa quando a renda local não acompanha a moeda de referência da dívida.",
+      "feedbackError": "A aula mostra que a crise pesa quando a renda local não acompanha a moeda de referência da dívida.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuotas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "651cddce-0a13-49ce-8ca8-a87d2c948e03",
+      "title": "Recomponha a leitura institucional",
+      "content": "<p>O recap final condensa a crise em quatro termos. Ligue cada um deles ao tipo de efeito que ele ativa na leitura.</p>",
+      "contentPlain": "O recap final condensa a crise em quatro termos. Ligue cada um deles ao tipo de efeito que ele ativa na leitura.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final condensa a crise como passagem de decisão financeira a perda de margem social.",
+      "feedbackError": "O recap final condensa a crise como passagem de decisão financeira a perda de margem social.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "87e20ca2-1c0b-4d99-a92f-1bfcaa922258",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "c4a64ad7-0c92-4ba4-804d-dbb75f9ccff9",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "651cddce-0a13-49ce-8ca8-a87d2c948e03"
+        },
+        {
+          "id": "e41a09d2-0dee-448e-b625-bc79eed14bfe",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "651cddce-0a13-49ce-8ca8-a87d2c948e03"
+        }
+      ],
+      "associations": [
+        {
+          "id": "8e194a24-37bd-4459-851c-bd9bf2cbea43",
+          "exerciseId": "651cddce-0a13-49ce-8ca8-a87d2c948e03",
+          "leftContent": "restriccion",
+          "rightContent": "perda de acesso imediato ao próprio dinheiro",
+          "sequenceItem": 1
+        },
+        {
+          "id": "09e43af5-cbcc-43b3-b2b7-c3b79cae3268",
+          "exerciseId": "651cddce-0a13-49ce-8ca8-a87d2c948e03",
+          "leftContent": "cuotas",
+          "rightContent": "aumento do peso da dívida sobre a renda",
+          "sequenceItem": 2
+        },
+        {
+          "id": "08f7d9f9-b9d2-4691-9966-a070ded4dbc1",
+          "exerciseId": "651cddce-0a13-49ce-8ca8-a87d2c948e03",
+          "leftContent": "desconfianza",
+          "rightContent": "quebra de confiança coletiva no sistema",
+          "sequenceItem": 3
+        },
+        {
+          "id": "551db245-9731-4740-b9a8-7c630197049e",
+          "exerciseId": "651cddce-0a13-49ce-8ca8-a87d2c948e03",
+          "leftContent": "sistema bancario",
+          "rightContent": "instituição cuja relação com as famílias se deteriora",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Seguir o rastro da crise entre bancos e familias"
+}

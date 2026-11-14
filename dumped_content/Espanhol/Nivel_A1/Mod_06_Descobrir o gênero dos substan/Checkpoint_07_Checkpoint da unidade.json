@@ -1,0 +1,587 @@
+{
+  "attemptId": "09e6a7f3-804c-4d41-81b9-49946094beb8",
+  "exercises": [
+    {
+      "exerciseId": "b93a7890-9a3b-44ac-9bb7-b6f137633634",
+      "sequence": 1,
+      "lessonId": "9bb025fa-5ad5-4f5a-8906-d6735da5f21a",
+      "title": "Complete o artigo",
+      "content": "<p>Hay __ libro en la mochila.</p><p>Tradução: Há um livro na mochila.</p>",
+      "contentPlain": "Hay __ libro en la mochila. Tradução: Há um livro na mochila.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, un acompanha libro quando o objeto é masculino singular.",
+      "feedbackError": "Nesta aula, un acompanha libro quando o objeto é masculino singular.",
+      "answerType": "buildWord",
+      "expectedAnswer": "un",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1c899d7f-1990-4251-acb7-5c59439b7688",
+      "sequence": 2,
+      "lessonId": "5a21d7d3-840f-4e01-8458-2946e2b01a91",
+      "title": "Recupere a frase pelo áudio",
+      "content": "<p>Associe cada áudio à frase completa correspondente. Use a forma verbal para reconhecer quem está em jogo.</p>",
+      "contentPlain": "Associe cada áudio à frase completa correspondente. Use a forma verbal para reconhecer quem está em jogo.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final liga cada forma de tener a uma situação curta e concreta do dia a dia.",
+      "feedbackError": "O resumo final liga cada forma de tener a uma situação curta e concreta do dia a dia.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "10437539-1678-4262-b718-85d63b317412",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c96897e8ab94085a1d72c734c266017_b02-tenemos-dos-boligrafos.mp3?Expires=1794099431&Signature=XTyD1-dYUSn9J0lY0VLkmaTRn6k~TK~xrf5IC5cW2L~9ki~7DFi~ECVjMKrtaSf5jCMoYDVo1UtwlK7e5ZZcJWI~wjC9iZKvOc4qQUV~GkbxX-PsqjtazZv5OoiZUxXu7QJu5LISy95szK4rkop1yjMN49NTsaAFTpvhnMEbNGvsYYIeQS2ovc4ntXfxIAwb~9e8Tb5QTSlDG2aw0yyzWVpGk-paTEYHIq~mLUfaK8dJRfuWD7MY--2o-6KZG1atpwHy4vep-TMzkhDDUzJczWquHHZ9O2qSiCoWD1-iaEtfakJciSNZ0tF3PyGE1rYQ~-wbjIMs~pWcldxw1PU2zA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tenemos dos bolígrafos.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "6e7b7329-e0c3-4f53-a4d7-259dbb66b857",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e4b79bee81b7429e86ca44fe1a26706e_b04-teneis-un-numero-nuevo.mp3?Expires=1794099431&Signature=seDTW2xsn2mOE6udowdjrwrsCd5n15KpBZtl-hG4gVXT3889WUEUx8NqKDpZYzXf-lhLEkprl4TMYYSxqZEtYbAJezh78m0ac8fRKEbcjSy3OrrpbFq2hQcM~5Yl96MUy020OoAbLkTG-HP6Rl7LvZY0FbPDs~GPvIihO2MGkg3bfpIYKrgQU9~qZiVf8n-8K47oKTb40CfYZ4~czr7VyIQr8cdUX6FSpFrZg9LCsoApVVyNFn-rMVpMWpyOWNzp3MHiUkrMD3rIWQbrYipaM3LkLZOF3yOMnk5Fbdz37yExH8jI6X0l2-f2fo~ZloVVatT58bOyHa2X8KT-eWzCzA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tenéis un número nuevo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4c2179f0-812f-4491-b1e3-16c6fc4290ac",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d928cf9639654ebc83f4b87365a53962_b06-ellas-tienen-una-casa-bonita.mp3?Expires=1794099431&Signature=UDnYTJMMRwiQE5vMh9qwFYSkz~8Lbonx7VV4vOW3Lz~9D2Or-aFhiTvCESd6WgE8gkfvNxmdJAoqnOFY6Z6p7H9f55XRbVsgbsgQFVMe1XV8MGQdetCInWxBf8md2r64ribMOM-s3upgbBHLcPo7QU44A~7dbseNEVHu-eqh0UVZ-h-Y9wnUTw6Fk-nz7Kj82rXL1YUzt0etSHqsG8RabrCrfPX2sZ25byDOjlBr1VjgDF1BzDEcJaRFDWfcSl~~WSjZuDk6i298HdF429LdYWQdanifMLCxUkYw36csjOfMdProetlCVnx5prisC67IBtp73-W4s945i5ol93J34Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ellas tienen una casa bonita.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "bd1dc881-41d1-4cba-b21e-e07dc33475fc",
+      "sequence": 3,
+      "lessonId": "c64bbfaa-6e56-404a-b32a-72ce615dc974",
+      "title": "Ouça a fala completa",
+      "content": "<p>Preste atenção na apresentação curta e marque apenas as palavras que você escuta.</p>",
+      "contentPlain": "Preste atenção na apresentação curta e marque apenas as palavras que você escuta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/78d3c03409f84c0cb2efbb435ae45c97_b05-hola-soy-sara-mi-numero-es-440-06-73.mp3?Expires=1794099431&Signature=Cxc3agESQj0B5jnKeuK7qNaRWW99UI6BShDxijNxEYZC20NN5y6b2MqEoTI4eKNArclsqoDb3ZvOBUYx1rmT~WZQLPOeSbOwtDvKGXuNYcjo7l3BSTIsZ43iUjcBO5Ij6bQYOxJ5CGfoO0dba9P7TNAEGMA2YgEHjea8m3qfwhB6LddFWf9OWvzzL8l4rUEVwJyz44LENsgMafblTJrm-~iaanVcCaYPPRxhvWHM2UPPh~a9xF4pZWH7Lq1racQ2ro56E62oG5JpZ16P~Ico3t3DJmH4jTBsep4Y6u-Xg~yDzvK4~lcuwj0TPZPuGgUYO2pjPfQNGHCAuL1cZxeyBw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, a base é Mi número es...; o foco é reconhecer e dizer os dígitos com fluidez.",
+      "feedbackError": "Nesta aula, a base é Mi número es...; o foco é reconhecer e dizer os dígitos com fluidez.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "323988b3-2df1-4a12-bc2b-91ce9d13649d",
+          "text": "Soy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8a279ad3-bafe-4c9b-9d7f-793cdc4595d2",
+          "text": "gracias",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "92f64156-f57b-47e4-a760-fa2a99069708",
+          "text": "Sara",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9ff58bfb-2e13-44e3-be03-ad49c42e4f30",
+          "text": "número",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b041d179-bfb0-46d7-b655-c13acf383cc2",
+          "text": "Hola",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f85c9177-f666-4179-8b6f-7a288e279731",
+          "text": "amigo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "d2e3ebaf-8ab8-42bc-a2ae-d33619a4fe79",
+      "sequence": 4,
+      "lessonId": "277539d3-4e0d-4d4c-812f-622942bbb6b5",
+      "title": "Complete a pergunta",
+      "content": "<p>Complete a pergunta: ¿____ es tu número de teléfono?</p><p>Tradução: Qual é o seu número de telefone?</p>",
+      "contentPlain": "Complete a pergunta: ¿____ es tu número de teléfono? Tradução: Qual é o seu número de telefone?",
+      "fileUrl": null,
+      "feedbackSuccess": "A pergunta principal da aula começa com Cuál para pedir a informação do contato.",
+      "feedbackError": "A pergunta principal da aula começa com Cuál para pedir a informação do contato.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Cuál",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "fcca765b-3c74-4d0e-b89a-3acf05201a79",
+      "sequence": 5,
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "title": "Associe situação e frase",
+      "content": "<p>Combine cada situação do cotidiano com a frase da aula que melhor funciona nela.</p>",
+      "contentPlain": "Combine cada situação do cotidiano com a frase da aula que melhor funciona nela.",
+      "fileUrl": null,
+      "feedbackSuccess": "No resumo da aula, as frases ligam o gênero a situações simples do cotidiano.",
+      "feedbackError": "No resumo da aula, as frases ligam o gênero a situações simples do cotidiano.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "80a27ad1-650e-4349-9537-7c7f8dcd75a5",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9c8f6a0e-b59b-4e42-b0a9-5d6dc70f158e",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "6b3c8d69-8e26-4f6c-ab9b-0028c5f0f50b",
+          "leftContent": "mostrar onde está a caneta",
+          "rightContent": "Aquí está el bolígrafo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e0af2a5e-0dab-4a95-ab4b-20fc164e0714",
+          "leftContent": "indicar onde está a casa",
+          "rightContent": "La casa está aquí.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ea386d67-b5a2-454f-aa87-a8617297b4ec",
+          "leftContent": "elogiar a casa de alguém",
+          "rightContent": "Tu casa es muy bonita.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "e505c452-d91a-489c-9b17-2d5a9abd9334",
+      "sequence": 6,
+      "lessonId": "a3b5cbc9-7afe-4183-b308-e7f1ba437ca8",
+      "title": "Complete o grupo",
+      "content": "<p>Complete o grupo do telefone em espanhol: siete ____</p><p>Tradução: 78</p>",
+      "contentPlain": "Complete o grupo do telefone em espanhol: siete ____ Tradução: 78",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, os grupos curtos ajudam a recuperar cada dígito dentro do telefone.",
+      "feedbackError": "Nesta aula, os grupos curtos ajudam a recuperar cada dígito dentro do telefone.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ocho",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "97aff5a4-92fb-4f10-9485-1e47d128a9ee",
+      "sequence": 7,
+      "lessonId": "9bb025fa-5ad5-4f5a-8906-d6735da5f21a",
+      "title": "Complete o artigo",
+      "content": "<p>Necesito ___ mesa para estudiar.</p><p>Tradução: Preciso de uma mesa para estudar.</p>",
+      "contentPlain": "Necesito ___ mesa para estudiar. Tradução: Preciso de uma mesa para estudar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, una acompanha mesa quando o objeto é feminino singular.",
+      "feedbackError": "Nesta aula, una acompanha mesa quando o objeto é feminino singular.",
+      "answerType": "buildWord",
+      "expectedAnswer": "una",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ec125a37-3523-40ad-b561-d9dc2d6dd80d",
+      "sequence": 8,
+      "lessonId": "c64bbfaa-6e56-404a-b32a-72ce615dc974",
+      "title": "Relacione número e sequência",
+      "content": "<p>Ligue cada telefone à sequência de dígitos escrita por extenso em espanhol.</p>",
+      "contentPlain": "Ligue cada telefone à sequência de dígitos escrita por extenso em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a base é Mi número es...; o foco é reconhecer e dizer os dígitos com fluidez.",
+      "feedbackError": "Nesta aula, a base é Mi número es...; o foco é reconhecer e dizer os dígitos com fluidez.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "31e7de06-f507-4302-944c-7a7dec7b7d7c",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e9a413be-9146-4bad-8615-614db592d77a",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "05046df1-55a0-4c58-8645-6a8505c1261e",
+          "leftContent": "347 82 06",
+          "rightContent": "tres, cuatro, siete, ocho, dos, cero, seis",
+          "sequenceItem": 1
+        },
+        {
+          "id": "88d9edc0-df78-4b3a-8411-5c840fa5ca44",
+          "leftContent": "530 19 08",
+          "rightContent": "cinco, tres, cero, uno, nueve, cero, ocho",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f74a0cc6-1264-49d1-9c25-aa2dcd047f77",
+          "leftContent": "440 06 73",
+          "rightContent": "cuatro, cuatro, cero, cero, seis, siete, tres",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "d3020c69-194f-4aec-8cfd-62e5f42076e6",
+      "sequence": 9,
+      "lessonId": "c64bbfaa-6e56-404a-b32a-72ce615dc974",
+      "title": "Feche a sequência",
+      "content": "<p><strong>440 06 73 = cuatro, cuatro, cero, cero, seis, siete, ____</strong></p><p>Tradução: 440 06 73 = quatro, quatro, zero, zero, seis, sete, três.</p>",
+      "contentPlain": "440 06 73 = cuatro, cuatro, cero, cero, seis, siete, ____ Tradução: 440 06 73 = quatro, quatro, zero, zero, seis, sete, três.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a base é Mi número es...; o foco é reconhecer e dizer os dígitos com fluidez.",
+      "feedbackError": "Nesta aula, a base é Mi número es...; o foco é reconhecer e dizer os dígitos com fluidez.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tres",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9ce1e146-bde5-4d87-a358-030297af56cb",
+      "sequence": 10,
+      "lessonId": "a3b5cbc9-7afe-4183-b308-e7f1ba437ca8",
+      "title": "Reconheça os dígitos pelo áudio",
+      "content": "<p>Escute o telefone curto e marque somente os nomes dos dígitos que entram nele.</p>",
+      "contentPlain": "Escute o telefone curto e marque somente os nomes dos dígitos que entram nele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a804d6b8fe5c4ba8af73de6326d6e088_b14-numero-59-78-66.mp3?Expires=1794099431&Signature=oI36L77fHfJXhK4eAFFfmNO~Ah2itlMseqdqy0mdBD9Y7yV0bu0N7u1tNcy9vlUP14Aspn7CluC6pjJ-vDd4fs~rrWu07wFYpUxHu1XfcuiTWk9HMa6iqD8LQVwl2ilMsZCcYFsGkXQHxcYAGdSswK90eihZwkLQ5IN77wSLArQ3oJmvgYEL3HsbbKbd7~5~pN287tnzLUvmcdnmi0oDklAngfVudFlrcDX9PP-k4IG1WcVnICRgQqcM~cDpcuOxTyD0frugt4LAawK5XMq-Frp9OS3MyQaBQ4Z3AOkqytaICtgemhaLSH2b9YnJUPz6auwi7iP0CQvcp~nSqsMiuA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesse telefone curto, a escuta por grupos ajuda a separar os dígitos de cinco a nueve.",
+      "feedbackError": "Nesse telefone curto, a escuta por grupos ajuda a separar os dígitos de cinco a nueve.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "19fcae29-fd68-4bed-af5e-eb2f305f6145",
+          "text": "ocho",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4b95bad8-9da9-41b0-9980-6e43bd97d5d7",
+          "text": "cuatro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5ce15133-e0a1-4e18-96eb-266a0be980cf",
+          "text": "nueve",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6ff612f1-8a94-4a72-8e2e-236826e232f0",
+          "text": "cinco",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7296c23e-ca4b-4947-ba03-1ee950cf18f5",
+          "text": "uno",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "aa3cbc9e-8b41-44ff-8ac4-95a497e065af",
+          "text": "dos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ba567317-11c9-4502-a1f5-a0f781b22756",
+          "text": "siete",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bbf9930e-25b2-4ea7-a578-77d3dc3ccf3c",
+          "text": "cero",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bfa2fc02-66d9-4b7d-979f-fd7bfa7d189e",
+          "text": "seis",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d580e17e-2d79-472d-809e-b0ea996ab2b9",
+          "text": "tres",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f71c0e43-5638-4ef5-9332-3c97a3995791",
+      "sequence": 11,
+      "lessonId": "277539d3-4e0d-4d4c-812f-622942bbb6b5",
+      "title": "Recupere a resposta pelo áudio",
+      "content": "<p>Escute o número em grupos curtos e marque só o que realmente aparece na resposta.</p>",
+      "contentPlain": "Escute o número em grupos curtos e marque só o que realmente aparece na resposta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/29d26efd5dca44bdad4623282ee92d4d_my-number-is-618-42-90.mp3?Expires=1794099431&Signature=wEkXgA5VyxfBZF4B0L0YB-75--lRKTlexBobJAN7wkEP2KCQr3fjBOvqL-r14zKb3fHs~FQorevuW0kIRnZyUBx92JxGb7IieHfYoK88GjCwPmV4qe4wL5ioXt2a5BC59wOi~z4IwYC7QA1ynilIZK5fSITgCl5emKtIK~Ywb6P9UfSl9-r4bTAb0y~VYh92Rz1SSKtKpskbyt-8cdQp51P3SD2hWrTwPClGOH-yTZWFS-kbg2x2JQ0-IdGrNjOS9e6LQXD0iiWn-B8zBpVVlUYHGrsx0ntjllIwSHHflZkEWqUoz852EFQPxttjaWxA9upI0-4thVYs6NJxnjHJng__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na escuta desta aula, a resposta fica mais legível quando você acompanha Mi número es... em grupos curtos.",
+      "feedbackError": "Na escuta desta aula, a resposta fica mais legível quando você acompanha Mi número es... em grupos curtos.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "35779d51-6f25-4147-acf1-ad72bea959ab",
+          "text": "42",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "68e91c60-e12c-49ce-a00c-a3114f7ba0ab",
+          "text": "es",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8dfac5d7-0b4b-4a75-867c-35028601041c",
+          "text": "618",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "acf37562-ec6c-4c9e-b509-50e6b72ee554",
+          "text": "554",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b8702864-584f-42d9-9ffc-14c6ca7820b5",
+          "text": "mi",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cce64920-3c67-47c1-ba8c-648e3c631abf",
+          "text": "tu",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d2912532-e541-4520-9de3-2f3d62901b14",
+          "text": "número",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fdb93dc8-4975-4738-adde-e5021a3cb705",
+          "text": "90",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f262f489-dc56-4670-b4cc-0a249cc5784f",
+      "sequence": 12,
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute o comentário e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute o comentário e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9ab286e7d03746e88125bcd640ea9957_b08-tu-casa-es-muy-bonita.mp3?Expires=1794099431&Signature=jM24sylECoT01534U3VBAHFhzIKpwYe6ILrW62Z1x2hcGP0TMO0WbPQpEBJGWoVWC4nd962bSRBzbWwfzxrb1YAAMM2orJ9G-MngTI8vVQv1QYx~aPg3STEQ2XrpIcR0I1E4fTTy4iQu~HSrhRl6qLtaPX~NxwC52-gYSWl0X2IH3dkijwTkrq6-clpi1CcdajAMaVip83FNtTF71pVI4yffREh7f2DwhsIjlZcq6rcrOWcMgJ4eAKJhNDeYN2Wq-vBSaWZjUFu7Jq6u4FdIg7HRST08-NgvrII59J9Uhjg3Lr2yLH021m8vr2yQUZ~-aE308t82w~vz1iZ9bw7j-A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui, casa continua clara mesmo sem o artigo la antes dela.",
+      "feedbackError": "Aqui, casa continua clara mesmo sem o artigo la antes dela.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "37674f44-cd6c-4f69-bd9a-16663f7edb75",
+          "text": "Tu",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4e1b582a-d93a-4439-8e8b-d87bd5e4cb7c",
+          "text": "bonita",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6a419bda-625c-45bd-87e9-699ae1e2e11c",
+          "text": "bolígrafo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "820a7a22-6ae9-4cd5-bf8d-5c08dc64db53",
+          "text": "casa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a69802d4-13ab-4be3-b55d-9363b2ab4178",
+          "text": "muy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e5e0bd23-7dec-4166-b2b5-69240ed00664",
+          "text": "la",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f6212a47-f8d1-4a19-9ade-cee9888d2bdf",
+          "text": "es",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "07c2257b-8710-4054-88e0-71a56a3921d5",
+      "sequence": 13,
+      "lessonId": "277539d3-4e0d-4d4c-812f-622942bbb6b5",
+      "title": "Ligue o padrão às partes do telefone",
+      "content": "<p>Relacione cada parte das respostas da aula à descrição correta.</p>",
+      "contentPlain": "Relacione cada parte das respostas da aula à descrição correta.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste da aula mostra que Mi número es... fica estável enquanto os dígitos variam.",
+      "feedbackError": "O contraste da aula mostra que Mi número es... fica estável enquanto os dígitos variam.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "17f5339c-154f-4e79-b91e-c53cc1b5e86f",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2d85a44b-0b1d-4756-88b0-7e9de9b4bf33",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "403cdd1d-08a0-4e46-8b4e-7ab89cca7c5f",
+          "leftContent": "Mi número es",
+          "rightContent": "começo que fica igual",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d30999dc-7b72-43c8-b90f-38029ab6ebf5",
+          "leftContent": "618 42 90",
+          "rightContent": "número do diálogo da aula",
+          "sequenceItem": 2
+        },
+        {
+          "id": "366d6a7d-f024-48f8-8a76-67803bee7102",
+          "leftContent": "554 38 17",
+          "rightContent": "número do fechamento da aula",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "aa47196f-c0fe-4d42-beea-9423f62a5b1b",
+      "sequence": 14,
+      "lessonId": "5a21d7d3-840f-4e01-8458-2946e2b01a91",
+      "title": "Complete o verbo",
+      "content": "<p>Ellos ______ un coche nuevo.</p><p>Tradução: Eles têm um carro novo.</p>",
+      "contentPlain": "Ellos ______ un coche nuevo. Tradução: Eles têm um carro novo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, tienen ajuda a falar de um grupo que fica fora da conversa.",
+      "feedbackError": "Nesta aula, tienen ajuda a falar de um grupo que fica fora da conversa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tienen",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "fa140229-ad49-4dbe-b5db-af3798bcf5bc",
+      "sequence": 15,
+      "lessonId": "9bb025fa-5ad5-4f5a-8906-d6735da5f21a",
+      "title": "Complete o artigo",
+      "content": "<p>Compré ____ libros para la clase.</p><p>Tradução: Comprei uns livros para a aula.</p>",
+      "contentPlain": "Compré ____ libros para la clase. Tradução: Comprei uns livros para a aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, unos marca o plural masculino antes de libros.",
+      "feedbackError": "Nesta aula, unos marca o plural masculino antes de libros.",
+      "answerType": "buildWord",
+      "expectedAnswer": "unos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

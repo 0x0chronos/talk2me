@@ -1,0 +1,566 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+    "attemptId": "2ba5ea1d-7245-404d-b8c8-80d683a2f58b",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "22d7d79c-5e36-4d0d-83e4-6619cf692b9a",
+      "4a8fb659-846d-47c5-bda3-0ed1422dd086",
+      "a5589c32-0860-481f-a1b3-d4c43db820ad",
+      "f77a6eb5-dc03-4009-b5e7-a8150202ec7f",
+      "4f2fec48-b59f-4c3a-ae6e-120c1641f2bc"
+    ],
+    "evaluationExerciseIds": [
+      "ff3d0b57-f00c-4a4a-bd8e-1740f216d7a5",
+      "5f5a19da-1a2b-4e93-b6f9-238950f6223c",
+      "96e71587-232b-44b1-986b-a2aef21a4e25",
+      "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb",
+      "7b797e70-1ff9-4b46-84bd-935a2b078953"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:32.4159158Z"
+  },
+  "contents": [
+    {
+      "id": "cb5a722e-11ec-4804-a75b-d662ad030d9d",
+      "title": "Escute e acompanhe a frase curta em espanhol.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "66f89c7a-6d8b-4e19-ae68-26249e2ef093",
+          "textContent": "<p>Escute a frase para dizer onde você trabalha.</p><p><strong>Trabajo en un hospital.</strong></p><p>Trabalho em um hospital.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/acb75776d8f54558b1a38098ee0e7405_b01-trabajo-en-un-hospital.mp3?Expires=1794099452&Signature=Fh-VePso7lhCW63SOn-Jau9j6xuRcOqAJXs2ywbH~LlRjzmTYtgOkxiVKSAVi4fZtZm8OhJI1c~Dj9dY50~9lt39I8y8bF8kAlbQVrdzK3gd5hy7Mf7irj62tM7dQrGmpf2pBoHek0M9k74YJjlctjnMMbmxk5pEUKBHhLme789ixI8p6FeE26W59cXJpBcFNPppUlY2CESSz9KdeXTbNR7VzPhukkWn-IEZdpqVEneBh2Bry3EWyUpNOOqYAMHgm~F9vJMAba52PV4OrozVmZVPKn33CCpXB6gcUa4dlwWkQsGPgQ6Mregdr~DfxqBiO4Fymc566qhz9aTwHDVAhg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "89ecbe96-dee5-46b6-bfdd-30275259cfe0",
+      "title": "Observe a ordem da frase e o papel de \"en\".",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "9c354c63-1b45-4e48-bccf-d9b31e2ca701",
+          "textContent": "<p><strong>Trabajo en + lugar</strong></p><p>Use essa estrutura para dizer onde você trabalha.</p><p>Depois de <strong>en</strong>, entra o lugar de trabalho.</p><ul><li><strong>un hospital</strong></li><li><strong>una escuela</strong></li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9a5f836f-7161-45a7-baa8-de07e53ed1ae",
+      "title": "Escute e leia a resposta inteira.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "c632e1b0-f720-4544-b17c-f5fc77952452",
+          "textContent": "<p>Agora veja a resposta completa.</p><p><strong>Soy médica. Trabajo en un hospital.</strong></p><p>Sou médica. Trabalho em um hospital.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/bbcc386711364dc982eadf2482dbf67b_b03-soy-medica-trabajo-en-un-hospital.mp3?Expires=1794099452&Signature=d5IDO8jyDedQU6sISLuRuSzKY9eaJ0I~p1UvL2AS5jdDoNmZPV1W~HomkC8SD0aHGfDuR26R808Fza43mkeyxwZ0VrGoHdEYZdlvppDrXaomaoHKG~k8iBM~bHyPuX1PimVseZpfQS7hxvjeMhmNIJTJKdDOn9DMK8CsurrTfWEHIaUYskQK9kLu9ktS8tAwkZ3aZ1pg4iNXrxkUCQqesmryK2~GiGbOiS4NZHf-D3UTxLAypteshRwJb1DywfT96IWfzuMX~11DY7i85ezNLbGiNKqf-au8GDbEpZS7vH4pNZqOVp8P-baIZYWBffaZh97fpV~HjzUmcATNF4vz4A__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7404c042-f215-42ed-affb-94161386f34c",
+      "title": "Troca curta sobre trabalho",
+      "description": "<p>Observe como a pergunta e a resposta aparecem em sequência.</p>",
+      "contentType": 7,
+      "sequenceItem": 4,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿A qué te dedicas?</div>\n  <div style=\"opacity: 0.45;\">Com o que você trabalha?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c9cc1ed0769b4de8ac995e15a9405e6e_b04-q-a-que-te-dedicas.mp3?Expires=1794099452&Signature=JkaIzHlGZKX2JmA6wWuHdAVuTn9kpSgu-czAiswqW2099Qxm0x2Y2l~p2OYGws5dpuSCj7nQ-UiLHmDILnSEIpN81e6C0DF3we-sWV65KmVa6MqBFG6eHaBTwLHf1iCvVfiphmo3fBFno2uMdU6vVqihiuVIPmC6HEwmI-uH-l60Q95xejBhBTHJb8ytvp-1SQygdTl33iXeO8Q-GQwF0CP4piwki1Xr9Vvwog2dPNWaPRhPuYNqWZBtE4aVrIfvD-4VAwGvSG0uhKV0gp13FPA-S5DzITRl0wcpkKNbyHfAKFIdZ4M7QXxwHAxKSzySyRjNpZ6MQMJ8045uv5M4hA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Soy médica. Trabajo en un hospital.</div>\n  <div style=\"opacity: 0.45;\">Sou médica. Trabalho em um hospital.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9dc6d65b995847109920b5bdeec7bd25_b04-a-soy-medica-trabajo-en-un-hospital.mp3?Expires=1794099452&Signature=nq6t4GULZNMC4SnzMuiZkDJbD9ElatxgCYTNQo8583YHyr4IJ2ZSCavB-z6UQ0T1FHgRfpyuOiJNKipV43Jtr-8CvoKfzKKqNPVocYPLxkvu5GD58cLwqjs4JbkTF6H-6S7QMe5LvnrBeuS9lCbqMT7vH-C1cbak5v11csRe8LihodXP2joDCPdJE67phFmraTa38QlesRrIN~tPvmsrN8nQodQ~G9eXsfwxg1owwlJMKXeb6j049lZwJo7qA~eGp~ScnBxBCYVqAtBJ2RKqBaY70Omqbruj3MyF-dvZS-eknknuUkK2bEM4uiKz9JCL-iLu0hnaQjT1WG4WhTkMeg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Y tú?</div>\n  <div style=\"opacity: 0.45;\">E você?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3c85fe0391c94db4ac3e29bb09aac603_b04-q-y-tu.mp3?Expires=1794099452&Signature=0VLs~QzWrW40MF2k0nTQjePBqRfid7LPqnqI01tRIqsddeK0Tfzl0rhc0Pr0fxNekBElI7lQDOwyVOg792VyfJsdQfiCEQAdLQGRQ7Ue5tINyaAxEhxDe4JrRKawYsLTYbUzhntuazc07lOfUfW3G5xYhn9nlZg7gA3MHUaAcwvOt13LsnYm9WujVANgfGuhpGP2KbB0mA~3i0oCe3pqKww7ksIYqktuzAqlE3AIdpDyOMoQIgUUenzOGkapaM9SpdlW4iHN3ds2IeWFvIuImZXdEnWbs2LCEimN5L4mmwsdKNl0YHFhCj4NpEfMCft2LC1PWtZhCN5zSydPxeC9Kg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Soy profesor. Trabajo en una escuela.</div>\n  <div style=\"opacity: 0.45;\">Sou professor. Trabalho em uma escola.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a28bb884335f4ac28075156927b37a21_b04-a-soy-profesor-trabajo-en-una-escuela.mp3?Expires=1794099452&Signature=JpJNmHdKwP07PbSC3GvuUYlrjXaIfFGkk~1tn9naoIbOJaiJTMwAmOiJSV4WQYgcq1Nzgs7-2zfNhIndbkvrNEMvyuiQVqzrOdW8Nq1YvYHUaCZKhm7hEgsoVFqxreOEDZzZCb~3Wz0JTGKROzxElH~~GJoRZZrt3sMxUp3CnaCAFZiNwilWCVzGMzuVebBnJhEDFOQ~hPUfRpcafdZpUrz7hqrfFMBA9eazgm-NHQRA~HT-YjkOwLLyVgByRF~jmrsKmzntLLNdG159gWFCaZmYhkZEf0qYWVu1TVHelkcme7fZe4xU1KcchnyG0X5uDiUp7jmBqbecPIBox3DUjg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "09b00d5f-3ba5-4440-86f0-dbe2f274c9e4",
+      "title": "Compare as duas aberturas da conversa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "a4d72dce-6c1e-400f-aee4-1f354889b266",
+          "textContent": "<p>Duas perguntas podem abrir essa conversa.</p><ul><li><strong>¿A qué te dedicas?</strong></li><li><strong>¿En qué trabajas?</strong></li></ul><p>As duas pedem uma resposta sobre sua profissão e seu lugar de trabalho.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "86dd14b1-a2fc-4ba8-85e5-355e0effd9a4",
+      "title": "Leia o resumo final da resposta útil.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "3a78aac0-0752-453e-87ba-c9c9a1aa19a0",
+          "textContent": "<p>Na vida real, uma resposta simples já resolve.</p><p><strong>Soy médica. Trabajo en un hospital.</strong></p><p>Esse modelo permite dizer o que você faz e onde trabalha em uma conversa curta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "22d7d79c-5e36-4d0d-83e4-6619cf692b9a",
+      "title": "Ligue resposta e sentido",
+      "content": "<p>Relacione cada resposta curta sobre profissão ou lugar de trabalho ao sentido correspondente em português.</p>",
+      "contentPlain": "Relacione cada resposta curta sobre profissão ou lugar de trabalho ao sentido correspondente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a resposta curta junta profissão e lugar de trabalho em frases separadas e simples.",
+      "feedbackError": "Nesta aula, a resposta curta junta profissão e lugar de trabalho em frases separadas e simples.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "420bb612-7e4a-44e1-a3d6-881ff84a6903",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "22d7d79c-5e36-4d0d-83e4-6619cf692b9a"
+        },
+        {
+          "id": "a6d2b1ba-6119-4b3f-a0eb-0a3f81d07865",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "22d7d79c-5e36-4d0d-83e4-6619cf692b9a"
+        }
+      ],
+      "associations": [
+        {
+          "id": "8b2a6828-ad99-4cb9-8d5f-b04575d05bbc",
+          "exerciseId": "22d7d79c-5e36-4d0d-83e4-6619cf692b9a",
+          "leftContent": "Soy médica.",
+          "rightContent": "Sou médica.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "99bf8e80-c945-4a25-ae81-3e81c5bbf7d3",
+          "exerciseId": "22d7d79c-5e36-4d0d-83e4-6619cf692b9a",
+          "leftContent": "Trabajo en un hospital.",
+          "rightContent": "Trabalho em um hospital.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a42e32ca-ebdd-4c22-b5c2-5ecf81b8ecf8",
+          "exerciseId": "22d7d79c-5e36-4d0d-83e4-6619cf692b9a",
+          "leftContent": "Soy profesor.",
+          "rightContent": "Sou professor.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "b2418e25-8fee-46b8-b261-6407c38b9e7c",
+          "exerciseId": "22d7d79c-5e36-4d0d-83e4-6619cf692b9a",
+          "leftContent": "Trabajo en una escuela.",
+          "rightContent": "Trabalho em uma escola.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "4a8fb659-846d-47c5-bda3-0ed1422dd086",
+      "title": "Escute e associe as falas",
+      "content": "<p>Escute partes da troca curta e ligue cada áudio à frase correspondente em espanhol.</p>",
+      "contentPlain": "Escute partes da troca curta e ligue cada áudio à frase correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo desta aula mostra como pergunta, retomada e resposta completa aparecem em sequência.",
+      "feedbackError": "O diálogo desta aula mostra como pergunta, retomada e resposta completa aparecem em sequência.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "3f18801b-fdc4-443a-a12c-e2cbf17d3bf9",
+          "exerciseId": "4a8fb659-846d-47c5-bda3-0ed1422dd086",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c9cc1ed0769b4de8ac995e15a9405e6e_b04-q-a-que-te-dedicas.mp3?Expires=1794099452&Signature=JkaIzHlGZKX2JmA6wWuHdAVuTn9kpSgu-czAiswqW2099Qxm0x2Y2l~p2OYGws5dpuSCj7nQ-UiLHmDILnSEIpN81e6C0DF3we-sWV65KmVa6MqBFG6eHaBTwLHf1iCvVfiphmo3fBFno2uMdU6vVqihiuVIPmC6HEwmI-uH-l60Q95xejBhBTHJb8ytvp-1SQygdTl33iXeO8Q-GQwF0CP4piwki1Xr9Vvwog2dPNWaPRhPuYNqWZBtE4aVrIfvD-4VAwGvSG0uhKV0gp13FPA-S5DzITRl0wcpkKNbyHfAKFIdZ4M7QXxwHAxKSzySyRjNpZ6MQMJ8045uv5M4hA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿A qué te dedicas?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "73e0a18b-67a2-49f5-8fa8-ef931fdb98e0",
+          "exerciseId": "4a8fb659-846d-47c5-bda3-0ed1422dd086",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3c85fe0391c94db4ac3e29bb09aac603_b04-q-y-tu.mp3?Expires=1794099452&Signature=0VLs~QzWrW40MF2k0nTQjePBqRfid7LPqnqI01tRIqsddeK0Tfzl0rhc0Pr0fxNekBElI7lQDOwyVOg792VyfJsdQfiCEQAdLQGRQ7Ue5tINyaAxEhxDe4JrRKawYsLTYbUzhntuazc07lOfUfW3G5xYhn9nlZg7gA3MHUaAcwvOt13LsnYm9WujVANgfGuhpGP2KbB0mA~3i0oCe3pqKww7ksIYqktuzAqlE3AIdpDyOMoQIgUUenzOGkapaM9SpdlW4iHN3ds2IeWFvIuImZXdEnWbs2LCEimN5L4mmwsdKNl0YHFhCj4NpEfMCft2LC1PWtZhCN5zSydPxeC9Kg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Y tú?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f20dfc22-b020-454e-a4e8-325de5e05ece",
+          "exerciseId": "4a8fb659-846d-47c5-bda3-0ed1422dd086",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a28bb884335f4ac28075156927b37a21_b04-a-soy-profesor-trabajo-en-una-escuela.mp3?Expires=1794099452&Signature=JpJNmHdKwP07PbSC3GvuUYlrjXaIfFGkk~1tn9naoIbOJaiJTMwAmOiJSV4WQYgcq1Nzgs7-2zfNhIndbkvrNEMvyuiQVqzrOdW8Nq1YvYHUaCZKhm7hEgsoVFqxreOEDZzZCb~3Wz0JTGKROzxElH~~GJoRZZrt3sMxUp3CnaCAFZiNwilWCVzGMzuVebBnJhEDFOQ~hPUfRpcafdZpUrz7hqrfFMBA9eazgm-NHQRA~HT-YjkOwLLyVgByRF~jmrsKmzntLLNdG159gWFCaZmYhkZEf0qYWVu1TVHelkcme7fZe4xU1KcchnyG0X5uDiUp7jmBqbecPIBox3DUjg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy profesor. Trabajo en una escuela.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "a5589c32-0860-481f-a1b3-d4c43db820ad",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a resposta curta em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a resposta curta em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/bd8572f33b2e4684830f0314fbaa9968_A1_M010_L05_audio_bbcc3867_soy-recepcionista-trabajo-en-un-hospital.mp3?Expires=1794099452&Signature=MBlxaxE1bLAbrAgh6KWCzTPtYk1GwUip3mtvlJuFpGmTtpa4jXIFY8r7dUlr9CWW7Gk4EL5iGi1IKZgXKT0wMWq0UJcthtaJMFFFPaRNyaqU1HFygmALftXLPvjEk4k8Fdmsckk4KJ-vLIpY~8POfyXfEr4NTITMUYUH97Mzo1RAPRu1oCsl-LaBHTn7jd06IIO3LnKduuAMoICBgzbQ2eq4p460oD~9QWN2XE14w1qoGMUhffGOVD-sMf9Htba82nVeUsnRc9PtGf93g3WKWVreI2NVS1-q~~vjrisPmuLDdEee4y9eCKGdliGQUBck6iL7EX6dbzElI6vnN-2HPQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, a fluidez vem de juntar profissão e lugar em duas frases curtas e estáveis.",
+      "feedbackError": "Nesta aula, a fluidez vem de juntar profissão e lugar em duas frases curtas e estáveis.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Soy recepcionista. Trabajo en un hospital.",
+      "typeSpecificData": "{\"expectedText\":\"Soy recepcionista. Trabajo en un hospital.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/bd8572f33b2e4684830f0314fbaa9968_A1_M010_L05_audio_bbcc3867_soy-recepcionista-trabajo-en-un-hospital.mp3?Expires=1794099452\\u0026Signature=MBlxaxE1bLAbrAgh6KWCzTPtYk1GwUip3mtvlJuFpGmTtpa4jXIFY8r7dUlr9CWW7Gk4EL5iGi1IKZgXKT0wMWq0UJcthtaJMFFFPaRNyaqU1HFygmALftXLPvjEk4k8Fdmsckk4KJ-vLIpY~8POfyXfEr4NTITMUYUH97Mzo1RAPRu1oCsl-LaBHTn7jd06IIO3LnKduuAMoICBgzbQ2eq4p460oD~9QWN2XE14w1qoGMUhffGOVD-sMf9Htba82nVeUsnRc9PtGf93g3WKWVreI2NVS1-q~~vjrisPmuLDdEee4y9eCKGdliGQUBck6iL7EX6dbzElI6vnN-2HPQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f77a6eb5-dc03-4009-b5e7-a8150202ec7f",
+      "title": "Reconheça a outra pergunta útil",
+      "content": "<p>Qual opção em espanhol é outra forma de perguntar ¿A qué te dedicas?</p>",
+      "contentPlain": "Qual opção em espanhol é outra forma de perguntar ¿A qué te dedicas?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, ¿En qué trabajas? aparece como outra forma de abrir a mesma conversa sobre trabalho.",
+      "feedbackError": "Nesta aula, ¿En qué trabajas? aparece como outra forma de abrir a mesma conversa sobre trabalho.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "45fe882c-b896-4e87-9524-b3a85817117e",
+          "textContent": "¿En qué trabajas?",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f77a6eb5-dc03-4009-b5e7-a8150202ec7f"
+        },
+        {
+          "id": "61b3af96-1974-4388-b586-563e8c839911",
+          "textContent": "¿A qué te dedicas?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f77a6eb5-dc03-4009-b5e7-a8150202ec7f"
+        },
+        {
+          "id": "be95fca9-1b31-41d8-80d3-089062b37aa3",
+          "textContent": "¿Trabajas en un hospital?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f77a6eb5-dc03-4009-b5e7-a8150202ec7f"
+        },
+        {
+          "id": "ed3d7b73-ee3b-4531-9c34-2d183d24086b",
+          "textContent": "¿Y tú?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f77a6eb5-dc03-4009-b5e7-a8150202ec7f"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4f2fec48-b59f-4c3a-ae6e-120c1641f2bc",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Marque somente as palavras que fazem parte da frase usada para dizer onde alguém trabalha.</p>",
+      "contentPlain": "Marque somente as palavras que fazem parte da frase usada para dizer onde alguém trabalha.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/acb75776d8f54558b1a38098ee0e7405_b01-trabajo-en-un-hospital.mp3?Expires=1794099452&Signature=Fh-VePso7lhCW63SOn-Jau9j6xuRcOqAJXs2ywbH~LlRjzmTYtgOkxiVKSAVi4fZtZm8OhJI1c~Dj9dY50~9lt39I8y8bF8kAlbQVrdzK3gd5hy7Mf7irj62tM7dQrGmpf2pBoHek0M9k74YJjlctjnMMbmxk5pEUKBHhLme789ixI8p6FeE26W59cXJpBcFNPppUlY2CESSz9KdeXTbNR7VzPhukkWn-IEZdpqVEneBh2Bry3EWyUpNOOqYAMHgm~F9vJMAba52PV4OrozVmZVPKn33CCpXB6gcUa4dlwWkQsGPgQ6Mregdr~DfxqBiO4Fymc566qhz9aTwHDVAhg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, trabajo en + lugar forma a base para dizer onde a pessoa trabalha.",
+      "feedbackError": "Nesta aula, trabajo en + lugar forma a base para dizer onde a pessoa trabalha.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0edea516-89ae-4043-ae03-2f67964aded4",
+          "textContent": "en",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4f2fec48-b59f-4c3a-ae6e-120c1641f2bc"
+        },
+        {
+          "id": "17988a63-d6b8-4d6f-b8eb-57f9e3fd2208",
+          "textContent": "médica",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4f2fec48-b59f-4c3a-ae6e-120c1641f2bc"
+        },
+        {
+          "id": "7284053e-4dd7-4989-bc69-ef332fa7b8d3",
+          "textContent": "un",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4f2fec48-b59f-4c3a-ae6e-120c1641f2bc"
+        },
+        {
+          "id": "a701ce48-245c-479f-bffe-6a7be9fc29ab",
+          "textContent": "hospital",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4f2fec48-b59f-4c3a-ae6e-120c1641f2bc"
+        },
+        {
+          "id": "eb0c0c05-8835-4499-bf53-6d18ea102477",
+          "textContent": "escuela",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4f2fec48-b59f-4c3a-ae6e-120c1641f2bc"
+        },
+        {
+          "id": "f8c3762d-f050-4bbc-991e-18a541632b7d",
+          "textContent": "trabajo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4f2fec48-b59f-4c3a-ae6e-120c1641f2bc"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "ff3d0b57-f00c-4a4a-bd8e-1740f216d7a5",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a resposta: Soy ______.</p><p>Tradução: Sou médica.</p>",
+      "contentPlain": "Complete a resposta: Soy ______. Tradução: Sou médica.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, soy + profissão apresenta o que a pessoa faz antes de dizer onde trabalha.",
+      "feedbackError": "Nesta aula, soy + profissão apresenta o que a pessoa faz antes de dizer onde trabalha.",
+      "answerType": "buildWord",
+      "expectedAnswer": "médica",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5f5a19da-1a2b-4e93-b6f9-238950f6223c",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase: Trabajo en una _______.</p><p>Tradução: Trabalho em uma escola.</p>",
+      "contentPlain": "Complete a frase: Trabajo en una _______. Tradução: Trabalho em uma escola.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, trabajo en + lugar completa a resposta curta com o local de trabalho.",
+      "feedbackError": "Nesta aula, trabajo en + lugar completa a resposta curta com o local de trabalho.",
+      "answerType": "buildWord",
+      "expectedAnswer": "escuela",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "96e71587-232b-44b1-986b-a2aef21a4e25",
+      "title": "Combine o áudio com as pistas",
+      "content": "<p>Cada áudio traz uma resposta curta completa. Associe cada um ao conjunto correto em espanhol.</p>",
+      "contentPlain": "Cada áudio traz uma resposta curta completa. Associe cada um ao conjunto correto em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento desta aula automatiza a combinação entre profissão e lugar em uma resposta curta.",
+      "feedbackError": "O fechamento desta aula automatiza a combinação entre profissão e lugar em uma resposta curta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "e522ceb2-3360-4035-9768-fdace471d0a0",
+          "exerciseId": "96e71587-232b-44b1-986b-a2aef21a4e25",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9dc6d65b995847109920b5bdeec7bd25_b04-a-soy-medica-trabajo-en-un-hospital.mp3?Expires=1794099452&Signature=nq6t4GULZNMC4SnzMuiZkDJbD9ElatxgCYTNQo8583YHyr4IJ2ZSCavB-z6UQ0T1FHgRfpyuOiJNKipV43Jtr-8CvoKfzKKqNPVocYPLxkvu5GD58cLwqjs4JbkTF6H-6S7QMe5LvnrBeuS9lCbqMT7vH-C1cbak5v11csRe8LihodXP2joDCPdJE67phFmraTa38QlesRrIN~tPvmsrN8nQodQ~G9eXsfwxg1owwlJMKXeb6j049lZwJo7qA~eGp~ScnBxBCYVqAtBJ2RKqBaY70Omqbruj3MyF-dvZS-eknknuUkK2bEM4uiKz9JCL-iLu0hnaQjT1WG4WhTkMeg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "médica / hospital",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e67e70d2-1ede-4aea-93dc-923336e6adcc",
+          "exerciseId": "96e71587-232b-44b1-986b-a2aef21a4e25",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a28bb884335f4ac28075156927b37a21_b04-a-soy-profesor-trabajo-en-una-escuela.mp3?Expires=1794099452&Signature=JpJNmHdKwP07PbSC3GvuUYlrjXaIfFGkk~1tn9naoIbOJaiJTMwAmOiJSV4WQYgcq1Nzgs7-2zfNhIndbkvrNEMvyuiQVqzrOdW8Nq1YvYHUaCZKhm7hEgsoVFqxreOEDZzZCb~3Wz0JTGKROzxElH~~GJoRZZrt3sMxUp3CnaCAFZiNwilWCVzGMzuVebBnJhEDFOQ~hPUfRpcafdZpUrz7hqrfFMBA9eazgm-NHQRA~HT-YjkOwLLyVgByRF~jmrsKmzntLLNdG159gWFCaZmYhkZEf0qYWVu1TVHelkcme7fZe4xU1KcchnyG0X5uDiUp7jmBqbecPIBox3DUjg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "profesor / escuela",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb",
+      "title": "Ouça a resposta e selecione as palavras",
+      "content": "<p>Agora a escuta junta profissão e lugar. Marque apenas as palavras que fazem parte da resposta ouvida.</p>",
+      "contentPlain": "Agora a escuta junta profissão e lugar. Marque apenas as palavras que fazem parte da resposta ouvida.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a28bb884335f4ac28075156927b37a21_b04-a-soy-profesor-trabajo-en-una-escuela.mp3?Expires=1794099453&Signature=CocSbnzFMWOo3f8xaYxpxm7HLNr~i1U9ACqijoWPuDo7glllU4lIq40AA65e3ZYsgRQv8hPXcIPTVDyg-0Za7trfAvxVFq2oV-xGF9k~4JrrOFDS3Lwe6Q92ATj4yXPwSNvdzok7mtbWrPvwe6Cv4L1n0uenwLYMOp-bmbpOnYAJJxWjf-OYVWZ0yw2EEUu6MkL9nmRUY5lqg~1FHwLLkFdEYAtxY76lqKWl8os0hu7tul8~OnmqDhL2-2Okb9d6z8fIN1YIcIgJW~I49BkRhBRd6lc6ABpKjb9oav4ZXSeLJfTA92~A-0r7P3XT3H5FwTKnYowJZNIF7L1pzzr6iQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na troca curta desta aula, a resposta completa combina profissão e lugar sem precisar de frase longa.",
+      "feedbackError": "Na troca curta desta aula, a resposta completa combina profissão e lugar sem precisar de frase longa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2b496a87-f2c2-4fc9-82ab-0c55250c498a",
+          "textContent": "hospital",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb"
+        },
+        {
+          "id": "3eb64063-15e1-41cc-97ec-48617b132a23",
+          "textContent": "médica",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb"
+        },
+        {
+          "id": "5591a945-7d41-4af9-8a54-49ccba0facf1",
+          "textContent": "una",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb"
+        },
+        {
+          "id": "58ef8119-623e-43a2-afe1-556b0b8710b1",
+          "textContent": "soy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb"
+        },
+        {
+          "id": "6b3c70f8-c653-4906-8304-e71c4b624aff",
+          "textContent": "profesor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb"
+        },
+        {
+          "id": "6fd55d79-2acd-4267-ab75-ce513c313ccd",
+          "textContent": "trabajo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb"
+        },
+        {
+          "id": "716959be-3379-471a-b966-18f7e323797c",
+          "textContent": "escuela",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7db00fd9-6436-4e31-9dd9-8b8c0c5ec6fb"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7b797e70-1ff9-4b46-84bd-935a2b078953",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a pergunta: ¿En qué ________?</p><p>Tradução: Em que você trabalha?</p>",
+      "contentPlain": "Complete a pergunta: ¿En qué ________? Tradução: Em que você trabalha?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, ¿En qué trabajas? aparece como outra forma de pedir a mesma resposta sobre trabalho.",
+      "feedbackError": "Nesta aula, ¿En qué trabajas? aparece como outra forma de pedir a mesma resposta sobre trabalho.",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabajas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "2bee98f1-0c2c-46f4-8538-ecaf170d4bce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Falar do seu trabalho com mais fluidez"
+}

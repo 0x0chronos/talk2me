@@ -1,0 +1,683 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+    "attemptId": "0128000b-77a1-450d-aec0-fc85d1ce5f55",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "3d89b983-f5e1-4e35-b2d2-0a4b36971176",
+      "574b0bd0-bae4-4159-bda0-b778cc723ebe",
+      "3253227b-cef7-43dc-a0ac-60ef441b9023",
+      "365f3e37-e29f-43a8-bd69-97d6d24ddf50",
+      "6e9157f3-0516-4b0b-866b-0b084f502e8d"
+    ],
+    "evaluationExerciseIds": [
+      "ff2956d8-3e16-446a-9db3-4dd0d1615d71",
+      "2597a9b0-e964-4cae-a7a5-228f17b89f2f",
+      "baf4d6a5-23dd-4a8d-a047-72db885a5f5d",
+      "39855131-6f1f-40a6-af70-dee764e2a798",
+      "49eaee36-735f-4bf2-af60-50df37c7c63e"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:36.2228669Z"
+  },
+  "contents": [
+    {
+      "id": "65be8dc2-931f-4bbc-a7f8-04c05c3b84e9",
+      "title": "Leia o contexto e identifique por que o plano inicial precisa mudar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "4569058c-3ec5-4844-a730-4292002853c7",
+          "textContent": "<p>Dois amigos querem se ver esta semana.</p><p>O plano inicial era ir ao cinema hoje, mas uma das pessoas vai sair tarde do trabalho.</p><p>Nesta aula, o foco é transformar esse impedimento em um novo combinado curto em espanhol.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c1d67a8c-8fcd-4f9c-9fac-1485251e00ad",
+      "title": "Leia a frase em espanhol e observe como ela abre a negociação de forma natural.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "cb6ea965-50d2-437e-b1c2-8564bc59dd81",
+          "textContent": "<p><strong>¿Te apetece ir al cine hoy?</strong></p><p>Em português: <strong>Você está a fim de ir ao cinema hoje?</strong></p><p>A pergunta já coloca um plano concreto na conversa e pede uma reação real da outra pessoa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f4bbe6d8-3398-4c02-a726-afe1dde5546e",
+      "title": "Leia a resposta e note como o plano continua aberto mesmo com a recusa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "2c841109-aeef-43d7-8d56-f320d925fe8e",
+          "textContent": "<p><strong>Hoy no puedo, es que salgo tardísimo. Si quieres, podríamos ir el sábado.</strong></p><p>Em português: <strong>Hoje não posso, é que vou sair muito tarde. Se quiser, poderíamos ir no sábado.</strong></p><p>A resposta não corta a conversa: ela explica o impedimento e já empurra a interação para outra possibilidade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1b084fac-ff78-431c-af6f-6269d7d319fe",
+      "title": "Leia as frases e observe como a nova opção é pesada antes da decisão final.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "5129b96e-4979-46d0-b703-bd3c559154c5",
+          "textContent": "<p><strong>Lo bueno del sábado es que vamos con más calma.</strong></p><p><strong>Lo malo es que habrá más gente.</strong></p><p>Em português: <strong>O lado bom do sábado é que vamos com mais calma. O lado ruim é que vai haver mais gente.</strong></p><p>Essas peças ajudam a negociar a mesma saída com critérios, sem mudar de assunto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5f6f99d2-f9d8-4e1c-93c8-ab5d7aaccfd2",
+      "title": "Leia o fechamento e repare em como ele transforma a alternativa em um plano já decidido.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "c92a988a-3b47-4f53-8e7c-5dea04645b9e",
+          "textContent": "<p><strong>Perfecto, entonces quedamos el sábado por la tarde.</strong></p><p>Em português: <strong>Perfeito, então combinamos para sábado à tarde.</strong></p><p><strong>Entonces quedamos...</strong> fecha a negociação quando a nova opção já faz sentido para os dois.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3f121d6a-cb2d-4141-a1f2-852ec2a7a170",
+      "title": "Uma saída reajustada entre amigos",
+      "description": "<p>O diálogo entra agora porque convite, recusa, alternativa, avaliação e fechamento já apareceram em blocos separados. Aqui, o foco é ver o encadeamento completo em poucas falas.</p>",
+      "contentType": 7,
+      "sequenceItem": 6,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Te apetece ir al cine hoy?</div>\n  <div style=\"opacity: 0.45;\">Você está a fim de ir ao cinema hoje?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1ba02db5503148149c06740bd1b1afc2_l06b06-linea-01.mp3?Expires=1794099576&Signature=jTKPFJMfZJFvvd6bn08KNReRt6fYR9jE0N3nq03TTDFR1ORZXFwrn8QaRxpuKtEVt6194wfH254kX2Rz3J7NtjEHAMY62Jy68~QocFotoLlT-je3C-HKNhRCyy05PXNaKy-d2LYWH2Zrx7m3PLLMKIOZG0Sbul8vfzczzw85dcB~mnLWh9169ltbzU-zHylrtq7F~48dVbotK4TE5zMG2b8HbqeHaoG~~EYNWLID2Jegn4zj99n5Evj4uW3osnbW-S095GW5M6E7z4Smi71Pfps9qsHhg8AawwKZJ0J7iwIAyoaGFdqjOjFlop4M9Hrqbiza2u2kG8DEKrV8zuu8RQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Hoy no puedo, es que salgo tardísimo. Si quieres, podríamos ir el sábado.</div>\n  <div style=\"opacity: 0.45;\">Hoje não posso, é que vou sair muito tarde. Se quiser, poderíamos ir no sábado.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/96a2a1b87dee49959a0545fae5edfa63_l06b06-linea-02.mp3?Expires=1794099576&Signature=OsQj6FxdE2fvdfTLrFoVf19qfGDh4sXlZG0LOt0YCvDfUcFng-4ZkLReIPYa5RXKz3csBwZw8orl5GJYzzDt9N0Ww~zqx9Hc7InsO6gcIzpJOEtg6sETzasyyuvz1clZ9006d8QcGisfxA6EwUpBrThoy5u97HQP5lvsqcQY6rFhMakBY-TnuvXQ~upcATHvtmVTgxkLSrcck7LELEYXbJOJU5NvHMTokL2mJajSJTV5stE1NFaQhuK7b0saizSae0YNarB948uUICF9xZLWJAUuRM2RpYMH05UuM4UDQxyFxK~~xyu5heHPksdE-USnf8OaUWFtWBOvTZtWZ2oDNw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Vale. Lo bueno del sábado es que vamos con más calma.</div>\n  <div style=\"opacity: 0.45;\">Beleza. O lado bom do sábado é que vamos com mais calma.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d1edc7b6ed14851b6046696d4da837e_l06b06-linea-03.mp3?Expires=1794099576&Signature=awlJgxB~1xgFHnUPaoVK0PZgfFR7c62GU~hVePp6NbqcuYbpZVImoMourdsWcxl6lCU1e87fn8G~uP-XMeOuA-L77oj3vdfjEiCDF6oVUHzJjnXOyjl-CwuFsu7wgzJvgQVRu9TSqp5gy6QctnlltJiUpeJ7~8cANuqxxuLUmeJ4h~3j9ETyH87SCqwxbCTxWET4MzDnIAcb7Z2~J7LmuIfv15M5I5OWUbfMeeDIySUCfDA6svUZqejwEf9oimLQvFnIiH2aK3acLHLlF0~0wMYd7GcDgckl2tue501nwuEoW8RbkwdHXq89UPtCiythAimooLyvp99M5XXMRJkcsA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Sí, aunque lo malo es que habrá más gente.</div>\n  <div style=\"opacity: 0.45;\">Sim, embora o lado ruim seja que vai haver mais gente.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/194bd0786a0340eeaec1d27f955c9dd0_l06b06-linea-04.mp3?Expires=1794099576&Signature=XX7hG2u4QERwpc-G52lxwSrJ3~PYMQ9-sNYYNEcku66pjxnwyJPJc2APZim1dhiQPYC6eUE39nR0EsuWz9Dh3Kl5vSnAdsAUH2tuLHVUhe2nk7LIfa1DsF8InG5JntBLawQipPlt5~IW6ueYQiCHzWEnrKjdzLY8ggS~NrLJYZOj7NgZ6f1Vb-xnHLwBoimXwnfImDJP4lvXmpUUbLADfuv0ZBhQ32sd0aOOb7~uRDpziwBhZIAKrm5XSVRhUAIatq727uWB8qhPYdEV2JCoZd9SUYgGASYheCOZGP2g4I~PrNDZt~-rlCJj9uD2G-cFz9i--~ha10GUuMvedDuDtA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">No pasa nada, entonces quedamos el sábado por la tarde.</div>\n  <div style=\"opacity: 0.45;\">Não tem problema, então combinamos para sábado à tarde.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8eee68a6eb2e4729bb127bd92e1633cb_l06b06-linea-05.mp3?Expires=1794099576&Signature=txW1EC8S2IGDd3UIlx1LvWQFpooGfU186AciDzn6cE1Qt4WeB9h9griyvj3UNOejwd5eS1YjIbL24RCENbeIBmV3Dp1BsYld0BQ2uPgKgSwlwXcRHqAKA5NAUKGprlOEtvVzdaIUZh4gJ7eOTS~1QwZgAQf-xseQEpJYW2o3FkdHThrB8k1RnBpBQ5V4K8njIf5O4ankf5X~Thoj2R7JS2DaYbuwoON42qIeTD-pMROnLqc0SsRiR-O76hJjG7cFOQu~eVUnYQ2EYgq6vhTlubR50ijBWpX8wGGGQYTepbC9UykmZpPNeLfdDTIklupZ2Mi-po-G-uvHB-owF6pUlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "88f864fa-1eaf-47a9-9c16-a3be2b973075",
+      "title": "Leia o resumo final e conecte essa sequência a momentos em que um plano inicial precisa mudar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "db84c3a4-ded9-40bc-a47c-4d447bb88804",
+          "textContent": "<p>Para negociar uma saída curta, estas peças já resolvem muita coisa:</p><ul><li><strong>¿Te apetece...?</strong> para abrir o plano</li><li><strong>Hoy no puedo, es que...</strong> para recusar sem cortar a conversa</li><li><strong>Si quieres, podríamos...</strong> para propor outra opção</li><li><strong>Lo bueno / lo malo...</strong> para pesar a alternativa</li><li><strong>Entonces quedamos...</strong> para fechar o combinado</li></ul><p>Isso funciona em situações reais como cinema, café, show ou qualquer saída que precise de ajuste rápido entre amigos.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "3d89b983-f5e1-4e35-b2d2-0a4b36971176",
+      "title": "Escolha a resposta que reabre o plano",
+      "content": "<p>Qual frase responde ao convite explicando o impedimento e já propondo outra possibilidade?</p>",
+      "contentPlain": "Qual frase responde ao convite explicando o impedimento e já propondo outra possibilidade?",
+      "fileUrl": null,
+      "feedbackSuccess": "A resposta-modelo da aula recusa hoje, explica o impedimento e já oferece sábado como alternativa.",
+      "feedbackError": "A resposta-modelo da aula recusa hoje, explica o impedimento e já oferece sábado como alternativa.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "57041970-5730-4950-8745-6790232d2ab5",
+          "textContent": "Lo malo es que habrá más gente.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3d89b983-f5e1-4e35-b2d2-0a4b36971176"
+        },
+        {
+          "id": "5ff3bde9-3f8d-4f40-9654-680a8a54b9ff",
+          "textContent": "Perfecto, entonces quedamos el sábado por la tarde.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3d89b983-f5e1-4e35-b2d2-0a4b36971176"
+        },
+        {
+          "id": "a272169a-908c-42d5-8ad7-cfd312d3b5ad",
+          "textContent": "Lo bueno del sábado es que vamos con más calma.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3d89b983-f5e1-4e35-b2d2-0a4b36971176"
+        },
+        {
+          "id": "f4f255e9-9ef7-4f19-af06-89268241cef8",
+          "textContent": "Hoy no puedo, es que salgo tardísimo. Si quieres, podríamos ir el sábado.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3d89b983-f5e1-4e35-b2d2-0a4b36971176"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "574b0bd0-bae4-4159-bda0-b778cc723ebe",
+      "title": "Ligue fórmula e função",
+      "content": "<p>Recupere o resumo final da aula ligando cada pedaço em espanhol ao efeito que ele tem na conversa.</p>",
+      "contentPlain": "Recupere o resumo final da aula ligando cada pedaço em espanhol ao efeito que ele tem na conversa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final organiza a negociação em convite, impedimento, alternativa e fechamento.",
+      "feedbackError": "O resumo final organiza a negociação em convite, impedimento, alternativa e fechamento.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "9834fc3c-bf46-4e4b-a2a1-a6dafcdc98f6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "574b0bd0-bae4-4159-bda0-b778cc723ebe"
+        },
+        {
+          "id": "aede7b6f-c76c-4bb5-8a48-13941e763ab9",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "574b0bd0-bae4-4159-bda0-b778cc723ebe"
+        }
+      ],
+      "associations": [
+        {
+          "id": "dd6be140-3a69-4433-9fd4-c9395ee8a867",
+          "exerciseId": "574b0bd0-bae4-4159-bda0-b778cc723ebe",
+          "leftContent": "¿Te apetece...?",
+          "rightContent": "abrir o plano",
+          "sequenceItem": 1
+        },
+        {
+          "id": "6f9cef5d-ab9d-4bb7-b175-81dd0edafa16",
+          "exerciseId": "574b0bd0-bae4-4159-bda0-b778cc723ebe",
+          "leftContent": "Hoy no puedo, es que...",
+          "rightContent": "recusar explicando o impedimento",
+          "sequenceItem": 2
+        },
+        {
+          "id": "cde04b4a-8320-4a8b-b956-a9e403f4feec",
+          "exerciseId": "574b0bd0-bae4-4159-bda0-b778cc723ebe",
+          "leftContent": "Si quieres, podríamos...",
+          "rightContent": "propor outra opção",
+          "sequenceItem": 3
+        },
+        {
+          "id": "92f92c43-e128-432f-b06d-87011c0bf830",
+          "exerciseId": "574b0bd0-bae4-4159-bda0-b778cc723ebe",
+          "leftContent": "Entonces quedamos...",
+          "rightContent": "fechar o combinado",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "3253227b-cef7-43dc-a0ac-60ef441b9023",
+      "title": "Escute e recupere três momentos",
+      "content": "<p>Associe os áudios do diálogo ao convite, à avaliação positiva e ao fechamento do plano.</p>",
+      "contentPlain": "Associe os áudios do diálogo ao convite, à avaliação positiva e ao fechamento do plano.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula avança por convite, avaliação e acordo final em poucas falas.",
+      "feedbackError": "O diálogo da aula avança por convite, avaliação e acordo final em poucas falas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "588487ab-5947-4097-b2a2-ad43abff12c4",
+          "exerciseId": "3253227b-cef7-43dc-a0ac-60ef441b9023",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1ba02db5503148149c06740bd1b1afc2_l06b06-linea-01.mp3?Expires=1794099576&Signature=jTKPFJMfZJFvvd6bn08KNReRt6fYR9jE0N3nq03TTDFR1ORZXFwrn8QaRxpuKtEVt6194wfH254kX2Rz3J7NtjEHAMY62Jy68~QocFotoLlT-je3C-HKNhRCyy05PXNaKy-d2LYWH2Zrx7m3PLLMKIOZG0Sbul8vfzczzw85dcB~mnLWh9169ltbzU-zHylrtq7F~48dVbotK4TE5zMG2b8HbqeHaoG~~EYNWLID2Jegn4zj99n5Evj4uW3osnbW-S095GW5M6E7z4Smi71Pfps9qsHhg8AawwKZJ0J7iwIAyoaGFdqjOjFlop4M9Hrqbiza2u2kG8DEKrV8zuu8RQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Te apetece ir al cine hoy?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3199c702-0d8a-4540-875a-5e48063c059c",
+          "exerciseId": "3253227b-cef7-43dc-a0ac-60ef441b9023",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d1edc7b6ed14851b6046696d4da837e_l06b06-linea-03.mp3?Expires=1794099576&Signature=awlJgxB~1xgFHnUPaoVK0PZgfFR7c62GU~hVePp6NbqcuYbpZVImoMourdsWcxl6lCU1e87fn8G~uP-XMeOuA-L77oj3vdfjEiCDF6oVUHzJjnXOyjl-CwuFsu7wgzJvgQVRu9TSqp5gy6QctnlltJiUpeJ7~8cANuqxxuLUmeJ4h~3j9ETyH87SCqwxbCTxWET4MzDnIAcb7Z2~J7LmuIfv15M5I5OWUbfMeeDIySUCfDA6svUZqejwEf9oimLQvFnIiH2aK3acLHLlF0~0wMYd7GcDgckl2tue501nwuEoW8RbkwdHXq89UPtCiythAimooLyvp99M5XXMRJkcsA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vale. Lo bueno del sábado es que vamos con más calma.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "05438746-6a52-4a3c-aa35-62363b25232f",
+          "exerciseId": "3253227b-cef7-43dc-a0ac-60ef441b9023",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8eee68a6eb2e4729bb127bd92e1633cb_l06b06-linea-05.mp3?Expires=1794099576&Signature=txW1EC8S2IGDd3UIlx1LvWQFpooGfU186AciDzn6cE1Qt4WeB9h9griyvj3UNOejwd5eS1YjIbL24RCENbeIBmV3Dp1BsYld0BQ2uPgKgSwlwXcRHqAKA5NAUKGprlOEtvVzdaIUZh4gJ7eOTS~1QwZgAQf-xseQEpJYW2o3FkdHThrB8k1RnBpBQ5V4K8njIf5O4ankf5X~Thoj2R7JS2DaYbuwoON42qIeTD-pMROnLqc0SsRiR-O76hJjG7cFOQu~eVUnYQ2EYgq6vhTlubR50ijBWpX8wGGGQYTepbC9UykmZpPNeLfdDTIklupZ2Mi-po-G-uvHB-owF6pUlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No pasa nada, entonces quedamos el sábado por la tarde.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "365f3e37-e29f-43a8-bd69-97d6d24ddf50",
+      "title": "Ouça e marque as palavras",
+      "content": "<p>Escute a observação sobre a nova opção e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a observação sobre a nova opção e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/194bd0786a0340eeaec1d27f955c9dd0_l06b06-linea-04.mp3?Expires=1794099576&Signature=XX7hG2u4QERwpc-G52lxwSrJ3~PYMQ9-sNYYNEcku66pjxnwyJPJc2APZim1dhiQPYC6eUE39nR0EsuWz9Dh3Kl5vSnAdsAUH2tuLHVUhe2nk7LIfa1DsF8InG5JntBLawQipPlt5~IW6ueYQiCHzWEnrKjdzLY8ggS~NrLJYZOj7NgZ6f1Vb-xnHLwBoimXwnfImDJP4lvXmpUUbLADfuv0ZBhQ32sd0aOOb7~uRDpziwBhZIAKrm5XSVRhUAIatq727uWB8qhPYdEV2JCoZd9SUYgGASYheCOZGP2g4I~PrNDZt~-rlCJj9uD2G-cFz9i--~ha10GUuMvedDuDtA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Lo malo... ajuda a pesar a alternativa antes de fechar o plano.",
+      "feedbackError": "Lo malo... ajuda a pesar a alternativa antes de fechar o plano.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0b529ecf-882e-4762-89c4-f17e027c744b",
+          "textContent": "cine",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "365f3e37-e29f-43a8-bd69-97d6d24ddf50"
+        },
+        {
+          "id": "775c373d-d03a-4b90-9540-c92c548270e6",
+          "textContent": "más",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "365f3e37-e29f-43a8-bd69-97d6d24ddf50"
+        },
+        {
+          "id": "7ebba550-aefd-4341-8b08-fce2e826005f",
+          "textContent": "calma",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "365f3e37-e29f-43a8-bd69-97d6d24ddf50"
+        },
+        {
+          "id": "88c6f3c7-7b63-47e7-a10a-acf4a2645fa1",
+          "textContent": "aunque",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "365f3e37-e29f-43a8-bd69-97d6d24ddf50"
+        },
+        {
+          "id": "8d5175f9-be86-4637-aa4b-ac2c27b68413",
+          "textContent": "gente",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "365f3e37-e29f-43a8-bd69-97d6d24ddf50"
+        },
+        {
+          "id": "90a3e262-84cd-4141-9ed6-c63ac829c113",
+          "textContent": "habrá",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "365f3e37-e29f-43a8-bd69-97d6d24ddf50"
+        },
+        {
+          "id": "a98133a5-e9a1-4310-b55a-f8451541423c",
+          "textContent": "malo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "365f3e37-e29f-43a8-bd69-97d6d24ddf50"
+        },
+        {
+          "id": "b26ac2df-ada8-43cf-ab04-218079bc1465",
+          "textContent": "quieres",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "365f3e37-e29f-43a8-bd69-97d6d24ddf50"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6e9157f3-0516-4b0b-866b-0b084f502e8d",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a resposta que recusa hoje e propõe sábado.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a resposta que recusa hoje e propõe sábado.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/96a2a1b87dee49959a0545fae5edfa63_l06b06-linea-02.mp3?Expires=1794099576&Signature=OsQj6FxdE2fvdfTLrFoVf19qfGDh4sXlZG0LOt0YCvDfUcFng-4ZkLReIPYa5RXKz3csBwZw8orl5GJYzzDt9N0Ww~zqx9Hc7InsO6gcIzpJOEtg6sETzasyyuvz1clZ9006d8QcGisfxA6EwUpBrThoy5u97HQP5lvsqcQY6rFhMakBY-TnuvXQ~upcATHvtmVTgxkLSrcck7LELEYXbJOJU5NvHMTokL2mJajSJTV5stE1NFaQhuK7b0saizSae0YNarB948uUICF9xZLWJAUuRM2RpYMH05UuM4UDQxyFxK~~xyu5heHPksdE-USnf8OaUWFtWBOvTZtWZ2oDNw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A resposta longa da aula junta impedimento real e nova proposta sem cortar a conversa.",
+      "feedbackError": "A resposta longa da aula junta impedimento real e nova proposta sem cortar a conversa.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Hoy no puedo, es que salgo tardísimo. Si quieres, podríamos ir el sábado.",
+      "typeSpecificData": "{\"expectedText\":\"Hoy no puedo, es que salgo tard\\u00EDsimo. Si quieres, podr\\u00EDamos ir el s\\u00E1bado.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/96a2a1b87dee49959a0545fae5edfa63_l06b06-linea-02.mp3?Expires=1794099576\\u0026Signature=OsQj6FxdE2fvdfTLrFoVf19qfGDh4sXlZG0LOt0YCvDfUcFng-4ZkLReIPYa5RXKz3csBwZw8orl5GJYzzDt9N0Ww~zqx9Hc7InsO6gcIzpJOEtg6sETzasyyuvz1clZ9006d8QcGisfxA6EwUpBrThoy5u97HQP5lvsqcQY6rFhMakBY-TnuvXQ~upcATHvtmVTgxkLSrcck7LELEYXbJOJU5NvHMTokL2mJajSJTV5stE1NFaQhuK7b0saizSae0YNarB948uUICF9xZLWJAUuRM2RpYMH05UuM4UDQxyFxK~~xyu5heHPksdE-USnf8OaUWFtWBOvTZtWZ2oDNw__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "ff2956d8-3e16-446a-9db3-4dd0d1615d71",
+      "title": "Complete o fechamento",
+      "content": "<p>Complete em espanhol: Perfecto, entonces ________ el sábado por la tarde.</p><p>Tradução: Perfeito, então combinamos para sábado à tarde.</p>",
+      "contentPlain": "Complete em espanhol: Perfecto, entonces ________ el sábado por la tarde. Tradução: Perfeito, então combinamos para sábado à tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "Entonces quedamos... fecha o plano quando a nova opção já foi aceita.",
+      "feedbackError": "Entonces quedamos... fecha o plano quando a nova opção já foi aceita.",
+      "answerType": "buildWord",
+      "expectedAnswer": "quedamos",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2597a9b0-e964-4cae-a7a5-228f17b89f2f",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Associe cada trecho do diálogo ao texto correspondente em espanhol para recuperar a negociação inteira.</p>",
+      "contentPlain": "Associe cada trecho do diálogo ao texto correspondente em espanhol para recuperar a negociação inteira.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo completo mostra como a saída é renegociada passo a passo entre amigos.",
+      "feedbackError": "O diálogo completo mostra como a saída é renegociada passo a passo entre amigos.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "0d7cd17c-3921-4647-97fc-5ad4ab9d34bf",
+          "exerciseId": "2597a9b0-e964-4cae-a7a5-228f17b89f2f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1ba02db5503148149c06740bd1b1afc2_l06b06-linea-01.mp3?Expires=1794099576&Signature=jTKPFJMfZJFvvd6bn08KNReRt6fYR9jE0N3nq03TTDFR1ORZXFwrn8QaRxpuKtEVt6194wfH254kX2Rz3J7NtjEHAMY62Jy68~QocFotoLlT-je3C-HKNhRCyy05PXNaKy-d2LYWH2Zrx7m3PLLMKIOZG0Sbul8vfzczzw85dcB~mnLWh9169ltbzU-zHylrtq7F~48dVbotK4TE5zMG2b8HbqeHaoG~~EYNWLID2Jegn4zj99n5Evj4uW3osnbW-S095GW5M6E7z4Smi71Pfps9qsHhg8AawwKZJ0J7iwIAyoaGFdqjOjFlop4M9Hrqbiza2u2kG8DEKrV8zuu8RQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Te apetece ir al cine hoy?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5d482478-e2c9-4cfe-b011-2525c189308d",
+          "exerciseId": "2597a9b0-e964-4cae-a7a5-228f17b89f2f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/96a2a1b87dee49959a0545fae5edfa63_l06b06-linea-02.mp3?Expires=1794099576&Signature=OsQj6FxdE2fvdfTLrFoVf19qfGDh4sXlZG0LOt0YCvDfUcFng-4ZkLReIPYa5RXKz3csBwZw8orl5GJYzzDt9N0Ww~zqx9Hc7InsO6gcIzpJOEtg6sETzasyyuvz1clZ9006d8QcGisfxA6EwUpBrThoy5u97HQP5lvsqcQY6rFhMakBY-TnuvXQ~upcATHvtmVTgxkLSrcck7LELEYXbJOJU5NvHMTokL2mJajSJTV5stE1NFaQhuK7b0saizSae0YNarB948uUICF9xZLWJAUuRM2RpYMH05UuM4UDQxyFxK~~xyu5heHPksdE-USnf8OaUWFtWBOvTZtWZ2oDNw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy no puedo, es que salgo tardísimo. Si quieres, podríamos ir el sábado.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "335c29c0-36c8-48d3-884e-a55d2f553ca2",
+          "exerciseId": "2597a9b0-e964-4cae-a7a5-228f17b89f2f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d1edc7b6ed14851b6046696d4da837e_l06b06-linea-03.mp3?Expires=1794099576&Signature=awlJgxB~1xgFHnUPaoVK0PZgfFR7c62GU~hVePp6NbqcuYbpZVImoMourdsWcxl6lCU1e87fn8G~uP-XMeOuA-L77oj3vdfjEiCDF6oVUHzJjnXOyjl-CwuFsu7wgzJvgQVRu9TSqp5gy6QctnlltJiUpeJ7~8cANuqxxuLUmeJ4h~3j9ETyH87SCqwxbCTxWET4MzDnIAcb7Z2~J7LmuIfv15M5I5OWUbfMeeDIySUCfDA6svUZqejwEf9oimLQvFnIiH2aK3acLHLlF0~0wMYd7GcDgckl2tue501nwuEoW8RbkwdHXq89UPtCiythAimooLyvp99M5XXMRJkcsA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vale. Lo bueno del sábado es que vamos con más calma.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c16f342f-00bc-451d-a1c5-565c18f55252",
+          "exerciseId": "2597a9b0-e964-4cae-a7a5-228f17b89f2f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/194bd0786a0340eeaec1d27f955c9dd0_l06b06-linea-04.mp3?Expires=1794099576&Signature=XX7hG2u4QERwpc-G52lxwSrJ3~PYMQ9-sNYYNEcku66pjxnwyJPJc2APZim1dhiQPYC6eUE39nR0EsuWz9Dh3Kl5vSnAdsAUH2tuLHVUhe2nk7LIfa1DsF8InG5JntBLawQipPlt5~IW6ueYQiCHzWEnrKjdzLY8ggS~NrLJYZOj7NgZ6f1Vb-xnHLwBoimXwnfImDJP4lvXmpUUbLADfuv0ZBhQ32sd0aOOb7~uRDpziwBhZIAKrm5XSVRhUAIatq727uWB8qhPYdEV2JCoZd9SUYgGASYheCOZGP2g4I~PrNDZt~-rlCJj9uD2G-cFz9i--~ha10GUuMvedDuDtA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, aunque lo malo es que habrá más gente.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "6cd8ea01-a91e-405e-b9c9-4173317d338d",
+          "exerciseId": "2597a9b0-e964-4cae-a7a5-228f17b89f2f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8eee68a6eb2e4729bb127bd92e1633cb_l06b06-linea-05.mp3?Expires=1794099576&Signature=txW1EC8S2IGDd3UIlx1LvWQFpooGfU186AciDzn6cE1Qt4WeB9h9griyvj3UNOejwd5eS1YjIbL24RCENbeIBmV3Dp1BsYld0BQ2uPgKgSwlwXcRHqAKA5NAUKGprlOEtvVzdaIUZh4gJ7eOTS~1QwZgAQf-xseQEpJYW2o3FkdHThrB8k1RnBpBQ5V4K8njIf5O4ankf5X~Thoj2R7JS2DaYbuwoON42qIeTD-pMROnLqc0SsRiR-O76hJjG7cFOQu~eVUnYQ2EYgq6vhTlubR50ijBWpX8wGGGQYTepbC9UykmZpPNeLfdDTIklupZ2Mi-po-G-uvHB-owF6pUlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No pasa nada, entonces quedamos el sábado por la tarde.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d",
+      "title": "Recupere o combinado final",
+      "content": "<p>Escute o fechamento da negociação e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute o fechamento da negociação e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8eee68a6eb2e4729bb127bd92e1633cb_l06b06-linea-05.mp3?Expires=1794099576&Signature=txW1EC8S2IGDd3UIlx1LvWQFpooGfU186AciDzn6cE1Qt4WeB9h9griyvj3UNOejwd5eS1YjIbL24RCENbeIBmV3Dp1BsYld0BQ2uPgKgSwlwXcRHqAKA5NAUKGprlOEtvVzdaIUZh4gJ7eOTS~1QwZgAQf-xseQEpJYW2o3FkdHThrB8k1RnBpBQ5V4K8njIf5O4ankf5X~Thoj2R7JS2DaYbuwoON42qIeTD-pMROnLqc0SsRiR-O76hJjG7cFOQu~eVUnYQ2EYgq6vhTlubR50ijBWpX8wGGGQYTepbC9UykmZpPNeLfdDTIklupZ2Mi-po-G-uvHB-owF6pUlA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A fala final transforma a alternativa em combinado concreto para os dois.",
+      "feedbackError": "A fala final transforma a alternativa em combinado concreto para os dois.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1668dd20-2ff1-465a-a528-c2bec9292e34",
+          "textContent": "gente",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d"
+        },
+        {
+          "id": "17f4da9e-e1c8-4bba-a071-eccd19a9cfbd",
+          "textContent": "nada",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d"
+        },
+        {
+          "id": "26671f89-4fb4-4405-82fe-fbb3c833958c",
+          "textContent": "entonces",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d"
+        },
+        {
+          "id": "905d8d0e-d859-400d-ac7d-b3c3e6b06104",
+          "textContent": "tarde",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d"
+        },
+        {
+          "id": "91f7ba53-6c57-4e0c-9736-3450f95b3fa3",
+          "textContent": "quedamos",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d"
+        },
+        {
+          "id": "95097c83-8f18-4798-a36d-7bf6ad805bb0",
+          "textContent": "sábado",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d"
+        },
+        {
+          "id": "b6855a2a-1bd7-4246-bf1e-301349f1cbae",
+          "textContent": "tardísimo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d"
+        },
+        {
+          "id": "bb8bbc65-ddc7-4e1d-bd68-5e129a936617",
+          "textContent": "cine",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "39855131-6f1f-40a6-af70-dee764e2a798",
+      "title": "Ligue cada fala ao efeito dela",
+      "content": "<p>Recupere o encadeamento completo da aula relacionando cada fala do diálogo ao que ela acrescenta no plano.</p>",
+      "contentPlain": "Recupere o encadeamento completo da aula relacionando cada fala do diálogo ao que ela acrescenta no plano.",
+      "fileUrl": null,
+      "feedbackSuccess": "A negociação completa anda por convite, alternativa, avaliação positiva, avaliação negativa e acordo.",
+      "feedbackError": "A negociação completa anda por convite, alternativa, avaliação positiva, avaliação negativa e acordo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "28a2230d-72c1-490e-95fc-f551e3c922eb",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "39855131-6f1f-40a6-af70-dee764e2a798"
+        },
+        {
+          "id": "406379dc-6105-46a6-a0d6-e1b8be8da4d4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "39855131-6f1f-40a6-af70-dee764e2a798"
+        }
+      ],
+      "associations": [
+        {
+          "id": "6588dff6-b366-4650-b053-a70a462d59b6",
+          "exerciseId": "39855131-6f1f-40a6-af70-dee764e2a798",
+          "leftContent": "¿Te apetece ir al cine hoy?",
+          "rightContent": "lançar o convite",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ac5ba06c-fda3-4fe3-9422-f79738e97620",
+          "exerciseId": "39855131-6f1f-40a6-af70-dee764e2a798",
+          "leftContent": "Hoy no puedo, es que salgo tardísimo. Si quieres, podríamos ir el sábado.",
+          "rightContent": "recusar e propor alternativa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "35da9fdb-4d59-4bf1-88cc-f9d2c28a0f8c",
+          "exerciseId": "39855131-6f1f-40a6-af70-dee764e2a798",
+          "leftContent": "Vale. Lo bueno del sábado es que vamos con más calma.",
+          "rightContent": "apontar um lado positivo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "08866ca9-9738-440b-a320-069a5ec4622f",
+          "exerciseId": "39855131-6f1f-40a6-af70-dee764e2a798",
+          "leftContent": "Sí, aunque lo malo es que habrá más gente.",
+          "rightContent": "marcar um lado negativo",
+          "sequenceItem": 4
+        },
+        {
+          "id": "55dcb4a6-283a-4df6-9713-470294ea6d07",
+          "exerciseId": "39855131-6f1f-40a6-af70-dee764e2a798",
+          "leftContent": "No pasa nada, entonces quedamos el sábado por la tarde.",
+          "rightContent": "fechar o novo combinado",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "49eaee36-735f-4bf2-af60-50df37c7c63e",
+      "title": "Complete a alternativa",
+      "content": "<p>Complete em espanhol: Si quieres, _________ ir el sábado.</p><p>Tradução: Se quiser, poderíamos ir no sábado.</p>",
+      "contentPlain": "Complete em espanhol: Si quieres, _________ ir el sábado. Tradução: Se quiser, poderíamos ir no sábado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Podríamos marca a alternativa ainda aberta dentro da negociação.",
+      "feedbackError": "Podríamos marca a alternativa ainda aberta dentro da negociação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "podríamos",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Negociar uma saída possível"
+}

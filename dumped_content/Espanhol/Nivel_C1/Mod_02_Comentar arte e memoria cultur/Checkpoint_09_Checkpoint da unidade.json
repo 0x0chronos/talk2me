@@ -1,0 +1,503 @@
+{
+  "attemptId": "e2ca2ad5-b9cb-4673-8279-cec9f0329232",
+  "exercises": [
+    {
+      "exerciseId": "b27386dc-0d22-4185-8592-e4f3f136460d",
+      "sequence": 1,
+      "lessonId": "279ca934-b50b-4562-a32a-727b40be8d5e",
+      "title": "Complete o foco entre línguas",
+      "content": "<p>El _______ al portugués pierde parte de la ironía.</p><p>Tradução: A dublagem para o português perde parte da ironia.</p>",
+      "contentPlain": "El _______ al portugués pierde parte de la ironía. Tradução: A dublagem para o português perde parte da ironia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, `doblaje` serve para comentar o que a versão dublada preserva ou perde em relação ao original.",
+      "feedbackError": "Aqui, `doblaje` serve para comentar o que a versão dublada preserva ou perde em relação ao original.",
+      "answerType": "buildWord",
+      "expectedAnswer": "doblaje",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4d0985b1-57a3-40ea-8ebf-078a259183ba",
+      "sequence": 2,
+      "lessonId": "22e64260-d0e4-4e84-a866-309792e5087e",
+      "title": "Recupere a palavra do marcador",
+      "content": "<p>Por lo _____, la muestra cambió bastante desde la apertura.</p><p>Tradução: Pelo visto, a mostra mudou bastante desde a abertura.</p>",
+      "contentPlain": "Por lo _____, la muestra cambió bastante desde la apertura. Tradução: Pelo visto, a mostra mudou bastante desde a abertura.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Por lo visto` marca uma inferência apoiada em pistas percebidas.",
+      "feedbackError": "`Por lo visto` marca uma inferência apoiada em pistas percebidas.",
+      "answerType": "buildWord",
+      "expectedAnswer": "visto",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "35d2e64b-4ec1-494a-97b4-848c7e45ec49",
+      "sequence": 3,
+      "lessonId": "5ea0e215-d4db-4891-a6c0-5a4716a89166",
+      "title": "Complete a moldura",
+      "content": "<p>Recuerdo aquel final como si fuera ____.</p><p>Tradu&#231;&#227;o: Lembro daquele final como se fosse ontem.</p>",
+      "contentPlain": "Recuerdo aquel final como si fuera ____. Tradução: Lembro daquele final como se fosse ontem.",
+      "fileUrl": null,
+      "feedbackSuccess": "`ayer` fecha a moldura que faz a lembrança soar imediata.",
+      "feedbackError": "`ayer` fecha a moldura que faz a lembrança soar imediata.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ayer",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2c32f9f0-6dd3-4907-af26-c3a80f4fe862",
+      "sequence": 4,
+      "lessonId": "30426d42-11c5-4177-87a1-69b95d09b2ad",
+      "title": "Recupere a palavra da exposição",
+      "content": "<p>Complete a frase em espanhol: <strong>La _______ \"Hilos del rio\" reúne fotografias, cartas y objetos cotidianos.</strong></p><p>Tradução: A mostra \"Fios do rio\" reúne fotografias, cartas e objetos cotidianos.</p>",
+      "contentPlain": "Complete a frase em espanhol: La _______ \"Hilos del rio\" reúne fotografias, cartas y objetos cotidianos. Tradução: A mostra \"Fios do rio\" reúne fotografias, cartas e objetos cotidianos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a palavra que enquadra a proposta pública da exposição.",
+      "feedbackError": "Aqui o foco é recuperar a palavra que enquadra a proposta pública da exposição.",
+      "answerType": "buildWord",
+      "expectedAnswer": "muestra",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "579e5592-f030-43f3-b724-ace6aef1fac5",
+      "sequence": 5,
+      "lessonId": "11226440-6784-46d0-9eb4-294ec2ce0cfc",
+      "title": "Associe frase e função precisa",
+      "content": "<p>Ligue cada frase em espanhol ao efeito mais preciso em português. O contraste está no tipo de relação, não no tema cultural.</p>",
+      "contentPlain": "Ligue cada frase em espanhol ao efeito mais preciso em português. O contraste está no tipo de relação, não no tema cultural.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é distinguir causa, finalidade, meio e destinatário no mesmo campo cultural.",
+      "feedbackError": "Aqui o foco é distinguir causa, finalidade, meio e destinatário no mesmo campo cultural.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3545ea8e-9aa1-4f3a-8cc4-1c1c3f03b3aa",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fdc7442f-6f42-4d92-8da0-e9c038560f93",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "88514a3d-a96e-4c66-826a-799cde9952d7",
+          "leftContent": "Volví a la muestra por la manera en que las obras dialogaban entre sí.",
+          "rightContent": "causa que explica uma decisao ja tomada",
+          "sequenceItem": 1
+        },
+        {
+          "id": "68a0e990-537a-4b14-a9d1-81efa317e84c",
+          "leftContent": "La curadora organizó la muestra para abrir una conversación sobre memoria barrial.",
+          "rightContent": "finalidade que a curadoria pretende abrir",
+          "sequenceItem": 2
+        },
+        {
+          "id": "991bbd75-dbb9-4a80-8788-0114174b5cf0",
+          "leftContent": "Conocí el recital por la transmisión en directo del teatro.",
+          "rightContent": "via pela qual o recital chegou ate a pessoa",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d01ad8ec-493d-483a-97d1-77f3a325ccc9",
+          "leftContent": "La visita guiada se preparó para un público que casi nunca entra al museo.",
+          "rightContent": "publico ao qual a visita guiada se dirige",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "33480a0e-b8b7-4e09-8795-3c4e5b94ff3f",
+      "sequence": 6,
+      "lessonId": "c5d92cbd-9cdf-4895-a527-a5dd70d488c7",
+      "title": "Reconstrua pela escuta",
+      "content": "<p>Resolva sem apoio em português, distinguindo avaliação da mostra, leitura do público e impressão do recital.</p>",
+      "contentPlain": "Resolva sem apoio em português, distinguindo avaliação da mostra, leitura do público e impressão do recital.",
+      "fileUrl": null,
+      "feedbackSuccess": "No fechamento, a escuta distingue avaliação, motivo cultural e impressão final.",
+      "feedbackError": "No fechamento, a escuta distingue avaliação, motivo cultural e impressão final.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "7bd38399-167a-46ee-9da4-a670b6b4f44c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f43a96b803074596ad52aef68e6477b2_b02-la-muestra-del-centro-cultural.mp3?Expires=1794099859&Signature=QvO6DYB0x1X-BZ5Mi9CbBdpR44CF~nQwXMyNPl30V8pGu8KzfhIkELLKwC0QWZiwaoQ2MX7130IqckmXVmEgWvCVmqIsSfwz4sIWRE3bPfxF5fA~3T6dd0738mDyDYDikiarnJ-n5VVNd5o771cfBMjyFtzReWHi8mNIR1~tUm0AajKg82pymEqLHq6eIvPbYRkY0zKKzHKcnlR9wscVppU70YhmetZ4w9JKeLCKqdMwkJ4sRYqH2dT-E41nJ3uhSfg2z~svuPaUfG~~Z9YTJM0mcddBEOTJbwNryseDQhBrRPGHb-CbDtBuT2~27H5pPesl1F3eeda3-0rHZW9tqQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "no era grande, pero estaba cuidada con muchísimo criterio",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a7750f5c-e75d-4549-b74b-13ab5d48a127",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c5142caadbd540d681b6de1cb5411536_b04-por-lo-visto-charlas-y-obras.mp3?Expires=1794099859&Signature=pzQm54cOtsNq~eol~QKpVSVErhJkmaOqRMiK2-xRfIUpGpADMVTfjh6H2AtCL4AwzBTrfjiiJevcwDmWCf3iH~quzuXs3Hr-1jnJdJ070pSY3hx56iI5B9xgPO2WeENXsURZq0VYl7tv17yctQoeDqeJE3ZFhe2BCLrwcbZFQL5VuGD9crHCOW2vlf7YV7af5XjMbodvfCnAfFS~hgumf6WQZ-6ZRg-4fskEfY0Fi79Obs347XQmwG1MYWu6u40iElJeDsWDLzieU3D8kv1ogScjSdgPdncrAPbYXV8wLlKg9MiOH-MeG7hyaUfVbKUNNZh7kKhBcZ2kgB4wopVXBA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "mucha gente fue por las charlas de las curadoras",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a6e0c8c7-b5c2-4afc-a217-7369b9a85f89",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/58729b652675478fa9c658f54fe8094c_b06-fui-al-recital-para-escuchar.mp3?Expires=1794099859&Signature=sJUZwRmk889-WsOPv04zxvGa8ezj-18C1RhnImHEdnzlM9RiZr9IDvX4qkORH271IqW2OOR7qJEWq3OnRXOMGiECrCeaPvIblSEq6uvn2UgZWvOnK1up-QtLPltkAEcophV9~MrRQx~bztuNThcbjuL8R95N733YhjOYyrLRCnxnBuAkE2Yb192Wu~3krnU9E0oIFNuSW43Y0YzyWy6ou9S75ot-etbHLGldvL9j03BdHIO78pd-6IiPMIhNoL18ufflD7hIi2c7Rn~H2QhpfUHS9iGhKnmm34J6qk530~H3VZvuABsrd45IFnOAwRxOxbI0z401~6hjABNW2sM0zQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "terminé hablando más del ambiente que del repertorio",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "a9f5b2f2-590b-403c-936f-4803cc704476",
+      "sequence": 7,
+      "lessonId": "11226440-6784-46d0-9eb4-294ec2ce0cfc",
+      "title": "Recupere a finalidade",
+      "content": "<p>Complete a frase em espanhol: <strong>La curadora organiz&#243; la muestra ____ abrir una conversaci&#243;n sobre memoria barrial.</strong></p><p>Tradução: A curadora organizou a mostra para abrir uma conversa sobre memória do bairro.</p>",
+      "contentPlain": "Complete a frase em espanhol: La curadora organizó la muestra ____ abrir una conversación sobre memoria barrial. Tradução: A curadora organizou a mostra para abrir uma conversa sobre memória do bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar para quando a frase marca a finalidade de uma ação cultural.",
+      "feedbackError": "Aqui o foco é recuperar para quando a frase marca a finalidade de uma ação cultural.",
+      "answerType": "buildWord",
+      "expectedAnswer": "para",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c8aea739-ed72-48a9-b4a0-3554729fa00d",
+      "sequence": 8,
+      "lessonId": "9e218c12-c2c2-43e5-9e5e-c90d57e6df4f",
+      "title": "Escuta integrada sem apoio",
+      "content": "<p>Resolva pela escuta em espanhol, distinguindo as duas linhas isoladas do comentário completo.</p>",
+      "contentPlain": "Resolva pela escuta em espanhol, distinguindo as duas linhas isoladas do comentário completo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta final distingue abertura, reação e relato integrado dentro do mesmo comentário cultural.",
+      "feedbackError": "A escuta final distingue abertura, reação e relato integrado dentro do mesmo comentário cultural.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "f2c67141-aea7-4ca6-9e57-3007c3348284",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ad1e78812d57487f8a2b8e295af4462d_b02-recuerdo-la-sala-final-de-esa-exposicion-como-si-fuera-ayer.mp3?Expires=1794099859&Signature=myKY73ZKpeicn55D9XY3OqbZPjoMoPj048lpz6QaSXKdB7q10RZYyCfd4CqtT8dJygCui3mc~WZAq~ecyNvIP~vM1nnf167THD7VJxXMwFFKjvwTk7oTp2L0ap7mIkN5wjT7oOP6qA1p8Gr0YcF2nSiz3Kifi2-qyegxvTv~p91vMJiFnsjlzxrXi41XGcJBHq6trj1IuecKm3YkTMwTbiOql2GNEOSyuh-u1wihTfnMtN484gp2xV5hr0q77RjvCr5SF3jfD4Uy322YAIy9LdFWNlOywzrKYhcs~pwg6ZhDCduwrXKpKq3gw9zfSH94yEyB6ffy21ENL7jVqxMNtg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Recuerdo la sala final de esa exposición como si fuera ayer.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "016fd25b-e54c-4aad-9c97-dde1f778df23",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3456b3793d1a41dc9a76a19561bf1ec3_b04-lo-que-mas-me-impresiono-fue-como-el-silencio-del-publico-volvia-mas-intensa-la-obra.mp3?Expires=1794099859&Signature=N22490jrHG7xi-NWRdIF21~wMMTQqa95b2VrvA-CKELs3rm4Ih3lT~z9pbRTUV-bszdVu78ZxQBTxwOlHrnSDv8CgMQoE-XsvDqythVbsjVCAYblv9~ZnPmmBbWsYsbJM3sP73toEiFjAOKnpMCqy3yjW1~daqePg293UxSffZ4h2v0eSHqa~kHpleXlCaBJY-ARAOhgCEgvxsAIVhiC5PQw8jKZ2pphMaVoiDYOgpZZhqvyIVDiIq1~vczuUJIahFpdfHP5kVcTVhIeiCZUNe~PRJDfLgBV5Ui5VQfEjpZtzjuI6HVdVXXmvRKb13r89GzOkGoJv7DJ54g9xDM65g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo que más me impresionó fue cómo el silencio del público volvía más intensa la obra.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1ddec6ac-a019-44e5-ae77-cb68a08b9a89",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/af1183c0b3434c83b2b13c5e613f6e93_b07-modelo-de-relato-cultural.mp3?Expires=1794099859&Signature=CQ~QS4tb1tvITrViP~1FkBdtlBj3AqSSEwpYVAHuy3yl~PMKF1zYBKA7LWWNcB8vQR44AiOzUyvdjP-gDCSBqIfmzfruuYEG~sYx1~xjhLlgZtZ3MeAk-zbjPNd3Pi1u4jhA-1~1fso7sgV~93nScfIa9ZgmFr31N7813XbADtIjRYt1PZHUZILAStG5BainM-yotyGqxlNL4qBfZRmmLwZB8Zd7G71UfuguYATmEksxyNy8rqRJQItw1LleDw3Vp0f7Os4NRgQJiF9mB5td2BYlYBF-GkDlUqOuyxPeFBnCmnPb528LPaZJ8ji5Y-Lzg9AOaKbp929w-qHSTBANHg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Recuerdo la sala final de esa exposición como si fuera ayer. Entré cuando casi nadie hablaba y la luz parecía más suave de lo normal. Lo que más me impresionó fue cómo el silencio del público volvía más intensa la obra. Esa obra me sigue resonando porque convertía lo íntimo en una experiencia compartida.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "1ca93ebe-a8ff-429f-bfe4-573dd4b6526b",
+      "sequence": 9,
+      "lessonId": "5ea0e215-d4db-4891-a6c0-5a4716a89166",
+      "title": "Ouca e selecione",
+      "content": "<p>No segundo turno da conversa, qual palavra em espanhol marca o lugar mental onde o detalhe continua insistindo?</p>",
+      "contentPlain": "No segundo turno da conversa, qual palavra em espanhol marca o lugar mental onde o detalhe continua insistindo?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c420dbf0189e4bebb76de0d03e98f1c6_l07b07-d02-yo-no-puedo-quitarme-de-la-cabeza-ese-ultimo-plano.mp3?Expires=1794099859&Signature=iA6N2iv1c5Npqk1xNd5ecw6qshFH98zXV2gGniV1bkAJ75zrJayFvWdGrL5VuYgVahrFS~0CRVrX1Oo7rvSt1AtJUJIW7S8W~lrNp0xwZYjkLdRnhO4~ptxXjsaqPzxPsRINrKTuhDBalNseNDv~KYk3RO2YhRD1AYUJZitZeEwhLP7Zw5Px9YPUtsaYup3ASIQwsx8SL8m4E~c-IalNjMhHbi1FX2w4u82l5XdzPiAMPJVHQvNpNboQG2IgUX8hZl2w8QOdIY-SdNjjftWhfZI1ZCzhJhGL4KD~BffmedUfzEC4l0SibYxwt3XURCEPGBPSWqZIVzlyQCaw93R8kQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "`cabeza` marca o lugar mental onde o detalhe visual continua insistindo.",
+      "feedbackError": "`cabeza` marca o lugar mental onde o detalhe visual continua insistindo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7fab43ff-616e-4189-93b9-b33d465c3593",
+          "text": "actriz",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "84907fbc-3ef1-4b87-9aa2-38c11d6fcb6a",
+          "text": "cabeza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "db8aa194-b496-4ff1-9166-e714803b12b5",
+          "text": "voz",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f9b09bc4-5935-4c45-b67a-f6292be4fabc",
+          "text": "ayer",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f7f7868d-f7ab-4663-89c8-8fc4d595caf9",
+      "sequence": 10,
+      "lessonId": "c5d92cbd-9cdf-4895-a527-a5dd70d488c7",
+      "title": "Complete a impressão final",
+      "content": "<p>Fui al recital para escuchar de cerca al cantaor, pero terminé hablando más del ________ que del repertorio.</p><p>Tradução: Fui ao recital para ouvir o cantaor de perto, mas acabei falando mais do ambiente do que do repertorio.</p>",
+      "contentPlain": "Fui al recital para escuchar de cerca al cantaor, pero terminé hablando más del ________ que del repertorio. Tradução: Fui ao recital para ouvir o cantaor de perto, mas acabei falando mais do ambiente do que do repertorio.",
+      "fileUrl": null,
+      "feedbackSuccess": "No recital, a fala sai da finalidade e termina na impressão que ficou.",
+      "feedbackError": "No recital, a fala sai da finalidade e termina na impressão que ficou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ambiente",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "bff7a989-c1b7-4712-b5a3-235300ae054f",
+      "sequence": 11,
+      "lessonId": "279ca934-b50b-4562-a32a-727b40be8d5e",
+      "title": "Ouça a estrutura",
+      "content": "<p>Marque só as palavras que você ouve no comentário sobre roteiro.</p>",
+      "contentPlain": "Marque só as palavras que você ouve no comentário sobre roteiro.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/724de9da852b447f9181ece3d73516d9_b04-el-guion-sostiene-la-tension.mp3?Expires=1794099859&Signature=NedOIT3so4KFof~uUkvioY4Yie-EOeXdZ8yFrhepbx7OD9fizEVHXiI8dIAJLFOdJiSNazdFafT6TlNDBBORrwuQh1YKwY0GwL12w9mFxK7Tpk56PeVGXZ9S95YLiMUjt291a4BAiq--ikUu0kHX0Ja3T9ZoqUuFUmjlECO-z2PpruZW~jEn6XniNY86-PaSyJUjwCW06hg6QcTm94cdd9aP2kFVYuc5L966r8OskedQtSXnpHpRESKR8mUNTnDI3zD3Y9pl-JOwuhnbyslKmwVupIUWtpg3tjuVaxA~VmFYp39ObiyjjPnrYked~PfQZ9AAi85SEnY04rInvVHwaA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui, a escuta seletiva precisa recuperar as palavras que organizam o comentário sobre o roteiro.",
+      "feedbackError": "Aqui, a escuta seletiva precisa recuperar as palavras que organizam o comentário sobre o roteiro.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "19bd9e71-54dc-4863-9391-f4e3e4d7d6f6",
+          "text": "silencio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "315a312d-526b-441b-b83f-5f8a376e89b6",
+          "text": "portugués",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "878c7cd3-01da-4093-b583-92959f9d5a14",
+          "text": "explicarlo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8f61cdd7-2b0b-45e1-9bfe-abad4a48f18b",
+          "text": "rodaje",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9486d2e9-64d9-4c0e-9dac-34b59db004dc",
+          "text": "guion",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e0069a4c-d1de-4816-bc8c-ecdb56e010ff",
+          "text": "tensión",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "748d40a5-6341-4bfe-932e-d21b0647a69e",
+      "sequence": 12,
+      "lessonId": "042cc3e8-dc84-43f9-8098-b8ea45026833",
+      "title": "Escute a interdependencia",
+      "content": "<p>Resolva pela escuta: marque apenas as palavras que ajudam a ler o recital como rede de papeis e não como figura isolada.</p>",
+      "contentPlain": "Resolva pela escuta: marque apenas as palavras que ajudam a ler o recital como rede de papeis e não como figura isolada.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/16a79b8293d0460ca9d43385b4e90c39_b07-microtexto-recital.mp3?Expires=1794099859&Signature=ntbCt3bcmjUAzLP3H5ABQUNPGz7ApGWbTtBB~avqvEmlIEX~~Cg-758FdQfMAVuoU2MD0UJJCqXHIKaKSBWYKP2hSLTcOHTDrqod4c~d8kRM2zeKMiRuuHBvovuWstwVLExwP1ytUYSyzXrhSmhydteDPN32-k1GA2USNJ~BM-yRm6cuWr1BvqZ0pd8xQqo2ksV-ArTjo0G5r2udhQOtjD6fZf8FI98BHNeDH7kD10GWVEDxDSTvE2U6hwBuMEqooRtjrvtOPE2HyLkvm1ES~NuD-TsxSBlvtfXjD0b6oBkiwY5jbeSMInWfIZ8MrOHgJ9nbq4FJ8hA3s9H7GF8jYQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O microtexto usa essas palavras para mostrar que a tradição aparece em relação entre os papeis.",
+      "feedbackError": "O microtexto usa essas palavras para mostrar que a tradição aparece em relação entre os papeis.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0f86757c-ab85-4409-83d0-b9b42fa3bf54",
+          "text": "sola",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "55774533-6090-4de0-a972-c01a985fbb9d",
+          "text": "museo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "baa922b9-e757-4c0f-a50b-3315ef4d6893",
+          "text": "demás",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "be56c94c-51b7-4a29-9e28-e22c2eab545f",
+          "text": "intensidad",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c6fb0644-8ca3-4530-a843-ce3f978d642f",
+          "text": "folclore",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "dc026141-e2c1-4fb5-add6-4a96eb0d0c2d",
+          "text": "depende",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "fae37e81-0db6-4eac-a299-83aca4693785",
+      "sequence": 13,
+      "lessonId": "9e218c12-c2c2-43e5-9e5e-c90d57e6df4f",
+      "title": "Complete o eco atual",
+      "content": "<p>Esa obra me sigue _________ porque convertía lo íntimo en una experiencia compartida.</p><p>Tradução: Essa obra continua ecoando em mim porque transformava o íntimo em uma experiência compartilhada.</p>",
+      "contentPlain": "Esa obra me sigue _________ porque convertía lo íntimo en una experiencia compartida. Tradução: Essa obra continua ecoando em mim porque transformava o íntimo em uma experiência compartilhada.",
+      "fileUrl": null,
+      "feedbackSuccess": "`resonando` fecha o comentário no presente e liga memória a valor cultural duradouro.",
+      "feedbackError": "`resonando` fecha o comentário no presente e liga memória a valor cultural duradouro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "resonando",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "fc5251dc-bb1e-43b4-b726-b20a99c697a5",
+      "sequence": 14,
+      "lessonId": "30426d42-11c5-4177-87a1-69b95d09b2ad",
+      "title": "Associe trecho e valor artístico",
+      "content": "<p>Ligue cada trecho do comentário ao efeito interpretativo mais preciso em português.</p>",
+      "contentPlain": "Ligue cada trecho do comentário ao efeito interpretativo mais preciso em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ler como o texto sustenta proposta cultural e valor artístico.",
+      "feedbackError": "Aqui o foco é ler como o texto sustenta proposta cultural e valor artístico.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "ae61ff10-f021-49a3-af11-0a1fccb54fd1",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b924c90a-260d-4dbf-ac1c-fd387e0c381c",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "706d7120-c991-4ca1-acfa-ea7229b2cdd0",
+          "leftContent": "obra maestra serena",
+          "rightContent": "eleva a obra sem depender de exagero",
+          "sequenceItem": 1
+        },
+        {
+          "id": "280e7888-e973-483e-b61c-e13685ed4006",
+          "leftContent": "no impresiona por el tamano",
+          "rightContent": "afasta um criterio de impacto facil",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7293e24e-55a3-4c49-be15-f6b67715094a",
+          "leftContent": "precision con que convierte un archivo familiar en experiencia visual",
+          "rightContent": "apoia o valor artistico na elaboracao formal",
+          "sequenceItem": 3
+        },
+        {
+          "id": "9767579f-6380-49cc-8572-ad39e4d1f207",
+          "leftContent": "cambia la manera de mirar una historia comun",
+          "rightContent": "atribui a obra um efeito cultural sobre o olhar",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "fbca84ca-d594-4d4c-9267-796d5823f012",
+      "sequence": 15,
+      "lessonId": "042cc3e8-dc84-43f9-8098-b8ea45026833",
+      "title": "Escuta final do recital",
+      "content": "<p>Resolva pela escuta em espanhol, distinguindo frases isoladas do microtexto integrado.</p>",
+      "contentPlain": "Resolva pela escuta em espanhol, distinguindo frases isoladas do microtexto integrado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta escuta final recombina papel, ritmo e tradição no mesmo campo de leitura.",
+      "feedbackError": "Esta escuta final recombina papel, ritmo e tradição no mesmo campo de leitura.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "d6fdd829-9d72-4aa9-86ff-c0f354dc6337",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d604a0c550f44d0b8be3e7fbdca5ff3c_b02-la-bailaora-marca-el-centro-del-recital.mp3?Expires=1794099859&Signature=F~RMs2gNcp~fCGaFgUCY8a4uzI3n4DTlgYCNZaR0Bmbcoq25XI28A~XnPXg6IPEuX2oPLQqVXchk1aKtZuWbernh4UwRl8JLgatGosrHwaVKkEVwt~CvBodhlSXy8dNZDyFXtTC2gh9A3MMnXltAtHXxJnBuRmVPK9bn24AddAERxD02zARyzv3400xQfFPbnBckPxvQyogZEvVS3XbNbjwQw4zLteDeNKmcwoik9sL2KO2umMom-eVD2kFbJUfwp~il4olZIp6smzPsPfwRehya4B4cvisk9cS0BZ80NlRKQ~yVfkoEF2-lqD~2E25UY4s588-Cab4Ca5ycdBUnrw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La bailaora marca el centro del recital.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7a73b58c-b5cc-4af1-bd17-5ed03b2d9528",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1cb0c703524640e6acf94e6ccd7bed98_b04-el-cantaor-sostiene-la-memoria-del-recital.mp3?Expires=1794099859&Signature=t2BO6Rb77JuV-YJ1k4Qbj27CnbzbWvY-p9ZUgj4Y4vqRi8pbjdy6Wct6CeaHlpPn8Mo4O~ORdeSFgs~6zkIYkyKfsBc~ea97kb6M6009ytHEGoJ4Lwe1pL~SINzgFyc2Wnqn0FArMiXkX-k4nkddWu28vnXKGsutz6MklXChHTyK2ITmWsza1HZ5y2IqWGrwVplSKe90jaAMZHOVMA424~SXV-sR3hCDX5NceOgzyFXWZ2V4vTnDV4qkNprFmbZ6q7pvYcVN6iVO~HMjcvtcfFoykPpjwdjdwOknvwhqLk~PZt7-mJzxIXQZ6tpBKn6MAJhyfmY0VN6Y~y-ebbgwEA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El cantaor sostiene la memoria del recital.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "451db011-06f2-4442-b002-d6d58bc42a49",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/317bc6f2d3214a64b61c71999eec4f90_b06-las-palmas-sostienen-el-ritmo-de-la-escena.mp3?Expires=1794099859&Signature=eZWLMXv8dh7BsNZc1BGWHQvFsee~wBM7YAq~TYv-whrraO3riJ4OuHoNqDtv5i7IRC4JxmK4u4vktMGd3zGlwgGgMM8TVDTTAW3N6OT8V7SO-ZdmunwU-Maodb~mXrKL10dw0X07Rt6nSVp0x5c-OGHFsVCtoxu~3Ntd2d1yXF7qM5-89pAINN7NvqUGftCEG4XaR5B~j1GwZg~GeAyWHdg6I~N0ZepfRlyvPy9BGr5Djs6cXEFbPTSQaRXqEuyZh7QZonfPgpTrn0h~csLmMBOVZTuH~p6h67xMy09dA~Fg0fmVniL083e2Y3CThdM0TyIXPoyybCdFZv07jzGDUQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Las palmas sostienen el ritmo de la escena.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "ffb9a27f-bb3d-4334-9a4c-6fd33193968b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/16a79b8293d0460ca9d43385b4e90c39_b07-microtexto-recital.mp3?Expires=1794099859&Signature=ntbCt3bcmjUAzLP3H5ABQUNPGz7ApGWbTtBB~avqvEmlIEX~~Cg-758FdQfMAVuoU2MD0UJJCqXHIKaKSBWYKP2hSLTcOHTDrqod4c~d8kRM2zeKMiRuuHBvovuWstwVLExwP1ytUYSyzXrhSmhydteDPN32-k1GA2USNJ~BM-yRm6cuWr1BvqZ0pd8xQqo2ksV-ArTjo0G5r2udhQOtjD6fZf8FI98BHNeDH7kD10GWVEDxDSTvE2U6hwBuMEqooRtjrvtOPE2HyLkvm1ES~NuD-TsxSBlvtfXjD0b6oBkiwY5jbeSMInWfIZ8MrOHgJ9nbq4FJ8hA3s9H7GF8jYQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En este recital, la bailaora no actúa sola: el cantaor conduce la intensidad y las palmas mantienen el ritmo. La tradición aparece en la forma en que cada papel depende de los demás.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ]
+}

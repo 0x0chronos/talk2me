@@ -1,0 +1,478 @@
+{
+  "attemptId": "de8a9950-f40f-4d8f-a12c-ee85cdde213a",
+  "exercises": [
+    {
+      "exerciseId": "54c69ee8-4c1c-44a2-adf5-04671a9c5b3b",
+      "sequence": 1,
+      "lessonId": "e7bb6b9a-68da-4d8c-b29d-62861dd21291",
+      "title": "Complete o horário habitual",
+      "content": "<p>En mi colegio, las clases __________ a las dos.</p>",
+      "contentPlain": "En mi colegio, las clases __________ a las dos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. `terminaban` marca o horário habitual das aulas no passado.",
+      "feedbackError": "Revise a frase sobre o horário das aulas e recupere a forma verbal completa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "terminaban",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "cec40e38-5686-46a1-a718-fb54eafb0a01",
+      "sequence": 2,
+      "lessonId": "f83109ff-2280-49a8-b3f8-ac08ef2607e0",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a primeira linha e marque somente as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Escute a primeira linha e marque somente as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8816374791164474b87ba65eb2fd08cf_b02-school-memory-line.mp3?Expires=1794099534&Signature=bs9-YfSCL8cORjMEnPVFwAQbVIiUT4dNiON1-bZJJrrJ5oMoHhC2fh~VJPdNJvdiG5IF89k3IPBTZQxAPhSjBhdqDM-8poMhY81d1OCAgvyDKb~HRY8PnULnS3MtZ6DFwV0rA1ojgpGo2VjxoIyyDYNNku-Z7QhnAVXDghmVAMP-AUzm-YxsO5DiSfickbIiuVa9dms0FD7qGf6HlDXPqQUIa~zJBkoKsJMJea8v~tZADSay2eXxkz85P4bNPhdIKXPkoodYESAbopBQRDYjqDKN4-mf6rs81bzpOlZwAJNqr814TbrWAy6lHBNBKBNi3bXTStjKA1ak1rvwtIigXQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta detalhada. Você identificou os elementos centrais da primeira linha.",
+      "feedbackError": "Escute com calma e marque apenas as palavras da linha sobre instituto, estudo e matéria favorita.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1a3a2cf9-f816-419e-97f0-8ce4a385f1a3",
+          "text": "instituto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3bf2f62f-ae2a-4cf5-a22e-8936b3013a2d",
+          "text": "asignatura",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "442390bf-0de3-46fa-95d2-debbb1b3b5d1",
+          "text": "favorita",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "485f00c3-e0db-49e6-b8ad-db5d76b6bfd2",
+          "text": "profesora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "79cc25b2-e230-4747-8230-6aa119cac7b4",
+          "text": "mi",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7d22da0e-c734-4849-bbe4-fb751c0630df",
+          "text": "esa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d228e658-90f2-4e89-a401-0927a460728e",
+          "text": "estudiaba",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "da272b78-0b9c-417e-b5cb-a2b394fce249",
+          "text": "español",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fc008ef7-e903-4ae2-a385-ea9b684acc21",
+          "text": "cuando",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fd429aad-a148-466c-a68a-51973c145308",
+          "text": "en",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "71f34c16-37a6-4ce0-82bb-5524a4a26482",
+      "sequence": 3,
+      "lessonId": "35b4771c-0d06-44d9-af60-eafd2d269155",
+      "title": "Monte a forma que falta",
+      "content": "<p>Las clases ____ largas.</p>",
+      "contentPlain": "Las clases ____ largas.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `eran` é a forma pedida quando a memória fala de várias aulas.",
+      "feedbackError": "Falta a forma plural que aparece no segundo bloco da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "eran",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "51a7e8d7-cb94-4a26-bd94-fa8081aaeeb8",
+      "sequence": 4,
+      "lessonId": "6b1ea2da-c747-475a-aac3-29d6cbe4806b",
+      "title": "Complete a palavra-chave",
+      "content": "<p>En el _________, las clases de historia eran muy animadas.</p>",
+      "contentPlain": "En el _________, las clases de historia eran muy animadas.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. `instituto` situa a etapa escolar da lembrança.",
+      "feedbackError": "Retome a frase inicial da aula e procure o lugar em que a memória acontece.",
+      "answerType": "buildWord",
+      "expectedAnswer": "instituto",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "615bcc68-104b-4e7f-a236-d7d5005454e4",
+      "sequence": 5,
+      "lessonId": "e7bb6b9a-68da-4d8c-b29d-62861dd21291",
+      "title": "Ouça e selecione",
+      "content": "<p>Qual forma verbal você ouve no áudio?</p>",
+      "contentPlain": "Qual forma verbal você ouve no áudio?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8d1673b049464309aab18edb378897c1_b03-no-entendia-bien-esa-asignatura.mp3?Expires=1794099534&Signature=T6-ndX3J~4ecXyon0-VCpXavAxEWVZfsMZsMQFV3QNUbQnDRWroA~y5pPntAYM2LKGgv~~4bEYxWHUs07Ho2MSt1mkkAYjFYSVhJYA60cJ2tHeHSb-VxE9nWB8JD4paXIjnivLFKTnhwFKputL5q-oX5VMOULTtoQahRaM9n5SypAeIlOX62TeodnP17F8xoVGjjjGAk0Cx2OFlhtC5LlIY61BscsFzm9QUQwJqrXgoUvxhbSO7iCsTBj2Q29xXd~LdHdC-aWze9Q17XQdOtla0G~k8boXfDyp3C52AMwWQn-86MXjZQSnVPsK8WfU6XrtofyaiUNpmf3oywN08rGw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. No áudio, a forma ouvida é `entendía`.",
+      "feedbackError": "Escute de novo e foque no verbo que aparece depois de `No`.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "566a7d74-3844-4642-afe1-c2d0beef0659",
+          "text": "estudiaba",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5ac98429-66cd-4646-b3fc-617dc37847a3",
+          "text": "terminaban",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "faabd289-24a3-4e2d-b9c1-54cac8d78ace",
+          "text": "entendía",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b48d6de4-cad1-4e64-ac15-fa3c3e39cff1",
+      "sequence": 6,
+      "lessonId": "44d8fb89-3f05-4848-b35e-e96e799fd668",
+      "title": "Reconstrua as situações de estudo",
+      "content": "<p>Escute os quatro áudios e relacione cada um à frase em espanhol correspondente. Aqui o foco já está em frases completas, não só em palavras isoladas.</p>",
+      "contentPlain": "Escute os quatro áudios e relacione cada um à frase em espanhol correspondente. Aqui o foco já está em frases completas, não só em palavras isoladas.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa reconstrução. Você conectou os áudios às quatro situações centrais da rotina de estudo.",
+      "feedbackError": "Escute novamente e compare qual frase fala de explicar, qual fala de entender, qual normaliza o erro e qual fala de excesso.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "a3ba5a10-5781-4cc7-96e5-0e244930ca30",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d01849e82cde445795ecc1ba6e29ad5f_c01-el-profesor-va-a-explicar-la-tarea.mp3?Expires=1794099534&Signature=sj~7rjIum41a27rSkpoo2Ib2mu2sTDRDHgDMrcFpzN46L9ImS8KxBOEQq343DjxZaLaxmw8xMRUPvC8zRWDmInVclXvakURhKB~sl1-YcrLRPssdNJrZQMuTiZ4e7RcnFS9BZkRGTdQjTGAtmhAQfA40Lu3reWRCKXc~QrWYZbN9oB4BPddAfprTawLTWM31-yRqmMgMG8cqeKG0rWkS-jaQnaznzrU1EK~E~ky12P5PhJ38u9v~VQLUD9-5cQbPyCXip9tvU5AzgRkfk0Odrj5N9-1UxZfG5ZbXJvlZnTcH3T25z6F6ydmRUY0F2Qsz~VEAwuCldvTF~ncxYL-CHA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El profesor va a explicar la tarea.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "23c4a89f-fb9f-43b2-a23e-5af94b0e9a3f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e28362e2242d4aab8c9de0dd18b67753_c02-ahora-entiendo-la-consigna.mp3?Expires=1794099534&Signature=eNlGqRHmRvfuL5J91ACVW8BrElml8QFTtn8ZYNHC4zLziVOgyH~Em1b8nuKnuA-0FXWDcZRiQYkoc024gk3gsiPtQY5J2QaEobG3oJIW7VVKk8gs7h9F7rPRMiJHjRmuLArL6K4A4Njvyf~O7OeHiN3Wt-iDLQFZmxGb~IPplR2~TqCWsa0OZytpfxYOIRDLHon2h3jpkRp84miqccwx2fsQwQJ0hg-Xt1FVRjJezxM1LIuWHXVMIjpW31h7InpDE2oUv8d9axgOGzKJCETB8cXvD7yJdIaeavqtD3gv0m55s37U6ynDrc4EPKCQGZSNG-xHJf5ypGwBfCWIGqheiw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ahora entiendo la consigna.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0b7f72d8-d8a4-434d-b2a1-845b2b62ec37",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8403a18eddef49ccb60023842c76f7d9_c03-es-normal-cometer-un-error-en-clase.mp3?Expires=1794099534&Signature=zHAU137jvvfHCySdbvEPd~9VDuoeC~1ZCHmKymvEz7SJHCo1BVnnShoYsTpSOZDMndlGMbBtJ5kZaG7i1sHRXzGOlXre-Q~F-Lk06s50Zl6HnS0TrxUqLT~lo5qd4kZPswM4saiUzHHuM8Uu0b8ESt-JImdGFx2hQ0xN~UQRZTgV1LyYWlJ5mbcyyrap6L8qVQTuwjsxGXxBgw~~9xvYmnfwFFNkq0YmsQ0zdmlFSVGwWLhsuwTmdwnL9uSWdWdHXreKL~drHmjVXcrGfHsD-RGIM4uD5IYIFZkgLQiNKZ4I-Y~IOVZvT8VNptnzIFqCyWWjWuB~GD51m0aZ745VuQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es normal cometer un error en clase.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "062a3ccc-4193-42b8-b3c2-b570b5bd4457",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/aa09cf0718b6467cbd981ba8310f72db_c04-tenemos-un-monton-de-ejercicios-hoy.mp3?Expires=1794099534&Signature=c6Fe~NnrxN8wsG1ZGXdCpcNyG0sBQzTAaGyJplMA1Hx9B-CggjYxRaLyzd~T5W0wkl0vxrR1JVO0zPkINtqTYllUQyXqbBrLq1bfxWngdRs4HR0EJmjUpcjQFDkblrKqyrsb0zbP9ZfV5OuCaF4D3EJrmQ~Js2umpXYeeANCmxkNBnR3VQPVzzHBpLYFDUwixEEiY8NxgYu7tajx991yX7dFyQ62oGwWDSmL1DSGcfLi3Lmkx9kRFU3Jsaje9~7tnS6T5Y-5aA3OW29fGyRc9TCJBugTLRWfGAsWVKUdGqR69FHs4J2MDb0pCkdgdhJ97foP5F-tIssqLwY6N55Q3w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tenemos un montón de ejercicios hoy.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "b4dd5a83-fad9-4300-86ad-8bc49ed27e55",
+      "sequence": 7,
+      "lessonId": "f83109ff-2280-49a8-b3f8-ac08ef2607e0",
+      "title": "Reconstrua o retrato pelo áudio",
+      "content": "<p>Agora escute cada linha e ligue o áudio ao que ela conta, sem ver o texto em espanhol.</p>",
+      "contentPlain": "Agora escute cada linha e ligue o áudio ao que ela conta, sem ver o texto em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Você reconstruiu as duas linhas corretamente a partir do áudio.",
+      "feedbackError": "Escute outra vez e separe o áudio sobre estudo do áudio sobre ajuda da professora.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "2ad5a93b-2da3-48d9-8a39-01013e945e8d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/06985c5676c54d42a98e5561b7f61308_b04-teacher-support-line.mp3?Expires=1794099534&Signature=TNtR4C4PWC7pTwuz80wvfb0Pcjc33Ocb4vSaddrIUvXZEQ3mpgJRMg6mGOfiDwMrZlFOz6636OLtPwNUKy5dgcILghl8T9d1nBE3Xn9ad-0J6AWoxFNMckCm0dytS-dqFaV3Nh5FpEu0R9Q7FflJ~z1iyFSDgXyksjuLCG7xzglEReB-QLLo2DJ8JVCYe0fRPK1UF~XeBBh83WeTTUMKM3NZ6f~Vp27gWOU6QnHcqvtnivEWO~dkEeIlRrVNxooPQcO7HcyTDzat~JGlAp9FRj10MY2iQpL1bUvaIKW9~V0JId4e4QmvHQywyjWLk0LKyzzqwVVwgGjIMK4abJ7uWw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "dificuldade e ajuda da professora",
+          "sequenceItem": 1
+        },
+        {
+          "id": "dd8f2955-d693-4b92-a8a2-72fc990b58ba",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8816374791164474b87ba65eb2fd08cf_b02-school-memory-line.mp3?Expires=1794099534&Signature=bs9-YfSCL8cORjMEnPVFwAQbVIiUT4dNiON1-bZJJrrJ5oMoHhC2fh~VJPdNJvdiG5IF89k3IPBTZQxAPhSjBhdqDM-8poMhY81d1OCAgvyDKb~HRY8PnULnS3MtZ6DFwV0rA1ojgpGo2VjxoIyyDYNNku-Z7QhnAVXDghmVAMP-AUzm-YxsO5DiSfickbIiuVa9dms0FD7qGf6HlDXPqQUIa~zJBkoKsJMJea8v~tZADSay2eXxkz85P4bNPhdIKXPkoodYESAbopBQRDYjqDKN4-mf6rs81bzpOlZwAJNqr814TbrWAy6lHBNBKBNi3bXTStjKA1ak1rvwtIigXQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "o estudo e a matéria favorita",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "b42d9156-caee-40cc-b65f-1d86e1d08e55",
+      "sequence": 8,
+      "lessonId": "44d8fb89-3f05-4848-b35e-e96e799fd668",
+      "title": "Escolha a resposta mais adequada",
+      "content": "<p>Depois de ouvir uma explicação em sala, você quer dizer que a instrução finalmente faz sentido para você. Qual frase funciona melhor?</p>",
+      "contentPlain": "Depois de ouvir uma explicação em sala, você quer dizer que a instrução finalmente faz sentido para você. Qual frase funciona melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa frase mostra o resultado da explicação: agora a consigna faz sentido.",
+      "feedbackError": "Procure a opção que fala do que você já compreende, não da ação do professor nem da quantidade de exercícios.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "a34d79c5-79fb-4c11-8580-9e7acbccf50d",
+          "text": "Ahora entiendo la consigna.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a7755bd2-545d-4113-9f24-166451a592b0",
+          "text": "Tenemos un montón de ejercicios hoy.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b8680918-53ea-4b16-8530-7a8d6bccfa51",
+          "text": "El profesor va a explicar la tarea.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "4696f280-f65f-4868-ade5-55149c031674",
+      "sequence": 9,
+      "lessonId": "f83109ff-2280-49a8-b3f8-ac08ef2607e0",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Cuando no entendía, la profesora _________ otra vez.</p>",
+      "contentPlain": "Complete a frase em espanhol: Cuando no entendía, la profesora _________ otra vez.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa recuperação. Você completou corretamente a resposta da professora.",
+      "feedbackError": "Relembre a segunda linha-modelo e monte o verbo que aparece depois de profesora.",
+      "answerType": "buildWord",
+      "expectedAnswer": "explicaba",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1f2ce553-1203-47d2-9ff2-6bd7f7809f4f",
+      "sequence": 10,
+      "lessonId": "44d8fb89-3f05-4848-b35e-e96e799fd668",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Ahora ________ la consigna.</p>",
+      "contentPlain": "Complete a frase em espanhol: Ahora ________ la consigna.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. A frase agora mostra claramente que a instrução já faz sentido.",
+      "feedbackError": "Procure a forma verbal usada quando você já compreende a consigna.",
+      "answerType": "buildWord",
+      "expectedAnswer": "entiendo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8ad703eb-f03c-4899-a942-14150dc2ce5f",
+      "sequence": 11,
+      "lessonId": "35b4771c-0d06-44d9-af60-eafd2d269155",
+      "title": "Ouça e identifique",
+      "content": "<p>Qual forma verbal você ouve nesta lembrança escolar?</p>",
+      "contentPlain": "Qual forma verbal você ouve nesta lembrança escolar?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/13b27fb88d34499f9a46e485c31510ad_b04-iba-al-colegio-muy-temprano.mp3?Expires=1794099534&Signature=NPEPMrsil9Fm-U4e4HbweHTpiYmGxxIrj4ew1z0zbmutRsV0q12DvOT5FUcL2FFGLsCO3VUXKrJ2uxGlXbUsPD8eiaHPN1icqaX6U6isQTr0d8~cBrT8hVGSka7jSOMgmW7h3ckAPKMAwm18sl9hNs3N8qaCO7hpKPWiSno0nljLT2wgWGbHEsT-ctiQ4-BzqGQfzH0OjF2xK6Aow9KfjFtctbwrD7yBICfSmZxZns9gm6wOTFZmaB-x~bT~-29sFOoFV8uAd4Wba8wsqVXtIho9p5Bb13xYCLQUniLUCiqW1o9tyjA30YcvmWocgdbsTIc69DQMnK5C6BQlztDA7g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. No áudio aparece `iba`, em uma lembrança de rotina escolar.",
+      "feedbackError": "Escute de novo e foque na forma verbal logo no começo da frase.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "25c0cb3f-5adc-4c83-b30c-2f741c576710",
+          "text": "veía",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c13ffbd0-8f75-4df0-9f67-7b8d8be1ca50",
+          "text": "iba",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c99fcc2d-e3cf-4fbb-b2cb-9e304ae2b5ad",
+          "text": "era",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fbd11138-0560-480b-90f7-a1af2669abf4",
+          "text": "eran",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b4b3b6e7-1bf8-4a7c-84b7-723ac9c0bdb3",
+      "sequence": 12,
+      "lessonId": "9b25f713-bbf0-4d92-ae46-1a1c888ac0fe",
+      "title": "Escolha a síntese correta",
+      "content": "<p>Qual frase em espanhol resume melhor o contraste entre <strong>colegio</strong> e <strong>instituto</strong>?</p>",
+      "contentPlain": "Qual frase em espanhol resume melhor o contraste entre colegio e instituto ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa frase preserva a diferença funcional entre as duas etapas escolares.",
+      "feedbackError": "Revise o contraste da aula e escolha a opção que separa etapa inicial e etapa seguinte.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "ae5b5bde-6db1-4c17-8650-ad004120a490",
+          "text": "Colegio y instituto son dos palabras para la misma asignatura.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b1e49312-4a80-407c-be8b-dfde3e9222ec",
+          "text": "Clases e instituto nombran la misma parte del día escolar.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fa914a67-21aa-41ff-8cde-a43859cfe650",
+          "text": "Colegio habla de una etapa escolar más inicial e instituto de la siguiente.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "08273d7b-b47e-48c5-a079-d68cb09cf950",
+      "sequence": 13,
+      "lessonId": "9b25f713-bbf0-4d92-ae46-1a1c888ac0fe",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Después del colegio, llega el _________.</p>",
+      "contentPlain": "Complete a frase em espanhol: Después del colegio, llega el _________.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa recuperação. Você completou corretamente a etapa escolar posterior.",
+      "feedbackError": "Retome o bloco de contraste e monte a palavra que se opõe a colegio nesse mapa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "instituto",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b504fe94-2b20-473d-9230-f4dc6f7b5ffc",
+      "sequence": 14,
+      "lessonId": "6b1ea2da-c747-475a-aac3-29d6cbe4806b",
+      "title": "Recupere a rotina",
+      "content": "<p>Siempre _________ con una amiga después de clase.</p>",
+      "contentPlain": "Siempre _________ con una amiga después de clase.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `estudiaba` recupera a rotina repetida da memória escolar.",
+      "feedbackError": "Revise o bloco da rotina e procure o verbo que vem logo depois de `Siempre`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estudiaba",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ae107c59-830c-4321-8f6e-4042fad6771e",
+      "sequence": 15,
+      "lessonId": "6b1ea2da-c747-475a-aac3-29d6cbe4806b",
+      "title": "Ouça e identifique a forma",
+      "content": "<p>No áudio sobre matemática, qual palavra você ouve?</p>",
+      "contentPlain": "No áudio sobre matemática, qual palavra você ouve?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/07bec2792f714bd5b09e570a8e0fadfd_b04-me-costaban-las-matematicas-pero-la-profesora-explicaba-muy-bien.mp3?Expires=1794099534&Signature=vpY6HySydK7NI1-iWuIxkaFxcO1WEmumo-Qy1ivRFMeR8nahI8PZhhteWAxj7uN9jXjesjKjf~108lMWILopq8q2JDeIrBmH4GYvuFLSM~K~Aw5Z8J4jXbOM8iKgJkdCw2j3V9hqtNHM-lrT6XaBSnt7apXS0Gn94pV7xXRjOZ5oZHjYh9qY8ALYjop4gDCK2LNHpl61tWlRgnI40OP0FYHQXN~JBhALLkMeCh4VdHQD5hQwmz6YLNiLpC2rpUwamIU0NvMA7FKGOQCBsVl84z7-ajBH6Cmyh0KaK5w0XyqZrKh7rmC~UviaTBljRUJzhWX-NJxJYTj3Dmbdtj90jw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. O trecho usa `costaban` para falar da dificuldade com matemática.",
+      "feedbackError": "Escute de novo e procure o verbo que aparece antes de `las matematicas`.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "46e7ca11-1137-4541-ae89-27c6a9d59716",
+          "text": "animadas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "917a7132-b7d4-4799-824d-c81a17781125",
+          "text": "estudiaba",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9d2e0a3c-187f-4b88-9ea4-3cdf9680afad",
+          "text": "historia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f6368bcf-e6b3-4688-a8e2-2ff00270862f",
+          "text": "costaban",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

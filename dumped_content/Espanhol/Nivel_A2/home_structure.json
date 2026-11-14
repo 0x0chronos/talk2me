@@ -1,0 +1,1020 @@
+{
+  "currentLevel": {
+    "id": "3546b355-a598-443f-8842-a1553302fac6",
+    "name": "A2",
+    "icon": null,
+    "bannerImageUrl": null
+  },
+  "modules": [
+    {
+      "id": "930821ed-6d6a-4f59-affc-03d991489812",
+      "title": "Colocar a casa em ordem",
+      "subTitle": "Descreva o estado da casa, fale de tarefas domésticas e combine planos imediatos de limpeza em espanhol.",
+      "sequenceItem": 1,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": true,
+      "learningPath": [
+        {
+          "lessonId": "39f55b02-712d-48ef-94b1-dbc82184d01f",
+          "title": "Ver o que precisa de limpeza",
+          "icon": null,
+          "stars": 0,
+          "unlocked": true,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0803d151-1e1a-4ec0-bf9f-2c3a4ef11413",
+          "title": "Entender quem faz cada tarefa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9b7d4933-d57b-466e-bb0b-252e3497303b",
+          "title": "Nomear objetos da cozinha e da lavanderia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0707e2f0-973a-4d0a-98e7-443c171af366",
+          "title": "Dizer o que vai fazer em casa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "397a15e8-3e68-49f0-8453-872c88aed3a1",
+          "title": "Organizar um plano curto de limpeza",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "5f044ebc-6dd4-4346-a61a-969b7c7be170",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "bf470c0d-e1e8-44a7-802e-6e6f3b59af7c",
+      "title": "Apresentações pessoais: origem e onde você mora",
+      "subTitle": "Dê informações pessoais básicas em espanhol, diga onde nasceu, onde vive e acrescente um detalhe simples sobre ser estrangeiro ou estrangeira ou sobre seu cônjuge.",
+      "sequenceItem": 2,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "e2bec68a-2f81-4fe5-8955-5559ab608555",
+          "title": "Abrir um perfil pessoal com nome e idade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "18cfabcd-4791-4881-9eda-281a7492c218",
+          "title": "Distinguir origem e moradia atual",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "216988b5-f752-469c-97ed-566aafb8ff9b",
+          "title": "Acrescentar um detalhe sobre ser estrangeiro ou sobre o conjuge",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "30911738-0195-458c-acfa-621a356abb9a",
+          "title": "Fechar um perfil pessoal guiado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "checkpoint",
+          "checkpointId": "dd317d38-91fb-46f0-b324-d26102c37d3f",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "96f98526-2e27-4cf2-8df4-691954f69c4a",
+      "title": "Retratos pessoais em contexto",
+      "subTitle": "Apresente pessoas, situe relações e combine modo de ser com estado do momento em espanhol.",
+      "sequenceItem": 3,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "faf66edc-f5b9-4bde-965f-53f0918dc2a7",
+          "title": "Retratos curtos para apresentar outra pessoa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "b358f87e-0cdd-496c-b1e1-cd0c34411e4e",
+          "title": "Novidades de vinculos pessoais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "a5052948-3e17-4398-bb62-de41637c8aed",
+          "title": "Como alguem costuma ser",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "da0f26f6-bcef-450d-8d5b-8c7bbf56030b",
+          "title": "Como alguem esta agora",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8afd95d9-f593-4b1c-8575-7760d50c4d4b",
+          "title": "Separar retrato estavel de estado do momento",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5c73589b-fd55-402f-b510-aa50e6f69c2f",
+          "title": "Autorretrato curto com quatro partes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "51bf23c4-6f47-40a1-8e41-f3003b5e77a1",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "4f411001-ca28-479d-8f48-31efb2c61d94",
+      "title": "Vínculos próximos e planos de comemoração",
+      "subTitle": "Descreva relações do seu círculo e organize planos sociais simples em espanhol.",
+      "sequenceItem": 4,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "d610f024-573e-4253-8749-942945c007ea",
+          "title": "Identificar vínculos próximos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "32167b82-15ed-47f0-989e-135e8dcfc11a",
+          "title": "Planejar convites e visitas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ceede690-cc78-41de-b1aa-3c5a1fe0ab5f",
+          "title": "Entender um áudio de preparativos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "cd592d01-6ad8-4633-8110-594a6262899d",
+          "title": "Repetir frases de planos sociais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "361f9186-72b5-4308-83fc-2740b026494e",
+          "title": "Escrever planos para uma comemoração",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "4fa70a46-1103-4704-a4a4-08abf9c50a6f",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "365224b3-b051-4139-8373-16ed3fcebf7a",
+      "title": "Memórias da escola e hábitos de antes",
+      "subTitle": "Recorde como eram seus dias na época da escola e fale de hábitos repetidos ligados ao tempo livre.",
+      "sequenceItem": 5,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "6753d2a0-2350-4959-bcc0-272451eb79d4",
+          "title": "Voltar às cenas da escola",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "a7c35014-2189-4512-af63-2af79e58d3a4",
+          "title": "Falar de hábitos que se repetiam",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "827f9454-6b90-43fb-b2f3-a8803a8f52af",
+          "title": "Lazer e cursos daquele tempo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f7c49ebc-de07-4b0f-acf3-85f9e80996ee",
+          "title": "Juntar lembranças e rotina",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "abce4ce6-a628-451d-b1ef-b44f29510798",
+          "title": "Ganhar ritmo para falar",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5fd4093b-e66b-4e04-bdd4-f20e94fb0398",
+          "title": "Comparar antes e agora",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "319dbb83-dbc5-4568-a2df-6027038e66fa",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "82a06128-a595-4ad5-8a45-7672fed806a1",
+      "title": "Lembranças da vida escolar",
+      "subTitle": "Descreva como eram as aulas, os estudos e a rotina escolar com repertório de educação e pretérito imperfecto.",
+      "sequenceItem": 6,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "9b25f713-bbf0-4d92-ae46-1a1c888ac0fe",
+          "title": "Abrir o mapa da vida escolar",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "44d8fb89-3f05-4848-b35e-e96e799fd668",
+          "title": "Falar de acoes de estudo em sala",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e7bb6b9a-68da-4d8c-b29d-62861dd21291",
+          "title": "Trazer a rotina escolar para o passado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "35b4771c-0d06-44d9-af60-eafd2d269155",
+          "title": "Lembrar como eram as aulas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6b1ea2da-c747-475a-aac3-29d6cbe4806b",
+          "title": "Entender um retrato curto da epoca escolar",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f83109ff-2280-49a8-b3f8-ac08ef2607e0",
+          "title": "Montar um retrato curto da epoca escolar",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "a1fc78c6-0406-4096-86ee-3458d6161cac",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "99553849-e961-4715-8c97-93ea54000391",
+      "title": "Convites e combinações entre amigos",
+      "subTitle": "Convide alguém, combine um encontro e diga o que você está fazendo agora em espanhol informal.",
+      "sequenceItem": 7,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "ec7908b2-24b0-40cc-9d07-fd3c6defd948",
+          "title": "Reconhecer convites entre amigos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9c829040-b048-4ab3-860a-d70c083d4399",
+          "title": "Treinar convites e respostas rápidas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "bff47b9c-6667-4fdb-b1bd-fe56623d8e75",
+          "title": "Manter a conversa com ações em andamento",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "checkpoint",
+          "checkpointId": "3e9d96c3-fe50-4184-a3fc-8c9489041455",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "06342a86-238f-434d-9673-93256dc7a54d",
+      "title": "Relatos curtos sobre ontem",
+      "subTitle": "Pergunte e responda o que foi feito ontem em espanhol com frases curtas e poucos marcadores de tempo.",
+      "sequenceItem": 8,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+          "title": "Abrir a conversa sobre ontem",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5fdb129e-868f-4277-a613-33633939f676",
+          "title": "Responder com ações concluídas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9a815671-187d-4294-9f43-6116a332c6cd",
+          "title": "Marcar quando aconteceu",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "eb98987f-2fb8-470e-9214-1c00990c1d8e",
+          "title": "Ensaiar respostas curtas em voz alta",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "c7e93c20-af47-45fc-b76a-b9b04854fa46",
+          "title": "Escrever um mini relato de ontem",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "16add0f4-4a89-409d-9515-92e38312fc4a",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "47558f24-d120-4bac-97b0-0fab9cec254f",
+      "title": "Contar o que aconteceu e combinar o próximo passo",
+      "subTitle": "Conte o que aconteceu recentemente, diferencie isso da rotina e combine planos próximos em espanhol.",
+      "sequenceItem": 9,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "b42a2a16-accc-4e69-95c3-586d9568b4a6",
+          "title": "Situar o relato no tempo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "451df7ae-f912-4daf-ae9a-7b0c5080ee6a",
+          "title": "Dar forma às ações concluídas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3002eed9-4e08-419c-a4b1-3ac89e7ec2b0",
+          "title": "Ouvir e repetir o que aconteceu",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6a912c4c-c48a-4f62-838d-d010341d20a5",
+          "title": "Separar rotina e fato recente",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "095db438-f0da-45bc-ae49-0a29f71d1887",
+          "title": "Contar uma compra recente",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "12c01a34-84d6-4577-b26a-f3022099262e",
+          "title": "Combinar um plano com outra pessoa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ee0119f9-a62b-40da-8507-7503e0c366e4",
+          "title": "Dizer o próximo passo com ir a",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5fc07c1c-54f4-4a38-91d0-641847753803",
+          "title": "Ligar o que aconteceu a um plano de fim de semana",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "checkpoint",
+          "checkpointId": "1457b267-dd93-4b95-be2d-d515caa9ae70",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "423b0b8d-49ab-4759-a996-b0c8d6feb0b3",
+      "title": "Perfis em contraste",
+      "subTitle": "Descreva como alguém costuma ser, como está agora e como se compara com outra pessoa ou lugar em espanhol.",
+      "sequenceItem": 10,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "22e31c86-4808-462a-900d-f8620ff70af3",
+          "title": "Ler traços de personalidade em perfis curtos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "d57c5ec0-8ea4-4b62-9555-ee4d4a748555",
+          "title": "Escolher entre traço e estado ao descrever",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f258aca4-1f76-4c4a-8063-80e5a5aa3a55",
+          "title": "Recuperar descrições em contexto misto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "2c10c3a1-2741-4687-bcbe-25156a5f50c5",
+          "title": "Descrever mudanças emocionais do momento",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "c2d5be63-3e1c-4ef8-848d-1d036e6667ce",
+          "title": "Comparar perfis com estruturas frequentes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "4c049f1c-d5cd-4522-9abe-5692603b005e",
+          "title": "Montar um retrato comparado curto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "5ab704b9-d2f4-478e-8a30-ad408c77d85f",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "9936c5c7-ca3f-4038-9290-0d49a4a9184f",
+      "title": "Como você está e o que fez hoje",
+      "subTitle": "Descreva estado atual, sintomas e ações recentes do dia em espanhol com apoio de pretérito perfecto.",
+      "sequenceItem": 11,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "2f0baac1-f03b-4790-b885-63d9ef74d02e",
+          "title": "Dizer como você está hoje",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "c98b1d7f-dc43-4594-8f16-27e2338f03ff",
+          "title": "Descrever sintomas básicos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "2cb8c474-692e-4f5c-b2a0-9ad83171d905",
+          "title": "Pedir atendimento básico",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "180d1628-798b-4deb-b516-36a71c88ee1c",
+          "title": "Perguntar e responder sobre o dia de hoje",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "81d6ec04-83bd-43e8-9c43-d9029e88824b",
+          "title": "Montar frases no pretérito perfecto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "4ec90069-c568-4a38-85d1-62dbfcfa15c9",
+          "title": "Usar particípios irregulares frequentes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+          "title": "Fazer uma atualização de saúde e do dia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "0a6564e8-ed1e-4271-99aa-85d4e8edff6d",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "a5861755-4dda-45b5-8ebb-69f188966993",
+      "title": "Atualizações curtas sobre o seu dia",
+      "subTitle": "Fale da rotina, coordene tarefas rápidas e diga o que já fez hoje em espanhol.",
+      "sequenceItem": 12,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "dcf7fdf6-d8da-4e4c-adb3-1ca2a8609da0",
+          "title": "Entrar no tema do dia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "40f25566-376f-40f8-a3be-a3ab4ff650b4",
+          "title": "Descrever tarefas principais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "07c08e84-dc6c-42fc-b835-ae3b705827e4",
+          "title": "Coordenar com instruções curtas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "74b04c8b-b7c9-4a57-a511-88026f603e60",
+          "title": "Dizer o que já fez hoje",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "a7fae805-6e49-4806-a178-41c274b0591a",
+          "title": "Ligação e atualização do dia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "3eb07de2-c368-4499-9c9e-5254cebfd3fd",
+          "challengeReached": false
+        }
+      ]
+    }
+  ],
+  "nextLesson": {
+    "lessonId": "39f55b02-712d-48ef-94b1-dbc82184d01f",
+    "moduleId": "930821ed-6d6a-4f59-affc-03d991489812",
+    "title": "Ver o que precisa de limpeza",
+    "icon": null,
+    "currentStep": 0,
+    "stepSequence": 0
+  }
+}

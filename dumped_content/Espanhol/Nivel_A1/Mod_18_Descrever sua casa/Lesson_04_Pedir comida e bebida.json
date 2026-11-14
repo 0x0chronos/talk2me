@@ -1,0 +1,677 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+    "attemptId": "d3f8dfa5-ef06-414b-a00e-cf5d1c4a1515",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "c489803f-2c07-484f-8efc-3242ad5af4e3",
+      "c423eebe-5d09-45df-837f-7461879be992",
+      "afe5f507-6715-492d-a310-44f038320361",
+      "72fcea33-7818-4e54-9bc0-7b7a8df76ff3",
+      "98790a01-5424-4920-80e2-e2d1ab47b87b"
+    ],
+    "evaluationExerciseIds": [
+      "36e9053d-6ca6-4937-a0a3-f48accb074c8",
+      "d2c71e07-2c61-4938-bdba-53c778b9d7d3",
+      "d9ead326-afc6-4f8a-821c-046e8b114253",
+      "870c0135-ccee-4283-8031-13c077a6e659",
+      "f6eb3b14-6711-402d-bd47-27c51c80e197"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:58:16.2623717Z"
+  },
+  "contents": [
+    {
+      "id": "c798c2ee-c116-49e9-a507-553dfc7df9cd",
+      "title": "Escute e observe a pergunta em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "42cc2d08-e8de-483d-9721-05abe0f0eec6",
+          "textContent": "<p>Escute a pergunta que costuma abrir o pedido.</p><p><strong>¿Qué le pongo?</strong></p><p>Em português: <strong>O que vai querer?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/36fa1130f4cc4feebe2aba232f0b8253_b01-que-le-pongo.png?Expires=1794099496&Signature=v~sOgAW2wcVYnrLsbfosSbsu8vbYkU5VOLo8S6F9lb1MpRDJgje7qvxsZxzUKNYDcBObDxiea-7Px~eC~gSRd6bYQh7OS9Kr9WJq~mdkgUcDLdpoO1Ozm5Ut5q1M7DsiC1h9kpL0IBKzkmJX36NTnPC9QMvZiSY2Nyofn-oO~lvvWD~FkJjIbMMyPPT6egFp9vfUbQEOXJf1mnZ3JsWxIzzXdx0huagDMV8HpOu4ubvsXIB4vKCBXqD7Alf4EBb3nCVAI-3nNA0zZyPyNMQIZ8vsf7zEJgo~-966c75MRpVNZMx2lqZSwOcuMtqR0iLXNiaHTpjicWqJCcN5kGrXtA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dfd269ea5b954a1687f9c9e3aa50f8bd_b01-que-le-pongo.mp3?Expires=1794099496&Signature=KL88gPiokRx4SMmR-~OSNtzClszHJGtjLd0JOjeJwyqf21krS9q0ZER0htZjGQkhcJzxbt33fXQ2JaKGlz7WqJFfYfPUs00SmomUN3Zh8pZhBOyp5yx3V-Heq1fCYzC5aEwRiA~u0LlrXFLZYZz9nozpy17cZGrZPii7dAKu9a3WSt4IbmbmjEJLWnu24LCYeE~u9YuqXJnZGzTxJihqLCDqd7mhDCvTC4pLXyijyK1VxPBYamVCrTpVHZSXvWwvwzAlA-~HumBF~Ps7fdBK8HR1InwPyl6BC4TZvdbkhyYN7nDH7u5tfXgn2pyZrSqjLgdIbu68~3DAXXx1FzGJeQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f4ec3b93-7504-45da-9a9b-cac03afde72c",
+      "title": "Leia a nota curta e ligue a pergunta ao momento do pedido.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "acc8e091-35ba-45b7-8e3b-9dffd6912ddb",
+          "textContent": "<p><strong>¿Qué le pongo?</strong> é uma pergunta comum do atendente quando chega a sua vez de pedir.</p><p>Nesse contexto, <strong>le pongo</strong> funciona como “o que posso servir?” ou “o que vai querer?”.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6fbabdbd-4135-4f35-8e21-4d779f4f5dad",
+      "title": "Escute e observe o pedido em espanhol.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "78fa0836-e741-4338-be75-a319c772dc1a",
+          "textContent": "<p>Escute um pedido curto de bebida.</p><p><strong>Para mí, un café, por favor.</strong></p><p>Em português: <strong>Para mim, um café, por favor.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fd6477da666c48dca0d380cbdafff505_b03-cafe-por-favor.mp3?Expires=1794099496&Signature=L5Mob6GgwjWQ3yD16C-zu8lHmE4Rf6pa3S-We~n2SvJfG9IvOVbuxZ98b2werkCcQdHRX09QPHWsy0NvNwZzHtHbg-bqo9AhlDglNOGrsl~9rhCEqDw6~ORBlOq1tEj2hLFHEm3aserumUExXftHSpbN60p7itnFzXHjarORl~3tCUvagOHZEWRVCa3ZMmjcBY7jagXIO4Ltk25Sl3YX8kTZAd-K08N2d0taKzV3kt3-E7nyz-jYfmrFXrhltGf2yeRmWY0nwqEhmWPnNsQS5ns2-SRDAadTxhszzxbCcCNVtiO0U~lV8rvJUZTj4555ksi3cwRWCA2h7ecCzcc8Lw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4c59461d-ce5b-4a48-9930-f88994f22921",
+      "title": "Leia e observe as duas opções mais comuns depois do pedido de café.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "c0c8f8b9-a400-4d3d-b74f-35222717b9b9",
+          "textContent": "<p>Depois de pedir um café, você pode ouvir <strong>¿Solo o con leche?</strong></p><p><strong>solo</strong> indica café puro. <strong>con leche</strong> indica café com leite.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f49c0e2d-27db-4cc1-97c1-f59cb0220170",
+      "title": "Escute e observe outra opção de pedido em espanhol.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "e992b488-63f6-44a4-93e0-88bf80eef32c",
+          "textContent": "<p>Escute outra opção de bebida.</p><p><strong>Un refresco de naranja, por favor.</strong></p><p>Em português: <strong>Um refrigerante de laranja, por favor.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/34cde660ebf147ee87e8be378fc099fe_b05-refresco-de-naranja.mp3?Expires=1794099496&Signature=1LAF-0HDdZdVouhB~Zx9CHenNaufnlrdJ6Tm9zsaRKR6uGvRRT8tsK96oQAEnNd0mbABRnjT2LlAgZjGoXaARhhE0i52pMWr3Ujg8relPvxitteqMvQ2dYrylK1gXoU3QIQ-28GAhRh340ZLrC5THQyYnDAZRYJ~QwbbtCEEmZNy-U~abFIIfQwijPXH3FRX8kzG5Aamcv2v1hhl3tl2b2vFfPzoxODC9yI6t8ubqImtFA2zUuOq1ZZEwqlxZTv1Ms7ifZ~XJ36cIRDLqGUVAILCDqZlZUs2RIp72ZICfgGiFK0gPzJ-qP6oOlcfrRlnjq5XsPwM6QsJB7xQR9ppXg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0f3ca43b-f3f9-4077-835c-a26dd16df1e4",
+      "title": "Leia a nota e observe como a palavra ajuda a pedir uma bebida sem álcool.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "af4a177e-2804-4d74-9abe-cee6edfbd632",
+          "textContent": "<p><strong>refresco</strong> é uma forma comum de pedir uma bebida sem álcool.</p><p>Quando você acrescenta o sabor, como <strong>de naranja</strong>, o pedido já fica claro e direto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "de1947b5-4649-466d-8ce5-ffca2329f5f9",
+      "title": "Escute e observe o pedido em espanhol.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "c9849e17-1fb8-4b91-9f3c-c107f28ab944",
+          "textContent": "<p>Escute um pedido curto de comida.</p><p><strong>Una ración de papas fritas, por favor.</strong></p><p>Em português: <strong>Uma porção de batatas fritas, por favor.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5c910ad1c5ab427e96213fabb22b8d30_b07-racion-de-papas-fritas.mp3?Expires=1794099496&Signature=kBVZzuSjk2t6i6jG0WF1H~14kgtfYZqEsQljyE-tGcYxdBBY47C57BX6g3NDtasFYoVeA2kj12NXQxd8v66Onm0moJmIAGjRT5WFknlxd4qbh1gHIjfJXH1S3nao1YWrekcX~oF4etHxYm2ucLjAXtCxxRkNK9QT-npwKes6AgSNu-DGEXfI0xBV6rMuFlox3zZ~-jRta9VS1HYyEmy40TcaoQ~ebJQ~s~qNAJSsWyleYeLZDW0eJ75TGN-NLlghyND007eX~gBqPlHpvRASFvTACFaEx0UDbW58UnQx2f~NL0JvOzBUouTD9C22nC0I6Ij0J4TE~oG8VlbvG1okxQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "046d3519-0d21-4534-8661-79a2a2319ad7",
+      "title": "Leia a explicação curta e ligue a expressão ao contexto de mesa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "d1868057-b939-4b0e-8099-b8c0df05453a",
+          "textContent": "<p><strong>una ración</strong> costuma indicar uma porção para pedir à mesa.</p><p>É útil quando você quer pedir algo de comer sem falar um prato completo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "92912d6c-de6b-46ca-9e85-243437a534b2",
+      "title": "Pedido curto no bar",
+      "description": "<p>Veja como a pergunta do atendente pode abrir uma sequência simples de pedidos.</p>",
+      "contentType": 7,
+      "sequenceItem": 9,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Qué le pongo?</div>\n  <div style=\"opacity: 0.45;\">O que vai querer?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dfd269ea5b954a1687f9c9e3aa50f8bd_b01-que-le-pongo.mp3?Expires=1794099496&Signature=KL88gPiokRx4SMmR-~OSNtzClszHJGtjLd0JOjeJwyqf21krS9q0ZER0htZjGQkhcJzxbt33fXQ2JaKGlz7WqJFfYfPUs00SmomUN3Zh8pZhBOyp5yx3V-Heq1fCYzC5aEwRiA~u0LlrXFLZYZz9nozpy17cZGrZPii7dAKu9a3WSt4IbmbmjEJLWnu24LCYeE~u9YuqXJnZGzTxJihqLCDqd7mhDCvTC4pLXyijyK1VxPBYamVCrTpVHZSXvWwvwzAlA-~HumBF~Ps7fdBK8HR1InwPyl6BC4TZvdbkhyYN7nDH7u5tfXgn2pyZrSqjLgdIbu68~3DAXXx1FzGJeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Para mí, un café, por favor.</div>\n  <div style=\"opacity: 0.45;\">Para mim, um café, por favor.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fd6477da666c48dca0d380cbdafff505_b03-cafe-por-favor.mp3?Expires=1794099496&Signature=L5Mob6GgwjWQ3yD16C-zu8lHmE4Rf6pa3S-We~n2SvJfG9IvOVbuxZ98b2werkCcQdHRX09QPHWsy0NvNwZzHtHbg-bqo9AhlDglNOGrsl~9rhCEqDw6~ORBlOq1tEj2hLFHEm3aserumUExXftHSpbN60p7itnFzXHjarORl~3tCUvagOHZEWRVCa3ZMmjcBY7jagXIO4Ltk25Sl3YX8kTZAd-K08N2d0taKzV3kt3-E7nyz-jYfmrFXrhltGf2yeRmWY0nwqEhmWPnNsQS5ns2-SRDAadTxhszzxbCcCNVtiO0U~lV8rvJUZTj4555ksi3cwRWCA2h7ecCzcc8Lw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Un refresco de naranja, por favor.</div>\n  <div style=\"opacity: 0.45;\">Um refrigerante de laranja, por favor.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/34cde660ebf147ee87e8be378fc099fe_b05-refresco-de-naranja.mp3?Expires=1794099496&Signature=1LAF-0HDdZdVouhB~Zx9CHenNaufnlrdJ6Tm9zsaRKR6uGvRRT8tsK96oQAEnNd0mbABRnjT2LlAgZjGoXaARhhE0i52pMWr3Ujg8relPvxitteqMvQ2dYrylK1gXoU3QIQ-28GAhRh340ZLrC5THQyYnDAZRYJ~QwbbtCEEmZNy-U~abFIIfQwijPXH3FRX8kzG5Aamcv2v1hhl3tl2b2vFfPzoxODC9yI6t8ubqImtFA2zUuOq1ZZEwqlxZTv1Ms7ifZ~XJ36cIRDLqGUVAILCDqZlZUs2RIp72ZICfgGiFK0gPzJ-qP6oOlcfrRlnjq5XsPwM6QsJB7xQR9ppXg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Una ración de papas fritas, por favor.</div>\n  <div style=\"opacity: 0.45;\">Uma porção de batatas fritas, por favor.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5c910ad1c5ab427e96213fabb22b8d30_b07-racion-de-papas-fritas.mp3?Expires=1794099496&Signature=kBVZzuSjk2t6i6jG0WF1H~14kgtfYZqEsQljyE-tGcYxdBBY47C57BX6g3NDtasFYoVeA2kj12NXQxd8v66Onm0moJmIAGjRT5WFknlxd4qbh1gHIjfJXH1S3nao1YWrekcX~oF4etHxYm2ucLjAXtCxxRkNK9QT-npwKes6AgSNu-DGEXfI0xBV6rMuFlox3zZ~-jRta9VS1HYyEmy40TcaoQ~ebJQ~s~qNAJSsWyleYeLZDW0eJ75TGN-NLlghyND007eX~gBqPlHpvRASFvTACFaEx0UDbW58UnQx2f~NL0JvOzBUouTD9C22nC0I6Ij0J4TE~oG8VlbvG1okxQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "d50739ca-f8f3-4e7a-b3b6-3d82dbab712c",
+      "title": "Leia o resumo final e imagine qual dessas frases você usaria primeiro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "2f46bfab-e248-45c9-b9eb-068c6342e877",
+          "textContent": "<p>Em um bar ou restaurante, o pedido pode começar com <strong>¿Qué le pongo?</strong></p><p>Depois disso, frases curtas como <strong>Para mí, un café, por favor.</strong>, <strong>Un refresco de naranja, por favor.</strong> e <strong>Una ración de papas fritas, por favor.</strong> já resolvem uma situação real de mesa.</p><p>Com esse repertório, você consegue pedir bebida e comida com apoio mínimo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "c489803f-2c07-484f-8efc-3242ad5af4e3",
+      "title": "Escolha o pedido correto",
+      "content": "<p>Recupere a resposta curta usada para pedir um café quando o atendente abre o pedido.</p>",
+      "contentPlain": "Recupere a resposta curta usada para pedir um café quando o atendente abre o pedido.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula junta ¿Qué le pongo? com pedidos curtos de bebida e comida.",
+      "feedbackError": "O diálogo da aula junta ¿Qué le pongo? com pedidos curtos de bebida e comida.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "02fb2fca-828f-43ee-af36-e33cacaf6c40",
+          "textContent": "Para mí, un café, por favor.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c489803f-2c07-484f-8efc-3242ad5af4e3"
+        },
+        {
+          "id": "93dbc4dd-2850-447f-9d8a-c28c1e069e94",
+          "textContent": "Un refresco de naranja, por favor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c489803f-2c07-484f-8efc-3242ad5af4e3"
+        },
+        {
+          "id": "ac578f4c-fead-4d4d-ab9c-d6d4de941d8a",
+          "textContent": "Una ración de papas fritas, por favor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c489803f-2c07-484f-8efc-3242ad5af4e3"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c423eebe-5d09-45df-837f-7461879be992",
+      "title": "Escute e associe os pedidos",
+      "content": "<p>Use os áudios já vistos para ligar som e escrita dos pedidos de bebida e comida.</p>",
+      "contentPlain": "Use os áudios já vistos para ligar som e escrita dos pedidos de bebida e comida.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ligar o som aos três pedidos curtos trabalhados na aula.",
+      "feedbackError": "Aqui o foco é ligar o som aos três pedidos curtos trabalhados na aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "71196f3e-ea58-4ee4-8ee5-56e82b3b3ca6",
+          "exerciseId": "c423eebe-5d09-45df-837f-7461879be992",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fd6477da666c48dca0d380cbdafff505_b03-cafe-por-favor.mp3?Expires=1794099496&Signature=L5Mob6GgwjWQ3yD16C-zu8lHmE4Rf6pa3S-We~n2SvJfG9IvOVbuxZ98b2werkCcQdHRX09QPHWsy0NvNwZzHtHbg-bqo9AhlDglNOGrsl~9rhCEqDw6~ORBlOq1tEj2hLFHEm3aserumUExXftHSpbN60p7itnFzXHjarORl~3tCUvagOHZEWRVCa3ZMmjcBY7jagXIO4Ltk25Sl3YX8kTZAd-K08N2d0taKzV3kt3-E7nyz-jYfmrFXrhltGf2yeRmWY0nwqEhmWPnNsQS5ns2-SRDAadTxhszzxbCcCNVtiO0U~lV8rvJUZTj4555ksi3cwRWCA2h7ecCzcc8Lw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Para mí, un café, por favor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7456d383-250f-4cf0-a00c-ba4c9378ca38",
+          "exerciseId": "c423eebe-5d09-45df-837f-7461879be992",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/34cde660ebf147ee87e8be378fc099fe_b05-refresco-de-naranja.mp3?Expires=1794099496&Signature=1LAF-0HDdZdVouhB~Zx9CHenNaufnlrdJ6Tm9zsaRKR6uGvRRT8tsK96oQAEnNd0mbABRnjT2LlAgZjGoXaARhhE0i52pMWr3Ujg8relPvxitteqMvQ2dYrylK1gXoU3QIQ-28GAhRh340ZLrC5THQyYnDAZRYJ~QwbbtCEEmZNy-U~abFIIfQwijPXH3FRX8kzG5Aamcv2v1hhl3tl2b2vFfPzoxODC9yI6t8ubqImtFA2zUuOq1ZZEwqlxZTv1Ms7ifZ~XJ36cIRDLqGUVAILCDqZlZUs2RIp72ZICfgGiFK0gPzJ-qP6oOlcfrRlnjq5XsPwM6QsJB7xQR9ppXg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Un refresco de naranja, por favor.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b9fbfa47-09a4-4bac-ab24-9e5c0cda65c4",
+          "exerciseId": "c423eebe-5d09-45df-837f-7461879be992",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5c910ad1c5ab427e96213fabb22b8d30_b07-racion-de-papas-fritas.mp3?Expires=1794099496&Signature=kBVZzuSjk2t6i6jG0WF1H~14kgtfYZqEsQljyE-tGcYxdBBY47C57BX6g3NDtasFYoVeA2kj12NXQxd8v66Onm0moJmIAGjRT5WFknlxd4qbh1gHIjfJXH1S3nao1YWrekcX~oF4etHxYm2ucLjAXtCxxRkNK9QT-npwKes6AgSNu-DGEXfI0xBV6rMuFlox3zZ~-jRta9VS1HYyEmy40TcaoQ~ebJQ~s~qNAJSsWyleYeLZDW0eJ75TGN-NLlghyND007eX~gBqPlHpvRASFvTACFaEx0UDbW58UnQx2f~NL0JvOzBUouTD9C22nC0I6Ij0J4TE~oG8VlbvG1okxQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Una ración de papas fritas, por favor.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "afe5f507-6715-492d-a310-44f038320361",
+      "title": "Identifique as palavras do pedido",
+      "content": "<p>Escute o pedido da bebida e marque somente as palavras que você realmente ouve.</p>",
+      "contentPlain": "Escute o pedido da bebida e marque somente as palavras que você realmente ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/34cde660ebf147ee87e8be378fc099fe_b05-refresco-de-naranja.mp3?Expires=1794099496&Signature=1LAF-0HDdZdVouhB~Zx9CHenNaufnlrdJ6Tm9zsaRKR6uGvRRT8tsK96oQAEnNd0mbABRnjT2LlAgZjGoXaARhhE0i52pMWr3Ujg8relPvxitteqMvQ2dYrylK1gXoU3QIQ-28GAhRh340ZLrC5THQyYnDAZRYJ~QwbbtCEEmZNy-U~abFIIfQwijPXH3FRX8kzG5Aamcv2v1hhl3tl2b2vFfPzoxODC9yI6t8ubqImtFA2zUuOq1ZZEwqlxZTv1Ms7ifZ~XJ36cIRDLqGUVAILCDqZlZUs2RIp72ZICfgGiFK0gPzJ-qP6oOlcfrRlnjq5XsPwM6QsJB7xQR9ppXg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Com refresco de naranja, a aula amplia as respostas possíveis depois de ¿Qué le pongo?.",
+      "feedbackError": "Com refresco de naranja, a aula amplia as respostas possíveis depois de ¿Qué le pongo?.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0a718f2f-407e-45d1-9672-644847116f7b",
+          "textContent": "favor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "afe5f507-6715-492d-a310-44f038320361"
+        },
+        {
+          "id": "12437030-20fc-49fd-8f20-84ccfb4d1391",
+          "textContent": "ración",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "afe5f507-6715-492d-a310-44f038320361"
+        },
+        {
+          "id": "1ad985be-4842-4724-ba9c-f6488947973b",
+          "textContent": "por",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "afe5f507-6715-492d-a310-44f038320361"
+        },
+        {
+          "id": "24de634c-28d0-4c5c-b08a-a2d0387d781f",
+          "textContent": "refresco",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "afe5f507-6715-492d-a310-44f038320361"
+        },
+        {
+          "id": "275e9b99-c8a0-4ab5-9b1f-41d17c99c801",
+          "textContent": "naranja",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "afe5f507-6715-492d-a310-44f038320361"
+        },
+        {
+          "id": "88abacb9-bdfb-40db-bbe3-0ed55869a0a2",
+          "textContent": "café",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "afe5f507-6715-492d-a310-44f038320361"
+        },
+        {
+          "id": "a7e10733-1e14-4eb2-8323-64a22b5c9a41",
+          "textContent": "un",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "afe5f507-6715-492d-a310-44f038320361"
+        },
+        {
+          "id": "cc4983c0-2477-4e15-a37d-e6b94bb57588",
+          "textContent": "papas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "afe5f507-6715-492d-a310-44f038320361"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "72fcea33-7818-4e54-9bc0-7b7a8df76ff3",
+      "title": "Ligue a frase ao uso",
+      "content": "<p>Relacione o repertório final da aula ao papel que cada frase cumpre na situação de bar ou restaurante.</p>",
+      "contentPlain": "Relacione o repertório final da aula ao papel que cada frase cumpre na situação de bar ou restaurante.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final organiza a pergunta do atendente e três respostas úteis para um pedido real.",
+      "feedbackError": "O recap final organiza a pergunta do atendente e três respostas úteis para um pedido real.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6832609e-43c6-4273-83eb-f78a9a3b776a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "72fcea33-7818-4e54-9bc0-7b7a8df76ff3"
+        },
+        {
+          "id": "7ae1b8d1-551d-425c-bf1a-3333f69f4202",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "72fcea33-7818-4e54-9bc0-7b7a8df76ff3"
+        }
+      ],
+      "associations": [
+        {
+          "id": "27ccf298-9b70-455d-91a1-b1c050cbd84e",
+          "exerciseId": "72fcea33-7818-4e54-9bc0-7b7a8df76ff3",
+          "leftContent": "¿Qué le pongo?",
+          "rightContent": "pergunta do atendente para abrir o pedido",
+          "sequenceItem": 1
+        },
+        {
+          "id": "24fac0d6-1488-4aaf-954c-b929bac3bded",
+          "exerciseId": "72fcea33-7818-4e54-9bc0-7b7a8df76ff3",
+          "leftContent": "Para mí, un café, por favor.",
+          "rightContent": "pedir um café",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d3fcf7f5-f089-4037-a673-291b3211d20e",
+          "exerciseId": "72fcea33-7818-4e54-9bc0-7b7a8df76ff3",
+          "leftContent": "Un refresco de naranja, por favor.",
+          "rightContent": "pedir um refrigerante de laranja",
+          "sequenceItem": 3
+        },
+        {
+          "id": "51547146-83f1-430c-9ca1-7dd484f3ca50",
+          "exerciseId": "72fcea33-7818-4e54-9bc0-7b7a8df76ff3",
+          "leftContent": "Una ración de papas fritas, por favor.",
+          "rightContent": "pedido de comida para a mesa",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "98790a01-5424-4920-80e2-e2d1ab47b87b",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta o pedido de comida.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta o pedido de comida.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5c910ad1c5ab427e96213fabb22b8d30_b07-racion-de-papas-fritas.mp3?Expires=1794099496&Signature=kBVZzuSjk2t6i6jG0WF1H~14kgtfYZqEsQljyE-tGcYxdBBY47C57BX6g3NDtasFYoVeA2kj12NXQxd8v66Onm0moJmIAGjRT5WFknlxd4qbh1gHIjfJXH1S3nao1YWrekcX~oF4etHxYm2ucLjAXtCxxRkNK9QT-npwKes6AgSNu-DGEXfI0xBV6rMuFlox3zZ~-jRta9VS1HYyEmy40TcaoQ~ebJQ~s~qNAJSsWyleYeLZDW0eJ75TGN-NLlghyND007eX~gBqPlHpvRASFvTACFaEx0UDbW58UnQx2f~NL0JvOzBUouTD9C22nC0I6Ij0J4TE~oG8VlbvG1okxQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A prática oral ativa um pedido curto de comida útil em bar ou mesa informal.",
+      "feedbackError": "A prática oral ativa um pedido curto de comida útil em bar ou mesa informal.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Una ración de papas fritas, por favor.",
+      "typeSpecificData": "{\"expectedText\":\"Una raci\\u00F3n de papas fritas, por favor.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/5c910ad1c5ab427e96213fabb22b8d30_b07-racion-de-papas-fritas.mp3?Expires=1794099496\\u0026Signature=kBVZzuSjk2t6i6jG0WF1H~14kgtfYZqEsQljyE-tGcYxdBBY47C57BX6g3NDtasFYoVeA2kj12NXQxd8v66Onm0moJmIAGjRT5WFknlxd4qbh1gHIjfJXH1S3nao1YWrekcX~oF4etHxYm2ucLjAXtCxxRkNK9QT-npwKes6AgSNu-DGEXfI0xBV6rMuFlox3zZ~-jRta9VS1HYyEmy40TcaoQ~ebJQ~s~qNAJSsWyleYeLZDW0eJ75TGN-NLlghyND007eX~gBqPlHpvRASFvTACFaEx0UDbW58UnQx2f~NL0JvOzBUouTD9C22nC0I6Ij0J4TE~oG8VlbvG1okxQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "36e9053d-6ca6-4937-a0a3-f48accb074c8",
+      "title": "Complete a pergunta do atendente",
+      "content": "<p>¿Qué le _____?</p><p>Tradução: O que vai querer?</p>",
+      "contentPlain": "¿Qué le _____? Tradução: O que vai querer?",
+      "fileUrl": null,
+      "feedbackSuccess": "¿Qué le pongo? é a fórmula curta que abre o pedido nesta aula.",
+      "feedbackError": "¿Qué le pongo? é a fórmula curta que abre o pedido nesta aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pongo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d2c71e07-2c61-4938-bdba-53c778b9d7d3",
+      "title": "Recupere as palavras do pedido",
+      "content": "<p>Agora o apoio é menor. Escute o pedido completo e marque só as palavras realmente ouvidas.</p>",
+      "contentPlain": "Agora o apoio é menor. Escute o pedido completo e marque só as palavras realmente ouvidas.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fd6477da666c48dca0d380cbdafff505_b03-cafe-por-favor.mp3?Expires=1794099496&Signature=L5Mob6GgwjWQ3yD16C-zu8lHmE4Rf6pa3S-We~n2SvJfG9IvOVbuxZ98b2werkCcQdHRX09QPHWsy0NvNwZzHtHbg-bqo9AhlDglNOGrsl~9rhCEqDw6~ORBlOq1tEj2hLFHEm3aserumUExXftHSpbN60p7itnFzXHjarORl~3tCUvagOHZEWRVCa3ZMmjcBY7jagXIO4Ltk25Sl3YX8kTZAd-K08N2d0taKzV3kt3-E7nyz-jYfmrFXrhltGf2yeRmWY0nwqEhmWPnNsQS5ns2-SRDAadTxhszzxbCcCNVtiO0U~lV8rvJUZTj4555ksi3cwRWCA2h7ecCzcc8Lw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Para mí, un café, por favor. mostra um pedido curto pronto para reutilizar.",
+      "feedbackError": "Para mí, un café, por favor. mostra um pedido curto pronto para reutilizar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "163d35f0-9392-44ff-b9c7-d5576c50e408",
+          "textContent": "mí",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d2c71e07-2c61-4938-bdba-53c778b9d7d3"
+        },
+        {
+          "id": "388d906d-d491-4b71-af7d-5adfb3c1be74",
+          "textContent": "pongo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d2c71e07-2c61-4938-bdba-53c778b9d7d3"
+        },
+        {
+          "id": "4ac1b75d-828a-4942-85a8-a96579ec26ce",
+          "textContent": "un",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d2c71e07-2c61-4938-bdba-53c778b9d7d3"
+        },
+        {
+          "id": "55ab45db-bbe2-4751-9f30-d6dfa86cf74e",
+          "textContent": "favor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d2c71e07-2c61-4938-bdba-53c778b9d7d3"
+        },
+        {
+          "id": "571ea4c0-8cbc-4adb-b864-416b3a907ba1",
+          "textContent": "refresco",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d2c71e07-2c61-4938-bdba-53c778b9d7d3"
+        },
+        {
+          "id": "6491fd3a-149a-47ca-9c0d-2158d06afc1f",
+          "textContent": "ración",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d2c71e07-2c61-4938-bdba-53c778b9d7d3"
+        },
+        {
+          "id": "be43b7f1-5e54-40ce-b0ee-8e805a28ee5a",
+          "textContent": "por",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d2c71e07-2c61-4938-bdba-53c778b9d7d3"
+        },
+        {
+          "id": "ec3a73c8-131a-4ad3-b2d9-ede9b33f1cea",
+          "textContent": "café",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d2c71e07-2c61-4938-bdba-53c778b9d7d3"
+        },
+        {
+          "id": "f174ee78-9dcc-40fa-bc24-cce422a6577b",
+          "textContent": "para",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d2c71e07-2c61-4938-bdba-53c778b9d7d3"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d9ead326-afc6-4f8a-821c-046e8b114253",
+      "title": "Complete o nome da bebida",
+      "content": "<p>Un ________ de naranja, por favor.</p><p>Tradução: Um refrigerante de laranja, por favor.</p>",
+      "contentPlain": "Un ________ de naranja, por favor. Tradução: Um refrigerante de laranja, por favor.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa refresco para pedir uma bebida sem álcool de forma direta.",
+      "feedbackError": "A aula usa refresco para pedir uma bebida sem álcool de forma direta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "refresco",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "870c0135-ccee-4283-8031-13c077a6e659",
+      "title": "Recupere a sequência pelo áudio",
+      "content": "<p>Associe a pergunta do atendente e três respostas da aula às frases completas em espanhol.</p>",
+      "contentPlain": "Associe a pergunta do atendente e três respostas da aula às frases completas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula junta a abertura do atendimento com pedidos curtos de bebida e comida.",
+      "feedbackError": "O diálogo da aula junta a abertura do atendimento com pedidos curtos de bebida e comida.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "42ebb1cf-58e8-4161-8100-9dadea9cc092",
+          "exerciseId": "870c0135-ccee-4283-8031-13c077a6e659",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/dfd269ea5b954a1687f9c9e3aa50f8bd_b01-que-le-pongo.mp3?Expires=1794099496&Signature=KL88gPiokRx4SMmR-~OSNtzClszHJGtjLd0JOjeJwyqf21krS9q0ZER0htZjGQkhcJzxbt33fXQ2JaKGlz7WqJFfYfPUs00SmomUN3Zh8pZhBOyp5yx3V-Heq1fCYzC5aEwRiA~u0LlrXFLZYZz9nozpy17cZGrZPii7dAKu9a3WSt4IbmbmjEJLWnu24LCYeE~u9YuqXJnZGzTxJihqLCDqd7mhDCvTC4pLXyijyK1VxPBYamVCrTpVHZSXvWwvwzAlA-~HumBF~Ps7fdBK8HR1InwPyl6BC4TZvdbkhyYN7nDH7u5tfXgn2pyZrSqjLgdIbu68~3DAXXx1FzGJeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué le pongo?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "102515be-3a77-48a7-ab4e-74b8cda569a3",
+          "exerciseId": "870c0135-ccee-4283-8031-13c077a6e659",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fd6477da666c48dca0d380cbdafff505_b03-cafe-por-favor.mp3?Expires=1794099496&Signature=L5Mob6GgwjWQ3yD16C-zu8lHmE4Rf6pa3S-We~n2SvJfG9IvOVbuxZ98b2werkCcQdHRX09QPHWsy0NvNwZzHtHbg-bqo9AhlDglNOGrsl~9rhCEqDw6~ORBlOq1tEj2hLFHEm3aserumUExXftHSpbN60p7itnFzXHjarORl~3tCUvagOHZEWRVCa3ZMmjcBY7jagXIO4Ltk25Sl3YX8kTZAd-K08N2d0taKzV3kt3-E7nyz-jYfmrFXrhltGf2yeRmWY0nwqEhmWPnNsQS5ns2-SRDAadTxhszzxbCcCNVtiO0U~lV8rvJUZTj4555ksi3cwRWCA2h7ecCzcc8Lw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Para mí, un café, por favor.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f5ed6200-3944-4e7d-b87e-e59fa469f281",
+          "exerciseId": "870c0135-ccee-4283-8031-13c077a6e659",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/34cde660ebf147ee87e8be378fc099fe_b05-refresco-de-naranja.mp3?Expires=1794099496&Signature=1LAF-0HDdZdVouhB~Zx9CHenNaufnlrdJ6Tm9zsaRKR6uGvRRT8tsK96oQAEnNd0mbABRnjT2LlAgZjGoXaARhhE0i52pMWr3Ujg8relPvxitteqMvQ2dYrylK1gXoU3QIQ-28GAhRh340ZLrC5THQyYnDAZRYJ~QwbbtCEEmZNy-U~abFIIfQwijPXH3FRX8kzG5Aamcv2v1hhl3tl2b2vFfPzoxODC9yI6t8ubqImtFA2zUuOq1ZZEwqlxZTv1Ms7ifZ~XJ36cIRDLqGUVAILCDqZlZUs2RIp72ZICfgGiFK0gPzJ-qP6oOlcfrRlnjq5XsPwM6QsJB7xQR9ppXg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Un refresco de naranja, por favor.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "eeab4f32-9caf-495a-b833-78a05c2711d9",
+          "exerciseId": "870c0135-ccee-4283-8031-13c077a6e659",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5c910ad1c5ab427e96213fabb22b8d30_b07-racion-de-papas-fritas.mp3?Expires=1794099496&Signature=kBVZzuSjk2t6i6jG0WF1H~14kgtfYZqEsQljyE-tGcYxdBBY47C57BX6g3NDtasFYoVeA2kj12NXQxd8v66Onm0moJmIAGjRT5WFknlxd4qbh1gHIjfJXH1S3nao1YWrekcX~oF4etHxYm2ucLjAXtCxxRkNK9QT-npwKes6AgSNu-DGEXfI0xBV6rMuFlox3zZ~-jRta9VS1HYyEmy40TcaoQ~ebJQ~s~qNAJSsWyleYeLZDW0eJ75TGN-NLlghyND007eX~gBqPlHpvRASFvTACFaEx0UDbW58UnQx2f~NL0JvOzBUouTD9C22nC0I6Ij0J4TE~oG8VlbvG1okxQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Una ración de papas fritas, por favor.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "f6eb3b14-6711-402d-bd47-27c51c80e197",
+      "title": "Complete a palavra da porção",
+      "content": "<p>Una ______ de papas fritas, por favor.</p><p>Tradução: Uma porção de batatas fritas, por favor.</p>",
+      "contentPlain": "Una ______ de papas fritas, por favor. Tradução: Uma porção de batatas fritas, por favor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Una ración aparece na aula como forma útil de pedir comida para a mesa.",
+      "feedbackError": "Una ración aparece na aula como forma útil de pedir comida para a mesa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ración",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Pedir comida e bebida"
+}

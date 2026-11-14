@@ -1,0 +1,615 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+    "attemptId": "40dbc79b-a7eb-498e-b242-bd68de8aebea",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "f7e51ac3-7f7f-4504-a315-c05aa5325075",
+      "e72c7aeb-bae7-43c8-b8ab-02ce92c61aa9",
+      "171b7b53-878d-4c9f-bd69-c82f543ba441",
+      "cea44a45-9a0a-4e03-ad11-048ed1c62039",
+      "affdc43d-cbe2-4be3-8af1-e3a9c0c332e9"
+    ],
+    "evaluationExerciseIds": [
+      "dd48711e-5c34-4f19-8ca1-f28c5007a4f7",
+      "4e11726d-97bb-4bf9-a74d-db143614b2a0",
+      "2edc223d-1635-4481-a892-c552579068ae",
+      "c511a412-9bc3-43ea-82de-efcd7e3bc694",
+      "6d4329a3-79d0-41b5-a78d-516b29d9f1ec"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:47.5783143Z"
+  },
+  "contents": [
+    {
+      "id": "2844adc2-81f7-41fe-9ce8-e857af3692a0",
+      "title": "Leia a orientação curta antes de ver as palavras novas.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "37b0ef6b-5c10-475e-866d-a038b0b0bb8c",
+          "textContent": "<p>Nesta aula, você vai conhecer quatro palavras úteis para objetos do dia a dia.</p><p>Cada palavra aparece sozinha, com apoio curto, para manter a carga baixa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "05a11b06-6cea-4545-a14f-f13195afebf6",
+      "title": "Olhe a imagem, escute o áudio e observe a palavra em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "2950f0c3-5e32-440d-b5a4-8ac695bf78b0",
+          "textContent": "<p>Olhe, escute e leia.</p><p><strong>el móvil</strong></p><p>Em português: o celular.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f776fa15663f4608bc0d08c408aec4b5_b02-el-movil.png?Expires=1794099468&Signature=TO71lYS5zw0Fxbp9njYW7rUMkdX3sRzJUiVsLHGsLDvgwN2Yky7Q1~henQtUOf1ansvaeNwtPDDLcaVh3c2evJ0V~FQ7GmuHpq5Lx2kCpo7~m0ONKBiGPZO~idO3-RmWOr-2IzMHDgXnjttfYgmvm6CTUlxd7zYd3ZbdST58PEl8o8gwhZfxAKmmDbbYZuNU7f9UizvVMpaUHfQmVzF9GEdMpk9TE5rmh9IgS5zY-40gzOtY-v4WbCfXEB6BI1FTWxYN3JB3AoMP00hI18eru1aFBeKAdT0rycYQCIK-nb5eDS1Pzgu-NiW7pwup~1mDMJSVkWItZTIDv70oEM15mA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/991ced92ce0f4b1d9e0a2fac3ffc2970_b02-el-movil.mp3?Expires=1794099468&Signature=ufn3eUAjxIdRgWUtouRIMO3XuV57MhYte4UK~csib78s~Qr3YWez7FJ3FQdPzH0lFs~5m8sm8dSeTbUL9RqCInSV0~LmHKTEFufdwCzZaV6kajN0OUWciK~aliocaxnxsIAmefReNlvedWKW4ej8ik2fK2jNY4-263jz-4Q4Z2pO0Fnd7u-KREDAmI1LbxVTnonikDsgbL60pR2Wbc1zVZviVIqF0qOV825EBvgRe2ba0hFwDjXJDvs3MJFC814SWCHHDC4zG201px1seEGhOjewyftouX9CNGSb-T1vTh0fJjfWpZeHtlEG3Z2tVDG8~PN0xJ8qCXcTGR1QLab0aA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "672a0e9c-4902-4a3f-8fe6-c029d394a634",
+      "title": "Leia a observação curta e conecte a palavra a uma situação real.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "67823e63-1b8b-4875-8c5d-034e7d0fce53",
+          "textContent": "<p>Use <strong>el móvil</strong> para falar do celular do dia a dia.</p><p>É a palavra que aparece quando o foco está no objeto: na mão, no bolso ou sobre a mesa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4e4ca9d4-b08c-42f0-93cc-8235c9b20abd",
+      "title": "Olhe a imagem, escute o áudio e observe a palavra em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "5a28f0a8-edf5-40b3-b4ea-42fe6286adab",
+          "textContent": "<p>Olhe, escute e leia.</p><p><strong>la cartera</strong></p><p>Em português: a carteira.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6c7d852bbd70405e9021af16f3b51369_b04-la-cartera.png?Expires=1794099468&Signature=odMkm-Ne3k-ZNmHpmpG3wo~63Ir0PD8n-cNiK1Ih-Ukxcuo6O6AlDd28mBw~L7RgHqNB9lsuATDQAeyDPdSIGps8vh0gpsNF26vwtmT2nW9mOhP8jwJdB2rDA65m69GnU5bDi7cgeE7o22eUkRbAh8iZwo4ttlbD9zlTEBJTKLRJAvOz8ONRLBh7TXeNU3zHs-L8iNH1xl6u8CX6LmisCQv-OwWggSdbuJA6iHU2wV6mdy-KCRtkPjLmLCks6gAXHtzV69Ab9grq2TITKVj~ixVwpX4FjXSgAgNgk70H6-L2v0FImEERNYapv-VONs9i3g5fchaFk7BjnLLPQiklYQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e53d96afa25e40b0a5eb5b66107643c5_b04-la-cartera.mp3?Expires=1794099468&Signature=ZQMOheHopoJSqLwLaVb6GxmGilBPqmUdKOiC8v9G7NXDSC2FboMTQka9Y8hPLVVtHmY74mOGi1IYPTDRrDQAeiwqvFdGCu1pcECuz6yr6mhg8cLi6xoR1iRe5FoaMX0CheoMZquyIJxXn-OhSWVypAab55aJVNSEyGbdyEYgmhbAGtqaJbhMlWrQDsYp15E0U0EKnWEcTpyPKSlDDjHHF4jAC04Kl~oYbkXVKTPl4hoSJkXptpPB8tBPlKsGfo1R0y3s~82K4rDCWmh-YLdeax4x4Q4Yh75H5N1xhGqSH-yvERSUOznwt9b9YLgbk3tsMdzMJ1ywROgskStyZ9LAnA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cb83cdfc-110e-493f-8270-9d47540a9cca",
+      "title": "Leia a observação e associe a palavra ao objeto do dia a dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "802ca5c2-b4b7-4d7d-9947-c221e05217e9",
+          "textContent": "<p><strong>la cartera</strong> é a carteira onde você guarda dinheiro, cartões ou documentos.</p><p>Aqui o foco é só nomear o objeto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "484d0e1e-89f0-4163-bb7b-ca7b2928650c",
+      "title": "Olhe a imagem, escute o áudio e observe a palavra em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "5b558bf2-d6ab-40d8-919c-bb5facedba3f",
+          "textContent": "<p>Olhe, escute e leia.</p><p><strong>las gafas</strong></p><p>Em português: os óculos.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9a28111ad9cb4da69e1eddb061580faf_b06-las-gafas.png?Expires=1794099468&Signature=STjDS7adbTOBBU9T0Sgqi3yBru8~2ZnBULxIjI0Xpb1ovu7Ca3yLqXsHzZvmMzfiPkdrx7-yfL6Lt-smAuNg6qRDW04GAWskUtHGgo6pW6JcAasl3iACTUwzG0GBOkC~CfFFMNnfXJNPYBzMDbPJ3j6CWrx11atEJ8Cfc5MvTT~7nzb2voI5WN-XZ1hfj7O1~vN3BJhoPtlK-8GZeQYDNJ2EVwFpEFUQWjJdDeY~k9Pn4fmInz810mwC8X1CktEAAgcvs12hVy~DES3v6y1Jf085kEcx-V7WMKEGeJHYSqsFll9DOh2yU2fFAH4sW7bL5GBwnTSZzKIA-e8ctibLGw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/67de105241bf407ea62be210264b5666_b06-las-gafas.mp3?Expires=1794099468&Signature=GUSgewr7euW~GFUty0TzGHeEeUfmWEtX9Iua7rIhJlI0Tc354HSZWeOG3e~j40xBfLtxsdW8Vn-mnWs7OQ~pFC51CyJJJb7ntxAU2sPK63196MFDD11XYdtXOR0MKe99z~54jWRQsZo38ldpmdPNbBcKyiaveNq~zzfp7~xcUjI8MCdWZ~ZQcVr~Q3VZmiyG8ZtvRl0zUsqO~tR-a2TLfnXdrBpe5qWdnFPsjoxEqZXj7oDjr5YreFBNpinkpemQHj0KSVSekSEvkitwkrFW5s1LHzh~GC-7YgbrFRANNsueJYVTanNwe0zbd2K9KF6LWITDWts9zatbKG5rrw8l6w__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8d688d68-5d84-44db-80f0-47d58c671ea3",
+      "title": "Leia a observação curta e repare em como a palavra costuma aparecer.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "81f13eb3-790e-4cda-9fca-d088f5872f83",
+          "textContent": "<p>Use <strong>las gafas</strong> para falar dos óculos.</p><p>A palavra já costuma aparecer no plural, mesmo quando você pensa em um par só.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4730f9dc-bdb3-41d0-ab1e-5f1b0c30a748",
+      "title": "Olhe a imagem, escute o áudio e observe a palavra em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "4a5612c3-1a07-4c36-8179-6192048c974e",
+          "textContent": "<p>Olhe, escute e leia.</p><p><strong>el periódico</strong></p><p>Em português: o jornal.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f4a40e1b99df4fb28da3d7cb13245c18_b08-el-periodico.png?Expires=1794099468&Signature=12ziPQTtg23J0r9JtO7OGhKQpghaVRB75gvddR-l~DkqtFUT7cisyJmK36DLdIQN7T862SJ1eapfzASO35aj0Y0GwhD9zobJLlRG7~3BBd~8uzpEnogdruEAUej~EAX9BU-uXyG8S9Li99dTOuwOhnAVUfnkkoTBpPHccDZ7l5nLg4oD5B4UKiYcPm3yhABdQ7oe-vqig5TnbNhtZUHRTDstBgUxT4KNdV8ERuuQpYMZ5LqjYlU4wPcs7qB-1r5fQLTE2asLqtWqzTDyyRsLkdt7~T4Mo8DMwc-RdbaR8jYbx0~sHwYB7A8QoDZz3rooQP9ZkuURAeYrajW8nvIMRQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/498e23cea9b14b9fb1201a64b0c618a7_b08-el-periodico.mp3?Expires=1794099468&Signature=JJhPJ7rykYPCFbXNSIg0hXvkbxv7cfx6iXJLCiokueBIxdd-wuLoByZxEXj002QcePbNttTEW1U8cqNXpQ9uRPme7V174Lph2yK9AHFP6s5LZJ7gc2V68mLO4E9NOrGB~FyQZFG8gBsAUTQS9wh6Iyn1EwDvMctlsI7I9xmR4yIvFx6FNI6SJSZcSvdFH-SzXHaQ4~DFBcf6YCORe-NBQSHyrDqhW3OrF0pOg1ALeMuMj~2yzk4ZweNIog1mjl4YlpnrX2C3fp572XLUL8FxOQjv0mfH73KHLA23~uWFLqHoKrdjW78TfnGBG46t1Pj2~R~-fZkBeztwcPtG8Pi80w__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1adf6b0e-8d8c-4d90-9c92-0362924aa04b",
+      "title": "Leia a observação curta e associe a palavra a uma situação real.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "27b5bf8f-8476-4448-88b1-9c5f31e005c0",
+          "textContent": "<p><strong>el periódico</strong> é o jornal impresso.</p><p>Ele pode aparecer em situações simples, como ler no banco da praça ou no café da manhã.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "630b5024-75f6-4c84-b3fd-37dda681c604",
+      "title": "Leia o resumo final e conecte as palavras a uma situação real.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "7474a211-2a6d-448f-84b9-f86517784718",
+          "textContent": "<p>Na vida real, essas palavras ajudam quando você confere seus objetos antes de sair ou quando vê coisas sobre a mesa.</p><ul><li><strong>el móvil</strong></li><li><strong>la cartera</strong></li><li><strong>las gafas</strong></li><li><strong>el periódico</strong></li></ul><p>Esse repertório já permite reconhecer e nomear objetos cotidianos em espanhol.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "f7e51ac3-7f7f-4504-a315-c05aa5325075",
+      "title": "Relacione palavra e sentido",
+      "content": "<p>Ligue cada objeto em espanhol ao significado mais direto retomado no resumo final.</p>",
+      "contentPlain": "Ligue cada objeto em espanhol ao significado mais direto retomado no resumo final.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final junta quatro objetos cotidianos e ajuda a fixar seus sentidos básicos.",
+      "feedbackError": "O resumo final junta quatro objetos cotidianos e ajuda a fixar seus sentidos básicos.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2360ce31-6bb7-443d-bfab-efd73e3ee5b8",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f7e51ac3-7f7f-4504-a315-c05aa5325075"
+        },
+        {
+          "id": "dbaaab6b-deab-467b-933a-ac937588271c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f7e51ac3-7f7f-4504-a315-c05aa5325075"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ef2b4115-3f5d-4886-bb7c-24a030143b0f",
+          "exerciseId": "f7e51ac3-7f7f-4504-a315-c05aa5325075",
+          "leftContent": "el móvil",
+          "rightContent": "o celular",
+          "sequenceItem": 1
+        },
+        {
+          "id": "be3dab8b-3dcf-4f63-8299-f494aa86d13b",
+          "exerciseId": "f7e51ac3-7f7f-4504-a315-c05aa5325075",
+          "leftContent": "la cartera",
+          "rightContent": "a carteira",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ba6484ee-b44e-4dbe-89cb-8fc4ae55412e",
+          "exerciseId": "f7e51ac3-7f7f-4504-a315-c05aa5325075",
+          "leftContent": "las gafas",
+          "rightContent": "os óculos",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c7e33813-a464-473d-8289-d95cd92117bd",
+          "exerciseId": "f7e51ac3-7f7f-4504-a315-c05aa5325075",
+          "leftContent": "el periódico",
+          "rightContent": "o jornal impresso",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "e72c7aeb-bae7-43c8-b8ab-02ce92c61aa9",
+      "title": "Identifique as palavras do áudio",
+      "content": "<p>Escute o item da aula sem olhar a imagem e marque só as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute o item da aula sem olhar a imagem e marque só as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/67de105241bf407ea62be210264b5666_b06-las-gafas.mp3?Expires=1794099468&Signature=GUSgewr7euW~GFUty0TzGHeEeUfmWEtX9Iua7rIhJlI0Tc354HSZWeOG3e~j40xBfLtxsdW8Vn-mnWs7OQ~pFC51CyJJJb7ntxAU2sPK63196MFDD11XYdtXOR0MKe99z~54jWRQsZo38ldpmdPNbBcKyiaveNq~zzfp7~xcUjI8MCdWZ~ZQcVr~Q3VZmiyG8ZtvRl0zUsqO~tR-a2TLfnXdrBpe5qWdnFPsjoxEqZXj7oDjr5YreFBNpinkpemQHj0KSVSekSEvkitwkrFW5s1LHzh~GC-7YgbrFRANNsueJYVTanNwe0zbd2K9KF6LWITDWts9zatbKG5rrw8l6w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, las gafas nomeia o par de óculos e reforça um item que já costuma aparecer no plural.",
+      "feedbackError": "Nesta aula, las gafas nomeia o par de óculos e reforça um item que já costuma aparecer no plural.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "00c2811a-d015-4c72-a910-be49811a4353",
+          "textContent": "periódico",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e72c7aeb-bae7-43c8-b8ab-02ce92c61aa9"
+        },
+        {
+          "id": "2f51203a-783b-4b60-ae3a-96b054d48703",
+          "textContent": "gafas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e72c7aeb-bae7-43c8-b8ab-02ce92c61aa9"
+        },
+        {
+          "id": "a8bd75ea-54ea-4bf3-87c0-c0e73810b371",
+          "textContent": "cartera",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e72c7aeb-bae7-43c8-b8ab-02ce92c61aa9"
+        },
+        {
+          "id": "de1e3156-1e26-4234-a487-e017e7c83301",
+          "textContent": "las",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e72c7aeb-bae7-43c8-b8ab-02ce92c61aa9"
+        },
+        {
+          "id": "e162e1f4-f4ba-4a0f-a4f1-1e60bd2d546b",
+          "textContent": "el",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e72c7aeb-bae7-43c8-b8ab-02ce92c61aa9"
+        },
+        {
+          "id": "e95b63a5-82ac-4f25-9c3a-bf7e025f7abe",
+          "textContent": "móvil",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e72c7aeb-bae7-43c8-b8ab-02ce92c61aa9"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "171b7b53-878d-4c9f-bd69-c82f543ba441",
+      "title": "Escute e associe os quatro objetos",
+      "content": "<p>Use os áudios já vistos na aula para recuperar as quatro formas em espanhol sem apoio de imagem.</p>",
+      "contentPlain": "Use os áudios já vistos na aula para recuperar as quatro formas em espanhol sem apoio de imagem.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ligar som e escrita nas quatro palavras centrais da aula.",
+      "feedbackError": "Aqui o foco é ligar som e escrita nas quatro palavras centrais da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "2a525ab2-7550-470f-b020-662613f28708",
+          "exerciseId": "171b7b53-878d-4c9f-bd69-c82f543ba441",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/991ced92ce0f4b1d9e0a2fac3ffc2970_b02-el-movil.mp3?Expires=1794099468&Signature=ufn3eUAjxIdRgWUtouRIMO3XuV57MhYte4UK~csib78s~Qr3YWez7FJ3FQdPzH0lFs~5m8sm8dSeTbUL9RqCInSV0~LmHKTEFufdwCzZaV6kajN0OUWciK~aliocaxnxsIAmefReNlvedWKW4ej8ik2fK2jNY4-263jz-4Q4Z2pO0Fnd7u-KREDAmI1LbxVTnonikDsgbL60pR2Wbc1zVZviVIqF0qOV825EBvgRe2ba0hFwDjXJDvs3MJFC814SWCHHDC4zG201px1seEGhOjewyftouX9CNGSb-T1vTh0fJjfWpZeHtlEG3Z2tVDG8~PN0xJ8qCXcTGR1QLab0aA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "el móvil",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c7d64380-ed73-4f3e-8c6f-27af4b0be767",
+          "exerciseId": "171b7b53-878d-4c9f-bd69-c82f543ba441",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e53d96afa25e40b0a5eb5b66107643c5_b04-la-cartera.mp3?Expires=1794099468&Signature=ZQMOheHopoJSqLwLaVb6GxmGilBPqmUdKOiC8v9G7NXDSC2FboMTQka9Y8hPLVVtHmY74mOGi1IYPTDRrDQAeiwqvFdGCu1pcECuz6yr6mhg8cLi6xoR1iRe5FoaMX0CheoMZquyIJxXn-OhSWVypAab55aJVNSEyGbdyEYgmhbAGtqaJbhMlWrQDsYp15E0U0EKnWEcTpyPKSlDDjHHF4jAC04Kl~oYbkXVKTPl4hoSJkXptpPB8tBPlKsGfo1R0y3s~82K4rDCWmh-YLdeax4x4Q4Yh75H5N1xhGqSH-yvERSUOznwt9b9YLgbk3tsMdzMJ1ywROgskStyZ9LAnA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "la cartera",
+          "sequenceItem": 2
+        },
+        {
+          "id": "133dbbd9-8cc0-4b38-b278-bb2a722626fb",
+          "exerciseId": "171b7b53-878d-4c9f-bd69-c82f543ba441",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/67de105241bf407ea62be210264b5666_b06-las-gafas.mp3?Expires=1794099468&Signature=GUSgewr7euW~GFUty0TzGHeEeUfmWEtX9Iua7rIhJlI0Tc354HSZWeOG3e~j40xBfLtxsdW8Vn-mnWs7OQ~pFC51CyJJJb7ntxAU2sPK63196MFDD11XYdtXOR0MKe99z~54jWRQsZo38ldpmdPNbBcKyiaveNq~zzfp7~xcUjI8MCdWZ~ZQcVr~Q3VZmiyG8ZtvRl0zUsqO~tR-a2TLfnXdrBpe5qWdnFPsjoxEqZXj7oDjr5YreFBNpinkpemQHj0KSVSekSEvkitwkrFW5s1LHzh~GC-7YgbrFRANNsueJYVTanNwe0zbd2K9KF6LWITDWts9zatbKG5rrw8l6w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "las gafas",
+          "sequenceItem": 3
+        },
+        {
+          "id": "775de4ad-45d0-49af-9ec6-b95f6decd8b6",
+          "exerciseId": "171b7b53-878d-4c9f-bd69-c82f543ba441",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/498e23cea9b14b9fb1201a64b0c618a7_b08-el-periodico.mp3?Expires=1794099468&Signature=JJhPJ7rykYPCFbXNSIg0hXvkbxv7cfx6iXJLCiokueBIxdd-wuLoByZxEXj002QcePbNttTEW1U8cqNXpQ9uRPme7V174Lph2yK9AHFP6s5LZJ7gc2V68mLO4E9NOrGB~FyQZFG8gBsAUTQS9wh6Iyn1EwDvMctlsI7I9xmR4yIvFx6FNI6SJSZcSvdFH-SzXHaQ4~DFBcf6YCORe-NBQSHyrDqhW3OrF0pOg1ALeMuMj~2yzk4ZweNIog1mjl4YlpnrX2C3fp572XLUL8FxOQjv0mfH73KHLA23~uWFLqHoKrdjW78TfnGBG46t1Pj2~R~-fZkBeztwcPtG8Pi80w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "el periódico",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "cea44a45-9a0a-4e03-ad11-048ed1c62039",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta o item da aula.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta o item da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/498e23cea9b14b9fb1201a64b0c618a7_b08-el-periodico.mp3?Expires=1794099468&Signature=JJhPJ7rykYPCFbXNSIg0hXvkbxv7cfx6iXJLCiokueBIxdd-wuLoByZxEXj002QcePbNttTEW1U8cqNXpQ9uRPme7V174Lph2yK9AHFP6s5LZJ7gc2V68mLO4E9NOrGB~FyQZFG8gBsAUTQS9wh6Iyn1EwDvMctlsI7I9xmR4yIvFx6FNI6SJSZcSvdFH-SzXHaQ4~DFBcf6YCORe-NBQSHyrDqhW3OrF0pOg1ALeMuMj~2yzk4ZweNIog1mjl4YlpnrX2C3fp572XLUL8FxOQjv0mfH73KHLA23~uWFLqHoKrdjW78TfnGBG46t1Pj2~R~-fZkBeztwcPtG8Pi80w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A repetição curta ajuda a ativar el periódico como parte do vocabulário cotidiano da aula.",
+      "feedbackError": "A repetição curta ajuda a ativar el periódico como parte do vocabulário cotidiano da aula.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "el periódico",
+      "typeSpecificData": "{\"expectedText\":\"el peri\\u00F3dico\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/498e23cea9b14b9fb1201a64b0c618a7_b08-el-periodico.mp3?Expires=1794099468\\u0026Signature=JJhPJ7rykYPCFbXNSIg0hXvkbxv7cfx6iXJLCiokueBIxdd-wuLoByZxEXj002QcePbNttTEW1U8cqNXpQ9uRPme7V174Lph2yK9AHFP6s5LZJ7gc2V68mLO4E9NOrGB~FyQZFG8gBsAUTQS9wh6Iyn1EwDvMctlsI7I9xmR4yIvFx6FNI6SJSZcSvdFH-SzXHaQ4~DFBcf6YCORe-NBQSHyrDqhW3OrF0pOg1ALeMuMj~2yzk4ZweNIog1mjl4YlpnrX2C3fp572XLUL8FxOQjv0mfH73KHLA23~uWFLqHoKrdjW78TfnGBG46t1Pj2~R~-fZkBeztwcPtG8Pi80w__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "affdc43d-cbe2-4be3-8af1-e3a9c0c332e9",
+      "title": "Escolha o objeto da leitura",
+      "content": "<p>Qual palavra da aula nomeia o objeto impresso que alguém pode ler no café da manhã ou no banco da praça?</p>",
+      "contentPlain": "Qual palavra da aula nomeia o objeto impresso que alguém pode ler no café da manhã ou no banco da praça?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, el periódico aparece como o jornal impresso ligado a momentos simples de leitura.",
+      "feedbackError": "Na aula, el periódico aparece como o jornal impresso ligado a momentos simples de leitura.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "47f47e28-7d53-43c2-98b1-cb3b45076249",
+          "textContent": "las gafas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "affdc43d-cbe2-4be3-8af1-e3a9c0c332e9"
+        },
+        {
+          "id": "74644403-39d9-4650-8ccb-242c5052b2d9",
+          "textContent": "el móvil",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "affdc43d-cbe2-4be3-8af1-e3a9c0c332e9"
+        },
+        {
+          "id": "b1cb6814-c512-4c82-b103-7aa6d338ab66",
+          "textContent": "la cartera",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "affdc43d-cbe2-4be3-8af1-e3a9c0c332e9"
+        },
+        {
+          "id": "c32df518-dc95-45dc-a4a8-0a99f1066aa2",
+          "textContent": "el periódico",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "affdc43d-cbe2-4be3-8af1-e3a9c0c332e9"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "dd48711e-5c34-4f19-8ca1-f28c5007a4f7",
+      "title": "Complete o nome dos óculos",
+      "content": "<p>las _____</p><p>Tradução: os óculos</p>",
+      "contentPlain": "las _____ Tradução: os óculos",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, las gafas reforça um objeto cotidiano que normalmente já aparece no plural.",
+      "feedbackError": "Nesta aula, las gafas reforça um objeto cotidiano que normalmente já aparece no plural.",
+      "answerType": "buildWord",
+      "expectedAnswer": "gafas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4e11726d-97bb-4bf9-a74d-db143614b2a0",
+      "title": "Recupere o item do resumo",
+      "content": "<p>Agora sem imagem e sem tradução, escute o item retomado no fechamento da aula e marque só as palavras que você ouvir.</p>",
+      "contentPlain": "Agora sem imagem e sem tradução, escute o item retomado no fechamento da aula e marque só as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c9c3283d17cd4a0ba843b50647a70c71_b08-el-periodico.mp3?Expires=1794099468&Signature=gJJhXC2CYfIfvBi43B-r5Im3wqrIUQBKOsnKhCFJyLn3Jl~AgxjpUCEoOf-AKtr7~lT8z07bziL5JyzuyF-e94PSWmjAKTZ93pRvEGCXWRmEgfJeBXDUCp3hUl33Qx03DBFgQVjr4UVH-UEoPOGvrv8b96HilL9i50z6LV2f5bxgVXc8ljrxvNYj6bfPfNU0dQm2LC~Jc8Cva709KSzotUZr4zgm7LHBQVkpGM188rqS0CaN~VGnEJenw~e6ZoPoJNq68zwdpRuUxJ2NnYHb1DrX-DsHUQpYAIC6QIDBEsaQ-24spUTsQC1evR9z1zLijdGOZs2b3h3suk2-Wyj7zw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No fechamento da aula, el periódico entra no repertório de objetos que você reconhece no dia a dia.",
+      "feedbackError": "No fechamento da aula, el periódico entra no repertório de objetos que você reconhece no dia a dia.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "21c844d7-ff7d-41d4-bbef-a2da5647d4c3",
+          "textContent": "periódico",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4e11726d-97bb-4bf9-a74d-db143614b2a0"
+        },
+        {
+          "id": "2ef7f822-8937-4ab2-b79e-6c0a7b0cc4bd",
+          "textContent": "móvil",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4e11726d-97bb-4bf9-a74d-db143614b2a0"
+        },
+        {
+          "id": "54e4b3c2-9a09-4c93-848b-fb6206d9e51b",
+          "textContent": "gafas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4e11726d-97bb-4bf9-a74d-db143614b2a0"
+        },
+        {
+          "id": "d7d7c593-f4b3-434f-b17c-8de9abb51653",
+          "textContent": "la",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4e11726d-97bb-4bf9-a74d-db143614b2a0"
+        },
+        {
+          "id": "e0fc7a0c-afbe-4e8e-88d1-07f5d6ebe122",
+          "textContent": "el",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4e11726d-97bb-4bf9-a74d-db143614b2a0"
+        },
+        {
+          "id": "fdbbb7bc-2d8f-4c96-9031-454e064169c1",
+          "textContent": "cartera",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4e11726d-97bb-4bf9-a74d-db143614b2a0"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2edc223d-1635-4481-a892-c552579068ae",
+      "title": "Complete o nome da carteira",
+      "content": "<p>la _______</p><p>Tradução: a carteira</p>",
+      "contentPlain": "la _______ Tradução: a carteira",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, la cartera aparece como o objeto do dia a dia para guardar dinheiro e cartões.",
+      "feedbackError": "Nesta aula, la cartera aparece como o objeto do dia a dia para guardar dinheiro e cartões.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cartera",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c511a412-9bc3-43ea-82de-efcd7e3bc694",
+      "title": "Complete o nome do jornal",
+      "content": "<p>el _________</p><p>Tradução: o jornal impresso</p>",
+      "contentPlain": "el _________ Tradução: o jornal impresso",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, el periódico aparece como o objeto impresso associado a momentos simples de leitura.",
+      "feedbackError": "Nesta aula, el periódico aparece como o objeto impresso associado a momentos simples de leitura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "periódico",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "6d4329a3-79d0-41b5-a78d-516b29d9f1ec",
+      "title": "Complete o nome do celular",
+      "content": "<p>el _____</p><p>Tradução: o celular</p>",
+      "contentPlain": "el _____ Tradução: o celular",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, el móvil nomeia o celular em situações simples do dia a dia.",
+      "feedbackError": "Nesta aula, el móvil nomeia o celular em situações simples do dia a dia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "móvil",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "280a67f5-0977-429c-b1a4-74dd98878a8e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Falar de objetos cotidianos"
+}

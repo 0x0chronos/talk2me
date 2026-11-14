@@ -1,0 +1,585 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+    "attemptId": "fc0e73ad-ed43-4770-ac5c-afeb5af188eb",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "9be2527a-de27-49f2-8f4c-b4d3cc19cb20",
+      "09f57794-53ea-4838-9738-497bc5ec5274",
+      "50fa3b22-02da-4b70-b1af-6817b5900324",
+      "34cf4d19-9fa8-4a73-8086-434c7d0a0968",
+      "53324330-0496-43a6-829e-d001e4c520e1"
+    ],
+    "evaluationExerciseIds": [
+      "da47ca95-025c-4648-8735-48b82a8f9a40",
+      "ae563820-f369-4e65-a3f6-fc14364e581d",
+      "b5449eb2-c241-43d7-b270-796a48a2f629",
+      "7b00f009-f2c0-457e-ac16-ac5071a9eac1",
+      "7691e0b4-1e21-493c-a866-f4476a07223f"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:58:12.5393529Z"
+  },
+  "contents": [
+    {
+      "id": "39594c1e-8329-4544-970a-e00c9e2e920a",
+      "title": "Leia o foco da aula antes de ouvir as frases.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "dcd3469d-ba95-431a-bb62-7181fd77b745",
+          "textContent": "<p>Nesta aula, as frases continuam no tema das compras de comida.</p><p>Você vai ouvir respostas curtas para dizer <strong>o que compra</strong>, <strong>onde compra</strong> e <strong>quanto compra</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2df76ba5-3dc1-4d66-b73c-516691e7b67c",
+      "title": "Observe a imagem, escute a frase e ligue o som ao significado.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "141427ec-1139-4af7-be4e-94c2ab47682d",
+          "textContent": "<p>Observe a cena e escute a resposta.</p><p><strong>Compro pan en la panadería.</strong></p><p>Em português: <strong>Compro pão na padaria.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/cd20cba059cd464bb0a6df0be57645cf_b02-panaderia-contexto.png?Expires=1794099493&Signature=ntb5ESLKX~l9XPM5vOTveVo0jwqW10h~OIUJaa9QRJOAjZsyXvpMgGNFIE2lWuu0EZtKPS6-a~APCye82Cyd4-wJ1od0vRP233E-r4J00X-41M3Q3r9iiICFL~236eeb~0498iB7uy2k3CVM3K7pSmo6oUozo~eeq8jpnT2-TQruG9ONpq-jMm3NCDiPQefJ8qXaL2b1PcGkzVK062MMsvl4hQR7jP~gCTYL82EgF-m4G3dxcl9hFYEpUcoNdvA350eyz~l6yOg41SHVq-iIxuIbw4Md8USBQgJ2EtxBFtSDuttxGlfS3RmhU~AaJFXphpc06VGJfw-H93fVHyY5zQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/748c000f3ff64a389bce675152640891_b02-compro-pan-en-la-panaderia.mp3?Expires=1794099493&Signature=IkbfZGdihMbMVcofmEsAyuGWPE0qDu~2RBpenJ82ha-lWv74ttm3jSO9XxEgbuadGgvkv6kP9Qkjp3I0AgO7BQ28FsXP4tsWjqArmVCUpjj0yT2~iaRqzvWNe0QcqrjiXK0x82BTG8KZ1hjOKRn8VZMMpJxUTE7xJiqvmKo7q7~vqNe3aAFsFqo44E2jYresIkRkoKDD2XWlBo7tDlmwDua~M7haB21UzIwzyJDWS9rhvceSJSpMHYTAg96cV4hQb7nEqamQRmPtcZSBjIjDT8ud2zOwSJX1KLeS~rLjY5NEyH7L0F20faJSQYxeyNEmsjI5Lmld80PI6JEArRvcbg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fc2083d0-907e-4cf1-82b3-98b7b670a5be",
+      "title": "Observe como a frase organiza alimento e loja.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "cd8be048-b12f-4892-903e-2301632e4ca9",
+          "textContent": "<p><strong>Compro + alimento + en la + tienda</strong></p><p>Esse molde ajuda a montar uma resposta curta sobre compras.</p><p>Exemplo: <strong>Compro pan en la panadería.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7065e278-ba0b-4fe8-8240-cfaf8dfca6d6",
+      "title": "Escute a frase e observe a palavra que indica quantidade.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "4748250d-7eef-404a-b633-bb028b7199b3",
+          "textContent": "<p>Agora escute uma resposta com quantidade.</p><p><strong>Compro mucha fruta.</strong></p><p>Em português: <strong>Compro muita fruta.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/067e8813f1894ca5b0b4220b6addc644_b04-compro-mucha-fruta.mp3?Expires=1794099493&Signature=sEnU9RBQebfHcLnc1zVEcI3ZnZVd8OnTcjPmgRt~BVm89UUm7Ev6WrLbZN9lO~Od-oRguvacyxk43SkqSh8G0xCsgTuv42p6zRG4W~PLARFQOlvqZtwE3YkcDUdwrIacDdntaauZ-UezBcbvi4oDQBs0TIvVrltst8Dm2N23Mbx50AYuatpEzMCGUf9C-~RS4ho5b6GamX-5aBkK-FuQh5uJ7xVU9sp8Xv7nBVC1bclpD2-QKEtg692pPDFhBo1NyJ2MC1gDNxuzexTY9-SQWKH0TZZ4UGQWMFQXEJTPTo74jco7xPoXxGPC09UB8Plh1hsea~Uu7LaL~QiERilRlA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "012183f4-1511-4d31-bbeb-fc73c11bbe99",
+      "title": "Leia a nota curta e observe onde entra a palavra de quantidade.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "1a88a495-69cc-45bb-82d5-a2158bf547f4",
+          "textContent": "<p><strong>mucha</strong> entra antes do alimento e mostra quantidade.</p><p>Assim, <strong>Compro mucha fruta.</strong> fica mais específico do que só dizer <strong>Compro fruta.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c5572794-10a3-4e6e-9468-c8a001f08cef",
+      "title": "Troca curta sobre compras",
+      "description": "<p>Veja como as frases da aula entram em uma conversa bem curta.</p>",
+      "contentType": 7,
+      "sequenceItem": 6,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Qué compras hoy?</div>\n  <div style=\"opacity: 0.45;\">O que você compra hoje?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3af5650cb1704f1a97c4a5b15aa58153_b06-dialogo-q-que-compras-hoy.mp3?Expires=1794099493&Signature=krDB0bSn64S0H9jaMBlTxGil9KpNemfjBox8TxwvBEPtfyNHuSdt4wbPsFlQiYYdPt4dXMZlD0VCMFk3nLPnzzbtS1~TDpGLJbSIkfYgr3EcCvXkjznm8aRAH~JzIgW6yXKRi6G7PfdkrjuTZDppB~jrorD-GQW8siqCIYnBrQmAt~bUImSUVg3sAAmIP7~MxS5gAJdkVi3wqXav3R9cdlr-NUbxnG0hvm9KRixEHSuW4t8t6WhsuYrsn0usNcHLqgxQZ6aHFc97lb2rddvuesWzGS2JluQ8B8tgQ6pzdYjActSVWgKhn0S234b9Y2mRkovZihqih-y83nSS75cYGg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Compro pan en la panadería.</div>\n  <div style=\"opacity: 0.45;\">Compro pão na padaria.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/748c000f3ff64a389bce675152640891_b02-compro-pan-en-la-panaderia.mp3?Expires=1794099493&Signature=IkbfZGdihMbMVcofmEsAyuGWPE0qDu~2RBpenJ82ha-lWv74ttm3jSO9XxEgbuadGgvkv6kP9Qkjp3I0AgO7BQ28FsXP4tsWjqArmVCUpjj0yT2~iaRqzvWNe0QcqrjiXK0x82BTG8KZ1hjOKRn8VZMMpJxUTE7xJiqvmKo7q7~vqNe3aAFsFqo44E2jYresIkRkoKDD2XWlBo7tDlmwDua~M7haB21UzIwzyJDWS9rhvceSJSpMHYTAg96cV4hQb7nEqamQRmPtcZSBjIjDT8ud2zOwSJX1KLeS~rLjY5NEyH7L0F20faJSQYxeyNEmsjI5Lmld80PI6JEArRvcbg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Y qué compras en el mercado?</div>\n  <div style=\"opacity: 0.45;\">E o que você compra no mercado?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b59b2b636dfb4697bf88073139fd5ebb_b06-dialogo-q-que-compras-en-el-mercado.mp3?Expires=1794099493&Signature=zvqf8OoSJuC64wzKKUqURxVCumuHj4sv5kyB05BOaCBSDowyR4eG-D1CSdtvSAPyUNU3oAabzHf-T4kNmGwc~LGD~4zZDS3HLJAkETIzG~2WpaEW1V~0Lak6TYsRUSXJ-WdKN5e~4tK9TETnESflUS7jbqDDj~lIc21DlOHlGCwT2LfKeylrjgxJHOt~183O6pkXptxqq~j-7rAGVoKcvlgl2ZmihXWdx6~l2uIbZ8IhpM~NriaoKvH-dWRcMCvjX1t6Rqn5A1xUL8SEgD5R-44sA0MntX5xIeQBhK0KwktLzoSzKOjBl3VdEyHzI-~jRcvF6HjXrgkyd61r-RdzKg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Compro mucha fruta.</div>\n  <div style=\"opacity: 0.45;\">Compro muita fruta.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/067e8813f1894ca5b0b4220b6addc644_b04-compro-mucha-fruta.mp3?Expires=1794099493&Signature=sEnU9RBQebfHcLnc1zVEcI3ZnZVd8OnTcjPmgRt~BVm89UUm7Ev6WrLbZN9lO~Od-oRguvacyxk43SkqSh8G0xCsgTuv42p6zRG4W~PLARFQOlvqZtwE3YkcDUdwrIacDdntaauZ-UezBcbvi4oDQBs0TIvVrltst8Dm2N23Mbx50AYuatpEzMCGUf9C-~RS4ho5b6GamX-5aBkK-FuQh5uJ7xVU9sp8Xv7nBVC1bclpD2-QKEtg692pPDFhBo1NyJ2MC1gDNxuzexTY9-SQWKH0TZZ4UGQWMFQXEJTPTo74jco7xPoXxGPC09UB8Plh1hsea~Uu7LaL~QiERilRlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "c6d06974-f6ff-495c-9edc-4f84805ebb83",
+      "title": "Leia o resumo final e ligue as frases a compras do seu dia a dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "e4c6c0b2-4ab1-45e3-9aac-ea5c809e3d47",
+          "textContent": "<p>Na vida real, frases curtas já resolvem muita coisa.</p><p><strong>Compro pan en la panadería.</strong> ajuda a dizer o lugar da compra.</p><p><strong>Compro mucha fruta.</strong> ajuda a indicar quantidade quando você fala da compra da semana ou monta uma lista simples para casa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "9be2527a-de27-49f2-8f4c-b4d3cc19cb20",
+      "title": "Escute e combine o diálogo",
+      "content": "<p>Recupere o diálogo curto ligando cada áudio à frase correspondente em espanhol.</p>",
+      "contentPlain": "Recupere o diálogo curto ligando cada áudio à frase correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula alterna pergunta curta e resposta curta sobre compras.",
+      "feedbackError": "O diálogo da aula alterna pergunta curta e resposta curta sobre compras.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "bab755b5-1638-412d-9af9-8e47684bf21f",
+          "exerciseId": "9be2527a-de27-49f2-8f4c-b4d3cc19cb20",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3af5650cb1704f1a97c4a5b15aa58153_b06-dialogo-q-que-compras-hoy.mp3?Expires=1794099493&Signature=krDB0bSn64S0H9jaMBlTxGil9KpNemfjBox8TxwvBEPtfyNHuSdt4wbPsFlQiYYdPt4dXMZlD0VCMFk3nLPnzzbtS1~TDpGLJbSIkfYgr3EcCvXkjznm8aRAH~JzIgW6yXKRi6G7PfdkrjuTZDppB~jrorD-GQW8siqCIYnBrQmAt~bUImSUVg3sAAmIP7~MxS5gAJdkVi3wqXav3R9cdlr-NUbxnG0hvm9KRixEHSuW4t8t6WhsuYrsn0usNcHLqgxQZ6aHFc97lb2rddvuesWzGS2JluQ8B8tgQ6pzdYjActSVWgKhn0S234b9Y2mRkovZihqih-y83nSS75cYGg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué compras hoy?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0dade626-4319-4616-b69d-aa281bd8a8da",
+          "exerciseId": "9be2527a-de27-49f2-8f4c-b4d3cc19cb20",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/748c000f3ff64a389bce675152640891_b02-compro-pan-en-la-panaderia.mp3?Expires=1794099493&Signature=IkbfZGdihMbMVcofmEsAyuGWPE0qDu~2RBpenJ82ha-lWv74ttm3jSO9XxEgbuadGgvkv6kP9Qkjp3I0AgO7BQ28FsXP4tsWjqArmVCUpjj0yT2~iaRqzvWNe0QcqrjiXK0x82BTG8KZ1hjOKRn8VZMMpJxUTE7xJiqvmKo7q7~vqNe3aAFsFqo44E2jYresIkRkoKDD2XWlBo7tDlmwDua~M7haB21UzIwzyJDWS9rhvceSJSpMHYTAg96cV4hQb7nEqamQRmPtcZSBjIjDT8ud2zOwSJX1KLeS~rLjY5NEyH7L0F20faJSQYxeyNEmsjI5Lmld80PI6JEArRvcbg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Compro pan en la panadería.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "da705966-3653-4b2f-b96f-33857f8c8e68",
+          "exerciseId": "9be2527a-de27-49f2-8f4c-b4d3cc19cb20",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b59b2b636dfb4697bf88073139fd5ebb_b06-dialogo-q-que-compras-en-el-mercado.mp3?Expires=1794099493&Signature=zvqf8OoSJuC64wzKKUqURxVCumuHj4sv5kyB05BOaCBSDowyR4eG-D1CSdtvSAPyUNU3oAabzHf-T4kNmGwc~LGD~4zZDS3HLJAkETIzG~2WpaEW1V~0Lak6TYsRUSXJ-WdKN5e~4tK9TETnESflUS7jbqDDj~lIc21DlOHlGCwT2LfKeylrjgxJHOt~183O6pkXptxqq~j-7rAGVoKcvlgl2ZmihXWdx6~l2uIbZ8IhpM~NriaoKvH-dWRcMCvjX1t6Rqn5A1xUL8SEgD5R-44sA0MntX5xIeQBhK0KwktLzoSzKOjBl3VdEyHzI-~jRcvF6HjXrgkyd61r-RdzKg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Y qué compras en el mercado?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "485733c0-f489-4e02-9553-dc24e983e927",
+          "exerciseId": "9be2527a-de27-49f2-8f4c-b4d3cc19cb20",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/067e8813f1894ca5b0b4220b6addc644_b04-compro-mucha-fruta.mp3?Expires=1794099493&Signature=sEnU9RBQebfHcLnc1zVEcI3ZnZVd8OnTcjPmgRt~BVm89UUm7Ev6WrLbZN9lO~Od-oRguvacyxk43SkqSh8G0xCsgTuv42p6zRG4W~PLARFQOlvqZtwE3YkcDUdwrIacDdntaauZ-UezBcbvi4oDQBs0TIvVrltst8Dm2N23Mbx50AYuatpEzMCGUf9C-~RS4ho5b6GamX-5aBkK-FuQh5uJ7xVU9sp8Xv7nBVC1bclpD2-QKEtg692pPDFhBo1NyJ2MC1gDNxuzexTY9-SQWKH0TZZ4UGQWMFQXEJTPTo74jco7xPoXxGPC09UB8Plh1hsea~Uu7LaL~QiERilRlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Compro mucha fruta.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "09f57794-53ea-4838-9738-497bc5ec5274",
+      "title": "Escolha a resposta de compra",
+      "content": "<p>Você quer responder de forma curta que compra pão na padaria. Qual opção expressa essa ideia em espanhol?</p>",
+      "contentPlain": "Você quer responder de forma curta que compra pão na padaria. Qual opção expressa essa ideia em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a resposta curta combina alimento e lugar na mesma frase.",
+      "feedbackError": "Nesta aula, a resposta curta combina alimento e lugar na mesma frase.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "07638e06-6d6a-4b55-84e6-fb333846349a",
+          "textContent": "Compro fruta en la panadería.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "09f57794-53ea-4838-9738-497bc5ec5274"
+        },
+        {
+          "id": "2f784374-5516-4794-af70-bde75160c4d5",
+          "textContent": "Compro pan en la panadería.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "09f57794-53ea-4838-9738-497bc5ec5274"
+        },
+        {
+          "id": "56458063-548c-44e0-ae83-b264898aba40",
+          "textContent": "Compro pan en el mercado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "09f57794-53ea-4838-9738-497bc5ec5274"
+        },
+        {
+          "id": "9e156384-1360-4851-9536-82d93bb7f596",
+          "textContent": "Compro mucha fruta.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "09f57794-53ea-4838-9738-497bc5ec5274"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "50fa3b22-02da-4b70-b1af-6817b5900324",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/748c000f3ff64a389bce675152640891_b02-compro-pan-en-la-panaderia.mp3?Expires=1794099493&Signature=IkbfZGdihMbMVcofmEsAyuGWPE0qDu~2RBpenJ82ha-lWv74ttm3jSO9XxEgbuadGgvkv6kP9Qkjp3I0AgO7BQ28FsXP4tsWjqArmVCUpjj0yT2~iaRqzvWNe0QcqrjiXK0x82BTG8KZ1hjOKRn8VZMMpJxUTE7xJiqvmKo7q7~vqNe3aAFsFqo44E2jYresIkRkoKDD2XWlBo7tDlmwDua~M7haB21UzIwzyJDWS9rhvceSJSpMHYTAg96cV4hQb7nEqamQRmPtcZSBjIjDT8ud2zOwSJX1KLeS~rLjY5NEyH7L0F20faJSQYxeyNEmsjI5Lmld80PI6JEArRvcbg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, a resposta oral curta une o alimento ao lugar da compra.",
+      "feedbackError": "Nesta aula, a resposta oral curta une o alimento ao lugar da compra.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Compro pan en la panadería.",
+      "typeSpecificData": "{\"expectedText\":\"Compro pan en la panader\\u00EDa.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/748c000f3ff64a389bce675152640891_b02-compro-pan-en-la-panaderia.mp3?Expires=1794099493\\u0026Signature=IkbfZGdihMbMVcofmEsAyuGWPE0qDu~2RBpenJ82ha-lWv74ttm3jSO9XxEgbuadGgvkv6kP9Qkjp3I0AgO7BQ28FsXP4tsWjqArmVCUpjj0yT2~iaRqzvWNe0QcqrjiXK0x82BTG8KZ1hjOKRn8VZMMpJxUTE7xJiqvmKo7q7~vqNe3aAFsFqo44E2jYresIkRkoKDD2XWlBo7tDlmwDua~M7haB21UzIwzyJDWS9rhvceSJSpMHYTAg96cV4hQb7nEqamQRmPtcZSBjIjDT8ud2zOwSJX1KLeS~rLjY5NEyH7L0F20faJSQYxeyNEmsjI5Lmld80PI6JEArRvcbg__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "34cf4d19-9fa8-4a73-8086-434c7d0a0968",
+      "title": "Ouça e marque as palavras",
+      "content": "<p>Escute a resposta sobre comprar pão e marque somente as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a resposta sobre comprar pão e marque somente as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/748c000f3ff64a389bce675152640891_b02-compro-pan-en-la-panaderia.mp3?Expires=1794099493&Signature=IkbfZGdihMbMVcofmEsAyuGWPE0qDu~2RBpenJ82ha-lWv74ttm3jSO9XxEgbuadGgvkv6kP9Qkjp3I0AgO7BQ28FsXP4tsWjqArmVCUpjj0yT2~iaRqzvWNe0QcqrjiXK0x82BTG8KZ1hjOKRn8VZMMpJxUTE7xJiqvmKo7q7~vqNe3aAFsFqo44E2jYresIkRkoKDD2XWlBo7tDlmwDua~M7haB21UzIwzyJDWS9rhvceSJSpMHYTAg96cV4hQb7nEqamQRmPtcZSBjIjDT8ud2zOwSJX1KLeS~rLjY5NEyH7L0F20faJSQYxeyNEmsjI5Lmld80PI6JEArRvcbg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, Compro pan en la panadería junta item e loja.",
+      "feedbackError": "Nesta aula, Compro pan en la panadería junta item e loja.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "04ba4ddb-ac9b-4583-baa9-a1cd2eca856d",
+          "textContent": "compro",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "34cf4d19-9fa8-4a73-8086-434c7d0a0968"
+        },
+        {
+          "id": "22f4fbab-01ec-4393-a9f0-ec4794d2e976",
+          "textContent": "mucha",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "34cf4d19-9fa8-4a73-8086-434c7d0a0968"
+        },
+        {
+          "id": "79d9482c-8a91-4421-8d53-a7fd298defa2",
+          "textContent": "mercado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "34cf4d19-9fa8-4a73-8086-434c7d0a0968"
+        },
+        {
+          "id": "8ad8ab7a-5999-473d-baf7-30630e500e77",
+          "textContent": "panadería",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "34cf4d19-9fa8-4a73-8086-434c7d0a0968"
+        },
+        {
+          "id": "ac78809f-8ff4-4037-aad7-f8ae25f9e142",
+          "textContent": "fruta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "34cf4d19-9fa8-4a73-8086-434c7d0a0968"
+        },
+        {
+          "id": "d8910d5c-bfc1-4f8e-a896-4ae88d97266c",
+          "textContent": "pan",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "34cf4d19-9fa8-4a73-8086-434c7d0a0968"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "53324330-0496-43a6-829e-d001e4c520e1",
+      "title": "Ligue a frase ao uso",
+      "content": "<p>Associe cada resposta da revisão final ao que ela ajuda a comunicar em uma situação real de compra.</p>",
+      "contentPlain": "Associe cada resposta da revisão final ao que ela ajuda a comunicar em uma situação real de compra.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final retoma uma frase para lugar da compra e outra para quantidade.",
+      "feedbackError": "O recap final retoma uma frase para lugar da compra e outra para quantidade.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "18ff0db7-e3b3-4222-a9a4-ef9bad10e591",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "53324330-0496-43a6-829e-d001e4c520e1"
+        },
+        {
+          "id": "8a5006f4-5b0d-4763-a578-a20f829f9e94",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "53324330-0496-43a6-829e-d001e4c520e1"
+        }
+      ],
+      "associations": [
+        {
+          "id": "df969170-0ef3-48ed-a498-a91dd8c22fba",
+          "exerciseId": "53324330-0496-43a6-829e-d001e4c520e1",
+          "leftContent": "Compro pan en la panadería.",
+          "rightContent": "dizer o lugar da compra",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d43ae755-a782-4109-8ee9-e0fd5610f5a2",
+          "exerciseId": "53324330-0496-43a6-829e-d001e4c520e1",
+          "leftContent": "Compro mucha fruta.",
+          "rightContent": "indicar quantidade na compra",
+          "sequenceItem": 2
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "da47ca95-025c-4648-8735-48b82a8f9a40",
+      "title": "Complete a pergunta",
+      "content": "<p>Complete a frase: ¿Qué _______ hoy?</p><p>Tradução: O que você compra hoje?</p>",
+      "contentPlain": "Complete a frase: ¿Qué _______ hoy? Tradução: O que você compra hoje?",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo usa uma pergunta curta para iniciar a conversa sobre compras.",
+      "feedbackError": "O diálogo usa uma pergunta curta para iniciar a conversa sobre compras.",
+      "answerType": "buildWord",
+      "expectedAnswer": "compras",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ae563820-f369-4e65-a3f6-fc14364e581d",
+      "title": "Recupere o trecho principal",
+      "content": "<p>Ouça as falas do diálogo e ligue cada áudio apenas ao trecho central que ajuda a reconhecer a pergunta ou a resposta.</p>",
+      "contentPlain": "Ouça as falas do diálogo e ligue cada áudio apenas ao trecho central que ajuda a reconhecer a pergunta ou a resposta.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo recicla perguntas e respostas centrais sobre item, lugar e quantidade.",
+      "feedbackError": "O diálogo recicla perguntas e respostas centrais sobre item, lugar e quantidade.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "5b44000d-46ad-4178-972e-f975e6cfa685",
+          "exerciseId": "ae563820-f369-4e65-a3f6-fc14364e581d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3af5650cb1704f1a97c4a5b15aa58153_b06-dialogo-q-que-compras-hoy.mp3?Expires=1794099493&Signature=krDB0bSn64S0H9jaMBlTxGil9KpNemfjBox8TxwvBEPtfyNHuSdt4wbPsFlQiYYdPt4dXMZlD0VCMFk3nLPnzzbtS1~TDpGLJbSIkfYgr3EcCvXkjznm8aRAH~JzIgW6yXKRi6G7PfdkrjuTZDppB~jrorD-GQW8siqCIYnBrQmAt~bUImSUVg3sAAmIP7~MxS5gAJdkVi3wqXav3R9cdlr-NUbxnG0hvm9KRixEHSuW4t8t6WhsuYrsn0usNcHLqgxQZ6aHFc97lb2rddvuesWzGS2JluQ8B8tgQ6pzdYjActSVWgKhn0S234b9Y2mRkovZihqih-y83nSS75cYGg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "compras hoy",
+          "sequenceItem": 1
+        },
+        {
+          "id": "fafde994-52ea-452d-82e3-9b521e6da561",
+          "exerciseId": "ae563820-f369-4e65-a3f6-fc14364e581d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/748c000f3ff64a389bce675152640891_b02-compro-pan-en-la-panaderia.mp3?Expires=1794099493&Signature=IkbfZGdihMbMVcofmEsAyuGWPE0qDu~2RBpenJ82ha-lWv74ttm3jSO9XxEgbuadGgvkv6kP9Qkjp3I0AgO7BQ28FsXP4tsWjqArmVCUpjj0yT2~iaRqzvWNe0QcqrjiXK0x82BTG8KZ1hjOKRn8VZMMpJxUTE7xJiqvmKo7q7~vqNe3aAFsFqo44E2jYresIkRkoKDD2XWlBo7tDlmwDua~M7haB21UzIwzyJDWS9rhvceSJSpMHYTAg96cV4hQb7nEqamQRmPtcZSBjIjDT8ud2zOwSJX1KLeS~rLjY5NEyH7L0F20faJSQYxeyNEmsjI5Lmld80PI6JEArRvcbg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "pan en la panadería",
+          "sequenceItem": 2
+        },
+        {
+          "id": "080c1fc4-c921-48bd-81a3-9b20a43c8753",
+          "exerciseId": "ae563820-f369-4e65-a3f6-fc14364e581d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b59b2b636dfb4697bf88073139fd5ebb_b06-dialogo-q-que-compras-en-el-mercado.mp3?Expires=1794099493&Signature=zvqf8OoSJuC64wzKKUqURxVCumuHj4sv5kyB05BOaCBSDowyR4eG-D1CSdtvSAPyUNU3oAabzHf-T4kNmGwc~LGD~4zZDS3HLJAkETIzG~2WpaEW1V~0Lak6TYsRUSXJ-WdKN5e~4tK9TETnESflUS7jbqDDj~lIc21DlOHlGCwT2LfKeylrjgxJHOt~183O6pkXptxqq~j-7rAGVoKcvlgl2ZmihXWdx6~l2uIbZ8IhpM~NriaoKvH-dWRcMCvjX1t6Rqn5A1xUL8SEgD5R-44sA0MntX5xIeQBhK0KwktLzoSzKOjBl3VdEyHzI-~jRcvF6HjXrgkyd61r-RdzKg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "compras en el mercado",
+          "sequenceItem": 3
+        },
+        {
+          "id": "8cec7310-349b-4c6d-9b0f-21e0fdfd34fd",
+          "exerciseId": "ae563820-f369-4e65-a3f6-fc14364e581d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/067e8813f1894ca5b0b4220b6addc644_b04-compro-mucha-fruta.mp3?Expires=1794099493&Signature=sEnU9RBQebfHcLnc1zVEcI3ZnZVd8OnTcjPmgRt~BVm89UUm7Ev6WrLbZN9lO~Od-oRguvacyxk43SkqSh8G0xCsgTuv42p6zRG4W~PLARFQOlvqZtwE3YkcDUdwrIacDdntaauZ-UezBcbvi4oDQBs0TIvVrltst8Dm2N23Mbx50AYuatpEzMCGUf9C-~RS4ho5b6GamX-5aBkK-FuQh5uJ7xVU9sp8Xv7nBVC1bclpD2-QKEtg692pPDFhBo1NyJ2MC1gDNxuzexTY9-SQWKH0TZZ4UGQWMFQXEJTPTo74jco7xPoXxGPC09UB8Plh1hsea~Uu7LaL~QiERilRlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "mucha fruta",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "b5449eb2-c241-43d7-b270-796a48a2f629",
+      "title": "Complete a quantidade",
+      "content": "<p>Complete a frase: Compro _____ fruta.</p><p>Tradução: Compro muita fruta.</p>",
+      "contentPlain": "Complete a frase: Compro _____ fruta. Tradução: Compro muita fruta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, mucha aparece antes do alimento para indicar quantidade.",
+      "feedbackError": "Nesta aula, mucha aparece antes do alimento para indicar quantidade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mucha",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "7b00f009-f2c0-457e-ac16-ac5071a9eac1",
+      "title": "Ouça e recupere a pergunta",
+      "content": "<p>Marque somente as palavras que formam a pergunta curta do início do diálogo.</p>",
+      "contentPlain": "Marque somente as palavras que formam a pergunta curta do início do diálogo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3af5650cb1704f1a97c4a5b15aa58153_b06-dialogo-q-que-compras-hoy.mp3?Expires=1794099493&Signature=krDB0bSn64S0H9jaMBlTxGil9KpNemfjBox8TxwvBEPtfyNHuSdt4wbPsFlQiYYdPt4dXMZlD0VCMFk3nLPnzzbtS1~TDpGLJbSIkfYgr3EcCvXkjznm8aRAH~JzIgW6yXKRi6G7PfdkrjuTZDppB~jrorD-GQW8siqCIYnBrQmAt~bUImSUVg3sAAmIP7~MxS5gAJdkVi3wqXav3R9cdlr-NUbxnG0hvm9KRixEHSuW4t8t6WhsuYrsn0usNcHLqgxQZ6aHFc97lb2rddvuesWzGS2JluQ8B8tgQ6pzdYjActSVWgKhn0S234b9Y2mRkovZihqih-y83nSS75cYGg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, a pergunta curta abre a conversa sobre a compra do dia.",
+      "feedbackError": "No diálogo, a pergunta curta abre a conversa sobre a compra do dia.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "00338687-c7e1-4182-b8d7-b66771a76b21",
+          "textContent": "pan",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7b00f009-f2c0-457e-ac16-ac5071a9eac1"
+        },
+        {
+          "id": "16bf710b-1ad8-46f4-9fcf-b9c3fab147bf",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7b00f009-f2c0-457e-ac16-ac5071a9eac1"
+        },
+        {
+          "id": "2d93b66a-d700-4e3a-bfe0-7bd6a69188d4",
+          "textContent": "fruta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7b00f009-f2c0-457e-ac16-ac5071a9eac1"
+        },
+        {
+          "id": "7be22ced-db4f-4878-b472-ccf795122aa2",
+          "textContent": "compras",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7b00f009-f2c0-457e-ac16-ac5071a9eac1"
+        },
+        {
+          "id": "8c1b4dd4-9013-4f96-8e4f-1333168ee5bd",
+          "textContent": "mercado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7b00f009-f2c0-457e-ac16-ac5071a9eac1"
+        },
+        {
+          "id": "dead134b-5f1a-43c5-ba57-08dc15d5e776",
+          "textContent": "qué",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7b00f009-f2c0-457e-ac16-ac5071a9eac1"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7691e0b4-1e21-493c-a866-f4476a07223f",
+      "title": "Complete o alimento",
+      "content": "<p>Complete a frase: Compro ___ en la panadería.</p><p>Tradução: Compro pão na padaria.</p>",
+      "contentPlain": "Complete a frase: Compro ___ en la panadería. Tradução: Compro pão na padaria.",
+      "fileUrl": null,
+      "feedbackSuccess": "O molde da aula combina alimento e loja na resposta curta.",
+      "feedbackError": "O molde da aula combina alimento e loja na resposta curta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pan",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "11dbd492-0ed4-46c0-8b88-94b9459aa0be",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Falar sobre compras do dia a dia"
+}

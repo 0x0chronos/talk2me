@@ -1,0 +1,495 @@
+{
+  "attemptId": "52247e57-a52f-451f-b282-9ba69992eda5",
+  "exercises": [
+    {
+      "exerciseId": "ee5e8105-2a9f-4d67-a48c-c2a08228f44a",
+      "sequence": 1,
+      "lessonId": "9b7d4933-d57b-466e-bb0b-252e3497303b",
+      "title": "Ouça e escolha",
+      "content": "<p>Selecione a palavra que nomeia o aparelho mencionado na frase da cozinha.</p>",
+      "contentPlain": "Selecione a palavra que nomeia o aparelho mencionado na frase da cozinha.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/309dd36da4a847a9998094f0080bd0dd_caliento-la-comida-en-el-microondas.mp3?Expires=1794099511&Signature=lF1R1CwhP8-Pig9rITYFs-dwDz0zpaMXk5YaiDj2m-B64WXAnx35XgG4I0JWkuDRdacmXIAMcw0hMzNXUUjdo4fZFDNuApjhaX~MLmxg2CJCRaf1xZWcJPAHwJZKlFrvIp4nJb-vUxKTQhdLaxPDiCs69UFezXPOTPme8ESNu2-yjB6RyhXJvy3ECj~8d~AMCqToCFijvC6rdBBYM026sQiA0tPM2EW0-Wex3rwS-NYeyJdvYXwcIPvW6~uzYejw7rIpiiD7b5V-eavpjKPNTD5-3gNLq1QQw0ysssBJd1TJIFtMFEqXM4o4b4SOdJTGV1nOGAedOB6~Qp2U~fZsVA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Você reconheceu o objeto certo dentro de uma ação da cozinha.",
+      "feedbackError": "Volte ao áudio e procure a palavra final ligada a aquecer comida.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "34b85ad5-53d5-48a0-b407-198a5a4c8bc1",
+          "text": "microondas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a79b8772-cfb7-4b32-8607-084c671198d8",
+          "text": "lavadora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cf53724a-05e9-4685-bd34-062cdf81d074",
+          "text": "comida",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b644297d-5a6b-4fff-8476-5fc6504c8f54",
+      "sequence": 2,
+      "lessonId": "397a15e8-3e68-49f0-8453-872c88aed3a1",
+      "title": "Ouça e selecione",
+      "content": "<p>Escute o áudio completo e marque somente as palavras que aparecem nele.</p>",
+      "contentPlain": "Escute o áudio completo e marque somente as palavras que aparecem nele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4b3194d9a4004733a96a3418b7041ac5_b05-plan-corto-de-limpieza.mp3?Expires=1794099511&Signature=dTf4zpZx0Fnjpf6q0sYOeF90eyRmwYvUw6hEXjgg-Lf22-iM-wmDQx0Z3RgUTDS9PbqouWq4NqFI09OQRI7O~Pz7-HhGflKPqISpB~0IcWrcp3FLczTIOoaTmPB~6CGdF1XgN8oc-6LnE2ZEPo4NV8opZwfYa5Nws~qzzcs-X9f-0ckG4Ve3YrIyYKR9wcYoapJFMxXxc6KPK-GoxL6MUR01KMrTS-8kny-YbE1A~NpqG9AJWjS4TsUxprrO4TVI5tj-JT5Kz-IkVK1-F1KSFFqa9FHfoUJsB8EjYxdJ5CAtBC5k8XmyPyAeq8dEbCr2Vuf3DpHxvTWJytax~KmDiw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta. Você identificou os elementos centrais do plano completo.",
+      "feedbackError": "Escute novamente e marque só as palavras que aparecem no áudio, sem incluir outra tarefa doméstica.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "00ac6501-19cc-4ded-8156-50182e0db6b7",
+          "text": "limpiar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "28084f1a-838d-4e44-96b8-4216e3b53737",
+          "text": "poco",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "31d65044-0058-4f34-baa1-f9c5dfb761af",
+          "text": "sucia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6169afcf-f5c3-4cdd-b9a3-4ebf68e536f7",
+          "text": "lavar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6fd2a2e6-052d-4264-9dc2-655448098793",
+          "text": "platos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9fd71bad-88f2-4e02-8cb3-78d25c93c5a4",
+          "text": "barrer",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e325f396-77cc-48aa-83cc-f54dbd4e684c",
+          "text": "primero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eb13313b-6afa-42f6-90b7-f7315def9ed5",
+          "text": "cocina",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fc847016-620e-48e8-9069-0f52b1ff6733",
+          "text": "después",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ffdc4c6d-af72-4de5-9259-9f08ed3382a3",
+          "text": "casa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "1a582d09-d529-412a-92f1-b4d146faf9e1",
+      "sequence": 3,
+      "lessonId": "397a15e8-3e68-49f0-8453-872c88aed3a1",
+      "title": "Organize a lógica do plano",
+      "content": "<p>Associe cada elemento em espanhol ao efeito comunicativo correto no miniplano.</p>",
+      "contentPlain": "Associe cada elemento em espanhol ao efeito comunicativo correto no miniplano.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você identificou como cada parte ajuda a montar um plano curto que soa natural.",
+      "feedbackError": "Volte ao recap final e observe como a fala começa pela situação e depois avança em ordem simples.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0c0e12d8-282e-40b2-bf1f-c5e23c62606b",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ea67e34a-6395-4aea-a353-e1e0288402d4",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "691b20e7-8b28-45b0-8a00-3b6c2a0dfc7e",
+          "leftContent": "La casa está un poco sucia.",
+          "rightContent": "apresenta o problema de forma suave",
+          "sequenceItem": 1
+        },
+        {
+          "id": "844b7532-6552-4c76-b490-2a577e98aee4",
+          "leftContent": "Primero",
+          "rightContent": "abre a ordem das ações",
+          "sequenceItem": 2
+        },
+        {
+          "id": "71c0faf1-acda-4194-a34b-ada6b7e0aa74",
+          "leftContent": "Después",
+          "rightContent": "continua a sequência do plano",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "6ee4a256-c33e-43b5-96ba-fb5909966613",
+      "sequence": 4,
+      "lessonId": "0707e2f0-973a-4d0a-98e7-443c171af366",
+      "title": "Escuta fina das formas",
+      "content": "<p>Resolva apenas pela escuta e diferencie as três formas curtas de <strong>ir</strong>.</p>",
+      "contentPlain": "Resolva apenas pela escuta e diferencie as três formas curtas de ir .",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você diferenciou as três formas centrais da aula apenas pela escuta.",
+      "feedbackError": "Escute outra vez e compare o som curto de voy, vas e vamos antes de a.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "c738629c-9324-4a29-b32b-051008ca067e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8778056a13a9443caa05c853506f4c61_b04-voy-a-short.mp3?Expires=1794099511&Signature=TaVwCH80l5rD8vBpH5ttiR47FHoIOL6CJFTWe7hne-2dxYcES75JVP68uyeWN3AGXH5UYyhuL9cPvukrwNTwwKI6FrJ91zQS1dxVVBiOXY5jdi9c2zIx5nOTbYook00-~sjvaEdkO80s4RdwIfc-EphNtWPtZbYhzTrK7EL~60wzONt747DmqGsTe0YvXj~dG8iaxP1EJfwV2JDzbKfcYJJmT4k6CtLov96bqls2EUfJzL-xH7huSkDWgPDQvSWYwblCLIJehGhThLy3e50qtMlOJipR6tpVZVWouNrYxN7Ix8gTnsccO8Kzg3Kl4nzKe2j5H-Ajcel8U3tNjjKXAg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "voy a",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b67ef7bf-3a11-4bde-b88c-6fcb530ec4f8",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0a671fa51e5c44fdbefcdf82533c31ff_b04-vas-a-short.mp3?Expires=1794099511&Signature=MQI6KVCfpq~QDlgPfPCSvgc~ndGDDe-Gax1qGBg3~xrSr4SJ6K-QR1rEXoXyMj6eNHbEMlnQYcrjgh6LTcui5N4LFcXfkpHGl8gHu8ZgnWGGvHGUy0UJngLXCMoyQWfLYZfyUAMRwAF6BPhemFxqlnB2QucP7xu50mlqBRI97n9nNWiqskoGOpDkYOgxA6EAQO~pONd2ozyldC3JyGVaMMiEKEtICKm3FmqY59kvX8UZkhy8beEd76oZ6K-DI1FBVEIQJL8JRI06wNRTp1gVM7ezqvH6Lor4DudNcsDYFio7uKgZzwGh79xP6rWNjJ5Y6O9lrqWNkgkRSTZjqRC75w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "vas a",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ea0e0b22-2cd1-4b38-900c-82eb2b52fcec",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/348cc56da66448e7a17e5c198f335b16_b04-vamos-a-short.mp3?Expires=1794099511&Signature=NBN5ESaIvGZhg3OCGjLTq23ezst3u77O1PZaNHSJC18B7h0wYEoC~VLz2lqRyfYYygjuM7BMOFb0VObYfiAc~RnCUtwDPJCKilralKEXZF7SGwqoNS9YgQjIhNS4BQoFZOEmCGArunQJZgSl5MDVx0gZm8Upa1n4vEcU1rMzSahqjltiaUktNmZJ1byXOqdld9QejKDu2tcZlz~0s-KnAcpg-0fk3KO6uV1cAsu0SlPn096nKb-OHEhY1bEIppV62gNxFxSoztoT5HO-83TTi0B-LIwo6vHspqZqz-MH0EruwhuDCUaZDjdXEggneaAvkqZjA9Z6OiWs6xnmT6ts6g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "vamos a",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "72001a13-e267-4fd1-af15-4877d6ce4cd9",
+      "sequence": 5,
+      "lessonId": "9b7d4933-d57b-466e-bb0b-252e3497303b",
+      "title": "Reconstrua a palavra",
+      "content": "<p>La ropa va a la ________.</p>",
+      "contentPlain": "La ropa va a la ________.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou o nome do aparelho a partir da frase inteira.",
+      "feedbackError": "Retome qual objeto aparece ligado à roupa e lavanderia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lavadora",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "818e1aa7-12ff-4300-9556-162357e42139",
+      "sequence": 6,
+      "lessonId": "9b7d4933-d57b-466e-bb0b-252e3497303b",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Caliento la comida en el __________.</p>",
+      "contentPlain": "Caliento la comida en el __________.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. O contexto da frase leva a microondas.",
+      "feedbackError": "Retome o objeto usado para aquecer comida rapidamente na cozinha.",
+      "answerType": "buildWord",
+      "expectedAnswer": "microondas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "319e5e31-22f2-4373-aa63-a56d5d525827",
+      "sequence": 7,
+      "lessonId": "0803d151-1e1a-4ec0-bf9f-2c3a4ef11413",
+      "title": "Recupere a divisão final",
+      "content": "<p>Na resposta <strong>Vale...</strong>, qual distribuição de tarefas fica valendo?</p>",
+      "contentPlain": "Na resposta Vale... , qual distribuição de tarefas fica valendo?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou a redistribuição final das tarefas.",
+      "feedbackError": "Volte a terceira fala do diálogo e leia com calma a inversão entre tú e yo.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2c710122-7fe9-4f47-8763-4a29d9e759a9",
+          "text": "yo lavo los platos y tú limpias el baño",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a2b8ab0d-2cda-47a9-baf4-3fa19b3d7c3f",
+          "text": "yo limpio los platos y tú lavas el baño",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a86fdce1-ad8e-4971-914a-976b65f034a4",
+          "text": "tú lavas los platos y yo limpio el baño",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "7294c6e3-523c-40a5-8219-1743aee142b3",
+      "sequence": 8,
+      "lessonId": "0803d151-1e1a-4ec0-bf9f-2c3a4ef11413",
+      "title": "Complete o verbo",
+      "content": "<p>Yo ____ los platos y tú limpias el baño.</p>",
+      "contentPlain": "Yo ____ los platos y tú limpias el baño.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa é a forma usada quando quem fala assume a tarefa dos pratos.",
+      "feedbackError": "Retome o modelo central e recupere o verbo que aparece logo depois de yo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lavo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7d3f429c-5507-4f99-9da8-87317274cc6e",
+      "sequence": 9,
+      "lessonId": "397a15e8-3e68-49f0-8453-872c88aed3a1",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa discriminação. Você identificou as três frases do plano sem depender de tradução.",
+      "feedbackError": "Escute outra vez e diferencie a abertura da casa das duas ações em ordem.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "27d14f3a-49e8-472d-b35d-a64349fec706",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ab95018b5d4c4ad0836d12c764ea0825_b04-despues-voy-a-limpiar-la-cocina.mp3?Expires=1794099511&Signature=jK6OlA8NMl6i7TaTlLPM2nHIoXVtT00rquI6gRf88K9Ege9~-CQqGjDjjFKjR-Wx2b2RRgKceAfD4ACE~xL-IvWsI~hi4SzZRRbXFzcJHXOhHu3mP8p6eKQLwEsbuRurGzmwRKRaqKQF1uCfZjUMb-CFIw6BLMiDsgz8XXWRg1JilJ2ddtrqG7EEb2nc~8lkqdkwH3T-HqvmfjFffwSr6q7QBaaZ9Soy59TTAtY00DcC9-bk2mTSjIBhdqKMpxMaM0YPqo9TyP4CLfGfLv1uYSNuWc5IodHZbgL5YJgSIbOFnIbx8xC7k2r03pMh81TA3N7Le9YQd-pvwWZLmmYziw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Después voy a limpiar la cocina.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f81db8b3-5bee-40d1-a95f-a5791d650799",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/88dc6f38344f42afa45560c8bac41813_b01-la-casa-esta-un-poco-sucia.mp3?Expires=1794099511&Signature=WXw8zVd49hZDejppnmW08lvX9x5f3n8VtOYIgnE68-WUhuK4sEr8GOeaAtooss5sJ~sdAmCvTfmdthv5-j7if6bKJqzAjpxBbCdPEtVWVsbb3Dy5RpOgeZYZH22cGKrLEXrE8nY9joghTYjFlmGcu148nIOexi3GKK-079g2XkVETk05sk1-SNl9ql8M~OoyD-pHstHtIXO7SKRVGHWCsd9I3LCVHkHxgqE-PfweG05wpDq7k~Qq3Sqp0Ssd27kSDgPBNArO3XVcEljgZ03XUZ~z6el9nO7OS1KpLKF53FCoHzTH3BffEoxRl-IQe5JcOZ-~vX9e8qJ3NMlUvBiovw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La casa está un poco sucia.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "fa0a762a-86e8-4dc3-b927-aa00afe7e282",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6381c343a1bf499fb195117f5e6fd35f_b03-primero-voy-a-lavar-los-platos.mp3?Expires=1794099511&Signature=dj4SnwrSytZiQKw7KvVj~lLr8lLBRVCphgWkVWGyd4EV1M6bC8~6CsJ6qwRup8HCVWpYidCIEhDNLXmNFpzf9SPk2eoT6JrrfyIoItDUD8njzT2QmzBSv6tfJLlPaURw1zwD~XAPO3FS~EaDWNr1TFzMN2D1J2kcwk-GY5es0y3Ia5gqL1pM49QdWz~dg8FJJ21~Iy53ChMAHhUMLXJKsYNcAJLXAf5vy8~gOcHDJS3hAscnMWBrdNws~YQzx6dlYmWgE1Qtfza-uJ2gqLxIXhAJpIQ~B5k3d62szmMw5~aVUD4nFWzIshbAibskARDuQfmMf2nX1zO4FC3NCGb~Qg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Primero voy a lavar los platos.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "31fc38a5-bc4b-42a3-bdd4-45e6a7deb5fa",
+      "sequence": 10,
+      "lessonId": "39f55b02-712d-48ef-94b1-dbc82184d01f",
+      "title": "Complete o verbo",
+      "content": "<p>Hay que _____ los platos.</p>",
+      "contentPlain": "Hay que _____ los platos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Esse é o verbo usado quando o foco está nos pratos.",
+      "feedbackError": "Retome as duas ações principais e veja qual delas combina com los platos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lavar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "143b51ee-3bb8-49a4-9ede-7de3edc9f031",
+      "sequence": 11,
+      "lessonId": "0803d151-1e1a-4ec0-bf9f-2c3a4ef11413",
+      "title": "Discrimine as falas",
+      "content": "<p>Escute e diferencie as três falas abaixo apenas pelo espanhol.</p>",
+      "contentPlain": "Escute e diferencie as três falas abaixo apenas pelo espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa discriminação. Você distinguiu as falas mesmo com mudança de perspectiva.",
+      "feedbackError": "Escute novamente e compare quem aparece primeiro em cada fala e como a ação é redistribuída.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "baedeb17-58ad-45fa-a32b-6a5a16ca2a2a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/03150541d9054975880119722cdc0703_b05-02-yo-lavo-los-platos-y-tu-limpias-el-bano.mp3?Expires=1794099511&Signature=FcGuVtsKpnQxMTv-8ud0tqhgC6KxkVlHtP6-n1CeKM7p8DBmzaFzgXs38lfeyBMIDBLKakI0waIebb9rOYv-WQ5CMMcU1ZrFuJQkmZDobfRvl~Prfm-fctXn7zM72UdI~HcZ3V2d7BbNcS1Ga-untSh8UEwPHSeVXLdzv0zX7JDSihqUlNoDARkalrCcXwK3fvZf6ssSUNN6u1XIx6pbULx8SilHXX7LradrGBf5uvhCNU6rPL8PqBbv09OxV0Ua4iK9EIXAHd63StVgqJ4zyDJEpjMNqlaFU3GBdNIsBGknQ3vfCBr71Qg3P5U33jB2grgVTPsLwuX1IO7iikCZPg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo lavo los platos y tú limpias el baño.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "507b4fb6-806c-48eb-9cc2-3177d59af6f2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/39e7470316674b4f89d5dcebffa845f9_b05-03-vale-tu-lavas-los-platos-y-yo-limpio-el-bano.mp3?Expires=1794099511&Signature=sDuEJSluGm2vKesdPqFsoD1-QGULazzC43XxZqUDPhYATx9wJ0F2u13~Q~UK-uuF2GOrmJjKFYuxHHFVxM~ivlTXpnG0k-LpVa9zUoMe9zjTKpOtSbQhEjOQ7Agw2bC34ascEO70PebaLVEheGe8qI092B~h1zUFl~q4LlQRXxG-dvNQaZNeVsKhZ9e6n2k~XBD3~IyzDkV3fEVgXtsRIXyKpasprl7~rN5D8wqFrsNzQPYLUbUfxfoGaDoyFXIO8MFMehr~YGG0vtL87EVWIpfv2oLZ7LSEoVrUyX~5Dar6V45nsiMwFpXnFtAXELu~F1UbzGWNNBRHDgckt70qZA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vale, tú lavas los platos y yo limpio el baño.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4c85ff8b-14d9-4b9c-847f-61ab8e17fed5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ed8622d87d94b1d8e732225eb31c443_b05-04-si-asi-terminamos-rapido.mp3?Expires=1794099511&Signature=oPhY1gf3ErzmhEQVaXt3O1hrW0lbSwAfNacGoPnuwEMx9gHs6oA1Y-eHi-gs~cgku1tZISiSv79O5mhvNFyZSw2n59HDxArvdX1Je3VinD5wWXi1fYJwsjvkwnLzNqvCFvp884t1bBCrBk-5-QnqmEUNNezg8ywg1E4qGoFvFHXlge15FCooYy2Y1KNCp~iCbGxupT1hJ4kKzngjEjEziI8onUxLI94rSIl~9FWr2awFD4jpQb7vDAKVFm-YwAWgcYHxs11CllgJweiJBF~HbiKn~0~suE0nvFJZxtsEckEy~6pojTcabbeI0ddl8kSId921mHYY7I1GHr1oPFwJfQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, así terminamos rápido.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "2e77b978-937b-42a7-8048-7270a5d7ff55",
+      "sequence": 12,
+      "lessonId": "0707e2f0-973a-4d0a-98e7-443c171af366",
+      "title": "Complete a forma",
+      "content": "<p>Esta tarde ___ a limpiar el microondas. (Hoje à tarde eu vou limpar o micro-ondas.)</p>",
+      "contentPlain": "Esta tarde ___ a limpiar el microondas. (Hoje à tarde eu vou limpar o micro-ondas.)",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Voy recupera o plano individual da aula.",
+      "feedbackError": "Retome a nota curta: a forma que muda aqui é a de ir, não o infinitivo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "voy",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "00b1eaf9-769c-486c-b62f-ce156b1cda68",
+      "sequence": 13,
+      "lessonId": "39f55b02-712d-48ef-94b1-dbc82184d01f",
+      "title": "Ouça e escolha",
+      "content": "<p>Selecione a palavra que nomeia o estado da cozinha na primeira cena.</p>",
+      "contentPlain": "Selecione a palavra que nomeia o estado da cozinha na primeira cena.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d28eaa53f1444c7090c515703988157c_la-cocina-esta-sucia.mp3?Expires=1794099511&Signature=szGByGNIvkARWTQNEKmzHzjsiqIpLVDrdVmFSRXcqa5X-yG9L22q~LvjYvxu~YO1OTvd1MvJ1n6Rxo3BZEeDehaG5Y8QJh7kSbT7H32xCv6sjw9F3kqThH3Rzr0djlNADZpws7jI2F9fU7KBZoBhy1bbUn~friJXHsUT5Fqabq8bsBaHnFs4UZXE~sb3cBptagvOugyxvwP3xSm7Dam8d8qxn1bCzsmpf4ccuypfRREbFImDrzIsDMUO1HThaq0hijP54ueWVRZE6yGP0WkOvANFfPFuumRfPdkR-GHr-KcegSuQLcfgLaJcbUq8zWeXMlHkKQ60QPL20Ji2bjQwmA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Você reconheceu a palavra do estado sujo.",
+      "feedbackError": "Escute outra vez e foque no adjetivo final da frase.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "16a18c51-e89f-49f1-9ed8-e748d7b482cd",
+          "text": "limpia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1873c44c-cc90-4e96-9a6d-20abca097c22",
+          "text": "cocina",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9d6a9456-cc84-45b9-88ef-7dc093042bd0",
+          "text": "sucia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "e5cc9c85-fab6-426d-a11d-959127993bfd",
+      "sequence": 14,
+      "lessonId": "0707e2f0-973a-4d0a-98e7-443c171af366",
+      "title": "Ouça e escolha",
+      "content": "<p>Agora selecione a forma que mostra que duas pessoas vão fazer a ação juntas.</p>",
+      "contentPlain": "Agora selecione a forma que mostra que duas pessoas vão fazer a ação juntas.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/83dbcd2d827141e687c2a531d896d6e9_b03-hoy-vamos-a-limpiar-el-bano.mp3?Expires=1794099511&Signature=nkf0xp3D7EmdGitQVSxEwU9U2onOjCUc5lNHWbyb-erm2wH61RLW7HHjgib3zwE7Qo4JH3PvUs9vPo~Zk2GzQ5WAkJGDJW07q~eaSvnk5VCemdGOK659EzeWZzq5WKgRs5BKvdOJF7AsVDAxquwsQ5XbjGUcQxgqmA3WxJO~aHbs8t5-6gC8e9ms5MNnCaUT5HxR0reZYfH6ptzstiue62cfhNrVnzREb81h99pbGPhucAtqn~PYwtgyWj5kZnUHS4xPwAJSTlY6qMo5qqhla6F25ZRpF4N337JPNOlXhRkW8jjb~Qh~8Qp5K8K4LUoPym0BNl6k46scPkxacI-nBA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Vamos indica um plano compartilhado.",
+      "feedbackError": "Volte ao áudio e compare a forma inicial com a do primeiro plano da aula.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "16e76d07-6a70-48e7-89cd-05d4afe2679a",
+          "text": "voy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a1cbd301-b026-4ca8-a3d8-f7d94c2edac6",
+          "text": "vas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b94f25f0-ac61-40de-b262-91ca087b77c5",
+          "text": "vamos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "cc9b0b9a-aa2c-43e3-882d-f36a4423b2ab",
+      "sequence": 15,
+      "lessonId": "39f55b02-712d-48ef-94b1-dbc82184d01f",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Antes da limpeza: La cocina está _____.</p>",
+      "contentPlain": "Antes da limpeza: La cocina está _____.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa é a forma usada para o estado antes da limpeza.",
+      "feedbackError": "Volte ao contraste entre as duas frases e recupere a palavra da cena inicial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sucia",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+    "attemptId": "966d0b20-d4f6-4213-9b43-843da1d6eef8",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "246c0aed-a98b-4676-b650-c7711fb7a2c3",
+      "70132eca-19f6-49f0-a028-030f35f21573",
+      "42d47465-a744-4dd3-b495-fcc6d43af55e",
+      "ed7f0094-7f7a-4224-ad28-e95e4eae4d5d",
+      "e7597c09-9353-47f4-b15c-c1cb754aa42c"
+    ],
+    "evaluationExerciseIds": [
+      "b446b98b-5dd3-40b7-a740-2de0d001354e",
+      "a87d5c89-caf2-491e-b02d-73f4b437e5fd",
+      "c442e19f-b43f-4245-83e0-8b6547855738",
+      "f70f2f1b-60d6-4749-a578-8a61d4725495",
+      "f68f589d-6069-422e-8682-b87ef8ebda5a"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:32.5211481Z"
+  },
+  "contents": [
+    {
+      "id": "340b9962-78e0-4a30-834f-46f5eb4515f4",
+      "title": "Leia o mapa inicial e guarde as quatro perguntas que vao orientar a leitura desta aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "43851e47-2301-44b9-9ace-334e373a4f17",
+          "textContent": "<p>Nesta leitura, vale procurar quatro pistas antes de decidir se a inovação parece convincente:</p><ul><li><strong>que problema cotidiano aparece primeiro</strong></li><li><strong>que mudança concreta a solução introduz</strong></li><li><strong>que prova observável o texto oferece</strong></li><li><strong>que limite ou cautela acompanha essa prova</strong></li></ul><p>O objetivo aqui não é admirar a novidade em abstrato, e sim ver como um texto tenta sustentar utilidade e evidência ao mesmo tempo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "778e039a-5c56-4095-9b0c-be4732cb82a3",
+      "title": "Leia a abertura em espanhol e acompanhe a tradução. Foque primeiro na necessidade concreta que o texto descreve.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "f4107999-9f96-4070-89bb-afe8b31ec3e3",
+          "textContent": "<p>Leia a abertura.</p><p><strong>Una guia luminosa para escaleras oscuras</strong></p><p><strong>En muchos edificios antiguos, subir o bajar la escalera durante un corte de luz sigue siendo un momento inseguro para muchas personas mayores. Cuando el pasillo queda a oscuras, el apoyo existe, pero no siempre se distingue con rapidez.</strong></p><p>Em português: <strong>Em muitos predios antigos, subir ou descer a escada durante uma queda de luz continua sendo um momento inseguro para muitas pessoas idosas. Quando o corredor fica escuro, o apoio existe, mas nem sempre pode ser distinguido rapidamente.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "048c04e5-40d7-4ca3-8914-ab484d79b836",
+      "title": "Leia a nota e observe por que o texto fala primeiro de risco e orientacao antes de apresentar a solução.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "b7c2537e-20ea-4432-b018-ab952c849d59",
+          "textContent": "<p>A abertura não tenta impressionar com um objeto \"inteligente\". Ela primeiro define <strong>onde</strong> a dificuldade aparece e <strong>por que</strong> ela importa.</p><p><strong>sigue siendo un momento inseguro</strong> marca um problema recorrente, e <strong>no siempre se distingue con rapidez</strong> mostra o ponto exato da falha: o apoio está ali, mas não fica visível a tempo.</p><p>Quando uma leitura de inovação começa assim, o leitor entende que a pergunta principal não é \"que novidade é essa?\", mas sim <strong>que fricção real ela tenta reduzir</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a9515a36-4c54-43eb-bb15-b24cfa8f902a",
+      "title": "Leia o segundo trecho em espanhol e acompanhe a tradução. Repare no que o sistema faz e no que ele não promete fazer.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "b303c3cd-315a-44e4-8df0-a84be7ebe06e",
+          "textContent": "<p>Agora o texto explica o funcionamento.</p><p><strong>Para responder a ese problema, un equipo de diseno creo una tira flexible que se fija al pasamanos y se ilumina durante unos segundos cuando detecta movimiento. El sistema no pretende alumbrar todo el tramo: sirve para marcar el apoyo y los bordes en la zona mas oscura.</strong></p><p>Em português: <strong>Para responder a esse problema, uma equipe de design criou uma faixa flexivel que se fixa ao corrimao e se ilumina durante alguns segundos quando detecta movimento. O sistema não pretende iluminar toda a escada: ele serve para marcar o apoio e as bordas na zona mais escura.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a22efee2-e849-4033-9da1-d919574509ea",
+      "title": "Leia a explicação curta e compare o papel de se fija, se ilumina e sirve para.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "6fcf96bf-a72d-4703-9632-1a06c012cd4c",
+          "textContent": "<p>O trecho organiza o funcionamento em tres passos muito legiveis.</p><p><strong>se fija al pasamanos</strong> mostra a instalacao; <strong>se ilumina durante unos segundos</strong> mostra a ativacao; <strong>sirve para marcar el apoyo y los bordes</strong> define a função prática.</p><p>Tambem importa o limite: <strong>no pretende alumbrar todo el tramo</strong>. Essa restricao faz o texto soar mais confiavel, porque a solução aparece como especifica e não como cura total do problema.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e9f8b1e7-f0fc-417f-b0bb-e36511cbf5df",
+      "title": "Leia o terceiro trecho em espanhol e acompanhe a tradução. Foque em que tipo de prova o texto usa e com que cautela.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "ccd8a615-26c6-4486-81c6-e75660b7f204",
+          "textContent": "<p>Agora aparecem os indícios de prova.</p><p><strong>Segun una prueba piloto realizada en tres residencias, se observo que los usuarios completaban el recorrido con menos pausas y pedian ayuda con menor frecuencia. Los responsables aclaran que los datos todavia son iniciales y que el dispositivo funciona mejor en interiores de paso lento.</strong></p><p>Em português: <strong>Segundo um teste piloto realizado em tres residencias, observou-se que os usuários completavam o percurso com menos paradas e pediam ajuda com menor frequencia. Os responsáveis esclarecem que os dados ainda são iniciais e que o dispositivo funciona melhor em interiores de circulacao lenta.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "03dd9611-3091-48ae-a4bc-512127fc809a",
+      "title": "Leia a nota e observe como segun, se observo e todavia son iniciales trabalham juntos.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "d3475f0b-8afa-42c8-8a0a-509058b6b8af",
+          "textContent": "<p><strong>Segun una prueba piloto</strong> situa a fonte; <strong>se observo</strong> marca que houve observação concreta; <strong>los datos todavia son iniciales</strong> impede que a conclusão pareça definitiva.</p><p>O texto ainda acrescenta <strong>funciona mejor en interiores de paso lento</strong>, ou seja, delimita o contexto em que a melhora faz mais sentido.</p><p>Esse conjunto de marcas é central em leitura de evidência: o texto convence mais quando mostra resultado, mas também mostra <strong>alcance e limite</strong> da prova.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "41d0836b-7b6b-49c9-8ca5-dcea80a3f6a0",
+      "title": "Leia o modelo e observe como ele junta necessidade, funcionamento e prova em uma unica avaliação curta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "f34664a4-1b0b-42f8-9f95-ce2c39e855a4",
+          "textContent": "<p>Modelo de comentário:</p><p><strong>El texto presenta una innovación convincente porque parte de un problema real, explica con claridad como funciona el dispositivo y aporta una prueba piloto sin exagerar los resultados.</strong></p><p>Esse comentário não traduz tudo nem recompõe cada detalhe. Ele recupera o fio central da leitura: necessidade concreta, mecanismo explicavel e evidência usada com cautela.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1af2211d-1938-43fc-9c18-cd06dd041eea",
+      "title": "Leia o resumo final e ligue essa estrategia de leitura a textos curtos que circulam fora da aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "95bc2b47-460c-404c-9c3c-5237f92b154e",
+          "textContent": "<p>Quando você le sobre uma inovação aplicada, convém separar quatro camadas: <strong>necessidade, mecanismo, evidência e limite</strong>.</p><p>Esse tipo de leitura aparece em nota de acessibilidade, matéria curta de tecnologia, descrição de produto, comunicado de teste piloto e comentário sobre design útil no cotidiano.</p><p>Quanto mais cedo você identifica essas camadas, mais fácil fica distinguir entre uma solução realmente sustentada e uma promessa apenas vistosa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "246c0aed-a98b-4676-b650-c7711fb7a2c3",
+      "title": "Encontre o gatilho do problema",
+      "content": "<p>Qual trecho em espanhol identifica a situação concreta que torna a escada insegura?</p>",
+      "contentPlain": "Qual trecho em espanhol identifica a situação concreta que torna a escada insegura?",
+      "fileUrl": null,
+      "feedbackSuccess": "A leitura comeca por uma necessidade concreta antes de apresentar a inovação.",
+      "feedbackError": "A leitura comeca por uma necessidade concreta antes de apresentar a inovação.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "3bf257e1-4c14-4b4f-beac-2dbb369e6897",
+          "textContent": "una prueba piloto",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "246c0aed-a98b-4676-b650-c7711fb7a2c3"
+        },
+        {
+          "id": "5f2b1121-fbe4-4d4d-9b03-ec8cc549f24c",
+          "textContent": "unos datos iniciales",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "246c0aed-a98b-4676-b650-c7711fb7a2c3"
+        },
+        {
+          "id": "afc4f16c-d595-4de0-8fdb-5df8222f26ee",
+          "textContent": "un equipo de diseno",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "246c0aed-a98b-4676-b650-c7711fb7a2c3"
+        },
+        {
+          "id": "f0f57b46-89eb-44e8-8162-dce642822112",
+          "textContent": "un corte de luz",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "246c0aed-a98b-4676-b650-c7711fb7a2c3"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "70132eca-19f6-49f0-a028-030f35f21573",
+      "title": "Ligue passo e função",
+      "content": "<p>Recupere a sequência de funcionamento ligando cada pista em espanhol ao seu papel na leitura.</p>",
+      "contentPlain": "Recupere a sequência de funcionamento ligando cada pista em espanhol ao seu papel na leitura.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula organiza a solução por instalacao, ativacao e função observável.",
+      "feedbackError": "A aula organiza a solução por instalacao, ativacao e função observável.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1bec7ec9-28cc-40a4-a992-8ad132e19ee5",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "70132eca-19f6-49f0-a028-030f35f21573"
+        },
+        {
+          "id": "2f486b71-2870-4573-aea8-dd2321cb44e3",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "70132eca-19f6-49f0-a028-030f35f21573"
+        }
+      ],
+      "associations": [
+        {
+          "id": "df5c8070-3746-4ba5-9a93-f01d0c8f2aee",
+          "exerciseId": "70132eca-19f6-49f0-a028-030f35f21573",
+          "leftContent": "se fija al pasamanos",
+          "rightContent": "mostra onde a solução se instala",
+          "sequenceItem": 1
+        },
+        {
+          "id": "411e07f4-a2e2-4924-9953-44e4866a9385",
+          "exerciseId": "70132eca-19f6-49f0-a028-030f35f21573",
+          "leftContent": "se ilumina durante unos segundos",
+          "rightContent": "mostra quando a ativacao acontece",
+          "sequenceItem": 2
+        },
+        {
+          "id": "76c75085-aa63-4e68-9481-c0445a3f8fdf",
+          "exerciseId": "70132eca-19f6-49f0-a028-030f35f21573",
+          "leftContent": "sirve para marcar el apoyo y los bordes",
+          "rightContent": "mostra a função prática do sistema",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "42d47465-a744-4dd3-b495-fcc6d43af55e",
+      "title": "Identifique o indício observado",
+      "content": "<p>Qual opção em espanhol mostra um efeito observado no uso, e não apenas o problema ou o mecanismo?</p>",
+      "contentPlain": "Qual opção em espanhol mostra um efeito observado no uso, e não apenas o problema ou o mecanismo?",
+      "fileUrl": null,
+      "feedbackSuccess": "A evidência da aula depende de observacao de uso, não só de descrição da solução.",
+      "feedbackError": "A evidência da aula depende de observacao de uso, não só de descrição da solução.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "195e0216-f717-41bd-9713-63670caddae0",
+          "textContent": "sirve para marcar el apoyo y los bordes",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "42d47465-a744-4dd3-b495-fcc6d43af55e"
+        },
+        {
+          "id": "55a679ab-7709-4827-9ddc-3c9f2de524f9",
+          "textContent": "subir o bajar la escalera sigue siendo un momento inseguro",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "42d47465-a744-4dd3-b495-fcc6d43af55e"
+        },
+        {
+          "id": "58a9177a-da4e-4854-a948-90dc254960dd",
+          "textContent": "se observo que los usuarios completaban el recorrido con menos pausas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "42d47465-a744-4dd3-b495-fcc6d43af55e"
+        },
+        {
+          "id": "de29cb84-326f-4b6f-a14c-dc9d9788a51c",
+          "textContent": "el sistema no pretende alumbrar todo el tramo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "42d47465-a744-4dd3-b495-fcc6d43af55e"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "ed7f0094-7f7a-4224-ad28-e95e4eae4d5d",
+      "title": "Ligue marca e leitura",
+      "content": "<p>Relacione cada pista em espanhol ao efeito que ela cria na leitura da prova.</p>",
+      "contentPlain": "Relacione cada pista em espanhol ao efeito que ela cria na leitura da prova.",
+      "fileUrl": null,
+      "feedbackSuccess": "A leitura critica da aula combina fonte, observacao, limite e contexto.",
+      "feedbackError": "A leitura critica da aula combina fonte, observacao, limite e contexto.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2ac689f5-1552-49ab-9d71-8bc41fedc0ea",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ed7f0094-7f7a-4224-ad28-e95e4eae4d5d"
+        },
+        {
+          "id": "b793314d-f49c-43f5-9bde-3f7632ee6c5d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ed7f0094-7f7a-4224-ad28-e95e4eae4d5d"
+        }
+      ],
+      "associations": [
+        {
+          "id": "b5dad4cf-a951-419f-9e0d-c0723af58497",
+          "exerciseId": "ed7f0094-7f7a-4224-ad28-e95e4eae4d5d",
+          "leftContent": "segun una prueba piloto",
+          "rightContent": "situa de onde vem a informacao",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ad285041-76b9-4f2a-a2c1-19908982f484",
+          "exerciseId": "ed7f0094-7f7a-4224-ad28-e95e4eae4d5d",
+          "leftContent": "se observo",
+          "rightContent": "marca que houve observacao concreta",
+          "sequenceItem": 2
+        },
+        {
+          "id": "14b85a17-eb9e-4940-ba31-91673c0bea5d",
+          "exerciseId": "ed7f0094-7f7a-4224-ad28-e95e4eae4d5d",
+          "leftContent": "los datos todavia son iniciales",
+          "rightContent": "introduz cautela na conclusão",
+          "sequenceItem": 3
+        },
+        {
+          "id": "6a16f8e4-228b-46cc-8707-f4e65e99c22d",
+          "exerciseId": "ed7f0094-7f7a-4224-ad28-e95e4eae4d5d",
+          "leftContent": "funciona mejor en interiores de paso lento",
+          "rightContent": "delimita onde o resultado faz mais sentido",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "e7597c09-9353-47f4-b15c-c1cb754aa42c",
+      "title": "Monte o ponto de referencia",
+      "content": "<p>El sistema sirve para marcar el _____ y los bordes.</p><p>Tradução: O sistema serve para marcar o apoio e as bordas.</p>",
+      "contentPlain": "El sistema sirve para marcar el _____ y los bordes. Tradução: O sistema serve para marcar o apoio e as bordas.",
+      "fileUrl": null,
+      "feedbackSuccess": "A função prática da solução aparece na leitura como apoio visivel em uma zona escura.",
+      "feedbackError": "A função prática da solução aparece na leitura como apoio visivel em uma zona escura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "apoyo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "b446b98b-5dd3-40b7-a740-2de0d001354e",
+      "title": "Aplique a lente final",
+      "content": "<p>Use a lente de necessidade, mecanismo, evidência e limite para ligar cada pista em espanhol a pergunta que ela responde.</p>",
+      "contentPlain": "Use a lente de necessidade, mecanismo, evidência e limite para ligar cada pista em espanhol a pergunta que ela responde.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final da aula separa necessidade, mecanismo, evidência e limite.",
+      "feedbackError": "O recap final da aula separa necessidade, mecanismo, evidência e limite.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "77db9ad4-a3f9-4dd7-b08b-98c993df84e1",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b446b98b-5dd3-40b7-a740-2de0d001354e"
+        },
+        {
+          "id": "ce981eb9-6519-4875-8225-f90363c8a981",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b446b98b-5dd3-40b7-a740-2de0d001354e"
+        }
+      ],
+      "associations": [
+        {
+          "id": "21226aae-6efc-4960-aa8a-6c7e260ca28a",
+          "exerciseId": "b446b98b-5dd3-40b7-a740-2de0d001354e",
+          "leftContent": "sigue siendo un momento inseguro",
+          "rightContent": "que necessidade prática aparece",
+          "sequenceItem": 1
+        },
+        {
+          "id": "41b7a8dd-a59f-44de-8109-6d072ed5ba76",
+          "exerciseId": "b446b98b-5dd3-40b7-a740-2de0d001354e",
+          "leftContent": "se ilumina durante unos segundos cuando detecta movimiento",
+          "rightContent": "que mudança concreta a solução introduz",
+          "sequenceItem": 2
+        },
+        {
+          "id": "948c799e-2c12-43ee-8643-6742c38dfcb3",
+          "exerciseId": "b446b98b-5dd3-40b7-a740-2de0d001354e",
+          "leftContent": "se observo que los usuarios completaban el recorrido con menos pausas",
+          "rightContent": "que prova observável o texto oferece",
+          "sequenceItem": 3
+        },
+        {
+          "id": "b183e560-d66c-40ca-abf9-32d571b9def2",
+          "exerciseId": "b446b98b-5dd3-40b7-a740-2de0d001354e",
+          "leftContent": "los datos todavia son iniciales",
+          "rightContent": "que limite acompanha a prova",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "a87d5c89-caf2-491e-b02d-73f4b437e5fd",
+      "title": "Recupere o limite da prova",
+      "content": "<p>Los datos todavia son _________ y el dispositivo funciona mejor en interiores de paso lento.</p><p>Tradução: Os dados ainda são iniciais e o dispositivo funciona melhor em interiores de circulacao lenta.</p>",
+      "contentPlain": "Los datos todavia son _________ y el dispositivo funciona mejor en interiores de paso lento. Tradução: Os dados ainda são iniciais e o dispositivo funciona melhor em interiores de circulacao lenta.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula trata a cautela como parte central da linguagem de evidência.",
+      "feedbackError": "A aula trata a cautela como parte central da linguagem de evidência.",
+      "answerType": "buildWord",
+      "expectedAnswer": "iniciales",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c442e19f-b43f-4245-83e0-8b6547855738",
+      "title": "Recupere a fonte citada",
+      "content": "<p>Segun una ______ piloto realizada en tres residencias, se observo una mejora inicial.</p><p>Tradução: Segundo uma prova piloto realizada em tres residencias, observou-se uma melhora inicial.</p>",
+      "contentPlain": "Segun una ______ piloto realizada en tres residencias, se observo una mejora inicial. Tradução: Segundo uma prova piloto realizada em tres residencias, observou-se uma melhora inicial.",
+      "fileUrl": null,
+      "feedbackSuccess": "A evidência da aula ganha força quando a fonte piloto fica explicita.",
+      "feedbackError": "A evidência da aula ganha força quando a fonte piloto fica explicita.",
+      "answerType": "buildWord",
+      "expectedAnswer": "prueba",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f70f2f1b-60d6-4749-a578-8a61d4725495",
+      "title": "Recupere o gatilho do sistema",
+      "content": "<p>La tira se ilumina durante unos segundos cuando detecta __________.</p><p>Tradução: A faixa se ilumina durante alguns segundos quando detecta movimento.</p>",
+      "contentPlain": "La tira se ilumina durante unos segundos cuando detecta __________. Tradução: A faixa se ilumina durante alguns segundos quando detecta movimento.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, a ativacao do sistema faz parte da explicação concreta do mecanismo.",
+      "feedbackError": "Na aula, a ativacao do sistema faz parte da explicação concreta do mecanismo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "movimiento",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f68f589d-6069-422e-8682-b87ef8ebda5a",
+      "title": "Desmonte o comentário-modelo",
+      "content": "<p>Recupere como o comentário final organiza o texto sem repetir a leitura inteira.</p>",
+      "contentPlain": "Recupere como o comentário final organiza o texto sem repetir a leitura inteira.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário-modelo da aula junta problema, funcionamento, evidência e cautela.",
+      "feedbackError": "O comentário-modelo da aula junta problema, funcionamento, evidência e cautela.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1f11337d-7dd1-4090-a7a7-7af7d93c4d0b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "ada7023c-a865-4533-8f3a-228dc69bb4e2",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f68f589d-6069-422e-8682-b87ef8ebda5a"
+        },
+        {
+          "id": "c55440f5-60a4-4b77-8665-b35968b8a08a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f68f589d-6069-422e-8682-b87ef8ebda5a"
+        }
+      ],
+      "associations": [
+        {
+          "id": "fd30844f-89ac-4023-a27e-6b1fc3402aa8",
+          "exerciseId": "f68f589d-6069-422e-8682-b87ef8ebda5a",
+          "leftContent": "parte de un problema real",
+          "rightContent": "resume a necessidade concreta",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a8146a06-b900-470b-8ec8-5dad99e4d3a3",
+          "exerciseId": "f68f589d-6069-422e-8682-b87ef8ebda5a",
+          "leftContent": "explica con claridad como funciona el dispositivo",
+          "rightContent": "resume o mecanismo de forma legível",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8a5f442a-a56d-4793-a91e-d74b1f685df7",
+          "exerciseId": "f68f589d-6069-422e-8682-b87ef8ebda5a",
+          "leftContent": "aporta una prueba piloto",
+          "rightContent": "resume a presenca de evidência",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2df3345d-5feb-4fb4-93f9-ff2cf0ae59eb",
+          "exerciseId": "f68f589d-6069-422e-8682-b87ef8ebda5a",
+          "leftContent": "sin exagerar los resultados",
+          "rightContent": "resume a cautela diante da prova",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Ler inovacao aplicada com foco em prova e funcionamento"
+}

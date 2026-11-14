@@ -1,0 +1,669 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+    "attemptId": "b90a6b6c-507f-43db-915d-dc20c64e2c05",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "bff427d7-8644-4854-9456-d70f3932ddea",
+      "6516dc40-fac5-4e89-89e5-7df0fb1edaff",
+      "d090946b-15f2-43da-abcb-b14b81917bba",
+      "c6322b54-dc4f-4c64-9a9a-78eb242e0f59",
+      "683894b9-4263-403d-811a-af883e8e0182"
+    ],
+    "evaluationExerciseIds": [
+      "24b1c9bb-c82f-4d34-8328-9e3ae72d6173",
+      "1745ed3c-f064-4dac-ac59-882380bde5a8",
+      "ef765a95-eedb-4dc5-a1b0-85cc36874ae8",
+      "a99c00b5-bc25-4f3c-aa82-bb100516c9ac",
+      "94a18c09-50f3-49c6-ade1-1c6dd06ebb95"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:54.0114589Z"
+  },
+  "contents": [
+    {
+      "id": "a30a1c46-a5f3-4863-bdbe-b0fb135445a0",
+      "title": "Leia a orientação curta antes de entrar nas frases em espanhol.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "f7ab266b-1256-4867-8ee4-d3f628121b67",
+          "textContent": "<p>Nesta aula, o foco não é aprender muitos lugares novos.</p><p>Você vai ver como alguém pede ajuda na rua para encontrar um lugar que já conhece em espanhol.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f4dd1f8b-7051-45ec-b9aa-bad359f92dd0",
+      "title": "Olhe a cena, escute o áudio e acompanhe a pergunta em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "f86ab60e-88e1-40d0-8d10-8e4ef7857a21",
+          "textContent": "<p>Escute a pergunta.</p><p><strong>¿Hay un mercado por aquí?</strong></p><p>Em português: Tem um mercado aqui por perto?</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/beac15223e0447f988dd7bb05b676033_b02-contexto-calle.png?Expires=1794099474&Signature=E-mH-O5BczEOAGjVTYosQaH~bcA-htCEZd3vzNo0bsz-6U6szmYz1ALWyQ6JmMcvmGzzPv7Q-NUy8rZyz2FfxkW32HdOFunPYyWP1pk1bcFa1b4zV6KlE-5iIBMQj2OwrJUt3bSVG4ClP2vD1557FKCp4vEfnmjqtoHH4pJreGCVtFMWmz0QJI3FAxo-slosMwf42Uj8aakZweibmYPceCiCyfPbyj-HCwwck5x7k14JsgEZGLbUVKPPHDo6N-440MZAQkV0-HeWAdvT1p9bLFDU4fZNCzL7E8AzZoSM5II1GGbpSS-fFHfkKnMsl2CWUXYV0py3q6yPM7SCsyookQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/85d9d824c6534f1680c4848038247741_b02-hay-un-mercado-por-aqui.mp3?Expires=1794099474&Signature=1tdcCdsJ3HtLNQaGKnGJGJorBmeSkx6POvjIMuUBXoGvdOhQ0wWnOcr4MWd~wkyfaAUiaY0KbStAlSrg2YeaO7cT~oPbgLWo9-h4g2k5MNfit-uJ1fpAEezLXTs5LqMI0IoRtDEonlX8y9dcLoqXLe~v3VdSrlw46BJ3af228L4aRDU3ylh5YQ4Z4ClxsitfARnEmZLh6vaVsv80QVc3iRuXzzIHMXkARaYCxL3I5BwKW0I1gNobsxe7tm9nMDE3jRskfER7sQjItY3jU9VMy6E~fGBNT7GA4IvxSm-xUHf0VC~Xg4xiYQGtKUYrK8nLXRVQHWyPJxO2qybhT-Ln9g__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7ec4fdeb-160b-4c0d-9037-33aaf31a1163",
+      "title": "Leia a observação curta e repare no sentido de proximidade.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "e1ef10ca-d241-450f-81b2-45503eb6a68d",
+          "textContent": "<p><strong>¿Hay ... por aquí?</strong> serve para perguntar se um lugar está perto de você.</p><p><strong>por aquí</strong> passa a ideia de <strong>aqui por perto</strong>, sem pedir uma localização exata.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ba12eca8-e766-47c9-b94f-020506cfc990",
+      "title": "Escute a resposta e acompanhe as duas partes da frase.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "6fb716ac-ec9e-48bf-b490-6c3350bb4ca4",
+          "textContent": "<p>Agora veja uma resposta possível.</p><p><strong>No, no hay un mercado en esta calle, pero hay una tienda cerca.</strong></p><p>Em português: Não, não há um mercado nesta rua, mas há uma loja perto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/81c86f1b82ed4457b56aee6ad21171d0_b04-no-hay-un-mercado-en-esta-calle-pero-hay-una-tienda-cerca.mp3?Expires=1794099474&Signature=Zznq7h3azeNJYoJf5ehzWmuyCjoai0hrwZz-tR2SVWFPirllMnPGdmhZVp7sGnVjqeXJdLx71G5VsFK-C~x3oyxYJYBwbMVnKfjXuhDL0EZDezKQe9FJ2RyLHO4C2UYYP0iQfzCRj51V8pVQBMjbq2jMdf-LPjogFF7lrqmkGf7idUJCKtOsIr2Xijb5YdDCVuH4lq10UyX6cKaHT2oJMrrH72n5QsYY6ZionqavkiDV1FwS7ngzXVaT4HffWJuhPTcZEwigdv8jk5yGnvDh~1Opcg1WQgU2zHQbhbT9k2wDLnBcvrajPpp0r2lMCMEIH52Ss7VSrytvLB21VjUeBw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "73d20493-27d8-4745-aa34-c1ed4bc4b3dd",
+      "title": "Escute a pergunta e note a mudança de foco em relação à primeira.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "877ef3ca-2b59-4333-b8e2-8929143b5939",
+          "textContent": "<p>Agora a pergunta muda um pouco.</p><p><strong>¿Dónde hay una cafetería?</strong></p><p>Em português: Onde tem uma cafeteria?</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f022c98ae4714b238b307411139c21a4_b05-donde-hay-una-cafeteria.mp3?Expires=1794099474&Signature=NioDnoe1qE0Zr72R1Siyitc7fj6qhLtML8BVjSj3Sn2OHR~F7bZI33HuvJy-~VP4DxEhglUotqUQZb7983WjK5IVQmrVdM87CZPoMAkybrkh4ccSmrU02kKowkHPKbLIZEhSnA0WVE48zEeOleLVgejVSetHhjQFEV0omyO7IAw7cWFRs5vG0VJ3iSuyCjIHboFEThI05OTa0HxpqYCBniVsR~wWXqgMWR5wNG-CUTUC7nLXIQsECLkD0zHcRJyEpCmVkYvg8L~asAitEwn6RFMieO1GhQmTbxxNChod6BnKWBzQdojMwanBtxWSFZFpe5Jd8rnhaU~B7PKkXmrCEA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f42c380b-9a6c-493b-99ff-084a7a47a61d",
+      "title": "Compare as duas perguntas e observe o que cada uma procura descobrir.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "e0268824-4e24-4399-b708-65ed67cb7f31",
+          "textContent": "<p><strong>¿Hay un mercado por aquí?</strong> pergunta se o lugar existe perto.</p><p><strong>¿Dónde hay una cafetería?</strong> pergunta onde esse lugar fica.</p><p>As duas formas pedem ajuda, mas a segunda busca uma localização mais concreta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1ed49464-d764-4c0a-80f6-125f584f4b74",
+      "title": "Pedido de ajuda na rua",
+      "description": "<p>Depois das frases separadas, veja como elas entram em uma conversa curta entre duas pessoas na rua.</p>",
+      "contentType": 7,
+      "sequenceItem": 7,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Hay un mercado por aquí?</div>\n  <div style=\"opacity: 0.45;\">Tem um mercado aqui por perto?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/85d9d824c6534f1680c4848038247741_b02-hay-un-mercado-por-aqui.mp3?Expires=1794099474&Signature=1tdcCdsJ3HtLNQaGKnGJGJorBmeSkx6POvjIMuUBXoGvdOhQ0wWnOcr4MWd~wkyfaAUiaY0KbStAlSrg2YeaO7cT~oPbgLWo9-h4g2k5MNfit-uJ1fpAEezLXTs5LqMI0IoRtDEonlX8y9dcLoqXLe~v3VdSrlw46BJ3af228L4aRDU3ylh5YQ4Z4ClxsitfARnEmZLh6vaVsv80QVc3iRuXzzIHMXkARaYCxL3I5BwKW0I1gNobsxe7tm9nMDE3jRskfER7sQjItY3jU9VMy6E~fGBNT7GA4IvxSm-xUHf0VC~Xg4xiYQGtKUYrK8nLXRVQHWyPJxO2qybhT-Ln9g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">No, no hay un mercado en esta calle, pero hay una tienda cerca.</div>\n  <div style=\"opacity: 0.45;\">Não, não há um mercado nesta rua, mas há uma loja perto.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/81c86f1b82ed4457b56aee6ad21171d0_b04-no-hay-un-mercado-en-esta-calle-pero-hay-una-tienda-cerca.mp3?Expires=1794099474&Signature=Zznq7h3azeNJYoJf5ehzWmuyCjoai0hrwZz-tR2SVWFPirllMnPGdmhZVp7sGnVjqeXJdLx71G5VsFK-C~x3oyxYJYBwbMVnKfjXuhDL0EZDezKQe9FJ2RyLHO4C2UYYP0iQfzCRj51V8pVQBMjbq2jMdf-LPjogFF7lrqmkGf7idUJCKtOsIr2Xijb5YdDCVuH4lq10UyX6cKaHT2oJMrrH72n5QsYY6ZionqavkiDV1FwS7ngzXVaT4HffWJuhPTcZEwigdv8jk5yGnvDh~1Opcg1WQgU2zHQbhbT9k2wDLnBcvrajPpp0r2lMCMEIH52Ss7VSrytvLB21VjUeBw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Dónde hay una cafetería?</div>\n  <div style=\"opacity: 0.45;\">Onde tem uma cafeteria?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f022c98ae4714b238b307411139c21a4_b05-donde-hay-una-cafeteria.mp3?Expires=1794099474&Signature=NioDnoe1qE0Zr72R1Siyitc7fj6qhLtML8BVjSj3Sn2OHR~F7bZI33HuvJy-~VP4DxEhglUotqUQZb7983WjK5IVQmrVdM87CZPoMAkybrkh4ccSmrU02kKowkHPKbLIZEhSnA0WVE48zEeOleLVgejVSetHhjQFEV0omyO7IAw7cWFRs5vG0VJ3iSuyCjIHboFEThI05OTa0HxpqYCBniVsR~wWXqgMWR5wNG-CUTUC7nLXIQsECLkD0zHcRJyEpCmVkYvg8L~asAitEwn6RFMieO1GhQmTbxxNChod6BnKWBzQdojMwanBtxWSFZFpe5Jd8rnhaU~B7PKkXmrCEA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Hay una cafetería al final de esta calle.</div>\n  <div style=\"opacity: 0.45;\">Há uma cafeteria no final desta rua.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d30f5a269cf04f2eba4c6c67d22be811_b06-hay-una-cafeteria-al-final-de-esta-calle.mp3?Expires=1794099474&Signature=MNGJrxErVVk4iJjzVvcJhFJRbr~6c4lKgQsSw41Asx5~8SIuMy5sb0pzPcs1EM5TCvHTyHoi7RSUjTg7gtkKmYjUm2de85c0LIUNVzBfbgRYwrKD670ehKlO32dD3paKxPAkn-rP9RBTNSVG6Ov2Ra2WsIVYmaEZVfgKyn1MG3P44fUJd0DJX88UHvwbySwwe24dS0Gu2uCZxaIBNQ2ByTEnI~r5iA1D7AM~X1I767mCLMlGiYW41clg3faWkkstzVl-dX4njqIK0NaPdRTO9OgkdCHMAUQ3hqEZ4D-u5FNiWXFpj7YWntQFFWRWwRMzxaFRRNUoz2vhWta8joJpgA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "6d2c67ea-833d-4141-968f-3ef9808777a9",
+      "title": "Leia o resumo final e conecte as perguntas a um momento real em que você precisaria pedir ajuda.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "1772df7c-eda0-407b-89a1-4ceeb1f0068d",
+          "textContent": "<p>Na vida real, essas perguntas aparecem quando você caminha por um bairro e precisa encontrar um lugar.</p><p><strong>¿Hay un mercado por aquí?</strong> ajuda a saber se algo existe perto.</p><p><strong>¿Dónde hay una cafetería?</strong> ajuda a pedir uma localização mais clara.</p><p>Com essas duas formas, você já consegue começar uma troca curta sobre lugares na cidade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "bff427d7-8644-4854-9456-d70f3932ddea",
+      "title": "Escute e diferencie as duas perguntas",
+      "content": "<p>Ouça os dois modelos da aula e ligue cada áudio à pergunta certa em espanhol.</p>",
+      "contentPlain": "Ouça os dois modelos da aula e ligue cada áudio à pergunta certa em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta desta aula ajuda a distinguir perguntar se existe e perguntar onde fica.",
+      "feedbackError": "A escuta desta aula ajuda a distinguir perguntar se existe e perguntar onde fica.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "08175540-e931-4c7f-875b-bef343b2a66a",
+          "exerciseId": "bff427d7-8644-4854-9456-d70f3932ddea",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/85d9d824c6534f1680c4848038247741_b02-hay-un-mercado-por-aqui.mp3?Expires=1794099474&Signature=1tdcCdsJ3HtLNQaGKnGJGJorBmeSkx6POvjIMuUBXoGvdOhQ0wWnOcr4MWd~wkyfaAUiaY0KbStAlSrg2YeaO7cT~oPbgLWo9-h4g2k5MNfit-uJ1fpAEezLXTs5LqMI0IoRtDEonlX8y9dcLoqXLe~v3VdSrlw46BJ3af228L4aRDU3ylh5YQ4Z4ClxsitfARnEmZLh6vaVsv80QVc3iRuXzzIHMXkARaYCxL3I5BwKW0I1gNobsxe7tm9nMDE3jRskfER7sQjItY3jU9VMy6E~fGBNT7GA4IvxSm-xUHf0VC~Xg4xiYQGtKUYrK8nLXRVQHWyPJxO2qybhT-Ln9g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Hay un mercado por aquí?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f61142ba-d9e3-4a6c-aa30-7b209c2c6cf3",
+          "exerciseId": "bff427d7-8644-4854-9456-d70f3932ddea",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f022c98ae4714b238b307411139c21a4_b05-donde-hay-una-cafeteria.mp3?Expires=1794099474&Signature=NioDnoe1qE0Zr72R1Siyitc7fj6qhLtML8BVjSj3Sn2OHR~F7bZI33HuvJy-~VP4DxEhglUotqUQZb7983WjK5IVQmrVdM87CZPoMAkybrkh4ccSmrU02kKowkHPKbLIZEhSnA0WVE48zEeOleLVgejVSetHhjQFEV0omyO7IAw7cWFRs5vG0VJ3iSuyCjIHboFEThI05OTa0HxpqYCBniVsR~wWXqgMWR5wNG-CUTUC7nLXIQsECLkD0zHcRJyEpCmVkYvg8L~asAitEwn6RFMieO1GhQmTbxxNChod6BnKWBzQdojMwanBtxWSFZFpe5Jd8rnhaU~B7PKkXmrCEA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Dónde hay una cafetería?",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "6516dc40-fac5-4e89-89e5-7df0fb1edaff",
+      "title": "Escolha a pergunta de proximidade",
+      "content": "<p>Você está na rua e quer saber se há um mercado por perto. Qual pergunta combina melhor com essa situação?</p>",
+      "contentPlain": "Você está na rua e quer saber se há um mercado por perto. Qual pergunta combina melhor com essa situação?",
+      "fileUrl": null,
+      "feedbackSuccess": "`¿Hay ... por aquí?` é a forma curta da aula para perguntar se um lugar existe perto.",
+      "feedbackError": "`¿Hay ... por aquí?` é a forma curta da aula para perguntar se um lugar existe perto.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "224653f2-aac6-4907-9d86-e0b7f793a6a6",
+          "textContent": "¿Hay una cafetería por aquí?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6516dc40-fac5-4e89-89e5-7df0fb1edaff"
+        },
+        {
+          "id": "c265327c-f6dc-43e5-a2c5-eea840d8109a",
+          "textContent": "¿Hay un mercado por aquí?",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6516dc40-fac5-4e89-89e5-7df0fb1edaff"
+        },
+        {
+          "id": "e3672589-2d04-4a0c-83c7-65ac82f152b0",
+          "textContent": "¿Dónde hay una cafetería?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6516dc40-fac5-4e89-89e5-7df0fb1edaff"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d090946b-15f2-43da-abcb-b14b81917bba",
+      "title": "Identifique as palavras da resposta",
+      "content": "<p>Escute a resposta sobre o mercado e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a resposta sobre o mercado e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/81c86f1b82ed4457b56aee6ad21171d0_b04-no-hay-un-mercado-en-esta-calle-pero-hay-una-tienda-cerca.mp3?Expires=1794099474&Signature=Zznq7h3azeNJYoJf5ehzWmuyCjoai0hrwZz-tR2SVWFPirllMnPGdmhZVp7sGnVjqeXJdLx71G5VsFK-C~x3oyxYJYBwbMVnKfjXuhDL0EZDezKQe9FJ2RyLHO4C2UYYP0iQfzCRj51V8pVQBMjbq2jMdf-LPjogFF7lrqmkGf7idUJCKtOsIr2Xijb5YdDCVuH4lq10UyX6cKaHT2oJMrrH72n5QsYY6ZionqavkiDV1FwS7ngzXVaT4HffWJuhPTcZEwigdv8jk5yGnvDh~1Opcg1WQgU2zHQbhbT9k2wDLnBcvrajPpp0r2lMCMEIH52Ss7VSrytvLB21VjUeBw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A resposta com `no hay` nega um lugar e depois oferece outra opção perto.",
+      "feedbackError": "A resposta com `no hay` nega um lugar e depois oferece outra opção perto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0be39c61-b568-4e29-8aed-0f2ae5809aa2",
+          "textContent": "calle",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d090946b-15f2-43da-abcb-b14b81917bba"
+        },
+        {
+          "id": "74f625b5-cd6f-4ab6-89e3-49ab7179f730",
+          "textContent": "tienda",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d090946b-15f2-43da-abcb-b14b81917bba"
+        },
+        {
+          "id": "7f60a4d6-c6f0-4f48-ac11-637fc1f96e2d",
+          "textContent": "cafetería",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d090946b-15f2-43da-abcb-b14b81917bba"
+        },
+        {
+          "id": "84859cf8-1876-452e-af6d-ff5023bdeff5",
+          "textContent": "final",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d090946b-15f2-43da-abcb-b14b81917bba"
+        },
+        {
+          "id": "a9c95791-9b1a-4fe6-be70-6142c9d6d36b",
+          "textContent": "cerca",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d090946b-15f2-43da-abcb-b14b81917bba"
+        },
+        {
+          "id": "c1f242da-d89b-4f37-bb3c-623839e111ef",
+          "textContent": "hay",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d090946b-15f2-43da-abcb-b14b81917bba"
+        },
+        {
+          "id": "c8f97613-3c16-434a-9771-ba1f60b36a49",
+          "textContent": "mercado",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d090946b-15f2-43da-abcb-b14b81917bba"
+        },
+        {
+          "id": "ee897636-2a16-4cdd-b7b4-88f9266f2104",
+          "textContent": "no",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d090946b-15f2-43da-abcb-b14b81917bba"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c6322b54-dc4f-4c64-9a9a-78eb242e0f59",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a pergunta usada para pedir a localização de um lugar.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a pergunta usada para pedir a localização de um lugar.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f022c98ae4714b238b307411139c21a4_b05-donde-hay-una-cafeteria.mp3?Expires=1794099474&Signature=NioDnoe1qE0Zr72R1Siyitc7fj6qhLtML8BVjSj3Sn2OHR~F7bZI33HuvJy-~VP4DxEhglUotqUQZb7983WjK5IVQmrVdM87CZPoMAkybrkh4ccSmrU02kKowkHPKbLIZEhSnA0WVE48zEeOleLVgejVSetHhjQFEV0omyO7IAw7cWFRs5vG0VJ3iSuyCjIHboFEThI05OTa0HxpqYCBniVsR~wWXqgMWR5wNG-CUTUC7nLXIQsECLkD0zHcRJyEpCmVkYvg8L~asAitEwn6RFMieO1GhQmTbxxNChod6BnKWBzQdojMwanBtxWSFZFpe5Jd8rnhaU~B7PKkXmrCEA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A prática oral ativa `¿Dónde hay...?` para pedir localização na cidade.",
+      "feedbackError": "A prática oral ativa `¿Dónde hay...?` para pedir localização na cidade.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "¿Dónde hay una cafetería?",
+      "typeSpecificData": "{\"expectedText\":\"\\u00BFD\\u00F3nde hay una cafeter\\u00EDa?\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/f022c98ae4714b238b307411139c21a4_b05-donde-hay-una-cafeteria.mp3?Expires=1794099474\\u0026Signature=NioDnoe1qE0Zr72R1Siyitc7fj6qhLtML8BVjSj3Sn2OHR~F7bZI33HuvJy-~VP4DxEhglUotqUQZb7983WjK5IVQmrVdM87CZPoMAkybrkh4ccSmrU02kKowkHPKbLIZEhSnA0WVE48zEeOleLVgejVSetHhjQFEV0omyO7IAw7cWFRs5vG0VJ3iSuyCjIHboFEThI05OTa0HxpqYCBniVsR~wWXqgMWR5wNG-CUTUC7nLXIQsECLkD0zHcRJyEpCmVkYvg8L~asAitEwn6RFMieO1GhQmTbxxNChod6BnKWBzQdojMwanBtxWSFZFpe5Jd8rnhaU~B7PKkXmrCEA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "683894b9-4263-403d-811a-af883e8e0182",
+      "title": "Ligue a frase ao seu uso",
+      "content": "<p>Relacione cada fala da aula ao que ela faz na conversa na rua.</p>",
+      "contentPlain": "Relacione cada fala da aula ao que ela faz na conversa na rua.",
+      "fileUrl": null,
+      "feedbackSuccess": "O microdiálogo da aula combina pergunta de proximidade, resposta curta e localização.",
+      "feedbackError": "O microdiálogo da aula combina pergunta de proximidade, resposta curta e localização.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0b27e3e3-e6bf-476a-9717-0f22c30924fe",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "683894b9-4263-403d-811a-af883e8e0182"
+        },
+        {
+          "id": "bb46b29f-9b1f-4761-ab9f-a6d78efe5876",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "683894b9-4263-403d-811a-af883e8e0182"
+        }
+      ],
+      "associations": [
+        {
+          "id": "faf0a6d3-e9a5-478b-a4c7-0d15a8acee59",
+          "exerciseId": "683894b9-4263-403d-811a-af883e8e0182",
+          "leftContent": "¿Hay un mercado por aquí?",
+          "rightContent": "perguntar se um lugar existe perto",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d71c406a-5358-46df-a089-1ba8c3510ac2",
+          "exerciseId": "683894b9-4263-403d-811a-af883e8e0182",
+          "leftContent": "No, no hay un mercado en esta calle, pero hay una tienda cerca.",
+          "rightContent": "negar uma opção e oferecer outra perto",
+          "sequenceItem": 2
+        },
+        {
+          "id": "47fcef76-95b3-41eb-8362-91e43304de0b",
+          "exerciseId": "683894b9-4263-403d-811a-af883e8e0182",
+          "leftContent": "¿Dónde hay una cafetería?",
+          "rightContent": "pedir a localização de um lugar",
+          "sequenceItem": 3
+        },
+        {
+          "id": "7f292e5b-0d4b-407f-89ae-02144d14509e",
+          "exerciseId": "683894b9-4263-403d-811a-af883e8e0182",
+          "leftContent": "Hay una cafetería al final de esta calle.",
+          "rightContent": "indicar onde fica um lugar",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "24b1c9bb-c82f-4d34-8328-9e3ae72d6173",
+      "title": "Complete a pergunta de proximidade",
+      "content": "<p>¿___ un mercado por aquí?</p><p>Tradução: Tem um mercado aqui por perto?</p>",
+      "contentPlain": "¿___ un mercado por aquí? Tradução: Tem um mercado aqui por perto?",
+      "fileUrl": null,
+      "feedbackSuccess": "`¿Hay ... por aquí?` é a estrutura curta da aula para perguntar se algo existe perto.",
+      "feedbackError": "`¿Hay ... por aquí?` é a estrutura curta da aula para perguntar se algo existe perto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Hay",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1745ed3c-f064-4dac-ac59-882380bde5a8",
+      "title": "Recupere a localização pelo áudio",
+      "content": "<p>Escute a indicação sobre a cafeteria e marque só as palavras realmente presentes.</p>",
+      "contentPlain": "Escute a indicação sobre a cafeteria e marque só as palavras realmente presentes.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d30f5a269cf04f2eba4c6c67d22be811_b06-hay-una-cafeteria-al-final-de-esta-calle.mp3?Expires=1794099474&Signature=MNGJrxErVVk4iJjzVvcJhFJRbr~6c4lKgQsSw41Asx5~8SIuMy5sb0pzPcs1EM5TCvHTyHoi7RSUjTg7gtkKmYjUm2de85c0LIUNVzBfbgRYwrKD670ehKlO32dD3paKxPAkn-rP9RBTNSVG6Ov2Ra2WsIVYmaEZVfgKyn1MG3P44fUJd0DJX88UHvwbySwwe24dS0Gu2uCZxaIBNQ2ByTEnI~r5iA1D7AM~X1I767mCLMlGiYW41clg3faWkkstzVl-dX4njqIK0NaPdRTO9OgkdCHMAUQ3hqEZ4D-u5FNiWXFpj7YWntQFFWRWwRMzxaFRRNUoz2vhWta8joJpgA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A resposta final do diálogo localiza a cafeteria com uma indicação curta de rua.",
+      "feedbackError": "A resposta final do diálogo localiza a cafeteria com uma indicação curta de rua.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0e119231-6a85-4b0c-8d95-2ea76ee1046a",
+          "textContent": "calle",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1745ed3c-f064-4dac-ac59-882380bde5a8"
+        },
+        {
+          "id": "11f46965-f344-4303-9a8c-1b3ccde35421",
+          "textContent": "esta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1745ed3c-f064-4dac-ac59-882380bde5a8"
+        },
+        {
+          "id": "1c983910-64f1-404c-8b3d-1cb8dab2ab9d",
+          "textContent": "dónde",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1745ed3c-f064-4dac-ac59-882380bde5a8"
+        },
+        {
+          "id": "4f565c6c-1963-4a64-8df6-6ecca89fbeea",
+          "textContent": "hay",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1745ed3c-f064-4dac-ac59-882380bde5a8"
+        },
+        {
+          "id": "7ac4e478-45a9-41ee-948e-1a8aab41c378",
+          "textContent": "final",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1745ed3c-f064-4dac-ac59-882380bde5a8"
+        },
+        {
+          "id": "9c44f72f-f456-4b71-9ba3-df31ed2f2854",
+          "textContent": "cerca",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1745ed3c-f064-4dac-ac59-882380bde5a8"
+        },
+        {
+          "id": "c251e2a9-f04b-4f0b-8749-49d4bb23ad6c",
+          "textContent": "mercado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1745ed3c-f064-4dac-ac59-882380bde5a8"
+        },
+        {
+          "id": "c32dd0f0-0671-4591-8d58-c9dd2be08e26",
+          "textContent": "cafetería",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1745ed3c-f064-4dac-ac59-882380bde5a8"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "ef765a95-eedb-4dc5-a1b0-85cc36874ae8",
+      "title": "Complete a pergunta de localização",
+      "content": "<p>¿_____ hay una cafetería?</p><p>Tradução: Onde tem uma cafeteria?</p>",
+      "contentPlain": "¿_____ hay una cafetería? Tradução: Onde tem uma cafeteria?",
+      "fileUrl": null,
+      "feedbackSuccess": "`¿Dónde hay...?` é a forma da aula para pedir uma localização mais concreta.",
+      "feedbackError": "`¿Dónde hay...?` é a forma da aula para pedir uma localização mais concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Dónde",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "a99c00b5-bc25-4f3c-aa82-bb100516c9ac",
+      "title": "Reconstrua a conversa pelo áudio",
+      "content": "<p>Ouça as quatro falas do microdiálogo e ligue cada áudio à frase certa em espanhol.</p>",
+      "contentPlain": "Ouça as quatro falas do microdiálogo e ligue cada áudio à frase certa em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O microdiálogo reúne pergunta de proximidade, resposta curta, localização e indicação final.",
+      "feedbackError": "O microdiálogo reúne pergunta de proximidade, resposta curta, localização e indicação final.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "e5bf9398-2792-4889-8907-5e82b9c7015f",
+          "exerciseId": "a99c00b5-bc25-4f3c-aa82-bb100516c9ac",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/85d9d824c6534f1680c4848038247741_b02-hay-un-mercado-por-aqui.mp3?Expires=1794099474&Signature=1tdcCdsJ3HtLNQaGKnGJGJorBmeSkx6POvjIMuUBXoGvdOhQ0wWnOcr4MWd~wkyfaAUiaY0KbStAlSrg2YeaO7cT~oPbgLWo9-h4g2k5MNfit-uJ1fpAEezLXTs5LqMI0IoRtDEonlX8y9dcLoqXLe~v3VdSrlw46BJ3af228L4aRDU3ylh5YQ4Z4ClxsitfARnEmZLh6vaVsv80QVc3iRuXzzIHMXkARaYCxL3I5BwKW0I1gNobsxe7tm9nMDE3jRskfER7sQjItY3jU9VMy6E~fGBNT7GA4IvxSm-xUHf0VC~Xg4xiYQGtKUYrK8nLXRVQHWyPJxO2qybhT-Ln9g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Hay un mercado por aquí?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5c3a8062-1b60-4d1e-9077-c8cf96d3150c",
+          "exerciseId": "a99c00b5-bc25-4f3c-aa82-bb100516c9ac",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/81c86f1b82ed4457b56aee6ad21171d0_b04-no-hay-un-mercado-en-esta-calle-pero-hay-una-tienda-cerca.mp3?Expires=1794099474&Signature=Zznq7h3azeNJYoJf5ehzWmuyCjoai0hrwZz-tR2SVWFPirllMnPGdmhZVp7sGnVjqeXJdLx71G5VsFK-C~x3oyxYJYBwbMVnKfjXuhDL0EZDezKQe9FJ2RyLHO4C2UYYP0iQfzCRj51V8pVQBMjbq2jMdf-LPjogFF7lrqmkGf7idUJCKtOsIr2Xijb5YdDCVuH4lq10UyX6cKaHT2oJMrrH72n5QsYY6ZionqavkiDV1FwS7ngzXVaT4HffWJuhPTcZEwigdv8jk5yGnvDh~1Opcg1WQgU2zHQbhbT9k2wDLnBcvrajPpp0r2lMCMEIH52Ss7VSrytvLB21VjUeBw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No, no hay un mercado en esta calle, pero hay una tienda cerca.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b7141112-03c5-445c-a2bb-fdeb5eb9a14a",
+          "exerciseId": "a99c00b5-bc25-4f3c-aa82-bb100516c9ac",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f022c98ae4714b238b307411139c21a4_b05-donde-hay-una-cafeteria.mp3?Expires=1794099474&Signature=NioDnoe1qE0Zr72R1Siyitc7fj6qhLtML8BVjSj3Sn2OHR~F7bZI33HuvJy-~VP4DxEhglUotqUQZb7983WjK5IVQmrVdM87CZPoMAkybrkh4ccSmrU02kKowkHPKbLIZEhSnA0WVE48zEeOleLVgejVSetHhjQFEV0omyO7IAw7cWFRs5vG0VJ3iSuyCjIHboFEThI05OTa0HxpqYCBniVsR~wWXqgMWR5wNG-CUTUC7nLXIQsECLkD0zHcRJyEpCmVkYvg8L~asAitEwn6RFMieO1GhQmTbxxNChod6BnKWBzQdojMwanBtxWSFZFpe5Jd8rnhaU~B7PKkXmrCEA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Dónde hay una cafetería?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d950f019-ffc1-4f1f-a191-c533e76ff6a8",
+          "exerciseId": "a99c00b5-bc25-4f3c-aa82-bb100516c9ac",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d30f5a269cf04f2eba4c6c67d22be811_b06-hay-una-cafeteria-al-final-de-esta-calle.mp3?Expires=1794099474&Signature=MNGJrxErVVk4iJjzVvcJhFJRbr~6c4lKgQsSw41Asx5~8SIuMy5sb0pzPcs1EM5TCvHTyHoi7RSUjTg7gtkKmYjUm2de85c0LIUNVzBfbgRYwrKD670ehKlO32dD3paKxPAkn-rP9RBTNSVG6Ov2Ra2WsIVYmaEZVfgKyn1MG3P44fUJd0DJX88UHvwbySwwe24dS0Gu2uCZxaIBNQ2ByTEnI~r5iA1D7AM~X1I767mCLMlGiYW41clg3faWkkstzVl-dX4njqIK0NaPdRTO9OgkdCHMAUQ3hqEZ4D-u5FNiWXFpj7YWntQFFWRWwRMzxaFRRNUoz2vhWta8joJpgA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hay una cafetería al final de esta calle.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "94a18c09-50f3-49c6-ade1-1c6dd06ebb95",
+      "title": "Recupere a fala certa da conversa",
+      "content": "<p>Ligue cada situação curta à frase inteira em espanhol sem apoio de áudio.</p>",
+      "contentPlain": "Ligue cada situação curta à frase inteira em espanhol sem apoio de áudio.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula combina quatro falas curtas para pedir e dar informação sobre lugares.",
+      "feedbackError": "O diálogo da aula combina quatro falas curtas para pedir e dar informação sobre lugares.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e20a19ef-b4d7-4ae8-8dc2-4bb2962db5ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0c9a34db-1481-4bc7-a6cb-b484e455ef7b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "94a18c09-50f3-49c6-ade1-1c6dd06ebb95"
+        },
+        {
+          "id": "588b2223-af12-4d7e-8493-b47ec52e66a9",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "94a18c09-50f3-49c6-ade1-1c6dd06ebb95"
+        }
+      ],
+      "associations": [
+        {
+          "id": "193a91e0-a22d-446c-ac42-088a9e27fae5",
+          "exerciseId": "94a18c09-50f3-49c6-ade1-1c6dd06ebb95",
+          "leftContent": "quer saber se existe um mercado perto de você",
+          "rightContent": "¿Hay un mercado por aquí?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "baa2cd8e-ef09-402c-8c57-107c6c4084ff",
+          "exerciseId": "94a18c09-50f3-49c6-ade1-1c6dd06ebb95",
+          "leftContent": "ouve que não há mercado nessa rua, mas há outra opção perto",
+          "rightContent": "No, no hay un mercado en esta calle, pero hay una tienda cerca.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0a62b2f2-eb01-4b18-a59d-54365f5e4107",
+          "exerciseId": "94a18c09-50f3-49c6-ade1-1c6dd06ebb95",
+          "leftContent": "quer perguntar onde fica uma cafeteria",
+          "rightContent": "¿Dónde hay una cafetería?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "82caeab8-d3da-49bf-8cd1-0e3165ec7d10",
+          "exerciseId": "94a18c09-50f3-49c6-ade1-1c6dd06ebb95",
+          "leftContent": "recebe a indicação de que a cafeteria fica no final da rua",
+          "rightContent": "Hay una cafetería al final de esta calle.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Perguntar onde encontrar um lugar na cidade"
+}

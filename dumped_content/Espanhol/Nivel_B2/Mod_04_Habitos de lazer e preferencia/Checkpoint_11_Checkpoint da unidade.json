@@ -1,0 +1,500 @@
+{
+  "attemptId": "1405de9b-5d7e-47b7-80c3-77be296eeeee",
+  "exercises": [
+    {
+      "exerciseId": "b161eabc-50ad-4be3-8ba1-0c221d28c89c",
+      "sequence": 1,
+      "lessonId": "68c00638-0ac0-4148-a32e-fce1a2f0ea83",
+      "title": "Recupere a comparação de quantidade",
+      "content": "<p>Yo hago _____ planes improvisados que tú los fines de semana.</p><p>Tradução: Eu faço menos planos de última hora do que você nos fins de semana.</p>",
+      "contentPlain": "Yo hago _____ planes improvisados que tú los fines de semana. Tradução: Eu faço menos planos de última hora do que você nos fins de semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Menos...que recupera a ideia de menor quantidade de planos improvisados.",
+      "feedbackError": "Menos...que recupera a ideia de menor quantidade de planos improvisados.",
+      "answerType": "buildWord",
+      "expectedAnswer": "menos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e3109ca5-ffbe-4779-b758-5e90d6ef4245",
+      "sequence": 2,
+      "lessonId": "d2f43ad5-88a0-4aa2-bbd9-8c0518e969ce",
+      "title": "Complete a ressalva",
+      "content": "<p>No me ________ que pidamos comida casi todas las noches.</p><p>Tradução: Não me convence que a gente peça comida quase todas as noites.</p>",
+      "contentPlain": "No me ________ que pidamos comida casi todas las noches. Tradução: Não me convence que a gente peça comida quase todas as noites.",
+      "fileUrl": null,
+      "feedbackSuccess": "No me convence que... freia um hábito sem fechar a conversa.",
+      "feedbackError": "No me convence que... freia um hábito sem fechar a conversa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "convence",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a621a90d-e6ae-4b7a-9218-96ead539b3a5",
+      "sequence": 3,
+      "lessonId": "68c00638-0ac0-4148-a32e-fce1a2f0ea83",
+      "title": "Reconstrua as três comparações",
+      "content": "<p>Relacione cada áudio diretamente à frase correspondente em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio diretamente à frase correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "As três frases da aula comparam frequência, quantidade e equivalência sem misturar critérios.",
+      "feedbackError": "As três frases da aula comparam frequência, quantidade e equivalência sem misturar critérios.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "29691df6-bfc9-4f49-9acb-18f310dde39d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a1496194da5248ef90f456b6bdc5b94d_b02-yo-salgo-a-correr-mas-a-menudo-que-tu-entre-semana.mp3?Expires=1794099715&Signature=q6iNRsYM4D1Cc4b4xgnhnsnyDALF7eYr9lojKtQSplhPmh-W6xEl-fNSJGrL27phwKHpLAEjCYjfr9om6mMbd-T6PczcdJyjnP9GwEwYRHyIjldJZUh4M6QSK1JeMRuvMAuONkw7xDeU90tYYY6ZWnyrd-0hld0b8Bsnxq4K1RhySRaMJJsFq~XCmaE4cw6aUCd8JuTCQctNORty-3sgAXhkkweldSWPL4Xrth2f6HHqKnu-ytCYy-rnTH9CuyxVn5pBp-BzKMjM7q2mo0x678xM38G25ZoN4hq6hkOTYBhOgu68FiKJx1b534PpAX5rPOkANecoTuLFuCiZaZNvdg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo salgo a correr más a menudo que tú entre semana.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "43e895d5-9456-4039-9306-be7e9efd6218",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8e3547d5aaea40f0b3bd1703ce890182_b04-yo-hago-menos-planes-improvisados-que-tu-los-fines-de-semana.mp3?Expires=1794099715&Signature=X9NVDK6PMtqGep4u8rPqPc9fuy9BdP1UyQbbzDzkGn-O0RdR7p8aOuwp-Pn6Ch8zW7l2gwDiQ2vIp-zMvX2LIdx3YQCrrig3qdvhJwJ5GLbXMoPkkNC3uU1hJadsciycxkQQup6pgq2CgkUks-aMxSeEd3LGCZmOYbXHnZfMXexX5r1GsWXQkBb6VjqHGRNqizqTQM52Qtmn79ySO7p6M~o4T55yq8nNLekYbYYpzsBoay4p7PgBpQ4FpY1uPFGHcXqm4ujwtXWjZo-MfB6tLMdeLDCB-1UiUsVaxhnpJdrKqmsJcvNpnnTXV~VXTy3aoqYT-WCVNxiSRtu3OpodTQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo hago menos planes improvisados que tú los fines de semana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8e68cdb9-26a2-4c14-910b-901a3ebaaaeb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3956cc15695041b9bdc2883ce23e3204_b06-para-los-dos-una-caminata-larga-es-tan-relajante-como-una-tarde-en-casa.mp3?Expires=1794099715&Signature=kcuEfxxeAo9Pv0uZz9TciF5LCASQdwi2SxbSbQ5kQF4DWyjpDVzf~1tzi5jr2LOic-VUhPEXkTNdJv3LcPoZh8X33qsFrTJ3zWkuYsXFmcy7DdMrSlTSk6e-VEu7BadiQol~I1XP9ZsJN2FXaQMPrGGz255K56BndEtperK-5WisdTi6IhYIRYa-XvWDAXSKMU~Q8MjZml6gcG7zsVBUSwSxJ5JscvSNrMGbJPqsWkVnSWF0Ro8fqEo1Q2kAvrb6UztE5jlm4hD6TsCEdxQ4UoyTztoeUr3JYF98hJPQC7zhr93XCGuZYBS60yKvaFTVVVKXQpq1vMIeHnVQeIqf~Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Para los dos, una caminata larga es tan relajante como una tarde en casa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "761b66ad-38c1-40b3-b157-daf8795d8570",
+      "sequence": 4,
+      "lessonId": "5d3a652a-c801-4d25-8c1c-193c4116dd31",
+      "title": "Recupere a avaliação social",
+      "content": "<p>En este grupo está mal _____ mirar el móvil mientras alguien habla.</p><p>Tradução: Neste grupo, pega mal olhar o celular enquanto alguém fala.</p>",
+      "contentPlain": "En este grupo está mal _____ mirar el móvil mientras alguien habla. Tradução: Neste grupo, pega mal olhar o celular enquanto alguém fala.",
+      "fileUrl": null,
+      "feedbackSuccess": "Está mal visto + infinitivo mostra o que o grupo desaprova socialmente.",
+      "feedbackError": "Está mal visto + infinitivo mostra o que o grupo desaprova socialmente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "visto",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b78b80a8-f130-40d8-8e19-5ba2106e3fa8",
+      "sequence": 5,
+      "lessonId": "293207c9-53a3-422b-b6aa-db27e149b2a8",
+      "title": "Reconstrua o comentário pelo áudio",
+      "content": "<p>Relacione cada áudio à frase correspondente. Um deles traz o comentário completo da aula.</p>",
+      "contentPlain": "Relacione cada áudio à frase correspondente. Um deles traz o comentário completo da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio final distingue as três peças isoladas e o comentário completo da aula.",
+      "feedbackError": "O desafio final distingue as três peças isoladas e o comentário completo da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "f91eab0a-9c95-4265-aa9c-e374f4bda816",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/91fe589ba88d49d988baccf1b6d09fc7_b02-suelo-desayunar-algo-ligero.mp3?Expires=1794099715&Signature=KBF4DspgYpILEIFRw0RJPVytWqtrP5Rf15zY1cLfq62cWBaN5wOGkjYDeQk-AZTvIOCLbsjHKRLJ-o39qo~TCaTC35~Sq3FtcE4x3fTWgt9LcugeGLpxiVCBOnJXIvC9hscRDpee2wHHpj-w9pKXPUqW8l66UgwC5E4~e0kqyWbH-GmAxHSntGNINgfKRo1zWP2T~jvXNzILEdDXe7X8WfOO00pROeKYcg3Kz2hJtUOXWw~WDuc305trdwvzDNUR2Wv-~YzZ8e~sToAMHnlQAnol25ta2pgZEMoi~4zqKGZn7Fh4cMf53jVj0zjeM08CELtUznF5jYEQGk-bBFf-EQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Suelo desayunar algo ligero.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "6086e1c4-466b-454a-bda5-1c79f5164260",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fff18d7998074f8483177b9b6c9ea820_b04-me-sienta-mejor.mp3?Expires=1794099715&Signature=F4Axw1uVc41OhgneGGui0ukx9IBRWBx-LYTjLx7YQ4HWo2yiO5DNe9Bs5KenBRcXaTB9acqQS0zANfGxxHtRPZn2KpEgT535NhIWPTAe4FpZ-~9q9-MRs05d5wkuhTtvUAYvrMiKDPm~3z7qjLUNGPy6XxYaD~iuV4eO4qf3HwMIAMKR2gcyHLCZHWECB544GJsDgfzHu0l7x6E0Cq4Pv53sjd5wX7EkDSOuNLfBoKTbn8KjGKIyOGBpss9HYKZflpJC4oETa-MYgzZbmh8vXg0EkJnJ3DURuxI2LIRvElqdiGObD6c9gg~mkFMJXTgJ~UVXjIs7EgsyfGMO10UF1A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me sienta mejor.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3667d020-8925-4d1b-83b0-120fc96593dd",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ba5676a03609453388e4e07a9c698d92_b06-tiene-un-sabor-suave.mp3?Expires=1794099715&Signature=x8jlf020xH5jLAKnhT0-5~JS2oxTlXo2plGQi39adLD7E09cDv-ETxEyRrW6XGgdL~eLVKq-yaDlGoH-7lttlK5mxmawFREelcQQJ9qCjJPG2q5hepVfCjlmO4Ku0F1f115NCfMAYLcyr72kQWXiltNAjPBgwSfWgKemecxlCSUNYe8e6wz8Jn4Q~uxRsOY-hxHO-56QXBO1V71Fp~OwaFJHdEAkxDcft8fUDOBF5Y2Mf4En8BcJD9HBQ8NQscRLx9YuWfjkPjvLUIH13YyDURvRvmB6J4v-ZCruwx~b22Hfy5gwMXuEu-0-lbOPy-ZQDf9xnnjjCXugdpXfxrxNmg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tiene un sabor suave.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "f93fb526-b2b4-4f67-8e2c-fbbd827d16c0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/eaa856237a5c4998b3b8c8dc81b556f3_b08-recap-breakfast-routine.mp3?Expires=1794099715&Signature=cuDd7U6EX9s-Sds0cLmkgBpdFoW-0nAGcFmHRVtqfyxKJD2BhFMnMStBYSjSd7PK~PjI47arj0Yrz46yK9NeAOChT5lJkor-YF9b8nEtH~VZQS3ZBmTsBAt0U7HGi37g9zIPwGoDBRiiT1KwL2oqioGQ6lpPGmCfXAo9gEmEsYr-rEwklNBtM1RErz~67iqZ7GZwPljLtLyg~JAMxMzm-FiEpDG0riCuWNEHrItn2WWrdltf44D30qnZ44me25gQsZDw7SFCKYv4RTBiJ7TE5Ck1X-GeiDd~2bu8IJ8hWV9KcxQ5DDJq-oxzrntv-FEB7016jRD9BxMviPEj7gJXtg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Suelo desayunar algo ligero porque me sienta mejor y tiene un sabor suave.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "1b504cad-f064-4ede-b410-d61a59011824",
+      "sequence": 6,
+      "lessonId": "5d3a652a-c801-4d25-8c1c-193c4116dd31",
+      "title": "O que aparece no áudio?",
+      "content": "<p>Selecione só as palavras em espanhol que estão no comentário completo sobre o jantar de trabalho.</p>",
+      "contentPlain": "Selecione só as palavras em espanhol que estão no comentário completo sobre o jantar de trabalho.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/48309ae31a66489eb340e50c7b17f7e3_b07-en-una-cena-de-trabajo-se-suele-saludar-primero-y-esta-mal-visto-mirar-el-movil-mientras-alguien-habla.mp3?Expires=1794099715&Signature=ToIqZgQ0QeG9L~1LZRlIr2xFUYpM4hoV4ygM8GSjhyvWkFiLZijdK8XtTmBHfMAA5CuTwyq8V~2apk7X6Dkg27SOKJJtc7bftFcphhwNbvta01VnDBl6t2WpsIOfrURqkluSpj8noFk8GSBijN1kSnm0VyG6ufj5quCYlQJrENqbeh45-ALGrKchfc~qP1~32ygjpvu9HfGDa9fRQuMtFNT60R2gFTMwU7zN3sXKGIY45BMtlOPBMaGnWtPS-P6wwURrdjSTqzJsNfqXX1df5ONix6a3A8-6TIdZ-p3NDc-4R9KRVZbUwOTuA36soTNxkTSUv~9H2Pw3f64jpVIReg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O modelo integrado junta costume e desaprovação social na mesma fala sobre convívio.",
+      "feedbackError": "O modelo integrado junta costume e desaprovação social na mesma fala sobre convívio.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1f698d01-d5fa-43cb-b870-c5c06963c0a0",
+          "text": "postre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2462c93b-1555-45ad-87c4-2566ea209d31",
+          "text": "saludar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6b2f5085-4ee1-426e-86ad-c930c7e379d7",
+          "text": "cena",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "75fba3b6-be75-4467-a271-2c91c1cfaecf",
+          "text": "habla",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eccb2e03-6751-4a0d-bda5-df4ab3a5445a",
+          "text": "móvil",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fc3bedd3-e841-40dd-8b30-115be8ea4472",
+          "text": "tarde",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "6972cf57-0de9-4568-b51e-2f444b408f93",
+      "sequence": 7,
+      "lessonId": "ee959331-cadc-4e2e-a00e-6788cb6a39b5",
+      "title": "Recupere o elogio",
+      "content": "<p>Al final del almuerzo, todos dijeron que fue la _____.</p><p>Tradução: No fim do almoço, todos disseram que foi incrível.</p>",
+      "contentPlain": "Al final del almuerzo, todos dijeron que fue la _____. Tradução: No fim do almoço, todos disseram que foi incrível.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ser la leche funciona como elogio fixo para uma experiência social que saiu muito bem.",
+      "feedbackError": "Ser la leche funciona como elogio fixo para uma experiência social que saiu muito bem.",
+      "answerType": "buildWord",
+      "expectedAnswer": "leche",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e28dc9f5-15d9-447d-9096-b523ee14ec2f",
+      "sequence": 8,
+      "lessonId": "d2f43ad5-88a0-4aa2-bbd9-8c0518e969ce",
+      "title": "Ouça e identifique",
+      "content": "<p>Marque apenas as palavras que você ouve depois de <strong>que</strong> na fala de ressalva.</p>",
+      "contentPlain": "Marque apenas as palavras que você ouve depois de que na fala de ressalva.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b9facbee13514079982da3604e47c773_b06-no-me-convence-que-pidamos-comida-casi-todas-las-noches.mp3?Expires=1794099715&Signature=TxnsJS5VnLeSYLEVA0vRUVjN6RoPPbEeabsadXARYSjt7-rrzuRbRRlYlekBditytHTmF4MEBJrqoLuRNODpa2FxVXD6BB4LzuySCEBX~Wi7Dpi8UaO1E1-pj02wuejmZ99xZ3bnKjbe5aFOTL7mYd1omdOMSr~LbKUqfNBgCh0B50azscYeBNNjAjLl02mzd7VSQTaBWybRNQZQEa2Uj1oiq8zQZp5eTw4L3L9BrQNLrgicR2hgc5rli8M61Wzfb0r~D7CjoX7dCQtYEDq~z2ZMFQGPVktaGZUejxnX0PapcIUXtEH6ttTeAMEwmASXWmEdNpufeKbn73M22D3NCA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No me convence que... liga reserva ao hábito repetido de pedir comida.",
+      "feedbackError": "No me convence que... liga reserva ao hábito repetido de pedir comida.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3800815e-98a1-41a2-a324-1b8f7c9cc20d",
+          "text": "noches",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4f461ce3-6235-4b97-b242-42b668dd575f",
+          "text": "práctico",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "63123657-ac96-4e2c-8299-42a16a64b889",
+          "text": "cenemos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "63651d7c-28a1-4bcb-b4c4-51ef4e179688",
+          "text": "temprano",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "716ba066-91e8-46b1-bf87-98073a16f231",
+          "text": "comida",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bbf85d23-ef92-48dd-aa86-97c71f4207f8",
+          "text": "pidamos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "ef17ca54-ebe2-4c6d-b79d-bece140b6df3",
+      "sequence": 9,
+      "lessonId": "ee959331-cadc-4e2e-a00e-6788cb6a39b5",
+      "title": "Recupere o modismo de vergonha",
+      "content": "<p>Con tantas fotos en la mesa, me puse como un ______.</p><p>Tradução: Com tantas fotos na mesa, fiquei vermelha de vergonha.</p>",
+      "contentPlain": "Con tantas fotos en la mesa, me puse como un ______. Tradução: Com tantas fotos na mesa, fiquei vermelha de vergonha.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ponerse como un tomate descreve ficar muito vermelho por vergonha ou exposição.",
+      "feedbackError": "Ponerse como un tomate descreve ficar muito vermelho por vergonha ou exposição.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tomate",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4f8e9c8b-a414-445e-8658-9b5925f08d22",
+      "sequence": 10,
+      "lessonId": "b1656339-313b-4197-bfaf-7fda2466f7e6",
+      "title": "Reconstrua o comentário pelo áudio",
+      "content": "<p>Relacione os três trechos-base e o recap completo ao texto exato correspondente.</p>",
+      "contentPlain": "Relacione os três trechos-base e o recap completo ao texto exato correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula recompõe as três leituras no mesmo comentário sobre hábitos.",
+      "feedbackError": "O fechamento da aula recompõe as três leituras no mesmo comentário sobre hábitos.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "952da360-414a-4f96-a9f9-1fafbe6c8ca1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/150055c696ab49eead219d14e83dc9fe_b02-cada-vez-mas-personas-salen-a-caminar-despues-del-trabajo.mp3?Expires=1794099715&Signature=F4RruqkxQRzT0-OAazfgx--WLKD-UCTTZReaz~iPMhVl1MX~hp1boJCX5mupu9VctLvvaJFcCuTK~l8abwAL1cg8xzXRxyDJOt3PCcsMa27zRGY9VNgG8O7YTTFafNK3eLcIVhBTK5GALD5BU14r7mZJU84ORl5ZTnFmD5N2NUrHO~zUg1fwdCzCmVvk8OcPCRsX467p0pZqA~cILLWNwvwXa6zABKFqr7o35KYxn89R0wZRjNBEoFdg4NZddnYxqM6AsW2QhXjtIQ5fY18JR-4Z2Sllva3-wVBhcgFyLu8ozMfjcI2m5cKL48UO0NW76MUdVXMRKDbp8yZV1Gf8eg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cada vez más personas salen a caminar después del trabajo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "24b65392-ba49-4220-b102-20aeb9bce439",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9090622c4efc4d4393725b793110c8df_b04-la-mayoria-prefiere-planes-tranquilos-entre-semana.mp3?Expires=1794099715&Signature=U-qrus7A7S6c559szdn4f5W1K-emTGApD0-A6o9lOVTzif6WFwStqplGPgSC02-chmMQQ58fVwFABMVhS9jTRzOISd2-vvSapr-M0ifKnMtq8R5MAGf6vC3QIVvl5SPEYIFLvHUiUXICyzZ3LTo5djdwhxzsw20IgMwJbDTQFxL4iXDv3g~fR9qaw9Itq7AuTn7dg8iwPqUO2y4h5E-vTfTsndHGdJ-T8ifRCcnNNUz1~tj4NiiY5HZZnaGxeN1s1oi6QIRGiw2XAPtFX0p898kcweFT2IDtFAvRFvfykv6eB-aVNj2gZ2s1uHFxNE0xDnsAK6nd93WI-XKEXP57HA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La mayoría prefiere planes tranquilos entre semana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7eadb23f-65eb-459e-a8dc-0e5c2abc843b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ad6564a3de654c0184ea66853c4f2ccc_b06-solo-una-minoria-sale-de-noche-entre-semana.mp3?Expires=1794099715&Signature=JVgRxdQqlNBZkCWKsQILTzTfhqxsfAe2QB3LsBzS~bAL4hxt9of5KytVXcgfifO0vmwDYDlHqPgawu2CIMzKetQ9yy4ELt55BM5Z39X9b-5s3Kf3DPWFBj964p~5wm4OUxqLn21jIMVy~E4UssRksu2ep1foXx62Qh92JaTx3L-UA6STVZBFi8TsH~48IHTJp23t973UwGOmrIVy~ivRzouYibjiMJUVfwYrys4ALCMGt0NY-F0OUlqUSeKHhbV8z2TTdgdhfLunYiNLDTkfjLn-YG7~a-bzM98onSQguqbOZANqSX5S36~I9aRo3Y68NcKh8Psj91n-7DujTdJrRQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Solo una minoría sale de noche entre semana.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "74b6e64d-09c2-464c-95b3-34d1bf30749c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/18d86fa0b314428592516c8ded73a227_b08-recap-datos-cotidianos.mp3?Expires=1794099715&Signature=nTT109tFJrnPoUru5Am9UThijGqzNvDrnGTTjS1nahMQUKxjC1uMcQGBPUUdVEkjOjfIY7EGAZBP7KDg4Dm0cOscYt7ozFN5mUBKOBw4nI1-rbHuMpHWKnPAUimK32-cCIL-W6YGQUchn7RkBbLdV-p-FRH1XLnZWtjF75CHy8bBlIRI9v9ML9JkZoDXa2NeTSF1nn89tASndjyzVaxVC9lf4s9uu5WocqBAwCgZLJ186i6UKz7lInuClAOYFrGof-~6D~Dg~eN8qRxaSHKs3cureaoEZiURPCyu6BGACjpFW2TCUBb~207G-cMvl~MSNv4gbgrYdmToKswHAuQecQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cada vez más personas salen a caminar después del trabajo. La mayoría prefiere planes tranquilos entre semana. Solo una minoría sale de noche entre semana.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "b88884d1-ac5e-4397-9935-f2deb6bebe3a",
+      "sequence": 11,
+      "lessonId": "0ed33fc6-7d23-48f2-8ef4-40c70fe71f43",
+      "title": "Ouça o recap completo",
+      "content": "<p>Marque só as palavras que aparecem no áudio final da aula.</p>",
+      "contentPlain": "Marque só as palavras que aparecem no áudio final da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1d9dfc8c5a064006b71a752dd8a567de_b07-recap-preferencias-colectivas.mp3?Expires=1794099715&Signature=tRWRKN2Cb6TVbHPNrucI3WOpPbfGHFHAHDmHqqKJpVz0VC4UZpD4R1ymGXj6hBU72nq9W4phuxdQmWhSbCCPyAgUjGzk4wSRKKrXv9HsM-Z4A~rjJBcdiGgVXkLpcUCen2P7ZBuNX2ZY9qLLcKRcg5j5a0XIXyUh6niVySD4DRNXxqZbBXNBaJr1-UgTsztGHfepe4N3ckr7JNfCYkWW25vrYrkVoBDteEICDQixX50KNRe8oOjR1DNd~lNgcBxqyHJ1ZElQDtUWdbtnljckHei55eZx8b8hrmi8h-4a89ZCIDu31yFmy5r~u8uhrQbF14hpP8qPJ9UnQ4CE5lKMMg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final junta grupo real, preferência coletiva e convivência numa mesma frase.",
+      "feedbackError": "O recap final junta grupo real, preferência coletiva e convivência numa mesma frase.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "30af7d4a-c86c-4fb7-931f-1edeec69f45f",
+          "text": "mayoría",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4df524f5-1f20-4e57-bd74-a97447fd2154",
+          "text": "temprano",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "61d0e206-6a52-4b08-927b-186c2cf27921",
+          "text": "vecinos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "af19d4db-6700-44ad-a5f9-c06ef4384c2e",
+          "text": "cambia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cd14c8dc-f19e-4b62-aa87-2d269ba82c14",
+          "text": "colegas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d175b9b2-e6b4-4fd8-b9e0-bb373602392e",
+          "text": "amigos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eed5c46b-5bc3-4354-8c52-7a79c46a35c7",
+          "text": "tarde",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "ad194c39-64c3-404c-a17f-d969086f6a8a",
+      "sequence": 12,
+      "lessonId": "fc71ea5b-d92b-40c6-823c-a11ef16a5f8e",
+      "title": "Recupere o habito",
+      "content": "<p>Los viernes por la noche, _____ ver una película en casa.</p><p>Tradução: Nas sextas à noite, costumo ver um filme em casa.</p>",
+      "contentPlain": "Los viernes por la noche, _____ ver una película en casa. Tradução: Nas sextas à noite, costumo ver um filme em casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Suelo + infinitivo volta na aula como forma natural de falar de costume recorrente.",
+      "feedbackError": "Suelo + infinitivo volta na aula como forma natural de falar de costume recorrente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "suelo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "241f6363-e375-43e1-8a90-3770277f2e67",
+      "sequence": 13,
+      "lessonId": "5696b503-93dd-4b71-b176-dd5515365b34",
+      "title": "Ouça o recap completo",
+      "content": "<p>Marque só as palavras que aparecem na resposta final sobre o estilo de vida.</p>",
+      "contentPlain": "Marque só as palavras que aparecem na resposta final sobre o estilo de vida.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/10f2a1bfdd6a46e1a946956398c7a9eb_b07-respuesta-final-estilo-de-vida.mp3?Expires=1794099715&Signature=bumgZ0siZoLO1SJPjiHqLbdRrtZzvlcsda65mZ0leCm8Mi~L2NmBQYj0CliLVy72eCoHunBNgi3chjVAJCJ2eCru3awNBkzKa9J9BYWvFhNaKqDMZGqhLvGWf5huYd-nslzed02CA3C2eelCWs-FHIYMmwqRA8F5KJXsH0-hphaoEvz1rOd~5oZcJtqu70spOsKkkcIB9ARzzET5cM2Oe-rDvrqY7eFwSIYDABw9EEHwxuERE1FYMmWqTXU-bvJSgWolmsjnXQwmtbQ4DGshrQkprtj2EHeyiPKM5ZpFtxgKYdeLPs0pgAybMbMH~Jjo~ATXMRaLta2XlmW3HasZGA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final condensa plano integrado e preferência pessoal na mesma resposta.",
+      "feedbackError": "O recap final condensa plano integrado e preferência pessoal na mesma resposta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "42bb3af8-ae1d-4c9f-a639-5d41ad7699cd",
+          "text": "cena",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "61b60428-5280-4a45-a737-4ada7da7cb7b",
+          "text": "caminar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6ab27f16-0f3e-4beb-95a1-a7f39cbe6058",
+          "text": "parque",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "aed507eb-47dc-4754-bbd3-df356cc68b0e",
+          "text": "tranquila",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b7dae03f-c273-4f88-8923-a6cd29b2099d",
+          "text": "Clara",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c7a77fca-f4ea-4bc6-9a74-1e122b009a75",
+          "text": "aire",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e63aafd7-dd69-48f7-bd96-3083d756b189",
+          "text": "amigos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "623dcdd8-5b95-47ee-b367-aa9b9fb218a6",
+      "sequence": 14,
+      "lessonId": "b1656339-313b-4197-bfaf-7fda2466f7e6",
+      "title": "Complete a leitura de crescimento",
+      "content": "<p>Cada vez ___ personas salen a caminar después del trabajo.</p><p>Tradução: Cada vez mais pessoas saem para caminhar depois do trabalho.</p>",
+      "contentPlain": "Cada vez ___ personas salen a caminar después del trabajo. Tradução: Cada vez mais pessoas saem para caminhar depois do trabalho.",
+      "fileUrl": null,
+      "feedbackSuccess": "Cada vez más sinaliza que o número está subindo neste tipo de dado.",
+      "feedbackError": "Cada vez más sinaliza que o número está subindo neste tipo de dado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "más",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c683d58a-bde3-49d2-84c4-4d5fe82ae890",
+      "sequence": 15,
+      "lessonId": "f6738e2a-50e5-45e2-968f-f2b08d539587",
+      "title": "Recupere o verbo do encontro",
+      "content": "<p>Entre semana casi siempre _____ con alguien para moverme un poco.</p><p>Tradução: Durante a semana, quase sempre marco algo com alguém para me mexer um pouco.</p>",
+      "contentPlain": "Entre semana casi siempre _____ con alguien para moverme un poco. Tradução: Durante a semana, quase sempre marco algo com alguém para me mexer um pouco.",
+      "fileUrl": null,
+      "feedbackSuccess": "O segundo perfil mostra rotina social com um verbo de encontro bem direto.",
+      "feedbackError": "O segundo perfil mostra rotina social com um verbo de encontro bem direto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "quedo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

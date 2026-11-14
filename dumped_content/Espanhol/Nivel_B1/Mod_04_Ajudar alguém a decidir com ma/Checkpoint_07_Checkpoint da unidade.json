@@ -1,0 +1,549 @@
+{
+  "attemptId": "e26a67ca-0839-4c7d-8229-7b2f0dba2ee7",
+  "exercises": [
+    {
+      "exerciseId": "2152d0da-9059-4dff-8f59-3ecef4fb3392",
+      "sequence": 1,
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "title": "Ligue contexto e conselho",
+      "content": "<p>Recupere o recap final da aula e conecte cada situação ao conselho mais adequado.</p>",
+      "contentPlain": "Recupere o recap final da aula e conecte cada situação ao conselho mais adequado.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final liga cada conselho claro ao tipo de pessoa ou grupo que precisa de ajuda.",
+      "feedbackError": "O recap final liga cada conselho claro ao tipo de pessoa ou grupo que precisa de ajuda.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "89efb694-2cf7-42e5-8098-970438aa93cc",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a1086dfc-659c-40ed-baf7-b602d5c2c4ef",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "5caa3622-a13e-487a-b030-74e869377a0c",
+          "leftContent": "Um grupo que precisa se organizar hoje.",
+          "rightContent": "Les recomiendo revisar el horario hoy.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "417893cf-4053-4438-8190-436223efd783",
+          "leftContent": "Uma pessoa exausta no fim de semana.",
+          "rightContent": "Intenta descansar este fin de semana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e3dcba60-af3a-4926-b72d-8dcbc498f4e8",
+          "leftContent": "Alguém travado antes de falar com a chefe.",
+          "rightContent": "Prueba a hablar con tu jefa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "659d9f2e-2a9d-4481-9cef-f3eeb6c5899d",
+      "sequence": 2,
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "title": "Complete a justificativa prática",
+      "content": "<p>Complete em espanhol: Te recomendaría hablar con tu jefa antes de aceptar para ________ los horarios.</p><p>Tradução: Eu recomendaria conversar com a sua chefe antes de aceitar para esclarecer os horários.</p>",
+      "contentPlain": "Complete em espanhol: Te recomendaría hablar con tu jefa antes de aceptar para ________ los horarios. Tradução: Eu recomendaria conversar com a sua chefe antes de aceitar para esclarecer os horários.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na mensagem da aula, aclarar los horarios é a justificativa prática para conversar com a chefe antes de aceitar.",
+      "feedbackError": "Na mensagem da aula, aclarar los horarios é a justificativa prática para conversar com a chefe antes de aceitar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "aclarar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7540bdcc-62c2-486a-bb53-d6b03355aa05",
+      "sequence": 3,
+      "lessonId": "67f1f404-364b-4277-9b3e-bdf49c02e63e",
+      "title": "Escolha a fórmula de reflexão",
+      "content": "<p>Uma amiga ainda não sabe se fala com o chefe ou se pede descanso. Você quer dizer que ela precisa pensar melhor antes de decidir. Qual frase em espanhol encaixa melhor?</p>",
+      "contentPlain": "Uma amiga ainda não sabe se fala com o chefe ou se pede descanso. Você quer dizer que ela precisa pensar melhor antes de decidir. Qual frase em espanhol encaixa melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Tendrías que nesta aula pede mais reflexão sem virar uma ordem seca.",
+      "feedbackError": "Tendrías que nesta aula pede mais reflexão sem virar uma ordem seca.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1148c339-c71c-4b3e-9e08-10d6804ab517",
+          "text": "Tienes que hablar con tu jefe.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3bb7f399-0d5d-4d26-9391-fd8da52cc390",
+          "text": "Deberías hablar con tu jefe.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5fe21676-ca0a-4737-8274-e4a32bf5a966",
+          "text": "Podrías pedir unos días.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b2f4fd58-f4e5-424d-8d3a-063a7e89c341",
+          "text": "Tendrias que pensarlo bien.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "3597953c-563d-4bbb-aa63-7bd4b883a06a",
+      "sequence": 4,
+      "lessonId": "45d0a5c2-4d57-4d6b-86f5-2700959434f6",
+      "title": "Recupere a forma de nosotros",
+      "content": "<p>Complete em espanhol: Nosotros ___________.</p><p>Tradução: nós falaríamos.</p>",
+      "contentPlain": "Complete em espanhol: Nosotros ___________. Tradução: nós falaríamos.",
+      "fileUrl": null,
+      "feedbackSuccess": "A forma de nosotros reutiliza o infinitivo completo e a terminação regular.",
+      "feedbackError": "A forma de nosotros reutiliza o infinitivo completo e a terminação regular.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hablaríamos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "da2db7e6-c625-477c-8147-efad5a96f16e",
+      "sequence": 5,
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "title": "Reconstrua as três frases centrais",
+      "content": "<p>Associe cada áudio principal da aula à frase correspondente, sem apoio de tradução.</p>",
+      "contentPlain": "Associe cada áudio principal da aula à frase correspondente, sem apoio de tradução.",
+      "fileUrl": null,
+      "feedbackSuccess": "As três frases centrais da aula treinam conselho claro e ajuste ao destinatário.",
+      "feedbackError": "As três frases centrais da aula treinam conselho claro e ajuste ao destinatário.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "4ae525ab-9b8c-419c-97d3-336b819cba57",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1c64149982cf4f53a2ce10c10596861f_b02-prueba-a-hablar-con-tu-jefa.mp3?Expires=1794099588&Signature=Uj4o8ZVIide~G5Baih5IhQEkoCJKcJ1JpBacuoinOMyNBv4VNmhlvmoea31QzA-0PqkbizuNl8XIcNwufqSEpKlqjNNrInBmFoGevKwz7ZmQJ9UB-~cjp-Y5km3rktNryDHK6wgQKUASNAxcY8Am9HXSZAoo2EVzXgB3FcWPmqd6cEC9NS6XDqLLbNLZEEoIUOfO2Jyl0wM-VLNIbh-RI00tE5zg3HqAbLDYceF0GMuKhRvWySbfZZ~s20eD5WPE0YZLYMrbdfbibW5fqNZMFyEGtJLQw3m0eufeX0ETkdhif-9deIPEEElEjYiVi0LAuPPx~P7JTOvbRmwUCi5yGw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Prueba a hablar con tu jefa.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e74f3b74-7976-4e17-a571-54464f58a87f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9d161844f93d4e67b8386198d560f017_b04-intenta-descansar-este-fin-de-semana.mp3?Expires=1794099588&Signature=w~X~9eJRYPS5-oFueitpsiUA6sA35GBKmcb4KLGI69DDCMSxVhsuK6GTkhHnwnbaq2iyZrWu~n3rfDimAGwSmlmWjVYz-bHIFP9fYqYW2YMGZAGySdgANQv7usQKdk1jfokWeuSQZWd7gadnHVvAe0aGzXit9I74M~REIxWJXEh6mHEMwl5yJkGAg4qAJgsp-qsWYbkUfnVK0uEXQVOG0SkcuDxmXlX5Uhqezq4U8rNJDtdQ-upxQpr-jk4oaRj-pb0s712vS9ts8LC~NtMfLaVQvDNrMyChPfBVVc3t86ztqavJDdOZ2rOtMnPbiDgQfRz~igzgzgmD1OsHO0mx~w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Intenta descansar este fin de semana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "028d5e08-8dea-4ae4-bc27-c4b9bb41401b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ddc9b882e5a94029849ab648aed6a72c_b06-te-recomiendo-hablar-con-tu-jefa.mp3?Expires=1794099588&Signature=BVVVWcnBKi7CQHYw9spIiEBKaNXfSS-W5CpgUceRiBQV2QIHMbRb7~o1vf1OCcjIKGHG--PwsC5svunZ1niAA7~oqqXXCl1XxO4qM16T2O648mBGZg4tobrN2BjExdu4S1EnrKGlp9BFBnhe5SJc-aZ6OGbmseURSS81fjyNF2ZOY~yHx0Rc0qQXj76vyJShOT7pzEFsrH4oEtBALIVnbucYZHtwfefvxtNqtjPAvMZIdZ61TkFCQ97hSSWgMpPPVSsqL7OCfDh9Wb1UYipCeCRIIizOip4UCr9LOdNq-H5s5U844bhSI-WVYc7wj~bdmFxCFnTq0dECsf0SaW9K8A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Te recomiendo hablar con tu jefa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "a94b59a0-281e-45b3-8edc-bbb8c7c32dcc",
+      "sequence": 6,
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "title": "Complete a justificativa prática",
+      "content": "<p>Complete em espanhol: Así podrías aclarar los ________.</p><p>Tradução: Assim, você poderia esclarecer os horários.</p>",
+      "contentPlain": "Complete em espanhol: Así podrías aclarar los ________. Tradução: Assim, você poderia esclarecer os horários.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, a justificativa prática mostra para que serve a conversa antes de aceitar.",
+      "feedbackError": "Na aula, a justificativa prática mostra para que serve a conversa antes de aceitar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "horarios",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f57a1d08-7a93-4a71-ad66-87c59e2780eb",
+      "sequence": 7,
+      "lessonId": "a5b61127-6fef-4e79-94e7-e3f1f20e3cf3",
+      "title": "Complete o sinal de hesitação",
+      "content": "<p>Complete em espanhol: Quiero ________ bien porque me gusta mi equipo actual.</p><p>Tradução: Quero pensar bem nisso porque gosto da minha equipe atual.</p>",
+      "contentPlain": "Complete em espanhol: Quiero ________ bien porque me gusta mi equipo actual. Tradução: Quero pensar bem nisso porque gosto da minha equipe atual.",
+      "fileUrl": null,
+      "feedbackSuccess": "A hesitação aparece em pensarlo bien antes de qualquer conselho.",
+      "feedbackError": "A hesitação aparece em pensarlo bien antes de qualquer conselho.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pensarlo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d00f9c9a-8c61-4211-9ec5-b85bb2442d20",
+      "sequence": 8,
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "title": "Escolha a mensagem completa",
+      "content": "<p>Qual opção recompõe melhor a resposta curta ao caso de Camila?</p>",
+      "contentPlain": "Qual opção recompõe melhor a resposta curta ao caso de Camila?",
+      "fileUrl": null,
+      "feedbackSuccess": "O modelo escrito da aula junta saudação, conselho, próximo passo e benefício na mesma ordem curta.",
+      "feedbackError": "O modelo escrito da aula junta saudação, conselho, próximo passo e benefício na mesma ordem curta.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0985451e-502e-41ad-b3dc-cf9fc44307fd",
+          "text": "Hola, Camila. Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios. Yo, en tu lugar, lo pensaría bien. Así podrías decidir con más seguridad.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3f4721f3-9e34-4d7a-8e28-7d0e26d4164c",
+          "text": "Yo, en tu lugar, lo pensaría bien. Hola, Camila. Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios. Así podrías decidir con más seguridad.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7263a55a-ec49-42a3-9d65-e1415ed1f3ad",
+          "text": "Hola, Camila. Así podrías decidir con más seguridad. Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios. Yo, en tu lugar, lo pensaría bien.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8da142be-4dc2-4549-86bd-9463f700a062",
+          "text": "Hola, Camila. Yo, en tu lugar, lo pensaría bien. Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios. Así podrías decidir con más seguridad.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "e9eb61a0-eeea-4b01-9701-352e33e571fb",
+      "sequence": 9,
+      "lessonId": "99d9a053-46e6-4d9e-8534-1886dce22566",
+      "title": "Recupere a progressão pelo som",
+      "content": "<p>Ligue os três modelos e o recap final ao texto exato que aparece na lição.</p>",
+      "contentPlain": "Ligue os três modelos e o recap final ao texto exato que aparece na lição.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta sequência recupera a passagem de três modelos curtos para o repertório final de apoio.",
+      "feedbackError": "Esta sequência recupera a passagem de três modelos curtos para o repertório final de apoio.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "c1bb8ee3-20da-443e-b79c-f3e98008937c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/57778e33f2ab41caa71a725c05a0c537_b02-yo-que-tu-lo-pensaria-bien.mp3?Expires=1794099588&Signature=0acBM4EHNI9Ep5awzlOt~C0NxcH3U0XZz-36CVUxN~8POH-WBYr9NP~d8fUiF-4EhjF8dRple6r8HAa4~znWDAh~LPyBLkR1xgDgDC8LLUa2CWZGEuJbVHyLNqztLHd0gJ4GHNmidqtjngiqIb8~JYJtGFb950Xbishd5EbRsV0UDGOoMf0Y9PQDh5p3EWG0SNL2oHa3xWR4IQe5jtyZCNb0hyg-rp2060VlVVHCCGC8T~czrPMRkvl5zOkHZzyXkgu1LMeBkJpZxjrovrXBoqq9PNUcrUUDd2npIHVDylYkNyTnkvlhj8VkFUCyZSQWxTeUV5BdwtPc199w~Mpa2A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo que tú, lo pensaría bien.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f6de4e09-5c5c-4da3-aa1a-a954adfb87c8",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a4b38f61cc1f483e88002d26c8723b51_b04-yo-en-tu-lugar-pediria-un-cambio-de-horario.mp3?Expires=1794099588&Signature=u91jcT~f0imyq9FWFMLj5ADtidysJDuWkdnOP3Bxg-HlKg~DTCFSimlXjG1bfJFv3jEpvNdryJoxbqEq-zJ~yFrUownKj8g6jv01Go~egaygVtZvxhie0LSZjU8wFJh0eo73q1ChSKy30aCOQomXNwvIdu0OBO9ZCcpapNUdZclIDM3qijXa1zehwJAMmlShrsFasUwaAZnLEVAHKNWQUCQazVf9kEocWJDNY8N9braNBXn~sabzmmux-0lB66xqjKBODuEwnR9L5UUdQR4HGXT3dLd0iXMWYJuQDaFQxiCytLDCEhZ88AM3ID2G--ARdWCHetlBgduu-G6EGFZPSQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo, en tu lugar, pediría un cambio de horario.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "acc42aaf-92f4-4ced-86b8-c34531a4ed79",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2bc282501e9a4f61999950990a9c76e9_b06-lo-mejor-seria-pensarlo-bien-antes-de-aceptar.mp3?Expires=1794099588&Signature=p1CZCMZnV54bVz4h6ewW1kv0BpbYNb48dmM2aJT5XyZsiKubm32RXzHy6SKsCsxX2CnxuUvE9ajHOilz8UhMs6w8ynLoA6RU2vriEBIupVmedyFnFqLRMjGySTdt5Gy2Fza5ZNpEc43f4fdpXlo~ArA8fdthwSs7lIdUfq3H8a2gSfqjk6d8trfEExHQscnZQKKh6cTMzIJ2DSSS8PjFf-q1O~WQk6BWS0MaKP-fwRnTT6AmMXt3WcJ3L~ue84tUsxHj5CZoJfk5hyhcT2TwbKBzv318ehLMSq4Py6fg5C02LnHaeE5AaW5WrLTZ69JB8OVZ2FNkDv4tv~VfrARzCA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo mejor sería pensarlo bien antes de aceptar.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "20026fd3-cfb4-490a-b925-4c7e9e196769",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6bbf8cf1bfd74114998883b8a7ee949f_b08-recap-consejos-con-tacto.mp3?Expires=1794099588&Signature=QHFnYeXDlKsNvDVNoGm76a-fb5fo4y6A0xnYK-k6brIweWtHu7z~ErJKtk1RHuj1IPp0megKeDvaoXLHzRYeOJzSC1oCqlji6YuUjVWwZZMXnUhCt2fE-08u65NvZ~XlK0BMUtfn7K3qcsXpsLtWTYqwYvQlre~cU2D2~CwiTzg6mqoXOLYtY~iJJk8K7Ncs~LieqpuobcWweb5BYDlKrOtT9N1M7v7DaYS2WO8cqU8lZ6AuHa8lDNXSTPBgBUE3ChVwDFek4FgjiQRcuivD7Hm8sJH1V4XNqExSdo9ImptUuOQGpfqM5KbKiYWR03pv0GBmAPk93e2lwLiLAaOvKA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo que tú, lo pensaría bien. Yo, en tu lugar, pediría un cambio de horario. Lo mejor sería pensarlo bien antes de aceptar.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "60d87ee3-f7ce-4bc0-81e0-93165d708054",
+      "sequence": 10,
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "title": "Complete o primeiro passo",
+      "content": "<p>Complete em espanhol: Prueba a ______ con tu jefa.</p><p>Tradução: Tente conversar com a sua chefe.</p>",
+      "contentPlain": "Complete em espanhol: Prueba a ______ con tu jefa. Tradução: Tente conversar com a sua chefe.",
+      "fileUrl": null,
+      "feedbackSuccess": "Prueba a... empurra a pessoa para testar uma ação concreta.",
+      "feedbackError": "Prueba a... empurra a pessoa para testar uma ação concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hablar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "865c723b-c736-4549-9e0d-96b5fa6d7843",
+      "sequence": 11,
+      "lessonId": "99d9a053-46e6-4d9e-8534-1886dce22566",
+      "title": "Ligue a linha ao uso conversacional",
+      "content": "<p>Recupere o repertório final ligando cada conselho ao papel que ele pode cumprir na conversa.</p>",
+      "contentPlain": "Recupere o repertório final ligando cada conselho ao papel que ele pode cumprir na conversa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O repertório final da aula combina proximidade, ação concreta e distância calma no mesmo dilema.",
+      "feedbackError": "O repertório final da aula combina proximidade, ação concreta e distância calma no mesmo dilema.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3dc8d88e-0185-4839-a005-a5c761caffbe",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "76c21d5d-b0ac-4983-83b1-ebab1099e0ef",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "e4178d0c-afb4-4cd1-b406-a3cd9cbe23ac",
+          "leftContent": "Yo que tú, lo pensaría bien.",
+          "rightContent": "entrar com proximidade antes do conselho",
+          "sequenceItem": 1
+        },
+        {
+          "id": "233b5987-98c0-4c36-9938-0c0ed2b51372",
+          "leftContent": "Yo, en tu lugar, pediría un cambio de horario.",
+          "rightContent": "sugerir uma ação concreta sobre os horários",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a69b3f6c-6cdb-4925-8a03-e7a8343fe79d",
+          "leftContent": "Lo mejor sería pensarlo bien antes de aceptar.",
+          "rightContent": "baixar a pressão antes de uma decisão",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "73fd8bed-19ca-4643-8c3f-7db4f3295e37",
+      "sequence": 12,
+      "lessonId": "99d9a053-46e6-4d9e-8534-1886dce22566",
+      "title": "Ouça e recupere o repertório",
+      "content": "<p>Marque somente as palavras que fazem parte das três linhas finais de conselho.</p>",
+      "contentPlain": "Marque somente as palavras que fazem parte das três linhas finais de conselho.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6bbf8cf1bfd74114998883b8a7ee949f_b08-recap-consejos-con-tacto.mp3?Expires=1794099588&Signature=QHFnYeXDlKsNvDVNoGm76a-fb5fo4y6A0xnYK-k6brIweWtHu7z~ErJKtk1RHuj1IPp0megKeDvaoXLHzRYeOJzSC1oCqlji6YuUjVWwZZMXnUhCt2fE-08u65NvZ~XlK0BMUtfn7K3qcsXpsLtWTYqwYvQlre~cU2D2~CwiTzg6mqoXOLYtY~iJJk8K7Ncs~LieqpuobcWweb5BYDlKrOtT9N1M7v7DaYS2WO8cqU8lZ6AuHa8lDNXSTPBgBUE3ChVwDFek4FgjiQRcuivD7Hm8sJH1V4XNqExSdo9ImptUuOQGpfqM5KbKiYWR03pv0GBmAPk93e2lwLiLAaOvKA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final reapresenta três conselhos curtos com tato para cansaço, horarios e decisão.",
+      "feedbackError": "O recap final reapresenta três conselhos curtos com tato para cansaço, horarios e decisão.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1de20e3f-ad60-4bef-b780-d7f84497adc3",
+          "text": "aceptar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "265fc69a-402b-4983-b2e7-700469adb2df",
+          "text": "pensaría",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2d0420fc-6e62-428b-85d4-125e0a40a41a",
+          "text": "cambio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4d1185b5-c2ab-49bf-969d-5543d9703e66",
+          "text": "horario",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7dee1be6-b5a7-45e9-aa33-4a849e3b955a",
+          "text": "agotada",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9ee80702-d4ae-471e-8eee-1b0b86e1e65e",
+          "text": "lugar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a12bb278-b391-486c-ae8e-4fbcd3e38195",
+          "text": "mejor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a95ff2de-2215-415a-aea8-4a51c81137b0",
+          "text": "horarios",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ba26324a-cf39-4a3a-ae98-f621c7746377",
+          "text": "pediría",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cf3e6615-243e-4eaa-ad95-e20b90af6c80",
+          "text": "sabe",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "a02c83ed-0cc2-46d1-a8bf-0cff33046f74",
+      "sequence": 13,
+      "lessonId": "67f1f404-364b-4277-9b3e-bdf49c02e63e",
+      "title": "Complete a fórmula mais suave",
+      "content": "<p>Complete em espanhol: _______ pedir unos días.</p><p>Tradução: Você poderia pedir uns dias.</p>",
+      "contentPlain": "Complete em espanhol: _______ pedir unos días. Tradução: Você poderia pedir uns dias.",
+      "fileUrl": null,
+      "feedbackSuccess": "Podrías abre uma opção sem empurrar uma única saída para o problema.",
+      "feedbackError": "Podrías abre uma opção sem empurrar uma única saída para o problema.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Podrías",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "83054bd9-2d80-437f-9e17-bc084172422a",
+      "sequence": 14,
+      "lessonId": "a5b61127-6fef-4e79-94e7-e3f1f20e3cf3",
+      "title": "Escolha a ordem do dilema",
+      "content": "<p>Selecione a ordem que melhor recupera o texto da aula: primeiro o problema, depois a decisão e por fim o motivo da dúvida.</p>",
+      "contentPlain": "Selecione a ordem que melhor recupera o texto da aula: primeiro o problema, depois a decisão e por fim o motivo da dúvida.",
+      "fileUrl": null,
+      "feedbackSuccess": "O texto avança de problema para decisão e só depois explica a hesitação.",
+      "feedbackError": "O texto avança de problema para decisão e só depois explica a hesitação.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5b9611af-1045-4653-96a4-92f51b88af7e",
+          "text": "Desde hace meses tengo horarios muy cambiantes y ya estoy agotado. Mi jefa me propuso cambiar de area, pero no se si aceptar. Quiero pensarlo bien porque me gusta mi equipo actual.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5efefb94-3607-4813-bc1f-a922f5acbf42",
+          "text": "Desde hace meses tengo horarios muy cambiantes y ya estoy agotado. Quiero pensarlo bien porque me gusta mi equipo actual. Mi jefa me propuso cambiar de area, pero no se si aceptar.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b5082e9c-cc19-42ba-9868-edafe43e49b7",
+          "text": "Quiero pensarlo bien porque me gusta mi equipo actual. Desde hace meses tengo horarios muy cambiantes y ya estoy agotado. Mi jefa me propuso cambiar de area, pero no se si aceptar.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d3355d6b-a40b-439d-82be-facc13e6fa3c",
+          "text": "Mi jefa me propuso cambiar de área, pero no sé si aceptar. Desde hace meses tengo horarios muy cambiantes y ya estoy agotado. Quiero pensarlo bien porque me gusta mi equipo actual.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "053a0d91-cea3-4d6a-afbe-cf3446b951ec",
+      "sequence": 15,
+      "lessonId": "45d0a5c2-4d57-4d6b-86f5-2700959434f6",
+      "title": "Reconstrua o recap final",
+      "content": "<p>Relacione cada início ao trecho que completa a sequência final de apoio da aula.</p>",
+      "contentPlain": "Relacione cada início ao trecho que completa a sequência final de apoio da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final encadeia descanso, conversa e decisão com tom de apoio.",
+      "feedbackError": "O recap final encadeia descanso, conversa e decisão com tom de apoio.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7650173d-9f62-4eeb-9072-ab485ee9cdf8",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b7502b65-432b-4f2b-8c91-7f3928316860",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "9785fa3b-f177-4579-a64d-4b54ff15956c",
+          "leftContent": "Yo, en tu lugar, descansaría",
+          "rightContent": "esta noche.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3c0ae2c6-1003-492c-909c-e1044b7cc502",
+          "leftContent": "También hablaría con tu jefa",
+          "rightContent": "mañana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4068e294-0cc0-450d-a38a-080025ef679f",
+          "leftContent": "Te recomendaría decidirlo",
+          "rightContent": "después de esa charla.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ]
+}

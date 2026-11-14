@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-course="es" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>talk2me — Estúdio de Idiomas</title>
+  <link rel="stylesheet" href="/styles.css?v=20261109_06">
+<link rel="stylesheet" href="/talk2me.css">
+<link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#176b56">
+</head>
+<body class="locked">
+<section id="login-screen" class="login-screen"><div class="login-story"><span class="wordmark">talk<span>2</span>me</span><p class="eyebrow">SEU ESPANHOL. SEU RITMO.</p><h1>Uma conversa abre<br>um novo mundo.</h1><p>Um espaço para ouvir, praticar e ganhar confiança. Um pequeno passo, todos os dias.</p><div class="login-art" aria-hidden="true"><span>¡Hola!</span><span>¿Qué tal?</span><span>Vamos juntos.</span></div><small>Do primeiro hola às conversas que importam.</small></div><div class="login-panel"><span class="eyebrow">BEM-VINDO DE VOLTA</span><h2>Seu próximo passo<br>começa aqui.</h2><form id="login-form"><label>E-mail<input name="email" type="email" autocomplete="username" required></label><label>Senha<input name="password" type="password" autocomplete="current-password" required maxlength="128"></label><button type="submit" class="btn">Entrar para estudar →</button><p class="form-status" role="status"></p></form><p class="access-note">Seu acesso é criado pelo professor. Para receber sua conta ou recuperar o acesso, fale com o administrador.</p><p id="setup-note" hidden>A configuração inicial do administrador ainda não foi concluída neste computador.</p></div></section>
+<aside class="study-nav"><a class="wordmark" href="/">talk<span>2</span>me</a><span class="nav-caption">SEU ESPAÇO DE ESTUDO</span><button data-nav="home" class="selected">⌂ <span>Meu estudo</span></button><button data-nav="course">▤ <span>Explorar aulas</span></button><button data-nav="profile">○ <span>Meu progresso</span></button><button data-nav="account">⚙ <span>Minha conta</span></button><button data-nav="admin" id="admin-nav" hidden>♧ <span>Alunos</span></button><div class="nav-bottom"><span class="connection-label">Estudo local</span><p>Um pouco a cada dia.<br>Você chega mais longe.</p></div></aside>
+<nav class="mobile-nav" aria-label="Navegação principal"><button data-nav="home">⌂<span>Início</span></button><button data-nav="course">▤<span>Aulas</span></button><button data-nav="profile">○<span>Progresso</span></button><button data-nav="account">⚙<span>Conta</span></button></nav>
+<dialog id="admin-dialog"><div class="dialog-heading"><h2>Seus alunos</h2><button class="abtn" id="close-admin">Fechar</button></div><p>Crie o acesso e envie as credenciais diretamente ao aluno. Ele poderá alterar a senha na própria conta.</p><form id="student-form"><label>Nome do aluno<input name="full_name" required maxlength="100"></label><label>E-mail<input name="email" type="email" required></label><label>Senha inicial<input name="password" type="password" minlength="10" maxlength="128" required autocomplete="new-password"></label><button type="submit" class="btn">Criar acesso</button><p class="form-status" role="status"></p></form><div id="student-list"></div></dialog>
+
+  <header class="top">
+    <div class="top-in">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">t2</span>
+        <span>talk2me</span>
+      </div>
+      <nav class="langs" id="langs" aria-label="Selecionar curso de idioma"></nav>
+      <div class="top-actions">
+        <div class="stats" aria-label="Resumo de progresso">
+          <span class="stat-item" id="streak" title="Dias seguidos de estudo"></span>
+          <span class="stat-item" id="xp" title="Experiência acumulada"></span>
+          <span class="stat-item" id="visas-stat" title="Atividades validadas no curso"></span>
+        </div>
+        <button class="top-icon-btn" id="theme-toggle" type="button" title="Alternar modo claro / escuro" aria-label="Alternar tema claro ou escuro"></button>
+        <button class="profile-pill-btn" id="profile-btn" type="button" title="Abrir Perfil do aluno e Perfil" aria-label="Perfil do aluno">
+          <span class="avatar-monogram" id="top-avatar-mono">RN</span>
+          <span class="profile-name-label" id="top-user-name">Rony</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <section class="banner" id="hero">
+    <div class="banner-crest" id="banner-crest" aria-hidden="true"></div>
+    <div class="banner-in">
+      <div class="banner-copy"><span class="eyebrow">UM NOVO DIA PARA APRENDER</span>
+        <h1 id="hero-t">Espanhol — Caderno Ibérico</h1>
+        <p id="hero-p"></p>
+      </div>
+      <div class="visa-cta" id="banner-cta-card">
+        <div class="visa-cta-meta">
+          <div class="resume-badge" id="resume-badge" hidden>EM ANDAMENTO</div>
+          <strong id="next-title">Carregando próxima aula…</strong>
+          <span id="next-sub">Nível A1</span>
+        </div>
+        <div class="visa-cta-actions">
+          <button class="btn foil" id="resume" type="button">
+            <span id="resume-label">Retomar aula</span>
+            <span class="ico sm" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="100%" height="100%" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+            </span>
+          </button>
+          <button class="btn-link" id="restart-lesson-btn" type="button" hidden>Reiniciar do início</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="trail-main">
+    <div class="toolbar">
+      <div class="levels" id="tabs" role="tablist" aria-label="Níveis CEFR"></div>
+      <div class="toolbar-right">
+        <div class="view-switcher" role="radiogroup" aria-label="Modo de visualização da trilha">
+          <button class="view-btn on" id="view-ledger-btn" type="button" aria-checked="true" role="radio" title="Visualização em Caderno (módulos e lições)">
+            <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><line x1="8" y1="4" x2="8" y2="20"/><line x1="12" y1="9" x2="18" y2="9"/><line x1="12" y1="14" x2="18" y2="14"/></svg>
+            <span>Lista de aulas</span>
+          </button>
+          <button class="view-btn" id="view-map-btn" type="button" aria-checked="false" role="radio" title="Visualização em Mapa de Progressão (trilha cartográfica)">
+            <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="18" r="3"/><circle cx="18" cy="6" r="3"/><circle cx="12" cy="12" r="3"/><path d="M8.5 16.5l2-3M13.5 10.5l3-3"/></svg>
+            <span>Mapa de Progressão</span>
+          </button>
+        </div>
+        <button class="toolbar-aux-btn" id="toggle-all-mods-btn" type="button" title="Alternar entre expandir ou recolher todos os módulos do nível">
+          <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 15l5 5 5-5M7 9l5-5 5 5"/></svg>
+          <span id="toggle-all-mods-label">Recolher todos</span>
+        </button>
+        <label class="search-wrap">
+          <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
+          <input class="search" id="search" type="search" placeholder="Buscar módulo ou tema…">
+        </label>
+      </div>
+    </div>
+
+    <!-- Visualização 1: Lista em Caderno Consular -->
+    <div class="mods" id="mods"></div>
+
+    <!-- Visualização 2: Trilha Cartográfica (Mapa de Progressão) -->
+    <div class="map-view" id="map-view" hidden>
+      <div class="map-header">
+        <div class="map-title-wrap">
+          <h2 id="map-heading">Seu caminho no espanhol</h2>
+          <p id="map-subheading">Avance uma aula por vez e celebre cada etapa.</p>
+        </div>
+        <div class="map-stats-summary" id="map-stats-summary"></div>
+      </div>
+      <div class="map-track" id="map-track"></div>
+    </div>
+  </main>
+
+  <!-- Gaveta / Modal Consular: Perfil do aluno (Perfil & Acesso) -->
+  <div class="modal-backdrop" id="profile-backdrop" hidden>
+    <div class="profile-drawer" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="drawer-header">
+        <div class="drawer-title-wrap">
+          <span class="consular-flag-seal">SEU ESPAÇO</span>
+          <h2 id="modal-title">Meu progresso</h2>
+        </div>
+        <button class="drawer-close-btn" id="drawer-close" type="button" aria-label="Fechar janela de perfil">
+          <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
+      </div>
+
+      <nav class="drawer-tabs" role="tablist">
+        <button class="drawer-tab on" id="dtab-overview" type="button" role="tab" aria-selected="true">Visão Geral & Progresso</button>
+        <button class="drawer-tab" id="dtab-badges" type="button" role="tab" aria-selected="false">Conquistas & Selos</button>
+        <button class="drawer-tab" id="dtab-auth" type="button" role="tab" aria-selected="false">Acesso & Conta</button>
+      </nav>
+
+      <div class="drawer-body">
+        <!-- Aba 1: Perfil & Progresso -->
+        <div class="tab-pane on" id="pane-overview">
+          <div class="id-card">
+            <div class="id-avatar" id="id-avatar-box">RN</div>
+            <div class="id-meta">
+              <input class="id-name-input" id="id-name-input" type="text" value="" readonly aria-label="Nome do estudante">
+              <span class="id-badge-code" id="id-badge-code">ALUNO · MODO LOCAL</span>
+            </div>
+            <button class="btn outline sm" id="id-save-btn" hidden type="button">Salvar</button>
+          </div>
+
+          <!-- Ofensiva & Meta Diária -->
+          <div class="drawer-section">
+            <h3 class="section-title">Ofensiva & Atividade Contínua</h3>
+            <div class="streak-banner-card">
+              <div class="streak-header-row">
+                <div class="streak-title-group">
+                  <span class="streak-flame-icon">
+                    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.5c2.2 3.1 5 5.6 5 9.6a5 5 0 0 1-10 0c0-1.9.8-3.6 2-5 .2 1.5 1.1 2.4 2 2.7-.3-2.5.3-5 1-7.3Z"/></svg>
+                  </span>
+                  <div>
+                    <strong id="streak-days-count">7 dias seguidos</strong>
+                    <span id="streak-sub">Continue estudando hoje para manter sua ofensiva ativa</span>
+                  </div>
+                </div>
+                <div class="daily-xp-progress-wrap">
+                  <div class="daily-xp-label">
+                    <span>Meta diária</span>
+                    <strong id="daily-xp-ratio">0 / 50 XP</strong>
+                  </div>
+                  <div class="daily-xp-bar"><i id="daily-xp-fill" style="width: 0%"></i></div>
+                </div>
+              </div>
+              <div class="streak-calendar-strip" id="streak-calendar-strip" aria-label="Histórico dos últimos 7 dias"></div>
+            </div>
+          </div>
+
+          <!-- Progresso por Território / Curso -->
+          <div class="drawer-section">
+            <h3 class="section-title">Seu curso</h3>
+            <div class="course-progress-grid" id="course-progress-grid"></div>
+          </div>
+
+          <!-- Preferências Visuais: Tema Claro / Escuro -->
+          <div class="drawer-section">
+            <h3 class="section-title">Aparência do Estúdio</h3>
+            <div class="theme-choice-row">
+              <button class="theme-choice-btn" data-theme-val="light" type="button">
+                <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+                <span>Modo Claro</span>
+              </button>
+              <button class="theme-choice-btn" data-theme-val="dark" type="button">
+                <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                <span>Modo Escuro</span>
+              </button>
+              <button class="theme-choice-btn" data-theme-val="system" type="button">
+                <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+                <span>Automático</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Sons & Efeitos Sonoros -->
+          <div class="drawer-section">
+            <h3 class="section-title">Efeitos Sonoros do Estúdio</h3>
+            <div class="sound-toggle-card">
+              <div class="sound-toggle-meta">
+                <span class="ico sm" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+                </span>
+                <div>
+                  <strong>Sons de Resposta & Chimes</strong>
+                  <span class="sound-sub">Feedback de áudio orgânico para acertos, erros e conclusão de aulas</span>
+                </div>
+              </div>
+              <button class="sound-toggle-btn on" id="sound-toggle-btn" type="button" aria-pressed="true">
+                <span id="sound-toggle-label">Ativado</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Aba 2: Conquistas & Selos Consulares -->
+        <div class="tab-pane" id="pane-badges">
+          <div class="badges-intro-card">
+            <div class="badges-intro-header">
+              <span class="consular-flag-seal">SUAS CONQUISTAS</span>
+              <strong id="badges-unlocked-summary">0 de 10 selos desbloqueados</strong>
+            </div>
+            <p>Cada conquista representa um passo no seu aprendizado.</p>
+          </div>
+          <div class="badges-grid" id="badges-grid">
+            <!-- Injetado dinamicamente via JS -->
+          </div>
+        </div>
+
+        <!-- Aba 3: Acesso & Conta (Esquematizado p/ Google + Email/Senha) -->
+        <div class="tab-pane" id="pane-auth">
+<section class="account-settings"><p id="account-email"></p><form id="password-form"><h3>Alterar minha senha</h3><label>Senha atual<input name="current_password" type="password" autocomplete="current-password" required></label><label>Nova senha<input name="new_password" type="password" minlength="10" maxlength="128" autocomplete="new-password" required></label><label>Repita a nova senha<input name="confirm" type="password" minlength="10" autocomplete="new-password" required></label><button class="btn" type="submit">Salvar nova senha</button><p role="status" class="form-status"></p></form><button class="abtn" id="secure-logout">Sair da conta</button></section>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Player de Aula & Exercícios -->
+  <div id="player" hidden>
+    <div class="ptop-wrap">
+      <div class="ptop">
+        <div class="pexit-zone">
+          <button class="pnav" id="pclose" type="button" title="Voltar ao Caderno de Módulos">
+            <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>
+            <span>Sair da aula</span>
+          </button>
+        </div>
+        <button class="pnav" id="pprev" type="button" title="Passo anterior">
+          <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>
+          <span>Anterior</span>
+        </button>
+        <div class="pbar" role="progressbar" aria-label="Progresso na aula"><i id="pfill"></i></div>
+        <span id="pcount"></span>
+      </div>
+      <div class="psub">
+        <span id="ptitle"></span>
+        <span id="pstep-kind"></span>
+      </div>
+    </div>
+    <div class="pbody" id="pbody"></div>
+    <div class="pfoot" id="pfoot">
+      <div class="pfoot-in">
+        <div id="pfb"></div>
+        <button class="btn" id="pbtn" type="button">Continuar</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/video-presentation.js"></script>
+<script src="/data.js"></script>
+<script src="/app.js?v=accounts1"></script>
+<script src="/offline.js"></script>
+<script src="/platform.js?v=1"></script>
+</body>
+</html>

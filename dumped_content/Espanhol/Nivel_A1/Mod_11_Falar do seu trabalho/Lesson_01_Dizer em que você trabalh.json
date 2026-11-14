@@ -1,0 +1,559 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+    "attemptId": "477a308b-3d9b-4049-acfb-343f60614667",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "04608052-a4a9-4a30-b754-f4588b46e4b4",
+      "cf7c740e-0fc3-4543-89a9-191eb7c156f4",
+      "61b7e974-b562-42bb-a852-d55fcb42e1e3",
+      "4deb0b39-4513-47c7-888e-a7356cc4e285",
+      "cf524e47-8c62-45f5-8231-108f1e626450"
+    ],
+    "evaluationExerciseIds": [
+      "bcf0ec6f-9683-4150-a080-2ef29578c496",
+      "cb6bf6d6-a74c-4676-bd66-98933d6a5ce0",
+      "6fd6e2a9-0c7e-46a8-9146-ad65fa3234e4",
+      "84966b86-5b5e-4dc5-8f94-d2e9dd98b60a",
+      "946ac6b2-9b85-4940-9646-5dd8551def22"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:33.5145107Z"
+  },
+  "contents": [
+    {
+      "id": "b6c224df-6104-4551-9a37-e759e00f5c15",
+      "title": "Olhe a imagem, escute o áudio e observe a frase em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "ee58fee7-f564-4cc1-b52a-8595e455e279",
+          "textContent": "<p><strong>Soy profesora.</strong></p><p>Eu sou professora.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a0af742b46ae46ed859f715955b451f7_profesora.png?Expires=1794099454&Signature=v2-Ncg0DIajT1P1RS6AUysd5OQPzKyFxUP7VmgRRtHuaQwwA5vGpeJK5xUgg3MvKFL9PJa1dzKJUqHLpYPnZttCtQ13k1CsJ0yH9fpjuaiM6i5EvTDLcgFqYOE55KrD3vJellN4d6CD4lQ2bpkamMPHE51zRfbEJAAD3xmtacQ3hXZ012MRS8uZw75ziXx3S-SDSK8VO0JUzFUdZedMb7l2y~mQjbufrhw2Zo9A7FNnKenriSa-mEPTR7fMtVzXxfS2NOpBacY8~gfgkizPFp-dR~RXR-PEzx2gmugbEULOSqzgMGyBsePmGBhJwUOxZvYSzhD6kqnWT5NmtCuyTaQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/aadd59cb157044d7a8879503b77d2ed0_soy-profesora.mp3?Expires=1794099454&Signature=fht7yrKFLGwlyLn8u8MYxOFv41Ox6x4v7j3AV31Qavvgc3X0U3y-BgYjRAnRY2WmEJLYlaSJQqxpgtPINa--TSCUIOVpYTOYvBUfo~JUFm-9xNYbqHvz15DiBpzPZ0w0rquxMlk3DvyzD5QB38cd5CAsdG5OkztXwtUFPZ3JiUi1VkbTpKHmhOeQSni55N7cvytvVIHVglFTykdYHGQB7MRMGsCqHfi7BvkvhjpLlO67SDXOAvi8WQ6Ru~HA9a9SHbBExU~4TurA74N952NP~fLtwSELqQlXHuqCrQB2sizUjZAkdBJxslnhYON3sWrxj9jzl1-1hAPVHp7EteAEHg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f1b1379a-7f01-4996-a19c-47f45b60b742",
+      "title": "Leia a observação curta e repare na parte fixa da resposta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "476bc460-247b-422f-8c98-4b9d4ef89741",
+          "textContent": "<p>Para falar do seu trabalho, a resposta começa com <strong>Soy...</strong></p><p>Depois, entra a profissão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3da14264-e1fc-44eb-89e6-70386fdc4332",
+      "title": "Olhe a imagem, escute o áudio e observe como a resposta muda só na profissão.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "4ae1cb83-b8cf-4b9a-8d5b-c5a8852287d3",
+          "textContent": "<p><strong>Soy camarero.</strong></p><p>Eu sou garçom.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/afd8dbabf2844e9c97c751748c8580e1_camarero.png?Expires=1794099454&Signature=wzefVaPIuibzFxqlVbwWHJffYQrf4dLKaE4CtwDTNxMoNfHK7liA~ugydNqMzfofKBtiCDaUlLWM8W4ay1jhtfCxjLczQCmjRemkZgAF-y9u55vcFiOHkFmeULKH3jzjf34tykrcZOmwePx0eBaqVgxIrV~HWfNvkTIe4XDdMMOioGsyK6-mZVb3N8TW49HgXJ-6gfH0lmJaGxsNjpUY-G~NzcvRSmonqpypyCngQQyEkVineaovo~tfH1D3e6TPKC8QcmyfBp0ir84tEA~B40DxoVrjAH-PHFr3~rGzfYxBniiFEz7usAYayu491E6kPx~UZn9mlu76vnvd7D7qQA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5acca5f45eb54e31924c9c24f6f2f746_soy-camarero.mp3?Expires=1794099454&Signature=XlVGULa1w7I2X4TWog~nDM9mVooaUSHxexHhF9grw-MARbVLP7tSP89XQIs5BtDYy~TeYsu42LkYypTl38qA8KgbjE-pJN1x474QFB5MP0F~TjbJtgYsvyWd9hjl-XVgBQKp-SsL1az9hmbF4j-AHaHJu5Ggy4YtJAFMz2ZVeommHE3Lw~iKCloDJ7LmJ8b9Eu2jCXk4OB--5seXiuSaRxEPs~grk~s3Xpoe-5e0W0NUCAv~ARw23Bvez1yMVMN0zk1loKxveIK1V-ePSl4XbCdQS4~vWk7hkGJZPjwGde~VEECp2ze~aQ2prqZoApa-I5VOTk0ImX51sUBtlkiiOw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "96939850-921f-4d1a-a0f5-a9fe88ebcef8",
+      "title": "Leia as duas frases e observe o que muda e o que continua igual.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "919ca883-38cf-4607-90ae-545f000e2ebc",
+          "textContent": "<p>O começo da resposta continua igual.</p><p><strong>Soy profesora.</strong></p><p><strong>Soy camarero.</strong></p><p>Você troca só a profissão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f99a8200-5e36-4c84-95f0-102467eef814",
+      "title": "Escute o áudio e observe a pergunta em espanhol com a tradução.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "7ddbfc48-79f1-4cff-9548-2002d67ed535",
+          "textContent": "<p><strong>¿En qué trabajas?</strong></p><p>Em que você trabalha?</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3310c3a4d26d4398b2a1c15ee99c418e_en-que-trabajas.mp3?Expires=1794099454&Signature=aKyx40VJHkOtSLd3W30FoDCxjIvAba18z88e~pNneG3~7RlMXAQiOKf4dX7BU0O~rQVT5RUDAVCBddjlxJcU5NDRBUEjMdfOh3jbkaJj96ShFqkn8671u4sr0iV31rlRnf1O55YFDUdRXDxdBIBkiwmGQWDE71P0zkFeMy~6T6ny7e97~OSBbqqUETqRVBm3ckB34IvHN9TZuQrl-M9dNDuucMQYYvhjXDMUgrmdLC~YSZpt~hx19SbtFLPD58pivOlPLgq8TTpQ3ElQb9jtxWT~X2XRaYb0F0kGkXxa6fC9ahIWnl9TFn0m2kUoO2AhuRmr86hM0P4dZyOBihbNeQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f29dfab3-bea0-4a90-b832-5fd6ea5acfcd",
+      "title": "Leia a observação e conecte a pergunta à resposta com o padrão Soy + profissão.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "d6e68fe6-75be-4eb8-af4d-e77b731f042f",
+          "textContent": "<p>Use <strong>¿En qué trabajas?</strong> para perguntar o trabalho de outra pessoa.</p><p>A resposta volta ao padrão <strong>Soy...</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0447cc1e-f48d-4752-a9c7-6b1314be8585",
+      "title": "Conversa rápida",
+      "description": "<p>Aqui, a pergunta e a resposta aparecem em uma conversa realista e bem curta.</p>",
+      "contentType": 7,
+      "sequenceItem": 7,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿En qué trabajas?</div>\n  <div style=\"opacity: 0.45;\">Em que você trabalha?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3310c3a4d26d4398b2a1c15ee99c418e_en-que-trabajas.mp3?Expires=1794099454&Signature=aKyx40VJHkOtSLd3W30FoDCxjIvAba18z88e~pNneG3~7RlMXAQiOKf4dX7BU0O~rQVT5RUDAVCBddjlxJcU5NDRBUEjMdfOh3jbkaJj96ShFqkn8671u4sr0iV31rlRnf1O55YFDUdRXDxdBIBkiwmGQWDE71P0zkFeMy~6T6ny7e97~OSBbqqUETqRVBm3ckB34IvHN9TZuQrl-M9dNDuucMQYYvhjXDMUgrmdLC~YSZpt~hx19SbtFLPD58pivOlPLgq8TTpQ3ElQb9jtxWT~X2XRaYb0F0kGkXxa6fC9ahIWnl9TFn0m2kUoO2AhuRmr86hM0P4dZyOBihbNeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Soy camarero.</div>\n  <div style=\"opacity: 0.45;\">Sou garçom.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5acca5f45eb54e31924c9c24f6f2f746_soy-camarero.mp3?Expires=1794099454&Signature=XlVGULa1w7I2X4TWog~nDM9mVooaUSHxexHhF9grw-MARbVLP7tSP89XQIs5BtDYy~TeYsu42LkYypTl38qA8KgbjE-pJN1x474QFB5MP0F~TjbJtgYsvyWd9hjl-XVgBQKp-SsL1az9hmbF4j-AHaHJu5Ggy4YtJAFMz2ZVeommHE3Lw~iKCloDJ7LmJ8b9Eu2jCXk4OB--5seXiuSaRxEPs~grk~s3Xpoe-5e0W0NUCAv~ARw23Bvez1yMVMN0zk1loKxveIK1V-ePSl4XbCdQS4~vWk7hkGJZPjwGde~VEECp2ze~aQ2prqZoApa-I5VOTk0ImX51sUBtlkiiOw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "4a6b8210-244a-4e99-a9e8-df077f0e41b3",
+      "title": "Leia o resumo final e conecte a aula a uma conversa real.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "7287c980-414b-4534-b415-382d234d492d",
+          "textContent": "<p>Em uma conversa nova, você pode ouvir ou fazer a pergunta <strong>¿En qué trabajas?</strong></p><p>Para responder, use <strong>Soy + profissão</strong>.</p><p><strong>Soy profesora.</strong> / <strong>Soy camarero.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "04608052-a4a9-4a30-b754-f4588b46e4b4",
+      "title": "Escute e associe as respostas",
+      "content": "<p>Os dois áudios retomam respostas de profissão. Combine cada som com a frase correspondente.</p>",
+      "contentPlain": "Os dois áudios retomam respostas de profissão. Combine cada som com a frase correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "A comparação da aula mostra que o começo Soy fica igual e muda só a profissão.",
+      "feedbackError": "A comparação da aula mostra que o começo Soy fica igual e muda só a profissão.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "dbddf8e1-d404-45da-9503-9a53bb57a8b7",
+          "exerciseId": "04608052-a4a9-4a30-b754-f4588b46e4b4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/aadd59cb157044d7a8879503b77d2ed0_soy-profesora.mp3?Expires=1794099454&Signature=fht7yrKFLGwlyLn8u8MYxOFv41Ox6x4v7j3AV31Qavvgc3X0U3y-BgYjRAnRY2WmEJLYlaSJQqxpgtPINa--TSCUIOVpYTOYvBUfo~JUFm-9xNYbqHvz15DiBpzPZ0w0rquxMlk3DvyzD5QB38cd5CAsdG5OkztXwtUFPZ3JiUi1VkbTpKHmhOeQSni55N7cvytvVIHVglFTykdYHGQB7MRMGsCqHfi7BvkvhjpLlO67SDXOAvi8WQ6Ru~HA9a9SHbBExU~4TurA74N952NP~fLtwSELqQlXHuqCrQB2sizUjZAkdBJxslnhYON3sWrxj9jzl1-1hAPVHp7EteAEHg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy profesora.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "84ae8ed5-7397-4bcc-a412-341ddb026d70",
+          "exerciseId": "04608052-a4a9-4a30-b754-f4588b46e4b4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5acca5f45eb54e31924c9c24f6f2f746_soy-camarero.mp3?Expires=1794099454&Signature=XlVGULa1w7I2X4TWog~nDM9mVooaUSHxexHhF9grw-MARbVLP7tSP89XQIs5BtDYy~TeYsu42LkYypTl38qA8KgbjE-pJN1x474QFB5MP0F~TjbJtgYsvyWd9hjl-XVgBQKp-SsL1az9hmbF4j-AHaHJu5Ggy4YtJAFMz2ZVeommHE3Lw~iKCloDJ7LmJ8b9Eu2jCXk4OB--5seXiuSaRxEPs~grk~s3Xpoe-5e0W0NUCAv~ARw23Bvez1yMVMN0zk1loKxveIK1V-ePSl4XbCdQS4~vWk7hkGJZPjwGde~VEECp2ze~aQ2prqZoApa-I5VOTk0ImX51sUBtlkiiOw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy camarero.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "cf7c740e-0fc3-4543-89a9-191eb7c156f4",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a pergunta em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a pergunta em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3310c3a4d26d4398b2a1c15ee99c418e_en-que-trabajas.mp3?Expires=1794099454&Signature=aKyx40VJHkOtSLd3W30FoDCxjIvAba18z88e~pNneG3~7RlMXAQiOKf4dX7BU0O~rQVT5RUDAVCBddjlxJcU5NDRBUEjMdfOh3jbkaJj96ShFqkn8671u4sr0iV31rlRnf1O55YFDUdRXDxdBIBkiwmGQWDE71P0zkFeMy~6T6ny7e97~OSBbqqUETqRVBm3ckB34IvHN9TZuQrl-M9dNDuucMQYYvhjXDMUgrmdLC~YSZpt~hx19SbtFLPD58pivOlPLgq8TTpQ3ElQb9jtxWT~X2XRaYb0F0kGkXxa6fC9ahIWnl9TFn0m2kUoO2AhuRmr86hM0P4dZyOBihbNeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A prática oral ativa a pergunta central usada para iniciar a troca sobre trabalho.",
+      "feedbackError": "A prática oral ativa a pergunta central usada para iniciar a troca sobre trabalho.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "¿En qué trabajas?",
+      "typeSpecificData": "{\"expectedText\":\"\\u00BFEn qu\\u00E9 trabajas?\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/3310c3a4d26d4398b2a1c15ee99c418e_en-que-trabajas.mp3?Expires=1794099454\\u0026Signature=aKyx40VJHkOtSLd3W30FoDCxjIvAba18z88e~pNneG3~7RlMXAQiOKf4dX7BU0O~rQVT5RUDAVCBddjlxJcU5NDRBUEjMdfOh3jbkaJj96ShFqkn8671u4sr0iV31rlRnf1O55YFDUdRXDxdBIBkiwmGQWDE71P0zkFeMy~6T6ny7e97~OSBbqqUETqRVBm3ckB34IvHN9TZuQrl-M9dNDuucMQYYvhjXDMUgrmdLC~YSZpt~hx19SbtFLPD58pivOlPLgq8TTpQ3ElQb9jtxWT~X2XRaYb0F0kGkXxa6fC9ahIWnl9TFn0m2kUoO2AhuRmr86hM0P4dZyOBihbNeQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "61b7e974-b562-42bb-a852-d55fcb42e1e3",
+      "title": "Escolha a resposta correta",
+      "content": "<p>Você quer responder sobre trabalho dizendo <strong>Sou professora.</strong> Qual frase funciona em espanhol?</p>",
+      "contentPlain": "Você quer responder sobre trabalho dizendo Sou professora. Qual frase funciona em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula apresenta Soy + profissão como resposta curta para falar do trabalho.",
+      "feedbackError": "A aula apresenta Soy + profissão como resposta curta para falar do trabalho.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0a52444b-27e1-4b51-aff7-097019c2d4c1",
+          "textContent": "Soy camarero.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "61b7e974-b562-42bb-a852-d55fcb42e1e3"
+        },
+        {
+          "id": "8c735992-1a3f-41ac-89c9-b72a04313e61",
+          "textContent": "Soy profesora.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "61b7e974-b562-42bb-a852-d55fcb42e1e3"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4deb0b39-4513-47c7-888e-a7356cc4e285",
+      "title": "Ligue frase e significado",
+      "content": "<p>Relacione a pergunta e as respostas curtas da aula ao sentido correto.</p>",
+      "contentPlain": "Relacione a pergunta e as respostas curtas da aula ao sentido correto.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula retoma a pergunta central e duas respostas curtas com Soy + profissão.",
+      "feedbackError": "O fechamento da aula retoma a pergunta central e duas respostas curtas com Soy + profissão.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "d66a49fd-9895-49e4-821f-7cc1ebcc91f9",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4deb0b39-4513-47c7-888e-a7356cc4e285"
+        },
+        {
+          "id": "e2218594-d720-47fc-8775-10ccc006b45b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4deb0b39-4513-47c7-888e-a7356cc4e285"
+        }
+      ],
+      "associations": [
+        {
+          "id": "d93ad2f6-b16c-45ff-9101-b3cbcdd39032",
+          "exerciseId": "4deb0b39-4513-47c7-888e-a7356cc4e285",
+          "leftContent": "¿En qué trabajas?",
+          "rightContent": "Em que você trabalha?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "09835a4f-f408-4508-8968-6d8cbb2d6a4a",
+          "exerciseId": "4deb0b39-4513-47c7-888e-a7356cc4e285",
+          "leftContent": "Soy profesora.",
+          "rightContent": "Sou professora.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7f01994e-d922-4f76-99c1-bcd1839ddb34",
+          "exerciseId": "4deb0b39-4513-47c7-888e-a7356cc4e285",
+          "leftContent": "Soy camarero.",
+          "rightContent": "Sou garçom.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "cf524e47-8c62-45f5-8231-108f1e626450",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a pergunta da aula e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a pergunta da aula e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3310c3a4d26d4398b2a1c15ee99c418e_en-que-trabajas.mp3?Expires=1794099454&Signature=aKyx40VJHkOtSLd3W30FoDCxjIvAba18z88e~pNneG3~7RlMXAQiOKf4dX7BU0O~rQVT5RUDAVCBddjlxJcU5NDRBUEjMdfOh3jbkaJj96ShFqkn8671u4sr0iV31rlRnf1O55YFDUdRXDxdBIBkiwmGQWDE71P0zkFeMy~6T6ny7e97~OSBbqqUETqRVBm3ckB34IvHN9TZuQrl-M9dNDuucMQYYvhjXDMUgrmdLC~YSZpt~hx19SbtFLPD58pivOlPLgq8TTpQ3ElQb9jtxWT~X2XRaYb0F0kGkXxa6fC9ahIWnl9TFn0m2kUoO2AhuRmr86hM0P4dZyOBihbNeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta central da aula é ¿En qué trabajas? para falar do trabalho de outra pessoa.",
+      "feedbackError": "A pergunta central da aula é ¿En qué trabajas? para falar do trabalho de outra pessoa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7076a209-ce39-48fe-bd7e-a6c40bdb347a",
+          "textContent": "camarero",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cf524e47-8c62-45f5-8231-108f1e626450"
+        },
+        {
+          "id": "815ed238-e71d-44ae-a62a-b7b5a341077a",
+          "textContent": "profesora",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cf524e47-8c62-45f5-8231-108f1e626450"
+        },
+        {
+          "id": "a0579bcb-c95b-4204-b724-c2fb47c973ef",
+          "textContent": "En",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "cf524e47-8c62-45f5-8231-108f1e626450"
+        },
+        {
+          "id": "a41b8681-9a6f-4f45-b4c2-d4ab0099f48e",
+          "textContent": "Soy",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cf524e47-8c62-45f5-8231-108f1e626450"
+        },
+        {
+          "id": "d3cc3095-57aa-45a3-9868-f8378f1b92ed",
+          "textContent": "qué",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "cf524e47-8c62-45f5-8231-108f1e626450"
+        },
+        {
+          "id": "f0666c1d-7df6-471a-86cd-0e38158f7a0c",
+          "textContent": "trabajas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "cf524e47-8c62-45f5-8231-108f1e626450"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "bcf0ec6f-9683-4150-a080-2ef29578c496",
+      "title": "Complete a pergunta",
+      "content": "<p>¿En qué ________?</p><p>Tradução: Em que você trabalha?</p>",
+      "contentPlain": "¿En qué ________? Tradução: Em que você trabalha?",
+      "fileUrl": null,
+      "feedbackSuccess": "A pergunta central da aula termina com trabajas para perguntar sobre o trabalho da outra pessoa.",
+      "feedbackError": "A pergunta central da aula termina com trabajas para perguntar sobre o trabalho da outra pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabajas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "cb6bf6d6-a74c-4676-bd66-98933d6a5ce0",
+      "title": "Ouça e recupere a resposta",
+      "content": "<p>Agora a escuta traz uma resposta curta. Marque só as palavras que realmente aparecem.</p>",
+      "contentPlain": "Agora a escuta traz uma resposta curta. Marque só as palavras que realmente aparecem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5acca5f45eb54e31924c9c24f6f2f746_soy-camarero.mp3?Expires=1794099454&Signature=XlVGULa1w7I2X4TWog~nDM9mVooaUSHxexHhF9grw-MARbVLP7tSP89XQIs5BtDYy~TeYsu42LkYypTl38qA8KgbjE-pJN1x474QFB5MP0F~TjbJtgYsvyWd9hjl-XVgBQKp-SsL1az9hmbF4j-AHaHJu5Ggy4YtJAFMz2ZVeommHE3Lw~iKCloDJ7LmJ8b9Eu2jCXk4OB--5seXiuSaRxEPs~grk~s3Xpoe-5e0W0NUCAv~ARw23Bvez1yMVMN0zk1loKxveIK1V-ePSl4XbCdQS4~vWk7hkGJZPjwGde~VEECp2ze~aQ2prqZoApa-I5VOTk0ImX51sUBtlkiiOw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na resposta curta da aula, Soy + profissão diz em que a pessoa trabalha.",
+      "feedbackError": "Na resposta curta da aula, Soy + profissão diz em que a pessoa trabalha.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "17885501-50ed-4979-9a7e-85fffe2a8f2b",
+          "textContent": "camarero",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "cb6bf6d6-a74c-4676-bd66-98933d6a5ce0"
+        },
+        {
+          "id": "1ed89f60-14ea-49b5-a4aa-3ca8a6439705",
+          "textContent": "trabajas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cb6bf6d6-a74c-4676-bd66-98933d6a5ce0"
+        },
+        {
+          "id": "55767a20-ab68-41b5-95b5-0a60030b6f75",
+          "textContent": "Soy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "cb6bf6d6-a74c-4676-bd66-98933d6a5ce0"
+        },
+        {
+          "id": "c1c4b494-3dd7-4ceb-a6de-fd1cab1ebed0",
+          "textContent": "qué",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cb6bf6d6-a74c-4676-bd66-98933d6a5ce0"
+        },
+        {
+          "id": "c9d9cbf8-44ff-41ee-8482-cd78167c06b6",
+          "textContent": "profesora",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cb6bf6d6-a74c-4676-bd66-98933d6a5ce0"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6fd6e2a9-0c7e-46a8-9146-ad65fa3234e4",
+      "title": "Recupere o começo da resposta",
+      "content": "<p>___ profesora.</p><p>Tradução: Sou professora.</p>",
+      "contentPlain": "___ profesora. Tradução: Sou professora.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula destaca Soy como o começo fixo da resposta sobre profissão.",
+      "feedbackError": "A aula destaca Soy como o começo fixo da resposta sobre profissão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Soy",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "84966b86-5b5e-4dc5-8f94-d2e9dd98b60a",
+      "title": "Complete a profissão",
+      "content": "<p>Soy _________.</p><p>Tradução: Sou professora.</p>",
+      "contentPlain": "Soy _________. Tradução: Sou professora.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na resposta curta, a palavra depois de Soy indica a profissão da pessoa.",
+      "feedbackError": "Na resposta curta, a palavra depois de Soy indica a profissão da pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "profesora",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "946ac6b2-9b85-4940-9646-5dd8551def22",
+      "title": "Recupere a pergunta e as respostas",
+      "content": "<p>Ouça os três áudios do repertório final da aula e combine cada um com a frase correta.</p>",
+      "contentPlain": "Ouça os três áudios do repertório final da aula e combine cada um com a frase correta.",
+      "fileUrl": null,
+      "feedbackSuccess": "O repertório final da aula junta a pergunta ¿En qué trabajas? e respostas curtas com Soy + profissão.",
+      "feedbackError": "O repertório final da aula junta a pergunta ¿En qué trabajas? e respostas curtas com Soy + profissão.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "93ebf7d3-1d32-49f5-b105-174fad01f3d5",
+          "exerciseId": "946ac6b2-9b85-4940-9646-5dd8551def22",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3310c3a4d26d4398b2a1c15ee99c418e_en-que-trabajas.mp3?Expires=1794099454&Signature=aKyx40VJHkOtSLd3W30FoDCxjIvAba18z88e~pNneG3~7RlMXAQiOKf4dX7BU0O~rQVT5RUDAVCBddjlxJcU5NDRBUEjMdfOh3jbkaJj96ShFqkn8671u4sr0iV31rlRnf1O55YFDUdRXDxdBIBkiwmGQWDE71P0zkFeMy~6T6ny7e97~OSBbqqUETqRVBm3ckB34IvHN9TZuQrl-M9dNDuucMQYYvhjXDMUgrmdLC~YSZpt~hx19SbtFLPD58pivOlPLgq8TTpQ3ElQb9jtxWT~X2XRaYb0F0kGkXxa6fC9ahIWnl9TFn0m2kUoO2AhuRmr86hM0P4dZyOBihbNeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿En qué trabajas?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a23bc307-a8af-4b09-a600-29b56d00bd33",
+          "exerciseId": "946ac6b2-9b85-4940-9646-5dd8551def22",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/aadd59cb157044d7a8879503b77d2ed0_soy-profesora.mp3?Expires=1794099454&Signature=fht7yrKFLGwlyLn8u8MYxOFv41Ox6x4v7j3AV31Qavvgc3X0U3y-BgYjRAnRY2WmEJLYlaSJQqxpgtPINa--TSCUIOVpYTOYvBUfo~JUFm-9xNYbqHvz15DiBpzPZ0w0rquxMlk3DvyzD5QB38cd5CAsdG5OkztXwtUFPZ3JiUi1VkbTpKHmhOeQSni55N7cvytvVIHVglFTykdYHGQB7MRMGsCqHfi7BvkvhjpLlO67SDXOAvi8WQ6Ru~HA9a9SHbBExU~4TurA74N952NP~fLtwSELqQlXHuqCrQB2sizUjZAkdBJxslnhYON3sWrxj9jzl1-1hAPVHp7EteAEHg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy profesora.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3a9bf09c-b2f7-4eca-b0d9-ad86cbe3958c",
+          "exerciseId": "946ac6b2-9b85-4940-9646-5dd8551def22",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5acca5f45eb54e31924c9c24f6f2f746_soy-camarero.mp3?Expires=1794099454&Signature=XlVGULa1w7I2X4TWog~nDM9mVooaUSHxexHhF9grw-MARbVLP7tSP89XQIs5BtDYy~TeYsu42LkYypTl38qA8KgbjE-pJN1x474QFB5MP0F~TjbJtgYsvyWd9hjl-XVgBQKp-SsL1az9hmbF4j-AHaHJu5Ggy4YtJAFMz2ZVeommHE3Lw~iKCloDJ7LmJ8b9Eu2jCXk4OB--5seXiuSaRxEPs~grk~s3Xpoe-5e0W0NUCAv~ARw23Bvez1yMVMN0zk1loKxveIK1V-ePSl4XbCdQS4~vWk7hkGJZPjwGde~VEECp2ze~aQ2prqZoApa-I5VOTk0ImX51sUBtlkiiOw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy camarero.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "title": "Dizer em que você trabalha"
+}

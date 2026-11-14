@@ -1,0 +1,507 @@
+{
+  "attemptId": "6a0a4af3-f6f9-447b-b2bd-207545da5d31",
+  "exercises": [
+    {
+      "exerciseId": "07987462-3d55-4ace-8cb3-8181e60a2eae",
+      "sequence": 1,
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "title": "Recupere o sintoma que continua",
+      "content": "<p>Complete em espanhol: Hoy me encuentro un poco mejor, pero sigo con ______.</p><p>Tradução: Hoje estou um pouco melhor, mas continuo com tontura.</p>",
+      "contentPlain": "Complete em espanhol: Hoy me encuentro un poco mejor, pero sigo con ______. Tradução: Hoje estou um pouco melhor, mas continuo com tontura.",
+      "fileUrl": null,
+      "feedbackSuccess": "No modelo final, sigo con mostra que o mal-estar ainda continua no presente.",
+      "feedbackError": "No modelo final, sigo con mostra que o mal-estar ainda continua no presente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mareos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "165e33e0-89e7-4aa1-ade3-afc9e233ce50",
+      "sequence": 2,
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "title": "Escolha o update completo",
+      "content": "<p>Qual opção cobre o que você sente, há quanto tempo, o que pode estar acontecendo e o que vai fazer agora, na ordem curta trabalhada na aula?</p>",
+      "contentPlain": "Qual opção cobre o que você sente, há quanto tempo, o que pode estar acontecendo e o que vai fazer agora, na ordem curta trabalhada na aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final pede um update curto com sintoma, estado atual, hipótese e plano em ordem clara.",
+      "feedbackError": "O recap final pede um update curto com sintoma, estado atual, hipótese e plano em ordem clara.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3d9ec5fd-9448-4b2c-b1c2-a96eeed1e4b4",
+          "text": "Hoy me encuentro un poco mejor, pero sigo con mareos. Puede que sea una infección leve o simplemente cansancio acumulado. Desde anoche tengo fiebre y dolor de cabeza. Voy a descansar esta tarde y, si mañana sigo igual, voy a pedir cita.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3feabf43-6817-4590-9b91-2e2367599930",
+          "text": "Desde anoche tengo fiebre y dolor de cabeza. Voy a descansar esta tarde y, si manana sigo igual, voy a pedir cita. Hoy me encuentro un poco mejor, pero sigo con mareos. Puede que sea una infeccion leve o simplemente cansancio acumulado.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "939c51b5-9fde-48d5-a719-baeb03337e97",
+          "text": "Puede que sea una infeccion leve o simplemente cansancio acumulado. Desde anoche tengo fiebre y dolor de cabeza. Voy a descansar esta tarde y, si manana sigo igual, voy a pedir cita. Hoy me encuentro un poco mejor, pero sigo con mareos.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b3dad051-fb60-46fb-abdd-3cd78490cf1f",
+          "text": "Desde anoche tengo fiebre y dolor de cabeza. Hoy me encuentro un poco mejor, pero sigo con mareos. Puede que sea una infeccion leve, así que voy a descansar esta tarde. Si manana sigo igual, voy a pedir cita.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "bbb04166-254e-4aad-9b7c-4dde172bd576",
+      "sequence": 3,
+      "lessonId": "3d3e2139-fea2-4757-8ae7-4ff01f7c4dbf",
+      "title": "Complete o sintoma direto",
+      "content": "<p>Complete em espanhol: Tengo ___.</p><p>Tradução: Estou com tosse.</p>",
+      "contentPlain": "Complete em espanhol: Tengo ___. Tradução: Estou com tosse.",
+      "fileUrl": null,
+      "feedbackSuccess": "Tengo tos. nomeia um sintoma direto, sem apontar uma área do corpo.",
+      "feedbackError": "Tengo tos. nomeia um sintoma direto, sem apontar uma área do corpo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c70ffaf5-7aa4-4722-a4b4-896bd716e089",
+      "sequence": 4,
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "title": "Combine update e situação",
+      "content": "<p>Relacione cada update final ao contexto real em que ele funciona melhor.</p>",
+      "contentPlain": "Relacione cada update final ao contexto real em que ele funciona melhor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, o recap final liga cada update a um uso plausível em chat, rotina ou casa.",
+      "feedbackError": "Nesta aula, o recap final liga cada update a um uso plausível em chat, rotina ou casa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4bddb859-59a2-4921-81ce-949bfd1a68b4",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "64f5eb95-f0be-42b3-99b6-ed61dc0cdf30",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "ea1767f4-3776-4efb-b05c-11c33514c4fb",
+          "leftContent": "Llevo una semana con dolor de espalda, pero hoy me encuentro mejor.",
+          "rightContent": "avisar que já dá para voltar aos poucos",
+          "sequenceItem": 1
+        },
+        {
+          "id": "93cd8788-351e-4c69-b7a2-47cfa9b0cc54",
+          "leftContent": "Llevo tres días con fiebre y desde ayer me encuentro peor.",
+          "rightContent": "justificar por que ainda precisa cancelar um plano",
+          "sequenceItem": 2
+        },
+        {
+          "id": "21dda880-fa2a-4980-8bcf-222cce17d560",
+          "leftContent": "Llevo dos días con dolor de garganta y sigo igual.",
+          "rightContent": "atualizar alguém de casa antes de descansar mais",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "bf3458c8-e5b7-481f-bcbe-f2654377254c",
+      "sequence": 5,
+      "lessonId": "1b611ce4-c55c-41b6-a73b-c473c0e15098",
+      "title": "Recupere a inclinação maior",
+      "content": "<p>_____________ sea cansancio.</p><p>Tradução: Provavelmente seja cansaço.</p>",
+      "contentPlain": "_____________ sea cansancio. Tradução: Provavelmente seja cansaço.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, probablemente marca uma explicação mais forte sem virar certeza.",
+      "feedbackError": "Nesta aula, probablemente marca uma explicação mais forte sem virar certeza.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Probablemente",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59",
+      "sequence": 6,
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "title": "Recupere o update de piora",
+      "content": "<p>Marque apenas as palavras do update final que combina duração do sintoma e piora recente.</p>",
+      "contentPlain": "Marque apenas as palavras do update final que combina duração do sintoma e piora recente.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9e8135246f3a47e58edcb2773dec36f6_b07-llevo-tres-dias-con-fiebre-y-desde-ayer-me-encuentro-peor.mp3?Expires=1794099637&Signature=z40hValBnrhOwND0Ed-oXq3Cmx6eqdJ0NsupRkksD1LfL--kSpEMXHhIGHjbWNOdJESB39Pr7drha~MwjjOvelxGiq~BFUpGMmlajT4X4V~UqSgN10Imuamxv2uhPrc7dLhapEUQ-Jsssw~7YuqX2V5RDbPBrWQoGtX-ErhvJlmCq50uVGc9688wTg0b6K5AU3kzMCdY11lp8i9k-1fn4T20AhkoFDM796i~ys03kDtecH~biYSIBpZ3kuro2if61SwexEXkg5JabyEEZhml6g4sdMOVN4CqD3Jrc914iUhlk-QE3fg-SuNvl8eovbdRibqOQ3DK71op3Fe2MVGthA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, o recap final pede ouvir duração e mudança do quadro na mesma mensagem.",
+      "feedbackError": "Nesta aula, o recap final pede ouvir duração e mudança do quadro na mesma mensagem.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "00875c0f-fb78-4262-8c67-a46e87259145",
+          "text": "desde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "372e5658-c774-42c0-8da2-0a5cd18ca9b9",
+          "text": "ayer",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "41353830-9010-4cb9-8bc4-bb8477a0f56a",
+          "text": "semana",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "67391d3f-4503-4856-a55d-fee7220222b8",
+          "text": "garganta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "80914597-f77f-492f-851f-65e313c44592",
+          "text": "igual",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "809de8d7-a5b0-40f9-898a-b0bdb7f5198d",
+          "text": "llevo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8ebb7247-a66e-49b6-83e1-eb1481607b85",
+          "text": "peor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "913167b9-b820-4ed7-ab7e-c0a6d24ca304",
+          "text": "mejor",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a672330f-1eda-4962-8550-a7ee694398d3",
+          "text": "fiebre",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f0d30f3f-37bc-4a15-bdfe-d01dbbb65d05",
+          "text": "tres",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "17b4f20a-8bda-45f5-810e-3d152b57571e",
+      "sequence": 7,
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "title": "Complete a hipótese",
+      "content": "<p>Complete em espanhol: Puede que sea una infección leve o simplemente _________ acumulado.</p><p>Tradução: Pode ser uma infecção leve ou simplesmente cansaço acumulado.</p>",
+      "contentPlain": "Complete em espanhol: Puede que sea una infección leve o simplemente _________ acumulado. Tradução: Pode ser uma infecção leve ou simplesmente cansaço acumulado.",
+      "fileUrl": null,
+      "feedbackSuccess": "A hipótese da aula continua prudente ao sugerir uma causa sem fechar o diagnóstico.",
+      "feedbackError": "A hipótese da aula continua prudente ao sugerir uma causa sem fechar o diagnóstico.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cansancio",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "087bceca-1aba-4713-b4ec-c65253720e97",
+      "sequence": 8,
+      "lessonId": "f6e4744a-e77a-4e6b-abd2-ad21239a5d09",
+      "title": "Recupere a sequência de follow-up",
+      "content": "<p>Ligue cada áudio à frase correspondente para recuperar a ordem de cuidado, melhora e retorno.</p>",
+      "contentPlain": "Ligue cada áudio à frase correspondente para recuperar a ordem de cuidado, melhora e retorno.",
+      "fileUrl": null,
+      "feedbackSuccess": "O filtro final desta aula separa cuidado, retomada e condição de retorno.",
+      "feedbackError": "O filtro final desta aula separa cuidado, retomada e condição de retorno.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "1ad23569-abbe-45a7-a16e-6f23f867e1de",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f33348cc0e844f2f808b2da532a58298_b02-sigue-el-tratamiento-y-descansa-hoy.mp3?Expires=1794099637&Signature=MN-ynJgoK0yP8tlcoXS2tYNT7nevsHSTsxfkh1siyzRpPg6trLWDXhRLoGzNrzm-Hf6o6oN9Rq5dFkGPFX6704YZpQJSwF8S7aqzLrvc7W339jMuLiI3zJAJLeETdgklg-uImt3RInlwC0HJ6AWkwG38prbHkVsEmP8CNDrX7OhXjqk~Jmv1nm1kheHyyXR6Bc5zGTvzZJsA3~Oo~yI~K2NI0gxtmBRaV9CrKnBKmF7qNCcIErnESl68dBQeWgxHZVYjIccu7P1vwf9ES6AlIikjpwmCq4Z0TgdzUIQ33rFXya1OLEPUmNNGuzygEYrOufWjxJ2A~0HvHbsdSrua3g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sigue el tratamiento y descansa hoy.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "bc7e7604-816b-430d-ab4a-5c1dced7fdd9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1de99d3c4bd046f78346373d770ea5b5_b04-cuando-te-encuentres-mejor.mp3?Expires=1794099637&Signature=uKqhqwhauMJLqkifbWQAeQVPCYnuaAfRgz8BqbVzgLMlmu0gkuzHFgzskpahUB2YOnb9yLZ2n~uV8XeI4L7VZZJ3dqynF2RCl0oKxPT-4fMS7HoxSfsgE7HsQSg21OFzwHwktJDK2Ioev8VIRGs3MKriiVODBw56L6MyfGXUuD~9D0NRbcZKA6-VZxI3Vv7SENJNVOZoUVIf--1dKlCVUVnxE58kiZpBcO0ModqU7br-Vt6buXjZrmdQdqvgcaxiKJnJ-k~OC0BH~cdQrpJ~T~C9sTjCh1yuHBTqUlsg9K8u7dAYAy3Iow7e0lOlGrL8xy2kd4-6BZisz1ITa1xShA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuando te encuentres mejor, vuelve poco a poco a tu rutina.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1e19d05b-c0b4-4b0b-bc4e-a89be5d219e7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8c1073affe74f6ea9ec174cda5d4a44_b06-si-empeora-la-tos.mp3?Expires=1794099637&Signature=sc2K14HTsjYZw~VlQ0vinyQkRKZFCrynqD9yT2bu1cTn9UOZE68kfLhQeb4EcH4IBVq3RGlyysRTsZYr692zmlQ8uL5PvZqOyO22GpmFgcQTLpSXc3nC3UUEOAvlozlCqVBHH15~sRzW3cb7vGVF7SdDjBgdNR5qk1MWXw41qOyR2ZPHEsJ-CNA0Cf5cGUix2QAnrYn~qD0M8daUVwQZ-4L5SGZLJ31fRZkjafr4m5G0weNyy8dBNx3BSFG6KXeklrXwLgvyu6gcYce2tpwOgV2jsy0jebQB0968vbwOAOGydvHCRCieetdn4aJ3XAdlGSkxEtrtOXt~YwUir4xaPw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si empeora la tos, vuelve antes.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "38d6e02b-eaf3-44c4-bef0-76c1e6787b66",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/819bfebe4b354dd48743e3ccb54c4f16_b06-si-no-mejoras.mp3?Expires=1794099637&Signature=KGGwu2D7I7DNwKDUKtrCBmjtcFmj8ok89g-hy1u0DZl82sUYjqHjVllJ0LqvlT~19XjGIz0fQy25fdVTvbMZrdaZsLW6fIWcJ5RO~a1XTQB3kCE9gaP2jC0V42rtxEcwkigRCu42L6~AFkbqSycBhvWc1zE6KmVTA8w6AvfFBBGWWNFl55o8n8A0QgoVgQ9zyjj~vJDMW2II5RXMZU~nxedbVlKIoTMve0-RGaDsbRc03-88-YHKecsbqqWCAvJPxYpDR7LYt0DPmcQphL~JEB9tIdTX26xDMOznSSpY5FW9SKzTZL6T85utMyMWQq5HTeldLuJLCmCjkEI5kxAQkg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si no mejoras en tres días, pide cita otra vez.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "c866fe22-5dfd-4d6f-a85b-d9037c6e7544",
+      "sequence": 9,
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "title": "Recupere os updates finais",
+      "content": "<p>Ligue cada áudio do recap ao update completo correspondente, sem apoio de tradução.</p>",
+      "contentPlain": "Ligue cada áudio do recap ao update completo correspondente, sem apoio de tradução.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, os updates finais recompõem duração e evolução sem precisar de tradução visível.",
+      "feedbackError": "Nesta aula, os updates finais recompõem duração e evolução sem precisar de tradução visível.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "3960810f-5826-4523-862f-7fd596560087",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/49babbc5019c47cfb6616f40da5f1488_b07-llevo-una-semana-con-dolor-de-espalda-pero-hoy-me-encuentro-mejor.mp3?Expires=1794099637&Signature=q64ANtc0NIXJZNQK9ABDTQXBHuzWFwuGCaMgsbQlZYRm7KGHHnlq3~lnkc4pZBGyOuHSX6r0VczSLcNPktD7DZr7o4IdtSi9lOewmBDxJ6gJbWxMsumA0yRP0xPJzdZh86rJGldbkKE7vPP9Q6jXbDopFj2b66U2HxSGXLjnMtlhGZI5aAQZLT~QAH4VFpmEQRYHPzypNKAjLSV5410UUxaxiEIC4hAf5es8WwNuaVYiH3BMEI~dCtzcuKXCLCYTAkxFUQEG5Eyds9Xf6~kgqS8YF~4ZS8AC~kYB0l3HAF~s4kSCigvIW~gyAYM3uJ-aG0Fc1DfAKNoGlYj8JlEQnw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Llevo una semana con dolor de espalda, pero hoy me encuentro mejor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2e4f8495-8d56-4576-922b-87b69e7f3469",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9e8135246f3a47e58edcb2773dec36f6_b07-llevo-tres-dias-con-fiebre-y-desde-ayer-me-encuentro-peor.mp3?Expires=1794099637&Signature=z40hValBnrhOwND0Ed-oXq3Cmx6eqdJ0NsupRkksD1LfL--kSpEMXHhIGHjbWNOdJESB39Pr7drha~MwjjOvelxGiq~BFUpGMmlajT4X4V~UqSgN10Imuamxv2uhPrc7dLhapEUQ-Jsssw~7YuqX2V5RDbPBrWQoGtX-ErhvJlmCq50uVGc9688wTg0b6K5AU3kzMCdY11lp8i9k-1fn4T20AhkoFDM796i~ys03kDtecH~biYSIBpZ3kuro2if61SwexEXkg5JabyEEZhml6g4sdMOVN4CqD3Jrc914iUhlk-QE3fg-SuNvl8eovbdRibqOQ3DK71op3Fe2MVGthA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Llevo tres días con fiebre y desde ayer me encuentro peor.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "06a6f92a-d68c-42c4-848c-7b2c007c8d4d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/996a445b4761438487cb023bf61dfdf5_b07-llevo-dos-dias-con-dolor-de-garganta-y-sigo-igual.mp3?Expires=1794099637&Signature=Jfpwe2pwhY6JHfvlx0qOJ07vqW~-G0Hro2LAM1649r8qmJGiBzUGgTb0jSPhfgu9fHQbOZuTz8uK5hviaPyw5OKdcW5WMJe~GImIrARn6BidOHwyf0~kUXSBAJk7DXrwMwhkKcndoggd6ywmAW6zFo8uCGfsK8ieFypz7OOEtoexOS1sp2qG0igGg8v1MrHIJiaXQNpStbGo7xxvbyw5F5nAfwxST5NroCrNs2Lzodg~i9lp42WW~CWWFQZgtBs9tIRoCPYeHGJrBUmTzRiIuzycI9Ye2gg-RD16Rz10kXOkCAi9BGpLkHKDkDYUx-0pV2elKcwstmkwd76GRvM1Vg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Llevo dos días con dolor de garganta y sigo igual.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "bb0bc73a-2866-4492-96d3-dec32fe72adc",
+      "sequence": 10,
+      "lessonId": "3d3e2139-fea2-4757-8ae7-4ff01f7c4dbf",
+      "title": "Recupere a frase mais detalhada",
+      "content": "<p>Escute a frase e marque somente as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Escute a frase e marque somente as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1140719848ca4d0ebca30e00d8239e19_l01b05-tengo-dolor-de-espalda.mp3?Expires=1794099637&Signature=ggif3fwLcVn1AZ1q6hY7jOWFvsSbU2iKmVK8T5Ezhd9cj-i1rctiJ3gnAO-FlVj39QbbxPyNshAsSdIzGqIOz6vcqg7COsK2OBT14AjgcxsnnE4VSZatmTvhgjxwQ7STQxma8DwYCYa7SOmuKx-Tbg7vf~EG~lq-BXln5u3z8TUOXbFDqWEH3Pqo4zaq-339yQV3L35oNLg6tlGZyYvO0Pj49kkpGVeQs2~2qtmZiQCskkyZDBCn7AbEh3yh08FOAGhf7kv~4PJNQL4y3FeXM36lRq08Wym~HPVn-jedH5FWqxcAFaTrw1PuLINTbEV2N~3K2npoKjuPgmaaOaCi0A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Tengo dolor de espalda. nomeia a dor e a parte do corpo na mesma frase.",
+      "feedbackError": "Tengo dolor de espalda. nomeia a dor e a parte do corpo na mesma frase.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0a2fd16c-20f3-4d78-978d-51767cb11277",
+          "text": "espalda",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "645e0bd3-1add-4f9b-8cb9-f3582b4cf5ea",
+          "text": "garganta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6e45db50-3759-4e71-b4d6-a90f01ea88ec",
+          "text": "tengo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8f079dfe-5968-47eb-89d0-3b59564741d3",
+          "text": "dolor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9f009573-f299-41ca-acb1-7952ac14b00c",
+          "text": "de",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a2bb95df-b20e-4875-b239-969fa897b0d2",
+          "text": "bastante",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b22771bb-7fea-4a65-8591-a903caf7cedb",
+          "text": "tos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "4d29c2fd-4ece-494c-acb9-63f2ff070ee5",
+      "sequence": 11,
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "title": "Separe as pistas dentro da queixa",
+      "content": "<p>Leia a queixa principal com mais precisão e ligue cada trecho a informação que ele entrega.</p>",
+      "contentPlain": "Leia a queixa principal com mais precisão e ligue cada trecho a informação que ele entrega.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na linha da queixa, a leitura fina separa sintoma, duração e mudança do quadro.",
+      "feedbackError": "Na linha da queixa, a leitura fina separa sintoma, duração e mudança do quadro.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1182e075-15b3-4a95-97b8-f33d503c8443",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6aedc786-fc60-4349-a263-0a76dc84b68f",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "f0b27580-21ea-429d-9e6a-5a34d52896ff",
+          "leftContent": "dolor de garganta",
+          "rightContent": "sintoma",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7beeca77-e861-43ba-8bd5-e75b59519046",
+          "leftContent": "tres días",
+          "rightContent": "duração",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3b48b860-3373-4466-bcda-a5452521b1fc",
+          "leftContent": "me encuentro peor",
+          "rightContent": "mudança do quadro",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "c41b67df-3d44-43e3-bda1-082d4cfa843a",
+      "sequence": 12,
+      "lessonId": "f6e4744a-e77a-4e6b-abd2-ad21239a5d09",
+      "title": "Recupere o sinal de melhora",
+      "content": "<p>Cuando te encuentres _____, vuelve poco a poco a tu rutina.</p><p>Tradução: Quando você se sentir melhor, volte pouco a pouco à sua rotina.</p>",
+      "contentPlain": "Cuando te encuentres _____, vuelve poco a poco a tu rutina. Tradução: Quando você se sentir melhor, volte pouco a pouco à sua rotina.",
+      "fileUrl": null,
+      "feedbackSuccess": "Cuando marca a passagem entre melhora e volta gradual à rotina.",
+      "feedbackError": "Cuando marca a passagem entre melhora e volta gradual à rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mejor",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "aa0d4a5e-aadf-4cab-83b3-efbcb61f159c",
+      "sequence": 13,
+      "lessonId": "f6e4744a-e77a-4e6b-abd2-ad21239a5d09",
+      "title": "Complete o cuidado indicado",
+      "content": "<p>Sigue el ___________ y descansa hoy.</p><p>Tradução: Siga o tratamento e descanse hoje.</p>",
+      "contentPlain": "Sigue el ___________ y descansa hoy. Tradução: Siga o tratamento e descanse hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "Seguir el tratamiento retoma um cuidado que já foi indicado.",
+      "feedbackError": "Seguir el tratamiento retoma um cuidado que já foi indicado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tratamiento",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "34531cdb-c73a-4b6b-8620-f0ad62e2ede5",
+      "sequence": 14,
+      "lessonId": "1b611ce4-c55c-41b6-a73b-c473c0e15098",
+      "title": "Recupere o próximo passo cauteloso",
+      "content": "<p>_____ necesites descansar esta tarde.</p><p>Tradução: Talvez você precise descansar esta tarde.</p>",
+      "contentPlain": "_____ necesites descansar esta tarde. Tradução: Talvez você precise descansar esta tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, quizá sugere um próximo passo possível sem soar definitivo.",
+      "feedbackError": "Nesta aula, quizá sugere um próximo passo possível sem soar definitivo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Quizá",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d489d973-f1c2-4bd4-aeee-737611549e29",
+      "sequence": 15,
+      "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+      "title": "Complete a pergunta importante",
+      "content": "<p>Complete em espanhol: ¿Tienes ______?</p><p>Tradução: Você tem febre?</p>",
+      "contentPlain": "Complete em espanhol: ¿Tienes ______? Tradução: Você tem febre?",
+      "fileUrl": null,
+      "feedbackSuccess": "A pergunta importante verifica se há febre antes da orientação.",
+      "feedbackError": "A pergunta importante verifica se há febre antes da orientação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fiebre",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

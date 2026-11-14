@@ -1,0 +1,423 @@
+{
+  "attemptId": "4eafbc4b-9979-4d94-b640-9239510b7b8a",
+  "exercises": [
+    {
+      "exerciseId": "07260d2a-ca3c-48ac-a3cd-753f6d808fc3",
+      "sequence": 1,
+      "lessonId": "25b479e4-4ee2-4164-b879-f1c4beb4b6c6",
+      "title": "Recupere o familiar",
+      "content": "<p>Tu _______ se llama Diego.</p><p>Tradução: Seu irmão se chama Diego.</p>",
+      "contentPlain": "Tu _______ se llama Diego. Tradução: Seu irmão se chama Diego.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a frase da aula em que `tu` apresenta um familiar da outra pessoa.",
+      "feedbackError": "Esta tarefa retoma a frase da aula em que `tu` apresenta um familiar da outra pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hermano",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f453e2e4-e69a-4606-8fb8-e7ce035de27c",
+      "sequence": 2,
+      "lessonId": "7cd0e52f-66ce-433b-8176-49e1f230053e",
+      "title": "Ouça e selecione a descrição",
+      "content": "<p>Marque somente as palavras em espanhol que descrevem a aparência na fala.</p>",
+      "contentPlain": "Marque somente as palavras em espanhol que descrevem a aparência na fala.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a38467feb8144d518cce1e40bcc50462_b08-ella-es-mi-hermana-laura-es-alta-y-tiene-los-ojos-verdes.mp3?Expires=1794099416&Signature=J0stM7PVHnF8KFCrPD77sxgMmLIq0ZyWpPnDmWs~B19ItRLExwoFSJGl5UOWBLsonHNpaI533Ls1ZGfR4ah5pcN9riWGOPBYDrMV6HfFaASm0zdeTlfbxZPHJ8srzfOh~baSPQX4EQMfM-36Y37ikKpaoMao127-LHBR5jw65xuO84392ZV~dmnjm-7GGF3LtwQmwGHXHnAWhK1zh4nc~3mDwxbPcG9OWDjGTj2ReOLJuD9hcYYQ5ccZI5OXVjs0OqRTOiJkZGnZpZCNFe3rHAN926kUShcypj2kUi2Q9HmauYkrlX8xUMKOYlOSR2TaAyZ36txBdwcJLHRjHVy2iQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa retoma como a aula junta parentesco e aparência na mesma fala.",
+      "feedbackError": "Esta tarefa retoma como a aula junta parentesco e aparência na mesma fala.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4534ef1b-5212-435f-868d-5bebe2484aac",
+          "text": "padre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a25f3b77-70cc-49b0-8cc5-351226f123fb",
+          "text": "verdes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cbdce175-2b5a-488d-a5c4-e32851853afa",
+          "text": "ojos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d33d9cb4-08c1-48b6-818a-b0af2d3cddb8",
+          "text": "hermana",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d8092915-5a54-48f1-b720-be20935599dd",
+          "text": "alta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f9fc801e-1849-402c-a83e-6129230e64de",
+          "text": "Laura",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "29b9c405-cc1a-486a-82c3-bf7eff73cad2",
+      "sequence": 3,
+      "lessonId": "3c8a8a90-d409-4419-8fd7-fb4e6cc9cf64",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a frase em espanhol.</p><p><strong>Mi madre es ____.</strong></p><p>Tradução: Minha mãe é baixa.</p>",
+      "contentPlain": "Complete a frase em espanhol. Mi madre es ____. Tradução: Minha mãe é baixa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui a aula pede recuperar a forma feminina usada para pouca altura.",
+      "feedbackError": "Aqui a aula pede recuperar a forma feminina usada para pouca altura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "baja",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "da07e645-a490-4ecc-91a8-ff28c088b232",
+      "sequence": 4,
+      "lessonId": "3c8a8a90-d409-4419-8fd7-fb4e6cc9cf64",
+      "title": "Associe ao texto exato",
+      "content": "<p>Associe cada áudio à frase exata em espanhol, sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio à frase exata em espanhol, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio final cobra reconhecer a frase completa só por escuta e leitura.",
+      "feedbackError": "O desafio final cobra reconhecer a frase completa só por escuta e leitura.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "611d76b7-ac2b-4cb6-851d-89403fd6be42",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/301d553e848e4e9fbfd308986de30b66_b04-mi-hermana-es-alta.mp3?Expires=1794099416&Signature=oBb1ADSYwuKBY363dKSjQKPTwXcASu1nPFqAjyCmALBYMXSwZ6vDfyadzdXpHpJ7a9rVKWxx81FJ0Dy3ph-mgdzpQqSqisfgSI2O3g~VKrzTxeSoz-PIaVPaxM0mWWvfDptprRXWyUL9qR8uR~HBsaZ8SQ-Ve44Pwm0l4gO5rK3sBIE8Z89-mUx7ogQEl6niEHjRidPpiMbt9CKjrMt1deRMahqjC2ivQcdJ-zMZirTMpSDH4sIA~Kl7UWVsiCfluvz~LIIU8QqtGAarm~kr9yrfHFhLM1VFjvTYe8Ep161qvEKj84bD3MFbk9db3ZmTk9zdDEobdLoU3~YM5RgJXQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi hermana es alta.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "bbdf181d-5c09-4fae-9955-2e791d8d6514",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/62674b1bfdbb4ed4839b80729d24a088_b06-mi-padre-es-bajo.mp3?Expires=1794099416&Signature=tj9~hP3aNNyCzech2gYcSnVCgWjyfFFE3Yar32NW-FGhF3CAQXdT~CApkzfn5sAP5MGdCfbkRlXFIifPGI0cjx6Wa5dvegUDli9FE~hk3l5hyCVUDZIZ6~sBC~WpwNx3WSogObdU4yzHKH4x2KiADnqAD7FbRPchwTZhSub-1ke~kc9nuN2hi~2SC9OwJ8HRWZUvr2i4IcPNyVJr~JnWj9VJoQRX~EkTp19ikhzj9amEMeAy0KMLslpXIsBLivWMk1n1uNwjFYd1GkmpYcWt6KzcUkSPiAxT-ubk9qTJSjHHXKVsFsdDujDS7JbC9sBrBRh1BX29GJc~hFWtS~W1LA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi padre es bajo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4288c5c7-66ef-46b5-8548-76189902fe23",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/92ea396c47b94bc28c71454e051f0e9a_b10-mi-hermano-es-alto-mi-madre-es-baja.mp3?Expires=1794099416&Signature=KGdoyT62tItCs3bypGndQCJxKrfV4fMe5ctwJv8y2BXBn1ftLjyYlEA~TbD4Me00e4H3gVfTvI~hZORqms4Y6SZNslhlWr84XV7WnrsJzz-QliLSCmvRmPsJvdCr3e1fOepqXkJixz8PDPudpeMZBlDNFHdUvjNxqUd4lAO9rtm86t-CzXkSDitU-Tc5~QF1wBj-qMQmIJrfEQjDCKx78ADOgdUCOHzF5Nq3qW2P0V-wDMqvFbLdMB0mlAbXQg6dBpblhpnIMgmLH6b5LS2FfZ9wL8~h1hDz7c2-nzU8smr7RQ~ivyUos2s1rKLMTRLrsL44GXJTDO~UyjPuNMF~6g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi hermano es alto. Mi madre es baja.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "7fba545b-c71d-4acb-8003-6f7aa1a694dd",
+      "sequence": 5,
+      "lessonId": "a889c18d-1919-4f26-8704-cea048e66176",
+      "title": "Reconheça as palavras do áudio",
+      "content": "<p>Marque só as palavras em espanhol que fazem parte da frase.</p>",
+      "contentPlain": "Marque só as palavras em espanhol que fazem parte da frase.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6de0e90bc4ad4113ae6c4f98bfbdd11d_b03-tengo-los-ojos-verdes.mp3?Expires=1794099416&Signature=elStJnCixRKif5OPF8GM~fasNPZ8apxbteYKX0UYu97y6SfGgaYxOQ2a0q3w~HGWOGMWvyhNLWh283ieTzpgw0pJbwZgmWWkjtd932riuaayYkBArdCG90EB87IWDA159RD6Kc0JT8PxnMwxckNIwt8Wj5kVVjXnYKfVgROGc8UmwMWm7nO7BrLihsi6dw~ugL213tccNlxXeeDLDAD41Nb1oZ5paIyfLPUD5ix3boGco4m36ls9AzqF0qzJ7ZIpisENNPWWBKMEimMdfw-PdbeM5dDiuMhyOj5yL7uDnhSDO6c1cj4vlth9JAZIyWrDiCmjk8q2bpbf9aHKEEto6Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa retoma `tengo` em uma descrição curta sobre aparência.",
+      "feedbackError": "Esta tarefa retoma `tengo` em uma descrição curta sobre aparência.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "6e9b9f9f-71a8-49b1-9ebc-d0177eb9f077",
+          "text": "hermana",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "75bf4d5e-2e23-4ee0-90ae-5cabe0348c06",
+          "text": "libros",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b4f2b729-3f3f-4217-b07d-f54332119c66",
+          "text": "tengo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d1698bdf-80fd-4fd8-bb94-4ba7763d66e0",
+          "text": "ojos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e672201e-e5e2-4c45-a50d-943dc98653c0",
+          "text": "verdes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "190b70ac-2170-4c38-926a-063ba1e9e201",
+      "sequence": 6,
+      "lessonId": "7cd0e52f-66ce-433b-8176-49e1f230053e",
+      "title": "Recupere a palavra certa",
+      "content": "<p>Tu _____ es alto y tiene los ojos verdes.</p><p>Tradução: Seu pai é alto e tem os olhos verdes.</p>",
+      "contentPlain": "Tu _____ es alto y tiene los ojos verdes. Tradução: Seu pai é alto e tem os olhos verdes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a troca de possessivo sem mudar a lógica da descrição.",
+      "feedbackError": "Esta tarefa retoma a troca de possessivo sem mudar a lógica da descrição.",
+      "answerType": "buildWord",
+      "expectedAnswer": "padre",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "44c9bf42-26c7-4c2e-8ba2-4e6d98c5ac67",
+      "sequence": 7,
+      "lessonId": "3c8a8a90-d409-4419-8fd7-fb4e6cc9cf64",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a frase em espanhol.</p><p><strong>Mi padre es ____.</strong></p><p>Tradução: Meu pai é baixo.</p>",
+      "contentPlain": "Complete a frase em espanhol. Mi padre es ____. Tradução: Meu pai é baixo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui a aula pede recuperar a forma masculina usada para pouca altura.",
+      "feedbackError": "Aqui a aula pede recuperar a forma masculina usada para pouca altura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "bajo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2738cc0b-1aac-408b-b02f-3e2dc5493441",
+      "sequence": 8,
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "title": "Ouça e identifique",
+      "content": "<p>Qual palavra do áudio descreve o cabelo?</p>",
+      "contentPlain": "Qual palavra do áudio descreve o cabelo?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/74755492ed80428e988c11e22cce6ae1_b05-mi-hermana-tiene-el-pelo-rizado.mp3?Expires=1794099416&Signature=aWM39nMVdQuRw7HVovcUm~DBAtfQBOJ14HDg6hlKjq6MTXwuYIhh8p7jWTTbbakxWoWOJ9yHRfS9XbLhqmRjPL-UxNpJhph0WBdruwfopc~96d4JSkroQXgMsFOFVKvAzL1MAZVy5rZqYXwQwJjFwN2-ojv6DgqAHUmtuu857yBNOo9x2KczNqArdKrCPP36xBH5CCL5fKXpolkOaigCauaqDjQIFnl5a5X37HoaEYIN4wMwV5nZpcSZdYBOO8ozTN~nNUCmHmLpt8foePGbB~wcKn6E3Pv69nhCddFSn9lImRinN7w15cVThAmUIHGMsVMUqXzWPdREAysD4xAaVg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa retoma a palavra que aparece na aula para descrever o cabelo.",
+      "feedbackError": "Esta tarefa retoma a palavra que aparece na aula para descrever o cabelo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "169682eb-bdf2-449b-8b33-26fcc7ee9b69",
+          "text": "madre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8e124296-e763-4a3c-b6dc-810faaf2afb4",
+          "text": "rizado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "90105317-5070-43b5-bcf1-72f7c3f326b2",
+          "text": "ojos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bb488524-24e8-41e8-b60b-0288634c5bcb",
+          "text": "verdes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "85fb8374-a542-4985-87b4-ac7fd8bbbbcd",
+      "sequence": 9,
+      "lessonId": "cd79f5d6-1d21-4e70-984a-db6913066e4d",
+      "title": "Complete a segunda pista",
+      "content": "<p>Mi hermana tiene los ojos verdes y el pelo ______.</p><p>Tradução: Minha irmã tem os olhos verdes e o cabelo cacheado.</p>",
+      "contentPlain": "Mi hermana tiene los ojos verdes y el pelo ______. Tradução: Minha irmã tem os olhos verdes e o cabelo cacheado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a segunda pista física da frase mais rica da aula.",
+      "feedbackError": "Esta tarefa retoma a segunda pista física da frase mais rica da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "rizado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "322bcd0f-8525-4113-a780-57f3f6da4993",
+      "sequence": 10,
+      "lessonId": "e866e6c8-2522-4dc1-846e-3d89ea9c9150",
+      "title": "Recupere a palavra",
+      "content": "<p>Mi _______ es Paula.</p><p>Tradução: Minha irmã é Paula.</p>",
+      "contentPlain": "Mi _______ es Paula. Tradução: Minha irmã é Paula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, hermana aparece no padrão curto com nome próprio.",
+      "feedbackError": "Nesta aula, hermana aparece no padrão curto com nome próprio.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hermana",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d0370665-60b7-4a17-a0d8-3c0b267b0c4a",
+      "sequence": 11,
+      "lessonId": "25b479e4-4ee2-4164-b879-f1c4beb4b6c6",
+      "title": "Recupere o dono pelo áudio",
+      "content": "<p>Marque as palavras do áudio que falam da mãe da outra pessoa.</p>",
+      "contentPlain": "Marque as palavras do áudio que falam da mãe da outra pessoa.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/818ee3ad76204f449235c15a99b8b55e_b07-tu-madre-es-julia.mp3?Expires=1794099416&Signature=lwgcir9tfwV3zeno5YnIB5PiyzdLKsw43dpzu3qRMQmeTeKiAyEj9KqS3eWm9AX5LUMUGm6RRvOUl97bHXeE50DKp5MSaWVOMeIqBTWG5s0NedbQmDlXNeHXmzCLyuPQk-F~YMFjNRU78-Yp7k9ndhcwrTlcy1iN9sYUPp25h30nHCGRN5BCzRY8dYBW6YA8-YOluOVnLnjtgDTBsBVsqpqxGIh5z8ReO4n4Es1iHGeSXorqMCDTbykvc6vvanj70oUAx3uObaf3oGsKCa0~2NkDpYf~Hs9GXvaFWEGgU3HCK-Eui7Ps17V3-ijPIBHgGw1Uzue6vFkiKxhZTtn4XQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa retoma o contraste em que só o dono muda e o familiar fica igual.",
+      "feedbackError": "Esta tarefa retoma o contraste em que só o dono muda e o familiar fica igual.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "15f66834-2bd8-4137-8ca1-bfff08ac8fe4",
+          "text": "su",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "17404a30-71c4-4e48-9772-b00fc7a94684",
+          "text": "madre",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "34d28980-dbfd-4de6-9169-8bc5161af1d0",
+          "text": "mi",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "66eb450a-5833-45d2-891c-8399ef72572b",
+          "text": "tu",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "26533afc-aad4-470e-8d24-8608e9867027",
+      "sequence": 12,
+      "lessonId": "cd79f5d6-1d21-4e70-984a-db6913066e4d",
+      "title": "Recupere a pista dos olhos",
+      "content": "<p>Mi hermana tiene los ojos ______.</p><p>Tradução: Minha irmã tem os olhos verdes.</p>",
+      "contentPlain": "Mi hermana tiene los ojos ______. Tradução: Minha irmã tem os olhos verdes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a primeira pista física dentro da descrição com duas pistas.",
+      "feedbackError": "Esta tarefa retoma a primeira pista física dentro da descrição com duas pistas.",
+      "answerType": "buildWord",
+      "expectedAnswer": "verdes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a7f8f60b-6b0b-4e17-8fb7-f91191fe42e2",
+      "sequence": 13,
+      "lessonId": "e866e6c8-2522-4dc1-846e-3d89ea9c9150",
+      "title": "Escolha a apresentação completa",
+      "content": "<p>Você quer apresentar toda a família de uma vez ao mostrar uma foto. Qual frase da aula faz isso?</p>",
+      "contentPlain": "Você quer apresentar toda a família de uma vez ao mostrar uma foto. Qual frase da aula faz isso?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a apresentação completa junta os quatro familiares em uma única frase.",
+      "feedbackError": "Nesta aula, a apresentação completa junta os quatro familiares em uma única frase.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "6da05f07-08ce-44b5-9452-a15302f1ac94",
+          "text": "Esta es mi familia: mi hermana Paula, mi hermano Leo, mi madre Teresa y mi padre Andrés.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "70c217f8-132e-464c-b6af-a76e56e5fbf6",
+          "text": "Ella es mi hermana.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "77c7a30d-b7e3-4ba3-85a2-b75fb0c2047d",
+          "text": "Él es mi padre.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "4a3ab671-71a6-43bf-81ff-33ec4b86b3a8",
+      "sequence": 14,
+      "lessonId": "a889c18d-1919-4f26-8704-cea048e66176",
+      "title": "Complete a resposta negativa",
+      "content": "<p>No _____ hermanos.</p><p>Tradução: Não tenho irmãos.</p>",
+      "contentPlain": "No _____ hermanos. Tradução: Não tenho irmãos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma como a aula monta a negação com `no` antes do verbo.",
+      "feedbackError": "Esta tarefa retoma como a aula monta a negação com `no` antes do verbo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tengo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3ddb1dc4-fc45-47d6-aa27-15977e5a73db",
+      "sequence": 15,
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "title": "Recupere a palavra certa",
+      "content": "<p>Mi madre tiene los ____ verdes.</p><p>Tradução: Minha mãe tem os olhos verdes.</p>",
+      "contentPlain": "Mi madre tiene los ____ verdes. Tradução: Minha mãe tem os olhos verdes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma o bloco da aula usado para falar dos olhos em frases familiares.",
+      "feedbackError": "Esta tarefa retoma o bloco da aula usado para falar dos olhos em frases familiares.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ojos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

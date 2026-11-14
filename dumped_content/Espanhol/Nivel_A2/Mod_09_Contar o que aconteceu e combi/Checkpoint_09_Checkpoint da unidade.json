@@ -1,0 +1,467 @@
+{
+  "attemptId": "45297c82-f62e-40ea-a055-3761e33a46cb",
+  "exercises": [
+    {
+      "exerciseId": "7228a513-541a-4542-97a2-3ee9c8ff5256",
+      "sequence": 1,
+      "lessonId": "3002eed9-4e08-419c-a4b1-3ac89e7ec2b0",
+      "title": "Escolha o relato coerente",
+      "content": "<p>Você quer dizer: <strong>Ontem à noite vi uma série em casa.</strong> Qual frase funciona melhor?</p>",
+      "contentPlain": "Você quer dizer: Ontem à noite vi uma série em casa. Qual frase funciona melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. Essa é a frase natural para relatar a ação da noite anterior.",
+      "feedbackError": "Procure a opção com `anoche` e o verbo `vi`.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3e1c1f63-e535-4f0b-adff-83025fffd288",
+          "text": "Ayer compré pan para el desayuno.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "58b6d581-306b-46b3-9eeb-25bba3b6a4a5",
+          "text": "Anoche vi una serie en casa.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c55bd6ad-252f-4656-8ee6-578868ae8c2d",
+          "text": "Ayer fui al parque después del trabajo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "1146731a-c359-4f31-b620-c35492692cbf",
+      "sequence": 2,
+      "lessonId": "5fc07c1c-54f4-4a38-91d0-641847753803",
+      "title": "Ouça e identifique o verbo",
+      "content": "<p>Qual verbo você ouve na parte que fala do plano de fim de semana?</p>",
+      "contentPlain": "Qual verbo você ouve na parte que fala do plano de fim de semana?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3d5bf03d1b84434caf7185c18b762998_b05-anoche-vi-una-serie-y-este-fin-de-semana-voy-a-descansar-en-casa.mp3?Expires=1794099547&Signature=X3LFKYnNsii1~8XEjBDAqPChVwbUmw5nu97-jc6dyKsBPtiUUyq5VDDOHy7SVVupUMtIvDha2PgTo9RHNTFVa7Nme5osPAywcXBq1XqoGlPDq3AXoHV8uDKypOas8TwHZBluU4Niou991neQt1Qb9AJNufO8FY265GbTsmxIVrm0DhqFtMJIlWMyI-Y9iGyXdYxQmumkluwRBQqpzdTxgdVpst0yviisF6Jhoz6K7ij9mTY4kyU8vdLaiAY~akxCEjglFQpl2KS-8CyxjRb5MrKXDTsnubVVfUs4TI-oUGB9TrpFfbFI9nU764Fz25mdiz3pVNrIdez9V3TncTag3A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Isso. O plano do áudio usa `descansar`.",
+      "feedbackError": "Escute outra vez a segunda metade da frase, depois de `este fin de semana voy a...`.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0c7acf82-a05a-4a8a-a169-3faed3fe3b54",
+          "text": "salir",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6f2b32dc-dbcd-4a5d-a6e1-0771dba55515",
+          "text": "descansar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "996316d3-95ce-41b7-9a73-827428c7e58d",
+          "text": "comprar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f90be9e4-db66-4286-8393-5ce259d0f370",
+          "text": "ver",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "18eb55db-7883-4e1e-bf28-da6650c10318",
+      "sequence": 3,
+      "lessonId": "6a912c4c-c48a-4f62-838d-d010341d20a5",
+      "title": "Identifique pelo áudio",
+      "content": "<p>Ouça o áudio e escolha a palavra que aparece logo no início da frase.</p>",
+      "contentPlain": "Ouça o áudio e escolha a palavra que aparece logo no início da frase.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/25c4808db48f41f0af3fd8b5ce7e36ca_b04-ayer-compre-cafe-aqui.mp3?Expires=1794099547&Signature=nKK7eWGke1w2aObHRVi4dXFGMt8EXA~4r4-xNAwsacQEPX3qwrpAUytae493w-ySL0p3ehoHxNW6ug2jPQBsQjCD6KVjcttvYQEEA57xRuOqn0OLTztujHGYjy3GDfV0jRgqZwWzWWIkvbj7LuYNwoKWBZBFQ7UbQprLzSIydufdF33k2RIXIuTo39xY2lFWOHmLbNTH50a8kj113vgSwto0Yhs51IfX0Krw5nZXNUC1X5esrEAL9i-rZt-e4Q4SOFQpI8WxWZrqZoTEOMHOnV-MvUss2Y2HwSklpPVhqbWqmvNMUAUjcguygUwIW4RfooyHlcHnORcIErTe0hsTKw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Você identificou a pista temporal que ancora o fato recente.",
+      "feedbackError": "Escute novamente e foque só na primeira palavra do áudio.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2ef739ea-927d-43c7-b2d8-09176fc9894f",
+          "text": "Aquí",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "81a5accd-cc57-4ee5-a344-d04ad4388114",
+          "text": "Normalmente",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ffe00e33-4f66-4073-9c37-037f65c05719",
+          "text": "Ayer",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "7636cab3-930b-4bdc-82b8-8881e516069f",
+      "sequence": 4,
+      "lessonId": "5fc07c1c-54f4-4a38-91d0-641847753803",
+      "title": "Reconstrua a expressão",
+      "content": "<p>Este ___ de semana voy a descansar en casa.</p>",
+      "contentPlain": "Este ___ de semana voy a descansar en casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. `fin` completa a expressão fixa `este fin de semana`.",
+      "feedbackError": "Retome a primeira tela e recupere a palavra que fica entre `este` e `de semana`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fin",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b74173d5-d727-428f-ab28-82d84055fa95",
+      "sequence": 5,
+      "lessonId": "095db438-f0da-45bc-ae49-0a29f71d1887",
+      "title": "Identifique pelo áudio",
+      "content": "<p>Ouça a frase completa e selecione o verbo que você realmente escuta.</p>",
+      "contentPlain": "Ouça a frase completa e selecione o verbo que você realmente escuta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/aaeffa9f125443fdae102cd1e2b95ef9_b05-ayer-compre-una-camisa-en-una-tienda.mp3?Expires=1794099547&Signature=pQX20CUcIJBCM21heZfIN45b0imYZz1qck7WWvW2EEDJIgKZdyzgyiwbURS8xBSdaK6KhLVMBioXjkEhV-jMojqvGKyLKDaUAuv6OREaERwf9TwDG7hpBa5j4VJokLtYWpi11MXGR5tiHlG30JnYvFd0kN-LgLkEaYZGJTLiIlulW05Hgr-nnONiBT84ONR1W7ezhmXBd2zYjJ5n~3m6yQxp~SENenDK9glWc-g345G3UlcRLmF2O4Cc8EYjnzZ3mnqeT4xZnYEUyqM5qMrZZ~1gmrzbPEIMpvghX7wSxZw647WwnsB9BT5tVq1mbI90c85PEMAzF6O8~PZerxNqcg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa. No áudio, a forma ouvida é compré, que marca a compra já concluída.",
+      "feedbackError": "Escute novamente e foque no verbo logo depois de ayer.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "8b5836fc-6188-4e82-9339-7ab6f9ba261f",
+          "text": "compro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b125ad49-6987-43c0-bd1a-5dd66503a37f",
+          "text": "compré",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c5d8f1b0-1672-4c2c-81c8-5cf702c69d2b",
+          "text": "camisa",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "1692629a-1922-431d-a65f-08c6f8005bdb",
+      "sequence": 6,
+      "lessonId": "b42a2a16-accc-4e69-95c3-586d9568b4a6",
+      "title": "Recupere a palavra",
+      "content": "<p>____ fui al mercado.</p>",
+      "contentPlain": "____ fui al mercado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. `ayer` encaixa de forma natural antes de um relato fechado no dia anterior.",
+      "feedbackError": "Retome qual marcador amplo serve para falar do dia de ontem sem detalhar a parte do dia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ayer",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2fcc3646-3fe9-489b-8c43-f79822243a2e",
+      "sequence": 7,
+      "lessonId": "12c01a34-84d6-4577-b26a-f3022099262e",
+      "title": "Ouça e selecione",
+      "content": "<p>Qual é o primeiro verbo que você escuta no áudio?</p>",
+      "contentPlain": "Qual é o primeiro verbo que você escuta no áudio?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb2b3b2a1fca4b16866736d3c73325b9_challenge-b07-secuencia-completa.mp3?Expires=1794099547&Signature=gVkPY9XntbqeP3aj-Vu9~XshP-ulSXda5JlIIwNsOoAStYXiWuu1FOukyRoXVRYdV6S-ioXjAHfPCmzcXXiqZEzdbeSypqf8fvxi48YerxkDT~ampuqqbgEMUAC3LOYVEFZC2Hddm0AmnyZerRuVrHjvT7ZfTdgT274UiPkmSTdYqyxeEZ82nFkQ4quPgQ9VODjDRcOCQdIeYGenbELgk8vCfWq68pF4P4dAjqYYPYl-ULmKkno9rpFHbuuTVPxgiGzfSF33aX-yq2lawKq7cgKPNdPe9GFyW0piQEKqARqY6VnitSyeeLrNhd2IlzTW147R5IBgXNouv1yICtD4~w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. A sequência abre com `quieres`, porque o áudio começa por um convite.",
+      "feedbackError": "Escute outra vez e foque apenas na primeira frase da sequência.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "26b3435e-f5af-4d21-9f62-4cf0f0339532",
+          "text": "quieres",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "368edcb1-af0c-41f2-81f0-95cd3eb88cd2",
+          "text": "cenar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6947a4f8-8bf1-4d70-be70-c89f77c2f552",
+          "text": "vamos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ad58e582-425e-4928-86fc-6c5ab214f075",
+          "text": "puedo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f1105ec7-187d-4df2-a306-77ec19b23c24",
+      "sequence": 8,
+      "lessonId": "451df7ae-f912-4daf-ae9a-7b0c5080ee6a",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio com a frase correspondente. Use só as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente. Use só as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta. Você discriminou as quatro frases diretamente em espanhol.",
+      "feedbackError": "Escute novamente e use os verbos `fui`, `hice`, `vi` e `compré` para separar cada áudio.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "c5f4860e-bb6a-458c-867a-6b9c17fcb02a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/046007a9cda145ffa822e0a948f68a2a_b01-ayer-fui-al-gimnasio-despues-del-trabajo.mp3?Expires=1794099547&Signature=CI~WUZYpxUMtN3mVFX8VPmOV3NpysMo64txlsUX0mG5of32bz~ULXCqEoqMmG1x5HKDknfTiAH-cn9LUFwM7GzEAVzUYJy9U2VN76i0DcS-JdByysFZfqUdfhqMFWxnZfeWK5rcTB5fK6ZZctaYN2N5thoAe3ll-frQ70jaTHo60~mbQuMPtEJrNL8~EO4gtzwLkqbJ3U-9Dm0Y7pnB6qa7iYsg-Fx4DuxDs9Y~74L3Y00HKS79b7-UGhg0yxaQh8-B-7psh8cEYqfBf~hs15SHDgjjPsUnlCrjCHVXdZ-~mAcCqTcSbwTDnK9TV7tu5y48sP3b9-N17tYMZFXZsOw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ayer fui al gimnasio después del trabajo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0da1cc60-197e-470f-bf35-78e225bfe1e7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f658054ad5d44a5c8f04fb1117f55b7e_b03-esta-manana-hice-ejercicio-en-casa.mp3?Expires=1794099547&Signature=V~ZP8s5ChLpZv1Elqj0h0jbxlyZtBaVlJQVbJ2A6--0bQaYirm4S1Klk-FCj8j5XFmkO2INs0IGGqH4cyVg1o-MR29s81TTs~-gqjtbdFjtooGkmSSIzB~0CdMCnXs6ncUzFpVL7D7bB5C3KIDTq2uDr-rafcDs7GlkZ4Z18o038T32Qw0YzeJFahqiURYTGI2--eCsf0nkTaXqnQS3xdBtl2dTSgysZSGuDOFtocifozBtD9TXCylwJoQ75KuqKoNF99ZlPKNk1qo6lpWLpVUW81IGMYQ1tDIxfAOCvKzqBL35NWf2chdMw7kiIyFdHb0gC2hHa~nyD6YXFPjJX-w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta mañana hice ejercicio en casa.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6ce7a6fa-6173-45f4-ad7b-5ae483049414",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/261229cf787f4d0fbd6c4f3dc6d09d2c_b05-anoche-vi-una-serie-con-mi-hermano.mp3?Expires=1794099547&Signature=hfwAX9OggmwxEu78ZidWMMvYiRfENiIuImekJX1RkmUqhwu6zSIyE1oWXD-CFtWZMJ~ZiHcN-DhQu3xBGLqzMDAgywRKjCqE77buIdkIaoIZPmFIhy9DOxowEYOYnv~2~ZjNT8L4dj9oN1f03Ybbu5Iq~JkUwSrMT32luZBxC-s3sc30Tl1oR8iAyHopUURVSK6Lo7eoiSMNsfsuwbhU~mr7g~TreBzEVk0ZlGwfhUXsE6Jsl4ZcjzKjVJC3ogYiM5045ajyN12G5QP1mwDwVh270hVcxEpNau0rsOdssPagSe94BFYTubP7MBbVuEsm8wkRFVekNPNOB1ywfpf2lA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Anoche vi una serie con mi hermano.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a1117eab-f539-418b-bd13-5883afb8e42a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/60e4d30d971a45cab766db512b1b3a8d_b07-ayer-compre-pan-para-la-cena.mp3?Expires=1794099547&Signature=1xGXL4VVqi5FnIzcCAKrPGuFjEi1yVap2oRvkokV55pY8c0BADz~uXr6UbMgU14-ZPIR-GstG-sVxvBabNYpCZ4YVHvALCmfobHB~RPR5QyTARQtLnMY~J39pD8Go1AwJF03b-rKb5JuZcmzDwWwX12xOh6Nr38O5UfA68Xe9dzR-mH8XeWUn9SIAzi2nynbV8-5B7iOQLJhNAHYsEizcYVCCAd~O66UH5~wLeh1pTVaffnSn5Na2dgkvd1Nonc5rXmfDGpCwUgKRoPupk2Qdto0uhoaHWcIj6b79tm-jUgjKQVnc5cSJKbKlqfnsA035HElUbwCV0-XcOB9Bvsz0Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ayer compré pan para la cena.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "46ab06fb-8f12-42ad-977a-e932d4a81415",
+      "sequence": 9,
+      "lessonId": "3002eed9-4e08-419c-a4b1-3ac89e7ec2b0",
+      "title": "Ouça e selecione",
+      "content": "<p>Qual marcador temporal você ouve logo no início?</p>",
+      "contentPlain": "Qual marcador temporal você ouve logo no início?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/439552ef3ad948d0b995d9c10af6d3a5_b05-ayer-compre-pan-para-el-desayuno.mp3?Expires=1794099547&Signature=Hb9kf5CDRRI4i326LTgp6KrsxJ1xp1XQjpWbAmay61leCQPTA89cpk6w9PQaR-06jTquRcAcSr-ps~3qR1lIxPIVfFMxP0lu0j7RUMcbmqUhlDCbKWwOVCmafj4JohQ4bTqN9IXB0ns57mn-8s0s8y4ngRe2xtqGZcszW9q7ZpvVD4sPE-kBc8pOlI3aHVQnIc5H5ZJhCZuHMB~ZlgVWg4756botDyq5xoUZmS7wJrvOHkjKOVI8a3SmgRGSBBOf-o~Kzn4e6CKisghO898BB7aAhslfSF7E3HpI3wHR65aR2xJFNPp8dTieufRjqOdIEg2m-25KocuQxGbBx-xMjA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. O áudio começa com `Ayer`, a pista temporal do relato.",
+      "feedbackError": "Escute novamente e foque só na primeira palavra antes do verbo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "08c49c35-2716-425c-8535-c707e911f15b",
+          "text": "Pan",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "508b0e74-897c-4ced-8ee3-b8b9d5555c3b",
+          "text": "Ayer",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9e87406a-9499-4c92-9d7e-7ce88f9c22b6",
+          "text": "Esta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fc71a127-338c-4328-93f2-7f584c4ea059",
+          "text": "Anoche",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "628212ff-437c-458a-88bb-d02ff03b1044",
+      "sequence": 10,
+      "lessonId": "12c01a34-84d6-4577-b26a-f3022099262e",
+      "title": "Recupere a forma inicial",
+      "content": "<p>_____ a cenar mañana.</p>",
+      "contentPlain": "_____ a cenar mañana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `Vamos` coloca o plano como algo compartilhado pelos dois.",
+      "feedbackError": "Volte ao bloco do combinado e recupere a palavra que abre a frase.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Vamos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "26a62ecd-022a-420a-8303-16c38cb7da45",
+      "sequence": 11,
+      "lessonId": "6a912c4c-c48a-4f62-838d-d010341d20a5",
+      "title": "Recupere o verbo do passado",
+      "content": "<p>Ayer ______ café aquí.</p>",
+      "contentPlain": "Ayer ______ café aquí.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Compré marca a compra concreta já concluída.",
+      "feedbackError": "Revise a frase com ayer e recupere a forma verbal que muda em relação a compro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "compré",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "04b5e7f3-8249-4430-ac0d-c8fbdd0b11c7",
+      "sequence": 12,
+      "lessonId": "b42a2a16-accc-4e69-95c3-586d9568b4a6",
+      "title": "Escuta final em espanhol",
+      "content": "<p>Relacione cada áudio à frase correspondente usando só pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio à frase correspondente usando só pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta. Você distinguiu as quatro âncoras dentro de frases completas, sem apoio em português.",
+      "feedbackError": "Escute novamente e compare qual frase fala do dia inteiro, da noite, da manhã de hoje e do último fim de semana.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "03a3a1bc-5a9c-4b99-8200-2ea24bc1f47f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f13e03916edd4b11a97864ad49dc0af2_ayer-fui-al-mercado.mp3?Expires=1794099547&Signature=Nn62pu5ls1f6Jo1tQKm-efO5WizF2nFYBftqsD~6uhj7aUvAukAeURo0Wu158-7VwtMd9LmRe~z75Ni2nZ5mT4kBjQLnLyvFsRA9pBXec16v9GqXlPNWGQNyZlmV8g4Ir4CweIZKL4m7Y6WGRwe4Zjn~QHgF97m9flhquSK9hK-SCnawmJt9Uo~z7Rxo6LQ11l6b3en04vmzjqSjBP60z5y2E2R3L2CUl6Gv~Nh7ERqeHLjtJjJ-PnZcpGhx4xC1WB-0JQYIDbq3l5bpyaplU0ePOvmTzimvPu3sj0xhx4YOqXZevEJUM3pWbSeFNjADxSSaVfHrV~brPBy9O7jYVA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ayer fui al mercado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0d9ece61-21d0-455a-8a45-78b574e2b5c2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3533dbf7489644e0b126add11d7e63b3_anoche-vi-una-pelicula.mp3?Expires=1794099547&Signature=bbLq4-EezDpVm6xarnnULMFYmqyXokUzuA3~2BpQZLHs76n8g1Fgv4sl~zEI9~N6-WK-ZP6O4RKMnh7F6ztLrLVjEVkIWQpHZo2ds4K9sF9zuPXNPWlRLC5ZKsOscdjRarYxBuTvWPewLM1G4hWYznM~zjdnVLJ7LbF4Hg2wi9OjvYyuW4MqZYZwWDeRHiUY63aFjhHk0GJHFC85vFkofD3dwxPWm3v4y5d4BwlYtIA1nLCtK8zm-v1-RTU~E95BiJQhdIeoA0RKs~wWGEfuYzVaKPncoWWB~wOtVQAKCOTYR14kijaRxF35TilmKUWjd8g6Yo7LezKzV7lv5vqJGg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Anoche vi una película.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "966ad6fa-b75a-403e-b8f0-1e0ea1591b57",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b2f863089a0f422fa0e17713a0d364f2_esta-manana-hable-con-ana.mp3?Expires=1794099547&Signature=Lq0l05bp4KgBJ0xb92~nelmkaObrxAX5qDqrJ5jNtcMa~iuZZaPxfxnJiAHFEqQ9Y2KglP9Be3rGdpErHNn1L5gDHQSzqhMkRThRazqTfP-kjB-zkiuCyEgLUKjt8-P6EeWfp-YCPp2ZLWQV-FFwUAS1UZ39-~tHKrkGv6sAg7QXrvNeZkaJNdylBZLLzTN8VRfqVEhrenw6UoZxpFSrEicb1orOtJYhRR7uLvbLrGBJcRYrBbkbdNHTRk7auL9EcUT5SK141OgrOjmRW5-AmtScPaOyzvB22Ir0Lewkluyp7VH~Uguc8oV0Ndt0ncNgWQ6af5rYrr3apV0Kp3J9lw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta mañana hablé con Ana.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "bb1508a8-8590-4dd2-8cd2-a48a02aaa330",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b62015cf3e154335b6b77d35fa7ea001_el-fin-de-semana-pasado-descanse-mucho.mp3?Expires=1794099547&Signature=wilVeyvadauI4mMAYi9XUICQQZjpqWr0qwAT~VHSo4V55N3uQ~t5v4Y8ATj0UVBI9DkrirF~xrm8YkByrg5GSZSvJFMVrboq2vsgC~CsgYhJzV~ezqp8TTpMj0hCtFi8J-U21j4VNC5r~iUy-mIB054rypj1O6gBzzulzyf0eY1Pm-nHcxCB-RaCLktEnB4o-obHoZnO6hqjyHqWxl-iNySc1hvEnsSjMJvMxLeTLMZif6Uut~-zcfcGM6gYEGpa-8vOUpXUTLippdVwfNxff~UV5rDGqyTZqs9YyXMYmDwe-w7cad3PtL6PVSWI~QDQpgkk0jYBhGY6uEpYDh18lQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El fin de semana pasado descansé mucho.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "263417d6-523a-4f48-88bf-e6af4c5c9ddc",
+      "sequence": 13,
+      "lessonId": "ee0119f9-a62b-40da-8507-7503e0c366e4",
+      "title": "Reconstrua a forma",
+      "content": "<p>Ahora ___ a descansar en casa.</p>",
+      "contentPlain": "Ahora ___ a descansar en casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. `voy` forma a intenção imediata da própria pessoa.",
+      "feedbackError": "Retome o primeiro modelo e recupere a palavra que vem entre `Ahora` e `a descansar`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "voy",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f7089979-88e7-4955-bdc2-1657839e5296",
+      "sequence": 14,
+      "lessonId": "ee0119f9-a62b-40da-8507-7503e0c366e4",
+      "title": "Escuta final em espanhol",
+      "content": "<p>Recupere os três alvos centrais da aula usando apenas a escuta e o texto em espanhol.</p>",
+      "contentPlain": "Recupere os três alvos centrais da aula usando apenas a escuta e o texto em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você recuperou os alvos centrais da aula só pelo áudio e pelo espanhol escrito.",
+      "feedbackError": "Escute outra vez e compare qual áudio fala de plano compartilhado, qual traz só o próximo passo e qual junta as duas frases.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "f4d84ea3-8a6a-437d-9f97-9c4a819e082b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6d7d03a386534ddc946c2c5417c890f0_b03-esta-noche-vamos-a-cenar-juntos.mp3?Expires=1794099547&Signature=ODrwWQZzBNy1HQqd~XAsDezAzpu1fRJ5q9L8g-Rhwn2XaHdEU-Q7KvtLrKVi1m5q6dteTH1HM11~BZ5QqEKZJjsYAdCO9aWttTKyMm~8XWpzGOK0NXzGEb70~cEI0fLjRN03o7wTvnUPY0pAXKQ9n1sDRHjCLe2whUXzntvBDEiLAHq2VLW85zyTy0D8y5sfxCtG--BdLSBflW~yVm~hZIqg-Md-TCFyika9nwq4wzuhDmLVaGn~SXMRC3nzNa8dRQMkZlxMddU-X1xqhBLQP~s-qfn9ORtbmTV8ziURQA0eTagXutEWH0vz9uuyQ3bgYkzT3n2YYt1Dj5BHr9ttAA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta noche vamos a cenar juntos.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1245fcaa-5834-4ff3-bcbf-a7bcdfab19c0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/63f1051699d74f8f8723250e92e93b68_b05-esta-manana-hice-ejercicio-ahora-voy-a-descansar-en-casa.mp3?Expires=1794099547&Signature=ZeU0DU-Ked0F-6~DoO3x5fAPKD6bkO2SeIfiRpilhVDHLBP2uWr0OUijyyShvwGXqbi2~l8Woa2vEoVZ9qEYmNgyJukRwsW4A3aJMFDJ7Z2468R-Iz8oD2uxIAaFtFEkNCYGA4WC1JJPRI3TEkotcZB-19ICGaJPlTtxFyUsP4ul12-xl3GWyGjpgWRgT6~EU4mT~lCfobKCfFJoiMHcO0K3mJX-oeFERRKef9McEu65Ks-jq-oRnHz2z40Z-ZdT5KXVgX1nMDhWoAS1~wwuS3OCA38gS5hNRpJeU2Vyvqp7usfsvAah8Mr6~blB48t-t1IqfZj0~rnuRPU6SHZIXQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta mañana hice ejercicio. Ahora voy a descansar en casa.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0d435acc-9584-4b0f-967b-bfdca0d64af7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/86d9ac3a48b841dd81c1719b45a329de_b01-ahora-voy-a-descansar-en-casa.mp3?Expires=1794099547&Signature=crpCD7PjwGwFr0A4Bfx9UUMB9haGJEpb6PLO3DLB-IHQNJCJ0Kqmo76drPawayd2Gautok27dAaH2pjX06gj1o7ia5rJC35bX~NxL1VmzPrPmDCnOh9S88aU8dA3Vo~szuXtSUDVpVA3KWdT15k4NOMS4WogqjtKNnJ1aaPvIzHLVJX5aXj6ul0n7aOYJNfbTNYa2qAx3-WvLpLpkSaZhhbeOQLC7lY9T755KP8I4WwBcqlwCVyxG7oKavXl7eVD0x2MWqZ8fsD5PKu6EU1IDaNLMcoKS5xLOvIXLh3A5x7fBYR-LNSRHKXykLkuvd9xKxIFdJdxdIcIWsEFLzHgXQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ahora voy a descansar en casa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "0e186c70-2451-4f75-84cc-462b6b02a1e5",
+      "sequence": 15,
+      "lessonId": "451df7ae-f912-4daf-ae9a-7b0c5080ee6a",
+      "title": "Recupere a forma correta",
+      "content": "<p>Ayer ___ al gimnasio después del trabajo.</p>",
+      "contentPlain": "Ayer ___ al gimnasio después del trabajo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. `fui` completa a frase sobre deslocamento concluído.",
+      "feedbackError": "Revise a primeira frase-modelo e recupere a forma usada para ir a um lugar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fui",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

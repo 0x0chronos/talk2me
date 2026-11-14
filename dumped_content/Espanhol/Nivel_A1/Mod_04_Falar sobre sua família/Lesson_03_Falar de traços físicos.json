@@ -1,0 +1,642 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+    "attemptId": "d413d1f9-927c-4231-8275-40a4869e79f9",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "e35d2b64-47e5-4773-a85c-20c514947285",
+      "88a124d9-f3ca-4537-8ff2-7c3ad7fd4c84",
+      "d55d0ab7-66a4-445b-8b3d-f941a9697629",
+      "d2a6d1dd-1e71-4393-90ef-e76072210eea",
+      "2385eed5-0950-469d-a2de-773070fbe431"
+    ],
+    "evaluationExerciseIds": [
+      "3ddb1dc4-fc45-47d6-aa27-15977e5a73db",
+      "2738cc0b-1aac-408b-b02f-3e2dc5493441",
+      "5d0db595-e61e-42c6-8f44-f592c77660be",
+      "9d36dada-3ca1-4b28-bf9a-1b1d84d9e0d1",
+      "854b60bc-d8ab-4f95-bf4f-603cd5cbe6c2"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:56:50.4461403Z"
+  },
+  "contents": [
+    {
+      "id": "f782f020-a693-4ceb-babb-cf8201858764",
+      "title": "Observe a foto, escute o áudio e leia a frase em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "ebaa7f8d-97f7-4a52-8ee3-0382e109483c",
+          "textContent": "<p>Observe a frase.</p><p><strong>Tiene los ojos verdes.</strong></p><p>Em português: Ela tem os olhos verdes.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e69b907827eb48578cfec14dd2888878_b01-mujer-ojos-verdes.png?Expires=1794099411&Signature=I4i6apvzRfD9gzI-U6NGX0BjCAGy0A9EqI71sS5aNZd6N3CGGByK0qkC~9cUj~9TewXcI52ukTbPiQrarNHYAs056gAr7kMn3XqP576dSfyQIt-WQxSvixz7C3WYHeS3dEv3Dgw6ZTjMmc5UrrSGcpNligRJD7Usg9U5v-HXHp-nE1ycC4umOibZHjP4KNg0DQ6MRzxsgmV1c4HjoIy-T~9ouJ0F26e1lSgE5iJUNUARvwqHiok8IHDwJfqrsXPW8jAP4i33lkr-V7E8PBpHic-lbmf4qMjQz5SLzKYDO-AwtgVy~Ch1ayn2E5BET5-VLX1GxUPv3R3-4FEOFjo6Cg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/28a7a384940c45449532d1f543f1d2bd_b01-tiene-los-ojos-verdes.mp3?Expires=1794099411&Signature=mAnJfwQT0QUdrj32EGowmwT4PLg8b~qh-9inL2rYSYpsx6tYBqh7nzWkSCO0oVagvMn7YmOvoX-qoxvpSPSEDgJN3D3Wty0zNzKEC3EUoq8oORqB6f85Onr2fRjI8qpilcltHCMHwLIJGokF1iIbjPL8ZbuCV-VWlhhjTJSdnLq8WLH34HzDjifjz7zG1PaFsThh13wCV8kgMO65d7rhgBtLXwdWrC7awXKYdzaqM9GsdtzVqtl0-SPOekDf1tnF6Xd5G0bFTnVtLmYCARREsaZbTAlKXnnZWXyeQ3nzGI14eUm2Aco7ojsuV1va~PpLy-Xv92CKDR~jFGBkl4KBEg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9bc0501a-ceeb-4369-bfef-cfc1241508c9",
+      "title": "Passe pelos dois cartões e repare no que continua igual nas frases.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "cb1d87a5-0e03-4d1a-8072-c756b4728dce",
+          "textContent": "<p>Cartão 1</p><p><strong>Mi hermana tiene los ojos verdes.</strong></p><p>Minha irmã tem os olhos verdes.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b762569746964eb6999cadce822dcc1d_b02-mi-hermana-tiene-los-ojos-verdes.mp3?Expires=1794099411&Signature=eKL4Q59U1KCNfcQ2qBgN7lOCUELY-K9ns9mN1sPb-cPfrmqKxr830cAjeXhvGBvmuOnIglP0eOAfvSjQaCCz3ME~6tibcPuB4wdK5mRE2CA~KYsyEx2BWFH035Y4Uh6d67RJW3xqoRlI5P7Fq1Q15PNxz9XJnj4IcKqhVIapFIeIyy-UUsfN7JUwY-UOX9U8CueVP9fiEkWU8lIADJ9KtDFH63ZDdh~xg5oPZ7dZUuzJebXWYPeWM2li1ma2MKTNpAwKeWo09CRKmIm-bpOERP85bcp0J9DQ8jIgdS6peMWHmdq~XBxELJMi7ngOhLQ5kqBHCTqf6FH8gfOwbELgjA__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "84d3f7e7-1f6a-4f81-a484-7f72c1980007",
+          "textContent": "<p>Cartão 2</p><p><strong>Mi madre tiene los ojos verdes.</strong></p><p>Minha mãe tem os olhos verdes.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c0e2d51775f84beb85f45a4e72c54f1f_b02-mi-madre-tiene-los-ojos-verdes.mp3?Expires=1794099411&Signature=c60CWBT4f6nQ5-NyhDjgssCp5n37776lQB7tAM69PPQ0NoYDKfAdwsUaD1Rz82pUHcV-X3eh9abw7NvqAZNZnAwhvzPSv4Qvi6f43RAuUZKAkFdcdFkqE~FbDopvZC0rstWpVAnQXaHkEMNvOQgIR9QxjFkuoUaMqOL1pksGz089aOH6QVJQn~~UvHdl5zdwGjINp7zDkWRvzUPZThw0TJSTuEi1gj-6KYbPqqLrFUIDdY3umcw~v0k0hvgkWXk3ylaUuxbnZjDVaDG-SoLUR5RK9JnsvqjjpNhFtS~OKeSv5wo-aEoIyOdAkf5upITnl5BNJb3a6scRMdPEHlynsQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "df0de390-aa8e-4dfa-a3c3-3757269870b9",
+      "title": "Leia a explicação curta e note qual pedaço da frase aponta para essa parte do rosto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "7669d654-6b3d-48a6-8ada-f1b673e729d8",
+          "textContent": "<p>Quando a descrição fala dos olhos, o pedaço importante é <strong>tiene los ojos</strong>.</p><p>Nesta aula, esse bloco aparece com <strong>verdes</strong>.</p><p>Primeiro você reconhece <strong>los ojos</strong>. Depois entende o detalhe.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3c54ff39-af8e-408f-8726-9d45378a7cc3",
+      "title": "Observe a foto, escute o áudio e leia a frase em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "626584d1-f6dd-4f72-b4de-48cb6caaeaf4",
+          "textContent": "<p>Observe a frase.</p><p><strong>Tiene el pelo rizado.</strong></p><p>Em português: Ela tem o cabelo cacheado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/022d64b4e3a8451784b20fc87ec48bf1_b04-mujer-pelo-rizado.png?Expires=1794099411&Signature=tA7gK2Z7JNMHx~K8krqifxV-fcUHGG8vfgJTDdgY6UDmjHaZeQ2S0O~YBXHGfrJacsZ8EcncSSYvgmujcEgWBUWnbu09i4FY08TAAIsJlz1cf-A45TBQXYAljg6Hn43XQ78KlzUY~J~3BCwqo5HnxUqmUizvl2OHoAR8zO0KU1c-HZ3JXfaDLrEcVQc2-M7uuW~KjZ8WOBuJAMRBLeGAbiFVeHF5IsCbtx6sIEt~o9171j2ORHCTClHLHfzfcntTmStdQvo6x8blZgUu46JB2XBN0SKYAkIDks-q3uqnUZZVtMekbUKWTdpArfX4REPAWHDDwbaY2YUEA3QY0UneYg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8920496f2d554f8ea6453fbb62ae0c11_b04-tiene-el-pelo-rizado.mp3?Expires=1794099411&Signature=g20yG0LBGDQVFHdtutjwM8R78zI9DJNGJVpnW9Z95Zp~6KDIMfJ8EOYdNLMK7KoJr3XrHYHeoxOFy4rxpu2VsxGonINU51~uYco5221HWc2CKiedxuIKi1lYSj~G0etVB1gjDvnWraHm6sv0cKrG1eN1Xeug9JY5BVQr5yRlxk0xJUSn5e8x2q5OLkXgHjFHYHSyT8CO~LllcWMKoxsID1O1VP03j~IghpGfAkBe~TQqs5nC3j4T2c7TXs6bjTRVtYKM1jDUs0oz0SWLJ6RdS4NsglQ04OSsWDYdsRRLo8wZGNDNLMjl904GOqT4yIl52c8x84nJevDoXOOkdVNNWg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "747bf116-31d1-4fcc-86c7-b9d138d6960b",
+      "title": "Passe pelos dois cartões e repare no que continua igual nas frases.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "eaac951b-d2b2-4d86-9bd0-fb7742412be4",
+          "textContent": "<p>Cartão 1</p><p><strong>Mi hermana tiene el pelo rizado.</strong></p><p>Minha irmã tem o cabelo cacheado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/74755492ed80428e988c11e22cce6ae1_b05-mi-hermana-tiene-el-pelo-rizado.mp3?Expires=1794099411&Signature=UnQCRhg6qyFZDAZKLRv7bSzXV1d1dgFBfu4jNHs2QfotZdzR2hgrVuSjshGYMMkO9NJ5eTGTewspD8v9h~ePTV2PqY5WA3Jr7qiTJG4hjDuJwmnoRe1leTEcb29WyQBAhS3DWystBYRoXrpMfxpD0hjKv-5TLRiMQxclE5-a~1J-beV1c~yNl~-Txm2iU~3ukE7oS4jKAifGOPW6zsd0N8wgapOZEucpsaegnnmsC6D3MiJZUMK7rECUJnUVaEu12jDtkxQeVXoYgitkvMafwR93GSf4IJSP3rP6S-csp~Ut7uqvsPaAnyUpbg-dXBM4IWuqlMMlqRjaR3srxHPPeQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "d359a56d-ee31-45b5-9124-f18efe2d6daf",
+          "textContent": "<p>Cartão 2</p><p><strong>Mi madre tiene el pelo rizado.</strong></p><p>Minha mãe tem o cabelo cacheado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f6f97a1dad134a07a04c50e75962d660_b05-mi-madre-tiene-el-pelo-rizado.mp3?Expires=1794099411&Signature=p0RJ5uSlGKZnGyf27WO9wygL3W3lMK9zUvXvVFpM85ANxcakaLC-c24ZEr2tK087EgWB-VGjzcii-Zg2SDhwFihAE0gFhkcL0WxBpwxMBqLzVGXUHgpHYBz8e-KVbACQpZPypsdcDl~r4tRPZ~9wyGeQfU-DcyZY3Dhog~CM-oTr9pEBspUqb5VRGtKEgNk4QPXI65R2OmEcgc64BCBXT0atjt8om0JJssTTQq9S8dxeKgW8EYdN7ljyBbvFKdKxc2xSHx~etCcfdBxN80-o55Ny81RUyMPMbujwRk7iY~99sp9xDfpaB04q92sNT03z3x0rQgyozkizElBbon5QKA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "61a3bb80-4787-4b7c-a910-f8ff852de70e",
+      "title": "Leia a explicação curta e note qual pedaço da frase aponta para o cabelo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "1aea9e6f-b3dc-4770-88c1-e594e8ca53e8",
+          "textContent": "<p>Quando a descrição fala do cabelo, o pedaço importante é <strong>tiene el pelo</strong>.</p><p>Nesta aula, esse bloco aparece com <strong>rizado</strong>.</p><p>Primeiro você reconhece <strong>el pelo</strong>. Depois entende o detalhe.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "91d2d210-4278-4334-aaea-327507b39fb9",
+      "title": "Passe pelos dois cartões e compare qual parte da pessoa cada frase descreve.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "cfe35f23-27e6-4251-aa4c-99bdd2835654",
+          "textContent": "<p>Para falar dos olhos, aparece <strong>los ojos</strong>.</p><p><strong>Mi hermana tiene los ojos verdes.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b762569746964eb6999cadce822dcc1d_b02-mi-hermana-tiene-los-ojos-verdes.mp3?Expires=1794099411&Signature=eKL4Q59U1KCNfcQ2qBgN7lOCUELY-K9ns9mN1sPb-cPfrmqKxr830cAjeXhvGBvmuOnIglP0eOAfvSjQaCCz3ME~6tibcPuB4wdK5mRE2CA~KYsyEx2BWFH035Y4Uh6d67RJW3xqoRlI5P7Fq1Q15PNxz9XJnj4IcKqhVIapFIeIyy-UUsfN7JUwY-UOX9U8CueVP9fiEkWU8lIADJ9KtDFH63ZDdh~xg5oPZ7dZUuzJebXWYPeWM2li1ma2MKTNpAwKeWo09CRKmIm-bpOERP85bcp0J9DQ8jIgdS6peMWHmdq~XBxELJMi7ngOhLQ5kqBHCTqf6FH8gfOwbELgjA__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "1d6ada3e-7162-4c2d-997a-6d727d9d7393",
+          "textContent": "<p>Para falar do cabelo, aparece <strong>el pelo</strong>.</p><p><strong>Mi hermana tiene el pelo rizado.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/74755492ed80428e988c11e22cce6ae1_b05-mi-hermana-tiene-el-pelo-rizado.mp3?Expires=1794099411&Signature=UnQCRhg6qyFZDAZKLRv7bSzXV1d1dgFBfu4jNHs2QfotZdzR2hgrVuSjshGYMMkO9NJ5eTGTewspD8v9h~ePTV2PqY5WA3Jr7qiTJG4hjDuJwmnoRe1leTEcb29WyQBAhS3DWystBYRoXrpMfxpD0hjKv-5TLRiMQxclE5-a~1J-beV1c~yNl~-Txm2iU~3ukE7oS4jKAifGOPW6zsd0N8wgapOZEucpsaegnnmsC6D3MiJZUMK7rECUJnUVaEu12jDtkxQeVXoYgitkvMafwR93GSf4IJSP3rP6S-csp~Ut7uqvsPaAnyUpbg-dXBM4IWuqlMMlqRjaR3srxHPPeQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6269fbbd-b839-4655-9f0d-ba13d40d3bdb",
+      "title": "Escute a frase completa e observe como os dois detalhes aparecem juntos.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "a73e9fb8-fc4e-47a2-93a0-ba118216db09",
+          "textContent": "<p>Agora a descrição fica mais completa.</p><p><strong>Mi hermana tiene los ojos verdes y el pelo rizado.</strong></p><p>Em português: Minha irmã tem os olhos verdes e o cabelo cacheado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fcb87dcd1af248b9b01f5467e2cd0d82_b07-mi-hermana-tiene-los-ojos-verdes-y-el-pelo-rizado.mp3?Expires=1794099411&Signature=tKbR3nDBjgfy-UlynZKvY1B06RjoAdSe0FkEBSQjq0kl8TGJFcHOwDzPUOmJ0JsrnR3uVKicN53~r7b6sZN-JNCN5x~U6KG3ZCX6BgIfeXd9CuDE0M~sGsE8coc-xeRoag4hyl9cG3BChIsBNjmo05qFkgCLJrZH4PkOExP7isT97SezOKs~~5bowG6gBgfS44aqW9uSfLPfQFv3-dJy6atT3woSvEWtkmU89SO4Kvmvmv6WGADpgngvjk9XXWExjrEKUTwUC8OoBA2LOnkFzgjYVwYJFEs3m36YmzpMB3yH-mDAS07u7SYnlieB~0Jgq3XuI7~UHz1ml6jXHQkqFQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b4cc85aa-66be-41fe-8b20-c3c89279d64a",
+      "title": "Passe pelos dois cartões finais e ligue cada frase a uma situação do dia a dia.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "1b0ed145-f753-4a1c-96ec-3a7eac37892d",
+          "textContent": "<p>Ao mostrar uma foto no celular, você pode dizer um detalhe de cada vez.</p><p><strong>Mi madre tiene los ojos verdes.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c0e2d51775f84beb85f45a4e72c54f1f_b02-mi-madre-tiene-los-ojos-verdes.mp3?Expires=1794099411&Signature=c60CWBT4f6nQ5-NyhDjgssCp5n37776lQB7tAM69PPQ0NoYDKfAdwsUaD1Rz82pUHcV-X3eh9abw7NvqAZNZnAwhvzPSv4Qvi6f43RAuUZKAkFdcdFkqE~FbDopvZC0rstWpVAnQXaHkEMNvOQgIR9QxjFkuoUaMqOL1pksGz089aOH6QVJQn~~UvHdl5zdwGjINp7zDkWRvzUPZThw0TJSTuEi1gj-6KYbPqqLrFUIDdY3umcw~v0k0hvgkWXk3ylaUuxbnZjDVaDG-SoLUR5RK9JnsvqjjpNhFtS~OKeSv5wo-aEoIyOdAkf5upITnl5BNJb3a6scRMdPEHlynsQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "cc9faa8b-37e2-4028-8a12-483b9df38117",
+          "textContent": "<p>Em uma conversa curta sobre sua família, você também pode juntar dois detalhes.</p><p><strong>Mi hermana tiene los ojos verdes y el pelo rizado.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fcb87dcd1af248b9b01f5467e2cd0d82_b07-mi-hermana-tiene-los-ojos-verdes-y-el-pelo-rizado.mp3?Expires=1794099411&Signature=tKbR3nDBjgfy-UlynZKvY1B06RjoAdSe0FkEBSQjq0kl8TGJFcHOwDzPUOmJ0JsrnR3uVKicN53~r7b6sZN-JNCN5x~U6KG3ZCX6BgIfeXd9CuDE0M~sGsE8coc-xeRoag4hyl9cG3BChIsBNjmo05qFkgCLJrZH4PkOExP7isT97SezOKs~~5bowG6gBgfS44aqW9uSfLPfQFv3-dJy6atT3woSvEWtkmU89SO4Kvmvmv6WGADpgngvjk9XXWExjrEKUTwUC8OoBA2LOnkFzgjYVwYJFEs3m36YmzpMB3yH-mDAS07u7SYnlieB~0Jgq3XuI7~UHz1ml6jXHQkqFQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f431d55d-a0f7-4127-bbee-f7c872aa2bd2",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "c41b7c1c-79e3-44a4-9ea8-85b51cd692aa",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/82f289a9caac4dd98acbad5c227b770b_MEC-IDIOMAS_CAP_04_-_AULA_03-ESP.mp4?Expires=1794099411&Signature=l1uJkmWMPNI8bv5iMjeVGuw4-cDWeIPR8FSOBwIn1kLneMF3KX37v75O8bZRG25Sgr9qHvwcvwS5IF9tbpBfH5mcOWj4yFWv7F1olNZokk~U7ZQDkYPDojY3AGpNhpzg0wAAO2tcg7NqplPcpHYCDZiztkrDiYfjBIPpR5~MqJnR4v-41Jda3m~s77qulPWR9Sj7HqSwWZW~ED8u1isHMFwpNAnFq6ESNPWxKh6od-qZKdPOS4GK6UpdtTRbir9hW3XkPvmvUjN5KM9k4oU7S1mD9Z7i8RhWP9Z6wH61aopEEg2AXl43anuNPADETcOjzEeFPZOxmr2ErwixPhGCpg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/82f289a9caac4dd98acbad5c227b770b_MEC-IDIOMAS_CAP_04_-_AULA_03-ESP.mp4?Expires=1794099411&Signature=l1uJkmWMPNI8bv5iMjeVGuw4-cDWeIPR8FSOBwIn1kLneMF3KX37v75O8bZRG25Sgr9qHvwcvwS5IF9tbpBfH5mcOWj4yFWv7F1olNZokk~U7ZQDkYPDojY3AGpNhpzg0wAAO2tcg7NqplPcpHYCDZiztkrDiYfjBIPpR5~MqJnR4v-41Jda3m~s77qulPWR9Sj7HqSwWZW~ED8u1isHMFwpNAnFq6ESNPWxKh6od-qZKdPOS4GK6UpdtTRbir9hW3XkPvmvUjN5KM9k4oU7S1mD9Z7i8RhWP9Z6wH61aopEEg2AXl43anuNPADETcOjzEeFPZOxmr2ErwixPhGCpg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "e35d2b64-47e5-4773-a85c-20c514947285",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase completa em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase completa em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fcb87dcd1af248b9b01f5467e2cd0d82_b07-mi-hermana-tiene-los-ojos-verdes-y-el-pelo-rizado.mp3?Expires=1794099411&Signature=tKbR3nDBjgfy-UlynZKvY1B06RjoAdSe0FkEBSQjq0kl8TGJFcHOwDzPUOmJ0JsrnR3uVKicN53~r7b6sZN-JNCN5x~U6KG3ZCX6BgIfeXd9CuDE0M~sGsE8coc-xeRoag4hyl9cG3BChIsBNjmo05qFkgCLJrZH4PkOExP7isT97SezOKs~~5bowG6gBgfS44aqW9uSfLPfQFv3-dJy6atT3woSvEWtkmU89SO4Kvmvmv6WGADpgngvjk9XXWExjrEKUTwUC8OoBA2LOnkFzgjYVwYJFEs3m36YmzpMB3yH-mDAS07u7SYnlieB~0Jgq3XuI7~UHz1ml6jXHQkqFQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa retoma a descrição completa que fecha a aula sobre traços físicos.",
+      "feedbackError": "Esta tarefa retoma a descrição completa que fecha a aula sobre traços físicos.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Mi hermana tiene los ojos verdes y el pelo rizado.",
+      "typeSpecificData": "{\"expectedText\":\"Mi hermana tiene los ojos verdes y el pelo rizado.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/fcb87dcd1af248b9b01f5467e2cd0d82_b07-mi-hermana-tiene-los-ojos-verdes-y-el-pelo-rizado.mp3?Expires=1794099411\\u0026Signature=tKbR3nDBjgfy-UlynZKvY1B06RjoAdSe0FkEBSQjq0kl8TGJFcHOwDzPUOmJ0JsrnR3uVKicN53~r7b6sZN-JNCN5x~U6KG3ZCX6BgIfeXd9CuDE0M~sGsE8coc-xeRoag4hyl9cG3BChIsBNjmo05qFkgCLJrZH4PkOExP7isT97SezOKs~~5bowG6gBgfS44aqW9uSfLPfQFv3-dJy6atT3woSvEWtkmU89SO4Kvmvmv6WGADpgngvjk9XXWExjrEKUTwUC8OoBA2LOnkFzgjYVwYJFEs3m36YmzpMB3yH-mDAS07u7SYnlieB~0Jgq3XuI7~UHz1ml6jXHQkqFQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "88a124d9-f3ca-4537-8ff2-7c3ad7fd4c84",
+      "title": "Reconheça a descrição certa",
+      "content": "<p>Qual opção corresponde a <strong>ela tem os olhos verdes</strong>?</p>",
+      "contentPlain": "Qual opção corresponde a ela tem os olhos verdes ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a frase-base usada na aula para falar dos olhos.",
+      "feedbackError": "Esta tarefa retoma a frase-base usada na aula para falar dos olhos.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5af7b987-7b51-411d-b049-e168c001ed10",
+          "textContent": "Tiene los ojos verdes.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "88a124d9-f3ca-4537-8ff2-7c3ad7fd4c84"
+        },
+        {
+          "id": "769de0b2-fe50-496f-8ee4-2c75eb7b67f8",
+          "textContent": "Tiene el pelo rizado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "88a124d9-f3ca-4537-8ff2-7c3ad7fd4c84"
+        },
+        {
+          "id": "87d46d25-5729-4cc3-b7ed-d88b3b7efe18",
+          "textContent": "Mi hermana tiene el pelo rizado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "88a124d9-f3ca-4537-8ff2-7c3ad7fd4c84"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d55d0ab7-66a4-445b-8b3d-f941a9697629",
+      "title": "Ouça e relacione",
+      "content": "<p>Escute os dois áudios e ligue cada um à frase certa.</p>",
+      "contentPlain": "Escute os dois áudios e ligue cada um à frase certa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma o contraste entre olhos e cabelo com a mesma pessoa da aula.",
+      "feedbackError": "Esta tarefa retoma o contraste entre olhos e cabelo com a mesma pessoa da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "c158b2ad-9505-46db-a055-0de66da76595",
+          "exerciseId": "d55d0ab7-66a4-445b-8b3d-f941a9697629",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b762569746964eb6999cadce822dcc1d_b02-mi-hermana-tiene-los-ojos-verdes.mp3?Expires=1794099411&Signature=eKL4Q59U1KCNfcQ2qBgN7lOCUELY-K9ns9mN1sPb-cPfrmqKxr830cAjeXhvGBvmuOnIglP0eOAfvSjQaCCz3ME~6tibcPuB4wdK5mRE2CA~KYsyEx2BWFH035Y4Uh6d67RJW3xqoRlI5P7Fq1Q15PNxz9XJnj4IcKqhVIapFIeIyy-UUsfN7JUwY-UOX9U8CueVP9fiEkWU8lIADJ9KtDFH63ZDdh~xg5oPZ7dZUuzJebXWYPeWM2li1ma2MKTNpAwKeWo09CRKmIm-bpOERP85bcp0J9DQ8jIgdS6peMWHmdq~XBxELJMi7ngOhLQ5kqBHCTqf6FH8gfOwbELgjA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi hermana tiene los ojos verdes.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ec8c31aa-5507-421b-91e3-1de38b3ad7ca",
+          "exerciseId": "d55d0ab7-66a4-445b-8b3d-f941a9697629",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/74755492ed80428e988c11e22cce6ae1_b05-mi-hermana-tiene-el-pelo-rizado.mp3?Expires=1794099411&Signature=UnQCRhg6qyFZDAZKLRv7bSzXV1d1dgFBfu4jNHs2QfotZdzR2hgrVuSjshGYMMkO9NJ5eTGTewspD8v9h~ePTV2PqY5WA3Jr7qiTJG4hjDuJwmnoRe1leTEcb29WyQBAhS3DWystBYRoXrpMfxpD0hjKv-5TLRiMQxclE5-a~1J-beV1c~yNl~-Txm2iU~3ukE7oS4jKAifGOPW6zsd0N8wgapOZEucpsaegnnmsC6D3MiJZUMK7rECUJnUVaEu12jDtkxQeVXoYgitkvMafwR93GSf4IJSP3rP6S-csp~Ut7uqvsPaAnyUpbg-dXBM4IWuqlMMlqRjaR3srxHPPeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi hermana tiene el pelo rizado.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "d2a6d1dd-1e71-4393-90ef-e76072210eea",
+      "title": "Ligue palavra e sentido",
+      "content": "<p>Relacione cada elemento em espanhol ao sentido correspondente.</p>",
+      "contentPlain": "Relacione cada elemento em espanhol ao sentido correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa organiza o vocabulário-chave para separar olhos, cabelo e seus detalhes.",
+      "feedbackError": "Esta tarefa organiza o vocabulário-chave para separar olhos, cabelo e seus detalhes.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2e354f35-79c4-4e34-a752-61aa3e608a9a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d2a6d1dd-1e71-4393-90ef-e76072210eea"
+        },
+        {
+          "id": "479c53bb-c45a-4d7d-84fb-044d628cc9fe",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d2a6d1dd-1e71-4393-90ef-e76072210eea"
+        }
+      ],
+      "associations": [
+        {
+          "id": "5594ae65-0723-47b3-9404-1a1ce4dc73f3",
+          "exerciseId": "d2a6d1dd-1e71-4393-90ef-e76072210eea",
+          "leftContent": "los ojos",
+          "rightContent": "os olhos",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ac4a8d60-080b-4894-bbdc-b249bdfe547f",
+          "exerciseId": "d2a6d1dd-1e71-4393-90ef-e76072210eea",
+          "leftContent": "el pelo",
+          "rightContent": "o cabelo",
+          "sequenceItem": 2
+        },
+        {
+          "id": "261c0eb1-9c6a-4448-a73e-74867b4b7c91",
+          "exerciseId": "d2a6d1dd-1e71-4393-90ef-e76072210eea",
+          "leftContent": "verdes",
+          "rightContent": "verdes",
+          "sequenceItem": 3
+        },
+        {
+          "id": "7dee8923-68c7-4145-aca2-232cabcb351d",
+          "exerciseId": "d2a6d1dd-1e71-4393-90ef-e76072210eea",
+          "leftContent": "rizado",
+          "rightContent": "cacheado",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "2385eed5-0950-469d-a2de-773070fbe431",
+      "title": "Encontre a descrição completa",
+      "content": "<p>Qual opção reúne <strong>olhos</strong> e <strong>cabelo</strong> na mesma frase?</p>",
+      "contentPlain": "Qual opção reúne olhos e cabelo na mesma frase?",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma como a aula junta dois detalhes físicos em uma frase só.",
+      "feedbackError": "Esta tarefa retoma como a aula junta dois detalhes físicos em uma frase só.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6418ca1b-130e-43bb-9c92-99cbccfd5ad7",
+          "textContent": "Mi hermana tiene los ojos verdes y el pelo rizado.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2385eed5-0950-469d-a2de-773070fbe431"
+        },
+        {
+          "id": "e7e6af91-244d-4438-8ef0-53a4e0bc385d",
+          "textContent": "Mi hermana tiene los ojos verdes.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2385eed5-0950-469d-a2de-773070fbe431"
+        },
+        {
+          "id": "f28f7d46-1301-4acb-9a94-45977c8c332b",
+          "textContent": "Mi madre tiene el pelo rizado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2385eed5-0950-469d-a2de-773070fbe431"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "3ddb1dc4-fc45-47d6-aa27-15977e5a73db",
+      "title": "Recupere a palavra certa",
+      "content": "<p>Mi madre tiene los ____ verdes.</p><p>Tradução: Minha mãe tem os olhos verdes.</p>",
+      "contentPlain": "Mi madre tiene los ____ verdes. Tradução: Minha mãe tem os olhos verdes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma o bloco da aula usado para falar dos olhos em frases familiares.",
+      "feedbackError": "Esta tarefa retoma o bloco da aula usado para falar dos olhos em frases familiares.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ojos",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2738cc0b-1aac-408b-b02f-3e2dc5493441",
+      "title": "Ouça e identifique",
+      "content": "<p>Qual palavra do áudio descreve o cabelo?</p>",
+      "contentPlain": "Qual palavra do áudio descreve o cabelo?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/74755492ed80428e988c11e22cce6ae1_b05-mi-hermana-tiene-el-pelo-rizado.mp3?Expires=1794099411&Signature=UnQCRhg6qyFZDAZKLRv7bSzXV1d1dgFBfu4jNHs2QfotZdzR2hgrVuSjshGYMMkO9NJ5eTGTewspD8v9h~ePTV2PqY5WA3Jr7qiTJG4hjDuJwmnoRe1leTEcb29WyQBAhS3DWystBYRoXrpMfxpD0hjKv-5TLRiMQxclE5-a~1J-beV1c~yNl~-Txm2iU~3ukE7oS4jKAifGOPW6zsd0N8wgapOZEucpsaegnnmsC6D3MiJZUMK7rECUJnUVaEu12jDtkxQeVXoYgitkvMafwR93GSf4IJSP3rP6S-csp~Ut7uqvsPaAnyUpbg-dXBM4IWuqlMMlqRjaR3srxHPPeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa retoma a palavra que aparece na aula para descrever o cabelo.",
+      "feedbackError": "Esta tarefa retoma a palavra que aparece na aula para descrever o cabelo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "169682eb-bdf2-449b-8b33-26fcc7ee9b69",
+          "textContent": "madre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2738cc0b-1aac-408b-b02f-3e2dc5493441"
+        },
+        {
+          "id": "8e124296-e763-4a3c-b6dc-810faaf2afb4",
+          "textContent": "rizado",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2738cc0b-1aac-408b-b02f-3e2dc5493441"
+        },
+        {
+          "id": "90105317-5070-43b5-bcf1-72f7c3f326b2",
+          "textContent": "ojos",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2738cc0b-1aac-408b-b02f-3e2dc5493441"
+        },
+        {
+          "id": "bb488524-24e8-41e8-b60b-0288634c5bcb",
+          "textContent": "verdes",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2738cc0b-1aac-408b-b02f-3e2dc5493441"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5d0db595-e61e-42c6-8f44-f592c77660be",
+      "title": "Ouça e selecione a palavra",
+      "content": "<p>Qual palavra do áudio descreve <strong>ojos</strong>?</p>",
+      "contentPlain": "Qual palavra do áudio descreve ojos ?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fcb87dcd1af248b9b01f5467e2cd0d82_b07-mi-hermana-tiene-los-ojos-verdes-y-el-pelo-rizado.mp3?Expires=1794099411&Signature=tKbR3nDBjgfy-UlynZKvY1B06RjoAdSe0FkEBSQjq0kl8TGJFcHOwDzPUOmJ0JsrnR3uVKicN53~r7b6sZN-JNCN5x~U6KG3ZCX6BgIfeXd9CuDE0M~sGsE8coc-xeRoag4hyl9cG3BChIsBNjmo05qFkgCLJrZH4PkOExP7isT97SezOKs~~5bowG6gBgfS44aqW9uSfLPfQFv3-dJy6atT3woSvEWtkmU89SO4Kvmvmv6WGADpgngvjk9XXWExjrEKUTwUC8OoBA2LOnkFzgjYVwYJFEs3m36YmzpMB3yH-mDAS07u7SYnlieB~0Jgq3XuI7~UHz1ml6jXHQkqFQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa retoma como a aula combina o detalhe dos olhos com o restante da descrição.",
+      "feedbackError": "Esta tarefa retoma como a aula combina o detalhe dos olhos com o restante da descrição.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0eca0bf5-bd77-4f45-b5b1-91b1b5052e1e",
+          "textContent": "rizado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5d0db595-e61e-42c6-8f44-f592c77660be"
+        },
+        {
+          "id": "4cef7499-920c-4bde-958d-cd686a246545",
+          "textContent": "verdes",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5d0db595-e61e-42c6-8f44-f592c77660be"
+        },
+        {
+          "id": "584a14f4-2a2f-497d-94c6-ced9d7cd06d1",
+          "textContent": "pelo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5d0db595-e61e-42c6-8f44-f592c77660be"
+        },
+        {
+          "id": "a4d9fbfd-68dd-49e8-ba73-19e4d36189c8",
+          "textContent": "madre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5d0db595-e61e-42c6-8f44-f592c77660be"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "9d36dada-3ca1-4b28-bf9a-1b1d84d9e0d1",
+      "title": "Complete a descrição",
+      "content": "<p>Mi hermana tiene los ojos verdes y el pelo ______.</p><p>Tradução: Minha irmã tem os olhos verdes e o cabelo cacheado.</p>",
+      "contentPlain": "Mi hermana tiene los ojos verdes y el pelo ______. Tradução: Minha irmã tem os olhos verdes e o cabelo cacheado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a recombinação final da aula com olhos e cabelo na mesma frase.",
+      "feedbackError": "Esta tarefa retoma a recombinação final da aula com olhos e cabelo na mesma frase.",
+      "answerType": "buildWord",
+      "expectedAnswer": "rizado",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "854b60bc-d8ab-4f95-bf4f-603cd5cbe6c2",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio com a frase correspondente. Use só as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente. Use só as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma o uso real da aula: descrever um familiar com um ou dois traços físicos.",
+      "feedbackError": "Esta tarefa retoma o uso real da aula: descrever um familiar com um ou dois traços físicos.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1053911d-2605-40b3-a896-988a08464b9d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "0b4dab24-a6f6-42fa-93d9-0dd6fa0c21d0",
+          "exerciseId": "854b60bc-d8ab-4f95-bf4f-603cd5cbe6c2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c0e2d51775f84beb85f45a4e72c54f1f_b02-mi-madre-tiene-los-ojos-verdes.mp3?Expires=1794099411&Signature=c60CWBT4f6nQ5-NyhDjgssCp5n37776lQB7tAM69PPQ0NoYDKfAdwsUaD1Rz82pUHcV-X3eh9abw7NvqAZNZnAwhvzPSv4Qvi6f43RAuUZKAkFdcdFkqE~FbDopvZC0rstWpVAnQXaHkEMNvOQgIR9QxjFkuoUaMqOL1pksGz089aOH6QVJQn~~UvHdl5zdwGjINp7zDkWRvzUPZThw0TJSTuEi1gj-6KYbPqqLrFUIDdY3umcw~v0k0hvgkWXk3ylaUuxbnZjDVaDG-SoLUR5RK9JnsvqjjpNhFtS~OKeSv5wo-aEoIyOdAkf5upITnl5BNJb3a6scRMdPEHlynsQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi madre tiene los ojos verdes.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a018e6b0-56e8-4209-b56d-391278f40502",
+          "exerciseId": "854b60bc-d8ab-4f95-bf4f-603cd5cbe6c2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/74755492ed80428e988c11e22cce6ae1_b05-mi-hermana-tiene-el-pelo-rizado.mp3?Expires=1794099411&Signature=UnQCRhg6qyFZDAZKLRv7bSzXV1d1dgFBfu4jNHs2QfotZdzR2hgrVuSjshGYMMkO9NJ5eTGTewspD8v9h~ePTV2PqY5WA3Jr7qiTJG4hjDuJwmnoRe1leTEcb29WyQBAhS3DWystBYRoXrpMfxpD0hjKv-5TLRiMQxclE5-a~1J-beV1c~yNl~-Txm2iU~3ukE7oS4jKAifGOPW6zsd0N8wgapOZEucpsaegnnmsC6D3MiJZUMK7rECUJnUVaEu12jDtkxQeVXoYgitkvMafwR93GSf4IJSP3rP6S-csp~Ut7uqvsPaAnyUpbg-dXBM4IWuqlMMlqRjaR3srxHPPeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi hermana tiene el pelo rizado.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2276a3cf-077d-490d-8dbc-d3fed0e0ec1e",
+          "exerciseId": "854b60bc-d8ab-4f95-bf4f-603cd5cbe6c2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fcb87dcd1af248b9b01f5467e2cd0d82_b07-mi-hermana-tiene-los-ojos-verdes-y-el-pelo-rizado.mp3?Expires=1794099411&Signature=tKbR3nDBjgfy-UlynZKvY1B06RjoAdSe0FkEBSQjq0kl8TGJFcHOwDzPUOmJ0JsrnR3uVKicN53~r7b6sZN-JNCN5x~U6KG3ZCX6BgIfeXd9CuDE0M~sGsE8coc-xeRoag4hyl9cG3BChIsBNjmo05qFkgCLJrZH4PkOExP7isT97SezOKs~~5bowG6gBgfS44aqW9uSfLPfQFv3-dJy6atT3woSvEWtkmU89SO4Kvmvmv6WGADpgngvjk9XXWExjrEKUTwUC8OoBA2LOnkFzgjYVwYJFEs3m36YmzpMB3yH-mDAS07u7SYnlieB~0Jgq3XuI7~UHz1ml6jXHQkqFQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi hermana tiene los ojos verdes y el pelo rizado.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "title": "Falar de traços físicos"
+}

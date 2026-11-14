@@ -1,0 +1,595 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+    "attemptId": "3f439186-55b9-4be4-8174-0cecc8ca06e1",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "cca31a15-e02d-43d7-a7ea-3230f72a6c2e",
+      "56bb9bd8-9a06-46e3-862b-44cbd45af4a7",
+      "923bf1ba-0308-45f0-8259-f5fadbd95e10",
+      "7987aeca-4d5d-42ee-bf74-ac0775e9bff3",
+      "b3986d9c-7a0a-4664-afe4-827f980cefe9"
+    ],
+    "evaluationExerciseIds": [
+      "6f09cc57-90de-45fe-bf94-16e131ef7ee2",
+      "6b67e737-58a6-48fd-83c9-9977d91f9878",
+      "f5021d94-f46c-4949-b430-087d2b09c420",
+      "10d474d8-4fbf-47e5-ad0c-ee77b0297a66",
+      "04d10e03-7604-4ac6-90cc-c23c0e252cb7"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:56:29.6850458Z"
+  },
+  "contents": [
+    {
+      "id": "a833c9cc-349f-4f24-998e-29fc9f0be405",
+      "title": "Observe a frase, escute o áudio e ligue o espanhol ao sentido em português.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "3cc26784-a311-49f3-b076-5977ff629793",
+          "textContent": "<p>Escute a apresentação curta.</p><p><strong>Soy Leo.</strong></p><p>Em português: <strong>Eu sou Leo.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7f902b7f0f8d4a9e8bed2903b092d16b_l03b01-soy-leo.png?Expires=1794099390&Signature=EHGRM7EL8z4ZPBVL1B9jp0XWZNd5HhxO3RaSdmVgqV8Ea8GNEG3tSbYtwYlfpeGpWlFC7~98vOD8XKCUEc4zeP-ICcn4kX5h6BW-f~fabh90wYZL5u5QVIrjtkn9GZuXMuraREoyCiDmk7Z~ekZW4icJEHC2a40leSHjNDGvCbWEeMEpgihaLlUtTxmvTk4vk5znawdcNzEODxIi6fP0-oko4lOt4iUGZHtJEhE0DsgqVH1NBXmAQtHIft6Y52faNpDr54wfpnjk4Z-O58vOYT2QST6IK8Cv9tTS3tBeTNcMMoVW8GsXv7maEPvinQRzPuuW9jsOYGrflFekm4hRUg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b849ae74acb949b286dde13aabb2616b_l03b01-soy-leo.mp3?Expires=1794099390&Signature=02qVhp1mx1fgULafRwXVPXEDI~ezH71y9cZUr9QDvHRQxPSC78XjzqzFtbf4RZHNgP5UQrIScZPFLHnd0HqnY65iH1-LZPKcEQ6uLOxsaQ~r1sTR3X27PKqwTsMLtraCxFDRPvRcEILQNiraIOuyiL5FDAjQ3ZkBGpBERWLx5HGNVgLJqjU2dhn75FdKaADEwA7GTezQmGPRbIsiA1hrmv-A2KZpfw~fgf8bq9xJUDmwdl569y3wxADMoJg5ofCQbIuLiCqvTXnbEAgsOmsQWWWOwp16f-lS7L1EIk2ucGgAk-KaCJxK1qxFln3M5OguBm67giSmJlPiBe7o7L7jWw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9fdf82aa-44d4-4dca-b22a-515d3ce140c9",
+      "title": "Leia a nota curta e observe onde entra o nome na estrutura.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "9c9be7e1-aeab-4d89-b240-67643fb90275",
+          "textContent": "<p>Use <strong>soy + nome</strong> quando você diz quem é de forma direta.</p><p>Nessa estrutura, <strong>soy</strong> fica igual e o nome muda.</p><p>Exemplo desta aula: <strong>Soy Leo.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "013b0eec-e397-4e20-99ed-17b0d103b46c",
+      "title": "Leia e escute a nova forma, percebendo que a mensagem continua sendo a mesma.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "deff79ed-aafe-4d98-9855-14c78e62dd6c",
+          "textContent": "<p>Agora veja a apresentação com o pronome explícito.</p><p><strong>Yo soy Eva.</strong></p><p>Em português: <strong>Eu sou Eva.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/981dad85dbc744d9b3eff3c990913efe_l03b03-yo-soy-eva.png?Expires=1794099390&Signature=UbWGlynDHUI9b-Ne6WGvYLpxN9LehkkfbkHJAELRiOcFkrHRpWDTC~XrcSnuVsU40sDYvRJ8Vx3pW2LH5zUboo30YniUnuDhLnt65vm~l8pNsoeX0ODIIroEQDPWS4wvbcGC0HbAWkOKA0S-N9KnJDsgKB-wgOGHnQKFontZFRlaQQna06Xl0w~Bh6FzShMn5IiRXdPVaWX2yVdKbhvlxV3GWiY-mcPRbHsDyHMN7l2tkriqewErJpjBC4KISUTjBxEKSg9hXdOX27NQt9Ek2PRmSonf4cFWiL5dx-EY7I8R1JPJz1fswfUx4geZUyQcMuDniFb~kVU8cyJ4m1EIFQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c89bd00c9ef64aef9da7a483c7070459_l03b03-yo-soy-eva.mp3?Expires=1794099390&Signature=gwU3M1WyGdeF5bI7ohpCJL7-2SBzaBpupPdA0hP-Zs4Yokgqr5x-szJBQRw~rCBqOUIGsmViEINXMjVJyXQOFZY0lPT7bWYKFZiRV2lWYdPo7SYjw9v-1UkEAPR6oselOLzZpQPIOxFp-Lyj1x4OE-OR2BS9Y4NNq3HD~1LnuCcgnpK~LNxNMl1ryMMz4Q1o4yHK3L873f8NTM2jKMKbEyibDBTE97jTzTAT7i8p-9NBMrEQg2Tz~6aWsdmLQ5T23DNeAPrVI1xMKV3yULAlGlDsXq9ppsl6v242a2BWUkWTcaKN-V9UGhyTo7jzt1Jsgo2Oe4502XPSLWgGLQaPoQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "947e03fc-ca12-434f-ac6e-8afb9a45de2d",
+      "title": "Compare as duas formas e observe o papel de yo na frase.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "4dac62e5-4d0c-4a0d-bfe1-f58e499b9945",
+          "textContent": "<p>Em apresentações curtas, <strong>yo</strong> deixa o falante mais visível.</p><p>Nesta aula, as duas frases abaixo apresentam a mesma pessoa:</p><ul><li><strong>Yo soy Eva.</strong></li><li><strong>Soy Eva.</strong></li></ul><p>O sentido continua o mesmo: \"eu sou Eva\".</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "47bb3635-5269-4abe-931c-9a3f0baea78c",
+      "title": "Escute as duas frases em sequência e note o ritmo mais curto e o mais completo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "3f2f2314-7eab-42a0-a14d-522a2dfab5aa",
+          "textContent": "<p>Ouça a mesma apresentação das duas maneiras.</p><p><strong>Soy Eva. Yo soy Eva.</strong></p><p>A primeira forma é mais curta. A segunda deixa <strong>yo</strong> visível.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/28def455d8714e8193ea6c500d8b3e17_l03b05-soy-eva-yo-soy-eva.mp3?Expires=1794099390&Signature=pT99yiKjfkJQUn1sulhmbILKFxIMMCmkIFO9MJ3keRfaGON8wqMUcFo4nkSCq4CeGv2ikHh~X9NonDJUdF2nNIpu0r9KebMDAmjVot6I5Keaa0rChjophXRkQpz-iCnYsKlDbJ~0V1mrxFX9DHuPiZhJao8hb8GRi-Qd3RizYmZRRoEP7yTc2d-VV1gkWmzJbRtkYC5JQVUEs4-cj0j07XLscP-GrURU08EI~YPoMXy5-bO-7w-693lGH46UTsI2JbR5mGqY7gNOBmWJonPI-ZB5mY7p5Uj08A50RzYEUNgx5VV7eGjNFxulDjcBwdTV3-wxoV4WLCROTmuWWRXLIg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "110eb398-6e57-44e4-bead-a152e08d7203",
+      "title": "Passe os olhos pelos exemplos e observe o que muda e o que permanece.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "db4381c6-7a63-4f8e-ac41-55fcc1d5094d",
+          "textContent": "<p>Agora observe como as duas formas se recombinam com mais de um nome.</p><ul><li><strong>Soy Leo.</strong></li><li><strong>Yo soy Leo.</strong></li><li><strong>Soy Eva.</strong></li><li><strong>Yo soy Eva.</strong></li></ul><p>Em todos os casos, a pessoa está dizendo quem é.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6b45a5b9-1b9d-490e-b3c0-5cc8e3b22265",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "0d79669e-4bf0-40d9-9a79-bbf6677d129d",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a6d4754934d2414fb704423d0c00fa02_MEC-IDIOMAS_MOD_01_-_AULA_03.mp4?Expires=1794099390&Signature=Insoukn6kB8yGlfy-TAgCS96KCMVGcScp7CX~j~BBKYMFTAS8togJq2gFciLqbeGPXwyamBRMDhO-i3r7T9Qb4RjIcT2XrQoMtjcPEnw2nKYDJG~pZFT5JUHK9N59jQt-q1zDTHTeN8Eyo7KqXKOf7jYuHn3-g9zFrj5NMPN80IINtcVvOMgNYFIEbTKohtNZi8lskbNfxo2F6OpVEdtX4HRtBoboLN9ZsZMS0laI0DS6SqmHyplgNlzSJ2MT3-FVfqUZppead0PPpcwhF8B2FV2YNFTOW6xHdm~CxXVU22MnB37q2lLjtqke5EAwP8VPZkP06bNMg4~4r-fcXtnfw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a6d4754934d2414fb704423d0c00fa02_MEC-IDIOMAS_MOD_01_-_AULA_03.mp4?Expires=1794099390&Signature=Insoukn6kB8yGlfy-TAgCS96KCMVGcScp7CX~j~BBKYMFTAS8togJq2gFciLqbeGPXwyamBRMDhO-i3r7T9Qb4RjIcT2XrQoMtjcPEnw2nKYDJG~pZFT5JUHK9N59jQt-q1zDTHTeN8Eyo7KqXKOf7jYuHn3-g9zFrj5NMPN80IINtcVvOMgNYFIEbTKohtNZi8lskbNfxo2F6OpVEdtX4HRtBoboLN9ZsZMS0laI0DS6SqmHyplgNlzSJ2MT3-FVfqUZppead0PPpcwhF8B2FV2YNFTOW6xHdm~CxXVU22MnB37q2lLjtqke5EAwP8VPZkP06bNMg4~4r-fcXtnfw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "acb4e14e-7fad-412a-bd30-a128c62b3e1c",
+      "title": "Antes da aula",
+      "description": "<p>Duas pessoas se apresentam rapidamente antes do início da aula. Aqui aparecem juntas as duas formas centrais desta lição.</p>",
+      "contentType": 7,
+      "sequenceItem": 8,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Soy Leo.</div>\n  <div style=\"opacity: 0.45;\">Eu sou Leo.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b849ae74acb949b286dde13aabb2616b_l03b01-soy-leo.mp3?Expires=1794099390&Signature=02qVhp1mx1fgULafRwXVPXEDI~ezH71y9cZUr9QDvHRQxPSC78XjzqzFtbf4RZHNgP5UQrIScZPFLHnd0HqnY65iH1-LZPKcEQ6uLOxsaQ~r1sTR3X27PKqwTsMLtraCxFDRPvRcEILQNiraIOuyiL5FDAjQ3ZkBGpBERWLx5HGNVgLJqjU2dhn75FdKaADEwA7GTezQmGPRbIsiA1hrmv-A2KZpfw~fgf8bq9xJUDmwdl569y3wxADMoJg5ofCQbIuLiCqvTXnbEAgsOmsQWWWOwp16f-lS7L1EIk2ucGgAk-KaCJxK1qxFln3M5OguBm67giSmJlPiBe7o7L7jWw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Yo soy Eva.</div>\n  <div style=\"opacity: 0.45;\">Eu sou Eva.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c89bd00c9ef64aef9da7a483c7070459_l03b03-yo-soy-eva.mp3?Expires=1794099390&Signature=gwU3M1WyGdeF5bI7ohpCJL7-2SBzaBpupPdA0hP-Zs4Yokgqr5x-szJBQRw~rCBqOUIGsmViEINXMjVJyXQOFZY0lPT7bWYKFZiRV2lWYdPo7SYjw9v-1UkEAPR6oselOLzZpQPIOxFp-Lyj1x4OE-OR2BS9Y4NNq3HD~1LnuCcgnpK~LNxNMl1ryMMz4Q1o4yHK3L873f8NTM2jKMKbEyibDBTE97jTzTAT7i8p-9NBMrEQg2Tz~6aWsdmLQ5T23DNeAPrVI1xMKV3yULAlGlDsXq9ppsl6v242a2BWUkWTcaKN-V9UGhyTo7jzt1Jsgo2Oe4502XPSLWgGLQaPoQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "cca31a15-e02d-43d7-a7ea-3230f72a6c2e",
+      "title": "Escolha a apresentação correta",
+      "content": "<p>Qual frase segue a forma curta usada na aula para dizer quem é Leo?</p>",
+      "contentPlain": "Qual frase segue a forma curta usada na aula para dizer quem é Leo?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reforça a forma curta Soy + nome para dizer quem você é.",
+      "feedbackError": "Aqui você reforça a forma curta Soy + nome para dizer quem você é.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0571486b-f329-453b-81ec-fe96bf71c53f",
+          "textContent": "Soy Eva.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cca31a15-e02d-43d7-a7ea-3230f72a6c2e"
+        },
+        {
+          "id": "9898927c-cb62-4c7a-954e-37b8da68693c",
+          "textContent": "Yo soy Leo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cca31a15-e02d-43d7-a7ea-3230f72a6c2e"
+        },
+        {
+          "id": "99e0135b-cb3c-4063-b32a-46c7704608d9",
+          "textContent": "Soy Leo.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "cca31a15-e02d-43d7-a7ea-3230f72a6c2e"
+        },
+        {
+          "id": "d4d48b4a-5a08-4102-9b14-f1385af1b816",
+          "textContent": "Yo soy Eva.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cca31a15-e02d-43d7-a7ea-3230f72a6c2e"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "56bb9bd8-9a06-46e3-862b-44cbd45af4a7",
+      "title": "Relacione forma e função",
+      "content": "<p>Associe cada palavra ou frase ao papel que ela cumpre nas apresentações da aula.</p>",
+      "contentPlain": "Associe cada palavra ou frase ao papel que ela cumpre nas apresentações da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reforça o papel de soy, do nome e de yo nas apresentações curtas.",
+      "feedbackError": "Aqui você reforça o papel de soy, do nome e de yo nas apresentações curtas.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "03b27733-308d-40d3-ab7d-83600991bb66",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "56bb9bd8-9a06-46e3-862b-44cbd45af4a7"
+        },
+        {
+          "id": "64676e34-941d-4807-bac3-f7b85d5c07d9",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "56bb9bd8-9a06-46e3-862b-44cbd45af4a7"
+        }
+      ],
+      "associations": [
+        {
+          "id": "00adb034-e603-407c-8718-8a27adf75a54",
+          "exerciseId": "56bb9bd8-9a06-46e3-862b-44cbd45af4a7",
+          "leftContent": "soy",
+          "rightContent": "palavra que fica igual",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5b3648d8-0e1e-463c-9235-23f515a32cc5",
+          "exerciseId": "56bb9bd8-9a06-46e3-862b-44cbd45af4a7",
+          "leftContent": "Leo",
+          "rightContent": "nome que pode mudar",
+          "sequenceItem": 2
+        },
+        {
+          "id": "51315b84-84a6-4487-91b5-eb2b423f8ac9",
+          "exerciseId": "56bb9bd8-9a06-46e3-862b-44cbd45af4a7",
+          "leftContent": "Soy Leo.",
+          "rightContent": "apresentação curta",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2f8350f8-d373-4f30-a14c-c59639c0585d",
+          "exerciseId": "56bb9bd8-9a06-46e3-862b-44cbd45af4a7",
+          "leftContent": "Yo soy Eva.",
+          "rightContent": "apresentação com yo visível",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "923bf1ba-0308-45f0-8259-f5fadbd95e10",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a frase e marque só as palavras em espanhol que você ouvir.</p>",
+      "contentPlain": "Escute a frase e marque só as palavras em espanhol que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c89bd00c9ef64aef9da7a483c7070459_l03b03-yo-soy-eva.mp3?Expires=1794099390&Signature=gwU3M1WyGdeF5bI7ohpCJL7-2SBzaBpupPdA0hP-Zs4Yokgqr5x-szJBQRw~rCBqOUIGsmViEINXMjVJyXQOFZY0lPT7bWYKFZiRV2lWYdPo7SYjw9v-1UkEAPR6oselOLzZpQPIOxFp-Lyj1x4OE-OR2BS9Y4NNq3HD~1LnuCcgnpK~LNxNMl1ryMMz4Q1o4yHK3L873f8NTM2jKMKbEyibDBTE97jTzTAT7i8p-9NBMrEQg2Tz~6aWsdmLQ5T23DNeAPrVI1xMKV3yULAlGlDsXq9ppsl6v242a2BWUkWTcaKN-V9UGhyTo7jzt1Jsgo2Oe4502XPSLWgGLQaPoQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui você treina reconhecer no áudio as palavras de Yo soy Eva.",
+      "feedbackError": "Aqui você treina reconhecer no áudio as palavras de Yo soy Eva.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "04ce510b-7785-425c-9005-87db6ce18475",
+          "textContent": "Leo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "923bf1ba-0308-45f0-8259-f5fadbd95e10"
+        },
+        {
+          "id": "078829d8-6fd3-419d-8094-3bfa25d332eb",
+          "textContent": "Eva",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "923bf1ba-0308-45f0-8259-f5fadbd95e10"
+        },
+        {
+          "id": "4af1e799-a827-4d12-aa49-05784e7d5d53",
+          "textContent": "soy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "923bf1ba-0308-45f0-8259-f5fadbd95e10"
+        },
+        {
+          "id": "c1fe22ca-2c9f-482a-b797-674fd83c6896",
+          "textContent": "yo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "923bf1ba-0308-45f0-8259-f5fadbd95e10"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7987aeca-4d5d-42ee-bf74-ac0775e9bff3",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a apresentação completa em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a apresentação completa em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b75581e27aa545ec8ae716d2f43908b9_A1_M001_L03_audio_28def455_soy-estudiante-yo-soy-estudiante.mp3?Expires=1794099390&Signature=AG7h9qd54uVsY6uLmxVXGl6g3GgKy9mKatSRwsnv13y83ogj6PdYsy5CwUffwQkJQFgkOoLAiNxtQhM4o2TBfyx~bfyRtglDUXDwUcn59UyGgk~8fG2eNiNY~mif5xBkwZPyx61ITAfPY6Nj~PGeAbj084umWja8JEe0AOg9bCvsVEvc5cHz9kfyQ2SegOUCQ3XboyLW4uIaenDKtla-xQZJkEynauFDCe4xjlMBsTVp9JNgpVfCVzLpau8bw7A24YbIounfxV1-UBgbmBMU3rhU7HGyr8O-PfC4nDL6TeDX3JpTcnDCVEmAhLdWewhuq3qlkBi1iYzaA8xbJlajqA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui você pratica o ritmo das duas formas usadas para dizer quem você é.",
+      "feedbackError": "Aqui você pratica o ritmo das duas formas usadas para dizer quem você é.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Soy estudiante. Yo soy estudiante.",
+      "typeSpecificData": "{\"expectedText\":\"Soy estudiante. Yo soy estudiante.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/b75581e27aa545ec8ae716d2f43908b9_A1_M001_L03_audio_28def455_soy-estudiante-yo-soy-estudiante.mp3?Expires=1794099390\\u0026Signature=AG7h9qd54uVsY6uLmxVXGl6g3GgKy9mKatSRwsnv13y83ogj6PdYsy5CwUffwQkJQFgkOoLAiNxtQhM4o2TBfyx~bfyRtglDUXDwUcn59UyGgk~8fG2eNiNY~mif5xBkwZPyx61ITAfPY6Nj~PGeAbj084umWja8JEe0AOg9bCvsVEvc5cHz9kfyQ2SegOUCQ3XboyLW4uIaenDKtla-xQZJkEynauFDCe4xjlMBsTVp9JNgpVfCVzLpau8bw7A24YbIounfxV1-UBgbmBMU3rhU7HGyr8O-PfC4nDL6TeDX3JpTcnDCVEmAhLdWewhuq3qlkBi1iYzaA8xbJlajqA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b3986d9c-7a0a-4664-afe4-827f980cefe9",
+      "title": "Ouça e combine",
+      "content": "<p>Escute os áudios da lição e combine cada um com a escrita exata em espanhol.</p>",
+      "contentPlain": "Escute os áudios da lição e combine cada um com a escrita exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você treina ouvir as formas Soy e Yo soy nas apresentações da aula.",
+      "feedbackError": "Aqui você treina ouvir as formas Soy e Yo soy nas apresentações da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "51c4c988-0295-4ceb-980f-a97d30fdc913",
+          "exerciseId": "b3986d9c-7a0a-4664-afe4-827f980cefe9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b849ae74acb949b286dde13aabb2616b_l03b01-soy-leo.mp3?Expires=1794099390&Signature=02qVhp1mx1fgULafRwXVPXEDI~ezH71y9cZUr9QDvHRQxPSC78XjzqzFtbf4RZHNgP5UQrIScZPFLHnd0HqnY65iH1-LZPKcEQ6uLOxsaQ~r1sTR3X27PKqwTsMLtraCxFDRPvRcEILQNiraIOuyiL5FDAjQ3ZkBGpBERWLx5HGNVgLJqjU2dhn75FdKaADEwA7GTezQmGPRbIsiA1hrmv-A2KZpfw~fgf8bq9xJUDmwdl569y3wxADMoJg5ofCQbIuLiCqvTXnbEAgsOmsQWWWOwp16f-lS7L1EIk2ucGgAk-KaCJxK1qxFln3M5OguBm67giSmJlPiBe7o7L7jWw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy Leo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b4929038-c2c3-4a79-a9cf-da2e86aa53b8",
+          "exerciseId": "b3986d9c-7a0a-4664-afe4-827f980cefe9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c89bd00c9ef64aef9da7a483c7070459_l03b03-yo-soy-eva.mp3?Expires=1794099390&Signature=gwU3M1WyGdeF5bI7ohpCJL7-2SBzaBpupPdA0hP-Zs4Yokgqr5x-szJBQRw~rCBqOUIGsmViEINXMjVJyXQOFZY0lPT7bWYKFZiRV2lWYdPo7SYjw9v-1UkEAPR6oselOLzZpQPIOxFp-Lyj1x4OE-OR2BS9Y4NNq3HD~1LnuCcgnpK~LNxNMl1ryMMz4Q1o4yHK3L873f8NTM2jKMKbEyibDBTE97jTzTAT7i8p-9NBMrEQg2Tz~6aWsdmLQ5T23DNeAPrVI1xMKV3yULAlGlDsXq9ppsl6v242a2BWUkWTcaKN-V9UGhyTo7jzt1Jsgo2Oe4502XPSLWgGLQaPoQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Yo soy Eva.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6e63a005-518c-47a4-ae1b-9fbbeb67ef71",
+          "exerciseId": "b3986d9c-7a0a-4664-afe4-827f980cefe9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/28def455d8714e8193ea6c500d8b3e17_l03b05-soy-eva-yo-soy-eva.mp3?Expires=1794099390&Signature=pT99yiKjfkJQUn1sulhmbILKFxIMMCmkIFO9MJ3keRfaGON8wqMUcFo4nkSCq4CeGv2ikHh~X9NonDJUdF2nNIpu0r9KebMDAmjVot6I5Keaa0rChjophXRkQpz-iCnYsKlDbJ~0V1mrxFX9DHuPiZhJao8hb8GRi-Qd3RizYmZRRoEP7yTc2d-VV1gkWmzJbRtkYC5JQVUEs4-cj0j07XLscP-GrURU08EI~YPoMXy5-bO-7w-693lGH46UTsI2JbR5mGqY7gNOBmWJonPI-ZB5mY7p5Uj08A50RzYEUNgx5VV7eGjNFxulDjcBwdTV3-wxoV4WLCROTmuWWRXLIg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy Eva. Yo soy Eva.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "6f09cc57-90de-45fe-bf94-16e131ef7ee2",
+      "title": "Associe frase e uso",
+      "content": "<p>Combine cada frase com a descrição que mostra como ela aparece nas recombinações da aula.</p>",
+      "contentPlain": "Combine cada frase com a descrição que mostra como ela aparece nas recombinações da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reforça como a aula recombina as duas formas com Leo e Eva.",
+      "feedbackError": "Aqui você reforça como a aula recombina as duas formas com Leo e Eva.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5ae7943f-904d-4607-8065-acb27f011c84",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6f09cc57-90de-45fe-bf94-16e131ef7ee2"
+        },
+        {
+          "id": "b2b9af77-0804-4814-b676-06650e74eb8e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6f09cc57-90de-45fe-bf94-16e131ef7ee2"
+        }
+      ],
+      "associations": [
+        {
+          "id": "3afb5194-f86e-434e-8abf-90188caaadf4",
+          "exerciseId": "6f09cc57-90de-45fe-bf94-16e131ef7ee2",
+          "leftContent": "Soy Leo.",
+          "rightContent": "apresentação curta com Leo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "71320a31-c8f2-4068-999c-38cd29b8de9e",
+          "exerciseId": "6f09cc57-90de-45fe-bf94-16e131ef7ee2",
+          "leftContent": "Yo soy Leo.",
+          "rightContent": "apresentação com yo explícito e Leo",
+          "sequenceItem": 2
+        },
+        {
+          "id": "aa952dae-d2c3-45b6-8e6a-05e2585588ee",
+          "exerciseId": "6f09cc57-90de-45fe-bf94-16e131ef7ee2",
+          "leftContent": "Soy Eva.",
+          "rightContent": "apresentação curta com Eva",
+          "sequenceItem": 3
+        },
+        {
+          "id": "faee6b2c-af6d-43dd-ace1-19be61245493",
+          "exerciseId": "6f09cc57-90de-45fe-bf94-16e131ef7ee2",
+          "leftContent": "Yo soy Eva.",
+          "rightContent": "apresentação com yo explícito e Eva",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "6b67e737-58a6-48fd-83c9-9977d91f9878",
+      "title": "Escute e identifique as palavras",
+      "content": "<p>Ouça a apresentação comparativa e marque apenas as palavras presentes no áudio.</p>",
+      "contentPlain": "Ouça a apresentação comparativa e marque apenas as palavras presentes no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/28def455d8714e8193ea6c500d8b3e17_l03b05-soy-eva-yo-soy-eva.mp3?Expires=1794099390&Signature=pT99yiKjfkJQUn1sulhmbILKFxIMMCmkIFO9MJ3keRfaGON8wqMUcFo4nkSCq4CeGv2ikHh~X9NonDJUdF2nNIpu0r9KebMDAmjVot6I5Keaa0rChjophXRkQpz-iCnYsKlDbJ~0V1mrxFX9DHuPiZhJao8hb8GRi-Qd3RizYmZRRoEP7yTc2d-VV1gkWmzJbRtkYC5JQVUEs4-cj0j07XLscP-GrURU08EI~YPoMXy5-bO-7w-693lGH46UTsI2JbR5mGqY7gNOBmWJonPI-ZB5mY7p5Uj08A50RzYEUNgx5VV7eGjNFxulDjcBwdTV3-wxoV4WLCROTmuWWRXLIg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui você treina ouvir com atenção as palavras das duas apresentações com Eva.",
+      "feedbackError": "Aqui você treina ouvir com atenção as palavras das duas apresentações com Eva.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "146f37d0-8a48-4ffe-ab5b-a058bb28b979",
+          "textContent": "Eva",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6b67e737-58a6-48fd-83c9-9977d91f9878"
+        },
+        {
+          "id": "3ed6af48-a53f-44a1-8ef0-8ac94f341acc",
+          "textContent": "hola",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6b67e737-58a6-48fd-83c9-9977d91f9878"
+        },
+        {
+          "id": "46b7591d-6462-411c-8319-b83c77322a3a",
+          "textContent": "soy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6b67e737-58a6-48fd-83c9-9977d91f9878"
+        },
+        {
+          "id": "5e5ef5af-3376-4623-815c-837eb39f085e",
+          "textContent": "yo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6b67e737-58a6-48fd-83c9-9977d91f9878"
+        },
+        {
+          "id": "bde2a18e-42fc-4ba4-99b6-2e0a9ecec8bd",
+          "textContent": "Leo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6b67e737-58a6-48fd-83c9-9977d91f9878"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f5021d94-f46c-4949-b430-087d2b09c420",
+      "title": "Complete a apresentação",
+      "content": "<p>Complete a apresentação em espanhol: __ soy Eva.</p><p>Tradução: Eu sou Eva.</p>",
+      "contentPlain": "Complete a apresentação em espanhol: __ soy Eva. Tradução: Eu sou Eva.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reconstrói a versão com yo explícito para dizer quem você é.",
+      "feedbackError": "Aqui você reconstrói a versão com yo explícito para dizer quem você é.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Yo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "10d474d8-4fbf-47e5-ad0c-ee77b0297a66",
+      "title": "Complete a apresentação",
+      "content": "<p>Complete a apresentação em espanhol: ___ Leo.</p><p>Tradução: Eu sou Leo.</p>",
+      "contentPlain": "Complete a apresentação em espanhol: ___ Leo. Tradução: Eu sou Leo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reconstrói a forma Soy + nome para dizer quem você é.",
+      "feedbackError": "Aqui você reconstrói a forma Soy + nome para dizer quem você é.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Soy",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "04d10e03-7604-4ac6-90cc-c23c0e252cb7",
+      "title": "Reconstrua a forma",
+      "content": "<p>Complete a apresentação em espanhol: Yo ___ Leo.</p><p>Tradução: Eu sou Leo.</p>",
+      "contentPlain": "Complete a apresentação em espanhol: Yo ___ Leo. Tradução: Eu sou Leo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reforça que soy continua igual quando o nome muda.",
+      "feedbackError": "Aqui você reforça que soy continua igual quando o nome muda.",
+      "answerType": "buildWord",
+      "expectedAnswer": "soy",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Dizer quem você é"
+}

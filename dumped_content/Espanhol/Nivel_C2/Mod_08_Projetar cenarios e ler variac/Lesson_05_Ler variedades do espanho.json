@@ -1,0 +1,665 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+    "attemptId": "aaffb59f-448d-418a-939d-9bbba6a46377",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "055e740e-662a-4e1c-af8e-249f850fa6b4",
+      "22154bc9-29d2-487e-aee6-871868605938",
+      "da46bddd-124a-4502-8287-3f40bf9fb1b9",
+      "cad3000e-80cc-4f44-8a3a-5c6758802fa7",
+      "193b3cea-a2f8-4544-bd57-5ca2ae1a96ff"
+    ],
+    "evaluationExerciseIds": [
+      "48fca842-8748-44da-97d3-eb932501d51e",
+      "f380804d-eadf-46d1-9f0a-51efac61b4e2",
+      "b09215bd-572e-4244-a474-6c1acdeda675",
+      "56078ce6-e707-4f7d-8ebd-95c578816f80",
+      "a4c5709a-19f9-4334-acfd-7c8d72197de0"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:35.7303794Z"
+  },
+  "contents": [
+    {
+      "id": "405b1cb8-4db6-400a-9ef1-3752fcfe91da",
+      "title": "Leia o mapa inicial e guarde as três perguntas que vao orientar os microtextos da aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "3f67fc40-c0e5-4ed1-86a1-b3890bb91c5d",
+          "textContent": "<p>Nesta aula, o foco não é decidir se uma forma está \"certa\" ou \"errada\". O foco é perguntar:</p><ul><li><strong>o que parece repertório local?</strong></li><li><strong>que contexto falta para isso fazer sentido?</strong></li><li><strong>que mediação ajudaria sem apagar a voz de quem fala?</strong></li></ul><p>Em C2, ler variedade regional bem significa ganhar contexto antes de transformar diferença em erro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d279d74f-2076-4165-8bc0-076c201531b2",
+      "title": "Leia o microtexto em espanhol e acompanhe a tradução. Foque no papel de repertório local.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "be3491cb-bcf9-4683-b81e-44af8fae89de",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>La conversación se seguía bien, pero algunas bromas solo funcionaban dentro del repertorio local del barrio.</strong></p><p>Em português: <strong>A conversa era compreensivel, mas algumas piadas só funcionavam dentro do repertório local do bairro.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "252dd130-6303-440b-af20-2e813c70ddea",
+      "title": "Leia a nota curta e observe por que a dificuldade aqui não nasce de erro, mas de distância de contexto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "536e4320-d5a7-4f00-8bbe-b6a69c629b77",
+          "textContent": "<p><strong>Repertorio local</strong> não é uma lista de palavras raras. A expressão aponta para modos de falar, referências, tons e associações que fazem sentido para quem compartilha aquele espaço social.</p><p>Por isso, uma fala pode estar perfeitamente bem formada e ainda assim pedir mais contexto para quem vem de fora. O obstáculo não é erro: é distância de repertório.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "24aef219-795f-4e97-8b64-3060d1c8cabd",
+      "title": "Leia o microtexto em espanhol e acompanhe a tradução. Repare no que os subtítulos fazem e no que eles não fazem.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "e362dd0b-8e19-407c-9294-e60d6ac09fd9",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>El documental no neutralizaba las voces: anadia una breve mediación con subtítulos para quien no compartia esas referencias.</strong></p><p>Em português: <strong>O documentário não neutralizava as vozes: acrescentava uma breve mediação com subtítulos para quem não compartilhava aquelas referências.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6bf1b6cf-b40d-4b46-8f12-61ae41c57320",
+      "title": "Leia a explicação curta e observe como a ponte de compreensao pode existir sem apagar a diferença.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "db4f98fe-a93f-46cd-81e5-4a428a50698b",
+          "textContent": "<p><strong>Mediación</strong> aqui não significa corrigir a variedade de quem fala. Significa criar uma ponte para que outra pessoa acompanhe o sentido sem exigir que a fala original seja apagada.</p><p>Subtítulos, nota curta, glosa ou pedido de contexto podem cumprir esse papel. A diferença continua existindo; o que muda é o acesso a ela.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "abf16995-3522-47d4-99c9-6eff2e916c4a",
+      "title": "Leia o microtexto em espanhol e acompanhe a tradução. Foque no que se perde quando tudo vira uma única etiqueta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "30083f33-e0bd-45b2-a18a-8e2e8687109a",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>Presentar todo como un espanol uniforme borra matices de region, edad y situación que tambien forman parte de la lengua.</strong></p><p>Em português: <strong>Apresentar tudo como um espanhol uniforme apaga matizes de região, idade e situação que também fazem parte da língua.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "56195fd2-5f11-459e-b699-f30420cfd60a",
+      "title": "Leia a nota e observe como a aula separa base compartilhada de padronizacao excessiva.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "d49cf929-d63b-4380-ba6e-251b4d056e27",
+          "textContent": "<p><strong>Español uniforme</strong> é uma simplificação útil só na aparência. Ela facilita rótulos rápidos, mas empobrece a leitura do que realmente circula entre países, cidades, gerações e grupos sociais.</p><p>Uma leitura mais cuidadosa não fragmenta a língua em caixas rígidas. Ela reconhece uma base compartilhada e, ao mesmo tempo, admite que o uso muda com o contexto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e0ac213f-2ad7-4ff1-9032-407d0d025d87",
+      "title": "Leia o comentário em espanhol e observe como o texto interpreta a diferença sem dramatizá-la.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "50f1dd20-b3c4-4b88-a7f9-a7a491bcf89c",
+          "textContent": "<p>Agora as três pistas aparecem juntas.</p><p><strong>En el podcast nadie \"hablaba mal\". Cuando una expresión quedaba demasiado pegada al repertorio local, la otra persona pedía contexto y la conversación seguía. Esa pequeña mediación hacía visible la diferencia sin convertirla en un problema.</strong></p><p>Em português: <strong>No podcast, ninguém \"falava errado\". Quando uma expressão ficava ligada demais ao repertório local, a outra pessoa pedia contexto e a conversa seguia. Essa pequena mediação tornava a diferença visível sem transformá-la em problema.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c4d2d90a-a6ee-4c33-bf35-4e770706ca3a",
+      "title": "Leia os dois enquadramentos e observe qual deles mantém contexto, mediação e matiz.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "8771004c-ea2d-477f-99b5-ffaae2bc3d74",
+          "textContent": "<p>Compare os dois enquadramentos.</p><ul><li><strong>Leitura apressada:</strong> \"soa estranho, então deve estar errado\".</li><li><strong>Leitura cuidadosa:</strong> \"soa local, então talvez eu precise de contexto, mediação ou mais contato com esse repertório\".</li></ul><p>O salto C2 desta aula está em trocar julgamento imediato por interpretação situada. Isso vale para série, entrevista, comentário online, aula, reunião e conversa entre pessoas de regiões diferentes.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "32310754-2822-4c74-9f4a-e121d49c0756",
+      "title": "Leia o fechamento e ligue essas pistas a séries, podcasts, equipes internacionais e comentários em rede.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "5af6db71-7bb6-4ba8-8105-e0c760bbde35",
+          "textContent": "<p>Na vida real, esse tipo de leitura aparece quando você acompanha uma série de outro país, participa de uma reunião entre equipes hispanofalantes, lê comentários de várias regiões ou escuta um podcast com convidados de cidades diferentes.</p><p>Nesses casos, perceber <strong>repertório local</strong>, aceitar alguma <strong>mediación</strong> e resistir à ideia de <strong>español uniforme</strong> ajuda a entender melhor o que está sendo dito sem reduzir a diversidade a erro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "403268a0-dd27-4e51-afc6-4512b365eb73",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "0cb93769-3ecb-4e2a-819c-71505da784e2",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e3a8141f9510476fb782a543da3dcf93_MEC-IDIOMAS_CAP_8_-_AULA_05_ESP.mp4?Expires=1794099936&Signature=Jgun1l2gnBSVCWchDhHSAwsNWMMaYjTR5Yy0gEe7OlWfkCf-erpTwOevjQjdbbTrnoGQQFw6IJhq8KUceA0tk90rrgjedu9ttR0xCbP8~ksAjIrd7fpW1hW-2432u~JK4evFLR~PXsS9yOnwxZxMykt21s~QYfDVEQZOFskfZTOemIKp71ITZNdfpaHKjcjiZL~DBLpq4X219y3rQ~v1-eBWH8PaUqIYONCKUdOT3wExXPWa~Py1t8tuZOyt40fNQyHbfr8jQRh3a6WdGBvydiSTCK~JNWpQ8KYitiziry-Xzy32AVmOSRKjiLEhE3QmScLgaej-l02JDfdTCYf7Lw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e3a8141f9510476fb782a543da3dcf93_MEC-IDIOMAS_CAP_8_-_AULA_05_ESP.mp4?Expires=1794099936&Signature=Jgun1l2gnBSVCWchDhHSAwsNWMMaYjTR5Yy0gEe7OlWfkCf-erpTwOevjQjdbbTrnoGQQFw6IJhq8KUceA0tk90rrgjedu9ttR0xCbP8~ksAjIrd7fpW1hW-2432u~JK4evFLR~PXsS9yOnwxZxMykt21s~QYfDVEQZOFskfZTOemIKp71ITZNdfpaHKjcjiZL~DBLpq4X219y3rQ~v1-eBWH8PaUqIYONCKUdOT3wExXPWa~Py1t8tuZOyt40fNQyHbfr8jQRh3a6WdGBvydiSTCK~JNWpQ8KYitiziry-Xzy32AVmOSRKjiLEhE3QmScLgaej-l02JDfdTCYf7Lw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "055e740e-662a-4e1c-af8e-249f850fa6b4",
+      "title": "Escolha a leitura de repertório",
+      "content": "<p>Uma brincadeira de bairro aparece numa conversa que você entende no resto. Qual resposta em espanhol acompanha a lente da aula sem tratar a diferença como erro?</p>",
+      "contentPlain": "Uma brincadeira de bairro aparece numa conversa que você entende no resto. Qual resposta em espanhol acompanha a lente da aula sem tratar a diferença como erro?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, repertório local aparece como distância de contexto compartilhado, não como erro de forma.",
+      "feedbackError": "Na aula, repertório local aparece como distância de contexto compartilhado, não como erro de forma.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1d90aafa-b7f6-462a-a08c-10f091006139",
+          "textContent": "Puede estar bien formada; si no la capto, tal vez me falta contexto compartido.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "055e740e-662a-4e1c-af8e-249f850fa6b4"
+        },
+        {
+          "id": "8c2e0dd4-d53a-43fa-b665-00f16db173c3",
+          "textContent": "Lo importante es memorizar la palabra rara y no el contexto.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "055e740e-662a-4e1c-af8e-249f850fa6b4"
+        },
+        {
+          "id": "8d2272b1-bd24-46a5-896b-209f4fc0b025",
+          "textContent": "Si suena local, lo mejor es corregirla para volverla neutra.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "055e740e-662a-4e1c-af8e-249f850fa6b4"
+        },
+        {
+          "id": "fa8e7448-2505-43f6-9e0a-9b92b7480860",
+          "textContent": "Cuando una broma no funciona fuera del barrio, seguro esta mal dicha.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "055e740e-662a-4e1c-af8e-249f850fa6b4"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "22154bc9-29d2-487e-aee6-871868605938",
+      "title": "Ligue trecho e efeito",
+      "content": "<p>Recupere como a microleitura integrada interpreta a diferença sem dramatizá-la.</p>",
+      "contentPlain": "Recupere como a microleitura integrada interpreta a diferença sem dramatizá-la.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, a diferença entra como leitura situada, com contexto e mediação, e não como problema.",
+      "feedbackError": "Na aula, a diferença entra como leitura situada, com contexto e mediação, e não como problema.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "13cd8dac-089d-42c2-b81f-4df8645030b2",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "22154bc9-29d2-487e-aee6-871868605938"
+        },
+        {
+          "id": "2fa75f6a-90a2-4401-a3f8-6bed25145b6c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "22154bc9-29d2-487e-aee6-871868605938"
+        }
+      ],
+      "associations": [
+        {
+          "id": "a0b63073-2ddb-414f-88da-d687f4050c08",
+          "exerciseId": "22154bc9-29d2-487e-aee6-871868605938",
+          "leftContent": "nadie hablaba mal",
+          "rightContent": "afasta a leitura de erro",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b38ad7e3-5f94-470a-ac91-d438add9067b",
+          "exerciseId": "22154bc9-29d2-487e-aee6-871868605938",
+          "leftContent": "pedia contexto",
+          "rightContent": "procura uma ponte para entender melhor",
+          "sequenceItem": 2
+        },
+        {
+          "id": "622c41a9-e143-4c16-be78-bf090e944a6c",
+          "exerciseId": "22154bc9-29d2-487e-aee6-871868605938",
+          "leftContent": "pequeña mediación",
+          "rightContent": "deixa a diferença visível sem apaga-la",
+          "sequenceItem": 3
+        },
+        {
+          "id": "5472d3b3-0adf-46b3-b423-e3da87487089",
+          "exerciseId": "22154bc9-29d2-487e-aee6-871868605938",
+          "leftContent": "la conversación seguía",
+          "rightContent": "mostra que a troca continua apesar do contraste",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "da46bddd-124a-4502-8287-3f40bf9fb1b9",
+      "title": "Escolha a crítica a uniformidade",
+      "content": "<p>Qual afirmacao em espanhol segue a leitura cuidadosa proposta na aula sobre variedade regional?</p>",
+      "contentPlain": "Qual afirmacao em espanhol segue a leitura cuidadosa proposta na aula sobre variedade regional?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula critica español uniforme por apagar matizes de uso que também fazem parte da língua.",
+      "feedbackError": "A aula critica español uniforme por apagar matizes de uso que também fazem parte da língua.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "12a579a0-0b10-4782-94a8-f0e291c22590",
+          "textContent": "Hablar de una base compartida obliga a borrar diferencias locales.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "da46bddd-124a-4502-8287-3f40bf9fb1b9"
+        },
+        {
+          "id": "223d2133-4730-4a89-b28f-2d1a669255ce",
+          "textContent": "Las diferencias regionales solo importan si impiden entender cada palabra.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "da46bddd-124a-4502-8287-3f40bf9fb1b9"
+        },
+        {
+          "id": "939f949d-5061-41b6-bb3d-a01eba0c7f3d",
+          "textContent": "Cuanto mas uniforme suene una voz, mejor representa toda la lengua.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "da46bddd-124a-4502-8287-3f40bf9fb1b9"
+        },
+        {
+          "id": "fde17da8-a17e-40b4-8181-22d6fa7f6bd4",
+          "textContent": "Llamar espanol uniforme a todo borra matices de region, edad y situación.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "da46bddd-124a-4502-8287-3f40bf9fb1b9"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "cad3000e-80cc-4f44-8a3a-5c6758802fa7",
+      "title": "Recupere a etiqueta criticada",
+      "content": "<p>Presentar todo como un espanol ________ borra matices de region, edad y situacion que tambien forman parte de la lengua.</p><p>Tradução: Apresentar tudo como um espanhol uniforme apaga matizes de região, idade e situação que também fazem parte da língua.</p>",
+      "contentPlain": "Presentar todo como un espanol ________ borra matices de region, edad y situacion que tambien forman parte de la lengua. Tradução: Apresentar tudo como um espanhol uniforme apaga matizes de região, idade e situação que também fazem parte da língua.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, uniforme nomeia a etiqueta que simplifica demais a língua em circulação.",
+      "feedbackError": "Na aula, uniforme nomeia a etiqueta que simplifica demais a língua em circulação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "uniforme",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "193b3cea-a2f8-4544-bd57-5ca2ae1a96ff",
+      "title": "Ligue recurso e efeito",
+      "content": "<p>Relacione os recursos citados na aula ao que eles ajudam a fazer quando duas pessoas não compartilham o mesmo repertório.</p>",
+      "contentPlain": "Relacione os recursos citados na aula ao que eles ajudam a fazer quando duas pessoas não compartilham o mesmo repertório.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, mediação amplia o acesso ao sentido sem neutralizar a variedade.",
+      "feedbackError": "Na aula, mediação amplia o acesso ao sentido sem neutralizar a variedade.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "82a6b5e5-20cc-4fc3-8214-789fb85839c3",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "193b3cea-a2f8-4544-bd57-5ca2ae1a96ff"
+        },
+        {
+          "id": "96ee09b5-4268-4978-bd29-61fea37064b6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "193b3cea-a2f8-4544-bd57-5ca2ae1a96ff"
+        }
+      ],
+      "associations": [
+        {
+          "id": "2e9f389e-4cec-43c8-ad94-40a134b54f26",
+          "exerciseId": "193b3cea-a2f8-4544-bd57-5ca2ae1a96ff",
+          "leftContent": "subtítulos",
+          "rightContent": "ampliar o acesso sem apagar a voz original",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ff4ce2d6-f097-4844-b767-25e29ccdf13d",
+          "exerciseId": "193b3cea-a2f8-4544-bd57-5ca2ae1a96ff",
+          "leftContent": "nota breve",
+          "rightContent": "oferecer contexto rápido para acompanhar o sentido",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0b6bf76a-c09a-4cf0-a37f-510134532957",
+          "exerciseId": "193b3cea-a2f8-4544-bd57-5ca2ae1a96ff",
+          "leftContent": "glosa",
+          "rightContent": "aproximar uma referência local",
+          "sequenceItem": 3
+        },
+        {
+          "id": "913f0604-4c39-4ffc-a787-e00e5a26c842",
+          "exerciseId": "193b3cea-a2f8-4544-bd57-5ca2ae1a96ff",
+          "leftContent": "pedir contexto",
+          "rightContent": "manter a conversa andando sem corrigir quem fala",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "48fca842-8748-44da-97d3-eb932501d51e",
+      "title": "Recupere o apoio pedido",
+      "content": "<p>Cuando una expresión quedaba demasiado pegada al repertorio local, la otra persona pedía ________ y la conversación seguía.</p><p>Tradução: Quando uma expressão ficava ligada demais ao repertório local, a outra pessoa pedia contexto e a conversa seguia.</p>",
+      "contentPlain": "Cuando una expresión quedaba demasiado pegada al repertorio local, la otra persona pedía ________ y la conversación seguía. Tradução: Quando uma expressão ficava ligada demais ao repertório local, a outra pessoa pedia contexto e a conversa seguia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, pedir contexto é a mediação mínima que mantém a conversa andando.",
+      "feedbackError": "Na aula, pedir contexto é a mediação mínima que mantém a conversa andando.",
+      "answerType": "buildWord",
+      "expectedAnswer": "contexto",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f380804d-eadf-46d1-9f0a-51efac61b4e2",
+      "title": "Recupere o conjunto compartilhado",
+      "content": "<p>La conversación se seguía bien, pero algunas bromas solo funcionaban dentro del __________ local del barrio.</p><p>Tradução: A conversa era compreensivel, mas algumas piadas só funcionavam dentro do repertório local do bairro.</p>",
+      "contentPlain": "La conversación se seguía bien, pero algunas bromas solo funcionaban dentro del __________ local del barrio. Tradução: A conversa era compreensivel, mas algumas piadas só funcionavam dentro do repertório local do bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, repertorio condensa referências e tons compartilhados dentro de um mesmo espaço social.",
+      "feedbackError": "Na aula, repertorio condensa referências e tons compartilhados dentro de um mesmo espaço social.",
+      "answerType": "buildWord",
+      "expectedAnswer": "repertorio",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b09215bd-572e-4244-a474-6c1acdeda675",
+      "title": "Escolha a transferencia mais cuidadosa",
+      "content": "<p>Você está lendo comentários e ouvindo vozes de várias regiões ao mesmo tempo. Qual resposta em espanhol aplica melhor o fechamento da aula?</p>",
+      "contentPlain": "Você está lendo comentários e ouvindo vozes de várias regiões ao mesmo tempo. Qual resposta em espanhol aplica melhor o fechamento da aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, o uso real pede notar repertório local, aceitar mediação e resistir a reduzir diferença a erro.",
+      "feedbackError": "Na aula, o uso real pede notar repertório local, aceitar mediação e resistir a reduzir diferença a erro.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "52859435-0ecb-44d5-bfe9-ce6b2a4061e1",
+          "textContent": "Si cada comentario usa giros distintos, lo mejor es reducirlos a un espanol uniforme para no perder tiempo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b09215bd-572e-4244-a474-6c1acdeda675"
+        },
+        {
+          "id": "6d88726d-f03c-4259-97a2-c47abf4f9098",
+          "textContent": "Cuando una referencia no me sale enseguida, asumo que esta mal escrita.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b09215bd-572e-4244-a474-6c1acdeda675"
+        },
+        {
+          "id": "7d98f994-4ba2-48c6-99b2-9a6d1509e7e5",
+          "textContent": "Primero intento ubicar el repertorio local y, si hace falta, busco una mediación breve antes de tratar la diferencia como error.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b09215bd-572e-4244-a474-6c1acdeda675"
+        },
+        {
+          "id": "8f816928-bb19-4325-8887-6b0e7bf4f367",
+          "textContent": "Si una serie me cuesta, ignoro el contexto y me quedo solo con las palabras que reconozco.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b09215bd-572e-4244-a474-6c1acdeda675"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "56078ce6-e707-4f7d-8ebd-95c578816f80",
+      "title": "Separe julgamento e leitura situada",
+      "content": "<p>Relacione cada resposta em espanhol ao tipo de enquadramento que ela mostra quando uma fala soa diferente.</p>",
+      "contentPlain": "Relacione cada resposta em espanhol ao tipo de enquadramento que ela mostra quando uma fala soa diferente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O salto da aula está em trocar julgamento imediato por interpretação situada.",
+      "feedbackError": "O salto da aula está em trocar julgamento imediato por interpretação situada.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "080c3029-f106-4101-89f9-58722a931831",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "56078ce6-e707-4f7d-8ebd-95c578816f80"
+        },
+        {
+          "id": "bdb71a5e-0374-4f62-8038-01ae99000aad",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "56078ce6-e707-4f7d-8ebd-95c578816f80"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ca82fe44-df0b-4c1e-8591-6de107f05ace",
+          "exerciseId": "56078ce6-e707-4f7d-8ebd-95c578816f80",
+          "leftContent": "suena extrano, entonces debe de estar mal",
+          "rightContent": "julga a diferença antes de buscar contexto",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7a47f698-19c5-4e52-a26b-da7f4be2d233",
+          "exerciseId": "56078ce6-e707-4f7d-8ebd-95c578816f80",
+          "leftContent": "suena local, entonces quizas necesito mas contexto",
+          "rightContent": "suspende o julgamento e procura situação de uso",
+          "sequenceItem": 2
+        },
+        {
+          "id": "24a3db01-7f90-4bd9-a61d-0551ff35234d",
+          "exerciseId": "56078ce6-e707-4f7d-8ebd-95c578816f80",
+          "leftContent": "hace falta mediacion",
+          "rightContent": "abre uma ponte para acompanhar o sentido",
+          "sequenceItem": 3
+        },
+        {
+          "id": "01d2b197-7451-4330-a361-e6400086c005",
+          "exerciseId": "56078ce6-e707-4f7d-8ebd-95c578816f80",
+          "leftContent": "mas contacto con ese repertorio",
+          "rightContent": "amplia a compreensao sem neutralizar a voz",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "a4c5709a-19f9-4334-acfd-7c8d72197de0",
+      "title": "Recupere a ponte do documentário",
+      "content": "<p>El documental no neutralizaba las voces: anadia una breve _________ con subtítulos para quien no compartia esas referencias.</p><p>Tradução: O documentário não neutralizava as vozes: acrescentava uma breve mediação com subtítulos para quem não compartilhava essas referências.</p>",
+      "contentPlain": "El documental no neutralizaba las voces: anadia una breve _________ con subtítulos para quien no compartia esas referencias. Tradução: O documentário não neutralizava as vozes: acrescentava uma breve mediação com subtítulos para quem não compartilhava essas referências.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, mediación nomeia a ajuda breve que amplia o acesso sem trocar a voz original.",
+      "feedbackError": "Na aula, mediación nomeia a ajuda breve que amplia o acesso sem trocar a voz original.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mediacion",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Ler variedades do espanhol como repertorio em movimento"
+}

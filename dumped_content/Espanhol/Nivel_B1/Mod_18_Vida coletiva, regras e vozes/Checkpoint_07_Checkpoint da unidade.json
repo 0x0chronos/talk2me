@@ -1,0 +1,556 @@
+{
+  "attemptId": "c896ee0c-e582-4a96-8c7d-5b3298e45316",
+  "exercises": [
+    {
+      "exerciseId": "d220991a-0139-414c-ae73-68774643eafe",
+      "sequence": 1,
+      "lessonId": "0109c6cb-474d-4554-87af-d4c077ccb51d",
+      "title": "Complete a medida urbana",
+      "content": "<p>Los ________ bici ayudan cuando hay demasiado tráfico y mucho ruido.</p><p>Tradução: As ciclovias ajudam quando há trânsito demais e muito barulho.</p>",
+      "contentPlain": "Los ________ bici ayudan cuando hay demasiado tráfico y mucho ruido. Tradução: As ciclovias ajudam quando há trânsito demais e muito barulho.",
+      "fileUrl": null,
+      "feedbackSuccess": "Carriles bici aparece na aula como resposta concreta a ruas com tráfego e ruído.",
+      "feedbackError": "Carriles bici aparece na aula como resposta concreta a ruas com tráfego e ruído.",
+      "answerType": "buildWord",
+      "expectedAnswer": "carriles",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "99d92a99-1390-485c-8076-24945007b04f",
+      "sequence": 2,
+      "lessonId": "c60ba714-1bff-407b-9905-d6af83e4cca6",
+      "title": "Ouça e ligue as demandas",
+      "content": "<p>Relacione cada áudio com a frase correspondente. Use só as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente. Use só as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O bloco de ponte transforma o léxico social da aula em pedidos coletivos mais claros.",
+      "feedbackError": "O bloco de ponte transforma o léxico social da aula em pedidos coletivos mais claros.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "1ce89978-dd45-44f9-a3d4-f2c53189aa26",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d876ce6a8538465d81c8e3ec11893931_phase5-l05b12-crisis-apoyo-comercios.mp3?Expires=1794099668&Signature=JqS~NJ8Xyf0Oq4qs-a9HUVaTCMzHWJ9ysrzG6s2XC14If~YB6B7KZGqrXG3uElU2J4rUokZrDzSsfY~Ed4IDADjDTXf65CCioxu76o9ChJd1CEn3ajl-oS41tkOyJTjUZNcbxaVE11kXVJcyM-czqLKzhMOEuoQZqW1XPFu4Wds6Zlq7ldMxz4z7UBbu9tX5Sc3-eZR6CblRYnRQyf4hdoRF3x4YxVdlf5ejJuVYLW4Zp5El8Bqx9UsiCPzc1FsINvgb7Kp9Hc9X07sU6kXvCn3FsbYUcWjkcbQEf2-uanOiPAkv3lZsMyIBbZuqojAYJqj-KVVX9fP~PV2qdM9BDg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si la crisis golpea al barrio, la comunidad pide apoyo para los comercios locales.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "caeba9f9-ba54-4af3-88e1-da0fa1464e17",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fde79dd5153a48e58b0919a6ebeb6d2f_phase5-l05b12-desigualdad-oportunidades-jovenes.mp3?Expires=1794099668&Signature=KITSepwVRCSpDQi0WwOOIlaCZsgYziwCuBJDOCUiGvic2r2fL6-wJnqCgDlMxhmMEaHnKg6qdf3U3YqdMOU9QuUJs2LL0mhjuc6tm5iYh4igBmkCiOjd9OdHWfF2VWV0Xsmin4KUSH2KOpyX5FGOnpRvXXzpPXWa2vH2-mSpptdYymiHZGKzQ3tip9qwerWVX0hp33wxKlEwI0BfBDhpWRzhr-xKRQI~LqWta-yIxUNPAHe4P5uvDdQVprIiFTN9tKX6JG5JvJH7~1JVEHlW9hXW6Djy3k6AeWzkyyrP9bSEXhhbMGLLFQp6H6ymI6K3o28zg5mx24jZQCnPpmpX8A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si hay desigualdad, muchos vecinos piden más oportunidades para los jóvenes.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "35c79e91-ae0e-4a23-a7cd-1e6d08e9eea3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0f209aa0c7fa42d8aed30c124811263a_phase5-l05b12-clase-media-pedir-cambios.mp3?Expires=1794099668&Signature=o~jII8FQMt6aOneSmaDikfhScXsVd7h-e2BBRXdHP~my7CRd3VsjyRpbEF8xQzNX4YzhydQpFCF9CLt9TxhSa2VI8q0MovHLJnFbMSdZrn2hFwb2AnE--Upy~4JHdlxb5tIgxoYN4wIrgAWEb-6JtKdikvondA4~DiS3hDDgfvLN4~s~BSeTcZB9nwPYrot64nLErY6BdF1DKwxNB5ThFKwRJM3IVngfWA201aOqX9YMfJ7BLeRh6nmDF3Q2-VITRT7HgjgiRkb-KCmrkijkhK1iALWc7Ndepyb1XoH56sN~RvLfNVJBGjfbLxzwv7x0yqqECjhMiI11ROhjw-akRA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si parte de la clase media no puede seguir en la zona, el barrio empieza a pedir cambios.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "fdf7418e-1db8-4a01-831c-79838e034f69",
+      "sequence": 3,
+      "lessonId": "58e57c63-62c3-484d-8cff-8382d2686d44",
+      "title": "Associe frase e perspectiva",
+      "content": "<p>Ligue cada relato em espanhol ao sentido mais preciso em português.</p>",
+      "contentPlain": "Ligue cada relato em espanhol ao sentido mais preciso em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O foco aqui é distinguir presente atual, fala anterior e relato contado a partir de depois.",
+      "feedbackError": "O foco aqui é distinguir presente atual, fala anterior e relato contado a partir de depois.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "400fec98-4bfd-48e5-9344-e69097ad7de0",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "886b4750-b97d-4620-a237-0c6bcbb1552f",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "201c46fd-0b9e-47f6-84e0-1d9fd99efca6",
+          "leftContent": "Una vecina dice que el ruido del parque es peor por la noche.",
+          "rightContent": "comentário ainda vivo na conversa do bairro",
+          "sequenceItem": 1
+        },
+        {
+          "id": "12c56bb5-df7f-427d-96b1-6d9404884cb7",
+          "leftContent": "El portavoz del mercado comentó que faltan contenedores para reciclar.",
+          "rightContent": "fala anterior com problema que segue atual",
+          "sequenceItem": 2
+        },
+        {
+          "id": "fd85ea9e-027d-450f-8a96-120b722d2a59",
+          "leftContent": "La concejala explicó que la avenida estaba cerrada por obras.",
+          "rightContent": "explicação recontada depois com verbo recuado",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "ef94e477-78a8-436b-875d-d409f9fbeb30",
+      "sequence": 4,
+      "lessonId": "164d19af-ffd4-4094-be21-5650fb84daf6",
+      "title": "Complete a instituição local",
+      "content": "<p>El ____________ anuncia cambios en la plaza central.</p><p>Tradução: A prefeitura anuncia mudanças na praça central.</p>",
+      "contentPlain": "El ____________ anuncia cambios en la plaza central. Tradução: A prefeitura anuncia mudanças na praça central.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ayuntamiento nomeia a instituição local que organiza serviços e anuncia decisões.",
+      "feedbackError": "Ayuntamiento nomeia a instituição local que organiza serviços e anuncia decisões.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ayuntamiento",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "700f143b-b853-4ebb-be1e-0c60f334de22",
+      "sequence": 5,
+      "lessonId": "58e57c63-62c3-484d-8cff-8382d2686d44",
+      "title": "Ouça a queixa do bairro",
+      "content": "<p>Marque só as palavras que aparecem na fala da moradora sobre o parque.</p>",
+      "contentPlain": "Marque só as palavras que aparecem na fala da moradora sobre o parque.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f751d0a32d104b008a4a70f671d033b6_l04b02-una-vecina-dice-que-el-ruido-del-parque-es-peor-por-la-noche.mp3?Expires=1794099668&Signature=xT5FFMsG~13UpF4pZzFAnsicYICp~WOhYVVeCQWVwDPHzHnM45FGBR-cRbJ1ZIek1i9aCXRJzgu1~lo5MSaJWUcEMdnXaL2JPqnx9FM3qPzD~c88iYdzbLp0YCyLZgbwz-56uv-0aY8SjmNvphKT4eFLw9HLUKhXSa2c4-xw1PkbTvelnvu7Lq5FtSozvi87ckWzbVHNs5ZYCuCnc9RmtKKg0uxUcyx3aNjCOr3vxxM2Ie9obz9YgUuWaawOyu6vwFToPfWvQYJblltLSL8LFfDeNrYLkxounNBnc5h-8IT5hEOl9lo9VPs4eEONa~ZEJOVvMlBidcKsP95fmBoFPA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O foco aqui é perceber como a aula reporta uma opinião atual com `dice que`.",
+      "feedbackError": "O foco aqui é perceber como a aula reporta uma opinião atual com `dice que`.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0c10dd81-2804-40e7-a409-21130409b971",
+          "text": "vecina",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "504e06e2-2956-48b3-ab70-a00243fa17ab",
+          "text": "obras",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a973312f-9f79-4f50-ae7a-366d6525383a",
+          "text": "parque",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b3a84a32-fab7-480f-89a8-e7a386de7a15",
+          "text": "contenedores",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c1baa566-828e-4399-91fe-6133998ce860",
+          "text": "ruido",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e3fa069d-2758-4546-b503-91306a2a86f0",
+          "text": "noche",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "a89c0361-0a6d-4867-8263-918ad019a2e3",
+      "sequence": 6,
+      "lessonId": "b2ebedb7-ae13-4328-b0e6-4b883e950b55",
+      "title": "Complete a cobrança da associacao",
+      "content": "<p>Complete em espanhol: La asociación del barrio _____ que reparen la rampa de la plaza.</p><p>Tradução: A associação do bairro exige que consertem a rampa da praça.</p>",
+      "contentPlain": "Complete em espanhol: La asociación del barrio _____ que reparen la rampa de la plaza. Tradução: A associação do bairro exige que consertem a rampa da praça.",
+      "fileUrl": null,
+      "feedbackSuccess": "Exige sinaliza que a comunidade cobra uma resposta mais urgente.",
+      "feedbackError": "Exige sinaliza que a comunidade cobra uma resposta mais urgente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "exige",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a8b83e0f-85ed-443d-9148-749c837b6ac7",
+      "sequence": 7,
+      "lessonId": "b2ebedb7-ae13-4328-b0e6-4b883e950b55",
+      "title": "Recupere os verbos da reunião",
+      "content": "<p>Marque somente os verbos que apresentam pedido, exigência e proposta na crônica final.</p>",
+      "contentPlain": "Marque somente os verbos que apresentam pedido, exigência e proposta na crônica final.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/511462720f32472bb0afe74c6f2a4561_l06b08-en-la-reunion-del-barrio-se-escuchan-tres-voces.mp3?Expires=1794099668&Signature=NN-0sZjeCXWqXNOMuUe-Az4MBQcyL3vKKob-OLJ-9LTmJk8vKpXhgnDOT~QjVTUDH2jnjc3nSawyd4oFxzw0TJmzdtiKby6poqUaSLShW9KHm-ezR9Ty3I1RDvE4wqpVbFhnOvxP6NbngKM4higMeuL~UJeWkY5b0oWVTlpYYxMsr3niQSSKCUjQH3unwV51z5JLLifJCIuiOijKaaRmnKLc-iKdCNfJ02kUHR3mYNdMfWlgpkaXkcfDGasfnZy7Jnt3dVvC2AiW2gSoHjzHj07yirz0~J-blYm8i7d~Js0MNfPPS942WMWvQ5pCtMfaznBS2YvuMkLH01VUWiE2fg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na crônica final, piden, exige e propone organizam as três vozes coletivas da aula.",
+      "feedbackError": "Na crônica final, piden, exige e propone organizam as três vozes coletivas da aula.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "391c7752-8026-4d1e-902e-8a3df9e981a4",
+          "text": "escuchan",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "44b8931d-2f15-4530-bf0b-ff69aaa8aa7d",
+          "text": "propone",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7a9ce0aa-a898-4dd0-9378-be02479290ca",
+          "text": "piden",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "981d4e5b-9cea-4b9a-a7b1-0fe9df2b19ad",
+          "text": "mejoren",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cca36a33-6859-4065-bc6f-5d7fa0c71dbe",
+          "text": "haya",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e440888e-e24e-449b-9839-9b98661f31f5",
+          "text": "reparen",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f2d7d8c7-e608-4e73-ac74-d04a28a2d0f0",
+          "text": "exige",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "5c6eec87-6438-437a-b6c6-030ad424c90d",
+      "sequence": 8,
+      "lessonId": "c60ba714-1bff-407b-9905-d6af83e4cca6",
+      "title": "Recupere a expressão social",
+      "content": "<p>Parte de la clase _____ del barrio está preocupada por el alquiler.</p><p>Tradução: Parte da classe média do bairro está preocupada com o aluguel.</p>",
+      "contentPlain": "Parte de la clase _____ del barrio está preocupada por el alquiler. Tradução: Parte da classe média do bairro está preocupada com o aluguel.",
+      "fileUrl": null,
+      "feedbackSuccess": "`clase media` ajuda a aula a falar de um grupo social pressionado pelo custo de vida.",
+      "feedbackError": "`clase media` ajuda a aula a falar de um grupo social pressionado pelo custo de vida.",
+      "answerType": "buildWord",
+      "expectedAnswer": "media",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f98eefe1-6d7a-49af-b8a6-dd90bd0f2833",
+      "sequence": 9,
+      "lessonId": "c3204078-831f-404d-9219-a1dd3fda5c07",
+      "title": "Reconstrua a ação urgente",
+      "content": "<p>Conviene que __________ agua este verano.\nTradução: Convém que a gente economize água neste verão.</p>",
+      "contentPlain": "Conviene que __________ agua este verano. Tradução: Convém que a gente economize água neste verão.",
+      "fileUrl": null,
+      "feedbackSuccess": "Conviene que... aponta a medida mais sensata para a situação, com o verbo no subjuntivo.",
+      "feedbackError": "Conviene que... aponta a medida mais sensata para a situação, com o verbo no subjuntivo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ahorremos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e5c5b453-a0db-4912-b07a-9f0a3102ed95",
+      "sequence": 10,
+      "lessonId": "c60ba714-1bff-407b-9905-d6af83e4cca6",
+      "title": "Recupere a expressão social",
+      "content": "<p>Durante la ______, muchos vecinos buscaron otra forma de trabajo.\nTradução: Durante a crise, muitos vizinhos buscaram outra forma de trabalho.</p>",
+      "contentPlain": "Durante la ______, muchos vecinos buscaron otra forma de trabajo. Tradução: Durante a crise, muitos vizinhos buscaram outra forma de trabalho.",
+      "fileUrl": null,
+      "feedbackSuccess": "La crisis nomeia um período difícil que afeta trabalho e vida diária no bairro.",
+      "feedbackError": "La crisis nomeia um período difícil que afeta trabalho e vida diária no bairro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "crisis",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f0059173-7166-4a4d-85ac-cfd24c55acc1",
+      "sequence": 11,
+      "lessonId": "0109c6cb-474d-4554-87af-d4c077ccb51d",
+      "title": "Recupere a fala final pelo áudio",
+      "content": "<p>Escute o comentário completo e marque somente as palavras que fazem parte dele.</p>",
+      "contentPlain": "Escute o comentário completo e marque somente as palavras que fazem parte dele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7e783b5b98c64c888bd28e3c33ed3aed_l02b08-recap-prioridad-del-barrio.mp3?Expires=1794099668&Signature=LKaGW7ud0h-~AbanS4dVCFomRxEQfzSKBywuzjIlyVh4wlTRtGu9dYmSqvCR1vX5wU42I9jkyflg~h50meG26mTNzj4YSfFo5-WaUHjREIKe6Sm4IRnQ0I3~qZ7dt3SgmlQ31HYTOR3NjPp3ZGMVEdnRzNnykMrCH1ndF6Bb9XuatQgINxWx4Mc8MSm9Ooph74Khe0gW97hbHuLg9jWu9tb777-7CeLl4FHhv9wQ5gNDbBqcq~xfL4~vSrKuai7MRngRvKR0nmSgRJk~4yA24gP6RI5VSRq0oFLfwvR-z0nC4XIzUjlL5fKPxUpC0e0aQhXbceimxNSTjN1LKeIdPA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final transforma a preocupação do bairro em prioridade concreta.",
+      "feedbackError": "O recap final transforma a preocupação do bairro em prioridade concreta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0681905a-15c9-4167-8877-f9172716455e",
+          "text": "preocupa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "13f01fa0-3bdb-47aa-a1aa-5d34b94e90be",
+          "text": "plantas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1d7413a0-1761-42e9-bdd1-ec7d24b1e9e1",
+          "text": "carriles",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "363123bb-b30e-4742-a2a5-7f606e205737",
+          "text": "escuela",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4260038c-5786-465c-aab8-4c590d984ebf",
+          "text": "tráfico",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "441f58bc-7798-4783-bde1-eb8be9c2968d",
+          "text": "ruido",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "661cfe33-5f00-433c-bf50-aef28e75b53c",
+          "text": "prioridad",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8cf1d3f0-af74-4a1a-90f5-98daab995881",
+          "text": "barrio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8d7e719d-5d39-4dff-9834-1d37e1fa4824",
+          "text": "mercado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9261f15a-424c-4ee6-9404-28bb3427afb1",
+          "text": "ampliar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a34553c9-d1f6-405e-879c-9100dcb982dc",
+          "text": "bici",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b8238bde-a0b9-4fbd-9b2d-3689c6dbf5a9",
+      "sequence": 12,
+      "lessonId": "0109c6cb-474d-4554-87af-d4c077ccb51d",
+      "title": "Diferencie modelo e recap",
+      "content": "<p>Associe o modelo curto de preocupação e o recap completo ao texto exato em espanhol.</p>",
+      "contentPlain": "Associe o modelo curto de preocupação e o recap completo ao texto exato em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula passa do modelo curto de preocupação para um comentário completo com prioridade.",
+      "feedbackError": "A aula passa do modelo curto de preocupação para um comentário completo com prioridade.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "a56ce79b-79e7-457b-b050-227658eaa41c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2a2deac2a91c42ab879ba66a2560d8cb_l02b06-me-preocupa-el-ruido.mp3?Expires=1794099668&Signature=Cwtw8KpipfZli4tTv4-ILp2FlCbC-JnsB3HaDTOJJ1HP1A4Sx6thEqO4EgbAGxI1sCL5uYqtg44309TOQxpwFAiEHuF5iDFvF3H5Lncz1FW85SQlSqQb9geda6eZme1XfiP4M6-X69DcxlxJ2TF0SAqtqfxS~Q41jMG8lCXw9oTyBSnpIR0AXzcEmtUsU2Rr0MvzMKhL5dRcV4H8iuaFuq3ube6QRCSXbT65bipdYNI77hMdYaQ6LqhOjsE0EcZPtqD1fwix0lS~InsYQ6Guk22wPhyWw~BxkRglivzoTAKPqvWizqcTlKoZTkyeJJDfCXT~Q6l4eWHkM52xMk~9sw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me preocupa el ruido del tráfico cerca de la escuela.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "20e38d49-825b-45f4-af19-e4df29cc179b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7e783b5b98c64c888bd28e3c33ed3aed_l02b08-recap-prioridad-del-barrio.mp3?Expires=1794099668&Signature=LKaGW7ud0h-~AbanS4dVCFomRxEQfzSKBywuzjIlyVh4wlTRtGu9dYmSqvCR1vX5wU42I9jkyflg~h50meG26mTNzj4YSfFo5-WaUHjREIKe6Sm4IRnQ0I3~qZ7dt3SgmlQ31HYTOR3NjPp3ZGMVEdnRzNnykMrCH1ndF6Bb9XuatQgINxWx4Mc8MSm9Ooph74Khe0gW97hbHuLg9jWu9tb777-7CeLl4FHhv9wQ5gNDbBqcq~xfL4~vSrKuai7MRngRvKR0nmSgRJk~4yA24gP6RI5VSRq0oFLfwvR-z0nC4XIzUjlL5fKPxUpC0e0aQhXbceimxNSTjN1LKeIdPA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En mi barrio me preocupa el ruido del tráfico. Por eso, la prioridad es ampliar los carriles bici.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "4a426379-6739-4a8f-9680-0e316ffadd93",
+      "sequence": 13,
+      "lessonId": "164d19af-ffd4-4094-be21-5650fb84daf6",
+      "title": "Complete a regra oficial",
+      "content": "<p>Las _____ de la ciudad valen para todos los barrios.</p><p>Tradução: As leis da cidade valem para todos os bairros.</p>",
+      "contentPlain": "Las _____ de la ciudad valen para todos los barrios. Tradução: As leis da cidade valem para todos os bairros.",
+      "fileUrl": null,
+      "feedbackSuccess": "Leyes entra quando o foco sai do caso individual e vira regra oficial.",
+      "feedbackError": "Leyes entra quando o foco sai do caso individual e vira regra oficial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "leyes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "078c617d-9f51-4482-8389-b844d979c656",
+      "sequence": 14,
+      "lessonId": "c3204078-831f-404d-9219-a1dd3fda5c07",
+      "title": "Relacione moldura e função",
+      "content": "<p>Ligue cada entrada em espanhol ao papel que ela cumpre ao comentar problemas do bairro.</p>",
+      "contentPlain": "Ligue cada entrada em espanhol ao papel que ela cumpre ao comentar problemas do bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula separa urgência, conveniência, evidência e negação para organizar opiniões públicas.",
+      "feedbackError": "A aula separa urgência, conveniência, evidência e negação para organizar opiniões públicas.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7392c98f-dc3f-48af-9483-3010456a735a",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8097fe10-8b65-44b3-a372-b7478ad34645",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "59fbb0bd-2189-429c-af35-4d0ee8a2bbd6",
+          "leftContent": "Es urgente que...",
+          "rightContent": "marcar prioridade imediata",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3daede33-806e-4a49-9911-6b15d282c3ae",
+          "leftContent": "Conviene que...",
+          "rightContent": "sugerir medida sensata",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3212f631-89a3-4587-ba93-4cea054bad62",
+          "leftContent": "Es evidente que...",
+          "rightContent": "constatar efeito claro",
+          "sequenceItem": 3
+        },
+        {
+          "id": "0028760d-efa4-414e-84c7-5b6fbb46b76d",
+          "leftContent": "No es verdad que...",
+          "rightContent": "rebater opinião fraca",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "b11abeff-a362-4164-8313-ed31c1c69673",
+      "sequence": 15,
+      "lessonId": "b2ebedb7-ae13-4328-b0e6-4b883e950b55",
+      "title": "Relacione voz e efeito concreto",
+      "content": "<p>Junte cada frase da aula ao tipo de ação coletiva que ela coloca em movimento.</p>",
+      "contentPlain": "Junte cada frase da aula ao tipo de ação coletiva que ela coloca em movimento.",
+      "fileUrl": null,
+      "feedbackSuccess": "No fechamento da aula, cada voz coletiva se liga a uma ação concreta do bairro.",
+      "feedbackError": "No fechamento da aula, cada voz coletiva se liga a uma ação concreta do bairro.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2e8e0ac7-dd74-49b8-a7e1-1e738dfd3e6d",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "48c60cb3-dc61-4624-b3e2-a6b148f9d08a",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "efd6f46b-a9c6-4617-abff-850ac0ab400e",
+          "leftContent": "Los vecinos piden que mejoren el alumbrado de la calle principal.",
+          "rightContent": "registrar um pedido de melhoria na rua",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8717f3f4-0b4f-48d2-83de-b0474b6325d1",
+          "leftContent": "La asociación del barrio exige que reparen la rampa de la plaza.",
+          "rightContent": "cobrar um reparo de acessibilidade",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8eebc505-1b77-4746-95dc-9d1158d4ade1",
+          "leftContent": "Un grupo de familias propone que haya un huerto comunitario en el terreno vacío.",
+          "rightContent": "sugerir uma solução para um espaço comum",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ]
+}

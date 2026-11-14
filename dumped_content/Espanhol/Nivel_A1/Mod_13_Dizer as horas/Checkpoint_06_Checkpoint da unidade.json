@@ -1,0 +1,544 @@
+{
+  "attemptId": "be5df9d9-3391-46c2-9a11-8d53cd627035",
+  "exercises": [
+    {
+      "exerciseId": "407aabd4-9f47-4ffb-bcc7-430d4ecf6118",
+      "sequence": 1,
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "title": "Complete a resposta",
+      "content": "<p><strong>La clase es a ___ ocho.</strong></p><p>Tradução: A aula é às oito.</p>",
+      "contentPlain": "La clase es a ___ ocho. Tradução: A aula é às oito.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa reforça o grupo a las usado para falar do horário de uma atividade.",
+      "feedbackError": "Esta tarefa reforça o grupo a las usado para falar do horário de uma atividade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "las",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f4f7ca9e-69dc-430f-b8ff-a82ac4acda67",
+      "sequence": 2,
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "title": "Ligue frase e uso",
+      "content": "<p>Relacione cada frase ao que ela comunica quando você fala de hora ou de horário.</p>",
+      "contentPlain": "Relacione cada frase ao que ela comunica quando você fala de hora ou de horário.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa fixa o contraste entre son las e a las no capítulo.",
+      "feedbackError": "Esta tarefa fixa o contraste entre son las e a las no capítulo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7c234ff2-51e1-4d3d-bc23-8f337ecece82",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "af9cd69e-be27-4e61-9877-b894e5729823",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "caea2915-ea5e-486f-a5ab-d55a0bdd646d",
+          "leftContent": "Son las ocho.",
+          "rightContent": "diz a hora do momento",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a6eb51dd-75cc-4e39-a0b5-3b00a5280a0b",
+          "leftContent": "La clase es a las ocho.",
+          "rightContent": "diz o horário da aula",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "f15d165d-c0ad-4173-b54f-de77dd328cc0",
+      "sequence": 3,
+      "lessonId": "c524c680-70fd-460c-8528-c0dd596ea7f6",
+      "title": "Complete a resposta para 1:00",
+      "content": "<p><strong>Es la ___.</strong></p><p>Tradução: É uma hora.</p>",
+      "contentPlain": "Es la ___. Tradução: É uma hora.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa reforça que 1:00 usa a resposta especial Es la una.",
+      "feedbackError": "Esta tarefa reforça que 1:00 usa a resposta especial Es la una.",
+      "answerType": "buildWord",
+      "expectedAnswer": "una",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8b54e672-d8a5-4edc-80e8-b056cfcceb7e",
+      "sequence": 4,
+      "lessonId": "c5ec937c-1a54-4232-853b-2c360fa3f62b",
+      "title": "Filtre a frase do dia específico",
+      "content": "<p>Marque somente as palavras que aparecem na frase sobre um dia específico da agenda.</p>",
+      "contentPlain": "Marque somente as palavras que aparecem na frase sobre um dia específico da agenda.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/13c5760e566649c981dc387c84c7e31a_el-miercoles-descanso-por-la-tarde.mp3?Expires=1794099467&Signature=AHAiv2z5YUfmJU3TTLUOkj-G9SQ422~5-KWnQsBnIcXd7Ca3glonfAbY6ph0EbGTV5hhF3mwwnzrJtGlEOZoFDi-sCgqBsiBAS9-CkVzBXFGhDwBCCFEBDpC1kYiry5IIYSGVdrl7~9QS8aC5jIJQCzeidN4h861hH1t97CaF4wwkUGnmyMEVgKM0sdea1oycoBOEoWSV-GtnLjZTj6gzEFjDCPTPG9JqlKZzFd46JvB3wB3NfzZ9UUnSnls0~6mySPBEV4gBr6VGKeJ1fxTVsU3PuUj389jfUCkti8ufpB6WBM5yFMoAZaRGkqpVB2Dk0HnmiaHsINFJnGpTXjhxA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa reforça a escuta de el miércoles como dia específico.",
+      "feedbackError": "Esta tarefa reforça a escuta de el miércoles como dia específico.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1939de7e-0ded-4fdf-a008-058cef3dd3ee",
+          "text": "martes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "43d9e999-9567-42b1-a208-0058b6058e67",
+          "text": "trabajo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "47914773-bb73-4b0c-90fd-c54ec4575230",
+          "text": "miércoles",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8d589fde-4f4a-4034-9fc9-317076f1ac74",
+          "text": "por",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "905c5920-1dea-440c-9640-f2842516c349",
+          "text": "descanso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b017bb74-ce97-43c5-9621-cd18fab7923e",
+          "text": "el",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c78f00f5-2c11-4c9d-b687-a76e36a2a5a9",
+          "text": "los",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e2b6665d-1410-41e0-affe-915e48bd1c9e",
+          "text": "la",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f868cda6-e1da-4ec0-b64a-b39143519e25",
+          "text": "tarde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "46539fa6-bc00-480f-8f32-2968f2aa8153",
+      "sequence": 5,
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "title": "Complete o dia",
+      "content": "<p><strong>Los _____ estudio español a las siete.</strong></p><p>Tradução: Às segundas-feiras eu estudo espanhol às sete.</p>",
+      "contentPlain": "Los _____ estudio español a las siete. Tradução: Às segundas-feiras eu estudo espanhol às sete.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma como a frase de rotina começa pelo dia da semana.",
+      "feedbackError": "Esta tarefa retoma como a frase de rotina começa pelo dia da semana.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lunes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9bed9791-ce02-4d30-af55-324d4006fa46",
+      "sequence": 6,
+      "lessonId": "a37e4440-32e6-46b1-bda7-f6f28811e26b",
+      "title": "Ouça as pistas de quarta",
+      "content": "<p>Foque nas três pistas principais da linha de quarta-feira e marque somente as palavras que você ouve.</p>",
+      "contentPlain": "Foque nas três pistas principais da linha de quarta-feira e marque somente as palavras que você ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f49b8ff2fbcc4b1497fbb1c3744abfd6_b04-el-miercoles-trabajo-a-las-ocho.mp3?Expires=1794099467&Signature=YOMnAj5lpGXMs7PAVFbOXrmpRfxvQXwzoWIHG6xAce3P4gJVCIqQuz5P-Uyvr5Y5JIHd7VjbmonJC9qgsTNaGmqBBqVlT-JI7PDvh8xAiig7BSWpzpTmuaoj8F1xDiJtcMpT~OYI6-5qUHrsbTD5pDa4zhGv26rYGigMCLmLxzsnTRw-6QbWI-EqMM3jriM3PthudEcyjm8RRtwG-Mfee5SgpgsTUaK0tAbo6bY5S9ueH9fvcRUEDFUfR0yI9XxzcjM2viJ6ew5LnOIeDywHvsS8R9YAPapkK4QPew2jOlf1dWNpFCGBYh0iWX6HdqbYnEYxQiwWFjnCrr1pZ8BYXA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa reforça a escuta das três pistas da linha de quarta-feira.",
+      "feedbackError": "Esta tarefa reforça a escuta das três pistas da linha de quarta-feira.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "18ad1884-185c-45d7-a7a1-6cbcfcc83b46",
+          "text": "trabajo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2346092f-0433-40fa-b47b-33715f3d51e4",
+          "text": "lunes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "26f93fc5-fedb-4927-8223-7d0c55591ce7",
+          "text": "estudio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3cafea39-d283-4115-bb64-7487a808b148",
+          "text": "siete",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e27a454d-a623-4c02-9f6b-2d048291698e",
+          "text": "miércoles",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ef157f1e-b5b5-4abc-91a8-fa1103b8ae6a",
+          "text": "ocho",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "065a502e-5107-4845-a385-77b028c400d8",
+      "sequence": 7,
+      "lessonId": "a37e4440-32e6-46b1-bda7-f6f28811e26b",
+      "title": "Reconstrua o micro-horário",
+      "content": "<p>Ligue cada dia ao trecho certo para recompor as duas linhas do micro-horário.</p>",
+      "contentPlain": "Ligue cada dia ao trecho certo para recompor as duas linhas do micro-horário.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa recombina cada dia com a atividade e a hora corretas.",
+      "feedbackError": "Esta tarefa recombina cada dia com a atividade e a hora corretas.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "18e9b2b6-2093-4333-865b-7ec9ee38fa95",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c0c1a24c-bdb2-405a-9c21-a03b9673d1c5",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "688e94f3-c737-43d6-88b9-6461b56f9e32",
+          "leftContent": "El lunes",
+          "rightContent": "estudio español a las siete",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b0484fa1-263f-4fde-a497-6c5ad566e84c",
+          "leftContent": "El miércoles",
+          "rightContent": "trabajo a las ocho",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "6d1af214-cb62-4a3a-8354-6b4fd980a000",
+      "sequence": 8,
+      "lessonId": "c524c680-70fd-460c-8528-c0dd596ea7f6",
+      "title": "Recupere as frases da aula",
+      "content": "<p>Associe cada áudio ao texto correto em espanhol para revisar a pergunta e as duas respostas básicas da lição.</p>",
+      "contentPlain": "Associe cada áudio ao texto correto em espanhol para revisar a pergunta e as duas respostas básicas da lição.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa reúne a pergunta e as duas respostas básicas da aula.",
+      "feedbackError": "Esta tarefa reúne a pergunta e as duas respostas básicas da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "77af2e0e-4fa1-4e33-a036-bde3a0acf7ac",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1be335977bf44e3fb8407837c459e3b1_b01-que-hora-es.mp3?Expires=1794099467&Signature=nC~tJpVgq2nNTbCalx5PnL~mnAvogiZ5xGcq4yr3VDMZKekFqZ5lMxipqA5-Th651vFovhqgTy8aaftJosB5FUxpi4GHFF8Te-3Njw6bKuB5E0RwKH-Bug7Cp0Wjzr31ulrvY~REyIzn25CsLlJgp87WwrtgWycKddyWvtIvLkKHZnLf9pEO0-s3J1zweQL5tHHlHRgkiXlKgAP6NUEtEQ5w2KDJqlbDLs-1lcdm3f7L7ExbTYy4uSWFNG7ZhyejPdw-13QOaxx-qiNHtVP-KXZBbv3wLN113o8Fji3skuy5gozYIraAIRHnvVScjiKDJ0Lzk3j1gYIOjfoNrFxeNA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué hora es?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c5be8e71-6fc2-4d04-ad4d-239649a11496",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/42f9bbb6c167400c9b2f9a6e93face39_b03-es-la-una.mp3?Expires=1794099467&Signature=EsMZ0xOlJp-zsE62bjsHJyqAXywOWniJPtl7y~-HqcSgwLoKpVY-3JDtnlx3oTbuluq~AU1QAir2f7r6uzCHfFUjhdRJYaro4FxZAke~G86C3R4REMJ6hdnxQM2eY9NRVq5j3J1vUe7TXmfUfD~aar539hs9kqXb05tbwY4~kKAkoL5CtLP-Aa3WP51rlNj0WRrPN8t63YkcsScURrG6xMwWFHF~-U48vPgITeFe7fRYxqCIGvX0M08T2TXM1FuhZRDd3CLRF6Se2XLZj2OifJVy-H8-hjeqLT4yoyMTEWogJ9bjKESiR8HmLl3-zbwuLiSj4E558Y~6rCah70qqcg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es la una.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "19c576d5-f570-420a-8ace-0e91c61379b2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b48eb0293e6b438b87b73a935fe3cd72_b05-son-las-ocho.mp3?Expires=1794099467&Signature=tN99d9tuvoJIueh9Gbu0~NwHxtDWOuGnFSOY-acnW3oSMT5-roBVd9S9dHhS9CZOqDWKC3~7kPB9ekXOa8GkSIfsPqguGGsquX~qAw7FDDyZD6m5LleUD9sK9Qms9wcjoHQDJWl5zQAgR93S5B5Y4foz3j47WkGqov5jbz5ZMNswlmgpdTmHXXZskQ63ZhMhZesRK2-29D1UQTGzrkpEMJ6WME7Mo54dqrZZHRabwTqyOIp~4nw2ktC-bIphTSlJtRl~-mBkjTixFEM8Bsl4Tb5p6V5rfyx9WMtfAiYoXecMTliDYbrMGNH9lMoAfuNxq~5Y7emghTc95lTMmiEQ9A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Son las ocho.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "81332602-7c81-480d-8fb6-abc777fe4207",
+      "sequence": 9,
+      "lessonId": "c524c680-70fd-460c-8528-c0dd596ea7f6",
+      "title": "Ligue forma e uso",
+      "content": "<p>Relacione cada começo em espanhol ao papel que ele cumpre quando você diz a hora.</p>",
+      "contentPlain": "Relacione cada começo em espanhol ao papel que ele cumpre quando você diz a hora.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma o contraste entre es la e son las na aula.",
+      "feedbackError": "Esta tarefa retoma o contraste entre es la e son las na aula.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "abbe477d-bff4-4c46-8346-35115d961922",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "de07f29a-2eae-4c3c-b656-735f0b5528b0",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "2c39aa3e-d7f2-40f6-b316-b81b8c59cef3",
+          "leftContent": "es la",
+          "rightContent": "forma especial para 1:00",
+          "sequenceItem": 1
+        },
+        {
+          "id": "851848a1-6c1d-4009-9504-f6d34c542b0b",
+          "leftContent": "son las",
+          "rightContent": "começo mais comum para outras horas",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "0d5ad588-777f-4aa7-b0b8-34db90298828",
+      "sequence": 10,
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "title": "Recupere as duas perguntas",
+      "content": "<p>Associe cada áudio ao texto correto e note qual pergunta fala da hora de agora e qual pergunta fala do horário da aula.</p>",
+      "contentPlain": "Associe cada áudio ao texto correto e note qual pergunta fala da hora de agora e qual pergunta fala do horário da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma o contraste entre perguntar a hora de agora e perguntar o horário de uma atividade.",
+      "feedbackError": "Esta tarefa retoma o contraste entre perguntar a hora de agora e perguntar o horário de uma atividade.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "dc94cfd8-7585-422c-b4f0-bd2f169daa6d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3989e65278214e77b475be91067d6429_c05-que-hora-es.mp3?Expires=1794099467&Signature=FTHG3x3qmSTMi5C6ikJ28p2Sbo8L4v0rU79MCqGg8r2AqQDmCVIDFAkuXytwBXAxEcDf-yrNSdGQPFLVxppoBZCbZeac1~xO06XtLd1zE~tGdrvAiETX57LTc5b0lCjsNFMKZBXbOVqjdQjqUVUl62ZcY-mne25-kK1MLnnIgwBjCU48jOYSAfSuAFoYcsCQ~G1mJ~DFNdG4vuR5jQg-tNXwsknRw3hUSSreyeG7YcM04uEOJ6T5E-O7xNHUWIvq5q9B0wsPlYPZJOyFXvsmOx9G8m7u6v1UnS92ISLBB2Ui69FuSm5Lz402YRLNTMXQvuAS6urBDi0ZnsRHznwBKw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué hora es?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "397d86a1-116d-40e4-a2cb-13c103587e26",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/10bb778d704e4bcaa96e5abf44002b58_b02-a-que-hora-es-la-clase.mp3?Expires=1794099467&Signature=io6Cp-2GiXr2VsRUp8bXYpg7~wAyT8IAimknhgkK8Ns5~QoQuPKoqsF4PRLqk6HvxY9S3RcN-Ig6iv2ei9i3-1ysRagT-1QZ07Vk0yTXEZ5hJvbgk~bXPvJvU8XWnjMViTIOGSQ3YTRGsGJOv9yRgNbOHbRmSxaFbeEcALTN8TaCYn1dplybudNvCTYMqBbLvjWaoG5NLY4AwagRSqgz-CVhu57zB8YBF9tS9X1sNyEj~XOhVLVCNSAItz18vUjAZEaYm9-l0t-RLJ48nGcgVbWWKdBE07ElZ~Ac3k0iH5BvkA3orEEhQlf-3SDyPOKL44y3Rrj~BGuyY8MMSfaPSA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿A qué hora es la clase?",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "ba555cfd-ea99-488c-b65d-63d8dd5fbdd7",
+      "sequence": 11,
+      "lessonId": "a37e4440-32e6-46b1-bda7-f6f28811e26b",
+      "title": "Recupere as pistas do áudio",
+      "content": "<p>Cada áudio traz uma linha do micro-horário. Associe cada um ao conjunto correto de pistas em espanhol.</p>",
+      "contentPlain": "Cada áudio traz uma linha do micro-horário. Associe cada um ao conjunto correto de pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa recupera dia, atividade e hora a partir das duas linhas centrais da aula.",
+      "feedbackError": "Esta tarefa recupera dia, atividade e hora a partir das duas linhas centrais da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "35bbe31d-e69c-4619-a2f7-8080706a6a1c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5069cd875d3f4f0fad771ed79b07ee4a_b02-el-lunes-estudio-espanol-a-las-siete.mp3?Expires=1794099467&Signature=j7-PpYXfxFns4bvxWgyyOTl71ADEVgBpukKYn-WPkhIVuTtDN3StjwD8UwKBbH10rWNVIjFmbBnobJJOH2-3KGtkUFq2ZGLWvHrVs4Vnx7F1~dCimHRKI8KkRcQnKXl2n5Nkbv7cdkI6lusWZ1q5nivL3BFnNh9yaUFyqPBIqmrUuFw7eFOxHtbkxRiCnCaWgcrY3RShzk6iKt6Y5-rWxlZvp962MXaklaBToZxICvKDf303hIN8wGjEOzPI~LBq~35h~y~XWIgiFcfES1rCtQEmQN5afu76F3hn6B297Y9GobfMeIhbKIAcUk349fdMq-8t7t5jdBAkzpZYuUDCjA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "lunes / estudio español / siete",
+          "sequenceItem": 1
+        },
+        {
+          "id": "42b3dd2e-2ad2-4761-927a-a5cbb1c049ad",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f49b8ff2fbcc4b1497fbb1c3744abfd6_b04-el-miercoles-trabajo-a-las-ocho.mp3?Expires=1794099467&Signature=YOMnAj5lpGXMs7PAVFbOXrmpRfxvQXwzoWIHG6xAce3P4gJVCIqQuz5P-Uyvr5Y5JIHd7VjbmonJC9qgsTNaGmqBBqVlT-JI7PDvh8xAiig7BSWpzpTmuaoj8F1xDiJtcMpT~OYI6-5qUHrsbTD5pDa4zhGv26rYGigMCLmLxzsnTRw-6QbWI-EqMM3jriM3PthudEcyjm8RRtwG-Mfee5SgpgsTUaK0tAbo6bY5S9ueH9fvcRUEDFUfR0yI9XxzcjM2viJ6ew5LnOIeDywHvsS8R9YAPapkK4QPew2jOlf1dWNpFCGBYh0iWX6HdqbYnEYxQiwWFjnCrr1pZ8BYXA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "miércoles / trabajo / ocho",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "4454b39c-9450-414e-9195-2546b341c5fe",
+      "sequence": 12,
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "title": "Recupere as pistas do áudio",
+      "content": "<p>Cada áudio traz uma das frases finais da aula. Associe cada um ao conjunto correto de dia, atividade e horário.</p>",
+      "contentPlain": "Cada áudio traz uma das frases finais da aula. Associe cada um ao conjunto correto de dia, atividade e horário.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa recupera as combinações de dia, atividade e horário na rotina semanal.",
+      "feedbackError": "Esta tarefa recupera as combinações de dia, atividade e horário na rotina semanal.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8d22a199-8b28-4060-8280-9756c0036dbb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f48375f14a614d65bfc2ab4b2e399410_b01-los-lunes-estudio-espanol-a-las-siete.mp3?Expires=1794099467&Signature=U8D5TYpEWHNSoOvnPoBe~oA8CLo0yUrJ2d3vMXNgkFbSIK1oMaOO-fuZ-c6OV9z7u20CkqmXnFS9m~9Atx8sNguxMCTxv59FXRT0VIE4QnCX~EiUjydVK8cbYQzY~WQBf5zx3VawbS~BLw8nQ4fr4lzskIfu4XXLfJ1cX9RknfsAOLZZpT15iEJr4OSf84npKldvlGpxW44yEsB8Zc6hqUQi4CgYxpB5hq3r~BSaoilJWDtOxkC4XtrPPYy-b1NusZIBs0TTxly29dnhPzD9~mXISCM6DGvOYSUzfy63nDDJKddhzhL4kmiDp0wUTOo713Z~kMo2qVZX9FGkNc3~Ew__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "los lunes / estudio español / a las siete",
+          "sequenceItem": 1
+        },
+        {
+          "id": "34a50ef4-4636-4964-b998-d3d8272c1d37",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb4bc098fce64a98ba65523b71bf3a2b_b03-los-miercoles-tengo-clase-a-la-una.mp3?Expires=1794099467&Signature=OPQmjntMH-Ibx0pEJVfR0bWJDmGc0~l1NjHzGksfp~0KtVdf8IGfqkDk2noE0sqdivBJkRONEXjlfHBx06RVRULKcsoslkte-MrAPyuvZgJe~F9kRoefNHM-4Z2Smnie6OqqWzrohtTxlnXcx9i8PgrkWw7sdPFb5PxcpQD~d-NLPkjFwdEfTuN6Z2A4kp6PuifCfQGoh63ByfpqdojeeSqSsUjrf9O-277elHV~ti4CiU5t8i7nS1b4oAfGL-dumFj0FToddYQu3Br5oGFwsFXn-nRnfP-3CDCXPGhosPLAebta3VGZt-Y2PjHZH3QQhmLZ-tHWOIjdTsD3ZWthmA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "los miércoles / tengo clase / a la una",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "9d2436d0-5791-4200-bc0f-8b33c6f33c4c",
+      "sequence": 13,
+      "lessonId": "cf669775-00aa-4491-ae79-7e003a8bfc14",
+      "title": "Ouça as pistas da rotina",
+      "content": "<p>Foque nas palavras-chave de dia e atividade nas duas frases e marque somente o que aparece no áudio.</p>",
+      "contentPlain": "Foque nas palavras-chave de dia e atividade nas duas frases e marque somente o que aparece no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1dc4b5adc8184b148270c9f61e5f126d_b05-rutina-corta.mp3?Expires=1794099467&Signature=pLxC0mifp~mL8sJX8xxzLpDjuJsHK2KPw91VQw~zHPuzC9EGfuU0G7WDPZ06NJTfyh6XiGUeG7C5VAOW4A-yzxBXN5gdqH886-vdnYdhVVrI4OyXD9Re1KTIFlTpa8ry1osr~nw8KNRRjdpeChVUSS3Si1limLS4Xg6ZOdByo43e8fuCDLjygVMfGPPW5idqA2WBB0YQPmJMYTzO4YJ3yykUL~55gmtMgUG6EL8WSzQNKUQLzSlxDvYC10npqR~KFyuYlwVoppUfAdz4syHGbvSL-zWmMcoUFDw1HDjxJuEKK1csKgPZpa56-7gt6nVx1vkRXLc2os4HHpd4mO34IA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa reforça a escuta das pistas centrais das duas frases da rotina.",
+      "feedbackError": "Esta tarefa reforça a escuta das pistas centrais das duas frases da rotina.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "11a0d536-2f87-45e1-9a57-ce264c67ec8e",
+          "text": "miércoles",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "16d5d737-6c8f-4fb8-9acf-401f1f14d024",
+          "text": "estudio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "74c7d290-b03b-4961-9171-e1e9c887fa3a",
+          "text": "martes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8082779b-c13d-479d-8b71-f220c4e0da85",
+          "text": "lunes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "85599438-b8df-459c-b795-157c50bff12a",
+          "text": "ocho",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a7f06d3d-b030-4a85-bb87-bd514a1fee98",
+          "text": "clase",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cde8208a-28f0-4c8a-9e0a-0ce9b3b554f7",
+          "text": "trabajo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "daca5db7-6a1a-426e-8462-495c9e85af61",
+      "sequence": 14,
+      "lessonId": "c5ec937c-1a54-4232-853b-2c360fa3f62b",
+      "title": "Complete a rotina de terça",
+      "content": "<p>Los ______ trabajo en casa.</p><p>Tradução: Às terças-feiras trabalho em casa.</p>",
+      "contentPlain": "Los ______ trabajo en casa. Tradução: Às terças-feiras trabalho em casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa recupera outro exemplo de rotina semanal com los + día.",
+      "feedbackError": "Esta tarefa recupera outro exemplo de rotina semanal com los + día.",
+      "answerType": "buildWord",
+      "expectedAnswer": "martes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f8d1ec0c-6354-455c-98c2-61a3f0a7d8b0",
+      "sequence": 15,
+      "lessonId": "c5ec937c-1a54-4232-853b-2c360fa3f62b",
+      "title": "Complete o dia específico",
+      "content": "<p>El _________ descanso por la tarde.</p><p>Tradução: Na quarta-feira descanso à tarde.</p>",
+      "contentPlain": "El _________ descanso por la tarde. Tradução: Na quarta-feira descanso à tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa recupera o dia específico apresentado com el miércoles.",
+      "feedbackError": "Esta tarefa recupera o dia específico apresentado com el miércoles.",
+      "answerType": "buildWord",
+      "expectedAnswer": "miércoles",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

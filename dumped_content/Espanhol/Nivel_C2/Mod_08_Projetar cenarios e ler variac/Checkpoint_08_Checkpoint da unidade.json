@@ -1,0 +1,456 @@
+{
+  "attemptId": "3c10c2fc-43e8-4764-8721-0ae2ca66df6a",
+  "exercises": [
+    {
+      "exerciseId": "48fca842-8748-44da-97d3-eb932501d51e",
+      "sequence": 1,
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "title": "Recupere o apoio pedido",
+      "content": "<p>Cuando una expresión quedaba demasiado pegada al repertorio local, la otra persona pedía ________ y la conversación seguía.</p><p>Tradução: Quando uma expressão ficava ligada demais ao repertório local, a outra pessoa pedia contexto e a conversa seguia.</p>",
+      "contentPlain": "Cuando una expresión quedaba demasiado pegada al repertorio local, la otra persona pedía ________ y la conversación seguía. Tradução: Quando uma expressão ficava ligada demais ao repertório local, a outra pessoa pedia contexto e a conversa seguia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, pedir contexto é a mediação mínima que mantém a conversa andando.",
+      "feedbackError": "Na aula, pedir contexto é a mediação mínima que mantém a conversa andando.",
+      "answerType": "buildWord",
+      "expectedAnswer": "contexto",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8c49729a-cf34-4e67-9040-d7ac89090760",
+      "sequence": 2,
+      "lessonId": "fe04b8eb-aeb1-4475-a747-a09fda1f476d",
+      "title": "Reconstrua o efeito",
+      "content": "<p>Complete em espanhol: el calor se ________ de otra manera.</p><p>Tradução: o calor seria sentido de outra maneira.</p>",
+      "contentPlain": "Complete em espanhol: el calor se ________ de otra manera. Tradução: o calor seria sentido de outra maneira.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na lição, a consequência em condicional projeta o efeito sem tratá-lo como fato.",
+      "feedbackError": "Na lição, a consequência em condicional projeta o efeito sem tratá-lo como fato.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sentiría",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a1f27fd8-6913-48bb-940a-1288b74d67d9",
+      "sequence": 3,
+      "lessonId": "3020dff3-a009-4e13-969a-a35e0374feed",
+      "title": "Separe as camadas do perfil",
+      "content": "<p>Ligue cada linha do perfil em espanhol ao papel que ela resolve dentro da descrição mais matizada.</p>",
+      "contentPlain": "Ligue cada linha do perfil em espanhol ao papel que ela resolve dentro da descrição mais matizada.",
+      "fileUrl": null,
+      "feedbackSuccess": "No perfil integrado, cada linha acrescenta camada em vez de repetir adjetivos.",
+      "feedbackError": "No perfil integrado, cada linha acrescenta camada em vez de repetir adjetivos.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5837478e-8082-47f3-b833-f2a0df77240b",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c6f361c3-a7c8-4ec6-8056-414aeb1f1df4",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "dbf72a31-e202-4272-8761-5791e6494e73",
+          "leftContent": "A primera vista, Lucía parece muy segura de sí misma.",
+          "rightContent": "impressão inicial ainda provisória",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c153a171-058e-44c0-9ebd-9968670e1e45",
+          "leftContent": "En reuniones grandes se vuelve más reservada.",
+          "rightContent": "contexto que corrige o alcance da primeira leitura",
+          "sequenceItem": 2
+        },
+        {
+          "id": "abca3df6-5df4-4d10-835a-9fac7dae5dba",
+          "leftContent": "Yo diría que tiene un punto serio, y más que tímida, es prudente hasta que conoce bien al grupo.",
+          "rightContent": "reformulação que troca rótulo por leitura mais precisa",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "b09215bd-572e-4244-a474-6c1acdeda675",
+      "sequence": 4,
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "title": "Escolha a transferencia mais cuidadosa",
+      "content": "<p>Você está lendo comentários e ouvindo vozes de várias regiões ao mesmo tempo. Qual resposta em espanhol aplica melhor o fechamento da aula?</p>",
+      "contentPlain": "Você está lendo comentários e ouvindo vozes de várias regiões ao mesmo tempo. Qual resposta em espanhol aplica melhor o fechamento da aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, o uso real pede notar repertório local, aceitar mediação e resistir a reduzir diferença a erro.",
+      "feedbackError": "Na aula, o uso real pede notar repertório local, aceitar mediação e resistir a reduzir diferença a erro.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "52859435-0ecb-44d5-bfe9-ce6b2a4061e1",
+          "text": "Si cada comentario usa giros distintos, lo mejor es reducirlos a un espanol uniforme para no perder tiempo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6d88726d-f03c-4259-97a2-c47abf4f9098",
+          "text": "Cuando una referencia no me sale enseguida, asumo que esta mal escrita.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7d98f994-4ba2-48c6-99b2-9a6d1509e7e5",
+          "text": "Primero intento ubicar el repertorio local y, si hace falta, busco una mediación breve antes de tratar la diferencia como error.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8f816928-bb19-4325-8887-6b0e7bf4f367",
+          "text": "Si una serie me cuesta, ignoro el contexto y me quedo solo con las palabras que reconozco.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f77e9508-5f5f-4bd0-a69e-47d1d777e712",
+      "sequence": 5,
+      "lessonId": "e6aa8e0e-ad56-4d14-af0e-26f0826a7771",
+      "title": "Recupere a lente interpretativa",
+      "content": "<p>Esos microtextos piden ________, no un juicio rápido.</p><p>Tradução: Esses microtextos pedem contexto, não um julgamento rápido.</p>",
+      "contentPlain": "Esos microtextos piden ________, no un juicio rápido. Tradução: Esses microtextos pedem contexto, não um julgamento rápido.",
+      "fileUrl": null,
+      "feedbackSuccess": "O ganho C2 desta aula está em trocar estereótipo por contexto ao ler horários coletivos.",
+      "feedbackError": "O ganho C2 desta aula está em trocar estereótipo por contexto ao ler horários coletivos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "contexto",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b1f42714-2195-4858-809d-565d3f1bf056",
+      "sequence": 6,
+      "lessonId": "96102643-92e2-4176-8f30-0d6c21ecc57b",
+      "title": "Recupere a justificativa prudente",
+      "content": "<p>Por __________, varias escuelas trasladaron las actividades físicas a espacios cerrados.</p><p>Tradução: Por precaução, várias escolas transferiram as atividades físicas para espaços fechados.</p>",
+      "contentPlain": "Por __________, varias escuelas trasladaron las actividades físicas a espacios cerrados. Tradução: Por precaução, várias escolas transferiram as atividades físicas para espaços fechados.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula trata por precaucion como ajuste prudente da rotina antes de um dano maior.",
+      "feedbackError": "A aula trata por precaucion como ajuste prudente da rotina antes de um dano maior.",
+      "answerType": "buildWord",
+      "expectedAnswer": "precaución",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "99b1aa4a-3534-48de-9bc1-5e89b3a91238",
+      "sequence": 7,
+      "lessonId": "2d5b2e98-f2ad-4cb3-9247-fdfb62b231b3",
+      "title": "Escolha a linha mais precisa",
+      "content": "<p>Para cada objetivo de leitura, escolha a linha completa em espanhol que entrega esse efeito no recap final.</p>",
+      "contentPlain": "Para cada objetivo de leitura, escolha a linha completa em espanhol que entrega esse efeito no recap final.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula pede escolher a linha inteira que melhor sustenta cada leitura de contexto.",
+      "feedbackError": "O fechamento da aula pede escolher a linha inteira que melhor sustenta cada leitura de contexto.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3c56abca-1f29-4e9e-a59a-68913d0bbf9f",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e6eed201-9543-4d6d-93aa-313215e3e50c",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "793cd0ba-8dd2-47e5-be0e-a972301a2165",
+          "leftContent": "Explicar que uma expressão local pode soar cordial em vez de improvisada.",
+          "rightContent": "En algunas zonas, \"ahora me paso\" no suena improvisado, sino cordial; si lo leyéramos al pie de la letra, perderíamos una señal de cercanía local.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "462ab5f6-602d-4d20-95f2-88538c72bb22",
+          "leftContent": "Mostrar que um horario coletivo muda a leitura de uma resposta tardia.",
+          "rightContent": "Donde la jornada partida sigue ordenando el día, responder después de comer no suele indicar desinterés; si exigiéramos la misma inmediatez a toda hora, acabaríamos confundiendo pausa con desgana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "24a5398e-294d-4c2a-a1e7-4250d298d520",
+          "leftContent": "Explicar que outro ritmo social pode parecer distância para quem usa outra regua.",
+          "rightContent": "En una ciudad donde la jornada partida convive con un trato más indirecto, un \"luego te escribo\" y un silencio largo pueden sonar evasivos; si los midiéramos con prisas ajenas, terminaríamos leyendo distancia donde solo hay otro ritmo social.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "cbc50c59-c12e-4815-a3f5-e736de6c1dd4",
+      "sequence": 8,
+      "lessonId": "e6aa8e0e-ad56-4d14-af0e-26f0826a7771",
+      "title": "Recupere o deslocamento horario",
+      "content": "<p>Muchas actividades sociales se _________ hacia despues de las ocho.</p><p>Tradução: Muitas atividades sociais se deslocam para depois das oito.</p>",
+      "contentPlain": "Muchas actividades sociales se _________ hacia despues de las ocho. Tradução: Muitas atividades sociais se deslocam para depois das oito.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a noite ganha espaço social como parte do ritmo normal da cidade.",
+      "feedbackError": "Nesta aula, a noite ganha espaço social como parte do ritmo normal da cidade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desplazan",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3c22fc24-c24c-4a46-95b3-a233da4a465c",
+      "sequence": 9,
+      "lessonId": "96102643-92e2-4176-8f30-0d6c21ecc57b",
+      "title": "Recupere o termo preciso",
+      "content": "<p>Agora faca o caminho inverso: leia a situação em português e escolha a expressão em espanhol que melhor a resume.</p>",
+      "contentPlain": "Agora faca o caminho inverso: leia a situação em português e escolha a expressão em espanhol que melhor a resume.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final pede recuperar a expressão certa para cada leitura prática do episódio.",
+      "feedbackError": "O recap final pede recuperar a expressão certa para cada leitura prática do episódio.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3d272cdb-6eaf-4b80-ad39-97cd768b6aa8",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e0030dff-f44c-419f-bd6b-f5c20902f70b",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "86127cc6-7c71-4c85-9028-451b3ced4df1",
+          "leftContent": "algo continua no ar horas depois da mudança inicial",
+          "rightContent": "partículas suspendidas",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a12a75e3-f7f5-401e-a444-a59985c5458f",
+          "leftContent": "a paisagem e a rota já não se leem com segurança",
+          "rightContent": "visibilidad",
+          "sequenceItem": 2
+        },
+        {
+          "id": "64d3bacd-21c0-4085-8496-17a2b418e8d5",
+          "leftContent": "o alerta passa a medir exposição e impacto cotidiano",
+          "rightContent": "calidad del aire",
+          "sequenceItem": 3
+        },
+        {
+          "id": "0904126a-99b8-4b5f-b7a8-50b67347f4df",
+          "leftContent": "a rotina muda antes de o risco aumentar",
+          "rightContent": "por precaución",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "23ad5947-ade0-48eb-ad77-83a08391f7ba",
+      "sequence": 10,
+      "lessonId": "c1b9c3a6-4dc7-41c1-b0ae-b32cc54582c9",
+      "title": "Recupere a abertura medida",
+      "content": "<p>Lo __________ de este prototipo es que destaca una ventaja concreta sin vender una solucion definitiva.</p><p>Tradução: O que parece promissor neste protótipo é que destaca uma vantagem concreta sem vender uma solução definitiva.</p>",
+      "contentPlain": "Lo __________ de este prototipo es que destaca una ventaja concreta sin vender una solucion definitiva. Tradução: O que parece promissor neste protótipo é que destaca uma vantagem concreta sem vender uma solução definitiva.",
+      "fileUrl": null,
+      "feedbackSuccess": "Prometedor abre a fala pela avaliação cuidadosa, não pela certeza.",
+      "feedbackError": "Prometedor abre a fala pela avaliação cuidadosa, não pela certeza.",
+      "answerType": "buildWord",
+      "expectedAnswer": "prometedor",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "53465f5f-2b71-4577-91c9-b9b0e0f12561",
+      "sequence": 11,
+      "lessonId": "2d5b2e98-f2ad-4cb3-9247-fdfb62b231b3",
+      "title": "Recupere o filtro externo",
+      "content": "<p>Complete em espanhol: si los midiéramos con prisas ______, terminaríamos leyendo distancia.</p><p>Tradução: se medíssemos isso com pressas alheias, terminaríamos lendo distância.</p>",
+      "contentPlain": "Complete em espanhol: si los midiéramos con prisas ______, terminaríamos leyendo distancia. Tradução: se medíssemos isso com pressas alheias, terminaríamos lendo distância.",
+      "fileUrl": null,
+      "feedbackSuccess": "No comentário integrado, `ajenas` marca a regua externa que distorce a leitura.",
+      "feedbackError": "No comentário integrado, `ajenas` marca a regua externa que distorce a leitura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ajenas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1be5738b-47f0-4736-9f3e-2a5cc45c0d08",
+      "sequence": 12,
+      "lessonId": "fe04b8eb-aeb1-4475-a747-a09fda1f476d",
+      "title": "Reconstrua a hipótese",
+      "content": "<p>Complete em espanhol: Si el barrio _______ con más sombra y menos asfalto, el calor se sentiría de otra manera.</p><p>Tradução: se o bairro tivesse mais sombra e menos asfalto, o calor seria sentido de outra maneira.</p>",
+      "contentPlain": "Complete em espanhol: Si el barrio _______ con más sombra y menos asfalto, el calor se sentiría de otra manera. Tradução: se o bairro tivesse mais sombra e menos asfalto, o calor seria sentido de outra maneira.",
+      "fileUrl": null,
+      "feedbackSuccess": "A primeira frase da lição abre a hipótese urbana com uma condição imaginada.",
+      "feedbackError": "A primeira frase da lição abre a hipótese urbana com uma condição imaginada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "contara",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e4bad01a-fe27-467f-9ace-fdf666e2278f",
+      "sequence": 13,
+      "lessonId": "3020dff3-a009-4e13-969a-a35e0374feed",
+      "title": "Associe pista e efeito",
+      "content": "<p>Observe as pistas do perfil curto e ligue cada uma ao ganho de precisão que ela traz para a descrição.</p>",
+      "contentPlain": "Observe as pistas do perfil curto e ligue cada uma ao ganho de precisão que ela traz para a descrição.",
+      "fileUrl": null,
+      "feedbackSuccess": "As pistas do perfil curto dão matiz porque combinam impressão, contexto e reformulação.",
+      "feedbackError": "As pistas do perfil curto dão matiz porque combinam impressão, contexto e reformulação.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0a33bd7d-5d57-46d7-8b85-a02ffe39911d",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fb8916b6-ace6-4ad8-9508-2bba408d333c",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "8bd3d30d-b6b1-4b4b-ba38-bc7ab11a6993",
+          "leftContent": "A primera vista",
+          "rightContent": "avisar que a leitura ainda é provisória",
+          "sequenceItem": 1
+        },
+        {
+          "id": "bd07463a-6615-48ea-aeed-cc3da450b3ea",
+          "leftContent": "En reuniones grandes",
+          "rightContent": "limitar a mudança de leitura a um contexto concreto",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8422d5ff-4ace-4655-88f3-91eddc33e217",
+          "leftContent": "más que tímida",
+          "rightContent": "corrigir um rótulo que ficou simplificador",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "a4c5709a-19f9-4334-acfd-7c8d72197de0",
+      "sequence": 14,
+      "lessonId": "ae303832-452c-4832-a02e-4eeb6e690a05",
+      "title": "Recupere a ponte do documentário",
+      "content": "<p>El documental no neutralizaba las voces: anadia una breve _________ con subtítulos para quien no compartia esas referencias.</p><p>Tradução: O documentário não neutralizava as vozes: acrescentava uma breve mediação com subtítulos para quem não compartilhava essas referências.</p>",
+      "contentPlain": "El documental no neutralizaba las voces: anadia una breve _________ con subtítulos para quien no compartia esas referencias. Tradução: O documentário não neutralizava as vozes: acrescentava uma breve mediação com subtítulos para quem não compartilhava essas referências.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, mediación nomeia a ajuda breve que amplia o acesso sem trocar a voz original.",
+      "feedbackError": "Na aula, mediación nomeia a ajuda breve que amplia o acesso sem trocar a voz original.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mediacion",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b391e256-3656-49d4-b501-5fc61a390e28",
+      "sequence": 15,
+      "lessonId": "c1b9c3a6-4dc7-41c1-b0ae-b32cc54582c9",
+      "title": "Ligue detalhe e precisão",
+      "content": "<p>No recap final, recupere como pequenos trechos impedem que o comentário soe vago.</p>",
+      "contentPlain": "No recap final, recupere como pequenos trechos impedem que o comentário soe vago.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário ganha precisão quando cada detalhe delimita vantagem, teste, contexto e escala.",
+      "feedbackError": "O comentário ganha precisão quando cada detalhe delimita vantagem, teste, contexto e escala.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1e896930-9237-43ca-b9fe-80e652586648",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cdb9dcb1-2831-457c-ab69-f23a3b2d5a9d",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "e6e5630d-8753-4c49-9799-f103cca3a0d7",
+          "leftContent": "sin depender tanto de materiales escasos",
+          "rightContent": "limita o elogio a uma vantagem específica",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e396acd4-6f46-46dd-a435-0a6704c9e573",
+          "leftContent": "con exito en redes urbanas",
+          "rightContent": "condiciona a hipótese a uma prova mais ampla",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8a3de6c9-5d90-4264-84e7-56111eaeb477",
+          "leftContent": "durante el verano",
+          "rightContent": "ancora o efeito em um problema coletivo concreto",
+          "sequenceItem": 3
+        },
+        {
+          "id": "b52e3f93-ef34-429b-8a64-0740a0b0f91f",
+          "leftContent": "a gran escala",
+          "rightContent": "desloca a cautela para custo e impacto de expansão",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ]
+}

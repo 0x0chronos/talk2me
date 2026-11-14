@@ -1,0 +1,592 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+    "attemptId": "996139df-cee6-4bd5-a75f-2543f5c22b18",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "d360b766-22d2-4fea-87e8-7aa4256cf08e",
+      "090fd7ba-c494-42b4-b081-6b5622b1d9ec",
+      "a12959ce-2ef6-4c04-9341-02d50170ab1d",
+      "affbb212-134e-47a5-af64-a9d4c3399a08",
+      "c54792a3-7e23-4bc5-a672-ca0e87f45a63"
+    ],
+    "evaluationExerciseIds": [
+      "6b1b47aa-933f-4967-abf7-12a3b97c670a",
+      "ab7b5cd2-cb68-4588-9d43-3b0418994eef",
+      "aa959ce0-c377-452b-a608-3c8a1f93571a",
+      "2827bbd0-78d1-412f-b15f-49f4c7625520",
+      "cad0d3e1-0aeb-4f15-b630-9e6a4d1c5344"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:58:16.9983691Z"
+  },
+  "contents": [
+    {
+      "id": "e6016820-58c5-46ec-bbc4-18a90f003bd7",
+      "title": "Observe a imagem, escute o áudio e associe a expressão em espanhol ao cardápio.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "6380b159-75b2-44ef-9653-13e5d71c4211",
+          "textContent": "<p>Observe a palavra do restaurante.</p><p><strong>la carta</strong></p><p>Em português: o cardápio.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c278b6572874133a59af57420c1cfd4_la-carta-restaurante.png?Expires=1794099497&Signature=mLLsj6AmQMqQg9iSm8H5pmAU63ShBxbBPL4SOvGVq~OoAwk~f4JYTyx0qmgmvrhUxjVVgu4j3UP~BW1v8pYJM0a5vKHxXoZggWWv73oMAGzpA5Ox9iEZynJJKtX86P4wd1hwYlsojo5xws1aZeDLh5JXR9Gm6ebrvRqhQif5EY5ZUOutXqn4oJoVycDQoA0~-1sxxtYAbyBhgPfF5u1Dw9CLBM009F4M2TRzSsvRlhW2AMbEwv4v37-FgrdgPRCqVRmBJ0N8oLzISbxGcKytDHK5ZVPL1caRQEywsVtNS7KMuFK49ZmuMlYMR8zJocHufJfkw62nOAtTeSS3HJVk~w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9bb33f93e1454f8fa49fcd5d943ef4ed_la-carta.mp3?Expires=1794099497&Signature=jo2TFk47J9dLUgqOiWYxIrbv6t14QuUc0qMSunGKb9bVovyQj5sJDfDjmwQ1HI1bgYSCq3N8LhUY0b0GP8qlDGAdyOvnv4ZSo8ewn2QqM0FW-3seAxNRUaSenRUBjxmS7bspe4y3mFmMy6z6eETTFtn6YdkEvec6RfCjWzi8MZDDnVBPinRdgz1Hs07vMiS2YMlO36rrW4TF6F7FzQORTGnUwwpHY3fmCaali2Dq0vk~l87db1hicXDSa4bz7chMz5lfTngt5VRPfKhTJ~e84WBlPPbKRd0fBDg8Vdyze-hA7gxH4T3ft2Tvcjd99NLVjxDs~hPr2ih0DpwXjtoe7Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4820ad7a-877f-4cc5-acc3-588be7018c49",
+      "title": "Leia o cartão e ligue `la carta` ao momento de escolher comida e bebida.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "68976ec4-2df4-465e-ad12-a2af485bbc46",
+          "textContent": "<p>No restaurante, <strong>la carta</strong> é a lista de pratos e bebidas.</p><p><strong>¿Podría traernos la carta?</strong></p><p>Essa frase pede o cardápio de forma educada.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "87f8a590-37f2-4f93-843b-c1147c6eeb08",
+      "title": "Escute o áudio e associe a palavra em espanhol ao ato de reservar mesa.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "6fe2141f-5bf6-4bb8-bb7e-d272d4833251",
+          "textContent": "<p>Observe outra palavra útil ao chegar.</p><p><strong>la reserva</strong></p><p>Em português: a reserva.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b311ce1b18c44aa9bced8e7588ad4c02_la-reserva.mp3?Expires=1794099497&Signature=N-akf3f8yA-XVDA1xM7ZAHeqOeE3XXFKmbup~QZOyRMkiZFA5ysssxfEJytCvlkU~e9SvP-Dduzme-rB43szrMqvMnUGPHhVx3LvFTE-KM3~SJ4FVeZf7p79-IOusmOrXOjNy0M5tAPYvfIQ-f2KE-jGAMA6aW1Lj6KB-Jr9~Rdzr85AUvKcvB9YQ62RIDqD6SfdwOeBgm5NDhsYh3yXr8Z7xdTpKdrzXxPuUEHlys-sNC-WQzB~JBcUQuMowoDW~DfzGsJI6v2oI7wbp~85IZrM1KLAZ-JDpqMxXYQAJxAZOYoupUmzW8fx6LGjcolqoJM4VNt09svzk83-VgBAqg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "faad666c-97ac-4de1-b1a1-120a564e82d1",
+      "title": "Leia a frase e observe como o nome da reserva aparece em espanhol.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "8f502660-f389-477b-b7c1-dc8545ae5bb6",
+          "textContent": "<p>Quando a mesa já está marcada, você pode dizer:</p><p><strong>Tengo una reserva a nombre de Pedro.</strong></p><p><strong>a nombre de</strong> mostra o nome usado na reserva.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "21fcf40a-2c74-4310-a6b9-e9c9e3b58aae",
+      "title": "Escute o áudio, leia a frase e associe a expressão ao momento de encerrar a refeição.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "346f2dbc-78b4-4420-8c25-cf5a836c3bae",
+          "textContent": "<p>Observe a frase útil para pagar.</p><p><strong>La cuenta, por favor.</strong></p><p>Em português: A conta, por favor.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/88ceb0d22b5e4984b37d42253a603349_la-cuenta-por-favor.mp3?Expires=1794099497&Signature=elNrEmUpQ9hKsWjFYRPfCn8-vqRadpiftFIJRwlGplzEBAIhTHjrKNZ8CcnIEJ-3sdpPJGr2KiTb1Z5xEQfBydlnPhKcRHqlhM9nb-DwhjdRkxCND7joDpBKuyL-llHenKFN1MxvSB2BX1BDY3GDw5aFCN0L1nMSXpuLm0EzmTWdJ0CQBnVEdmQqQm5zWzPJdWVt5FY38vZZJpkBqkiGo6NMEFsx6TTb8c2e8Q8AIlr7FEnneGh0D5Aemzqz3eTqcziK9as1kIUNmsQdUGW4jcU335NBNSweDgOkuzFov8HdeJXUXDUOu5cfg4c0NaJD1AIw53k61GDmnV1PGwEqQQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7f9ca841-3ea5-4d79-9a53-ef4626b63886",
+      "title": "Leia o cartão e conecte a frase ao momento em que a pessoa quer pagar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "c4b53dc0-0426-4e4e-9de1-cd0670c27bfd",
+          "textContent": "<p>Use <strong>La cuenta, por favor.</strong> quando a refeição já terminou.</p><p>Essa é uma forma simples e educada de pedir para pagar.</p><p><strong>por favor</strong> mantém o pedido cordial.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e5fb245d-2833-4296-b4b9-2b040e872b7d",
+      "title": "Compare os dois termos e note que eles podem se sobrepor, mas nem sempre significam exatamente a mesma coisa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "89b4ae14-f4d1-4d3d-a881-1d0dfec3de29",
+          "textContent": "<p>Em muitos lugares, <strong>el menú</strong> pode aparecer no uso cotidiano como cardápio.</p><p>Mas <strong>la carta</strong> costuma apontar com mais clareza para a lista de pratos e bebidas.</p><p>Muitas vezes, <strong>el menú</strong> também pode indicar uma opção fechada, com preço fixo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a08ffebe-9aa5-4bae-a4fe-012ee999396d",
+      "title": "Leia a sequência final e associe cada frase a um momento comum da experiência no restaurante.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "d23d50db-3e12-4fd9-ac67-1df2173c1904",
+          "textContent": "<p>Em uma situação real de restaurante, estas expressões podem aparecer nesta ordem:</p><ul><li><strong>Tengo una reserva a nombre de Pedro.</strong></li><li><strong>¿Podría traernos la carta?</strong></li><li><strong>La cuenta, por favor.</strong></li></ul><p>Com isso, você já reconhece linguagem útil para chegar, consultar o cardápio e encerrar a refeição.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "d360b766-22d2-4fea-87e8-7aa4256cf08e",
+      "title": "Relacione a expressão ao momento",
+      "content": "<p>Ligue cada expressão central da aula ao uso mais direto dentro da sequência de restaurante.</p>",
+      "contentPlain": "Ligue cada expressão central da aula ao uso mais direto dentro da sequência de restaurante.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap da aula organiza reserva, cardápio e conta como momentos diferentes da ida ao restaurante.",
+      "feedbackError": "O recap da aula organiza reserva, cardápio e conta como momentos diferentes da ida ao restaurante.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "09b9688c-5913-466c-8fad-46c44bad7789",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d360b766-22d2-4fea-87e8-7aa4256cf08e"
+        },
+        {
+          "id": "efa5a959-b111-42da-97b2-ef88cb4fe7a8",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d360b766-22d2-4fea-87e8-7aa4256cf08e"
+        }
+      ],
+      "associations": [
+        {
+          "id": "7f5de0ef-ed90-42e1-8ee8-7cae3e172f99",
+          "exerciseId": "d360b766-22d2-4fea-87e8-7aa4256cf08e",
+          "leftContent": "la reserva",
+          "rightContent": "confirmar uma mesa já marcada",
+          "sequenceItem": 1
+        },
+        {
+          "id": "921c49a9-9547-491c-912b-3ec403c5ea32",
+          "exerciseId": "d360b766-22d2-4fea-87e8-7aa4256cf08e",
+          "leftContent": "la carta",
+          "rightContent": "pedir o cardápio",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c651a910-58ac-4041-bd57-7e3bcb91e17c",
+          "exerciseId": "d360b766-22d2-4fea-87e8-7aa4256cf08e",
+          "leftContent": "La cuenta, por favor.",
+          "rightContent": "pedir para pagar no fim",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "090fd7ba-c494-42b4-b081-6b5622b1d9ec",
+      "title": "Escolha o termo mais específico",
+      "content": "<p>No contraste final da aula, qual expressão aponta com mais clareza para o cardápio do restaurante?</p>",
+      "contentPlain": "No contraste final da aula, qual expressão aponta com mais clareza para o cardápio do restaurante?",
+      "fileUrl": null,
+      "feedbackSuccess": "No contraste final da aula, la carta aparece como o termo mais claro para a lista de pratos e bebidas.",
+      "feedbackError": "No contraste final da aula, la carta aparece como o termo mais claro para a lista de pratos e bebidas.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0d92255d-ed2e-4f55-8896-63e9376e3f79",
+          "textContent": "la reserva",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "090fd7ba-c494-42b4-b081-6b5622b1d9ec"
+        },
+        {
+          "id": "5722e98f-f4d9-46e8-a965-ad7164585e0c",
+          "textContent": "la cuenta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "090fd7ba-c494-42b4-b081-6b5622b1d9ec"
+        },
+        {
+          "id": "d4863bfe-fa05-4b64-907b-84f01a06a3bc",
+          "textContent": "el menú",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "090fd7ba-c494-42b4-b081-6b5622b1d9ec"
+        },
+        {
+          "id": "eeecfba0-ed8b-418e-8bfb-2dcc54e2e4f9",
+          "textContent": "la carta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "090fd7ba-c494-42b4-b081-6b5622b1d9ec"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a12959ce-2ef6-4c04-9341-02d50170ab1d",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase usada para pedir a conta.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase usada para pedir a conta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/88ceb0d22b5e4984b37d42253a603349_la-cuenta-por-favor.mp3?Expires=1794099497&Signature=elNrEmUpQ9hKsWjFYRPfCn8-vqRadpiftFIJRwlGplzEBAIhTHjrKNZ8CcnIEJ-3sdpPJGr2KiTb1Z5xEQfBydlnPhKcRHqlhM9nb-DwhjdRkxCND7joDpBKuyL-llHenKFN1MxvSB2BX1BDY3GDw5aFCN0L1nMSXpuLm0EzmTWdJ0CQBnVEdmQqQm5zWzPJdWVt5FY38vZZJpkBqkiGo6NMEFsx6TTb8c2e8Q8AIlr7FEnneGh0D5Aemzqz3eTqcziK9as1kIUNmsQdUGW4jcU335NBNSweDgOkuzFov8HdeJXUXDUOu5cfg4c0NaJD1AIw53k61GDmnV1PGwEqQQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A prática oral desta aula ativa a frase usada para encerrar a refeição e pedir a conta.",
+      "feedbackError": "A prática oral desta aula ativa a frase usada para encerrar a refeição e pedir a conta.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "La cuenta, por favor.",
+      "typeSpecificData": "{\"expectedText\":\"La cuenta, por favor.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/88ceb0d22b5e4984b37d42253a603349_la-cuenta-por-favor.mp3?Expires=1794099497\\u0026Signature=elNrEmUpQ9hKsWjFYRPfCn8-vqRadpiftFIJRwlGplzEBAIhTHjrKNZ8CcnIEJ-3sdpPJGr2KiTb1Z5xEQfBydlnPhKcRHqlhM9nb-DwhjdRkxCND7joDpBKuyL-llHenKFN1MxvSB2BX1BDY3GDw5aFCN0L1nMSXpuLm0EzmTWdJ0CQBnVEdmQqQm5zWzPJdWVt5FY38vZZJpkBqkiGo6NMEFsx6TTb8c2e8Q8AIlr7FEnneGh0D5Aemzqz3eTqcziK9as1kIUNmsQdUGW4jcU335NBNSweDgOkuzFov8HdeJXUXDUOu5cfg4c0NaJD1AIw53k61GDmnV1PGwEqQQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "affbb212-134e-47a5-af64-a9d4c3399a08",
+      "title": "Escute e associe as formas da aula",
+      "content": "<p>Recupere as três expressões centrais da aula ligando cada áudio ao texto correspondente.</p>",
+      "contentPlain": "Recupere as três expressões centrais da aula ligando cada áudio ao texto correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ligar escuta e escrita nas três expressões curtas de restaurante da aula.",
+      "feedbackError": "Aqui o foco é ligar escuta e escrita nas três expressões curtas de restaurante da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "b9573d99-d687-460b-841a-334fe6a2683a",
+          "exerciseId": "affbb212-134e-47a5-af64-a9d4c3399a08",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9bb33f93e1454f8fa49fcd5d943ef4ed_la-carta.mp3?Expires=1794099497&Signature=jo2TFk47J9dLUgqOiWYxIrbv6t14QuUc0qMSunGKb9bVovyQj5sJDfDjmwQ1HI1bgYSCq3N8LhUY0b0GP8qlDGAdyOvnv4ZSo8ewn2QqM0FW-3seAxNRUaSenRUBjxmS7bspe4y3mFmMy6z6eETTFtn6YdkEvec6RfCjWzi8MZDDnVBPinRdgz1Hs07vMiS2YMlO36rrW4TF6F7FzQORTGnUwwpHY3fmCaali2Dq0vk~l87db1hicXDSa4bz7chMz5lfTngt5VRPfKhTJ~e84WBlPPbKRd0fBDg8Vdyze-hA7gxH4T3ft2Tvcjd99NLVjxDs~hPr2ih0DpwXjtoe7Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "la carta",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d229d38e-074d-463e-b1d4-b6dc2c599586",
+          "exerciseId": "affbb212-134e-47a5-af64-a9d4c3399a08",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b311ce1b18c44aa9bced8e7588ad4c02_la-reserva.mp3?Expires=1794099497&Signature=N-akf3f8yA-XVDA1xM7ZAHeqOeE3XXFKmbup~QZOyRMkiZFA5ysssxfEJytCvlkU~e9SvP-Dduzme-rB43szrMqvMnUGPHhVx3LvFTE-KM3~SJ4FVeZf7p79-IOusmOrXOjNy0M5tAPYvfIQ-f2KE-jGAMA6aW1Lj6KB-Jr9~Rdzr85AUvKcvB9YQ62RIDqD6SfdwOeBgm5NDhsYh3yXr8Z7xdTpKdrzXxPuUEHlys-sNC-WQzB~JBcUQuMowoDW~DfzGsJI6v2oI7wbp~85IZrM1KLAZ-JDpqMxXYQAJxAZOYoupUmzW8fx6LGjcolqoJM4VNt09svzk83-VgBAqg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "la reserva",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4c7baf31-a887-44a6-b4be-c89b17417610",
+          "exerciseId": "affbb212-134e-47a5-af64-a9d4c3399a08",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/88ceb0d22b5e4984b37d42253a603349_la-cuenta-por-favor.mp3?Expires=1794099497&Signature=elNrEmUpQ9hKsWjFYRPfCn8-vqRadpiftFIJRwlGplzEBAIhTHjrKNZ8CcnIEJ-3sdpPJGr2KiTb1Z5xEQfBydlnPhKcRHqlhM9nb-DwhjdRkxCND7joDpBKuyL-llHenKFN1MxvSB2BX1BDY3GDw5aFCN0L1nMSXpuLm0EzmTWdJ0CQBnVEdmQqQm5zWzPJdWVt5FY38vZZJpkBqkiGo6NMEFsx6TTb8c2e8Q8AIlr7FEnneGh0D5Aemzqz3eTqcziK9as1kIUNmsQdUGW4jcU335NBNSweDgOkuzFov8HdeJXUXDUOu5cfg4c0NaJD1AIw53k61GDmnV1PGwEqQQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La cuenta, por favor.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "c54792a3-7e23-4bc5-a672-ca0e87f45a63",
+      "title": "Identifique as palavras da conta",
+      "content": "<p>Escute a frase usada para pagar e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a frase usada para pagar e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/88ceb0d22b5e4984b37d42253a603349_la-cuenta-por-favor.mp3?Expires=1794099497&Signature=elNrEmUpQ9hKsWjFYRPfCn8-vqRadpiftFIJRwlGplzEBAIhTHjrKNZ8CcnIEJ-3sdpPJGr2KiTb1Z5xEQfBydlnPhKcRHqlhM9nb-DwhjdRkxCND7joDpBKuyL-llHenKFN1MxvSB2BX1BDY3GDw5aFCN0L1nMSXpuLm0EzmTWdJ0CQBnVEdmQqQm5zWzPJdWVt5FY38vZZJpkBqkiGo6NMEFsx6TTb8c2e8Q8AIlr7FEnneGh0D5Aemzqz3eTqcziK9as1kIUNmsQdUGW4jcU335NBNSweDgOkuzFov8HdeJXUXDUOu5cfg4c0NaJD1AIw53k61GDmnV1PGwEqQQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "La cuenta, por favor. fecha a refeição com um pedido curto e educado para pagar.",
+      "feedbackError": "La cuenta, por favor. fecha a refeição com um pedido curto e educado para pagar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "280d013e-fee9-4e34-b4ac-e01865ea417f",
+          "textContent": "favor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c54792a3-7e23-4bc5-a672-ca0e87f45a63"
+        },
+        {
+          "id": "323fa674-45cf-4abd-833d-2af89dd7d970",
+          "textContent": "carta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c54792a3-7e23-4bc5-a672-ca0e87f45a63"
+        },
+        {
+          "id": "44965e1e-eda2-44c6-9287-409f7e6cb485",
+          "textContent": "la",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c54792a3-7e23-4bc5-a672-ca0e87f45a63"
+        },
+        {
+          "id": "65b05202-563e-4c0d-bfe3-a8e2fcd74aeb",
+          "textContent": "cuenta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c54792a3-7e23-4bc5-a672-ca0e87f45a63"
+        },
+        {
+          "id": "74211515-a4c9-4131-8ef7-d01fbf69739a",
+          "textContent": "por",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c54792a3-7e23-4bc5-a672-ca0e87f45a63"
+        },
+        {
+          "id": "a07a8484-cd5e-4839-ba25-6c34e23f47f2",
+          "textContent": "reserva",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c54792a3-7e23-4bc5-a672-ca0e87f45a63"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "6b1b47aa-933f-4967-abf7-12a3b97c670a",
+      "title": "Recupere a frase da chegada",
+      "content": "<p>Agora o apoio é menor: escute a frase completa e marque só as palavras que realmente aparecem nela.</p>",
+      "contentPlain": "Agora o apoio é menor: escute a frase completa e marque só as palavras que realmente aparecem nela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5d1998b74452409e8fcd8afcf34dc536_tengo-una-reserva-a-nombre-de-pedro.mp3?Expires=1794099497&Signature=nghZZya5JzfvpIPerg9ahQLHlG8cG2-elb8Bjeo0JKsbt7gNogRVEWxSptHToewiN56ra~ItYARE149GaCdwMaBx2yDjjeFAoAdVt0K3PxCMQ4G-nEn7YSoIcq1SmDOyaVS4oGR9jIOLGMkP~GjgK4GKBhOWuBIwenMB9QyDJ21qrRcpXMZ3oU661FlNXon0HVt9qyli2FIUFcBf9TKcTyn3kn1uI6CSmwh4my-c0uFqBPfp2bn0pJQN1VKYifrICEpHGx8Xrq5R3Tz~InpRyhFSokt8W581fgJ6f~Y~GQ2PJXsgg5z4dxXrfe7mWSc93Am33RWDMKKYMg4TRKuwKg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, tengo una reserva a nombre de Pedro junta reserva e identificação do nome na chegada.",
+      "feedbackError": "Nesta aula, tengo una reserva a nombre de Pedro junta reserva e identificação do nome na chegada.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "006e72a9-adc1-40d1-97ec-ba53fbc57d1e",
+          "textContent": "nombre",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6b1b47aa-933f-4967-abf7-12a3b97c670a"
+        },
+        {
+          "id": "1fc5f77d-f41b-4d44-9689-c8b8a8920f2b",
+          "textContent": "tengo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6b1b47aa-933f-4967-abf7-12a3b97c670a"
+        },
+        {
+          "id": "4015a485-6d12-445d-a3a2-3959fb07de70",
+          "textContent": "favor",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6b1b47aa-933f-4967-abf7-12a3b97c670a"
+        },
+        {
+          "id": "4c2dd483-391b-4e12-b091-876fc0199147",
+          "textContent": "carta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6b1b47aa-933f-4967-abf7-12a3b97c670a"
+        },
+        {
+          "id": "6a427fb0-544f-415e-8915-51b3bf2287b3",
+          "textContent": "Pedro",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6b1b47aa-933f-4967-abf7-12a3b97c670a"
+        },
+        {
+          "id": "6bdfba80-512f-4465-b541-d84aace5b259",
+          "textContent": "reserva",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6b1b47aa-933f-4967-abf7-12a3b97c670a"
+        },
+        {
+          "id": "8165cf0f-5e88-47f2-9825-8bab99e363be",
+          "textContent": "cuenta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6b1b47aa-933f-4967-abf7-12a3b97c670a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "ab7b5cd2-cb68-4588-9d43-3b0418994eef",
+      "title": "Complete a frase da reserva",
+      "content": "<p>Tengo una _______ a nombre de Pedro.</p><p>Tradução: Tenho uma reserva no nome de Pedro.</p>",
+      "contentPlain": "Tengo una _______ a nombre de Pedro. Tradução: Tenho uma reserva no nome de Pedro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com la reserva, a aula mostra como dizer no restaurante que a mesa já está marcada.",
+      "feedbackError": "Com la reserva, a aula mostra como dizer no restaurante que a mesa já está marcada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "reserva",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "aa959ce0-c377-452b-a608-3c8a1f93571a",
+      "title": "Complete o pedido para pagar",
+      "content": "<p>La ______, por favor.</p><p>Tradução: A conta, por favor.</p>",
+      "contentPlain": "La ______, por favor. Tradução: A conta, por favor.",
+      "fileUrl": null,
+      "feedbackSuccess": "La cuenta, por favor. fecha a refeição com um pedido simples e educado para pagar.",
+      "feedbackError": "La cuenta, por favor. fecha a refeição com um pedido simples e educado para pagar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuenta",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2827bbd0-78d1-412f-b15f-49f4c7625520",
+      "title": "Recupere a sequência do restaurante",
+      "content": "<p>Ligue cada gravação à frase completa e reconstrua a sequência funcional de chegada, cardápio e pagamento.</p>",
+      "contentPlain": "Ligue cada gravação à frase completa e reconstrua a sequência funcional de chegada, cardápio e pagamento.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final da aula organiza reserva, cardápio e conta em uma sequência útil de restaurante.",
+      "feedbackError": "O recap final da aula organiza reserva, cardápio e conta em uma sequência útil de restaurante.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "7097c460-379b-4f6a-a4d0-06869bb47616",
+          "exerciseId": "2827bbd0-78d1-412f-b15f-49f4c7625520",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5d1998b74452409e8fcd8afcf34dc536_tengo-una-reserva-a-nombre-de-pedro.mp3?Expires=1794099497&Signature=nghZZya5JzfvpIPerg9ahQLHlG8cG2-elb8Bjeo0JKsbt7gNogRVEWxSptHToewiN56ra~ItYARE149GaCdwMaBx2yDjjeFAoAdVt0K3PxCMQ4G-nEn7YSoIcq1SmDOyaVS4oGR9jIOLGMkP~GjgK4GKBhOWuBIwenMB9QyDJ21qrRcpXMZ3oU661FlNXon0HVt9qyli2FIUFcBf9TKcTyn3kn1uI6CSmwh4my-c0uFqBPfp2bn0pJQN1VKYifrICEpHGx8Xrq5R3Tz~InpRyhFSokt8W581fgJ6f~Y~GQ2PJXsgg5z4dxXrfe7mWSc93Am33RWDMKKYMg4TRKuwKg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo una reserva a nombre de Pedro.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "eacd0604-4b82-4507-8cfc-66ca1103d908",
+          "exerciseId": "2827bbd0-78d1-412f-b15f-49f4c7625520",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ed8e6f7436ea4908971f525c0a265a38_podria-traernos-la-carta.mp3?Expires=1794099497&Signature=yg5WgRl006V7V3HJjcD4HajY17UGISPyYvy81n-AorK1Nocpoztq589Drw6WuebbfnHa6lQamY2XGecN2C5GzEihFG50jWzq7wshiDMztN6UYM4m94DzhHj7wPkOr~qXpJQuxIzFpFXo69Te5NnYcOgKEh2T8yWxgEAyQ48xjctM0rV2DFO0iaIh~th1kZMdS37naip0AVDpWlE6pfEUxaxMuVoSpFBwERRpnzDPaRffGBMGcbvttuYFKoOXcP2NUdDE0DIX9l~kcvCsoaZn3e7BOhLT-Ryn2ozTIQUYVyI55BqN1~Pe431x9BPrslDR4ioQF~KJqCOiuGhf7IDCJg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Podría traernos la carta?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "172f2f80-59d0-4fba-88bc-04b595f6b637",
+          "exerciseId": "2827bbd0-78d1-412f-b15f-49f4c7625520",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/88ceb0d22b5e4984b37d42253a603349_la-cuenta-por-favor.mp3?Expires=1794099497&Signature=elNrEmUpQ9hKsWjFYRPfCn8-vqRadpiftFIJRwlGplzEBAIhTHjrKNZ8CcnIEJ-3sdpPJGr2KiTb1Z5xEQfBydlnPhKcRHqlhM9nb-DwhjdRkxCND7joDpBKuyL-llHenKFN1MxvSB2BX1BDY3GDw5aFCN0L1nMSXpuLm0EzmTWdJ0CQBnVEdmQqQm5zWzPJdWVt5FY38vZZJpkBqkiGo6NMEFsx6TTb8c2e8Q8AIlr7FEnneGh0D5Aemzqz3eTqcziK9as1kIUNmsQdUGW4jcU335NBNSweDgOkuzFov8HdeJXUXDUOu5cfg4c0NaJD1AIw53k61GDmnV1PGwEqQQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La cuenta, por favor.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "cad0d3e1-0aeb-4f15-b630-9e6a4d1c5344",
+      "title": "Complete o pedido do cardápio",
+      "content": "<p>¿Podría traernos la _____?</p><p>Tradução: Poderia nos trazer o cardápio?</p>",
+      "contentPlain": "¿Podría traernos la _____? Tradução: Poderia nos trazer o cardápio?",
+      "fileUrl": null,
+      "feedbackSuccess": "Com la carta, a aula mostra a fórmula educada para pedir o cardápio no restaurante.",
+      "feedbackError": "Com la carta, a aula mostra a fórmula educada para pedir o cardápio no restaurante.",
+      "answerType": "buildWord",
+      "expectedAnswer": "carta",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Aprender palavras para restaurantes"
+}

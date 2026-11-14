@@ -1,0 +1,563 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+    "attemptId": "712315f9-c52e-41c0-ad1c-dcae452f4eb6",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "0ed7cd02-4e5c-4f62-8268-a36f3f51a743",
+      "1511bafb-9fac-44cb-a06e-5ec7e9af4905",
+      "33643376-b16b-464f-9bba-14d09c250210",
+      "5abd4709-be47-454b-8fc3-6a93396c4b85",
+      "0c48ac45-bf23-4f35-8382-92d9ba669a07"
+    ],
+    "evaluationExerciseIds": [
+      "dd491a63-cc08-41d6-8814-b35e9dcece88",
+      "19f5c1d0-4416-4680-9ff0-b6367b2f265c",
+      "b77cfb71-b843-475d-acd5-4ceb65219d47",
+      "5ba8b729-8b24-4b24-b4cc-7483e6e6b9dd",
+      "73963c7b-a285-4fba-a94b-9099b8c75de3"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:56:27.6250279Z"
+  },
+  "contents": [
+    {
+      "id": "c5588c2d-50ef-43c1-9039-a780e0395a38",
+      "title": "Escute e observe a pergunta em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "6d929cb0-a147-430b-9caf-d4481ebf9f32",
+          "textContent": "<p>Escute a pergunta e observe a forma escrita.</p><p><strong>¿Qué tal?</strong></p><p>Em português: <strong>Como vai?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/453b93b195c540549c8ab3386322a264_l01b01-que-tal.png?Expires=1794099388&Signature=AsX0Uv5QhYYhLN7qpHufzFUp3oaD0JGOLz5E5P9WPdy-Qwrwl-i7Kw-7jVW4lxc-J5JjtPE1S9eClXgubDOQG3-XXORtpBZpm2NkcTHJPca6-66VPhbX7JvTHZXDNLShB67QFoAoi~00ivDjK9d0srUJRmm8Wvatq8qcsStX2PDJP~4BS9OmcCuIvdSSj-lnWTfCEeSglQ4LyANPbPT-00WD2ookeGPduw-fF5RUJ8pfSng-TEeKMBEAuMGPiRH5OjOdknYuo5x~4uuAdqhNtTh6ExH6jS8KEiFK5cOqiazqZqjQUc45QZgNScsIx5Nf1RoFnQefPx0gpJZGowEA-A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/83761d18523f418cba6c79268fe31b3a_l01b01-que-tal.mp3?Expires=1794099388&Signature=rW52yUc4AaQ4RBH8Tw8ObxOjk089FbepQMiFOAksjtsr8D4UDR2XX1f5UosvxEVodo4OtmAyQU2eg893SgJ4ORBacy-Ul72XCQk6zZGbDlU-GqNmipwhTNYoHXd5-FR2myG~x7HiBx13P4kMYxn4OnFvIPYx4ByCBn2arYM7wbMUbmkmgt1DJUbFT4fKfoRJIGcOTxuYGf26a38cCyZhJLdHIdTqfFTObRy1blnuQGwhDE3pv78Nlu0OeDWGJJqiM1IDEHc1yamkwj39HoRntYbO2BHgoOXw~Gx1YAfJdMjzEKx2I-UDk~oJl8zkYfGMHfoOe8X5fz9Ity~IFqyj~w__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "38501f52-9e77-4ce2-9df8-05ce62f6a0f4",
+      "title": "Leia os contextos e ligue a frase a situações rápidas do dia a dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "7766447a-f211-4fd5-bd3d-bedd28862043",
+          "textContent": "<p><strong>¿Qué tal?</strong> cabe bem em contatos curtos.</p><ul><li>ao cruzar com alguém no corredor</li><li>ao chegar à aula</li><li>ao abrir uma conversa rápida</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9678126d-4f19-4700-a151-7826fa4fc958",
+      "title": "Escute e observe a resposta curta em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "e0bc68d6-7788-49ee-863e-7dce87c0f876",
+          "textContent": "<p>Escute a resposta e observe a forma escrita.</p><p><strong>Bien, gracias.</strong></p><p>Em português: <strong>Bem, obrigada/o.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/54095bbbe66741d58b6f3f50b9e96472_l01b03-bien-gracias.png?Expires=1794099388&Signature=tgP~wCzYxiRo1g6dDWKLtadh5vBhctNjwwIH25a27PQFVPf6ewuyvHME4qJVc3kt~uo-DPv6adHy8UY8~5L5epzBreqT7Z5ub6VvLQ1niU1lkWgZCWGCZeHkbOmKtwUsKehrgAvl2XMEQ0W5UzoZDYi~FF91~qhlTFBaxBCTq36dZZglisvXE4eXy4G-biK6zOngSvSHNKK404T2ybdUaO1u3xSS8wtUX8NA3DQsWo7plaQ4Vwfr63WZPNnGwco6h6-m2mzMj5Md-ON0ZmoQ2iORGUwe8pSM61yS06pLT~NiJ0F-8M2VIJ4jETqdAA5kBB2nmczkJ68cfuSy0W6oMg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d1a35425ff6c494eb3c1e42b1af33d7d_l01b03-bien-gracias.mp3?Expires=1794099388&Signature=QMkd2UjGnMmwC6rCPVISQ4k5hmGpMhCbLRzPHlRRwDNVCFjNGQdzqyG9-r6lN3UN7GGzxsAayRgek2ZLxpNZQy5IBSpOG7rXPnSmhznkc5cojsLWJKj~F7G8aiL--53-XJ~R5cwSVLH5XZCcinTGFCkxRly3iXEeMNODdGBCf4tDQqnawaTo68jtZJrAjpdqRhTAZxo7VzYt~mdSiOpnBODRgRFCV2NUAOKsSk~yLPn7CLLycycfcuMwvaxXyEiSWBYiNxGzxbYitUuRncoV-SP9Po81atKip69Fn7q0H0pp9WZfB2DQ74MI63YHlg1g10E-FBrhgTTsq1TjLcXYlg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "94e25470-00e7-4371-9f40-4b16b477ec75",
+      "title": "Leia a nota e observe por que a resposta soa educada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "e46070aa-2895-44fd-bc78-74b82947f827",
+          "textContent": "<p><strong>Bien, gracias.</strong> responde de forma simples e gentil.</p><p><strong>gracias</strong> ajuda a manter o contato leve quando a conversa está só começando.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fa507ed3-2834-4f0c-9971-a5ff7e8286c5",
+      "title": "Leia a cena e veja qual fala abre e qual fala fecha o contato.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "86e94b87-cc11-47af-a7f5-7e689c362e23",
+          "textContent": "<p>Imagine duas pessoas se encontrando na entrada da aula.</p><p>A primeira abre com <strong>¿Qué tal?</strong>.</p><p>A segunda fecha a troca com <strong>Bien, gracias.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "df6bc868-e8d9-4911-9ccd-f890adde146c",
+      "title": "Na entrada da aula",
+      "description": "<p>Agora veja as duas falas dentro da mesma cena curta.</p>",
+      "contentType": 7,
+      "sequenceItem": 6,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Qué tal?</div>\n  <div style=\"opacity: 0.45;\">Como vai?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1c4193d4c53d43c484eb09f9e4f4c138_l01b01-que-tal.mp3?Expires=1794099388&Signature=SRQYVrpa4Iz7BxdcmD031bTD6h69R4pMsqCUrr3uW9Ld-8XwkB6Gc9ctT76slutwF8T52KsLqBuDOwydkHmUU750dPQ~Hdl2AOXwJ~lhe2TytmB~AfLAzDPH8gZRQbLt~omIYWnJDrHZK5KwBnGHfGxtagYyiAbjst2rHPevScoSTit4NGM2vs15a1DQEGYN6ar8taUzLo3e0xjH12GWRBPJIvDO3dibua972eXGRyyG7B42XkMLCn4Am7qQgDueqdZFdzgBC3txO-YU7P8Up1bCGiiHpMAOPZWc1hMcscOSLgglGCVhoJbtdz9JAm5RMxuVoIqkpieLg5qh8MKiSw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Bien, gracias.</div>\n  <div style=\"opacity: 0.45;\">Bem, obrigado(a).</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d515a5e4efc44c11b41fb648ccf9f72b_l01b03-bien-gracias.mp3?Expires=1794099388&Signature=PjD1pjJEJ8auaUJb~oBhHLk7Fvr04CCjGryHcfR4ROisvESIHRPVZtTmI0~D6FmSO9VwmiPKYmjYjMpKLesev5aaFYRPsBVFxE~JbrTHAG~a2xkkde7Tn4E9T~cDH4RCajGqYT997pXVGptd7sq7WQVnu6d2Zvcky~B0GOwJWFPqSwwpCgS3jwtKr4WqXfk~5Wqpd8PvBTUvAby02VjeBEO59bE-aL9mEydytszfmoBhbi3JMg~LBp7pOeoqsGAkoke4iUbd-2Kf6SfetnmGsck6RDWxX9erRiVOg0ovFe-3qirkihs9p58tOcayqyyIOwxi2fpYYAA8Msb0mUEtLA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "7e973d0b-4991-4351-baa7-b848906842da",
+      "title": "Observe a cena final e escute a troca completa.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "d51db695-970a-4659-a16e-2ef2ca65f409",
+          "textContent": "<p>Essa troca aparece em momentos rápidos, como na entrada da aula, numa pausa no trabalho ou ao encontrar um vizinho.</p><p><strong>¿Qué tal?</strong></p><p><strong>Bien, gracias.</strong></p><p>Em português: Como vai? Bem, obrigada/o.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/cd7f86df0b544bfda52925ec0e226e03_l01b07-encuentro-corto.png?Expires=1794099388&Signature=PMCAIDePDoOX-GTHkWb9pN4XI6vzFK-YyR~ZGGypNWvZWELxh-O4JfEfnOE4fvgommic~VJwepx4mHbaU3ADtmP8lRTHurLaefWv3CByG3Qt4a5bwtyclCUyksWKZUaCI3cjx62ZaEwngYxn99rZWnWX5uVvjkw4HbGkKraHYJBjmeS97oIIvVX9ycMrbVt1Y6y4dGbrQC5OTaeomwNprtZHfptQcDrKV9qwMHjZK3n9AFMV0h5C6jvlDG6Y3bQ8Bsgjd~paTRAHRBiJkYYuiVSCB58QZ-G8NEkfzRpgeMWJCzSk~xPUX0UHNGknNd2B54dV2YI3vaXSpjrpBKPPag__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5afd516219674e8ebad6b52b7f858001_A1_M1_L1_audio_c63ac3c9_troca-curta.mp3?Expires=1794099388&Signature=MGkOYq7FQheUW4VPwCreqDJYmrW0A77SgoLPfEJSjiSHfY9y3pPk64wb~ivqIoDAaizXnlJsBvvm6Ospd0-JWBewUc14VIiENEVWyqztY9GCfRj80e9QBw2xKniseRbDVli-ggQOmvbi4BI2p7uHSmvbshy-SVpaUyUG9rrira3g~WWyN-gs31-WXZJqhO0auKU5bVKewbc9eJjRBj1YBTlXyuVwbQZQqFT6rfMApM2P-w1LRHVtQ-tOZqkHahPukE5A5IEOIqBpTPrsYmpfu~VBX-EWOryOgKdzCBR8wUn7NbY0JDO93dcovFrOkoKhYuy0bVagNRo8KOqOIfWVQA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "0ed7cd02-4e5c-4f62-8268-a36f3f51a743",
+      "title": "Relacione frase e sentido",
+      "content": "<p>Junte cada frase central da aula ao significado correspondente.</p>",
+      "contentPlain": "Junte cada frase central da aula ao significado correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula liga ¿Qué tal? e Bien, gracias. aos sentidos básicos da troca.",
+      "feedbackError": "A aula liga ¿Qué tal? e Bien, gracias. aos sentidos básicos da troca.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2dbe5bc0-f536-45b9-b9b9-540a1f387ee7",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0ed7cd02-4e5c-4f62-8268-a36f3f51a743"
+        },
+        {
+          "id": "84683491-181c-4a6b-9f8b-197a3832238a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0ed7cd02-4e5c-4f62-8268-a36f3f51a743"
+        }
+      ],
+      "associations": [
+        {
+          "id": "44577e46-b89f-4683-ae36-404fe2479c32",
+          "exerciseId": "0ed7cd02-4e5c-4f62-8268-a36f3f51a743",
+          "leftContent": "¿Qué tal?",
+          "rightContent": "Como vai?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f086c5d9-8238-438b-80cb-3c70c4bfbc5a",
+          "exerciseId": "0ed7cd02-4e5c-4f62-8268-a36f3f51a743",
+          "leftContent": "Bien, gracias.",
+          "rightContent": "Bem, obrigado(a).",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "1511bafb-9fac-44cb-a06e-5ec7e9af4905",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a resposta curta em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a resposta curta em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d1a35425ff6c494eb3c1e42b1af33d7d_l01b03-bien-gracias.mp3?Expires=1794099388&Signature=QMkd2UjGnMmwC6rCPVISQ4k5hmGpMhCbLRzPHlRRwDNVCFjNGQdzqyG9-r6lN3UN7GGzxsAayRgek2ZLxpNZQy5IBSpOG7rXPnSmhznkc5cojsLWJKj~F7G8aiL--53-XJ~R5cwSVLH5XZCcinTGFCkxRly3iXEeMNODdGBCf4tDQqnawaTo68jtZJrAjpdqRhTAZxo7VzYt~mdSiOpnBODRgRFCV2NUAOKsSk~yLPn7CLLycycfcuMwvaxXyEiSWBYiNxGzxbYitUuRncoV-SP9Po81atKip69Fn7q0H0pp9WZfB2DQ74MI63YHlg1g10E-FBrhgTTsq1TjLcXYlg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A aula ativa Bien, gracias. como resposta breve e cordial.",
+      "feedbackError": "A aula ativa Bien, gracias. como resposta breve e cordial.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Bien, gracias.",
+      "typeSpecificData": "{\"expectedText\":\"Bien, gracias.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/d1a35425ff6c494eb3c1e42b1af33d7d_l01b03-bien-gracias.mp3?Expires=1794099388\\u0026Signature=QMkd2UjGnMmwC6rCPVISQ4k5hmGpMhCbLRzPHlRRwDNVCFjNGQdzqyG9-r6lN3UN7GGzxsAayRgek2ZLxpNZQy5IBSpOG7rXPnSmhznkc5cojsLWJKj~F7G8aiL--53-XJ~R5cwSVLH5XZCcinTGFCkxRly3iXEeMNODdGBCf4tDQqnawaTo68jtZJrAjpdqRhTAZxo7VzYt~mdSiOpnBODRgRFCV2NUAOKsSk~yLPn7CLLycycfcuMwvaxXyEiSWBYiNxGzxbYitUuRncoV-SP9Po81atKip69Fn7q0H0pp9WZfB2DQ74MI63YHlg1g10E-FBrhgTTsq1TjLcXYlg__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "33643376-b16b-464f-9bba-14d09c250210",
+      "title": "Escute e combine",
+      "content": "<p>Associe cada gravação à forma escrita correspondente.</p>",
+      "contentPlain": "Associe cada gravação à forma escrita correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula aproxima som e escrita nas duas falas da troca curta.",
+      "feedbackError": "A aula aproxima som e escrita nas duas falas da troca curta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "fb8992f2-916f-4ad2-a00b-c14bfe074369",
+          "exerciseId": "33643376-b16b-464f-9bba-14d09c250210",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/83761d18523f418cba6c79268fe31b3a_l01b01-que-tal.mp3?Expires=1794099388&Signature=rW52yUc4AaQ4RBH8Tw8ObxOjk089FbepQMiFOAksjtsr8D4UDR2XX1f5UosvxEVodo4OtmAyQU2eg893SgJ4ORBacy-Ul72XCQk6zZGbDlU-GqNmipwhTNYoHXd5-FR2myG~x7HiBx13P4kMYxn4OnFvIPYx4ByCBn2arYM7wbMUbmkmgt1DJUbFT4fKfoRJIGcOTxuYGf26a38cCyZhJLdHIdTqfFTObRy1blnuQGwhDE3pv78Nlu0OeDWGJJqiM1IDEHc1yamkwj39HoRntYbO2BHgoOXw~Gx1YAfJdMjzEKx2I-UDk~oJl8zkYfGMHfoOe8X5fz9Ity~IFqyj~w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué tal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b956c266-b220-4bfd-9738-8bb10f5fca90",
+          "exerciseId": "33643376-b16b-464f-9bba-14d09c250210",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d1a35425ff6c494eb3c1e42b1af33d7d_l01b03-bien-gracias.mp3?Expires=1794099388&Signature=QMkd2UjGnMmwC6rCPVISQ4k5hmGpMhCbLRzPHlRRwDNVCFjNGQdzqyG9-r6lN3UN7GGzxsAayRgek2ZLxpNZQy5IBSpOG7rXPnSmhznkc5cojsLWJKj~F7G8aiL--53-XJ~R5cwSVLH5XZCcinTGFCkxRly3iXEeMNODdGBCf4tDQqnawaTo68jtZJrAjpdqRhTAZxo7VzYt~mdSiOpnBODRgRFCV2NUAOKsSk~yLPn7CLLycycfcuMwvaxXyEiSWBYiNxGzxbYitUuRncoV-SP9Po81atKip69Fn7q0H0pp9WZfB2DQ74MI63YHlg1g10E-FBrhgTTsq1TjLcXYlg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Bien, gracias.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "5abd4709-be47-454b-8fc3-6a93396c4b85",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a pergunta da aula e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a pergunta da aula e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/83761d18523f418cba6c79268fe31b3a_l01b01-que-tal.mp3?Expires=1794099388&Signature=rW52yUc4AaQ4RBH8Tw8ObxOjk089FbepQMiFOAksjtsr8D4UDR2XX1f5UosvxEVodo4OtmAyQU2eg893SgJ4ORBacy-Ul72XCQk6zZGbDlU-GqNmipwhTNYoHXd5-FR2myG~x7HiBx13P4kMYxn4OnFvIPYx4ByCBn2arYM7wbMUbmkmgt1DJUbFT4fKfoRJIGcOTxuYGf26a38cCyZhJLdHIdTqfFTObRy1blnuQGwhDE3pv78Nlu0OeDWGJJqiM1IDEHc1yamkwj39HoRntYbO2BHgoOXw~Gx1YAfJdMjzEKx2I-UDk~oJl8zkYfGMHfoOe8X5fz9Ity~IFqyj~w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A escuta da aula ajuda a separar as palavras de ¿Qué tal?",
+      "feedbackError": "A escuta da aula ajuda a separar as palavras de ¿Qué tal?",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0711b627-e83e-47b6-bcdb-684f14c359de",
+          "textContent": "tal",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5abd4709-be47-454b-8fc3-6a93396c4b85"
+        },
+        {
+          "id": "5633d4be-566a-4518-9a48-acb3e076d81a",
+          "textContent": "gracias",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5abd4709-be47-454b-8fc3-6a93396c4b85"
+        },
+        {
+          "id": "631ea93e-658a-4f1a-99ce-06a5c1b88261",
+          "textContent": "qué",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5abd4709-be47-454b-8fc3-6a93396c4b85"
+        },
+        {
+          "id": "7372df62-6ff4-409b-9205-b7653af1b031",
+          "textContent": "bien",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5abd4709-be47-454b-8fc3-6a93396c4b85"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "0c48ac45-bf23-4f35-8382-92d9ba669a07",
+      "title": "Reconheça o uso da pergunta",
+      "content": "<p><strong>¿Qué tal?</strong> aparece em contatos rápidos. Em qual situação ela combina melhor?</p>",
+      "contentPlain": "¿Qué tal? aparece em contatos rápidos. Em qual situação ela combina melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula fixa ¿Qué tal? como pergunta breve de contato.",
+      "feedbackError": "A aula fixa ¿Qué tal? como pergunta breve de contato.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "87a1fa22-daf4-462a-b0b2-1fd60fc0c085",
+          "textContent": "Ao cruzar com alguém no corredor.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0c48ac45-bf23-4f35-8382-92d9ba669a07"
+        },
+        {
+          "id": "95b5d9dd-cb50-4a19-aeba-83b4f80952bd",
+          "textContent": "Ao responder de forma simples e gentil.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0c48ac45-bf23-4f35-8382-92d9ba669a07"
+        },
+        {
+          "id": "9743702c-971a-4e97-b05b-f9d998db5726",
+          "textContent": "Ao fechar a troca depois da pergunta.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0c48ac45-bf23-4f35-8382-92d9ba669a07"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "dd491a63-cc08-41d6-8814-b35e9dcece88",
+      "title": "Associe cada áudio à frase exata",
+      "content": "<p>Resolva pela escuta e diferencie pergunta, resposta e troca completa.</p>",
+      "contentPlain": "Resolva pela escuta e diferencie pergunta, resposta e troca completa.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula junta pergunta, resposta e troca completa na escuta.",
+      "feedbackError": "A aula junta pergunta, resposta e troca completa na escuta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "cb76b48c-c32b-428a-bab8-cd0946842549",
+          "exerciseId": "dd491a63-cc08-41d6-8814-b35e9dcece88",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/83761d18523f418cba6c79268fe31b3a_l01b01-que-tal.mp3?Expires=1794099388&Signature=rW52yUc4AaQ4RBH8Tw8ObxOjk089FbepQMiFOAksjtsr8D4UDR2XX1f5UosvxEVodo4OtmAyQU2eg893SgJ4ORBacy-Ul72XCQk6zZGbDlU-GqNmipwhTNYoHXd5-FR2myG~x7HiBx13P4kMYxn4OnFvIPYx4ByCBn2arYM7wbMUbmkmgt1DJUbFT4fKfoRJIGcOTxuYGf26a38cCyZhJLdHIdTqfFTObRy1blnuQGwhDE3pv78Nlu0OeDWGJJqiM1IDEHc1yamkwj39HoRntYbO2BHgoOXw~Gx1YAfJdMjzEKx2I-UDk~oJl8zkYfGMHfoOe8X5fz9Ity~IFqyj~w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué tal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "10aafa37-8f2d-4e2b-bfca-1f7b0e9f4593",
+          "exerciseId": "dd491a63-cc08-41d6-8814-b35e9dcece88",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d1a35425ff6c494eb3c1e42b1af33d7d_l01b03-bien-gracias.mp3?Expires=1794099388&Signature=QMkd2UjGnMmwC6rCPVISQ4k5hmGpMhCbLRzPHlRRwDNVCFjNGQdzqyG9-r6lN3UN7GGzxsAayRgek2ZLxpNZQy5IBSpOG7rXPnSmhznkc5cojsLWJKj~F7G8aiL--53-XJ~R5cwSVLH5XZCcinTGFCkxRly3iXEeMNODdGBCf4tDQqnawaTo68jtZJrAjpdqRhTAZxo7VzYt~mdSiOpnBODRgRFCV2NUAOKsSk~yLPn7CLLycycfcuMwvaxXyEiSWBYiNxGzxbYitUuRncoV-SP9Po81atKip69Fn7q0H0pp9WZfB2DQ74MI63YHlg1g10E-FBrhgTTsq1TjLcXYlg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Bien, gracias.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "82500903-3e8b-44eb-a3ef-d93c8d1a1f8a",
+          "exerciseId": "dd491a63-cc08-41d6-8814-b35e9dcece88",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5afd516219674e8ebad6b52b7f858001_A1_M1_L1_audio_c63ac3c9_troca-curta.mp3?Expires=1794099388&Signature=MGkOYq7FQheUW4VPwCreqDJYmrW0A77SgoLPfEJSjiSHfY9y3pPk64wb~ivqIoDAaizXnlJsBvvm6Ospd0-JWBewUc14VIiENEVWyqztY9GCfRj80e9QBw2xKniseRbDVli-ggQOmvbi4BI2p7uHSmvbshy-SVpaUyUG9rrira3g~WWyN-gs31-WXZJqhO0auKU5bVKewbc9eJjRBj1YBTlXyuVwbQZQqFT6rfMApM2P-w1LRHVtQ-tOZqkHahPukE5A5IEOIqBpTPrsYmpfu~VBX-EWOryOgKdzCBR8wUn7NbY0JDO93dcovFrOkoKhYuy0bVagNRo8KOqOIfWVQA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué tal? Bien, gracias.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "19f5c1d0-4416-4680-9ff0-b6367b2f265c",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a pergunta em espanhol: ¿Qué ___?</p><p>Tradução: Como vai?</p>",
+      "contentPlain": "Complete a pergunta em espanhol: ¿Qué ___? Tradução: Como vai?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula apresenta ¿Qué tal? como pergunta curta do encontro rápido.",
+      "feedbackError": "A aula apresenta ¿Qué tal? como pergunta curta do encontro rápido.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tal",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b77cfb71-b843-475d-acd5-4ceb65219d47",
+      "title": "Selecione só o que você ouvir",
+      "content": "<p>Escute a troca inteira e marque somente as palavras presentes no áudio.</p>",
+      "contentPlain": "Escute a troca inteira e marque somente as palavras presentes no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5afd516219674e8ebad6b52b7f858001_A1_M1_L1_audio_c63ac3c9_troca-curta.mp3?Expires=1794099388&Signature=MGkOYq7FQheUW4VPwCreqDJYmrW0A77SgoLPfEJSjiSHfY9y3pPk64wb~ivqIoDAaizXnlJsBvvm6Ospd0-JWBewUc14VIiENEVWyqztY9GCfRj80e9QBw2xKniseRbDVli-ggQOmvbi4BI2p7uHSmvbshy-SVpaUyUG9rrira3g~WWyN-gs31-WXZJqhO0auKU5bVKewbc9eJjRBj1YBTlXyuVwbQZQqFT6rfMApM2P-w1LRHVtQ-tOZqkHahPukE5A5IEOIqBpTPrsYmpfu~VBX-EWOryOgKdzCBR8wUn7NbY0JDO93dcovFrOkoKhYuy0bVagNRo8KOqOIfWVQA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A troca final da aula reúne qué, tal, bien e gracias no mesmo áudio.",
+      "feedbackError": "A troca final da aula reúne qué, tal, bien e gracias no mesmo áudio.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "20dbb7cc-1fd9-4909-ac35-ec988a988271",
+          "textContent": "gracias",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b77cfb71-b843-475d-acd5-4ceb65219d47"
+        },
+        {
+          "id": "65baa140-c842-4ec8-add7-5961b3e5b3eb",
+          "textContent": "qué",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b77cfb71-b843-475d-acd5-4ceb65219d47"
+        },
+        {
+          "id": "743b1f77-c2cd-4a43-9539-f1d43bf2bdc6",
+          "textContent": "tal",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b77cfb71-b843-475d-acd5-4ceb65219d47"
+        },
+        {
+          "id": "93e75740-bd89-454a-93f7-fc7ef55e3f25",
+          "textContent": "bien",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b77cfb71-b843-475d-acd5-4ceb65219d47"
+        },
+        {
+          "id": "a68140c3-d455-4aed-8dcc-887ebd656253",
+          "textContent": "hola",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b77cfb71-b843-475d-acd5-4ceb65219d47"
+        },
+        {
+          "id": "ddf97f60-2093-47e3-a5d2-3001116f4e95",
+          "textContent": "cómo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b77cfb71-b843-475d-acd5-4ceb65219d47"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5ba8b729-8b24-4b24-b4cc-7483e6e6b9dd",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a resposta em espanhol: Bien, _______.</p><p>Tradução: Bem, obrigado(a).</p>",
+      "contentPlain": "Complete a resposta em espanhol: Bien, _______. Tradução: Bem, obrigado(a).",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula fecha a resposta curta com Bien, gracias.",
+      "feedbackError": "A aula fecha a resposta curta com Bien, gracias.",
+      "answerType": "buildWord",
+      "expectedAnswer": "gracias",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "73963c7b-a285-4fba-a94b-9099b8c75de3",
+      "title": "Relacione forma e uso",
+      "content": "<p>Associe cada fala em espanhol ao papel que ela cumpre no encontro curto.</p>",
+      "contentPlain": "Associe cada fala em espanhol ao papel que ela cumpre no encontro curto.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula mostra a função de cada fala dentro da troca curta.",
+      "feedbackError": "A aula mostra a função de cada fala dentro da troca curta.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2476ef8b-48cc-43e1-b036-b637d2d95b93",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "73963c7b-a285-4fba-a94b-9099b8c75de3"
+        },
+        {
+          "id": "b86b507a-1c0f-4ea9-bc19-385cb1381f4b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "73963c7b-a285-4fba-a94b-9099b8c75de3"
+        }
+      ],
+      "associations": [
+        {
+          "id": "56cfdd75-d380-4dc7-a313-63d89f02aae6",
+          "exerciseId": "73963c7b-a285-4fba-a94b-9099b8c75de3",
+          "leftContent": "¿Qué tal?",
+          "rightContent": "abrir um contato rápido",
+          "sequenceItem": 1
+        },
+        {
+          "id": "eb986e86-6368-4d35-956b-0683dab42ed3",
+          "exerciseId": "73963c7b-a285-4fba-a94b-9099b8c75de3",
+          "leftContent": "Bien, gracias.",
+          "rightContent": "responder de forma breve e cordial",
+          "sequenceItem": 2
+        }
+      ]
+    }
+  ],
+  "title": "Perguntar como alguém está"
+}

@@ -1,0 +1,599 @@
+{
+  "attemptId": "c15b467c-49cb-49fa-9fa0-3cba1cabbcd2",
+  "exercises": [
+    {
+      "exerciseId": "5f5c5b6d-6194-4ef1-b9df-cffd2e9a2088",
+      "sequence": 1,
+      "lessonId": "077227bd-5a2e-4f06-b1cc-8a369531ee08",
+      "title": "Complete a condição passada",
+      "content": "<p>Si _______ revisado el remitente del mensaje, no habría compartido mis datos.</p><p>Tradução: Se eu tivesse conferido o remetente da mensagem, não teria compartilhado meus dados.</p>",
+      "contentPlain": "Si _______ revisado el remitente del mensaje, no habría compartido mis datos. Tradução: Se eu tivesse conferido o remetente da mensagem, não teria compartilhado meus dados.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de si, a aula usa hubiera + particípio para a condição passada que não aconteceu.",
+      "feedbackError": "Depois de si, a aula usa hubiera + particípio para a condição passada que não aconteceu.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hubiera",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2f4bb479-0158-481f-9f18-4704a8686e07",
+      "sequence": 2,
+      "lessonId": "5adcb253-b80c-48ce-9dd4-94a894729425",
+      "title": "Reconstrua a resposta responsável",
+      "content": "<p>Associe cada áudio à linha em espanhol que serviria para responder com mais cautela em um chat ou grupo.</p>",
+      "contentPlain": "Associe cada áudio à linha em espanhol que serviria para responder com mais cautela em um chat ou grupo.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final transforma as três peças da aula em uma resposta curta e responsável.",
+      "feedbackError": "O recap final transforma as três peças da aula em uma resposta curta e responsável.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "251abeb4-ed13-4490-b953-2d56e2d6a963",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/28b74b2f2690415ca5c3a71623325960_b02-se-compartio-una-captura-sin-contexto.mp3?Expires=1794099821&Signature=SKe1ksC8rh9M-DGMYgGKqNpAdxLF~x6xuALQpc9NSeSGzKuC9EMt7i0GAGUr6yaZBiCrrttFX6C78sX6qe5kV-jYeltmru8Yq8SndlbYrOtW3IpiK0gIJWVyBrkQuRo5wjQ7aAksaGC9uqnqenY4CltgGXTQzwxg60-nQs8PkrIu2bLOokOkbBsKntN4J1KzTl5rag323llReYx~GjmRVDb0z3-q69adIfHLIUbLDkz8qtkS79~Cq4TX4sz0BVc3lxAKQLdrJ41EoA8uyhGrUdhII8gUHy2tmywLJzShgETgBds1FboUH1yc7yL3~DrXmhzdL4ufXJo8lXqKDuaudw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Se compartió una captura sin contexto.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1d45b4d8-2d86-4bbf-a32e-cb2de3392181",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/79a234b500714555bc072bda20b70d32_b04-no-ha-sido-verificada-por-la-coordinacion.mp3?Expires=1794099821&Signature=mz6exLLCYDx6FWggq9GONUjafUTlJ0QmmzPqKxn-DGO5gubetMBezTRthVDauW6LMTRAgtQsGORqMTdmIaxjiWaqsbNTI5GJO3jqAmcFCr~WC6Y23ujiOR2AoJv0LOadVfJ1WfQ8H6WeC3p6CyAUAaC03WUDZQKwmVZcryt7bqM9PYPdoFd~NQ~FNpil5h7mBN5iwXyLs2fk57OTtES543RrahtEscJWjZRAZjfWbztnf3sK0GqB5yYi-q~0PikqrAQGhn96beLNPCN4uVNcOBQVqb3GdVzaGipyT-Y9UfcYzHKWFYn4WGh~ciK42QqKQarLSL4VaoOtuEzgKoQ5yQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No ha sido verificada por la coordinación.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1e08fdcf-cdd7-42a6-94a8-c0c224f99362",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fe1741e4caa41a0a716efe668ad4805_b08-es-mejor-esperar-la-version-completa.mp3?Expires=1794099821&Signature=HJOowikkjwXv0~tPaFxvzIocwPRj1Y0GlYW65Z7dIxx7JsotSL0TcpIWOQxBpvtTH57LODSgM2Ep8d4pHP-k1S4GgBzpNCwStKEFcpGCasRaBaAWfyLGQU02N2BNLBYsD5MuYGvKShfUZwjfA54BetF1HKhKkdgU2GOq1CEdVN16RPUKs0UO-6pDqjHZZU3SF-xGLWkfGae0Ci808J26G46z4GKSIQr7FIQidQK28F9GuhDa1tto2ZRRByqjdhjBxBcaVQ5v4pG4VLWD0OFkWy2RRm91R5gH1j9Wjo5WnEk0C9WWauxuL~jxTl2JjUQP7bOWo0G9IrdyLE~eQ2Z6-Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si una captura se comparte sin contexto y no ha sido verificada, es mejor esperar la versión completa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "8b7b0764-83bb-42e9-ba34-f26e0228d939",
+      "sequence": 3,
+      "lessonId": "0939b02e-5ede-4d8c-a7d3-eda23f1e371c",
+      "title": "Filtre as palavras do alerta",
+      "content": "<p>Marque somente as palavras que você ouve na hipótese sobre um acesso inesperado à conta.</p>",
+      "contentPlain": "Marque somente as palavras que você ouve na hipótese sobre um acesso inesperado à conta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/07b4f35baa7c48da90f75df2d9c2bab9_b02-es-posible-que-alguien-haya-usado-tu-cuenta-desde-otra-ciudad.mp3?Expires=1794099821&Signature=qgRGIXMZ99Hg9hGiTnYt8aYICc5o8xkMjB-Fan86LRpioBs7iaC1YlWdScfMHL0HRINTLIdw8ui1H-OCg~ZBvElfvpcMLMY1oMyecHpXZIXJtvH7DzLAIz8KuwHZH3JMt0pHodRtb3SM76wjIPOW34S8-~EvO278PVGAIvyWwDRcnVZb0p~vAdJSenFEvQ31hbXRazuN4MvO0cz~jsPmG-w1ZwT-ynOsVTOqx~taQPvHkkX7P9JmxS6Yy7raAcsmaYVEPs9V5UamxnMIBo6eGldJ6uz~L3W1FM2ci-tvC4GXb0YS2zocAGnSqIBn1kiLCNLDGm~Gb-~1REeeyRCx~g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A hipótese com es posible que pede escuta atenta antes de fechar o risco como fato.",
+      "feedbackError": "A hipótese com es posible que pede escuta atenta antes de fechar o risco como fato.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "18ee4697-3a27-4799-bb7d-cd09028a3c4e",
+          "text": "mensaje",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1ae8b6ab-3cb7-4783-bc15-d58b0a4fc4bd",
+          "text": "posible",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5344ef45-c7c0-4120-a75a-5a122a5a69d4",
+          "text": "desde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "680c6275-4a49-45bf-b952-a1303113ca4b",
+          "text": "cuenta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6e9c8fa0-1cea-4621-94d3-1bef9e015065",
+          "text": "alguien",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7172734e-7325-43d5-91fe-181de2382b15",
+          "text": "haya",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a3467827-f7fa-42b3-99e3-d2a163bf74ba",
+          "text": "usado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bd3d72f8-c2f4-44a6-b949-9fe60a7a6759",
+          "text": "copia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c0205922-8555-4e52-b0d4-d5360a86a91b",
+          "text": "ciudad",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cd588ec1-e54a-4b28-a827-a14defe684bc",
+          "text": "banco",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c43d8838-6af9-4a38-b66b-6866563ab618",
+      "sequence": 4,
+      "lessonId": "63115634-0e7d-4f04-9f0a-3fe8571eb725",
+      "title": "Reconstrua a conversa retrospectiva",
+      "content": "<p>Associe cada áudio à fala completa correta para recuperar a pergunta inicial e as três respostas retrospectivas.</p>",
+      "contentPlain": "Associe cada áudio à fala completa correta para recuperar a pergunta inicial e as três respostas retrospectivas.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo recompõe pergunta inicial, arrependimento, possibilidade perdida e alternativa prudente.",
+      "feedbackError": "O diálogo recompõe pergunta inicial, arrependimento, possibilidade perdida e alternativa prudente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "0de90dfb-728b-4a64-932e-9a9542f8ec0d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c6241bd2d98e42529798c07e13ec85e6_b08-d01-ya-entendiste-que-salio-mal.mp3?Expires=1794099821&Signature=XhAwGTM9g6ssayHoqD95nf0yY-uOvYQnPX2JMZso~gyZbBjS7fs3zZiu5V1O-KSHkxgJjvC8p5UISov~vVfO65-Zku69biEpmYWRhqZt369Wd16wgfI8~njUR0z~i4DcoCetIUgMlTTIvYcbYENhmllOPoRrG2l0RcOWHQkuOOygctmD8Z6V-NgXSwgqBXQfTWDHOg8BpDMxTo7fr4mNoseH-WYKN-Z8WkJlg25oAuXrwgxzvHZQfbfpyjfStTRr3yPzyTCHdRPYIKMsnedSpumOfl8E7ZxchrM0oq6UdzFdocIDccaSj7B9qYZkzQxhfp-CmbZcueNmPP~FU9Z5Mw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Ya entendiste qué salió mal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "04bd4a82-8cf9-47fe-aa4c-b27cec418d1b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ae6b1c66fda447a6abd983393c95c8a2_b02-deberia-haber-revisado-el-enlace-antes-de-abrirlo.mp3?Expires=1794099821&Signature=Jn3uo2CK~~qGLeUbcfQhSCszSR475FunVRKB1z~Y7qE1ncVmrbbfqgm4JiwbQMZ2bw9nlwNBQ2umVr66dpN6JmWM2NotygrOjceMf8gjUwrJKyZodIjxHHmLTefk27fJJLbR-CvgynBm-NJkJWG82Pk0MlNi~ugF9o3U0Edhbxqmy~zl8B4UxnexSHeGZZVO34ctSyBKEj~QAGDiRgbLf0KudTFqcEbOlIHxbo1UG8Jsmf4EyCsAL9saoqf312wk~c4pjnRCLQlLaCGAsr1Pn~WsbRsfVtRPbhD7yH5iEoJ3onu5hvZIBBuXlB2BA4pqHJdKcUSzBs~eerxoEiGl-g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Debería haber revisado el enlace antes de abrirlo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3090d4b7-dc21-4410-aefe-e7f5ac09d344",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ba319600ba84c33b09a7adb382ece84_b04-podriamos-haber-avisado-antes-al-resto-del-equipo.mp3?Expires=1794099821&Signature=SgrqBpH3FlpYQfFoBr6eJIDogJKEgHVwmzQagS3I6Va1ULq7qMeWvfn~dpJ8Flqun7WpvOFEDi0LyYEmflAANs2xvWFyResygds-7EWAmwPseOD5BaMr7az-4UqkUKxY91PZmUCFmt8ZODqfwZWXSP9hkuwFlklbGyTtwTvNlXpz0Hdf0ncl2anXK0oNv4D7ybiGqUi-jjx4a6RYdGXg~-49LcxQjD~d-YtkjkHSC1P-V43N1jvh2YhS4AKx8EmoWh~l8kl9ov1nloH48HRBix41-SF67R9u4RKynx~Xun29aEES8x0733Al28r0JkBMEKMWWZr3Pb9pc7HoDq5CXA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Podríamos haber avisado antes al resto del equipo.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "fd97f058-9404-4e32-a9d4-05a8fdf48111",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f1aa258e09824e49b0410d65b7369b43_b06-habria-sido-mejor-guardar-una-copia-de-seguridad.mp3?Expires=1794099821&Signature=Q8oo7WS5dFdcn7xbWfoD77koMjAzHxGLWsqWgJhdZugRJms5~qEOx9PU--p55m0W7OUc4QqI1Sa5HgNxfqHROqzIIMkM87p6s8mhDMYhhlZL~JSemV3OJrJ11gebAVabc9Eog5RdV5Ik2bDYs9d3cOrUTR-TloEQO~RFah4W5lxe46U~v0P-bphkooV33Es4v4J5kKnvh-mbOEOq3wWdKrwnMCK3Kw7w~8HYl3uVzWRW3okrWI2h4Qu5XT-PuW-XmczQ5TrfBktqS1pQggwNhBeMA0uNrc1lD1WgSeCkunBEj4GqKwXUERHcLNSAmZRaM5na3ZyTV8T-98L9j8N3PA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Habría sido mejor guardar una copia de seguridad.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "55cd1a0b-d51d-4c9b-afe6-25c6b1116ca8",
+      "sequence": 5,
+      "lessonId": "6d12ad29-a2be-4eea-abc8-822b3f9a4178",
+      "title": "Feche o conselho",
+      "content": "<p>No conviene usar la misma contraseña en todas las _______.</p><p>Tradução: Não é recomendável usar a mesma senha em todas as contas.</p>",
+      "contentPlain": "No conviene usar la misma contraseña en todas las _______. Tradução: Não é recomendável usar a mesma senha em todas as contas.",
+      "fileUrl": null,
+      "feedbackSuccess": "A prevenção desta aula destaca o risco de repetir a mesma senha em várias contas.",
+      "feedbackError": "A prevenção desta aula destaca o risco de repetir a mesma senha em várias contas.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuentas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d2c3fd97-9b4a-442d-abf2-b7f01142b160",
+      "sequence": 6,
+      "lessonId": "80c3a950-b0a8-4024-b4f7-82d0138b3045",
+      "title": "Distingua as frases pelo áudio",
+      "content": "<p>Associe cada gravação à frase correspondente. Preste atenção nas diferenças de fonte, tempo e singular ou plural.</p>",
+      "contentPlain": "Associe cada gravação à frase correspondente. Preste atenção nas diferenças de fonte, tempo e singular ou plural.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é distinguir mudanças pequenas de tempo, fonte e concordância dentro da mesma estrutura passiva.",
+      "feedbackError": "Aqui o foco é distinguir mudanças pequenas de tempo, fonte e concordância dentro da mesma estrutura passiva.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "2e5af021-50db-43f2-b77e-6e7cf0935cc6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6110e5e250b04ce1ab9479b4048eeb16_ex01-el-aviso-fue-publicado-por-el-ayuntamiento.mp3?Expires=1794099821&Signature=ruLhvWrC~QVUBeMJDL0k7eMMdzgrc23EmpXy32r8swBKiBTimTqbqhyZuewvcG4YOlnplA52Jw3-LqR6OLBFnGdqjrIQ1ecdhd~NUfjH7gtJT1U-Ew4GA5Gbi2K~vcxLqW6lNA8jsdlu37SEfezDo6HAL3BtTZ-GTeusKjiAjzkPKANudFTud6R5KFMPm27JjMlyp4WvxxTMBVIlgH8Z02wXpeaRsztNeeIx9Nyhp~igTMBKYOwtYFGe-0vxnL2HFoDRtHej8y7D5SXPz3qh0u2YFrdEuTBZN~IRjgsfiw0l4dgYCJfxBpzRnwadmjwXk3TPAoMEYaI6wiye45k~Kg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El aviso fue publicado por el ayuntamiento.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "60ac06a9-dd88-47f7-9022-97c0ba8587bf",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/092a88a5073642d18be25e8469494a49_ex02-el-informe-fue-publicado-esta-manana.mp3?Expires=1794099821&Signature=0cfgu-W-wVWClPFQJLdBIimTonbjUVuZhAXYXLdLYLVQdvDSotBr6yQZkIj0iV0NtybEHjq5pEZM~a7KJJm1U22pjfPC5FxjmqkGMrbYlL02I5sxFuOWgKK7uSv8VFYTiHK8r7p7dM9uj59ZQnAqTDyfmR9yqQjQgKvTRj05uda1N9GOF8fhPHzQUrjgolxI5uDC~HJgEjzybAtKtdtjgI~mbpkjTrsTShbgJ-P6Js59gT2AgtWBlVy8HPEfnIKIxDIvotGdbvjoWBV4bqiTtxren81Ih4gu0Jg0E1WdCG9gsYjhtn12OSELheFCvXXerdtw-4NTJ1uhILzZ-szIUQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El informe fue publicado esta mañana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "96191b6b-6e78-4c20-83c2-dcb1d39e6b3f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/073c36d0acb64248b107890e4c10a986_ex03-las-cifras-fueron-actualizadas-esta-manana.mp3?Expires=1794099821&Signature=q6kRoalygWwdo930xmkc7VPcKi0ExltWvOzNugh2waWz-f3gZ7lO4XJlY4BtClR70KECRiQe0umlFN7vk2OK6XcmasxhQ1ZgiJQoXUydfZFKm-xWtNaizyaUHTGuWgRJBz0fueOPXao42-KD4uVnxVysigWYlOih48aMpIVJ5Qjvc1Xoq51km1qUoMZKNkPztnhkcYCxSoSkVA0ikXgErlngtFBchaL1sN5AyO3YgXtCOBdF7ZUrRojDJNRRCdD3gtegMZ-Wdlv7p0pIIGjCnbpcNNTThq-UGGUYJed6oeYTU3HyEnssJgMgGLqGNAp0aVEJkm3SdhNqWnefPd9O2g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Las cifras fueron actualizadas esta mañana.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "ef6171d7-de4f-4aca-9181-06d16385d909",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/655ae9bdc1464a6b91545d080464bc60_b04-las-cifras-fueron-actualizadas-antes-de-la-conferencia.mp3?Expires=1794099821&Signature=WIeza0vafIdfLKlu0Y-ZRnmLuFAoTF4gaJzWt~N2LxREZ7fcp13F2n26UWN-8gT1JF8wwFZcBz1i-V9XdotINTRdYFloXeGOVXy7NzknrUahOzOXJw7fjzDwQv5unmWM1pDt~6DBGlUhvSytYWY3Hhv6PZhBd~cHV1zJcUnlgtx0cDAwwM3PEzQ5Tfv3mwGNDcHx7Z1x4gwK-WYNeYAVM24Vaj1eCh9kF5JmM1TdMQieoKtQ~TX2vaDzeRIyi6qEXPllSubWVgc4vF4i3lTx5a0DxnZVR~Log929NCa8cxvR~ePrjAMwswq8hRr2cotvbWQOpJJVXh6pydrpwBNeAA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Las cifras fueron actualizadas antes de la conferencia.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "faf2c8d9-9c4f-4d6b-b09e-1ac6bd2aa183",
+      "sequence": 7,
+      "lessonId": "fe16c80b-de80-4135-ad87-da83c65f6a4c",
+      "title": "Ouça o recap completo",
+      "content": "<p>Marque só as palavras que você ouve na mensagem final com fonte, confirmação e desmentido.</p>",
+      "contentPlain": "Marque só as palavras que você ouve na mensagem final com fonte, confirmação e desmentido.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e472a66371b245b08c368fe8eb788b1c_b09-recap-relato-con-fuente-y-responsabilidad.mp3?Expires=1794099821&Signature=SEgxwUIc4KMIY6QNr93NFsb7POB0N6o44BhN-TV8MAJkRdPJAFsxQJFmpTovD62fFM~yY8zuxG5Osvy7ttlgEdH5IMd2ixBFukc7PuPCki0VQz1qS1kbTdEXqxEGSBX030~slZy5f6kIznX6ZABnpV~TlQWai6HG3YHQkrg5-7iQiNAi~75wz-Ln4688DzA4Y6Qvx8VyQkW0DgcEKwP7nIoBgMpAKijtk1kxWGp~6GFxkZ7FPr3~SlLprAknreczMBLYExnQIOaRwInrjAnwer2r5CukfFpCndgUBRqXQLrTMtstooHBzLgcV7MqAfgJdwvKXAWxPUndvT7HV8wW2A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final junta as três peças da aula numa única mensagem de uso real.",
+      "feedbackError": "O recap final junta as três peças da aula numa única mensagem de uso real.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3b92c34f-8c85-4959-910c-24ea1c4a8ac6",
+          "text": "sesión",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "41f200b7-fb24-4e7e-b6c0-76e15785ebd4",
+          "text": "empresa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "546cf93b-db2b-4772-9808-c840713810e3",
+          "text": "comunicado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5d1c2a74-8b55-433b-b7e7-f2bdd911271f",
+          "text": "viernes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5d3bf19f-83a2-4962-8dd5-b297d89b7abd",
+          "text": "cambio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "72a25be7-c213-48f8-9ad8-a573ceea337d",
+          "text": "rumor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "72b11ab1-7509-4eec-9cc4-bf14f509e54c",
+          "text": "chat",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8742899e-a595-4be9-af3e-515857dee205",
+          "text": "boletín",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b8879e8a-38a3-4299-8544-3fed8e816176",
+          "text": "cliente",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d59d07a5-8daf-4292-9660-e3df03916657",
+          "text": "coordinadora",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e4be294c-9bcc-4379-a438-960e5d184231",
+          "text": "lunes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ffc2e612-ec48-4ba1-be71-d98f693a7977",
+          "text": "trabajo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "8397930a-869a-4dab-a7d0-f6e18dc2a051",
+      "sequence": 8,
+      "lessonId": "63115634-0e7d-4f04-9f0a-3fe8571eb725",
+      "title": "Recupere a ação não feita",
+      "content": "<p>Debería haber ________ el enlace antes de abrirlo.</p><p>Tradução: Eu deveria ter revisado o link antes de abri-lo.</p>",
+      "contentPlain": "Debería haber ________ el enlace antes de abrirlo. Tradução: Eu deveria ter revisado o link antes de abri-lo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Debería haber + participio nomeia a decisão própria que hoje parece inadequada.",
+      "feedbackError": "Debería haber + participio nomeia a decisão própria que hoje parece inadequada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "revisado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "addc6b88-c5ee-461b-a18e-9abf4dc06888",
+      "sequence": 9,
+      "lessonId": "bf2565e2-59e6-4dfd-90ba-8035fa040781",
+      "title": "Recupere o particípio",
+      "content": "<p>El aviso fue __________ en el chat del equipo como una alerta urgente del banco.</p><p>Tradução: O aviso foi compartilhado no chat da equipe como um alerta urgente do banco.</p>",
+      "contentPlain": "El aviso fue __________ en el chat del equipo como una alerta urgente del banco. Tradução: O aviso foi compartilhado no chat da equipe como um alerta urgente do banco.",
+      "fileUrl": null,
+      "feedbackSuccess": "A passiva abre o caso com compartido para focar no aviso que circulou.",
+      "feedbackError": "A passiva abre o caso com compartido para focar no aviso que circulou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "compartido",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e1d70d98-4418-4843-8a19-7d6bdc021f1d",
+      "sequence": 10,
+      "lessonId": "fe16c80b-de80-4135-ad87-da83c65f6a4c",
+      "title": "Recupere a marca de fonte",
+      "content": "<p>_____ el comunicado interno, la sesión fue reprogramada para el viernes.</p><p>Tradução: Segundo o comunicado interno, a sessão foi reprogramada para sexta-feira.</p>",
+      "contentPlain": "_____ el comunicado interno, la sesión fue reprogramada para el viernes. Tradução: Segundo o comunicado interno, a sessão foi reprogramada para sexta-feira.",
+      "fileUrl": null,
+      "feedbackSuccess": "Según apresenta de onde saiu a informação antes de qualquer confirmação ou desmentido.",
+      "feedbackError": "Según apresenta de onde saiu a informação antes de qualquer confirmação ou desmentido.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Según",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "62c44351-00ce-4334-8d1e-78b0a5581dbc",
+      "sequence": 11,
+      "lessonId": "72c1b7a3-3a0b-4c36-bfb3-b5fd39030a7d",
+      "title": "Complete a hipótese",
+      "content": "<p>Complete a frase em espanhol: Podría ________ de un intento de fraude.</p><p>Tradução: Poderia se tratar de uma tentativa de fraude.</p>",
+      "contentPlain": "Complete a frase em espanhol: Podría ________ de un intento de fraude. Tradução: Poderia se tratar de uma tentativa de fraude.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, a aula trabalha uma hipótese cautelosa, não uma prova final de fraude.",
+      "feedbackError": "Aqui, a aula trabalha uma hipótese cautelosa, não uma prova final de fraude.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tratarse",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ed2af853-7287-421b-a9df-8c43fde6d899",
+      "sequence": 12,
+      "lessonId": "5adcb253-b80c-48ce-9dd4-94a894729425",
+      "title": "Recupere a correção da fonte",
+      "content": "<p>Según la coordinación, el aviso original fue __________ antes de circular.</p><p>Tradução: Segundo a coordenação, o aviso original foi modificado antes de circular.</p>",
+      "contentPlain": "Según la coordinación, el aviso original fue __________ antes de circular. Tradução: Segundo a coordenação, o aviso original foi modificado antes de circular.",
+      "fileUrl": null,
+      "feedbackSuccess": "Fue modificado mostra a correção do aviso quando a fonte é explicitada.",
+      "feedbackError": "Fue modificado mostra a correção do aviso quando a fonte é explicitada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "modificado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "333bd221-964f-4b5b-ac89-b77d00a0033e",
+      "sequence": 13,
+      "lessonId": "077227bd-5a2e-4f06-b1cc-8a369531ee08",
+      "title": "Recupere os modelos pelo som",
+      "content": "<p>Associe cada áudio ao texto correspondente sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio ao texto correspondente sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os áudios da aula contrastam o arrependimento simples com as versões mais precisas do passado irreal.",
+      "feedbackError": "Os áudios da aula contrastam o arrependimento simples com as versões mais precisas do passado irreal.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "ae457dcc-c323-4e32-bc6b-b09e15e13eb2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d2a1c4719ab94390b8db21d99c257b5f_b01-deberia-haber-revisado-el-remitente.mp3?Expires=1794099821&Signature=Od19HbZLNMLcZDdMsfexFKKX88Oib0qb-kVuA-r6LQ1d9U-gSRxWI8XflcCVnr5nsUWqRIKbYi6BEEfQLt71n12DjdaywGGPgLDI-AUlfjF7qKLrHEt3XxvnFJ~2CrDpSDqRcdV5rx4FsnZ2tJOzhZAnFQiwUZEuYc4GIcWUgsTuxAT4N5682GXq6yaEOU2Q5MpbJ9zicBhMd-uPx5sfTa-rfRTS9IWA3Qq-M91BIz0tViADYnDxHHs8o4nX9r6zTJjqP34b8fL6naSILpux2Tk5KZHS10R7Fk9eyWchtlTugyn1jxe16GKC-tZReL-3iQZ4hjQSi~4AdIh4RCXirQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Debería haber revisado el remitente del mensaje.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "36a701e3-11df-41a1-bdb8-051b4c82a31b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fdb0d5056c6e47439f898f0c23dbb0bd_b03-si-hubiera-revisado-el-remitente.mp3?Expires=1794099821&Signature=2NsdLBXMBFOWiBoJ1mKL1FNq7ajVCNIuIsRxHobioznpKdKr2YOX9P2Dw57zMkGbPbCxbnXwiZ8R9SbZqXK9cHkW3seqjKNVihPt4jEunypYQ06~nfckbMwjYjmuIhrJir5MAmLb584Vi5FFykFmZDhTfOpGnaKyxTWN8u0Jh73lWNb84gs79AtyCnJef87n5nr3oZqwEqVBSSr2smvbON5Xl7R7HEnn3um06wdCTmOvc~sx03J8FFmilTmEgM4WHF5OGAXpxiPTnG4BYVoF-F-jaTaG363mOyOB58~fVCkVQ0bw3GmjFNSU5z~~mJjPyt8rtpFP2q44GQVnU4FwIQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si hubiera revisado el remitente del mensaje, no habría compartido mis datos.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a703d065-0a94-4dd5-a5dd-600ed7286296",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d8534b65eb6d4859ae7afc4c54952588_b05-si-hubieramos-hecho-una-copia.mp3?Expires=1794099821&Signature=R37c~DV7YApgMQAO4zO9Z5yqapHgdxgUsNIaql7wTvrHOaXv~c96-TUM2MG5Dkd3Q3Ej-L~X4LhzCarenfj8ZN-hfV4uszoSv57E3DFJQ171fENVeQEEAmRlkS8KLRlz2yrDyrDdWvfsXwj6fOFH718xFT93SfpKTQHW4kU0svvFToXxRJLQsDz5sZXmBNWMfh9sRWCBjIh~v2Ix~6Rrc-MAE7gQ~miqGI~w6AfY77f4Z9VuD3L8vyxUsZVwFGkXIgnRJQUVbP1rTSXgFptaNXPXNGPdtWvc~~B97ALjB2mkgN0eewjxWC57O4aaQmBd5KwtrvzTg3c6lCKJaVjlnA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si hubiéramos hecho una copia de seguridad, no habríamos perdido los archivos.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "891a791e-6f52-4317-aba8-3969dfadedd2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4d920e1e74ca4e64aedb8165dd5da4a7_b07-recap-hubiera-habria.mp3?Expires=1794099821&Signature=obtMD54rC4yFQvLh2pRDFXARKc6XTUWx8AE8LZowhwvCDTlgWtFwd0OyAKGJ2uXsrOOLUkRn4YkH7LaegrESQmL0DIQS2eUDQXmxSqmVRAqoap-FP4TdZ6MVvItZWtXPi0mA3FIcgzGgB~pA9AjHWaWw0ayu9V8xcV9QZUQLX6XCLCIwCnt8hYZPBSPXab-j46gY63OX4KYR6ClpJUnhduI~jIWkxBRjfqc0wZANiVrz8MthKxULuqJL98KpPWlgXbv~lSmZ0skl1y9tENUjLSdWzJPS45qcusLLVUKB33prZP6Y9r9l8X4TxF-oWcBsU1arSt0c1wkZom3RgDQDtQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si hubiera revisado el remitente, no habría compartido mis datos. Si hubiéramos hecho una copia de seguridad, no habríamos perdido los archivos. Esta estructura ayuda a explicar qué habría sido diferente después de un error.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "775b4497-c06a-4aea-9c8e-f19a67ebaeb8",
+      "sequence": 14,
+      "lessonId": "80c3a950-b0a8-4024-b4f7-82d0138b3045",
+      "title": "Escuta integrada da passiva",
+      "content": "<p>Sem apoio em português, ouça o resumo final da aula e marque só as palavras que aparecem nele.</p>",
+      "contentPlain": "Sem apoio em português, ouça o resumo final da aula e marque só as palavras que aparecem nele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/eb192e18e7f743ebaf85f24a184434b6_ex04-recap-aviso-cifras-informe.mp3?Expires=1794099821&Signature=D6jZc0djs4CTu4~PUvKopYO9P-mLMelSk9rDUo661kBB~y~E7V8xzMXDZ5tGSYjBkWQ8-KPiwr7HZIAWgCyQ6Ybn42lQo~V6GxaCgMKtgjAIeioQZMnR~56PJLvIOaJ67Bsv3hOCTzIY7a3x5DkEwkJv~j6fShRW97~UxSHPSqHbbM6p-~J0NQ7Ly08AbOErBLciS9aTuWqiyXQOgrjSUUgRWfyr6bC3KORO4gom6UGY3YMx89ZZ4oEbDBsciIWHb4lEV-zhIKletoJ7VZXnl5yg44hXMXtL6Fm6NX0wR-qYXC1y7Y7RWkNIqXrlm2FRuaOXnLIM545fdv2Gr1Tmqg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O resumo final recombina aviso, cifras e informe para treinar a passiva em uso público.",
+      "feedbackError": "O resumo final recombina aviso, cifras e informe para treinar a passiva em uso público.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0c015efe-c279-4409-939a-e747ddca7902",
+          "text": "mañana",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "13d08f57-aea8-40c0-b0a8-8324e107628a",
+          "text": "conferencia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3f0a6752-9dd3-43bf-ae77-c914b02157cf",
+          "text": "informe",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4abe04b7-c989-4431-8459-6a95eaab9f2e",
+          "text": "cifras",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "64c41a42-0d72-4c4a-930a-080dee0324d8",
+          "text": "rumor",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "814a8b35-6dc2-4cb0-a3a3-75eac6d54943",
+          "text": "ayuntamiento",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9a5852a2-b592-4587-9e95-5bef7579b894",
+          "text": "mensaje",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bed1457f-ceb8-4ad8-ae9c-0e075eb4c3a1",
+          "text": "ministro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d2fe2ebe-a7b6-42e3-8bd4-1b723733956c",
+          "text": "aviso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "1cb86596-6a50-444c-a22f-3917ea64649b",
+      "sequence": 15,
+      "lessonId": "bf2565e2-59e6-4dfd-90ba-8035fa040781",
+      "title": "Associe fala e efeito",
+      "content": "<p>Ligue cada trecho do diálogo ao papel que ele cumpre para fazer o caso avançar.</p>",
+      "contentPlain": "Ligue cada trecho do diálogo ao papel que ele cumpre para fazer o caso avançar.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo funciona quando cada fala empurra uma parte do mesmo caso.",
+      "feedbackError": "O diálogo funciona quando cada fala empurra uma parte do mesmo caso.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "611be4d3-a0d5-4ff7-90be-231a7bfbb5d5",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "afa2bbbf-d92d-42eb-b651-b756b48bda70",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "3535490b-dd36-48b1-a23a-f34dab09ec23",
+          "leftContent": "¿Qué pasó exactamente con el aviso de ayer?",
+          "rightContent": "abre a reconstrução do fato inicial",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a4d576fb-503d-4268-ab67-fb56f655f1ce",
+          "leftContent": "El aviso fue compartido en el chat del equipo como una alerta urgente del banco.",
+          "rightContent": "informa o que circulou",
+          "sequenceItem": 2
+        },
+        {
+          "id": "52b0205a-b3f0-492c-8f84-fa1b8c9c0e28",
+          "leftContent": "porque el enlace llevaba a una página extraña",
+          "rightContent": "oferece o indício concreto",
+          "sequenceItem": 3
+        },
+        {
+          "id": "76cf8f91-dcc6-497a-9f4a-e8055cfbc920",
+          "leftContent": "Entonces, si se hubiera revisado el remitente antes...",
+          "rightContent": "abre a leitura retrospectiva da consequência",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ]
+}

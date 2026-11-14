@@ -1,0 +1,545 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+    "attemptId": "48cb9e5c-9a48-4059-b9c9-c495e3e6cf2f",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "4af991bc-d4be-4955-bde3-7a9e245ce97a",
+      "662f02d4-aa54-443b-ac8e-3cf60cb40103",
+      "d4341709-ad54-41bb-a518-8311330297ac",
+      "d2757372-a734-46b2-a863-63b1bb3100b5",
+      "f9507112-c35f-4cd7-a7c7-e14e923959e6"
+    ],
+    "evaluationExerciseIds": [
+      "559f9e43-cece-4c07-82d9-ecdb6e253c44",
+      "d93a9b46-d42e-4101-8d9a-4ab5403b8bd4",
+      "683acdbf-8bcd-4140-aa19-42d0430dff86",
+      "3e8ae761-43e7-4dcc-a44c-3fa2bdf4a41e",
+      "5abf92e0-2b2a-4045-97e6-c864b913c32f"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:40.3414668Z"
+  },
+  "contents": [
+    {
+      "id": "a7225b39-5d7b-4b2b-af44-de7478437563",
+      "title": "Leia a abertura e observe por que o foco agora está no verbo, e não em uma nova moldura.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "e5ce8768-2a3e-4f24-828b-151320b532dd",
+          "textContent": "<p>Você já conhece molduras como <strong>te recomiendo que...</strong> e <strong>es mejor que...</strong>.</p><p>Agora o foco não é criar um novo tipo de conselho, e sim fazer o verbo soar natural quando a forma regular não funciona.</p><p>Nesta aula, cada tela mostra uma forma irregular frequente em situações de cuidado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "98009915-7508-4752-925b-1a1588a6a82f",
+      "title": "Leia a frase e ligue a forma irregular ao sentido geral da recomendação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "a2ed4fe4-2876-459c-acb6-68d6ac2b2bfc",
+          "textContent": "<p>Quando o problema está no cansaço, a recomendação pode ir direto ao descanso.</p><p><strong>Te recomiendo que duermas una hora más esta semana.</strong></p><p>Em português: <strong>Eu te recomendo que durma uma hora a mais esta semana.</strong></p><p>A forma útil aqui é <strong>duermas</strong>, porque a moldura de conselho já pede subjuntivo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "07816761-d19b-4274-be23-e60dd87bfa61",
+      "title": "Leia a frase e observe que a recomendação já indica o próximo passo para cuidar do problema.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "0d4241f0-721c-4cd4-81b8-51b8bb826780",
+          "textContent": "<p>Se a rotina sozinha não resolve, o conselho pode apontar para o próximo passo.</p><p><strong>Es importante que vayas al médico si sigues igual.</strong></p><p>Em português: <strong>É importante que você vá ao médico se continuar igual.</strong></p><p><strong>vayas</strong> aparece quando a orientação é buscar ajuda ou se deslocar para resolver o problema.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fdc58e20-539b-41d8-83c1-c9cb705f5859",
+      "title": "Leia a frase e note que aqui o conselho pede um ajuste prático que cabe no dia a dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "450aa200-2913-4d85-9cfc-d57fec0469ef",
+          "textContent": "<p>Alguns conselhos pedem uma ação concreta que a pessoa pode incorporar.</p><p><strong>Conviene que hagas pausas durante el día.</strong></p><p>Em português: <strong>Convém que você faça pausas durante o dia.</strong></p><p>Com <strong>hagas</strong>, o foco está em uma ação que melhora a rotina de cuidado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "79a4198b-b5ee-4036-9ae5-ac11a0a76202",
+      "title": "Leia a frase e observe que o conselho não pede uma ação única, e sim uma rotina mais sustentável.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "8d1ef60a-a667-4f6d-b285-985a152465a7",
+          "textContent": "<p>Outras vezes, a recomendação fala do que vale a pena manter no dia a dia.</p><p><strong>Es mejor que tengas una rutina más tranquila por la noche.</strong></p><p>Em português: <strong>É melhor que você tenha uma rotina mais tranquila à noite.</strong></p><p><strong>tengas</strong> ajuda a aconselhar algo que a pessoa deve ter ou sustentar como hábito.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "90933036-3948-40a7-a599-6bbaa053fbc4",
+      "title": "Leia a frase e observe que a forma irregular também aparece fora do conselho direto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "86f2118f-37fd-4157-9221-23fc74bd414b",
+          "textContent": "<p>Nem toda forma irregular aparece em um conselho direto.</p><p><strong>Espero que seas constante con la crema esta semana.</strong></p><p>Em português: <strong>Espero que você seja constante com o creme esta semana.</strong></p><p>Aqui, <strong>seas</strong> entra em um desejo simples de cuidado, com foco na atitude que pode ajudar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "add3e8ef-5018-4b82-b97e-c12e0a6c529e",
+      "title": "Leia o mapa curto e imagine essas formas em uma conversa breve sobre autocuidado.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "f6ebaebf-5fb9-494a-9394-151729c5a878",
+          "textContent": "<p>Em conversas reais de cuidado, estas formas não aparecem todas do mesmo jeito.</p><ul><li><strong>duermas</strong> aponta para descanso.</li><li><strong>vayas</strong> marca um próximo passo, como buscar ajuda.</li><li><strong>hagas</strong> pede uma ação concreta.</li><li><strong>tengas</strong> organiza algo que vale a pena manter.</li><li><strong>seas</strong> entra em um desejo simples sobre atitude ou constância.</li></ul><p>Isso cabe em mensagens curtas entre amigos, em orientações de autocuidado e em consultas breves do dia a dia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "4af991bc-d4be-4955-bde3-7a9e245ce97a",
+      "title": "Associe forma e sentido",
+      "content": "<p>Associe cada forma irregular ao tipo de cuidado que ela costuma expressar nesta lição.</p>",
+      "contentPlain": "Associe cada forma irregular ao tipo de cuidado que ela costuma expressar nesta lição.",
+      "fileUrl": null,
+      "feedbackSuccess": "O foco desta aula é ligar cada irregular ao tipo de cuidado que ela expressa.",
+      "feedbackError": "O foco desta aula é ligar cada irregular ao tipo de cuidado que ela expressa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "51341f0b-5b17-4ed9-89c3-713a864c3849",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4af991bc-d4be-4955-bde3-7a9e245ce97a"
+        },
+        {
+          "id": "be15e1ee-bb62-493e-ba15-5627241a974b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4af991bc-d4be-4955-bde3-7a9e245ce97a"
+        }
+      ],
+      "associations": [
+        {
+          "id": "462543d6-2de4-47bd-b558-4b7426ef2599",
+          "exerciseId": "4af991bc-d4be-4955-bde3-7a9e245ce97a",
+          "leftContent": "duermas",
+          "rightContent": "descanso",
+          "sequenceItem": 1
+        },
+        {
+          "id": "45d8306e-c8f7-49b7-8d40-1c090c280185",
+          "exerciseId": "4af991bc-d4be-4955-bde3-7a9e245ce97a",
+          "leftContent": "vayas",
+          "rightContent": "buscar ajuda",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d788b3ec-ebb6-4340-8df9-2efb980b0ba2",
+          "exerciseId": "4af991bc-d4be-4955-bde3-7a9e245ce97a",
+          "leftContent": "hagas",
+          "rightContent": "ação concreta",
+          "sequenceItem": 3
+        },
+        {
+          "id": "171e9109-a38e-4592-809b-919174839dc2",
+          "exerciseId": "4af991bc-d4be-4955-bde3-7a9e245ce97a",
+          "leftContent": "tengas",
+          "rightContent": "rotina para manter",
+          "sequenceItem": 4
+        },
+        {
+          "id": "9fee3fce-6989-4458-b7a1-956817441ab6",
+          "exerciseId": "4af991bc-d4be-4955-bde3-7a9e245ce97a",
+          "leftContent": "seas",
+          "rightContent": "desejo de constância",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "662f02d4-aa54-443b-ac8e-3cf60cb40103",
+      "title": "Escolha a melhor forma",
+      "content": "<p>O foco agora é fazer um ajuste prático ao longo do dia. Complete em espanhol:</p><p><strong>Conviene que ____ pausas breves durante la tarde.</strong></p>",
+      "contentPlain": "O foco agora é fazer um ajuste prático ao longo do dia. Complete em espanhol: Conviene que ____ pausas breves durante la tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, hagas serve para uma ação concreta de cuidado.",
+      "feedbackError": "Nesta aula, hagas serve para uma ação concreta de cuidado.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "51087a7f-e588-4d77-a06d-71b504ef145a",
+          "textContent": "hagas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "662f02d4-aa54-443b-ac8e-3cf60cb40103"
+        },
+        {
+          "id": "5a09b9a2-b6a5-4752-858e-f4ae61a21bd5",
+          "textContent": "vayas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "662f02d4-aa54-443b-ac8e-3cf60cb40103"
+        },
+        {
+          "id": "ce334cf4-33bb-46c8-b864-6033cca64e9f",
+          "textContent": "seas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "662f02d4-aa54-443b-ac8e-3cf60cb40103"
+        },
+        {
+          "id": "ff9205f5-4f19-46e5-a57c-cb0d153fb9ee",
+          "textContent": "duermas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "662f02d4-aa54-443b-ac8e-3cf60cb40103"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d4341709-ad54-41bb-a518-8311330297ac",
+      "title": "Associe frase e tradução",
+      "content": "<p>Associe cada frase de cuidado em espanhol ao sentido correto em português.</p>",
+      "contentPlain": "Associe cada frase de cuidado em espanhol ao sentido correto em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O foco desta aula é reconhecer o sentido de cada irregular em frases curtas de cuidado.",
+      "feedbackError": "O foco desta aula é reconhecer o sentido de cada irregular em frases curtas de cuidado.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5b463a5f-5955-46d2-8429-c707ba893027",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d4341709-ad54-41bb-a518-8311330297ac"
+        },
+        {
+          "id": "bb202d7f-0092-4d2f-9574-706fd263e4ab",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d4341709-ad54-41bb-a518-8311330297ac"
+        }
+      ],
+      "associations": [
+        {
+          "id": "b5b69787-a45b-4bff-8bac-d4003f9d0435",
+          "exerciseId": "d4341709-ad54-41bb-a518-8311330297ac",
+          "leftContent": "Te recomiendo que duermas un poco más estos días.",
+          "rightContent": "Eu te recomendo dormir um pouco mais nestes dias.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4b713973-ade3-449e-834b-ccc07c4485fc",
+          "exerciseId": "d4341709-ad54-41bb-a518-8311330297ac",
+          "leftContent": "Es mejor que tengas una noche más tranquila.",
+          "rightContent": "É melhor ter uma noite mais tranquila.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "006c42e0-8a40-4ff5-8d61-58dd11d427a6",
+          "exerciseId": "d4341709-ad54-41bb-a518-8311330297ac",
+          "leftContent": "Espero que seas constante con la crema esta semana.",
+          "rightContent": "Espero que você seja constante com o creme nesta semana.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "d2757372-a734-46b2-a863-63b1bb3100b5",
+      "title": "Escolha a melhor forma",
+      "content": "<p>A rotina não resolveu o problema. Complete o conselho em espanhol:</p><p><strong>Es importante que ____ a una consulta si sigues igual.</strong></p>",
+      "contentPlain": "A rotina não resolveu o problema. Complete o conselho em espanhol: Es importante que ____ a una consulta si sigues igual.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, vayas marca o próximo passo de buscar ajuda.",
+      "feedbackError": "Nesta aula, vayas marca o próximo passo de buscar ajuda.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "46f71431-d1c7-4437-8907-b8d592dc6915",
+          "textContent": "duermas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d2757372-a734-46b2-a863-63b1bb3100b5"
+        },
+        {
+          "id": "70050865-190d-4924-900b-16cc88141037",
+          "textContent": "tengas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d2757372-a734-46b2-a863-63b1bb3100b5"
+        },
+        {
+          "id": "704b99f9-5614-4202-877a-79fcbef43e48",
+          "textContent": "seas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d2757372-a734-46b2-a863-63b1bb3100b5"
+        },
+        {
+          "id": "bce24d06-7e01-46e0-b1a2-136b62137f73",
+          "textContent": "vayas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d2757372-a734-46b2-a863-63b1bb3100b5"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f9507112-c35f-4cd7-a7c7-e14e923959e6",
+      "title": "Escolha a melhor forma",
+      "content": "<p>Uma pessoa está esgotada no fim do dia. Complete o conselho em espanhol:</p><p><strong>Te recomiendo que ____ un poco más esta semana.</strong></p>",
+      "contentPlain": "Uma pessoa está esgotada no fim do dia. Complete o conselho em espanhol: Te recomiendo que ____ un poco más esta semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, duermas liga a recomendação ao descanso.",
+      "feedbackError": "Nesta aula, duermas liga a recomendação ao descanso.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7df8a791-efe0-4361-bee9-98c0c1f30546",
+          "textContent": "vayas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f9507112-c35f-4cd7-a7c7-e14e923959e6"
+        },
+        {
+          "id": "8a4c239b-2087-4efa-9e98-698617536615",
+          "textContent": "hagas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f9507112-c35f-4cd7-a7c7-e14e923959e6"
+        },
+        {
+          "id": "c0cf9fcf-d8b4-44d3-a08a-009b56aba082",
+          "textContent": "seas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f9507112-c35f-4cd7-a7c7-e14e923959e6"
+        },
+        {
+          "id": "f036ae7c-324d-4d83-9c02-17199187c012",
+          "textContent": "duermas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f9507112-c35f-4cd7-a7c7-e14e923959e6"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "559f9e43-cece-4c07-82d9-ecdb6e253c44",
+      "title": "Monte a palavra",
+      "content": "<p>Complete em espanhol: <strong>Por la noche, es mejor que ______ una rutina más tranquila.</strong></p><p>Tradução: À noite, é melhor que você tenha uma rotina mais tranquila.</p>",
+      "contentPlain": "Complete em espanhol: Por la noche, es mejor que ______ una rutina más tranquila. Tradução: À noite, é melhor que você tenha uma rotina mais tranquila.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, tengas serve para algo que vale a pena manter.",
+      "feedbackError": "Nesta aula, tengas serve para algo que vale a pena manter.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tengas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d93a9b46-d42e-4101-8d9a-4ab5403b8bd4",
+      "title": "Monte a palavra",
+      "content": "<p>Complete em espanhol: <strong>Te recomiendo que _______ un poco más esta noche.</strong></p><p>Tradução: Eu te recomendo que durma um pouco mais esta noite.</p>",
+      "contentPlain": "Complete em espanhol: Te recomiendo que _______ un poco más esta noche. Tradução: Eu te recomendo que durma um pouco mais esta noite.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, duermas aparece em conselhos de descanso.",
+      "feedbackError": "Nesta aula, duermas aparece em conselhos de descanso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "duermas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "683acdbf-8bcd-4140-aa19-42d0430dff86",
+      "title": "Monte a palavra",
+      "content": "<p>Complete em espanhol: <strong>Para cuidarte mejor, conviene que _____ pausas durante el día.</strong></p><p>Tradução: Para se cuidar melhor, convém que faça pausas durante o dia.</p>",
+      "contentPlain": "Complete em espanhol: Para cuidarte mejor, conviene que _____ pausas durante el día. Tradução: Para se cuidar melhor, convém que faça pausas durante o dia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, hagas ativa uma ação concreta na rotina.",
+      "feedbackError": "Nesta aula, hagas ativa uma ação concreta na rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hagas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3e8ae761-43e7-4dcc-a44c-3fa2bdf4a41e",
+      "title": "Monte a palavra",
+      "content": "<p>Complete em espanhol: <strong>Si sigues igual, es importante que _____ al médico.</strong></p><p>Tradução: Se você continuar igual, é importante que vá ao médico.</p>",
+      "contentPlain": "Complete em espanhol: Si sigues igual, es importante que _____ al médico. Tradução: Se você continuar igual, é importante que vá ao médico.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, vayas marca o passo de buscar ajuda.",
+      "feedbackError": "Nesta aula, vayas marca o passo de buscar ajuda.",
+      "answerType": "buildWord",
+      "expectedAnswer": "vayas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5abf92e0-2b2a-4045-97e6-c864b913c32f",
+      "title": "Monte a palavra",
+      "content": "<p>Complete em espanhol: <strong>Con la crema, espero que ____ constante esta semana.</strong></p><p>Tradução: Com o creme, espero que você seja constante nesta semana.</p>",
+      "contentPlain": "Complete em espanhol: Con la crema, espero que ____ constante esta semana. Tradução: Com o creme, espero que você seja constante nesta semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, seas aparece em um desejo simples de cuidado.",
+      "feedbackError": "Nesta aula, seas aparece em um desejo simples de cuidado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "seas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Usar irregulares para orientar melhor"
+}

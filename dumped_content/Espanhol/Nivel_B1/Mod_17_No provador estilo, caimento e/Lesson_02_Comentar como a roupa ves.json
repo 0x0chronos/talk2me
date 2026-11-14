@@ -1,0 +1,705 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+    "attemptId": "d8d284da-ec31-4111-b6ed-fc89b0d227a1",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "c5f5bed1-f3d3-4426-a4dc-3491f4cdadaa",
+      "2885754c-3b1d-4438-93ac-fa17df8cd106",
+      "4d97b9f2-0409-49d8-827a-14dd3d9888db",
+      "42b4fa11-31d9-4183-be09-625a5f00ce40",
+      "d38bca95-ee6f-4961-aaf2-727dd8821069"
+    ],
+    "evaluationExerciseIds": [
+      "b11c682c-0c50-497b-8170-e9d2df86d6e1",
+      "dabe98b8-4853-47ee-9866-523c079dccc4",
+      "91cfeb8c-0313-4eb9-a7f5-a938aab375ca",
+      "9238aa7a-ec08-46bf-89d4-67f21736120f",
+      "4ae25def-8d8b-4ca4-ad07-1233ce156e5a"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:55.3412938Z"
+  },
+  "contents": [
+    {
+      "id": "0661f160-4aa1-4228-819e-b95e0032609d",
+      "title": "Escute e leia a frase. Ligue o comentário em espanhol ao apoio em português.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "c0b9dd6f-a8b5-4a35-bafe-531a254bdd81",
+          "textContent": "<p>Primeiro, diga que a peça funciona bem em você.</p><p><strong>Esta camisa me queda bien.</strong></p><p>Em português: <strong>Esta camisa fica bem em mim.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b45700e65c4145a482767cfc5bffdc4a_b01-esta-camisa-me-queda-bien.mp3?Expires=1794099655&Signature=oJMDnbBzFpO9d4AfGqsbJ9u-iKIIX~PN7CdGro1V5DwsvhsjmGzg2jwbLboKoYM3MYvOUhifH74UdeJcaUBxylH8~vcu1J~icRm1cUYc679v4wsflzevJ3LMjjqXT~JbuufELTQM9965r6BvItnZ4YwDxTeO631IjMGA46II7J1efTdY~MV8RUtzULc0js0DLdflgJ-NTnt0KymG20PqdVZM48vWCDN5cyR7nu04uzF0W2Kp1jQTe5gQEPM0ixGSw34tU1MIcFJt3o3abnhJkbor7BlxY9KR6NxtQjQvzuMTmvBUtaOta~eO8oe18~DUyy91loLlv2UnSIMEdQD9Xw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f7cd1c72-a3be-4149-866a-e75482a45d22",
+      "title": "Leia a nota curta e observe o que essa frase resolve no espelho ou no provador.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "42659ad9-8b9e-47aa-a57d-99b3c8c50eb8",
+          "textContent": "<p><strong>me queda bien</strong> foca em como a peça cai no seu corpo.</p><p><strong>Esta camisa me queda bien.</strong> funciona quando a roupa serve e a impressão geral é positiva.</p><p>Aqui você ainda não está comparando duas opções: só está dizendo que esta peça funciona para você.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7b236f2c-2084-4d32-b16c-5e320448f75c",
+      "title": "Escute e leia a frase. Note que agora o comentário aponta um problema de ajuste.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "efaf87b7-d6ff-491f-b88a-5715ebaffb60",
+          "textContent": "<p>Agora o comentário vai para um problema de ajuste.</p><p><strong>Esta chaqueta me queda grande.</strong></p><p>Em português: <strong>Esta jaqueta fica grande em mim.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8f0becb5bb6340189d08603d4daf5f9f_b03-esta-chaqueta-me-queda-grande.mp3?Expires=1794099655&Signature=lDAz2phR8Y38ihbZp3iT2zwCIl-89EmgAzFwE0jDL2EzRaaHDe6cC13T19spp~mTi~oixwcoJxqKI4mKO8VFsf7fzYBfki39qH~KEO7AZ7sWWBVRcPqTIYl~vzdK9FJExKpzcd-q8wN1oWw4KqvJzrmnlB2PRtYrc7CUzP7yEN0h0l-i5atk9idCIpdwt1c5gQ0OGnli7QuRT0uF6C8NhmXdxxyHtZjCgICDCBfnsW76dOB8iZp0Wu-LQ879Uv7bchVpF-O6zsUYxF0FV0mXS9wywZQv9NbmgqJZcJfGTS8eMyCihqFH2yG9GXoTGUbPxGCWm1NyRqciNaCb6N3bCw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "780f2b91-79a5-4d9f-bd99-adc7e207f738",
+      "title": "Leia o contraste e observe o que muda entre dizer que a roupa funciona e dizer que ela sobra.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "6e865277-06b7-48d1-944f-b5a21c7a1c0b",
+          "textContent": "<p><strong>me queda grande</strong> aponta um problema de tamanho ou ajuste.</p><p><strong>Esta chaqueta me queda grande.</strong> sugere que a peça sobra e não cai do jeito esperado.</p><p>Ao lado de <strong>me queda bien</strong>, essa frase ajuda a explicar por que você talvez precise de outra talla antes de comparar estilos.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "94806fe0-521c-4143-b347-a3e7f48f01fd",
+      "title": "Escute e leia a frase. Perceba que agora a fala já compara duas opções.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "121a63e9-4e6d-4fff-9f92-30207ca0363f",
+          "textContent": "<p>Agora a fala já compara duas opções.</p><p><strong>La camisa azul me sienta mejor.</strong></p><p>Em português: <strong>A camisa azul me cai melhor.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/39b17adaaac145ddba84638642255f5d_b05-la-camisa-azul-me-sienta-mejor.mp3?Expires=1794099655&Signature=DVlPlZQcJ6~LzMDp60uG2MBxIwXCqW9VTCO~uB2bvhpasN~S9gqCLaU6jqSQnGXrJYWeWaxuWTiZXXCjjey9qTarfWBbLz0ZLBzX23i5x5c9lSwY~-01q~RVYcAhcbJp~n6ubQPpGcY0HhPwfeNAqArJLzaUxerm-6VOGzp0SYPYgtDT2PKvUF4Nv4IJqcNJ34rrP7OkYki56WHNAYPRHvHJwzNs7fm5AykK2KKbgR97fWUHhhGDDTQr5R8oAO7Ve~PdvJXHlusIm-UK2Iu-g03QwEdblSkPfhEtzLQ57g6-xcwhcXn5KSnHY4Gws6A5TURKlzqNUDRPKf2QSEOmGg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ab2958fa-d81a-4e9f-aa0c-45fc38e85639",
+      "title": "Leia a explicação e observe por que essa frase costuma aparecer depois de provar mais de uma opção.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "24369cdd-1c5e-402b-9e19-9c234dcd8ed3",
+          "textContent": "<p><strong>me sienta mejor</strong> costuma aparecer quando você já provou mais de uma opção.</p><p><strong>La camisa azul me sienta mejor.</strong> não fala só de tamanho: fala da impressão geral dessa opção no seu corpo.</p><p>Por isso, essa frase ajuda a comparar duas prendas sem descrever tudo de novo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ded46930-36f6-4893-a3aa-b7dc71b0dd03",
+      "title": "Comentário rápido no provador",
+      "description": "<p>Primeiro aparece o problema de ajuste. Depois, a outra pessoa compara as opções e ajuda a chegar a uma avaliação mais clara.</p>",
+      "contentType": 7,
+      "sequenceItem": 7,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Esta chaqueta me queda grande.</div>\n  <div style=\"opacity: 0.45;\">Esta jaqueta fica grande em mim.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/47029a5910b544dc9aa334945bb22b65_b03-esta-chaqueta-me-queda-grande.mp3?Expires=1794099655&Signature=f80adfU~nwB6jhKa4VduULDQRU0w1Ah6GZJGoQAt7OmpG8gD5DrsnCgn8nkfWKiyI3t-g0ParLIt4vBcrvyY41tg~WTzHG-e~fsxVEENv2-l8sYn7eiFqrgZywLwmkAWzjGNXdxHkG8vBWoxEwtxFC4IZMo~QK04MbZ08a0ukEp3NQ2wwKIJI-yVlqRRbUjBsOktcY~Uonwq0E66eGeLbpVEr8cayiAMbZd6onPYDW5XPfKwrKXAdViUKIZZvfQnNTxbeT05ZAA0vltlOiBQclfwYZ05iHC~Q9TpR0SiJhnDAX8hWtKCMw3-3S9InCQomrvFKds41TeRUkjxkCu5zQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Sí, pero la camisa azul te sienta mejor.</div>\n  <div style=\"opacity: 0.45;\">Sim, mas a camisa azul cai melhor em você.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b2006521f57e4c5c84c42c52c5fa6b8b_b07-si-pero-la-camisa-azul-te-sienta-mejor.mp3?Expires=1794099655&Signature=RSU356gA42LcPyurqpJzioIzYMJwvoQzrXq2~916eu4VdM6UdaeNYiybRp8QSEMJrtmY-2ZCpJbSNbtbaT7regzxWzLpgRO360s9sYp9wVfHuTzp9jxEDf2ZqtvZuQZhNVbQRow51UKHv0Zr90-td1PBQdhq20dIKOe9EWXEKCX5CvwlRlEawPlYSpdy3TniBkZphATHXCalRkuAXYVaXbs1PbgQ8uMUbnKaGdD8Y-4AjPZ6ii125Se1rAPS4wPOQFz6aIEUoNPUoWMaJs6-jXqCq~SXEkRNSLqZYTv7Be7fKfbvSQ9PsJsVG3G8Cpb5LW-XhoY0cj1vDt9iX23cqA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Es verdad. La azul me queda bien.</div>\n  <div style=\"opacity: 0.45;\">É verdade. A azul fica bem em mim.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/97cb8e8ef64946bcb8ddc86e0d15fa8a_b07-es-verdad-la-azul-me-queda-bien.mp3?Expires=1794099655&Signature=Qk2VrIfvdKwhFxlX4bJ5XxqYwpf1GCnkKKNJjYLbSxpGPkFVKXf4AS-ejSF8fo0V10QV1IR4BnTlRzg~wvMKlmrysgW7LvwCib3VTd9RQJECzHJ3VbiIhH2EdjEanGNa2JlCNKrLTOlhWXny2~6ObG7ZtJMflqHpDn4PBvGu5NaLnxtUWv5OpHk17TBQEWpToE6YOFRyJEutcMHwINVTP6X0jLdpOcq-OEscXT1q-vN0UeUSOL3SQnuFKhe41XFz0pd64s~eH~ThVLqAbWtPJhtg4Fe2dZrB4AUu96Z8owC2FDg-5QsVq8ZcDHRZNfMQN5ntkq4x-iAZnrsz8SqHvQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "087de92d-f336-4b55-8cb7-f36c29b46d10",
+      "title": "Escute e leia o resumo final. Conecte essas frases a um momento real de provar duas peças e pedir opinião.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "4c101a65-1f04-4248-9f73-e72850133da8",
+          "textContent": "<p>No provador, você pode primeiro dizer como cada peça veste e depois marcar qual funciona melhor.</p><p><strong>Esta camisa me queda bien, pero la azul me sienta mejor.</strong></p><p>Em português: <strong>Esta camisa fica bem em mim, mas a azul me cai melhor.</strong></p><p>Esse tipo de comentário funciona ao pedir opinião a alguém ou ao decidir entre duas opções diante do espelho.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/444041c2ad534916b9d3c12801d3452e_b08-en-el-probador-puedes-decir.mp3?Expires=1794099655&Signature=o6PaEAYW-eF7yopYCEH-2eVFCrn6nVpglkrKavp8ii7Qi6b-OPY3YtC3N-s3CE6Tqug7C9ZEYJx~kWOoO42Z~jktBsBZJ3RygPsGGGQWhFtKv3zxG8VrSuZtLi66dTOH~3sKK4FbaFXl0P3HlR4AvOUesUtLlXpVaSSwlBfsm1nwhE3~ZPl2HEOM9yERFlGbEY5V8tLb4VeDtFd-9SVLeBiGNlzK62PtxMsYm2ehckIu9pw0uM~8fmY0HWlr-YXTa1Q1~tlGLr-koCdYIi0GbdJaSbCgrewbdXZiKMrcWrjp3g2mNLvp~TTUv6vM-l-Ss31HLcmLSLZhx8ZEaWS7gw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "c5f5bed1-f3d3-4426-a4dc-3491f4cdadaa",
+      "title": "Escolha a comparação correta",
+      "content": "<p>Você provou duas camisas e quer dizer que a azul favorece mais. Qual frase em espanhol faz isso?</p>",
+      "contentPlain": "Você provou duas camisas e quer dizer que a azul favorece mais. Qual frase em espanhol faz isso?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, me sienta mejor marca a comparação entre duas opções no provador.",
+      "feedbackError": "Nesta aula, me sienta mejor marca a comparação entre duas opções no provador.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "132626c3-5c27-456f-96d1-94a1bfe18f2a",
+          "textContent": "La camisa azul me sienta mejor.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c5f5bed1-f3d3-4426-a4dc-3491f4cdadaa"
+        },
+        {
+          "id": "49d4e598-d478-413c-99f1-619eafb8b9d9",
+          "textContent": "Esta camisa me queda bien.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c5f5bed1-f3d3-4426-a4dc-3491f4cdadaa"
+        },
+        {
+          "id": "64f43795-8ba6-42bf-a4ca-48d1cfa9dfbe",
+          "textContent": "La azul me queda bien.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c5f5bed1-f3d3-4426-a4dc-3491f4cdadaa"
+        },
+        {
+          "id": "b371656a-2253-459c-be4b-742270625a14",
+          "textContent": "Esta chaqueta me queda grande.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c5f5bed1-f3d3-4426-a4dc-3491f4cdadaa"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2885754c-3b1d-4438-93ac-fa17df8cd106",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta o recap final da aula.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta o recap final da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a2c00289c42b49ee8af0a96697ae6a16_b08-en-el-probador-puedes-decir.mp3?Expires=1794099655&Signature=rWfWnbMJHxz6JJwYd1XlgQPaZU33ioU5kjl4vImyx46O2cZS71eDjJyYph3GjyX1qIWjM7LMrvlWHGMWRjC8l2aAH3hF5QfmzHrSRzouAvxK-KcS9qKU4XK54-zPs~LoisoZgOfCYfPTexsXlBsbs2AkcMrTsEl7j~xv6yOt8L5w610rJDd~azXenSzJtQNppmXZBLb01If-dHUMygo85S7BPNB5-UBtLtkTUEGHdj502qc~wo7do3JFHL7keR8v3POtmHv7~a4~XyoeCGF3he4lhe7jZojv7UECJIAJYim2ZOA9a~q1Ck~a6EYQpdA-L4arGeAQwCGZH3DdqmqSeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final combina ajuste e comparação na mesma fala curta de provador.",
+      "feedbackError": "O recap final combina ajuste e comparação na mesma fala curta de provador.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Esta camisa me queda bien, pero la azul me sienta mejor.",
+      "typeSpecificData": "{\"expectedText\":\"Esta camisa me queda bien, pero la azul me sienta mejor.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/a2c00289c42b49ee8af0a96697ae6a16_b08-en-el-probador-puedes-decir.mp3?Expires=1794099655\\u0026Signature=rWfWnbMJHxz6JJwYd1XlgQPaZU33ioU5kjl4vImyx46O2cZS71eDjJyYph3GjyX1qIWjM7LMrvlWHGMWRjC8l2aAH3hF5QfmzHrSRzouAvxK-KcS9qKU4XK54-zPs~LoisoZgOfCYfPTexsXlBsbs2AkcMrTsEl7j~xv6yOt8L5w610rJDd~azXenSzJtQNppmXZBLb01If-dHUMygo85S7BPNB5-UBtLtkTUEGHdj502qc~wo7do3JFHL7keR8v3POtmHv7~a4~XyoeCGF3he4lhe7jZojv7UECJIAJYim2ZOA9a~q1Ck~a6EYQpdA-L4arGeAQwCGZH3DdqmqSeQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4d97b9f2-0409-49d8-827a-14dd3d9888db",
+      "title": "Escute e recupere o diálogo",
+      "content": "<p>Associe as três falas do provador ao texto correspondente em espanhol.</p>",
+      "contentPlain": "Associe as três falas do provador ao texto correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Escutar o diálogo ajuda a ligar problema de ajuste, comparação e resposta final.",
+      "feedbackError": "Escutar o diálogo ajuda a ligar problema de ajuste, comparação e resposta final.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "d88c4d41-e60a-4c01-87cc-c90a9865a311",
+          "exerciseId": "4d97b9f2-0409-49d8-827a-14dd3d9888db",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/47029a5910b544dc9aa334945bb22b65_b03-esta-chaqueta-me-queda-grande.mp3?Expires=1794099655&Signature=f80adfU~nwB6jhKa4VduULDQRU0w1Ah6GZJGoQAt7OmpG8gD5DrsnCgn8nkfWKiyI3t-g0ParLIt4vBcrvyY41tg~WTzHG-e~fsxVEENv2-l8sYn7eiFqrgZywLwmkAWzjGNXdxHkG8vBWoxEwtxFC4IZMo~QK04MbZ08a0ukEp3NQ2wwKIJI-yVlqRRbUjBsOktcY~Uonwq0E66eGeLbpVEr8cayiAMbZd6onPYDW5XPfKwrKXAdViUKIZZvfQnNTxbeT05ZAA0vltlOiBQclfwYZ05iHC~Q9TpR0SiJhnDAX8hWtKCMw3-3S9InCQomrvFKds41TeRUkjxkCu5zQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta chaqueta me queda grande.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9c46f306-24a9-4605-83b0-af12442a844a",
+          "exerciseId": "4d97b9f2-0409-49d8-827a-14dd3d9888db",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b2006521f57e4c5c84c42c52c5fa6b8b_b07-si-pero-la-camisa-azul-te-sienta-mejor.mp3?Expires=1794099655&Signature=RSU356gA42LcPyurqpJzioIzYMJwvoQzrXq2~916eu4VdM6UdaeNYiybRp8QSEMJrtmY-2ZCpJbSNbtbaT7regzxWzLpgRO360s9sYp9wVfHuTzp9jxEDf2ZqtvZuQZhNVbQRow51UKHv0Zr90-td1PBQdhq20dIKOe9EWXEKCX5CvwlRlEawPlYSpdy3TniBkZphATHXCalRkuAXYVaXbs1PbgQ8uMUbnKaGdD8Y-4AjPZ6ii125Se1rAPS4wPOQFz6aIEUoNPUoWMaJs6-jXqCq~SXEkRNSLqZYTv7Be7fKfbvSQ9PsJsVG3G8Cpb5LW-XhoY0cj1vDt9iX23cqA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, pero la camisa azul te sienta mejor.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0879e8c3-a09e-43e6-8ad1-dc293bb6ee1a",
+          "exerciseId": "4d97b9f2-0409-49d8-827a-14dd3d9888db",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/97cb8e8ef64946bcb8ddc86e0d15fa8a_b07-es-verdad-la-azul-me-queda-bien.mp3?Expires=1794099655&Signature=Qk2VrIfvdKwhFxlX4bJ5XxqYwpf1GCnkKKNJjYLbSxpGPkFVKXf4AS-ejSF8fo0V10QV1IR4BnTlRzg~wvMKlmrysgW7LvwCib3VTd9RQJECzHJ3VbiIhH2EdjEanGNa2JlCNKrLTOlhWXny2~6ObG7ZtJMflqHpDn4PBvGu5NaLnxtUWv5OpHk17TBQEWpToE6YOFRyJEutcMHwINVTP6X0jLdpOcq-OEscXT1q-vN0UeUSOL3SQnuFKhe41XFz0pd64s~eH~ThVLqAbWtPJhtg4Fe2dZrB4AUu96Z8owC2FDg-5QsVq8ZcDHRZNfMQN5ntkq4x-iAZnrsz8SqHvQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es verdad. La azul me queda bien.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "42b4fa11-31d9-4183-be09-625a5f00ce40",
+      "title": "Ligue a fala ao efeito dela",
+      "content": "<p>Associe cada fala do diálogo ao que ela comunica sobre ajuste ou comparação.</p>",
+      "contentPlain": "Associe cada fala do diálogo ao que ela comunica sobre ajuste ou comparação.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo desta aula junta problema de ajuste, comparação e confirmação da escolha.",
+      "feedbackError": "O diálogo desta aula junta problema de ajuste, comparação e confirmação da escolha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5c526e7a-8b0d-4b23-a006-b9f2df129231",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "42b4fa11-31d9-4183-be09-625a5f00ce40"
+        },
+        {
+          "id": "d6b2478c-fd48-4ea5-a284-3bf489a8b00b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "42b4fa11-31d9-4183-be09-625a5f00ce40"
+        }
+      ],
+      "associations": [
+        {
+          "id": "7c57c61d-1584-4a9f-b167-73f8bcf151ba",
+          "exerciseId": "42b4fa11-31d9-4183-be09-625a5f00ce40",
+          "leftContent": "Esta chaqueta me queda grande.",
+          "rightContent": "a peça sobra no corpo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f8709008-4f6f-4257-b06d-02ba157dbeef",
+          "exerciseId": "42b4fa11-31d9-4183-be09-625a5f00ce40",
+          "leftContent": "Sí, pero la camisa azul te sienta mejor.",
+          "rightContent": "a outra opção favorece mais",
+          "sequenceItem": 2
+        },
+        {
+          "id": "9fecbc41-9d24-4023-87fc-0154ac986524",
+          "exerciseId": "42b4fa11-31d9-4183-be09-625a5f00ce40",
+          "leftContent": "Es verdad. La azul me queda bien.",
+          "rightContent": "confirmar que a azul funciona bem",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "d38bca95-ee6f-4961-aaf2-727dd8821069",
+      "title": "Ouça e marque as palavras",
+      "content": "<p>Escute a frase de comparação e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a frase de comparação e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/12f6b3368e1b4c52ab1befd19beaa563_b05-la-camisa-azul-me-sienta-mejor.mp3?Expires=1794099655&Signature=WVr92VE7mzy50yAm73WbeEW-pCkgOkQlrK~ian0NzcQg2oV~8X~UwLR-EbsRbmPgK7fFhlCa9HihefKwGhYrX~HgPeujwUfjNqDRGZ7LSU4gp4Zcx-Jiu7wBRlO-7fNYTUPqm-DrbS0y~RZsp7iLo6ReSF2IvIOawG5Gl2BBnY1eodBlLms-~Bo5C8Buc7XhL7opv3H4aDJZojj-3zwTmJDU8cngZoc2TNV5wUmT9LpB8KhwAfxJM08PwwvQY7Md5j19bZgY6SA99BCFJUT4ny4yJkOjcIqqwDCd0gtiwSJhwdbIdVHH4uoEoZEMFtTdk7aNVYvzDMPjAXVTrRnjmw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A frase com me sienta mejor é a comparação curta usada para escolher entre duas prendas.",
+      "feedbackError": "A frase com me sienta mejor é a comparação curta usada para escolher entre duas prendas.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "13a075d9-76db-4844-92d7-31d95ca0fa34",
+          "textContent": "verdad",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d38bca95-ee6f-4961-aaf2-727dd8821069"
+        },
+        {
+          "id": "43c3ca4b-a4b9-4bbc-9083-0b90cb66414d",
+          "textContent": "grande",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d38bca95-ee6f-4961-aaf2-727dd8821069"
+        },
+        {
+          "id": "48ede115-d2e7-443f-88fc-3f5deb3d4966",
+          "textContent": "La",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d38bca95-ee6f-4961-aaf2-727dd8821069"
+        },
+        {
+          "id": "96c816b8-62d1-4d5b-9619-c9a698394d72",
+          "textContent": "mejor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d38bca95-ee6f-4961-aaf2-727dd8821069"
+        },
+        {
+          "id": "adfa4770-e98f-4f85-a7ee-ce8e95d5c69d",
+          "textContent": "camisa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d38bca95-ee6f-4961-aaf2-727dd8821069"
+        },
+        {
+          "id": "c4703bdf-e692-40c5-a3b6-49b2b3ab6621",
+          "textContent": "azul",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d38bca95-ee6f-4961-aaf2-727dd8821069"
+        },
+        {
+          "id": "c9f9c486-fd61-4958-8f84-17844bf1b2dd",
+          "textContent": "queda",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d38bca95-ee6f-4961-aaf2-727dd8821069"
+        },
+        {
+          "id": "dad8596e-d726-4e46-965e-26d56df77de4",
+          "textContent": "sienta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d38bca95-ee6f-4961-aaf2-727dd8821069"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "b11c682c-0c50-497b-8170-e9d2df86d6e1",
+      "title": "Complete a comparação",
+      "content": "<p>Complete em espanhol: La camisa azul me ______ mejor.</p><p>Tradução: A camisa azul me cai melhor.</p>",
+      "contentPlain": "Complete em espanhol: La camisa azul me ______ mejor. Tradução: A camisa azul me cai melhor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Sienta sustenta a comparação geral entre duas prendas já provadas.",
+      "feedbackError": "Sienta sustenta a comparação geral entre duas prendas já provadas.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sienta",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "dabe98b8-4853-47ee-9866-523c079dccc4",
+      "title": "Ouça e recupere a conclusão",
+      "content": "<p>Escute o recap final e marque somente as palavras que fazem parte da conclusão da escolha.</p>",
+      "contentPlain": "Escute o recap final e marque somente as palavras que fazem parte da conclusão da escolha.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a2c00289c42b49ee8af0a96697ae6a16_b08-en-el-probador-puedes-decir.mp3?Expires=1794099655&Signature=rWfWnbMJHxz6JJwYd1XlgQPaZU33ioU5kjl4vImyx46O2cZS71eDjJyYph3GjyX1qIWjM7LMrvlWHGMWRjC8l2aAH3hF5QfmzHrSRzouAvxK-KcS9qKU4XK54-zPs~LoisoZgOfCYfPTexsXlBsbs2AkcMrTsEl7j~xv6yOt8L5w610rJDd~azXenSzJtQNppmXZBLb01If-dHUMygo85S7BPNB5-UBtLtkTUEGHdj502qc~wo7do3JFHL7keR8v3POtmHv7~a4~XyoeCGF3he4lhe7jZojv7UECJIAJYim2ZOA9a~q1Ck~a6EYQpdA-L4arGeAQwCGZH3DdqmqSeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final fecha a aula unindo uma peça que funciona e outra que favorece mais.",
+      "feedbackError": "O recap final fecha a aula unindo uma peça que funciona e outra que favorece mais.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "07e371dd-ecb7-4652-92d3-90e0d8acf94a",
+          "textContent": "azul",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dabe98b8-4853-47ee-9866-523c079dccc4"
+        },
+        {
+          "id": "3d6c6e0c-3e12-4011-baca-d6fb29927957",
+          "textContent": "grande",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dabe98b8-4853-47ee-9866-523c079dccc4"
+        },
+        {
+          "id": "3fe66a28-6b4b-4e91-ba2a-a70400c5141e",
+          "textContent": "camisa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dabe98b8-4853-47ee-9866-523c079dccc4"
+        },
+        {
+          "id": "5ed68881-f252-4228-ab0c-eb637cfd13e1",
+          "textContent": "queda",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dabe98b8-4853-47ee-9866-523c079dccc4"
+        },
+        {
+          "id": "6bc9f4f1-db35-42ed-9cc4-2dd63e888855",
+          "textContent": "bien",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dabe98b8-4853-47ee-9866-523c079dccc4"
+        },
+        {
+          "id": "b57e8575-2ba9-4900-ba15-719bb73a5880",
+          "textContent": "chaqueta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dabe98b8-4853-47ee-9866-523c079dccc4"
+        },
+        {
+          "id": "c372c489-288a-4380-9c1f-edfae936c146",
+          "textContent": "verdad",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dabe98b8-4853-47ee-9866-523c079dccc4"
+        },
+        {
+          "id": "ef8a63b4-eb87-42ce-a16b-db3aa43136a8",
+          "textContent": "mejor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dabe98b8-4853-47ee-9866-523c079dccc4"
+        },
+        {
+          "id": "fc72db38-fd5f-45c4-88b3-be10f7a89e12",
+          "textContent": "sienta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dabe98b8-4853-47ee-9866-523c079dccc4"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca",
+      "title": "Recupere a opinião pelo áudio",
+      "content": "<p>Escute a fala sobre a camisa azul e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a fala sobre a camisa azul e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b2006521f57e4c5c84c42c52c5fa6b8b_b07-si-pero-la-camisa-azul-te-sienta-mejor.mp3?Expires=1794099655&Signature=RSU356gA42LcPyurqpJzioIzYMJwvoQzrXq2~916eu4VdM6UdaeNYiybRp8QSEMJrtmY-2ZCpJbSNbtbaT7regzxWzLpgRO360s9sYp9wVfHuTzp9jxEDf2ZqtvZuQZhNVbQRow51UKHv0Zr90-td1PBQdhq20dIKOe9EWXEKCX5CvwlRlEawPlYSpdy3TniBkZphATHXCalRkuAXYVaXbs1PbgQ8uMUbnKaGdD8Y-4AjPZ6ii125Se1rAPS4wPOQFz6aIEUoNPUoWMaJs6-jXqCq~SXEkRNSLqZYTv7Be7fKfbvSQ9PsJsVG3G8Cpb5LW-XhoY0cj1vDt9iX23cqA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, te sienta mejor é a opinião que empurra a escolha para a camisa azul.",
+      "feedbackError": "No diálogo, te sienta mejor é a opinião que empurra a escolha para a camisa azul.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "116f9245-4e50-4565-8c3c-8cf88e72a9ad",
+          "textContent": "azul",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        },
+        {
+          "id": "3312ff15-bf83-4d23-907b-e9b6fcfa606f",
+          "textContent": "Sí",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        },
+        {
+          "id": "52befbbc-d05d-4f56-a8d6-bede898a2f24",
+          "textContent": "sienta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        },
+        {
+          "id": "6fae40af-7bd3-4426-bd83-ece884811a81",
+          "textContent": "camisa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        },
+        {
+          "id": "a73f5c57-a49d-40fc-9b5d-dc972e02a3e3",
+          "textContent": "queda",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        },
+        {
+          "id": "b23edc77-5e91-476a-9f8a-7d095e7b6706",
+          "textContent": "mejor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        },
+        {
+          "id": "c36946e9-29a2-4488-a69c-27cb86c7044d",
+          "textContent": "pero",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        },
+        {
+          "id": "c7bb6442-c6f4-4f39-9756-e0db4baadf9a",
+          "textContent": "te",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        },
+        {
+          "id": "d5ea73b2-6c3e-4a18-b824-c4cb9bb4bad5",
+          "textContent": "grande",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        },
+        {
+          "id": "fd0cb790-880f-42f0-90b8-015390b3b5ac",
+          "textContent": "verdad",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "91cfeb8c-0313-4eb9-a7f5-a938aab375ca"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "9238aa7a-ec08-46bf-89d4-67f21736120f",
+      "title": "Reconstrua a sequência pelo áudio",
+      "content": "<p>Associe os áudios principais da aula ao texto correspondente em espanhol.</p>",
+      "contentPlain": "Associe os áudios principais da aula ao texto correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta sequência recupera o caminho inteiro da aula: ajuste bom, ajuste ruim, comparação e recap final.",
+      "feedbackError": "Esta sequência recupera o caminho inteiro da aula: ajuste bom, ajuste ruim, comparação e recap final.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "42ee6e5b-5788-4189-b14a-3b70170c05c0",
+          "exerciseId": "9238aa7a-ec08-46bf-89d4-67f21736120f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8af9430372ad486b99521e881c9edbad_b01-esta-camisa-me-queda-bien.mp3?Expires=1794099655&Signature=A8ox86p7xrG99BFi26T-2MK~ORBRnvEsB6~l1FLBG56Z7T0~qyeQLL6Llxwu9pK9zBxnU3r03AO2nmwWU~1uEXqHeuNfBo6uE8gdwe9YzUzFNXcf7qOKqq5yiGNj2fwmjN58GZCagSAx72zwCaE5dDOBUht1Dwewa2zXQG6uW7S~5UL-bumU4FMMT775itKBywWmgOEnn181xzANq0rH9Pl0qdgbZ8gJv9AJiS8vfVqCTdsadMaJ7I-e-mqfxIq8-ZnYcNzfuTTLGCiFtt4cFprzGVQTiM-FkYdFvQhwCxrZawQEKQmRUFxFqJtxiNIxOKSybykfKL2WFbFRH2ssBg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta camisa me queda bien.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d9860446-9d66-4557-bd48-e1d8d5090a12",
+          "exerciseId": "9238aa7a-ec08-46bf-89d4-67f21736120f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/47029a5910b544dc9aa334945bb22b65_b03-esta-chaqueta-me-queda-grande.mp3?Expires=1794099655&Signature=f80adfU~nwB6jhKa4VduULDQRU0w1Ah6GZJGoQAt7OmpG8gD5DrsnCgn8nkfWKiyI3t-g0ParLIt4vBcrvyY41tg~WTzHG-e~fsxVEENv2-l8sYn7eiFqrgZywLwmkAWzjGNXdxHkG8vBWoxEwtxFC4IZMo~QK04MbZ08a0ukEp3NQ2wwKIJI-yVlqRRbUjBsOktcY~Uonwq0E66eGeLbpVEr8cayiAMbZd6onPYDW5XPfKwrKXAdViUKIZZvfQnNTxbeT05ZAA0vltlOiBQclfwYZ05iHC~Q9TpR0SiJhnDAX8hWtKCMw3-3S9InCQomrvFKds41TeRUkjxkCu5zQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta chaqueta me queda grande.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "cdf1aaa3-bf13-4971-8d87-10aaeb5a13fd",
+          "exerciseId": "9238aa7a-ec08-46bf-89d4-67f21736120f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/12f6b3368e1b4c52ab1befd19beaa563_b05-la-camisa-azul-me-sienta-mejor.mp3?Expires=1794099655&Signature=WVr92VE7mzy50yAm73WbeEW-pCkgOkQlrK~ian0NzcQg2oV~8X~UwLR-EbsRbmPgK7fFhlCa9HihefKwGhYrX~HgPeujwUfjNqDRGZ7LSU4gp4Zcx-Jiu7wBRlO-7fNYTUPqm-DrbS0y~RZsp7iLo6ReSF2IvIOawG5Gl2BBnY1eodBlLms-~Bo5C8Buc7XhL7opv3H4aDJZojj-3zwTmJDU8cngZoc2TNV5wUmT9LpB8KhwAfxJM08PwwvQY7Md5j19bZgY6SA99BCFJUT4ny4yJkOjcIqqwDCd0gtiwSJhwdbIdVHH4uoEoZEMFtTdk7aNVYvzDMPjAXVTrRnjmw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La camisa azul me sienta mejor.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "708ed92a-cb89-4316-bd5b-44e7cec67955",
+          "exerciseId": "9238aa7a-ec08-46bf-89d4-67f21736120f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a2c00289c42b49ee8af0a96697ae6a16_b08-en-el-probador-puedes-decir.mp3?Expires=1794099655&Signature=rWfWnbMJHxz6JJwYd1XlgQPaZU33ioU5kjl4vImyx46O2cZS71eDjJyYph3GjyX1qIWjM7LMrvlWHGMWRjC8l2aAH3hF5QfmzHrSRzouAvxK-KcS9qKU4XK54-zPs~LoisoZgOfCYfPTexsXlBsbs2AkcMrTsEl7j~xv6yOt8L5w610rJDd~azXenSzJtQNppmXZBLb01If-dHUMygo85S7BPNB5-UBtLtkTUEGHdj502qc~wo7do3JFHL7keR8v3POtmHv7~a4~XyoeCGF3he4lhe7jZojv7UECJIAJYim2ZOA9a~q1Ck~a6EYQpdA-L4arGeAQwCGZH3DdqmqSeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta camisa me queda bien, pero la azul me sienta mejor.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "4ae25def-8d8b-4ca4-ad07-1233ce156e5a",
+      "title": "Complete o comentário de ajuste",
+      "content": "<p>Complete em espanhol: Esta chaqueta me queda ______.</p><p>Tradução: Esta jaqueta fica grande em mim.</p>",
+      "contentPlain": "Complete em espanhol: Esta chaqueta me queda ______. Tradução: Esta jaqueta fica grande em mim.",
+      "fileUrl": null,
+      "feedbackSuccess": "Grande marca o problema de ajuste apresentado quando a peça sobra no corpo.",
+      "feedbackError": "Grande marca o problema de ajuste apresentado quando a peça sobra no corpo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "grande",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Comentar como a roupa veste e comparar pecas"
+}

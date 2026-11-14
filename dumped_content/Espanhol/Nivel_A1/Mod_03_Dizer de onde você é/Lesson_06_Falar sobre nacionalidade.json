@@ -1,0 +1,684 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+    "attemptId": "5e0ea2f6-5236-4cf5-b79b-1f66197b8c3c",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "1c03a094-5bf8-469f-b1b1-f9754932ff76",
+      "29819862-4191-4c74-9647-5a8a65144847",
+      "85f20223-5a9a-4af5-a439-ad9835d0b84a",
+      "bfd2f656-d5ce-4e6e-93e9-54a7049880fa",
+      "f0313215-f61d-464b-b32e-533a8b499a73"
+    ],
+    "evaluationExerciseIds": [
+      "ba255673-8b46-4048-be88-405bedb61bad",
+      "6763c9d4-e67c-4db0-8c58-9807c2fabb75",
+      "6ded7e01-e8ee-4d90-80de-724aa2cc90f7",
+      "e6422a2b-626e-447f-a919-2266ee5fb876",
+      "e8cdd6d8-06e1-4f94-ad18-7915f7e61d3f"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:56:44.4222163Z"
+  },
+  "contents": [
+    {
+      "id": "88ed2077-1767-4dce-9455-7f7050249241",
+      "title": "Observe a cena, escute a frase e associe a nacionalidade à apresentação da pessoa.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "aab994b4-876c-4e48-a59b-ca1b297591e6",
+          "textContent": "<p>Escute e leia.</p><p><strong>Soy argentina.</strong></p><p>Em português: <strong>Sou argentina.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8453e48e44ea4de789124cd74847fe7d_b01-soy-argentina.png?Expires=1794099405&Signature=vu9BkMISzS~CBrIsjlOt65jtOvCXLwZgrd5jCJgJprN1uGAqtdY09EKQOvDC6uVlTZaJpqf8wDmY1JJnLTQR7UnOApcU-xNHBadtv5CFTeYuw0LjsgodpSkb4vXBBHpPwy2P91t52ODfViRwSw0wAn3O4mmMhHRr1ZeHboLajvGnjwshslKPGxae7W7-2Mi8hKoUIjFyzLY1ZGIpsmlPC6sc13bWkT0-sjjITOiW5uclM6aN-z4Bk1z1tVpw49SfRNSNs6a8xKEMGIFOhlyIpuCwSXv4rQe3wqjda5M2pxrg7oD59rwh0k7ODgSpbqIYR5mf88EQsy7aTJ9U8DtR8g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e5959949901d4515bd30c4d02bf50e6f_b01-soy-argentina.mp3?Expires=1794099405&Signature=eYnFVoit4My8NZjLmb13wVtY2rXEP3fxxDc6P41pZBx4Ysb00QY90Nn5vpobJAnPUhnldXJqrMd~jvwvQXzjVRGSjW5vxyYtiMRAAsT2h0Lsa1gMJIGxKg5VZRX1ghGj0tDyTAdBKGj6EGX33JFc1fwc55dIonZ7PDl-w46IJO4ssOKxFL91iTCi-BMMtnuP62d98YZTFLurF8H6ALY5Mmi94G-ErF9dyX31R~hUeWK9nutbYEkpB0QlZSO31grL4a-cMLvvu8PU29m6FGSFNu7xiOXGVww06~FgBrxWNoy92nSn~S8DFIuOyQmhGREZQ3d2IAweaFYHlndni4IAvA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "24528987-6ddd-4cdb-8798-174c365b14b5",
+      "title": "Compare as duas linhas e note o que cada uma informa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "0b0edba5-9cad-4533-b225-428c8024ddbf",
+          "textContent": "<p><strong>Soy argentina.</strong> diz a nacionalidade.</p><p><strong>Soy de Argentina.</strong> diz o país de origem.</p><p><strong>argentina</strong> e <strong>Argentina</strong> se parecem na escrita, mas não entregam a mesma informação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9af8f80b-2ca0-4a7d-a08e-9355b19d804d",
+      "title": "Observe a nova cena, escute a frase e compare com o primeiro exemplo.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "5eb2dffb-6d1c-44ed-9ef6-d56587d4fa06",
+          "textContent": "<p>Agora veja outro exemplo.</p><p><strong>Soy mexicano.</strong></p><p>Em português: <strong>Sou mexicano.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5da910d09ec84b71ba3d4df16f9051fe_b03-soy-mexicano.png?Expires=1794099405&Signature=vq0lAmJFuUdNMWel8i~7DwBl80E6unMfrPq7USAhluOIQyd4ecXRuPUbQDznXYo6g286XAAsoSZTpoHhSWsHN4XHMY~nXis2AeLlIZvwFYDrqxY4dju8G2d~91s-LBMZ2glNfq2PXO~iWGcZk54TYsOBNP2~xc-DhXGk5~mWKtHurIWidcGf~OVB4bTC9foQotUeJA4MK2sl583W3HXoPvI0uLFK7KlM2dd1d4w4M-cXkXvB6EMwPNCSc3A3c3uzT3prw2AQ2a~A8VCwovDxhA5UBYTHf03vv-yCOv8r1MQlPwX9wWJY9ZhLn3zgckMpoVEW1I~KdX~JzSJXNIAUIQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a7e80274d9204ca5a18c0dc7fdcfccb3_b03-soy-mexicano.mp3?Expires=1794099405&Signature=slhlXCu7xDsRnZmhJuPQGW2QlxcvMImaH7T5TFhUjokDHJUW6xHYDyVtc3~6NM5MCrT2bRy35c6qUG17AYAhc9oiKlRdwCGkU40YiLgtkBn7qFKJDbEmfVuUO~2IghCUVRVf0ivDNSsjT~Vx6xnIRJ5goYzf4Exz-~xdtLAqfX21HCe2SltCUMf4oVY1G4lhm3~ZvS46xSMKcIfIXOcSOWBgFEbU~kCVcfD3b3NmMeyYpU8Un7ZxS2A2kEcB9v-Wmquon8Nt7sySVz6V5l-tMVCCMMaKvgqtnlfIrktYFgmy9Wk9tKHv9LTWiA5YOgVCvACtu3B133-yaDcJS5RMPA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "484c5aad-bc16-47be-bb97-467e63e794b6",
+      "title": "Compare as duas linhas e observe como de muda o sentido.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "6e8055ca-401e-4e19-b25c-ec9af996408b",
+          "textContent": "<p><strong>Soy mexicano.</strong> fala da nacionalidade.</p><p><strong>Soy de México.</strong> fala do país de origem.</p><p>A preposição <strong>de</strong> ajuda a marcar de onde a pessoa é.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6067ab12-9f5f-4763-91a1-5cbc654d9c11",
+      "title": "Passe pelos cartões e observe o que fica fixo em cada molde.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "ecb05c52-01a9-4d84-af06-d697554ba50b",
+          "textContent": "<p>Exemplo 1</p><p><strong>Soy argentina.</strong></p><p>Isso fala da nacionalidade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e5959949901d4515bd30c4d02bf50e6f_b01-soy-argentina.mp3?Expires=1794099405&Signature=eYnFVoit4My8NZjLmb13wVtY2rXEP3fxxDc6P41pZBx4Ysb00QY90Nn5vpobJAnPUhnldXJqrMd~jvwvQXzjVRGSjW5vxyYtiMRAAsT2h0Lsa1gMJIGxKg5VZRX1ghGj0tDyTAdBKGj6EGX33JFc1fwc55dIonZ7PDl-w46IJO4ssOKxFL91iTCi-BMMtnuP62d98YZTFLurF8H6ALY5Mmi94G-ErF9dyX31R~hUeWK9nutbYEkpB0QlZSO31grL4a-cMLvvu8PU29m6FGSFNu7xiOXGVww06~FgBrxWNoy92nSn~S8DFIuOyQmhGREZQ3d2IAweaFYHlndni4IAvA__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "a7301caf-00c2-401f-8074-bf80ba87fd39",
+          "textContent": "<p>Exemplo 2</p><p><strong>Soy de Argentina.</strong></p><p>Isso fala do país de origem.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3bb8ccbb613947a089a793944d9ef98c_b05-soy-de-argentina.mp3?Expires=1794099405&Signature=PkzqW5Zm2i0U4qQucnJIDqLYn2DhRieLlwDDBuPqiVQKkFoO-6AIlAtHb0Y5aNyazXPC~Ls3tY9Sw1H~uM3W11bkkSEMh4MX3VEwQag1g4NLunljv2sSzfjoa3FKP2YI1FKSE5nUhr8AaPPijblCXbLPYpE4WRTN1ha6yo~qUlvQVxipuvD6W4EbYgMdIT3Fb9riGm9xULgdc-bNnCJLxUFaXITmagfTAwQ7qvaM2la6DbyYdBKdj3HiC784Ps02NjY2zYrRutenF6XpmXo6cG3cJBjI-LCYqX8BwFmVCMyinGdpAhhs7i-mR6toCywMTfYBGWqxWEzYvW7Ke55LAQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "13d30041-79cb-4657-9456-ddbba928f04e",
+          "textContent": "<p>Exemplo 3</p><p><strong>Soy mexicano.</strong></p><p>Isso fala da nacionalidade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a7e80274d9204ca5a18c0dc7fdcfccb3_b03-soy-mexicano.mp3?Expires=1794099405&Signature=slhlXCu7xDsRnZmhJuPQGW2QlxcvMImaH7T5TFhUjokDHJUW6xHYDyVtc3~6NM5MCrT2bRy35c6qUG17AYAhc9oiKlRdwCGkU40YiLgtkBn7qFKJDbEmfVuUO~2IghCUVRVf0ivDNSsjT~Vx6xnIRJ5goYzf4Exz-~xdtLAqfX21HCe2SltCUMf4oVY1G4lhm3~ZvS46xSMKcIfIXOcSOWBgFEbU~kCVcfD3b3NmMeyYpU8Un7ZxS2A2kEcB9v-Wmquon8Nt7sySVz6V5l-tMVCCMMaKvgqtnlfIrktYFgmy9Wk9tKHv9LTWiA5YOgVCvACtu3B133-yaDcJS5RMPA__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "0c235f4a-5190-4a71-a42b-26db6b2cd4aa",
+          "textContent": "<p>Exemplo 4</p><p><strong>Soy de México.</strong></p><p>Isso fala do país de origem.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/55b5338879854623b52b07239189aabb_b05-soy-de-mexico.mp3?Expires=1794099405&Signature=biyDZWQqfmWZT~V~tjXx~SnBfFDsP-ZLs~u9s~4zvw5JOiSIO8MWxGPujj2pRNJhiX1gIjfeFaTgiTEo4ZT0eIAwDVZ2vBzx5MafOcsll6qnnME-aYRucvld4NTBoe7h4VnuQxxXupdBXDX1i3Wxm9JPFC4SwK5-02AnjrAKcIC2TFqvC84SLDBIDoJnn3KAJPjKUgzvr1oIk2mJ3D6hXE2lM5lwhD7dRopo2ZBfDmdg5XD9M7eYwX0NjGkuW-bz6ZU7kOVtCXCcKS1j~t-DsL26SUN1fb-wCr~Ajm2zQNqP02~o9l5aa4C8uXb-QuJ2qPY-9labBF0XHTjikLwwrw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a8712990-29ea-4c0f-80c9-b2e9575a540f",
+      "title": "Chegada ao grupo",
+      "description": "<p>Duas pessoas se conhecem rapidamente antes do começo de uma atividade.</p>",
+      "contentType": 7,
+      "sequenceItem": 6,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Hola, soy Julia.</div>\n  <div style=\"opacity: 0.45;\">Oi, eu sou Julia.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/42e0f17828df44d4b642bba5c9939d68_b06-d01-hola-soy-julia.mp3?Expires=1794099405&Signature=YHykj5bABYxtgYfboEZwVXYMgTX8IRWuEQvd8UvsQuSzq3unDpGtFjOe51JhfbnZCHvZLSenA5G5OCFJxsGc6eRO9EuIFAWzrus0QFWZ3VXffmTQdgI7QkZTt54RllmMzJC8JivFMyG1~LCaeroaj2o4kVjgwDAFKiIkjbbrACnJ8v0llgJ8lUDI2Gfc51zVS22ShlRCSvzxDI-fLXvrQDFZGs1UOAIqNHxPdGCBOCBobMoEKZnSw9PTSTrQ12TVi60JwfPy-it7N-CyMB6X8gUS3XYU21oCZlx1jLihpfRy-lX7VLBc4T~3bP3PgzQWb-d2IPWrqZk~jc-K-glgsA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Mucho gusto. Soy Marco.</div>\n  <div style=\"opacity: 0.45;\">Prazer. Eu sou Marco.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac5a46db64794843a01c15fa1e669122_b06-d02-mucho-gusto-soy-marco.mp3?Expires=1794099405&Signature=R0nFbKULDQjT2De1rdlpswCS5~QEkd02oM39yWQFWT-afFNM41mu5MFi4cGCaB2p8bP3u1lfnvkEBNeuKpb3s220TjqmNdzjN3bPlXadkuZa9HjHXMXHRsoWCd6WenjayBc3dMkWgcTxCKRrxszUj8zB772nXO3DhjxdQVlkn8ge-af2hgNa6GVxfq3jp9PP0TCHyBlDEFJUweR8JNtOQtMeiGRTJlxIbZ3cPrac4y1OFhsJkCcTqwQzOh2OLGKsO5fO1ETONXDZGZ45KziSpmB3DCFnigwUHAGfQFb3cf4mm2m3hGFmbEzBPTJIbxRC4~pyQdUOoG5cbebl-gB9Bw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Soy argentina.</div>\n  <div style=\"opacity: 0.45;\">Sou argentina.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e5959949901d4515bd30c4d02bf50e6f_b01-soy-argentina.mp3?Expires=1794099405&Signature=eYnFVoit4My8NZjLmb13wVtY2rXEP3fxxDc6P41pZBx4Ysb00QY90Nn5vpobJAnPUhnldXJqrMd~jvwvQXzjVRGSjW5vxyYtiMRAAsT2h0Lsa1gMJIGxKg5VZRX1ghGj0tDyTAdBKGj6EGX33JFc1fwc55dIonZ7PDl-w46IJO4ssOKxFL91iTCi-BMMtnuP62d98YZTFLurF8H6ALY5Mmi94G-ErF9dyX31R~hUeWK9nutbYEkpB0QlZSO31grL4a-cMLvvu8PU29m6FGSFNu7xiOXGVww06~FgBrxWNoy92nSn~S8DFIuOyQmhGREZQ3d2IAweaFYHlndni4IAvA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Soy mexicano.</div>\n  <div style=\"opacity: 0.45;\">Sou mexicano.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a7e80274d9204ca5a18c0dc7fdcfccb3_b03-soy-mexicano.mp3?Expires=1794099405&Signature=slhlXCu7xDsRnZmhJuPQGW2QlxcvMImaH7T5TFhUjokDHJUW6xHYDyVtc3~6NM5MCrT2bRy35c6qUG17AYAhc9oiKlRdwCGkU40YiLgtkBn7qFKJDbEmfVuUO~2IghCUVRVf0ivDNSsjT~Vx6xnIRJ5goYzf4Exz-~xdtLAqfX21HCe2SltCUMf4oVY1G4lhm3~ZvS46xSMKcIfIXOcSOWBgFEbU~kCVcfD3b3NmMeyYpU8Un7ZxS2A2kEcB9v-Wmquon8Nt7sySVz6V5l-tMVCCMMaKvgqtnlfIrktYFgmy9Wk9tKHv9LTWiA5YOgVCvACtu3B133-yaDcJS5RMPA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿De dónde eres?</div>\n  <div style=\"opacity: 0.45;\">De onde você é?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f59a1f57bdde4906a459c93da88030e0_b06-d05-de-donde-eres.mp3?Expires=1794099405&Signature=i58b3ZMVJApW4bsW244PJja3EEqG5iKEJg8JRHhC-O19xhYKSxbcCQAwwKg4w~JLrwwsUG9eVfMHivll0gST~6-dm-4dMpZVtfY7l1W~yhmG4Uv1xIVBadakVkJ9X81tNuRXzE394dFaC3Ir4Jlwx~RG7yojkeMGa4St4GAL5q2s30ZDp1WJWoSx6Y3LJXoLF4eVprCCJMU~tzqpTwKrrGpuVARfQmaMA1EgIY6da5DKAbRphzUXe9tHfyYgT99yQ1tcGDn8WtEl6d7eG0~ONWzjTqSzmXA9Llf72id~mQZA1lksTMfTblNTnR8G0bAx5-B1wLgehx77OMvZsvxvrg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Soy de Argentina. Vivo en Recife.</div>\n  <div style=\"opacity: 0.45;\">Sou da Argentina. Moro em Recife.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/19c16e14edea438d9363610f39c37690_b06-d06-soy-de-argentina-vivo-en-recife.mp3?Expires=1794099405&Signature=TDFthqTcUCGPDMGSGldYJYOHooa9E6g0Zz7iADmKv7Uwa0DSR0wWxynotnVZ9Hzl9vwtKA3EY2dyElJUOvc9ChdT47PoJrIiRjaxX3QaM3b3Bjvl50fPeUysaRFhk5wAa7BZgMLktowmgQa~T1bXyiHDsp0zae6VPSKbekE6gclC-k0ZW29kctd-onX-Cxde-e7KFVt1VEi3M7FDGjrnue8MDM6PE07HKKDuHndiHzeuhnn2Es9dR1-VnnvpMypSIUOeGOQoLP512~o90UPh0~B-BpAHvxCaFEKJDRJZQsOsid~QvsEay03Q67VhP~48FUVD8zZkauBFeb0wumoO9Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Y tú?</div>\n  <div style=\"opacity: 0.45;\">E você?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d52c8ec7c371495bac0c9974d5733670_b06-d07-y-tu.mp3?Expires=1794099405&Signature=GIYwik7IDbT9teXjFhheu7xiWRStM2cK8TCsZZlyCKJYgogTs5XxwZxF848RxOxWM3XIoEZ7mei0WWUWPLua5l2R3Xtvn2W6sad22xP-pQmIQuRQxc93AVJlzPn0XPPjxdHDN0jJgnMcCMuss7WgCiCHj5YX1YwtX04b8NiCan0-KJaVDxNpM32SXCDO2gvjAx1RNLamG8FOH8GaEr-VokU9S8jJZNggNhMXbl86SSrZwGediAs7Uj~Q707hFLTgGgj0BYKnBOIn~p7gyG8GK83b9ojjKtAem6h8pOJFnpP7IcCTZRLV3WLxcvBnjaq0hAP195ynCyRZe~xzGs7xaA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Soy de México. Vivo en Lisboa.</div>\n  <div style=\"opacity: 0.45;\">Sou do México. Moro em Lisboa.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6a79d2edac984339af9a1d5e6064dc00_b06-d08-soy-de-mexico-vivo-en-lisboa.mp3?Expires=1794099405&Signature=khe0BRAupYjbRxxGahRpNpiQP9r7Ag9E7k90od-MRKrcme-imuOxn49Moj~nwa5LOtql6iRZUnxoMGz3Mj-prXae-3MgV8MPZ2EtY-0aTC5~RS84UiYAP-icLVYxegCBebd4f4cf-q8RVyPq9dx1-yGDwleDanCGlKl~SoHCmdExVuw1Y1p5gW2y07VpBwag1jadml0lSgk7bYHgmG~X0WdvS70xA~wmAReu0h6wLUBLi~eouNfAoPbTbQc0v1rpBAiqzScnKERJpCTOrKhDo9EBlQ7kLAJ8viT~S6x3KWXTqi1JR-~dhBmwP1LI5OK5gp53CV1Y0CzU2mwEAfDFxA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "22d0f923-63c7-4005-93e4-8532ace14a42",
+      "title": "Volte às falas do diálogo e ligue cada pedaço ao tipo de informação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "4f5507e3-6ec9-4bfb-8708-0f5d8d729a10",
+          "textContent": "<p>No diálogo, cada molde responde a uma pergunta diferente.</p><ul><li><strong>Soy argentina / Soy mexicano</strong> = nacionalidade.</li><li><strong>Soy de Argentina / Soy de México</strong> = país de origem.</li><li><strong>Vivo en Recife / Vivo en Lisboa</strong> = lugar onde a pessoa mora agora.</li></ul><p>Isso ajuda a não misturar identidade, origem e residência.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5c6dbe9f-7eb7-4946-a3f3-eed78378cf0d",
+      "title": "Leia o cartão final e observe como as três informações entram numa apresentação rápida.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "cf56b09c-99cb-48bb-9326-a4c7cb426bcb",
+          "textContent": "<p>Em um começo de curso, alguém pode dizer:</p><p><strong>Hola. Soy Julia. Soy argentina. Soy de Argentina. Vivo en Recife.</strong></p><p>Com essa fala curta, a pessoa já informa quem é, a nacionalidade, o país de origem e onde mora agora.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ca443a77c00749e6ac6b3ed3df0ffdc6_A1_M003_L06_audio_fd678e50_b08-real-life-card.mp3?Expires=1794099405&Signature=j4~MViNpQgR59xPDaKzfOCQjFNv8JLlp-r3JmdEFQ9vs0a9rYJsYqUS~dVqMIKbtMkFNq3c0u0SK-LAjRGvHkhnUspuq0yiajspF5IzFdGExq9dQD5OI1tl~-SRKBO2IhlObpWrMeBhbK4JX0V~2F9qd56BfU2Obv48jy8RaKldSIBAiitPcxjjj3vGi~HsqsBcl~~QYz0iRa2A3lJYi-Ekd6Tu1tmnfavCPZlrX6SwaqqwLkPgOX35xbGXZybJ~4rF~tMaYN58F9rLnek~CWJICLnIZHG2hEnZ7RTfqUpqUEw2zAkS-g-xenN9ti6MYIs~Qw188ZpPY8uGPJ~qlpw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "1c03a094-5bf8-469f-b1b1-f9754932ff76",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a resposta de Julia e marque apenas as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a resposta de Julia e marque apenas as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/19c16e14edea438d9363610f39c37690_b06-d06-soy-de-argentina-vivo-en-recife.mp3?Expires=1794099405&Signature=TDFthqTcUCGPDMGSGldYJYOHooa9E6g0Zz7iADmKv7Uwa0DSR0wWxynotnVZ9Hzl9vwtKA3EY2dyElJUOvc9ChdT47PoJrIiRjaxX3QaM3b3Bjvl50fPeUysaRFhk5wAa7BZgMLktowmgQa~T1bXyiHDsp0zae6VPSKbekE6gclC-k0ZW29kctd-onX-Cxde-e7KFVt1VEi3M7FDGjrnue8MDM6PE07HKKDuHndiHzeuhnn2Es9dR1-VnnvpMypSIUOeGOQoLP512~o90UPh0~B-BpAHvxCaFEKJDRJZQsOsid~QvsEay03Q67VhP~48FUVD8zZkauBFeb0wumoO9Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta fala, Julia junta origem com o lugar onde mora agora.",
+      "feedbackError": "Nesta fala, Julia junta origem com o lugar onde mora agora.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1fc0e7cf-624b-47dd-8109-52bfd9d82c75",
+          "textContent": "Recife",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1c03a094-5bf8-469f-b1b1-f9754932ff76"
+        },
+        {
+          "id": "44e33da9-e0c5-441c-91d0-a845854a3553",
+          "textContent": "Lisboa",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1c03a094-5bf8-469f-b1b1-f9754932ff76"
+        },
+        {
+          "id": "be9dc105-3088-4866-98cd-5d24ef311460",
+          "textContent": "soy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1c03a094-5bf8-469f-b1b1-f9754932ff76"
+        },
+        {
+          "id": "c91d3d9e-3a2d-45cd-af18-33202e6e5e28",
+          "textContent": "Vivo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1c03a094-5bf8-469f-b1b1-f9754932ff76"
+        },
+        {
+          "id": "cbab47c8-9650-4ea2-9987-511e7f82adeb",
+          "textContent": "Argentina",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1c03a094-5bf8-469f-b1b1-f9754932ff76"
+        },
+        {
+          "id": "e3e7b7cf-8dae-4d73-ad14-c88d88d0897e",
+          "textContent": "mexicano",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1c03a094-5bf8-469f-b1b1-f9754932ff76"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "29819862-4191-4c74-9647-5a8a65144847",
+      "title": "Escolha a melhor resposta",
+      "content": "<p>Uma pessoa pergunta <strong>¿De dónde eres?</strong>. Escolha a resposta que fala do país de origem.</p>",
+      "contentPlain": "Uma pessoa pergunta ¿De dónde eres? . Escolha a resposta que fala do país de origem.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, soy de + país responde sobre origem.",
+      "feedbackError": "Aqui, soy de + país responde sobre origem.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "095a13b4-032b-454f-84ab-737e15078455",
+          "textContent": "Vivo en Recife.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "29819862-4191-4c74-9647-5a8a65144847"
+        },
+        {
+          "id": "d57b012b-9761-4211-840d-1290558cd2f2",
+          "textContent": "Soy argentina.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "29819862-4191-4c74-9647-5a8a65144847"
+        },
+        {
+          "id": "f5a86a87-b500-4c3a-b9ad-6a4cd54145ca",
+          "textContent": "Soy de Argentina.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "29819862-4191-4c74-9647-5a8a65144847"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "85f20223-5a9a-4af5-a439-ad9835d0b84a",
+      "title": "Relacione frase e sentido",
+      "content": "<p>Ligue cada frase em espanhol ao tipo de informação mostrado no mapa final da aula.</p>",
+      "contentPlain": "Ligue cada frase em espanhol ao tipo de informação mostrado no mapa final da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Estas frases distinguem nacionalidade, origem e lugar onde a pessoa mora.",
+      "feedbackError": "Estas frases distinguem nacionalidade, origem e lugar onde a pessoa mora.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2cb15ae2-7515-4914-be42-b590af18c681",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "85f20223-5a9a-4af5-a439-ad9835d0b84a"
+        },
+        {
+          "id": "7d3792ca-5ae0-4ea5-9c78-e874812f6597",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "85f20223-5a9a-4af5-a439-ad9835d0b84a"
+        }
+      ],
+      "associations": [
+        {
+          "id": "9dc317e7-57c7-4ed9-b2e8-4193dc95f2dc",
+          "exerciseId": "85f20223-5a9a-4af5-a439-ad9835d0b84a",
+          "leftContent": "Soy argentina.",
+          "rightContent": "nacionalidade",
+          "sequenceItem": 1
+        },
+        {
+          "id": "40339cd2-9a72-4169-b57c-fbbffd4b8523",
+          "exerciseId": "85f20223-5a9a-4af5-a439-ad9835d0b84a",
+          "leftContent": "Soy de México.",
+          "rightContent": "país de origem",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ad203397-584b-4412-93f0-1e56f0290a86",
+          "exerciseId": "85f20223-5a9a-4af5-a439-ad9835d0b84a",
+          "leftContent": "Vivo en Lisboa.",
+          "rightContent": "cidade onde mora agora",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "bfd2f656-d5ce-4e6e-93e9-54a7049880fa",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a apresentação completa em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a apresentação completa em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0faedb46bf3e4d4e98a1267c151d230e_A1_M003_L06_audio_fd678e50_hola-soy-de-brasil-vivo-en-recife.mp3?Expires=1794099405&Signature=TTmABTGqC93v8iguVP63InviVj-wt~laproHLKTpPHWTYQpb~L~dvk2RRTW-1m4aWhxVYKnr75iGGF4goQ0b~oRRKcimEQyM3Q0U0rgeM-FQGPPh~HcuM0HdzRWeZJCuPM~PB-AGfuJ0eb1VshNAsK4F~DLAF3csOJEx139NsY2LPkw0e7NZG0cr1cGJWUpNVuAnJQ945plaMWWztYd8XS3RR29ZNAmITMOoEiTedkKHQ~nWd52~wD83EOJExPfW1JI4uPkdu8mY4c4zJUeQ6g50te5ytgtSnPPoSAGNJMwRdiGSt7awRSstk2G1MvY1omr2Rj4XByl-6NjRAAQdTw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esse cartão final junta origem e residência numa apresentação só.",
+      "feedbackError": "Esse cartão final junta origem e residência numa apresentação só.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Hola. Soy de Brasil. Vivo en Recife.",
+      "typeSpecificData": "{\"expectedText\":\"Hola. Soy de Brasil. Vivo en Recife.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/0faedb46bf3e4d4e98a1267c151d230e_A1_M003_L06_audio_fd678e50_hola-soy-de-brasil-vivo-en-recife.mp3?Expires=1794099405\\u0026Signature=TTmABTGqC93v8iguVP63InviVj-wt~laproHLKTpPHWTYQpb~L~dvk2RRTW-1m4aWhxVYKnr75iGGF4goQ0b~oRRKcimEQyM3Q0U0rgeM-FQGPPh~HcuM0HdzRWeZJCuPM~PB-AGfuJ0eb1VshNAsK4F~DLAF3csOJEx139NsY2LPkw0e7NZG0cr1cGJWUpNVuAnJQ945plaMWWztYd8XS3RR29ZNAmITMOoEiTedkKHQ~nWd52~wD83EOJExPfW1JI4uPkdu8mY4c4zJUeQ6g50te5ytgtSnPPoSAGNJMwRdiGSt7awRSstk2G1MvY1omr2Rj4XByl-6NjRAAQdTw__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f0313215-f61d-464b-b32e-533a8b499a73",
+      "title": "Combine áudio e frase",
+      "content": "<p>Escute os quatro áudios da sequência e associe cada um à frase correta em espanhol.</p>",
+      "contentPlain": "Escute os quatro áudios da sequência e associe cada um à frase correta em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta aqui reforça o contraste entre nacionalidade e país de origem.",
+      "feedbackError": "A escuta aqui reforça o contraste entre nacionalidade e país de origem.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "30a1a40c-d14d-4d77-9a46-e7ac2cd8b669",
+          "exerciseId": "f0313215-f61d-464b-b32e-533a8b499a73",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e5959949901d4515bd30c4d02bf50e6f_b01-soy-argentina.mp3?Expires=1794099405&Signature=eYnFVoit4My8NZjLmb13wVtY2rXEP3fxxDc6P41pZBx4Ysb00QY90Nn5vpobJAnPUhnldXJqrMd~jvwvQXzjVRGSjW5vxyYtiMRAAsT2h0Lsa1gMJIGxKg5VZRX1ghGj0tDyTAdBKGj6EGX33JFc1fwc55dIonZ7PDl-w46IJO4ssOKxFL91iTCi-BMMtnuP62d98YZTFLurF8H6ALY5Mmi94G-ErF9dyX31R~hUeWK9nutbYEkpB0QlZSO31grL4a-cMLvvu8PU29m6FGSFNu7xiOXGVww06~FgBrxWNoy92nSn~S8DFIuOyQmhGREZQ3d2IAweaFYHlndni4IAvA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy argentina.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e2363abc-bb5b-4109-a6df-cc7e753caea9",
+          "exerciseId": "f0313215-f61d-464b-b32e-533a8b499a73",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3bb8ccbb613947a089a793944d9ef98c_b05-soy-de-argentina.mp3?Expires=1794099405&Signature=PkzqW5Zm2i0U4qQucnJIDqLYn2DhRieLlwDDBuPqiVQKkFoO-6AIlAtHb0Y5aNyazXPC~Ls3tY9Sw1H~uM3W11bkkSEMh4MX3VEwQag1g4NLunljv2sSzfjoa3FKP2YI1FKSE5nUhr8AaPPijblCXbLPYpE4WRTN1ha6yo~qUlvQVxipuvD6W4EbYgMdIT3Fb9riGm9xULgdc-bNnCJLxUFaXITmagfTAwQ7qvaM2la6DbyYdBKdj3HiC784Ps02NjY2zYrRutenF6XpmXo6cG3cJBjI-LCYqX8BwFmVCMyinGdpAhhs7i-mR6toCywMTfYBGWqxWEzYvW7Ke55LAQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy de Argentina.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "bc4b6f3b-18ae-40a9-89bb-690b1fe8660c",
+          "exerciseId": "f0313215-f61d-464b-b32e-533a8b499a73",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a7e80274d9204ca5a18c0dc7fdcfccb3_b03-soy-mexicano.mp3?Expires=1794099405&Signature=slhlXCu7xDsRnZmhJuPQGW2QlxcvMImaH7T5TFhUjokDHJUW6xHYDyVtc3~6NM5MCrT2bRy35c6qUG17AYAhc9oiKlRdwCGkU40YiLgtkBn7qFKJDbEmfVuUO~2IghCUVRVf0ivDNSsjT~Vx6xnIRJ5goYzf4Exz-~xdtLAqfX21HCe2SltCUMf4oVY1G4lhm3~ZvS46xSMKcIfIXOcSOWBgFEbU~kCVcfD3b3NmMeyYpU8Un7ZxS2A2kEcB9v-Wmquon8Nt7sySVz6V5l-tMVCCMMaKvgqtnlfIrktYFgmy9Wk9tKHv9LTWiA5YOgVCvACtu3B133-yaDcJS5RMPA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy mexicano.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "6ce592aa-f7cd-4073-b771-6fd7219abefe",
+          "exerciseId": "f0313215-f61d-464b-b32e-533a8b499a73",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/55b5338879854623b52b07239189aabb_b05-soy-de-mexico.mp3?Expires=1794099405&Signature=biyDZWQqfmWZT~V~tjXx~SnBfFDsP-ZLs~u9s~4zvw5JOiSIO8MWxGPujj2pRNJhiX1gIjfeFaTgiTEo4ZT0eIAwDVZ2vBzx5MafOcsll6qnnME-aYRucvld4NTBoe7h4VnuQxxXupdBXDX1i3Wxm9JPFC4SwK5-02AnjrAKcIC2TFqvC84SLDBIDoJnn3KAJPjKUgzvr1oIk2mJ3D6hXE2lM5lwhD7dRopo2ZBfDmdg5XD9M7eYwX0NjGkuW-bz6ZU7kOVtCXCcKS1j~t-DsL26SUN1fb-wCr~Ajm2zQNqP02~o9l5aa4C8uXb-QuJ2qPY-9labBF0XHTjikLwwrw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy de México.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "ba255673-8b46-4048-be88-405bedb61bad",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a pergunta curta do diálogo e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a pergunta curta do diálogo e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f59a1f57bdde4906a459c93da88030e0_b06-d05-de-donde-eres.mp3?Expires=1794099405&Signature=i58b3ZMVJApW4bsW244PJja3EEqG5iKEJg8JRHhC-O19xhYKSxbcCQAwwKg4w~JLrwwsUG9eVfMHivll0gST~6-dm-4dMpZVtfY7l1W~yhmG4Uv1xIVBadakVkJ9X81tNuRXzE394dFaC3Ir4Jlwx~RG7yojkeMGa4St4GAL5q2s30ZDp1WJWoSx6Y3LJXoLF4eVprCCJMU~tzqpTwKrrGpuVARfQmaMA1EgIY6da5DKAbRphzUXe9tHfyYgT99yQ1tcGDn8WtEl6d7eG0~ONWzjTqSzmXA9Llf72id~mQZA1lksTMfTblNTnR8G0bAx5-B1wLgehx77OMvZsvxvrg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta central da aula para falar de origem é ¿De dónde eres?",
+      "feedbackError": "A pergunta central da aula para falar de origem é ¿De dónde eres?",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "655615bd-c51c-4b1b-981e-7ae29e3c4de0",
+          "textContent": "eres",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ba255673-8b46-4048-be88-405bedb61bad"
+        },
+        {
+          "id": "755b2a34-6d1c-4fd9-b384-b9af62508afe",
+          "textContent": "De",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ba255673-8b46-4048-be88-405bedb61bad"
+        },
+        {
+          "id": "8b2b38a0-094d-44f8-b84b-4ee0d7fe9e48",
+          "textContent": "vivo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ba255673-8b46-4048-be88-405bedb61bad"
+        },
+        {
+          "id": "908514cd-9c6e-4edd-b440-0fb731487ec9",
+          "textContent": "Julia",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ba255673-8b46-4048-be88-405bedb61bad"
+        },
+        {
+          "id": "cad10e9d-f0b4-478b-8e78-6e8b445efe2e",
+          "textContent": "dónde",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ba255673-8b46-4048-be88-405bedb61bad"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6763c9d4-e67c-4db0-8c58-9807c2fabb75",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a resposta de Marco e marque apenas as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a resposta de Marco e marque apenas as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6a79d2edac984339af9a1d5e6064dc00_b06-d08-soy-de-mexico-vivo-en-lisboa.mp3?Expires=1794099405&Signature=khe0BRAupYjbRxxGahRpNpiQP9r7Ag9E7k90od-MRKrcme-imuOxn49Moj~nwa5LOtql6iRZUnxoMGz3Mj-prXae-3MgV8MPZ2EtY-0aTC5~RS84UiYAP-icLVYxegCBebd4f4cf-q8RVyPq9dx1-yGDwleDanCGlKl~SoHCmdExVuw1Y1p5gW2y07VpBwag1jadml0lSgk7bYHgmG~X0WdvS70xA~wmAReu0h6wLUBLi~eouNfAoPbTbQc0v1rpBAiqzScnKERJpCTOrKhDo9EBlQ7kLAJ8viT~S6x3KWXTqi1JR-~dhBmwP1LI5OK5gp53CV1Y0CzU2mwEAfDFxA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta resposta, soy de apresenta origem e vivo en apresenta residência.",
+      "feedbackError": "Nesta resposta, soy de apresenta origem e vivo en apresenta residência.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "271e85d5-a668-4b16-8de5-88bb3442299e",
+          "textContent": "Recife",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6763c9d4-e67c-4db0-8c58-9807c2fabb75"
+        },
+        {
+          "id": "2a8b7e20-ffea-4b54-8a0a-9b8c0a6d23e9",
+          "textContent": "México",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6763c9d4-e67c-4db0-8c58-9807c2fabb75"
+        },
+        {
+          "id": "79352b9d-b587-4b08-a146-6d32b97f0ad5",
+          "textContent": "Lisboa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6763c9d4-e67c-4db0-8c58-9807c2fabb75"
+        },
+        {
+          "id": "9a293000-0e18-4c98-929a-a99cec64f630",
+          "textContent": "Argentina",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6763c9d4-e67c-4db0-8c58-9807c2fabb75"
+        },
+        {
+          "id": "c755fc50-3ae2-4e69-978b-df5ba3a4e357",
+          "textContent": "Vivo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6763c9d4-e67c-4db0-8c58-9807c2fabb75"
+        },
+        {
+          "id": "f19ce048-35e4-411f-a9e0-dc4f3aeaa4f5",
+          "textContent": "Soy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6763c9d4-e67c-4db0-8c58-9807c2fabb75"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6ded7e01-e8ee-4d90-80de-724aa2cc90f7",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a frase: <strong>Soy de ______.</strong></p><p>Tradução: Sou do México.</p>",
+      "contentPlain": "Complete a frase: Soy de ______. Tradução: Sou do México.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, soy de + país marca o país de origem.",
+      "feedbackError": "Aqui, soy de + país marca o país de origem.",
+      "answerType": "buildWord",
+      "expectedAnswer": "México",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e6422a2b-626e-447f-a919-2266ee5fb876",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a frase: <strong>Soy ________.</strong></p><p>Tradução: Sou mexicano.</p>",
+      "contentPlain": "Complete a frase: Soy ________. Tradução: Sou mexicano.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, soy + nacionalidade apresenta a nacionalidade da pessoa.",
+      "feedbackError": "Aqui, soy + nacionalidade apresenta a nacionalidade da pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mexicano",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e8cdd6d8-06e1-4f94-ad18-7915f7e61d3f",
+      "title": "Escuta final do diálogo",
+      "content": "<p>Associe cada trecho do diálogo à frase correta em espanhol, sem apoio em português.</p>",
+      "contentPlain": "Associe cada trecho do diálogo à frase correta em espanhol, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final reúne apresentação, origem e residência em frases curtas.",
+      "feedbackError": "O diálogo final reúne apresentação, origem e residência em frases curtas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "f00d3501-46cf-4e68-beed-978b2c88e181",
+          "exerciseId": "e8cdd6d8-06e1-4f94-ad18-7915f7e61d3f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/42e0f17828df44d4b642bba5c9939d68_b06-d01-hola-soy-julia.mp3?Expires=1794099405&Signature=YHykj5bABYxtgYfboEZwVXYMgTX8IRWuEQvd8UvsQuSzq3unDpGtFjOe51JhfbnZCHvZLSenA5G5OCFJxsGc6eRO9EuIFAWzrus0QFWZ3VXffmTQdgI7QkZTt54RllmMzJC8JivFMyG1~LCaeroaj2o4kVjgwDAFKiIkjbbrACnJ8v0llgJ8lUDI2Gfc51zVS22ShlRCSvzxDI-fLXvrQDFZGs1UOAIqNHxPdGCBOCBobMoEKZnSw9PTSTrQ12TVi60JwfPy-it7N-CyMB6X8gUS3XYU21oCZlx1jLihpfRy-lX7VLBc4T~3bP3PgzQWb-d2IPWrqZk~jc-K-glgsA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hola, soy Julia.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "04e09aab-8295-452e-9ad1-011c346d93e4",
+          "exerciseId": "e8cdd6d8-06e1-4f94-ad18-7915f7e61d3f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f59a1f57bdde4906a459c93da88030e0_b06-d05-de-donde-eres.mp3?Expires=1794099405&Signature=i58b3ZMVJApW4bsW244PJja3EEqG5iKEJg8JRHhC-O19xhYKSxbcCQAwwKg4w~JLrwwsUG9eVfMHivll0gST~6-dm-4dMpZVtfY7l1W~yhmG4Uv1xIVBadakVkJ9X81tNuRXzE394dFaC3Ir4Jlwx~RG7yojkeMGa4St4GAL5q2s30ZDp1WJWoSx6Y3LJXoLF4eVprCCJMU~tzqpTwKrrGpuVARfQmaMA1EgIY6da5DKAbRphzUXe9tHfyYgT99yQ1tcGDn8WtEl6d7eG0~ONWzjTqSzmXA9Llf72id~mQZA1lksTMfTblNTnR8G0bAx5-B1wLgehx77OMvZsvxvrg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿De dónde eres?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "744b82ef-043e-4d5a-a76a-92731722ea50",
+          "exerciseId": "e8cdd6d8-06e1-4f94-ad18-7915f7e61d3f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/19c16e14edea438d9363610f39c37690_b06-d06-soy-de-argentina-vivo-en-recife.mp3?Expires=1794099405&Signature=TDFthqTcUCGPDMGSGldYJYOHooa9E6g0Zz7iADmKv7Uwa0DSR0wWxynotnVZ9Hzl9vwtKA3EY2dyElJUOvc9ChdT47PoJrIiRjaxX3QaM3b3Bjvl50fPeUysaRFhk5wAa7BZgMLktowmgQa~T1bXyiHDsp0zae6VPSKbekE6gclC-k0ZW29kctd-onX-Cxde-e7KFVt1VEi3M7FDGjrnue8MDM6PE07HKKDuHndiHzeuhnn2Es9dR1-VnnvpMypSIUOeGOQoLP512~o90UPh0~B-BpAHvxCaFEKJDRJZQsOsid~QvsEay03Q67VhP~48FUVD8zZkauBFeb0wumoO9Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy de Argentina. Vivo en Recife.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "756ebad1-f0ff-40aa-994d-f3551b3d77eb",
+          "exerciseId": "e8cdd6d8-06e1-4f94-ad18-7915f7e61d3f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6a79d2edac984339af9a1d5e6064dc00_b06-d08-soy-de-mexico-vivo-en-lisboa.mp3?Expires=1794099405&Signature=khe0BRAupYjbRxxGahRpNpiQP9r7Ag9E7k90od-MRKrcme-imuOxn49Moj~nwa5LOtql6iRZUnxoMGz3Mj-prXae-3MgV8MPZ2EtY-0aTC5~RS84UiYAP-icLVYxegCBebd4f4cf-q8RVyPq9dx1-yGDwleDanCGlKl~SoHCmdExVuw1Y1p5gW2y07VpBwag1jadml0lSgk7bYHgmG~X0WdvS70xA~wmAReu0h6wLUBLi~eouNfAoPbTbQc0v1rpBAiqzScnKERJpCTOrKhDo9EBlQ7kLAJ8viT~S6x3KWXTqi1JR-~dhBmwP1LI5OK5gp53CV1Y0CzU2mwEAfDFxA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy de México. Vivo en Lisboa.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Falar sobre nacionalidades"
+}

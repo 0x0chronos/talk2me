@@ -1,0 +1,633 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+    "attemptId": "1ca3c09f-4400-4181-8a85-530967888b03",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "bdbcaeb4-9b8d-4126-b999-7ecc0d8f753f",
+      "94a7d56c-7262-4143-97cc-8db1da2b61c0",
+      "29c42b70-c092-4609-9319-3513e9bf8fe0",
+      "91f35a92-1f56-4b26-9a27-0c86ea8c4ef5",
+      "d4f861e8-dba1-4168-ad5b-d53399b283c0"
+    ],
+    "evaluationExerciseIds": [
+      "1915c791-5de9-4e9e-b389-480995dfd9dd",
+      "6e857ce8-faf1-4cae-ad30-7a7efcc8a962",
+      "b50eff4d-6214-4e01-839c-6cbd4de8303f",
+      "cfa1db1c-60d9-4c0d-86d3-3dc389b628a7",
+      "727de12a-cfa0-4fe7-b40c-d8d3bf3c44f5"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:57.0734667Z"
+  },
+  "contents": [
+    {
+      "id": "57f7fdb7-adf9-4218-a177-10baefdc6d48",
+      "title": "Leia o cartão inicial e observe os três focos que voltam nesta aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "e5a41d48-9fae-4ea3-a6b3-2a5c0e327781",
+          "textContent": "<p>Nesta aula, você vai voltar a uma cena simples de bairro.</p><p>O foco agora é falar do que existe ao redor, do objeto que você identifica e do que pertence a você.</p><p>Uma cena só, frases curtas, mais fluidez.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1f6d4b7d-47d2-4251-a85a-40f1c0f0cfc3",
+      "title": "Olhe a imagem e leia a frase. Observe como a cena já ativa lugares e objetos do capítulo.",
+      "description": null,
+      "contentType": 4,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "e4e3b4d6-41c7-46af-8bca-f124a548e3d2",
+          "textContent": "<p>Observe a cena.</p><p><strong>En mi barrio hay un café y una farmacia.</strong></p><p>Em português: No meu bairro há um café e uma farmácia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5647d7edd193409787d3e64c887e280a_b02-cena-barrio-objetos.png?Expires=1794099477&Signature=K4tLa-2kg4oGPdI2-0t8Ww4VfR3euxLEsOt8ysL50RjGFEO1jk5C-ZrAq23xbiDF-o-q4awHsrx49iwGwbAzxHwto5c6sU1BeKSxCTEQcHrNGjI~9N1rnv64EwSCrJdp2gb1ksroA~at-CHngxnenBmxWHt84JL7AhiZItgM--9tqT9xiNWOee2CT0FxCJ-gFYSUVQUeDOpVq69a3T83PxHeUVoOYxXb4VvKV5rUbUk9zn7Aam3aM6oAHTe420XRO7241akT01hvxh70UhRPNjOoO4z0MC1QXf0T4UjboZctgvEo6-44OaEKoQKcuUdeP2ieLh1Gl7yJj3~b89O6zw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "07f0105a-d630-48dc-98ed-3b1d463f1091",
+      "title": "Leia a frase e observe o foco no objeto que está perto de quem fala.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "fd31de6f-fb8b-4f32-93e7-3db4a3384383",
+          "textContent": "<p><strong>Este móvil es negro.</strong></p><p>Em português: Este celular é preto.</p><p>Use <strong>este</strong> quando o objeto está perto de quem fala.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7fd72ba6-0cd8-4141-a3dc-849b28ab93f6",
+      "title": "Compare as duas expressões e observe o contraste curto de distância.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "a78668fe-89a7-4a6b-8230-8883242e3dba",
+          "textContent": "<p>Na mesma cena, o demonstrativo muda quando o foco muda de distância.</p><ul><li><strong>este móvil</strong></li><li><strong>esa cartera</strong></li></ul><p><strong>este</strong> aponta para o que está perto. <strong>esa</strong> aponta para o que está um pouco mais distante.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f6453e3c-c353-4ff2-b30f-45cc4ce35173",
+      "title": "Leia a frase e observe como a posse aparece no final.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "898b166d-a402-44c6-b863-68642ec024d4",
+          "textContent": "<p><strong>La cartera es mía.</strong></p><p>Em português: A carteira é minha.</p><p>Aqui o foco não é a cor nem o lugar. O foco é de quem é o objeto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c6bbdf92-f28d-4b9a-8728-0396e55f7924",
+      "title": "Leia a frase e observe como um lugar ajuda a situar o outro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "b1e2cb09-5359-4963-99e4-d8c5296f4ee1",
+          "textContent": "<p><strong>La farmacia está cerca del café.</strong></p><p>Em português: A farmácia fica perto do café.</p><p>Uma frase assim ajuda a dizer onde um lugar está sem precisar de explicação longa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "08c3df07-b60f-4303-8f53-a782719e1c62",
+      "title": "Leia as duas frases e observe a mudança de foco entre existência e localização.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "67c6a2bb-2c27-4f3a-966f-34488920c39f",
+          "textContent": "<p>Com a mesma cena, você já consegue dizer duas coisas sobre o bairro.</p><p><strong>En mi barrio hay un café y una farmacia.</strong></p><p><strong>La farmacia está cerca del café.</strong></p><p>A primeira frase diz o que existe. A segunda mostra onde um lugar está em relação ao outro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a3815f21-c7cb-46f3-8e95-fc6d06f145ff",
+      "title": "Leia as três linhas e note como cada uma resolve um foco diferente.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "f0a4308e-9170-4e3f-bcb8-a8066f1fb27b",
+          "textContent": "<p>Da mesma cena, saem frases diferentes.</p><ul><li><strong>En mi barrio hay un café y una farmacia.</strong></li><li><strong>Este móvil es negro.</strong></li><li><strong>La cartera es mía.</strong></li></ul><p>Você escolhe a frase conforme o foco: o lugar, o objeto ou a posse.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cacb761e-d9bd-4e9d-a1da-3571ceedad07",
+      "title": "Leia o cartão final e conecte cada frase a um uso real do dia a dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "b1450518-b6c8-4fef-b65c-e88a41a304d2",
+          "textContent": "<p>Ao caminhar pelo bairro, sentar em um café ou conferir seus objetos sobre a mesa, estas frases ajudam a falar com mais naturalidade em espanhol.</p><p><strong>En mi barrio hay un café y una farmacia.</strong></p><p><strong>Este móvil es negro.</strong></p><p><strong>La cartera es mía.</strong></p><p>Com frases curtas, você já descreve o que existe ao redor, identifica um objeto e marca posse em uma situação real.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "bdbcaeb4-9b8d-4126-b999-7ecc0d8f753f",
+      "title": "Ligue a frase ao foco da cena",
+      "content": "<p>Relacione as três saídas centrais da aula ao uso mais direto de cada uma.</p>",
+      "contentPlain": "Relacione as três saídas centrais da aula ao uso mais direto de cada uma.",
+      "fileUrl": null,
+      "feedbackSuccess": "As três saídas centrais da aula cobrem lugar, objeto e posse na mesma cena.",
+      "feedbackError": "As três saídas centrais da aula cobrem lugar, objeto e posse na mesma cena.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "37d74d6b-6b98-4806-8cbf-8b1f180c394c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bdbcaeb4-9b8d-4126-b999-7ecc0d8f753f"
+        },
+        {
+          "id": "da1cf1f4-ab5f-4a8d-8411-200812b7df36",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bdbcaeb4-9b8d-4126-b999-7ecc0d8f753f"
+        }
+      ],
+      "associations": [
+        {
+          "id": "4da0e9aa-eb9e-4e6a-be17-2752b38422aa",
+          "exerciseId": "bdbcaeb4-9b8d-4126-b999-7ecc0d8f753f",
+          "leftContent": "En mi barrio hay un café y una farmacia.",
+          "rightContent": "dizer o que existe no bairro",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0dd5232d-4432-4c35-ba5f-9841ae8b1ecd",
+          "exerciseId": "bdbcaeb4-9b8d-4126-b999-7ecc0d8f753f",
+          "leftContent": "Este móvil es negro.",
+          "rightContent": "identificar um objeto e sua cor",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c3963ecc-0263-4772-8bc4-f49380f4eddd",
+          "exerciseId": "bdbcaeb4-9b8d-4126-b999-7ecc0d8f753f",
+          "leftContent": "La cartera es mía.",
+          "rightContent": "marcar posse de um objeto",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "94a7d56c-7262-4143-97cc-8db1da2b61c0",
+      "title": "Escute e associe três frases",
+      "content": "<p>Use o áudio para recuperar as três linhas principais da cena sem apoio de imagem.</p>",
+      "contentPlain": "Use o áudio para recuperar as três linhas principais da cena sem apoio de imagem.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta desta aula ajuda a ligar som e escrita nas três frases-base da cena.",
+      "feedbackError": "A escuta desta aula ajuda a ligar som e escrita nas três frases-base da cena.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "ad225946-5d31-4152-99e1-e662b041c363",
+          "exerciseId": "94a7d56c-7262-4143-97cc-8db1da2b61c0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a265204d9e924e10836e25d73d79ced7_b02-en-mi-barrio-hay-un-cafe-y-una-farmacia.mp3?Expires=1794099477&Signature=ZLOQd3KgTFnJ2G-k3BW1dP43Thgbb~r76WpI6aHyjm14NJm8ZszDC3VCwMP1Tyd~Kpb5M~MhH1Ve84n2LEE~2kVWdiCoN39yJd9a8V7VzFP9n5EyD7hUJC1HeIhWd5y9L21VjSdY7fz2770CJWdYF0G0~dy0amxAukGXN5hezuoV6~LiieomeA4ZGj8Va9DDmjlgWS5jOERuYjkYp-Uce5ZDral~AG4TfYAewoC4-A-TlcICydGgL1oZH360aEiX8Evlv34fzc2rElMJK1xKbI9IPhT51hMi~sR2v3HyWx2mBsbWNYjp1IJSbvvHqTEE9vhtYRlqFp7HFTTo96VTiQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En mi barrio hay un café y una farmacia.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "037e60a7-eb63-4c0e-b1a0-f174701ce5b8",
+          "exerciseId": "94a7d56c-7262-4143-97cc-8db1da2b61c0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ca45ea36b80c4d809a2326919e38488a_b03-este-movil-es-negro.mp3?Expires=1794099477&Signature=h5b2TKNZ4AigObydsWhVYqHE1wVKM5hMFVYdGzhMduURKHGQJjQCpoi1lv0p1MKzM5Jy0vyAuijmxTGt-ctydt8QfGDtsysIwMlStjCidbAppkGdsCnSLoFRLH1KPm2AwD65ILTPpdaP3oBxPzn9oZ8FZxfiTtv~zGorkZnpV4pujb4KEzuGqWUyoZfk5kIoGNqWDtZOEyhKRk7Z8OeMiX9czK1voN7uu6y2Jfmp-4P3hz4sBXDMtjGUyFJ4tJLc1O~-ZFFrQhIuDWz8BOIl7OdUgDRQ~2zNv6ic6d6IEOr44nYnVycCEYwM78ZnM7tUXQJaUoZX77jna4JgTeE~KQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Este móvil es negro.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "beadb819-674f-4cc4-ac72-0aec55a2c7f2",
+          "exerciseId": "94a7d56c-7262-4143-97cc-8db1da2b61c0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/07026469be7944b4a7c52e6087a35a76_b05-la-cartera-es-mia.mp3?Expires=1794099477&Signature=1m7le~zLa~xa4jT1kPAYcW7Iq~g3b-ESx4IgvddcrH2QvV0RY~xQ-f4yTA2Nz9SAe6KC8kKwkqgfS~osbfccOeNFLV6-VwBIcqU6SKztqCe4kkHdymN8UXFNsWpFSkw5zwDa6rDOqJHH1b1rXawQM9qgIbbYdqWtYwXtbnb64Qo7qKFjwOEr4ev~aAbhFlHMQLRrPNKmpDyq6l6R9QopJMuoUGOTNY4p4lDDBz9zeOo~bEmp~yz5yJoTmVCdYPgyupjYII6iJZWmDyscCOZBdshZGFD78xcu7cfDjA01h97e4B6YeZpPslslu3t0GJ5H3Up-yugqFdSEWPQclo9-3A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La cartera es mía.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "29c42b70-c092-4609-9319-3513e9bf8fe0",
+      "title": "Identifique a frase de localização",
+      "content": "<p>Escute a frase sobre a farmácia e marque só as palavras que realmente aparecem.</p>",
+      "contentPlain": "Escute a frase sobre a farmácia e marque só as palavras que realmente aparecem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ce165c58f5e14df7bb3930f8f077349b_b06-la-farmacia-esta-cerca-del-cafe.mp3?Expires=1794099477&Signature=DygfAuJD2MixLsRsVDp2uEEaHdZAWe2JMaoqQlMPxT9JF3dFn8CWKKB6sz67jfQIU8haOlLGAo5oqUhnxibv52dxyAGEVZAlICzmJsvQjYVOsBzxq5etp4HFRTnxiyYeQnh2I2zP1DdLb6bTjNCck~HHfvZVM1DuIQp4VRTB8yOx54PeRePDArLkiaX0vDw~eSaS-upI8VsY8yOFTKg7fOsSzghQXRCTAzOba3Sg6L0kIYbQxREKbkDkr3CjdpEOMX2mLthXgzMd-62-VCnG98A6dD-MvkB6fXqwAf7EHykVNAT31PXuIWADWQjL2R4tBNbfaREfO8P8S174KZ~YnA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A frase de localização usa está cerca del para situar um lugar com apoio de outro.",
+      "feedbackError": "A frase de localização usa está cerca del para situar um lugar com apoio de outro.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4c84bd8f-35b9-4bd3-88f1-15e6c1b4fd4c",
+          "textContent": "está",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "29c42b70-c092-4609-9319-3513e9bf8fe0"
+        },
+        {
+          "id": "7dae2f1d-ddeb-44c2-bb13-44ddfe6622e5",
+          "textContent": "cerca",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "29c42b70-c092-4609-9319-3513e9bf8fe0"
+        },
+        {
+          "id": "9679cd06-f8c8-4a49-b3b2-8aa9211507ef",
+          "textContent": "barrio",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "29c42b70-c092-4609-9319-3513e9bf8fe0"
+        },
+        {
+          "id": "a4debdb1-e7a7-445e-a638-2c7a896b1dd1",
+          "textContent": "móvil",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "29c42b70-c092-4609-9319-3513e9bf8fe0"
+        },
+        {
+          "id": "b2fca163-d955-42b7-83fa-e96f753d6ce9",
+          "textContent": "café",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "29c42b70-c092-4609-9319-3513e9bf8fe0"
+        },
+        {
+          "id": "d615997e-6bc0-45f4-807e-6cbe0b894bac",
+          "textContent": "mía",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "29c42b70-c092-4609-9319-3513e9bf8fe0"
+        },
+        {
+          "id": "e01714a8-9882-4ee3-95da-43d7286b1d79",
+          "textContent": "farmacia",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "29c42b70-c092-4609-9319-3513e9bf8fe0"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "91f35a92-1f56-4b26-9a27-0c86ea8c4ef5",
+      "title": "Escolha a frase de posse",
+      "content": "<p>Você quer marcar de quem é o objeto na cena do bairro. Qual frase em espanhol resolve isso?</p>",
+      "contentPlain": "Você quer marcar de quem é o objeto na cena do bairro. Qual frase em espanhol resolve isso?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, es mía marca posse de um objeto na mesma cena do bairro.",
+      "feedbackError": "Nesta aula, es mía marca posse de um objeto na mesma cena do bairro.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4773ef0f-a8f4-410e-9f4e-e3c9fbd70786",
+          "textContent": "La farmacia está cerca del café.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "91f35a92-1f56-4b26-9a27-0c86ea8c4ef5"
+        },
+        {
+          "id": "6651195c-6999-472a-b4b4-f98fb62a2634",
+          "textContent": "La cartera es mía.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91f35a92-1f56-4b26-9a27-0c86ea8c4ef5"
+        },
+        {
+          "id": "74f5848a-5658-4362-9f1d-54fe760dc7ad",
+          "textContent": "Este móvil es negro.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "91f35a92-1f56-4b26-9a27-0c86ea8c4ef5"
+        },
+        {
+          "id": "b90658ed-ac57-47f6-87d1-afd26520e885",
+          "textContent": "En mi barrio hay un café y una farmacia.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "91f35a92-1f56-4b26-9a27-0c86ea8c4ef5"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d4f861e8-dba1-4168-ad5b-d53399b283c0",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase que diz o que existe no bairro.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase que diz o que existe no bairro.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a265204d9e924e10836e25d73d79ced7_b02-en-mi-barrio-hay-un-cafe-y-una-farmacia.mp3?Expires=1794099477&Signature=ZLOQd3KgTFnJ2G-k3BW1dP43Thgbb~r76WpI6aHyjm14NJm8ZszDC3VCwMP1Tyd~Kpb5M~MhH1Ve84n2LEE~2kVWdiCoN39yJd9a8V7VzFP9n5EyD7hUJC1HeIhWd5y9L21VjSdY7fz2770CJWdYF0G0~dy0amxAukGXN5hezuoV6~LiieomeA4ZGj8Va9DDmjlgWS5jOERuYjkYp-Uce5ZDral~AG4TfYAewoC4-A-TlcICydGgL1oZH360aEiX8Evlv34fzc2rElMJK1xKbI9IPhT51hMi~sR2v3HyWx2mBsbWNYjp1IJSbvvHqTEE9vhtYRlqFp7HFTTo96VTiQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A frase com hay é a base desta aula para dizer o que existe no bairro.",
+      "feedbackError": "A frase com hay é a base desta aula para dizer o que existe no bairro.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "En mi barrio hay un café y una farmacia.",
+      "typeSpecificData": "{\"expectedText\":\"En mi barrio hay un caf\\u00E9 y una farmacia.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/a265204d9e924e10836e25d73d79ced7_b02-en-mi-barrio-hay-un-cafe-y-una-farmacia.mp3?Expires=1794099477\\u0026Signature=ZLOQd3KgTFnJ2G-k3BW1dP43Thgbb~r76WpI6aHyjm14NJm8ZszDC3VCwMP1Tyd~Kpb5M~MhH1Ve84n2LEE~2kVWdiCoN39yJd9a8V7VzFP9n5EyD7hUJC1HeIhWd5y9L21VjSdY7fz2770CJWdYF0G0~dy0amxAukGXN5hezuoV6~LiieomeA4ZGj8Va9DDmjlgWS5jOERuYjkYp-Uce5ZDral~AG4TfYAewoC4-A-TlcICydGgL1oZH360aEiX8Evlv34fzc2rElMJK1xKbI9IPhT51hMi~sR2v3HyWx2mBsbWNYjp1IJSbvvHqTEE9vhtYRlqFp7HFTTo96VTiQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "1915c791-5de9-4e9e-b389-480995dfd9dd",
+      "title": "Recupere a frase do objeto pelo áudio",
+      "content": "<p>Agora sem apoio visual, escute a frase do objeto e marque só as palavras presentes.</p>",
+      "contentPlain": "Agora sem apoio visual, escute a frase do objeto e marque só as palavras presentes.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ca45ea36b80c4d809a2326919e38488a_b03-este-movil-es-negro.mp3?Expires=1794099477&Signature=h5b2TKNZ4AigObydsWhVYqHE1wVKM5hMFVYdGzhMduURKHGQJjQCpoi1lv0p1MKzM5Jy0vyAuijmxTGt-ctydt8QfGDtsysIwMlStjCidbAppkGdsCnSLoFRLH1KPm2AwD65ILTPpdaP3oBxPzn9oZ8FZxfiTtv~zGorkZnpV4pujb4KEzuGqWUyoZfk5kIoGNqWDtZOEyhKRk7Z8OeMiX9czK1voN7uu6y2Jfmp-4P3hz4sBXDMtjGUyFJ4tJLc1O~-ZFFrQhIuDWz8BOIl7OdUgDRQ~2zNv6ic6d6IEOr44nYnVycCEYwM78ZnM7tUXQJaUoZX77jna4JgTeE~KQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A linha do objeto combina demonstrativo, nome e cor em uma frase curta.",
+      "feedbackError": "A linha do objeto combina demonstrativo, nome e cor em uma frase curta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "071e5da5-893b-4252-84a4-209fd5f4c5c5",
+          "textContent": "negro",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1915c791-5de9-4e9e-b389-480995dfd9dd"
+        },
+        {
+          "id": "9d348cc9-15dd-426f-9137-5e2b81f76194",
+          "textContent": "es",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1915c791-5de9-4e9e-b389-480995dfd9dd"
+        },
+        {
+          "id": "b3267c7b-c861-43db-8881-a69a48287d0a",
+          "textContent": "este",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1915c791-5de9-4e9e-b389-480995dfd9dd"
+        },
+        {
+          "id": "c241b54e-91b6-47bc-80d5-df53472a6c2d",
+          "textContent": "mía",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1915c791-5de9-4e9e-b389-480995dfd9dd"
+        },
+        {
+          "id": "c9251b01-d827-4fe8-a027-f935c4e5d6c9",
+          "textContent": "farmacia",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1915c791-5de9-4e9e-b389-480995dfd9dd"
+        },
+        {
+          "id": "f426d0d1-1cf7-4966-91fa-0db20483dc06",
+          "textContent": "móvil",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1915c791-5de9-4e9e-b389-480995dfd9dd"
+        },
+        {
+          "id": "fef1d6ee-4eb8-4344-a291-57d5fbc45b69",
+          "textContent": "cartera",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1915c791-5de9-4e9e-b389-480995dfd9dd"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6e857ce8-faf1-4cae-ad30-7a7efcc8a962",
+      "title": "Recupere a frase completa",
+      "content": "<p>Ligue cada pista curta ao enunciado inteiro em espanhol, sem tradução nas respostas.</p>",
+      "contentPlain": "Ligue cada pista curta ao enunciado inteiro em espanhol, sem tradução nas respostas.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final retoma três saídas curtas para falar da mesma cena com mais naturalidade.",
+      "feedbackError": "O resumo final retoma três saídas curtas para falar da mesma cena com mais naturalidade.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6d54d3fd-4ada-497a-bc82-875e1ea081e6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6e857ce8-faf1-4cae-ad30-7a7efcc8a962"
+        },
+        {
+          "id": "e8903dd5-2fac-438e-a834-40ff4b7cb19b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6e857ce8-faf1-4cae-ad30-7a7efcc8a962"
+        }
+      ],
+      "associations": [
+        {
+          "id": "95229dd9-6c4c-4df7-8895-157d41923a43",
+          "exerciseId": "6e857ce8-faf1-4cae-ad30-7a7efcc8a962",
+          "leftContent": "falar do que existe ao redor ao caminhar pelo bairro",
+          "rightContent": "En mi barrio hay un café y una farmacia.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "502f7f7a-5f29-4223-a3ae-5bdc13278602",
+          "exerciseId": "6e857ce8-faf1-4cae-ad30-7a7efcc8a962",
+          "leftContent": "identificar um objeto sobre a mesa do café",
+          "rightContent": "Este móvil es negro.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a4ba947f-8093-4074-a0d7-c748fb005966",
+          "exerciseId": "6e857ce8-faf1-4cae-ad30-7a7efcc8a962",
+          "leftContent": "dizer que a carteira é sua em uma cena cotidiana",
+          "rightContent": "La cartera es mía.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "b50eff4d-6214-4e01-839c-6cbd4de8303f",
+      "title": "Complete a frase de existência",
+      "content": "<p>En mi barrio ___ un café y una farmacia.</p><p>Tradução: No meu bairro há um café e uma farmácia.</p>",
+      "contentPlain": "En mi barrio ___ un café y una farmacia. Tradução: No meu bairro há um café e uma farmácia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, hay sustenta a frase curta para dizer o que existe no bairro.",
+      "feedbackError": "Nesta aula, hay sustenta a frase curta para dizer o que existe no bairro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hay",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "cfa1db1c-60d9-4c0d-86d3-3dc389b628a7",
+      "title": "Complete a localização do bairro",
+      "content": "<p>La farmacia está _____ del café.</p><p>Tradução: A farmácia fica perto do café.</p>",
+      "contentPlain": "La farmacia está _____ del café. Tradução: A farmácia fica perto do café.",
+      "fileUrl": null,
+      "feedbackSuccess": "A frase de localização desta aula usa cerca del para ligar um lugar a outro.",
+      "feedbackError": "A frase de localização desta aula usa cerca del para ligar um lugar a outro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cerca",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "727de12a-cfa0-4fe7-b40c-d8d3bf3c44f5",
+      "title": "Complete a posse da carteira",
+      "content": "<p>La cartera es ___.</p><p>Tradução: A carteira é minha.</p>",
+      "contentPlain": "La cartera es ___. Tradução: A carteira é minha.",
+      "fileUrl": null,
+      "feedbackSuccess": "A saída de posse da aula fecha a frase com mía para marcar de quem é o objeto.",
+      "feedbackError": "A saída de posse da aula fecha a frase com mía para marcar de quem é o objeto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mía",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a58d71a0-cf69-48db-b423-9a75128401d4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Falar com mais fluidez no bairro"
+}

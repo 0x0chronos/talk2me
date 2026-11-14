@@ -1,0 +1,22 @@
+.mobile-tools {padding:20px 0;border-bottom:1px solid var(--seam);margin-bottom:24px}
+.mobile-tools h3 {margin:0 0 10px}
+.mobile-tools p {line-height:1.6}
+.mobile-tool-actions {display:flex;flex-wrap:wrap;gap:10px;margin:18px 0}
+.mobile-tool-actions button {margin:0;min-height:44px}
+#mobile-status {font-size:14px;color:var(--muted);overflow-wrap:anywhere}
+.mobile-download-list {display:grid;gap:16px;max-height:50dvh;overflow:auto}
+.mobile-download-list article {display:grid;gap:8px;padding:14px 0;border-bottom:1px solid var(--seam)}
+.mobile-download-list article span {font-size:14px;color:var(--muted)}
+.connection-label {line-height:1.5}
+.drawer-header,.drawer-tabs {flex-shrink:0}
+.drawer-body {min-height:0;flex:1}
+dialog {max-height:85dvh;overflow:auto}
+#lesson-preview .offline-note {line-height:1.6}
+@media(max-width:600px){
+  .mobile-tool-actions {display:grid;grid-template-columns:1fr}
+  .mobile-tool-actions button {width:100%;text-align:center}
+  dialog {padding:22px;max-width:calc(100vw - 28px)}
+  .pfoot {padding-bottom:max(16px,env(safe-area-inset-bottom))}
+  .mobile-nav {padding-bottom:env(safe-area-inset-bottom)}
+  .drawer-tab {min-width:0;font-size:12px;white-space:normal;line-height:1.4;padding:12px 6px}
+}

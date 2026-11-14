@@ -1,0 +1,646 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+    "attemptId": "eaa03660-9f7d-4663-98e6-8d4bc3593760",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "ef54a1a8-e8c1-45fd-a2c0-fc8163646c22",
+      "9edd68b7-c81c-445e-86ee-5bd1ae27a73c",
+      "d83a76b4-4871-4e0d-b97a-8e0df0b5d916",
+      "484ab930-29cc-46b0-a2a0-b6c904c7644e",
+      "e57b0aad-f40e-47c0-bdf6-f3d008d2283b"
+    ],
+    "evaluationExerciseIds": [
+      "19befc3c-e10a-450b-a369-daa92b020b25",
+      "b393fd58-1745-4f70-a98e-39e2a7ac9864",
+      "47b7ff3c-0382-4aa3-9e39-19d2c31ee64a",
+      "7f4599a0-054a-4fb4-9040-6e01fcfac275",
+      "304f7439-e401-465c-b984-a51c31787f02"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:32.5852856Z"
+  },
+  "contents": [
+    {
+      "id": "a807d77b-71cb-4050-9d09-1584bb8652cc",
+      "title": "Leia o cenário curto e note os três tipos de informação que importam nesta conversa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "053d7981-3f8e-4f3d-b62d-861ddb760123",
+          "textContent": "<p>Duas pessoas falam de um amigo que vai chegar a um encontro.</p><p>Nesta aula, o importante é captar três pistas: <strong>quem a pessoa é no grupo</strong>, <strong>com o que trabalha</strong> e <strong>há quanto tempo existe essa relação</strong>.</p><p>Você vai ouvir essas pistas primeiro em frases curtas e depois em uma troca social rápida.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f16a0876-75bc-43c0-894f-af467783e816",
+      "title": "Escute e leia a frase. Ligue a expressão ao vínculo mostrado.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "2c48932e-e985-4289-85c3-d579f42ce4f6",
+          "textContent": "<p>Primeiro, escute a pista de vínculo.</p><p><strong>Es la pareja de Elena.</strong></p><p>Em português: <strong>É o parceiro da Elena.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a47080872d35411a843323be0d2abafd_l01b02-es-la-pareja-de-elena.mp3?Expires=1794099573&Signature=IMkJpNrIW2gx70MICbyryBwoE4w7hzFO6OEiyp-nTC-fDrhp1JZXk7NwOgtjblMpqq4PM0VSHqcnLk9PzzK3Veg29PDaC~MuEucMZC7gWm-gHQexexOFkdQug3~kUQryw0X6m2-cPG2XU6AN~N1rkn7yXwFkzD0x4NUGCoyfIFoSoRkDmAN14jRV49hJ2XTf7GViAxo~BGX9KpdnQVKhwP5aFPhj7PQ-9XCIrlIFlnxrYLPwk38NEQWyCqhXIqlkn7ghoTulwxgIQg0HbxbFlDY-U4dTnB0NUD9Ju7glQJ0lvYnH63Tzr2WApPdDmwr5NEdnZ~aMpAA0K2ZGpfX23g__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "58d0789b-4632-42d1-abff-d52e93295ba4",
+      "title": "Leia a nota curta e observe o tipo de detalhe que essa expressão entrega.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "70264ab4-f8fb-4737-bc23-dd099989dfa9",
+          "textContent": "<p>Quando você ouve <strong>es la pareja de...</strong>, a informação principal é o <strong>vínculo</strong>.</p><p>Essa pista ajuda a entender rapidamente quem ocupa qual lugar no grupo antes que apareçam outros detalhes.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8f50d1e8-8979-4ab1-af60-f343d6dece5e",
+      "title": "Escute e leia a frase. Note que agora a conversa situa a pessoa pelo trabalho.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "cac93805-0819-47e0-9c04-406f0c99ae98",
+          "textContent": "<p>Agora, a pista muda para o trabalho.</p><p><strong>Trabaja como diseñador gráfico.</strong></p><p>Em português: <strong>Trabalha como designer gráfico.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2f1f105f86a04b0e90c360496c394bbe_l01b04-trabaja-como-disenador-grafico.mp3?Expires=1794099573&Signature=w~bihb-Uqmxty9vRYmf5da1EbEJKUWRXybIhEV8iCYhJmPq3HWzsDFQaGaqBXrQMhqLtkJW0YL95Ri13XNWA5axwRHnELAC1V0m3ayYuE59NvIBX~shVt9wm9mn7qee0EcYHJOPMXI~hqzTVvNKtP6ZjqYbg5eeRr0HaqfLWWES515pjZJsHOUcb0-~k20WimQRSbZYcbnDGZ8G5dp9tWAnRAn0fb1J0XFETwPQnCgdzwU-~T5inz2FrX-t21OZqdx~~ASk5n3Sbz8tgS-brfOgrURixbNbBqNYVl3pCoolq5tWbPh-AsAOWCvKtFtj83Rqn1hsPSoSvhJA-xDW~Ww__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "799f515a-4946-4cff-ab83-85c8ae7a078b",
+      "title": "Leia a nota e observe o papel dessa estrutura em uma conversa social.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "cf903379-66e6-4655-8519-9f47ef0d0a9d",
+          "textContent": "<p><strong>trabaja como...</strong> introduz a ocupação de forma direta.</p><p>Em uma conversa entre amigos, esse detalhe costuma aparecer para situar melhor a pessoa sem alongar a apresentação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "347ad5f1-c9e7-4b75-a960-4f924f27c316",
+      "title": "Escute e leia a frase. Perceba como a duração aparece sem explicar toda a história.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "cf1de371-c8ae-49a8-a2c4-dc0829632800",
+          "textContent": "<p>Agora, escute a pista de tempo.</p><p><strong>Se conocen desde hace tres años.</strong></p><p>Em português: <strong>Eles se conhecem há três anos.</strong></p><p>Aqui, a chave é perceber <strong>desde hace</strong> como marca de duração.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6e8bf060d8cf415b8da9ee77d875221a_l01b06-se-conocen-desde-hace-tres-anos.mp3?Expires=1794099573&Signature=XOeH87Yjldx68CSyDjvqovFwwrUeuODOo8qyc~7qfgRaIFg5aVOUEOuLXzcSACqFvXKqCjSgf0s-YM8ihzoHyN4CXh0QF8XE7G7Xvp0yrA479wFU4etc~9c80zogs2q7QBUfWFBuFCTDDuZ835ltL66NWt9KTWVrnqsh3yj2NJPZGkwbZevCc4M8AokIe0TGU1WM-wl6gvJtTTxQrh61V1RivqEqegZHKRvnu-uo53Ab1KrzItp4E6678~5QR9qYKg03Q9C2C60h6AQzlWn93ZWHcMbhms~8QU09yfz~JTYaNhZWXy~jfHJE76HUdmdkJAXq2IWV83z1rg7j~H-a-A__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5cde3d7c-82b8-4780-8276-85cdf2a77c37",
+      "title": "Quem é Nico no grupo",
+      "description": "<p>O diálogo não traz informação nova: ele só junta vínculo, profissão e duração em uma conversa que poderia acontecer antes de um encontro entre amigos.</p>",
+      "contentType": 7,
+      "sequenceItem": 7,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Conoces a Nico?</div>\n  <div style=\"opacity: 0.45;\">Você conhece o Nico?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/01a64eace689418b980a08b23b3ea7c7_l01b07-conoces-a-nico.mp3?Expires=1794099573&Signature=KtXcmRikdS7B9f2ElRMG0RZCaCnR-I1FKa83VZ2KCRBV1sFtYh5j-z37Sk0att5EQFRSefDJgJ9vYS3-97pnYiYIaJ7DzaTAAg-74vFlo9QQHjd0faRhKpSshYWgqp8TfSu~FD5KF~gyxMttewKAG9-OxAXmx9x4D42rAqLDtZHRTOdbav10pgpC26N0ApLacL-dlzOS~ZVXUUH8BHdBiX8P2iAp~K0a~VsguyxzOeDAk2mvv3LkWn0kaa80VaXs9jvwiybWyZgInF~iLUkj7sxQYgg8iUKwDfS2N6DXCxCOOCOW1Id7rHGnq9TX4k8GNmAxKr-hL2E59JWlucHXHw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Es la pareja de Elena.</div>\n  <div style=\"opacity: 0.45;\">Ele é o parceiro da Elena.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/49b86aa853184967a4da6d202b648fe6_l01b02-es-la-pareja-de-elena.mp3?Expires=1794099573&Signature=rwnjDd0-euZkElmHlUI15IwBMGRhpyZ2uYl1CP6ejuqcF6bgNkCMeL7fdu4inlCUJaPb4b3uA90-FFyZNaiKhB154FxhHypH-~izKnDw5rol~7uage4uCpNXMxFnrjUbmRyHcBy-~TVsq5Ph~3G~muoVSU6zG8e5foTSWZn9ftg8UeGQU2Dpwgb68BVnjxHHvdv3GusEm0aqjMA72sHK-lWGL7VnRM0Q~zzsBtV2l0SBDnrYrqrusWRfIDggEFOnTg0yAdfALkM-TbluKBiTwEkvJg0g1MprZTQAYmtRu98NqF3zC4KlH0N-YMS-l8bPgG62SwH~lAb7qTWOvqI4mw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Trabaja como diseñador gráfico, ¿no?</div>\n  <div style=\"opacity: 0.45;\">Ele trabalha como designer gráfico, né?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e1337ef8bedc4b2cb0b04cf1a74a26ac_l01b07-trabaja-como-disenador-grafico-no.mp3?Expires=1794099573&Signature=Jb-pk79EjyQrcqrxoBAvb3lrd5LPTm8eSQDtcCSDQuO46JxaYTwPFbiXy4lAnxN2NtJLvSuHoAv9FedOY9N9CgeehK-xdUiw9uW-ASEozXonGAgbjVlYZeEdc-qAXyEPPiUt9eO6e9cUkKAEE3d~YwtMnjmLGT3AXwKsDs27cxWuQUqJC0tJb9bBJteSfCjMDZOHttBr-OrCxt4pd0jSE2waOlxpCo05sZ-g2t6oHGPSZZ8Xy172eHyqbFhZV3vXOBqMZamdA~5GBEG0nIjqGtFlzGIcCBQfpMDN7w-x-GvkaCl4XyAuqVXdbG6rCRsChot8UuBdPDHIYCQxjXIt8g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Se conocen desde hace tres años.</div>\n  <div style=\"opacity: 0.45;\">Eles se conhecem há três anos.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ca7d5d3602cb453ab381a799c8e3d52d_l01b06-se-conocen-desde-hace-tres-anos.mp3?Expires=1794099573&Signature=L72GW~ft20IF90PqCvKelQgwK9B4EVrspuJwftUUeARpiGeQd~3Yokd5Gv1NAMwOzS0eTXwNyi1Htqa8kKdj8AlrgZCtDiunL5J~hj4xNEq0QvdYPRoM0xuNwBdAs4O273W6tumFppqdRI31k0nEhGhckksAo9usg4I2Q2EdFcBmEQzYEibIrTNU18VnpRizjEZHiDPJs1fQ9LJP4MeN0BGVsd7pDSc6BN-cK2HZXyqjxahmCXKpHbJ-6IAa7Avorxw0Cml241-iwWt50nqg6n1RgwHimIlwQ1mIxiUD5fJlVLuoLv6bWZZbZptTIlNcQ84eGQH-pdFkgjnEmhoNlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "3603b6a5-af8d-4b2a-80b9-7066a79c7455",
+      "title": "Escute e leia o resumo final. Pense em como esse tipo de retrato aparece quando alguém apresenta um amigo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "497c3e3c-e5ba-43f0-b20a-f2fc8c7d6088",
+          "textContent": "<p>Em conversas entre amigos, é comum apresentar alguém com poucos detalhes bem escolhidos.</p><p><strong>Es la pareja de Elena, trabaja como diseñador gráfico y se conocen desde hace tres años.</strong></p><p>Em português: <strong>Ele é o parceiro da Elena, trabalha como designer gráfico e eles se conhecem há três anos.</strong></p><p>Esse retrato curto ajuda você a acompanhar apresentações, encontros e conversas sobre pessoas próximas na vida real.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5cc1c4ee796645c8bed28e6a7e6273fb_l01b08-recap-social.mp3?Expires=1794099573&Signature=aXMwbqFkb6oKYPW8i5jFqgVXRumgDeFdpy2TzxAhkXlzBM6ExlpX72WZCli8M3Yg-FB6dRWB4luG1Kld~t9Qqw3mj-VTgGboObXjD4pH7GhG2hzs6mLgEAxkpHzyDhqCxWqTyLEux9GRr3tB0gyv60v8XgD4HDQs-kmxQ6MHQmvI6sktMvX7WlwRjoZqz-2Mq9CH9XsthdTA45lhlhPm2wEkKR-FXizqQWExH7XQVgnpvPmA-sj~BIcZJCiRWXLK59TPCJzgXMBlH6fbEVpl~pCG96itH9g7Nq3gnNrslt12xDWwGcPhyHO3yCLK~D6iVteEfsb6~pld~iOiH6rLKA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "ef54a1a8-e8c1-45fd-a2c0-fc8163646c22",
+      "title": "Escute e associe as pistas",
+      "content": "<p>Ligue cada gravação curta à frase certa em espanhol.</p>",
+      "contentPlain": "Ligue cada gravação curta à frase certa em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "As três pistas centrais da aula aparecem primeiro separadas: vínculo, profissão e duração.",
+      "feedbackError": "As três pistas centrais da aula aparecem primeiro separadas: vínculo, profissão e duração.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "ec17d38c-1a50-47af-a3dc-a226295135e7",
+          "exerciseId": "ef54a1a8-e8c1-45fd-a2c0-fc8163646c22",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a47080872d35411a843323be0d2abafd_l01b02-es-la-pareja-de-elena.mp3?Expires=1794099573&Signature=IMkJpNrIW2gx70MICbyryBwoE4w7hzFO6OEiyp-nTC-fDrhp1JZXk7NwOgtjblMpqq4PM0VSHqcnLk9PzzK3Veg29PDaC~MuEucMZC7gWm-gHQexexOFkdQug3~kUQryw0X6m2-cPG2XU6AN~N1rkn7yXwFkzD0x4NUGCoyfIFoSoRkDmAN14jRV49hJ2XTf7GViAxo~BGX9KpdnQVKhwP5aFPhj7PQ-9XCIrlIFlnxrYLPwk38NEQWyCqhXIqlkn7ghoTulwxgIQg0HbxbFlDY-U4dTnB0NUD9Ju7glQJ0lvYnH63Tzr2WApPdDmwr5NEdnZ~aMpAA0K2ZGpfX23g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es la pareja de Elena.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "86c25200-5fd8-4d5b-8b43-1a6f7db4b797",
+          "exerciseId": "ef54a1a8-e8c1-45fd-a2c0-fc8163646c22",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2f1f105f86a04b0e90c360496c394bbe_l01b04-trabaja-como-disenador-grafico.mp3?Expires=1794099573&Signature=w~bihb-Uqmxty9vRYmf5da1EbEJKUWRXybIhEV8iCYhJmPq3HWzsDFQaGaqBXrQMhqLtkJW0YL95Ri13XNWA5axwRHnELAC1V0m3ayYuE59NvIBX~shVt9wm9mn7qee0EcYHJOPMXI~hqzTVvNKtP6ZjqYbg5eeRr0HaqfLWWES515pjZJsHOUcb0-~k20WimQRSbZYcbnDGZ8G5dp9tWAnRAn0fb1J0XFETwPQnCgdzwU-~T5inz2FrX-t21OZqdx~~ASk5n3Sbz8tgS-brfOgrURixbNbBqNYVl3pCoolq5tWbPh-AsAOWCvKtFtj83Rqn1hsPSoSvhJA-xDW~Ww__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Trabaja como diseñador gráfico.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e8ebcdbd-02a8-4557-abfc-af7784081e54",
+          "exerciseId": "ef54a1a8-e8c1-45fd-a2c0-fc8163646c22",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6e8bf060d8cf415b8da9ee77d875221a_l01b06-se-conocen-desde-hace-tres-anos.mp3?Expires=1794099573&Signature=XOeH87Yjldx68CSyDjvqovFwwrUeuODOo8qyc~7qfgRaIFg5aVOUEOuLXzcSACqFvXKqCjSgf0s-YM8ihzoHyN4CXh0QF8XE7G7Xvp0yrA479wFU4etc~9c80zogs2q7QBUfWFBuFCTDDuZ835ltL66NWt9KTWVrnqsh3yj2NJPZGkwbZevCc4M8AokIe0TGU1WM-wl6gvJtTTxQrh61V1RivqEqegZHKRvnu-uo53Ab1KrzItp4E6678~5QR9qYKg03Q9C2C60h6AQzlWn93ZWHcMbhms~8QU09yfz~JTYaNhZWXy~jfHJE76HUdmdkJAXq2IWV83z1rg7j~H-a-A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Se conocen desde hace tres años.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "9edd68b7-c81c-445e-86ee-5bd1ae27a73c",
+      "title": "Identifique a pista de duração",
+      "content": "<p>Escute a fala e marque somente as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a fala e marque somente as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ca7d5d3602cb453ab381a799c8e3d52d_l01b06-se-conocen-desde-hace-tres-anos.mp3?Expires=1794099573&Signature=L72GW~ft20IF90PqCvKelQgwK9B4EVrspuJwftUUeARpiGeQd~3Yokd5Gv1NAMwOzS0eTXwNyi1Htqa8kKdj8AlrgZCtDiunL5J~hj4xNEq0QvdYPRoM0xuNwBdAs4O273W6tumFppqdRI31k0nEhGhckksAo9usg4I2Q2EdFcBmEQzYEibIrTNU18VnpRizjEZHiDPJs1fQ9LJP4MeN0BGVsd7pDSc6BN-cK2HZXyqjxahmCXKpHbJ-6IAa7Avorxw0Cml241-iwWt50nqg6n1RgwHimIlwQ1mIxiUD5fJlVLuoLv6bWZZbZptTIlNcQ84eGQH-pdFkgjnEmhoNlA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Desde hace... marca a duração da relação na escuta desta aula.",
+      "feedbackError": "Desde hace... marca a duração da relação na escuta desta aula.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "19e17df9-25e0-4186-8ace-86ad1d857df9",
+          "textContent": "conocen",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9edd68b7-c81c-445e-86ee-5bd1ae27a73c"
+        },
+        {
+          "id": "42c7a9ec-a65b-4310-ac3a-5ddfd54b3ddb",
+          "textContent": "tres",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9edd68b7-c81c-445e-86ee-5bd1ae27a73c"
+        },
+        {
+          "id": "5f50da12-0803-4ff2-82fd-13295d526cea",
+          "textContent": "pareja",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9edd68b7-c81c-445e-86ee-5bd1ae27a73c"
+        },
+        {
+          "id": "67b40f61-18ca-421e-8a3e-f2a54c271f11",
+          "textContent": "desde",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9edd68b7-c81c-445e-86ee-5bd1ae27a73c"
+        },
+        {
+          "id": "9bac2d50-8c73-4d07-9174-4832f3533bb3",
+          "textContent": "años",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9edd68b7-c81c-445e-86ee-5bd1ae27a73c"
+        },
+        {
+          "id": "a23afc25-e8f4-413b-bca8-36afe82a2b7d",
+          "textContent": "hace",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9edd68b7-c81c-445e-86ee-5bd1ae27a73c"
+        },
+        {
+          "id": "adf91fb4-4150-442a-b967-1280a50fd2e4",
+          "textContent": "diseñador",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9edd68b7-c81c-445e-86ee-5bd1ae27a73c"
+        },
+        {
+          "id": "af83ceb9-9d3f-4ff7-b989-77205d16aa33",
+          "textContent": "Elena",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9edd68b7-c81c-445e-86ee-5bd1ae27a73c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d83a76b4-4871-4e0d-b97a-8e0df0b5d916",
+      "title": "Escolha a pista de profissão",
+      "content": "<p>Qual fala da aula apresenta a ocupação da pessoa, e não o vínculo nem o tempo da relação?</p>",
+      "contentPlain": "Qual fala da aula apresenta a ocupação da pessoa, e não o vínculo nem o tempo da relação?",
+      "fileUrl": null,
+      "feedbackSuccess": "Trabaja como... entra na aula como pista direta de profissão em uma apresentação breve.",
+      "feedbackError": "Trabaja como... entra na aula como pista direta de profissão em uma apresentação breve.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2ca263f8-6583-4f9e-9e73-44acad0f95ab",
+          "textContent": "Se conocen desde hace tres años.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d83a76b4-4871-4e0d-b97a-8e0df0b5d916"
+        },
+        {
+          "id": "cb26ac20-d2f4-42fe-8e14-9c061e168d11",
+          "textContent": "Trabaja como diseñador gráfico.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d83a76b4-4871-4e0d-b97a-8e0df0b5d916"
+        },
+        {
+          "id": "f6afeb15-f922-4d82-9c3b-64be40e80767",
+          "textContent": "Es la pareja de Elena.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d83a76b4-4871-4e0d-b97a-8e0df0b5d916"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "484ab930-29cc-46b0-a2a0-b6c904c7644e",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta o retrato social curto do resumo final.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta o retrato social curto do resumo final.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fe9da0806ec94556b2f2a3a66e71fa87_l01b08-recap-social.mp3?Expires=1794099573&Signature=mgxzI5CPS8RphtpOeIdjFBq4ZpYrNRLBP2Pu~Kgjdll5ktbi7qhsApScuNlYDDTfz8q7RkP1PNdyuP224FJ3NOWqIXBzLZqyoUONH-BDrNP1qGP78f0sLhlf5VNyIZkWG~ihGC2YYcPYtb-ggvUhkmWT0c8DNWA7HRTAxAgeX6BXC4J1mGZgSk26DgjTLbthm8oTmfzAc0ah4CX-D4Pgjl~Z5R3dm9AtKmWuIJ0j3jq~ug6z6jflc4lym4aBLokDJBCVEjnMxpXOQVseOx7f8CtCMXex-K~~v~qTHlU8qCyMwQXaxFN~PmeUu0zJx4AtCdD8brwIi5RZ7F86IHY3dQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O resumo junta vínculo, profissão e duração em um retrato social curto e natural.",
+      "feedbackError": "O resumo junta vínculo, profissão e duração em um retrato social curto e natural.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Es la pareja de Elena, trabaja como diseñador gráfico y se conocen desde hace tres años.",
+      "typeSpecificData": "{\"expectedText\":\"Es la pareja de Elena, trabaja como dise\\u00F1ador gr\\u00E1fico y se conocen desde hace tres a\\u00F1os.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/fe9da0806ec94556b2f2a3a66e71fa87_l01b08-recap-social.mp3?Expires=1794099573\\u0026Signature=mgxzI5CPS8RphtpOeIdjFBq4ZpYrNRLBP2Pu~Kgjdll5ktbi7qhsApScuNlYDDTfz8q7RkP1PNdyuP224FJ3NOWqIXBzLZqyoUONH-BDrNP1qGP78f0sLhlf5VNyIZkWG~ihGC2YYcPYtb-ggvUhkmWT0c8DNWA7HRTAxAgeX6BXC4J1mGZgSk26DgjTLbthm8oTmfzAc0ah4CX-D4Pgjl~Z5R3dm9AtKmWuIJ0j3jq~ug6z6jflc4lym4aBLokDJBCVEjnMxpXOQVseOx7f8CtCMXex-K~~v~qTHlU8qCyMwQXaxFN~PmeUu0zJx4AtCdD8brwIi5RZ7F86IHY3dQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e57b0aad-f40e-47c0-bdf6-f3d008d2283b",
+      "title": "Ligue frase e detalhe",
+      "content": "<p>Associe cada pista da aula ao detalhe social que ela ajuda a identificar.</p>",
+      "contentPlain": "Associe cada pista da aula ao detalhe social que ela ajuda a identificar.",
+      "fileUrl": null,
+      "feedbackSuccess": "O retrato curto da aula combina vínculo, profissão e duração para situar alguém no grupo.",
+      "feedbackError": "O retrato curto da aula combina vínculo, profissão e duração para situar alguém no grupo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "06a117f0-e1b2-4890-9dd0-9ba0f11f5368",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e57b0aad-f40e-47c0-bdf6-f3d008d2283b"
+        },
+        {
+          "id": "205704ba-496c-4aba-88c4-1c836b723ba4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e57b0aad-f40e-47c0-bdf6-f3d008d2283b"
+        }
+      ],
+      "associations": [
+        {
+          "id": "9ab7a59a-f37b-4ecd-9b64-966a9b19c628",
+          "exerciseId": "e57b0aad-f40e-47c0-bdf6-f3d008d2283b",
+          "leftContent": "Es la pareja de Elena.",
+          "rightContent": "vínculo no grupo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "49450630-ecb5-4cde-844c-15b7ef664597",
+          "exerciseId": "e57b0aad-f40e-47c0-bdf6-f3d008d2283b",
+          "leftContent": "Trabaja como diseñador gráfico.",
+          "rightContent": "profissão da pessoa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a1e30c0b-f464-43c5-b071-aa5965ef1d87",
+          "exerciseId": "e57b0aad-f40e-47c0-bdf6-f3d008d2283b",
+          "leftContent": "Se conocen desde hace tres años.",
+          "rightContent": "duração da relação",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "19befc3c-e10a-450b-a369-daa92b020b25",
+      "title": "Recupere o resumo pelo áudio",
+      "content": "<p>Escute a apresentação final e marque somente as palavras que realmente fazem parte dela.</p>",
+      "contentPlain": "Escute a apresentação final e marque somente as palavras que realmente fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fe9da0806ec94556b2f2a3a66e71fa87_l01b08-recap-social.mp3?Expires=1794099573&Signature=mgxzI5CPS8RphtpOeIdjFBq4ZpYrNRLBP2Pu~Kgjdll5ktbi7qhsApScuNlYDDTfz8q7RkP1PNdyuP224FJ3NOWqIXBzLZqyoUONH-BDrNP1qGP78f0sLhlf5VNyIZkWG~ihGC2YYcPYtb-ggvUhkmWT0c8DNWA7HRTAxAgeX6BXC4J1mGZgSk26DgjTLbthm8oTmfzAc0ah4CX-D4Pgjl~Z5R3dm9AtKmWuIJ0j3jq~ug6z6jflc4lym4aBLokDJBCVEjnMxpXOQVseOx7f8CtCMXex-K~~v~qTHlU8qCyMwQXaxFN~PmeUu0zJx4AtCdD8brwIi5RZ7F86IHY3dQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O resumo concentra vínculo, profissão e duração na mesma apresentação breve.",
+      "feedbackError": "O resumo concentra vínculo, profissão e duração na mesma apresentação breve.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "060fea62-d81b-4561-a02b-5f27e5440f1d",
+          "textContent": "hace",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "0f447d04-ee11-42a3-85c1-bd449931e3e4",
+          "textContent": "años",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "137ec8d0-bb1e-4c71-b13b-015e44d1fb1e",
+          "textContent": "Elena",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "167d305e-b81d-4d75-83c7-7c6d0b562a95",
+          "textContent": "gráfico",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "5110aa58-db05-467d-8454-1727f66c437c",
+          "textContent": "pareja",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "5a289f54-b042-4bab-8ec8-1d8109cd7ded",
+          "textContent": "tres",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "6fd64b4c-d4fd-4d9f-8ad7-9123396904b9",
+          "textContent": "conocen",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "91b9f629-3279-40d1-b4fe-74f8c2ce2bdc",
+          "textContent": "grupo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "92088161-d6bc-4b50-85e1-368e50b83632",
+          "textContent": "diseñador",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "b7342055-ee99-40b2-a983-982b7b5693e1",
+          "textContent": "trabaja",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        },
+        {
+          "id": "de1386ce-35dd-47c0-a55b-719cb14fb0a6",
+          "textContent": "Nico",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "19befc3c-e10a-450b-a369-daa92b020b25"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "b393fd58-1745-4f70-a98e-39e2a7ac9864",
+      "title": "Complete a pista de duração",
+      "content": "<p>Se conocen desde ____ tres años.</p><p>Tradução: Eles se conhecem há três anos.</p>",
+      "contentPlain": "Se conocen desde ____ tres años. Tradução: Eles se conhecem há três anos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Desde hace... é a peça da aula que marca duração de relação.",
+      "feedbackError": "Desde hace... é a peça da aula que marca duração de relação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hace",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "47b7ff3c-0382-4aa3-9e39-19d2c31ee64a",
+      "title": "Complete a pista de profissão",
+      "content": "<p>Trabaja como _________ gráfico.</p><p>Tradução: Trabalha como designer gráfico.</p>",
+      "contentPlain": "Trabaja como _________ gráfico. Tradução: Trabalha como designer gráfico.",
+      "fileUrl": null,
+      "feedbackSuccess": "Trabaja como... introduz a ocupação como detalhe social rápido.",
+      "feedbackError": "Trabaja como... introduz a ocupação como detalhe social rápido.",
+      "answerType": "buildWord",
+      "expectedAnswer": "diseñador",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "7f4599a0-054a-4fb4-9040-6e01fcfac275",
+      "title": "Reconstrua o diálogo ouvido",
+      "content": "<p>Relacione cada gravação da conversa à linha exata correspondente.</p>",
+      "contentPlain": "Relacione cada gravação da conversa à linha exata correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "No diálogo, as pistas entram em sequência curta para apresentar Nico dentro do grupo.",
+      "feedbackError": "No diálogo, as pistas entram em sequência curta para apresentar Nico dentro do grupo.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "d69f7148-34a6-4680-a625-d2b86effb104",
+          "exerciseId": "7f4599a0-054a-4fb4-9040-6e01fcfac275",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6e282e701b3944e599dba829883682d4_l01b07-conoces-a-nico.mp3?Expires=1794099573&Signature=EOqGEmnYJC7rFSKd6NFA-g7jdOUhHKwgCVsYC7hHVhPWuytxuCijCKHfMI0KGIUdlaHBrVSZ8ajF7zOpnvlEnd9u0adV7HIf0CpiEwa~jBfPo4IbF-sggu621NTUqWmBfMgqwyfLBMExxcPFgotPh7alYWjVZoVOwwRaGtVGpCzlAB4epI9o0VGnnYxWJMODwBpZucIdr998FwAJDM8uzdTEyfpfU3UFAyIs53s~KtTolhoK~axMsjBMtggTLvDI7AiZObEL0IOB55L1MxmDXTKxq7X6IyE5Ae-zbWFBeWBNwUNEOkHHefWDKtQuetwO80GvsOiGsmS7OdJU51RuLw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Conoces a Nico?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4fb56b71-96b8-425b-88e2-a91036ee2cfd",
+          "exerciseId": "7f4599a0-054a-4fb4-9040-6e01fcfac275",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a47080872d35411a843323be0d2abafd_l01b02-es-la-pareja-de-elena.mp3?Expires=1794099573&Signature=IMkJpNrIW2gx70MICbyryBwoE4w7hzFO6OEiyp-nTC-fDrhp1JZXk7NwOgtjblMpqq4PM0VSHqcnLk9PzzK3Veg29PDaC~MuEucMZC7gWm-gHQexexOFkdQug3~kUQryw0X6m2-cPG2XU6AN~N1rkn7yXwFkzD0x4NUGCoyfIFoSoRkDmAN14jRV49hJ2XTf7GViAxo~BGX9KpdnQVKhwP5aFPhj7PQ-9XCIrlIFlnxrYLPwk38NEQWyCqhXIqlkn7ghoTulwxgIQg0HbxbFlDY-U4dTnB0NUD9Ju7glQJ0lvYnH63Tzr2WApPdDmwr5NEdnZ~aMpAA0K2ZGpfX23g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es la pareja de Elena.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a937a6df-35b4-4d4c-b14c-6a5c183bcf20",
+          "exerciseId": "7f4599a0-054a-4fb4-9040-6e01fcfac275",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/501df7e22bbb462bba01cd943d222ffd_l01b07-trabaja-como-disenador-grafico-no.mp3?Expires=1794099573&Signature=vZiZorfHRKLEK0VCWzx7XML8nTThidcGnfQp84pe0VOrcV~Tm9sJpS-br~XXZvPMEu28K~CG7LaKO5Pby2etvzReHNs7CLEW-qsAR-BWDdyNChLtHiphP2LIfmL2XxsX8Xz-1vmaLCT87pgZBm42MzW5RdNBATrrnbz6VAIsHFp4DCLSSZfyI802j--f-c3ySl~zfYEBZt1tuP9TC2-IEY8UbKgY5pczR1mITBqJPCV8tXW7S~9ugktuznnGqqEjUZQII5xaKGtjpe~J8ec5Km6IH1Of3e7FQbYe-ffUiQlPCzloFQknJPYkm7QxiKJtjSLnfAqouhWVEaq34u5Emw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Trabaja como diseñador gráfico, ¿no?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "cd23a1a6-6cab-46c8-bece-94f3efe3fc4b",
+          "exerciseId": "7f4599a0-054a-4fb4-9040-6e01fcfac275",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6e8bf060d8cf415b8da9ee77d875221a_l01b06-se-conocen-desde-hace-tres-anos.mp3?Expires=1794099573&Signature=XOeH87Yjldx68CSyDjvqovFwwrUeuODOo8qyc~7qfgRaIFg5aVOUEOuLXzcSACqFvXKqCjSgf0s-YM8ihzoHyN4CXh0QF8XE7G7Xvp0yrA479wFU4etc~9c80zogs2q7QBUfWFBuFCTDDuZ835ltL66NWt9KTWVrnqsh3yj2NJPZGkwbZevCc4M8AokIe0TGU1WM-wl6gvJtTTxQrh61V1RivqEqegZHKRvnu-uo53Ab1KrzItp4E6678~5QR9qYKg03Q9C2C60h6AQzlWn93ZWHcMbhms~8QU09yfz~JTYaNhZWXy~jfHJE76HUdmdkJAXq2IWV83z1rg7j~H-a-A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Se conocen desde hace tres años.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "304f7439-e401-465c-b984-a51c31787f02",
+      "title": "Complete a pista de vínculo",
+      "content": "<p>Es la ______ de Elena.</p><p>Tradução: É o parceiro da Elena.</p>",
+      "contentPlain": "Es la ______ de Elena. Tradução: É o parceiro da Elena.",
+      "fileUrl": null,
+      "feedbackSuccess": "Es la pareja de... situa quem a pessoa é dentro do grupo.",
+      "feedbackError": "Es la pareja de... situa quem a pessoa é dentro do grupo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pareja",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Ouvir quem é quem no grupo"
+}

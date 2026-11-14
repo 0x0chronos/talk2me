@@ -1,0 +1,445 @@
+{
+  "attemptId": "63d72a16-23fc-4b89-9abb-7ed31abee70d",
+  "exercises": [
+    {
+      "exerciseId": "dcdb291f-c628-4516-bbea-6379eec56ee4",
+      "sequence": 1,
+      "lessonId": "24511df8-2d1e-4ce2-9fbb-cff6a8a1795e",
+      "title": "Associe situacao e marcador",
+      "content": "<p>Ligue cada situação em português ao marcador em espanhol que mais combina com o comentário.</p>",
+      "contentPlain": "Ligue cada situação em português ao marcador em espanhol que mais combina com o comentário.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é escolher o marcador pela base e pelo grau de confiança que a fala pede.",
+      "feedbackError": "Aqui o foco é escolher o marcador pela base e pelo grau de confiança que a fala pede.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "922c633e-969c-46f1-b4ca-9bbccda76a68",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9326bb45-10be-4474-a73b-b60c865957b1",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "e1087da0-4537-477c-9d97-ac2fd44f54b4",
+          "leftContent": "você ainda não quer dizer que a candidatura já está decidida",
+          "rightContent": "a lo mejor",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0fdf4616-1ace-4c87-a625-43441cf41b92",
+          "leftContent": "você viu vários sinais e a conclusão é assumidamente sua",
+          "rightContent": "para mí que",
+          "sequenceItem": 2
+        },
+        {
+          "id": "21001e4f-4ea6-477b-ae61-5cad11b5bbef",
+          "leftContent": "você quer formular a chance de mudança de rota de forma mais analítica",
+          "rightContent": "es posible que",
+          "sequenceItem": 3
+        },
+        {
+          "id": "15ffe7a7-8a8c-465f-b68c-97d8ef12739c",
+          "leftContent": "você projeta muita confiança, mas não transforma a fala em certeza total",
+          "rightContent": "estoy casi segura de que",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "ee4b27ad-c10d-45cc-ac59-b15b676bec17",
+      "sequence": 2,
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "title": "Complete a rota de atualizacao",
+      "content": "<p>Complete em espanhol: La formación ________ le permite actualizarse sin apartarse del todo de su puesto actual.</p><p>Tradução: A formação contínua permite que ela se atualize sem se afastar por completo do cargo atual.</p>",
+      "contentPlain": "Complete em espanhol: La formación ________ le permite actualizarse sin apartarse del todo de su puesto actual. Tradução: A formação contínua permite que ela se atualize sem se afastar por completo do cargo atual.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta licao, formación continua aparece como atualizacao sem ruptura total.",
+      "feedbackError": "Nesta licao, formación continua aparece como atualizacao sem ruptura total.",
+      "answerType": "buildWord",
+      "expectedAnswer": "continua",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "447d6ef0-2283-4d73-9297-aa3d97eee1d5",
+      "sequence": 3,
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "title": "Complete a experiência validada",
+      "content": "<p>Complete em espanhol: La certificación de competencias sirve para dar reconocimiento formal a una experiencia ______.</p><p>Tradução: A certificação de competências serve para dar reconhecimento formal a uma experiência prévia.</p>",
+      "contentPlain": "Complete em espanhol: La certificación de competencias sirve para dar reconocimiento formal a una experiencia ______. Tradução: A certificação de competências serve para dar reconhecimento formal a uma experiência prévia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, esta rota valida experiência prévia em vez de recomeçar do zero.",
+      "feedbackError": "Nesta lição, esta rota valida experiência prévia em vez de recomeçar do zero.",
+      "answerType": "buildWord",
+      "expectedAnswer": "previa",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "aa80a7f9-f6e9-426f-8bb3-77f1b4097a26",
+      "sequence": 4,
+      "lessonId": "b3f33040-d80c-4c1d-9874-429858a2d0f0",
+      "title": "Recupere a comprovação delimitada",
+      "content": "<p>Al terminar el curso breve, recibió un ___________ de análisis de datos.</p><p>Tradução: Ao terminar o curso breve, ela recebeu um certificado de análise de dados.</p>",
+      "contentPlain": "Al terminar el curso breve, recibió un ___________ de análisis de datos. Tradução: Ao terminar o curso breve, ela recebeu um certificado de análise de dados.",
+      "fileUrl": null,
+      "feedbackSuccess": "Certificado marca uma comprovação formal mais recortada que um grau completo.",
+      "feedbackError": "Certificado marca uma comprovação formal mais recortada que um grau completo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "certificado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ec3df0a3-c431-4818-8522-83ddaf19a349",
+      "sequence": 5,
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "title": "Ligue descrição e rota em espanhol",
+      "content": "<p>Relacione cada descrição em espanhol com a rota correspondente.</p>",
+      "contentPlain": "Relacione cada descrição em espanhol com a rota correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da lição recompõe as quatro rotas em espanhol segundo objetivo, prazo e reconhecimento.",
+      "feedbackError": "O fechamento da lição recompõe as quatro rotas em espanhol segundo objetivo, prazo e reconhecimento.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "490e9da5-2538-4ecc-aecc-3a0af166d2c4",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e3b8f3d5-96b5-4a66-950d-6b448161fd65",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "c246f3b7-bec5-4519-a121-fc9fd463b7f0",
+          "leftContent": "una base amplia y un título con recorrido largo",
+          "rightContent": "grado",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4411b352-71bb-4dab-bb2a-e63ad577068f",
+          "leftContent": "incorporarte antes al trabajo",
+          "rightContent": "formación profesional",
+          "sequenceItem": 2
+        },
+        {
+          "id": "96b1529e-bfb0-4f2a-82dc-292f0d0cebe4",
+          "leftContent": "reconocimiento formal de una experiencia previa",
+          "rightContent": "certificación de competencias",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a569bd68-d310-46dd-a3c5-f5d739b93b14",
+          "leftContent": "actualizarte sin apartarte del todo de tu puesto actual",
+          "rightContent": "formación continua",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "3191f465-62e9-44cc-9025-8615a532244c",
+      "sequence": 6,
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "title": "Complete a experiencia validada",
+      "content": "<p>Complete em espanhol: La certificación de competencias sirve para dar reconocimiento formal a una experiencia ______.</p><p>Tradução: A certificação de competências serve para dar reconhecimento formal a uma experiência prévia.</p>",
+      "contentPlain": "Complete em espanhol: La certificación de competencias sirve para dar reconocimiento formal a una experiencia ______. Tradução: A certificação de competências serve para dar reconhecimento formal a uma experiência prévia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta licao, esta rota valida experiencia previa em vez de recomecar do zero.",
+      "feedbackError": "Nesta licao, esta rota valida experiencia previa em vez de recomecar do zero.",
+      "answerType": "buildWord",
+      "expectedAnswer": "previa",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "309b3ae5-990b-49b9-bb52-5a60ee26f12c",
+      "sequence": 7,
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "title": "Remonte o comentário final",
+      "content": "<p>Religue os quatro movimentos do comentário final: escolha, critério, limite da alternativa e convicção.</p>",
+      "contentPlain": "Religue os quatro movimentos do comentário final: escolha, critério, limite da alternativa e convicção.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário final da aula se organiza por escolha, critério, limite e convicção.",
+      "feedbackError": "O comentário final da aula se organiza por escolha, critério, limite e convicção.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "244a4f00-4be2-485f-9d43-2c82a76a58f7",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ce1d1b5c-d8d8-48e1-ad27-58579326e156",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "43691940-f0ba-416d-b55f-3afeed60ee9b",
+          "leftContent": "me inclinaría por una certificación aplicada",
+          "rightContent": "fecha a rota escolhida",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3b91ec76-87e6-4a2c-b175-941956d0807f",
+          "leftContent": "me permitiría seguir trabajando",
+          "rightContent": "liga a escolha ao critério de compatibilidade",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c0176ac5-bad3-43e7-b6b1-0b23c9291d32",
+          "leftContent": "me exigiría un ritmo que no puedo sostener",
+          "rightContent": "explica por que a alternativa perde agora",
+          "sequenceItem": 3
+        },
+        {
+          "id": "50eb8a46-2f79-4eda-b0c7-c38d3f7e5099",
+          "leftContent": "estoy bastante convencida de que es la más realista",
+          "rightContent": "fecha com convicção matizada",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "3b6209a5-350d-4ce8-8af6-b84d350ab27f",
+      "sequence": 8,
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "title": "Monte a palavra-chave",
+      "content": "<p>Complete a frase em espanhol: Si tuviera que decidir hoy, me __________ por una certificación aplicada.</p><p>Tradução: Se eu tivesse de decidir hoje, eu me inclinaria por uma certificação aplicada.</p>",
+      "contentPlain": "Complete a frase em espanhol: Si tuviera que decidir hoy, me __________ por una certificación aplicada. Tradução: Se eu tivesse de decidir hoje, eu me inclinaria por uma certificação aplicada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me inclinaría marca a preferência pensada sem transformar a fala em certeza absoluta.",
+      "feedbackError": "Me inclinaría marca a preferência pensada sem transformar a fala em certeza absoluta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "inclinaría",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4336a0c3-bcc6-42d7-a098-571353811b3c",
+      "sequence": 9,
+      "lessonId": "b3f33040-d80c-4c1d-9874-429858a2d0f0",
+      "title": "Recupere a continuidade acadêmica",
+      "content": "<p>Tras el grado, eligió un ________ centrado en gestión cultural.</p><p>Tradução: Depois da graduação, ela escolheu uma pós-graduação focada em gestão cultural.</p>",
+      "contentPlain": "Tras el grado, eligió un ________ centrado en gestión cultural. Tradução: Depois da graduação, ela escolheu uma pós-graduação focada em gestão cultural.",
+      "fileUrl": null,
+      "feedbackSuccess": "Posgrado desloca a leitura para a continuidade depois da base universitária.",
+      "feedbackError": "Posgrado desloca a leitura para a continuidade depois da base universitária.",
+      "answerType": "buildWord",
+      "expectedAnswer": "posgrado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9254cf38-4b56-41e4-bf63-1b499468d121",
+      "sequence": 10,
+      "lessonId": "24511df8-2d1e-4ce2-9fbb-cff6a8a1795e",
+      "title": "Associe comentário e postura",
+      "content": "<p>Ligue cada comentário ao efeito mais preciso que ele cria ao falar de uma decisão de estudo.</p>",
+      "contentPlain": "Ligue cada comentário ao efeito mais preciso que ele cria ao falar de uma decisão de estudo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ligar cada marcador ao peso que a frase ganha numa decisão de estudo.",
+      "feedbackError": "Aqui o foco é ligar cada marcador ao peso que a frase ganha numa decisão de estudo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "46d234e2-5d67-4fa4-8bbe-74b52555c72d",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5a59152b-3b1c-46f7-ae11-4dfd331a0bdc",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "e3361ba1-ff86-4312-9592-d7fcbbcd595d",
+          "leftContent": "A lo mejor espero otra convocatoria antes de cerrar la solicitud.",
+          "rightContent": "a pessoa deixa a decisão em aberto sem compromisso forte",
+          "sequenceItem": 1
+        },
+        {
+          "id": "eb81a285-7c4b-4919-a302-5170a2b3736b",
+          "leftContent": "Para mí que Andrés cambia de plan porque ya no pregunta por ese máster.",
+          "rightContent": "a pessoa tira uma conclusão própria a partir de sinais",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a2bc17f0-62ce-4875-bae5-1b6d0960149f",
+          "leftContent": "Es posible que Lucia busque una beca adicional para cubrir los gastos.",
+          "rightContent": "a pessoa formula a possibilidade de modo explícito",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d0469e8b-916f-4400-b120-e96d021196ab",
+          "leftContent": "Estoy casi segura de que Paula acepta la plaza del intercambio.",
+          "rightContent": "a fala soa muito confiante, mas ainda não absoluta",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "45efc88d-11af-43ea-85c0-722437398548",
+      "sequence": 11,
+      "lessonId": "b3f33040-d80c-4c1d-9874-429858a2d0f0",
+      "title": "Recupere a saída oficial",
+      "content": "<p>La __________ del programa figura en el portal oficial de la universidad.</p><p>Tradução: A titulação do programa aparece no portal oficial da universidade.</p>",
+      "contentPlain": "La __________ del programa figura en el portal oficial de la universidad. Tradução: A titulação do programa aparece no portal oficial da universidade.",
+      "fileUrl": null,
+      "feedbackSuccess": "Titulacion foca a credencial oficial entregue no fim do percurso.",
+      "feedbackError": "Titulacion foca a credencial oficial entregue no fim do percurso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "titulación",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "eefcfb80-427d-4f22-8ab1-8d533b84efbc",
+      "sequence": 12,
+      "lessonId": "b3f33040-d80c-4c1d-9874-429858a2d0f0",
+      "title": "Marque os limites de sentido",
+      "content": "<p>Resolva pelos contrastes da aula e ligue cada termo ao que ele <strong>não</strong> significa principalmente nesse capítulo.</p>",
+      "contentPlain": "Resolva pelos contrastes da aula e ligue cada termo ao que ele não significa principalmente nesse capítulo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula refina o sentido de cada termo por contraste, não por tradução solta.",
+      "feedbackError": "A aula refina o sentido de cada termo por contraste, não por tradução solta.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "12ef2b36-a44a-4b80-80b6-7f66efc680b8",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "287a56f9-1313-471d-ad4f-65c5c1cbfb3d",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "f9837c07-493b-461e-9420-9b0a54f668b3",
+          "leftContent": "titulación",
+          "rightContent": "não nomeia toda a rotina acadêmica do percurso",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ea700910-50ab-42cc-b074-7f3c956c30c2",
+          "leftContent": "certificado",
+          "rightContent": "não equivale por si só a um grau completo",
+          "sequenceItem": 2
+        },
+        {
+          "id": "95a45a2a-13f4-402e-aae5-ee78503f109e",
+          "leftContent": "doble titulación",
+          "rightContent": "não se reduz a acumular matérias extras",
+          "sequenceItem": 3
+        },
+        {
+          "id": "b4047f39-ad13-49a7-b88c-260d0ca2978c",
+          "leftContent": "prácticas",
+          "rightContent": "não quer dizer repetir exercícios abstratos",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "444745d2-b697-44fd-a884-463774c84600",
+      "sequence": 13,
+      "lessonId": "24511df8-2d1e-4ce2-9fbb-cff6a8a1795e",
+      "title": "Complete a hipótese explícita",
+      "content": "<p>Complete a frase em espanhol: Es posible que Nora ____ una beca complementaria.</p><p>Tradução: É possível que Nora peça uma bolsa complementar.</p>",
+      "contentPlain": "Complete a frase em espanhol: Es posible que Nora ____ una beca complementaria. Tradução: É possível que Nora peça uma bolsa complementar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a forma verbal que acompanha uma hipótese explícita.",
+      "feedbackError": "Aqui o foco é recuperar a forma verbal que acompanha uma hipótese explícita.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pida",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c0ecb6ae-913a-4fc2-bcad-f6685bd85678",
+      "sequence": 14,
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "title": "Monte a palavra-chave",
+      "content": "<p>Complete a frase em espanhol: Un posgrado tendría más peso académico, pero ahora mismo me exigiría un ritmo que no puedo ________.</p><p>Tradução: Um posgrado teria mais peso acadêmico, mas agora exigiria de mim um ritmo que eu não consigo sustentar.</p>",
+      "contentPlain": "Complete a frase em espanhol: Un posgrado tendría más peso académico, pero ahora mismo me exigiría un ritmo que no puedo ________. Tradução: Um posgrado teria mais peso acadêmico, mas agora exigiria de mim um ritmo que eu não consigo sustentar.",
+      "fileUrl": null,
+      "feedbackSuccess": "O limite prático da aula não cancela a alternativa; ele só mostra por que ela perde agora.",
+      "feedbackError": "O limite prático da aula não cancela a alternativa; ele só mostra por que ela perde agora.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sostener",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "29890fb8-7d4e-4969-b0e8-657cc8d70785",
+      "sequence": 15,
+      "lessonId": "4d1a068c-d2bf-4e86-9575-a9b52951f52f",
+      "title": "Monte a palavra-chave",
+      "content": "<p>Complete a frase em espanhol: Si tuviera que decidir hoy, me inclinaría por una certificación aplicada, porque me __________ seguir trabajando y entrar antes en el área.</p><p>Tradução: Se eu tivesse de decidir hoje, eu me inclinaria por uma certificação aplicada, porque isso me permitiria continuar trabalhando e entrar na área mais cedo.</p>",
+      "contentPlain": "Complete a frase em espanhol: Si tuviera que decidir hoy, me inclinaría por una certificación aplicada, porque me __________ seguir trabajando y entrar antes en el área. Tradução: Se eu tivesse de decidir hoje, eu me inclinaria por uma certificação aplicada, porque isso me permitiria continuar trabalhando e entrar na área mais cedo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A justificativa ganha força quando a escolha aparece ligada ao que ela permite fazer agora.",
+      "feedbackError": "A justificativa ganha força quando a escolha aparece ligada ao que ela permite fazer agora.",
+      "answerType": "buildWord",
+      "expectedAnswer": "permitiría",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

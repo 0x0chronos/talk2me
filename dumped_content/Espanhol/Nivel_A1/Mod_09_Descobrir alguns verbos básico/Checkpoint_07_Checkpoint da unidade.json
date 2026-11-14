@@ -1,0 +1,406 @@
+{
+  "attemptId": "385c85c5-b8aa-4884-9be6-c335a12aa89d",
+  "exercises": [
+    {
+      "exerciseId": "b80715e0-a27b-4442-b291-896bfacf5435",
+      "sequence": 1,
+      "lessonId": "ef0cdcc7-bce2-4d80-a416-3844fb24e34b",
+      "title": "Complete a frase sobre estudo",
+      "content": "<p>_______ biología.</p><p>Tradução: Eu estudo biologia.</p>",
+      "contentPlain": "_______ biología. Tradução: Eu estudo biologia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Estudiar aparece com matéria, curso ou área nas frases desta aula.",
+      "feedbackError": "Estudiar aparece com matéria, curso ou área nas frases desta aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estudio",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "93403746-1e5c-4e76-a5d3-160c341a1274",
+      "sequence": 2,
+      "lessonId": "c321742b-57ef-4be4-be97-4fefbe0df815",
+      "title": "Recupere as falas pelo áudio",
+      "content": "<p>As perguntas e respostas do diálogo são parecidas com as frases-modelo da aula. Ouça com atenção e combine.</p>",
+      "contentPlain": "As perguntas e respostas do diálogo são parecidas com as frases-modelo da aula. Ouça com atenção e combine.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula transforma as frases-modelo em perguntas e respostas curtas de rotina.",
+      "feedbackError": "O diálogo da aula transforma as frases-modelo em perguntas e respostas curtas de rotina.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "e84a7a40-5779-4878-b626-56432b40d6fc",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/15f48cd5f5dc41dba69a78454a278514_dialogo-01-estudias-historia-todos-los-dias.mp3?Expires=1794099449&Signature=rnoJTm43aDW1j7QA6NuWO-umGH11F8QXbnCZYCMoWz3KRqLoMG5je3Ml76fVkfpieWbUgR6YRdX0YiT1wfwtRTSlqiK5d-~fC36gwaKl5tE67sCPj7f9OtZs-9K9eKApwqYvcj3S~zyYYRXMosAbnzl9DkWrcKydv9w5rMEHaThzUw9Ll6F2RpkPUoszR4PrKC-JUAMfutQk4Gv7jvf6qNjq9lY4OhzK9-QUc6gXimFs-D~1PV8pR8Wr2WVTqfhq~0UcmmZBq4jsZW1egtHqlWiWMVRBmjNmnKohaHZmwPWlFV8FNT7t7gTTG5xNjaordlc6rPqpDZvA4AdhjC8iGQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Estudias historia todos los días?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "984f67c5-bef5-465b-badc-ed4d6aff7b77",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8dd633341f264afb9af9666ff081a394_dialogo-02-si-todos-los-dias-estudio-historia.mp3?Expires=1794099449&Signature=D~X4NytGNtbFYCIIehdVyIgCcntCvva89GeKc5l~nwQ0p3eageEFuQILRwW9pBST--c7Pam5UzLgiip0UUw9euFx-MNRZ1Ulk-3ltDGHqvHXK0nNaR6zbYhWoVJL9jq9PMhsizMObInYQxt-C6CNdXwOB1gahaQ5asbUxED2se5kp6tu0fy2fGSU~1erd7W13wxXJJ7y-DNTWJW4Md~72EXDxLz~2Gvg8oMvl6D5gfmu5TSwlxw-5Ib~IJXsW1Jw5Tc8mvkYGWjeEhUAuSvAso4QMD3Pm6T0pVDZk3DDPEPjHmx1GmA-aPQV06WMgf02Wo4bKXF0Ts5PZETuQFHdgw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, todos los días estudio historia.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e84171c1-7315-48ef-ad12-ed398b66f27f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e1380bea43224bd9a04004cd3a2078a2_dialogo-03-hablan-espanol-en-clase.mp3?Expires=1794099449&Signature=ThfeXwUER1E6xoZOwhrB9STRDuLKkePY~2JI22xGyn6j5ELp-6r7JIE-AOJrTx1euqSemi3BBMTxqnACXDZIDqewTvICFfDgqyVRKz47LgzkHnX7nK0Qf7jl07ofDpSEsJydOMrnoSUx~TzbsHGxBXvGzV2YV2KPy1WfA3mZb6gyTRwuO2Suixv0igp2T6CEUYJyzlJ7b3ggckS7igBbJ375a0zxAWCpLDG2WMq-W7bpadkWBu7dXzZjzjvVyz5i8v6j-K4nd1PSWrdsgp~yOCFCUQU9~L4LrjqslzNAakdsNPf~GUgF0Hh0gf8PZ5oOzfuyvvXfKmqGotPhfvjXHw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Hablan español en clase?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a55fc54f-d5d3-4167-bace-f87d840dbbfc",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f0b5acf56db44e5888cdbbf620278976_dialogo-04-si-a-veces-hablamos-espanol-en-clase.mp3?Expires=1794099449&Signature=CvPyTtHRCUYFH6SKwHOEHYUN8iNHGkihvBormylmg8HL64~93R3VdG14hPvtUEOjfanVwPYnDNI2hCPKirflHgHJ01ZMDcirWWQnx6aFSH9-crepEss~p1aCVATPFE7eiCLtrKcwIj70mXJ6SGIyIF~oOYHhdzITW65erSOStJko9nrilikGbOPdfXeUMbk8fW-B0OhMuiR2rrvU~waQxaPPIBIuf6x2tvfngW6ds1h0Hez6Ua25RFIDKp4fCPdXHCF6glA2B1CQ8V6v8bXInaKOuAvHfDcF5nh5IbvOW5q6~xhIedfJRd-Gzp9jvUynIzZ3kllbfdIEE7ds9su7zw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, a veces hablamos español en clase.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "84bc49f5-950b-4511-a6dc-068573eac740",
+      "sequence": 3,
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "title": "Associe frase e padrão",
+      "content": "<p>Relacione cada frase ao padrão de posição mostrado no contraste com <strong>nunca</strong> e <strong>casi nunca</strong>.</p>",
+      "contentPlain": "Relacione cada frase ao padrão de posição mostrado no contraste com nunca e casi nunca .",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a posição de nunca e casi nunca muda a forma da frase, mas não a ideia de frequência.",
+      "feedbackError": "Nesta aula, a posição de nunca e casi nunca muda a forma da frase, mas não a ideia de frequência.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1487da98-6b82-43f8-8183-7d5e894a87a0",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ffa294e4-f10c-4c42-a991-24b0aec50ebd",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "ff82fdfc-01a1-4054-acf1-44cca64f1f10",
+          "leftContent": "Nunca llego tarde.",
+          "rightContent": "nunca antes do verbo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "de02c793-67a8-43e2-896e-8058c3dfa385",
+          "leftContent": "No llego tarde nunca.",
+          "rightContent": "nunca no final com no",
+          "sequenceItem": 2
+        },
+        {
+          "id": "02820aca-9379-4109-981e-6699c637ccce",
+          "leftContent": "Casi nunca cocino de noche.",
+          "rightContent": "quase nunca antes do verbo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c2a81f10-b46d-40dc-a8b4-74ab61b627da",
+          "leftContent": "No cocino de noche casi nunca.",
+          "rightContent": "quase nunca no final com no",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "1ea78aac-d821-4134-863c-2b9016af8f38",
+      "sequence": 4,
+      "lessonId": "ee265336-2440-4659-b216-f1eb479db641",
+      "title": "Monte a forma",
+      "content": "<p>Ellas ______ francés y español.</p><p>Tradução: Elas falam francês e espanhol.</p>",
+      "contentPlain": "Ellas ______ francés y español. Tradução: Elas falam francês e espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, `hablan` marca um grupo observado de fora da fala.",
+      "feedbackError": "Nesta aula, `hablan` marca um grupo observado de fora da fala.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hablan",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c8efd526-a7b8-4586-9a4d-e3d0bc1c6c98",
+      "sequence": 5,
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "title": "Complete o verbo de trabalho",
+      "content": "<p>Marcos _______ en un café.</p><p>Tradução: Marcos trabalha em um café.</p>",
+      "contentPlain": "Marcos _______ en un café. Tradução: Marcos trabalha em um café.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com trabaja en + lugar, a leitura mostra onde a pessoa trabalha.",
+      "feedbackError": "Com trabaja en + lugar, a leitura mostra onde a pessoa trabalha.",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabaja",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e23c556c-8f9a-4f20-a9b6-8c6805c3fda5",
+      "sequence": 6,
+      "lessonId": "9dfdfb75-56c7-4ade-91a5-104ede83bd5d",
+      "title": "Recupere a forma",
+      "content": "<p>¿________ español?</p><p>Tradução: Você estuda espanhol?</p>",
+      "contentPlain": "¿________ español? Tradução: Você estuda espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, `estudias` retoma a terminação `-as` com `tú`.",
+      "feedbackError": "Nesta aula, `estudias` retoma a terminação `-as` com `tú`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estudias",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e6f48fe0-af52-48bd-b85e-0cc1c06da55b",
+      "sequence": 7,
+      "lessonId": "c321742b-57ef-4be4-be97-4fefbe0df815",
+      "title": "Recupere o verbo",
+      "content": "<p>Todos los días _______ historia.</p><p>Tradução: Todos os dias estudo história.</p>",
+      "contentPlain": "Todos los días _______ historia. Tradução: Todos os dias estudo história.",
+      "fileUrl": null,
+      "feedbackSuccess": "A frase de estudo mostra como a ação entra no meio do molde de rotina.",
+      "feedbackError": "A frase de estudo mostra como a ação entra no meio do molde de rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estudio",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "66c902a3-1d40-4458-9d46-9d5c67138b59",
+      "sequence": 8,
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Estudio en casa a ______.</p><p>Tradução: Estudo em casa com frequência.</p>",
+      "contentPlain": "Complete a frase em espanhol: Estudio en casa a ______. Tradução: Estudo em casa com frequência.",
+      "fileUrl": null,
+      "feedbackSuccess": "A menudo pode ficar no começo ou no fim da frase sem mudar a frequência da rotina.",
+      "feedbackError": "A menudo pode ficar no começo ou no fim da frase sem mudar a frequência da rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "menudo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b11abd8a-6f7c-4645-8b4f-ba0b01aee79b",
+      "sequence": 9,
+      "lessonId": "9dfdfb75-56c7-4ade-91a5-104ede83bd5d",
+      "title": "Complete a forma",
+      "content": "<p>_____ portugués.</p><p>Tradução: Eu falo português.</p>",
+      "contentPlain": "_____ portugués. Tradução: Eu falo português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, `hablo` retoma a terminação `-o` no singular.",
+      "feedbackError": "Nesta aula, `hablo` retoma a terminação `-o` no singular.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hablo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "593a7fc7-753b-43e1-8f51-f907740bb37c",
+      "sequence": 10,
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "title": "Complete o lugar",
+      "content": "<p>Marcos trabaja en un ____.</p><p>Tradução: Marcos trabalha em um café.</p>",
+      "contentPlain": "Marcos trabaja en un ____. Tradução: Marcos trabalha em um café.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de trabaja en, o perfil traz o lugar de trabalho.",
+      "feedbackError": "Depois de trabaja en, o perfil traz o lugar de trabalho.",
+      "answerType": "buildWord",
+      "expectedAnswer": "café",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e297d2ac-5828-4702-a498-794abffc1013",
+      "sequence": 11,
+      "lessonId": "c321742b-57ef-4be4-be97-4fefbe0df815",
+      "title": "Monte o verbo",
+      "content": "<p>A menudo _______ en un hospital.</p><p>Tradução: Frequentemente trabalho em um hospital.</p>",
+      "contentPlain": "A menudo _______ en un hospital. Tradução: Frequentemente trabalho em um hospital.",
+      "fileUrl": null,
+      "feedbackSuccess": "A frase de trabalho reaproveita o mesmo molde com outro verbo e complemento.",
+      "feedbackError": "A frase de trabalho reaproveita o mesmo molde com outro verbo e complemento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabajo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "05f0092d-b71b-411a-a071-7ae48fcdf08f",
+      "sequence": 12,
+      "lessonId": "ee265336-2440-4659-b216-f1eb479db641",
+      "title": "Associe situação e frase",
+      "content": "<p>Combine cada situação em português com a frase em espanhol que usa o plural correto.</p>",
+      "contentPlain": "Combine cada situação em português com a frase em espanhol que usa o plural correto.",
+      "fileUrl": null,
+      "feedbackSuccess": "A recapitulação final liga cada terminação plural a uma situação real de uso.",
+      "feedbackError": "A recapitulação final liga cada terminação plural a uma situação real de uso.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0c1fc5c9-7d15-49be-b723-24f48acfd355",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fc4e6be6-ce5a-4ded-b338-88fcee55b612",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "54a1c06c-7d52-4963-bac6-5f090f07afe9",
+          "leftContent": "falar do próprio grupo na universidade",
+          "rightContent": "Estudiamos juntos en la universidad.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "80a7d817-279b-4c16-a40f-72546627a21f",
+          "leftContent": "falar com várias pessoas perto daqui",
+          "rightContent": "Trabajáis cerca de aquí.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7578c66d-92d4-4a2e-ba8b-c267022e87cc",
+          "leftContent": "falar de outras pessoas e dos idiomas delas",
+          "rightContent": "Ellas hablan francés y español.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "7261620f-0574-468b-90b4-e8b634531e2a",
+      "sequence": 13,
+      "lessonId": "ef0cdcc7-bce2-4d80-a416-3844fb24e34b",
+      "title": "Reconstrua as frases pelo áudio",
+      "content": "<p>Ouça os três áudios e ligue cada um à frase certa em espanhol.</p>",
+      "contentPlain": "Ouça os três áudios e ligue cada um à frase certa em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, os três verbos mudam conforme o contexto: idioma, estudo e trabalho.",
+      "feedbackError": "Nesta aula, os três verbos mudam conforme o contexto: idioma, estudo e trabalho.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "e85ae5ca-527e-4bf9-a7b2-15d78037630f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8150bdccda014c94ab7ec7809a6460f9_hablo-ingles.mp3?Expires=1794099449&Signature=zcp6-MCrrhhRbubRLUoSPc3JSbslXK3zFJN42ljaaE6Vco8f317BMwwjHLQDfv4bwvCVwGC4Jle00tbeoWAYa-UnSgRvd6URmZgSuzWeKA14TNlL9Hduw-PKbQKrEjR2ZGZa3ETGMF2RjLKpFhEjiJilh~yNjrwU0SRsYKS53fKjJeW2YKAbP9n1P~v3D-kWdrwNJoIiSCcvo-W-dpo6hD1ty2hdslMwsKufqGtnXuMXsoOTcjWAldi2uGlqnUTtUGj01NGKJXaWCDSFDLRsnqcYrAfhl5sCRui5GnmOqVto1vimZriJj1ZwCmOWzanqtzZNWF-WiRtoIRvu3qVm9Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hablo inglés.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9fea5676-ff14-4294-ac9c-27e33b250907",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/73dfd0648d234aae91ab5aa85fef80fa_estudio-biologia.mp3?Expires=1794099449&Signature=Q~ymqeCI7aDMtXWPT2AMta9zoNMXdfNEaTcgtm93Z6hYPVcn7hH2MvBuhe7BjkCjaBl7BT9tGDETtxhadUb-rvTuS-wHJ3DEhvb0bsy5vk2NDc893bQPUaboOxtGWz7P4u2BCQHnl1nRgAHXBHak23XjF9drXOPQEW5uwil~rcExgTASgcMap6qYaep6jIeaDMZ2GOV6vXEcAs9XRkQij3w9MNeln5B1ZhIuR34q1QJ2lo6FmQXHpxMPTkiJ4OJAaoJ2EXtW3Cll4qbCpvc6lt51c7lc0iryPk0AGZJ3R1bhVY7X9ukWBuivuhOuvG4fX-J9892khfsvj~vLwzPGZA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estudio biología.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "fc41a733-c181-40c4-ab4d-fe76c425d336",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8f13026976c3472b8efe98330ae0ba6e_trabajo-en-un-hospital.mp3?Expires=1794099449&Signature=Y6D-~dc1Zoaz4fsTUtgu0mxUAoW-SqsbzDJ~m8yh~s9396MsWCVGx6ZJ7x2T3fnji9xydsIRQLd~1KRuzcu12cvRhhjlXVXXifX6FYMRCm0YfXHdn4bHRCouamDfoZe~HOOcWdgsmdmcBLMi2yOjx8VRNYLWpiJwgRyzNxW8gvzoQdifQBnvONLZk4NlZ7~WUAgIrRmR8t2Yqdi-pa6VKwbbMFRjjozaoF6Ef0axKVP~OEp6JkhN~g8B~lgjgw2fH2ZPEJP8iTSK4QdTeylwTwNhCFK-QsdUApmdkPqZ9UAkImRlWZzGK~dB2BIjFypVSOLVGWANmhiGhsyOrll4tw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Trabajo en un hospital.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "67e11aae-9e70-49b1-a904-3f8bb2f7daaa",
+      "sequence": 14,
+      "lessonId": "ee265336-2440-4659-b216-f1eb479db641",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute o áudio e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute o áudio e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9cd503aed5d04b1ca76965c124e198c3_b08-trabajais-cerca-de-aqui.mp3?Expires=1794099449&Signature=zgEvwoOFHexrqZIXuDwkMowxPreC3GHgz-jzggUL1W5cdVqn-vPFij1wPoFToDaoDaxM5Twk7cKM5-Wr3YH5MYCM33W5Hw2cCpPOwFAWPZLIhaKmXvi3BhRCILMQB9WJLUFJ~zDYKKOdKs5~UDOruPwN5TLaA2F8pQ~0wJqwRkGRrxcTmSJ5KZYGazm06EjSmrZVt8VXCyKdfEVE7JyHDi9GL8XNjKa~1m0MMnfFSrbmeYupWaDHgy4VKE-2dX1ofFBOViEykwV3LXOV90g9uwDvyEEiNA3-rmPRoEYCbFNh1sozIZ5QRKxe-tj2yLFrXd58Amw5DEyqdH9pP-tkyw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No fechamento da aula, `trabajáis` aparece para falar com várias pessoas ao mesmo tempo.",
+      "feedbackError": "No fechamento da aula, `trabajáis` aparece para falar com várias pessoas ao mesmo tempo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "56474c07-7a78-43de-99b5-aa191c19402f",
+          "text": "aquí",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7f517bae-ce0a-468c-ad31-6eeb1b19ecf3",
+          "text": "biblioteca",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8ff96a87-b625-4381-a195-fde1f2c1e96a",
+          "text": "de",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9e85005e-1c9a-4133-8e98-38f56e8e52b8",
+          "text": "trabajáis",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a7c6d474-de97-4dfe-9db7-279a5b4973cb",
+          "text": "cerca",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b73313e6-814c-43dd-ad70-845b9385d59f",
+          "text": "mañana",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "10ebb884-6d14-4829-a39c-cc538c70e737",
+      "sequence": 15,
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: A _____ camino al trabajo.</p><p>Tradução: Às vezes vou ao trabalho a pé.</p>",
+      "contentPlain": "Complete a frase em espanhol: A _____ camino al trabajo. Tradução: Às vezes vou ao trabalho a pé.",
+      "fileUrl": null,
+      "feedbackSuccess": "A expressão a veces mostra uma rotina ocasional, sem a ideia de sempre.",
+      "feedbackError": "A expressão a veces mostra uma rotina ocasional, sem a ideia de sempre.",
+      "answerType": "buildWord",
+      "expectedAnswer": "veces",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

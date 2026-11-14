@@ -1,0 +1,602 @@
+{
+  "attemptId": "ffa1b92b-8467-4f1a-bd94-492adab43143",
+  "exercises": [
+    {
+      "exerciseId": "f3819238-1b60-4505-8eee-228278b9d23c",
+      "sequence": 1,
+      "lessonId": "8a787c26-4776-4157-aeaa-5899f9a9ef31",
+      "title": "Recupere a ação em casa",
+      "content": "<p>En casa, en cambio, no me parece justo que una sola persona tenga que ________ todo.</p><p>Tradução: Em casa, por outro lado, não me parece justo que uma só pessoa tenha que resolver tudo.</p>",
+      "contentPlain": "En casa, en cambio, no me parece justo que una sola persona tenga que ________ todo. Tradução: Em casa, por outro lado, não me parece justo que uma só pessoa tenha que resolver tudo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A comparação final fecha com a ação concreta que concentra responsabilidade demais em uma pessoa.",
+      "feedbackError": "A comparação final fecha com a ação concreta que concentra responsabilidade demais em uma pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "resolver",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7db1061c-95b2-48a9-9188-fe4732f7fd48",
+      "sequence": 2,
+      "lessonId": "3950a475-9bf5-46eb-9aca-0ccf1286be1a",
+      "title": "Filtre a frase nova",
+      "content": "<p>Marque somente as palavras que você ouvir na nova frase sobre o impacto do mural.</p>",
+      "contentPlain": "Marque somente as palavras que você ouvir na nova frase sobre o impacto do mural.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ed3cae9431945c6a6cee8a3fedd2e8a_c02-yo-no-creo-que-este-mural-arruine-la-calle.mp3?Expires=1794099833&Signature=dPKLCIGqNOL31iUE-aoDHcv1C0vKV7~1uHOxQjEiKrJ4kuuuP4O8Ev2emU27aemdtANNbqusHlWjK~c1whqxqUHN5m4UgQNbS2ysKStrXHzQYVX~X3iQfStRxDgLeWreb23wYD-BO2NiSXldP2-kmMxXescF5MVqmRUyu3zysLHdeDUk3082KnYcCJE6izOVPx-Dtu7tsXDKnGAgBoEK9nUXf7ytZirjx61~wANO9L9MS79EO3q7hUnyey~xJM~q8mxKbd2ztsCuEi59rI9k~qk4V9STGT1woJDVEaicJs7vJ8FE-g59XSjn~6js5K9EC~Fio5xQ0igQcS1fgJYcrA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No desafio, no creo que muda a leitura da ideia e mantém arruine no subjuntivo.",
+      "feedbackError": "No desafio, no creo que muda a leitura da ideia e mantém arruine no subjuntivo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "08e83ac0-5573-4621-9a7e-d5325328d056",
+          "text": "plaza",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2edeb573-26b0-4c1e-ab9a-31ac8912627c",
+          "text": "calle",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "530ad2aa-677c-45fe-bc12-7916cc8b3458",
+          "text": "arruine",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6c68567e-7750-47fd-892b-51884334e87e",
+          "text": "mural",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7d375158-88c1-47a8-ab88-416fba00259c",
+          "text": "pintura",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7ef4ecd1-e89b-43ce-ab1c-1245685de047",
+          "text": "vida",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cf18b4c0-1b91-4e81-bd2f-64b5c31d89aa",
+          "text": "creo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ff4999ea-27b5-49da-8ad6-2344df1d492f",
+          "text": "peguen",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "33b41a12-fafa-4eaf-91b2-ebc9f0f259ad",
+      "sequence": 3,
+      "lessonId": "f2421f1d-1b9e-4cf7-9ee7-9f1c15653d68",
+      "title": "Recupere a obra",
+      "content": "<p>¿Viste el _____ nuevo de la plaza?</p><p>Tradução: Você viu o mural novo da praça?</p>",
+      "contentPlain": "¿Viste el _____ nuevo de la plaza? Tradução: Você viu o mural novo da praça?",
+      "fileUrl": null,
+      "feedbackSuccess": "No diálogo, mural nomeia a obra antes do comentário sobre o efeito no bairro.",
+      "feedbackError": "No diálogo, mural nomeia a obra antes do comentário sobre o efeito no bairro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mural",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9e510c42-2a0c-476e-8570-406ca5076c2d",
+      "sequence": 4,
+      "lessonId": "3950a475-9bf5-46eb-9aca-0ccf1286be1a",
+      "title": "Recupere a reação",
+      "content": "<p>A mí me molesta que lo _____ con carteles.</p><p>Tradução: Me incomoda que cubram ele com cartazes.</p>",
+      "contentPlain": "A mí me molesta que lo _____ con carteles. Tradução: Me incomoda que cubram ele com cartazes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com me molesta que, a reação subjetiva puxa o verbo seguinte para o subjuntivo.",
+      "feedbackError": "Com me molesta que, a reação subjetiva puxa o verbo seguinte para o subjuntivo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tapen",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "449872df-2cd9-4a06-8e51-6dd0b503b7bc",
+      "sequence": 5,
+      "lessonId": "f2421f1d-1b9e-4cf7-9ee7-9f1c15653d68",
+      "title": "Recupere o espaço",
+      "content": "<p>Cuando una obra entra en el espacio _______.</p><p>Tradução: Quando uma obra entra no espaço público.</p>",
+      "contentPlain": "Cuando una obra entra en el espacio _______. Tradução: Quando uma obra entra no espaço público.",
+      "fileUrl": null,
+      "feedbackSuccess": "Espacio público retoma a ideia de lugar compartilhado e visível da aula.",
+      "feedbackError": "Espacio público retoma a ideia de lugar compartilhado e visível da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "público",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "196f0f79-75d7-4fba-bbfa-30ca79778405",
+      "sequence": 6,
+      "lessonId": "eea601ee-22c6-48e1-a38d-4748c3a83700",
+      "title": "Reconstrua o diálogo pelo som",
+      "content": "<p>Escute com atenção e associe cada áudio ao texto certo, sem apoio em português.</p>",
+      "contentPlain": "Escute com atenção e associe cada áudio ao texto certo, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "A conversa inteira passa de abertura a acordo usando as duas fórmulas da aula.",
+      "feedbackError": "A conversa inteira passa de abertura a acordo usando as duas fórmulas da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "b80e7061-702b-4cbf-81bb-a6969e2d37fd",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d5c7f6abf0514967b995f81cb98fd8f4_b06-d01-podemos-hablar-un-momento-de-los-acuerdos-de-casa.mp3?Expires=1794099833&Signature=nff59yKM1DqA0-7lVdYnncmXfzVRsCsvPZSDLxZokDshIb-qucvmtX~ZPdnKauGn-kgvMBwag4S8BcEUJ7R74eqa3UmtVr~Mf5n7gcv-PRNYqYfHJ-FNoTaAN8e2pB485fXX-KavUD6BKKU~-JF~khpOYU04kzTQ3HSyM8L3Z5zBvD7VOaH537JEAt-NNxXu0ScMUnTZut3tFsxMJLJdUIHnkjuxL2fQzrpgrcG7nALUSGzJ1r74X7hDArbId-iKqOTihqyxqScEC98iAx-f7WY9FCTTIxlwqNzAJZ6SsXrC3QEa2Ua98ezdZ2bg-MvdiiysiZVkQMntYcF18c3zdw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Podemos hablar un momento de los acuerdos de casa?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c22f4895-a7cb-4cc2-af62-ab03170372c9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/66dd56c4bf254b79b72a16063ea16fa1_b02-me-molesta-que-dejen-la-cocina-desordenada-despues-de-cenar.mp3?Expires=1794099833&Signature=hwZczS5hEns71PBJ~b-vlP1mbtjgHKSuHKsTVdA0jcJkPjkz5nl-MQ0CyunZVVJoSFgfWjYYTfCRsYNrcfeazCdmRdQa6b2YSjylbUiS1rvZdB5cuDJj2onbULZBu9qqRbrkKvn09rhUGMhrCxMoH3d2q4~tkj2O7CQiNN2~n2BSusrji1alKua-mzq0q3q8~NNDMU6UGwC6npMbuMMg2zF4DPMsL0d54bznbWU~osFNLpqwLWQJAXUHU3laVSba2iWXvvRXQPPp6Lz~-NAUCr5dfPptnoS~WSt0S4m~3mBwozQWDn3TVCnfFB1i8JLBwoyj4zNSjoUmNwrD-MV86Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me molesta que dejen la cocina desordenada después de cenar.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d60acc6c-db28-470b-a4f4-e8bf2e566f3a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b92c9a3701cf4fe09087b55949bbe06f_b04-no-me-parece-bien-que-cambien-los-turnos-de-limpieza-sin-avisar.mp3?Expires=1794099833&Signature=nbKDuyARbg6cxOLzqGZXyBevXcmrLHLVruRQqBVGNnbCaV0vONiFeTmZoeyCGs7iwHINQVyyNZzwFfLYPoyQgH2omeZ~EQWLEy69rj-tafz~FVCt~TMo5mS97LU9G-ZjzduoIda4uCWY8VGOWwB4PlbwkY2jQgwVay17kTV6iGCqjJYzdHzR1QiTrSocG~9BrVWi98rLyP7HiVu7HxmHjv3YNWlu9hkIeRqTCMQycUUtkPyan3HOv7QIhnXuuBdI2VAxGvNU6gi1-n-MBpgV-g2qAeC2VHldOc6O6DIwV1A2dO5KoL-KonIDfHT0jXM2sA3bR03DcYZUw-F0tfx2IQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No me parece bien que cambien los turnos de limpieza sin avisar.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "6ba93387-f2e9-4dd0-a633-74400718b8c9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fb5a8643416e404cb886b5f2ff8766b4_b06-d05-entonces-mejor-dejamos-todo-por-escrito.mp3?Expires=1794099833&Signature=W2-aXbY5rZpDYhlaJyBKZvNKVDf5VHTK1aMSqY-w3Dimmelp39gDWUoeuu1lJE4MPR9mtESEFKNhgAHSYjyq7RHs8R3bL8h7DHr8GVMEm7rzLulFKLI7~ufA2R-RntQFi5th3AKYoSmOhRmkmNK-NbCDFKRtqB1FY1DV2e904wuSkRG7MQuIo6Q3MlcCUY35F4O1sbiHqXAir-6Q3EHuqUFUAfterP-yAkkPhHSe5yjdnUYXcwKtxX3wCMlM70b6v-TXIwjdlr7rMAZ-lhVdz1hREv53mCe86MJ5-hVwnWDZaVp0zTWLjYVQPwNNgiThtyZREv09tNRCqsSLCVhMnA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Entonces, mejor dejamos todo por escrito.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "e4eac34d-9381-45a2-87ef-fcd2599aa146",
+      "sequence": 7,
+      "lessonId": "eea601ee-22c6-48e1-a38d-4748c3a83700",
+      "title": "Filtre as palavras da regra",
+      "content": "<p>Escute a frase completa e marque somente as palavras em espanhol que você ouvir.</p>",
+      "contentPlain": "Escute a frase completa e marque somente as palavras em espanhol que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b92c9a3701cf4fe09087b55949bbe06f_b04-no-me-parece-bien-que-cambien-los-turnos-de-limpieza-sin-avisar.mp3?Expires=1794099833&Signature=nbKDuyARbg6cxOLzqGZXyBevXcmrLHLVruRQqBVGNnbCaV0vONiFeTmZoeyCGs7iwHINQVyyNZzwFfLYPoyQgH2omeZ~EQWLEy69rj-tafz~FVCt~TMo5mS97LU9G-ZjzduoIda4uCWY8VGOWwB4PlbwkY2jQgwVay17kTV6iGCqjJYzdHzR1QiTrSocG~9BrVWi98rLyP7HiVu7HxmHjv3YNWlu9hkIeRqTCMQycUUtkPyan3HOv7QIhnXuuBdI2VAxGvNU6gi1-n-MBpgV-g2qAeC2VHldOc6O6DIwV1A2dO5KoL-KonIDfHT0jXM2sA3bR03DcYZUw-F0tfx2IQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No me parece bien que... avalia uma mudança de regra sem virar acusação genérica.",
+      "feedbackError": "No me parece bien que... avalia uma mudança de regra sem virar acusação genérica.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "08d915dc-ce62-41d3-9eb0-b252470d79d2",
+          "text": "limpieza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1644b574-9f18-43eb-91c5-791df38f495b",
+          "text": "cocina",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "287417f4-01f7-49c0-9d7a-908ac313c73a",
+          "text": "cenar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "369d6cfd-24a6-443a-b2e9-be99d92099a9",
+          "text": "escrito",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5b18f34b-29c5-40d6-ae6d-1f2f57fc0836",
+          "text": "avisar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7975d968-628e-444e-adb5-b3a250d0291c",
+          "text": "preocupa",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b28e422e-4049-4372-a34c-e5d6fadbb179",
+          "text": "cambien",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ccebde4d-f0db-4894-8cc6-9ca7ac9913b0",
+          "text": "bien",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e8e0e22d-eb03-4f38-a9ad-a034ce9380ea",
+          "text": "turnos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eda27bbb-a8c0-42eb-bb15-cb9d9abda72e",
+          "text": "parece",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "a20828aa-421a-45e8-8aaa-dac07ddba521",
+      "sequence": 8,
+      "lessonId": "8a787c26-4776-4157-aeaa-5899f9a9ef31",
+      "title": "Ouça a comparação completa",
+      "content": "<p>Marque só as palavras que você identifica no fechamento que junta opinião pública e opinião privada.</p>",
+      "contentPlain": "Marque só as palavras que você identifica no fechamento que junta opinião pública e opinião privada.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/eec09ded986a405f83aca3f11963608e_phase4-b07-comparacion-entre-barrio-y-casa.mp3?Expires=1794099833&Signature=qqAUaEuzmfmXkGoD7JlLNDgRNxG4ug022pDaBqn3Otu70kBgchm6FfmdUtcBp8EplWVbr4uujzJP5Fvi9saAoIhEqwo983ET71OwolYQgPhi4gTJ0fmU9yKBhFVGuevTdPHrglHTLJ4US4eROCO8u-4aFOCQqqHboc6pq4ieYpW1nZGhMK0T1NkwcUp26sWcLHTdPQCtGFPfvmmPMKNns~aH82y-KIWAESmyrgdknrn9xqQkITw74S6n1mUtgYoi9cLF2Tn9jwAs7VxoKLvvNPpKfAwtggw4We~WHMpZohaMUP5CFZjiJgss0oHa8lHLdLJSL3Pb7k2RgRqHKGEXOA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O fechamento da aula junta os dois domínios com a mesma lógica de avaliação e contraste.",
+      "feedbackError": "O fechamento da aula junta os dois domínios com a mesma lógica de avaliação e contraste.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1ae2f64c-4ed7-46c4-bee8-f97860a08177",
+          "text": "barrio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "25292e91-cf97-4166-9ec6-d320fe00c8b4",
+          "text": "familia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "34e7a0c0-9b63-4142-910e-82f66d168615",
+          "text": "persona",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5ef2543a-2325-4884-bc01-d9d8b167294c",
+          "text": "resolver",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "60fc2160-d685-4fc4-8d37-a42ff20404d9",
+          "text": "casa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "68c8fcaf-a13c-4337-a46a-4e42845f6344",
+          "text": "turnos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "900dcaad-b4b5-4830-86e1-c72066796650",
+          "text": "alcaldía",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a10f0094-48f2-4612-a219-ab288d9ae076",
+          "text": "cocina",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b36b4edc-1846-47b0-bc45-43d64382d55e",
+          "text": "murales",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "ce7e3d6d-485e-4e0b-a711-316576979168",
+      "sequence": 9,
+      "lessonId": "eea601ee-22c6-48e1-a38d-4748c3a83700",
+      "title": "Complete a ação que incomoda",
+      "content": "<p>Me molesta que _____ la cocina desordenada después de cenar.</p><p>Tradução: Me incomoda que deixem a cozinha bagunçada depois do jantar.</p>",
+      "contentPlain": "Me molesta que _____ la cocina desordenada después de cenar. Tradução: Me incomoda que deixem a cozinha bagunçada depois do jantar.",
+      "fileUrl": null,
+      "feedbackSuccess": "No bloco da cozinha, o foco do incômodo recai sobre a ação concreta.",
+      "feedbackError": "No bloco da cozinha, o foco do incômodo recai sobre a ação concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "dejen",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "88402dea-a999-4c73-b169-907b18c816ff",
+      "sequence": 10,
+      "lessonId": "3950a475-9bf5-46eb-9aca-0ccf1286be1a",
+      "title": "Recupere a dúvida",
+      "content": "<p>Yo no creo que este mural _______ la fachada del edificio.</p><p>Tradução: Eu não acho que este mural estrague a fachada do edifício.</p>",
+      "contentPlain": "Yo no creo que este mural _______ la fachada del edificio. Tradução: Eu não acho que este mural estrague a fachada do edifício.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com no creo que, a aula afasta a ideia e ativa o subjuntivo em arruine.",
+      "feedbackError": "Com no creo que, a aula afasta a ideia e ativa o subjuntivo em arruine.",
+      "answerType": "buildWord",
+      "expectedAnswer": "arruine",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "65962453-b862-4de8-ba72-ac73fa0a49b7",
+      "sequence": 11,
+      "lessonId": "f2421f1d-1b9e-4cf7-9ee7-9f1c15653d68",
+      "title": "Reconstrua comentários novos",
+      "content": "<p>Associe cada áudio a uma frase nova que reaproveita o repertório da aula em contexto real.</p>",
+      "contentPlain": "Associe cada áudio a uma frase nova que reaproveita o repertório da aula em contexto real.",
+      "fileUrl": null,
+      "feedbackSuccess": "O último desafio recombina mural, espacio público e intervención urbana em frases novas sobre efeito no bairro.",
+      "feedbackError": "O último desafio recombina mural, espacio público e intervención urbana em frases novas sobre efeito no bairro.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "826b7012-f093-476d-a0e0-e566aca45ea9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5d69cdf23306410e8e26fe35d533b4eb_c05-el-mural-vuelve-mas-visible-la-entrada-de-la-plaza.mp3?Expires=1794099833&Signature=0RXhCnR6~ae-Sssp2nJ30evc90KQtGU3A5t0T7S1zijlsxU7qtRLZwSAWZ~WRv7vrHu61Syb4OnqOZIdtSgbTzNn~lCpdk5yYXAsGcOhrW-i49XClfb3pbWasOINZslAQQmzbzv8BTOk4o-2v9INav30w7kVO9png1b8CgZSkasK8QP6AHNTlEwMIIhci68tGrMjKTsSsXUrpQrXegAimvkg4pjNCvSHV6YzFYTlHC0TwhlrF6xb5Bpg-eMe0FcHxeGwDh8Qe6Zxx-WIwWZ~YEqzMUVIVog-uVr-reo-YToIUjlsUSLGbdRsX8kyDjEsBvgV6qxp1PHY8ON3Iw4bNA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El mural vuelve más visible la entrada de la plaza.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "624bfdbe-465c-4895-a6af-10c71939cb51",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f45ab3b3792649baa06909b482e07349_c05-ahora-esa-pared-forma-parte-del-espacio-publico-del-barrio.mp3?Expires=1794099833&Signature=hd3~u~XCicOhcUZ1X5ENLRPKuOlEMTLCZekIMKevGHOkg0RUPjt~6SSyC0KIaeFOeg13HECumrgqgN1P0waqjR5EtRIqo4Im22WNR43pxzjKQ1xexXdS1q6F8Nk3yCnT1ok8rqWTm9P5iYhOnCsOSKJkvij6oHtNYJxElWmNEY4eRyIJH3AcV1LKYL1qnWLecl5vcKWcwgRrrq98pZn835dhACfayYSI4-1XO-seE6lPgRV80FZiN2DgBuIHV-9H6kecDQj0J7OVg4mriu1NOXI7YXXxV9ZjLshIE38WksnKNQmoZj5M4-KglECkY6hzdcfk4vYMlJ0BnhxbvjtAYA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ahora esa pared forma parte del espacio público del barrio.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ccc38caf-b0bd-4636-8359-11a71acf8902",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/df3f0d41d2c749cc83ad5c8fb0fd4619_c05-la-intervencion-urbana-cambia-como-se-mira-ese-rincon.mp3?Expires=1794099833&Signature=XL0JCYiUUv1WgLzoYa56LCN4gxfSOV4cjHdgAu958i5gZkjfgq5rx5UAUt2NQf5QiV2wZKaGR8q7PHoHSFvwgNY6xjm9zyiR4X0~FI5oaOYwURaxZ47eczX00OeN6A8v~rYW~a2t1mAHfvuT~vje22QVsobagcucv9T5bEux5nEJzpc5lIs31MhrQ4ac0cLUgWAYSk8xsL~xW2YtcYhFQjd1U0evgKPJ7W-o9OWXrMhRfASArIiLTm8TyiWb0-GMm7-ktDTUoXlY-K8nqh~m1OOzNo4tLpSeRD~jcSoNWO0i3Qk1yw2Yj1nzPkY7vnmEt0GgDjP1EbtFR7j8XLAELA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La intervención urbana cambia cómo se mira ese rincón.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "77c6e738-c7c8-4906-b07c-34bc78bcc09a",
+      "sequence": 12,
+      "lessonId": "a5281c91-178c-4b7d-b8da-454df7acfa1a",
+      "title": "Reconstrua as opiniões da aula",
+      "content": "<p>Associe cada áudio à sua frase completa correta, sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio à sua frase completa correta, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "A reconstrução final junta diversidade familiar, escolha de vida e reconhecimento social.",
+      "feedbackError": "A reconstrução final junta diversidade familiar, escolha de vida e reconhecimento social.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "9deeef6e-e50a-4f68-8c9d-154de050c884",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1a8579b790db4f49ac95a10617cf32ac_c05-hoy-existen-modelos-familiares-muy-distintos.mp3?Expires=1794099833&Signature=hoAj-AVp1dxaoli9wJ80k7U2uQvJal48E0u4ZJH4DGo01-hUrNkMm6g6HHA~TZ46dz5WXrKMGuusELw97VH0XxSXZEOLdAxy-~kaWbdVaIcgYa-VhaWgLlZufLGh1pLHaFemFvWofsQHmU2BFCIrSfpqlIjS~S2etItx9wTFSRkhMzMCEzFr9yR5XVNv3d8NbDdBN8qln3L4MRFAMMphRHf3rTcW01x6nY-y44i~RhI-~uxYN7YcnRGhAQ64yCihD7d6OZw1DTvoZycZG3UKmgS5p~KOef8BGmhlS1~MbU7IdtK01UiTwL6sqSkDWRaq5ziTAKywdey-NpP2Jqjd9A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy existen modelos familiares muy distintos.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9b60669e-e8a6-4195-9611-8db581f58205",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ca289f6cefbc4b23a9bced61df4c4a94_c05-no-creo-que-una-familia-monoparental-sea-menos-estable-por-definicion.mp3?Expires=1794099833&Signature=rzzLPNWGcViP77BOM13myHiNKZMaC20ilg~lLXbZSxoV5pAtN-g7nJrLZLUjpnbQKwe3mMvV~FFQWOzWB-E~6PlKeEkCsF4lBPX5pawMfTeYvYw~DzodqNMJzXBZoQ85LJQZtYf9U38TC~l~KHizvrqhotAHNp6B9G5tp4GjCveTReDpVjgiOMM019skTZo2dhbwsH~OQWv0F1JATyVq1jx5UE6J5O0vWMuYmB6A0WSzoMRdKJQO~8Uo5KU1lJQuqDNGy69xVErkEH0BLhea2zd-D8rM3Z1Rz~BJt~JJ7S9xAYYAsucsYsZI1NMoG7fd4NAnpQqlOmlQyx93tmsblA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No creo que una familia monoparental sea menos estable por definición.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6a72f3ac-f168-4260-88b4-c9edc335d386",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9c7ec9e002bb444eb76d40b86b7f8f4f_c05-es-normal-que-una-pareja-sin-hijos-organice-su-vida-de-otra-manera.mp3?Expires=1794099833&Signature=VKsPKJrP5VI7pCAtFGX2XtmhJpuki-JVq7ObA~90MivPReSe2z1kl2SmLWWkbve-rjZYy0XVgVCRIk9BrVfVHFz9UZtZgXC0MUk7Iqs9Fe1M1Bj3WuxU8OXd39M8yi08fFSduiXTId0wsIdIjgId4ZHjwFsWJnmmq0uqRSxRmaGXDImjE87hD7X1~Nm1k8mlLpiFaaXVVIcNSN~jz4ZOmAYA~zGHNksXt4ST4RWKErRofUAeK5uyGEm3jqNKkCh4Hm5ExA1dmVbqt5qTl1U-yShn-xgWu~I1x-uiTGAIkhpIIqzxZ-WiFwxcvuAr5Ddj6plZi3AJvT~JOihhLwKhqg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es normal que una pareja sin hijos organice su vida de otra manera.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "04138831-e9b5-48da-bb65-e94342d30655",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7139d25d24f2407cb06e56a0bf419682_c05-me-parece-bien-que-el-matrimonio-igualitario-tenga-la-misma-visibilidad-que-cualquier-otra-union.mp3?Expires=1794099833&Signature=OrKAXNCR9i~GCyC~mH7BroKw~28WtXgscMjtl4mLNLFm1JsOct81IZtPgCnennxYO6EA9BGI66XuEd-E7cnPRdH5gN9ZxQpkctpivs2Evgfkw02sOHPzLt4WbGzg-H0RMz0im~uTw8v5x-7q1Q552XlELOAiOcD9-4rLV8Xtepci1nExLsnznGWxgp1C1waxn-BQbmOncY0-My2vUklIjidedmBfcECYEtXYrFo4aKoGWX0GM-n7lGrcvlErC6St7kDzogH58gnof~V9zZs805evQCNYRu-g9VWR3S2WxYC1WGRpayefFOZhoQHAdEp-7O-clG7V0lTOIeLONSFm6A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me parece bien que el matrimonio igualitario tenga la misma visibilidad que cualquier otra unión.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "3e6cb7a0-6cbd-4636-981c-e03e79e455f9",
+      "sequence": 13,
+      "lessonId": "a5281c91-178c-4b7d-b8da-454df7acfa1a",
+      "title": "Recupere o modelo familiar",
+      "content": "<p>No creo que una familia ____________ sea menos estable por definición.</p><p>Tradução: Não acho que uma família monoparental seja menos estável por definição.</p>",
+      "contentPlain": "No creo que una familia ____________ sea menos estable por definición. Tradução: Não acho que uma família monoparental seja menos estável por definição.",
+      "fileUrl": null,
+      "feedbackSuccess": "Familia monoparental ajuda a nomear a estrutura com precisão na opinião.",
+      "feedbackError": "Familia monoparental ajuda a nomear a estrutura com precisão na opinião.",
+      "answerType": "buildWord",
+      "expectedAnswer": "monoparental",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "321edd69-250e-47fd-bd01-d0c4b9afa6bc",
+      "sequence": 14,
+      "lessonId": "8a787c26-4776-4157-aeaa-5899f9a9ef31",
+      "title": "Reconstrua o diálogo por partes",
+      "content": "<p>Associe cada áudio à sua linha correspondente sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio à sua linha correspondente sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo recompõe a mesma opinião em dois domínios antes da integração final.",
+      "feedbackError": "O diálogo recompõe a mesma opinião em dois domínios antes da integração final.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "a79a7461-560b-4f7e-9ab7-1060900b7939",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ca6c639fa908416785494c8a564e96c2_phase4-b06-d01-que-piensas-de-los-murales-nuevos-del-barrio.mp3?Expires=1794099833&Signature=ox~g9Y-BmvpXy~qEtT24Dhhq6MC9U-Lkl85btHmaD3eCiaYQiDMxqJ9pF7zls-DNnlATr3vzEAB5g16cwRWDeIu5I9tr6karYD1pdJDg8jjZbRKckcXd-AMexIi58vCYyyUP64AuCShLZgoPP8diE~Rkqbkn4YRiGkzcKrJ4AwiDZqh8jZl1u9Rz9c7tMgcVhm4RlvpGWQgdH903JDVplukBLDEEExZ1i00WI1a-6wchuF-hkvHfDDyoa64e6e2ROp0hlLQuZ53jsioO1vH-6Bx-y3NI6jRCDzl8DUmY1g3yosEZFUKtuLrfCQUWkzQUKHC-gXyXmHN~dg~OQUOIxw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Y tú qué piensas de los murales nuevos del barrio?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d80e9a53-24c0-437f-acce-16857114b0d7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5424abb9a6b64e31b906aa954264f2d5_phase4-b06-d03-y-en-casa-tambien-hay-algo-que-no-te-parezca-justo.mp3?Expires=1794099833&Signature=Hu940WQG9SFEV9rPwFsqKOPCUFxLg0BjgRjHv6Y9kodXWyp2rpkgnKChSjFnRFq2659VA1HQ7beIm-q6sWFHJzBa~Uy4BOLWQg-88~HbB4GmKNtoFc2Oo~wnVzkyR8C6Fw~2dqZ-GG72L6Etc8u4WYv-PQcxdBZyFi9ETz7w4G9K3mCBAw5pmJDO72apOmJg~AxopimeyF0VjHpFK~vWZfEFyZb8gelZdVBD3Z1mERBaBgK5ZgaYeP1ai4wgLta-YqOL-AB92yyaQK-PAiSohn10A8MHfGgmHlawIaPxcaIvI373yZktJpzqmZXD~h9Mv5n-3TxgJyRJiRlBEP8xrQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Y en casa también hay algo que no te parezca justo?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "233e75ca-0860-4cf8-b5b4-dfec9a9115fd",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0955c19399ef4203a07bbc88b80eea97_phase4-b06-d05-entonces-en-publico-valoras-el-cambio.mp3?Expires=1794099833&Signature=SdChW8sTKK~myZhP1tpocFIOwwVjHin3Ma7cf-F1dLHRcXr1ivOnTtBffo5~CTpHkfMyKCvgzgFAv3sWyhTOSHKYjPhvERGuW4NkPRWYwvOAJAdf6MOKJf2gf0RFoMEKlVPX6rnEeDZTVyfnu-8IzdOoaFvM8qp9CoN7XfiLnygpccn1t2~g91kMHjzfS20bBBwC2s9L4F2rdjX2BdlrQouIzWpzFGV3R82mnrz8WRWeS~POs1XH71klQrtEXtcpXnLMpFAgzYf3v4CbDdJyOfsB95cyATRGN37tYAOWqSCySVDhY-G58ztd3pplw-rrNMgD~ys3bJqcP-p2Om8LTA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Entonces, ¿en público valoras el cambio, pero en privado te importa cómo se reparte todo?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "45e78f5b-22f8-4397-92d6-5daf2ff574b3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bfc12bda21184761bbfef589d476454e_phase4-b06-d06-exacto-me-gusta-que-el-barrio-cambie.mp3?Expires=1794099833&Signature=gZpJ84IY-0T-jBwwYF5KeC6nTBV-g~cM7f6raWAk1CRNMZaRhOuUL~-YYD2RfGkOWNjeVWSARYaw-fWuJOxmdolhWn0DN07HfM6sfSm893SH2N6z2qyMFPtgU9MlgLE4RRczWffoU92Yi8UV93XvzxNmZHcL49gS~gXwuRQe3ZW-R9JkvwGbVgbZJzuo~BAFmpjBmrJ0vGwRN7UbZmTUUwCwNM08~bpe0pj1zFIqx3URDLouogIZ30h5KIafLvtUYHD3M7Ejp6-Q334Wvay1KkbxZii7XYZCzFTcwCPbDTfg3dqR07nQX1dncgvnoMGs81vEGF2Sb3MN9LND~Z8vtQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Exacto. Me gusta que el barrio cambie, pero no me parece justo que una sola persona tenga que resolver todo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "521633be-4b09-4f2c-a42b-06671a7950ed",
+      "sequence": 15,
+      "lessonId": "a5281c91-178c-4b7d-b8da-454df7acfa1a",
+      "title": "Filtre as palavras da fala mais densa",
+      "content": "<p>Marque somente as palavras que você ouve na terceira fala do diálogo.</p>",
+      "contentPlain": "Marque somente as palavras que você ouve na terceira fala do diálogo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a5e2e5cc3dc3439b864ca52f1ef48f23_b08-dialogo-linea-03.mp3?Expires=1794099833&Signature=AKCpRoVqxyE4oMv5y-xK7RyxJ~11VpJVIubFnLPzPGafyF7v47zVtv-u6BOum2T92XHJmifLW8wsRbjF5AnkM3eyMJPIlW2Qe2YjH4zlHzWPdQUxKws9wkpaUWoCZIzPPIlU-3cw0L~YJX~3Wxphx166veJvp8pdEiYXPohYuRUvyBlyUEpbQMF4pnKKK0zPEH0cCFD1Bxu0NtBul3SsEcBa7-uNPw5sE4BYACzsgtBuaEVRza509sz8mTEooUTrup6sMFwBjoTmbuKxQ0PGO2T7kNjsRuoX5erSeoctGvLahdvvpNkU4RXt3xgisCA-0x9lIfIA7dJp7LTnGjEdLw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Essa fala trata pareja sin hijos como escolha de vida sem julgamento automático.",
+      "feedbackError": "Essa fala trata pareja sin hijos como escolha de vida sem julgamento automático.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0297be9e-a960-4b72-8d9c-41fed75082b7",
+          "text": "normal",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "0f0dff55-7c3c-40fb-9f21-e90ae02caba9",
+          "text": "explicaciones",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "21a5939b-59a4-433e-9a81-628b5b5e8cf7",
+          "text": "respeto",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6c5a9ece-6cb2-482d-800b-1fd50e344df4",
+          "text": "parece",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9fa24ae6-9ca0-4f57-ba30-5902cc64e552",
+          "text": "hijos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a3f30c5a-38fd-406e-a9e0-0f31fc61d199",
+          "text": "parejas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "af061c58-8cfd-450a-9df1-5acea0605a1f",
+          "text": "prefieren",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b0f6fb05-ddcb-4a6d-a880-b3717e02c171",
+          "text": "visibilidad",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c8b4eb0e-f775-4c3f-9906-eab0e51883cc",
+          "text": "además",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d5a61e6f-3d93-45b9-a5ba-c8ae9184baea",
+          "text": "estable",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+    "attemptId": "37227321-eb52-43ee-9a78-739ef2b60a35",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "f552f3b0-8e37-425e-b621-c5c26d1944ab",
+      "ebfd321b-f8d6-4ba8-b1bc-656b795cd16a",
+      "a4f8fa32-168c-4c81-aeba-3800e13d2a07",
+      "72112d12-76d1-48ba-953a-1bf6445df5f8",
+      "666c902e-219b-4935-8ed7-b4fe35ef4aff"
+    ],
+    "evaluationExerciseIds": [
+      "956a105f-1c3c-432f-a5ce-27870e9698c7",
+      "1d0a24ed-f851-467d-b95b-0253e2bb30c3",
+      "833b2870-fd95-41e9-a957-d1815f0b6584",
+      "5fd35320-81c3-48b1-ae83-28140c743616",
+      "7851e930-c3a4-4e47-a5af-d45bbfe7e71f"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:17.4130013Z"
+  },
+  "contents": [
+    {
+      "id": "48cc4cb1-96c6-4aa8-9e23-72709d9d02f8",
+      "title": "Leia o mapa curto e observe que tipo de precisão esta aula vai acrescentar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "90ccdec4-a8b8-4b0e-8f0d-f292fd3c35fc",
+          "textContent": "<p>Na aula anterior, o foco estava em comentar o quadro com mais ou menos certeza.</p><p>Agora o passo útil é outro: transformar um mal-estar genérico em informação mais precisa sobre <strong>o sintoma</strong>, <strong>o alívio</strong> e <strong>o tratamento</strong>.</p><p>Esse tipo de linguagem ajuda quando você fala com alguém de casa, com uma farmácia ou antes de uma consulta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "530e478f-070f-41f7-9b35-93ae65de3fc2",
+      "title": "Escute e leia a frase. Note como ela soa mais concreta do que um mal-estar generico.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "fedb5926-11c9-4c55-8f79-2cf258bef46c",
+          "textContent": "<p>Primeiro, nomeie o mal-estar com mais precisao.</p><p><strong>Se me revolvio el estomago.</strong></p><p>Em portugues: <strong>Meu estomago embrulhou.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/aa747e4fbe2c42058a66a36044595873_b02-se-me-revolvio-el-estomago.mp3?Expires=1794099918&Signature=J5GP3a7JVGfJLgc5y5SFGStbMU8jqr8hNDvW-d6NtnDwWBWrYoh2wXQQPaBrxmOEj-7ol9iC3JB6w6hYMLi0m55xdal1ARz-yPHK-ia2cY1iLVCr~v5nsQfJoghAGMlxud4pWmVX1JhJJFMpUjMMiLDF2kso1nal2KqngWVWXs-1LkPsiGpXeQFF6x3rkb~5Ea8AOI9s4dC3m6U0EcU5PnE8YIZdesfbNl2bgBZPAXBolMDulxtFjfTvwiGapdsIt20mdChTCwt814GnOmkcfvm6hikGwu13uC1WKLeBcPHtyZYnAw9OcsKDuefYoysWJO5tHf-oMCb6ZBBB2Ks2yw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "00d1952e-afcc-4db4-a59b-d110f165a52a",
+      "title": "Leia a nota curta e observe que a frase descreve uma reacao do corpo, não um diagnóstico.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "3f5683cf-3014-4760-8f6d-9a7984db3498",
+          "textContent": "<p><strong>Se me revolvio el estomago.</strong> costuma aparecer quando o incômodo surge de repente, muitas vezes depois de comida, movimento ou nervosismo.</p><p>A frase descreve a reacao do corpo. Ela ainda não fecha um diagnóstico nem fala de tratamento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f653858d-cb28-44a0-90b8-3be70ca8aa11",
+      "title": "Escute e leia a frase. Repare que o quadro agora fica mais localizado no corpo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "9610a072-482c-4e10-9fd4-93683f6f457c",
+          "textContent": "<p>Agora o quadro fica mais localizado.</p><p><strong>Tengo la garganta irritada.</strong></p><p>Em portugues: <strong>Estou com a garganta irritada.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/28e5e58a0f2240cdb90582714e9de087_b04-tengo-la-garganta-irritada.mp3?Expires=1794099918&Signature=UXyu8KrOo4ScFi96OYUtk~r0nUPGLYejctRADqedp-Vd5A3mNflc3vML0erB~rRxxFViRidbJX0dsnyeU~bZnT8JuKXB6DqUQkS2WUrTMQ~dEQ1lrhvorMkgsnhrMWzLCvWPzrzu2XIidNdUA85cmSrrG4OPw6KvJHaJUCKr10T9JZiPgG-9K89dws1~TNtZPo~3Y5ExS4YaTLlQFGh0FA6XmGYl9TxAOhQ45RJpiA~FN4P9Q1XXIGGpfALVo2eLdm06356CtM-dYHm3vIOBJC~Wttprghp5hH9y9I3oiM-kZFtqiuwY6n8JaRJ7Si~e3gJUOAEvoT18clDH-Zlatw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "95d47f66-8ab6-4112-a123-429eb031b29e",
+      "title": "Leia a nota e observe que a palavra nova descreve o tipo de incômodo, não só o lugar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "c2a1a2f2-23ef-4b95-90bb-900452e97c0b",
+          "textContent": "<p>Com <strong>la garganta irritada</strong>, você não diz apenas <em>onde</em> sente algo. Você também sugere <em>como</em> esse incômodo aparece.</p><p>Essa escolha é útil quando arde, raspa ou incomoda ao falar, mas ainda não precisa soar como uma dor intensa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "dc4102c1-b7f6-4098-8b84-601235d06096",
+      "title": "Escute e leia a frase. Note que agora o foco sai do sintoma e vai para o efeito do remedio.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "7c58cb8f-09d5-462f-9051-bdd29b885c46",
+          "textContent": "<p>Agora o foco passa do sintoma para o efeito do remédio.</p><p><strong>Es un analgesico; me alivia el dolor.</strong></p><p>Em português: <strong>É um analgésico; ele alivia a dor.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/59813f231ba042f9a4daad35c1eba2c9_b06-es-un-analgesico-me-alivia-el-dolor.mp3?Expires=1794099918&Signature=E~RDGNJbouAdP-3ZvSxbbQg2A9~rObi9fsj3N~knxG3~ZD4V0MCh4gk5E5fwVuXT3PfKNH3giP0KtaCDRwHzjwXmNy3wpLa1c7ISrgm7iAfMjBXCP4ktrLOmFqeskq2h6SMdQ8p7ZUefHTCfN0P6rrgPDRCmEmyaevDc-rleQTaTijyxrtywY9KqEgx15EbSGbkUyjvJGeX0fxgFoprup0s-u-~OVDcKN1-qntKh7mPjVMa-TMGWks4bdqEqQhHFO9X7GpZj7tctsGyVXqsHsL~X~149RUs9Nm7SwtLxOR59BuxidWjuHm2cuN~t3hVyKh~0NVRNkSPzozBAGjlKdQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1817b8d5-0f84-4277-b32e-4f2bc103c4ce",
+      "title": "Leia a nota curta e observe o que a frase informa e o que ela ainda não informa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "4234c1d3-6ed8-41b4-8a7e-7e763c8a9df7",
+          "textContent": "<p><strong>Me alivia</strong> fala do efeito que você sente no momento: o desconforto baixa, mas isso não significa que o quadro já esteja resolvido.</p><p>Essa distinção é importante em espanhol quando você quer soar preciso ao falar de remédio e tratamento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "743c86ec-91eb-4ca2-854b-e3fff57c3306",
+      "title": "Escute e leia a frase. Note que agora a informacao nao fala do sintoma, mas da regra para obter o remedio.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "5e0fdb7d-70d4-4192-a73f-f1b67891a5ce",
+          "textContent": "<p>Nem todo remedio entra na mesma categoria pratica.</p><p><strong>El antibiotico requiere receta.</strong></p><p>Em portugues: <strong>O antibiotico exige receita.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6896cc376fd84d39a7e9fd2a75a87e4c_b08-el-antibiotico-requiere-receta.mp3?Expires=1794099918&Signature=THrtitSX5qelQk7ACnpCoQsJaQ7y7BTcBNhljj12xVZwT0T6HL2owf0XueaK~tgX70tHPD8NeIAhpQFxVbC6tE7riDzpsBAgaKIzZfz720r1I7UEGOBUd9A4D6QP9VBHAbf4f0JOUbhk8VT~NuF9n8JXKRIj9NiRywKmGWC89xE-oCu3FTN7dO9PDqv00dX2WwL8FRoZFLRqoL6l~gQ~wBzzO1lFhB~kRaPde3ZETQve-xD-cD1FNlBcdEEtHkdEVRlwv-ZT6CA9CMr~6qE4ClV~dhix90-HKdkyOiC-ZAobqnx85E7J68QP2Vin8nhafCf5WW63BZGL~4U7YApdlw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0af10711-782f-453f-890d-e184722ea1a2",
+      "title": "Compare as duas ideias e observe que elas respondem a perguntas práticas diferentes.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "438ada49-5381-425a-96f3-e9d27e045ba8",
+          "textContent": "<p><strong>Me alivia</strong> responde ao que você sente depois de tomar algo.</p><p><strong>Requiere receta</strong> responde ao que você precisa fazer para conseguir esse medicamento.</p><p>Assim, você separa <strong>efeito</strong> e <strong>acesso ao tratamento</strong> sem misturar as duas informações.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4223b35c-aed0-4e29-831a-39f075d9a1d1",
+      "title": "Escute e leia o resumo final. Observe como os blocos da aula entram em uma atualizacao plausivel.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "987d35f4-4c7f-4b8e-8cd5-23da8ed57860",
+          "textContent": "<p>Em uma atualizacao real, essas pecas costumam aparecer juntas.</p><p><strong>Desde anoche se me revolvio el estomago y hoy tengo la garganta irritada. El analgesico me alivia un poco, pero me dijeron que el antibiotico requiere receta, asi que si sigo igual voy a pedir cita.</strong></p><p>Em portugues: <strong>Desde ontem a noite meu estomago embrulhou e hoje estou com a garganta irritada. O analgesico me alivia um pouco, mas me disseram que o antibiotico exige receita, entao, se eu continuar igual, vou marcar consulta.</strong></p><p>Esse tipo de resumo funciona num chat com alguem de casa, numa farmacia ou ao explicar por que voce ainda precisa de atendimento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3b58410a761b4dfa9cb17431c7aef4e3_b10-recap-sintomas-y-tratamiento.mp3?Expires=1794099918&Signature=q5zRkFCIz3epbkR3pVObYYnzzRCK9akfTddenoAWRi5Wg-r3uUuE98r2f3mlKNHhCbeivUgU90LUDeR~aMPM2~BPuUlnlPlRbK-7xzPAKTjBz0gi5xulcJpwKBjRLk8WGUAq6hlw87l6d7WFpFbFRlH~xetO45WjfFq8ggkFrUfoTRp6AKmf83Zxa6Ac6n2v~xrgKzNX7oYKAuDBktmlTNar1OiILdVAF-2MRAf62eYIrbrCQ5Xq5h9xn6f2DQLUDZYrRx3Kcd1LNLck8urkCQIPfL1g82eK7UjDHcCDbvr4bge1wlmvwnnITtRCEnzB7kJ44qKOG6H3osbZCdCWHw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "81060cab-cb73-4fb7-bebc-53dd810cc9c7",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "c6a795af-2567-468c-943b-40ae8f6d56cb",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4a50eab83f844b6ab5d9758af6409727_MEC-IDIOMAS_CAP_3_-_AULA_03_ESP.mp4?Expires=1794099918&Signature=guab2I4N4evd4j~aNpI6GslnTdArud819duFEmqQ8SDUNnXl33fGQRO6vUdBGR2zNvdAoKiRL2CJm7COHowvfpjD~vYeP4yxDuu-kEREnvDgOGAKEclQhN820QRr3Syk7~hlM8cn0Ptqn5GfOZoCzH8RFGbQA-3b~-WL1KO01vTn8Tg~sEx6YQSy~McsoihRtdT4VHEAfsnRnp88x5t71Yx6kAUxXLSYaKjjzDdE9WBzB4ImLdqZRFzLWm4uScdXxXu9kpr1iVNoDybLlQnqv4cZjtI4ugYoUGaQl3hlrNfQ6il3AGGYLzpyEw5Rvna3fxC-Psre0MzrsBkP~XAkxg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4a50eab83f844b6ab5d9758af6409727_MEC-IDIOMAS_CAP_3_-_AULA_03_ESP.mp4?Expires=1794099918&Signature=guab2I4N4evd4j~aNpI6GslnTdArud819duFEmqQ8SDUNnXl33fGQRO6vUdBGR2zNvdAoKiRL2CJm7COHowvfpjD~vYeP4yxDuu-kEREnvDgOGAKEclQhN820QRr3Syk7~hlM8cn0Ptqn5GfOZoCzH8RFGbQA-3b~-WL1KO01vTn8Tg~sEx6YQSy~McsoihRtdT4VHEAfsnRnp88x5t71Yx6kAUxXLSYaKjjzDdE9WBzB4ImLdqZRFzLWm4uScdXxXu9kpr1iVNoDybLlQnqv4cZjtI4ugYoUGaQl3hlrNfQ6il3AGGYLzpyEw5Rvna3fxC-Psre0MzrsBkP~XAkxg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "f552f3b0-8e37-425e-b621-c5c26d1944ab",
+      "title": "Escute e ligue as frases",
+      "content": "<p>Revise pela escuta as quatro frases centrais que organizam sintoma, alívio e receita.</p>",
+      "contentPlain": "Revise pela escuta as quatro frases centrais que organizam sintoma, alívio e receita.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta reapresenta as frases-base que sustentam a precisão lexical da aula.",
+      "feedbackError": "A escuta reapresenta as frases-base que sustentam a precisão lexical da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "c2b4b41c-b1f0-410f-a455-dd3507bb0b45",
+          "exerciseId": "f552f3b0-8e37-425e-b621-c5c26d1944ab",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6cea21350f074cea8d5b01e53a0b36c8_b02-se-me-revolvio-el-estomago.mp3?Expires=1794099918&Signature=zHU4pb28JX0QWWQEv3affsbQ5XkmYIckfT9YixxWIPiIMzYTcULx0gYmLk7YeDDeB4I5GzXXO5H8f2~50dN5ZNvh8JROeg0cy9Bhc5Fn-1dAXFufmxZzRhY6i6hLdwgTHh-5TYO89CyPweoZYMDZ3HK1d9ZG2JJNsu0Xn4tWvNBLbrhU8h5b9fzz5WLDcgeK4wJ2f0ROYKTVqVnzZcc1a3ZQXhjmleQTFR6AViciUqFYhcO0geDG1cZfNJW6bWvM7tB3Mok0qn1dtHE4lml9lmp0euhKl7Y1nnHdn-q8hZZEFd~eNAhuX7Pda1CJlx1NJLDedREQ7S70X123oE8AMg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Se me revolvio el estomago.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "756a0638-f8da-4b98-9673-6d499229891e",
+          "exerciseId": "f552f3b0-8e37-425e-b621-c5c26d1944ab",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1313521e8b0a459e99a4964afd8aa8aa_b04-tengo-la-garganta-irritada.mp3?Expires=1794099918&Signature=ZK26xFayM0voU5Vfapt8q5NyWGx0Qed3Jr1cs7EyvjdhCnRB7-PdyE53cOArhKkF8~aT-lON5hbsFhLBZDgrklZz5bXF506GHad8veY1vIo3jQp-owyRqrwFhKqsSomzbmgITsslYZx0uSaAHkeKoWrt5uoPK-w7uAEcVuKflq1kVVjklZjNmj5iPvDZUeByU7YchwZpWsw0LdPcRuc44E5apaIR94iwrIeurdTok01nHJ~ouCPxjJVWVoIlv2FZp4T~w0mtU8pZXGUufro8CcyV2AtmIPDn7j2GrwgpgsAHdEcAbZztwxzhxzNUQmiD0FyXgafSjRvclsUGD4mAUw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo la garganta irritada.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "58dff6db-f0b8-4214-8b59-b67bf48f6a9c",
+          "exerciseId": "f552f3b0-8e37-425e-b621-c5c26d1944ab",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/22f7707c58fd4710bd5316689d21cf1f_b06-es-un-analgesico-me-alivia-el-dolor.mp3?Expires=1794099918&Signature=rL4FlaKfxEKzti6bSJclIukXf27oabvhOIM7dyIFt47nZuShelR4AWlNGpFHFejpVGXthmZ2W4hgg06GbnYXqSb5jijfICOBHegMht00ZB~H6t-jdGrYmcLUpmQQPObbDQq1J~FalJjMCP2I9Kh9e5viQJSNLXMD8f8LsBYNGbUu0o~R-EMcAJlDCRdPTuUvWVugLKL5CZos2xGTd7asUQcGF8YlVFIeHHaawwJGnqc8uXyrZpfFzFxxVy0gNqyHbwM3zGeei-YzexBX0tkkpRyoWs2bX89gdBE2ZV68aEXccVs7zGi256bLAYCVcGBl~uH5IDUPAHiP1somFy9-WA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es un analgesico; me alivia el dolor.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a016bdc4-eaaa-49d6-a90b-7b49bdf70a81",
+          "exerciseId": "f552f3b0-8e37-425e-b621-c5c26d1944ab",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/647ad67dfff447f1a070f2d9929070c1_b08-el-antibiotico-requiere-receta.mp3?Expires=1794099918&Signature=N3lNmMfIvSolJg1u9ezhCU5BaTNNTX3Uii3J43ky7tJq7UX5ileEgYK9qRP7X9-hwbEZao1b-WMVsS96qDQm0-uqHKfxycewiBZJrbm7e92-00GBznxwoxxJX5wdTifqGStCxcfSe032rZgvn1XtmN6jwJ8JMzRbyUj-ECbLuJQSWvbD1HvS-fJ7fbkLIUHEDagTadmFfRf6FQ96PA9U~0EK7KSH6jSmtH-O2Ycua4QLWygnlZP97j55A87EKGH3Jc~ch7Ij7KNL6dEiOYU9R2IG9c2ZHIPdH9a3GvAqZYhtxpoLpZVn4BFaWMA6b~3dtmIWHuW2DqbT6Ptp03awHQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El antibiotico requiere receta.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "ebfd321b-f8d6-4ba8-b1bc-656b795cd16a",
+      "title": "Filtre a frase sobre alívio",
+      "content": "<p>Selecione apenas as palavras que pertencem ao comentário sobre o efeito do remédio.</p>",
+      "contentPlain": "Selecione apenas as palavras que pertencem ao comentário sobre o efeito do remédio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/22f7707c58fd4710bd5316689d21cf1f_b06-es-un-analgesico-me-alivia-el-dolor.mp3?Expires=1794099918&Signature=rL4FlaKfxEKzti6bSJclIukXf27oabvhOIM7dyIFt47nZuShelR4AWlNGpFHFejpVGXthmZ2W4hgg06GbnYXqSb5jijfICOBHegMht00ZB~H6t-jdGrYmcLUpmQQPObbDQq1J~FalJjMCP2I9Kh9e5viQJSNLXMD8f8LsBYNGbUu0o~R-EMcAJlDCRdPTuUvWVugLKL5CZos2xGTd7asUQcGF8YlVFIeHHaawwJGnqc8uXyrZpfFzFxxVy0gNqyHbwM3zGeei-YzexBX0tkkpRyoWs2bX89gdBE2ZV68aEXccVs7zGi256bLAYCVcGBl~uH5IDUPAHiP1somFy9-WA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui o foco é ouvir alívio como efeito do remédio, não como tratamento completo.",
+      "feedbackError": "Aqui o foco é ouvir alívio como efeito do remédio, não como tratamento completo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "41570edc-f530-4920-b3f9-6bb2ed09f23f",
+          "textContent": "dolor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ebfd321b-f8d6-4ba8-b1bc-656b795cd16a"
+        },
+        {
+          "id": "4ae31e5c-4f99-47d5-8fdf-8af8fc6d2066",
+          "textContent": "alivia",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ebfd321b-f8d6-4ba8-b1bc-656b795cd16a"
+        },
+        {
+          "id": "75f1a8ab-0fed-4aa7-8376-de4cdefa5d3c",
+          "textContent": "garganta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ebfd321b-f8d6-4ba8-b1bc-656b795cd16a"
+        },
+        {
+          "id": "aef3b7ba-5558-4868-a361-df59c729d160",
+          "textContent": "antibiotico",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ebfd321b-f8d6-4ba8-b1bc-656b795cd16a"
+        },
+        {
+          "id": "b8a557a5-503f-42f6-ace2-de792b353cbb",
+          "textContent": "receta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ebfd321b-f8d6-4ba8-b1bc-656b795cd16a"
+        },
+        {
+          "id": "f94a5883-e2ca-4923-9437-f0be74cf338e",
+          "textContent": "analgesico",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ebfd321b-f8d6-4ba8-b1bc-656b795cd16a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a4f8fa32-168c-4c81-aeba-3800e13d2a07",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase que localiza o incômodo com mais precisão.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase que localiza o incômodo com mais precisão.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1313521e8b0a459e99a4964afd8aa8aa_b04-tengo-la-garganta-irritada.mp3?Expires=1794099918&Signature=ZK26xFayM0voU5Vfapt8q5NyWGx0Qed3Jr1cs7EyvjdhCnRB7-PdyE53cOArhKkF8~aT-lON5hbsFhLBZDgrklZz5bXF506GHad8veY1vIo3jQp-owyRqrwFhKqsSomzbmgITsslYZx0uSaAHkeKoWrt5uoPK-w7uAEcVuKflq1kVVjklZjNmj5iPvDZUeByU7YchwZpWsw0LdPcRuc44E5apaIR94iwrIeurdTok01nHJ~ouCPxjJVWVoIlv2FZp4T~w0mtU8pZXGUufro8CcyV2AtmIPDn7j2GrwgpgsAHdEcAbZztwxzhxzNUQmiD0FyXgafSjRvclsUGD4mAUw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta repetição ativa uma descrição localizada e mais precisa do sintoma.",
+      "feedbackError": "Esta repetição ativa uma descrição localizada e mais precisa do sintoma.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Tengo la garganta irritada.",
+      "typeSpecificData": "{\"expectedText\":\"Tengo la garganta irritada.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/1313521e8b0a459e99a4964afd8aa8aa_b04-tengo-la-garganta-irritada.mp3?Expires=1794099918\\u0026Signature=ZK26xFayM0voU5Vfapt8q5NyWGx0Qed3Jr1cs7EyvjdhCnRB7-PdyE53cOArhKkF8~aT-lON5hbsFhLBZDgrklZz5bXF506GHad8veY1vIo3jQp-owyRqrwFhKqsSomzbmgITsslYZx0uSaAHkeKoWrt5uoPK-w7uAEcVuKflq1kVVjklZjNmj5iPvDZUeByU7YchwZpWsw0LdPcRuc44E5apaIR94iwrIeurdTok01nHJ~ouCPxjJVWVoIlv2FZp4T~w0mtU8pZXGUufro8CcyV2AtmIPDn7j2GrwgpgsAHdEcAbZztwxzhxzNUQmiD0FyXgafSjRvclsUGD4mAUw__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "72112d12-76d1-48ba-953a-1bf6445df5f8",
+      "title": "Ligue frase e função",
+      "content": "<p>Associe cada trecho em espanhol ao papel pratico que ele cumpre ao descrever sintomas e tratamento.</p>",
+      "contentPlain": "Associe cada trecho em espanhol ao papel pratico que ele cumpre ao descrever sintomas e tratamento.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula separa sintoma, alívio e acesso ao tratamento com vocabulário mais preciso.",
+      "feedbackError": "A aula separa sintoma, alívio e acesso ao tratamento com vocabulário mais preciso.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "32f05558-750c-4eae-a9fd-4c725700eaad",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "72112d12-76d1-48ba-953a-1bf6445df5f8"
+        },
+        {
+          "id": "ffefde13-9696-4629-a563-fdd3d262786a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "72112d12-76d1-48ba-953a-1bf6445df5f8"
+        }
+      ],
+      "associations": [
+        {
+          "id": "2a2bcdd3-375d-4c58-af8d-82b5b59d63a8",
+          "exerciseId": "72112d12-76d1-48ba-953a-1bf6445df5f8",
+          "leftContent": "Se me revolvio el estomago.",
+          "rightContent": "mal-estar digestivo que apareceu de repente",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2d761b69-3ffe-482e-b3aa-ff4584b75fb4",
+          "exerciseId": "72112d12-76d1-48ba-953a-1bf6445df5f8",
+          "leftContent": "Tengo la garganta irritada.",
+          "rightContent": "incomodo localizado na garganta",
+          "sequenceItem": 2
+        },
+        {
+          "id": "9574140c-4542-465f-968c-7458cc4eaccd",
+          "exerciseId": "72112d12-76d1-48ba-953a-1bf6445df5f8",
+          "leftContent": "Me alivia el dolor.",
+          "rightContent": "efeito percebido depois de tomar algo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "53b6ca45-ad65-4422-aed2-bf3dc06dac0f",
+          "exerciseId": "72112d12-76d1-48ba-953a-1bf6445df5f8",
+          "leftContent": "Requiere receta.",
+          "rightContent": "acesso ao medicamento depende de receita",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "666c902e-219b-4935-8ed7-b4fe35ef4aff",
+      "title": "Separe efeito e acesso",
+      "content": "<p>Qual frase em espanhol informa uma regra prática para obter o medicamento?</p>",
+      "contentPlain": "Qual frase em espanhol informa uma regra prática para obter o medicamento?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é separar efeito do remédio e regra para obter o medicamento.",
+      "feedbackError": "Aqui o foco é separar efeito do remédio e regra para obter o medicamento.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0d861339-743c-4189-b430-31dce9a53aa3",
+          "textContent": "Es un analgesico; me alivia el dolor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "666c902e-219b-4935-8ed7-b4fe35ef4aff"
+        },
+        {
+          "id": "2b71a1b8-fdab-4155-858d-ee178ba7a317",
+          "textContent": "Se me revolvio el estomago.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "666c902e-219b-4935-8ed7-b4fe35ef4aff"
+        },
+        {
+          "id": "70526b1a-7f26-427f-b6ec-0241b17ebcd0",
+          "textContent": "Tengo la garganta irritada.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "666c902e-219b-4935-8ed7-b4fe35ef4aff"
+        },
+        {
+          "id": "911ec619-dd80-45e2-8c0a-0e2174a29ed0",
+          "textContent": "El antibiotico requiere receta.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "666c902e-219b-4935-8ed7-b4fe35ef4aff"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "956a105f-1c3c-432f-a5ce-27870e9698c7",
+      "title": "Recupere o efeito do remédio",
+      "content": "<p>Complete a frase em espanhol: <strong>Es un analgésico; me ______ el dolor.</strong></p><p>Tradução: É um analgésico; ele alivia a dor.</p>",
+      "contentPlain": "Complete a frase em espanhol: Es un analgésico; me ______ el dolor. Tradução: É um analgésico; ele alivia a dor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar alívio como efeito percebido, não como cura da causa.",
+      "feedbackError": "Aqui o foco é recuperar alívio como efeito percebido, não como cura da causa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "alivia",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1d0a24ed-f851-467d-b95b-0253e2bb30c3",
+      "title": "Filtre o recap pela escuta",
+      "content": "<p>Resolva apenas pelo áudio e selecione as palavras que fazem parte da atualização final de saúde.</p>",
+      "contentPlain": "Resolva apenas pelo áudio e selecione as palavras que fazem parte da atualização final de saúde.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7b5627043acc4cee826fbdca3b2a4681_b10-recap-sintomas-y-tratamiento.mp3?Expires=1794099918&Signature=CQpKfMsBMGoToIRdc8AJ0AjZXArEA1J70HYO4VJpEro6xT10iCB1QneV0tO4Hbzp4sfkOzn4k5W84U1CnTa2RZh9AmolThdl7BJ3yOn8kqKTsxYNWtCZcGJCeW3pagyDLr34s8oVHfPB8MG2mrpkrHHjCUjTr1E9Ayvlk-Uo1e0Xxp4X7aCmJMJBnurMkK19iplUpaA9K2HoyDPTzpEGDxa7Vb4mS3K5zkwxNrpJBrCrB~79wk9kureDN1cwkkPfUOQ5g1YLyAuQlY5IkkfI5NK8Or1NctrGai3Hu4sAMDqHiwlWYLL5q7XnRWFvUI5moZle0kMp2khUXQYEzpgCUg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap integra sintoma, alívio, receita e próximo passo numa fala única.",
+      "feedbackError": "O recap integra sintoma, alívio, receita e próximo passo numa fala única.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "15a5e399-060d-4ff5-8c1d-38c0dbe04dfc",
+          "textContent": "estomago",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1d0a24ed-f851-467d-b95b-0253e2bb30c3"
+        },
+        {
+          "id": "1bf1ba0c-53d0-4394-b984-94e9f642ae71",
+          "textContent": "receta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1d0a24ed-f851-467d-b95b-0253e2bb30c3"
+        },
+        {
+          "id": "60c551cf-e9ad-4b5b-b184-bfb53041648b",
+          "textContent": "anoche",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1d0a24ed-f851-467d-b95b-0253e2bb30c3"
+        },
+        {
+          "id": "6b3ed6e4-243c-458c-abf3-6529120fe4ca",
+          "textContent": "analgesico",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1d0a24ed-f851-467d-b95b-0253e2bb30c3"
+        },
+        {
+          "id": "9df38cea-77a1-4f92-87a0-b58ce2506ffa",
+          "textContent": "mareo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1d0a24ed-f851-467d-b95b-0253e2bb30c3"
+        },
+        {
+          "id": "a5b39ad2-b0de-46d3-8415-0a5cde588d97",
+          "textContent": "jarabe",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1d0a24ed-f851-467d-b95b-0253e2bb30c3"
+        },
+        {
+          "id": "b44463cb-1a56-414d-bdd9-af48cb623af7",
+          "textContent": "irritada",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1d0a24ed-f851-467d-b95b-0253e2bb30c3"
+        },
+        {
+          "id": "da48a08c-feae-4b7f-aec1-b4b0e73667d1",
+          "textContent": "cita",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1d0a24ed-f851-467d-b95b-0253e2bb30c3"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "833b2870-fd95-41e9-a957-d1815f0b6584",
+      "title": "Recupere a qualidade do incômodo",
+      "content": "<p>Complete a frase em espanhol: <strong>Tengo la garganta ________.</strong></p><p>Tradução: Estou com a garganta irritada.</p>",
+      "contentPlain": "Complete a frase em espanhol: Tengo la garganta ________. Tradução: Estou com a garganta irritada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a palavra que ajusta o tipo de incômodo na garganta.",
+      "feedbackError": "Aqui o foco é recuperar a palavra que ajusta o tipo de incômodo na garganta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "irritada",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5fd35320-81c3-48b1-ae83-28140c743616",
+      "title": "Recupere o verbo do sintoma",
+      "content": "<p>Complete a frase em espanhol: <strong>Se me ________ el estomago.</strong></p><p>Tradução: Meu estomago embrulhou.</p>",
+      "contentPlain": "Complete a frase em espanhol: Se me ________ el estomago. Tradução: Meu estomago embrulhou.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a forma que nomeia a reação repentina do corpo.",
+      "feedbackError": "Aqui o foco é recuperar a forma que nomeia a reação repentina do corpo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "revolvio",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "7851e930-c3a4-4e47-a5af-d45bbfe7e71f",
+      "title": "Reconstrua pela escuta",
+      "content": "<p>Resolva sem apoio em português, distinguindo sintoma, alívio, receita e próximo passo só pelo áudio.</p>",
+      "contentPlain": "Resolva sem apoio em português, distinguindo sintoma, alívio, receita e próximo passo só pelo áudio.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula combina quadro, alívio, receita e próximo passo numa atualização plausível.",
+      "feedbackError": "O fechamento da aula combina quadro, alívio, receita e próximo passo numa atualização plausível.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "bf5d2ef8-26b5-41f8-9109-1aca6bf9121e",
+          "exerciseId": "7851e930-c3a4-4e47-a5af-d45bbfe7e71f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6cea21350f074cea8d5b01e53a0b36c8_b02-se-me-revolvio-el-estomago.mp3?Expires=1794099918&Signature=zHU4pb28JX0QWWQEv3affsbQ5XkmYIckfT9YixxWIPiIMzYTcULx0gYmLk7YeDDeB4I5GzXXO5H8f2~50dN5ZNvh8JROeg0cy9Bhc5Fn-1dAXFufmxZzRhY6i6hLdwgTHh-5TYO89CyPweoZYMDZ3HK1d9ZG2JJNsu0Xn4tWvNBLbrhU8h5b9fzz5WLDcgeK4wJ2f0ROYKTVqVnzZcc1a3ZQXhjmleQTFR6AViciUqFYhcO0geDG1cZfNJW6bWvM7tB3Mok0qn1dtHE4lml9lmp0euhKl7Y1nnHdn-q8hZZEFd~eNAhuX7Pda1CJlx1NJLDedREQ7S70X123oE8AMg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "se me revolvio el estomago",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8c89c37f-8880-4802-af03-25493fc24a1d",
+          "exerciseId": "7851e930-c3a4-4e47-a5af-d45bbfe7e71f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1313521e8b0a459e99a4964afd8aa8aa_b04-tengo-la-garganta-irritada.mp3?Expires=1794099918&Signature=ZK26xFayM0voU5Vfapt8q5NyWGx0Qed3Jr1cs7EyvjdhCnRB7-PdyE53cOArhKkF8~aT-lON5hbsFhLBZDgrklZz5bXF506GHad8veY1vIo3jQp-owyRqrwFhKqsSomzbmgITsslYZx0uSaAHkeKoWrt5uoPK-w7uAEcVuKflq1kVVjklZjNmj5iPvDZUeByU7YchwZpWsw0LdPcRuc44E5apaIR94iwrIeurdTok01nHJ~ouCPxjJVWVoIlv2FZp4T~w0mtU8pZXGUufro8CcyV2AtmIPDn7j2GrwgpgsAHdEcAbZztwxzhxzNUQmiD0FyXgafSjRvclsUGD4mAUw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "tengo la garganta irritada",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0bd90c61-ed8a-4c2f-8844-a362e0559334",
+          "exerciseId": "7851e930-c3a4-4e47-a5af-d45bbfe7e71f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/22f7707c58fd4710bd5316689d21cf1f_b06-es-un-analgesico-me-alivia-el-dolor.mp3?Expires=1794099918&Signature=rL4FlaKfxEKzti6bSJclIukXf27oabvhOIM7dyIFt47nZuShelR4AWlNGpFHFejpVGXthmZ2W4hgg06GbnYXqSb5jijfICOBHegMht00ZB~H6t-jdGrYmcLUpmQQPObbDQq1J~FalJjMCP2I9Kh9e5viQJSNLXMD8f8LsBYNGbUu0o~R-EMcAJlDCRdPTuUvWVugLKL5CZos2xGTd7asUQcGF8YlVFIeHHaawwJGnqc8uXyrZpfFzFxxVy0gNqyHbwM3zGeei-YzexBX0tkkpRyoWs2bX89gdBE2ZV68aEXccVs7zGi256bLAYCVcGBl~uH5IDUPAHiP1somFy9-WA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "me alivia el dolor",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a9556355-bd70-40b2-a8d3-1afce6a1bef0",
+          "exerciseId": "7851e930-c3a4-4e47-a5af-d45bbfe7e71f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/647ad67dfff447f1a070f2d9929070c1_b08-el-antibiotico-requiere-receta.mp3?Expires=1794099918&Signature=N3lNmMfIvSolJg1u9ezhCU5BaTNNTX3Uii3J43ky7tJq7UX5ileEgYK9qRP7X9-hwbEZao1b-WMVsS96qDQm0-uqHKfxycewiBZJrbm7e92-00GBznxwoxxJX5wdTifqGStCxcfSe032rZgvn1XtmN6jwJ8JMzRbyUj-ECbLuJQSWvbD1HvS-fJ7fbkLIUHEDagTadmFfRf6FQ96PA9U~0EK7KSH6jSmtH-O2Ycua4QLWygnlZP97j55A87EKGH3Jc~ch7Ij7KNL6dEiOYU9R2IG9c2ZHIPdH9a3GvAqZYhtxpoLpZVn4BFaWMA6b~3dtmIWHuW2DqbT6Ptp03awHQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "el antibiotico requiere receta",
+          "sequenceItem": 4
+        },
+        {
+          "id": "146440ba-dab4-4c9f-8863-5a8d665eadc5",
+          "exerciseId": "7851e930-c3a4-4e47-a5af-d45bbfe7e71f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7b5627043acc4cee826fbdca3b2a4681_b10-recap-sintomas-y-tratamiento.mp3?Expires=1794099918&Signature=CQpKfMsBMGoToIRdc8AJ0AjZXArEA1J70HYO4VJpEro6xT10iCB1QneV0tO4Hbzp4sfkOzn4k5W84U1CnTa2RZh9AmolThdl7BJ3yOn8kqKTsxYNWtCZcGJCeW3pagyDLr34s8oVHfPB8MG2mrpkrHHjCUjTr1E9Ayvlk-Uo1e0Xxp4X7aCmJMJBnurMkK19iplUpaA9K2HoyDPTzpEGDxa7Vb4mS3K5zkwxNrpJBrCrB~79wk9kureDN1cwkkPfUOQ5g1YLyAuQlY5IkkfI5NK8Or1NctrGai3Hu4sAMDqHiwlWYLL5q7XnRWFvUI5moZle0kMp2khUXQYEzpgCUg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "si sigo igual voy a pedir cita",
+          "sequenceItem": 5
+        }
+      ]
+    }
+  ],
+  "title": "Descrever sintomas e tratamento com mais precisao"
+}

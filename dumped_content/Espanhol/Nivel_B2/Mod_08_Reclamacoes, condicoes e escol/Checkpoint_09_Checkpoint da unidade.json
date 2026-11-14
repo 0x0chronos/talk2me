@@ -1,0 +1,656 @@
+{
+  "attemptId": "d9079b41-2e86-45ba-910b-9bdf74b45c75",
+  "exercises": [
+    {
+      "exerciseId": "4eda5150-c534-4e40-b063-18b8074972cc",
+      "sequence": 1,
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "title": "Recupere a funcao",
+      "content": "<p>El sistema sirve para ___________ la bicicleta y registrar el trayecto.</p><p>Tradução: O sistema serve para destravar a bicicleta e registrar o trajeto.</p>",
+      "contentPlain": "El sistema sirve para ___________ la bicicleta y registrar el trayecto. Tradução: O sistema serve para destravar a bicicleta e registrar o trajeto.",
+      "fileUrl": null,
+      "feedbackSuccess": "Desbloquear é a primeira função do sistema: liberar a bicicleta com o código.",
+      "feedbackError": "Desbloquear é a primeira função do sistema: liberar a bicicleta com o código.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desbloquear",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "fb2da16d-c7ba-46f6-b1a1-f8a9b933cabf",
+      "sequence": 2,
+      "lessonId": "b5329a3d-2a37-4d93-ba95-5b31d9129db7",
+      "title": "Escuta integrada da resposta",
+      "content": "<p>Sem apoio em português, marque só as palavras que aparecem na resposta que primeiro traz a condição e depois a solução final.</p>",
+      "contentPlain": "Sem apoio em português, marque só as palavras que aparecem na resposta que primeiro traz a condição e depois a solução final.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/865c2251abf34941b2028c30d7e3316b_c01-siempre-que-presentes-el-comprobante-si-el-defecto-persiste.mp3?Expires=1794099749&Signature=Q5ZnPEHtvmJ7y8faJA3nXtkvbb~H7ptRad~mGGtmCCOwV43fdw8zi5wPLAjRsl2EQ8BLLHH~0ED4pkoMkD9axSkSw9SB62iFaXiTSGg4M07DMEwCqjvLhasK~iL69D0XKbxREKPssa-8W5TwBQOCApMhm3zlUfwEuYrZenwP2gumbuXfLPG~HIFKbLky7JeDqgBrBg6~bWkzPKgUE~XUw1byPQLUrClei9xkOzUKz0jmTcXDbwrw9VfOSAH9uW-B0Ik99-xtl5TZpbXB-ehlzNMNW1FPXHQuejq6mlVwdP3hx5P8zTlp4hlDUqbUN51cwgzXMopqItqjuG8U-ZuKfg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A resposta integrada junta a condição de atendimento com a consequência final.",
+      "feedbackError": "A resposta integrada junta a condição de atendimento com a consequência final.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1562a4c4-50a6-44ea-bc2c-067f32fcb5b5",
+          "text": "dinero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6d707b06-df8d-4b09-a252-a5a0065b339a",
+          "text": "devolvemos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "75dd163c-b727-4503-b6bf-932a78aad487",
+          "text": "persiste",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "84840898-be06-4d2e-aa9f-d02f7a3c48c7",
+          "text": "defecto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8be3891a-b318-44b2-9cd1-d7a400418bdb",
+          "text": "licuadora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a5c841e4-a398-42e1-9feb-31c1da0d2cca",
+          "text": "fábrica",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ad5671d0-0427-4dc9-b912-ff506437b3cd",
+          "text": "revisarla",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c37c7011-1027-43be-8f7d-2ce8475847c7",
+          "text": "cubre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "dbd4cf41-1669-4bca-8918-64d6f3942739",
+          "text": "comprobante",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "edc10b1b-b5d1-4b88-9d7f-a9f57dcdcd78",
+          "text": "presentes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "efcce304-6218-49ec-8671-33f059497a55",
+          "text": "hoy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "55be8c58-18fb-417c-820e-ff71be08c07c",
+      "sequence": 3,
+      "lessonId": "39d133ef-cbb7-4266-8d63-ad771ed9a05c",
+      "title": "Ouça a linha sobre reembolso",
+      "content": "<p>Selecione só as palavras que você realmente ouve no áudio novo.</p>",
+      "contentPlain": "Selecione só as palavras que você realmente ouve no áudio novo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/20b5fb250a1441648007e11490daba06_ex04-si-la-devolucion-esta-aprobada-el-reembolso-se-procesa-por-el-mismo-medio-de-pago.mp3?Expires=1794099749&Signature=T1OTccz4IY8ddNVqsjbagklDM1Yy1gFKdawXp0QIm~EHljX3oLwQ8PDtFuhSt1q9Yg6P-6m4OBkWb~8nZdxZchVWmJZMBXarK9BOpPoNg9659kGVtiCT9W1INUh6csy4xs6RsiAMMBIpkJ2S9x5SokNDoKYPoPjjuNWTpuuIHSh7KJ3asUbAHD92zP44VyIt428ZBdrlAoXwdfjvzF0JLjgbT8o6PKNVcBY~HLPx~Q8C6xzGdH-dL5A9QWMttO561FFAxI3b67w49bBjs30d1S5LLXC-pm~NU-3BOuDba-F4APLZ-352clI-I83TCBirpf6ZnBiNlIeVUFaJG~-HDw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A parte final da política explica o que acontece depois que a devolução é aprovada.",
+      "feedbackError": "A parte final da política explica o que acontece depois que a devolução é aprovada.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "107b3a6e-d83d-45cf-aeea-75d971057e50",
+          "text": "mismo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "54693f33-402a-49cf-861f-28d6ace66895",
+          "text": "reembolso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8452f33d-953b-4b64-ad34-fa448154a3db",
+          "text": "garantía",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b511c000-d829-4e82-9c81-2311fbfd8366",
+          "text": "medio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c51a0694-af26-4141-b0f6-b339680618c2",
+          "text": "devolución",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d2e5ba93-40b8-493b-ba15-b90af5c8cbd7",
+          "text": "tarjeta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f09835cf-c517-4c03-a145-ccae53d7c080",
+          "text": "aprobada",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fb9cc323-c6cf-4022-9507-2b1da99fbabf",
+          "text": "pago",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "135ee58a-48c6-435e-9c80-2583ad291d4f",
+      "sequence": 4,
+      "lessonId": "39d133ef-cbb7-4266-8d63-ad771ed9a05c",
+      "title": "Recupere a excecao",
+      "content": "<p>Los productos en oferta no admiten devolución, salvo si llegan _______.</p><p>Tradução: Produtos em oferta não aceitam devolucao, salvo se chegarem danificados.</p>",
+      "contentPlain": "Los productos en oferta no admiten devolución, salvo si llegan _______. Tradução: Produtos em oferta não aceitam devolucao, salvo se chegarem danificados.",
+      "fileUrl": null,
+      "feedbackSuccess": "Dañados é o caso que abre a exceção: produtos em oferta só podem ser devolvidos se chegarem danificados.",
+      "feedbackError": "Dañados é o caso que abre a exceção: produtos em oferta só podem ser devolvidos se chegarem danificados.",
+      "answerType": "buildWord",
+      "expectedAnswer": "dañados",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "93474cbe-33b0-4f1e-a7f5-51fa92681443",
+      "sequence": 5,
+      "lessonId": "35b34393-2a1c-48ca-af57-cbab8c6a3475",
+      "title": "Complete a condição",
+      "content": "<p>Si el servicio fuera más ______, me resultaría más facil mantener mi rutina saludable.</p><p>Tradução: Se o serviço fosse mais confiável, seria mais fácil manter minha rotina saudável.</p>",
+      "contentPlain": "Si el servicio fuera más ______, me resultaría más facil mantener mi rutina saludable. Tradução: Se o serviço fosse mais confiável, seria mais fácil manter minha rotina saudável.",
+      "fileUrl": null,
+      "feedbackSuccess": "A parte condicional da aula liga a confiança do serviço ao impacto na rotina.",
+      "feedbackError": "A parte condicional da aula liga a confiança do serviço ao impacto na rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fiable",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "fc87405a-7c8e-4050-a972-a4ee2f1589b6",
+      "sequence": 6,
+      "lessonId": "6d56b1c0-2c2d-4356-a1e3-6920d26beaa7",
+      "title": "Recupere o eixo do diálogo",
+      "content": "<p>Escute com atenção e associe cada áudio ao texto certo sem apoio em português.</p>",
+      "contentPlain": "Escute com atenção e associe cada áudio ao texto certo sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "As perguntas do diálogo levam da causa da insatisfação para a opção mais adequada.",
+      "feedbackError": "As perguntas do diálogo levam da causa da insatisfação para a opção mais adequada.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "95499bf0-57a7-4925-81ab-571a4a9b9242",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ee76cc508384f9c99d7c08a444cbd42_b06-d02-por-que-no-te-gustaba.mp3?Expires=1794099749&Signature=1TfX4d4zmlnde~JmcjjvdC~44Pft-9Uupl-cCjWdUXpM6Xhns7ida4RIY1kkbQ9p9WKqbLVUeXFnhXSLAc0eU3XTMvzGjw1MmnBZWUUSa3luI-hca9f6AUEP0SOfm~2TLW9E9sQQ2pgjXDeyO~wR5QDlNUTj25IdTtdspmFC4eoWD31Z089Rqn17dV~X8meGnGYzmSaXsnzJBw4GVSyN5d5e4a-aK9uNYOC2ykW1J8PAV8Uer4DH8R~oauiFz1YirkCHSK63Mvf57q6l5CZzjWdvNSsbzGlxISUkLcFwQBQ1dW4O6bc6zL9ysCtg5OrownI0BITQ2ZFBvYLTIZs9tA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Por qué? ¿No te gustaba?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ff943da4-920e-48dc-b42b-1088e67b0a1e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a246ef43feb240f886b5d4a420bb7c40_b04-no-me-compensa-pagar-un-plan-rigido.mp3?Expires=1794099749&Signature=xwVreZkpn8a2f5~LkTX6jOfg3gdUT5-XvaRdpW8f-JOEE~DRaNfDd2~OnRxRlQO1fL8WAJX~o2l2aZi2wg58Mfj2pJw6IC15k5xb0FLSA~iNLQ6VBRj3bkUuZ12Gyq8bmm57USuam9Ij8CDG6WydpLijV-FeSCvLx1ytbRPxGWjYHVxPLiqg0rSw0kJzFDlxrl~DZhXJKaDGiygsF7tDYyOdeJv8wb-xAMr2dOuXVbhWHMFiuKLwAS5ltlOdFAXSWW~rujSJgJXBpkD-kZo3CqFiWwT3R-T3DlIW0I227~wq4bydjw7-9cuMyvO2iHz204ZOSrJ2yUDMfN50Ap23EQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No me compensa pagar un plan rígido que casi no uso.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "9798f2ac-92bc-4b7b-b8f5-cb1004df1cfe",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9719edec51f44d40a8ed00e88405875c_b06-d04-entonces-que-te-va-mejor.mp3?Expires=1794099749&Signature=mNiV49gGdbkgRvsahb40EKZcBwrTuhDvRpXIsfuT2~W4ljiNSo~thZyce-6PJAdylJtYFiBJ2OokPhgScUzD7uS8hJW2-EhUcAF~QLnLavCBmF7C336si1z1FecR8PdlRtuVs4wSLoNTA6WsJkGNJxt4JEngWagItXDBvqarc9aNk4-o9tBitad3D-s4ztEKiUoIHvVx9YQ148n8u6MCJ37YAmiO~JgZbLtRmssMZCk8S~TAJswYbEWeIpiSHcR7xRg0b1M93yTbdqH-9UKprsPE2ubr~IwkN1DGj6E3xZnRh75SV~KVr4L8m4fQVGUbhzS5Gj5gvQ2XoJNO~6XwvQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Entonces, ¿qué te va mejor?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "07b76d96-50cd-449d-a0b8-1281affd8d4b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/aa23ba8828d249bc93fe996c2ed268eb_b02-me-va-mejor-una-clase-corta-antes-del-trabajo.mp3?Expires=1794099749&Signature=ta7KvFnFIliq2S57RnmTOyMU~bBa1f7RdoMzok2H-5SeaNjaTjEWTZqECS5sWtElvP7UDXTe6YmcwCUj3SzbOcO2EBYVQsmuV1zIWwz2JGu1NI~UzlgmTwqxxRsQ8t7djekp0Z7nbXcbDlISngBUnonVmKHWy~4cB3y~fPuHRo5aFKTsa~BdEmFKyk4f~X1sXM~jF5rkL~ZhoeGnBJk6hUa1uTI6y5wHvIv~Zvhmw~7EKumb1sj3-YxwS1ZLeaq0pvVWu3v0DQXjsilbBmcP9pS9iscWpKDYo5B2IjJ~zznkdUWCKrc1zBhaMjLYiAlZhDHROT06XC~sBP90ZlXaog__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me va mejor una clase corta antes del trabajo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "b3f0f01d-3db1-48aa-80d8-9863878b3b38",
+      "sequence": 7,
+      "lessonId": "420fedfe-e0c8-47cf-911c-7af2e9f6b191",
+      "title": "Reconstrua a opinião por partes",
+      "content": "<p>Associe cada fragmento ouvido ao trecho correspondente sem apoio em português.</p>",
+      "contentPlain": "Associe cada fragmento ouvido ao trecho correspondente sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Separar a opinião em fragmentos reforça como cada parte sustenta a crítica sobre atendimento.",
+      "feedbackError": "Separar a opinião em fragmentos reforça como cada parte sustenta a crítica sobre atendimento.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "458dc785-9469-4d80-87ce-46291d040b43",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/52b65c16fdf54b1986099effdc2e7b8b_c05-desde-mi-punto-de-vista.mp3?Expires=1794099749&Signature=S63yQqnZmAulqZolA~WsFkcqrHQmLFwhvjsnC9lvE0g8SAThfWxhcI3d6VrEDYmrkSWiF37jabEbAwVNm4W6VBX1ANysGYMpIhCl47GS3YeJb0cGng1dCOPNxMngBwjbaYEjKtuBPmM9tLcbI2~RsTfUQO-fUvGdVUjYo6lHVWnv-NM1gVlcigLVP39n8DJY~b-mOAjOo0FP2e7SFL-WFZ1-568kSlhH92EaF-511s0sqVHxe2TC1hvthtGkVaMIYFyUSMwxAIY8uZZvJqpMAQUEkXp-pUCpfkazBUQCpDfa9pc9jqZN8q8z4VgWZBkz1nsb6m91UpKldokg881QlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Desde mi punto de vista",
+          "sequenceItem": 1
+        },
+        {
+          "id": "286da7f7-ed3d-4674-91c9-f2ad56ef9aef",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/dd3bdee1a67940c5a9c57d8a6211fc75_c05-no-fue-el-retraso.mp3?Expires=1794099749&Signature=PBgzJeWJDbNIETj3An5G-Ue1et1Cj8rikgsgOaqxTtTcPNTObOl-Lgr1LLq3S92bk5XuPUEG24OOZZ2jnDmDBxfNeB-oCgcI~Y0sVFCMZS7yQGpDANlDLAcnvgF9fW5TC~W0i5jJDd-~FvaUCXuYNnIOAmN3yUzJwbX9507vfGz3vEMp-LUOm2kxi~kQcunDbSlOySmq4g~gxPrzlZE300UP4-rMM3jQGBTRydNejVe-f1p9PnaGZ9H8wcneTjzT8sX9VDHJwoueukEVZXvq59n5HXIP~v9Z-YBZqkKTfQmtk8MDbfvwCTK3mww4Mxg2XWD71IXzCoD-~akGHPODHQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "no fue el retraso",
+          "sequenceItem": 2
+        },
+        {
+          "id": "89ee0605-d1c8-4ba2-9ecf-c835279beff2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c634d038921445b19f50138b808c6f09_c05-sino-la-falta-de-respuesta.mp3?Expires=1794099749&Signature=yRrrBz4ikk8KrU91KeKOGRdE18wjx1XCgbH8ZO-AZFgHPyBau-gGRfHHbEZeJAAmUNYGMoPLpEjliRbNmtCM-62EZKV8SNby9ZQ6AfWRiDEhTgHSqXgrxV934kiO75Kzy175ctmNJBY~WV-EWx48E9ipn~t5AxhQK9kxhNCgxBb7H~aE~Kgj70DWmWMEt1Sx~Aq5f2Gt2q7BfDgnWl~V6znc7NyigqpOZsivFTc6pgpHBHthiaVgH7z1SQyjs4Jd5CZdesI-1GTcbe85X5NeZLVh9FWE7YFHmCwHMMCuNhPQRyyo3TZUjXDvHK3YaZnEGKEz-5FPmmJgYuc4fCKZUQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "sino la falta de respuesta",
+          "sequenceItem": 3
+        },
+        {
+          "id": "9e17749f-1d47-45cc-9155-d62c48c07a4d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c9041525017244cc98b8e1887fbe8f5f_c05-lo-que-mas-me-molesta-es.mp3?Expires=1794099749&Signature=gTkgSZwsH6MA6BFD2AKnwpJIXr4lJLvrp1JIvqckfJB85GLEMaslQxStpsgn2IGsCSGOs~yMC4f-E4aVdrECSHtwkFkyCbK2UkQnDIbXRWKA69irtZdhEx-B5jv3N1bQIQN7Rc3a5k5T9Ez3rManVQltForysUMYfAGXbWBJHPyas48zs17QSbLmmFyOfpttn0Pt5~SAZy5YxZaeffyYzEPKPwxE1bY6bq3TPg9IwiRWN1KYiqNmcYz5~uUL3K0bIegyagxCcsCQUifCoueAGA7e~yzd~-hNYdZCRCJGM49d3awh7CD5H1hF5ds~jOl54SlRKtrI6oumq06x~K7pcQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo que más me molesta es",
+          "sequenceItem": 4
+        },
+        {
+          "id": "b0bc6c74-dceb-429d-8b8e-4d2ce09c9ccb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1e056f9da685475a9c05341cc83ceac3_c05-la-forma-en-que-te-responden.mp3?Expires=1794099749&Signature=Iw5OnrsMgI51nhCrq2j5WO4FDPvHGJJ8ETufq6x093il92zBy3oybujorYz506c~f3WECtAkQDhmH7wizOjkI-Vr80e2u2gfACuP4flQYY4WYsxuHUk9TCJT4oOoiDH0T-ntvsB7F3tS44B5~RsTtaby2onI4QNlesAWHKRJc-~bS3hDxh8VjP~oYsio01t07rAR3Xngidpd5hwtyzSFrBbdR2XJkbKbqpWBaHeCOOeaDy0vqCDkLZQ2Dt-NHF0oG5PsVbelX6ygOKJDnrUdzvX0XT7r9-Z4OGdqfPWj8uQJxJdXjkjNIwpju4~p3iBdOjmVU7zB3VQ-6G5pQHec~g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "la forma en que te responden",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "89899d6d-f929-4adf-a33e-6c5d339ad2f6",
+      "sequence": 8,
+      "lessonId": "420fedfe-e0c8-47cf-911c-7af2e9f6b191",
+      "title": "Ouça a opinião completa",
+      "content": "<p>Marque só as palavras que você identifica no comentário final sobre atendimento.</p>",
+      "contentPlain": "Marque só as palavras que você identifica no comentário final sobre atendimento.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1c9f1926825d4426a099ba2ca9629c88_b07-recap-opinion-completa.mp3?Expires=1794099749&Signature=tKE0EfwuAWNjIAjQND1TW5Zi7TGGF76kBp5h0lOfpF20fQi7W5WviFKTanmY~nCBGhRI~8R0FXJpM74C2SskvLY3tnP432RTvP3sIkSJGOhU2EexY3YEUlRTjJ89EwUCJHmXVENW78DIjjiNKFIHmEaokSZ6YhQLJrc8Rdb9Wz0TCqIFu8V-eDajhRhTym8XaFIeQ09D7J5IafJwdbCxZZvnWg~4ziR87ME1sGREbeguXjrxQbMH70vForI7Mzvu7sl0aERu4HWTVO9qlyhpYarsUqy2ae1XM-FQwAyMeFzj0YeRn3bN8RPwD1pvvtPqTl~NQf7k-GONxgBRlLazLA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final junta as duas molduras para transformar uma avaliação vaga em opinião defendida.",
+      "feedbackError": "O recap final junta as duas molduras para transformar uma avaliação vaga em opinião defendida.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "23f4aa74-85c8-46a1-a1e0-01f51aef1289",
+          "text": "trayecto",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2829ba84-1613-4930-a914-eb247c801b61",
+          "text": "molesta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "376657ad-6d6b-44eb-a407-e1c4ce59d5ec",
+          "text": "forma",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6a50e172-313d-47b4-a122-ece2c267a983",
+          "text": "responden",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9a26e492-0bf3-47ab-a1a0-d6878cff5b60",
+          "text": "garantía",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b38c1cf8-12a1-458e-9cbf-c0dd84fec089",
+          "text": "código",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "caed3442-b0c7-45a2-94ba-f788c702a391",
+          "text": "punto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d1a427e2-4217-4c04-ac17-b328fe2fa99c",
+          "text": "retraso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ec6df81a-f86b-4fe5-9dce-c5845aa2bd37",
+          "text": "respuesta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "9b5710a4-a1db-4256-806e-cca125614daa",
+      "sequence": 9,
+      "lessonId": "f297537b-fe69-4600-a6b7-88685fff529d",
+      "title": "Recupere o verbo do fato",
+      "content": "<p>El producto ____ de funcionar a los dos días de uso.</p><p>Tradução: O produto parou de funcionar depois de dois dias de uso.</p>",
+      "contentPlain": "El producto ____ de funcionar a los dos días de uso. Tradução: O produto parou de funcionar depois de dois dias de uso.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fato concreto da lição depende do verbo que mostra a falha do produto.",
+      "feedbackError": "O fato concreto da lição depende do verbo que mostra a falha do produto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "dejó",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "fa8652ba-8fe8-471d-8a9e-3e1e23f29db0",
+      "sequence": 10,
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "title": "Recupere o ponto da falha",
+      "content": "<p>Anoche dejó de _________ mi código cuando quise terminar el viaje.</p><p>Tradução: Ontem à noite ele deixou de reconhecer meu código quando fui terminar a viagem.</p>",
+      "contentPlain": "Anoche dejó de _________ mi código cuando quise terminar el viaje. Tradução: Ontem à noite ele deixou de reconhecer meu código quando fui terminar a viagem.",
+      "fileUrl": null,
+      "feedbackSuccess": "`dejó de` marca o momento em que o processo quebrou.",
+      "feedbackError": "`dejó de` marca o momento em que o processo quebrou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "reconocer",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b6375719-f2a0-4d5f-bfbf-173429cda505",
+      "sequence": 11,
+      "lessonId": "6d56b1c0-2c2d-4356-a1e3-6920d26beaa7",
+      "title": "Filtre as palavras do recap",
+      "content": "<p>Escute o fechamento da aula e selecione somente as palavras que aparecem nele.</p>",
+      "contentPlain": "Escute o fechamento da aula e selecione somente as palavras que aparecem nele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/11f76ff0fd7c4243aafb8970952e2ad5_b07-recap-servicio-flexible.mp3?Expires=1794099749&Signature=AH9VEfmLLsw4DBcmk9pkQ8Gx4QCc0wN7d6~Cq8G5lcwIhavh7eZ6uM3Oe7tBf1Nz6PdDzhwMH6DIbBqzQ43IYjllgEh2l~F6EJiRsnJxiOBINTsooCbk8cKKdA0PkXQ32g09Z0A44ixgc6R-w4xTLe919w0JcZ~EVfeGF3zTg9zhTNxUOCeyF67f0uL5ObGJPIkmT~eiAOb3Zt~CiNjpTIEsitlTKchjgemq13C~nQe3F5Vr3YsUXbrPZOTyVDSmG2mqhM5qFf48EvLbcYMcofSs4OqY~GZTb~mKfTs1IykgFn4ZPK5b-dzZ-qBBUyKZdRWOBywZj7kTexDnO63T5A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap junta encaixe real, flexibilidade e falta de ajuste ao dia a dia.",
+      "feedbackError": "O recap junta encaixe real, flexibilidade e falta de ajuste ao dia a dia.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "00feeda2-0629-4a9b-8c17-e9008418f4a1",
+          "text": "real",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "197df1eb-9b2c-4dba-9038-6e0f9b69600a",
+          "text": "mensual",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1e73ca0d-b839-48c3-9603-4af32ed0b8a9",
+          "text": "trabajo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1ec2607b-eb17-48a8-998b-daebc4499902",
+          "text": "día",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "35cf259c-9257-4cb6-b7f2-ebee3b8920d5",
+          "text": "gimnasio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3d3fa195-77d6-49e6-89d8-614ece9bc8b7",
+          "text": "gustaba",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5a59c208-e546-4567-a6fb-5e0b768231af",
+          "text": "compensa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "81c5c107-a4fa-45e9-8198-71ddf78a0e68",
+          "text": "servicio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8496e041-a5e4-4653-b85b-6f47eeabe84e",
+          "text": "pagar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8a879edd-72a0-4e93-b5ab-3ab08c95defc",
+          "text": "vida",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bedf2dc2-30f9-4fc0-a84a-77b3dd8cb5e8",
+          "text": "flexible",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d3ec5d8f-989d-4674-9df6-f23c2b1c5838",
+          "text": "encaja",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f013f0d9-9fbe-4baa-87e1-db02ce3f4358",
+          "text": "mejor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "79b99611-860d-4be6-9f24-1ce3b7ccb031",
+      "sequence": 12,
+      "lessonId": "f297537b-fe69-4600-a6b7-88685fff529d",
+      "title": "Recupere a marca de tempo",
+      "content": "<p>El producto dejó de funcionar a los dos ____ de uso.</p><p>Tradução: O produto parou de funcionar depois de dois dias de uso.</p>",
+      "contentPlain": "El producto dejó de funcionar a los dos ____ de uso. Tradução: O produto parou de funcionar depois de dois dias de uso.",
+      "fileUrl": null,
+      "feedbackSuccess": "A lição reforça o tempo de uso para deixar a reclamação mais verificável.",
+      "feedbackError": "A lição reforça o tempo de uso para deixar a reclamação mais verificável.",
+      "answerType": "buildWord",
+      "expectedAnswer": "días",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1b0a6320-c461-4f2c-8b9f-4fba048dd00e",
+      "sequence": 13,
+      "lessonId": "b8934072-0ef7-4f98-b264-259561978ee6",
+      "title": "Escuta integrada da rotina",
+      "content": "<p>Sem apoio em português, marque só as palavras que aparecem no comentário que junta compra, uso e expectativa.</p>",
+      "contentPlain": "Sem apoio em português, marque só as palavras que aparecem no comentário que junta compra, uso e expectativa.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e3ebddf77847446bb204e45092c937d3_c01-compre-este-reloj-lo-uso-y-esperaba-que-fuera-mas-comodo.mp3?Expires=1794099749&Signature=PGAs7Xs4v-0WJMohVopErz-hhk--HtGLUzZ4WcB4wk-ip0YdtgUEtdnb6A1OvRcGOVieOvqDh6zvtm4VoMLNxRRCWzqjnMd~1DGxWoBzSqIhvDz4hgzY3X7nIFJ11M82fg0-VEunhLmr4ikp0cc6SSyZ1LKtlnuTCgCI2YusJp4zrsgFZ2hSZktQK9lZvhQL7VkUNW6b9jji1EyGeSY1-hnaXbkPn8rvEiP7fZ1Z0QGW-4FoJ0tN2-pEK9wLPwXGEcw5OnW6Cdhk5dGBcT3aEHHTYg3QtspgrMs4LxgbXc2I-TIL75z16Q9l9e1nEiwXQ8Do9BvOEnmtLkpv2cpuhg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O comentário integrado recompõe finalidade própria, função do produto e expectativa na mesma fala.",
+      "feedbackError": "O comentário integrado recompõe finalidade própria, função do produto e expectativa na mesma fala.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "10131357-3256-49f8-bec4-22db0b33b445",
+          "text": "sirva",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5d90ba05-6559-429d-9b2f-db43dc7837f7",
+          "text": "esperaba",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "61cca64a-9569-43cb-b6a5-1f26d97deac2",
+          "text": "caminar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "93ee8077-0fe3-4f7a-8dc5-d28806667c8c",
+          "text": "ligero",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "95d83b30-aa00-42fd-ab19-b866a4fbf454",
+          "text": "avise",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "95e3253d-1c33-46a7-8a8b-0ea2e3337254",
+          "text": "cómodo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a616508b-fc56-4120-82f9-cd9299b108af",
+          "text": "demasiado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bc1ae03a-cab8-439b-a39c-0c8ae12990cd",
+          "text": "sentada",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ed3c76c9-8d3f-4651-bc35-1c1e49a4e39d",
+          "text": "moverme",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "0f74ed70-3d56-4d4b-a42e-fd8e5ec432ea",
+      "sequence": 14,
+      "lessonId": "b8934072-0ef7-4f98-b264-259561978ee6",
+      "title": "Recupere a finalidade da compra",
+      "content": "<p>Compré este reloj para _______ más durante el día.</p><p>Tradução: Comprei este relógio para me movimentar mais ao longo do dia.</p>",
+      "contentPlain": "Compré este reloj para _______ más durante el día. Tradução: Comprei este relógio para me movimentar mais ao longo do dia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Para + infinitivo explica a finalidade quando a mesma pessoa compra e busca o resultado.",
+      "feedbackError": "Para + infinitivo explica a finalidade quando a mesma pessoa compra e busca o resultado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "moverme",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e7798307-dab2-4f75-ae3c-2ac6a5316bd0",
+      "sequence": 15,
+      "lessonId": "b5329a3d-2a37-4d93-ba95-5b31d9129db7",
+      "title": "Recupere a solução final",
+      "content": "<p>Si el defecto persiste, te __________ el dinero.</p><p>Tradução: Se o defeito continuar, devolvemos o dinheiro.</p>",
+      "contentPlain": "Si el defecto persiste, te __________ el dinero. Tradução: Se o defeito continuar, devolvemos o dinheiro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Devolvemos apresenta a resposta final quando o defeito continua.",
+      "feedbackError": "Devolvemos apresenta a resposta final quando o defeito continua.",
+      "answerType": "buildWord",
+      "expectedAnswer": "devolvemos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "attemptId": "5f92ddca-5a3f-4991-847a-e60aec2bcd13",
+  "exercises": [
+    {
+      "exerciseId": "073aee7b-1042-4738-99e3-8fa62a935644",
+      "sequence": 1,
+      "lessonId": "4c049f1c-d5cd-4522-9abe-5692603b005e",
+      "title": "Combine os áudios com as frases",
+      "content": "<p>Agora combine um áudio do retrato completo e duas linhas isoladas com os textos corretos em espanhol.</p>",
+      "contentPlain": "Agora combine um áudio do retrato completo e duas linhas isoladas com os textos corretos em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Você vinculou corretamente o retrato completo e as linhas isoladas.",
+      "feedbackError": "Escute mais uma vez e compare qual áudio traz o retrato inteiro e quais trazem só uma linha.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "bc1f263a-c09a-45f8-8e5e-090ff4decb88",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c9883d396e7c4226bf42c16cce9aaf2a_l06-full-portrait-carla.mp3?Expires=1794099552&Signature=dQmyQuwJcfWiLZNJELMM4A5VnbZqZZqYjzXM07yboAeVmLizWwVfaqx2mTbfKWbzSnfZlxRWghveCpKXBe2XPSABKSuxe3qIqwJNLStniTEnMQb-l3~auCeU~da0tn1eM5b0Ak6sNJcHVlaOoYk8UknCaeRUjVDqw0dxmPs4XuFA-0xWXSuA1LzskfeZyTfKgtBUrUMsGi5HXhNbSIHRDfcWOg2zfIEFmyx0YeG~~wgY-y3lDuWId~XScINtctiDQpGq8vIFT40TsO3jaKPREFpRqJpRwLHl0ubDAGwoGyg6jdvWX4g48fEwHLXnODrfVY6nOsU343dly52Am9~Kwg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Carla es generosa. Hoy está tranquila. Está mejor que ayer.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "eab250a8-a6c5-49dd-84af-aa91e9d5c6c8",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b18755a9753b4fa59350fec4966c0b79_l06b03-hoy-esta-tranquila.mp3?Expires=1794099552&Signature=PpHUvXVgxZWyaA3LxESKDeiqI0d40AihrR8qaXNalGuEZ5zr06qlyegcCQoYI4ybh4x6dvtdDfGLnKpe526Tf3h7PPfIXNAJ1ckJAjjh9k49vrmUcBz4JnoltXL3dqOreiZIBdkzbvRs5gFaT2O8wwm~KPnc3QtVTxhrltgt1RRTJDmuHa-YIU6Iy5W1dgbp9tE9hqjeNWuLbq96Cmyy7zOmgZ5tnUpHX2VfSrxKpV4jawdeZW4YH6gzu8IpXjKQk1wfIqGNZArHtwQnIVNCH2dZV7I0G5qnVUyTIF8~sMfEhZ5CfIwYmx3wLgb3VLkTavV~O3FONxQn2XyNSGZnHg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy está tranquila.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "23460996-8d35-45e6-b5c8-6fb384fcc1a3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/51ffabf86c6b4722b28288d67040a34b_l06b01-carla-es-generosa.mp3?Expires=1794099552&Signature=qddumDFL~mVE32ljTKQmSQ8UEq44r5HPgRjhvG~JU-veEOKH7M9HhjFUWAImzPbHeDkEJUoTZQPsFefPqeQT0B4rjgP7hz2vzUSDKuqpHlAvIbwOYdEPYYaDoWtrJmuK~RX7WSl2jO2K6Ul-KqFDl5fz9XI2EXwNSjjSvFKlJKG0wFwCMooNnxCwR7lXz5uyYIZaxI4w7euDKDJgp3NLyIOkCHpaRNaAViM2tlZ7Hhy7mwnor~EYTnytOMWBraG~saDUuoyomg30QIJU2IET95W7nP6kMiy47XY9EsuieK-aqiu2k4KvyTz8i3I4bny8vnu1kI~YD08rWF21a-0m9w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Carla es generosa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "c5c2551a-b16b-469b-af10-d37a72102f8e",
+      "sequence": 2,
+      "lessonId": "22e31c86-4808-462a-900d-f8620ff70af3",
+      "title": "Complete a descrição",
+      "content": "<p>Complete a descrição de alguém que fala pouco e mantém um tom formal: Es _____.</p>",
+      "contentPlain": "Complete a descrição de alguém que fala pouco e mantém um tom formal: Es _____.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. A descrição fica `Es serio.`",
+      "feedbackError": "Revise a frase curta da aula e tente preencher de novo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "serio",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8696e332-738e-4e71-970d-c8ccc8e8a569",
+      "sequence": 3,
+      "lessonId": "f258aca4-1f76-4c4a-8063-80e5a5aa3a55",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: En el hotel, Diego es ________ y ayuda a todos.</p>",
+      "contentPlain": "Complete a frase em espanhol: En el hotel, Diego es ________ y ayuda a todos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou o traço habitual da frase.",
+      "feedbackError": "Retome a frase do hotel e monte o adjetivo ligado a ajuda a todos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "generoso",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4b2048de-56c9-462b-b844-da59d47a689f",
+      "sequence": 4,
+      "lessonId": "4c049f1c-d5cd-4522-9abe-5692603b005e",
+      "title": "Monte a palavra",
+      "content": "<p>Carla melhorou desde ontem. Complete a frase em espanhol: Está _____ que ayer.</p>",
+      "contentPlain": "Carla melhorou desde ontem. Complete a frase em espanhol: Está _____ que ayer.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou a palavra central da comparação.",
+      "feedbackError": "Volte à terceira linha do retrato e recupere o comparativo usado ali.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mejor",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0e12dc29-2a5f-44b8-b8b5-6dcb212d85fc",
+      "sequence": 5,
+      "lessonId": "22e31c86-4808-462a-900d-f8620ff70af3",
+      "title": "Escolha a frase do perfil",
+      "content": "<p>Um colega sempre divide o lanche e oferece ajuda aos outros.</p>",
+      "contentPlain": "Um colega sempre divide o lanche e oferece ajuda aos outros.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Esse comportamento combina com `Es muy generoso.`",
+      "feedbackError": "Revise o contraste entre ajudar os outros e ter um jeito mais contido.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "111a314a-e52d-4f8e-8a3c-b19cb2d20009",
+          "text": "Es serio.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7319791f-695d-473f-bac9-b7495a9acaa8",
+          "text": "Es muy generoso.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "73cc7eb1-0e91-4904-a6f3-53dd98059f5c",
+      "sequence": 6,
+      "lessonId": "4c049f1c-d5cd-4522-9abe-5692603b005e",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Hoy está _________.</p>",
+      "contentPlain": "Complete a frase em espanhol: Hoy está _________.",
+      "fileUrl": null,
+      "feedbackSuccess": "Você reconstruiu corretamente a palavra da linha de estado.",
+      "feedbackError": "Revise a segunda linha do retrato e monte a palavra que descreve como Carla está hoje.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tranquila",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5c6c9ddc-de10-4f18-84e5-bbc452ede113",
+      "sequence": 7,
+      "lessonId": "c2d5be63-3e1c-4ef8-848d-1d036e6667ce",
+      "title": "Reconheça pela escuta",
+      "content": "<p>Toque o áudio e marque a palavra de comparação que realmente aparece.</p>",
+      "contentPlain": "Toque o áudio e marque a palavra de comparação que realmente aparece.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/435ba492bcd84fac87c73588b601d9d5_l05b05-hoy-hugo-esta-mejor-que-ayer.mp3?Expires=1794099552&Signature=ejFdBfZXnw9CvZp4B9f5AR8xKJ5gceoiJwQLNRvTINEPonPI1~NYg~RDqWRQKS7s167AnIWbEJwB6QcgsJAWRqk6EcAiynsIkoLislAlPPn55KvADZDme4tz~yLXPURlUKd2KpGFj3~x4fPwix41TZFx1OcgCe-kVHnWXiAyxUVWWB9B3rCWkJW5nTjB3SNQKeSkr4xyOEdZnTJABbx6YTJf1vQFSt3WX4k1YEvM-IcfiEiCwisTlqX9Ib-FNqUEIjoCCoDME-ZfupORl24mlY~u6iq6Yt7PAsaF2Dbgt6sL9he35Pl~MUQBoNf9Z3FNikJSjnNWvMaxFrfi9fNQZA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Isso. Você reconheceu a forma frequente pela escuta.",
+      "feedbackError": "Escute outra vez e isole a palavra que compara o estado de hoje com ontem.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7d564bb3-0a22-4a28-86aa-b867c493200f",
+          "text": "peor",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "852acdb4-ab5d-485f-b8f8-870b58646614",
+          "text": "mejor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d1191ac7-3eb9-43cd-bbb4-5e4460babfe4",
+          "text": "tan",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d57651b3-6143-476c-9099-f018e5df6507",
+          "text": "más",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "1d12bb73-7368-4eff-b605-b814878bde5b",
+      "sequence": 8,
+      "lessonId": "f258aca4-1f76-4c4a-8063-80e5a5aa3a55",
+      "title": "Interprete a frase",
+      "content": "<p>Leia <strong>Después del viaje, Diego está tranquilo.</strong> e escolha a interpretação correta.</p>",
+      "contentPlain": "Leia Después del viaje, Diego está tranquilo. e escolha a interpretação correta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. A frase fala do momento depois da viagem.",
+      "feedbackError": "Volte à nota sobre contexto recente e observe que está aponta para o agora.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5f5cf13c-5c9c-44f3-a21d-c80dd6c9aa3f",
+          "text": "Diego sempre é assim.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8086ec6b-afde-4eed-91de-5190f3ecff02",
+          "text": "Diego está assim neste momento.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bb453ba1-8256-408d-bf8d-de4c6f4fa3f0",
+          "text": "Diego está ajudando todo mundo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "555db234-4f7e-40b3-8c92-9d6ee44c1e91",
+      "sequence": 9,
+      "lessonId": "22e31c86-4808-462a-900d-f8620ff70af3",
+      "title": "Identifique o adjetivo",
+      "content": "<p>Ouça com atenção e marque o traço que aparece na frase.</p>",
+      "contentPlain": "Ouça com atenção e marque o traço que aparece na frase.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/adfa95d20ba244f1a3c0b722eb487b3d_b04-es-serio.mp3?Expires=1794099552&Signature=1HWRzJ4u4a3JDAhxzP3lGIFHIpPvEZ-grs58FgLtRdwnjUiIqrRaHzB6O8YS9jEzZ7GkEH5tPY6j8Rg~MfNFVuXkdObvsKvU7UvSlfrLyFy7rSlRRtjPmSfideR9BJ8GHkX2N2xh6sVXgJRzQgaOrbce1Z6MrKh6r~-9GCylIzrPn5XLObecjVvv06JwkDiuloKvn1wqjHd3FgkElyKl0V94VNcdYaY94N67oZMdGjWAB-JMfefRwB-L2M6fnp5YFqjrGNfF8x~~tHJm3sa1752jJB8qwTZrxhRgqTZw98q8tu9DEHRzfJUAIEdBjl2WT~YQxV2Kv~FWCopl~rjt2w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. O adjetivo ouvido foi `serio`.",
+      "feedbackError": "Escute outra vez e foque na palavra final da frase.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "a0b422b3-cc11-4e85-ab0b-723bf36bf332",
+          "text": "generoso",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d36af431-b6b9-42b6-ba5e-56ed7600b040",
+          "text": "muy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "da0b18c5-2081-4fab-9167-4907a290e9ce",
+          "text": "serio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "97b2bd49-8d34-4685-ac06-cc978d874110",
+      "sequence": 10,
+      "lessonId": "2c10c3a1-2741-4687-bcbe-25156a5f50c5",
+      "title": "Combine áudio e texto",
+      "content": "<p>Associe cada áudio curto à emoção correta sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio curto à emoção correta sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta. Você identificou as emoções só pelo áudio em espanhol.",
+      "feedbackError": "Escute outra vez e compare cuidadosamente as duas palavras antes de associar.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8cea0fe1-aaa0-49db-8422-7abc925ab78f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/11e0e6271e35400fb2f8eb5092b65514_l04b01-preocupada.mp3?Expires=1794099552&Signature=pya73viefuQf6ygV7HqwxMmpqY2g74bVgvxh7-iVS8p0D4fhaHTBHaVYESVBZp1GMTZ4i1wR174YDniUFzrn41btMwDFX65UkU6J7qSFGSzZr88qcBif9MgQK4CBAzWr4XXlraG4c6ES-jkqTKonpj1HlziPbVX88hI8qOb0EYoXEmMbzQgh~0Uqh56XUlyRcVCqKZAlm513Duv6c5~lHG7NVOFc9TSlyDtsDzuL4aQxDtjSuapi0A9NiRoGuXZax1ORjTcpmbCavwyG52F6UX5KRlZfH-SWWOovZ95~BW3sEpkwAAvpkWuzUvTeQmCnBBPB~AmP~4HUwsM9uLKEAA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "preocupada",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5c61de55-c124-4261-87c2-5a33e063f1c3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bd7ad8cf6acc4f5da7cc644e3b4f5193_l04b03-contenta.mp3?Expires=1794099552&Signature=qCxSKUCqD~FzsEy5yItXJhUit8oVjArZZ73YDJJdtQxTixrI9wsqUu66g6WfbzurtmOgJwLGC4FzuQyZMkxcsqQ~CjIPv~-VS4Fiqi-V-ajgrNA3GAmKhAm-NjxjBMe4vW7UgSrNQiOKNfETOBiDMj6ITlaDH50eamtu70w8Bpl1cYQfS~rxFplSULGHUfWiYL60hX2SpMaD05ZM~e5d5VlT7k1Y3MkTuVnF3Mk1f56BH9NUfcuY3H-oMP2ihcWV8o-JseEZW2bOzGDLqFGBlEr3toZ0EE9iiM90c1-r3whAnxuamdg~xtCZNQspoLtIcUcGnraPTirXTRjbJQGVBQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "contenta",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "8677f0e1-813a-432b-9aa3-d8add546824c",
+      "sequence": 11,
+      "lessonId": "d57c5ec0-8ea4-4b62-9555-ee4d4a748555",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase sobre como Tomás costuma ser: Tomás __ serio.</p>",
+      "contentPlain": "Complete a frase sobre como Tomás costuma ser: Tomás __ serio.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. `Es` mantém a leitura de traço habitual.",
+      "feedbackError": "Compare com as frases com `estar` e reconstrua a forma que descreve o perfil de Tomás.",
+      "answerType": "buildWord",
+      "expectedAnswer": "es",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "bccf5f84-34d8-44db-bf81-d487866aa845",
+      "sequence": 12,
+      "lessonId": "d57c5ec0-8ea4-4b62-9555-ee4d4a748555",
+      "title": "Escolha a melhor resposta",
+      "content": "<p>Você quer dizer: <strong>Hoje Tomás parece sério nesta reunião.</strong> Qual frase funciona melhor?</p>",
+      "contentPlain": "Você quer dizer: Hoje Tomás parece sério nesta reunião. Qual frase funciona melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Aqui o foco é a aparência observável da situação atual.",
+      "feedbackError": "Pense se a frase descreve o perfil de Tomás ou apenas como ele aparece agora.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "6081d5ca-3b5e-4ab3-a8e1-97d21a31a145",
+          "text": "Tomás es serio.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "86bf19c7-e830-4455-a2b1-52f05d8970f4",
+          "text": "Hoy Tomás está serio.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f6ff8237-edea-4450-8c3c-8e76ccb50a35",
+          "text": "Hoy Tomás está tranquilo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "afbc880c-446e-4044-91dd-3c9714d48a87",
+      "sequence": 13,
+      "lessonId": "2c10c3a1-2741-4687-bcbe-25156a5f50c5",
+      "title": "Combine os pares",
+      "content": "<p>Relacione os marcadores da frase-modelo à função que eles cumprem na sequência.</p>",
+      "contentPlain": "Relacione os marcadores da frase-modelo à função que eles cumprem na sequência.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Esses marcadores ajudam a mostrar a mudança de um estado para outro.",
+      "feedbackError": "Revise a frase-modelo e observe qual palavra marca o início e qual marca o momento atual.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "97aa1e2d-e8c5-4aa1-9c47-cb99f0f5b54e",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b3c0c899-7a5e-442b-beb8-99319c3c4f37",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "3944d5a6-1347-4c0b-9bd1-2c544ae763c8",
+          "leftContent": "Primero",
+          "rightContent": "marca o começo da mudança",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7916cf63-fb4a-4dbd-a9df-99944b0d3fcd",
+          "leftContent": "Ahora",
+          "rightContent": "marca o momento atual",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "1f06457c-542c-4d55-9743-cf3ed47ea200",
+      "sequence": 14,
+      "lessonId": "c2d5be63-3e1c-4ef8-848d-1d036e6667ce",
+      "title": "Associe áudio e frase",
+      "content": "<p>Escute os três áudios e ligue cada um à frase em espanhol correspondente.</p>",
+      "contentPlain": "Escute os três áudios e ligue cada um à frase em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Bom trabalho. Você diferenciou os três moldes pela escuta.",
+      "feedbackError": "Volte aos áudios e compare qual deles marca mais, menos ou igualdade.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "53dc97f1-b573-4a49-93a5-9fea5547c99c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/28135f91a5af45b98fce4eee2fba9aad_l05b01-hugo-es-mas-tranquilo-que-leo.mp3?Expires=1794099552&Signature=d4Wf5MWm0620CV4ZNiEhH6Y342G4z~ZA-SWS-bRiLLBVqXUBvfeCYCwNRDuJfwxnwUzAy-8bBxRRmJb23M~F~4mi9JQz10FMXz1XPvcuW9iQXsOLwFSKD-zqioeNYn22VwnixANMbkLiIAwyzGVl~XwmgLpVrCpTgbZ4jcsZyhNMN6E-6-gO1sWc45odrZr0QV-4LjEafao3NDfyNf7nWXeza2985iRqkdoCTrDlon-HITSankKOdpEILX0kQ8Io5SR4J37iNzi5bSctWNfO4pO~gfRrV78O914n~aB0fq4aISNHjLn-o09~vlRhJINlZp4m6-m2ytmwbfJm7TyOQA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hugo es más tranquilo que Leo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "45a7cae9-ffe1-4b8d-ac4b-f17a2813613b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/36ec82125d8c47669460f2dc8117cb1b_l05b02-leo-es-menos-generoso-que-hugo.mp3?Expires=1794099552&Signature=NxGv8mJm1ZQGaAPSOBdbuA5o4rLWuzz7s~Ou2AgGC4h9OhvnwSxZ~U5yUL7H-et8BQ9gDs6rqbPyr0tqh0EkWXTcTmPM~SIAhfQUnD-DBkFl~TRvFf7tglXcT~mvlZzxhtYztRjHmsR1diCNzkIdiDhYLRtlNXtA7Wdwh63psBM-raivS4ApF8KqynU4XkbcOaP296erm4OH-cpwm3vLYarybK8LGAcCs85MBKe1LVmHHjjsOJscinU7hRqb2vFoITp9gRmv~opqKQ7T8yHgNr1nVlL6jeadVKTWhnyWLuvQm~SE1cWtT-26LKtMzFM-ajQpw1l2vcYA0~b7rlouHA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Leo es menos generoso que Hugo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c90c8108-cf99-4a15-83a0-6377bbee2ba9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2cd762f4f6574249bb76354b74f13276_l05b03-hugo-es-tan-serio-como-leo.mp3?Expires=1794099552&Signature=0gfytJDEtRfVIBSn2Kd3vaJfVHBk7zFxAuRBtbRjpyMQ9rUCCi~uT1Z1U3UiZccyhp1LqTcWkSKkQ6cgcsYsjkrv2lOihaahEhYoZtEFhfuKhprG~r763cgg1PLKipwt2HbiRyM2QqzCXFOzSpq-gWWUw7h73VvW0LO6izjTC3Vi4HfNVst2WTbjIiibgRZcV2nExBERvggmzKMIIlnVnG2xONRpv8vyX-cvppTZBWSUyF4ulOPJKav~Q3YozMa0RaEbPxV4j1jzGxqjVMYyhenb2D4vWsNdTiRhhXbFtIAhkODFmGD-RWIj7lOXyAdIVL7Am2-4WZkmD08tUXp81A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hugo es tan serio como Leo.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "6214bee0-1dc1-4bce-be9f-5a8fcc914db6",
+      "sequence": 15,
+      "lessonId": "f258aca4-1f76-4c4a-8063-80e5a5aa3a55",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a frase completa e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a frase completa e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ffef03fc5b504b8f81147125e1cc8ff0_l03b01-despues-del-viaje-diego-esta-tranquilo.mp3?Expires=1794099552&Signature=U~yim~jW~NAVe0e0JkJ1oTzNMnXKD4aenKrQls2E1P-AA2iamIIFVJvDb4dPDQ-NCwKuFX2tUWp0Evlu6pOGIB9dMF9GEc-F0Pve-Ua5pni7~vcF2j7QALWWJ2thyWBVsFiyofpk2Gh-Gm2uFW2~zzpyfoH~Q09EpgwMVzATpHv0QVegmBsV3ap7F8mS-k9TPXq6kvOn9shWDXql5hY928D1PjwdFextmF4qJoUN86PjcSLg0iIx2C-LOzSyb4TXx6F3kJoSp-iBSoXebuQXs2BlllwDiYsZDnwpWWfph4svO2oAYAa9o205w9Gpf-qpZZXPTgQM2Ag0ifJov8u8Gw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta. Você reconheceu os elementos da frase do estado do momento.",
+      "feedbackError": "Escute outra vez e marque apenas as palavras que pertencem ao áudio de después del viaje.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1d60a226-067a-495a-8ef1-750ce6953a2c",
+          "text": "después",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2ca9f240-c424-419e-b2bc-e43279ec2933",
+          "text": "generoso",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2fecc170-d8e1-4c4c-ad9e-15537baa0630",
+          "text": "viaje",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "46bca293-4f5d-4421-95fa-29f3cea439c4",
+          "text": "tranquilo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4d19b1dc-10c8-4973-9b2e-e052cd3b6064",
+          "text": "hotel",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c6d2ea30-fb42-4b64-9af4-7f8f33669255",
+          "text": "diego",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d45d885b-7f49-4701-aad1-cdc0d7ea1aa4",
+          "text": "está",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

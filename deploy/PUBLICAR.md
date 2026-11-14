@@ -1,0 +1,12 @@
+# talk2me.biosinformatica.store
+
+O pacote usa Docker Compose em um VPS Linux com portas 80/443 livres. O Caddy recebe as conexões HTTPS e somente ele publica portas. O aplicativo usa SQLite persistente em private/state e mídias privadas via rclone. O cache tem alvo de 2 GiB e pode excedê-lo temporariamente enquanto há downloads ou reproduções em andamento.
+
+1. No hPanel, aponte o registro A de talk2me para o IPv4 público do VPS. Confira se há um AAAA conflitante. Mantenha o domínio principal na hospedagem atual.
+2. Extraia talk2me-vps.zip em um diretório dedicado no VPS. Crie os diretórios privados com `sudo install -d -m 700 -o 10001 -g 10001 private/state private/cache private/rclone`.
+3. No computador local, feche as aulas e faça uma cópia consistente do banco com o script export_progress.py. Transfira o arquivo por SSH/SFTP para private/state/database.sqlite no VPS antes da primeira inicialização. Ele contém contas, senhas protegidas e progresso. Para uma migração definitiva, pare o servidor local antes da cópia final. Depois da migração use uma única instância como principal: duas cópias independentes do SQLite não sincronizam.
+4. Configure o remote talk2me-drive no VPS para acessar a mesma pasta talk2me. Use uma configuração dedicada em private/rclone/rclone.conf, transferida por SSH/SFTP ou autorizada no VPS. O processo precisa gravar nesse diretório para renovar o token. Teste a leitura com `rclone --config private/rclone/rclone.conf lsf talk2me-drive:talk2me`. O cliente OAuth compartilhado utilizado no piloto está em descontinuação. Ao substituir por um cliente próprio, confirme com uma mídia real que o novo cliente tem acesso aos arquivos já enviados.
+5. Ajuste os donos com `sudo chown -R 10001:10001 private/state private/cache private/rclone`, proteja o banco e a configuração com permissão 600 e execute `docker compose up -d --build`. Acompanhe `docker compose logs app web`. O Caddy solicita HTTPS para o subdomínio quando o DNS e as portas públicas estiverem corretos.
+6. Verifique login, progresso antigo, uma aula com vídeo, avanço do player, download offline e persistência após reiniciar o serviço. Faça backups regulares do SQLite pelo mecanismo de backup do SQLite e guarde-os em local privado.
+
+Para atualizar, extraia uma nova versão sobre os arquivos do aplicativo e repita o build. Preserve private/ e os volumes do Caddy. Não envie a pasta inteira do projeto à hospedagem. Somente o arquivo de release é necessário além do banco e da configuração privada transferidos separadamente.

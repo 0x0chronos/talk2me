@@ -1,0 +1,592 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+    "attemptId": "7aaf505b-ff4d-49f3-b230-6e055d3e975e",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "59e695f0-f63c-437b-955b-37165fd6c52b",
+      "c51ae29d-13a1-4e95-ac06-f66c88e5a0ec",
+      "f42f93f5-52e3-4dc8-a593-1994217e3077",
+      "eef62134-f59d-43df-9c19-bc274d2be620",
+      "2b5b59fa-3261-4c81-b228-83fd0563e972"
+    ],
+    "evaluationExerciseIds": [
+      "864a0bdd-3177-4440-a427-b129749a9d12",
+      "fa8652ba-8fe8-471d-8a9e-3e1e23f29db0",
+      "4eda5150-c534-4e40-b063-18b8074972cc",
+      "976763f7-c21b-4d5f-a8c6-c19aaa1b8772",
+      "89340278-bb72-483b-bca0-0c01c073af59"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:02:22.6647034Z"
+  },
+  "contents": [
+    {
+      "id": "e4bcc7c3-63b2-45ad-915b-ba39bf1dc11f",
+      "title": "Leia o mapa da aula e observe por que vale separar como o sistema funciona de onde ele falhou.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "a74e0f0e-65c0-4543-94ed-85559d59ef50",
+          "textContent": "<p>Antes de reclamar de um serviço, ajuda muito explicar <strong>como ele deveria funcionar</strong> e <strong>em que momento deixou de funcionar</strong>.</p><p>Nesta aula, você vai acompanhar um único caso: um sistema de bicicletas compartilhadas que depende de app, código e registro do trajeto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b370c98e-9478-465e-8a75-f57f393e0ec1",
+      "title": "Observe a cena, escute a frase e ligue o espanhol ao modo como o sistema é ativado.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "1cd846e9-2daa-4167-8ca7-07fb38973557",
+          "textContent": "<p>Primeiro entra a explicação do mecanismo.</p><p><strong>El sistema funciona con un código QR que activas desde la app.</strong></p><p>Em portugues: <strong>O sistema funciona com um código QR que voce ativa pelo app.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/972a6ec299f84d38b39d50845658e587_b02-bike-share-qr-realistic-v2.png?Expires=1794099743&Signature=r4QTZiE8IcjLCckczEELoSN9KtprF-K5gNnp7dKWWwqMYDCpwxVeblZz3gLp6aHLrJflf3SQkxKz~N1pN81RF4PL~QJOqMlqPi~FAuxuRnVcx-6uYTIDWykmzZQOdNKw0JV5KZIz26PoOez~H~137YZOYFJgt7cNgROfO0eWAvBetK0ZMvlwmGGvubRTBWtjIlvQqThu2-MPsFpOHcEmjjNiWdCsrZdBS6eEMIEvHjg7TtWiFoHpYiZvnah9h8EHYA-oFdX5-Ilm2vjvygtmBeULckXgzfAdIosTDXIg2475hdXNvTJznBfhMk8HOrO8ERiA2abfi9ucw~wPXYTQbA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0aeabab333354dd6a2f6fb20e1aa2740_b02-el-sistema-funciona-con-un-codigo-qr-que-activas-desde-la-app.mp3?Expires=1794099743&Signature=JiAxfBIvcfM6QYXKA75Ae~a-ilV4UHoKiu2kqXZjwIIYiQgMoN1NzGuWNR~5XaQMY56W3OM1X7edObUx~w2ufoaT~kydut662s5T8qLW3An7N0iUPcWxcML-Mii-sEa44Jd9~BQKmIsN83OrOU-BkPe9X-TJ6Oyln8oCHFEpvwB~tzWvQbRKqsyg-K0~bkdTOPsAjBhFHRgNqc4N0L-UbjlsKh-IxFDhhP1Ai-BohHB4MdCvUZXHy6FwTm43KR5OG2KQkOv1dcHn7Qviwi2hj8at1hJBieggjSJ6BpAzT8k~v4BFmr~reNvi16XTAk6R1C3zzLztBrciVoVCEQXd-g__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0ac6a556-cd5b-444a-87c5-5abc2c1fde90",
+      "title": "Leia a nota curta e observe que a frase ainda não fala do problema, só da base do processo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "661ab5f9-a5bd-4bef-a779-11d105472c42",
+          "textContent": "<p><strong>funciona con</strong> ajuda a explicar com que recurso um produto ou serviço opera.</p><p>Aqui o foco não está no problema ainda, e sim na base do processo: app + código QR.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7e4af707-b681-4cfa-9240-3e6aa1cc37aa",
+      "title": "Escute a frase e observe como ela responde para que o sistema existe na prática.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "1e29fc88-3525-4a75-9d88-c20a0fe701b9",
+          "textContent": "<p>Depois aparece a função principal do sistema.</p><p><strong>Sirve para desbloquear la bicicleta y registrar el trayecto.</strong></p><p>Em português: <strong>Serve para destravar a bicicleta e registrar o trajeto.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/972a6ec299f84d38b39d50845658e587_b02-bike-share-qr-realistic-v2.png?Expires=1794099743&Signature=r4QTZiE8IcjLCckczEELoSN9KtprF-K5gNnp7dKWWwqMYDCpwxVeblZz3gLp6aHLrJflf3SQkxKz~N1pN81RF4PL~QJOqMlqPi~FAuxuRnVcx-6uYTIDWykmzZQOdNKw0JV5KZIz26PoOez~H~137YZOYFJgt7cNgROfO0eWAvBetK0ZMvlwmGGvubRTBWtjIlvQqThu2-MPsFpOHcEmjjNiWdCsrZdBS6eEMIEvHjg7TtWiFoHpYiZvnah9h8EHYA-oFdX5-Ilm2vjvygtmBeULckXgzfAdIosTDXIg2475hdXNvTJznBfhMk8HOrO8ERiA2abfi9ucw~wPXYTQbA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8af4f11685954bff9886df17b5def598_b04-sirve-para-desbloquear-la-bicicleta-y-registrar-el-trayecto.mp3?Expires=1794099743&Signature=HA9wnCmEashgOs0IImx3YiMQz1TldrSl6yeB4qhXHi3wqyLHXoNQ8yctxODB6NWLP7gycON7R93KFAypg3psF~1WGjsVuVzsZPPshANGcvDeJkDHNG-9aSmcjKCg~Jy2DXKp4tDowT4-uwOozeHSnvj99N8z4abT3-VuilxUxoXt3SdeFeppAgNKI2iXdaNFvHHeEw4tkbBqwdPaHdkK9GH8euiS5Ifff0f-ZOS~~5fzqDFzG3zfrE8-JiPmRLnPtijkp5qRF2PElckRC8hMn2qg7dez9e6sNQBq6c8~qVW3LjzPOUYuP~-c1ASIlLlDOSmhdTJc~RmAGvKb7sVRBA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a5923c35-bb76-42c4-9d18-a3c3b71fac65",
+      "title": "Leia a explicação e observe a diferença entre dizer como algo opera e para que ele serve.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "d70fa789-5562-4312-99b4-4f3f4a4239bb",
+          "textContent": "<p><strong>sirve para</strong> responde a pergunta \"para que isso existe?\" ou \"qual é a utilidade aqui?\"</p><p>Depois de dizer <strong>como</strong> o sistema opera, você pode dizer <strong>para que</strong> ele serve sem abrir outra história.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "81f38267-2f7f-42ce-ac9a-7e8768b4a842",
+      "title": "Escute a frase e observe que agora a explicação sai do esperado e entra no ponto da quebra.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "50b1118a-095e-425a-9a65-ce9222068eba",
+          "textContent": "<p>Só depois entra o ponto exato da falha.</p><p><strong>Anoche dejó de reconocer mi código cuando quise terminar el viaje.</strong></p><p>Em portugues: <strong>Ontem à noite, ele deixou de reconhecer meu codigo quando fui terminar a viagem.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/972a6ec299f84d38b39d50845658e587_b02-bike-share-qr-realistic-v2.png?Expires=1794099743&Signature=r4QTZiE8IcjLCckczEELoSN9KtprF-K5gNnp7dKWWwqMYDCpwxVeblZz3gLp6aHLrJflf3SQkxKz~N1pN81RF4PL~QJOqMlqPi~FAuxuRnVcx-6uYTIDWykmzZQOdNKw0JV5KZIz26PoOez~H~137YZOYFJgt7cNgROfO0eWAvBetK0ZMvlwmGGvubRTBWtjIlvQqThu2-MPsFpOHcEmjjNiWdCsrZdBS6eEMIEvHjg7TtWiFoHpYiZvnah9h8EHYA-oFdX5-Ilm2vjvygtmBeULckXgzfAdIosTDXIg2475hdXNvTJznBfhMk8HOrO8ERiA2abfi9ucw~wPXYTQbA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b8daad415f6d4a5bacc8ec6212490e21_b06-anoche-dejo-de-reconocer-mi-codigo-cuando-quise-terminar-el-viaje.mp3?Expires=1794099743&Signature=nCVkSEZ9q2m~CkXaCE9RQ2Q8IjBuK54O3q9kipZ-GlTbXlI1vqs1rZR28dSPV64KrUGgkbmNua6Hicnk6Ut9th83elgWsEYRP9HPLRsfZcwxddUzWUNDZXn2BLYZplBlm11AjlaDy15ZizCYVOLKDsudHc3vd52cs4K9Sw0mBc2IdmwPn99Y72hXbvs63na9flWheDH9pPDZGy7ynWDeSxuWDBV~~ZxrG9b9gKynANJe72HfU1GzLPZZcUo2KBlngCh76Vh6MwGo4QuGObYqPY3wMMLIFQcY4AjQJjFhK2kjMp4E0hNoq4T-4j1fQfAeO1Hu4SS1ZKerchX9Wme21A__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "514727b7-0de0-4ab6-a89a-cd0605dd7035",
+      "title": "Leia o quadro curto e observe a ordem que ajuda a outra pessoa a entender o caso sem confusão.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "56df2d17-1ac3-4cbb-b51e-39265dab8136",
+          "textContent": "<p>Essa ordem ajuda a soar claro em atendimento ou devolução:</p><ul><li><strong>funciona con...</strong> explica o mecanismo</li><li><strong>sirve para...</strong> mostra a função</li><li><strong>dejó de...</strong> marca onde o processo quebrou</li></ul><p>Assim, quem escuta entende o esperado antes de ouvir a falha.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4654bae0-3728-4df0-9836-caf896fe2341",
+      "title": "Resumo em atendimento",
+      "description": "<p>Em uma reclamação real, a pessoa primeiro explica como o serviço funciona e depois aponta o momento da falha.</p>",
+      "contentType": 7,
+      "sequenceItem": 8,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">El sistema funciona con un código QR que activas desde la app.</div>\n  <div style=\"opacity: 0.45;\">O sistema funciona com um código QR que você ativa pelo app.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7de26a7edb174256bc5cd975dde826c1_b02-el-sistema-funciona-con-un-codigo-qr-que-activas-desde-la-app.mp3?Expires=1794099743&Signature=TZtXNDDVS855rjJTP~k1NZpep3W2Js~y1QWNZDClaGU4IAEf6bK9VzSJviVOnIDXhbiFnFrXD6wE0SmWfoTBQi0zLUDHTrrl3cBFVSh5elpCLkGkNPnkVwj~OAYi3G4pnw6xGE135xbzxu1re9iohM7pOv8PfT7b2q4p6nWre7zhemVPkvXbyDNEDGb37mPQaJFJCdD6NWCdPZ5VlHFQhyUQY~huXpi8UwLNLxE~Q-idrUJhRxyq-RlaKCH0hGbsw3Eci1KD379T6bAjg9wVm4GRh7TDRC7-mW4Go-M6NRD1366mn6RbwGnWfPUObqUNn1YYa7ENUQqZ-Pf0oCthuA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Entiendo. Entonces sirve para desbloquear la bicicleta y registrar el trayecto.</div>\n  <div style=\"opacity: 0.45;\">Entendi. Então ele serve para destravar a bicicleta e registrar o trajeto.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d26ed701104e4958adc22b55e1af2ba0_b08-dialogo-entonces-sirve-para-desbloquear-la-bicicleta-y-registrar-el-trayecto.mp3?Expires=1794099743&Signature=OXKSwSSWjc0vPcTt1t3T5hZeZ7IHZXMb9S0C8WApJw0ycN337f3-FxS9qIWBxGv94Ihkz~ykJKenOYeXwmWkjQUyNyWH2zoWiGCnuHeCOA2ygmgqoscuzsaYjWcgazt4S2Ib8bW3beKoQG6uKNI1TjJ4YxeiM6zxbnfJaBu2hbW0edPTcJ151oM-fD00sD2pFSzhDx6qj3vb9uwAqwpHqfN75O62hPvpHpdgScCQjmInK-QBFUtaFjU0dFXFo6VGfrVUegeorathbQa6On3HFLVj3ZaNKAO0R-4t0x3xjkULj-bneSQZ6LWK8WBocNNvwk-~NWdDtYGJbvtOpI6M0g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Exacto, pero anoche dejó de reconocer mi código cuando quise terminar el viaje.</div>\n  <div style=\"opacity: 0.45;\">Exato, mas ontem à noite ele deixou de reconhecer meu código quando fui terminar a viagem.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3d21f378f1c84065b6de8e64e8ea22da_b08-dialogo-exacto-pero-anoche-dejo-de-reconocer-mi-codigo-cuando-quise-terminar-el-viaje.mp3?Expires=1794099743&Signature=0VgMoWWybyzWe3ZwxQ3~9LcdtrgcA5ZZKCU14Bie~03dDjjE3Fnk~~6g-5TJBwRSe630WnC7ixUoiDpMmOUfVqbZ3KG0TtI1MDn1FH83fU7DzU5NawaoqNA1QJEFnpEb7i1ojZsCmMnzHgRYSWXku3YKE41jTgAG9bs9BBpnrL3K7YqBwxtgv0QD~neNtLlcmsY969~KswY5ehcKjtXIUozpz3ngxneuImQzWb-N-Djr9j99a1c1s7KwDTL7p2Oyznbss7BV8AaWiRW~nLRlsInAVMf2DYA2qaPmjsjQiej8A3PzuhC6hb6HK3tpw4b830lrJOWefNZHXBmh05lXhg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "59e695f0-f63c-437b-955b-37165fd6c52b",
+      "title": "Associe expressão e papel",
+      "content": "<p>Ligue cada trecho em espanhol ao tipo de informação que ele introduz.</p>",
+      "contentPlain": "Ligue cada trecho em espanhol ao tipo de informação que ele introduz.",
+      "fileUrl": null,
+      "feedbackSuccess": "A ordem da aula ajuda a distinguir recurso, utilidade e ponto da quebra.",
+      "feedbackError": "A ordem da aula ajuda a distinguir recurso, utilidade e ponto da quebra.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6ebd50c5-413e-429b-9335-6c92505d101f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "59e695f0-f63c-437b-955b-37165fd6c52b"
+        },
+        {
+          "id": "f04b28ea-256c-48f7-bea4-c297fb6359e4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "59e695f0-f63c-437b-955b-37165fd6c52b"
+        }
+      ],
+      "associations": [
+        {
+          "id": "0ef98de7-b7c4-4e3f-81d0-604f5a2332ec",
+          "exerciseId": "59e695f0-f63c-437b-955b-37165fd6c52b",
+          "leftContent": "funciona con",
+          "rightContent": "explica com que recurso o sistema opera",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8a63864b-e30e-4747-9d36-4546e1f32983",
+          "exerciseId": "59e695f0-f63c-437b-955b-37165fd6c52b",
+          "leftContent": "sirve para",
+          "rightContent": "mostra para que o sistema existe na prática",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b7fc1b7e-ce18-42e7-b452-f71723f3ab69",
+          "exerciseId": "59e695f0-f63c-437b-955b-37165fd6c52b",
+          "leftContent": "dejó de",
+          "rightContent": "marca o momento em que o processo parou de funcionar",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "c51ae29d-13a1-4e95-ac06-f66c88e5a0ec",
+      "title": "Reconheca o mecanismo",
+      "content": "<p>Qual linha mostra <strong>com que recurso</strong> o sistema opera antes de você falar da utilidade ou da falha?</p>",
+      "contentPlain": "Qual linha mostra com que recurso o sistema opera antes de você falar da utilidade ou da falha?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula separa mecanismo, função e falha para deixar a explicação do serviço mais clara.",
+      "feedbackError": "A aula separa mecanismo, função e falha para deixar a explicação do serviço mais clara.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "25650469-c9fe-4c77-8a41-693dd0459198",
+          "textContent": "Anoche dejó de reconocer mi código al terminar el viaje.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c51ae29d-13a1-4e95-ac06-f66c88e5a0ec"
+        },
+        {
+          "id": "36519523-b09d-4e69-a29e-ab2c22c813af",
+          "textContent": "Funciona con un código QR desde la app.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c51ae29d-13a1-4e95-ac06-f66c88e5a0ec"
+        },
+        {
+          "id": "50b2c69a-5e9c-4001-b9f7-81d8799597f0",
+          "textContent": "Sirve para desbloquear la bicicleta y registrar el trayecto.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c51ae29d-13a1-4e95-ac06-f66c88e5a0ec"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f42f93f5-52e3-4dc8-a593-1994217e3077",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase completa em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase completa em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5aa51e2c70c542948e466e9d8b86da3d_b04-sirve-para-desbloquear-la-bicicleta-y-registrar-el-trayecto.mp3?Expires=1794099743&Signature=h78n9PPHo1vK8GpZXUZ2mqLO19lgbz-aEIyOF1hw~eB1opLnaubaKxjp1BfpB~Cfh~KbnUUhLc4uIG70bOJ4bWrAPQfVHq4Sl3z45H0k9wU72YrkEZJ6ig~ulxj4N2zAFx9leFhzZddnn0YqGiwBnWCGUCmO4WJZLC8RakhBjZ4g6H5q7JSV~zI-0Bi2PZs0lmx7mPxNa53dkt27QhS~nVY3tOoT-XYOmjK--B-IgPe3TRBU6tTu9qxLNZQVzXSFFe~DGb5LXkQRG1tOvwaqppPqs9pmb6MQHj~xCa5pfbsA8dMzqSH8oD6Vv9WlZUirdjzNhjYMZSAm-iXQake7bg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Repetir a função central ajuda a ativar a explicação antes da reclamação.",
+      "feedbackError": "Repetir a função central ajuda a ativar a explicação antes da reclamação.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Sirve para desbloquear la bicicleta y registrar el trayecto.",
+      "typeSpecificData": "{\"expectedText\":\"Sirve para desbloquear la bicicleta y registrar el trayecto.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/5aa51e2c70c542948e466e9d8b86da3d_b04-sirve-para-desbloquear-la-bicicleta-y-registrar-el-trayecto.mp3?Expires=1794099743\\u0026Signature=h78n9PPHo1vK8GpZXUZ2mqLO19lgbz-aEIyOF1hw~eB1opLnaubaKxjp1BfpB~Cfh~KbnUUhLc4uIG70bOJ4bWrAPQfVHq4Sl3z45H0k9wU72YrkEZJ6ig~ulxj4N2zAFx9leFhzZddnn0YqGiwBnWCGUCmO4WJZLC8RakhBjZ4g6H5q7JSV~zI-0Bi2PZs0lmx7mPxNa53dkt27QhS~nVY3tOoT-XYOmjK--B-IgPe3TRBU6tTu9qxLNZQVzXSFFe~DGb5LXkQRG1tOvwaqppPqs9pmb6MQHj~xCa5pfbsA8dMzqSH8oD6Vv9WlZUirdjzNhjYMZSAm-iXQake7bg__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "eef62134-f59d-43df-9c19-bc274d2be620",
+      "title": "Ouça e ligue as linhas",
+      "content": "<p>Associe cada áudio à parte certa da explicação: mecanismo, função ou falha.</p>",
+      "contentPlain": "Associe cada áudio à parte certa da explicação: mecanismo, função ou falha.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvir as três linhas ajuda a fixar a sequência mecanismo, função e falha.",
+      "feedbackError": "Ouvir as três linhas ajuda a fixar a sequência mecanismo, função e falha.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "6d23f74a-dfdb-4ecb-ac28-ed25e18172ae",
+          "exerciseId": "eef62134-f59d-43df-9c19-bc274d2be620",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7de26a7edb174256bc5cd975dde826c1_b02-el-sistema-funciona-con-un-codigo-qr-que-activas-desde-la-app.mp3?Expires=1794099743&Signature=TZtXNDDVS855rjJTP~k1NZpep3W2Js~y1QWNZDClaGU4IAEf6bK9VzSJviVOnIDXhbiFnFrXD6wE0SmWfoTBQi0zLUDHTrrl3cBFVSh5elpCLkGkNPnkVwj~OAYi3G4pnw6xGE135xbzxu1re9iohM7pOv8PfT7b2q4p6nWre7zhemVPkvXbyDNEDGb37mPQaJFJCdD6NWCdPZ5VlHFQhyUQY~huXpi8UwLNLxE~Q-idrUJhRxyq-RlaKCH0hGbsw3Eci1KD379T6bAjg9wVm4GRh7TDRC7-mW4Go-M6NRD1366mn6RbwGnWfPUObqUNn1YYa7ENUQqZ-Pf0oCthuA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El sistema funciona con un código QR que activas desde la app.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "80af5151-ea55-460d-993b-a98f22a0ab07",
+          "exerciseId": "eef62134-f59d-43df-9c19-bc274d2be620",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5aa51e2c70c542948e466e9d8b86da3d_b04-sirve-para-desbloquear-la-bicicleta-y-registrar-el-trayecto.mp3?Expires=1794099743&Signature=h78n9PPHo1vK8GpZXUZ2mqLO19lgbz-aEIyOF1hw~eB1opLnaubaKxjp1BfpB~Cfh~KbnUUhLc4uIG70bOJ4bWrAPQfVHq4Sl3z45H0k9wU72YrkEZJ6ig~ulxj4N2zAFx9leFhzZddnn0YqGiwBnWCGUCmO4WJZLC8RakhBjZ4g6H5q7JSV~zI-0Bi2PZs0lmx7mPxNa53dkt27QhS~nVY3tOoT-XYOmjK--B-IgPe3TRBU6tTu9qxLNZQVzXSFFe~DGb5LXkQRG1tOvwaqppPqs9pmb6MQHj~xCa5pfbsA8dMzqSH8oD6Vv9WlZUirdjzNhjYMZSAm-iXQake7bg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sirve para desbloquear la bicicleta y registrar el trayecto.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "99cede6c-9b6d-4280-803e-2140b9033d3e",
+          "exerciseId": "eef62134-f59d-43df-9c19-bc274d2be620",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2f6ab0376d8c48a781c928933e975621_b06-anoche-dejo-de-reconocer-mi-codigo-cuando-quise-terminar-el-viaje.mp3?Expires=1794099743&Signature=dOxwMNcMOv29H0x9C-O4qZ-J1VrJ7aiXzCDRHGlYKqtNWeRxM8EbL-T4prJG~rTHKRVeRoUNGfIOGDMnJJRLLRbbmn8cXTep5MGQpcW5DEKe5aj1cYNjbO7eka-kfwdSHIJUYb8bYej0-RNUkmheHDo3FMtxKwc5r2hhbF~WhBwvNnPGJxhGThPMdc-c4ZakHJzrH0e2nkbEUDtawpFNK9g162Zkuembn-UJvpdfCGBz6MFMxLPtSxzvRuqFcLmVTQZ7QetjgObS-L9F6XzSPMRvdSI5ZkYxqxUR3TE5SLwrlqltJXNotsj2NGghNOcdwprc2gdXqvC7JIEad515lA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Anoche dejó de reconocer mi código cuando quise terminar el viaje.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "2b5b59fa-3261-4c81-b228-83fd0563e972",
+      "title": "Ouça a resposta do suporte",
+      "content": "<p>Marque só as palavras que você ouve na linha em que a função do serviço é retomada.</p>",
+      "contentPlain": "Marque só as palavras que você ouve na linha em que a função do serviço é retomada.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d26ed701104e4958adc22b55e1af2ba0_b08-dialogo-entonces-sirve-para-desbloquear-la-bicicleta-y-registrar-el-trayecto.mp3?Expires=1794099743&Signature=OXKSwSSWjc0vPcTt1t3T5hZeZ7IHZXMb9S0C8WApJw0ycN337f3-FxS9qIWBxGv94Ihkz~ykJKenOYeXwmWkjQUyNyWH2zoWiGCnuHeCOA2ygmgqoscuzsaYjWcgazt4S2Ib8bW3beKoQG6uKNI1TjJ4YxeiM6zxbnfJaBu2hbW0edPTcJ151oM-fD00sD2pFSzhDx6qj3vb9uwAqwpHqfN75O62hPvpHpdgScCQjmInK-QBFUtaFjU0dFXFo6VGfrVUegeorathbQa6On3HFLVj3ZaNKAO0R-4t0x3xjkULj-bneSQZ6LWK8WBocNNvwk-~NWdDtYGJbvtOpI6M0g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, a função do serviço aparece com clareza antes do ponto da falha.",
+      "feedbackError": "Nesta aula, a função do serviço aparece com clareza antes do ponto da falha.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "924f5d6b-789f-416b-a3e3-8e8a573b588b",
+          "textContent": "bicicleta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2b5b59fa-3261-4c81-b228-83fd0563e972"
+        },
+        {
+          "id": "a28b037d-5597-45ea-aa1f-b87892cde753",
+          "textContent": "sirve",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2b5b59fa-3261-4c81-b228-83fd0563e972"
+        },
+        {
+          "id": "b0d8db56-14d1-426d-b733-47cf14f096a9",
+          "textContent": "anoche",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2b5b59fa-3261-4c81-b228-83fd0563e972"
+        },
+        {
+          "id": "e41ba0d3-564c-4abf-9eaf-2591829bb5be",
+          "textContent": "código",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2b5b59fa-3261-4c81-b228-83fd0563e972"
+        },
+        {
+          "id": "f4f1873b-7c16-43ad-8e8e-a20827fc1a17",
+          "textContent": "trayecto",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2b5b59fa-3261-4c81-b228-83fd0563e972"
+        },
+        {
+          "id": "f9de3b1f-8917-47bd-919e-43505b006b5a",
+          "textContent": "desbloquear",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2b5b59fa-3261-4c81-b228-83fd0563e972"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "864a0bdd-3177-4440-a427-b129749a9d12",
+      "title": "Reconstrua a explicação",
+      "content": "<p>Relacione cada áudio diretamente à linha correspondente da explicação em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio diretamente à linha correspondente da explicação em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Reconstruir os áudios reforça a sequência mecanismo, função e falha.",
+      "feedbackError": "Reconstruir os áudios reforça a sequência mecanismo, função e falha.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "1e79febb-ab36-46d4-b2c2-d325ca55652e",
+          "exerciseId": "864a0bdd-3177-4440-a427-b129749a9d12",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2cd69ffc8b214c478a0734e9516cad48_b09-el-sistema-funciona-con-un-codigo-qr-desde-la-app.mp3?Expires=1794099743&Signature=OTMWa3ZiVSWb0IbMlrCW8gPSLbRNofHTfE3YvHKm6O97ULev9iFk9elFu4p1EXVYlb5fZNKxsUF4mThQpln1PGK~dfqNExkeJOG1nF9Bs0F4IHBdafZtRuzY06UlL0a4ztDTSBdVJAuv~VZz0xRq2k0p~ZVDVFG3uvykZHaKLgj7Pwc0mO~FJ2kC5VYgIDmecQy~MaBE~hAJMdZJq20YzW8MUIE5IvibcHtPQ8MswIYEwnC0LOZmhxscGQKD6STfHe9jhAAqywalWXmnuXWcvPlk7r4sgeylXgxidp8khBPCQyt6~6uSVI8A4SUWxb3w0nq6llL6YomVMbwwZIyxSg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El sistema funciona con un código QR desde la app.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "60de3a04-233e-431a-91ba-95db3f1cffb9",
+          "exerciseId": "864a0bdd-3177-4440-a427-b129749a9d12",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/45376a96383e4d37b3f3a561bd740727_b09-sirve-para-desbloquear-la-bicicleta-y-registrar-el-trayecto.mp3?Expires=1794099743&Signature=IQvSwwguqZPx-CFcAspQOrPCpWpwHV1F4rF0ijIz8t0AhE-AP2LN0OfpSMDEIR1mUmlFihubR3iODfFxtE9kbfkR4U~gQWR1phCxDLO5ViYtZlQMtHon86GVhvDfRogJDYlCuYhY72cqXvHW~pyfRR-X9BiECl1lKI3~oWavDJPFjd~gLEpxLZXorFpZPsxGgDmkAl7rx2eTEL4ALfO3uEPwlfrjaVCKn2EE5FXG32wRSGFFblPhUaI6MYFbA9bD-BNqKjYtsxsZEgP22Y3mdnIhZlXG5egi~-R7iEtmIjremhjaMHUTCaGa86xHSS620aXuFFwSm1FyAgEpot699w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sirve para desbloquear la bicicleta y registrar el trayecto.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ad46c0f1-fbda-40d7-bfa9-5ebe3287c5a8",
+          "exerciseId": "864a0bdd-3177-4440-a427-b129749a9d12",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/09b940f4ae964bcdae5db94d1ecef35a_b09-anoche-dejo-de-reconocer-mi-codigo-al-terminar-el-viaje.mp3?Expires=1794099743&Signature=B6YmS~9kLz2v1DueE9GDh11sSq1qdJt4Vg~alIHeomvhKx-fXvmPSb96z5UCO3-Z~yfJa-62UyiF4WmIBmWsrrGLQLDp0qmMhu4UTCM~UiyND6ZR~-N4suey5EqUgf6Qxo2j1Sx3mjs07cT8wuEgjyfwCSt2c4Ba3QIYN7rdS2vQDArDTjr108uEIonac2LqlAnPEl0RP3lEi0KeXgo1hrMMiEXARdlDLX~PEi5ZBAonV8bmJZ0jg4aTON9lapA~gTK5LUapJodK355csOY9wUt~qV5BGLfaj-e1d8qbfUWUzQmx1P1zL6BMeJ-UXCLuqdDQVo0MN5~Q2GIPDf6JvA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Anoche dejó de reconocer mi código al terminar el viaje.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "fa8652ba-8fe8-471d-8a9e-3e1e23f29db0",
+      "title": "Recupere o ponto da falha",
+      "content": "<p>Anoche dejó de _________ mi código cuando quise terminar el viaje.</p><p>Tradução: Ontem à noite ele deixou de reconhecer meu código quando fui terminar a viagem.</p>",
+      "contentPlain": "Anoche dejó de _________ mi código cuando quise terminar el viaje. Tradução: Ontem à noite ele deixou de reconhecer meu código quando fui terminar a viagem.",
+      "fileUrl": null,
+      "feedbackSuccess": "`dejó de` marca o momento em que o processo quebrou.",
+      "feedbackError": "`dejó de` marca o momento em que o processo quebrou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "reconocer",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4eda5150-c534-4e40-b063-18b8074972cc",
+      "title": "Recupere a funcao",
+      "content": "<p>El sistema sirve para ___________ la bicicleta y registrar el trayecto.</p><p>Tradução: O sistema serve para destravar a bicicleta e registrar o trajeto.</p>",
+      "contentPlain": "El sistema sirve para ___________ la bicicleta y registrar el trayecto. Tradução: O sistema serve para destravar a bicicleta e registrar o trajeto.",
+      "fileUrl": null,
+      "feedbackSuccess": "Desbloquear é a primeira função do sistema: liberar a bicicleta com o código.",
+      "feedbackError": "Desbloquear é a primeira função do sistema: liberar a bicicleta com o código.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desbloquear",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "976763f7-c21b-4d5f-a8c6-c19aaa1b8772",
+      "title": "Ouça o resumo da explicação",
+      "content": "<p>Marque só as palavras que aparecem quando mecanismo, função e falha voltam na mesma fala.</p>",
+      "contentPlain": "Marque só as palavras que aparecem quando mecanismo, função e falha voltam na mesma fala.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c73bb126c9204e9b92abcac17f1710bb_b09-recap-funciona-sirve-y-dejo-de.mp3?Expires=1794099743&Signature=cE~6wUsJxraTCi~T1C3pGj4etUH2U3pdsyq2TJmM9ePRngNN0rWUdc64ZZa-PfC17egTrIkCxaD~RC4CxMtyBwf6O47aSIkDd96Ij8D7Bu1m4TTVHgvV9AubKbtxa8DbDmGCAGbiyLTrig0suEOhauRbS3Uh4edJ8zcm8gjOvnmnVJSD9BMQ0joJsjgteQtEydlJBH6ovbSVYrA7h4hLtKtbVq08UDl~BxCS1vnjy5ZQBMbcpvcFfGAaQ9iM87W9WNYQraKnZg8KlhI55LNT1lcypUV9O2jJQEGGYD83nEDoXFR4gDEJadhYOGBdycI3Allp1qMhLStllpIKjzfdLg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O resumo oral junta mecanismo, função e falha numa explicação mais precisa.",
+      "feedbackError": "O resumo oral junta mecanismo, função e falha numa explicação mais precisa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2ff26ce8-a9af-4fe1-a7c2-966770c62020",
+          "textContent": "anoche",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "976763f7-c21b-4d5f-a8c6-c19aaa1b8772"
+        },
+        {
+          "id": "33eb895f-328e-49c2-9e87-6864fc50627a",
+          "textContent": "rutina",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "976763f7-c21b-4d5f-a8c6-c19aaa1b8772"
+        },
+        {
+          "id": "84a78fd7-21d8-45a8-aacd-3724e3b0a84b",
+          "textContent": "desbloquear",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "976763f7-c21b-4d5f-a8c6-c19aaa1b8772"
+        },
+        {
+          "id": "bb0c9a68-c9b7-4436-afac-792bb2d84df7",
+          "textContent": "funciona",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "976763f7-c21b-4d5f-a8c6-c19aaa1b8772"
+        },
+        {
+          "id": "cfa7813b-6ea5-42e6-935f-fad33c5c8183",
+          "textContent": "código",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "976763f7-c21b-4d5f-a8c6-c19aaa1b8772"
+        },
+        {
+          "id": "e6939559-e852-4193-9d3d-fac77e2a2ac2",
+          "textContent": "devolución",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "976763f7-c21b-4d5f-a8c6-c19aaa1b8772"
+        },
+        {
+          "id": "ed2a56f2-aa01-44bb-ad96-2737f3bc478e",
+          "textContent": "garantía",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "976763f7-c21b-4d5f-a8c6-c19aaa1b8772"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "89340278-bb72-483b-bca0-0c01c073af59",
+      "title": "Recupere a função",
+      "content": "<p>El sistema _____ para desbloquear la bicicleta y registrar el trayecto.</p><p>Tradução: O sistema serve para destravar a bicicleta e registrar o trajeto.</p>",
+      "contentPlain": "El sistema _____ para desbloquear la bicicleta y registrar el trayecto. Tradução: O sistema serve para destravar a bicicleta e registrar o trajeto.",
+      "fileUrl": null,
+      "feedbackSuccess": "`sirve para` mostra a utilidade prática do sistema.",
+      "feedbackError": "`sirve para` mostra a utilidade prática do sistema.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sirve",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Explicar como algo deveria funcionar"
+}

@@ -1,0 +1,582 @@
+{
+  "attemptId": "62e811ca-eb68-4b37-b5e7-12f3696c8244",
+  "exercises": [
+    {
+      "exerciseId": "5fcfc376-2f04-4a83-9599-2ca632fcba9f",
+      "sequence": 1,
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "title": "Escolha o melhor resumo",
+      "content": "<p>Qual resumo em espanhol respeita a leitura territorial construída no texto final?</p>",
+      "contentPlain": "Qual resumo em espanhol respeita a leitura territorial construída no texto final?",
+      "fileUrl": null,
+      "feedbackSuccess": "O texto final apresenta um território de transição, não uma paisagem costeira genérica.",
+      "feedbackError": "O texto final apresenta um território de transição, não uma paisagem costeira genérica.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "19af4659-965d-46a1-8e2d-a2aed69ad6a1",
+          "text": "La escena muestra una sierra aislada sin litoral ni cambios de agua.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7fd71233-5a34-44a0-bfa3-dafe67f77815",
+          "text": "El territorio combina sierra, humedal y desembocadura en una zona de transición.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "827ea34d-5370-4a4c-a0de-14b81a495dbf",
+          "text": "El lugar se describe como una playa abierta y lineal sin influencia del río.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ffd94701-47e3-4208-873c-7dae470c56a8",
+          "text": "El humedal reemplaza por completo al cauce y elimina la desembocadura.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b517def8-0811-4f4d-9304-21c963c342a7",
+      "sequence": 2,
+      "lessonId": "2d55b2ab-c92c-4171-bc8f-49774cdd2dd2",
+      "title": "Recupere a condição do dia",
+      "content": "<p>Si el día amanece ________, prefiero un recorrido breve y resguardado.</p><p>Tradução: Se o dia amanhece encoberto, prefiro um percurso breve e protegido.</p>",
+      "contentPlain": "Si el día amanece ________, prefiero un recorrido breve y resguardado. Tradução: Se o dia amanhece encoberto, prefiro um percurso breve e protegido.",
+      "fileUrl": null,
+      "feedbackSuccess": "A linha da serra instala cedo a condição do dia para orientar o comentário inteiro.",
+      "feedbackError": "A linha da serra instala cedo a condição do dia para orientar o comentário inteiro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cubierto",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ac0f0e49-ec48-4916-9adf-ddd37651d699",
+      "sequence": 3,
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "title": "Separe as leituras do percurso",
+      "content": "<p>Ligue cada trecho em espanhol ao efeito de percurso que ele faz aparecer sem tradução palavra por palavra.</p>",
+      "contentPlain": "Ligue cada trecho em espanhol ao efeito de percurso que ele faz aparecer sem tradução palavra por palavra.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta frase, a aula não separa clima de deslocamento: ela lê o efeito no ritmo.",
+      "feedbackError": "Nesta frase, a aula não separa clima de deslocamento: ela lê o efeito no ritmo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "28e9c57e-98bc-461f-83c0-709511533d36",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cfeabda4-450a-489f-a1ca-5f20e8efbd1e",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "6fb9ca9e-8251-4f1e-912e-b8797c2bb0fa",
+          "leftContent": "nos hicieron frenar",
+          "rightContent": "o vento obrigou a reduzir o passo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e674f8dc-8984-46a2-b78b-13c3b7153d7f",
+          "leftContent": "volvió pesado el tramo final",
+          "rightContent": "o calor tornou o fim mais exigente",
+          "sequenceItem": 2
+        },
+        {
+          "id": "802c581d-d471-42e8-bfce-0dafca20acf2",
+          "leftContent": "alargó cada parada",
+          "rightContent": "a garoa alongou o ritmo das pausas",
+          "sequenceItem": 3
+        },
+        {
+          "id": "701d8776-cecf-44a1-84e1-426131c8ac87",
+          "leftContent": "parecía corta",
+          "rightContent": "o trajeto parecia curto antes da mudança",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "937aa95a-bfc2-4915-af03-ca572b127767",
+      "sequence": 4,
+      "lessonId": "2d55b2ab-c92c-4171-bc8f-49774cdd2dd2",
+      "title": "Recupere a condição do dia",
+      "content": "<p>Si el día amanece ________, prefiero un recorrido breve y resguardado.</p><p>Tradução: Se o dia amanhece encoberto, prefiro um percurso breve e protegido.</p>",
+      "contentPlain": "Si el día amanece ________, prefiero un recorrido breve y resguardado. Tradução: Se o dia amanhece encoberto, prefiro um percurso breve e protegido.",
+      "fileUrl": null,
+      "feedbackSuccess": "A linha da serra instala cedo a condição do dia para orientar o comentário inteiro.",
+      "feedbackError": "A linha da serra instala cedo a condição do dia para orientar o comentário inteiro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cubierto",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0a72f4d6-5898-42ea-a1ad-299f236346dc",
+      "sequence": 5,
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "title": "Relacione pista e inferência",
+      "content": "<p>Associe os trechos do microtexto final à leitura mais precisa que eles permitem.</p>",
+      "contentPlain": "Associe os trechos do microtexto final à leitura mais precisa que eles permitem.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio aqui é ler como cada pista restringe a interpretação do território.",
+      "feedbackError": "O desafio aqui é ler como cada pista restringe a interpretação do território.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "113f1a63-12ef-4bec-813d-659fd05ff25d",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e9dec765-b6e6-41fa-90d4-e97786de5de7",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "631086c0-5ab5-4ad7-9d18-47acb4944e46",
+          "leftContent": "desde la sierra",
+          "rightContent": "afasta a ideia de planície uniforme",
+          "sequenceItem": 1
+        },
+        {
+          "id": "95ca5552-96cf-47d9-b92b-a58b19de37cb",
+          "leftContent": "hasta un humedal costero",
+          "rightContent": "introduz transição entre terra e água",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1239c535-b185-4d56-ae00-84dd10c32eea",
+          "leftContent": "ensancha su cauce",
+          "rightContent": "acrescenta variação ao curso do rio",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a9aa5731-2961-4d2f-b357-8ad56abc309e",
+          "leftContent": "no como una playa abierta sin matices",
+          "rightContent": "bloqueia uma leitura genérica do litoral",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "415208b3-79b1-4e9d-a8fb-2c53f2a7662f",
+      "sequence": 6,
+      "lessonId": "5ab5dc94-9b35-4fde-a515-e36c2283da23",
+      "title": "Recupere o arranque brusco",
+      "content": "<p>Con la primera granizada, nos _______ a correr hacia el refugio.</p><p>Tradução: Com a primeira granizada, saímos correndo em direção ao refúgio.</p>",
+      "contentPlain": "Con la primera granizada, nos _______ a correr hacia el refugio. Tradução: Com a primeira granizada, saímos correndo em direção ao refúgio.",
+      "fileUrl": null,
+      "feedbackSuccess": "Echarse a faz a ação soar mais brusca e reativa diante do clima.",
+      "feedbackError": "Echarse a faz a ação soar mais brusca e reativa diante do clima.",
+      "answerType": "buildWord",
+      "expectedAnswer": "echamos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "cc945354-3644-4b05-baec-b8835ef7dd96",
+      "sequence": 7,
+      "lessonId": "bf03656e-b014-45c3-bc70-e771db1052d1",
+      "title": "Reconstrua as partes do comentário",
+      "content": "<p>Resolva sem apoio em português, distinguindo qual fragmento central pertence a cada áudio.</p>",
+      "contentPlain": "Resolva sem apoio em português, distinguindo qual fragmento central pertence a cada áudio.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta integrada recompone problema local, risco de rota e recomendação curta.",
+      "feedbackError": "A escuta integrada recompone problema local, risco de rota e recomendação curta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "132c9857-ea99-4111-8baa-4745a188fd79",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b3fa34136cad4533929253c8336a8e3a_l05b01-la-presion-sobre-el-humedal.mp3?Expires=1794099897&Signature=gqokDnA5MYXVO4m5xTfsskqsuZ9tzoHBXXeKKPtQIUmLsfPqE8JFmW8iH7kXrwIryNoH2fxww6QY6cbkV2ulnojgMp4cYAgslHcbsGZwZfu~VJMfAY3Z1VHlc6VYtycJAKNgt9BimExWht7E6lAFdnO~xD03IqgjmFeTHO2gMINhLhjZfsopWwhok3xm4Ibed4ZUq1YlRNEfcmrsLiZHDvd5af1BPlwKJ4bQ8ujq77t7W1y97ZpKqdwX6xaG5S2GEpOKUt4VsayGJ8IjmGtii9jATgU7u~EXRJgSxQkSeOszOEjap7PXt9VVtl~zHpwAHG5-X2x5YUKJnmo8phAdXA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "ya está limitando las visitas de fin de semana",
+          "sequenceItem": 1
+        },
+        {
+          "id": "234724b8-d0d6-4ec2-9ffe-2af73564f92d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6c9e869324f54d0b91680957c220a249_l05b03-si-vuelve-a-cambiar-el-tiempo.mp3?Expires=1794099897&Signature=tZMnhIza2~FYgP2rOwTo76EUBRUQkozadwVdVnoMRl4ovHzGTn-Dnr1MCw4EKR-JR9qNX4n264cgXZE9CCzaUUkDp5lJGUWW2u9TL3rlvcYODfSZI7pL17AHyMaIQrOg282wQ~KBQfiaXWmohsJYSM6VY7BhGG-aURCgARiSk~8IeI9nJAyFfU6xVI~us24933SiBn7V8yxbjobfiZZsLBHVMO79bA6utf3CIFXoMA3YnmWdFrzwKGePZF~jnO-9Fa3CpSRxmLbUwKpwYsPHSObq9wHwsP-aW~spmWllYCKjh-YPCiPlV86ZSHqlHDmcgcHvoEe~LaWeYwENoIbSAw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "la ruta deja de ser recomendable",
+          "sequenceItem": 2
+        },
+        {
+          "id": "07aa12bc-081e-42c0-994d-bbe2d225e6ea",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/04f892d06472483b8b096d6f7e05d224_l05b05-yo-diria-que-hoy-conviene.mp3?Expires=1794099897&Signature=rKff3wBHGp4bok5L5JxjtxHAaDY8i2I9TRg7CSYf~NNzVhPTC0QJJuk8JhIx~i7MYX4QblwzsijNwl0ggy3bQOpa2Vv2HGLjtdiJdIrZbaBcMqmq5PdTObUFuFBa6cXLRAIcXbopshG-gqVyXen7npQtJ7JahVtk24RE~0Nkts7Sj-7dewGpBTkkPDcsotcZPNI-tRdhJADV5QbY2rvR~lGPRHacSA7En4N2-spjJyaLY4fo6RYLl7KpvvADrXmlC55E6pyx6gn7eB2IO0pu~WyDivVaOj2gpTE3Co3fkGeooIJGDzwBuSMG69ilydPkumaWU4tOkHQtdkcrp9m0yA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hoy conviene quedarse cerca del pueblo",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "41906dbc-3abd-479c-8e98-37e9ba8443e3",
+      "sequence": 8,
+      "lessonId": "5ab5dc94-9b35-4fde-a515-e36c2283da23",
+      "title": "Recupere a recência",
+      "content": "<p>Ahora mismo ________ de dejar las mochilas en el refugio y ya anuncian otra tormenta.</p><p>Tradução: Agora mesmo acabamos de deixar as mochilas no refúgio, e já anunciam outra tormenta.</p>",
+      "contentPlain": "Ahora mismo ________ de dejar las mochilas en el refugio y ya anuncian otra tormenta. Tradução: Agora mesmo acabamos de deixar as mochilas no refúgio, e já anunciam outra tormenta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Acabar de puxa para o presente uma ação terminada há segundos ou minutos.",
+      "feedbackError": "Acabar de puxa para o presente uma ação terminada há segundos ou minutos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "acabamos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b80313fb-23f1-44ce-8aae-2806d2bd93eb",
+      "sequence": 9,
+      "lessonId": "2d55b2ab-c92c-4171-bc8f-49774cdd2dd2",
+      "title": "Recupere as palavras-chave do recap",
+      "content": "<p>Marque somente as palavras que entram no recap dos dois estilos, sem apoio em tradução.</p>",
+      "contentPlain": "Marque somente as palavras que entram no recap dos dois estilos, sem apoio em tradução.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5efddf5eb1be4c4a8826764c171dbeb5_phase4-b08-recap-estilos-de-trayecto.mp3?Expires=1794099897&Signature=URE18Ouj2P0jLeDkEOrFR6btE6Jv0sgKPC~vqhcmoPO2n5o2uHfmTdNXWiCKybHEnetN6pzxcYIUX~AEyDTFLW3wjPHZHkUZTR0TNowiz1uNAjbuZkclCwXyUjb4YC1vsKPzSx0VPn1ncxxHEuZuPJ9DmDPcMloQufo4xwA6EbUstkHtsfd9-w2sv6h7x~Yr9j02k97w6~76r4ZhsceqAi3Km-zbodBZyY6VfwiYY3vUUu8rZZHfQ~Tb4Ymr4BpyRL3e~Vuq-bVZHh08RMYbUQPLKPGt3LlfsWb8B2vxM9jQQ3UjA9HCmxrZMm3KuhbofosZlg5uuR7k1lw2ihou3g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap fecha a aula reunindo as palavras que amarram região, condição e estilo de trajeto.",
+      "feedbackError": "O recap fecha a aula reunindo as palavras que amarram região, condição e estilo de trajeto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1e0704ad-be1e-4f4d-a2aa-a0f50efb79a4",
+          "text": "tormenta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2e16ed8a-c47c-4d93-ac68-25afce126a19",
+          "text": "seco",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3a89baca-53ae-4bf7-a186-d393c4f25e04",
+          "text": "valle",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3d4d5d9f-197b-4271-9430-ec96d430860b",
+          "text": "techo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "418be9fb-404e-4ccc-af23-0c0cf01144be",
+          "text": "resguardado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "57664252-bcc5-47c1-9a39-d40aca5bc433",
+          "text": "viento",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "81ededd8-14a2-4dd8-8b71-4bc3bfe7f474",
+          "text": "ligero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "88dc4078-a215-4dea-b215-8d78e0f8f0c7",
+          "text": "largo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f5bdbf71-4e8e-496a-b940-3f0bb3646321",
+          "text": "cubierto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ffdb1752-eb1f-4aca-ba5a-b94b30aeee79",
+          "text": "sierra",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fff976e1-541b-45e2-92c3-78bab14d096d",
+          "text": "costa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "9e6547c4-4b17-4250-a03f-e11338370759",
+      "sequence": 10,
+      "lessonId": "7dc55a1e-be04-457a-9ba8-898430106b51",
+      "title": "Recupere o ganho da espera",
+      "content": "<p>Si el cielo se abre al final de la tarde, merece la ____ esperar un poco.</p><p>Tradução: Se o céu abrir no fim da tarde, vale a pena esperar um pouco.</p>",
+      "contentPlain": "Si el cielo se abre al final de la tarde, merece la ____ esperar un poco. Tradução: Se o céu abrir no fim da tarde, vale a pena esperar um pouco.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com merece la pena, a aula pesa atraso curto e melhora provável.",
+      "feedbackError": "Com merece la pena, a aula pesa atraso curto e melhora provável.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pena",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a3a71b26-8341-4aa1-91b2-3c3c12bc09d0",
+      "sequence": 11,
+      "lessonId": "bf03656e-b014-45c3-bc70-e771db1052d1",
+      "title": "Filtre o recap pela escuta",
+      "content": "<p>Resolva só pela escuta, recuperando palavras espalhadas pelas três partes do comentário final.</p>",
+      "contentPlain": "Resolva só pela escuta, recuperando palavras espalhadas pelas três partes do comentário final.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/865806963eb74bc1b638aa7fe3873214_l05b07-comentario-ambiental-completo.mp3?Expires=1794099897&Signature=tYEFQOeZ6GopKU2XJk52MY4mjDJBcknqf7Ly16tpTRtNcKLI5aYC25oxu3eYPYOH69SD85DKPli5fcth1kM~E8YOGp2tPctYeB-h2Lq886i1vwbG5TrcxDAvUpZdPcIf-cdIaPYEU9sHxKuUqMujRluE6~zfS-eJ5DHgSuJLFylwecelz~7qkuCRCmoyiMj0otATG8rywiJ43yZwu42wqIXkqb5ELI7jprxkSb3OMz1SGtLWRw3YNOhjtAI2rNRiagWAfHFai6XELOvj5XFFsa5C9-6jbk~uwn2awRUNvA1cGZz57cRAyWtaJh2DSSJfyh1ujtDwaMlwiepw4sIZWQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final junta pressão ambiental, mudança de tempo e conselho numa única sequência oral.",
+      "feedbackError": "O recap final junta pressão ambiental, mudança de tempo e conselho numa única sequência oral.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "15fe1283-e0c5-4436-931b-dbfbb350d137",
+          "text": "limitando",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "575898e7-596d-4460-93d1-ff380d6877df",
+          "text": "conviene",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bf043e23-0c34-4853-b75c-eb277d35b7a8",
+          "text": "recomendable",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d429f0db-7cc5-4c1e-b89f-274e559a2146",
+          "text": "tormenta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e7fc73e0-aa77-435b-a833-d685445f6ae3",
+          "text": "humedal",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c1a1961b-c062-4849-94c0-505b60033bc8",
+      "sequence": 12,
+      "lessonId": "7dc55a1e-be04-457a-9ba8-898430106b51",
+      "title": "Complete a reserva final",
+      "content": "<p>Con esa niebla en el mirador, no acabo de _____ para subir ahora.</p><p>Tradução: Com essa neblina no mirante, não vejo muito sentido em subir agora.</p>",
+      "contentPlain": "Con esa niebla en el mirador, no acabo de _____ para subir ahora. Tradução: Com essa neblina no mirante, não vejo muito sentido em subir agora.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com no acabo de verlo, a aula freia a ideia sem soar brusca.",
+      "feedbackError": "Com no acabo de verlo, a aula freia a ideia sem soar brusca.",
+      "answerType": "buildWord",
+      "expectedAnswer": "verlo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "64ace0c2-513a-4aab-821d-017ddc33c4b5",
+      "sequence": 13,
+      "lessonId": "7dc55a1e-be04-457a-9ba8-898430106b51",
+      "title": "Reconstrua os conselhos pela escuta",
+      "content": "<p>Resolva sem apoio em português, distinguindo pela escuta o ajuste imediato, a espera avaliada e a reserva tática.</p>",
+      "contentPlain": "Resolva sem apoio em português, distinguindo pela escuta o ajuste imediato, a espera avaliada e a reserva tática.",
+      "fileUrl": null,
+      "feedbackSuccess": "A integração final distingue cortar, esperar e frear o plano só pela escuta.",
+      "feedbackError": "A integração final distingue cortar, esperar e frear o plano só pela escuta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8282402c-2b24-4aad-86b2-9c386d10555e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6d3e1d90c51947809242001bb5d05c66_b02-con-esta-llovizna-intermitente-conviene-acortar-la-ruta.mp3?Expires=1794099897&Signature=TSD0EQn~B47t6S4EWaSPmlUutJGzLEalHAJ~bONOBKyr2YYcLhZCvuj8jfmIzATtAoyq864otBdrykswFO3XlkTbshw8q31HzM6u-jHJd3pq1ptjEG0Nm2gsfB4JusrBpJl4lZ~Cvh6RlbnTQC79Z2cuRZ-PSygKgTRePB5E-lTq0f~YdZXsqcel1sDJ2hbnVZYr7YcAkoLhvkwIzHe1rIqcSzLLD9B-zd41q0vYA6rstTOFglxw3NpUGITmHloWGQZwJCuPdlDKnkIPKVUj22ORtS0Y1M1oe7Qstdhv8zDli~PJpeFaQFREseWaCl9DQO8cRI-MHfiy8mTMk~jHBQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "conviene acortar la ruta",
+          "sequenceItem": 1
+        },
+        {
+          "id": "192e073c-9140-444e-995b-a3d7769620c9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c1ed08cdd9a54e90b8dbafb2e311cb9d_b04-si-el-cielo-se-abre-al-final-de-la-tarde-merece-la-pena-esperar-un-poco.mp3?Expires=1794099897&Signature=TctQ1Xrqk9MDEt5NYcFxllr7s8MLYFHC0vCzhqX7qZ6OrhWpabaeEU7r32nh9Rl32IsCtZZETsSnVGjZlg5Q9LQSxYgSFk~fTzPuQF-aathTFE~XwqyVpuKtNgqbFhsBAW-y6gRrheU1MFzhAXO97cisiz9Gm2Z8ci8PQJfr7rgBbWApyfB1gVTiZCkqgeidNebdwZ0WWVT2ttRraG29rszsAZozySFRUJUeYwIrlWFby95EIPoE2GQXHcTrJElRhVSD0vGx8az20tzyfiI~EhIXZ2mQ3DFEwRyyzIVIcPyH0M7QIE6pXOM2lq9Pe7L-l1bAmBK4yB7zXbrVHhjhIA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "merece la pena esperar un poco",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5623e697-0380-4707-a732-5e461d050a0f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fa5ddbe7afc5430b953049f7576b8c4b_b06-con-esa-niebla-en-el-mirador-no-acabo-de-verlo-para-subir-ahora.mp3?Expires=1794099897&Signature=xDEHQZSjKp8Zk5~4XJmPqVILuCZshLBlOjZNbnbg7YFBSGUPMS22EiDBDR7jY3V3Nhy1-xa6Tqx-Y9MR5yzR1csoZyaKy2Jkz6eAJXr-gbfB~TiIj5UyLvuw24e-XiiFxpNBTvjLxEry0q3c6QIAn-aukxsG0QgKxHdpEuu0ibMfk43LwtE2ed7lvopUWDKvCB4z5wcLmK-J7QhY109UjO5jazj74QR2WOOe3pJ~G1FBUJ~Oqc6joCbZ-APOi0F50qhtPW05r3DCVXWEgtugFpFJa-Y2WF4OK65B~Yn-~LzrzPDhbhM8eFsQOxCTvtmdJyec8voofv3LN65vgXa5vQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "no acabo de verlo para subir ahora",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "a15d0557-ae7a-410c-af3e-308357dc0e80",
+      "sequence": 14,
+      "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+      "title": "Transfira o vocabulário",
+      "content": "<p>Ligue cada termo em espanhol a um contexto de uso real citado no recap.</p>",
+      "contentPlain": "Ligue cada termo em espanhol a um contexto de uso real citado no recap.",
+      "fileUrl": null,
+      "feedbackSuccess": "No recap, o vocabulário aparece como ferramenta para entender textos reais sobre território.",
+      "feedbackError": "No recap, o vocabulário aparece como ferramenta para entender textos reais sobre território.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7be45018-e781-4925-9425-8b285bd4ddc9",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d5dba796-5738-4624-b3d2-15778d91fa08",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "965362bd-418d-41b2-b832-931a60e914e7",
+          "leftContent": "desembocadura",
+          "rightContent": "guia local que explica encontro entre rio e mar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "181599fe-50f5-4fca-8f40-c9320c27bc96",
+          "leftContent": "cauce",
+          "rightContent": "descrição de trilha que acompanha o curso do rio",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8bb7429a-605f-4ff2-aa17-9b3dd266605d",
+          "leftContent": "humedal",
+          "rightContent": "texto sobre conservação e pressão ambiental",
+          "sequenceItem": 3
+        },
+        {
+          "id": "e4f0c23c-8499-418e-bf3f-2b3b3c81c96b",
+          "leftContent": "sierra",
+          "rightContent": "apresentação regional com relevo e acessos sinuosos",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "120333b2-28cf-4f7a-9a6e-88c8bbe5060f",
+      "sequence": 15,
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "title": "Filtre a rota pela escuta",
+      "content": "<p>Resolva só pela escuta e selecione apenas as palavras presentes no comentário.</p>",
+      "contentPlain": "Resolva só pela escuta e selecione apenas as palavras presentes no comentário.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f220742521e3481899a42c6230fd1c6d_b06-cauce-municipio-llovizna.mp3?Expires=1794099897&Signature=yropcf1MHlZnQUo3Yw-zIZVYnxnAZK57hvQHIAdx6MV1esSqcFV9KqeVt1lFAeLVd32nrloxDPgmm-ML7ZdzuMT-5Mg37PPSmau37AW8F1uMmYnbqx0AGjBPASyJUo4vnGg2L4ymbp71t2mAELWTorg39RptJHzDPqOKYicMynkLDsQ6tDU4a95lN2nWcrisGdrIwMUU4HSJEDjEIfsME0yG390y6U7EwllcZm04O~Ari9AEeSZh4W1aJFKiGTFYzoATms9vzaWdNu2JW0n7nl2IOk-CrE01hrB~mahp-AKEnSYB9AIPnH3XPoguJ6wpz5g1vlkkIndrHFzG9nBKLA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta frase, a escuta precisa reconhecer lugar e condição dentro da mesma linha curta.",
+      "feedbackError": "Nesta frase, a escuta precisa reconhecer lugar e condição dentro da mesma linha curta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "03b142ed-2b39-4afa-9cc0-50941f0c36bc",
+          "text": "municipio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "921ef237-7ea9-4a26-928c-1ac53153416a",
+          "text": "desembocadura",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ae1b7504-b5c5-447b-98fb-1a67e29fe7e5",
+          "text": "sendero",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d2510497-c09a-455d-acfc-617c9057e377",
+          "text": "llovizna",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f2bc8f1f-8fa1-44dd-b535-0869854b3ea4",
+          "text": "cauce",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

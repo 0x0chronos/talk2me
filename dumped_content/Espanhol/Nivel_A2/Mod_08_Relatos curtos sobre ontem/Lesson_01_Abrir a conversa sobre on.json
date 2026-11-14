@@ -1,0 +1,542 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+    "attemptId": "5955b56d-cd03-487a-8ec6-18b664c897a7",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "291a1344-b314-464b-94a9-09bb40df9746",
+      "2ba06a0d-794c-4861-be70-d553c7b9f32c",
+      "5d740c9c-8c96-44e3-b089-a6b315e5d8ca",
+      "59111bbb-4e85-4f45-bfae-a8a37bf861fc",
+      "dbdd6be2-365e-4a99-87d1-be94a73aaa66"
+    ],
+    "evaluationExerciseIds": [
+      "ef8aea2b-3c4d-4f97-bb68-5851d1bf29c9",
+      "2ac79973-510e-47e9-a8bc-adaba08be357",
+      "8bdf1154-a599-4e85-9d51-9b00adc198e6",
+      "045f0b8c-e127-4eff-8d27-db896ad229a2",
+      "2cc80a2b-3f63-4c74-a509-bd0c10d921fd"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:58:56.8489209Z"
+  },
+  "contents": [
+    {
+      "id": "8f5f3a09-459f-49ff-b438-e4a2ac03bdd8",
+      "title": "Escute a palavra em espanhol e ligue ao sentido em português.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "de917b52-8542-44d5-817f-dfa5606345e8",
+          "textContent": "<p>Escute a palavra que situa a conversa no dia anterior.</p><p><strong>Ayer.</strong></p><p>Em português: <strong>Ontem.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3e14e9fc0b5c435ca49840077e1e955c_b01-ayer.mp3?Expires=1794099537&Signature=1yT5BcuM1KqRZV6PZKm8jmVdoDPvy5yYVoR3cdXzdiDUigYtzMmzQwRBPDv6amjdEGB9WhL9NuvqHOxfgp-lp6pOf3OV-Tw0nJJ7fYMCDhQfhp81xzJ33Rs6Oev6qC6Xlb03Nd-SiJAX0iodK1pj0CaIrxPPuv5Z2UJfqxND67vfqzUOYVBjSWvkM7vAZepIdx98E0Dsn7NIrp6RaBr-~I7nFFBhD-4~NoDcwTnNxiOXS251HbGm~Xw0Sw65OgB-N7BAuif0Vdb8~G811cU2Skqotwb9CLzLMLcpfKHPSsTSF1WI59YKSwTFqDLLolxLOD-c~ECfd4DU7~svEqZJUg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d4f55303-02a4-464d-bdcc-240f6fe31bad",
+      "title": "Escute de novo e note que a palavra sempre aponta para o dia anterior.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "5e6ee043-fbc7-48b5-ba4b-f683c10a5f45",
+          "textContent": "<p><strong>Ayer</strong> aponta para o dia anterior.</p><p>Use essa palavra quando você quer situar algo que aconteceu ontem, como numa mensagem ou numa conversa rápida depois do trabalho.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3e14e9fc0b5c435ca49840077e1e955c_b01-ayer.mp3?Expires=1794099537&Signature=1yT5BcuM1KqRZV6PZKm8jmVdoDPvy5yYVoR3cdXzdiDUigYtzMmzQwRBPDv6amjdEGB9WhL9NuvqHOxfgp-lp6pOf3OV-Tw0nJJ7fYMCDhQfhp81xzJ33Rs6Oev6qC6Xlb03Nd-SiJAX0iodK1pj0CaIrxPPuv5Z2UJfqxND67vfqzUOYVBjSWvkM7vAZepIdx98E0Dsn7NIrp6RaBr-~I7nFFBhD-4~NoDcwTnNxiOXS251HbGm~Xw0Sw65OgB-N7BAuif0Vdb8~G811cU2Skqotwb9CLzLMLcpfKHPSsTSF1WI59YKSwTFqDLLolxLOD-c~ECfd4DU7~svEqZJUg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "deef37ec-3663-430d-9c0f-87d07d7974a1",
+      "title": "Escute a pergunta completa e ligue ao sentido em português.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "de025203-9bb0-47a1-8e7d-6fdcfb770028",
+          "textContent": "<p>Escute a pergunta que abre o tema do capítulo.</p><p><strong>¿Qué hiciste ayer?</strong></p><p>Em português: <strong>O que você fez ontem?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3b75b246500a49f2a288e703ad73cbe0_b03-que-hiciste-ayer-context.png?Expires=1794099537&Signature=QsLMnJ40AiY6Ok~85eTXcnXfZmJafxmb4b56JoMNbLpE5f8HMXJME3rievtBCeyjFwkoZmqpkzNKnrAIyC1H4UpyUdkCjtfzm6GlRaWjcLcKgU5hlHCy81krT4KudNUvTNCtUkpExiBDk4-0mqixVM7QBYCy3NHJFFYknv0t5mKa7LF7e5qkUxdTUmJmNAsMXjwFE36eigkz2uOr08~jGMQ022jzMApqxCv3uq82PDP9cONHDpdyGl6wp1HkDXHlJoF6YSIRAZEPJfpf1R2cVawTycYeEisNk7RW7MeWsMWe~tXw4C4CvSge9tMrG9lXWp1UW4axm9VvfElv994d1A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099537&Signature=q0QVwJE7YnfoU6qO~qQbibE4445ElhIgtQ3KPwsHn3EJyOu0E~B7KvfAlDU6IA1MXD0U1EVqpDb4rfY9bUwTuUpefBjBmocMvfWC9UjvPXD2MvBC0lRqbQX904ioS1alI5oerKYY5nc0oqNQWcFoaDS9cf4RRxxLaFY-4XaNmXbhgtZ2wJM-kwpZ0tVVn5SU1K~EylPm5BrLcNfoYrgKTXnNVg0SCFZgZh8JCtFbrGaGO6q2sarc~KcfqfZLKOGvn67HWOe2hfKmQPCZRnAUus1Z1v~m5He1QpPFJq7aUlcQ4uW5E~hVo6AvhU7uEJXgZx78jFFlJBFRXho-8OCtSQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "25ac5be1-8d81-48e5-93f1-5fed42e8ec49",
+      "title": "Escute a pergunta de novo e note em que tipo de encontro ela encaixa bem.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "c6e949bf-55fd-428a-a147-2ee4420d08f4",
+          "textContent": "<p><strong>¿Qué hiciste ayer?</strong> serve para puxar uma conversa curta sobre o dia anterior.</p><p>Ela aparece bem quando você encontra alguém no dia seguinte e quer saber só o essencial.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099537&Signature=q0QVwJE7YnfoU6qO~qQbibE4445ElhIgtQ3KPwsHn3EJyOu0E~B7KvfAlDU6IA1MXD0U1EVqpDb4rfY9bUwTuUpefBjBmocMvfWC9UjvPXD2MvBC0lRqbQX904ioS1alI5oerKYY5nc0oqNQWcFoaDS9cf4RRxxLaFY-4XaNmXbhgtZ2wJM-kwpZ0tVVn5SU1K~EylPm5BrLcNfoYrgKTXnNVg0SCFZgZh8JCtFbrGaGO6q2sarc~KcfqfZLKOGvn67HWOe2hfKmQPCZRnAUus1Z1v~m5He1QpPFJq7aUlcQ4uW5E~hVo6AvhU7uEJXgZx78jFFlJBFRXho-8OCtSQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "adcbe57d-b8d4-4abc-b93d-dbe82eba1808",
+      "title": "Escute de novo e repare nas duas partes destacadas da pergunta.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "be82d9d4-4f40-450a-b4db-ebe401a20ba9",
+          "textContent": "<p>Na pergunta, <strong>hiciste</strong> + <strong>ayer</strong> já levam o assunto para algo que terminou no dia anterior.</p><p>Agora o objetivo é reconhecer esse movimento, sem abrir uma tabela completa de formas verbais.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099537&Signature=q0QVwJE7YnfoU6qO~qQbibE4445ElhIgtQ3KPwsHn3EJyOu0E~B7KvfAlDU6IA1MXD0U1EVqpDb4rfY9bUwTuUpefBjBmocMvfWC9UjvPXD2MvBC0lRqbQX904ioS1alI5oerKYY5nc0oqNQWcFoaDS9cf4RRxxLaFY-4XaNmXbhgtZ2wJM-kwpZ0tVVn5SU1K~EylPm5BrLcNfoYrgKTXnNVg0SCFZgZh8JCtFbrGaGO6q2sarc~KcfqfZLKOGvn67HWOe2hfKmQPCZRnAUus1Z1v~m5He1QpPFJq7aUlcQ4uW5E~hVo6AvhU7uEJXgZx78jFFlJBFRXho-8OCtSQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "baa1007d-2976-48b9-bfd5-b83469b7ffb7",
+      "title": "Leia o recap e pense em quando essa pergunta aparece naturalmente no seu dia a dia.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "769d03c9-f761-4527-baff-bc03711f9e6a",
+          "textContent": "<p>Em mensagens, no café do trabalho ou na chegada à aula, <strong>¿Qué hiciste ayer?</strong> é uma forma natural de puxar assunto sobre o dia anterior.</p><p>Se você reconhece <strong>ayer</strong> e a pergunta completa, já consegue entrar nesse tipo de conversa real com mais segurança.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099537&Signature=q0QVwJE7YnfoU6qO~qQbibE4445ElhIgtQ3KPwsHn3EJyOu0E~B7KvfAlDU6IA1MXD0U1EVqpDb4rfY9bUwTuUpefBjBmocMvfWC9UjvPXD2MvBC0lRqbQX904ioS1alI5oerKYY5nc0oqNQWcFoaDS9cf4RRxxLaFY-4XaNmXbhgtZ2wJM-kwpZ0tVVn5SU1K~EylPm5BrLcNfoYrgKTXnNVg0SCFZgZh8JCtFbrGaGO6q2sarc~KcfqfZLKOGvn67HWOe2hfKmQPCZRnAUus1Z1v~m5He1QpPFJq7aUlcQ4uW5E~hVo6AvhU7uEJXgZx78jFFlJBFRXho-8OCtSQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "291a1344-b314-464b-94a9-09bb40df9746",
+      "title": "Ouça e relacione",
+      "content": "<p>Escute cada áudio e ligue ao texto certo em espanhol.</p>",
+      "contentPlain": "Escute cada áudio e ligue ao texto certo em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta. Você separou a palavra de tempo, o verbo e a pergunta completa.",
+      "feedbackError": "Escute novamente e compare o áudio curto com o áudio da pergunta inteira.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "1afb95a5-427a-478b-97dd-bd9570e939e7",
+          "exerciseId": "291a1344-b314-464b-94a9-09bb40df9746",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3e14e9fc0b5c435ca49840077e1e955c_b01-ayer.mp3?Expires=1794099537&Signature=1yT5BcuM1KqRZV6PZKm8jmVdoDPvy5yYVoR3cdXzdiDUigYtzMmzQwRBPDv6amjdEGB9WhL9NuvqHOxfgp-lp6pOf3OV-Tw0nJJ7fYMCDhQfhp81xzJ33Rs6Oev6qC6Xlb03Nd-SiJAX0iodK1pj0CaIrxPPuv5Z2UJfqxND67vfqzUOYVBjSWvkM7vAZepIdx98E0Dsn7NIrp6RaBr-~I7nFFBhD-4~NoDcwTnNxiOXS251HbGm~Xw0Sw65OgB-N7BAuif0Vdb8~G811cU2Skqotwb9CLzLMLcpfKHPSsTSF1WI59YKSwTFqDLLolxLOD-c~ECfd4DU7~svEqZJUg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "ayer",
+          "sequenceItem": 1
+        },
+        {
+          "id": "cb7c3f4d-cd91-4031-9f8c-fbfb0e06716a",
+          "exerciseId": "291a1344-b314-464b-94a9-09bb40df9746",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4ee25ba727444189be79b2d5a2889031_b05-hiciste.mp3?Expires=1794099537&Signature=q46t5-wZURyvtSeGnVzuG0VMsjEwl6TM9ca27NqriuwO7W77xqqSZt1h8zVVNfu4T1PkHESIm3A1dbPSWfwB7zCTvXxi7BNQjmGlCEJrzAkCJbf3u8bgeVhcv6UhaS7UtPIT~3N8aOhbJ0PqHOTDYbjExl2U3EFqQZ1JulEdjJXDJl0Thh33voXIvMJd0QmfFjx0Q7RKz~hq8PT~2VBNcznv7mWqCZStpZF6HKsXQNKdxaBFmW-lYuZ6q-eXCB9nJvdxAspLUlHP5hEK91APlf0rCocEI5b2Ii7V-RTUpzF4l9Bxf3aPjbjUnQ~V40xCXeEhyBnG-oCCGxU5J58PsA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hiciste",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2cd877ce-a8f9-44cf-af88-6368bc5bd6e5",
+          "exerciseId": "291a1344-b314-464b-94a9-09bb40df9746",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099537&Signature=q0QVwJE7YnfoU6qO~qQbibE4445ElhIgtQ3KPwsHn3EJyOu0E~B7KvfAlDU6IA1MXD0U1EVqpDb4rfY9bUwTuUpefBjBmocMvfWC9UjvPXD2MvBC0lRqbQX904ioS1alI5oerKYY5nc0oqNQWcFoaDS9cf4RRxxLaFY-4XaNmXbhgtZ2wJM-kwpZ0tVVn5SU1K~EylPm5BrLcNfoYrgKTXnNVg0SCFZgZh8JCtFbrGaGO6q2sarc~KcfqfZLKOGvn67HWOe2hfKmQPCZRnAUus1Z1v~m5He1QpPFJq7aUlcQ4uW5E~hVo6AvhU7uEJXgZx78jFFlJBFRXho-8OCtSQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué hiciste ayer?",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "2ba06a0d-794c-4861-be70-d553c7b9f32c",
+      "title": "Encontre a pergunta certa",
+      "content": "<p>Qual pergunta funciona para dizer <strong>O que você fez ontem?</strong></p>",
+      "contentPlain": "Qual pergunta funciona para dizer O que você fez ontem?",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. Essa é a pergunta-âncora que abre o tema do capítulo.",
+      "feedbackError": "Procure a opção que junta a ação concluída com o marcador `ayer`.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "47c42167-ff29-4c7d-8a8d-53e2299b06da",
+          "textContent": "¿Qué hiciste ayer?",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2ba06a0d-794c-4861-be70-d553c7b9f32c"
+        },
+        {
+          "id": "67638133-357e-4608-a1bf-6010a6403c40",
+          "textContent": "¿Dónde estás ahora?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2ba06a0d-794c-4861-be70-d553c7b9f32c"
+        },
+        {
+          "id": "e30833c7-18c4-405f-96a5-64304ad04ff7",
+          "textContent": "¿Qué haces hoy?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2ba06a0d-794c-4861-be70-d553c7b9f32c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5d740c9c-8c96-44e3-b089-a6b315e5d8ca",
+      "title": "Ligue forma e sentido",
+      "content": "<p>Relacione cada item em espanhol com a ideia principal apresentada na aula.</p>",
+      "contentPlain": "Relacione cada item em espanhol com a ideia principal apresentada na aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você conectou as três pistas que estruturam a aula.",
+      "feedbackError": "Retome o bloco de observação e o recap para revisar o papel de `ayer`, `hiciste` e da pergunta completa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "04fe9661-a776-45ad-8aa4-0b52f4eb07d6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5d740c9c-8c96-44e3-b089-a6b315e5d8ca"
+        },
+        {
+          "id": "f49b1c0f-edc1-4e46-b395-618f83c24313",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5d740c9c-8c96-44e3-b089-a6b315e5d8ca"
+        }
+      ],
+      "associations": [
+        {
+          "id": "a63a02a7-998f-4627-b6ec-6dba2153298c",
+          "exerciseId": "5d740c9c-8c96-44e3-b089-a6b315e5d8ca",
+          "leftContent": "ayer",
+          "rightContent": "ontem",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ad4c1899-a0ce-4312-8799-aafa8e528440",
+          "exerciseId": "5d740c9c-8c96-44e3-b089-a6b315e5d8ca",
+          "leftContent": "hiciste",
+          "rightContent": "empurra a conversa para uma ação concluída",
+          "sequenceItem": 2
+        },
+        {
+          "id": "addbd57c-c479-439a-8f04-e3283701f0a0",
+          "exerciseId": "5d740c9c-8c96-44e3-b089-a6b315e5d8ca",
+          "leftContent": "¿Qué hiciste ayer?",
+          "rightContent": "pergunta para abrir uma conversa curta sobre o dia anterior",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "59111bbb-4e85-4f45-bfae-a8a37bf861fc",
+      "title": "Reconheça a palavra-chave",
+      "content": "<p>Qual palavra em espanhol significa <strong>ontem</strong>?</p>",
+      "contentPlain": "Qual palavra em espanhol significa ontem ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. `ayer` é o marcador de tempo que abre este capítulo.",
+      "feedbackError": "Volte ao primeiro bloco e recupere a palavra curta que aponta para o dia anterior.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "134f8f9d-1abe-4e74-afaa-11fd1446196f",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "59111bbb-4e85-4f45-bfae-a8a37bf861fc"
+        },
+        {
+          "id": "2767b840-5569-4a48-8355-47a2a85f9901",
+          "textContent": "mañana",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "59111bbb-4e85-4f45-bfae-a8a37bf861fc"
+        },
+        {
+          "id": "4feebe9a-0eda-47df-89af-3a9d3174f69b",
+          "textContent": "ayer",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "59111bbb-4e85-4f45-bfae-a8a37bf861fc"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "dbdd6be2-365e-4a99-87d1-be94a73aaa66",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a pergunta completa em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a pergunta completa em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099537&Signature=q0QVwJE7YnfoU6qO~qQbibE4445ElhIgtQ3KPwsHn3EJyOu0E~B7KvfAlDU6IA1MXD0U1EVqpDb4rfY9bUwTuUpefBjBmocMvfWC9UjvPXD2MvBC0lRqbQX904ioS1alI5oerKYY5nc0oqNQWcFoaDS9cf4RRxxLaFY-4XaNmXbhgtZ2wJM-kwpZ0tVVn5SU1K~EylPm5BrLcNfoYrgKTXnNVg0SCFZgZh8JCtFbrGaGO6q2sarc~KcfqfZLKOGvn67HWOe2hfKmQPCZRnAUus1Z1v~m5He1QpPFJq7aUlcQ4uW5E~hVo6AvhU7uEJXgZx78jFFlJBFRXho-8OCtSQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa repetição. A pergunta já soa pronta para abrir uma conversa real no dia seguinte.",
+      "feedbackError": "Escute outra vez e repita a frase inteira, mantendo `hiciste ayer` bem conectado.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "¿Qué hiciste ayer?",
+      "typeSpecificData": "{\"expectedText\":\"\\u00BFQu\\u00E9 hiciste ayer?\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099537\\u0026Signature=q0QVwJE7YnfoU6qO~qQbibE4445ElhIgtQ3KPwsHn3EJyOu0E~B7KvfAlDU6IA1MXD0U1EVqpDb4rfY9bUwTuUpefBjBmocMvfWC9UjvPXD2MvBC0lRqbQX904ioS1alI5oerKYY5nc0oqNQWcFoaDS9cf4RRxxLaFY-4XaNmXbhgtZ2wJM-kwpZ0tVVn5SU1K~EylPm5BrLcNfoYrgKTXnNVg0SCFZgZh8JCtFbrGaGO6q2sarc~KcfqfZLKOGvn67HWOe2hfKmQPCZRnAUus1Z1v~m5He1QpPFJq7aUlcQ4uW5E~hVo6AvhU7uEJXgZx78jFFlJBFRXho-8OCtSQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "ef8aea2b-3c4d-4f97-bb68-5851d1bf29c9",
+      "title": "Ouça e selecione",
+      "content": "<p>Qual palavra você ouve?</p>",
+      "contentPlain": "Qual palavra você ouve?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3e14e9fc0b5c435ca49840077e1e955c_b01-ayer.mp3?Expires=1794099537&Signature=1yT5BcuM1KqRZV6PZKm8jmVdoDPvy5yYVoR3cdXzdiDUigYtzMmzQwRBPDv6amjdEGB9WhL9NuvqHOxfgp-lp6pOf3OV-Tw0nJJ7fYMCDhQfhp81xzJ33Rs6Oev6qC6Xlb03Nd-SiJAX0iodK1pj0CaIrxPPuv5Z2UJfqxND67vfqzUOYVBjSWvkM7vAZepIdx98E0Dsn7NIrp6RaBr-~I7nFFBhD-4~NoDcwTnNxiOXS251HbGm~Xw0Sw65OgB-N7BAuif0Vdb8~G811cU2Skqotwb9CLzLMLcpfKHPSsTSF1WI59YKSwTFqDLLolxLOD-c~ECfd4DU7~svEqZJUg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. O áudio traz `ayer`.",
+      "feedbackError": "Escute de novo e procure a palavra curta que aponta para o dia anterior.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "81a55427-1d2d-44c8-a27c-3e6f25275904",
+          "textContent": "mañana",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ef8aea2b-3c4d-4f97-bb68-5851d1bf29c9"
+        },
+        {
+          "id": "9534161e-acc0-4c33-a3a1-06519b24dfab",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ef8aea2b-3c4d-4f97-bb68-5851d1bf29c9"
+        },
+        {
+          "id": "a56f5cbe-0f12-4cd8-9b91-633cc302d49a",
+          "textContent": "ayer",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ef8aea2b-3c4d-4f97-bb68-5851d1bf29c9"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2ac79973-510e-47e9-a8bc-adaba08be357",
+      "title": "Escolha a abertura natural",
+      "content": "<p>Você encontrou alguém no dia seguinte e quer abrir uma conversa rápida sobre o dia anterior. Qual pergunta funciona melhor?</p>",
+      "contentPlain": "Você encontrou alguém no dia seguinte e quer abrir uma conversa rápida sobre o dia anterior. Qual pergunta funciona melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa é a abertura natural para puxar uma conversa curta sobre ontem.",
+      "feedbackError": "Procure a opção que pergunta por uma ação já concluída no dia anterior.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "485b2319-f9b1-4003-a538-0f9d95038ede",
+          "textContent": "¿Qué vas a hacer mañana?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2ac79973-510e-47e9-a8bc-adaba08be357"
+        },
+        {
+          "id": "6ada5370-f28a-4e02-934e-0545605b6503",
+          "textContent": "¿Qué hiciste ayer?",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2ac79973-510e-47e9-a8bc-adaba08be357"
+        },
+        {
+          "id": "f05ec995-ca0f-448b-afd3-a370f1eff014",
+          "textContent": "¿Qué haces ahora?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2ac79973-510e-47e9-a8bc-adaba08be357"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8bdf1154-a599-4e85-9d51-9b00adc198e6",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio ao texto certo usando só as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio ao texto certo usando só as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você conectou os áudios diretamente às formas em espanhol.",
+      "feedbackError": "Repita a escuta comparando o áudio isolado de `hiciste` com a pergunta completa.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "51e64569-9478-41c4-8ea5-1a62b41d5a5d",
+          "exerciseId": "8bdf1154-a599-4e85-9d51-9b00adc198e6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3e14e9fc0b5c435ca49840077e1e955c_b01-ayer.mp3?Expires=1794099537&Signature=1yT5BcuM1KqRZV6PZKm8jmVdoDPvy5yYVoR3cdXzdiDUigYtzMmzQwRBPDv6amjdEGB9WhL9NuvqHOxfgp-lp6pOf3OV-Tw0nJJ7fYMCDhQfhp81xzJ33Rs6Oev6qC6Xlb03Nd-SiJAX0iodK1pj0CaIrxPPuv5Z2UJfqxND67vfqzUOYVBjSWvkM7vAZepIdx98E0Dsn7NIrp6RaBr-~I7nFFBhD-4~NoDcwTnNxiOXS251HbGm~Xw0Sw65OgB-N7BAuif0Vdb8~G811cU2Skqotwb9CLzLMLcpfKHPSsTSF1WI59YKSwTFqDLLolxLOD-c~ECfd4DU7~svEqZJUg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "ayer",
+          "sequenceItem": 1
+        },
+        {
+          "id": "18272dc9-2b5f-49a2-9528-16ac3f6a2538",
+          "exerciseId": "8bdf1154-a599-4e85-9d51-9b00adc198e6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4ee25ba727444189be79b2d5a2889031_b05-hiciste.mp3?Expires=1794099537&Signature=q46t5-wZURyvtSeGnVzuG0VMsjEwl6TM9ca27NqriuwO7W77xqqSZt1h8zVVNfu4T1PkHESIm3A1dbPSWfwB7zCTvXxi7BNQjmGlCEJrzAkCJbf3u8bgeVhcv6UhaS7UtPIT~3N8aOhbJ0PqHOTDYbjExl2U3EFqQZ1JulEdjJXDJl0Thh33voXIvMJd0QmfFjx0Q7RKz~hq8PT~2VBNcznv7mWqCZStpZF6HKsXQNKdxaBFmW-lYuZ6q-eXCB9nJvdxAspLUlHP5hEK91APlf0rCocEI5b2Ii7V-RTUpzF4l9Bxf3aPjbjUnQ~V40xCXeEhyBnG-oCCGxU5J58PsA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hiciste",
+          "sequenceItem": 2
+        },
+        {
+          "id": "475af233-7cef-478e-9f0e-395e9231b93f",
+          "exerciseId": "8bdf1154-a599-4e85-9d51-9b00adc198e6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099537&Signature=q0QVwJE7YnfoU6qO~qQbibE4445ElhIgtQ3KPwsHn3EJyOu0E~B7KvfAlDU6IA1MXD0U1EVqpDb4rfY9bUwTuUpefBjBmocMvfWC9UjvPXD2MvBC0lRqbQX904ioS1alI5oerKYY5nc0oqNQWcFoaDS9cf4RRxxLaFY-4XaNmXbhgtZ2wJM-kwpZ0tVVn5SU1K~EylPm5BrLcNfoYrgKTXnNVg0SCFZgZh8JCtFbrGaGO6q2sarc~KcfqfZLKOGvn67HWOe2hfKmQPCZRnAUus1Z1v~m5He1QpPFJq7aUlcQ4uW5E~hVo6AvhU7uEJXgZx78jFFlJBFRXho-8OCtSQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué hiciste ayer?",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "045f0b8c-e127-4eff-8d27-db896ad229a2",
+      "title": "Ouça o final da pergunta",
+      "content": "<p>Na pergunta completa, qual é a última palavra que você ouve?</p>",
+      "contentPlain": "Na pergunta completa, qual é a última palavra que você ouve?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5fcf8dde4d5e47989ea215c81b25b565_b03-que-hiciste-ayer.mp3?Expires=1794099537&Signature=q0QVwJE7YnfoU6qO~qQbibE4445ElhIgtQ3KPwsHn3EJyOu0E~B7KvfAlDU6IA1MXD0U1EVqpDb4rfY9bUwTuUpefBjBmocMvfWC9UjvPXD2MvBC0lRqbQX904ioS1alI5oerKYY5nc0oqNQWcFoaDS9cf4RRxxLaFY-4XaNmXbhgtZ2wJM-kwpZ0tVVn5SU1K~EylPm5BrLcNfoYrgKTXnNVg0SCFZgZh8JCtFbrGaGO6q2sarc~KcfqfZLKOGvn67HWOe2hfKmQPCZRnAUus1Z1v~m5He1QpPFJq7aUlcQ4uW5E~hVo6AvhU7uEJXgZx78jFFlJBFRXho-8OCtSQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. A pergunta termina com `ayer`, que ancora o tema no dia anterior.",
+      "feedbackError": "Escute outra vez e foque na palavra final da pergunta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "37b6cc51-cad5-490b-aedd-54a97d360a6d",
+          "textContent": "ayer",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "045f0b8c-e127-4eff-8d27-db896ad229a2"
+        },
+        {
+          "id": "6639eeba-803a-4f3d-89b0-a09413663192",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "045f0b8c-e127-4eff-8d27-db896ad229a2"
+        },
+        {
+          "id": "a58cbf90-3ff6-48d5-b462-f3cee13122ae",
+          "textContent": "ahora",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "045f0b8c-e127-4eff-8d27-db896ad229a2"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2cc80a2b-3f63-4c74-a509-bd0c10d921fd",
+      "title": "Recupere a forma que falta",
+      "content": "<p>¿Qué _______ ayer?</p>",
+      "contentPlain": "¿Qué _______ ayer?",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. `hiciste` é a forma que, junto com `ayer`, leva a pergunta para o passado.",
+      "feedbackError": "Volte ao bloco de observação e recupere a forma verbal destacada na pergunta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hiciste",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a2e27c2b-b931-4716-bac7-8c27be395980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Abrir a conversa sobre ontem"
+}

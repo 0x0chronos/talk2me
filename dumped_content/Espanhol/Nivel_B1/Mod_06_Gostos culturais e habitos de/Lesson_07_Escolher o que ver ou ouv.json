@@ -1,0 +1,589 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+    "attemptId": "ec7807f0-454e-46a1-859f-fa1a9c7ddd75",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "6d8e7dd9-743b-44d7-bb55-c027b1b61594",
+      "8742cdde-9bef-4792-a66e-ea8a7dc4717b",
+      "6709f428-b0da-4766-b027-404ddd1dd2df",
+      "865fbb0d-15af-4591-a79b-06e2f4cba72c",
+      "0916bba8-4163-49b1-a37b-f2e271a2b775"
+    ],
+    "evaluationExerciseIds": [
+      "dc84ffff-4cf1-478d-997e-e96a227d57bd",
+      "6db2eec1-99d5-4a80-b1d1-c41c324cb4d7",
+      "9e4d2115-a961-4250-8b70-2bcde9bff445",
+      "d0414d1d-7889-4e61-9c64-529c7626cf0d",
+      "23031efd-3998-415a-8497-44eb61ca97da"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:54.8343211Z"
+  },
+  "contents": [
+    {
+      "id": "5e04af7b-ccb9-4ecd-8f53-6c94763aaaa4",
+      "title": "Leia o contexto e observe quais elementos vão pesar na escolha final.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "97964883-14ef-454d-bb1f-10a915153c72",
+          "textContent": "<p>Hoje a decisão é entre uma <strong>película</strong> em cartaz e um <strong>concierto</strong> pequeno no centro cultural.</p><p>Uma pessoa quer algo leve para fechar o dia. A outra costuma sair quando aparece uma opção diferente.</p><p>Nesta aula, a escolha vai juntar gosto, hábito e o que está disponível agora.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f9ccbf07-0688-4218-bfe9-f4b6b5f48298",
+      "title": "Leia a frase em espanhol e note como o gosto do momento aparece antes da justificativa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "007d38f0-b544-4d77-85b0-9ece5c7c96f1",
+          "textContent": "<p><strong>Hoy prefiero escuchar algo en directo.</strong></p><p>Em português: hoje prefiro ouvir algo ao vivo.</p><p>A escolha começa pelo gosto do momento, antes de olhar hábitos ou disponibilidade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "78946d65-5499-4d3b-8c66-3ff967e43334",
+      "title": "Leia a frase e repare em como o hábito aparece sem substituir a preferência de hoje.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "649659c4-7054-4617-8b47-b1d85b1b20cc",
+          "textContent": "<p><strong>Cuando puedo, suelo ir a conciertos pequeños.</strong></p><p>Em português: quando posso, costumo ir a shows pequenos.</p><p><strong>Suelo</strong> marca hábito. Ele ajuda a sustentar a escolha sem confundir rotina com preferência imediata.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f8632c75-6fe8-427a-89ed-acbec6316f91",
+      "title": "Leia as pistas e observe como a escolha se apoia no que dá para fazer hoje.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "1d95fd34-55b9-4821-95da-e25b7eed1373",
+          "textContent": "<p><strong>La película sigue en cartelera.</strong></p><p><strong>Todavía hay entradas para el concierto de hoy.</strong></p><p>Em português: o filme continua em cartaz e ainda há ingressos para o show de hoje.</p><p>Agora a decisão olha para o que realmente está disponível, não só para o gosto abstrato.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d9b50ee7-5262-4b66-8b64-c87927ebd17e",
+      "title": "Leia a sequência e acompanhe como a fala avança de preferência para hábito, opção atual e fechamento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "d1ec82ca-85b6-44b8-9665-c2ccc5a07172",
+          "textContent": "<p>Uma escolha guiada pode ficar assim:</p><ol><li><strong>preferência do momento</strong>: <strong>Hoy prefiero escuchar algo en directo.</strong></li><li><strong>hábito</strong>: <strong>Cuando puedo, suelo ir a conciertos pequeños.</strong></li><li><strong>opção atual</strong>: <strong>Todavía hay entradas para el concierto de hoy.</strong></li><li><strong>fechamento</strong>: <strong>Entonces vamos a ese concierto.</strong></li></ol><p>Essa ordem deixa a justificativa curta e fácil de seguir.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "44dc27a0-16af-476d-b12d-d78f1af166d7",
+      "title": "Leia a mensagem completa e observe como as partes da aula entram em poucas frases.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "ba1f631e-57b2-4a3b-9e2c-02e1394dd564",
+          "textContent": "<p><strong>Hoy prefiero escuchar algo en directo.</strong></p><p><strong>Cuando puedo, suelo ir a conciertos pequeños, y todavía hay entradas para el de hoy.</strong></p><p><strong>Entonces vamos a ese concierto.</strong></p><p>Em português: Hoje prefiro ouvir algo ao vivo. Quando posso, costumo ir a shows pequenos, e ainda há ingressos para o de hoje. Então vamos a esse show. A escolha final junta preferência, hábito e opção atual em três frases curtas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "98874c99-62cb-4bc8-ba10-2c1c73c539ff",
+      "title": "Leia o resumo final e conecte as peças da aula a situações reais de decidir o que ver ou ouvir.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "e344b376-bc52-4708-9c2e-d7efdc3c6d24",
+          "textContent": "<p>Para decidir o que ver ou ouvir com outra pessoa, estas peças já resolvem boa parte da conversa:</p><ul><li><strong>Hoy prefiero...</strong> para marcar o gosto do momento</li><li><strong>Suelo...</strong> para trazer o hábito</li><li><strong>Todavía hay...</strong> ou <strong>sigue en cartelera</strong> para olhar a opção real</li></ul><p>O fechamento pode soar como <strong>Entonces vamos a ese concierto.</strong> ou <strong>Entonces vemos esa película.</strong></p><p>Isso funciona em situações reais como decidir um programa de sexta, ver o que ainda está em cartaz ou aproveitar um show que ainda tem entradas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "6d8e7dd9-743b-44d7-bb55-c027b1b61594",
+      "title": "Escolha a preferência do momento",
+      "content": "<p>Qual linha abre a escolha dizendo o que a pessoa quer agora, antes de falar de hábito ou disponibilidade?</p>",
+      "contentPlain": "Qual linha abre a escolha dizendo o que a pessoa quer agora, antes de falar de hábito ou disponibilidade?",
+      "fileUrl": null,
+      "feedbackSuccess": "A escolha desta aula começa pelo gosto do momento antes de hábito e opção atual.",
+      "feedbackError": "A escolha desta aula começa pelo gosto do momento antes de hábito e opção atual.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "38f9e50f-2f77-4833-9d6c-ba6e17661937",
+          "textContent": "Hoy prefiero escuchar algo en directo.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6d8e7dd9-743b-44d7-bb55-c027b1b61594"
+        },
+        {
+          "id": "875cf72b-2d39-4b0c-af13-d6eeb67157d3",
+          "textContent": "Entonces vamos a ese concierto.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6d8e7dd9-743b-44d7-bb55-c027b1b61594"
+        },
+        {
+          "id": "a168ca22-6ebe-489d-91e4-8752243a3db1",
+          "textContent": "La película sigue en cartelera.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6d8e7dd9-743b-44d7-bb55-c027b1b61594"
+        },
+        {
+          "id": "d8da7ebc-6393-4d36-bc16-056cf81c7efb",
+          "textContent": "Cuando puedo, suelo ir a conciertos pequeños.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6d8e7dd9-743b-44d7-bb55-c027b1b61594"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8742cdde-9bef-4792-a66e-ea8a7dc4717b",
+      "title": "Ligue a moldura ao uso dela",
+      "content": "<p>Recupere as quatro molduras que o recap final deixa prontas para decidir o que ver ou ouvir.</p>",
+      "contentPlain": "Recupere as quatro molduras que o recap final deixa prontas para decidir o que ver ou ouvir.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final reduz a escolha a quatro peças curtas que podem ser reutilizadas na vida real.",
+      "feedbackError": "O recap final reduz a escolha a quatro peças curtas que podem ser reutilizadas na vida real.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2c595913-14af-43bf-a896-5f69eeae2148",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "8742cdde-9bef-4792-a66e-ea8a7dc4717b"
+        },
+        {
+          "id": "ccd2db27-14d8-4f43-8a8a-a83ce6f077e2",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8742cdde-9bef-4792-a66e-ea8a7dc4717b"
+        }
+      ],
+      "associations": [
+        {
+          "id": "3613f415-ce2c-4d4c-aa32-b4b2310042e9",
+          "exerciseId": "8742cdde-9bef-4792-a66e-ea8a7dc4717b",
+          "leftContent": "Hoy prefiero...",
+          "rightContent": "marcar o gosto do momento",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b32f7684-8e5b-43ee-9182-af8fe048d1b5",
+          "exerciseId": "8742cdde-9bef-4792-a66e-ea8a7dc4717b",
+          "leftContent": "Suelo...",
+          "rightContent": "trazer o hábito",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2273fe11-1d21-473a-bcca-657ff5a81d88",
+          "exerciseId": "8742cdde-9bef-4792-a66e-ea8a7dc4717b",
+          "leftContent": "Todavía hay...",
+          "rightContent": "mostrar a opção real",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c4693582-ad22-440c-bd08-db6925dfe6c4",
+          "exerciseId": "8742cdde-9bef-4792-a66e-ea8a7dc4717b",
+          "leftContent": "Entonces...",
+          "rightContent": "fechar a escolha",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "6709f428-b0da-4766-b027-404ddd1dd2df",
+      "title": "Escolha a pista de disponibilidade",
+      "content": "<p>Qual opção olha para o que realmente dá para fazer hoje, em vez de falar só de gosto ou rotina?</p>",
+      "contentPlain": "Qual opção olha para o que realmente dá para fazer hoje, em vez de falar só de gosto ou rotina?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na lição, a escolha passa do gosto abstrato para o que realmente está disponível hoje.",
+      "feedbackError": "Na lição, a escolha passa do gosto abstrato para o que realmente está disponível hoje.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5a6044d7-3d99-467c-8ce9-f5cd8d6831ff",
+          "textContent": "Entonces vamos a ese concierto.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6709f428-b0da-4766-b027-404ddd1dd2df"
+        },
+        {
+          "id": "6f08a316-2f22-4cd8-9364-3bd3dd27ae7c",
+          "textContent": "Cuando puedo, suelo ir a conciertos pequeños.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6709f428-b0da-4766-b027-404ddd1dd2df"
+        },
+        {
+          "id": "b419bda3-4053-4ff9-b44c-dea26f2f2f6e",
+          "textContent": "Hoy prefiero escuchar algo en directo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6709f428-b0da-4766-b027-404ddd1dd2df"
+        },
+        {
+          "id": "fa71f165-4c2f-40d9-a5a8-05ec1f580b2d",
+          "textContent": "Todavía hay entradas para el concierto de hoy.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6709f428-b0da-4766-b027-404ddd1dd2df"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "865fbb0d-15af-4591-a79b-06e2f4cba72c",
+      "title": "Complete a disponibilidade do filme",
+      "content": "<p>Complete em espanhol: La película sigue en _________.</p><p>Tradução: O filme continua em cartaz.</p>",
+      "contentPlain": "Complete em espanhol: La película sigue en _________. Tradução: O filme continua em cartaz.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na lição, en cartelera ajuda a dizer que o filme ainda está disponível agora.",
+      "feedbackError": "Na lição, en cartelera ajuda a dizer que o filme ainda está disponível agora.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cartelera",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0916bba8-4163-49b1-a37b-f2e271a2b775",
+      "title": "Ligue frase e função",
+      "content": "<p>Relacione as quatro linhas centrais da aula ao efeito que cada uma tem dentro da escolha guiada.</p>",
+      "contentPlain": "Relacione as quatro linhas centrais da aula ao efeito que cada uma tem dentro da escolha guiada.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa da aula organiza a escolha em preferência, hábito, opção atual e fechamento.",
+      "feedbackError": "O mapa da aula organiza a escolha em preferência, hábito, opção atual e fechamento.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "71d89392-febd-462e-83d6-d2e4aa787e1d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0916bba8-4163-49b1-a37b-f2e271a2b775"
+        },
+        {
+          "id": "c4464ec9-5ddd-4d85-b10e-b93e290d9304",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0916bba8-4163-49b1-a37b-f2e271a2b775"
+        }
+      ],
+      "associations": [
+        {
+          "id": "23d8312a-5add-449c-8df4-4e8e0f52b216",
+          "exerciseId": "0916bba8-4163-49b1-a37b-f2e271a2b775",
+          "leftContent": "Hoy prefiero escuchar algo en directo.",
+          "rightContent": "marcar o gosto de agora",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f6a311ae-1b88-4ed9-9d60-f6e67d3d494f",
+          "exerciseId": "0916bba8-4163-49b1-a37b-f2e271a2b775",
+          "leftContent": "Cuando puedo, suelo ir a conciertos pequeños.",
+          "rightContent": "trazer um hábito",
+          "sequenceItem": 2
+        },
+        {
+          "id": "28029fd6-b218-4d61-83af-8bdd572fee5c",
+          "exerciseId": "0916bba8-4163-49b1-a37b-f2e271a2b775",
+          "leftContent": "Todavía hay entradas para el concierto de hoy.",
+          "rightContent": "mostrar a opção real",
+          "sequenceItem": 3
+        },
+        {
+          "id": "73e642fe-8023-4105-970a-c47ec621e9a0",
+          "exerciseId": "0916bba8-4163-49b1-a37b-f2e271a2b775",
+          "leftContent": "Entonces vamos a ese concierto.",
+          "rightContent": "fechar a decisão",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "dc84ffff-4cf1-478d-997e-e96a227d57bd",
+      "title": "Escolha a sequência completa",
+      "content": "<p>Qual opção recompõe melhor o caminho da aula, indo de preferência para hábito, disponibilidade e fechamento?</p>",
+      "contentPlain": "Qual opção recompõe melhor o caminho da aula, indo de preferência para hábito, disponibilidade e fechamento?",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento desta aula funciona melhor quando a escolha anda de preferência para hábito, opção real e decisão.",
+      "feedbackError": "O fechamento desta aula funciona melhor quando a escolha anda de preferência para hábito, opção real e decisão.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0743a250-1758-43a8-8d7b-0f75d5530407",
+          "textContent": "Hoy prefiero escuchar algo en directo. Cuando puedo, suelo ir a conciertos pequeños. Todavía hay entradas para el concierto de hoy. Entonces vamos a ese concierto.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dc84ffff-4cf1-478d-997e-e96a227d57bd"
+        },
+        {
+          "id": "330ec22c-14f2-431b-a003-08298ba39629",
+          "textContent": "Todavia hay entradas para el concierto de hoy. Entonces vamos a ese concierto. Hoy prefiero escuchar algo en directo. Cuando puedo, suelo ir a conciertos pequenos.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dc84ffff-4cf1-478d-997e-e96a227d57bd"
+        },
+        {
+          "id": "5f4e6a17-c739-42ae-aacc-58c9cddfcc21",
+          "textContent": "Entonces vamos a ese concierto. Hoy prefiero escuchar algo en directo. Todavia hay entradas para el concierto de hoy. Cuando puedo, suelo ir a conciertos pequenos.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dc84ffff-4cf1-478d-997e-e96a227d57bd"
+        },
+        {
+          "id": "678d792d-81d1-460c-995a-2302da880647",
+          "textContent": "Cuando puedo, suelo ir a conciertos pequenos. Hoy prefiero escuchar algo en directo. Entonces vamos a ese concierto. Todavia hay entradas para el concierto de hoy.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dc84ffff-4cf1-478d-997e-e96a227d57bd"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6db2eec1-99d5-4a80-b1d1-c41c324cb4d7",
+      "title": "Complete a preferência atual",
+      "content": "<p>Complete em espanhol: Hoy prefiero escuchar algo en _______.</p><p>Tradução: Hoje prefiro ouvir algo ao vivo.</p>",
+      "contentPlain": "Complete em espanhol: Hoy prefiero escuchar algo en _______. Tradução: Hoje prefiro ouvir algo ao vivo.",
+      "fileUrl": null,
+      "feedbackSuccess": "No modelo final, a escolha abre com uma preferência imediata ligada a algo en directo.",
+      "feedbackError": "No modelo final, a escolha abre com uma preferência imediata ligada a algo en directo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "directo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "9e4d2115-a961-4250-8b70-2bcde9bff445",
+      "title": "Complete o hábito que orienta",
+      "content": "<p>Complete em espanhol: Cuando puedo, _____ ir a conciertos pequeños.</p><p>Tradução: Quando posso, costumo ir a shows pequenos.</p>",
+      "contentPlain": "Complete em espanhol: Cuando puedo, _____ ir a conciertos pequeños. Tradução: Quando posso, costumo ir a shows pequenos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui suelo marca hábito e ajuda a sustentar a escolha sem substituir o gosto de hoje.",
+      "feedbackError": "Aqui suelo marca hábito e ajuda a sustentar a escolha sem substituir o gosto de hoje.",
+      "answerType": "buildWord",
+      "expectedAnswer": "suelo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d0414d1d-7889-4e61-9c64-529c7626cf0d",
+      "title": "Complete a opção real",
+      "content": "<p>Complete em espanhol: Todavía hay ________ para el concierto de hoy.</p><p>Tradução: Ainda há ingressos para o show de hoje.</p>",
+      "contentPlain": "Complete em espanhol: Todavía hay ________ para el concierto de hoy. Tradução: Ainda há ingressos para o show de hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "A justificativa final também olha para a opção real, aqui marcada por entradas para hoy.",
+      "feedbackError": "A justificativa final também olha para a opção real, aqui marcada por entradas para hoy.",
+      "answerType": "buildWord",
+      "expectedAnswer": "entradas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "23031efd-3998-415a-8497-44eb61ca97da",
+      "title": "Ligue a necessidade a resposta",
+      "content": "<p>Relacione cada necessidade da conversa a linha da aula que cumpre essa função sem sair do tema da escolha cultural.</p>",
+      "contentPlain": "Relacione cada necessidade da conversa a linha da aula que cumpre essa função sem sair do tema da escolha cultural.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escolha guiada desta aula distribui preferência, hábito, disponibilidade e fechamento em linhas distintas.",
+      "feedbackError": "A escolha guiada desta aula distribui preferência, hábito, disponibilidade e fechamento em linhas distintas.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "51aec296-0caf-475a-b771-ae894cdede52",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "23031efd-3998-415a-8497-44eb61ca97da"
+        },
+        {
+          "id": "bf1f320e-f299-4d77-84f0-169a66a06254",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "23031efd-3998-415a-8497-44eb61ca97da"
+        }
+      ],
+      "associations": [
+        {
+          "id": "f641bf4a-7353-4a20-93c4-4cff9f2c30e8",
+          "exerciseId": "23031efd-3998-415a-8497-44eb61ca97da",
+          "leftContent": "Quer dizer o que prefere agora.",
+          "rightContent": "Hoy prefiero escuchar algo en directo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "471b3954-f887-41c3-a912-d08cd3a1b937",
+          "exerciseId": "23031efd-3998-415a-8497-44eb61ca97da",
+          "leftContent": "Quer trazer uma rotina que sustenta a escolha.",
+          "rightContent": "Cuando puedo, suelo ir a conciertos pequeños.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d776ea35-6cee-434d-b4ae-64306c2bdf45",
+          "exerciseId": "23031efd-3998-415a-8497-44eb61ca97da",
+          "leftContent": "Precisa mostrar que a opção ainda existe hoje.",
+          "rightContent": "Todavía hay entradas para el concierto de hoy.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "31370744-3de3-4e44-bc88-fccd57e16884",
+          "exerciseId": "23031efd-3998-415a-8497-44eb61ca97da",
+          "leftContent": "Quer fechar a decisão em conjunto.",
+          "rightContent": "Entonces vamos a ese concierto.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Escolher o que ver ou ouvir em uma troca guiada"
+}

@@ -1,0 +1,748 @@
+{
+  "attemptId": "bdac4f37-358f-4a6a-9022-4c1f54c9e43d",
+  "exercises": [
+    {
+      "exerciseId": "6c855f72-d482-4599-81ce-71f7cc40131c",
+      "sequence": 1,
+      "lessonId": "297a5b2a-2c66-4957-9255-e7199b4d4c29",
+      "title": "Ligue frase e leitura",
+      "content": "<p>Associe cada frase ao tipo de avaliação estável que ela comunica com <strong>ser</strong>.</p>",
+      "contentPlain": "Associe cada frase ao tipo de avaliação estável que ela comunica com ser .",
+      "fileUrl": null,
+      "feedbackSuccess": "No fechamento da aula, ser rotula convivência, rotina e dificuldade de modo mais estável.",
+      "feedbackError": "No fechamento da aula, ser rotula convivência, rotina e dificuldade de modo mais estável.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "b1528c12-20e1-4c6f-bce6-ab042c50f5c8",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cffe3718-c09d-4d3b-830a-1e815306e0c8",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "0c131024-71cb-431c-97b0-13ee760828ad",
+          "leftContent": "Con los clientes, Marta es un encanto.",
+          "rightContent": "convivência agradável",
+          "sequenceItem": 1
+        },
+        {
+          "id": "79237101-64e6-4259-91f6-25ebd0a8e4e0",
+          "leftContent": "Con el dinero, Marcos es un desastre.",
+          "rightContent": "problema recorrente numa rotina",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0910abfa-7ead-4a4b-ad87-6b838176753a",
+          "leftContent": "La parte oral de la certificación es un hueso.",
+          "rightContent": "etapa difícil ou exigente",
+          "sequenceItem": 3
+        },
+        {
+          "id": "1ad5cda7-4571-4605-a0cc-7be2d83389d4",
+          "leftContent": "Con ser, das una etiqueta más estable.",
+          "rightContent": "resumo mais estável do que um estado passageiro",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "2b48b45b-ba5d-472b-a032-5da35bdab507",
+      "sequence": 2,
+      "lessonId": "14b0beaa-00f6-488b-8cf0-b8b923115313",
+      "title": "Filtre as palavras do resumo",
+      "content": "<p>Marque somente as palavras que você ouve no resumo que junta impaciência com insegurança.</p>",
+      "contentPlain": "Marque somente as palavras que você ouve no resumo que junta impaciência com insegurança.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/136776315f2943a79cf6a65e9888e633_c04-hoy-esta-impaciente-pero-ella-esta-insegura-antes-de-la-reunion-con-clientes.mp3?Expires=1794099795&Signature=z4mke-tukSaqFEE2SXqU5k598IaETU55CfpuBosS~~HTioLebFcJDvX0Gt3bzIFDmMiW1FJ63W2dBdv0Ejf3hmCilcauKVk-apGfzeGPLsevtyJZ7uZogUe~vzX9Nx9M5qjgOxy2-I2YRnn2ULIEULRMQr0XAYKYPWgpbyhzLJImd0u~7eVCYhysphmHR6vMvc1Dj~eUWLV1IZRqLydKItXbJyRooZt0ictq1Jhc0VdMsOotBlxoNAoYBBwZ~6M5Khbab0TMcp7uTSe6HzNj8pITE5FQ0GvtRq86h-MSZi3gIxL-QEudPCZZv6vDwtyn4XoxMwO-xEJN6182SneAgA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O resumo integrado junta impaciência com causa e insegurança com contexto concreto.",
+      "feedbackError": "O resumo integrado junta impaciência com causa e insegurança com contexto concreto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "35b16fe1-9261-4322-afe0-809a81161858",
+          "text": "llega",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6cd3f8a0-5752-4a39-9dc8-48e14b5a25b5",
+          "text": "insegura",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "89d4e8e9-84ba-4b76-afda-f6d78fb64083",
+          "text": "persona",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8f71a1bc-9be3-4d8f-a99b-5b617df6611f",
+          "text": "reunión",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "931ee4a1-2870-4574-906b-d29f6c65c800",
+          "text": "define",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "965a31de-00a6-4f32-bdfe-75249157fb87",
+          "text": "especialmente",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9781bf1a-bf39-4321-8862-cc76ebb2a618",
+          "text": "respuesta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a049ba62-ee47-4a3b-a320-243a6924a559",
+          "text": "impaciente",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d5048b98-cd00-4e64-a38b-d2195a07dfcd",
+          "text": "clientes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f0bc71bf-321d-4656-83c4-fcf67359bf0e",
+          "text": "soy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "a7309baa-f655-4700-850f-1bdae956bca4",
+      "sequence": 3,
+      "lessonId": "17338edb-6da3-4010-885d-e281ef2447b4",
+      "title": "Recupere a palavra",
+      "content": "<p>Complete a frase em espanhol: Hoy está _________ de su equipo por el resultado.</p><p>Tradução: Hoje ela está orgulhosa da equipe por causa do resultado.</p>",
+      "contentPlain": "Complete a frase em espanhol: Hoy está _________ de su equipo por el resultado. Tradução: Hoje ela está orgulhosa da equipe por causa do resultado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui estar orgullosa de liga o orgulho a algo concreto.",
+      "feedbackError": "Aqui estar orgullosa de liga o orgulho a algo concreto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "orgullosa",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "fac0066c-54bb-4776-9ea8-7911586cb9ca",
+      "sequence": 4,
+      "lessonId": "0267a494-244f-4ff3-a524-ffdcd663a8b8",
+      "title": "Recupere a reação do recap",
+      "content": "<p>Mi hermano suele ser muy paciente, pero hoy está ________ porque no durmió bien.</p><p>Tradução: Meu irmão costuma ser muito paciente, mas hoje está irritado porque não dormiu bem.</p>",
+      "contentPlain": "Mi hermano suele ser muy paciente, pero hoy está ________ porque no durmió bien. Tradução: Meu irmão costuma ser muito paciente, mas hoje está irritado porque não dormiu bem.",
+      "fileUrl": null,
+      "feedbackSuccess": "No recap, irritado mostra a reação do momento ligada a uma causa concreta.",
+      "feedbackError": "No recap, irritado mostra a reação do momento ligada a uma causa concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "irritado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "162d6ec4-342b-4016-9c21-384172b39215",
+      "sequence": 5,
+      "lessonId": "17338edb-6da3-4010-885d-e281ef2447b4",
+      "title": "Ouça e diferencie pelo contexto",
+      "content": "<p>Marque apenas as palavras que você ouve na frase que contrasta dois usos de <strong>lista</strong>.</p>",
+      "contentPlain": "Marque apenas as palavras que você ouve na frase que contrasta dois usos de lista .",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4eb80387d800455ca9767f3b71d31547_phase5-c04-es-muy-lista-pero-hoy-no-esta-lista-para-empezar.mp3?Expires=1794099795&Signature=dPbFiuWRT48oggDpy~u4iWVXh5hhfrtHgmXv0yjKMe01tNuEYWHVJAW~B3m50YQZfRvJfEa0rup8DsHqvt-oovVrCuNkKfPc-NelLs8Ql8ORn-dJ5NmC3Paq2twq0pZ6W504-hBboaNOyZqYFHR9JZ~srFeeniRDtIPV1yooMeIu9rE0hmVXYpA3p~Fn2Jdjq-e9puQ66Htnxyfd2xQiqbjYzdEkFoLdxITtK4ZUOTAqS6zByfkIirgutk27ZVR2TaZw-9vpMmPc7yBVTRvSP6diujk7O7czjDs0B-iRBqDkM50VYCmlV74Cx4LvgzituKJoSYUWnHULMPr4xEMYcg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui a escuta separa ser lista de estar lista pelo contexto.",
+      "feedbackError": "Aqui a escuta separa ser lista de estar lista pelo contexto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "019cd170-b99e-4133-840d-5c1764156f41",
+          "text": "muy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "062d001b-f52c-4d76-b053-d924917806df",
+          "text": "orgullosa",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5265ebb3-9698-4ad9-9183-d1b51b481d9c",
+          "text": "equipo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5f754b4f-74bd-4d46-9f0b-21decca6d4cd",
+          "text": "hoy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7a6d660d-8ddf-4246-af15-737a6d9bca48",
+          "text": "empezar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7c6dfdbc-cd76-4ccf-8c41-3f2b9b1c6fc4",
+          "text": "lista",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "a3902936-c13c-401d-94e1-31303a836c74",
+      "sequence": 6,
+      "lessonId": "a652bee7-0585-46f2-bdec-27cbb17f9404",
+      "title": "Reconstrua o momento pelo áudio",
+      "content": "<p>Ligue cada gravação à frase certa e recupere um miniquadro coerente com o uso de <strong>estar</strong> visto na aula.</p>",
+      "contentPlain": "Ligue cada gravação à frase certa e recupere um miniquadro coerente com o uso de estar visto na aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula leva essas expressões para situações reais sem transformá-las em traço permanente.",
+      "feedbackError": "O fechamento da aula leva essas expressões para situações reais sem transformá-las em traço permanente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "373aa37b-097f-4401-bcf8-461a20bc3599",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9e56bee60a9547b493afce66c553b025_ex01-hoy-estoy-agotada-por-tantas-tareas.mp3?Expires=1794099795&Signature=XF96~ZpX7WDFkxK-eqVxDWu6k8jHO4tWJctr4rsY7wbnFprFMptNRTgDL0JDVUyuN8~qwXapZjAMrNGBJ9WnVI2LrFvaYTle-ZKVN2Fyp-KwIWO94~~Uu0XOgBSOMSvQaiIcFmvTJki3pIoV1wEnYLwzAbyXX4StpM6-rm46R~HkM1VJHemzNGrm4a2WetF1aFYjdVSYPD9w-Nm3a9lL-InDoyJdSaESbfV~D~sWOvTBXcuQODxoJVScysal6SkRoj62U60o3h1Pu~z~l2Vy2roKTjjw9tGQCTg07WK8CKfP0C5qkn~zkJywQAzTeyqt4Kk2PY07gHK6e6b8iLyUmw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy estoy agotada por tantas tareas.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "55806394-a369-4f61-a3cb-da79ab512c47",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d20cf947c75c4afdaf1d3728c07876fd_ex02-bruno-esta-raro-desde-ayer.mp3?Expires=1794099795&Signature=xaSpyeNH2BSYLgyJuOOBpfTWVuKSPtf4gjiyIWSwOQWLlP8WHTDhE6yt5xbNq930DRJrr2q277em7kvtKej4mvguOh3iiidSmogf7OkGukZ5jbk0FR0oUKAna1bui9F3Xtxcx0aKXwxyfEN3uSEqnbBhPP0mpv~nCIwayXuHjhSM1kKIUmO0Itm6N5A5tiT78KBO8Iepebjc3rC7Wya8GIRLMHzauF8nr59X5fXL3GQGWg~XGWybbdiAlkfp2FvreXZQTNZe0FHKFlpxeOSXLQjGttFedza0L-BYy1sIIGaVTkT42kWwaETW0RFc3f14KCnjN9x00fBtF4fDZqCMRA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Bruno está raro desde ayer.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "968c9308-4708-4426-bb1b-de7f37be07f2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bdfc6b28f5244a868538e1ee1df42e2d_ex03-con-esta-presion-estoy-hecha-polvo.mp3?Expires=1794099795&Signature=xofKQ9NmOWKtjj0qm3ljItfhPIL2o6vn-hj8CnQw~5HfZrJvV24G9U~iH1c784bdJ~NiQ-XrM6spQm6dy-O8i3OEm9yw0qHc17EbBajdqs2GxB0zobq1mmJH2rV6CfxFn5o~aEFK8ILW6lyzeKIOrFV9LMrd4kVymceSoXBvE55LPomtREEPFdePhKmhXBlFsCumAHJWv9JXBD2nN2gOsu1vMGowb3IQyGmAy8xVZIvYd6UK0MlT3vPNWXBbPcGz6dx77jz6typf4CAsg6ZjvVzfiTyKolzVtwqxyk5~ti9DZTPwkv44WCYRNLu9T8Z4nOFCHPqK7VUWNQ1bvqb~rw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Con esta presión estoy hecha polvo.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "01c73d5d-3175-4170-885b-1ab58fe413c0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/84181831f23845a9821ce77854a0551a_ex04-manana-lo-hablamos-con-calma.mp3?Expires=1794099795&Signature=Q4w87QBABU-ZU1kgiMUl224OuAr5aBL7orAivpUSQb~kk0hrTCF6Vfiqj5rJFezCjYg7U5U9OOTtEZP73EIMwOT-KqbF15NmgxZjgRdQzG~uegj3MzGIPSwpzw3yqrRZTVH9nkueyVZA8eg~PiqIeGeyS7bJrCvb8UD-aUukImhM9IRvuPrRvOtuSBcF2Gw-dGi-H1XmnjCWpcTZbA-Vy8coxtplst4Y~c7xy2-QbGtkFL~sOIQmxhaMzlzsGfNLp3XTvxsLwKXsZdHvVRJWW4TRVu2HPV-C95SLSMF4XEoJKQHB-sEOTETHhzPnOcPNQAWjz94zTfOrJtGueab-5Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mañana lo hablamos con calma.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "6a3244fa-9585-4994-b6f4-d9993a7852af",
+      "sequence": 7,
+      "lessonId": "0267a494-244f-4ff3-a524-ffdcd663a8b8",
+      "title": "Filtre as palavras da síntese",
+      "content": "<p>Escute a fala inteira e marque apenas as palavras que pertencem a ela.</p>",
+      "contentPlain": "Escute a fala inteira e marque apenas as palavras que pertencem a ela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/adbab6ffd52b4571816492c1a1cd6181_ex-recap-hermano-paciente-callado-mal-humor.mp3?Expires=1794099795&Signature=BIH8Is5yWcDp~ST-PGSJTRbkIscScqdmE2NhP00yAzcetWPnx9k9D1pYuXNJFSg1UCdmLH79O~R5w5KqzIr5Vxu6~JB9GJa11S1y1m7pVPQQRMntqTQGKOS2gtglzhKM6-36zWeibCZ2c7kpKAd6Gbsnl9cEPgmEqzpit7ljRI5NyaSSxpEGvlObfXDFG5fclrOK2W1DH4aDwpwAuVBi1ECMnBRsK3z1lH~W9cunnbrO4L0NF4Uusgex7dtdWx2snO254ZjoSfzdwdi3gkmbLTTwGu5OqX-VS~2vV-i6Xy4~a1z9HJIdaLRjfDDaLR42qDalYvFATSMc-w0qrDkFUw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O desafio final pede ouvir a síntese completa sem misturar traço com estado do momento.",
+      "feedbackError": "O desafio final pede ouvir a síntese completa sem misturar traço com estado do momento.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "03bcfa1d-519c-4355-ab68-149806928fcc",
+          "text": "humor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "05749971-a9ec-442e-bc34-a065a9b5f639",
+          "text": "durmió",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "180bc50a-78d4-440b-a0f0-696b1e241af3",
+          "text": "reunión",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "221f029f-987a-424b-925a-187baf147776",
+          "text": "serena",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "30ab643e-f869-4c49-9656-9942d7fbe4ec",
+          "text": "mal",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3434340c-198b-4a7a-a83d-8653909cd250",
+          "text": "hoy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6addb9f1-ee61-4a19-9dc2-ba273f74ecc9",
+          "text": "hermano",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "771e8095-b8be-46d2-95ff-140dbbd1443d",
+          "text": "callado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9b777bcf-94c1-46ab-8f73-bc1c1e8292b9",
+          "text": "bien",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b48f79bf-f25d-4c39-a602-91d972dccf29",
+          "text": "proyecto",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ce049d92-0ec1-468e-8c3f-59cbb26cc830",
+          "text": "suele",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e2300032-3e9a-432a-ae8b-f513549d78a7",
+          "text": "paciente",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e7adf4df-fb94-4abf-ac6a-78196f504d27",
+          "text": "crítica",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ea8e6cc8-407c-462e-a709-d7d0e70b0e48",
+          "text": "atento",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "5620f1cc-f55d-4021-9af0-852f4a9b5cfd",
+      "sequence": 8,
+      "lessonId": "14b0beaa-00f6-488b-8cf0-b8b923115313",
+      "title": "Escute e reconstrua o diálogo",
+      "content": "<p>Associe cada áudio do diálogo ao texto completo correto em espanhol.</p>",
+      "contentPlain": "Associe cada áudio do diálogo ao texto completo correto em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final recombina traço conhecido, estado do dia e insegurança contextualizada.",
+      "feedbackError": "O diálogo final recombina traço conhecido, estado do dia e insegurança contextualizada.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "80dd7b48-6d0d-4678-8626-07e581042e77",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8266af8f11db4282b6196fe43bbebdd3_b07-d01-que-te-pasa-hoy-estas-muy-impaciente.mp3?Expires=1794099795&Signature=Wriewaq6j~39TyZRk7oYpdZdQqsDvnqBoPx7ghWQZog743GSWVq3HLDSe8jDD2hyCd03OaGx6imKpUuPbqjrVA77GJkkv8B4yK3VklPwJmR11lUvZWc1DKRBvUUeTDRisDCTfcxqnVGY4S8KFSC4QSOFqqgG~N~z3aHcZF5aWFipouWInKLnfdSa2yPfojYm1eFDEOijA~InpSXA5jsBh2WodS5YHCOTpCB6675IHrqGiNHQ-kgxIRtVERw-G5KI6eREOcgq4BtyN0YHduoa4L5WQMylanSkjpa2QzEbA5ban9P~BXd2u9woFS5EhF230NajIgdCjkoHhmYTALN-og__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué te pasa? Hoy estás muy impaciente.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c2e092d1-6e8f-4bb8-9e2c-cee6b75361a0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8d7df11e133441f4a1c5120b9f9b8fdf_b07-d02-ya-sabes-que-soy-impaciente.mp3?Expires=1794099795&Signature=UXJz2DthYjJ2JaRdUBth~xIQ~TN~bO0nZoC3F4TBeObQZhSaXHKHt-6PIYX02eNC2ZIEj4xic5FpKfMJnIWAP4KD4xkWsk3sCEzVUZbJ2Et0XHKTMOP94p6zNn3YcuRAT09CRX55L1sWQzTxWcYniemzHEzDn-fmIGDi-8Ob3vP~eRdmzaBCAhdACGdMXdrwP0BLjuZyZT-nu36ItJf5di8llfaOgnU2lMJASJ6rbcBSNN~N2wC9dasuL42F9VlFwbkGBJAWS~joDB65bNBGf6Gqs29MmtaZ3VeeFY9qSqmoDmRqf5evSMH4rMsELxnh-aTq7Aq8LMMNF51LTad73w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí. Ya sabes que soy impaciente, pero hoy estoy especialmente impaciente porque sigo esperando esa respuesta.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e7a2c18f-cf69-4440-90e5-11d3b4e08fdc",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b21f165d4aa04704a58cc4ba31e1d059_b07-d03-yo-no-soy-insegura.mp3?Expires=1794099795&Signature=VJifNrdy87DMHFNPqsTERFC2AIt3uPEiC6XgHZAvjEfPwwvzUVPl2RBpER7rb9Gf9i8YoO8xpfKV4DtNW8QfFYGpPFpyI26H-6YHfMe3x5RVNKlK4uqtMr-hn-Bp5bZswI63dku2q2kpPwUo6AnaT52NkwaUPPIns8CJoF2PQs~xKJl09ohyJbbh6DOn1xJ742xrf4WcZnW9oLJf46RTcIkNezguqUtTkLlfjXxtSKJiXXN7kmXFWiS4HD-0DMY3~3Wk21JMDQM5vkldIZ604~b9hSMxqi2qTP-3xKgeoo913rze~CzovpqrHXa9VlT2xMR~VaP4gub80n27HFwCQA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Te entiendo. Yo no soy insegura, pero hoy estoy insegura antes de la reunión con clientes.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "6be2df1a-a50d-4cc0-922b-546fcf0ab0c3",
+      "sequence": 9,
+      "lessonId": "0267a494-244f-4ff3-a524-ffdcd663a8b8",
+      "title": "Recupere a reação do recap",
+      "content": "<p>Mi hermano suele ser muy paciente, pero hoy está ________ porque no durmió bien.</p><p>Tradução: Meu irmão costuma ser muito paciente, mas hoje está irritado porque não dormiu bem.</p>",
+      "contentPlain": "Mi hermano suele ser muy paciente, pero hoy está ________ porque no durmió bien. Tradução: Meu irmão costuma ser muito paciente, mas hoje está irritado porque não dormiu bem.",
+      "fileUrl": null,
+      "feedbackSuccess": "No recap, irritado mostra a reação do momento ligada a uma causa concreta.",
+      "feedbackError": "No recap, irritado mostra a reação do momento ligada a uma causa concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "irritado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "12be4b14-7463-4bd5-a9c5-7e7b3548c0d5",
+      "sequence": 10,
+      "lessonId": "297a5b2a-2c66-4957-9255-e7199b4d4c29",
+      "title": "Reconstrua os fragmentos pelo áudio",
+      "content": "<p>Associe cada áudio ao trecho exato em espanhol, sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio ao trecho exato em espanhol, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula recompõe pessoa, rotina e dificuldade com rótulos mais estáveis.",
+      "feedbackError": "O fechamento da aula recompõe pessoa, rotina e dificuldade com rótulos mais estáveis.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "87b6e42c-db6d-4779-b5f3-b1eb788b1bdd",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7625ca28bee04ca5b8d85c96c0300a33_b2c13l02-r03-a1-con-los-clientes-marta-es-un-encanto.mp3?Expires=1794099795&Signature=QLIynFvRq2V2QmxyyVuFMyjocGnR3E3C1ujWPj7pTt5zqSsztHE7oZvFDxYUZOjoXPXbYA63vbqHMYRfmi3ohWE8L2HVc0jnYtcERdXXJ136ykyhJh0UgjsMyV2SiJhepQOnt3SfB434WhgjtX37BrGEvmGO8oyePJBnL317uB39HCA6-nyu9724uoa2A2Q3PpP9ZMPSeZpBtLYao~rp9DwPzOTSaAwzner7K5lQTxtv0jrj33fmGqVt7F1NWYp4uwV60kTuleNL-YXYGZIU3P0hmt0b3xmp2AWfwhPbA7DRJgz~8dKcijUcUT9PW54sKLDoB~~QKRo4Mo9N1jW63A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Con los clientes, Marta es un encanto.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d230d669-522d-4885-a191-cd28f60103e6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/93a5d0cfb68c4c31bfa3fe6be9088784_b2c13l02-r03-a2-con-el-dinero-marcos-es-un-desastre.mp3?Expires=1794099795&Signature=UNpriskKkYYVs8e7Tdj62XcPKUHVfxHFGMXLl751stguj4FgUm8uZ1o4R2dVa9CgjyCj1v~XFP3i1l6ut09uwRRd1FZeGR9GsCt69AHWVtkvx7MMmhyBmNzGsdUnEU4iNj1nBNfkw4kKus3aso6deC3gScg76x9FFaSSizkAw7BJoytq6Jg5-oL4LP-HdjcU9CNg2verhUAYxlA12vujhYHAy065H7d3wOksZ3rMlqUZc7tTfhXdThpk5~6VBpn-skHDByWXFPXe7aymuA-I8DUeCCnSNYTC-t~B2cz2xJDb8-amxTKcR4UitRkmRFCTbif4TF90y72I5ZbuY4WSlw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Con el dinero, Marcos es un desastre.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0a97d9ec-3a60-45d5-b9a7-0494b1bb9052",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ce43b7a527c8423f8316e34f123f13ee_b2c13l02-r03-a3-la-parte-oral-de-la-certificacion-es-un-hueso.mp3?Expires=1794099795&Signature=R6XiU5uHie76qcHjggIroY-s6z7OthS9Lz7zWcpMe9WXEQyJJnB8tSK0ypLYbXsVHTw3Gcrimdsz5wGzhQ3LO5uaYaYwf4RwC4Z~3KTt7wlqjnvH0uBahIooAmDqzNXVrsx2He7W~eYypTGrEmGYlJsmU-mNNn5baWh5pVDhhqL2D26FIhTg~A8giDKDrLkIv2xZxoT377xo60JoCtqXH6T4c3y8LWNvqgG~TzQMsrN4tGnCDgyPBVKXG1AoutMFSYEE3G1oXP~trQ67e-ZLnGDN2sNrHvyl7PIc0MNvcr~P23TS4uALEYwtQDeQOC5xiTXotfbm3t8~A~hHmvgrLw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La parte oral de la certificación es un hueso.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "00c04d92-450c-4cfd-8a05-3c2cf3bfd164",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c69ee41c864b44c281cef0e49c2ba0e3_b2c13l02-c05-a4-con-ser-das-una-etiqueta-mas-estable.mp3?Expires=1794099795&Signature=NJnob~XOGQowOM4F5yZyP2GhPUvFXB7S1gm-CtC6f69RGwjO2FN6sUzjnwpAY1Dyv-F63gjEsJqTfg9Mb4pRcqxcDy9UdaFQW5H0ou1u6XBNT9de-QG~ubBgi1vIJC5Lqb3OLn2zwNLmi7VYokMWpmn7pQiH1ZAZgGvrIHa2NWtXU0j4FcB0OOl3bUMZRApHNHguSGWYfPwjqZuk8VA9cAss7IsegW3CKP7PnjTnRJfiLDgtByJui58F9VJPafxPErFwkJgGLxEN3RpjasJdbxsf98LbYK7QyKt9jCAvcf8IqNoP1ehKeR4w3Oo1e0YIrR4Cp481~kz5tfrurNk7HA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Con ser, das una etiqueta más estable.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "b274ddfc-a500-4389-93df-40e278d91038",
+      "sequence": 11,
+      "lessonId": "17338edb-6da3-4010-885d-e281ef2447b4",
+      "title": "Ouça e ligue sem apoio",
+      "content": "<p>Associe cada áudio à frase correta em espanhol usando apenas o contraste de sentido.</p>",
+      "contentPlain": "Associe cada áudio à frase correta em espanhol usando apenas o contraste de sentido.",
+      "fileUrl": null,
+      "feedbackSuccess": "O foco aqui é reconstruir o sentido completo de ser e estar pela escuta.",
+      "feedbackError": "O foco aqui é reconstruir o sentido completo de ser e estar pela escuta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "9f7fecd4-1c65-4a33-848a-5f7adbd7c9e4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6609caa009a0466a8ca5cf735d9a8540_phase5-c05-a01-hoy-esta-orgullosa-del-resultado.mp3?Expires=1794099795&Signature=GiBbFZXmttcesOe7y3tpnurA7kSQ7VKN9Enuy187YEc9QswQqLEY7NOF4CGK0k~LWtLKU8pQp5~5iUDqQfUH7fqE4nAgbe9rXKYxlcyPJWCTWXPtkkRsLBXYrD3opr-KEW7JBOnGK1Evmai9Z9PWOZ0jSojaqq2rnhcrUG7rAWaTgfr-ySELrXR5GAbLkpTuwi~B-fwR-msviuaR60H3KsFVbyvkIV6Xi6AlsNBHghnVp27E5W0V~sUlS-sfb797KDCnkWdyzrPB3I5-Kb5o9m4B~rWc1QKhiju-mWh2umR7bNe4Xs~G3JR2ZjLYZLf7u1tm4hoJ0uzwfOCAYKuoGQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy está orgullosa del resultado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f5f63dcf-db25-46bb-a72c-0a5a5f706798",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/23eb2855d6244498b7fc2f5ccd12d86b_phase5-c05-a02-es-orgullosa-y-le-cuesta-pedir-perdon.mp3?Expires=1794099795&Signature=D~gLIOjdp6sl1aNqAZhx5eUzq5vD6zk2Jnqy7XGtONlTLg5coBL24TlB42KhNZN3m5Ms~zk3xKKTLZcFCIlvcPG7IagQev0QMRvcyGB6Upy1FwcfxHhv0vdztsJp8p7X38yvRaA9aNjzHakdkzDpmhGqEZ8tGo9-jjh8IfJNzkOtDA6RMdXABakijRM-Gtn0y8QtCszBYCjYCJCZxv9eCnaY-aBbUo1HgnAzFF71u~i8idzx0nYxIqC68U7c5IHhkBo059T2dTDqd0A0CSxZeEZBkAxsojLpcTSXWlTWCYo869LBkXBmota7aq2iSgsaYlSXGd-1mL5bHaHhk7DPRA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es orgullosa y le cuesta pedir perdón.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "abb5150f-990e-4ab4-a61a-41071815dc71",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/df8e893519c84fa6991e29cc1bddbd9c_phase5-c05-a03-ya-estoy-lista-para-salir.mp3?Expires=1794099795&Signature=0mD0RBIcVYyWpnY~QppYEmfD~eXaToBZ2qIvvjs9R5RiTLf-JpreLo973ZokVm2ykr1mqmygUO8IYo8oMmNDwUjTJ4t18HCoNUuz5KDrvEhcKUkhaez-kTXahf82sV~op8d73f1RddvGFqgLvyl8Ju1tI2w1TjEq1dhNji~go5kCKORk4PpbMSyh5RMqZ2n0acDK8rI99FJvLsKrG0vYPry4shZpFhRFJx2621YMPMp~7hl1HK0OYpiTtgGGy2AX2nG4Q1iZXj5mniRfSsvHGlbsWJGpMgvXAAz~N~R6cv2ty0d5bDCG4GF5~JMlrzlCJqsaG4b1i7uQ-B9GCCA8PA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ya estoy lista para salir.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "377e92c1-855e-4a79-9ea9-66ee15e333ef",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9200d0944adb4ab2b59e6387e3628987_phase5-c05-a04-es-muy-lista-y-entiende-todo-enseguida.mp3?Expires=1794099795&Signature=PWw~omdPAZtZeEO-6alUlRw79gX4qqMuC4cfhQZTFHCPIrXYh18BejS5ad9IzMNcBWGHIaaJIz~oJCC-mTSy3A605P4dSiQVUp9emvSLoI3jwbgX6KGJr9O6nr8ogmGfhKDB6Ll4L~eg0Cas~K-rcPQNBL7eCfpdLwedctW3wyx5XKBQDw-Gkis1uNVVvrHIfC67ueQ23XmMjCcneMEt2horrTCQcNdHq~WN2f0~3621rXhCtfk2XQV2kTO0AGs2LS~1tHsPsTby9lKJ~QGa0GFqVBashf9cwv~18lUyXvcLabOjpXz-YrjoxD~6BV2-aI1ddjfjG~BSkFXgSGqRWw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es muy lista y entiende todo enseguida.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "570399e0-7c8c-4393-8371-8089e7232235",
+      "sequence": 12,
+      "lessonId": "a652bee7-0585-46f2-bdec-27cbb17f9404",
+      "title": "Complete a impressão recente",
+      "content": "<p>Bruno está ____ desde ayer.</p><p>Tradução: O Bruno está estranho desde ontem.</p>",
+      "contentPlain": "Bruno está ____ desde ayer. Tradução: O Bruno está estranho desde ontem.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, está raro marca uma mudança percebida no tempo recente.",
+      "feedbackError": "Na aula, está raro marca uma mudança percebida no tempo recente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "raro",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "393df760-5b1b-452a-9550-ca4f736bb18b",
+      "sequence": 13,
+      "lessonId": "14b0beaa-00f6-488b-8cf0-b8b923115313",
+      "title": "Recupere o verbo do estado atual",
+      "content": "<p>Hoy ____ impaciente porque no llega la respuesta.</p><p>Tradução: Hoje ele está impaciente porque a resposta não chega.</p>",
+      "contentPlain": "Hoy ____ impaciente porque no llega la respuesta. Tradução: Hoje ele está impaciente porque a resposta não chega.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, estar ajuda a apresentar a emoção como estado atual com causa.",
+      "feedbackError": "Nesta aula, estar ajuda a apresentar a emoção como estado atual com causa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "está",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c06080ec-ed5d-4ba0-a430-f566e4b7ddc9",
+      "sequence": 14,
+      "lessonId": "a652bee7-0585-46f2-bdec-27cbb17f9404",
+      "title": "Recupere a fala pelo ouvido",
+      "content": "<p>Escute a fala do diálogo e marque apenas as palavras que realmente aparecem nela.</p>",
+      "contentPlain": "Escute a fala do diálogo e marque apenas as palavras que realmente aparecem nela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/035c5680b6af46ceb1079f45ae41a35c_b08-d02-estoy-agotada-no-he-parado-en-todo-el-dia.mp3?Expires=1794099795&Signature=guzzoqXI68DJ4cklHTiCJVKALBL5qUtjqnoCIcd35sWY2wuKGfIaqOfuInJbeMTeuXBbBSZtP9BG~F~Nmrj-2iRsUaudRQo2CKFdS8Pf70tJvkt3a6fLNtxJ1UJBaeAzc-m-sW22Lznd-9XG185wIz6EOmOXyefWS06ict19M-Y1g6SnQ2a0cltm0XlvcQ0HHoVgE6vSnHYmhhr~FE74uf9HDtgwfjG6YI5ISPVhcNiQCLiwNwL4oQ-YGW9dByypdl2KCY7rarb3Ix2fRXmrvDIdd4NvxikKJOuv7TEJiRirx3ws12vNlz17yG8uC~h0GBV6KCzz5ijLs1kSsuXppg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, estoy agotada aparece ligada ao dia inteiro e ao esforço acumulado.",
+      "feedbackError": "No diálogo, estoy agotada aparece ligada ao dia inteiro e ao esforço acumulado.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3b88f07a-ace0-4a74-97f2-c6adb4fc9df8",
+          "text": "raro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "625745d0-0360-417f-89bb-cb58a986d878",
+          "text": "agotada",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8a6875c5-c322-4570-913b-06a7d0bcae95",
+          "text": "mañana",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8d2597c6-b62d-4d12-a848-7cd75616caa3",
+          "text": "todo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "aa43163f-52d5-48d4-9422-65b25e89005d",
+          "text": "presión",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d57dedba-ed5e-4fe1-81a5-d2cb26d85523",
+          "text": "parado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f1ec6f15-4db4-445f-93dc-714ae53f8dbe",
+          "text": "día",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "855bbdfc-44bf-4be3-a587-342a9a071faf",
+      "sequence": 15,
+      "lessonId": "297a5b2a-2c66-4957-9255-e7199b4d4c29",
+      "title": "Escuta integrada com ser",
+      "content": "<p>Sem apoio em português, filtre apenas as palavras que pertencem ao comentário completo.</p>",
+      "contentPlain": "Sem apoio em português, filtre apenas as palavras que pertencem ao comentário completo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b12803b597c34803be5f61113d75e9aa_b2c13l02-c01-comentario-integrado-ser.mp3?Expires=1794099795&Signature=gz1AAeYO0vBNwmS~YQy5OoXE9iaoJPVdJkxlZPyIuoXTT14uE-mb3-5XLfnJbeNCur~yZQOYG8v5n4QpBOpQvftCVHk0BTopiy9VbT6HXq0KuzfSKDffqmdmnVYNrVNLCoICVevGzecuqd7VfA6CAgf-07G31v~e6SNY0dzIV3aFCcm-GZv6rYHEPGTT6GjtAyAEBzvBOy4ELYonVy7tZv2pEOiehDvYG23tNluKfwfcKvBYAmOJ1UlUKCqU3gC3hzlaBJ8H5h~QMIjmKFkf~0CQmpYoXyEMmfrWuFYDAHfB2CX808I-S7fYbV~ln7e3UmhyNBawaGRI-L5wfnm2yA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O comentário integrado recompõe convivência, rotina e dificuldade com rótulos estáveis.",
+      "feedbackError": "O comentário integrado recompõe convivência, rotina e dificuldade com rótulos estáveis.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "195f3a8e-2735-4245-a98c-c71a114f5574",
+          "text": "nueva",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1a298ac0-d18f-4fa6-aa2e-09b419606907",
+          "text": "hueso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1c98df31-2317-435f-a1be-ecc5cd555dd4",
+          "text": "certificación",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "232b199d-feb9-4dca-8b15-5673c0261c52",
+          "text": "dinero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "249347af-128f-4600-a9dc-637dc7ebdb12",
+          "text": "parte",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "28ecfc34-7992-4710-8e66-81e37df8caf6",
+          "text": "clientes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4420ee71-f6f8-4155-aab4-0c3e524ec839",
+          "text": "curso",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7053210f-bebe-4d65-9144-6cf53b3328c8",
+          "text": "oral",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "81f3264d-8faa-4e74-bc50-2bc0212b9a50",
+          "text": "Marta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a46d44b1-742d-4d31-bb89-fb95e6390739",
+          "text": "desastre",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bab49b24-127e-4d70-8dc3-0c16ff6cd0e0",
+          "text": "plazos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bd639878-79c5-4acf-82dd-cd94405fdc9a",
+          "text": "encanto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c6b38d91-adb6-460e-a3cd-2fd20cad6b67",
+          "text": "Marcos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "df88eac7-be52-4d9a-88bd-2f51a7ca8c82",
+          "text": "gente",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fad26165-02e0-443a-a9cf-8b88dcc9218d",
+          "text": "final",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

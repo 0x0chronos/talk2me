@@ -1,0 +1,576 @@
+{
+  "attemptId": "f3759c11-48ee-4ea1-b95b-8c439a4e5e78",
+  "exercises": [
+    {
+      "exerciseId": "6150532b-25fc-4d09-bb83-87fdc7d0a1c0",
+      "sequence": 1,
+      "lessonId": "11313c18-a0d5-47f0-802b-27939ffcc22a",
+      "title": "Recupere o passo seguinte",
+      "content": "<p><strong>Si el caso requiere seguimiento, te derivan a un ____________.</strong></p><p>Tradução: Se o caso exigir acompanhamento, vão te encaminhar a um especialista.</p>",
+      "contentPlain": "Si el caso requiere seguimiento, te derivan a un ____________. Tradução: Se o caso exigir acompanhamento, vão te encaminhar a um especialista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Especialista entra quando o primeiro atendimento não fecha o caso.",
+      "feedbackError": "Especialista entra quando o primeiro atendimento não fecha o caso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "especialista",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "16b0b995-b22e-4fb3-ab7f-321d049fae18",
+      "sequence": 2,
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "title": "Reconstrua as avaliações pela escuta",
+      "content": "<p>Resolva só pela escuta e diferencie os trechos que mostram passo assumido, reserva, melhora, rejeição e inferência cautelosa.</p>",
+      "contentPlain": "Resolva só pela escuta e diferencie os trechos que mostram passo assumido, reserva, melhora, rejeição e inferência cautelosa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula recombina cinco molduras para ajustar certeza, recuo e cautela em saúde.",
+      "feedbackError": "O fechamento da aula recombina cinco molduras para ajustar certeza, recuo e cautela em saúde.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "48503b5a-5367-47b2-89a9-c94228377077",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7c957306964441b78dbda996d89e665a_phase4-b01-creo-que-necesita-ir-al-centro-de-salud-hoy.mp3?Expires=1794099922&Signature=qjAxKQe5X4WFcas0pehvGn--r9e4Mfj0gJWOKAtbF2Q49AF8fGJe5WUdKgPZMnUyNPIeQelBpE8tC1M928tLWk9RmqcF5fErCKt-pqnAySMDiteFwS8XhpIyGS-Yj5x9aBqd2spVf3eL-4pn~Ku1uiqUXvHs4yHEfKyBag8D279Bx6WguTc5AG6~AAcjO8q-15aOdIlpfA-bPJ4XAW3WZIgBaKhUtSLfL-EcIPS0Q4vf~I1GFBtm4VSO1rTij0AyVI5u6Cv2TMNnx45m-9iINGrxGCJ7vKsvyTFwhf85yquIcnjwdFVTUGQfTrGeWjzMgnmACYIkrFS9XJYOghKS4A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "necesita ir al centro de salud hoy",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3819de98-d342-4822-a3ec-eb56130d6fed",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac3a5990a3de45af96dcfb15fa08a218_phase4-b03-no-creo-que-necesite-ir-a-urgencias-por-ahora.mp3?Expires=1794099922&Signature=t2uyA1ZZLeS7X2A8urGD7HKCI-IdbYTPyxWDZvoHh2gUqBmnFZ68UEbtdVorjT1DcLwgyTpVuboxuuwdSqXGV4g2XzQpICS9C2C~lc2QF9PWrfdcYwMxUR7X~ayGBvj2D4r0yndIVFVNnd9ibiPWk4CxPAhkSOtlyH6WH4Qcc1BWeExTb2J2nfgPC1GOlKopzrZvAAGg3XICiMMSWQGa6yp8I3chJfxZBkhpQrIllsgt5nGddSLAMa5IoPzLbp3Vj1PdnLLuX6uQALe~zhWciMPvQB93F40MOakIrnQGpJ754uP8euZlndVwm~LSJTR15HWsS3ZMAHRXZn2U62cBmw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "necesite ir a urgencias por ahora",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0590c3a1-f18b-4993-be19-f9f947d53cbe",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3be74d30ac9543cda062f130d4eb4494_phase4-b05-me-parece-que-el-tratamiento-le-esta-haciendo-efecto.mp3?Expires=1794099922&Signature=19eF-qtAdKHmmtG3dsO3KI00AqGgqzg~VeqQEuKGSJAsMs4iZedhgFwTINtf3K6WwTJun9X5pNLYEK9AKyyKU1VXUSTzqiUFj-~ZZiDOd~h17cA9MueqbhTZ1-dTw3IlUrd95U197y6cSp~cT2RJcuPeVm5ygByKeDvjQ2yuWjYNKOvLcPn~b46Q12idLy8aMnhpuXEQ7d8yiZ2c-jw4BFVrsKhsLMp2zUH~syZ1hEFOjW3ukTu-vve2Mz2TODrrpdrSeHULZBmwOgBLVNobwAKRd1gVHACZ~Q1aadHjg3SMlva1a2dEjslc2MBNVN9GwDVra67Krv-ZanNV4BjLBw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "el tratamiento le esta haciendo efecto",
+          "sequenceItem": 3
+        },
+        {
+          "id": "1e61c722-0250-467e-be87-29869d2da39c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ee3846e8fc6546038e8274c7d8c6742e_phase4-b07-no-me-parece-que-el-mareo-venga-de-la-comida.mp3?Expires=1794099922&Signature=FrMCdjRm86fjclWGpyVvMt8ltVClNwqLWzhX-BHcDsCnbA3wPX5m4ZhEpFKvlTVzxManvOxP5GPcRul86ptXCWdREdE3OxFOfxs4cKZuybI6BY-oN4uc3hAvuVcN0E5pyFzTING91dXNNdyeb218jok1Kh4YyeqAZQdMgjfIqKHdCokk~UUhphMclfRRTlCEZnbVx5s8cqagHFhf7MyCapxJ2U40fKU7XHBOC~DYQTVWMHxS~CBcgRJJAnCJ-mOzHUtPbCpW42qn9J9TRJeWTmHLVgxrtGddMfqpP3e-0880ucmaBhKgbTq4YT7xxBISBUcTpl03jKHvug~M4w6hrw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "el mareo venga de la comida",
+          "sequenceItem": 4
+        },
+        {
+          "id": "1cd01f18-934d-4282-beef-c453c9d3cbd0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c7feb89b520470da47e66949462e880_phase4-b09-supongo-que-no-es-solo-cansancio.mp3?Expires=1794099922&Signature=nr-ToqPUcddXqeVORKmaQ6JubjYyoz1cHuL0L5B556e6HTOjj11RHpnAfKq093jTbNUat8KtCN3TPhkUwbUPTzVpZAlysOLG06GLkm~Gg1NgBX3RRTI581IILuRtnfxtdJjQ0HVG28dXoJFFDTRq1CTKF0qO8oy~WZxGskMMZ84BCPKRULTu0TdM~EpWgBTsK59RkNXe40CGB4yB~jNdI2FSXPck-F1Cwgap4zl0-mgk8x1GWzk1AtpxgiecUit9deB8B6vhWB-Qv9ZLAJq6ONeD~EHqZYSkiSbjS2SbcJJigJnaCgtdmblXkDUikO7yv7-UHkm55nHjG7XDxu49cg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "no es solo cansancio",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "1d0a24ed-f851-467d-b95b-0253e2bb30c3",
+      "sequence": 3,
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "title": "Filtre o recap pela escuta",
+      "content": "<p>Resolva apenas pelo áudio e selecione as palavras que fazem parte da atualização final de saúde.</p>",
+      "contentPlain": "Resolva apenas pelo áudio e selecione as palavras que fazem parte da atualização final de saúde.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7b5627043acc4cee826fbdca3b2a4681_b10-recap-sintomas-y-tratamiento.mp3?Expires=1794099922&Signature=ciS9CNay1sTDeOD4uvZsXGwSV2QslPnWaWZSrKklLNDn-FXAwmjuw26tf9-HMk4PaKKyOh-e~D9EWy8zsrM7kZ-q3agsKVemif69tkC5wTLE9aBi0EkdY2P-gaLr2BVzF1liVOj3JQzagdtIRe6sTUTIUz~9n34PxbBUbtb2SKONPvbaYAyayUZn9y2zixiVx7fj~W39ZTIwp-mN-ot5OcTjcFMsHG2fccZcJZYmqx3wJWmdqp-JfN9vmDbnOsaulwfRucY1x~GhFJ0oyp~Cfy1MS9eMdwSCN8jOalPXX0vLsN7hHqu3VDQQj3YPdtvMpaZZK6ZIPCRjFM1WHTv92w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap integra sintoma, alívio, receita e próximo passo numa fala única.",
+      "feedbackError": "O recap integra sintoma, alívio, receita e próximo passo numa fala única.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "15a5e399-060d-4ff5-8c1d-38c0dbe04dfc",
+          "text": "estomago",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1bf1ba0c-53d0-4394-b984-94e9f642ae71",
+          "text": "receta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "60c551cf-e9ad-4b5b-b184-bfb53041648b",
+          "text": "anoche",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6b3ed6e4-243c-458c-abf3-6529120fe4ca",
+          "text": "analgesico",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9df38cea-77a1-4f92-87a0-b58ce2506ffa",
+          "text": "mareo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a5b39ad2-b0de-46d3-8415-0a5cde588d97",
+          "text": "jarabe",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b44463cb-1a56-414d-bdd9-af48cb623af7",
+          "text": "irritada",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "da48a08c-feae-4b7f-aec1-b4b0e73667d1",
+          "text": "cita",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "0ca83f99-b182-436d-a659-9375adcc0282",
+      "sequence": 4,
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "title": "Reconstrua o fio pela escuta",
+      "content": "<p>Resolva sem tradução e distinga os três movimentos principais do relato.</p>",
+      "contentPlain": "Resolva sem tradução e distinga os três movimentos principais do relato.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio final pede separar abertura, rota de cuidado e leitura posterior pela escuta.",
+      "feedbackError": "O desafio final pede separar abertura, rota de cuidado e leitura posterior pela escuta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "af6e39fd-651c-4614-a3db-aa7aaddccfbe",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/19f962f1b1e640cfaa52112db64c30f4_b02-me-desperte-con-dolor-de-oido.mp3?Expires=1794099922&Signature=JMuaJBRhFR4NiAuNudaPxKCR1Q43XaxuKonAUaclmR5sQWNlFlVrBvKV55w9CuaptP64eYh5sJnxiXu4ME2Dk3atU5TLSx9xnJClDE4cIGx3vV29ZmglN9iae-CHkfahJLrPMeGlueSzUrsrWFMOYnwuKbtj-EJb61Gb-4YBrVgkklewbx6ZHoGxr8rMT8oGpDPo3dIkKKo~mfyLO2Y2i267NGYTQUKAqCwshik4BlbIdRphlWj6qvpVOceo5r37QcTQdFDhihCXuMnYA1nJqJjwqLNrV63UrLhi1sAwisO5N6AE9fRpEZetF9kGqt1IFGVYWJRqLUdOeMAvzcF6mA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "dolor muy fuerte de oído y fiebre por la tarde",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d08cc43f-e48d-4451-9be7-8cb61dff6f63",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b7e4982c65ff405494279fd7c2a86f2a_b04-llame-al-centro-de-salud.mp3?Expires=1794099922&Signature=p-RBrRVeGobbZtKsZXmeQ7XyW6xuYj6OEmMfPeaa~SbvBHvuLbd5suCnC5ZyVnlk7opSGQ5ToU12XNdHyHuEqOeLqXOol484jHlm2j3peyDHJrLjdH5FAhAgX-aPTJOKPAemflEXF8TehnwS0CT457mDIwftguh93~vtOu-UpmkS9L4iP4p12y2X5TrOJBtuBb1O~FSlGqJiXvekFvIeYuqWcATqCN2zRpEE~4rT-Yyh0LWIL3Yz1pOvHvygItVGj99KJFmv4QyUYSqR-KWqf7y0NLTJ5O~RxtG0L6gVkBmOvQ-ic8e7GOU0S5kFZhY--ONbo3Q5s9AicwLyA6R8zg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "llamé al centro de salud y me dieron cita ese mismo día",
+          "sequenceItem": 2
+        },
+        {
+          "id": "59e390c4-2958-4464-874a-56b025f3d45b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/320fba589d9f49129e156f94f275c20c_b06-la-medica-me-receto-antibiotico.mp3?Expires=1794099922&Signature=ALWFZID~QmQRsnd0PxhHwU0SIZjli0QE4mX4Y0hSg5SYGAvj3qU8mnucruNofz5tQeyVTS5dqxRhqIb3YV91WuKh3Dn0htsNnC8gLa6qYsfJnjjZP9EtehRtDmITV3GvKIaAyjG2pyF8IvCyyTAXoI7tURGOgrPSKLz1I1bGWGCTi7siKybi-gBirmfnqmZBEAf4B7xB4fLBjKBbXWkpaGb0SMzremc-7z0k~lyoLup7xn0SoEs6O661iEeCu86ZBZuZtd7XoVSd~0OwDYriIewFup4LTqyu5j47-IDr26c4WAT1lcGelqW5PotbayKQakqFNkD7pMgtXG6RwPbIQQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "me recetó antibiótico y subestimé los primeros síntomas",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "d6bb5ecb-01b5-44c7-a854-bece4f276ae6",
+      "sequence": 5,
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "title": "Recupere o marcador de tempo",
+      "content": "<p>Tengo fiebre alta desde ______ y me siento muy debil.</p><p>Tradução: Estou com febre alta desde ontem a noite e me sinto muito fraco.</p>",
+      "contentPlain": "Tengo fiebre alta desde ______ y me siento muy debil. Tradução: Estou com febre alta desde ontem a noite e me sinto muito fraco.",
+      "fileUrl": null,
+      "feedbackSuccess": "Desde anoche fixa o início do quadro dentro da abertura da queixa.",
+      "feedbackError": "Desde anoche fixa o início do quadro dentro da abertura da queixa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "anoche",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9ff9bdf7-df22-4ee0-8b87-8c6a250e4509",
+      "sequence": 6,
+      "lessonId": "bef5fe2f-d440-4482-b839-591812a7373b",
+      "title": "Reconstrua pela escuta",
+      "content": "<p>Resolva sem apoio em português, distinguindo avaliação, revisão, seguimento e encaminhamento.</p>",
+      "contentPlain": "Resolva sem apoio em português, distinguindo avaliação, revisão, seguimento e encaminhamento.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta integrada da aula recompõe os quatro movimentos da fala clínica curta.",
+      "feedbackError": "A escuta integrada da aula recompõe os quatro movimentos da fala clínica curta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "42c572fa-2f4d-4939-b033-228b0f5eba75",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9dfa558900e041b18ac40ac47e562541_b02-por-lo-que-describe-conviene-que-lo-vea-un-medico-hoy-mismo.mp3?Expires=1794099922&Signature=yjn37bi4prZ21SEWaoI4pNVSrVNE9YowIyYry-AZFUJ6FMSBod27XPGS-8XZBunGRg5lLS2LKl676RiBk0piAR3clXo6avAW5SICKcMZMhoVA6ZQ1QYfRXMMEj-nhWxeHyMj23at1HpDfv9W3Kj1YroYjzkOhRT3xFfjEjbFSKePUswlDj~~bS5eDZBxabE7zzl1UJS1TDcWrz3dyLmenMM9RpV5Ov5wSuh3sZwKsFqeKiVJgcqzOKq7~gdU9TVEHyA7v16FEqfC8Tr5FgvgjZZkQequcGgu78FFw1QQ2UIUT8IoceKw4tx1gmbsyRZSjdPBVFD8O1mmlhtvdsFk-w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "conviene que lo vea un médico hoy mismo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ca7ed5ca-b8bb-4eb2-bfde-8eb7ba50945f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/461fb77586da4e378627da970f2f868d_b04-si-el-analgesico-ya-no-le-alivia.mp3?Expires=1794099922&Signature=fQxGoFMWSqZJ~Qxf~Lyd9w7scnvUSIMlJYbpXQ8NmO1w0Y6jKi2YKbshHTG3adKnnrPL13DbLFTiRsAHXyd-DfJD~VyRGCcFs7V1M83pqAAOFKInAIkhDZdc1RThmooB1JUYazUKIjSxNWzq-Le96B6Yq~mc6mSPixR831d4jCticWpri5SGwr2OleOMPrKtVditopJ6h1Q0-xmtyhe~Zy9NIxI59JFBa-PQa4nSAtsCSFvIpyUNWixTcL17Y9FejlNX~5f8VQGMvVX37~o3n-HWwx~sPfH-Cjgm0WeOwedBMZ8Ehl13oF4QC0T3lCM~~zJVzYPIfn4XwV~UuKLC0w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hace falta revisar el tratamiento",
+          "sequenceItem": 2
+        },
+        {
+          "id": "71e36dd2-44f8-42b2-b838-921db0167a17",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/596ce94ec6ce4a749d0d80437136f594_b06-no-parece-que-sea-una-urgencia.mp3?Expires=1794099922&Signature=ZYfQ6xqY9~Nz9mDNE4RkKY1oTWfynMR~E7~TXf5w14NVMB53CauPjr4I1Xc4WfUIyeAIUPG~9RuJFvBsU2Ap8~Gd7~3gjnkzxAnyJcspwCxtJk3U7IMyinF2uE7pqBhLlqrFWV8Aj4pEnKTFv1iuKjnaTy7QbzS2oFFZZRZo6yo62gYbzDFDX5qqzjoXJez~ZMtARXmc3wGCjfOTW-fmOSIA9CemdijAX7AmhgXg449mJ1mDQSZ~vBXM7M5KHRhKlLY1~br3T-VpP2hlNzo2WCQjCvQ~W8M-R-Y4Gg~tD2tbBa6lI5SkLJVhOZD0WLzZSIbCY3c0u63-Xnny4Zw8wg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "sí requiere un seguimiento esta semana",
+          "sequenceItem": 3
+        },
+        {
+          "id": "05d48e43-d1d0-4fed-b601-0f2ce4f8eb4e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/111dab680cb8406da289d9d509c22754_b08-con-este-informe-en-recepcion.mp3?Expires=1794099922&Signature=QXgRqG9zC5OsCUcArriLNI9tcNbm9I0vqR75JjI9Dwk7HB0wXukNj5~1w-Fb4O-DkfrnIEUrHFKFCRf7iTrfgqxZtjXVEwvK3QjW0GZrxP3QqsJhVFdIWcWWPE2-OQLhIUYz0nPhnwiJiokWYx1zoz9pBNv2nnOX4IC5D2VofI4guUC7yeVdGjAmPKCabu8OH-OTyeIlNNbVPXjmrQQuQEHJnz4X9IIydbHkNZEpdaYUZ4Z9ybblmlruetnlQ-7iaF1oNZePa~izDXkDQRK7A9VQoMPnspRR1c0moRzBXksWplWQ3Ubz04uPhkOHBfNKgKaQUNF43C-8vxG~1T0amA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "tramitar la derivación sin problema",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "fb383ff1-a2e5-430f-b9f4-dfcad4c928b5",
+      "sequence": 7,
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "title": "Reconstrua a troca pela escuta",
+      "content": "<p>Refaca pela escuta a cadeia curta do atendimento sem apoio de tradução.</p>",
+      "contentPlain": "Refaca pela escuta a cadeia curta do atendimento sem apoio de tradução.",
+      "fileUrl": null,
+      "feedbackSuccess": "A troca funciona porque cada turno empurra o atendimento para o passo seguinte.",
+      "feedbackError": "A troca funciona porque cada turno empurra o atendimento para o passo seguinte.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "47f36f60-4d02-4759-ae3e-527577cb341f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0c38fd4fae1548dfb4ceaa6db8978267_b08-d01-buenos-dias-dime-que-te-ocurre.mp3?Expires=1794099922&Signature=SgyHCRIqXlkOS8XxYU8atKN0Jn9PNounHE-dSWXa841dla-WVYpC7hkt3YKWeCa7FkjhMndoMqULgJ2wz1UctRNjcEfUorK0yNz0sSI95NlBKQCkbQAFSVM0eOfzPNJzGkDBBvyO76VXOxSbl~~kMsexFoUlIrlpSwZUzMsDXqdsxlQGYkMjaquKEy10HULktyA~xASF3SP~FOC~99p9veWd4MOIIoipb9~89~1~99SsKjvkXdhoFGiEKufTI-AxXKjHw6M7yeRdJiLhStdZ-NchMa7UlYSDHnJvDgTsn~ktxkLPdeUyOTWazu7S0riQPKgcVutxR7JoDjcLiIvGHQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Buenos dias. Dime que te ocurre.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "007d9ae0-64cb-411a-918c-0ae5a912dff7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a624124859347c69d0028bbfff5f56a_b02-tengo-fiebre-alta-desde-anoche-y-me-siento-muy-debil.mp3?Expires=1794099922&Signature=JBzc2mziXIkXoaXG9lLttQvnVrhZKR1rsQNicWfNZ6jeHzfxvtokZxtkotosh4EjSDc6TYRYR~HGj9vpm9r25Qfizl552Qy3~pGXP56pJ9wJwUND3Ed0G5lBtb2B91HOUaigy0eJEEAeRcPoVMOLAlO80a9R7RUg1V-4~TVasx~-xiJFh4LWf5ol3IAMbQMgVycKrC7m2yLmdfuu0H6-cgXKUb7ypN28TRgw3Nyq8BP6OpxLo4FUX4AnTPC3ld84DPeQR3JJ-B8VDgBBRsf41CTI1iXSBYgA79CWq~c6ETUoEqaPAm7SB3BzAqMME8l94XIRj9OyOnSWr3g8if4jvw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo fiebre alta desde anoche y me siento muy debil.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b0503732-fe70-417b-a656-910c8428d24b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/23ef6fcbda7c41e1b585d6d16a8d3977_b08-d04-es-mas-bien-general-pero-me-mareo-cuando-me-levanto.mp3?Expires=1794099922&Signature=qlQfpWpBotZBAcJDwELWIwCTrc2DUmqjcD~rMOhEZp927egYAsi7zKcwKiVf0Md~Q91Qjvho~-K97BjfS9lDLYquz95lFmXG7NQ4xakmrKAJd2Wjl7EIuEz3qy33FJbnuSEADlWaK-ssNdDk2iTMNXnSg293NBtY0MMWOuxlbwlV4l2jc-2llA-oSHcOT4FDLSROUlNKbRcNIsA4IzynBT04eH~dYeOiGWd9vDiD5p2n3OdRvTU9au-MzZu6Av5uzMfcl0529RTmzrRmCoS0gW0PX4rPzI6TgwpNsgbhREii4H2R1a1RGW~OtWg1WvRpr8gE6kGSPyv3hUIOB8PQpg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es mas bien general, pero me mareo cuando me levanto.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "65387b73-e03b-40b9-b53b-fe2e555555ab",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2754b1a8ae614883b0d3eac5a7741cdb_b04-no-parece-una-urgencia-inmediata-pero-conviene-que-te-vea-un-medico-hoy.mp3?Expires=1794099922&Signature=D9qfb4cGIAFJA9u1GRNnWTQ7D3s8Tzz6wvxXAmAgWnsCG4rSRHAFuHVmFP-utVZ90omUDxh6muLeN-TEoBucJUM4qT5Hgk4XXSFVeLoXrHbz4oYMy4T0rop9vN0NrYsskB9IvE~1kMTsodwRmUxa0WABNTdKMj7VrZbDh0YT6Oc3px9xF0to~A0iJXL1G4snUrdC8FfZhg4fZiAYQJ6pFDyiIVgAm7KrON76sO6r02nIYCtKYdmORiNGaAgCv-ajGJDkIyfeHAtIWki~9mWpzGowfuEGRjaQgUlaNfF-taJu7ZfI2ukVXrAXA~FUwVLND0EbN3u6bgC0x5kMpfmzrA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No parece una urgencia inmediata, pero conviene que te vea un medico hoy.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "6850888e-581a-4568-aad0-090d92d15ef1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/865117f2be9c4569aaf1739fa5fdc086_b06-sientate-un-momento-y-ahora-te-llamamos-para-la-consulta.mp3?Expires=1794099922&Signature=clG8L8K5nuTzvwI0E1xIup0uzwj66n3M4hDM9h9p5pfM~W746Zh8CfGFsPAhSrvKzugM9MRbFA7T2pkCaeDUbYG~irKN2gFjkZ2GGeLSAJea3GPgP8nAOpb-JQPenj3CbLTNFyTXZOx-SE~Sb27dRNx2m8mox3zEPBh6h9N-~vZwxVE-GbIfvqChL1SINd32VFhsn1xvb4O4j-~0TrB9cFoHcyJ5p36BJz8YPimybvrPOFBx5PCYXstZmZBiIHdprCBtp3dujcmXS49RNv6Nc4G~rDXLSRB2VgFhIE4qWJocmLcHAlxNv3poY2Xfz7M8SO97yykUsdW5Um1Nj56z7g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sientate un momento y ahora te llamamos para la consulta.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "2c1e7b0f-5ca9-40b6-a739-bee7f4ad0589",
+      "sequence": 8,
+      "lessonId": "bef5fe2f-d440-4482-b839-591812a7373b",
+      "title": "Recupere o documento do proximo passo",
+      "content": "<p>Con este _______, en recepción le pueden tramitar la derivación sin problema.</p><p>Tradução: Com este relatório, na recepção podem providenciar o seu encaminhamento sem problema.</p>",
+      "contentPlain": "Con este _______, en recepción le pueden tramitar la derivación sin problema. Tradução: Com este relatório, na recepção podem providenciar o seu encaminhamento sem problema.",
+      "fileUrl": null,
+      "feedbackSuccess": "O encaminhamento da aula fecha com documento, lugar e acao concreta.",
+      "feedbackError": "O encaminhamento da aula fecha com documento, lugar e acao concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "informe",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5fd35320-81c3-48b1-ae83-28140c743616",
+      "sequence": 9,
+      "lessonId": "23a8f98a-5b00-4802-aa73-858bcb068b87",
+      "title": "Recupere o verbo do sintoma",
+      "content": "<p>Complete a frase em espanhol: <strong>Se me ________ el estomago.</strong></p><p>Tradução: Meu estomago embrulhou.</p>",
+      "contentPlain": "Complete a frase em espanhol: Se me ________ el estomago. Tradução: Meu estomago embrulhou.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a forma que nomeia a reação repentina do corpo.",
+      "feedbackError": "Aqui o foco é recuperar a forma que nomeia a reação repentina do corpo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "revolvio",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8fd959d3-8832-4f9d-9005-d459569b8f50",
+      "sequence": 10,
+      "lessonId": "e8c09d06-cbc5-4fb9-843b-9c630839f1f1",
+      "title": "Recupere o elo do encaminhamento",
+      "content": "<p>No parece una urgencia inmediata, pero ________ que te vea un medico hoy.</p><p>Tradução: Não parece uma urgência imediata, mas convém que um médico veja você hoje.</p>",
+      "contentPlain": "No parece una urgencia inmediata, pero ________ que te vea un medico hoy. Tradução: Não parece uma urgência imediata, mas convém que um médico veja você hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "Conviene que move a fala da avaliação para o passo seguinte.",
+      "feedbackError": "Conviene que move a fala da avaliação para o passo seguinte.",
+      "answerType": "buildWord",
+      "expectedAnswer": "conviene",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "66aa892f-fc18-463b-959e-6925b17e70bc",
+      "sequence": 11,
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "title": "Separe o tipo de posição",
+      "content": "<p>Ligue cada início em espanhol ao gesto de avaliação que ele deixa mais natural no comentário sobre saúde.</p>",
+      "contentPlain": "Ligue cada início em espanhol ao gesto de avaliação que ele deixa mais natural no comentário sobre saúde.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula gira em torno de graduar certeza, distância e cautela ao comentar saúde.",
+      "feedbackError": "A aula gira em torno de graduar certeza, distância e cautela ao comentar saúde.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "555e6755-723e-41b0-a542-7f619bfec534",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9079a97d-b89d-4440-b0a0-2c3f5243d0f6",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "ed20837c-cf31-4bc1-9e87-3175dbfe0e84",
+          "leftContent": "Creo que necesita...",
+          "rightContent": "avaliacao assumida",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c06de53b-df68-46a1-8bae-124b4adfec9e",
+          "leftContent": "No creo que necesite...",
+          "rightContent": "possibilidade afastada com reserva",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8a67876c-7fd8-49d3-b3f8-3c417b8a3874",
+          "leftContent": "Me parece que el tratamiento...",
+          "rightContent": "impressao afirmativa",
+          "sequenceItem": 3
+        },
+        {
+          "id": "0208523a-41d0-49a1-8928-63107177562b",
+          "leftContent": "No me parece que el mareo...",
+          "rightContent": "explicacao rejeitada",
+          "sequenceItem": 4
+        },
+        {
+          "id": "06e2026f-6694-42e7-a6ff-76622d0ee2ea",
+          "leftContent": "Supongo que no es...",
+          "rightContent": "inferencia cautelosa ainda provavel",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "dcfd779e-bc3d-4bb5-a3b5-3e35a93ea850",
+      "sequence": 12,
+      "lessonId": "bef5fe2f-d440-4482-b839-591812a7373b",
+      "title": "Filtre o repertório pelo áudio",
+      "content": "<p>Resolva apenas pela escuta e selecione as palavras que realmente aparecem no recap da aula.</p>",
+      "contentPlain": "Resolva apenas pela escuta e selecione as palavras que realmente aparecem no recap da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7a92b18f4cdf4926a9ba023cc9ef1bd3_b09-recap-fala-clinica-clara.mp3?Expires=1794099922&Signature=Ok1EwgsloDisNEd4xGJrxPw7~TK-JJ6lYU8mmdNA1ShTEdLAlQJGvNdXO7Yv4lYbzMO0mTabyLoy0ylpPcNkrEGuy6Fv3AfppdqQDm~NQYfI-Hhr6SLVXqXpMx~33p-O-V2w4mYT4b571iC32Y2WZPoLUoo076uoNGH~3toc~6nzMJKQ9A3VWq3wjO8JGSmEZAh3R63pMosM3l7JejosyWDe~csrGxQvjzce3pE3amA7zSfU3FSdHKsuL~Ct8VPsaLU~-~QmmKDx5GuKROafbpmWGkhFsuAws6OY9YEqR~2KTAaxLuftSC8FQja8o3v~GlUDGl6fMwW3di5SvYRCdQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap junta avaliação, tratamento, seguimento e encaminhamento no mesmo repertório oral.",
+      "feedbackError": "O recap junta avaliação, tratamento, seguimento e encaminhamento no mesmo repertório oral.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "285e8eb5-b16a-41b5-8e3a-fbb719cd4ef7",
+          "text": "analgésico",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4e244819-8979-4e7e-8bf7-535774ca9c95",
+          "text": "describe",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bade33e7-6e70-419d-adb3-db5fd53eb2dd",
+          "text": "semana",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bf266f2b-e72c-4dbd-bdc9-65fddaae32e4",
+          "text": "informe",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c28e7a93-adea-44aa-a06d-014c31a11c8d",
+          "text": "farmacia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "1fa6356f-6907-4d1b-ab81-51fc18e0f32c",
+      "sequence": 13,
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "title": "Resolva a escuta sobre urgência",
+      "content": "<p>Sem apoio de tradução, marque apenas as palavras presentes na linha que recua da leitura de urgencia.</p>",
+      "contentPlain": "Sem apoio de tradução, marque apenas as palavras presentes na linha que recua da leitura de urgencia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac3a5990a3de45af96dcfb15fa08a218_phase4-b03-no-creo-que-necesite-ir-a-urgencias-por-ahora.mp3?Expires=1794099922&Signature=t2uyA1ZZLeS7X2A8urGD7HKCI-IdbYTPyxWDZvoHh2gUqBmnFZ68UEbtdVorjT1DcLwgyTpVuboxuuwdSqXGV4g2XzQpICS9C2C~lc2QF9PWrfdcYwMxUR7X~ayGBvj2D4r0yndIVFVNnd9ibiPWk4CxPAhkSOtlyH6WH4Qcc1BWeExTb2J2nfgPC1GOlKopzrZvAAGg3XICiMMSWQGa6yp8I3chJfxZBkhpQrIllsgt5nGddSLAMa5IoPzLbp3Vj1PdnLLuX6uQALe~zhWciMPvQB93F40MOakIrnQGpJ754uP8euZlndVwm~LSJTR15HWsS3ZMAHRXZn2U62cBmw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No creo que afasta a urgência sem transformar a avaliação em fato fechado.",
+      "feedbackError": "No creo que afasta a urgência sem transformar a avaliação em fato fechado.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "172c278c-b02c-422b-a10f-f61e81f9a712",
+          "text": "tratamiento",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "37921a29-b57c-40b6-9f98-702ccd241d62",
+          "text": "centro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c6b40eeb-d75e-4ed9-9f68-8af4a64ce2a6",
+          "text": "necesite",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d10b5b92-c8c8-43cd-a1f6-9c9e632fd74b",
+          "text": "ahora",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d63b639b-4c38-40b9-9a20-e5ed16784f47",
+          "text": "urgencias",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e0787fe2-94e2-4dd7-9ed0-a803b5e1db1a",
+          "text": "salud",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "2adbf515-b2e6-4f10-9dcb-fc5a98f25ad8",
+      "sequence": 14,
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "title": "Resolva o fechamento pela escuta",
+      "content": "<p>Sem apoio em português, selecione apenas as palavras presentes na linha final do relato.</p>",
+      "contentPlain": "Sem apoio em português, selecione apenas as palavras presentes na linha final do relato.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/320fba589d9f49129e156f94f275c20c_b06-la-medica-me-receto-antibiotico.mp3?Expires=1794099922&Signature=ALWFZID~QmQRsnd0PxhHwU0SIZjli0QE4mX4Y0hSg5SYGAvj3qU8mnucruNofz5tQeyVTS5dqxRhqIb3YV91WuKh3Dn0htsNnC8gLa6qYsfJnjjZP9EtehRtDmITV3GvKIaAyjG2pyF8IvCyyTAXoI7tURGOgrPSKLz1I1bGWGCTi7siKybi-gBirmfnqmZBEAf4B7xB4fLBjKBbXWkpaGb0SMzremc-7z0k~lyoLup7xn0SoEs6O661iEeCu86ZBZuZtd7XoVSd~0OwDYriIewFup4LTqyu5j47-IDr26c4WAT1lcGelqW5PotbayKQakqFNkD7pMgtXG6RwPbIQQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O fechamento junta tratamento médico e releitura do episódio.",
+      "feedbackError": "O fechamento junta tratamento médico e releitura do episódio.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0f1526aa-87c4-4178-97f2-01d5ee2df2c0",
+          "text": "recetó",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1a7ab35b-3608-4e7c-a541-8645ba60c00f",
+          "text": "centro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "539df6f5-b2be-4139-aba4-59e5758f8a00",
+          "text": "cita",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6333fc0c-7f04-4c47-b401-493c688ec7bc",
+          "text": "desperté",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ba371c6b-8f46-4849-be82-6bf5f84fd4cb",
+          "text": "subestimé",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ced26371-b66f-4dd5-9414-b9980f234545",
+          "text": "antibiótico",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f2464f5e-a550-42a0-a008-95aa7663668d",
+      "sequence": 15,
+      "lessonId": "11313c18-a0d5-47f0-802b-27939ffcc22a",
+      "title": "Recupere o documento",
+      "content": "<p><strong>Antes de pasar, ten a mano la _______ sanitaria.</strong></p><p>Tradução: Antes de entrar, deixe o cartão de saúde em mãos.</p>",
+      "contentPlain": "Antes de pasar, ten a mano la _______ sanitaria. Tradução: Antes de entrar, deixe o cartão de saúde em mãos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Tarjeta sanitaria funciona como documento de entrada no percurso.",
+      "feedbackError": "Tarjeta sanitaria funciona como documento de entrada no percurso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tarjeta",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

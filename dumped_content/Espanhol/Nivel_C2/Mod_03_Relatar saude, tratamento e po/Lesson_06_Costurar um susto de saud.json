@@ -1,0 +1,636 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+    "attemptId": "97537cf7-8c41-4ffa-893b-c0fd8c1cc8b3",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "1d23982a-9870-450a-8263-07ee3c4c2e37",
+      "f9e717fc-50f3-4ee5-b2b6-3a495c659503",
+      "4052b661-e1f6-4619-a7bd-cb38bfc79f37",
+      "2aba542c-ae3c-49ee-b051-cd14c9c912a5",
+      "e1120bc4-937d-4e33-8c19-e32d8bab7823"
+    ],
+    "evaluationExerciseIds": [
+      "39456d66-7b7d-4057-a435-6e90067c29d9",
+      "0ca83f99-b182-436d-a659-9375adcc0282",
+      "1a92938a-de1b-472d-88d6-511b463512f8",
+      "2adbf515-b2e6-4f10-9dcb-fc5a98f25ad8",
+      "566ba06c-6669-4156-a532-c17d564e5025"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:20.7174486Z"
+  },
+  "contents": [
+    {
+      "id": "9dad5725-a855-4b34-9f2e-7c721c5eb079",
+      "title": "Leia o mapa curto e observe quais movimentos precisam aparecer para que o episódio fique compreensível.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "d5c69db2-0261-4867-9ab6-237391022335",
+          "textContent": "<p>Nesta aula, o relato final não cresce por quantidade de detalhes, e sim por encadear bem o episódio.</p><ul><li><strong>sintoma inicial</strong>: o que apareceu primeiro</li><li><strong>leitura do momento</strong>: o que a pessoa pensou naquele instante</li><li><strong>decisão de atendimento</strong>: para onde foi ou com quem falou</li><li><strong>desfecho</strong>: tratamento e avaliação posterior</li></ul><p>As próximas telas mostram esse fio em três frases curtas em espanhol.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "886efef8-9e64-4e97-9a2f-13c9633c4df4",
+      "title": "Escute e leia a frase. Repare como o relato ja une o que a pessoa sentiu e o que pensou naquele momento.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "c1db77d9-0726-4308-8679-2fa526a0e399",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Me desperté con un dolor muy fuerte de oído y pensé que se me pasaría, pero por la tarde ya tenía fiebre.</strong></p><p>Em portugues: <strong>Acordei com uma dor muito forte no ouvido e pensei que ia passar, mas de tarde eu ja estava com febre.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6a673357c42d41788c06daf89bce50bd_b02-me-desperte-con-dolor-de-oido.mp3?Expires=1794099921&Signature=ubCZmJiqZtpNxpxTBbvJUv8HGpYEYLibtdhPU7QysN2G7nkYwgMt5eMHG1Tn5F8fXV4kQkS-fRBz7xOXUZAnOqTqVn22r1ZG3XgpQ3jaYE7xejVGA2Rgvn7oDxrRH9OEn9FVebFJ5tBaSwWj8bll07HR1iuc9N0THEVDKPkJnrJTeHowmFJhDFKZc8mkOecUpRlXWcqrJxlKbjFRjyIbzmZLJ7siRAx6SmoYou4kFsV4Eh8HB~-~2che~2jw7HHzbr5ZUNb4VUQ0e41t~CV4s4xtLqcjqLrrwpohTRWw2Y0IvS1vHpp7AbnfvnEMg9D81o472MHUYoCMy9OzZ1YfgA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "252c1894-73d7-40a5-a592-fce31c0ec09e",
+      "title": "Leia a nota e observe como sintoma, interpretação e agravamento aparecem costurados na mesma linha.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "a85e96d9-ecba-4784-ac94-6dda9593308b",
+          "textContent": "<p>O relato abre com um sintoma concreto: <strong>un dolor muy fuerte de oído</strong>.</p><p><strong>pensé que se me pasaría</strong> mostra a leitura inicial da pessoa, ainda sem plena nocao do problema.</p><p><strong>pero por la tarde ya tenía fiebre</strong> faz a situação avancar e transforma a frase em incidente, não em lista de queixas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d8034b64-2360-466e-8167-137e8ad65419",
+      "title": "Escute e leia a frase. Note como o relato passa do sintoma para a rota de cuidado sem perder a sequencia.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "dd1b2d0a-a709-41a0-a96b-9071bf6b385a",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Llamé al centro de salud y me dieron cita ese mismo día porque el dolor seguía empeorando.</strong></p><p>Em portugues: <strong>Liguei para o centro de saude e me deram consulta no mesmo dia porque a dor continuava piorando.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/55346c8f9bbb4cee9191269b56a8190e_b04-llame-al-centro-de-salud.mp3?Expires=1794099921&Signature=2S0GsDa2DZO0LfNXOpNvdNoc22CilyvJWgYR0~S1wUoTrd9dn2OrzAm8IggklpjwjH4aAgAFY3h6dTxLPpjJq7lks2nxcLGv5v3cRPBM4UIPVobLTImI55wHdvo4C-HT~l17DGHjLP9g7ZQAksTKutn6YR1wWDDdISG5zaWmqF4exfY7lSL3sODWN89EXF-H707ZR8X-V3yZYqdvd1WHhFSkYHSXPG3VRVa3Vj~k36GOZn1O~yG9BGeQMLjWtrh04vCpajB6kDBtxos5rB2BNr16ddooKPSMFIRpfecUR8ub8Z3pG3AikW8cWQqxpzrT85fxkVdkykxrg7gDAivQNA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0a8d6989-44a1-441f-9805-1ab40241ce21",
+      "title": "Leia a nota e observe como serviço, urgência relativa e próximo passo passam a fazer parte da história.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "5b0814fc-93a5-405e-84c7-7c732811fee4",
+          "textContent": "<p>Quando o problema continua, a decisão de atendimento entra na história.</p><p><strong>Llamé al centro de salud</strong> mostra a rota escolhida.</p><p><strong>me dieron cita ese mismo día</strong> conecta acesso, urgência relativa e próximo passo sem interromper o fio do relato.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9a1a29a3-36bf-42db-bb6b-00963bff7996",
+      "title": "Escute e leia a frase. Repare como o relato termina com orientacao medica e ponto de vista posterior.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "e1deab9f-df39-4685-ab46-04777402d77c",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>La médica me recetó antibiótico y me recomendó volver si la fiebre no bajaba; ahora veo que subestimé los primeros síntomas.</strong></p><p>Em portugues: <strong>A medica me receitou antibiotico e recomendou voltar se a febre nao baixasse; agora vejo que subestimei os primeiros sintomas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/86cc9a6635334c97a1ee33bbc1122df4_b06-la-medica-me-receto-antibiotico.mp3?Expires=1794099921&Signature=Fe-GoM5GI46JQRKcFHZFCxQHORu6ww8rLv5Iw3rcQo7dyQ8DowxGP8DiWvBCRHavnbdUkKDR96yu0ozBhuGBAmk6ekdGkxKkzkyZaCuRW3~xh9tDkTj5dpN275SwyoDt6Zr~Lym~pAgZpN49owQ9P3z~DJEFefRdXSgrYZguAvTPnufwPtZmGBJJnjBeAOyHbGdQr-R-aI1Yev3UbZa2QRadYWiLRQdMU1NPuiMS-zFBcPgfxrmenV-08itXH77lTbiwVT-72Aqad9pLgMn~PmC9XXusleJNcedu~6B08qM0xb7pCYSEsVTyPLvtPTXl0sjz43DsrrRq1Og2VBsg6w__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e70ed55d-5bfe-457b-9be4-c9c00962e69d",
+      "title": "Leia a nota e observe por que essa última camada dá unidade ao episódio inteiro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "6d569472-2ebb-48d0-92b5-3f8d87d00da3",
+          "textContent": "<p>O fechamento do relato precisa mostrar o que foi indicado e como a pessoa lê o caso depois.</p><p><strong>me recetó antibiótico</strong> traz o tratamento concreto.</p><p><strong>ahora veo que subestimé los primeros síntomas</strong> acrescenta ponto de vista retrospectivo, que é a marca final desta aula.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "44ec8392-b898-444d-a8f1-5500116382dc",
+      "title": "Leia o fechamento e observe como três frases curtas já sustentam um relato completo de incidente de saúde.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "88606a40-e9b1-493d-8a3a-78adfb73b4c1",
+          "textContent": "<p>Um relato curto de incidente de saúde fica mais claro quando costura sintoma, decisão de atendimento, tratamento e leitura posterior.</p><p><strong>Me desperté con un dolor muy fuerte de oído y pensé que se me pasaría, pero por la tarde ya tenía fiebre.</strong></p><p><strong>Llamé al centro de salud y me dieron cita ese mismo día porque el dolor seguía empeorando.</strong></p><p><strong>La médica me recetó antibiótico y me recomendó volver si la fiebre no bajaba; ahora veo que subestimé los primeros síntomas.</strong></p><p>Esse formato funciona para explicar o que aconteceu a um familiar, justificar uma ausência no trabalho ou retomar o caso numa consulta de seguimento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "1d23982a-9870-450a-8263-07ee3c4c2e37",
+      "title": "Escolha o fechamento retrospectivo",
+      "content": "<p>Qual linha em espanhol mostra que a pessoa agora rele o episódio e corrige a própria leitura inicial?</p>",
+      "contentPlain": "Qual linha em espanhol mostra que a pessoa agora rele o episódio e corrige a própria leitura inicial?",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula junta tratamento e leitura retrospectiva do episódio.",
+      "feedbackError": "O fechamento da aula junta tratamento e leitura retrospectiva do episódio.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0825e624-b3f6-4bcc-82e3-0142f6b08438",
+          "textContent": "Ahora veo que subestimé los primeros síntomas.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1d23982a-9870-450a-8263-07ee3c4c2e37"
+        },
+        {
+          "id": "2699837a-1aa0-4098-97cd-c7bc5c24399f",
+          "textContent": "Me desperté con un dolor muy fuerte de oído.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1d23982a-9870-450a-8263-07ee3c4c2e37"
+        },
+        {
+          "id": "96ed0e04-d3ad-4647-8c8a-3f73f125255a",
+          "textContent": "Llamé al centro de salud y me dieron cita ese mismo día.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1d23982a-9870-450a-8263-07ee3c4c2e37"
+        },
+        {
+          "id": "d9a2d045-9fe4-4ef1-8d66-c8eabd5ecef5",
+          "textContent": "La médica me recetó antibiótico.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1d23982a-9870-450a-8263-07ee3c4c2e37"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f9e717fc-50f3-4ee5-b2b6-3a495c659503",
+      "title": "Ligue trecho e função",
+      "content": "<p>Associe cada fragmento do recap final ao papel narrativo que ele cumpre no episódio.</p>",
+      "contentPlain": "Associe cada fragmento do recap final ao papel narrativo que ele cumpre no episódio.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final recompõe sintoma, atendimento, tratamento e avaliação num único fio.",
+      "feedbackError": "O recap final recompõe sintoma, atendimento, tratamento e avaliação num único fio.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "94a1f03d-d143-4f00-99b8-c0aef03d9a1c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f9e717fc-50f3-4ee5-b2b6-3a495c659503"
+        },
+        {
+          "id": "e6f55582-61a6-44b3-b8a0-c68f3f6d4b4a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f9e717fc-50f3-4ee5-b2b6-3a495c659503"
+        }
+      ],
+      "associations": [
+        {
+          "id": "3daf6939-5cad-495e-bc6c-701052d8e832",
+          "exerciseId": "f9e717fc-50f3-4ee5-b2b6-3a495c659503",
+          "leftContent": "me desperté con un dolor muy fuerte de oído",
+          "rightContent": "sintoma inicial",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a72a1a8b-aff0-4f51-8417-ecc2385a283c",
+          "exerciseId": "f9e717fc-50f3-4ee5-b2b6-3a495c659503",
+          "leftContent": "pensé que se me pasaría",
+          "rightContent": "leitura inicial do momento",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e433240e-0862-4e32-8ea1-df8d71edce49",
+          "exerciseId": "f9e717fc-50f3-4ee5-b2b6-3a495c659503",
+          "leftContent": "llamé al centro de salud",
+          "rightContent": "decisao de atendimento",
+          "sequenceItem": 3
+        },
+        {
+          "id": "3df175e5-9b67-405e-b517-a463fd6440af",
+          "exerciseId": "f9e717fc-50f3-4ee5-b2b6-3a495c659503",
+          "leftContent": "me recetó antibiótico",
+          "rightContent": "tratamento indicado",
+          "sequenceItem": 4
+        },
+        {
+          "id": "6d7c5cd6-e992-4f7d-bf81-b5e90f7ce2fa",
+          "exerciseId": "f9e717fc-50f3-4ee5-b2b6-3a495c659503",
+          "leftContent": "subestimé los primeros síntomas",
+          "rightContent": "avaliacao posterior do caso",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "4052b661-e1f6-4619-a7bd-cb38bfc79f37",
+      "title": "Filtre a abertura do incidente",
+      "content": "<p>Marque só as palavras que pertencem a frase inicial do relato.</p>",
+      "contentPlain": "Marque só as palavras que pertencem a frase inicial do relato.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/19f962f1b1e640cfaa52112db64c30f4_b02-me-desperte-con-dolor-de-oido.mp3?Expires=1794099921&Signature=eKQsmYl0cOOFbhauY3NGeCZTW7cnNOm3oF1K~Lo~L4NKKLwTnS-DcbiO6zu05~~NEOcZsg56IOV3~88lrnzxS28VwEClihwo4ppKxv7ZyH-49JSQQDZOFiUJfT8D3L9FxncgEW~shOA39rNlhjoFmxPIy~7li1JpSNMQv72mz9aLB7Z0y6Z1yvWP1ouFCRoKyBNgmZFCIi-1AD7dErioF55rcr3aooZOAXqOPXy9g~uWqI39icLotHlmiE2S0u-gosAr36~odU9CRJ0lWdtMd-GW0rE5RZeHBAbrwvZ39cDjZA3GJgG866XEWf3kerSey5oRoC4Hd4IvwWgZRC6Hpg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A abertura do relato une sintoma, leitura inicial e agravamento no mesmo dia.",
+      "feedbackError": "A abertura do relato une sintoma, leitura inicial e agravamento no mesmo dia.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0a9201ed-9fc8-4a77-8cab-3882890f3639",
+          "textContent": "oído",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4052b661-e1f6-4619-a7bd-cb38bfc79f37"
+        },
+        {
+          "id": "59a19b09-a4eb-4fb7-9acd-0780da2a25f9",
+          "textContent": "desperté",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4052b661-e1f6-4619-a7bd-cb38bfc79f37"
+        },
+        {
+          "id": "9c899b87-de0e-4c5e-99e4-33f7137be002",
+          "textContent": "antibiótico",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4052b661-e1f6-4619-a7bd-cb38bfc79f37"
+        },
+        {
+          "id": "b570d070-ae65-4f6d-b8e0-190012533dc3",
+          "textContent": "fiebre",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4052b661-e1f6-4619-a7bd-cb38bfc79f37"
+        },
+        {
+          "id": "ee9affc0-f9f5-41b0-9cf1-2e34f81b803f",
+          "textContent": "centro",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4052b661-e1f6-4619-a7bd-cb38bfc79f37"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2aba542c-ae3c-49ee-b051-cd14c9c912a5",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a linha que marca a decisão de atendimento.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a linha que marca a decisão de atendimento.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b7e4982c65ff405494279fd7c2a86f2a_b04-llame-al-centro-de-salud.mp3?Expires=1794099921&Signature=RArs9-V1B0LtWLCKXRXujuTjnKL0NhEWsAIOTo4vp3O5zTdbY8BobxBIR0KSBzR1iheK79HfhEZcuq91sGHqIlrE7-m4k7MvhERvCiDLN56KuFKfe1Kvid7HXPA7kGUh91RDaujQTYed7822tdBr6ChQ8PmmH4ZQIHluanfoTeGKlnFeFllzkPh83vlr7lgLHUILprBo6Tqs7ZsUa1H4I9ZwLxfp~G3y3hVJkk2v4ombUViebnXk9K1K3eNQRRlJaL1FYHck9ihWB-mw~v2-g4c0koO6w8j6lD-HjoG4OQY34WntgtRKdbooM3dFnCJaP2Ksw55OwKFmwiJGpEHTdg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta repetição ativa a passagem do sintoma para a rota de cuidado.",
+      "feedbackError": "Esta repetição ativa a passagem do sintoma para a rota de cuidado.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Llamé al centro de salud y me dieron cita ese mismo día porque el dolor seguía empeorando.",
+      "typeSpecificData": "{\"expectedText\":\"Llam\\u00E9 al centro de salud y me dieron cita ese mismo d\\u00EDa porque el dolor segu\\u00EDa empeorando.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/b7e4982c65ff405494279fd7c2a86f2a_b04-llame-al-centro-de-salud.mp3?Expires=1794099921\\u0026Signature=RArs9-V1B0LtWLCKXRXujuTjnKL0NhEWsAIOTo4vp3O5zTdbY8BobxBIR0KSBzR1iheK79HfhEZcuq91sGHqIlrE7-m4k7MvhERvCiDLN56KuFKfe1Kvid7HXPA7kGUh91RDaujQTYed7822tdBr6ChQ8PmmH4ZQIHluanfoTeGKlnFeFllzkPh83vlr7lgLHUILprBo6Tqs7ZsUa1H4I9ZwLxfp~G3y3hVJkk2v4ombUViebnXk9K1K3eNQRRlJaL1FYHck9ihWB-mw~v2-g4c0koO6w8j6lD-HjoG4OQY34WntgtRKdbooM3dFnCJaP2Ksw55OwKFmwiJGpEHTdg__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e1120bc4-937d-4e33-8c19-e32d8bab7823",
+      "title": "Escute e monte o relato",
+      "content": "<p>Revise pela escuta as três linhas que costuram o incidente de saúde do início ao desfecho.</p>",
+      "contentPlain": "Revise pela escuta as três linhas que costuram o incidente de saúde do início ao desfecho.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os três áudios recompõem sintoma, rota de cuidado e fechamento retrospectivo.",
+      "feedbackError": "Os três áudios recompõem sintoma, rota de cuidado e fechamento retrospectivo.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "42b55cb8-0d13-4306-8a0a-6e13911edec2",
+          "exerciseId": "e1120bc4-937d-4e33-8c19-e32d8bab7823",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/19f962f1b1e640cfaa52112db64c30f4_b02-me-desperte-con-dolor-de-oido.mp3?Expires=1794099921&Signature=eKQsmYl0cOOFbhauY3NGeCZTW7cnNOm3oF1K~Lo~L4NKKLwTnS-DcbiO6zu05~~NEOcZsg56IOV3~88lrnzxS28VwEClihwo4ppKxv7ZyH-49JSQQDZOFiUJfT8D3L9FxncgEW~shOA39rNlhjoFmxPIy~7li1JpSNMQv72mz9aLB7Z0y6Z1yvWP1ouFCRoKyBNgmZFCIi-1AD7dErioF55rcr3aooZOAXqOPXy9g~uWqI39icLotHlmiE2S0u-gosAr36~odU9CRJ0lWdtMd-GW0rE5RZeHBAbrwvZ39cDjZA3GJgG866XEWf3kerSey5oRoC4Hd4IvwWgZRC6Hpg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me desperté con un dolor muy fuerte de oído y pensé que se me pasaría, pero por la tarde ya tenía fiebre.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "58866471-b36a-4b61-9e9e-35b11443ae60",
+          "exerciseId": "e1120bc4-937d-4e33-8c19-e32d8bab7823",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b7e4982c65ff405494279fd7c2a86f2a_b04-llame-al-centro-de-salud.mp3?Expires=1794099921&Signature=RArs9-V1B0LtWLCKXRXujuTjnKL0NhEWsAIOTo4vp3O5zTdbY8BobxBIR0KSBzR1iheK79HfhEZcuq91sGHqIlrE7-m4k7MvhERvCiDLN56KuFKfe1Kvid7HXPA7kGUh91RDaujQTYed7822tdBr6ChQ8PmmH4ZQIHluanfoTeGKlnFeFllzkPh83vlr7lgLHUILprBo6Tqs7ZsUa1H4I9ZwLxfp~G3y3hVJkk2v4ombUViebnXk9K1K3eNQRRlJaL1FYHck9ihWB-mw~v2-g4c0koO6w8j6lD-HjoG4OQY34WntgtRKdbooM3dFnCJaP2Ksw55OwKFmwiJGpEHTdg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Llamé al centro de salud y me dieron cita ese mismo día porque el dolor seguía empeorando.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "eafed645-5186-4ddb-8b55-844f467bb839",
+          "exerciseId": "e1120bc4-937d-4e33-8c19-e32d8bab7823",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/320fba589d9f49129e156f94f275c20c_b06-la-medica-me-receto-antibiotico.mp3?Expires=1794099921&Signature=ELCnm85Dt28eSJzdc1H2U-8OW~k9BNIh-5k-O2WyhdRa~qn7WEboSoTxvhmcDA1R1SBs1IMncPumFCSVSpHcLF0yPpJFz59jS~bUqr4fXOZLM4sQprB6x0I3VnvOz5-KlXe2XL314T32hGY380Wj9koh85f8hSkIaKMAHFOY5dfo~mEb0nd4fKVOcXJYbGaw9c~i2yVnJ73TEXun~2oj27s6gAs5HkcmUeZjjukAksPLCTCrsX5AHt1mh~9HXn1xgBsIkwDk123QRUwUS8RX-gtrmATzW2dhYoXaYhIvXkBSMj0Hp4thvVvPIr2~3WafF99OA-E8BxIu6m-~QeEQlg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La médica me recetó antibiótico y me recomendó volver si la fiebre no bajaba; ahora veo que subestimé los primeros síntomas.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "39456d66-7b7d-4057-a435-6e90067c29d9",
+      "title": "Associe trecho e efeito",
+      "content": "<p>Sem traduzir a frase inteira, ligue cada fragmento ao efeito que ele cumpre dentro do episódio.</p>",
+      "contentPlain": "Sem traduzir a frase inteira, ligue cada fragmento ao efeito que ele cumpre dentro do episódio.",
+      "fileUrl": null,
+      "feedbackSuccess": "No fechamento da aula, cada trecho sustenta sequência, cuidado e avaliação posterior.",
+      "feedbackError": "No fechamento da aula, cada trecho sustenta sequência, cuidado e avaliação posterior.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0b37ed03-006c-453b-b902-f45bdf18cce5",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "39456d66-7b7d-4057-a435-6e90067c29d9"
+        },
+        {
+          "id": "0ecbf236-0d94-437d-bf06-224cd3a9e028",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "39456d66-7b7d-4057-a435-6e90067c29d9"
+        }
+      ],
+      "associations": [
+        {
+          "id": "c386d98f-0132-415e-b1af-7357e7c7ebee",
+          "exerciseId": "39456d66-7b7d-4057-a435-6e90067c29d9",
+          "leftContent": "por la tarde ya tenía fiebre",
+          "rightContent": "mostra agravamento ainda no mesmo dia",
+          "sequenceItem": 1
+        },
+        {
+          "id": "61071fe7-6ab1-427d-80c2-8526db95143d",
+          "exerciseId": "39456d66-7b7d-4057-a435-6e90067c29d9",
+          "leftContent": "me dieron cita ese mismo día",
+          "rightContent": "indica acesso rapido ao atendimento",
+          "sequenceItem": 2
+        },
+        {
+          "id": "9aaf3891-dd9a-4112-b3d0-69c3d69861e0",
+          "exerciseId": "39456d66-7b7d-4057-a435-6e90067c29d9",
+          "leftContent": "volver si la fiebre no bajaba",
+          "rightContent": "abre possibilidade de seguimento",
+          "sequenceItem": 3
+        },
+        {
+          "id": "e830534f-a830-4114-b05f-90de1afd4d57",
+          "exerciseId": "39456d66-7b7d-4057-a435-6e90067c29d9",
+          "leftContent": "subestimé los primeros síntomas",
+          "rightContent": "revela ponto de vista retrospectivo",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "0ca83f99-b182-436d-a659-9375adcc0282",
+      "title": "Reconstrua o fio pela escuta",
+      "content": "<p>Resolva sem tradução e distinga os três movimentos principais do relato.</p>",
+      "contentPlain": "Resolva sem tradução e distinga os três movimentos principais do relato.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio final pede separar abertura, rota de cuidado e leitura posterior pela escuta.",
+      "feedbackError": "O desafio final pede separar abertura, rota de cuidado e leitura posterior pela escuta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "af6e39fd-651c-4614-a3db-aa7aaddccfbe",
+          "exerciseId": "0ca83f99-b182-436d-a659-9375adcc0282",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/19f962f1b1e640cfaa52112db64c30f4_b02-me-desperte-con-dolor-de-oido.mp3?Expires=1794099921&Signature=eKQsmYl0cOOFbhauY3NGeCZTW7cnNOm3oF1K~Lo~L4NKKLwTnS-DcbiO6zu05~~NEOcZsg56IOV3~88lrnzxS28VwEClihwo4ppKxv7ZyH-49JSQQDZOFiUJfT8D3L9FxncgEW~shOA39rNlhjoFmxPIy~7li1JpSNMQv72mz9aLB7Z0y6Z1yvWP1ouFCRoKyBNgmZFCIi-1AD7dErioF55rcr3aooZOAXqOPXy9g~uWqI39icLotHlmiE2S0u-gosAr36~odU9CRJ0lWdtMd-GW0rE5RZeHBAbrwvZ39cDjZA3GJgG866XEWf3kerSey5oRoC4Hd4IvwWgZRC6Hpg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "dolor muy fuerte de oído y fiebre por la tarde",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d08cc43f-e48d-4451-9be7-8cb61dff6f63",
+          "exerciseId": "0ca83f99-b182-436d-a659-9375adcc0282",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b7e4982c65ff405494279fd7c2a86f2a_b04-llame-al-centro-de-salud.mp3?Expires=1794099921&Signature=RArs9-V1B0LtWLCKXRXujuTjnKL0NhEWsAIOTo4vp3O5zTdbY8BobxBIR0KSBzR1iheK79HfhEZcuq91sGHqIlrE7-m4k7MvhERvCiDLN56KuFKfe1Kvid7HXPA7kGUh91RDaujQTYed7822tdBr6ChQ8PmmH4ZQIHluanfoTeGKlnFeFllzkPh83vlr7lgLHUILprBo6Tqs7ZsUa1H4I9ZwLxfp~G3y3hVJkk2v4ombUViebnXk9K1K3eNQRRlJaL1FYHck9ihWB-mw~v2-g4c0koO6w8j6lD-HjoG4OQY34WntgtRKdbooM3dFnCJaP2Ksw55OwKFmwiJGpEHTdg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "llamé al centro de salud y me dieron cita ese mismo día",
+          "sequenceItem": 2
+        },
+        {
+          "id": "59e390c4-2958-4464-874a-56b025f3d45b",
+          "exerciseId": "0ca83f99-b182-436d-a659-9375adcc0282",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/320fba589d9f49129e156f94f275c20c_b06-la-medica-me-receto-antibiotico.mp3?Expires=1794099921&Signature=ELCnm85Dt28eSJzdc1H2U-8OW~k9BNIh-5k-O2WyhdRa~qn7WEboSoTxvhmcDA1R1SBs1IMncPumFCSVSpHcLF0yPpJFz59jS~bUqr4fXOZLM4sQprB6x0I3VnvOz5-KlXe2XL314T32hGY380Wj9koh85f8hSkIaKMAHFOY5dfo~mEb0nd4fKVOcXJYbGaw9c~i2yVnJ73TEXun~2oj27s6gAs5HkcmUeZjjukAksPLCTCrsX5AHt1mh~9HXn1xgBsIkwDk123QRUwUS8RX-gtrmATzW2dhYoXaYhIvXkBSMj0Hp4thvVvPIr2~3WafF99OA-E8BxIu6m-~QeEQlg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "me recetó antibiótico y subestimé los primeros síntomas",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "1a92938a-de1b-472d-88d6-511b463512f8",
+      "title": "Recupere a releitura",
+      "content": "<p>Ahora veo que _________ los primeros síntomas.</p><p>Tradução: Agora vejo que subestimei os primeiros sintomas.</p>",
+      "contentPlain": "Ahora veo que _________ los primeros síntomas. Tradução: Agora vejo que subestimei os primeiros sintomas.",
+      "fileUrl": null,
+      "feedbackSuccess": "No fim da aula, subestimé marca a leitura retrospectiva do incidente.",
+      "feedbackError": "No fim da aula, subestimé marca a leitura retrospectiva do incidente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "subestimé",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2adbf515-b2e6-4f10-9dcb-fc5a98f25ad8",
+      "title": "Resolva o fechamento pela escuta",
+      "content": "<p>Sem apoio em português, selecione apenas as palavras presentes na linha final do relato.</p>",
+      "contentPlain": "Sem apoio em português, selecione apenas as palavras presentes na linha final do relato.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/320fba589d9f49129e156f94f275c20c_b06-la-medica-me-receto-antibiotico.mp3?Expires=1794099921&Signature=ELCnm85Dt28eSJzdc1H2U-8OW~k9BNIh-5k-O2WyhdRa~qn7WEboSoTxvhmcDA1R1SBs1IMncPumFCSVSpHcLF0yPpJFz59jS~bUqr4fXOZLM4sQprB6x0I3VnvOz5-KlXe2XL314T32hGY380Wj9koh85f8hSkIaKMAHFOY5dfo~mEb0nd4fKVOcXJYbGaw9c~i2yVnJ73TEXun~2oj27s6gAs5HkcmUeZjjukAksPLCTCrsX5AHt1mh~9HXn1xgBsIkwDk123QRUwUS8RX-gtrmATzW2dhYoXaYhIvXkBSMj0Hp4thvVvPIr2~3WafF99OA-E8BxIu6m-~QeEQlg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O fechamento junta tratamento médico e releitura do episódio.",
+      "feedbackError": "O fechamento junta tratamento médico e releitura do episódio.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0f1526aa-87c4-4178-97f2-01d5ee2df2c0",
+          "textContent": "recetó",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2adbf515-b2e6-4f10-9dcb-fc5a98f25ad8"
+        },
+        {
+          "id": "1a7ab35b-3608-4e7c-a541-8645ba60c00f",
+          "textContent": "centro",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2adbf515-b2e6-4f10-9dcb-fc5a98f25ad8"
+        },
+        {
+          "id": "539df6f5-b2be-4139-aba4-59e5758f8a00",
+          "textContent": "cita",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2adbf515-b2e6-4f10-9dcb-fc5a98f25ad8"
+        },
+        {
+          "id": "6333fc0c-7f04-4c47-b401-493c688ec7bc",
+          "textContent": "desperté",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2adbf515-b2e6-4f10-9dcb-fc5a98f25ad8"
+        },
+        {
+          "id": "ba371c6b-8f46-4849-be82-6bf5f84fd4cb",
+          "textContent": "subestimé",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2adbf515-b2e6-4f10-9dcb-fc5a98f25ad8"
+        },
+        {
+          "id": "ced26371-b66f-4dd5-9414-b9980f234545",
+          "textContent": "antibiótico",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2adbf515-b2e6-4f10-9dcb-fc5a98f25ad8"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "566ba06c-6669-4156-a532-c17d564e5025",
+      "title": "Recupere o agravamento",
+      "content": "<p>Por la tarde ya tenía ______.</p><p>Tradução: De tarde eu já estava com febre.</p>",
+      "contentPlain": "Por la tarde ya tenía ______. Tradução: De tarde eu já estava com febre.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na abertura, fiebre marca a mudança de quadro que empurra o relato adiante.",
+      "feedbackError": "Na abertura, fiebre marca a mudança de quadro que empurra o relato adiante.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fiebre",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "649bae18-f073-46b9-8b5d-924747a24211",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Costurar um susto de saude em relato claro"
+}

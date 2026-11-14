@@ -1,0 +1,593 @@
+{
+  "attemptId": "870f1857-9d2f-4dd1-844a-47b3903ffff3",
+  "exercises": [
+    {
+      "exerciseId": "29e7a10e-1673-4df2-9f2b-556ea56f1456",
+      "sequence": 1,
+      "lessonId": "b8d111ee-c42b-46fa-9175-51bcba1aa995",
+      "title": "Recupere a progressão pelo áudio",
+      "content": "<p>Ligue cada gravação ao texto certo e refaça o caminho da escolha pontual até o recap final.</p>",
+      "contentPlain": "Ligue cada gravação ao texto certo e refaça o caminho da escolha pontual até o recap final.",
+      "fileUrl": null,
+      "feedbackSuccess": "A progressão sonora da lição vai de escolha pontual a favorito, reação e recap integrado.",
+      "feedbackError": "A progressão sonora da lição vai de escolha pontual a favorito, reação e recap integrado.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "b17c0784-20ff-43e9-8e5f-ddd3fa55d50a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/15aeb985a1594f85a76731dfda9020e1_b01-prefiero-el-suspense.mp3?Expires=1794099595&Signature=zA9NjVp4JO0l26ZbN6PQbrTe4muKPBjNXQF20McJPLHxwHs2qyAYpc-VQ8~DuenaQduovrl0wy3p-Zky0Yj-Q1~0~PJJEmQkcNo5QjsB4KdwKLFRTwtn1sV6pNqiwnCWj9rgOqHLOMYltyHD-aY-CLIJatd~bxNbyAko45SAoTl-lZuM8Rp2RpHGsjOCGZ2KxDNSNIuRyHOEIYEeaVpjoJYdFQK~wHV2upP2HJjDhaxAIVaGHLffZrpZ0Hs-8U3oLwSktQQK58aEFgvZtBbvAX-7lynqYxkKBMSiryLDMilCsn9Z1Xnf1yRJboKeRrypddqUSKmSMqbPVfMSoOMgAw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Prefiero el suspense.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f4c346b1-fd09-4216-b54f-257c445a1699",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6ddb7490177d4505bbe606c582cab77a_b03-mi-genero-favorito-es-la-ciencia-ficcion.mp3?Expires=1794099595&Signature=qscOdo-pWYyeZ91WiJewk9j94ny3CbbL45fNSfsjUrsnMDyZtE7TJgoT9EEvjT7vouqSLtvBlYE6X1VYmtsZ9A0oVPerMsUAJ8Gjh-fIWUxgeQou7EiGAjSXz43VSEYlUEzy7qJ6d5QRjkNkY~-L55znO-71yVDuYMlea9sMfUwn-gR-rKmojkOtl5M2RqckrK3fpXcy~Q9odQE1i9sxY2ybGiT1KJIrW7N7KRDxrNQ5hw~jAjhGJrO2DmjMLTx4OQrHn5Xt2mruWjgTQ0aEN0WNTCZ4WzWL9CTceu9UZh9tRdp-mF6RDAMqxFTFDha3mNvG62FjYXlbPfAQe5VIyw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi género favorito es la ciencia ficción.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "011fdbe4-0d8f-45a3-8578-bfa35c8b8f7f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c9b5d1bf4cf24273a620d3c6e1bbd5f7_b05-esta-pelicula-me-parece-emocionante.mp3?Expires=1794099595&Signature=OMkDtFHPpI8CJHN1dm5XInrK05E3U592OD8ba~VQqoAgerzAZcGOXxzz18EcJAcVbvXYPPtcCbIulYVQWXJxhWMb2J-9MTFplrwkLd8gbtJikb3FLArCn8V7oiCgghMHIVjnj1ULbuNyAHcQ-7jIUfF3vnHTDWX1v9-uRARsJTB1VFXp8yKKLxH2KLurbR7iL2OYJM5pDnhiYnKK4VG9DLpuOQf-7rnDN6POjuWJNXaqIetn1Nam8Nq-0A7dLy7emXPDKlRWbjwwWI-ftGLEuoIK0jPkDscysediL~eTuZyZmZccNCEUP3C1Oa2EYy0Qji~44roYtss0VHNfryZHEA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta película me parece emocionante.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2492bb53-4107-4bfd-a940-ef67c900c1b4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4e5823aa1b9a46ee93fbf0e09eae50a4_b07-recap-chat-de-cine.mp3?Expires=1794099595&Signature=viSnjiz2GxpCRmhg3nCJbqqGX3ukL~8oDTredvT9lgT6DzAI2k8V80C5u2hWax9gdP0yzy8AcYTQv7rURoWwgMdjeydUnkpLmvK-DG0096t1NciPVr-333zae-FsV96Da1nvJ0vZwqCpEW4CLI52N5Z0wjBWT8~hYd-AcDG6D7k1ZpghP6Cnzw9KQ-ORHw5JLlM-VLptsC9~mAVH8RK~HiWLdK8neKlDDpBwOiBZnzcqUEgzhk4uU31RMYr2YR7gyyrq94Fq849rjNpmtppTcmWGOYjHzwi8tbqIchiCyrPrngoJu-KgFclnJr2Rme6cEj9voREJQMMGRZZqPA~GIw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy prefiero el suspense. Mi genero favorito es la ciencia ficción. Esta pelicula me parece emocionante.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "28e99f4f-c7d6-4bbd-9b45-8e3541296f1c",
+      "sequence": 2,
+      "lessonId": "6db5f44a-3ef5-4bac-a598-db386999720a",
+      "title": "Recupere a exibição atual",
+      "content": "<p>La nueva comedia sigue en _________ esta semana.</p><p>Tradução: A nova comédia continua em cartaz esta semana.</p>",
+      "contentPlain": "La nueva comedia sigue en _________ esta semana. Tradução: A nova comédia continua em cartaz esta semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Cartelera é a palavra da aula para o que segue em exibição no cinema.",
+      "feedbackError": "Cartelera é a palavra da aula para o que segue em exibição no cinema.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cartelera",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "25c54d5a-c74d-4f75-9b23-e86e540f5c7d",
+      "sequence": 3,
+      "lessonId": "4a12aa97-9107-4a2f-ba94-27d847c8b1d3",
+      "title": "Ligue o mini perfil aos sentidos",
+      "content": "<p>Relacione cada linha do perfil ao papel que ela cumpre para descrever hábitos e gosto sem misturar os sentidos.</p>",
+      "contentPlain": "Relacione cada linha do perfil ao papel que ela cumpre para descrever hábitos e gosto sem misturar os sentidos.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mini perfil junta hábito e preferência sem misturar os dois sentidos.",
+      "feedbackError": "O mini perfil junta hábito e preferência sem misturar os dois sentidos.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5f21406b-cab6-4afc-ada6-e2e481c1e844",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9fc5fb4d-40d3-40ee-9704-6d51d5154416",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "ab6e6a4b-bf28-4262-bcf2-f26bb921cf62",
+          "leftContent": "Suelo escuchar pop cuando vuelvo a casa.",
+          "rightContent": "hábito ligado a volta para casa",
+          "sequenceItem": 1
+        },
+        {
+          "id": "04646352-7e48-4d1f-8130-ab60e03b70eb",
+          "leftContent": "Los domingos suelo ver una película en casa.",
+          "rightContent": "hábito de domingo em casa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "de19b9d2-601c-429e-9cce-bfb190aed8ea",
+          "leftContent": "Me gusta la comedia, pero no suelo ver series muy tarde.",
+          "rightContent": "gosto com limite de horário",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "d028b3fe-ae9a-410f-ab1d-e13946c9d084",
+      "sequence": 4,
+      "lessonId": "3e00ce00-8113-4ded-ae69-9481af00fda0",
+      "title": "Complete a avaliação por impressão",
+      "content": "<p>El thriller me ______ emocionante.</p><p>Tradução: Eu acho thriller emocionante.</p>",
+      "contentPlain": "El thriller me ______ emocionante. Tradução: Eu acho thriller emocionante.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me parece apresenta a avaliação como impressão pessoal.",
+      "feedbackError": "Me parece apresenta a avaliação como impressão pessoal.",
+      "answerType": "buildWord",
+      "expectedAnswer": "parece",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4a31a597-296b-457f-8964-182827d0eefa",
+      "sequence": 5,
+      "lessonId": "4a12aa97-9107-4a2f-ba94-27d847c8b1d3",
+      "title": "Complete o infinitivo do hábito",
+      "content": "<p>Complete em espanhol: Suelo ________ pop cuando vuelvo a casa.</p><p>Tradução: Costumo ouvir pop quando volto para casa.</p>",
+      "contentPlain": "Complete em espanhol: Suelo ________ pop cuando vuelvo a casa. Tradução: Costumo ouvir pop quando volto para casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "No mini perfil, escuchar aparece como infinitivo depois de suelo para marcar rotina.",
+      "feedbackError": "No mini perfil, escuchar aparece como infinitivo depois de suelo para marcar rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "escuchar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f8c183fc-b124-4b9a-a2b7-c8bcef7ce4d0",
+      "sequence": 6,
+      "lessonId": "ee684cee-4432-4de2-8b6a-42f81c46890a",
+      "title": "Recupere o impacto no comentário",
+      "content": "<p>Complete a frase em espanhol: Tuvo mucho éxito y me parece interesante porque mucha gente ______ al cine del barrio.</p><p>Tradução: Teve muito sucesso e me parece interessante porque muita gente voltou ao cinema do bairro.</p>",
+      "contentPlain": "Complete a frase em espanhol: Tuvo mucho éxito y me parece interesante porque mucha gente ______ al cine del barrio. Tradução: Teve muito sucesso e me parece interessante porque muita gente voltou ao cinema do bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário-modelo liga o sucesso do festival ao retorno do público ao cine do bairro.",
+      "feedbackError": "O comentário-modelo liga o sucesso do festival ao retorno do público ao cine do bairro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "volvió",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d0414d1d-7889-4e61-9c64-529c7626cf0d",
+      "sequence": 7,
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "title": "Complete a opção real",
+      "content": "<p>Complete em espanhol: Todavía hay ________ para el concierto de hoy.</p><p>Tradução: Ainda há ingressos para o show de hoje.</p>",
+      "contentPlain": "Complete em espanhol: Todavía hay ________ para el concierto de hoy. Tradução: Ainda há ingressos para o show de hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "A justificativa final também olha para a opção real, aqui marcada por entradas para hoy.",
+      "feedbackError": "A justificativa final também olha para a opção real, aqui marcada por entradas para hoy.",
+      "answerType": "buildWord",
+      "expectedAnswer": "entradas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1a908a27-ba7b-4b5c-ae97-66a91f4a5405",
+      "sequence": 8,
+      "lessonId": "3e00ce00-8113-4ded-ae69-9481af00fda0",
+      "title": "Complete a intensidade positiva",
+      "content": "<p>La comedia me gusta ________.</p><p>Tradução: Eu gosto bastante de comédia.</p>",
+      "contentPlain": "La comedia me gusta ________. Tradução: Eu gosto bastante de comédia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Bastante reforça um gosto claro sem soar como preferência absoluta.",
+      "feedbackError": "Bastante reforça um gosto claro sem soar como preferência absoluta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "bastante",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1f61b602-439e-4729-a878-afd7b7a3ff49",
+      "sequence": 9,
+      "lessonId": "ee684cee-4432-4de2-8b6a-42f81c46890a",
+      "title": "Recupere a palavra do fato",
+      "content": "<p>Complete a frase em espanhol: Las entradas se ________ rápido.</p><p>Tradução: Os ingressos se esgotaram rápido.</p>",
+      "contentPlain": "Complete a frase em espanhol: Las entradas se ________ rápido. Tradução: Os ingressos se esgotaram rápido.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário da aula parte de um fato concreto, como entradas que se agotaron rápido.",
+      "feedbackError": "O comentário da aula parte de um fato concreto, como entradas que se agotaron rápido.",
+      "answerType": "buildWord",
+      "expectedAnswer": "agotaron",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5227e302-ec2d-4355-a156-808fb77ab713",
+      "sequence": 10,
+      "lessonId": "6db5f44a-3ef5-4bac-a598-db386999720a",
+      "title": "Reconstrua os três passos",
+      "content": "<p>Relacione cada frase do modelo ao papel que ela cumpre para montar um comentário curto sobre o que vale a pena agora.</p>",
+      "contentPlain": "Relacione cada frase do modelo ao papel que ela cumpre para montar um comentário curto sobre o que vale a pena agora.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário central da aula anda de disponibilidade para popularidade e só depois para avaliação.",
+      "feedbackError": "O comentário central da aula anda de disponibilidade para popularidade e só depois para avaliação.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "80f47062-384c-4cd2-8424-6b3f544b465d",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a73a26b9-660f-4a78-bc29-ddb68b669726",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "1d56e2ec-6728-4694-9d14-0c8b6c409322",
+          "leftContent": "La película sigue en cartelera.",
+          "rightContent": "disponibilidade atual",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b7e1f15f-514a-49b4-80e7-8322ca2d91a1",
+          "leftContent": "Además, tiene mucho éxito.",
+          "rightContent": "popularidade",
+          "sequenceItem": 2
+        },
+        {
+          "id": "23513f3c-c8b4-48ed-97c4-52c39a6aed2c",
+          "leftContent": "A mí me parece una buena opción para hoy.",
+          "rightContent": "avaliação pessoal",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "dc84ffff-4cf1-478d-997e-e96a227d57bd",
+      "sequence": 11,
+      "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+      "title": "Escolha a sequência completa",
+      "content": "<p>Qual opção recompõe melhor o caminho da aula, indo de preferência para hábito, disponibilidade e fechamento?</p>",
+      "contentPlain": "Qual opção recompõe melhor o caminho da aula, indo de preferência para hábito, disponibilidade e fechamento?",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento desta aula funciona melhor quando a escolha anda de preferência para hábito, opção real e decisão.",
+      "feedbackError": "O fechamento desta aula funciona melhor quando a escolha anda de preferência para hábito, opção real e decisão.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0743a250-1758-43a8-8d7b-0f75d5530407",
+          "text": "Hoy prefiero escuchar algo en directo. Cuando puedo, suelo ir a conciertos pequeños. Todavía hay entradas para el concierto de hoy. Entonces vamos a ese concierto.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "330ec22c-14f2-431b-a003-08298ba39629",
+          "text": "Todavia hay entradas para el concierto de hoy. Entonces vamos a ese concierto. Hoy prefiero escuchar algo en directo. Cuando puedo, suelo ir a conciertos pequenos.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5f4e6a17-c739-42ae-aacc-58c9cddfcc21",
+          "text": "Entonces vamos a ese concierto. Hoy prefiero escuchar algo en directo. Todavia hay entradas para el concierto de hoy. Cuando puedo, suelo ir a conciertos pequenos.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "678d792d-81d1-460c-995a-2302da880647",
+          "text": "Cuando puedo, suelo ir a conciertos pequenos. Hoy prefiero escuchar algo en directo. Entonces vamos a ese concierto. Todavia hay entradas para el concierto de hoy.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "eb083f78-3383-4551-a1f8-c88dfab28229",
+      "sequence": 12,
+      "lessonId": "b8d111ee-c42b-46fa-9175-51bcba1aa995",
+      "title": "Recupere o recap pelo áudio",
+      "content": "<p>Escute a resposta completa da lição e selecione somente palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a resposta completa da lição e selecione somente palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4e5823aa1b9a46ee93fbf0e09eae50a4_b07-recap-chat-de-cine.mp3?Expires=1794099595&Signature=viSnjiz2GxpCRmhg3nCJbqqGX3ukL~8oDTredvT9lgT6DzAI2k8V80C5u2hWax9gdP0yzy8AcYTQv7rURoWwgMdjeydUnkpLmvK-DG0096t1NciPVr-333zae-FsV96Da1nvJ0vZwqCpEW4CLI52N5Z0wjBWT8~hYd-AcDG6D7k1ZpghP6Cnzw9KQ-ORHw5JLlM-VLptsC9~mAVH8RK~HiWLdK8neKlDDpBwOiBZnzcqUEgzhk4uU31RMYr2YR7gyyrq94Fq849rjNpmtppTcmWGOYjHzwi8tbqIchiCyrPrngoJu-KgFclnJr2Rme6cEj9voREJQMMGRZZqPA~GIw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final junta escolha atual, favorito e reação em uma resposta curta.",
+      "feedbackError": "O recap final junta escolha atual, favorito e reação em uma resposta curta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "19ba1a9f-369b-441a-951a-9a6d9c17f247",
+          "text": "favorito",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "202040fc-25e7-434b-a187-997b1a73df52",
+          "text": "aburre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "328332cb-546c-49e1-892a-66f4c3dfc4e0",
+          "text": "Hoy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4bf2440c-0ec8-412c-9fb7-4e9ea68670bd",
+          "text": "prefiero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6aed4f08-3473-43f3-bf80-ed6ee73f2c2b",
+          "text": "ficción",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6bc39754-370a-4f08-95fb-30f9396c3cc4",
+          "text": "ritmo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "83f299b5-f53e-4eda-bddf-ee5ad0b20a46",
+          "text": "comedia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b81e9274-8ca2-4109-92a8-03f67bfcaa7f",
+          "text": "suspense",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b8315c74-2424-4fd6-865b-eeb39969fb0c",
+          "text": "ciencia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d70ecff4-19b3-475d-8fe5-19170eb8728d",
+          "text": "emocionante",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "987cb312-4d24-43b1-b96b-095fdc45c508",
+      "sequence": 13,
+      "lessonId": "54ba8c13-84eb-46a1-8f98-736bbc98d251",
+      "title": "Relacione frase e função",
+      "content": "<p>Ligue cada frase em espanhol ao efeito que ela cumpre na conversa sobre música e cinema.</p>",
+      "contentPlain": "Ligue cada frase em espanhol ao efeito que ela cumpre na conversa sobre música e cinema.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mini repertório da aula avança de pergunta ampla para gosto geral e depois para preferência.",
+      "feedbackError": "O mini repertório da aula avança de pergunta ampla para gosto geral e depois para preferência.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "e9add2f0-d1b1-477c-8a67-1390bc380159",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f9d45a52-7864-4039-b03b-134454653e14",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "112366ef-abdd-4971-b4a9-3083df7b4e13",
+          "leftContent": "¿Qué te gusta más, escuchar música o ver películas?",
+          "rightContent": "abrir o tema com duas opções",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b11f457f-4329-4afc-9055-dcfe715aaffb",
+          "leftContent": "Me gusta escuchar música.",
+          "rightContent": "dizer um gosto geral",
+          "sequenceItem": 2
+        },
+        {
+          "id": "699c7ce6-40d7-43fa-9063-a33379e57e6e",
+          "leftContent": "Prefiero ver películas.",
+          "rightContent": "marcar uma preferência",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "1c25e55c-0a91-4d0e-b477-fd3d14e93f0a",
+      "sequence": 14,
+      "lessonId": "54ba8c13-84eb-46a1-8f98-736bbc98d251",
+      "title": "Recupere a preferência pelo áudio",
+      "content": "<p>Escute a frase completa e selecione apenas as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a frase completa e selecione apenas as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/62ae79a390bb474a99559d24e6816b8e_l01b05-prefiero-ver-peliculas.mp3?Expires=1794099595&Signature=Aa8YqvFtWcHTimkjHsEVjYXFo8qQ9BqwUcG4a~gctt6ZfGizx2hW6Ev8YK1UJn~9MGVLwkfRDsjaGj~~e~Vyzxob1pOGbG1~Fp3evPwGhv3YSkpaEx08TJ7MSpUj1x8JLXK6UpglBpIBuLv4JsMHPXHCKtQpuDsTZn0J-bkmTj2I3j35Otookq~iZa7HyNMtiiTE77iEjRIjwZfC4iq4MOwC20aRkW80KXa6ytDznfw6~qiQTu5T100hWT6Ri5~GzxsG7QLrPCUsLcn0PKvj78bKOq6Rraaq5eFdNpCmLZ~W-1FE~JOj9QejQxOceWT2twNUHqXcOXHU2q7TJgDrTA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Prefiero ver películas. concentra a resposta de escolha curta entre as duas opções da aula.",
+      "feedbackError": "Prefiero ver películas. concentra a resposta de escolha curta entre as duas opções da aula.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "53294b77-09f7-4efb-bd1c-b986cf31b177",
+          "text": "música",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9b9d5fac-61ed-4dce-896f-505c3770c4be",
+          "text": "escuchar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "adb76a57-fd3a-4b24-9b3f-831cfad39859",
+          "text": "películas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c05e8f46-4d0a-431d-99eb-d6cf360a610b",
+          "text": "gusta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cc44ce3a-3120-443d-a034-eb6b0f9da435",
+          "text": "ver",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d4574933-84f7-47b0-80c0-3b703af721ad",
+          "text": "Prefiero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "73f4f14f-e6d3-46b4-830d-9961bfdfd215",
+      "sequence": 15,
+      "lessonId": "3e00ce00-8113-4ded-ae69-9481af00fda0",
+      "title": "Recupere as palavras centrais do recap",
+      "content": "<p>Escute a sequência corrida e marque apenas as palavras de gênero e avaliação que você realmente ouvir.</p>",
+      "contentPlain": "Escute a sequência corrida e marque apenas as palavras de gênero e avaliação que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/053bb9af05d0469c8c8c7a22687efdde_B1_M6_L2_audio_1f4144fe_opiniones-en-grupo.mp3?Expires=1794099595&Signature=ZzoGIlWMH1vINsewwx4lHxwh7bhH-yT60Gn6jStQZz~848jCqhJH6~vh5R3wrV4PQtTk5zkekJtGRvTHUusSwDBIy8QVMCmf4c2-R47j0mLz4i~1jSAH6Ffu-MHsduI~wd~xZkMOiNhs6v6mNL~4b1yCSEabAF64FoyhLl9rjS6K3twGqR4hmocwys1Vb7ztLj0oJTuKnC52tYMC32FVyozHrc0PvWvOApGrq5xk4z0iUPbM6HviEi1DXQiYKP7olsKMKt-fn0gpCoXT0lSBNyZ3bP6QC~WWgh3Bk1CQFL6cIolsraHdIKkAQh6BQBWYmQwuhZN4eODRcdoJO2dc5g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No recap, as palavras centrais bastam para distinguir gênero e avaliação sem apoio visual.",
+      "feedbackError": "No recap, as palavras centrais bastam para distinguir gênero e avaliação sem apoio visual.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "019af973-db33-416b-b82a-c34c8650afa9",
+          "text": "va",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1dc0c8c1-77e8-43f4-80fc-97156105d52d",
+          "text": "bastante",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "276e9534-4b35-4b4c-9add-3fe5d7cba524",
+          "text": "aburrido",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6f8e5155-d699-4c7d-b106-c381faae6154",
+          "text": "thriller",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8cff3206-5f90-483c-8670-350d12d543c6",
+          "text": "parece",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a8d866d4-d732-4e4e-9adc-693e302cde14",
+          "text": "drama",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "be229ac3-de7a-4d82-b695-e8a54ba1fe76",
+          "text": "encanta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cc23ef1e-8114-49e0-8384-13c5876f90f4",
+          "text": "gusta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ddab49bd-4a8f-4adf-ade9-9697d75bf666",
+          "text": "comedia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "df684486-6f67-4b7c-9236-bf563b1468ef",
+          "text": "emocionante",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fc694844-4334-4c52-9242-d577f4efc593",
+          "text": "mucho",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

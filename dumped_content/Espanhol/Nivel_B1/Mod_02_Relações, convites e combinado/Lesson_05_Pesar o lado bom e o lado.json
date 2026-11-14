@@ -1,0 +1,623 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+    "attemptId": "e5c2a6e8-9bca-42de-8508-4b83da77d4b5",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "945928f4-174f-4fae-bc90-65c6ade3f2ee",
+      "2498064c-5adb-4add-9d85-818051d46a09",
+      "ea23c359-2f98-4cb6-9720-931acf070204",
+      "a43ebffd-2a4c-4724-a70a-1e9a30c1c0c1",
+      "cc8f82eb-f27e-4cc1-8a58-ed82a3a6e7ac"
+    ],
+    "evaluationExerciseIds": [
+      "321f3959-7e11-4492-ac75-fee18bfe18c5",
+      "e5a62d93-0979-491e-86f4-f6f8a2922907",
+      "27d3a215-f9dc-4ef7-9afc-c16e0199489b",
+      "b99a0d9c-c941-4822-ad39-135cda5db1ad",
+      "bdbb3538-4bb8-4b8c-a602-5db9126f84e4"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:35.6078475Z"
+  },
+  "contents": [
+    {
+      "id": "f799cf0c-87db-47c6-97ae-c803cb3d2445",
+      "title": "Leia o contexto e observe as duas possibilidades antes de entrar nas expressões de avaliação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "fecc0aaa-61b6-46c2-92c8-955d0220e1c5",
+          "textContent": "<p>Depois de recusar um primeiro convite, ainda há duas opções na mesa: <strong>ir al cine al aire libre</strong> ou <strong>cenar en el barrio</strong>.</p><p>Nesta aula, o foco é aprender a pesar um plano em espanhol antes de decidir com outra pessoa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "08b92a6f-9be9-4cf0-8f86-640a54cd5e46",
+      "title": "Escute e leia a frase. Observe o lado positivo que ela destaca.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "8807255b-b564-4ad3-87e8-3005443c179f",
+          "textContent": "<p>Para apontar uma vantagem concreta de um plano:</p><p><strong>Lo bueno del cine al aire libre es que empieza tarde.</strong></p><p>Em português: <strong>O lado bom do cinema ao ar livre é que começa tarde.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9b2ecf899d9e473ead5eb2e5d9c30f50_b02-lo-bueno-del-cine-al-aire-libre-es-que-empieza-tarde.mp3?Expires=1794099576&Signature=I-5FoC9SSJ-nRoKkunhYqpbjNiUKRUPnzLP8mZqtwch0mfXucqtwq2k-mYsxk7J8crtb9WkPxuBDVyUE8TWkmRxX99ULmVIWV1A0QO0UrfJqCM5Sy4WKj~IyArLQgOui0yOGNHklJVHpQrIhdko1lenS10Rb53yB7-rcm0EfVBKQHMrUlzh0oTacAhkw~vytUF7Rexglva6RH0XbhRkilO-tSHc1ts00kg4KGkkDCWgY1MGxNbOTuFMf4YMm~Z2NJdfHng1J0l0xPfQR6dEigX9b4sCl6KUjNMIfGB1VVwj4J~E8xl6tvXkYJVeBQ67EaOsckT9I~qetNVZhvZT~Ew__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "99efca53-9b6e-46fd-b081-ad9c11078e26",
+      "title": "Leia a nota curta e observe onde entra a vantagem prática da opção.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "30c18d31-ba37-46c5-8192-5a58d04ebd7b",
+          "textContent": "<p><strong>Lo bueno de...</strong> abre o comentário positivo sobre uma opção.</p><p>Depois, a frase costuma dizer <strong>qual é a vantagem prática</strong>: horário, preço, lugar ou ambiente.</p><p>Aqui, a vantagem é <strong>empieza tarde</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f6dbafbd-53a6-4032-9dd0-2f7b7dd3afe2",
+      "title": "Escute e leia a frase. Note o aspecto que dificulta esse plano.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "11ea73d5-68f9-4992-a980-11ecd1cf8418",
+          "textContent": "<p>Para mostrar um limite da mesma opção:</p><p><strong>Lo malo del cine al aire libre es que queda lejos.</strong></p><p>Em português: <strong>O lado ruim do cinema ao ar livre é que fica longe.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f41885bf27c840ba95776805e5e8d75c_b04-lo-malo-del-cine-al-aire-libre-es-que-queda-lejos.mp3?Expires=1794099576&Signature=CEadL7xMfFvMZTb5DFepJPvfz7LHGcKD-SGBSVcXkun8xwikUl~uqVuh6aoc2qKbhptBGjJNf236baPKxSQeReCpd9FP5SPIhT5fgMEEvWG32fRsqCxhHhlx0XSLBhQ7OzhXrBDACmZl8M0OqGOOWBcW8bps8EUVyVXK5OlhobBv7TRY-Q31BPkldC4RhaDnnkY9vfkz6QWegRq5DUel8fUuyrEMIEgSzRZZZoSedF9GN4uB5Mm~UR8icy73snYARH4G-2txd0AsJ5K8ZxlNV3~cgX2KTPkz9biBAg-mkqsd9bEf0KHT~z3avwRvOB0P58BFyuM7eKPw6HYvdSYQDA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "afd9bd07-67ce-48cc-b44c-7e518f332f2c",
+      "title": "Compare as duas formas e observe o papel de cada uma antes do diálogo curto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "fe58315e-bc22-41fb-866f-4188a742f993",
+          "textContent": "<p><strong>Lo bueno de...</strong> destaca o que ajuda.</p><p><strong>Lo malo de...</strong> destaca o que atrapalha.</p><p>Com as duas formas, você pesa a mesma opção antes de aceitar, recusar ou propor outra.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5e9d3dff-b637-4ae9-a9e0-ca2b1d5a708e",
+      "title": "Escute e leia a reação. Repare em como ela aprova o plano de forma natural.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "ffaf17d6-9aa9-4d54-ab09-217222e59820",
+          "textContent": "<p>Se a ideia parece realmente atraente, a reação pode ser curta:</p><p><strong>¡Qué buen plan!</strong></p><p>Em português: <strong>Que ótimo plano!</strong></p><p>Antes de <strong>plan</strong>, aparece <strong>buen</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5f28260928774340b0132c9b19a6d665_b06-que-buen-plan.mp3?Expires=1794099576&Signature=Yugf44TfVrrUH26Hg9sCoex7vLlCGZseUs-DJbgekbZIjgDQWha4oGb8V85vxDlWaxhjH~ACEZflcyFvSfuVFXK2aUwnpOB9k3zXDhFeNRIEthsJ3unYerItZUj2XYeSFP~MDbZQdO9LB5ZVU5B6wWkgCmUZBnoZxHhmWqddW7nNlyii0xC8NfOHz6aYsYVzuo0haKzaVqTnlnmlvwyhY~pAdEuUU5FaezIYHnveEG8YCr7rQr-TlbyLkRD2hU36lC708Ovc4ARP81qJgDlRK1A2EXNNt8TKJEBljfI63dfH858QXkIMgX02s0HpSy8QZVSkZ3iufuqN3hUMAKva1A__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3fbbdefc-c254-4710-b073-07be0168233f",
+      "title": "Pesar uma ideia entre amigos",
+      "description": "<p>O plano já foi sugerido. Agora entram a reação e o peso dos lados bom e ruim, sem alongar a conversa.</p>",
+      "contentType": 7,
+      "sequenceItem": 7,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Podríamos ir al cine al aire libre.</div>\n  <div style=\"opacity: 0.45;\">Poderíamos ir ao cinema ao ar livre.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e305c3b2922946dda24256f98ecc7281_b07-podriamos-ir-al-cine-al-aire-libre.mp3?Expires=1794099576&Signature=1HfwEUcXvbs5M8e-rll2w1fIwfLiO5AXUQITMyKsKB9DB1XEARg4hSbhG1LISJWn5tQq1NUDbDd-VPTfWpUqM9bHw-qTidY5rTRHUR75yEZeCv~d0w-EpAV9~j8ja1Fb9NR-ZqcHyI0aNwI6uQ23MOV9fVk-iIiZv571kHSWR9ICuu6Us9sliEUcAh5O37qx0eq0oK2fei1M~ge9x0GrnuE8NSTUy3dEM46yuA-tjtm2aaONPmL5NCoUzLGoMQSnzKnYNC4fM9IMOzPJ8EJCKrwr99BEqaZNhKdVBvkNjiJ-pPVxgHo1mzGowtGP88IQj7xWQOLC6oyLYj7zVXSjPQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¡Qué buen plan!</div>\n  <div style=\"opacity: 0.45;\">Que ótimo plano!</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5f28260928774340b0132c9b19a6d665_b06-que-buen-plan.mp3?Expires=1794099576&Signature=Yugf44TfVrrUH26Hg9sCoex7vLlCGZseUs-DJbgekbZIjgDQWha4oGb8V85vxDlWaxhjH~ACEZflcyFvSfuVFXK2aUwnpOB9k3zXDhFeNRIEthsJ3unYerItZUj2XYeSFP~MDbZQdO9LB5ZVU5B6wWkgCmUZBnoZxHhmWqddW7nNlyii0xC8NfOHz6aYsYVzuo0haKzaVqTnlnmlvwyhY~pAdEuUU5FaezIYHnveEG8YCr7rQr-TlbyLkRD2hU36lC708Ovc4ARP81qJgDlRK1A2EXNNt8TKJEBljfI63dfH858QXkIMgX02s0HpSy8QZVSkZ3iufuqN3hUMAKva1A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Lo bueno del cine al aire libre es que empieza tarde.</div>\n  <div style=\"opacity: 0.45;\">O lado bom do cinema ao ar livre é que começa tarde.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9b2ecf899d9e473ead5eb2e5d9c30f50_b02-lo-bueno-del-cine-al-aire-libre-es-que-empieza-tarde.mp3?Expires=1794099576&Signature=I-5FoC9SSJ-nRoKkunhYqpbjNiUKRUPnzLP8mZqtwch0mfXucqtwq2k-mYsxk7J8crtb9WkPxuBDVyUE8TWkmRxX99ULmVIWV1A0QO0UrfJqCM5Sy4WKj~IyArLQgOui0yOGNHklJVHpQrIhdko1lenS10Rb53yB7-rcm0EfVBKQHMrUlzh0oTacAhkw~vytUF7Rexglva6RH0XbhRkilO-tSHc1ts00kg4KGkkDCWgY1MGxNbOTuFMf4YMm~Z2NJdfHng1J0l0xPfQR6dEigX9b4sCl6KUjNMIfGB1VVwj4J~E8xl6tvXkYJVeBQ67EaOsckT9I~qetNVZhvZT~Ew__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Lo malo del cine al aire libre es que queda lejos.</div>\n  <div style=\"opacity: 0.45;\">O lado ruim do cinema ao ar livre é que fica longe.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f41885bf27c840ba95776805e5e8d75c_b04-lo-malo-del-cine-al-aire-libre-es-que-queda-lejos.mp3?Expires=1794099576&Signature=CEadL7xMfFvMZTb5DFepJPvfz7LHGcKD-SGBSVcXkun8xwikUl~uqVuh6aoc2qKbhptBGjJNf236baPKxSQeReCpd9FP5SPIhT5fgMEEvWG32fRsqCxhHhlx0XSLBhQ7OzhXrBDACmZl8M0OqGOOWBcW8bps8EUVyVXK5OlhobBv7TRY-Q31BPkldC4RhaDnnkY9vfkz6QWegRq5DUel8fUuyrEMIEgSzRZZZoSedF9GN4uB5Mm~UR8icy73snYARH4G-2txd0AsJ5K8ZxlNV3~cgX2KTPkz9biBAg-mkqsd9bEf0KHT~z3avwRvOB0P58BFyuM7eKPw6HYvdSYQDA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "e9367970-a055-40ae-a3f6-ef10bf895f43",
+      "title": "Leia o resumo final e conecte as três expressões a situações em que você pesa uma saída com amigos.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "c94f2450-e5c6-4839-b208-c6f58f9fc51e",
+          "textContent": "<p>Em mensagens entre amigos, estas três peças ajudam a pesar uma saída sem alongar demais a conversa:</p><ul><li><strong>Lo bueno de...</strong> para marcar a vantagem</li><li><strong>Lo malo de...</strong> para marcar o limite</li><li><strong>¡Qué buen plan!</strong> para reagir bem a uma ideia</li></ul><p>Isso aparece quando você compara duas opções, decide se vale a pena atravessar a cidade ou comenta um plano antes de fechar o combinado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4f05e652-8f50-4697-9962-31f45356ae13",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "50d8fc3f-056b-4c15-bb08-91df5f7d3e3a",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f5bfbaf9770f431f8fe34fabd557e1a7_MEC-IDM_MODB1-CAP_02-AULA_05.mp4?Expires=1794099576&Signature=0s7p5BHbHpuBfHKafkoZEmJCVmvzPrdb3OjyMzyHK0jpKoJRCyeGubBGXE2qpCZHuftwrWOUHvd6kVOcObulTorGanaHmXW8aqW-COLFxI1i0FJ2CSyBY8agIGUTDz7W7bi0ok99n9C7MZQ3nWtgzbyOw6sk04j~HuEtckEb0~fwjs87odpDyDK~Ul9IIC8Ypk76O-mTn4oiRS0eYN05iCsBI8uH8J~9HAfFuz0O2u8JQkuXFi3lLjXNy~aASHayoIHFpsNqsIgst0kFIIPZMjbjspffltIoYJpNzSgL3aV9H8anzmni-K00uCoyPTuZf4CRxd-bFWHeb6pSLqrQ1Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f5bfbaf9770f431f8fe34fabd557e1a7_MEC-IDM_MODB1-CAP_02-AULA_05.mp4?Expires=1794099576&Signature=0s7p5BHbHpuBfHKafkoZEmJCVmvzPrdb3OjyMzyHK0jpKoJRCyeGubBGXE2qpCZHuftwrWOUHvd6kVOcObulTorGanaHmXW8aqW-COLFxI1i0FJ2CSyBY8agIGUTDz7W7bi0ok99n9C7MZQ3nWtgzbyOw6sk04j~HuEtckEb0~fwjs87odpDyDK~Ul9IIC8Ypk76O-mTn4oiRS0eYN05iCsBI8uH8J~9HAfFuz0O2u8JQkuXFi3lLjXNy~aASHayoIHFpsNqsIgst0kFIIPZMjbjspffltIoYJpNzSgL3aV9H8anzmni-K00uCoyPTuZf4CRxd-bFWHeb6pSLqrQ1Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "945928f4-174f-4fae-bc90-65c6ade3f2ee",
+      "title": "Escolha a vantagem",
+      "content": "<p>Você quer destacar o lado positivo do plano antes de decidir. Qual frase faz isso?</p>",
+      "contentPlain": "Você quer destacar o lado positivo do plano antes de decidir. Qual frase faz isso?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa lo bueno de... para abrir a vantagem concreta de um plano.",
+      "feedbackError": "A aula usa lo bueno de... para abrir a vantagem concreta de um plano.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7800ded4-7349-419b-8de1-710a96ac7a32",
+          "textContent": "¡Qué buen plan!",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "945928f4-174f-4fae-bc90-65c6ade3f2ee"
+        },
+        {
+          "id": "85a5af43-4af4-4ec1-91db-e9033274bdc2",
+          "textContent": "Lo bueno del cine al aire libre es que empieza tarde.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "945928f4-174f-4fae-bc90-65c6ade3f2ee"
+        },
+        {
+          "id": "e84fbb81-3bef-49a6-9970-a0f98a7877e0",
+          "textContent": "Podríamos ir al cine al aire libre.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "945928f4-174f-4fae-bc90-65c6ade3f2ee"
+        },
+        {
+          "id": "ffa21163-97bb-495b-b7eb-7ada690debb8",
+          "textContent": "Lo malo del cine al aire libre es que queda lejos.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "945928f4-174f-4fae-bc90-65c6ade3f2ee"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2498064c-5adb-4add-9d85-818051d46a09",
+      "title": "Ligue expressão e efeito",
+      "content": "<p>Recupere as três peças centrais da aula ligando cada forma ao que ela faz na conversa.</p>",
+      "contentPlain": "Recupere as três peças centrais da aula ligando cada forma ao que ela faz na conversa.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula pesa o plano separando vantagem, limite e reação positiva.",
+      "feedbackError": "A aula pesa o plano separando vantagem, limite e reação positiva.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0938a5cc-f371-433b-a120-a06882d121f3",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2498064c-5adb-4add-9d85-818051d46a09"
+        },
+        {
+          "id": "7acacdb0-0359-47ca-9aa7-1a40d2e58b82",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2498064c-5adb-4add-9d85-818051d46a09"
+        }
+      ],
+      "associations": [
+        {
+          "id": "f5c0447f-15c0-4a72-868c-3aceedf36483",
+          "exerciseId": "2498064c-5adb-4add-9d85-818051d46a09",
+          "leftContent": "Lo bueno de...",
+          "rightContent": "marcar a vantagem",
+          "sequenceItem": 1
+        },
+        {
+          "id": "591965dc-aa58-46aa-8a35-f2c9bc9fa897",
+          "exerciseId": "2498064c-5adb-4add-9d85-818051d46a09",
+          "leftContent": "Lo malo de...",
+          "rightContent": "marcar o limite",
+          "sequenceItem": 2
+        },
+        {
+          "id": "fd5f6f8b-a58e-4e60-aefd-9aca29fa8f36",
+          "exerciseId": "2498064c-5adb-4add-9d85-818051d46a09",
+          "leftContent": "¡Qué buen plan!",
+          "rightContent": "reagir bem a uma ideia",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "ea23c359-2f98-4cb6-9720-931acf070204",
+      "title": "Combine áudio e frase",
+      "content": "<p>Escute as expressões centrais da aula e associe cada áudio ao texto certo.</p>",
+      "contentPlain": "Escute as expressões centrais da aula e associe cada áudio ao texto certo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula reaproveita três peças curtas para reagir e pesar o mesmo plano.",
+      "feedbackError": "A aula reaproveita três peças curtas para reagir e pesar o mesmo plano.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "2272afc1-ae1e-4082-878f-27f88c963bb3",
+          "exerciseId": "ea23c359-2f98-4cb6-9720-931acf070204",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5f28260928774340b0132c9b19a6d665_b06-que-buen-plan.mp3?Expires=1794099576&Signature=Yugf44TfVrrUH26Hg9sCoex7vLlCGZseUs-DJbgekbZIjgDQWha4oGb8V85vxDlWaxhjH~ACEZflcyFvSfuVFXK2aUwnpOB9k3zXDhFeNRIEthsJ3unYerItZUj2XYeSFP~MDbZQdO9LB5ZVU5B6wWkgCmUZBnoZxHhmWqddW7nNlyii0xC8NfOHz6aYsYVzuo0haKzaVqTnlnmlvwyhY~pAdEuUU5FaezIYHnveEG8YCr7rQr-TlbyLkRD2hU36lC708Ovc4ARP81qJgDlRK1A2EXNNt8TKJEBljfI63dfH858QXkIMgX02s0HpSy8QZVSkZ3iufuqN3hUMAKva1A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¡Qué buen plan!",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b514990d-80c5-4e42-ac3b-76939a902401",
+          "exerciseId": "ea23c359-2f98-4cb6-9720-931acf070204",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9b2ecf899d9e473ead5eb2e5d9c30f50_b02-lo-bueno-del-cine-al-aire-libre-es-que-empieza-tarde.mp3?Expires=1794099576&Signature=I-5FoC9SSJ-nRoKkunhYqpbjNiUKRUPnzLP8mZqtwch0mfXucqtwq2k-mYsxk7J8crtb9WkPxuBDVyUE8TWkmRxX99ULmVIWV1A0QO0UrfJqCM5Sy4WKj~IyArLQgOui0yOGNHklJVHpQrIhdko1lenS10Rb53yB7-rcm0EfVBKQHMrUlzh0oTacAhkw~vytUF7Rexglva6RH0XbhRkilO-tSHc1ts00kg4KGkkDCWgY1MGxNbOTuFMf4YMm~Z2NJdfHng1J0l0xPfQR6dEigX9b4sCl6KUjNMIfGB1VVwj4J~E8xl6tvXkYJVeBQ67EaOsckT9I~qetNVZhvZT~Ew__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo bueno del cine al aire libre es que empieza tarde.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ac0ada89-6e37-4bcc-ab43-d56f06fe0ee1",
+          "exerciseId": "ea23c359-2f98-4cb6-9720-931acf070204",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f41885bf27c840ba95776805e5e8d75c_b04-lo-malo-del-cine-al-aire-libre-es-que-queda-lejos.mp3?Expires=1794099576&Signature=CEadL7xMfFvMZTb5DFepJPvfz7LHGcKD-SGBSVcXkun8xwikUl~uqVuh6aoc2qKbhptBGjJNf236baPKxSQeReCpd9FP5SPIhT5fgMEEvWG32fRsqCxhHhlx0XSLBhQ7OzhXrBDACmZl8M0OqGOOWBcW8bps8EUVyVXK5OlhobBv7TRY-Q31BPkldC4RhaDnnkY9vfkz6QWegRq5DUel8fUuyrEMIEgSzRZZZoSedF9GN4uB5Mm~UR8icy73snYARH4G-2txd0AsJ5K8ZxlNV3~cgX2KTPkz9biBAg-mkqsd9bEf0KHT~z3avwRvOB0P58BFyuM7eKPw6HYvdSYQDA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo malo del cine al aire libre es que queda lejos.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "a43ebffd-2a4c-4724-a70a-1e9a30c1c0c1",
+      "title": "Escolha a reação",
+      "content": "<p>Depois de ouvir uma proposta de saída, qual frase reage bem à ideia antes de comentar vantagens ou limites?</p>",
+      "contentPlain": "Depois de ouvir uma proposta de saída, qual frase reage bem à ideia antes de comentar vantagens ou limites?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa ¡Qué buen plan! para aprovar a ideia de forma curta.",
+      "feedbackError": "A aula usa ¡Qué buen plan! para aprovar a ideia de forma curta.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "152fe48d-1ec6-4d37-b36b-42c4fffc4d19",
+          "textContent": "Podríamos ir al cine al aire libre.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a43ebffd-2a4c-4724-a70a-1e9a30c1c0c1"
+        },
+        {
+          "id": "2546c90d-9cae-42b8-8ff8-45ac068591d1",
+          "textContent": "Lo bueno del cine al aire libre es que empieza tarde.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a43ebffd-2a4c-4724-a70a-1e9a30c1c0c1"
+        },
+        {
+          "id": "3cb4258a-8792-4eb2-8714-857010fbfe52",
+          "textContent": "Lo malo del cine al aire libre es que queda lejos.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a43ebffd-2a4c-4724-a70a-1e9a30c1c0c1"
+        },
+        {
+          "id": "c93e8da2-85c2-45d4-a01b-4c13bbf1e87c",
+          "textContent": "¡Qué buen plan!",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a43ebffd-2a4c-4724-a70a-1e9a30c1c0c1"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "cc8f82eb-f27e-4cc1-8a58-ed82a3a6e7ac",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a avaliação completa em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a avaliação completa em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f41885bf27c840ba95776805e5e8d75c_b04-lo-malo-del-cine-al-aire-libre-es-que-queda-lejos.mp3?Expires=1794099576&Signature=CEadL7xMfFvMZTb5DFepJPvfz7LHGcKD-SGBSVcXkun8xwikUl~uqVuh6aoc2qKbhptBGjJNf236baPKxSQeReCpd9FP5SPIhT5fgMEEvWG32fRsqCxhHhlx0XSLBhQ7OzhXrBDACmZl8M0OqGOOWBcW8bps8EUVyVXK5OlhobBv7TRY-Q31BPkldC4RhaDnnkY9vfkz6QWegRq5DUel8fUuyrEMIEgSzRZZZoSedF9GN4uB5Mm~UR8icy73snYARH4G-2txd0AsJ5K8ZxlNV3~cgX2KTPkz9biBAg-mkqsd9bEf0KHT~z3avwRvOB0P58BFyuM7eKPw6HYvdSYQDA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A aula também pede uma avaliação completa quando o plano tem um limite claro.",
+      "feedbackError": "A aula também pede uma avaliação completa quando o plano tem um limite claro.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Lo malo del cine al aire libre es que queda lejos.",
+      "typeSpecificData": "{\"expectedText\":\"Lo malo del cine al aire libre es que queda lejos.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/f41885bf27c840ba95776805e5e8d75c_b04-lo-malo-del-cine-al-aire-libre-es-que-queda-lejos.mp3?Expires=1794099576\\u0026Signature=CEadL7xMfFvMZTb5DFepJPvfz7LHGcKD-SGBSVcXkun8xwikUl~uqVuh6aoc2qKbhptBGjJNf236baPKxSQeReCpd9FP5SPIhT5fgMEEvWG32fRsqCxhHhlx0XSLBhQ7OzhXrBDACmZl8M0OqGOOWBcW8bps8EUVyVXK5OlhobBv7TRY-Q31BPkldC4RhaDnnkY9vfkz6QWegRq5DUel8fUuyrEMIEgSzRZZZoSedF9GN4uB5Mm~UR8icy73snYARH4G-2txd0AsJ5K8ZxlNV3~cgX2KTPkz9biBAg-mkqsd9bEf0KHT~z3avwRvOB0P58BFyuM7eKPw6HYvdSYQDA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "321f3959-7e11-4492-ac75-fee18bfe18c5",
+      "title": "Recupere o limite",
+      "content": "<p>Complete em espanhol: Lo ____ del cine al aire libre es que queda lejos.</p><p>Tradução: O lado ruim do cinema ao ar livre é que fica longe.</p>",
+      "contentPlain": "Complete em espanhol: Lo ____ del cine al aire libre es que queda lejos. Tradução: O lado ruim do cinema ao ar livre é que fica longe.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lo malo de... abre o comentário que marca o limite do plano.",
+      "feedbackError": "Lo malo de... abre o comentário que marca o limite do plano.",
+      "answerType": "buildWord",
+      "expectedAnswer": "malo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e5a62d93-0979-491e-86f4-f6f8a2922907",
+      "title": "Recupere a vantagem",
+      "content": "<p>Complete em espanhol: Lo _____ del cine al aire libre es que empieza tarde.</p><p>Tradução: O lado bom do cinema ao ar livre é que começa tarde.</p>",
+      "contentPlain": "Complete em espanhol: Lo _____ del cine al aire libre es que empieza tarde. Tradução: O lado bom do cinema ao ar livre é que começa tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lo bueno de... abre o comentário favorável sobre o plano.",
+      "feedbackError": "Lo bueno de... abre o comentário favorável sobre o plano.",
+      "answerType": "buildWord",
+      "expectedAnswer": "bueno",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "27d3a215-f9dc-4ef7-9afc-c16e0199489b",
+      "title": "Complete a reação",
+      "content": "<p>Complete em espanhol: ¡Qué ____ plan!</p><p>Tradução: Que ótimo plano!</p>",
+      "contentPlain": "Complete em espanhol: ¡Qué ____ plan! Tradução: Que ótimo plano!",
+      "fileUrl": null,
+      "feedbackSuccess": "Antes de plan, a aula fixa a forma buen na reação curta.",
+      "feedbackError": "Antes de plan, a aula fixa a forma buen na reação curta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "buen",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b99a0d9c-c941-4822-ad39-135cda5db1ad",
+      "title": "Reconstrua o mini diálogo",
+      "content": "<p>Escute com atenção e relacione cada áudio à linha certa do mini diálogo, sem apoio em português.</p>",
+      "contentPlain": "Escute com atenção e relacione cada áudio à linha certa do mini diálogo, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula junta proposta, reação, vantagem e limite antes da decisão.",
+      "feedbackError": "O diálogo da aula junta proposta, reação, vantagem e limite antes da decisão.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "0c1a5983-7c36-46fe-99d1-7a367e20fb13",
+          "exerciseId": "b99a0d9c-c941-4822-ad39-135cda5db1ad",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e305c3b2922946dda24256f98ecc7281_b07-podriamos-ir-al-cine-al-aire-libre.mp3?Expires=1794099576&Signature=1HfwEUcXvbs5M8e-rll2w1fIwfLiO5AXUQITMyKsKB9DB1XEARg4hSbhG1LISJWn5tQq1NUDbDd-VPTfWpUqM9bHw-qTidY5rTRHUR75yEZeCv~d0w-EpAV9~j8ja1Fb9NR-ZqcHyI0aNwI6uQ23MOV9fVk-iIiZv571kHSWR9ICuu6Us9sliEUcAh5O37qx0eq0oK2fei1M~ge9x0GrnuE8NSTUy3dEM46yuA-tjtm2aaONPmL5NCoUzLGoMQSnzKnYNC4fM9IMOzPJ8EJCKrwr99BEqaZNhKdVBvkNjiJ-pPVxgHo1mzGowtGP88IQj7xWQOLC6oyLYj7zVXSjPQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Podríamos ir al cine al aire libre.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "16dc17b4-f3cf-44ee-93be-e1dbfa270f28",
+          "exerciseId": "b99a0d9c-c941-4822-ad39-135cda5db1ad",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f41885bf27c840ba95776805e5e8d75c_b04-lo-malo-del-cine-al-aire-libre-es-que-queda-lejos.mp3?Expires=1794099576&Signature=CEadL7xMfFvMZTb5DFepJPvfz7LHGcKD-SGBSVcXkun8xwikUl~uqVuh6aoc2qKbhptBGjJNf236baPKxSQeReCpd9FP5SPIhT5fgMEEvWG32fRsqCxhHhlx0XSLBhQ7OzhXrBDACmZl8M0OqGOOWBcW8bps8EUVyVXK5OlhobBv7TRY-Q31BPkldC4RhaDnnkY9vfkz6QWegRq5DUel8fUuyrEMIEgSzRZZZoSedF9GN4uB5Mm~UR8icy73snYARH4G-2txd0AsJ5K8ZxlNV3~cgX2KTPkz9biBAg-mkqsd9bEf0KHT~z3avwRvOB0P58BFyuM7eKPw6HYvdSYQDA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo malo del cine al aire libre es que queda lejos.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1b862679-e67f-4829-b596-8fe43461d62b",
+          "exerciseId": "b99a0d9c-c941-4822-ad39-135cda5db1ad",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5f28260928774340b0132c9b19a6d665_b06-que-buen-plan.mp3?Expires=1794099576&Signature=Yugf44TfVrrUH26Hg9sCoex7vLlCGZseUs-DJbgekbZIjgDQWha4oGb8V85vxDlWaxhjH~ACEZflcyFvSfuVFXK2aUwnpOB9k3zXDhFeNRIEthsJ3unYerItZUj2XYeSFP~MDbZQdO9LB5ZVU5B6wWkgCmUZBnoZxHhmWqddW7nNlyii0xC8NfOHz6aYsYVzuo0haKzaVqTnlnmlvwyhY~pAdEuUU5FaezIYHnveEG8YCr7rQr-TlbyLkRD2hU36lC708Ovc4ARP81qJgDlRK1A2EXNNt8TKJEBljfI63dfH858QXkIMgX02s0HpSy8QZVSkZ3iufuqN3hUMAKva1A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¡Qué buen plan!",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c1527f17-0328-4432-aaca-9a4faacbaa14",
+          "exerciseId": "b99a0d9c-c941-4822-ad39-135cda5db1ad",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9b2ecf899d9e473ead5eb2e5d9c30f50_b02-lo-bueno-del-cine-al-aire-libre-es-que-empieza-tarde.mp3?Expires=1794099576&Signature=I-5FoC9SSJ-nRoKkunhYqpbjNiUKRUPnzLP8mZqtwch0mfXucqtwq2k-mYsxk7J8crtb9WkPxuBDVyUE8TWkmRxX99ULmVIWV1A0QO0UrfJqCM5Sy4WKj~IyArLQgOui0yOGNHklJVHpQrIhdko1lenS10Rb53yB7-rcm0EfVBKQHMrUlzh0oTacAhkw~vytUF7Rexglva6RH0XbhRkilO-tSHc1ts00kg4KGkkDCWgY1MGxNbOTuFMf4YMm~Z2NJdfHng1J0l0xPfQR6dEigX9b4sCl6KUjNMIfGB1VVwj4J~E8xl6tvXkYJVeBQ67EaOsckT9I~qetNVZhvZT~Ew__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo bueno del cine al aire libre es que empieza tarde.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "bdbb3538-4bb8-4b8c-a602-5db9126f84e4",
+      "title": "Ouça o áudio e selecione as palavras",
+      "content": "<p>Escute a frase sobre o limite do plano e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a frase sobre o limite do plano e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f41885bf27c840ba95776805e5e8d75c_b04-lo-malo-del-cine-al-aire-libre-es-que-queda-lejos.mp3?Expires=1794099576&Signature=CEadL7xMfFvMZTb5DFepJPvfz7LHGcKD-SGBSVcXkun8xwikUl~uqVuh6aoc2qKbhptBGjJNf236baPKxSQeReCpd9FP5SPIhT5fgMEEvWG32fRsqCxhHhlx0XSLBhQ7OzhXrBDACmZl8M0OqGOOWBcW8bps8EUVyVXK5OlhobBv7TRY-Q31BPkldC4RhaDnnkY9vfkz6QWegRq5DUel8fUuyrEMIEgSzRZZZoSedF9GN4uB5Mm~UR8icy73snYARH4G-2txd0AsJ5K8ZxlNV3~cgX2KTPkz9biBAg-mkqsd9bEf0KHT~z3avwRvOB0P58BFyuM7eKPw6HYvdSYQDA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Lo malo de... aponta o que atrapalha a opção e precisa ser ouvido com clareza.",
+      "feedbackError": "Lo malo de... aponta o que atrapalha a opção e precisa ser ouvido com clareza.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "117cb365-7497-429c-884b-4bd97814a513",
+          "textContent": "libre",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bdbb3538-4bb8-4b8c-a602-5db9126f84e4"
+        },
+        {
+          "id": "4cb0a6bb-6575-4178-92e4-2ddc1eb5bd6f",
+          "textContent": "malo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bdbb3538-4bb8-4b8c-a602-5db9126f84e4"
+        },
+        {
+          "id": "507324e5-ce6b-4c3e-bb8d-a1e85b61e73b",
+          "textContent": "buen",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bdbb3538-4bb8-4b8c-a602-5db9126f84e4"
+        },
+        {
+          "id": "5d5eff70-fbac-471e-84f1-70b643945380",
+          "textContent": "empieza",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bdbb3538-4bb8-4b8c-a602-5db9126f84e4"
+        },
+        {
+          "id": "615e1c38-51b4-456e-836b-dc68ca65d422",
+          "textContent": "aire",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bdbb3538-4bb8-4b8c-a602-5db9126f84e4"
+        },
+        {
+          "id": "769554ae-dfd3-436b-ac11-cd7cb40f43fb",
+          "textContent": "lejos",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bdbb3538-4bb8-4b8c-a602-5db9126f84e4"
+        },
+        {
+          "id": "fb044bd1-7b70-47a3-9701-17db6b8cdf35",
+          "textContent": "queda",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bdbb3538-4bb8-4b8c-a602-5db9126f84e4"
+        },
+        {
+          "id": "fd3658d0-1a5d-498f-b044-6c07e2d155a3",
+          "textContent": "cine",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bdbb3538-4bb8-4b8c-a602-5db9126f84e4"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "title": "Pesar o lado bom e o lado ruim"
+}

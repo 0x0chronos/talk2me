@@ -1,0 +1,732 @@
+{
+  "attemptId": "ebeb5fe0-cefc-4754-a573-5fef4cefafea",
+  "exercises": [
+    {
+      "exerciseId": "a3f17407-3df0-4a4a-855c-498a31f69469",
+      "sequence": 1,
+      "lessonId": "fe993436-c1af-4188-b5ff-6e20573d215c",
+      "title": "Complete o verbo da etapa pendente",
+      "content": "<p>Antes de que _______ la limpieza del río, los voluntarios reparten guantes reutilizables.</p><p>Tradução: Antes que a limpeza do rio comece, os voluntários distribuem luvas reutilizáveis.</p>",
+      "contentPlain": "Antes de que _______ la limpieza del río, los voluntarios reparten guantes reutilizables. Tradução: Antes que a limpeza do rio comece, os voluntários distribuem luvas reutilizáveis.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na frase da aula, empiece marca uma etapa que ainda não começou.",
+      "feedbackError": "Na frase da aula, empiece marca uma etapa que ainda não começou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "empiece",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f1d137c5-0564-4aa0-b6bd-f04c463e0e06",
+      "sequence": 2,
+      "lessonId": "f9d20373-5b20-4c8a-9a44-b3ad7b683afb",
+      "title": "Recupere a atualização da notícia",
+      "content": "<p>La ________ al próximo fin de semana.</p><p>Tradução: Mudaram para o próximo fim de semana.</p>",
+      "contentPlain": "La ________ al próximo fin de semana. Tradução: Mudaram para o próximo fim de semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "No recap final, la movieron... traz a atualização concreta depois da notícia inicial.",
+      "feedbackError": "No recap final, la movieron... traz a atualização concreta depois da notícia inicial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "movieron",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e090e113-6cbb-42fb-bfcc-ef39daf762e3",
+      "sequence": 3,
+      "lessonId": "87f7caad-0b38-444f-9fcf-72d5ed7a3e3c",
+      "title": "Complete o problema lento",
+      "content": "<p>Sin lluvias, la ______ ya afecta a los cultivos.</p><p>Tradução: Sem chuva, a seca já afeta as plantações.</p>",
+      "contentPlain": "Sin lluvias, la ______ ya afecta a los cultivos. Tradução: Sem chuva, a seca já afeta as plantações.",
+      "fileUrl": null,
+      "feedbackSuccess": "`sequía` aponta para uma falta prolongada de chuva com efeito sobre os cultivos.",
+      "feedbackError": "`sequía` aponta para uma falta prolongada de chuva com efeito sobre os cultivos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sequía",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "167ad8e9-fcf1-4efe-8ade-75cf611de45e",
+      "sequence": 4,
+      "lessonId": "87f7caad-0b38-444f-9fcf-72d5ed7a3e3c",
+      "title": "Recupere a palavra da notícia",
+      "content": "<p>Despues de las lluvias, hubo una __________ en la costa.</p><p>Tradução: Depois das chuvas, houve uma inundacao na costa.</p>",
+      "contentPlain": "Despues de las lluvias, hubo una __________ en la costa. Tradução: Depois das chuvas, houve uma inundacao na costa.",
+      "fileUrl": null,
+      "feedbackSuccess": "`inundación` nomeia o excesso de água já visível na notícia.",
+      "feedbackError": "`inundación` nomeia o excesso de água já visível na notícia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "inundación",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "81987708-92ed-4dd3-9d6c-850440d05176",
+      "sequence": 5,
+      "lessonId": "011553e6-1382-44c1-a3e6-d1eb514f45fa",
+      "title": "Ligue o trecho ao efeito",
+      "content": "<p>Associe os trechos do exemplo em espanhol ao papel que eles cumprem no enunciado.</p>",
+      "contentPlain": "Associe os trechos do exemplo em espanhol ao papel que eles cumprem no enunciado.",
+      "fileUrl": null,
+      "feedbackSuccess": "O exemplo do prédio mostra como a consciência vira hábitos concretos no grupo.",
+      "feedbackError": "O exemplo do prédio mostra como a consciência vira hábitos concretos no grupo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "bb1577c9-5b5c-475d-9b83-210c091f43c6",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ec339372-6d9c-4ef5-be84-51553a418935",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "e099ea5f-09a3-45ce-bac7-fa88733010db",
+          "leftContent": "En mi edificio",
+          "rightContent": "contexto de convivência",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d4758d0b-7c56-4d34-b5fb-a719b6060a51",
+          "leftContent": "nos ayudó",
+          "rightContent": "efeito da consciência ambiental",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2a1dd673-f5fa-44f3-a193-f19bdad59a35",
+          "leftContent": "separar los residuos",
+          "rightContent": "exemplo de hábito ligado ao lixo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "44951a9e-3598-46be-aa23-a334b456a4b4",
+          "leftContent": "usar menos plástico",
+          "rightContent": "exemplo de hábito ligado ao consumo de plástico",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "04029d2a-d3a0-4fe2-83f5-044772b2ebdc",
+      "sequence": 6,
+      "lessonId": "392de709-007a-49fb-942f-ae151137423f",
+      "title": "Ouça a recombinação",
+      "content": "<p>Selecione apenas as palavras que você realmente ouve nesta combinação de duas molduras da aula.</p>",
+      "contentPlain": "Selecione apenas as palavras que você realmente ouve nesta combinação de duas molduras da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dde13c1791bb444c870cc0a39708c279_ex-c01-ojala-sombra-solar.mp3?Expires=1794099771&Signature=nGRLiuRQ6inL~JGmAAOPNX3n1M6nVTxUcwH7g9NDHELcNMIlTnOw0sgIRDVjZN0RxKJl4xqZGhWiQBMWn3NM~kWqfQ5XwdRztBiWL1amPep6hhFMWwM2L14M-Ow4YzkFn9aBcKrsA9qvC1hzrUm69Sq7da4EdA39JxXf2oFsLvy0MKZQclgsxYR1WRRt3USgkCQ-68FQuvUbF~iV7Wt6-AZkrvpMJ1lxdRtxwDu-xYEKXYJ9SkZG8LHad8n8HtyYb~nJjvvQrEEg~QsXRr1OL71eBk3c6AMEUV7y2rTrclKRf3lRvpQopK~3NG7KZciQSP7Pb3dGuslldld5Q0xJCA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A recombinação do recap exige ouvir quais palavras continuam dentro do desejo improvável.",
+      "feedbackError": "A recombinação do recap exige ouvir quais palavras continuam dentro do desejo improvável.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2b3e6e7c-9569-4d46-a15d-ff63164696b3",
+          "text": "usaran",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2c6a8fb4-1f58-4338-ad13-093a40590b1d",
+          "text": "sombra",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7962370d-1a34-47ee-9568-b1be8fc1e90b",
+          "text": "solar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ad08eb2a-d2a4-450e-9feb-462fd1c9952a",
+          "text": "instalara",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d0e1957d-d3f2-4a76-bb4d-4930f3aa2168",
+          "text": "ojalá",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "6f2e1b52-5d66-4f86-bd11-9cd241fa553a",
+      "sequence": 7,
+      "lessonId": "98270d79-5f64-4e3c-9550-9e4291aa2e44",
+      "title": "Filtre o vocabulário do recap",
+      "content": "<p>Escute o fechamento da aula e marque somente as palavras que você ouvir sobre contexto e relato indireto.</p>",
+      "contentPlain": "Escute o fechamento da aula e marque somente as palavras que você ouvir sobre contexto e relato indireto.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f74587060f674614b5ae6aa4c2ab9c9f_b09-recap-relatar-pedidos-recomendaciones-y-avisos.mp3?Expires=1794099771&Signature=iIfyfprvyFSZbwo0C0Znfc1TIURH-7kDUDhyl0kBfLjKuUg5~qy5YK-OOGRJ2yg08Qjwot4yQJkJsNcqypYcU9bvpxGvHfkU32Nro71w42XKLh8EAnGs~-sbKRqhL6OyJAXh7JZHl~MXtEiZqgJK~XHK7vRXlvsYDU6jPLxxMHtjZBMFVKgFNfD-jibKTsLRzG91Axp2h2Ae-fTM4L95s1m4NSWlbce~72nzS38ovuVvKVVux~F1HaWHP7OkSvk8DAnunoB7wRnNWNzio32Lkj0afx4TzWPZJk6jOHW3RleJtrI1mUqDLYjB-QyscrpQlopLyKPSxGXXlphMBqwd7g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap junta contextos reais e as três molduras do relato indireto.",
+      "feedbackError": "O recap junta contextos reais e as três molduras do relato indireto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "182c3828-81f0-4032-a026-1e5f418509f0",
+          "text": "fuente",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "29e8c11f-b05d-465c-be72-0612cad981f1",
+          "text": "literal",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2c787052-68f9-41f9-bcee-11730d97244e",
+          "text": "recomendó",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "620d8467-0111-486f-bdb1-517ead8f3de1",
+          "text": "reunión",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7a5fb86b-0300-49de-adad-71829151397d",
+          "text": "equipo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7c6b962b-acb0-427f-8d4b-59bbd02d498f",
+          "text": "guantes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "81bade43-47d1-4d19-93c0-640b422302cb",
+          "text": "redacción",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "897f4de0-f2fa-419d-b13b-e12750f5c60e",
+          "text": "pidió",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8ab90cd3-d290-4be4-9a16-55f05542076e",
+          "text": "pilas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "939b044b-3b00-4003-9b55-a565943c536b",
+          "text": "chat",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a25c8ce2-0a5a-4c25-99dc-22f10f4bd3f1",
+          "text": "advirtió",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ff3391c7-458e-4cdb-a4b8-3dffc4b7d793",
+          "text": "sábado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c3caedff-fc0d-449f-a0f6-34f03d6c14a9",
+      "sequence": 8,
+      "lessonId": "0db44209-192d-498e-b133-c5f325e0d2c2",
+      "title": "Complete o segundo lado",
+      "content": "<p>Por un lado, la ciudad necesita reducir la contaminación; por ____, no todo el mundo puede dejar el coche de un día para otro.</p><p>Tradução: Por um lado, a cidade precisa reduzir a poluição; por outro, nem todo mundo consegue deixar o carro de um dia para o outro.</p>",
+      "contentPlain": "Por un lado, la ciudad necesita reducir la contaminación; por ____, no todo el mundo puede dejar el coche de un día para otro. Tradução: Por um lado, a cidade precisa reduzir a poluição; por outro, nem todo mundo consegue deixar o carro de um dia para o outro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Por un lado... por otro ajuda a tornar visiveis duas pressões do debate.",
+      "feedbackError": "Por un lado... por otro ajuda a tornar visiveis duas pressões do debate.",
+      "answerType": "buildWord",
+      "expectedAnswer": "otro",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3890cc08-d248-4526-95a5-e1cd626411cf",
+      "sequence": 9,
+      "lessonId": "8f4348fd-79c7-4d9c-a721-35102e134c08",
+      "title": "Recupere o contraste",
+      "content": "<p>Sin _______, vários biólogos apoyaron la medida.</p><p>Tradução: No entanto, vários biologos apoiaram a medida.</p>",
+      "contentPlain": "Sin _______, vários biólogos apoyaron la medida. Tradução: No entanto, vários biologos apoiaram a medida.",
+      "fileUrl": null,
+      "feedbackSuccess": "Sin embargo introduz contraste e evita uma leitura unica da notícia.",
+      "feedbackError": "Sin embargo introduz contraste e evita uma leitura unica da notícia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "embargo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "42ab247a-c347-4754-bde2-99b6a9ccfa89",
+      "sequence": 10,
+      "lessonId": "6e1704fc-0a57-4781-a5c5-bef718f85196",
+      "title": "Ligue marcador e efeito",
+      "content": "<p>Associe cada marcador central ao efeito que ele produz no resumo curto da aula.</p>",
+      "contentPlain": "Associe cada marcador central ao efeito que ele produz no resumo curto da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa do briefing depende de marcadores curtos que separam fato, reação e pedido relatado.",
+      "feedbackError": "O mapa do briefing depende de marcadores curtos que separam fato, reação e pedido relatado.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0d0ef0fe-946b-47d0-bb5c-cf5aad3942ad",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e31ca004-e390-4d91-8509-c637e99eae65",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "6327559f-49dc-4488-9d8b-9ab3815d7d41",
+          "leftContent": "anunció",
+          "rightContent": "apresenta o fato principal",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e3fa1770-99d2-4788-8afb-7ca0271126d2",
+          "leftContent": "dijeron que",
+          "rightContent": "atribui a opinião a outras vozes",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e554e97b-cf1e-45a5-b446-c1c73eb53cb0",
+          "leftContent": "pidió que",
+          "rightContent": "relata uma orientação pública",
+          "sequenceItem": 3
+        },
+        {
+          "id": "6817382f-fa0a-4d7b-ad1e-d7857383f4ff",
+          "leftContent": "Además",
+          "rightContent": "liga a última parte ao mesmo resumo",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "7ee739e5-3731-4eb3-83f0-a138a134c8f0",
+      "sequence": 11,
+      "lessonId": "8f4348fd-79c7-4d9c-a721-35102e134c08",
+      "title": "Filtre as palavras do novo briefing",
+      "content": "<p>Escute o comentário completo e marque apenas as palavras que realmente aparecem nele.</p>",
+      "contentPlain": "Escute o comentário completo e marque apenas as palavras que realmente aparecem nele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d2ccf862fcf14e73be247731ab88be22_c01-mini-brief-parque-sequia.mp3?Expires=1794099771&Signature=SkSKvoNSGNMpMeE~UKThdXgvwS5fQIzD2XQ71-nctOxE7S7qTqihIDYBJsGQDfgc97dm2I-11kvge8Cb20hufSOTZ7Jd44Ig-ARHeU4namIIAhw2PdGDTEyshH24dd6S-kcKsdICHGfcdC1JCZcSxeR9PHlVUwLnyy~wb6jU7svtznU-yN~kiHPvovYiA97Q0O3NkHLl2eQfN~3EyQOfG00D2ZPlJuPz6wVcFDUuTsJp2Va7cJI6yL2~wYT9kEOTvGfYKkPnfu0rpPY95LV22bDd9ru5r1b86U0OC7s0FmOF2sYsJYT4F2of1BQ5bwnxQNb9Uhfb6srXpWCosn7iXw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O mini-briefing integrado pede ouvir fato, reação e contraste como uma unica fala organizada.",
+      "feedbackError": "O mini-briefing integrado pede ouvir fato, reação e contraste como uma unica fala organizada.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "218b2efc-3642-4090-88af-8c59fc092eac",
+          "text": "lluvia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "23c24b3a-62ea-4b73-bac8-bae847939cb2",
+          "text": "técnicos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3e29fa48-333a-4b80-825c-7c30f249e300",
+          "text": "sequía",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3fb5b0ef-844a-4f4d-9f85-6df38cf93dc3",
+          "text": "debate",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "65a36b62-1d01-49db-9f98-25ad3f5428f3",
+          "text": "expertos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8f059a54-4dea-425d-9099-e3aed4fb3e32",
+          "text": "horarios",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a16d461a-5b50-42d7-bd7d-e0aa3188a12d",
+          "text": "cerraron",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a3ce0c05-1a14-4742-a033-96b078ecf3d2",
+          "text": "barrios",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a4ea17a0-aeed-4262-a4ac-f4ef8f79643a",
+          "text": "temporal",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ea87ca6c-0c3b-4c89-bbbe-cbfef212ef40",
+          "text": "parque",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fbb490f0-d2a9-4b12-9f0c-8b1363a7aa24",
+          "text": "familias",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "88935edc-6347-470d-8917-99d4c2a8f43c",
+      "sequence": 12,
+      "lessonId": "392de709-007a-49fb-942f-ae151137423f",
+      "title": "Ligue os trechos centrais",
+      "content": "<p>Agora você ouve só o trecho central de cada moldura. Relacione cada áudio ao segmento correto em espanhol.</p>",
+      "contentPlain": "Agora você ouve só o trecho central de cada moldura. Relacione cada áudio ao segmento correto em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os trechos centrais `tuviera`, `instalara` e `usaran` sustentam as três molduras da aula.",
+      "feedbackError": "Os trechos centrais `tuviera`, `instalara` e `usaran` sustentam as três molduras da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "bdbfce8c-5cab-4f48-99c6-5df69747275f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/03fc8b8e063548a0972c04caf3665e4a_ex-c05-tuviera-arboles-sombra.mp3?Expires=1794099771&Signature=HqAGLrtFnT3SlwGAFbOIS8CFIRqW5JDHQ33cEqSascoosHe15f7l3IAhi0oxhlEzaMuE1IyHdR-0Pix3QJiLzrSmFDzWqBjMWGV8d9UaP47g7y0TPA2QcC9H2nhMvO4pL4k130Kdl~cdjWLtJB9y7GV5ewgEavlL2R0ilIE06RPZjdj6prw-LadR8CqQ7dE5nKdHkprC99l6QzNz5N30ISgLpeGUKkf3z4EHLQRP8nz~50VQ3ipiPioQFnE5-Qp8tCNe-OOO70dOqOYT1AdMCeMUjEeTP6Wh7iJUL1xGdBOXdVZ22uukB9aplAeGG2cg8ZLJxzn3KldpKGXJ-Gwufw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "tuviera más árboles y más sombra.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a5838a44-a79e-43ab-b209-0c8440efb259",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2acaac49829c4d4cb55679738fa8cd30_ex-c05-instalara-puntos-agua.mp3?Expires=1794099771&Signature=kTPbAoZ-eWgmbfpKcLu76bsvD4pNFDlDL4hS2s9pcdwAqsL9OMloKRiGZPRbAVg1EaWO22g6f0aR3jWGCJIH5y8Zz0-SQTFcemMprIMlgdimVPWaZVNoXpcKonDIlBJdOEXBLUnKNaiU8jVdUT1m78r9FYNgNErPi98nWj4f5dhyZ9otFb~ETmmSOUWr1FMFr0CVrAUrPijvKTCNiHNmjumrk9d-CfWdu1roV7wNeLP25ZokaUbszFzlmh4ivkL8Aii8mQ-J99DX72uI8ItTNpqzqY2Dq5udnB-bHbnE8-IVad1LG-5lddtvA4LJtEcGlHeMjk4n5RrPvR87F02KGQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "instalara más puntos de agua.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f5dbd03a-0ea5-4f31-a36a-ede7e22dcc6f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/062be2f4e14140e6a0fea149236f0f09_ex-c05-usaran-energia-solar.mp3?Expires=1794099771&Signature=aJR06NYDQV8TYjrpp5d2MxltA6D~t7SI2wBUZIGe7mCRaKlU6akGdRTg6PXfzF~zqfxUwHL7zxoDf8~LT~DURkZI80cqrmHblAVBFxR9UGIR9au0MNYInmQCvABmZwhk2-rI3RnZKFgMvvSHs9uEcC0~4z375QEg7yi4OvCkUSzWJ01VbECzMN6L4jYzxttpIF9aVvq0MMd--44nspshClT1caalxqCngMGwZhp2quTFUBYchzxv4Fn34Db7jHIM9yl8SfN09I37cFhomm88xf-wdQDP~xc8ytzlSOXlQxBzuHTWotsRQovWo8BPPn~Owv3SJFeNfaBDYb2Zinh-hQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "usaran energía solar.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "c3870edb-b796-4172-a435-2fa09ef531a9",
+      "sequence": 13,
+      "lessonId": "fe993436-c1af-4188-b5ff-6e20573d215c",
+      "title": "Filtre as palavras do recap",
+      "content": "<p>Escute o fechamento da aula e selecione somente as palavras que aparecem nele.</p>",
+      "contentPlain": "Escute o fechamento da aula e selecione somente as palavras que aparecem nele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c5da2203387c4bcea36ab84b5a4392ad_b07-recap-limpieza-del-rio.mp3?Expires=1794099771&Signature=iJsTpfEOQ7vE8opKdOsvLTnKu43wreDEFZEiI19RR2~si1IExc~A93tT-jr1rjHlpE7~2spRBHW--S-fveAwCH~6am8uBgu0KF4DuNceIfgCOjvzswxCWdhd-N3Sg3J2Hu31vdnWEmiXyjD47soAwh-3oUSxywbAbhml0JZkYhQzRHXqU7n3q9DtegFfw6F6y6CPXwrSpH2fxyQJEUQ3p5X3U61W0cCpOwo5KvRHwuEM0VGeRV~aBEPQFl-RFCm8nuDvadPPBVb86YYxVOhfo9DhUj57dFigL8F350WaAgHtWZo5hZl~6oS0ndbWYn-zuww4b1-LOtV-3oHyl5K1Sw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap junta preparacao e resultado na mesma campanha ambiental.",
+      "feedbackError": "O recap junta preparacao e resultado na mesma campanha ambiental.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0d62abb2-06ea-45ed-89d2-2d9b7f6bc305",
+          "text": "voluntarios",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "20a06e3b-f920-4dee-968e-f72a69be8d29",
+          "text": "antes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "27c6f639-7a9c-47ca-ab7f-5d018fe91f8d",
+          "text": "campaña",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3e0f720d-8860-46df-b32d-29be9825b6f3",
+          "text": "debate",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "87b9e7d0-752f-4e42-bfa7-73eae55795ec",
+          "text": "materiales",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8a4d3463-ea92-484a-ba9c-87ff91663509",
+          "text": "río",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8d5aaef8-1c19-448a-afbe-eec6d23aed1a",
+          "text": "plástico",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8fa6ee66-a55e-4f41-aeab-915b0c41d685",
+          "text": "empiece",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c47c1af5-ea86-4740-a729-eb96a8011227",
+          "text": "termina",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c5d100ed-fde6-48cb-a64d-f02b04f21b83",
+          "text": "clasifica",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ccfde9df-8be9-4eda-88cd-1126bfe64890",
+          "text": "escuela",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d1058ef3-b988-48da-9c75-bd3618ac4b4b",
+          "text": "coche",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d9870df6-ae77-4d1d-acac-50977929aa34",
+          "text": "después",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e2c62964-b480-47bd-a535-11466875ed04",
+          "text": "barrio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "e1b082c4-7943-4da9-92b5-c7c8dae1d369",
+      "sequence": 14,
+      "lessonId": "29524e17-f8f0-4aa7-895c-17300dadcf00",
+      "title": "Recupere a avaliacao pelo áudio",
+      "content": "<p>Marque as palavras da frase nova que liga fonte citada a confiabilidade.</p>",
+      "contentPlain": "Marque as palavras da frase nova que liga fonte citada a confiabilidade.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f8666660ad0d4e14877605ca655f7c4f_ex03-con-la-fuente-citada-me-parece-confiable.mp3?Expires=1794099771&Signature=xZGUAh38sd~nmDhiGX2UJGdFKZVvsWe3G6u9pTLeyKxqtWNfF6l5pbANVoDHwdD7MI1hiD8Ym4~u23ly45M~GClGBKbhKf~p2agd3VDPvQhowHTEo3QhkQSnvAtLCYZPEJPtyhQYG7SyUf-ARmcgtPYk5uo1wC5oDb6QhSOcf6r6HX~zcIOHL1i-uZtQ5Yk-l5DmDvZy3hLnHQ1F6KGNNKhZRtFHK9PEkIBxRuZIADA2RLkxMABDx3NfAc3VtDUNutxK-d358wVOWwE4KXYw7CF2DzyfRyg10pEMd-j1xu5ye5ldbg7QilzHjsuFtBX3TkvuYKWf7ANnYuUgHcVupQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap da aula liga confiabilidade ao fato de a fonte aparecer citada.",
+      "feedbackError": "O recap da aula liga confiabilidade ao fato de a fonte aparecer citada.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "00f31e53-640e-4cbc-8b6e-432d77c38663",
+          "text": "citada",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4706147f-fbbc-44f3-aa6a-146be11ef9ac",
+          "text": "medio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "481b0642-dae3-475b-85f5-cca08269a1c4",
+          "text": "cifra",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "58444ab7-cd3a-4493-a478-baffdab5b42a",
+          "text": "la",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7bfbe1d2-a5a5-454e-afe0-f0bd93255498",
+          "text": "fuente",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "80a9e1e8-e675-4511-b017-0e7a6d35547f",
+          "text": "confiable",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9391e203-98cb-476a-a68f-df81c28bdb28",
+          "text": "me",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c51c6419-1c0a-4973-a4e7-2d216598a7ee",
+          "text": "hospital",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d55845fc-b854-4b52-9629-590efac4d2d5",
+          "text": "parece",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e8b23499-b9f4-424b-b4ee-dad3b8176c6a",
+          "text": "con",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b8192b56-898c-4762-bc88-be3ad78b0acb",
+      "sequence": 15,
+      "lessonId": "5c584af3-e7d2-4c85-b26e-8e62ccd24ecc",
+      "title": "Reconstrua as frases completas",
+      "content": "<p>Relacione os áudios diretamente as frases completas em espanhol, sem apoio em português.</p>",
+      "contentPlain": "Relacione os áudios diretamente as frases completas em espanhol, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula leva o aluno de frases isoladas a um recap que junta critério e energia na mesma fala.",
+      "feedbackError": "A aula leva o aluno de frases isoladas a um recap que junta critério e energia na mesma fala.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "0a81306f-b05a-463b-9d58-17f283919cc3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d4db2490e9c04c688394a86608fe77e7_b02-procuro-verificar-la-fuente-antes-de-compartir-una-noticia.mp3?Expires=1794099771&Signature=D8-GLaC~qfBZhBpVoc0z9643eHtPmiOGPoexcQK3afvMDWBlCAaCfxwt-dY4I3IFkUUZPHtl0IweFQqaAzYWQJXCwcteXuiECbaAqtye6UP8MVAnnBIpdpKT1ob0jMbJ55tSAnLyWd0SCVh3y51o5SIyipXnNYA2oPPcnaoOV-Cpe95KqexxEosFSb5cUkQrEnWOQnOU2db3357gD8D9I7jyi1eUBEAZiIopSO~ed3yWABzYEHHd~mcgFqoogabu6mmXc56T8PA8JPXoOX2snVN9uRTn3QUH9y-~1YGIEJJ85GCqPGY~L4SWcupjTK-G0H9jtenu2H0Q9pgsCbU3Ag__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Procuro verificar la fuente antes de compartir una noticia.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "38e06f85-a40b-4118-bb0f-103b3fa6656c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7bed18139388483aa34ca93181c4ab5c_b04-procuro-activar-el-modo-ahorro-de-energia-al-final-del-dia.mp3?Expires=1794099771&Signature=M3qZEaXFsxQH2hgn22smPcJYeQdp0r0Im7nCJjD2JQn2r3fncletfOiTN2Wavj-B~dwi3iwPRKMNXR6X45LBQvug8zTKXA2FmclWCryo8hzUDGU3X-0OpO70UvAi7QJwIg~S9~iCKHW7Pjsr4M~nfD7N0Lp9OI5z7hTVc0jfQksscW~RpXZyo4tF7evGHp8kt2nnY1Be94KdTv6JPi6iIGtkqA9mkEAaZGFVoEiVRGGxA~kU9ep88Vi84pguEHggk8nLNwPbM~UznndKDibDcDm9eQouLuzAD9irH6vz~4p1NfN5F-3obxcJa4xv~lRkCrmFI-rfD0LZBl~3bPScQw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Procuro activar el modo ahorro de energía al final del día.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "bfbd2e41-e71d-4bac-97dd-edfeff783945",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/feefbbd3c38d4d6f9853ef72fc8e1954_b06-recap-rutina-digital-consciente.mp3?Expires=1794099771&Signature=wwjEhHD1M8D1C1-ZTOphZn9CSnt7ot8fMqyAFQlWqoe19ubqMHJYAeyMHAqB0fR0FADvEKxI8d89JURc15Iys8xivvWdG9Jb4hVwPnVJdHngNlviWpj0vMYmM-60V-txSa7R-eUcmKyqFUX6vH52NLWtfs96wYl-ejkB~t-VbsHGHWV8QVk76AMzIdNntOKmat19owr7NKItjtP-xncxHsfkD4ez-67mRN3w6~7lM~hBc75vI~s3mWw7BkLoR5aZWAKOThW9XAoAEsaADjlXKPcB2Hl5lj6rrS21eZJdbG730bkdkWoUbstjXYB8VqIuxUFL7lH0m-I~ZEZHW0LUCw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En mi rutina digital, procuro verificar la fuente antes de compartir una noticia y activar el modo ahorro de energía al final del día.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ]
+}

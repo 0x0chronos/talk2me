@@ -1,0 +1,639 @@
+{
+  "attemptId": "9c512cb1-ccf0-4128-890e-afe24b250da0",
+  "exercises": [
+    {
+      "exerciseId": "b31d58ee-5c48-4703-a336-4ddd53a15057",
+      "sequence": 1,
+      "lessonId": "11554b07-b3b6-414e-84cf-de722bcd438f",
+      "title": "Complete a pergunta",
+      "content": "<p>Complete em espanhol: ¿Por ___ publicas en las redes sociales?</p><p>Tradução: Por que você publica nas redes sociais?</p>",
+      "contentPlain": "Complete em espanhol: ¿Por ___ publicas en las redes sociales? Tradução: Por que você publica nas redes sociais?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na pergunta da aula, por qué aparece em duas palavras e qué leva acento.",
+      "feedbackError": "Na pergunta da aula, por qué aparece em duas palavras e qué leva acento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "qué",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1dc00419-9995-46f0-adcb-644bf1624550",
+      "sequence": 2,
+      "lessonId": "759aa99c-8309-4cc8-8d30-aaf53c88f811",
+      "title": "Ligue situação e forma verbal",
+      "content": "<p>Combine cada pista de uso com a forma verbal em espanhol que melhor completa a situação.</p>",
+      "contentPlain": "Combine cada pista de uso com a forma verbal em espanhol que melhor completa a situação.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo da aula contrasta leo, escribes e comparte pelas três pessoas do singular.",
+      "feedbackError": "O resumo da aula contrasta leo, escribes e comparte pelas três pessoas do singular.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4780be8a-d965-4a03-bc83-9a2015b08fc7",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d0679e43-7637-4728-9ce7-da93361c96b8",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "7eb1362c-d6f2-4aaa-b59d-c57ddd0d26c6",
+          "leftContent": "falo de mim lendo e-mails",
+          "rightContent": "leo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "459d669e-4313-43bf-8221-2acb3904f473",
+          "leftContent": "pergunto diretamente se você escreve mensagens",
+          "rightContent": "escribes",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5becc80c-3bd9-4cb8-b95c-3f41045f0844",
+          "leftContent": "falo de outra pessoa nas redes",
+          "rightContent": "comparte",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "181f9e19-3163-47ca-9915-3b35d5866568",
+      "sequence": 3,
+      "lessonId": "cd5a67e5-f8f1-4c04-96e6-4ef95cc83de0",
+      "title": "Ouça e recupere o comentário",
+      "content": "<p>Agora o apoio é menor: marque só as palavras que pertencem ao comentário sobre escrita online.</p>",
+      "contentPlain": "Agora o apoio é menor: marque só as palavras que pertencem ao comentário sobre escrita online.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9c60b7ff44754c83bd3e60739bbb129c_escribo-un-blog.mp3?Expires=1794099458&Signature=D3WKZ3bkYO-lmpQ2RYSsdhYK7XVp0M~J9Ooy3JZ0KMeZ0YQgfLuGmlqN1mpADJIfi71anUguXwhK1EJ-CEm36tOec5K43-bAtv~y8X3zw7PEmbshXqW6E~0xQHFj3E6AIkBtQ8~RE8Ree1b~z-r2jbgrBupnzSUdhbtngtXxLRncpJZp6GJ9pP67mmZs8v4p6ZNVJJWOO7NGFX7e9WHnxSxIIj2Muf~Xpru31NyJuwGUNaZGrPvPHzMR46aZlp4FctaPRzUSQMPVE7MkKyJrY4CgIQUfH2t20pDvJhyVELQfSFeoD9h7ukI~zJQkmhwFREHMIFv2w-KY6vKUCWY2-w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Outro comentário da aula vai direto ao ponto com escribo un blog.",
+      "feedbackError": "Outro comentário da aula vai direto ao ponto com escribo un blog.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1d108d8d-9ea7-402f-b83c-691b7a68facb",
+          "text": "leo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2c665f94-3df8-4f3e-b1fe-5189e7afc599",
+          "text": "aplicación",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5f2df264-35dc-470d-b5ab-997c3da98073",
+          "text": "escribo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6c7fd598-dea6-45b5-8262-5ff248119a4e",
+          "text": "comentarios",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7052f969-4711-4251-a138-e8e79a580c65",
+          "text": "un",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a3919d75-fe90-4c79-baf1-a79c410817e8",
+          "text": "blog",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "00c56ea1-c9f1-4333-856a-ba7cd98bff24",
+      "sequence": 4,
+      "lessonId": "239ed797-eb9c-47ec-af5c-4950c0553868",
+      "title": "Recupere a palavra do motivo",
+      "content": "<p>Porque veo videos y leo ___________ en Internet.</p><p>Tradução: Porque vejo vídeos e leio comentários na internet.</p>",
+      "contentPlain": "Porque veo videos y leo ___________ en Internet. Tradução: Porque vejo vídeos e leio comentários na internet.",
+      "fileUrl": null,
+      "feedbackSuccess": "A resposta com porque nesta aula combina o motivo com ações digitais conhecidas.",
+      "feedbackError": "A resposta com porque nesta aula combina o motivo com ações digitais conhecidas.",
+      "answerType": "buildWord",
+      "expectedAnswer": "comentarios",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "005ef159-4005-4b3b-a64e-3adb489b4372",
+      "sequence": 5,
+      "lessonId": "759aa99c-8309-4cc8-8d30-aaf53c88f811",
+      "title": "Complete o verbo com tú",
+      "content": "<p>¿Tú ________ mensajes para tu trabajo?</p><p>Tradução: Você escreve mensagens para o seu trabalho?</p>",
+      "contentPlain": "¿Tú ________ mensajes para tu trabajo? Tradução: Você escreve mensagens para o seu trabalho?",
+      "fileUrl": null,
+      "feedbackSuccess": "Com tú, a terminação destacada na aula é -es.",
+      "feedbackError": "Com tú, a terminação destacada na aula é -es.",
+      "answerType": "buildWord",
+      "expectedAnswer": "escribes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "37171b4e-d02c-4387-adac-55e91cef86e4",
+      "sequence": 6,
+      "lessonId": "ba132a75-1317-4734-b1c2-040694d25822",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Agora a gravação traz a ação mais longa da aula. Marque somente as palavras que realmente aparecem.</p>",
+      "contentPlain": "Agora a gravação traz a ação mais longa da aula. Marque somente as palavras que realmente aparecem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3c1a949bd20b40cb915de66ccfe048e7_publicar-en-las-redes-sociales.mp3?Expires=1794099458&Signature=vX9OWcR0MjIdVnjyB-pmQBqtWHOvA9SI5~6M~pR~JBsiuApnJLNX0vsTph6dajwaN6ydWcq1woLAEAc6tlSTb8Q38GZdhLyLJ~At~COACdAvzyFlSzADegv0W2vN2iUofNEFJnU-yj92H35GyceXVvCqBT9XEKDFOcIe4ZUfTh7bcd8EOyFvGwrIxA2rN2abLXftaQDyBuZRku0VWErITBHUcRbGNSph-IGtYD~Qy1R4i2FvZhAC3k0pXMA~8EaB3Qgf4ZZLCB7fdQxfyh05WMG5TPiW~ZQEeUsXG3OyDYBUGldgiIYLfuHGDVy0Rmi19WvDSzjsDE9kCDZfAAmttg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, publicar en las redes sociales nomeia a ação de tornar algo visível no perfil ou feed.",
+      "feedbackError": "Nesta aula, publicar en las redes sociales nomeia a ação de tornar algo visível no perfil ou feed.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4091e099-9eb7-4f7e-921e-e8bc921ef4a7",
+          "text": "en",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "78d9c264-fb1f-4863-989e-ffae5f670da1",
+          "text": "mensajes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8621a271-e098-4e16-ae43-91bb751ac2c2",
+          "text": "compartir",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ae9a9a31-e33c-4467-8718-a5323f97e7ae",
+          "text": "fotos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b17a1cbc-4f5e-4837-90a6-f331c975d9dc",
+          "text": "las",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b8cf9963-42ff-492f-b03a-391a695bc4bc",
+          "text": "sociales",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e3a6e39a-8a09-425c-9a76-87ea7508de65",
+          "text": "publicar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e91ab589-324c-40ca-98fc-cd9848006a31",
+          "text": "redes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "2a638c51-95a5-4bb1-9bd5-aa979dd32a31",
+      "sequence": 7,
+      "lessonId": "11554b07-b3b6-414e-84cf-de722bcd438f",
+      "title": "Reconstrua o percurso pelo áudio",
+      "content": "<p>Os áudios retomam pergunta, resposta curta e frase completa. Associe cada um ao texto correspondente.</p>",
+      "contentPlain": "Os áudios retomam pergunta, resposta curta e frase completa. Associe cada um ao texto correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula retoma pergunta, resposta curta e frase completa com porque.",
+      "feedbackError": "O fechamento da aula retoma pergunta, resposta curta e frase completa com porque.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "332da982-97fb-4218-a53b-fd1b2afa63b7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9ef70be2c9894d928a6c335b235d1785_b01-por-que-publicas-en-las-redes-sociales.mp3?Expires=1794099458&Signature=fIi7fwe4E4g2tN2VNco~N6oBr7GusAwxMUqJymdPmPsBVrb5vDhtcvLw-f2iTooPbQlXScTRuifSyWo4llO7OSC1LNg~sD13T-6gqjh7wXL9aQ5F04zwd70sSgqlEj6rqKjKNCr7QIAzabZtFrucKucGV8d0rBQsVhnzs8TuYRJa64F2EMzYenItW~p86Vx12AeR3MqeH2i697XGbpFj5wIutMJu7WvRDqGFwHZIbwxXC3wrXa5EUttzQA7~XelSdrRzBZ7Y1BIpvho0C0ew1gFNgiKZunk0dAlk0fPKLjiz5UlUbnKRCBNTk9OV~QCL3mv0pntdGKG7bXnqkRvYRg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Por qué publicas en las redes sociales?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "612767b1-bf0e-43c0-8347-4e0ab6f63595",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/23eed9a86f6140fb8d46f933c1b51837_b03-porque-comparto-fotos.mp3?Expires=1794099458&Signature=q1PPp2rmWNfXPz~VUTh-hrr1umj3Dg11CeEQ7p9TiIIfMgpyIlVbEyIzoDrwoQbq9~gC2avLJzbeg5L3Y9rZTsToMbHtVWysMGev3fcbjSZ7VGlaQK73ZgsI0paxkM5JIWH6~h7LVvx-cql44EGO2aF~HqSNoXZxA0~tVeedjiWJR1UBkrvgRLaZnRLMU2DjjX3rQUY8om~Mq8BK6myhXBBc0d0gzsEp-EfcVxjLb3tHJbfuk36YRybxM-RuPtTVUb15FwX1a-hO~VSVo3dx6l5aTWykCVznoiNZz9vb1lTJtZgSVKTyIy03LSGPSukAouOE6bkGJspAcUi8gDXBHA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Porque comparto fotos.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2bc3bc16-6054-4e07-ac56-4f9592ce8762",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1553199f53ea42479a2e918b446478f5_b05-publico-en-las-redes-sociales-porque-comparto-fotos.mp3?Expires=1794099458&Signature=a~WtGVDObhY6AgTzJqHc2g-iLxnUzA2GFZGAhBGWYH6b0M9lPDpJwLTOUt3AHtQPolr4kjDObJd2aoaFC~pcf1oyJGoY8OU4s0k~NwfiYeVDKStRMChfNxtrwbyAj32DUlSn3G1jg86AOqlbjcxT5R8sovoar5L4eHl0w2P0T0MixTdGxXCMLRVWJ9jq-n-axljGBAGXKlJhB04d~-65ccHTburVqY4Qwmm-Y85da4PbiVOZ9IaiPHbp1drFt3BypI38j5Uf3bvN~xwGru38DhvmC23gciDc-wXlIL00bSrBgUO8Lfag-8wF1HAwBbYbng4ju2yE~TJipMTIwpd8jg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Publico en las redes sociales porque comparto fotos.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "4d876186-066b-422c-a624-46ac6adf6321",
+      "sequence": 8,
+      "lessonId": "ba132a75-1317-4734-b1c2-040694d25822",
+      "title": "Ligue sentido e expressão",
+      "content": "<p>Combine cada descrição em português com a expressão em espanhol que melhor resolve a situação.</p>",
+      "contentPlain": "Combine cada descrição em português com a expressão em espanhol que melhor resolve a situação.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, as três expressões se diferenciam pelo tipo de ação feita nas redes sociais.",
+      "feedbackError": "Nesta aula, as três expressões se diferenciam pelo tipo de ação feita nas redes sociais.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "36dcac42-cc9f-40f8-88bf-d59895c4b974",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a822e4eb-1242-49df-8cb6-fa86602df809",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "2cc30fc7-c921-4f45-a40c-5aeac895d11a",
+          "leftContent": "Enviar texto curto para outra pessoa",
+          "rightContent": "mandar mensajes",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b3c43599-ff34-4cb1-b76c-cb16a63db58b",
+          "leftContent": "Mostrar imagens para outras pessoas",
+          "rightContent": "compartir fotos",
+          "sequenceItem": 2
+        },
+        {
+          "id": "34f96537-e478-43da-bb6a-adaaec9c83b6",
+          "leftContent": "Colocar algo visível no perfil ou no feed",
+          "rightContent": "publicar en las redes sociales",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "65d2b32c-6e99-419a-893f-f9de6ffb1067",
+      "sequence": 9,
+      "lessonId": "b83c530f-5d6d-49ff-ae87-6e9788b41b84",
+      "title": "Monte a palavra",
+      "content": "<p>Leo los _______ electrónicos.</p><p>Tradução: Leio os e-mails.</p>",
+      "contentPlain": "Leo los _______ electrónicos. Tradução: Leio os e-mails.",
+      "fileUrl": null,
+      "feedbackSuccess": "Los correos electrónicos nomeia os e-mails dentro da ação digital da aula.",
+      "feedbackError": "Los correos electrónicos nomeia os e-mails dentro da ação digital da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "correos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3d975e7e-90e7-4d7b-b297-e06b3002d5c9",
+      "sequence": 10,
+      "lessonId": "b83c530f-5d6d-49ff-ae87-6e9788b41b84",
+      "title": "Ouça e recupere a frase",
+      "content": "<p>Marque apenas as palavras que fazem parte da frase sobre estudar com tecnologia.</p>",
+      "contentPlain": "Marque apenas as palavras que fazem parte da frase sobre estudar com tecnologia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c80ec6ab30c84e909467e075b704a7c7_aprendo-espanol-con-una-aplicacion.mp3?Expires=1794099458&Signature=RK8U9P6R7LPMs0NicZYo0XMDrrK1FIOh17yhUIn2nr6EjShqdutNXaI3RNgGNe3lrWAFJHefqxd9Xf~e0J8jTNxPLDsNCMSOzWt-Aaf4NTMzrJ3CyZZXqzquXVVAbO-Cvwd9gwT3KjyKqB2ssPI4ilDgxgKZWZVpsWNvBoc2~KAPMi1YRiFeqY~YmTVfpm5w6Azl4Za6KMgby5W~QXEImGAE8VWBZVcXsNAMCSlS-DsD0-yoQizuf3q0wQ7O8k5trRFpV9IZKtdELhMT~-qadYSjnRgBU6bm3LgoKFWiOCmSTav1tz2V1Zi1uSZZLtpVdD2x7EQEPWCcLTFNBkeUJA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A frase longa da aula combina a ação de aprender com o meio usado para estudar.",
+      "feedbackError": "A frase longa da aula combina a ação de aprender com o meio usado para estudar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4de99897-d5e6-4164-9bdd-dd2c3cd0a47b",
+          "text": "aplicación",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6a0315e2-3c43-4a4c-b4df-76a331c2fb1e",
+          "text": "blog",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a2b9c152-b34c-45eb-bd5c-31336b617d0a",
+          "text": "leo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d0994e99-f743-4cc7-8af4-34807afceeef",
+          "text": "una",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e35a99fd-347a-4f59-811a-4b090bf80f50",
+          "text": "vídeos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e835014d-89e1-470c-b022-218bd22d79cc",
+          "text": "correos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ec9be745-1065-4a23-9238-bb411b8e77c1",
+          "text": "con",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fad9b535-8862-47c4-baa7-94b7837c2f8c",
+          "text": "español",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fe7429de-645a-4a5f-afcc-2156bafa5bff",
+          "text": "aprendo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "84966b86-5b5e-4dc5-8f94-d2e9dd98b60a",
+      "sequence": 11,
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "title": "Complete a profissão",
+      "content": "<p>Soy _________.</p><p>Tradução: Sou professora.</p>",
+      "contentPlain": "Soy _________. Tradução: Sou professora.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na resposta curta, a palavra depois de Soy indica a profissão da pessoa.",
+      "feedbackError": "Na resposta curta, a palavra depois de Soy indica a profissão da pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "profesora",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "351d6b56-0271-4b93-98b8-acf29cfc43c9",
+      "sequence": 12,
+      "lessonId": "cd5a67e5-f8f1-4c04-96e6-4ef95cc83de0",
+      "title": "Recupere as palavras do comentário",
+      "content": "<p>Marque só as palavras que fazem parte do comentário sobre aprender com tecnologia.</p>",
+      "contentPlain": "Marque só as palavras que fazem parte do comentário sobre aprender com tecnologia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c80ec6ab30c84e909467e075b704a7c7_aprendo-espanol-con-una-aplicacion.mp3?Expires=1794099458&Signature=RK8U9P6R7LPMs0NicZYo0XMDrrK1FIOh17yhUIn2nr6EjShqdutNXaI3RNgGNe3lrWAFJHefqxd9Xf~e0J8jTNxPLDsNCMSOzWt-Aaf4NTMzrJ3CyZZXqzquXVVAbO-Cvwd9gwT3KjyKqB2ssPI4ilDgxgKZWZVpsWNvBoc2~KAPMi1YRiFeqY~YmTVfpm5w6Azl4Za6KMgby5W~QXEImGAE8VWBZVcXsNAMCSlS-DsD0-yoQizuf3q0wQ7O8k5trRFpV9IZKtdELhMT~-qadYSjnRgBU6bm3LgoKFWiOCmSTav1tz2V1Zi1uSZZLtpVdD2x7EQEPWCcLTFNBkeUJA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Um dos comentários da aula fala de aprender espanhol com tecnologia.",
+      "feedbackError": "Um dos comentários da aula fala de aprender espanhol com tecnologia.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "097254f7-758c-474d-9ccf-76e986d12141",
+          "text": "escribo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "315dd80d-7d05-4d00-bc54-8d88f885a746",
+          "text": "aplicación",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6ff8427a-608e-48ec-b7d8-a29f105d0a70",
+          "text": "aprendo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b9a7ff87-1330-4c77-b43d-3b1627af5bdb",
+          "text": "comentarios",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "dc20a042-0c17-4a8b-aea8-4bbc33064d66",
+          "text": "español",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fb5b96c4-eab3-4d5d-8711-3741025b5b47",
+          "text": "blog",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "ec6fc2a1-d93f-4e39-ac7d-6a1f6c99cab8",
+      "sequence": 13,
+      "lessonId": "ba132a75-1317-4734-b1c2-040694d25822",
+      "title": "Complete com a ação",
+      "content": "<p>______ mensajes</p><p>Tradução: mandar mensagens.</p>",
+      "contentPlain": "______ mensajes Tradução: mandar mensagens.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, mandar mensajes se usa para enviar texto curto em chats e grupos.",
+      "feedbackError": "Nesta aula, mandar mensajes se usa para enviar texto curto em chats e grupos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mandar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a8ef16f0-9429-4213-a6ba-56c6f2c8545e",
+      "sequence": 14,
+      "lessonId": "239ed797-eb9c-47ec-af5c-4950c0553868",
+      "title": "Ouça e recupere a frase",
+      "content": "<p>Agora a escuta traz duas ações na mesma frase. Marque só as palavras que realmente aparecem.</p>",
+      "contentPlain": "Agora a escuta traz duas ações na mesma frase. Marque só as palavras que realmente aparecem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c8d9b40424d14de99633c0b554521ed8_b06-publico-en-las-redes-sociales-y-comparto-fotos.mp3?Expires=1794099458&Signature=u3Rs8~750vtFbM5MYewULZjnfkkuqCYGBfWBGIi21RHqm7AXUmN-0VLZHjOCPxP-wsBKEtGdugRV1lH6Wn9QxRhulBHqUAuM3BuLpsIF7AFzY~5bRoIwuCQRmYejf~0CHbcvEj5phUJ7~uvV-8pZ0K2VIFX7403RFVn-6ZdHL4CrEEYkAtTLOMVJHdwc8nFVLXAFELskygCxFivsO46d~iKVLxn78Q1bzmJECIo7Uaj2MRJGWd3JEMOJKyRqdB9WerqHICnRe1rYnfMnV7aAridSQFY~GcmUyb3XiUlE2soEeSaGeYXGvKjuSZsOc-mlyl4BjC8hJUIaCpknheNq~w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A aula trabalha fluidez ao unir duas ações com y em uma única resposta.",
+      "feedbackError": "A aula trabalha fluidez ao unir duas ações com y em uma única resposta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "16c54969-35c1-4082-a317-0d061d2499d6",
+          "text": "sociales",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2c840325-98b0-4630-9fb8-35d406e7dd75",
+          "text": "publico",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6afe72c5-f3f6-437d-a821-99a609429314",
+          "text": "mensajes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "72a8ff23-2f2f-4899-aa35-5568547b1da2",
+          "text": "videos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7c955378-59ce-43ff-bccd-d38f525f4fe5",
+          "text": "fotos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "81ffeea2-32a8-4c18-bcf9-0c1fea860478",
+          "text": "redes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a286a426-45b6-41a2-9c25-28d640bdabf8",
+          "text": "comparto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b5f9eae0-914d-4e89-936d-5feb3637c015",
+          "text": "correos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ce0c5b24-0c94-4c8a-8aa0-c5097db24baa",
+          "text": "comentarios",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "cb6bf6d6-a74c-4676-bd66-98933d6a5ce0",
+      "sequence": 15,
+      "lessonId": "b4c7608a-b1de-4fc9-8ce8-fd6a2bdbfa43",
+      "title": "Ouça e recupere a resposta",
+      "content": "<p>Agora a escuta traz uma resposta curta. Marque só as palavras que realmente aparecem.</p>",
+      "contentPlain": "Agora a escuta traz uma resposta curta. Marque só as palavras que realmente aparecem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5acca5f45eb54e31924c9c24f6f2f746_soy-camarero.mp3?Expires=1794099458&Signature=AY0XqzUOTk0LUYkaj-8pyKlCtFzREl50mSitkzsAD~QocL9-sA~jfA3LAZbrlaldqaX-mPVAmBubFNjPf0q1nll4WoKyRUt4LvCw4sxRigRURpN7cst~8djvpOsCHgnr2SQNhptWyLy8sqpDiBvH~teQkh~zvDzk2z~p15OnNOsHDN8qxg2Gi7RB5WpG-qdTdhXnoXHWsX4mQD0IxFStOb3mTPPyPJPFPzTqxveVOUYQEGeNOx917M8d3fpGvojguk3s3yp~uAsPbit8obEK8Ose4rdNhapXZV4f-mFSqi6PSiKKsraIupw4re8-N0ijL1vK7UGk4PIezLm7RfT0ag__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na resposta curta da aula, Soy + profissão diz em que a pessoa trabalha.",
+      "feedbackError": "Na resposta curta da aula, Soy + profissão diz em que a pessoa trabalha.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "17885501-50ed-4979-9a7e-85fffe2a8f2b",
+          "text": "camarero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1ed89f60-14ea-49b5-a4aa-3ca8a6439705",
+          "text": "trabajas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "55767a20-ab68-41b5-95b5-0a60030b6f75",
+          "text": "Soy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c1c4b494-3dd7-4ceb-a6de-fd1cab1ebed0",
+          "text": "qué",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c9d9cbf8-44ff-41ee-8482-cd78167c06b6",
+          "text": "profesora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

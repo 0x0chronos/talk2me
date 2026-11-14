@@ -1,0 +1,723 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+    "attemptId": "1caca2ec-0509-4d2d-95bf-1c293a13b05d",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "d180343d-e91e-41be-8a67-a559d04d6b79",
+      "c05e36ed-d615-4cbb-9d11-04773d0e503b",
+      "56f4a8d9-31f6-4eb4-8240-51039d7f693f",
+      "162c63c1-c47d-4dfd-a524-b37a296d0f96",
+      "05dfdcac-9ce4-497d-b3c8-8a8c816597bb"
+    ],
+    "evaluationExerciseIds": [
+      "9b3b2760-13d7-458d-b033-d38b023301fb",
+      "f1d82324-ca4d-4f44-b178-00533f65ab19",
+      "c5fcf74b-cfd1-43a0-8000-114697912910",
+      "e73c5fa2-90bf-4a71-8736-8a0c4986a3b7",
+      "23bd6c08-8094-46a3-be85-271a0805969f"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:52.2536488Z"
+  },
+  "contents": [
+    {
+      "id": "4f912679-f522-4ca5-94da-cce3c143c986",
+      "title": "Chegando ao caixa",
+      "description": "<p>A peça já foi provada e escolhida. Aqui, o foco é ouvir como a decisão aparece e como a compra pode ganhar um pedido prático logo em seguida.</p>",
+      "contentType": 7,
+      "sequenceItem": 1,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Entonces, te lo llevas?</div>\n  <div style=\"opacity: 0.45;\">Então, você vai levar?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4b553211c9eb42e6b84e2642167c9c23_l04b01-linea-01.mp3?Expires=1794099652&Signature=CLt97eWwthcXxpZT6k6tkhhAee6LLDqXxzR7Xi2lerMUgtltAZ29QAvcX9qldItxNJsM3RTdG4D-6NpjO5d4BPkz89uQNo96an-qIT-nVt4rEjg98DC-vxSrzB8eA2sAX1OiTYSrOojakTUgGrEa~8Q572HWAVFWDMfq4Uk1pN5ZHe--ldc5i4TBWgKU1jicW36DA4w~~Qi2mo2oPHk9IS4mUpqPtnX1S-jEfm3WyzWH-opDVHc0ccpmn8ZDBO~-l~a6eGrIxVOlGkKAeMCNj-VgzDZYyEqCJ6jW8eWWtnEoM9g8CAmm3KihBrHUTTDVbjR5aJAiuUmlfIbIeQGEcA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Sí, me lo llevo.</div>\n  <div style=\"opacity: 0.45;\">Sim, vou levar.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fb20613ed72b466f9bc9b4e465d61e85_l04b01-linea-02.mp3?Expires=1794099652&Signature=MkfFzsw9C5-5B~~XZz-BaUND3WLCCin74TIoCBhByVAS3GlXWJ1JAUSJiXwjpxHUx4Swb-gNnK41PMior2zCQZq-l34vvlG-RrGjLKZUSgXC-Zn-O8xkAdlEug~89zMe7O00KHAZ5~dsxO6EH88gPVMmTzJa6R3THANktXLBWIq5VdR39PobV~qvopOs3txGklz5fwf6BYCOfteUIPSewDxhW~EGy5-7DdWNzDXLClzBRDYyaqWntCVa8HVAnAHFXQ6x-9phP2IqFzBdH7QrCgYdqavGNwn~4oqP3wuNtFRNT2rdyUqkx3a-QhYmO0sVJLYORC4gFkKcMq7JNc7RAQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Me lo puede envolver para regalo?</div>\n  <div style=\"opacity: 0.45;\">Pode embrulhar para presente?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a2b7ac607da54a1393a584fc3a0c7218_l04b01-linea-03.mp3?Expires=1794099652&Signature=zf6gyKdbfuUeOjyyv013gJ7FEiDD~hd0q9f7dndF1tjgRzD0fCeDoi9s9aBgokePt7vUOMvYk4pVA5CQJSaJmlGMgmGaQx9GaB9q05V260H0K~nFgwOm3edN0rgWQepi2xmjwoJPSyP2FvngDrW5H3qm0zjnz94PPKBMbkGYAmSWrXBrnLVB0vi~CnMybAEtWueasITiu~dh-NjgmkS6E7tTf3OaetoHtaWBoziYMzIp0kNaanbFJz9sR5LnSNq-XLDi2gOf6~a3EiKv4xdp9DNyVVNsO~tLAba66VmYdrp7gfONWCayztq0JDj8VVglBnSDrQ9xfZEoR-3EX31JIQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "b50c4666-5433-4d77-a18f-7add0e4e3f6f",
+      "title": "Olhe a cena, escute a frase e ligue cada resposta ao momento em que você fecha ou adia a compra.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "520cb432-1269-4a1f-9ea2-43171beacccc",
+          "textContent": "<p>Quando a decisão está tomada, a fala fecha a compra com poucas palavras.</p><p><strong>Me lo llevo.</strong></p><p>Em português: <strong>Vou levar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ab46222d30be43dbbfca6af1c85be5a2_l04b02-me-lo-llevo.png?Expires=1794099652&Signature=Vk~09sPI~tnoH18JZnCJ7~dG5-wl8k1Rtwrob0Oc1DyeKP4u~-2BNKli0s47oSc6g99ofTED2nn53QTK0gvxvHl0FRAGALUD3uKD9Z5oRv~Y3Z3f7lZfnxADEnpRmlSom6VHs2mrtuZ~tXtiXgCoLR1~UwySaiFYODKEURPRtDyTfnakJH6ckF8I73ckv7f9-PoS9c39G0TYH~VKRTYizUp0SKHKmmIYVuFzwUIw2GsZelnJJUE8vuLj3ivCGeyFf7bzFk2kTNoG2B1IURsATSYE7TltJ7v-89XEREC5G~UD50r~8cSocZo2ohz5hBarLSDG5OJP3jZrN9Fpd7lNqg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a580e30463904297966340180e2c7094_l04b02-me-lo-llevo.mp3?Expires=1794099652&Signature=pp2TUB3tmIVSkN1nILERH2XyvdgjodcsSA99id0J8RakOtIxdaOGtclRIvHqJK1JWMbV1XwDwNvlfk5jp2wKC1DxfeZa3D4h~-hbrZ909gVEmqJaQqSB3Gjb5sd9ku7iIYpdTHES2t-APLxZ0rXC7rm77d~W2rs3vez7g41Q5LP2OFgTO~hcu1ukDhmT3CGVIJmTN4m0rKCEK9u8IL~-C1EOS0nm4Az4Ba~J-W1mrWZN35ahRwpo6MMNGMl-Jb-Ja3Ia8xcn6AxqR0pF0Hfta7XcPe738p1ayClROpCEWyafHNB3ZS1xux5cI9ts2~g58C~wq54kuY6ZW2LQwb2dBw__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "f3c0db09-a9d4-4ea6-b8cb-474e77e1d47e",
+          "textContent": "<p>Se você ainda quer tempo, a fala segura a decisao sem parecer brusca.</p><p><strong>Me lo pienso.</strong></p><p>Em portugues: <strong>Ainda vou pensar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/cd05cfbc26dc480dbf1c826955d1984b_l04b02-me-lo-pienso.png?Expires=1794099652&Signature=2PgzoEuD3r2jbGFeAGP1gXvOHyeLiQIFlbplYB5M4UP4MsubLGCCQkF2TJjbS-VlXWoembF9Oqm0iXB~sAW0w2o-9t~HwXmsencwfv2ms-KrS7xvHNRW5gfoS~eUzFcgvJT20D0BKFswUpf8m36QmgNIcJHVkKbNGZah~AgIhdYkhyjjB77-qDgXafTk2hRRPn1TYK8PvSqsJMHKo9nlxXDCY1JZkgWHwMxid9ebPK2UNx0QXT~MSkEoRAu~yTrYb1oq3LDTQCpRF7adqaAV5NVKIw4DFhgUv4jB8KrWzCZI-7w4uiJoGQ~BP3eKbyLzIMDyV4IvchK1OagyIh4NpA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0759509aeff14dae98c38300997d6c3d_l04b02-me-lo-pienso.mp3?Expires=1794099652&Signature=lIv88Ur4ziRr4~0Di8Mo22WtczzkdkfG2teLrQ9LGeEEmhSsDF-VMm04lmh84~ROPCm~DcNxmlqm8Ie6l1x~wtKJ39AMdjb6BOQW0yNFKxmoSruQ4XRdVtNu-cdp9woR6YisaGCzEvzgTuF29O0AQJyEKf9shb01vwlh~VsblIC6~hK3wJhr3~9XEUk5Pv2S6LF8xc6OLmpm~KLKOYY7fwrWMh6Usvp5UyXEPz6ABsMOZd2sLdFJMWynk4-Z2ZeZUlnA8jOasjE77ydPRSymXroLkD7k64qYynKGik9idligFkKlW97Va-LKMrBcpVZu1z34iNyOIWtnNi1gQIO12w__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "c5974d9b-4045-4f55-88bc-6582b3cb6a4f",
+          "textContent": "<p>As duas frases aparecem no mesmo ponto da conversa: depois de ver como a peça ficou.</p><p><strong>Me lo llevo.</strong> fecha a compra agora. <strong>Me lo pienso.</strong> deixa a decisao para depois.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d897f2f5-aa81-4e6b-bfee-201f983d9f7b",
+      "title": "Passe pelos passos e observe como o espanhol muda quando o foco vai para o caixa, para o presente ou para o depois da compra.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "0e51b46f-4e3e-47bd-b29f-c7c11ef79d89",
+          "textContent": "<p>Se a decisão já saiu, o próximo passo costuma ser o caixa.</p><p><strong>Quiero pagar.</strong></p><p>Em português: <strong>Quero pagar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "bed5ae21-65cd-4818-8bd2-751aa6f3fb8b",
+          "textContent": "<p>Se a compra não vai direto para você, entra o pedido de presente.</p><p><strong>¿Me lo puede envolver para regalo?</strong></p><p>Em português: <strong>Pode embrulhar para presente?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "e7de0189-fa50-4fb7-8808-d161cf036c62",
+          "textContent": "<p>Se você pensa no depois da compra, a loja pode falar de <strong>ticket</strong>, <strong>cambio</strong> ou <strong>devolución</strong>.</p><p>A pergunta mais prática aqui é <strong>¿Se puede cambiar?</strong></p><p>Em português: <strong>Dá para trocar?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "917cc1b1-9092-44ff-b907-85dcc6046444",
+      "title": "Fechando a compra e perguntando pelo depois",
+      "description": "<p>Agora as peças aparecem juntas: decisão, pagamento, ticket e pergunta de troca. O foco continua curto para manter a aula leve.</p>",
+      "contentType": 7,
+      "sequenceItem": 4,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Sí, me lo llevo. Quiero pagar con tarjeta.</div>\n  <div style=\"opacity: 0.45;\">Sim, vou levar. Quero pagar com cartão.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/40eeb0e7ada348ba947421c73980f274_l04b04-linea-01.mp3?Expires=1794099652&Signature=o1Oltvs4Ctcx2ZTYlzTB2T-bJkNpaW~wz1EHjzSSqZO6DJYfMA2t2N3Zj0s3bvv7lZiI8kpgccv5n6Fx5fPz1B-~pe1DyvJw-fYe1SnZK2fAom0hQuf94h-UWCwFwdPqo3zcV6NDYY3Ktep95I6ZIVE9cWUf~lXd25fm8Lv5XaYgwjJl75A7BaI7sWysI9yhuMVX9hbtIET6-iHhHlaeOin8pIcbiNOVDQYZe6MT5U5NC-XZGV9kRSwsaTf-NLMibNzGraDnWAY2rcgIAVkxWk2R1ZQt290LVhWM3-nAjblXnWszP-UHQBxY0Atj5VyiPrMUkymWM5AEc8gF3llqEA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Perfecto. Le dejo el ticket dentro.</div>\n  <div style=\"opacity: 0.45;\">Perfeito. Vou deixar o ticket dentro.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4ad0eab8af1d4c0f965e2add8be3505f_l04b04-linea-02.mp3?Expires=1794099652&Signature=HyRjqun5lsaK9G0wrkpFImev4wvZIQtRp-S53Hti0ebrLf0K5cNhPv3Ustrxm0OaYrSs7X6RfeUT~~rzKR~tw91WtTnp4N~E-IhRS3y9AYCs2eRwlHhfEJCC1jT-Rq~5EsnvT7NVe4mKyISCF2BNBC7nsTeAuHSNS7LxqSidR1~ovJ4lrXskIdWy6E1SAbXrRmI9rRjB7QsTh7VoNzETSg7l~Gl6FZpvHTQseaodPLBFh-glB-UCYpA1WKiHOZNu2FUTwpztQoWtbeul9ZLz4R1k25Loxv3BbrLINsvotPKLilpZWhnErnjRXyT6EF2L84lMQ0Cs5BWLTrjouOhtkg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Gracias. ¿Y si no le queda bien, se puede cambiar?</div>\n  <div style=\"opacity: 0.45;\">Obrigada. E se não servir bem, dá para trocar?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5e1110be581a45c486f5d85a7e1d785f_l04b04-linea-03.mp3?Expires=1794099652&Signature=ZNc5UVWHEFD0r3-77LXv~ikr0KD47XC5-qvouas~OMjSseZCLxADLh0LHr9CL1snjoa-FE9CXrcoJEnqHn0~du8JSb7Dbrr8VUuK3cQaMphuH1a9iPXXBjjZiWQp6pL2hWrq81uQHzRXtGeIBk~8BHJvFU0O1Xxv68XQl43AY~TuljToyabYpXXKnBkOReddvUNMTZHGYoW7bbrk6yIdTJ8M2HNJ9KXWdiOxSMEh6ZjYkfnsTo2e-SLRF8fJ5AEuxxVGQ9UjfG79ML0z7IQwmkJP02HNRPXlJihRys7yfR5FexDYjp-z1X9i-2e1HtEqcK~9D3OHCiQuRVuTw0~qDg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Sí, con el ticket y en buen estado.</div>\n  <div style=\"opacity: 0.45;\">Sim, com o ticket e em bom estado.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b8f3d2c8b5844b6c97c2c958ad0434ac_l04b04-linea-04.mp3?Expires=1794099652&Signature=jfYAXYOipBway3AHyVNr4CVEKIV7hTe-r3Epfiaj7mdSOtg2dBtmdyC3n4~GMCRp9NjbElRKDlcINbgm31A2d6XCidbuldcobeRYgt8UijQ9TusYZEZYJl75yaK7oqOHZbVdHFbqgel9FdwWeygfC-iWIDCZg~wnGTwclF-X4ERJUdz5aJVluz5dUNNELiAga8cMXShGv2Flq-wBC3eOzqh7CNiT9gUdMrUleVHk428AJVbjiKoYBPYdWcpij8TTbjGkVXHl6~xG1hcN2WRuytKW9dA1Sucqi~A1rJZOx-TM9dSg9vACbVhJLOT8NiSdVFYltS6hlTUUfj33AiuMvw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "2f2c5322-f0f8-446b-b6ea-d556772f89c2",
+      "title": "Passe pelos audios curtos e note como cada frase resolve um pedaco diferente do momento final na loja.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "e39f4ad5-8d6a-4792-b807-4e783f30b6dc",
+          "textContent": "<p>Decisao agora</p><p><strong>Me lo llevo.</strong></p><p>Em portugues: Vou levar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/14751c5bbdac427ea608767f90bbc0b4_l04b05-01-me-lo-llevo.mp3?Expires=1794099652&Signature=etB8w1bQRbWksCLAIqL8id4XX6VHoDf5egcuz7bOr~XsxzJsgMMrb9Sy81z9Yee3oYWs2PJxv9mpZRIoLu0-~EqmxKGQPbwXcB~dE9Y~mrnyaCTXs4hgHkXsFXtkNgjO7mv3flsCmublCxpao~57UNGmZbvaJjmwj7agyOEwTL4kJbGhJ0HsA1lnW~p63f0ooVt7K0qP9KE9cMcMWOxLQIyViH1C2okWARbpYkynFsVjzD32Z8YD5LaTtRm7hGtpR--GE6vKS2QR7wpEFT179db-KZzmHlc1gs3N1wHDB~0tq2BdIJgA636emC41rYILKaut~CnPNDUK3LjWBeEb1A__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "93ec65b2-acbf-4abe-b4de-8b77bd7bb498",
+          "textContent": "<p>Decisao adiada</p><p><strong>Me lo pienso.</strong></p><p>Em portugues: Ainda vou pensar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c3a54d0bff154cea9ed8ede630af9132_l04b05-02-me-lo-pienso.mp3?Expires=1794099652&Signature=R-mphge0jN1QUY9HyX21SzS~1ErwxQsVt8Z-h-GdAiI5MQsGN60rXnykBpAXFX4nPqC6fQSvmgm7dsQzmCr-le3xX8bsnIlt6Z1jmjfBzH4P2TIJ7It55-P66LdPO1fCPeqazF3YTdIdKERI3l6gybYqTHPGfpjoWiuM51vJauc~27-eh8K0nS5xKnJo0~u0-ANPfbml~Kj1oin~t-X2sVhY1rey~K3g04p-z-idF5U-CoFRiB8OrpNiTo2X7IGEuCRVanEt9j46s2dPRsMlHbtvrLSKYysCQml7d15Rbwb-IHcm1gxm25N79wO9258ReM~eO9xJRfPk7EOxTujQiQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "68d63bb5-52af-4e51-9895-757b809b1ca5",
+          "textContent": "<p>Passo do caixa</p><p><strong>Quiero pagar.</strong></p><p>Em portugues: Quero pagar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d7ce2e7160f244a3be99d5006fbaf51a_l04b05-03-quiero-pagar.mp3?Expires=1794099652&Signature=1grnnbK3a-y8HjIFOdqOTCmpfOrsKXrr6idruRo5k3ryud4HrBmxou~eTR9IuClxVaC7NxHsto7PNiIB0lLAGGCGC7xvtPG1M4x~Z2az2xAXBU0-cJFgisGQDWq9bTmeR9iUsb1aAPCO4JRvtq2JEZqfKpdKd2msyxbBtWeqN4aV13sZesZPdMvIFZ7iAGeWD4hZo6zFFaYvWQgX7NYvBiWhb7c1rXvVt5Dl2SQPKKWoilLQt12OBRSh7lUVsEIPOjO21E0FiLD9GWhW-bO1tkuzvs9VDiO1rsxc3kmO1xY60oYxB456-qQx1yWS4rbxHZwMzH9I84bpMTavQvrfaA__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "f1cc4fda-4c7f-49cb-a3ac-ba1dee7141a1",
+          "textContent": "<p>Pedido de presente</p><p><strong>¿Me lo puede envolver para regalo?</strong></p><p>Em portugues: Pode embrulhar para presente?</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3e9d4e4f5df84947bd36a2803466179d_l04b05-04-envolver-regalo.mp3?Expires=1794099652&Signature=Un6AoYIXpCOAQTyWUTXt9L~Ow~OqJVYMLa9jDx~PcpRvIyXJ~98Q7Sbm6LOdQIzHlhvpo~1YcGyop4S67VQzSh3XVB4t43OmJTUjBkwQWcUOYMaTgzD55rcx7hjD7ykXe~IBM-5yMaO1yUcj2PMzVbPQakgaFsuFtGsVF66lkW3b4yj-FxHd~maKUynzu9MIjNHaTHhXDD6F917xLycqCKUIHmJcy2rFmHgyv80T4-6Radb66tRsvhV55s16pYX9doHBq14853GoBPQn29O~0e8~U9921SilypkDnGKdpfBiNc5HWbFzCDuMG0ARmmJSqP3uOzTwdHoS80-~YfC5yQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "27fea093-a855-49b6-ad94-ee78297f0334",
+          "textContent": "<p>Pergunta sobre o depois</p><p><strong>¿Se puede cambiar?</strong></p><p>Em portugues: Dá para trocar?</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/bd360e9eefaf41a2a68690387beab5d9_l04b05-05-se-puede-cambiar.mp3?Expires=1794099652&Signature=HNQx4OlwO8bby8GlYDJKNenfCSWFAOiEFUxemZPUfd1oWItTHM0dBDU0qMEf8htaj0V76ZlhK1JcYjKatnEJRpoAp5oobDcZP~XyfsBRkPdEQNszy1qPz-hK-mqwHpTr4bDj2uyrF3tDIaA2p8~xRSGDSBGTAyhw0H6UjCHL4rzGtp~HCxVgq97GEQEtkiuA4bLi7KC5eXIO3tLGFa8dFdSi7yT~laLd8q4wZXdGHz0AHHyXcYnq7fFXKuTsRiKcY3XnrK-opEYncj42ZhMvVL33-TyID93m6LqYQlTss3FrpA0pe5AOZNk1ZKh5~HLbYuOZlo-K8VtluC2EXlWW0Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ff5ae7c9-5528-4264-b269-99c71a482bcb",
+      "title": "Leia o fechamento e siga a ordem que uma compra curta costuma ter na vida real.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "ef5bb62f-15dc-4e52-8b46-ec9011c95128",
+          "textContent": "<p>Em uma compra real, o fechamento costuma andar nesta ordem:</p><ol><li><strong>Me lo llevo.</strong> ou <strong>Me lo pienso.</strong></li><li>Se compra agora: <strong>Quiero pagar.</strong></li><li>Se for presente: ¿<strong>Me lo puede envolver para regalo?</strong></li><li>Se você pensa no depois: ¿<strong>Se puede cambiar?</strong></li></ol>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "e31a4d92-50ed-4c0f-a6e1-ddfe286f5536",
+          "textContent": "<p>Esse percurso faz sentido quando você já provou a roupa, chega ao caixa e ainda quer resolver presente ou troca sem alongar a conversa.</p><p>Assim, a compra fecha com naturalidade e você também cuida do que pode acontecer depois.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "d180343d-e91e-41be-8a67-a559d04d6b79",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta o pedido de presente.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta o pedido de presente.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a2b7ac607da54a1393a584fc3a0c7218_l04b01-linea-03.mp3?Expires=1794099652&Signature=zf6gyKdbfuUeOjyyv013gJ7FEiDD~hd0q9f7dndF1tjgRzD0fCeDoi9s9aBgokePt7vUOMvYk4pVA5CQJSaJmlGMgmGaQx9GaB9q05V260H0K~nFgwOm3edN0rgWQepi2xmjwoJPSyP2FvngDrW5H3qm0zjnz94PPKBMbkGYAmSWrXBrnLVB0vi~CnMybAEtWueasITiu~dh-NjgmkS6E7tTf3OaetoHtaWBoziYMzIp0kNaanbFJz9sR5LnSNq-XLDi2gOf6~a3EiKv4xdp9DNyVVNsO~tLAba66VmYdrp7gfONWCayztq0JDj8VVglBnSDrQ9xfZEoR-3EX31JIQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta repetição ativa o pedido curto de presente que costuma vir logo depois da decisão.",
+      "feedbackError": "Esta repetição ativa o pedido curto de presente que costuma vir logo depois da decisão.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "¿Me lo puede envolver para regalo?",
+      "typeSpecificData": "{\"expectedText\":\"\\u00BFMe lo puede envolver para regalo?\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/a2b7ac607da54a1393a584fc3a0c7218_l04b01-linea-03.mp3?Expires=1794099652\\u0026Signature=zf6gyKdbfuUeOjyyv013gJ7FEiDD~hd0q9f7dndF1tjgRzD0fCeDoi9s9aBgokePt7vUOMvYk4pVA5CQJSaJmlGMgmGaQx9GaB9q05V260H0K~nFgwOm3edN0rgWQepi2xmjwoJPSyP2FvngDrW5H3qm0zjnz94PPKBMbkGYAmSWrXBrnLVB0vi~CnMybAEtWueasITiu~dh-NjgmkS6E7tTf3OaetoHtaWBoziYMzIp0kNaanbFJz9sR5LnSNq-XLDi2gOf6~a3EiKv4xdp9DNyVVNsO~tLAba66VmYdrp7gfONWCayztq0JDj8VVglBnSDrQ9xfZEoR-3EX31JIQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c05e36ed-d615-4cbb-9d11-04773d0e503b",
+      "title": "Escute e recupere a frase",
+      "content": "<p>Associe três áudios centrais do fechamento da compra ao texto em espanhol correspondente.</p>",
+      "contentPlain": "Associe três áudios centrais do fechamento da compra ao texto em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esses áudios retomam três saídas centrais do caixa: decidir, pagar e pedir presente.",
+      "feedbackError": "Esses áudios retomam três saídas centrais do caixa: decidir, pagar e pedir presente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "d8bec8ab-2146-4584-962f-222ee7c0de03",
+          "exerciseId": "c05e36ed-d615-4cbb-9d11-04773d0e503b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ddb813c5830a4114b3bd462c05e2954d_l04b05-01-me-lo-llevo.mp3?Expires=1794099652&Signature=kArem8QVlzZLK69QjgNmIKntGyzCrKL-Ej1CQgnnT3pMEQ4rw0ZQkaAOXaidwso3sK8kf~VyCnh5Hq4HOSb2~b2FM-0OdgRB7xhuKLJEPS~IMbCj2MiILDII32suSr-J7XcYX1BqHqvcJlsB-k-NbVjlDt3150AgZHBA69rnhDcgZNdjvs5HxS5KTXQL18G4PpWmzRa2ZJHVQ3hP0D1UuNbL1w4smGjayzDMKwXVmUb-segTxAyCBxKT7OS9y~y~6fD8eSpI4cjcLkIdwHZb32u5x8LDauAwShRzVSpnEcyufRFQv79tN7pDeXxcS4s4IC-1gJ6YBqj591Brq8yYmA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me lo llevo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "087561f7-325d-4d3e-addf-f4b691ac928f",
+          "exerciseId": "c05e36ed-d615-4cbb-9d11-04773d0e503b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2f4d985bed4745499e6d4953c7217997_l04b05-03-quiero-pagar.mp3?Expires=1794099652&Signature=lixR-VSa~xP0ye0mUyjdoaLZMhkiZJlxxx-zWCaID0DQn8ZSX6sk~ifKXjxnKeNzHB-VDvqw2yPfoyQVv9246-sotkdQ0LG-mnWZegfR~lEClhFdlhJVVsoWAEF3yJKysKmoAwI-ERB5ARiNLO4qX-BPMRc1nE8dA~0Uo9SOXrxa6fCz3WnOQtEh9KRv6a77TkPeX0wsvGcfP3CsLdeWlDUvpwLLbTPE4yCHUkUZHq75x0Tvt3gJq4YJtjzNMlpVCWd3SWvClSCdJPSN6hLf6ExWXzFX1KLtUjg3n-Mki872tH7tmRk3mLyeFHT4LDyaV-6m5vTY~1RY1SgwUpjx3Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Quiero pagar.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "90d7ad72-bfbf-4276-bc29-176a9689c725",
+          "exerciseId": "c05e36ed-d615-4cbb-9d11-04773d0e503b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d945368488d34308a585c73b8032ad90_l04b05-04-envolver-regalo.mp3?Expires=1794099652&Signature=OoSFjY9Uu7U0Itgc0oTdYMtZyCuNt7D1ri5wWJIhe3ZLVT8M7g37qb4T2xrq1fQMKqB11vPtSDV0uQ5eLGzcJ-ezs028zZZCGRFqnlQbp4rgX59tKYq42fFPSC7U-w7kpMCejUuhBO53mG9CfnAOVpk8zxngGIuamNFnhJlIvFWW-TF9ZIPXqN59i~tvQiYJ5RWVF6j-XG30JvcHMx9QhbEOPhLHC9c4xTTSz~mNqaOfYiPfu~Nn0z0LIxzc1-MpcmF0Gmtnn83r1iUFKq2gipd6A5xf0dQsJfIC88DW5yY5PnhI~wDQYkOksLLvodGFnwCAXEaapQqP7CTxQZONPA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Me lo puede envolver para regalo?",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "56f4a8d9-31f6-4eb4-8240-51039d7f693f",
+      "title": "Escolha a resposta que adia a compra",
+      "content": "<p>Qual frase em espanhol indica que a pessoa ainda não vai levar a peça agora?</p>",
+      "contentPlain": "Qual frase em espanhol indica que a pessoa ainda não vai levar a peça agora?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, me lo llevo fecha a compra e me lo pienso segura a decisão para depois.",
+      "feedbackError": "Nesta aula, me lo llevo fecha a compra e me lo pienso segura a decisão para depois.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "14e86a82-ca42-492e-9a02-12dbddb833c8",
+          "textContent": "Me lo pienso.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "56f4a8d9-31f6-4eb4-8240-51039d7f693f"
+        },
+        {
+          "id": "19bbc8f6-76b6-48f4-a092-16c195537c65",
+          "textContent": "Quiero pagar.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "56f4a8d9-31f6-4eb4-8240-51039d7f693f"
+        },
+        {
+          "id": "2be06287-f63b-4eb6-baad-9594c5badc08",
+          "textContent": "Le dejo el ticket dentro.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "56f4a8d9-31f6-4eb4-8240-51039d7f693f"
+        },
+        {
+          "id": "a14ccdf1-39f0-418a-9ba6-6630a2138efe",
+          "textContent": "Me lo llevo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "56f4a8d9-31f6-4eb4-8240-51039d7f693f"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "162c63c1-c47d-4dfd-a524-b37a296d0f96",
+      "title": "Ouça e marque as palavras",
+      "content": "<p>Escute a fala da cliente no caixa e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a fala da cliente no caixa e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/40eeb0e7ada348ba947421c73980f274_l04b04-linea-01.mp3?Expires=1794099652&Signature=o1Oltvs4Ctcx2ZTYlzTB2T-bJkNpaW~wz1EHjzSSqZO6DJYfMA2t2N3Zj0s3bvv7lZiI8kpgccv5n6Fx5fPz1B-~pe1DyvJw-fYe1SnZK2fAom0hQuf94h-UWCwFwdPqo3zcV6NDYY3Ktep95I6ZIVE9cWUf~lXd25fm8Lv5XaYgwjJl75A7BaI7sWysI9yhuMVX9hbtIET6-iHhHlaeOin8pIcbiNOVDQYZe6MT5U5NC-XZGV9kRSwsaTf-NLMibNzGraDnWAY2rcgIAVkxWk2R1ZQt290LVhWM3-nAjblXnWszP-UHQBxY0Atj5VyiPrMUkymWM5AEc8gF3llqEA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A fala do caixa junta a decisão e o pagamento em uma formulação curta e reutilizável.",
+      "feedbackError": "A fala do caixa junta a decisão e o pagamento em uma formulação curta e reutilizável.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "219cf6cb-cd2d-4656-bf31-96fb519649a8",
+          "textContent": "pienso",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "162c63c1-c47d-4dfd-a524-b37a296d0f96"
+        },
+        {
+          "id": "2c68455d-f28e-4782-883c-a092aae8fea9",
+          "textContent": "tarjeta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "162c63c1-c47d-4dfd-a524-b37a296d0f96"
+        },
+        {
+          "id": "81ff7bb2-2348-4fb8-985c-a0c716d069ca",
+          "textContent": "Sí",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "162c63c1-c47d-4dfd-a524-b37a296d0f96"
+        },
+        {
+          "id": "ababb505-a995-46bd-805e-d90b232fd072",
+          "textContent": "llevo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "162c63c1-c47d-4dfd-a524-b37a296d0f96"
+        },
+        {
+          "id": "d26d4db5-d953-4a06-9196-17ac62ec9792",
+          "textContent": "pagar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "162c63c1-c47d-4dfd-a524-b37a296d0f96"
+        },
+        {
+          "id": "eeafe0a5-de18-41fd-bb20-ab6b5b814929",
+          "textContent": "Quiero",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "162c63c1-c47d-4dfd-a524-b37a296d0f96"
+        },
+        {
+          "id": "ef4396d7-4852-42f6-8482-238cde286950",
+          "textContent": "ticket",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "162c63c1-c47d-4dfd-a524-b37a296d0f96"
+        },
+        {
+          "id": "f3773d67-fead-4820-b94d-23900801d8cb",
+          "textContent": "regalo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "162c63c1-c47d-4dfd-a524-b37a296d0f96"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "05dfdcac-9ce4-497d-b3c8-8a8c816597bb",
+      "title": "Ligue a frase ao momento da compra",
+      "content": "<p>Recupere o percurso final da aula relacionando cada fala em espanhol ao passo que ela resolve.</p>",
+      "contentPlain": "Recupere o percurso final da aula relacionando cada fala em espanhol ao passo que ela resolve.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final da aula liga decisão, caixa e pós-compra em uma ordem funcional bem curta.",
+      "feedbackError": "O recap final da aula liga decisão, caixa e pós-compra em uma ordem funcional bem curta.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "94c7af89-c749-40df-a0fe-a1bc6bd8bfff",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "05dfdcac-9ce4-497d-b3c8-8a8c816597bb"
+        },
+        {
+          "id": "c6dd8a67-bc7d-4d63-9bf9-3878ce838f11",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "05dfdcac-9ce4-497d-b3c8-8a8c816597bb"
+        }
+      ],
+      "associations": [
+        {
+          "id": "0dcec9b4-4405-4d2f-8e25-508ae4829f88",
+          "exerciseId": "05dfdcac-9ce4-497d-b3c8-8a8c816597bb",
+          "leftContent": "Me lo llevo.",
+          "rightContent": "fechar a compra agora",
+          "sequenceItem": 1
+        },
+        {
+          "id": "04504b7d-70cd-42a5-ac7c-9198850b3ab0",
+          "exerciseId": "05dfdcac-9ce4-497d-b3c8-8a8c816597bb",
+          "leftContent": "Me lo pienso.",
+          "rightContent": "adiar a decisão",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a32a3e81-85a4-434e-8247-0b7f1a1d8f67",
+          "exerciseId": "05dfdcac-9ce4-497d-b3c8-8a8c816597bb",
+          "leftContent": "Quiero pagar.",
+          "rightContent": "ir ao caixa",
+          "sequenceItem": 3
+        },
+        {
+          "id": "f6e0aab3-1361-4ba1-8cfe-d57b8a3653f7",
+          "exerciseId": "05dfdcac-9ce4-497d-b3c8-8a8c816597bb",
+          "leftContent": "¿Se puede cambiar?",
+          "rightContent": "perguntar sobre troca",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "9b3b2760-13d7-458d-b033-d38b023301fb",
+      "title": "Complete a pergunta sobre troca",
+      "content": "<p>Complete em espanhol: ¿Se puede _______?</p><p>Tradução: Dá para trocar?</p>",
+      "contentPlain": "Complete em espanhol: ¿Se puede _______? Tradução: Dá para trocar?",
+      "fileUrl": null,
+      "feedbackSuccess": "¿Se puede cambiar? é a forma curta da aula para pensar no depois da compra.",
+      "feedbackError": "¿Se puede cambiar? é a forma curta da aula para pensar no depois da compra.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambiar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f1d82324-ca4d-4f44-b178-00533f65ab19",
+      "title": "Recupere a pergunta pelo áudio",
+      "content": "<p>Escute a fala da cliente e marque somente as palavras que realmente aparecem quando ela pergunta sobre troca.</p>",
+      "contentPlain": "Escute a fala da cliente e marque somente as palavras que realmente aparecem quando ela pergunta sobre troca.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5e1110be581a45c486f5d85a7e1d785f_l04b04-linea-03.mp3?Expires=1794099652&Signature=ZNc5UVWHEFD0r3-77LXv~ikr0KD47XC5-qvouas~OMjSseZCLxADLh0LHr9CL1snjoa-FE9CXrcoJEnqHn0~du8JSb7Dbrr8VUuK3cQaMphuH1a9iPXXBjjZiWQp6pL2hWrq81uQHzRXtGeIBk~8BHJvFU0O1Xxv68XQl43AY~TuljToyabYpXXKnBkOReddvUNMTZHGYoW7bbrk6yIdTJ8M2HNJ9KXWdiOxSMEh6ZjYkfnsTo2e-SLRF8fJ5AEuxxVGQ9UjfG79ML0z7IQwmkJP02HNRPXlJihRys7yfR5FexDYjp-z1X9i-2e1HtEqcK~9D3OHCiQuRVuTw0~qDg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta sobre troca aparece no fim da compra sem abrir uma conversa longa.",
+      "feedbackError": "A pergunta sobre troca aparece no fim da compra sem abrir uma conversa longa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "17e57eaf-0a5b-483b-91cc-cd2694e63392",
+          "textContent": "Gracias",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        },
+        {
+          "id": "3613c9d7-9402-4286-be27-46678b6750c2",
+          "textContent": "ticket",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        },
+        {
+          "id": "54d0a1f6-6ee4-4575-9ce4-eb2673e8302f",
+          "textContent": "bien",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        },
+        {
+          "id": "5d51a34a-78d7-4198-8448-d1319dc1c780",
+          "textContent": "regalo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        },
+        {
+          "id": "662e16e1-e439-4c05-992a-f934154428e1",
+          "textContent": "puede",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        },
+        {
+          "id": "8b11550a-a81e-468f-a56e-85b002c25850",
+          "textContent": "si",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        },
+        {
+          "id": "9b71d22c-405d-408d-90ad-b6f9928ae439",
+          "textContent": "no",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        },
+        {
+          "id": "bac0daac-f30e-4e40-a398-aad21405837c",
+          "textContent": "queda",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        },
+        {
+          "id": "ff02905b-2526-4627-aff5-22789951e71f",
+          "textContent": "cambiar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        },
+        {
+          "id": "ffed2622-e4f3-4c70-bd11-f0fd6a49ca03",
+          "textContent": "tarjeta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c5fcf74b-cfd1-43a0-8000-114697912910",
+      "title": "Escolha o fechamento mais natural",
+      "content": "<p>Você decidiu levar a peça, quer pagar com cartão e também quer verificar o que acontece se ela não servir. Qual resposta em espanhol resolve tudo isso de forma natural?</p>",
+      "contentPlain": "Você decidiu levar a peça, quer pagar com cartão e também quer verificar o que acontece se ela não servir. Qual resposta em espanhol resolve tudo isso de forma natural?",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento mais completo desta aula junta decisão, caixa e pós-compra na mesma resposta.",
+      "feedbackError": "O fechamento mais completo desta aula junta decisão, caixa e pós-compra na mesma resposta.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "20952031-a0b1-44c6-8deb-92dce240ee31",
+          "textContent": "Me lo pienso. Quiero pagar con tarjeta. ¿Y si no le queda bien, se puede cambiar?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c5fcf74b-cfd1-43a0-8000-114697912910"
+        },
+        {
+          "id": "7ce2c640-56dd-447c-be4c-99d1cde583e3",
+          "textContent": "Si, me lo llevo. Quiero pagar con tarjeta. Y si no le queda bien, se puede cambiar?",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c5fcf74b-cfd1-43a0-8000-114697912910"
+        },
+        {
+          "id": "7d4cec87-dcb3-4563-beee-50ac58d45891",
+          "textContent": "Quiero pagar con tarjeta. Le dejo el ticket dentro. Y si no le queda bien, se puede cambiar?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c5fcf74b-cfd1-43a0-8000-114697912910"
+        },
+        {
+          "id": "d1d5c4eb-bf1a-4e6c-80eb-fa2b353c05ae",
+          "textContent": "Sí, me lo llevo. Me lo puede envolver para regalo? Y si no le queda bien, se puede cambiar?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c5fcf74b-cfd1-43a0-8000-114697912910"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "e73c5fa2-90bf-4a71-8736-8a0c4986a3b7",
+      "title": "Recupere o diálogo do caixa",
+      "content": "<p>Associe quatro áudios do diálogo final ao texto em espanhol correspondente.</p>",
+      "contentPlain": "Associe quatro áudios do diálogo final ao texto em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final recompõe decisão, pagamento, ticket e troca no mesmo fechamento.",
+      "feedbackError": "O diálogo final recompõe decisão, pagamento, ticket e troca no mesmo fechamento.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "4fb1b50d-4bf1-446e-aa77-5a8b1b5e8e93",
+          "exerciseId": "e73c5fa2-90bf-4a71-8736-8a0c4986a3b7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/40eeb0e7ada348ba947421c73980f274_l04b04-linea-01.mp3?Expires=1794099652&Signature=o1Oltvs4Ctcx2ZTYlzTB2T-bJkNpaW~wz1EHjzSSqZO6DJYfMA2t2N3Zj0s3bvv7lZiI8kpgccv5n6Fx5fPz1B-~pe1DyvJw-fYe1SnZK2fAom0hQuf94h-UWCwFwdPqo3zcV6NDYY3Ktep95I6ZIVE9cWUf~lXd25fm8Lv5XaYgwjJl75A7BaI7sWysI9yhuMVX9hbtIET6-iHhHlaeOin8pIcbiNOVDQYZe6MT5U5NC-XZGV9kRSwsaTf-NLMibNzGraDnWAY2rcgIAVkxWk2R1ZQt290LVhWM3-nAjblXnWszP-UHQBxY0Atj5VyiPrMUkymWM5AEc8gF3llqEA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, me lo llevo. Quiero pagar con tarjeta.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "702250be-dbf1-4845-b95f-e2b87406ff12",
+          "exerciseId": "e73c5fa2-90bf-4a71-8736-8a0c4986a3b7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4ad0eab8af1d4c0f965e2add8be3505f_l04b04-linea-02.mp3?Expires=1794099652&Signature=HyRjqun5lsaK9G0wrkpFImev4wvZIQtRp-S53Hti0ebrLf0K5cNhPv3Ustrxm0OaYrSs7X6RfeUT~~rzKR~tw91WtTnp4N~E-IhRS3y9AYCs2eRwlHhfEJCC1jT-Rq~5EsnvT7NVe4mKyISCF2BNBC7nsTeAuHSNS7LxqSidR1~ovJ4lrXskIdWy6E1SAbXrRmI9rRjB7QsTh7VoNzETSg7l~Gl6FZpvHTQseaodPLBFh-glB-UCYpA1WKiHOZNu2FUTwpztQoWtbeul9ZLz4R1k25Loxv3BbrLINsvotPKLilpZWhnErnjRXyT6EF2L84lMQ0Cs5BWLTrjouOhtkg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Perfecto. Le dejo el ticket dentro.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c13eb1eb-e054-47ec-b1a0-8bf2eaccc07b",
+          "exerciseId": "e73c5fa2-90bf-4a71-8736-8a0c4986a3b7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5e1110be581a45c486f5d85a7e1d785f_l04b04-linea-03.mp3?Expires=1794099652&Signature=ZNc5UVWHEFD0r3-77LXv~ikr0KD47XC5-qvouas~OMjSseZCLxADLh0LHr9CL1snjoa-FE9CXrcoJEnqHn0~du8JSb7Dbrr8VUuK3cQaMphuH1a9iPXXBjjZiWQp6pL2hWrq81uQHzRXtGeIBk~8BHJvFU0O1Xxv68XQl43AY~TuljToyabYpXXKnBkOReddvUNMTZHGYoW7bbrk6yIdTJ8M2HNJ9KXWdiOxSMEh6ZjYkfnsTo2e-SLRF8fJ5AEuxxVGQ9UjfG79ML0z7IQwmkJP02HNRPXlJihRys7yfR5FexDYjp-z1X9i-2e1HtEqcK~9D3OHCiQuRVuTw0~qDg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Gracias. ¿Y si no le queda bien, se puede cambiar?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "b8131dde-a0d7-41f6-970f-7fd3b30fd6a7",
+          "exerciseId": "e73c5fa2-90bf-4a71-8736-8a0c4986a3b7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b8f3d2c8b5844b6c97c2c958ad0434ac_l04b04-linea-04.mp3?Expires=1794099652&Signature=jfYAXYOipBway3AHyVNr4CVEKIV7hTe-r3Epfiaj7mdSOtg2dBtmdyC3n4~GMCRp9NjbElRKDlcINbgm31A2d6XCidbuldcobeRYgt8UijQ9TusYZEZYJl75yaK7oqOHZbVdHFbqgel9FdwWeygfC-iWIDCZg~wnGTwclF-X4ERJUdz5aJVluz5dUNNELiAga8cMXShGv2Flq-wBC3eOzqh7CNiT9gUdMrUleVHk428AJVbjiKoYBPYdWcpij8TTbjGkVXHl6~xG1hcN2WRuytKW9dA1Sucqi~A1rJZOx-TM9dSg9vACbVhJLOT8NiSdVFYltS6hlTUUfj33AiuMvw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, con el ticket y en buen estado.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "23bd6c08-8094-46a3-be85-271a0805969f",
+      "title": "Complete a resposta de adiamento",
+      "content": "<p>Complete em espanhol: Me lo ______.</p><p>Tradução: Ainda vou pensar.</p>",
+      "contentPlain": "Complete em espanhol: Me lo ______. Tradução: Ainda vou pensar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você recupera a resposta curta que segura a decisão sem cortar a conversa.",
+      "feedbackError": "Aqui você recupera a resposta curta que segura a decisão sem cortar a conversa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pienso",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Fechar a compra e resolver o depois"
+}

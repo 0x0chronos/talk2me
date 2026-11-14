@@ -1,0 +1,547 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+    "attemptId": "2497d713-c978-4f33-92f3-b63fc5595d2f",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "60c0266a-93d6-424f-9d5a-126997122056",
+      "c8027562-e998-4689-a040-4f857726a60c",
+      "0b1156fb-ea05-41de-826a-b7d66fc80c04",
+      "30312819-be1a-42e6-addf-8609f3edb2a8",
+      "1091e662-e2f4-4643-9bc2-14841bc4e987"
+    ],
+    "evaluationExerciseIds": [
+      "d00f9c9a-8c61-4211-9ec5-b85bb2442d20",
+      "659d9f2e-2a9d-4481-9cef-f3eeb6c5899d",
+      "1b7e97d9-65d4-42d3-9f15-76fe74d5d272",
+      "9e6f4ecc-78f7-42ce-88d1-861c20b24486",
+      "a94b59a0-281e-45b3-8edc-bbb8c7c32dcc"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:47.5549367Z"
+  },
+  "contents": [
+    {
+      "id": "11971e46-d92b-4aeb-827e-2da5f8bf952d",
+      "title": "Leia o pedido de ajuda e observe por que a decisão ainda não está clara.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "f37c3e80-ddf5-44e0-ba19-577ed6abda56",
+          "textContent": "<p>Camila recebeu uma proposta para mudar de área no trabalho, mas ainda não sabe se deve aceitar.</p><p><strong>Estoy agotada y no sé si aceptar el cambio ahora.</strong></p><p>Nesta aula, o foco é responder a esse pedido com conselho curto, justificativa e o tom certo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fac77fcf-f674-46f8-87ee-3f1c3b53b42a",
+      "title": "Leia a frase em espanhol e note como o conselho começa sem soar como ordem.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "4f544504-802f-45e1-9e58-0bbcf0cb09fc",
+          "textContent": "<p><strong>Yo, en tu lugar, lo pensaría bien.</strong></p><p>Em português: Eu, no seu lugar, pensaria bem nisso.</p><p>Essa abertura mostra apoio e deixa espaço para a outra pessoa decidir.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a276e0c9-b837-4815-80d9-1ca349cc9807",
+      "title": "Leia as duas frases e observe como a segunda explica por que o conselho faz sentido.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "c27aeff9-6793-45cc-a36c-70ebe45aa7e9",
+          "textContent": "<p><strong>Te recomendaría hablar con tu jefa antes de aceptar.</strong></p><p><strong>Así podrías aclarar los horarios.</strong></p><p>Em português: Eu recomendaria conversar com sua chefe antes de aceitar. Assim, você poderia esclarecer os horários.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "24e4e62f-e9e0-4dc5-aabd-b02e8cec73ae",
+      "title": "Compare as duas opções e observe qual delas combina melhor com alguém que ainda está pensando.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "8b08a351-8ac2-457b-a264-f5eb64f21fe4",
+          "textContent": "<p>Quando a pessoa ainda está indecisa, a forma do conselho muda o efeito da resposta.</p><ul><li><strong>Mais direto:</strong> <strong>Acepta el cambio.</strong></li><li><strong>Mais cuidadoso:</strong> <strong>Yo, en tu lugar, lo pensaría bien.</strong></li></ul><p>A segunda opção soa mais apoiadora porque orienta sem empurrar a decisão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "824a4393-32d7-46c9-9772-ef6249f7a485",
+      "title": "Leia o modelo e acompanhe como a resposta falada avança em frases curtas.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "2ade700c-f718-45c9-b3c4-c52259e06d7c",
+          "textContent": "<p><strong>Yo, en tu lugar, lo pensaría bien.</strong></p><p><strong>Te recomendaría hablar con tu jefa primero.</strong></p><p><strong>Así podrías decidir con más calma.</strong></p><p>Na fala breve, cada frase cumpre uma função: apoiar, sugerir e fechar com uma razão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8e5df37f-04ad-4fdd-afe4-5d19ba08a127",
+      "title": "Leia a mensagem e observe como a escrita permite ligar melhor conselho e justificativa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "d605c894-8ce1-49de-a1dd-9b0af1681edf",
+          "textContent": "<p><strong>Hola, Camila. Yo, en tu lugar, lo pensaría bien.</strong></p><p><strong>Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios.</strong></p><p><strong>Así podrías decidir con más seguridad.</strong></p><p>Na escrita, a resposta continua curta, mas fica um pouco mais encadeada.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "430e0627-f9c2-471f-ba63-51b29524d6ce",
+      "title": "Leia o resumo final e relacione cada peça do conselho a situações do dia a dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "9e8830bd-7963-4d41-ac39-719889b07cb3",
+          "textContent": "<p>Para apoiar uma decisão concreta, estas peças já funcionam juntas:</p><ul><li><strong>Yo, en tu lugar...</strong> abre o conselho com cuidado</li><li><strong>Te recomendaría...</strong> apresenta a sugestão</li><li><strong>Así podrías...</strong> mostra a utilidade do próximo passo</li></ul><p>Isso serve em situações reais como aceitar uma mudança de área, conversar sobre horários ou pensar melhor antes de responder.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "60c0266a-93d6-424f-9d5a-126997122056",
+      "title": "Ligue o trecho ao papel dele",
+      "content": "<p>Recupere como a mensagem curta da aula se organiza do começo ao fechamento.</p>",
+      "contentPlain": "Recupere como a mensagem curta da aula se organiza do começo ao fechamento.",
+      "fileUrl": null,
+      "feedbackSuccess": "A mensagem curta desta aula abre o contato, aconselha com cuidado e fecha com um benefício claro.",
+      "feedbackError": "A mensagem curta desta aula abre o contato, aconselha com cuidado e fecha com um benefício claro.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "47b36a79-52da-469e-89cd-34708d13d29c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "60c0266a-93d6-424f-9d5a-126997122056"
+        },
+        {
+          "id": "f7932a63-214d-4369-bbd9-3f3a77c5ab40",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "60c0266a-93d6-424f-9d5a-126997122056"
+        }
+      ],
+      "associations": [
+        {
+          "id": "d53e0725-7844-4866-baa7-e2e674644b36",
+          "exerciseId": "60c0266a-93d6-424f-9d5a-126997122056",
+          "leftContent": "Hola, Camila.",
+          "rightContent": "iniciar a mensagem",
+          "sequenceItem": 1
+        },
+        {
+          "id": "abd1f425-1664-4a10-9e94-4a32009ca4ce",
+          "exerciseId": "60c0266a-93d6-424f-9d5a-126997122056",
+          "leftContent": "Yo, en tu lugar, lo pensaría bien.",
+          "rightContent": "abrir o conselho com cuidado",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b362c40f-4472-4dee-8441-d4f240d6e9a5",
+          "exerciseId": "60c0266a-93d6-424f-9d5a-126997122056",
+          "leftContent": "Así podrías decidir con más seguridad.",
+          "rightContent": "fechar mostrando o benefício",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "c8027562-e998-4689-a040-4f857726a60c",
+      "title": "Recupere o próximo passo",
+      "content": "<p>Qual frase da aula orienta a falar com a chefe antes de aceitar a mudança?</p>",
+      "contentPlain": "Qual frase da aula orienta a falar com a chefe antes de aceitar a mudança?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, te recomendaría introduz o passo prático antes da decisão.",
+      "feedbackError": "Na aula, te recomendaría introduz o passo prático antes da decisão.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "60855a3d-eec9-45cc-b34a-8eedfcdfea02",
+          "textContent": "Te recomendaría hablar con tu jefa antes de aceptar.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c8027562-e998-4689-a040-4f857726a60c"
+        },
+        {
+          "id": "824ecce0-25ad-41d5-8f0e-c4ff25140880",
+          "textContent": "Yo, en tu lugar, lo pensaría bien.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c8027562-e998-4689-a040-4f857726a60c"
+        },
+        {
+          "id": "93031668-c0bf-421b-b03b-8f055802fbea",
+          "textContent": "Así podrías aclarar los horarios.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c8027562-e998-4689-a040-4f857726a60c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "0b1156fb-ea05-41de-826a-b7d66fc80c04",
+      "title": "Escolha o tom mais cuidadoso",
+      "content": "<p>Qual opção retoma a resposta que orienta sem empurrar a decisão?</p>",
+      "contentPlain": "Qual opção retoma a resposta que orienta sem empurrar a decisão?",
+      "fileUrl": null,
+      "feedbackSuccess": "O bloco de contraste opõe uma ordem direta a Yo, en tu lugar... para mostrar um conselho mais apoiador.",
+      "feedbackError": "O bloco de contraste opõe uma ordem direta a Yo, en tu lugar... para mostrar um conselho mais apoiador.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "73b05d8c-d369-4c12-bf91-f202c29c14f7",
+          "textContent": "Yo, en tu lugar, lo pensaría bien.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0b1156fb-ea05-41de-826a-b7d66fc80c04"
+        },
+        {
+          "id": "769543c0-880a-48d2-8610-30bec5b9edc7",
+          "textContent": "Acepta el cambio.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0b1156fb-ea05-41de-826a-b7d66fc80c04"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "30312819-be1a-42e6-addf-8609f3edb2a8",
+      "title": "Relacione moldura e função",
+      "content": "<p>Ligue as três molduras centrais da aula ao efeito que elas criam quando você apoia alguém.</p>",
+      "contentPlain": "Ligue as três molduras centrais da aula ao efeito que elas criam quando você apoia alguém.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final organiza o apoio em três partes: abrir com cuidado, sugerir e mostrar a utilidade.",
+      "feedbackError": "O recap final organiza o apoio em três partes: abrir com cuidado, sugerir e mostrar a utilidade.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "304190a5-25a3-44cd-af13-3405694dc20e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "30312819-be1a-42e6-addf-8609f3edb2a8"
+        },
+        {
+          "id": "cd4f7f89-bd75-4513-bec4-1275d98b1072",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "30312819-be1a-42e6-addf-8609f3edb2a8"
+        }
+      ],
+      "associations": [
+        {
+          "id": "b4a3b401-102c-4923-baca-ee4d15cdb530",
+          "exerciseId": "30312819-be1a-42e6-addf-8609f3edb2a8",
+          "leftContent": "Yo, en tu lugar...",
+          "rightContent": "abrir o conselho com cuidado",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ec408ea0-6037-49b4-8945-9edca00a4f1d",
+          "exerciseId": "30312819-be1a-42e6-addf-8609f3edb2a8",
+          "leftContent": "Te recomendaría...",
+          "rightContent": "apresentar a sugestão",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5d198b77-bd13-401e-b539-00131fc93de2",
+          "exerciseId": "30312819-be1a-42e6-addf-8609f3edb2a8",
+          "leftContent": "Así podrías...",
+          "rightContent": "mostrar a utilidade do próximo passo",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "1091e662-e2f4-4643-9bc2-14841bc4e987",
+      "title": "Complete o conselho prático",
+      "content": "<p>Complete em espanhol: Te recomendaría hablar con tu ____ antes de aceptar.</p><p>Tradução: Eu recomendaria conversar com a sua chefe antes de aceitar.</p>",
+      "contentPlain": "Complete em espanhol: Te recomendaría hablar con tu ____ antes de aceptar. Tradução: Eu recomendaria conversar com a sua chefe antes de aceitar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, hablar con tu jefa aparece como o passo concreto antes de decidir.",
+      "feedbackError": "Na aula, hablar con tu jefa aparece como o passo concreto antes de decidir.",
+      "answerType": "buildWord",
+      "expectedAnswer": "jefa",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "d00f9c9a-8c61-4211-9ec5-b85bb2442d20",
+      "title": "Escolha a mensagem completa",
+      "content": "<p>Qual opção recompõe melhor a resposta curta ao caso de Camila?</p>",
+      "contentPlain": "Qual opção recompõe melhor a resposta curta ao caso de Camila?",
+      "fileUrl": null,
+      "feedbackSuccess": "O modelo escrito da aula junta saudação, conselho, próximo passo e benefício na mesma ordem curta.",
+      "feedbackError": "O modelo escrito da aula junta saudação, conselho, próximo passo e benefício na mesma ordem curta.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0985451e-502e-41ad-b3dc-cf9fc44307fd",
+          "textContent": "Hola, Camila. Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios. Yo, en tu lugar, lo pensaría bien. Así podrías decidir con más seguridad.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d00f9c9a-8c61-4211-9ec5-b85bb2442d20"
+        },
+        {
+          "id": "3f4721f3-9e34-4d7a-8e28-7d0e26d4164c",
+          "textContent": "Yo, en tu lugar, lo pensaría bien. Hola, Camila. Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios. Así podrías decidir con más seguridad.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d00f9c9a-8c61-4211-9ec5-b85bb2442d20"
+        },
+        {
+          "id": "7263a55a-ec49-42a3-9d65-e1415ed1f3ad",
+          "textContent": "Hola, Camila. Así podrías decidir con más seguridad. Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios. Yo, en tu lugar, lo pensaría bien.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d00f9c9a-8c61-4211-9ec5-b85bb2442d20"
+        },
+        {
+          "id": "8da142be-4dc2-4549-86bd-9463f700a062",
+          "textContent": "Hola, Camila. Yo, en tu lugar, lo pensaría bien. Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios. Así podrías decidir con más seguridad.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d00f9c9a-8c61-4211-9ec5-b85bb2442d20"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "659d9f2e-2a9d-4481-9cef-f3eeb6c5899d",
+      "title": "Complete a justificativa prática",
+      "content": "<p>Complete em espanhol: Te recomendaría hablar con tu jefa antes de aceptar para ________ los horarios.</p><p>Tradução: Eu recomendaria conversar com a sua chefe antes de aceitar para esclarecer os horários.</p>",
+      "contentPlain": "Complete em espanhol: Te recomendaría hablar con tu jefa antes de aceptar para ________ los horarios. Tradução: Eu recomendaria conversar com a sua chefe antes de aceitar para esclarecer os horários.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na mensagem da aula, aclarar los horarios é a justificativa prática para conversar com a chefe antes de aceitar.",
+      "feedbackError": "Na mensagem da aula, aclarar los horarios é a justificativa prática para conversar com a chefe antes de aceitar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "aclarar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1b7e97d9-65d4-42d3-9f15-76fe74d5d272",
+      "title": "Ligue necessidade e resposta",
+      "content": "<p>Relacione cada necessidade do caso de Camila à linha da mensagem que resolve esse ponto.</p>",
+      "contentPlain": "Relacione cada necessidade do caso de Camila à linha da mensagem que resolve esse ponto.",
+      "fileUrl": null,
+      "feedbackSuccess": "No modelo escrito, cada linha resolve uma necessidade do caso antes da decisão.",
+      "feedbackError": "No modelo escrito, cada linha resolve uma necessidade do caso antes da decisão.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "a9e2a828-8267-4d39-93a3-69fb743e08c4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1b7e97d9-65d4-42d3-9f15-76fe74d5d272"
+        },
+        {
+          "id": "c8e7083c-92da-4e50-92f8-0ba83ecb59c6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1b7e97d9-65d4-42d3-9f15-76fe74d5d272"
+        }
+      ],
+      "associations": [
+        {
+          "id": "5a9d81a2-436e-414b-b885-173a99a3c8b4",
+          "exerciseId": "1b7e97d9-65d4-42d3-9f15-76fe74d5d272",
+          "leftContent": "A pessoa ainda precisa pensar antes de decidir.",
+          "rightContent": "Yo, en tu lugar, lo pensaría bien.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "441d4399-3f91-4e52-ab0c-be2fa08cc102",
+          "exerciseId": "1b7e97d9-65d4-42d3-9f15-76fe74d5d272",
+          "leftContent": "Convém conversar antes de aceitar.",
+          "rightContent": "Te recomendaría hablar con tu jefa antes de aceptar para aclarar los horarios.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f717083b-c55f-4c4a-90a9-bab45243c912",
+          "exerciseId": "1b7e97d9-65d4-42d3-9f15-76fe74d5d272",
+          "leftContent": "É preciso mostrar o ganho desse passo.",
+          "rightContent": "Así podrías decidir con más seguridad.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "9e6f4ecc-78f7-42ce-88d1-861c20b24486",
+      "title": "Complete o próximo passo",
+      "content": "<p>Complete em espanhol: Te recomendaría ______ con tu jefa primero.</p><p>Tradução: Eu recomendaria conversar primeiro com a sua chefe.</p>",
+      "contentPlain": "Complete em espanhol: Te recomendaría ______ con tu jefa primero. Tradução: Eu recomendaria conversar primeiro com a sua chefe.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na fala breve, hablar con tu jefa primero organiza o passo prático antes da decisão.",
+      "feedbackError": "Na fala breve, hablar con tu jefa primero organiza o passo prático antes da decisão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hablar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "a94b59a0-281e-45b3-8edc-bbb8c7c32dcc",
+      "title": "Complete a justificativa prática",
+      "content": "<p>Complete em espanhol: Así podrías aclarar los ________.</p><p>Tradução: Assim, você poderia esclarecer os horários.</p>",
+      "contentPlain": "Complete em espanhol: Así podrías aclarar los ________. Tradução: Assim, você poderia esclarecer os horários.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, a justificativa prática mostra para que serve a conversa antes de aceitar.",
+      "feedbackError": "Na aula, a justificativa prática mostra para que serve a conversa antes de aceitar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "horarios",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Apoiar uma decisao em acao"
+}

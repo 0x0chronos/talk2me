@@ -1,0 +1,499 @@
+{
+  "attemptId": "284b0ad2-4dcd-4000-a34e-af679e5df651",
+  "exercises": [
+    {
+      "exerciseId": "e366cff6-2825-4589-975f-51c04d7a9197",
+      "sequence": 1,
+      "lessonId": "4c4591eb-8d1f-4a80-bd9d-b04a1133f6b3",
+      "title": "Recupere a função anunciada",
+      "content": "<p>Complete em espanhol: Puesto: agente de _______.</p><p>Tradução: Cargo: agente de suporte.</p>",
+      "contentPlain": "Complete em espanhol: Puesto: agente de _______. Tradução: Cargo: agente de suporte.",
+      "fileUrl": null,
+      "feedbackSuccess": "No anúncio da aula, puesto nomeia a função específica oferecida pela empresa.",
+      "feedbackError": "No anúncio da aula, puesto nomeia a função específica oferecida pela empresa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "soporte",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "467d4e58-3f7f-41ee-b2fe-c4d0caf4892d",
+      "sequence": 2,
+      "lessonId": "3a7873bc-197c-47c2-8ba5-638578bbc2ca",
+      "title": "Monte a forma que continua a busca",
+      "content": "<p>Complete em espanhol: <strong>Conviene que _____ buscando opciones.</strong></p><p>Tradução: Convém que você continue buscando opções.</p>",
+      "contentPlain": "Complete em espanhol: Conviene que _____ buscando opciones. Tradução: Convém que você continue buscando opções.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com conviene que, a aula usa sigas para marcar continuidade com mudança interna.",
+      "feedbackError": "Com conviene que, a aula usa sigas para marcar continuidade com mudança interna.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sigas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "55d97f87-27b7-4078-8d02-d39386ae72c1",
+      "sequence": 3,
+      "lessonId": "c60bc8cf-e736-44be-8490-9f1ef87431cc",
+      "title": "Ligue sentido e frase exata",
+      "content": "<p>Parta do sentido em português e recupere a formulação completa em espanhol para cada momento do plano.</p>",
+      "contentPlain": "Parta do sentido em português e recupere a formulação completa em espanhol para cada momento do plano.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final junta quatro formas de ordenar planos curtos em espanhol.",
+      "feedbackError": "O recap final junta quatro formas de ordenar planos curtos em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "19c4972b-5b60-4f32-bae0-49a7ae4861c1",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "353accec-03c1-49f5-8130-1877204e8369",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "4aafb719-e70d-43a3-93f6-3881e45e9cf0",
+          "leftContent": "revisar os dados antes do envio do CV",
+          "rightContent": "Antes de que mandes el CV, revisa los datos otra vez.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8f032b1d-9ea2-48b0-8df3-9dba73ea8d7d",
+          "leftContent": "preparar tudo assim que confirmarem o horário",
+          "rightContent": "En cuanto te confirmen la hora, prepara todo para la entrevista.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "21cae477-67bf-4226-81f5-ef828926a0d6",
+          "leftContent": "avisar por mensagem quando a resposta chegar",
+          "rightContent": "Cuando recibas la respuesta, avísame por mensaje.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "58591f86-7e20-4435-9477-191830218607",
+          "leftContent": "continuar procurando até aparecer uma vaga adequada",
+          "rightContent": "Sigue buscando hasta que encuentres una vacante que encaje.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "e03690b5-fb9f-4909-8217-c2802e500c3c",
+      "sequence": 4,
+      "lessonId": "636f323a-599e-4224-8440-371f21c3a787",
+      "title": "Complete a avaliação de adequação",
+      "content": "<p>Por tu perfil, _______ bien en este puesto.</p><p>Tradução: Pelo seu perfil, você combina bem com esta vaga.</p>",
+      "contentPlain": "Por tu perfil, _______ bien en este puesto. Tradução: Pelo seu perfil, você combina bem com esta vaga.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, encajas bien explica por que o perfil faz sentido para o posto.",
+      "feedbackError": "Nesta aula, encajas bien explica por que o perfil faz sentido para o posto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "encajas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "13968089-de84-414e-a885-f39d362efe09",
+      "sequence": 5,
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "title": "Associe cada áudio ao verbo-chave",
+      "content": "<p>Relacione cada gravação principal da aula ao verbo no subjuntivo que ela traz.</p>",
+      "contentPlain": "Relacione cada gravação principal da aula ao verbo no subjuntivo que ela traz.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula contrasta convenga, puedas e encaje para marcar três graus de reserva ao comparar opções.",
+      "feedbackError": "A aula contrasta convenga, puedas e encaje para marcar três graus de reserva ao comparar opções.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "84a17ed0-23e7-4cfc-b524-4cb94a2383c3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/76e82a0b1d8142ba8e74ec468c18e9b1_b02-no-creo-que-te-convenga-aceptar-la-vacante-nocturna.mp3?Expires=1794099648&Signature=vkcEkKQ5DCLsppvMPg2IMvEE4clYi-bmDXGEPqiLBz8QLIQ6ejBJ~2YJ68gU-yMNDaRnb~U9JnMQlSFlhukNSyiVmjcfKAyVHiat8lKDlGdyacMtELOfek7P71Qs5vaz55xn6-Ibnjpkd1LRxDrg~unInrfR2VocrnTgKJFg3goDHDVl0VXO0YBhsmmtuVbZKOvrJ9EUvmdS20SduIVir7ZyZpsym2OtOa5ZnvyIbjD3Ln9sAZYY54P5juttSW7BCqFagtzuSKfrHUNbpupE~JhxrYVleAE17YDBJGv2TuEcTVUndBIihPjaYNHQKSP7R3thSPFbnx2-EmaxzLbqmA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "convenga",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8919aec9-2c26-46b2-ae71-125003ce6529",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f4f42a9350a7428696e151fbe587cf7a_b04-dudo-que-puedas-aprender-mucho-en-ese-puesto.mp3?Expires=1794099648&Signature=JzZ27OcSlSd-u36v0DnTjKomUiFh8svyjBYJ6VVxC2HYF1DKTYxRXH1YZNe7nyxrqK9NVw5gOd8W9Hzz3wVMC8DCROK6N~wgCABoBt9MJ6OIgSgbQLubwyvRXFVOVA7q-vra3xoOb-6qDXlv5n5Ezw294gyXTlWt6s-mOx8KMwhi3NG9d21CBi6n3vzNSOoC5osPFfv9zJN2JaUKc14HPFDsCTS5IawqGEqZwdpHJz6WwlFe6rTmWs0ec2Il7Mt1UHFgYzagHBqUOuOPuN11s4FkELQfFKvuOx9Gu4JuNkxDnQs8ndnS3RnJyhbYfHtdGcJ5OmrKZZDlRCMjsGOSvg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "puedas",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6b4a4d66-8fc7-4186-b54f-cbf593a5e97c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e445a9eaf6d24d02856fd8806539c5e6_b06-puede-que-la-opcion-hibrida-encaje-mejor-con-tu-experiencia.mp3?Expires=1794099648&Signature=iWMnLZE0CFahied2b5sixtoGv8Yh71WA6Vx5Vc2QkuSDsON-Ti0BygLN1kzoXDWYwKz7aGVgvLN8KZ2jgozFndue6CZ5bpjw1aAGoex0qmByNVFYe5YSRLaDAD-fxtWISY3i6jRiNu4MAVhppJvGxRtkaKl8t38ASEqAP1BvIq1WI93kKam0L8HDe7Tcegsg-~Bbumr6tzlNIEWzem~MTdnhceme3ies4IL3hMV-GcmCk0m4JkirXZieAIQewS8Ri~AfXQynp5mpRJot3Lh3-HZK2g6Nl-IJd5cKrm-y50dnceTnqcfHyh7gGrKOE-Gu9XS4F2gY84xFdZxveaiUCw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "encaje",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "ae4becf0-f21b-4596-b6ab-e2574146926e",
+      "sequence": 6,
+      "lessonId": "636f323a-599e-4224-8440-371f21c3a787",
+      "title": "Complete o conselho direto",
+      "content": "<p>Te __________ que destaques tu experiencia con clientes.</p><p>Tradução: Eu recomendo que você destaque sua experiência com clientes.</p>",
+      "contentPlain": "Te __________ que destaques tu experiencia con clientes. Tradução: Eu recomendo que você destaque sua experiência com clientes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, te recomiendo que apresenta um conselho de pessoa para pessoa sobre o que destacar.",
+      "feedbackError": "Nesta aula, te recomiendo que apresenta um conselho de pessoa para pessoa sobre o que destacar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "recomiendo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "89b1ec11-aeb9-4134-aac5-5cee6af889d0",
+      "sequence": 7,
+      "lessonId": "3a7873bc-197c-47c2-8ba5-638578bbc2ca",
+      "title": "Ligue contexto e frase",
+      "content": "<p>Recupere o recap final e conecte cada situação a frase em espanhol que melhor combina com ela.</p>",
+      "contentPlain": "Recupere o recap final e conecte cada situação a frase em espanhol que melhor combina com ela.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final liga sigas, vengas e puedas a busca, entrevista e experiencia.",
+      "feedbackError": "O recap final liga sigas, vengas e puedas a busca, entrevista e experiencia.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "8b268140-272b-4f8a-b7da-c482fb363e0c",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ad0ebcf0-48bb-4341-9b59-0dd54c9c2b6a",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "05eebb8e-8c8e-4eb7-8264-7bddf6a921f1",
+          "leftContent": "Ainda vale a pena continuar olhando alternativas.",
+          "rightContent": "Conviene que sigas buscando opciones.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "df0d2bf4-fe19-42a3-9b00-17516d0b5d49",
+          "leftContent": "No dia da entrevista, o melhor é chegar antes.",
+          "rightContent": "Es mejor que vengas temprano a la entrevista.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "08019478-b674-4274-8de1-368928aec748",
+          "leftContent": "Numa candidatura, importa conseguir falar da experiência com clareza.",
+          "rightContent": "Es importante que puedas explicar tu experiencia con claridad.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "877ad655-421d-45dc-83c5-a1ba7e29fc92",
+      "sequence": 8,
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "title": "Complete a recomendação",
+      "content": "<p>Complete em espanhol: Te recomiendo que _______ el CV hoy.</p><p>Tradução: Eu recomendo que você adapte o CV hoje.</p>",
+      "contentPlain": "Complete em espanhol: Te recomiendo que _______ el CV hoy. Tradução: Eu recomendo que você adapte o CV hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "A recomendação central da aula transforma a escolha em uma ação imediata e concreta.",
+      "feedbackError": "A recomendação central da aula transforma a escolha em uma ação imediata e concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "adaptes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1d55f194-2e0b-4e00-8a47-f4ae85a0c449",
+      "sequence": 9,
+      "lessonId": "4c4591eb-8d1f-4a80-bd9d-b04a1133f6b3",
+      "title": "Recupere o filtro pelo áudio",
+      "content": "<p>Escute o resumo final e selecione somente as palavras que fazem parte dele.</p>",
+      "contentPlain": "Escute o resumo final e selecione somente as palavras que fazem parte dele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1a785a5483fd4a1a96d078982a107a14_l02b08-real-life-recap.mp3?Expires=1794099648&Signature=zkYZU6YcbRN6N-5urQ6C9pf5uDiMYkgYpK~sUxEMjrS9UyIaE3cphgyoVlil4mCP3zKmBv6wicL0Hg31ssNIFJ0ROXJS225ljchKM4ILbZKtDQxUAAgSEkZW3oj905QeflvoWWBNzpVayBAfjD2aDVdll4MlGK8iANSKCKVwUd0S5aFATKzVJol77tEBamhIH-slB1bAkqgF7Gfu7k~R3wSRN71ayov6RD915otEls1vKpJMSoakHIvi3bQ0x~ulYtwTnb7iW01RamH61Ok0HBjlxgVHMijqWWy0cDXC9I7PL3hjFk2NvewyufFlNS-~WpLCtQMMNiF5FUY9qU90TA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final transforma as três pistas da aula em um filtro prático para continuar lendo uma vaga.",
+      "feedbackError": "O recap final transforma as três pistas da aula em um filtro prático para continuar lendo uma vaga.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5c894a72-0fb9-45c0-8d6c-91f5e649f3b0",
+          "text": "empresa",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "79e89175-d763-4ec5-b749-f3ee92c00a73",
+          "text": "mira",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "88e01d10-c750-488e-b813-e97eef8db72e",
+          "text": "trabajo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8b40528f-426d-442e-b1ea-644f4927be0f",
+          "text": "puesto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b631e99c-37c0-4cfe-bc3d-25e7f29cd82c",
+          "text": "clientes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cdc74f22-19aa-490c-86f2-09921795139c",
+          "text": "híbrido",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d407494f-a20c-4443-826c-9089b4587c91",
+          "text": "vacante",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d7695ec6-faf3-45da-ad94-094f7cdbf294",
+          "text": "buscas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "dc12f361-06a2-434c-826e-057491fc11d0",
+          "text": "requisitos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "614b5130-c584-4b1e-b4e7-9da4fbf1a707",
+      "sequence": 10,
+      "lessonId": "636f323a-599e-4224-8440-371f21c3a787",
+      "title": "Complete o ajuste da candidatura",
+      "content": "<p>Conviene que _______ tu currículum a esta vacante.</p><p>Tradução: Vale a pena adaptar o seu currículo a esta vaga.</p>",
+      "contentPlain": "Conviene que _______ tu currículum a esta vacante. Tradução: Vale a pena adaptar o seu currículo a esta vaga.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, adaptes recupera o passo estratégico ligado a conviene que.",
+      "feedbackError": "Nesta aula, adaptes recupera o passo estratégico ligado a conviene que.",
+      "answerType": "buildWord",
+      "expectedAnswer": "adaptes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7ce9a6ea-367a-4217-a7fc-c65d6c5795bb",
+      "sequence": 11,
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "title": "Complete a dúvida mais direta",
+      "content": "<p>Dudo que ______ aprender mucho en ese puesto.</p><p>Tradução: Duvido que você consiga aprender muito nesse cargo.</p>",
+      "contentPlain": "Dudo que ______ aprender mucho en ese puesto. Tradução: Duvido que você consiga aprender muito nesse cargo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de dudo que, a aula destaca puedas para uma dúvida mais direta.",
+      "feedbackError": "Depois de dudo que, a aula destaca puedas para uma dúvida mais direta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "puedas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "50f202fc-5cc1-4e52-9c46-a9f1da4262db",
+      "sequence": 12,
+      "lessonId": "3a7873bc-197c-47c2-8ba5-638578bbc2ca",
+      "title": "Monte a forma da entrevista",
+      "content": "<p>Complete em espanhol: <strong>Es mejor que ______ temprano a la entrevista.</strong></p><p>Tradução: É melhor que você chegue cedo à entrevista.</p>",
+      "contentPlain": "Complete em espanhol: Es mejor que ______ temprano a la entrevista. Tradução: É melhor que você chegue cedo à entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Em vengas, a aula destaca um sinal visível em g dentro da recomendação.",
+      "feedbackError": "Em vengas, a aula destaca um sinal visível em g dentro da recomendação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "vengas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "814514d0-eb38-478c-b0dc-74ba2cc746e3",
+      "sequence": 13,
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "title": "Ligue o modelo aos efeitos",
+      "content": "<p>Relacione os trechos do modelo integrado ao papel que cada um cumpre para fechar a orientação.</p>",
+      "contentPlain": "Relacione os trechos do modelo integrado ao papel que cada um cumpre para fechar a orientação.",
+      "fileUrl": null,
+      "feedbackSuccess": "O modelo integrado junta escolha, recomendação, reserva breve e próximo passo numa resposta curta.",
+      "feedbackError": "O modelo integrado junta escolha, recomendação, reserva breve e próximo passo numa resposta curta.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1b32ec01-d5bf-4aa0-b9b7-8877b9ed92a4",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "44ede3e0-a96b-488e-a5b5-aadfb5c16e26",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "4ff207cf-ffa1-41a8-ac63-e5d9c6da73fb",
+          "leftContent": "Esta vacante encaja mejor.",
+          "rightContent": "escolher uma opção",
+          "sequenceItem": 1
+        },
+        {
+          "id": "be39322f-df4b-447d-b923-d869e1c92ae0",
+          "leftContent": "Te recomiendo que adaptes el CV hoy.",
+          "rightContent": "recomendar a ação principal",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ee3bc2c0-dc59-4fc9-913d-1b0d5f7a979e",
+          "leftContent": "no creo que sea buena idea esperar hasta el viernes.",
+          "rightContent": "marcar uma reserva breve",
+          "sequenceItem": 3
+        },
+        {
+          "id": "54147327-1056-4275-9890-b3e08d6e3e96",
+          "leftContent": "Cuando tengas el CV listo, manda la solicitud.",
+          "rightContent": "ordenar o primeiro próximo passo",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "880ff769-3b5b-4162-8046-b68df91fd621",
+      "sequence": 14,
+      "lessonId": "c60bc8cf-e736-44be-8490-9f1ef87431cc",
+      "title": "Complete o momento da resposta",
+      "content": "<p>Cuando _______ la respuesta, avísame por mensaje.</p><p>Tradução: Quando você receber a resposta, avise-me por mensagem.</p>",
+      "contentPlain": "Cuando _______ la respuesta, avísame por mensaje. Tradução: Quando você receber a resposta, avise-me por mensagem.",
+      "fileUrl": null,
+      "feedbackSuccess": "Quando o momento ainda é futuro, a aula reaproveita subjuntivo com cuando.",
+      "feedbackError": "Quando o momento ainda é futuro, a aula reaproveita subjuntivo com cuando.",
+      "answerType": "buildWord",
+      "expectedAnswer": "recibas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "053bed03-3300-4b2c-b07d-a9f242692990",
+      "sequence": 15,
+      "lessonId": "c60bc8cf-e736-44be-8490-9f1ef87431cc",
+      "title": "Recupere o limite pelo áudio",
+      "content": "<p>Escute a frase da busca em aberto e marque somente as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a frase da busca em aberto e marque somente as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/87a67c1d224446e0a78ea4122fa6b400_b06-hasta-que-encuentres-una-vacante.mp3?Expires=1794099648&Signature=BiK3Hr04GYisCB6-rNs95YKqM5WxxL-BOmsEwcT66nlKtuzE49BmJMTPPbLcszXkFE5SUpv4zEmpsUnWoq7mpR3Yg7E8QMtlPApI2AnCsmDSqYm055I19EObsDUqEUKpRFDZKGdnI3B5r1dV-fp48qxPRc6FMXZzlt1I~aWcHQz1ZKDV8gXYEUOzpKs2cunGiIyn3w3nHrcayEauBA-fyCviREELtHGMJUIfyWVmQABgU79ojVaVD-ffqPYkaomM4hVtGYAXOHl1i2cg5OJagh4sYJ0CjXwuyqqEIP5zVkTcYqfK61OY-LrgqwT2uPNs-llSGpDLRi6~Wmk8oJMqaQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Hasta que mostra que a ação continua até a mudança futura acontecer.",
+      "feedbackError": "Hasta que mostra que a ação continua até a mudança futura acontecer.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1b927680-7b0b-479b-ad40-9e2fe80c8429",
+          "text": "vacante",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2d21e847-050c-49b0-8ed7-bd0c1eec1707",
+          "text": "entrevista",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "34cd43e7-ea80-484c-8b80-f47449fce46d",
+          "text": "hasta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4f6c4ff8-748d-4421-a46e-2efe60d245b0",
+          "text": "encaje",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6fa4ebd0-5481-4014-ad09-0bdfa58220ee",
+          "text": "encuentres",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8c4d345b-028a-494f-bca0-d84d13845cd5",
+          "text": "hora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c2c9a186-7387-4638-9ab3-b754268f0911",
+          "text": "Sigue",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f0d672ac-6979-45dd-88ae-f8994031a305",
+          "text": "buscando",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "attemptId": "0fc17861-c65b-4666-91ef-7c29125d8106",
+  "exercises": [
+    {
+      "exerciseId": "bb757525-1f64-4e05-a14e-bb2820af2d1d",
+      "sequence": 1,
+      "lessonId": "13916cfb-c1bf-4d40-87a8-ebc192a90efb",
+      "title": "Recupere a expressão pelo áudio",
+      "content": "<p>Agora o apoio é menor: escute cada frase e ligue o áudio apenas à expressão com <strong>yo</strong> que aparece nela.</p>",
+      "contentPlain": "Agora o apoio é menor: escute cada frase e ligue o áudio apenas à expressão com yo que aparece nela.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula reúne yo pongo, yo hago e yo traigo como ações curtas da casa.",
+      "feedbackError": "O fechamento da aula reúne yo pongo, yo hago e yo traigo como ações curtas da casa.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8e361ba8-d9f8-4d1f-a6ca-55a3182eb987",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7e3c75a9ae524fbcaeb38e49c1996412_b01-yo-pongo-la-mesa.mp3?Expires=1794099506&Signature=o5M74kdhhdE31LRHWb8ZX1mVuJKFwkGUq4RM57Nzq99miE154Bt4YGY3GlnpDGojPe~rbEDQ3FUh5IbN4WXDU5uty3hnsHHj9Pfo36UpSOMkb0z5H24ZGx2N5-5uI~KDeHqOb9DtpB5-ciVaVwfrl-6Yvtkk0MDGBeZnAHGshtDN69V4-ZtQvnnYGh3TXrLZMW4Tb7n5RZMW1i6D9cROpNUb2rVyT9tJwbr7x3mNSdiPNYqf8kX6Btlcl3QbVZhcC1vq7vtoHYdjO-o0Ta6bcc6PXaxCd8wwzCz8yRDRBtCizFlq55c4yLakFkQQS4c48zN0TuIQ7fSeF-eqypBsYw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "yo pongo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "faf4cc2a-e323-4c28-b1e5-b5cb42629404",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1bc6b008a7d049fea76a00e116ac6e33_b03-yo-hago-la-cama.mp3?Expires=1794099506&Signature=N0SAl1KNbtDOSl27Y8UUTD6Y-nXfLJB9YnXxNizM4LYri34UYR2yZL0DbM13qJVLNjj06uIyohM5QCuwMa5bS9Ya51O2nfilGcH5T1F5a9RXdoaRt93DhCMxlPsnuKZQ-r2RNcIRE9HJBi-Ij3cu6gPs1gX9-hAipUMGy9L~efkI0bHqAUS0ue9plo6I-xND5w2KPXOG4fVQwWwCqc3X59R5Z-cHdZL2zwoD96PoNgsGfo9wiHhARxWi4Ceg0-qSoSSePG9Kp7BoeV~LMTNpWmqGstcZbu6pzeLxO5AUIvlTX9MQONxgenrZ8KvMutzaDbludGYHgm370twkuFvNsw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "yo hago",
+          "sequenceItem": 2
+        },
+        {
+          "id": "872bec6f-05eb-4e1f-8be6-aa13642f3843",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c2a7d583b85c414ebc3ca948291714a9_b05-yo-traigo-una-silla.mp3?Expires=1794099506&Signature=lZhGSGNAJ-SSWe8kK1gmfLsBGX2ZjIcJR3kXJN-sbc6KSxzVbd5V2-XzWqQXg7gDO1s76pHgnMSu7-vffJ0g6qTluVC2j-JqY97MWaKCqqv-oN8k7Qj3IPQ547OR-voLb7AJKtoQtZ9GYbLB8aLrTE0dgFx9fswReb~1XiEzVIDGoD5zruXA38RmotiNU-cQdMvwBgPyzN6DQnDQv0FKiMBGSph~WQutHpsRzWF~lQ8VEVZZ~s5E8tFlKVJDUmdhXuJeS2FKcLiB7WKAFtIpXvn9koO1AglDm7CTtSN1QtF2LOPqxqR9WcJAbyysS~KEX7wBRu~pFTI-MCjK2wXSqA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "yo traigo",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "58acebe7-014c-427e-8903-b8257d0b637c",
+      "sequence": 2,
+      "lessonId": "da591e40-d3c7-4ddb-9a76-b13cee6a2a66",
+      "title": "Complete a ação da casa",
+      "content": "<p>Yo ____ la cama.</p><p>Tradução: Eu arrumo a cama.</p>",
+      "contentPlain": "Yo ____ la cama. Tradução: Eu arrumo a cama.",
+      "fileUrl": null,
+      "feedbackSuccess": "No bloco com yo, hago aparece em uma ação simples da casa para reforçar formas frequentes.",
+      "feedbackError": "No bloco com yo, hago aparece em uma ação simples da casa para reforçar formas frequentes.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hago",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5689e6ea-9959-43e8-8acb-4bf8b4849c59",
+      "sequence": 3,
+      "lessonId": "0742d05f-104b-4f0d-b682-c383be7e6e3c",
+      "title": "Complete a atividade no sofá",
+      "content": "<p>A veces ___ en el sofá.</p><p>Tradução: Às vezes, ela lê no sofá.</p>",
+      "contentPlain": "A veces ___ en el sofá. Tradução: Às vezes, ela lê no sofá.",
+      "fileUrl": null,
+      "feedbackSuccess": "No fim do perfil, a veces indica frequência e lee fecha a rotina em casa.",
+      "feedbackError": "No fim do perfil, a veces indica frequência e lee fecha a rotina em casa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lee",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "87029a16-03ee-4db0-961e-a969b3e9d72a",
+      "sequence": 4,
+      "lessonId": "d0090275-ec10-4749-b0db-65ad6250f949",
+      "title": "Complete a frase do primeiro andar",
+      "content": "<p>Vivo en el ______ piso.</p><p>Tradução: Moro no primeiro andar.</p>",
+      "contentPlain": "Vivo en el ______ piso. Tradução: Moro no primeiro andar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, o ordinal muda, mas piso mantém o mesmo contexto de localização no prédio.",
+      "feedbackError": "Nesta aula, o ordinal muda, mas piso mantém o mesmo contexto de localização no prédio.",
+      "answerType": "buildWord",
+      "expectedAnswer": "primer",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4883b56c-acbe-407a-a23e-b43f08e92472",
+      "sequence": 5,
+      "lessonId": "d0af24c4-f41e-4e2b-9364-19320c306378",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase: Mi __________ es pequeña.</p><p>Tradução: Meu quarto é pequeno.</p>",
+      "contentPlain": "Complete a frase: Mi __________ es pequeña. Tradução: Meu quarto é pequeno.",
+      "fileUrl": null,
+      "feedbackSuccess": "Mi habitación es pequeña coloca habitación dentro de uma descrição curta da casa.",
+      "feedbackError": "Mi habitación es pequeña coloca habitación dentro de uma descrição curta da casa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "habitación",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d9ead326-afc6-4f8a-821c-046e8b114253",
+      "sequence": 6,
+      "lessonId": "c24d6c75-438b-45f3-b109-5b69a3fa5641",
+      "title": "Complete o nome da bebida",
+      "content": "<p>Un ________ de naranja, por favor.</p><p>Tradução: Um refrigerante de laranja, por favor.</p>",
+      "contentPlain": "Un ________ de naranja, por favor. Tradução: Um refrigerante de laranja, por favor.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa refresco para pedir uma bebida sem álcool de forma direta.",
+      "feedbackError": "A aula usa refresco para pedir uma bebida sem álcool de forma direta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "refresco",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f2bdce08-4b16-4bc0-9f8b-3256d6f30533",
+      "sequence": 7,
+      "lessonId": "fbb1da44-e77c-4a7d-ad7e-078e234975ef",
+      "title": "Combine frase e momento",
+      "content": "<p>Associe cada frase em espanhol ao momento correto da refeição.</p>",
+      "contentPlain": "Associe cada frase em espanhol ao momento correto da refeição.",
+      "fileUrl": null,
+      "feedbackSuccess": "As três frases da aula resolvem chegada, pedido e fechamento da refeição.",
+      "feedbackError": "As três frases da aula resolvem chegada, pedido e fechamento da refeição.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "66dbe2a0-1faf-41fa-9006-a0988911f7f5",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "747e5a1d-75df-4cd1-a87e-e0d70a5733ab",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "8e8ed14d-372b-4b5e-9abf-062d808ac3b1",
+          "leftContent": "Una mesa para dos, por favor.",
+          "rightContent": "ao chegar e pedir lugar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d4a5d4cf-12f0-4677-a173-f69416b2df37",
+          "leftContent": "Para mí, agua.",
+          "rightContent": "ao dizer o que vai para você",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5c9fdc1e-aba9-4792-ae14-d767b997fe7b",
+          "leftContent": "La cuenta, por favor.",
+          "rightContent": "ao encerrar e pedir para pagar",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "5356cac1-acb9-4581-8cb7-7a4a2bcacb02",
+      "sequence": 8,
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "title": "Reconstrua a minirotina pelo áudio",
+      "content": "<p>Ouça os três trechos e ligue cada áudio à frase certa em espanhol.</p>",
+      "contentPlain": "Ouça os três trechos e ligue cada áudio à frase certa em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula junta a pergunta-base com duas frases curtas sobre o começo do dia.",
+      "feedbackError": "O fechamento da aula junta a pergunta-base com duas frases curtas sobre o começo do dia.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "478e880f-2c5d-4c27-9ddf-f5341bf4aed3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0830c43069e841688cd6db8dda3b6dbc_que-haces-un-dia-normal.mp3?Expires=1794099506&Signature=TcxYxLZnyFqjOplgq9j-SAW3uQp3Ih2wS1jjxUEymmvVlv-JT3tklMEAviaRxWLMzHQKwhkoHmhaMsmy6gb6VtwxgnrufQPVWgfUNZW1ZpkRQ7JvGf08~TOwGBzcTyMvlwggv704jthCKcw-rfD1U6PpFd79eQVsgYA1CISokbCOiewF0eoJx~7U3h0Uz8O3EfGaEfEtedA7B60nmJYIE0ZhnS8tF64Mwh9fQpcDou4RCM3VAhVRulDTD~qHKtY9z3PYoofMNk2zV6QluVsDkud4BxWr70RCG7EgfYgz3DRsWskDq0FEdaqvF~j3njXj9kS6xBO0EwQpbtwFonl0Dg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué haces un día normal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "74027093-3718-46f1-98b9-21a66b928de0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8e59fa8632294ce7a4d6bb08193f8f17_normalmente-me-despierto-a-las-siete-en-punto.mp3?Expires=1794099506&Signature=iCL~2NE2cEi31Ca0PQVSwgLvQs1wb5HKKbm9X2HrjdzwPAXt9T8iMtH~RJ4J~SKWPBVLORRau-BFsuH44YHK0RvqUKur~Ff3uG~3QXD-sOpxSU6oNpiINvATqzlA1mAItwfF4ln7ra1iZ8R82LVzsSqUWMm7KqCf31i~ryyAphHE5iMIWWCnnHbMuVEKquy7Zmf~yIqt3VqWKmlamxyEqmqh-xlddqYIKabeFM9T~-v8B8OCwKXyWxVhQ1sh70bqzMhV6YruyNRHBl0mOpasHN69zCZDepYy0yz98VlBleDhmLjeLC6esPuXNNyc-sVkJUD685gt3bwrAnoNzDJ7Kw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Normalmente, me despierto a las siete en punto.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "fe158cab-8c82-4e05-8aaf-df17ab55d522",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/48caa6a02577456eb39cf4f136889122_ella-se-levanta-mas-tarde-los-fines-de-semana.mp3?Expires=1794099506&Signature=EtV5aHdAKtY4hIbFyeGCOJNNwm~PBuGuaQW8puEKjzbYfSvjM1irluPeuXNqj9-NQwYPpJJxXrd0ZBJwH8Fw524gCx4DbGcU96q9uJM3YYzWwmrA8cIFe6jbOIrS3apxwZ~OYe3uMEX8BS1Ip3LseIRMDBMevb3M1KcyaLNa~Au4~KmOLPbUzp6YXfO-AU0J2-HPSGx8JkAoHDJ8q783IUqrTmjXEhlh5BNYPG5eE5kA9i1viSQsB62-G4WfyNndcJWV2bzK0jJ4NQ~KZyBrOX5iCZFl5VNaD2JxWvYrlRIkizaF-9d7ZwdVHIZqPqXzsqULudZxve13Ok-1pOWbDw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ella se levanta más tarde los fines de semana.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "5f025c86-289d-47cd-8087-8a5f828aefb2",
+      "sequence": 9,
+      "lessonId": "00ae1a0c-849b-4b4b-aaf2-ed0186c49de2",
+      "title": "Complete o início da frase",
+      "content": "<p>__ despierto a las seis y cuarto.</p><p>Tradução: Eu acordo às seis e quinze.</p>",
+      "contentPlain": "__ despierto a las seis y cuarto. Tradução: Eu acordo às seis e quinze.",
+      "fileUrl": null,
+      "feedbackSuccess": "Em me despierto, o pronome me mostra que a ação volta para a própria pessoa.",
+      "feedbackError": "Em me despierto, o pronome me mostra que a ação volta para a própria pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Me",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "002f1209-1433-4623-91bc-1eed1a162814",
+      "sequence": 10,
+      "lessonId": "8bb49e7e-951f-42ad-ae3d-0985fbcaafe8",
+      "title": "Complete a ação do trabalho ao meio-dia",
+      "content": "<p>____ en el trabajo al mediodía.</p><p>Tradução: Como no trabalho ao meio-dia.</p>",
+      "contentPlain": "____ en el trabajo al mediodía. Tradução: Como no trabalho ao meio-dia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na rotina da aula, comer fecha a sequência com uma ação comum do meio do dia.",
+      "feedbackError": "Na rotina da aula, comer fecha a sequência com uma ação comum do meio do dia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Como",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ea5ead88-c7ec-4e1d-852d-ec716f808298",
+      "sequence": 11,
+      "lessonId": "51a31bf6-2ec2-49ec-a0f9-211f4462f767",
+      "title": "Monte o dia do meio da semana",
+      "content": "<p>Complete o dia em espanhol: _________</p><p>Tradução: quarta-feira.</p>",
+      "contentPlain": "Complete o dia em espanhol: _________ Tradução: quarta-feira.",
+      "fileUrl": null,
+      "feedbackSuccess": "Miércoles aparece na aula como um dia do meio da semana e pede atenção à escrita.",
+      "feedbackError": "Miércoles aparece na aula como um dia do meio da semana e pede atenção à escrita.",
+      "answerType": "buildWord",
+      "expectedAnswer": "miércoles",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4357da3b-f751-4c29-bf43-70c5c7f9f896",
+      "sequence": 12,
+      "lessonId": "7bb86dac-8a51-49ca-9836-7c3d644e382b",
+      "title": "Complete a forma sem mudança de ie",
+      "content": "<p>Nosotros ________ que el piso es cómodo.</p><p>Tradução: Nós achamos que o apartamento é confortável.</p>",
+      "contentPlain": "Nosotros ________ que el piso es cómodo. Tradução: Nós achamos que o apartamento é confortável.",
+      "fileUrl": null,
+      "feedbackSuccess": "No contraste final, pensar mostra que nosotros fica em pensamos, sem ie.",
+      "feedbackError": "No contraste final, pensar mostra que nosotros fica em pensamos, sem ie.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pensamos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "093e7ca9-b515-4e69-acef-f7f61c7cf1c9",
+      "sequence": 13,
+      "lessonId": "215b505c-9cce-4fac-8303-ebb336101502",
+      "title": "Recupere as palavras pelo áudio",
+      "content": "<p>Escute a frase completa e marque só as palavras que você realmente ouve.</p>",
+      "contentPlain": "Escute a frase completa e marque só as palavras que você realmente ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ffeab71dd244408b8f69e4026229600_nunca-como-en-el-dormitorio.mp3?Expires=1794099506&Signature=vzEoQJMOZV~s0DPdye0xkFptDbTJ7p2X9tCH583arnj0HaIfGqhG6OkowG9-A9GJB6BqfOTenPpOlolv4UamzeFTmQ6~L7iUX0SYUBBx1FZ02ZafuvdVImhaW2qs9cB3uY-nY0UCyKPO9vi7qUvNxQmVFsIbqgqSemNIA~~lZe4QgFkdhoTrbvYq3l5y1ZcqaY8lsZcVpz8cCRylWdS9M06T7dFDlya4K13RuXPLIs~64EtW17YGzv0eH-9n~dE8GgRoFnQBBpUNSMDLtzCbvTANsrLSYKcDk5VQTMLnDEahtY1InIh6AHMCJFsY74lTetfsjJlKeCzGSYwyppPX6w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Com nunca, a aula marca frequência zero dentro da rotina em casa.",
+      "feedbackError": "Com nunca, a aula marca frequência zero dentro da rotina em casa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1a9f4b5b-aca7-4a16-8e5c-c30b98ad1f58",
+          "text": "como",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2380ca7d-6d47-4ff0-af73-537ddcdcbc2e",
+          "text": "siempre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3e719075-2555-4d52-b035-205f69df5aba",
+          "text": "cocina",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "418b8e06-06fc-4f61-a53a-c509bb136c26",
+          "text": "salón",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7922deb9-e3f5-4117-ad51-1f1f6127b0ef",
+          "text": "trabajo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c0d5275d-70b5-4499-88f7-dc7bd01f0b8f",
+          "text": "nunca",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fedd94af-9962-4170-82fc-f8060b43ab3c",
+          "text": "dormitorio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "e8eb1053-29fb-43b4-9686-834b6aa809c9",
+      "sequence": 14,
+      "lessonId": "177d039f-c916-4cf6-91d3-c401737728ed",
+      "title": "Recupere o móvel para dormir",
+      "content": "<p>Complete em espanhol: la ____</p><p>Tradução: o móvel usado para dormir.</p>",
+      "contentPlain": "Complete em espanhol: la ____ Tradução: o móvel usado para dormir.",
+      "fileUrl": null,
+      "feedbackSuccess": "A nota de contexto liga la cama ao móvel usado para dormir.",
+      "feedbackError": "A nota de contexto liga la cama ao móvel usado para dormir.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cama",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6b1b47aa-933f-4967-abf7-12a3b97c670a",
+      "sequence": 15,
+      "lessonId": "9df3ed22-bc5a-4391-85e5-96cb2abd4c35",
+      "title": "Recupere a frase da chegada",
+      "content": "<p>Agora o apoio é menor: escute a frase completa e marque só as palavras que realmente aparecem nela.</p>",
+      "contentPlain": "Agora o apoio é menor: escute a frase completa e marque só as palavras que realmente aparecem nela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5d1998b74452409e8fcd8afcf34dc536_tengo-una-reserva-a-nombre-de-pedro.mp3?Expires=1794099506&Signature=DB-X93IPO7WlBrEU-vVb6mp3lCqvk4ds0Jsiez1exK5QslGYF48dC6t8XY0jZUtDeaT8n-VcaZqlT58Oj5BCzaLADbeqR8MEvHEPyU~F8S3kiCCnXuai-h6bCUHK-VqtMVGHJ8y-KUx1cBowQsC8yI70ADaezluwgYOs9wtayrDKqVoBIFEy82ZrRWS6XX6xE8A02fazA2n87nuotL8ou7lpXaTMHedgORnwFkf0~j1I63ciG1NyUfDeEQKhj4-tvGtWFiz095RrCOpLtsqLmOK5Cxcyof2ts4ZB3RWMyR7rKBYy-MF5VQ~IyeGKl5H7~HeshSGYH~9yDzBLEYaNzw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, tengo una reserva a nombre de Pedro junta reserva e identificação do nome na chegada.",
+      "feedbackError": "Nesta aula, tengo una reserva a nombre de Pedro junta reserva e identificação do nome na chegada.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "006e72a9-adc1-40d1-97ec-ba53fbc57d1e",
+          "text": "nombre",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1fc5f77d-f41b-4d44-9689-c8b8a8920f2b",
+          "text": "tengo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4015a485-6d12-445d-a3a2-3959fb07de70",
+          "text": "favor",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4c2dd483-391b-4e12-b091-876fc0199147",
+          "text": "carta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6a427fb0-544f-415e-8915-51b3bf2287b3",
+          "text": "Pedro",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6bdfba80-512f-4465-b541-d84aace5b259",
+          "text": "reserva",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8165cf0f-5e88-47f2-9825-8bab99e363be",
+          "text": "cuenta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

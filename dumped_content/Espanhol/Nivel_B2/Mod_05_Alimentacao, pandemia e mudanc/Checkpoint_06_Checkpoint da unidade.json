@@ -1,0 +1,345 @@
+{
+  "attemptId": "e9f9a5da-4fbe-4fde-b9d4-651156f504f1",
+  "exercises": [
+    {
+      "exerciseId": "50e9b47f-b2b2-4ace-b79c-d4d7f5c22838",
+      "sequence": 1,
+      "lessonId": "ac330f66-85a2-437b-a8d8-c76dfcdfed43",
+      "title": "Recupere o ajuste desejado",
+      "content": "<p>Ahora me gustaría que me _________ más fácil dejar de cenar tan tarde.</p><p>Tradução: Agora eu gostaria que fosse mais fácil para mim parar de jantar tão tarde.</p>",
+      "contentPlain": "Ahora me gustaría que me _________ más fácil dejar de cenar tan tarde. Tradução: Agora eu gostaria que fosse mais fácil para mim parar de jantar tão tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me gustaría que... resultara mais fácil reduz o tom absoluto e mantém o ajuste pessoal concreto.",
+      "feedbackError": "Me gustaría que... resultara mais fácil reduz o tom absoluto e mantém o ajuste pessoal concreto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "resultara",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "cb2165e4-75f1-4b4d-8a79-b0d9de3f0637",
+      "sequence": 2,
+      "lessonId": "d1bb6372-8c69-41a9-9c99-1dbe9055ddee",
+      "title": "Reconstrua o comentário pelo áudio",
+      "content": "<p>Relacione cada áudio a frase correspondente. Um deles traz o comentário completo da aula.</p>",
+      "contentPlain": "Relacione cada áudio a frase correspondente. Um deles traz o comentário completo da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap junta tentativa recente, comparação com antes e efeito prático em uma fala reutilizável.",
+      "feedbackError": "O recap junta tentativa recente, comparação com antes e efeito prático em uma fala reutilizável.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8ca28da1-df33-4c27-9b3c-be7b6b472bf6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/324bb46efefe4c93bde4ab984d8331ce_b02-ultimamente-he-intentado-comer-de-forma-mas-equilibrada.mp3?Expires=1794099722&Signature=p6AEJ8koRFalt898EB34TLX85bRTZd3om7yB5K1uqUmz1Vxt9ddEYHuqz3dMdhEvhFNIHyLmv5OufdwPSDlJsznbq1xF8DLFeiaPSO299qcHETuKO1KPBBTqidRUv3o1UZexkPPwAYPrUG-Zmjdo2N-NGbPFE~QzayM08sH~5uMwc7chNoxSDPjnGSap1vMno0PSOcGSMkVB7ZKhLhhKY4ZuClivLzutxZZ09AV83QGdEhQcUSz6UyVLGkbqoFTVdTVt3TQUp3seRyFeNZsyLpJ382OrpvcA--9yO8be4MoYVoHFFzVNWTqwWcY9i0tm4FIXn~5nvtJZWmDt7l1Hjg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Últimamente he intentado comer de forma más equilibrada.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9296bfce-05ef-444f-8259-5ff07a4ad2b1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4df70ccf4ed742f584942a6a8749fd6e_b04-ahora-cocino-mas-en-casa-que-antes.mp3?Expires=1794099722&Signature=Tb6KxiNmeIJRFE32cfDEJ0YQzpikjj~ZFUMf8vBqlSm-d3~ZcyHpBtglncFjQiOFbzUPWYbl4u2e2ihMFXJbc3iSIBbANkaD8Y~qzTE1aQhzjY0cMT7xyh901DRNVNvVcg1n9H44ctqkOPnjr9BOpjKPggiKvbdsWRuOgYWKlj9cXnAKS-~xf1~OibCqJG-NKiUR0oTOKzSQMmqN2F2~mQ12ATOTVtB6IxfWSCeOKW86799g3B6LmpzB1i4Yda64Z-E3eOeM4TnRxD6gBam8lpSnCXfng32vC2gbBS0uDo09jAd97ItivAb27fK2yIBAIxxE1dDi5n6I2DJdfalpZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ahora cocino más en casa que antes.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "43ff5763-f662-4f9f-874e-09df351db484",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2c3667c77aeb4ec3a316f006bab71e19_b06-eso-me-ayuda-a-mantener-horarios-mas-regulares.mp3?Expires=1794099722&Signature=P3GOYwjxemJm4ol-2UyFH78TuubX9Atq-Js7vf9tT3YBEEYwhn05QqFkVWAjYCA4Q0OXYoG~b46De0GaTbjUpY57Rb3~YNF2y3D9ilZsVMkM9dx6W1GXLxsgt4k4RwJd9coTcQz9FZo47UA2cM9~IhsOoKdL-OmsV052B40ckpEz1VBQdOlx1wMKqYwrSrC21XI3WlCqe4oZRc34iyclLsorBynhMZBU-C574BLzPXnCkogTQXfUn~jr8KYrkGhQh~vJqFbMsAfhyhehn9NUT4GDheQg6~KDR7epIuS8jX5j-P1WxqHPXMhRQFt19p3kQGSjv6ATOn00g4Ly4MzmtA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Eso me ayuda a mantener horarios más regulares.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a723823e-abf7-444a-a7a9-72860b21c270",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7a05bb8a715c4a399662cd37c6deedfe_b08-recap-cambio-de-habito.mp3?Expires=1794099722&Signature=s8wFYI15UTjqbdgIaoy34fNE3njF5~E5J9KmnyDkPjljrwLBWNQif6zX5n2NUniO~T5Iz3t9rtrFtWStt72rk6HDsfh5sXySK0Ygl6F4QzzhnyFMYub4h~p291VOSlxxIPUeX1oujtbmEeUIrPyJSDS86tdSUWp19oaJLglOTtuMifbqQbQPreAnMkbmWt~7gZAxHeCGTbpi4sihMgZuAq--oLJhLI0xZgHiI0stAdN72sFVM34GNnpt5VHOCx3eWD2VUlp1vybMmNhF4BZVHLTTigyvUvvJDRe1r21zXGI7WuWBkjYOmaBTGUvqR~Ju-Ko3ISKBUVBI-MdBFs9VkQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Últimamente he intentado comer de forma más equilibrada. Ahora cocino más en casa que antes y eso me ayuda a mantener horarios más regulares.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "ab5c40a9-707c-4008-9994-9113189d599f",
+      "sequence": 3,
+      "lessonId": "59bb43ed-5e9b-4e0d-a6dd-7f5b94e9f72f",
+      "title": "Complete a pressão externa",
+      "content": "<p>En mi trabajo insistieron en que ___________ algunos hábitos diarios.</p><p>Tradução: No meu trabalho insistiram para que mudássemos alguns hábitos diários.</p>",
+      "contentPlain": "En mi trabajo insistieron en que ___________ algunos hábitos diarios. Tradução: No meu trabalho insistiram para que mudássemos alguns hábitos diários.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Insistieron en que...` relembra a pressão externa para mudar hábitos.",
+      "feedbackError": "`Insistieron en que...` relembra a pressão externa para mudar hábitos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambiáramos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ce0e528e-fda7-4d62-8ac8-d5fb2ee75ab8",
+      "sequence": 4,
+      "lessonId": "59bb43ed-5e9b-4e0d-a6dd-7f5b94e9f72f",
+      "title": "Ouça e ligue o trecho-chave",
+      "content": "<p>Relacione cada áudio ao trecho decisivo da frase. Preste atenção na parte que fixa a dificuldade, a pressão ou a hipótese.</p>",
+      "contentPlain": "Relacione cada áudio ao trecho decisivo da frase. Preste atenção na parte que fixa a dificuldade, a pressão ou a hipótese.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os trechos-chave fixam dificuldade inesperada, pressão externa e hipótese pessoal.",
+      "feedbackError": "Os trechos-chave fixam dificuldade inesperada, pressão externa e hipótese pessoal.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "20518057-ae26-407b-8f5d-84773b3f9c6d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1b1f675a5b5b491f8b4685c3b9631127_b02-no-creia-que-me-costara-tanto-adaptarme-a-otra-rutina.mp3?Expires=1794099722&Signature=xtrLMCGoQuSj7HydN-hY1t1cOxOq0mOJm7P~7w42e8w-jdoDS2UO8mRf9jvERVbBYL3QQLefoKKsnhRAop2DDlKWmDFuYS7TyY0tBGdMqIyXO6mEoFeCldOfIzFOiceQRE7vUA7TWH7YKLufOYdcHg9W4l2Mn8r-u6WlHRTnks7uBh4ruMtDte31FPlCYvl33~mFrJA~yIya7FKacRsdhUJmRRF~OcWY43Ii-qQtVIoxA-2Tgs-97N3pOLd7xsXdAso7xFyDn~2qSQbewacV4zcfrtX4eNzWbTX3G8Ipzdojn6jnIdLrVcgm1mFQfqBtXrldq07LV-XLT8I8kGOvmA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "me costara tanto adaptarme a otra rutina.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "629bacea-0df0-4e76-9c0b-1145021611ab",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/24db51eb2087406d8175393acf758375_b04-en-mi-trabajo-insistieron-en-que-cambiaramos-algunos-habitos-diarios.mp3?Expires=1794099722&Signature=Fa3sGbQou4qw3nznAqqaWenSolpi5RMbVZ-HIcpSgNp-KTOqZgJ0YZkMe0P6vHsGRvVEzYJkxfhNipRKWqfbk5XyA9jPKLGSG6n4iQD~jiauQy6hiu5b-RAxV0K6BVsjboLC3N9AaOJgOo5rIkPk1ceb0DhYKn9MMGj2RigBVE~L740PkhaXW1trvuInLtx6foU6H0ZWyahadnr0zUOjsdvBVamsIH50wYVX8CSCGpaXWG2ufTOzKtj35glt8~eeiJKJ6DBiBy8x-ytCHeCrNzk0a1UdEyt2jPf3GBllhNLn4uUKzZt55tdOk-vU~z77aK9rNw4x21bkvtKqIGAXng__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "cambiáramos algunos hábitos diarios.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "03261e97-beea-42f2-9818-0671278ccb16",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a4a2089205b3437f912b1422c20d9f8f_b06-si-tuviera-mas-tiempo-cocinaria-con-mas-calma.mp3?Expires=1794099722&Signature=h6dmP2Qn5zAoO93fh4Mc9YqHBkSsX7cHMSr3g~J8v65qfFmYzzYCJZlo7YaMJ0gGSQw01h4ayTzSWAWCygxDw2hoamDfxk5SWz7ppRwwx0A6jqGRh0xfURq1XjP2q4VHdeJrAxHXvUFHVP56L8rOeLSUVmrBwcADMerCW1BXsF7w2V2mHG-wwQcWNL267z1MXl0yPcn5hifIrkn26-vAC2Z67TSQmhWFJ3moOKkycGHoSjqGNALZja7Dw-q5uWNxBBDyQSHVZ8ObgCT6LibvNFzh6sPz~jqHBPJZPJWBen2fOb79C-xY~Z4cTpDR-ZsUYuuLmCW~iyHLCHPVFZXuuQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "cocinaría con más calma.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "8150ddab-0579-4b71-8abe-c83a0a8d5f9b",
+      "sequence": 5,
+      "lessonId": "0d9e6f53-0071-4b05-80a2-fac85164b112",
+      "title": "Recupere a palavra da adaptação",
+      "content": "<p>Lo que más me costó fue _________ a trabajar y vivir en el mismo espacio.</p><p>Tradução: O que mais me custou foi me adaptar a trabalhar e viver no mesmo espaço.</p>",
+      "contentPlain": "Lo que más me costó fue _________ a trabajar y vivir en el mismo espacio. Tradução: O que mais me custou foi me adaptar a trabalhar e viver no mesmo espaço.",
+      "fileUrl": null,
+      "feedbackSuccess": "Adaptarme concentra a dificuldade central do relato sem listar vários problemas.",
+      "feedbackError": "Adaptarme concentra a dificuldade central do relato sem listar vários problemas.",
+      "answerType": "buildWord",
+      "expectedAnswer": "adaptarme",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7c8bea78-f492-4f1c-86e5-6bb7496df258",
+      "sequence": 6,
+      "lessonId": "0d9e6f53-0071-4b05-80a2-fac85164b112",
+      "title": "Recupere o verbo da ruptura",
+      "content": "<p>Mi rutina ______ de un día para otro.</p><p>Tradução: Minha rotina mudou de um dia para o outro.</p>",
+      "contentPlain": "Mi rutina ______ de un día para otro. Tradução: Minha rotina mudou de um dia para o outro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Cambió concentra a ideia de mudança brusca desta aula.",
+      "feedbackError": "Cambió concentra a ideia de mudança brusca desta aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambió",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "69c4f156-f627-48ae-b8d2-03a7c91c9b40",
+      "sequence": 7,
+      "lessonId": "0d9e6f53-0071-4b05-80a2-fac85164b112",
+      "title": "Recupere a palavra do período",
+      "content": "<p>En el _____________, mi rutina cambió de un día para otro.</p><p>Tradução: No confinamento, minha rotina mudou de um dia para o outro.</p>",
+      "contentPlain": "En el _____________, mi rutina cambió de un día para otro. Tradução: No confinamento, minha rotina mudou de um dia para o outro.",
+      "fileUrl": null,
+      "feedbackSuccess": "El confinamiento abre a memória antes de detalhar mudança e adaptação.",
+      "feedbackError": "El confinamiento abre a memória antes de detalhar mudança e adaptação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "confinamiento",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "923db07e-4ff9-4501-a65f-10dada719eed",
+      "sequence": 8,
+      "lessonId": "d1bb6372-8c69-41a9-9c99-1dbe9055ddee",
+      "title": "Recupere a comparação com antes",
+      "content": "<p>Ahora cocino más en casa que _____.</p><p>Tradução: Agora cozinho mais em casa do que antes.</p>",
+      "contentPlain": "Ahora cocino más en casa que _____. Tradução: Agora cozinho mais em casa do que antes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Que antes compara o hábito atual com a rotina anterior da própria pessoa.",
+      "feedbackError": "Que antes compara o hábito atual com a rotina anterior da própria pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "antes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "275f696f-2fe8-426a-9be5-d6972f9ddfa3",
+      "sequence": 9,
+      "lessonId": "ac330f66-85a2-437b-a8d8-c76dfcdfed43",
+      "title": "Recupere o verbo do hábito",
+      "content": "<p>Durante el confinamiento, me __________ a cocinar en casa.</p><p>Tradução: Durante o confinamento, eu me acostumei a cozinhar em casa.</p>",
+      "contentPlain": "Durante el confinamiento, me __________ a cocinar en casa. Tradução: Durante o confinamento, eu me acostumei a cozinhar em casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Acostumbrarse a liga a memória da pandemia a um costume que ficou na rotina.",
+      "feedbackError": "Acostumbrarse a liga a memória da pandemia a um costume que ficou na rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "acostumbré",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c5c58135-bd87-4a08-a7e5-0fe75451d7b6",
+      "sequence": 10,
+      "lessonId": "7275a835-28d7-4900-93d3-ed624288c392",
+      "title": "Reconstrua o diálogo em espanhol",
+      "content": "<p>Relacione cada áudio diretamente a linha correspondente do diálogo.</p>",
+      "contentPlain": "Relacione cada áudio diretamente a linha correspondente do diálogo.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final recompõe adaptação, persistência e efeito numa troca curta e reutilizável.",
+      "feedbackError": "O diálogo final recompõe adaptação, persistência e efeito numa troca curta e reutilizável.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "6ff2a06f-9c0e-400c-b7d9-7f814afd6e9c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7a61c0c258554648a1c55b7336ccd75b_b02-todavia-me-estoy-acostumbrando-a-una-rutina-mas-flexible.mp3?Expires=1794099722&Signature=Ev0vhTDiWORysqw5QEp6F2EeZViZN5apPkJxrMkiG7orFe8~outA3nzpjFbwUf6YdFxBlNhjph3eR4CbklWr0sOL4S4OVxdlcoxOhngfGDe-vx5eJlCuaY6kq3w6X-2Rqar6ZKOTR2Le1sZPlDqWLPOT82VkChOUK-DMQMHIoWV-xQG1kwzpnw7YfwSyti-gjumNbna5w-7hssuQNfqJ~xZvNmexDeBBoQDYZ8mt~YhNlifmV7rFrbeKpc3D9CSV1n-OYfg5HxWOgXe4vzGsvP7VdddTyhCsJ0tRK07-ih6gAtz8ffKqfuPbRlneFwljwkcWxXxjtA2e7pQVpE1x-g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Todavía me estoy acostumbrando a una rutina más flexible.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "342684e6-c3f4-40b6-871a-24e006e8dac2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/662958664c5b402fab1e606c0db9ab02_b04-insisti-en-cenar-sin-pantallas-durante-la-semana.mp3?Expires=1794099722&Signature=h-MQJVnt5MuCeM6sZWRkjJejDS3WfFNKqVNoexJVk62cCsoHPYW2QfqrS8FLG-B1wTME3T469H~dXzAzDW2a9El-MOz6t3molMZ2Q-fIpQsTtOB5Eo-7RfLMWa3PJLrZEhgcDmZHM6s7XgbmOpVK2ZafpSUgrM8vU2O3O-i9BvSIRfcC5m1iCW88ioeh058Ac-tDdhC9AKw3IMLbgGaEQafWtaqhk~GNH0QGXfjLZnMkv-1IpnJbqnt7cvk-PU3AcUyO5EH-dJVjd3t1yltodaE-AzASOstcsGkDd2luUpL2nwiF2ev~YtXfMyp7wCz3SaX21eXdepvkD4GtapeKeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Insistí en cenar sin pantallas durante la semana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "db0d3608-8c81-48a6-884f-e5121a92e4cf",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/862389b1e7d8486c85b716cbea27c4c6_b06-eso-me-sirvio-para-cerrar-el-dia-con-mas-calma.mp3?Expires=1794099722&Signature=sX2f94nTf9YXfSUl8SYEbfhqLCA7sY21iH0XaJBApTyTQQOlvYJxzwl8aT0ypmEmutFSZHntv6H0itrySsPZYOpo59yzZuqxMMK1yk7041sa3oPDvTEi7LAxd8HYdPsIopvCccYzlWIPxO41UuhFh1gx5W-g~S-nHF~NUPHE2n1e2H51io4y66n85FT5Uc23FqnvHP1ha-hNh4A6TjNFR3WQAROay2oMqdD00I793IDHy7GeWCF019qkW089-DIY1OgIbeoU3z2ju-VBjEoDgTgn9LBWq9t5xJsTlUvI7xuNwScdmw61HX9hY3kHsi3FoQJ3lEJOP7eM0tR2Be3cDg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Eso me sirvió para cerrar el día con más calma.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "8d8837e4-92c6-4899-be3e-8ae3e4706827",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8113b4a0d6094f4183b97cbaa0382737_b08-linea-04-tiene-sentido-voy-a-probarlo-esta-semana.mp3?Expires=1794099722&Signature=BCxKSPN4SWJ2lzyHrDSbc-uCf~5x25OP-dZf~67bj9BcZ7iYayl52FqBc-rGy-U6Cq03NGwr0fPIG2Grcdddg~AL1L7r4yJ3uhOUOCvzZS2FR5lbpvb9oCX5EmBhayuvs~pFmPd4q8OA~KJ6nWU3k~ko3jSNZAsPkuPEudrHV~-nYwoAjXiYbZfjgAC3dO69L440THXa0I98Z28TWKiDAzMyR1kLJdzWlebbKLoe7IIRqjjotBDZlhFM0TekWcuY5IzedyDgZGCvhr~32E8Q4NJC5fCKxnxW2O5R-6WYSh5zHf11Yfa39yn7YoZaa5oIZ6Fc-pLSX4aCaFQWQtqRhw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tiene sentido. Voy a probarlo esta semana.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "aa070109-cdf3-43ff-a601-bca4f5bb517c",
+      "sequence": 11,
+      "lessonId": "d1bb6372-8c69-41a9-9c99-1dbe9055ddee",
+      "title": "Recupere o verbo do efeito",
+      "content": "<p>Eso me ayuda a ________ horarios más regulares.</p><p>Tradução: Isso me ajuda a manter horários mais regulares.</p>",
+      "contentPlain": "Eso me ayuda a ________ horarios más regulares. Tradução: Isso me ajuda a manter horários mais regulares.",
+      "fileUrl": null,
+      "feedbackSuccess": "Mantener horarios más regulares explicita o efeito prático da mudança.",
+      "feedbackError": "Mantener horarios más regulares explicita o efeito prático da mudança.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mantener",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "29e148fa-595c-4791-a6c8-2f15bedb60f1",
+      "sequence": 12,
+      "lessonId": "ac330f66-85a2-437b-a8d8-c76dfcdfed43",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Relacione cada áudio a fala correspondente. O conjunto recompõe a conversa curta de retomada da aula.</p>",
+      "contentPlain": "Relacione cada áudio a fala correspondente. O conjunto recompõe a conversa curta de retomada da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final recompõe a sequência inteira: hábito que ficou, ajuste desejado e justificativa prática.",
+      "feedbackError": "O diálogo final recompõe a sequência inteira: hábito que ficou, ajuste desejado e justificativa prática.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8c7738bd-35c5-4701-8898-380c254a4245",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/dacd88f4be944c8bb064501cc23be4e0_b07-linea-01-y-que-habito-te-quedo-despues-de-la-pandemia.mp3?Expires=1794099722&Signature=kBOD89kt24TUW4Shrys~OOK1lyD7hn2bGH91bzDVFRtCBnd1UgPsl7~rDZBzMIe2XQwQj2FHF0KmJ4u15bxnmwcxYMxcnDUjKsJiwKpvKRYiOaS19A0SZImyshBoXVGEXdeRV7a5-wcQJ5pUxJJv96Q6oN9YYHY1WBfoSm0kq3SJwx~uh7nxGSO4K~UmpJiXa9hdxePEMnL~DsY6eYMkPgyB5VY0ByGiuVPxYfjvrJ-vps0h2yvQXYiAvrDmQ8Fpq05bSwow2FhlzvqUYexu1Xxux5ldRuOHwV3tGUntJazvYJqc6rbpLx9lFNqutLvJrow6iMB2ClZiJaXeC2Pfxw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Y qué hábito te quedó después de la pandemia?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8b314661-bc2d-4ea3-bb4d-294aab6703e6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4ac0f17fae7f431c82eb7670e8927d3f_b02-durante-el-confinamiento-me-acostumbre-a-cocinar-en-casa.mp3?Expires=1794099722&Signature=uxxu5buNlWUWc3ld10fDWTX41CZLxjsucoQoGcsHsxcjguYwCiiE4evvWVvWvCkKk3qX47wtgy7PqeYRmn3QZMZZXfFLN4GsduZ5x47BXQmk26Td2S59jnMK1KvOGATwXFLl-SEaqSiTKzpKnLrB~b0R5q-hQmzuxQ25BvGsGg9FOVeGfpL1K6ChltLH2PWzY2A~u9ceDQW0T8a0MhbQ8zrUP2Wmix9i2XsgyrTtU6Yv8jxo~7DnpfkYvgQ9oo3WEw1pM2cbVpHqEqpP4NG2R6IKyDAa4YcrX4lsp9R1u0gTPPz4Wn7pWUiLw3DR1q~hiWjPwm-qP16eylqeiwy~dQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Durante el confinamiento, me acostumbré a cocinar en casa.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5c7a8943-ae69-4a10-8469-3c2e50e2f5fd",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/29ffee6194024730ab6dfcd1ed9f98a7_b07-linea-03-y-hay-algo-que-todavia-quieras-cambiar.mp3?Expires=1794099722&Signature=yLxHAMPa38bX2bI-f9lpettcmK6GzAtc4Al2Wu31LSArrl1ZQBNhK~3Uv0Z5IDZfjDa1d8N6RczLD00X3vCxbT7sz2S2H8YD4z1~csGARZzsvzmkkPYyNFOkj4QBswKR-MFFluiLRGqdzNIdiTaIx9w-jC85IgYgcBt6ZleKEzyvbnA59ZoAkbzt2KP45QAmaYiIm2HV9px--2g9oROBmgWSo0UK~d~aN4vAsfit-4q-GAuQFein9jGocP6QEPdCfcW0kvpQzKgmQDE1S6y6UlHrXZKpRfOzvDefV6jdznK~fYsfdAQDdDTcmdFtbFfLD0KTJ6L3SMmboC33-Zf2Rg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Y hay algo que todavía quieras cambiar?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "0d50d66d-dabe-4bf9-83d3-60131dd85f06",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/21cf382e130e4f81946a2a780bdf228a_b04-ahora-me-gustaria-que-me-resultara-mas-facil.mp3?Expires=1794099722&Signature=Z8LpYW13hD6fMFeTFmAJTTx-FWT0qi5ZIyuUmIjZLppgBp2NBRmYf3qckjGS3sCH~6GeIaqb-2oCYBoUKSM9G06EhgJ-XH5O3pqgI2JFlxZomAVsMYIMD4fzu1MA6y5y559qFqtP8sGjjY9nc901HwzLaltRSI~xNKtDY~SfkxZgtmkg4YWprSzgrd14oeyuCoZTVtQ-96XFVCoBJqcb1z~~N7Pfr~7pI3D5SOth9KrTHHxoTtA-v2GHVfk-WGAFO8mHD22WIxZUFHxhygg~gTaXu1jo4ImlOoKOa~HSsMYrkPemyeV~Sw5QagwX2F8DqFkTUzqtbrl4Vwg3aEW0rQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ahora me gustaría que me resultara más fácil dejar de cenar tan tarde.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "2192a73f-21de-4c34-85d7-ec4d384fdc4a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0e23fa1f420549ac89443d225943d2f5_b06-ese-cambio-me-serviria-para-dormir-mejor.mp3?Expires=1794099722&Signature=dg3CMNQ87FjYzReMli2DzIH6uCwVTtdPOlKVmd09HLEp6yE4~ifq7XvTyjzZCLDi0ytUk8LtBDUGaEykgrObW9UdyE9Cp6WB064RzF61ycuVQBuOFgVDOrlOKHph4cH3LXGPFZRdnLUJaExR4awkWOIOEqTK9W7mwagAT3yKWGzOr4PWpCeBcb-Ns0sxIKFy8OTsSm-n5TZtBPI43v3zSAs2EmcPNsncNg8rzoM1TOTWIdFmbeNK2ERmhMdzO8QEv1lQiGCu2CO9vVX3Vx9oZtoRTZ0DxCOcUCHsnnTOhVlT~ke7YHGi7vRtKe9NMlY5vrnrxDkEJcF4LdN2sY48SA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ese cambio me serviría para dormir mejor y tener más energía al día siguiente.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "ab9defd1-66c2-4235-97a1-ce6024236930",
+      "sequence": 13,
+      "lessonId": "7275a835-28d7-4900-93d3-ed624288c392",
+      "title": "Recupere o verbo da adaptacao",
+      "content": "<p>Todavía me estoy _____________ a una rutina más flexible.</p><p>Tradução: Ainda estou me acostumando com uma rotina mais flexivel.</p>",
+      "contentPlain": "Todavía me estoy _____________ a una rutina más flexible. Tradução: Ainda estou me acostumando com uma rotina mais flexivel.",
+      "fileUrl": null,
+      "feedbackSuccess": "Acostumbrarse a marca uma adaptação que ainda está sendo assimilada.",
+      "feedbackError": "Acostumbrarse a marca uma adaptação que ainda está sendo assimilada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "acostumbrando",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c3f71776-945c-47f6-91ff-b4ae0158bf8f",
+      "sequence": 14,
+      "lessonId": "59bb43ed-5e9b-4e0d-a6dd-7f5b94e9f72f",
+      "title": "Recupere o verbo da dificuldade",
+      "content": "<p>No creía que me _______ tanto adaptarme a otra rutina.</p><p>Tradução: Eu não achava que fosse me custar tanto me adaptar a outra rotina.</p>",
+      "contentPlain": "No creía que me _______ tanto adaptarme a otra rutina. Tradução: Eu não achava que fosse me custar tanto me adaptar a outra rotina.",
+      "fileUrl": null,
+      "feedbackSuccess": "`No creía que...` revê uma dificuldade percebida só depois da mudança.",
+      "feedbackError": "`No creía que...` revê uma dificuldade percebida só depois da mudança.",
+      "answerType": "buildWord",
+      "expectedAnswer": "costara",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "16357336-9c45-43ef-926b-1d323f7dab8f",
+      "sequence": 15,
+      "lessonId": "7275a835-28d7-4900-93d3-ed624288c392",
+      "title": "Recupere o verbo do resultado",
+      "content": "<p>Eso me ______ para cerrar el día con más calma.</p><p>Tradução: Isso me ajudou a fechar o dia com mais calma.</p>",
+      "contentPlain": "Eso me ______ para cerrar el día con más calma. Tradução: Isso me ajudou a fechar o dia com mais calma.",
+      "fileUrl": null,
+      "feedbackSuccess": "Servir para apresenta o uso ou o efeito que a mudança trouxe no dia a dia.",
+      "feedbackError": "Servir para apresenta o uso ou o efeito que a mudança trouxe no dia a dia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sirvió",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+    "attemptId": "d58d9855-861f-44a3-9465-9508e9d7a6b4",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "02b44e8c-524d-4d20-a51d-49b3a8524c0b",
+      "b0cad5b1-c4e5-4003-92ff-340170e6e2c7",
+      "4399d10f-6c34-41c9-b154-7158716a343b",
+      "703e9400-00ed-4fc5-a181-d5da147e493a",
+      "a690377b-6189-4753-a63a-b2558a15b9cc"
+    ],
+    "evaluationExerciseIds": [
+      "deec6b88-a945-40ba-a588-bf831426a36c",
+      "58182f8e-9baf-4f3e-97cc-09dcfd5e67a5",
+      "34ceaec3-e0f3-42b7-96a1-c46739c41163",
+      "bac77b99-4da0-4224-97b9-e0929222a362",
+      "df29a8b4-ebf5-4a29-9e41-8c7be9f82543"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:31.8010469Z"
+  },
+  "contents": [
+    {
+      "id": "61c161b5-2d76-400f-96fe-fd421b4ca9e9",
+      "title": "Leia a abertura e observe como a aula vai mudar o enquadramento do risco sem mudar o domínio financeiro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "672c60ed-a749-494a-a995-facf5fcc7c5f",
+          "textContent": "<p>Em comentários sobre crédito, nem toda frase faz o mesmo trabalho.</p><p>A mesma operação pode soar como filtro inicial, expectativa no papel, choque com a realidade ou avaliação tardia do risco.</p><p>Nesta aula, o foco é usar quatro molduras em espanhol para organizar esse tipo de leitura com mais precisão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5884164b-4d0b-4944-9858-f4c86ab8195c",
+      "title": "Leia a frase em espanhol e acompanhe a tradução. Repare em como o comentário localiza o caso logo na leitura inicial.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "5671bb82-3a9f-4cff-b3ae-afd0db5a092f",
+          "textContent": "<p>Primeiro, uma leitura de filtro inicial:</p><p><strong>De entrada, el banco pidió un aval antes de revisar la solicitud.</strong></p><p>Em português: <strong>De cara, o banco pediu um aval antes de revisar a solicitação.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d8e7ac72-cb85-4895-a058-1513061bfd6f",
+      "title": "Leia a nota e observe como a moldura separa impressão inicial de decisão final.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "7b46a1ac-6d41-4d44-a5b7-4c79710985bc",
+          "textContent": "<p><strong>de entrada</strong> marca a primeira leitura do caso, antes de a análise ficar mais detalhada.</p><p>A frase não resolve o processo inteiro: ela mostra o que apareceu logo no começo.</p><p>Aqui, <strong>aval</strong> funciona como garantia pessoal exigida já nesse primeiro filtro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "76408b3e-f327-4643-a6b2-d0147f72bc42",
+      "title": "Leia a frase em espanhol e acompanhe a tradução. Repare em como a leitura depende do que o plano sugere, não do resultado real.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "4b4f8c46-9b85-476f-948e-b69960dc61f3",
+          "textContent": "<p>Agora entra a leitura no papel:</p><p><strong>En teoría, el préstamo encajaba con el proyecto y con el plazo previsto.</strong></p><p>Em português: <strong>Em teoria, o empréstimo combinava com o projeto e com o prazo previsto.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "edef03a0-9ddd-4c0e-afb5-e612512d1ad1",
+      "title": "Leia a nota e observe que a moldura organiza o que parece viável no plano, nos números ou no prazo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "ae2b6458-456a-48c0-8d81-6532c579586f",
+          "textContent": "<p><strong>en teoria</strong> apresenta o caso como algo que parece funcionar no papel.</p><p>O comentário se apoia no que prazo, números ou projeto sugerem antes do teste com a realidade.</p><p>Por isso, a frase não garante que o <strong>prestamo</strong> vai sair: ela mostra apenas que a proposta parecia viável.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "814ce3e4-bf1d-4816-89aa-3b2b495891b7",
+      "title": "Leia a frase em espanhol e acompanhe a tradução. Repare em como o comentário sai do plano e entra no que realmente aconteceu ao avaliar o caso.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "54eb5481-ea43-48d3-adb6-ec17e845d464",
+          "textContent": "<p>Agora a leitura sai do plano e entra no teste real:</p><p><strong>En la práctica, la garantía no cubría el nivel de riesgo que veía la entidad.</strong></p><p>Em português: <strong>Na prática, a garantia não cobria o nivel de risco que a instituição via.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7f698599-a9f5-4fc9-a02c-87a4062d3564",
+      "title": "Leia a nota e observe como a moldura muda o comentário de expectativa para confronto com a realidade.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "139e7415-0c7b-4fcb-a920-95f4c9d15537",
+          "textContent": "<p><strong>en la practica</strong> corrige ou testa o que antes parecia suficiente.</p><p>Ela introduz o momento em que a proposta encontra as exigências reais da operação.</p><p>Aqui, a pergunta não é se havia uma <strong>garantia</strong>, mas se ela cobria o risco de verdade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0c930052-3932-4e34-99fb-5f02d4af2625",
+      "title": "Leia a frase em espanhol e acompanhe a tradução. Repare em como a moldura indica que o comentário chega depois de um processo já avançado.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "68696bc6-f0da-4eef-91ee-bd42f217c5c3",
+          "textContent": "<p>Por fim, entra uma avaliação tardia do caso:</p><p><strong>A estas alturas, la cuota ya pesaba más de lo que la familia podía asumir.</strong></p><p>Em português: <strong>A esta altura, a parcela já pesava mais do que a família podia assumir.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0490af28-bd88-45a9-b6c3-81e0d3d6942d",
+      "title": "Leia a nota e observe como a moldura não fala só de tempo, mas do momento em que a situação já se tornou mais pesada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "7fc4c0ef-7063-4850-ac32-a1e1f07c8bd3",
+          "textContent": "<p><strong>a estas alturas</strong> indica que o comentário chega quando o processo já avancou e os efeitos se acumularam.</p><p>Ela não marca só o tempo que passou: marca um ponto em que o caso já ganhou outro peso.</p><p>Aqui, <strong>cuota</strong> deixa de ser só uma parcela prevista e passa a aparecer como carga que a família já não consegue sustentar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "191c8f0c-5b85-4ce8-932d-c74fb662586c",
+      "title": "Leia o mapa e compare não só a frase em si, mas o momento de análise que ela sugere.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "2ecc53e1-24f7-476b-94dd-63bc2a73705b",
+          "textContent": "<p>As quatro molduras não dizem o mesmo sobre um caso de crédito.</p><ul><li><strong>de entrada</strong>: mostra o que apareceu no primeiro filtro.</li><li><strong>en teoria</strong>: apresenta o que parecia viável no papel.</li><li><strong>en la practica</strong>: testa a proposta contra a realidade da operação.</li><li><strong>a estas alturas</strong>: reavalia o caso quando o tempo passou e o peso mudou.</li></ul><p>Assim, o comentário fica mais preciso ao falar de aval, prestamo, garantia ou cuota.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cb3611cf-6887-4308-9793-adaad1ad2e5d",
+      "title": "Passe pelos exemplos finais e observe como cada moldura ajuda a comentar um caso real sem misturar etapa inicial, expectativa, contraste e leitura tardia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "6dc2d0ee-8825-454f-bc85-163084fe1220",
+          "textContent": "<p>Quando você comenta um caso real de crédito, a moldura escolhida muda o peso do que diz.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "66d2bcd5-5fbf-4dc7-9057-2b656b945991",
+          "textContent": "<p><strong>De entrada, el banco pidió un aval antes de revisar la solicitud.</strong></p><p>Use quando quer marcar o primeiro filtro do caso.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "b822e33a-c379-4d6f-8032-0ddd3d43754c",
+          "textContent": "<p><strong>En teoría, el préstamo encajaba con el proyecto y con el plazo previsto.</strong></p><p>Use quando a proposta parece viável no papel.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "2ec70317-45a7-4b5e-bc39-90210ac84d3f",
+          "textContent": "<p><strong>En la práctica, la garantía no cubría el nivel de riesgo que veía la entidad.</strong></p><p>Use quando a realidade corrige a expectativa inicial.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "4776f495-fc63-45ae-9f15-deebf079bf8a",
+          "textContent": "<p><strong>A estas alturas, la cuota ya pesaba más de lo que la familia podía asumir.</strong></p><p>Use quando o comentário chega a um ponto mais tardio e mais pesado do processo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "bc13e1a1-86ad-41b3-9274-fb2eb62b607d",
+          "textContent": "<p>Esse tipo de leitura aparece em conversas reais sobre abrir um negócio, financiar uma compra grande ou renegociar um crédito quando o risco, a garantia e o limite de pagamento precisam ficar claros.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a2af3c1c-2b14-4695-98e6-b20565666c24",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 12,
+      "items": [
+        {
+          "id": "90300962-c04c-44f4-bb33-10e7c6a9057a",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dea3e561243d44c7b0c53914c0c58fa3_MEC-IDIOMAS_CAP_7_-_AULA_02_ESP.mp4?Expires=1794099932&Signature=iCtbY8-8ttvyMnRZ7LzW-TBpInOcH4HA-NWgyT2LFgP7fJg6AH63Hv66C9UbvG9matml0alYgkiImiI4m2FOdUCj~-HmY9cyAVDr3txmXUhpE5vifziZUaDsvmVXebAL2usBX2ioYJrT~Oq1HGnAZyrvLrXKpOxg9eN7hm70OdWCoe0GzPm5r9TEgp1RVIejPvaUuqMlQB884CW4FytS8YySI1gp~BfBR9U8i07P3QuR5m~vWTi0b2j~tJE8RKoNKPxDus0ZU6U78JKaN1FO9WF9HkwPauRuoHHl8jciq-JOE2WyEVH29nS7C-G6E4ZlkWvlFxWLgOVcp-JreBdS7Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dea3e561243d44c7b0c53914c0c58fa3_MEC-IDIOMAS_CAP_7_-_AULA_02_ESP.mp4?Expires=1794099932&Signature=iCtbY8-8ttvyMnRZ7LzW-TBpInOcH4HA-NWgyT2LFgP7fJg6AH63Hv66C9UbvG9matml0alYgkiImiI4m2FOdUCj~-HmY9cyAVDr3txmXUhpE5vifziZUaDsvmVXebAL2usBX2ioYJrT~Oq1HGnAZyrvLrXKpOxg9eN7hm70OdWCoe0GzPm5r9TEgp1RVIejPvaUuqMlQB884CW4FytS8YySI1gp~BfBR9U8i07P3QuR5m~vWTi0b2j~tJE8RKoNKPxDus0ZU6U78JKaN1FO9WF9HkwPauRuoHHl8jciq-JOE2WyEVH29nS7C-G6E4ZlkWvlFxWLgOVcp-JreBdS7Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "02b44e8c-524d-4d20-a51d-49b3a8524c0b",
+      "title": "Escolha o comentário mais adequado",
+      "content": "<p>Você quer indicar que o caso ainda está na leitura inicial e que a garantia pessoal apareceu logo no começo. Qual frase em espanhol faz melhor esse enquadramento?</p>",
+      "contentPlain": "Você quer indicar que o caso ainda está na leitura inicial e que a garantia pessoal apareceu logo no começo. Qual frase em espanhol faz melhor esse enquadramento?",
+      "fileUrl": null,
+      "feedbackSuccess": "de entrada marca o primeiro filtro do caso e pode introduzir um aval logo no começo.",
+      "feedbackError": "de entrada marca o primeiro filtro do caso e pode introduzir um aval logo no começo.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "11571876-c605-472f-8f09-e0941fcc263d",
+          "textContent": "De entrada, la entidad pidio un aval antes de abrir la revisión.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "02b44e8c-524d-4d20-a51d-49b3a8524c0b"
+        },
+        {
+          "id": "475650e4-e60b-46e4-be20-68ae1dbb99aa",
+          "textContent": "En la practica, la garantia no alcanzaba para cubrir el riesgo real.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "02b44e8c-524d-4d20-a51d-49b3a8524c0b"
+        },
+        {
+          "id": "b12ddc70-cf5f-4fd0-b619-fcf5a5b2d6d7",
+          "textContent": "En teoria, el prestamo parecia encajar con el calendario del proyecto.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "02b44e8c-524d-4d20-a51d-49b3a8524c0b"
+        },
+        {
+          "id": "bdf959f3-edd6-4e81-acf1-e93fc25444d2",
+          "textContent": "A estas alturas, la cuota ya resultaba dificil de sostener.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "02b44e8c-524d-4d20-a51d-49b3a8524c0b"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "b0cad5b1-c4e5-4003-92ff-340170e6e2c7",
+      "title": "Escolha a leitura no papel",
+      "content": "<p>O comentário precisa mostrar que o projeto parecia fechar bem no prazo e nos números, mas isso ainda não foi confirmado na realidade. Qual frase em espanhol faz esse trabalho?</p>",
+      "contentPlain": "O comentário precisa mostrar que o projeto parecia fechar bem no prazo e nos números, mas isso ainda não foi confirmado na realidade. Qual frase em espanhol faz esse trabalho?",
+      "fileUrl": null,
+      "feedbackSuccess": "en teoria apresenta o que parece viável no papel antes do teste com a realidade.",
+      "feedbackError": "en teoria apresenta o que parece viável no papel antes do teste com a realidade.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "64fe99f2-1219-4b08-a57a-a744168696d1",
+          "textContent": "En teoria, el prestamo parecia encajar con el plazo previsto.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b0cad5b1-c4e5-4003-92ff-340170e6e2c7"
+        },
+        {
+          "id": "9bcaafd8-ab5e-473d-a5b2-9dd39b68549d",
+          "textContent": "De entrada, el banco pidio un aval para revisar la solicitud.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b0cad5b1-c4e5-4003-92ff-340170e6e2c7"
+        },
+        {
+          "id": "a78c99e4-1b08-4e48-9923-7bb491472aaa",
+          "textContent": "En la practica, la garantia no cubria el riesgo que veia la entidad.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b0cad5b1-c4e5-4003-92ff-340170e6e2c7"
+        },
+        {
+          "id": "c8eb09e2-9400-48bd-98a8-168dc5e58a14",
+          "textContent": "A estas alturas, la cuota ya pesaba demasiado para la familia.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b0cad5b1-c4e5-4003-92ff-340170e6e2c7"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4399d10f-6c34-41c9-b154-7158716a343b",
+      "title": "Associe termo e sentido",
+      "content": "<p>Relacione cada termo em espanhol ao papel que ele assume nos comentarios desta licao.</p>",
+      "contentPlain": "Relacione cada termo em espanhol ao papel que ele assume nos comentarios desta licao.",
+      "fileUrl": null,
+      "feedbackSuccess": "A licao liga aval, prestamo, garantia e cuota a leituras diferentes do risco.",
+      "feedbackError": "A licao liga aval, prestamo, garantia e cuota a leituras diferentes do risco.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "a4b10898-6ac0-4303-8490-7266057cdadc",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4399d10f-6c34-41c9-b154-7158716a343b"
+        },
+        {
+          "id": "fc07aa4b-d515-49f0-8345-80c36efd8751",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4399d10f-6c34-41c9-b154-7158716a343b"
+        }
+      ],
+      "associations": [
+        {
+          "id": "e508fdd4-e940-4fac-acd9-ac45d995533f",
+          "exerciseId": "4399d10f-6c34-41c9-b154-7158716a343b",
+          "leftContent": "aval",
+          "rightContent": "garantia pessoal pedida logo no primeiro filtro",
+          "sequenceItem": 1
+        },
+        {
+          "id": "fb616999-ba82-41c6-94a2-ee42dd1353ab",
+          "exerciseId": "4399d10f-6c34-41c9-b154-7158716a343b",
+          "leftContent": "prestamo",
+          "rightContent": "operacao que parece viavel no papel",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ef2c47f9-899c-4147-880a-3337905e57fb",
+          "exerciseId": "4399d10f-6c34-41c9-b154-7158716a343b",
+          "leftContent": "garantia",
+          "rightContent": "protecao que precisa cobrir o risco real",
+          "sequenceItem": 3
+        },
+        {
+          "id": "8ff66caa-981e-4b66-9a2a-11a7fdec6869",
+          "exerciseId": "4399d10f-6c34-41c9-b154-7158716a343b",
+          "leftContent": "cuota",
+          "rightContent": "parcela que pode virar carga tardia",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "703e9400-00ed-4fc5-a181-d5da147e493a",
+      "title": "Associe termo e sentido",
+      "content": "<p>Relacione cada termo em espanhol ao papel que ele assume nos comentários desta lição.</p>",
+      "contentPlain": "Relacione cada termo em espanhol ao papel que ele assume nos comentários desta lição.",
+      "fileUrl": null,
+      "feedbackSuccess": "A lição liga aval, prestamo, garantia e cuota a leituras diferentes do risco.",
+      "feedbackError": "A lição liga aval, prestamo, garantia e cuota a leituras diferentes do risco.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5ecfb0ce-84c9-416f-8884-a9e03a5aebff",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "703e9400-00ed-4fc5-a181-d5da147e493a"
+        },
+        {
+          "id": "fd5ee82f-944e-4c83-b28d-b5cac59674c8",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "703e9400-00ed-4fc5-a181-d5da147e493a"
+        }
+      ],
+      "associations": [
+        {
+          "id": "99068aa2-5c1f-4ef4-b4fa-34e4611a76bf",
+          "exerciseId": "703e9400-00ed-4fc5-a181-d5da147e493a",
+          "leftContent": "aval",
+          "rightContent": "garantia pessoal pedida logo no primeiro filtro",
+          "sequenceItem": 1
+        },
+        {
+          "id": "35b638e7-ba2b-4777-9ed0-f7ba52bcd96a",
+          "exerciseId": "703e9400-00ed-4fc5-a181-d5da147e493a",
+          "leftContent": "prestamo",
+          "rightContent": "operação que parece viável no papel",
+          "sequenceItem": 2
+        },
+        {
+          "id": "be4c9270-a3af-49d6-972c-8cd7ad6f8d89",
+          "exerciseId": "703e9400-00ed-4fc5-a181-d5da147e493a",
+          "leftContent": "garantia",
+          "rightContent": "proteção que precisa cobrir o risco real",
+          "sequenceItem": 3
+        },
+        {
+          "id": "f081a454-aab6-42a6-bde6-890e4947b328",
+          "exerciseId": "703e9400-00ed-4fc5-a181-d5da147e493a",
+          "leftContent": "cuota",
+          "rightContent": "parcela que pode virar carga tardia",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "a690377b-6189-4753-a63a-b2558a15b9cc",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: En la practica, la garantia no cubria el ______ que veia la entidad.</p>\n          <p>Tradução: Na prática, a garantia não cobria o risco que a instituição via.</p>",
+      "contentPlain": "Complete a frase em espanhol: En la practica, la garantia no cubria el ______ que veia la entidad. Tradução: Na prática, a garantia não cobria o risco que a instituição via.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, riesgo aparece quando a garantia é testada contra a realidade da operação.",
+      "feedbackError": "Aqui, riesgo aparece quando a garantia é testada contra a realidade da operação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "riesgo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "deec6b88-a945-40ba-a588-bf831426a36c",
+      "title": "Recupere a moldura",
+      "content": "<p>Complete a frase em espanhol: En la ________, la garantia quedaba corta frente al riesgo real.</p>\n          <p>Tradução: Na prática, a garantia ficava curta diante do risco real.</p>",
+      "contentPlain": "Complete a frase em espanhol: En la ________, la garantia quedaba corta frente al riesgo real. Tradução: Na prática, a garantia ficava curta diante do risco real.",
+      "fileUrl": null,
+      "feedbackSuccess": "en la practica introduz o choque entre expectativa e realidade da operação.",
+      "feedbackError": "en la practica introduz o choque entre expectativa e realidade da operação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "practica",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "58182f8e-9baf-4f3e-97cc-09dcfd5e67a5",
+      "title": "Recupere a moldura",
+      "content": "<p>Complete a frase em espanhol: A estas _______, la cuota ya superaba lo que podian asumir.</p>\n          <p>Tradução: A esta altura, a parcela já superava o que eles podiam assumir.</p>",
+      "contentPlain": "Complete a frase em espanhol: A estas _______, la cuota ya superaba lo que podian asumir. Tradução: A esta altura, a parcela já superava o que eles podiam assumir.",
+      "fileUrl": null,
+      "feedbackSuccess": "a estas alturas marca uma leitura tardia em que o peso do caso já mudou.",
+      "feedbackError": "a estas alturas marca uma leitura tardia em que o peso do caso já mudou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "alturas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "34ceaec3-e0f3-42b7-96a1-c46739c41163",
+      "title": "Recupere a moldura",
+      "content": "<p>Complete a frase em espanhol: En ______, el prestamo parecia cuadrar con el plan de pagos.</p>\n          <p>Tradução: Em teoria, o empréstimo parecia combinar com o plano de pagamentos.</p>",
+      "contentPlain": "Complete a frase em espanhol: En ______, el prestamo parecia cuadrar con el plan de pagos. Tradução: Em teoria, o empréstimo parecia combinar com o plano de pagamentos.",
+      "fileUrl": null,
+      "feedbackSuccess": "en teoria enquadra uma viabilidade que ainda existe só no papel.",
+      "feedbackError": "en teoria enquadra uma viabilidade que ainda existe só no papel.",
+      "answerType": "buildWord",
+      "expectedAnswer": "teoria",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "bac77b99-4da0-4224-97b9-e0929222a362",
+      "title": "Recupere a moldura",
+      "content": "<p>Complete a frase em espanhol: De _______, el analista ya pidio un aval para abrir el expediente.</p>\n          <p>Tradução: De cara, o analista já pediu um aval para abrir o processo.</p>",
+      "contentPlain": "Complete a frase em espanhol: De _______, el analista ya pidio un aval para abrir el expediente. Tradução: De cara, o analista já pediu um aval para abrir o processo.",
+      "fileUrl": null,
+      "feedbackSuccess": "de entrada marca o que surge logo no primeiro filtro do caso.",
+      "feedbackError": "de entrada marca o que surge logo no primeiro filtro do caso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "entrada",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "df29a8b4-ebf5-4a29-9e41-8c7be9f82543",
+      "title": "Aplique a moldura correta",
+      "content": "<p>Relacione cada leitura do caso, em portugues, a moldura em espanhol que melhor a organiza.</p>",
+      "contentPlain": "Relacione cada leitura do caso, em portugues, a moldura em espanhol que melhor a organiza.",
+      "fileUrl": null,
+      "feedbackSuccess": "As quatro molduras organizam leitura inicial, expectativa, contraste real e avaliação tardia.",
+      "feedbackError": "As quatro molduras organizam leitura inicial, expectativa, contraste real e avaliação tardia.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e6825497-9c9c-4766-bd3d-c5af46989724",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6ffe9244-d96b-4119-bd52-3ee0d9259b2c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "df29a8b4-ebf5-4a29-9e41-8c7be9f82543"
+        },
+        {
+          "id": "e202e692-6137-4908-80fc-27e9a4cd3e7c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "df29a8b4-ebf5-4a29-9e41-8c7be9f82543"
+        }
+      ],
+      "associations": [
+        {
+          "id": "bbfebf8d-f427-4413-8d47-cf8934d41b5e",
+          "exerciseId": "df29a8b4-ebf5-4a29-9e41-8c7be9f82543",
+          "leftContent": "O banco ainda nem entrou na análise detalhada e já pede uma garantia pessoal.",
+          "rightContent": "de entrada",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f3028e2f-381a-47d7-9142-4bfa19b44be2",
+          "exerciseId": "df29a8b4-ebf5-4a29-9e41-8c7be9f82543",
+          "leftContent": "O comentário fala de um plano que parecia fechar nos números e no prazo.",
+          "rightContent": "en teoria",
+          "sequenceItem": 2
+        },
+        {
+          "id": "bd53e90c-69d8-4c48-905f-59ffa1afeeb3",
+          "exerciseId": "df29a8b4-ebf5-4a29-9e41-8c7be9f82543",
+          "leftContent": "A proposta parecia suficiente, mas falha quando o risco real entra em jogo.",
+          "rightContent": "en la practica",
+          "sequenceItem": 3
+        },
+        {
+          "id": "ef6601d2-b448-4ed4-89b0-f4a15608459b",
+          "exerciseId": "df29a8b4-ebf5-4a29-9e41-8c7be9f82543",
+          "leftContent": "O processo já se arrastou e a parcela agora pesa mais do que antes.",
+          "rightContent": "a estas alturas",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Enquadrar aval, garantia e risco em comentarios de credito"
+}

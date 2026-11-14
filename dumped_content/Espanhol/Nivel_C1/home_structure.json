@@ -1,0 +1,852 @@
+{
+  "currentLevel": {
+    "id": "6897f2df-3104-4b67-b7da-c908feb63f82",
+    "name": "C1",
+    "icon": null,
+    "bannerImageUrl": null
+  },
+  "modules": [
+    {
+      "id": "ecc43d9f-baa2-44c1-b4d0-8d67b26a0895",
+      "title": "Comentar experiencias gastronomicas com precisao",
+      "subTitle": "Leia sinais de um menu sofisticado, avalie pratos e encadeie experiencias de mesa em conversas culturais mais fluidas.",
+      "sequenceItem": 1,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": true,
+      "learningPath": [
+        {
+          "lessonId": "30d59b74-a447-4ed9-87ab-14e385cf6f80",
+          "title": "Situar cenas de mesa e linguagem avaliativa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": true,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "477cc35a-c307-4c35-8d23-70bebb9b86f7",
+          "title": "Ler o que um cardapio sugere",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+          "title": "Passar da impressao a sequencia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+          "title": "Amarrar o tempo de uma experiencia a mesa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "57e8dc57-fae2-4aa7-8b7d-f2e17ddbec72",
+          "title": "Ensaiar reacoes culturais em voz alta",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "be2c6981-556c-4b28-b578-a7e312e66f84",
+          "title": "Fechar com um comentario cultural sobre comida",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "ae7938a4-ac6c-4f77-b77d-e97f7a7bb69b",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "77f8c977-4fdf-473f-832b-61552112e5c5",
+      "title": "Comentar arte e memoria cultural com matiz",
+      "subTitle": "Interprete exposicoes, performances e lembrancas culturais para comentar valor, tradicao e memoria com mais precisao.",
+      "sequenceItem": 2,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "30426d42-11c5-4177-87a1-69b95d09b2ad",
+          "title": "Ler valor artistico em textos de exposicao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "22e64260-d0e4-4e84-a866-309792e5087e",
+          "title": "Ajustar certeza e cautela em comentarios de arte",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "042cc3e8-dc84-43f9-8098-b8ea45026833",
+          "title": "Ler flamenco como performance e tradicao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "11226440-6784-46d0-9eb4-294ec2ce0cfc",
+          "title": "Escolher por e para no comentario cultural",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "c5d92cbd-9cdf-4895-a527-a5dd70d488c7",
+          "title": "Ensaiar um comentario oral sobre vida cultural",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "279ca934-b50b-4562-a32a-727b40be8d5e",
+          "title": "Comentar escolhas de produção no cinema",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5ea0e215-d4db-4891-a6c0-5a4716a89166",
+          "title": "Quando uma obra continua ecoando",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9e218c12-c2c2-43e5-9e5e-c90d57e6df4f",
+          "title": "Narrar uma lembranca artistica com comentario",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "checkpoint",
+          "checkpointId": "d9193b86-7f82-4fe9-a485-f5f691b45a85",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "795dd85f-fca1-4340-ba35-9c2c261ba018",
+      "title": "Matizar impressoes sobre cinema e pessoas",
+      "subTitle": "Passe de cenas lembradas a juizos sobre personalidade, atracao e irritacao com mais matiz.",
+      "sequenceItem": 3,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "796f1219-91ee-46f9-a966-23c379f8f958",
+          "title": "Puxar da memoria a cena que ficou",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "1094fd28-0212-4b76-a11b-d7f7399d17b0",
+          "title": "Ir alem do adjetivo para entender uma pessoa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+          "title": "Afinar ser e estar entre traco e estado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "2d3ea390-4e0d-4dd1-aec9-f29e293376d3",
+          "title": "Dar relevo a uma impressao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3cee52b9-8ee6-4044-b1fd-97557f3e7a1a",
+          "title": "Mediar tensoes sem rotular rapido",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8c0fe97e-9e1e-4dac-8d68-e400dedea11f",
+          "title": "Explicar o que te atrai e te prende",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6f96bb32-86e6-4ea5-9759-e37279429b3a",
+          "title": "Reagir com distancia e perda de paciencia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "3928b84e-802f-49fc-a92a-54ba74e238e5",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "efefc585-3ebf-4fc5-82ac-e6441a0dbe8b",
+      "title": "Descrever talento, gostos e tendencias",
+      "subTitle": "Fale de pontos fortes, preferencias e maneiras de agir com verbos e preposicoes mais precisos.",
+      "sequenceItem": 4,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "48c316f9-4d5d-4974-afee-b77aba01685e",
+          "title": "Dar nome ao que sai natural e ao que puxa suas escolhas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e19a76d1-fff5-4863-9841-6a09da423a9f",
+          "title": "Evitar trocas de sentido com verbos e preposicoes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3a410b51-7180-4b9b-a0cf-3e6e879208d1",
+          "title": "Juntar gosto, reacao e jeito de ser",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9b0d9580-633a-4e01-a7c5-971640747409",
+          "title": "Ensaiar um retrato oral de gostos e tendencias",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0b9591be-2991-43db-a988-13465b1575a8",
+          "title": "Dar unidade a um retrato pessoal",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "b22c03b8-e57d-4a79-85f0-835820c67498",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "03c6b042-790d-40a2-885d-91dad8df51a4",
+      "title": "Negociar convites e planos com finalidade",
+      "subTitle": "Passe de avaliacao do tempo livre a convites, respostas e justificativas de plano com mais tato.",
+      "sequenceItem": 5,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "ed116987-6bf7-4233-b10c-9844b9191abc",
+          "title": "Distinguir pausa que recompoe de tempo livre que se dispersa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e98586cc-7a84-4218-8ee0-2bfa736d4d91",
+          "title": "Deixar o convite aberto sem perder clareza",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6d3db600-92c6-48c5-95ed-636d93003d22",
+          "title": "Dar uma resposta e reajustar o combinado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f3cbb5bb-2bf9-464a-a465-db0e6c2c0833",
+          "title": "Amarrar o plano ao objetivo certo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3fd69366-0e91-47d9-b812-d28c0cbb088f",
+          "title": "Ensaiar combinacoes orais de lazer",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fc469c5c-69b4-4113-9585-6f0e41a6d597",
+          "title": "Fechar um acordo de fim de semana com tato",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "6d91cb2f-d523-43b2-817e-ef33f428de07",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "2429e7d2-1455-49a8-b8ac-ec3026e5aec4",
+      "title": "Avaliar perfis profissionais e dinamicas de equipe",
+      "subTitle": "Descreva funcoes, vagas e opinioes de trabalho com clausulas relativas e mais precisao avaliativa.",
+      "sequenceItem": 6,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "62db8832-28b9-40e2-97e1-c4462f2735d4",
+          "title": "Mapear funcoes e impacto em perfis profissionais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "b62164dc-2120-4de2-806b-31ec8bba9d6a",
+          "title": "Ajustar referencias com clausulas relativas no trabalho",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "7710b3f4-3f37-4261-8e9c-ca124fb1f463",
+          "title": "Ler recrutamento e vaga com precisao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9095817d-f78b-4530-99af-2d7e41fd5bbe",
+          "title": "Posicionar-se com tato em juizos profissionais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f2949785-0694-4084-a662-34d2fa78ff7c",
+          "title": "Tracar um retrato de encaixe profissional",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "cbdedaad-848f-402e-891e-41611a989c9d",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "b423ed58-6bd0-4942-85dc-553250f42fe5",
+      "title": "Construir voz propria em debates publicos",
+      "subTitle": "Organize ideias, conecte causas e module emocao para defender uma posicao com mais consistencia.",
+      "sequenceItem": 7,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "9571d016-8d7c-4fd0-addb-70c680e4b0dc",
+          "title": "Dar forma a uma linha argumentativa formal",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "72f69d43-145f-4629-8f07-1a089c0609e7",
+          "title": "Ler sinais de trajetoria profissional",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8e5c3ef5-7c7c-410d-82b2-b20b0e5edb67",
+          "title": "Costurar carreira, criterio e consequencia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "aceea16e-cbd8-4512-a9de-1f931a6cd4b2",
+          "title": "Dar linguagem publica ao problema ambiental",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6d7121d4-ae2d-4843-b38a-860388495d5c",
+          "title": "Dar espessura causal a um argumento",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8f25fd22-180c-4872-aacb-dfce8a25d7e6",
+          "title": "Marcar postura emocional em comentario publico",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "42514ee9-b558-4874-a4e2-7b2e1461f7b8",
+          "title": "Cruzar ecologia e posicionamento em comentario publico",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "42994e00-cbd8-485a-a3b7-b49b7218e9da",
+          "title": "Consolidar voz argumentativa em comentario proprio",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "checkpoint",
+          "checkpointId": "f174faad-d507-41fd-a87e-688ade3a98c9",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "bda8e2be-716d-43db-b881-8fd843e5696d",
+      "title": "Explicar territorio, clima e deslocamento",
+      "subTitle": "Interprete paisagens, mudancas de tempo e conselhos de viagem com mais precisao situacional.",
+      "sequenceItem": 8,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "a3091413-1679-40e4-987d-611ff0a57c79",
+          "title": "Ler litoral, relevo e cursos d'agua em descricoes situadas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "7dc55a1e-be04-457a-9ba8-898430106b51",
+          "title": "Ler viradas do tempo e orientar o plano",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+          "title": "Amarrar territorio, tempo e deslocamento",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5ab5dc94-9b35-4fde-a515-e36c2283da23",
+          "title": "Dar relevo ao instante da acao em clima e deslocamento",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "bf03656e-b014-45c3-bc70-e771db1052d1",
+          "title": "Ensaiar um comentario oral sobre pressao ambiental local",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "2d55b2ab-c92c-4171-bc8f-49774cdd2dd2",
+          "title": "Situar um passeio curto entre clima e trajeto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "b2419fbb-e0f7-4211-9b46-fdb01ade4899",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "ff8a05f6-a76c-4433-aaa6-3c0f6785da55",
+      "title": "Recomendar rotas e contar o percurso",
+      "subTitle": "Passe de conselho logistico a impressao cultural do caminho sem perder precisao discursiva.",
+      "sequenceItem": 9,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "f3672acf-8b70-422d-b718-65cba82c355a",
+          "title": "Dosar conselho de rota com criterio e firmeza",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "cbd5751b-6b82-4155-b194-3615e0ed0d4c",
+          "title": "Ajustar hospedagem, reserva e percurso",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+          "title": "Amarrar conselho, contraste e ponto de vista no trajeto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "76e17acb-4b3c-4a7d-90f0-31a8f310ad5c",
+          "title": "Ler patrimonio e paisagem como camadas do percurso",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6063eeb2-d621-4f59-8f22-12df2fd051bb",
+          "title": "Ensaiar comentarios orais sobre condicoes do percurso",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fe60b612-979b-40bf-8af9-cd1edec782da",
+          "title": "Costurar rota e destino em um relato de percurso",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "bb1792c0-557a-40a2-bf11-c8d2f5a0b18c",
+          "challengeReached": false
+        }
+      ]
+    }
+  ],
+  "nextLesson": {
+    "lessonId": "30d59b74-a447-4ed9-87ab-14e385cf6f80",
+    "moduleId": "ecc43d9f-baa2-44c1-b4d0-8d67b26a0895",
+    "title": "Situar cenas de mesa e linguagem avaliativa",
+    "icon": null,
+    "currentStep": 0,
+    "stepSequence": 0
+  }
+}

@@ -1,0 +1,666 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+    "attemptId": "4fa5814d-c05f-45ce-bdf4-75d5d639e33f",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "3788d298-f935-411b-a9fd-fcf4d518e898",
+      "edbfc95e-5d4d-4784-98ff-f376db7e52a7",
+      "9fb6aff7-44f1-4d1a-b0a1-c7a02b0699bb",
+      "7dc25e7c-d8fe-4edc-9d5f-cbfe95c3c781",
+      "4591e1f0-eda0-4af1-9b54-94d2ff3aedf1"
+    ],
+    "evaluationExerciseIds": [
+      "f2591285-3aff-4238-a876-9c38d3a2ca73",
+      "0a09eb06-c9e8-4491-9691-7f19d7479d63",
+      "ba9abe0b-d99a-4be2-85de-45169d2e636e",
+      "c5e76a87-be19-4a03-9701-4bbbdc4bf570",
+      "51d461f9-1614-4ddd-ab22-4cec2837e02b"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:32.2847898Z"
+  },
+  "contents": [
+    {
+      "id": "7760a2d8-31dd-4b15-8c7f-541339b8b4e3",
+      "title": "Leia a abertura e guarde as tres perguntas que vao orientar os microrelatos científicos.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "2159f1bf-5d97-48a6-8516-6a9a37ed285a",
+          "textContent": "<p>Nesta aula, o foco não é descobrir primeiro <strong>quem</strong> fez cada ação. O foco é ler como o espanhol científico organiza um relato quando quer destacar:</p><ul><li><strong>o que se observou</strong></li><li><strong>como foi analisado</strong></li><li><strong>que hipótese foi descartada ou sustentada</strong></li></ul><p>Ao longo dos microtextos, repare se a frase aproxima o leitor do <strong>achado</strong>, do <strong>procedimento</strong> ou da <strong>validação</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fa171b77-d6f9-4708-8a3d-a0a7848ad842",
+      "title": "Leia o microtexto em espanhol e acompanhe a tradução. Foque no que apareceu no monitoramento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "3c7a3222-b84d-4e4b-9d21-0fdd0680cc24",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>En el monitoreo del humedal urbano se detectaron restos de cafeina en cuatro puntos de muestreo. Tambien se observo una subida irregular de la temperatura del agua al final de la tarde.</strong></p><p>Em português: <strong>No monitoramento da área alagada urbana, foram detectados restos de cafeina em quatro pontos de amostragem. Tambem se observou uma subida irregular da temperatura da água no fim da tarde.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "03ff84b9-2627-48a4-8614-280c6cd15e79",
+      "title": "Leia a nota e observe por que esse tipo de frase soa mais centrado no resultado do que em quem atuou.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "6aac0ada-9b60-4b1b-8bb5-b277f306a83a",
+          "textContent": "<p>O texto não nomeia a equipe logo de entrada. Em vez disso, coloca no centro <strong>restos de cafeina</strong> e <strong>una subida irregular de la temperatura</strong>.</p><p>Formas como <strong>se detectaron</strong> e <strong>se observo</strong> funcionam bem quando o importante para a leitura é o <strong>achado reportado</strong>. O agente pode existir, mas não precisa ocupar o primeiro plano.</p><p>Em relatos científicos curtos, isso ajuda a dar peso ao que foi encontrado sem transformar cada frase em lista de autores ou técnicos.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fe1d5d02-2652-4c8b-887f-d645114f1e1c",
+      "title": "Leia o microtexto em espanhol e acompanhe a tradução. Foque em como o procedimento foi descrito.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "dc58a27f-deed-4995-8ae9-993a579c4f0b",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>Las 48 muestras fueron analizadas en dos laboratorios independientes y fueron comparadas con registros del verano anterior para descartar errores de lectura.</strong></p><p>Em português: <strong>As 48 amostras foram analisadas em dois laboratórios independentes e foram comparadas com registros do verão anterior para descartar erros de leitura.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "32b2811c-d92d-4c19-8a59-5f3d74208748",
+      "title": "Leia a nota e observe por que o texto parece acompanhar etapas do método, e não pessoas em ação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "261916d9-00aa-42b0-b10d-cdb182e80a85",
+          "textContent": "<p>Aqui, o centro da frase são <strong>las 48 muestras</strong> e as operações feitas com elas.</p><p><strong>Fueron analizadas</strong> e <strong>fueron comparadas</strong> dao ao procedimento um ar de sequência controlada. O leitor acompanha etapas verificaveis sem precisar saber, nesse ponto, quais profissionais executaram cada uma.</p><p>Esse desenho combina bem com textos que querem tornar o <strong>método legível</strong> e transmitir confianca no processo de análise.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6e3b65b4-5967-4380-9f96-ddcad21d5f74",
+      "title": "Leia o microtexto em espanhol e acompanhe a tradução. Foque no que foi descartado e na explicação que ganhou força.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "6bfc777f-3859-4abe-b95b-3219fcc7df4b",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>Tras una segunda revisión, se descarto una falla del sensor y se atribuyo la variación a un cambio temporal del caudal.</strong></p><p>Em português: <strong>Após uma segunda revisão, descartou-se uma falha do sensor e atribuiu-se a variação a uma mudança temporária do fluxo de água.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3d02a075-7619-450d-a752-66af9ab84d14",
+      "title": "Leia a nota e observe como o texto evita uma afirmação pessoal apressada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "59eab6e6-6221-4a7e-8f43-76560fbdb9ba",
+          "textContent": "<p>A expressão <strong>tras una segunda revisión</strong> já prepara uma leitura de controle e rechecagem. Depois, <strong>se descarto</strong> e <strong>se atribuyo</strong> apresentam a conclusão como algo sustentado por revisão, e não como opinião pessoal jogada no texto.</p><p>Em espanhol científico, esse tipo de moldura ajuda a comunicar <strong>cautela</strong>: a frase não promete certeza absoluta, mas mostra que uma interpretacao ganhou mais respaldo do que outra.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "21bef063-4adc-4eb4-a132-b92399e5f548",
+      "title": "Leia os pares e observe o que muda quando o texto científico tira o agente do centro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "b95404af-c807-41c4-b699-c747de49a290",
+          "textContent": "<p>Compare estes pares.</p><ul><li><strong>El equipo detecto restos de cafeina.</strong><br><strong>Se detectaron restos de cafeina.</strong></li><li><strong>Dos laboratorios analizaron las muestras.</strong><br><strong>Las muestras fueron analizadas en dos laboratorios.</strong></li><li><strong>Los técnicos descartaron una falla del sensor.</strong><br><strong>Se descarto una falla del sensor.</strong></li></ul><p>O conteúdo geral continua parecido, mas o foco muda. As versões impessoais deixam o leitor mais perto do <strong>resultado</strong>, da <strong>amostra</strong> ou da <strong>conclusão revisada</strong> do que de quem executou a ação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "18852821-f902-4487-af78-c817172d4cf0",
+      "title": "Leia o mapa e guarde que tipo de foco cada formulação costuma criar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "89bd09c3-a5f8-49be-950f-6d1659ee3223",
+          "textContent": "<p>Ao ler relatos científicos curtos, estas tres molduras ajudam bastante:</p><ul><li><strong>se detecto / se observo</strong>: empurra o <strong>achado</strong> para a frente.</li><li><strong>fue o fueron analizado(s)</strong>: deixa o <strong>procedimento</strong> mais rastreável.</li><li><strong>se descarto / se atribuyo</strong>: apresenta uma <strong>conclusão cautelosa</strong>, ligada a revisão e interpretacao.</li></ul><p>Essas formas não são apenas \"jeitos diferentes de dizer a mesma coisa\". Elas orientam o leitor sobre <strong>onde vale a pena colocar a atenção</strong> dentro do informe.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a5e0bc9c-7020-4712-86d1-c16eb8003a20",
+      "title": "Leia o fechamento e leve essa lente para textos reais que resumem achados, metodos e conclusoes com rapidez.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "0b99e740-486a-4de2-96b6-ea93637d7a11",
+          "textContent": "<p>Leia o resumo final.</p><p><strong>Cuando lees una noticia científica, un boletin de salud o un reporte ambiental, conviene fijarse en que se observo, como fue analizado y que conclusión se sostuvo con cautela.</strong></p><p>Em português: <strong>Quando você le uma notícia científica, um boletim de saúde ou um relatório ambiental, convém observar o que se registrou, como isso foi analisado e que conclusão se sustentou com cautela.</strong></p><p>Essa lente ajuda a ler melhor alertas de qualidade da água, notas de universidades, divulgacao de estudos e comunicados técnicos do trabalho sem se perder no excesso de detalhes secundários.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3a70a92f-34c2-4b31-9096-a33bcf8444bb",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "9101baef-1d87-4ed7-941c-2002d9b26077",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ffe21ca7b5fd4b27afdbff1a5ec4007a_MEC-IDIOMAS_CAP_7_-_AULA_04_ESP.mp4?Expires=1794099932&Signature=Oux8ARjFooplnCG~Onf~mF9MPrGgvO-~DnERTFDQtbJ5w3dZGhAqm6-Av2BAAXALCMvq5792v54DVg3L8-EgPfqkFU3uOViRN-BrJlkhsrvordVcmFsTKWPHx0AC2Qw3kOEicOk3ytP7utx5BU-VtLyI~ZCG81L~vXIQQAj5O9XX1Ebe3ReI~IfOz5GTSJumu8OLjteUeqGnCZbuFvycy9aMq5LuGHV3LVEvci-E0WMae7veml4LqA1gMiSknmqb4BKehCp2coVzDfutwztLmUUAeBJfY4Vrlswfoj7Bvh~QlZlp2rK0OPJNfSdnz7uzscECedEiMmLzChcXZtAsgQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ffe21ca7b5fd4b27afdbff1a5ec4007a_MEC-IDIOMAS_CAP_7_-_AULA_04_ESP.mp4?Expires=1794099932&Signature=Oux8ARjFooplnCG~Onf~mF9MPrGgvO-~DnERTFDQtbJ5w3dZGhAqm6-Av2BAAXALCMvq5792v54DVg3L8-EgPfqkFU3uOViRN-BrJlkhsrvordVcmFsTKWPHx0AC2Qw3kOEicOk3ytP7utx5BU-VtLyI~ZCG81L~vXIQQAj5O9XX1Ebe3ReI~IfOz5GTSJumu8OLjteUeqGnCZbuFvycy9aMq5LuGHV3LVEvci-E0WMae7veml4LqA1gMiSknmqb4BKehCp2coVzDfutwztLmUUAeBJfY4Vrlswfoj7Bvh~QlZlp2rK0OPJNfSdnz7uzscECedEiMmLzChcXZtAsgQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "3788d298-f935-411b-a9fd-fcf4d518e898",
+      "title": "Recupere a observacao",
+      "content": "<p>Tambien se _______ una subida irregular de la temperatura del agua al final de la tarde.</p><p>Tradução: Tambem se observou uma subida irregular da temperatura da água no fim da tarde.</p>",
+      "contentPlain": "Tambien se _______ una subida irregular de la temperatura del agua al final de la tarde. Tradução: Tambem se observou uma subida irregular da temperatura da água no fim da tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Observo` reaparece quando o texto registra o que foi visto no monitoramento.",
+      "feedbackError": "`Observo` reaparece quando o texto registra o que foi visto no monitoramento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "observo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "edbfc95e-5d4d-4784-98ff-f376db7e52a7",
+      "title": "Associe pergunta e função",
+      "content": "<p>No fechamento da aula, ligue cada pergunta em espanhol ao tipo de informacao que ela ajuda a localizar.</p>",
+      "contentPlain": "No fechamento da aula, ligue cada pergunta em espanhol ao tipo de informacao que ela ajuda a localizar.",
+      "fileUrl": null,
+      "feedbackSuccess": "A lente final da aula separa achado, método e conclusão sustentada com cautela.",
+      "feedbackError": "A lente final da aula separa achado, método e conclusão sustentada com cautela.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "02e57419-9379-4cef-8675-8038d5bf9c30",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "edbfc95e-5d4d-4784-98ff-f376db7e52a7"
+        },
+        {
+          "id": "5260388c-4117-41e5-b35d-5766bef9f936",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "edbfc95e-5d4d-4784-98ff-f376db7e52a7"
+        }
+      ],
+      "associations": [
+        {
+          "id": "91e2531c-386b-4d32-a3c1-8d89ba86f468",
+          "exerciseId": "edbfc95e-5d4d-4784-98ff-f376db7e52a7",
+          "leftContent": "que se observo",
+          "rightContent": "ajuda a localizar o achado reportado",
+          "sequenceItem": 1
+        },
+        {
+          "id": "744a2d17-8a5b-4750-9c7d-074921945047",
+          "exerciseId": "edbfc95e-5d4d-4784-98ff-f376db7e52a7",
+          "leftContent": "como fue analizado",
+          "rightContent": "ajuda a seguir o procedimento",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a4394ab7-db92-436b-b679-614a9a4fdfae",
+          "exerciseId": "edbfc95e-5d4d-4784-98ff-f376db7e52a7",
+          "leftContent": "que conclusion se sostuvo con cautela",
+          "rightContent": "ajuda a identificar a interpretacao revisada",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "9fb6aff7-44f1-4d1a-b0a1-c7a02b0699bb",
+      "title": "Reconheca o foco no procedimento",
+      "content": "<p>Qual frase da aula faz o leitor acompanhar a amostra e as etapas do método, em vez de acompanhar as pessoas?</p>",
+      "contentPlain": "Qual frase da aula faz o leitor acompanhar a amostra e as etapas do método, em vez de acompanhar as pessoas?",
+      "fileUrl": null,
+      "feedbackSuccess": "`Fueron analizadas` deixa amostra e método mais visiveis do que o agente.",
+      "feedbackError": "`Fueron analizadas` deixa amostra e método mais visiveis do que o agente.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "349bd451-c4ca-45d4-be2c-ca31cbd0e0ca",
+          "textContent": "Los técnicos descartaron una falla del sensor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9fb6aff7-44f1-4d1a-b0a1-c7a02b0699bb"
+        },
+        {
+          "id": "567faa76-f5cd-4677-88c7-0c7e4833a1d1",
+          "textContent": "Se atribuyo la variación a un cambio temporal del caudal.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9fb6aff7-44f1-4d1a-b0a1-c7a02b0699bb"
+        },
+        {
+          "id": "7a63a902-77c3-4df2-9044-e04e4dff77f1",
+          "textContent": "Las 48 muestras fueron analizadas en dos laboratorios independientes.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9fb6aff7-44f1-4d1a-b0a1-c7a02b0699bb"
+        },
+        {
+          "id": "d087bc43-c696-4abb-8722-61886c561a50",
+          "textContent": "El equipo detecto restos de cafeina en cuatro puntos de muestreo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9fb6aff7-44f1-4d1a-b0a1-c7a02b0699bb"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7dc25e7c-d8fe-4edc-9d5f-cbfe95c3c781",
+      "title": "Reconheca o foco no achado",
+      "content": "<p>Qual frase da aula soa centrada no que apareceu no monitoramento, e não em quem realizou a ação?</p>",
+      "contentPlain": "Qual frase da aula soa centrada no que apareceu no monitoramento, e não em quem realizou a ação?",
+      "fileUrl": null,
+      "feedbackSuccess": "`Se detectaron` empurra o achado para o centro da leitura científica.",
+      "feedbackError": "`Se detectaron` empurra o achado para o centro da leitura científica.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "9498c197-6f4a-496f-ad7b-cf2425e08e05",
+          "textContent": "El equipo detecto restos de cafeina.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7dc25e7c-d8fe-4edc-9d5f-cbfe95c3c781"
+        },
+        {
+          "id": "d137a620-172d-4e08-8b1c-ec6889e955a2",
+          "textContent": "Dos laboratorios analizaron las muestras.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7dc25e7c-d8fe-4edc-9d5f-cbfe95c3c781"
+        },
+        {
+          "id": "ec3d7688-fee7-45ef-9166-33e4196560ce",
+          "textContent": "Los técnicos descartaron una falla del sensor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7dc25e7c-d8fe-4edc-9d5f-cbfe95c3c781"
+        },
+        {
+          "id": "f33d6904-72bc-4bd4-a034-d5343f0460ed",
+          "textContent": "Se detectaron restos de cafeina.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7dc25e7c-d8fe-4edc-9d5f-cbfe95c3c781"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4591e1f0-eda0-4af1-9b54-94d2ff3aedf1",
+      "title": "Associe moldura e efeito",
+      "content": "<p>Ligue cada formulação em espanhol ao foco que ela costuma criar dentro do relato científico.</p>",
+      "contentPlain": "Ligue cada formulação em espanhol ao foco que ela costuma criar dentro do relato científico.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, as molduras impessoais organizam achado, procedimento e conclusão cautelosa.",
+      "feedbackError": "Na aula, as molduras impessoais organizam achado, procedimento e conclusão cautelosa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "29acb11f-82d1-4c57-a2b8-8f202fc0ac12",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4591e1f0-eda0-4af1-9b54-94d2ff3aedf1"
+        },
+        {
+          "id": "c2cf46d7-265e-49c3-97c2-7d1b2d8b35f4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4591e1f0-eda0-4af1-9b54-94d2ff3aedf1"
+        }
+      ],
+      "associations": [
+        {
+          "id": "614799d1-13e0-4a80-a058-66400f140d2f",
+          "exerciseId": "4591e1f0-eda0-4af1-9b54-94d2ff3aedf1",
+          "leftContent": "se observo",
+          "rightContent": "coloca o achado em primeiro plano",
+          "sequenceItem": 1
+        },
+        {
+          "id": "adb909a6-2a9e-4b9a-9ab7-1d03ad5360d2",
+          "exerciseId": "4591e1f0-eda0-4af1-9b54-94d2ff3aedf1",
+          "leftContent": "fueron analizadas",
+          "rightContent": "deixa o procedimento mais rastreável",
+          "sequenceItem": 2
+        },
+        {
+          "id": "65fdd3ea-0950-486c-9ce7-9468fd9b2c67",
+          "exerciseId": "4591e1f0-eda0-4af1-9b54-94d2ff3aedf1",
+          "leftContent": "se descarto",
+          "rightContent": "marca revisão antes da conclusão",
+          "sequenceItem": 3
+        },
+        {
+          "id": "1412b64d-d9a5-44ab-b2fc-18cbefa3b465",
+          "exerciseId": "4591e1f0-eda0-4af1-9b54-94d2ff3aedf1",
+          "leftContent": "se atribuyo",
+          "rightContent": "apresenta uma explicação com cautela",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "f2591285-3aff-4238-a876-9c38d3a2ca73",
+      "title": "Recupere a atribuicao cautelosa",
+      "content": "<p>Tras una segunda revision, se descarto una falla del sensor y se ________ la variacion a un cambio temporal del caudal.</p><p>Tradução: Após uma segunda revisão, descartou-se uma falha do sensor e atribuiu-se a variação a uma mudança temporária do fluxo de água.</p>",
+      "contentPlain": "Tras una segunda revision, se descarto una falla del sensor y se ________ la variacion a un cambio temporal del caudal. Tradução: Após uma segunda revisão, descartou-se uma falha do sensor e atribuiu-se a variação a uma mudança temporária do fluxo de água.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Atribuyo` fecha a leitura de conclusão sustentada sem soar como opinião pessoal.",
+      "feedbackError": "`Atribuyo` fecha a leitura de conclusão sustentada sem soar como opinião pessoal.",
+      "answerType": "buildWord",
+      "expectedAnswer": "atribuyo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0a09eb06-c9e8-4491-9691-7f19d7479d63",
+      "title": "Recupere a comparacao metodica",
+      "content": "<p>Las 48 muestras fueron analizadas en dos laboratorios independientes y fueron __________ con registros del verano anterior para descartar errores de lectura.</p><p>Tradução: As 48 amostras foram analisadas em dois laboratorios independentes e foram comparadas com registros do verao anterior para descartar erros de leitura.</p>",
+      "contentPlain": "Las 48 muestras fueron analizadas en dos laboratorios independientes y fueron __________ con registros del verano anterior para descartar errores de lectura. Tradução: As 48 amostras foram analisadas em dois laboratorios independentes e foram comparadas com registros do verao anterior para descartar erros de leitura.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Comparadas` reforca a leitura de metodo verificavel da aula.",
+      "feedbackError": "`Comparadas` reforca a leitura de metodo verificavel da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "comparadas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ba9abe0b-d99a-4be2-85de-45169d2e636e",
+      "title": "Associe revisão e cautela",
+      "content": "<p>No bloco de conclusão, ligue cada trecho em espanhol ao papel que ele cumpre na leitura prudente do relato.</p>",
+      "contentPlain": "No bloco de conclusão, ligue cada trecho em espanhol ao papel que ele cumpre na leitura prudente do relato.",
+      "fileUrl": null,
+      "feedbackSuccess": "A conclusão da aula soa prudente porque passa por revisão, descarte e atribuicao cautelosa.",
+      "feedbackError": "A conclusão da aula soa prudente porque passa por revisão, descarte e atribuicao cautelosa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "9f0a7ed9-ee5f-4143-8c66-c30308a59507",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ba9abe0b-d99a-4be2-85de-45169d2e636e"
+        },
+        {
+          "id": "e5179093-c7aa-4646-94a8-6b775e78c9f4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ba9abe0b-d99a-4be2-85de-45169d2e636e"
+        }
+      ],
+      "associations": [
+        {
+          "id": "915ab8fe-9d5e-4ac6-8600-4bddbe736b9f",
+          "exerciseId": "ba9abe0b-d99a-4be2-85de-45169d2e636e",
+          "leftContent": "tras una segunda revision",
+          "rightContent": "prepara uma leitura de rechecagem",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5e48b04a-dd46-472b-b8b6-202246fa2e12",
+          "exerciseId": "ba9abe0b-d99a-4be2-85de-45169d2e636e",
+          "leftContent": "se descarto una falla del sensor",
+          "rightContent": "elimina uma explicação menos sustentada",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2fc961f9-3389-46e2-bb96-35bd2b314223",
+          "exerciseId": "ba9abe0b-d99a-4be2-85de-45169d2e636e",
+          "leftContent": "se atribuyo la variacion",
+          "rightContent": "apresenta a interpretacao com cautela",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "c5e76a87-be19-4a03-9701-4bbbdc4bf570",
+      "title": "Recupere a comparação metódica",
+      "content": "<p>Las 48 muestras fueron analizadas en dos laboratorios independientes y fueron __________ con registros del verano anterior para descartar errores de lectura.</p><p>Tradução: As 48 amostras foram analisadas em dois laboratórios independentes e foram comparadas com registros do verão anterior para descartar erros de leitura.</p>",
+      "contentPlain": "Las 48 muestras fueron analizadas en dos laboratorios independientes y fueron __________ con registros del verano anterior para descartar errores de lectura. Tradução: As 48 amostras foram analisadas em dois laboratórios independentes e foram comparadas com registros do verão anterior para descartar erros de leitura.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Comparadas` reforça a leitura de método verificável da aula.",
+      "feedbackError": "`Comparadas` reforça a leitura de método verificável da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "comparadas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "51d461f9-1614-4ddd-ab22-4cec2837e02b",
+      "title": "Leia o contraste por dentro",
+      "content": "<p>Associe cada frase em espanhol ao tipo de foco que ela produz para o leitor.</p>",
+      "contentPlain": "Associe cada frase em espanhol ao tipo de foco que ela produz para o leitor.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste da aula mostra como a forma verbal desloca a atenção entre agente, achado e método.",
+      "feedbackError": "O contraste da aula mostra como a forma verbal desloca a atenção entre agente, achado e método.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c6a8a4b7-5df2-410a-9887-348b938f6078",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "8e8278f2-4929-4a08-a953-90c07a9b34e4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "51d461f9-1614-4ddd-ab22-4cec2837e02b"
+        },
+        {
+          "id": "9477a29e-f478-4688-8ca8-d5ecf32d6e3d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "51d461f9-1614-4ddd-ab22-4cec2837e02b"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ab4c8fbd-bb48-4286-9ed3-54070b3c44a7",
+          "exerciseId": "51d461f9-1614-4ddd-ab22-4cec2837e02b",
+          "leftContent": "El equipo detecto restos de cafeina.",
+          "rightContent": "leva o leitor primeiro ao agente",
+          "sequenceItem": 1
+        },
+        {
+          "id": "da78a745-8713-44a5-817d-4e33e0135d19",
+          "exerciseId": "51d461f9-1614-4ddd-ab22-4cec2837e02b",
+          "leftContent": "Se detectaron restos de cafeina.",
+          "rightContent": "leva o leitor primeiro ao achado",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ea60764d-f756-483d-b7c5-56ac9e08cea4",
+          "exerciseId": "51d461f9-1614-4ddd-ab22-4cec2837e02b",
+          "leftContent": "Dos laboratorios analizaron las muestras.",
+          "rightContent": "destaca quem executou o método",
+          "sequenceItem": 3
+        },
+        {
+          "id": "82c16452-762f-45cc-a503-34995f04aba7",
+          "exerciseId": "51d461f9-1614-4ddd-ab22-4cec2837e02b",
+          "leftContent": "Las muestras fueron analizadas en dos laboratorios.",
+          "rightContent": "destaca a amostra e o procedimento",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Ler relatos cientificos com foco no que se observa"
+}

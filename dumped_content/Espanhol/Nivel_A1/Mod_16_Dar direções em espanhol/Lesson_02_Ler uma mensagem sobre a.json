@@ -1,0 +1,502 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+    "attemptId": "3ac700fb-7471-492c-976d-9a82feafbce2",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "c109db7a-46f1-44ef-b12a-a58a4fba8bd0",
+      "58a556bf-d652-48ad-a904-1bbc473bd56c",
+      "9b54882a-0d83-4fe0-8594-10525209145b",
+      "e9a0f0d8-7ad1-4870-bca2-a34d6bd6ed13",
+      "fac58083-40c8-47f7-8907-853be0950cc7"
+    ],
+    "evaluationExerciseIds": [
+      "b4acc3f8-af02-42db-825b-31bd489dbe40",
+      "f4d200af-a39e-4d61-bc55-74b9253eb2aa",
+      "75a19fc7-4893-40f1-b637-23fc5ae6b163",
+      "6b6a4d80-3e5f-4896-9478-fa529975839b",
+      "82b6baf1-80d3-45df-b572-110391447c0c"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:58:04.7052696Z"
+  },
+  "contents": [
+    {
+      "id": "b130a212-2298-4a0a-b9af-4a59517477e5",
+      "title": "Leia o contexto breve e procure três pistas: onde a pessoa vive, o que existe por perto e como um lugar se relaciona com outro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "2f2fb4c3-f2f6-4dc1-b64b-d6a72b11826e",
+          "textContent": "<p>Nesta aula, você vai ler uma mensagem pessoal curta sobre uma nova rotina na Cidade do México.</p><p>Procure três pistas: <strong>onde a pessoa vive</strong>, <strong>o que existe por perto</strong> e <strong>como um lugar se relaciona com outro</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "027b421b-179c-4e66-bf6b-866ba8f46dc6",
+      "title": "Observe a imagem e leia a primeira frase da mensagem.",
+      "description": null,
+      "contentType": 4,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "adf1965c-109f-48fc-8b79-f6f1f45af5f1",
+          "textContent": "<p>Primeira pista da mensagem:</p><p><strong>Ahora vivo en Ciudad de México.</strong></p><p>Em português: Agora moro na Cidade do México.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dfe4cc03bb324d2d946123430792bf57_nueva-vida-ciudad-de-mexico.png?Expires=1794099485&Signature=mfexUDqJP4oj5Ecel~aw-ZE-0xd81HapM0zgZoEoIPhBzVTgmK6OO7ofuJ-Xy~3WGJpcqxKAY175MMNp2d4H9r1iQ63z18b10~Kl4cuZt4I44CfZT8JQW~wtDE8vHARIacn472ln1tqpGgMHuGQe0tNSRUycbvAE~Su~22AcE9KJX3IOoW73rj45p~QpTZlt2GWuqLD~kIB0s~RuSmqvrTkBOTduQY1LGE2QIm1NPzA5IKDu15IRSEhDX-FSJ4Q0OVbwxe38Mhwx5fn3Q5ZYHfcOYSX8G~ByJV6gGdObXa6GO2Qr6EHtv56Y7M4mfXTeZW6uRBFJu~cDrzjV281w4w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0917f7b5-3992-4e1b-beeb-94821095325f",
+      "title": "Releia a frase e observe o que aparece depois de `vivo en`.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "b89c4a27-aef9-49d9-9407-32943be2ddc4",
+          "textContent": "<p>Na leitura, <strong>vivo en + lugar</strong> ajuda a localizar rapidamente onde a pessoa mora.</p><p>A parte <strong>Ciudad de México</strong> traz a cidade já na primeira frase.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "194acf3f-e7ad-4d12-8977-c684a511a9e3",
+      "title": "Leia a frase e associe a ideia principal a um lugar que existe por perto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "2587350a-dbf3-4a08-984a-e6b5599cd3d5",
+          "textContent": "<p>Segunda pista da mensagem:</p><p><strong>Hay un parque cerca de casa.</strong></p><p>Em português: Há um parque perto de casa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "19d9f74d-62d9-459d-8a22-0c131bfc7adf",
+      "title": "Leia a frase e observe quais dois lugares aparecem conectados.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "807e808e-01f8-4fc6-86f9-45a1d29fb96f",
+          "textContent": "<p>Outra pista de localização:</p><p><strong>La biblioteca está enfrente del parque.</strong></p><p>Em português: A biblioteca fica em frente ao parque.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "79e9e45c-c937-4e1e-ac1f-bfa6d5d28236",
+      "title": "Leia o microtexto e procure, nesta ordem, a cidade, um lugar próximo e uma referência espacial.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "3cf9a4a3-ade9-4b3c-a5b5-64a17b255859",
+          "textContent": "<p>Agora leia tudo junto.</p><p><strong>Ahora vivo en Ciudad de México. Hay un parque cerca de casa. La biblioteca está enfrente del parque.</strong></p><p>Para entender rápido, procure nesta ordem: cidade, lugar próximo e referência entre dois lugares.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0a9c8ada-805d-4c3e-b5a1-ff36bc5b1f80",
+      "title": "Leia o fechamento e ligue essas pistas a mensagens reais sobre mudança, bairro novo e rotina na cidade.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "c5bfba48-ab12-41dd-8e4e-e5e24bf309d4",
+          "textContent": "<p>Esse tipo de texto aparece em mensagens sobre mudança, bairro novo e rotina na cidade.</p><p><strong>vivo en + lugar</strong> mostra onde a pessoa mora.</p><p><strong>hay + lugar</strong> mostra o que existe por perto.</p><p><strong>enfrente de</strong> ajuda a entender a posição entre dois lugares.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "c109db7a-46f1-44ef-b12a-a58a4fba8bd0",
+      "title": "Qual cidade aparece?",
+      "content": "<p>Leia a pista principal da mensagem e escolha a cidade mencionada em espanhol.</p>",
+      "contentPlain": "Leia a pista principal da mensagem e escolha a cidade mencionada em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma como `vivo en + lugar` ajuda a localizar a cidade na leitura.",
+      "feedbackError": "Esta tarefa retoma como `vivo en + lugar` ajuda a localizar a cidade na leitura.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "03238dda-bd9a-47fe-b5b6-3cac23fc72a1",
+          "textContent": "Buenos Aires",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c109db7a-46f1-44ef-b12a-a58a4fba8bd0"
+        },
+        {
+          "id": "760fdb62-dd4b-4c92-8bae-564c2f62297f",
+          "textContent": "Lima",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c109db7a-46f1-44ef-b12a-a58a4fba8bd0"
+        },
+        {
+          "id": "a57f9a60-7ac5-485d-aa43-94a2a4f80dc1",
+          "textContent": "Ciudad de México",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c109db7a-46f1-44ef-b12a-a58a4fba8bd0"
+        },
+        {
+          "id": "d9754398-6ac7-4fea-b418-d45117cfb507",
+          "textContent": "Bogotá",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c109db7a-46f1-44ef-b12a-a58a4fba8bd0"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "58a556bf-d652-48ad-a904-1bbc473bd56c",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Hay un parque cerca de ____.</p>\n          <p>Tradução: Há um parque perto de casa.</p>",
+      "contentPlain": "Complete a frase em espanhol: Hay un parque cerca de ____. Tradução: Há um parque perto de casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a pista `cerca de casa` para localizar algo próximo na mensagem.",
+      "feedbackError": "Esta tarefa retoma a pista `cerca de casa` para localizar algo próximo na mensagem.",
+      "answerType": "buildWord",
+      "expectedAnswer": "casa",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "9b54882a-0d83-4fe0-8594-10525209145b",
+      "title": "O que existe por perto?",
+      "content": "<p>Na mensagem, escolha em espanhol o lugar que aparece perto de casa.</p>",
+      "contentPlain": "Na mensagem, escolha em espanhol o lugar que aparece perto de casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a pista `hay + lugar` para reconhecer o que existe perto de casa.",
+      "feedbackError": "Esta tarefa retoma a pista `hay + lugar` para reconhecer o que existe perto de casa.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "117f5e2e-1576-4f65-831f-77f3001e22a3",
+          "textContent": "estación",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9b54882a-0d83-4fe0-8594-10525209145b"
+        },
+        {
+          "id": "966f3297-ae6e-4c4b-8631-fa4594748e36",
+          "textContent": "mercado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9b54882a-0d83-4fe0-8594-10525209145b"
+        },
+        {
+          "id": "f7433a4d-d3e4-43cd-995a-a89628d8f0c0",
+          "textContent": "biblioteca",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9b54882a-0d83-4fe0-8594-10525209145b"
+        },
+        {
+          "id": "fafbcae0-6b9c-42dc-a189-3f7b6d995aef",
+          "textContent": "parque",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9b54882a-0d83-4fe0-8594-10525209145b"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "e9a0f0d8-7ad1-4870-bca2-a34d6bd6ed13",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase da leitura em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase da leitura em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/11b70ce564824ba59f79853994a6dca8_la-biblioteca-esta-enfrente-del-parque.mp3?Expires=1794099485&Signature=xnwBXL-m6eMuk0mHXNaHf~I4z6tX-F~dOPu~a6bXSiH1zBX5TGwZ2v8sdfPRDcz4XE-YYFbcU8s8G06T5TzDtGzRnVnDLCcS4eehQamkKeDpNbOzGFedQ6k7u6URL~qT4F2fyipGMMwkDtU6thfTA-56TGMQanxVfQ~h64OHM5UH4H9cbFleZOVS4U-c9wu1pA6wZ3hmY-9m1D9nvf9hbhCAkxcCm-AqokxKDnH3F4UDNQKT~rTj80DFYvi0H4fjeKEg0tleb2aWMlBvfBmoil4dnGl9ofXZU4OY8L8fwV2rTLst43TndQFP1pfGZOrwNO9IWJuKEWmd4iLAogYkxQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa ativa a leitura em voz alta com a referência espacial `enfrente del parque`.",
+      "feedbackError": "Esta tarefa ativa a leitura em voz alta com a referência espacial `enfrente del parque`.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "La biblioteca está enfrente del parque.",
+      "typeSpecificData": "{\"expectedText\":\"La biblioteca est\\u00E1 enfrente del parque.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/11b70ce564824ba59f79853994a6dca8_la-biblioteca-esta-enfrente-del-parque.mp3?Expires=1794099485\\u0026Signature=xnwBXL-m6eMuk0mHXNaHf~I4z6tX-F~dOPu~a6bXSiH1zBX5TGwZ2v8sdfPRDcz4XE-YYFbcU8s8G06T5TzDtGzRnVnDLCcS4eehQamkKeDpNbOzGFedQ6k7u6URL~qT4F2fyipGMMwkDtU6thfTA-56TGMQanxVfQ~h64OHM5UH4H9cbFleZOVS4U-c9wu1pA6wZ3hmY-9m1D9nvf9hbhCAkxcCm-AqokxKDnH3F4UDNQKT~rTj80DFYvi0H4fjeKEg0tleb2aWMlBvfBmoil4dnGl9ofXZU4OY8L8fwV2rTLst43TndQFP1pfGZOrwNO9IWJuKEWmd4iLAogYkxQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "fac58083-40c8-47f7-8907-853be0950cc7",
+      "title": "Combine as pistas",
+      "content": "<p>Associe cada expressão da leitura ao sentido correto em português.</p>",
+      "contentPlain": "Associe cada expressão da leitura ao sentido correto em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma as pistas de leitura usadas para localizar lugar, proximidade e posição.",
+      "feedbackError": "Esta tarefa retoma as pistas de leitura usadas para localizar lugar, proximidade e posição.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "ec25432f-d452-492b-82de-1d13cb31c8c9",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "fac58083-40c8-47f7-8907-853be0950cc7"
+        },
+        {
+          "id": "f77b50e9-2b3b-4dc0-9bbe-38a241d619b8",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "fac58083-40c8-47f7-8907-853be0950cc7"
+        }
+      ],
+      "associations": [
+        {
+          "id": "4b052628-53d2-4194-a080-0a8d95e8ccb5",
+          "exerciseId": "fac58083-40c8-47f7-8907-853be0950cc7",
+          "leftContent": "vivo en",
+          "rightContent": "moro em",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4d989841-89e9-4e16-be93-ca729d4f4131",
+          "exerciseId": "fac58083-40c8-47f7-8907-853be0950cc7",
+          "leftContent": "cerca de casa",
+          "rightContent": "perto de casa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a833eb41-13a7-49ab-9a8a-d761e45f1538",
+          "exerciseId": "fac58083-40c8-47f7-8907-853be0950cc7",
+          "leftContent": "enfrente del parque",
+          "rightContent": "em frente ao parque",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "b4acc3f8-af02-42db-825b-31bd489dbe40",
+      "title": "Recupere a cidade",
+      "content": "<p>Complete a frase em espanhol: Ahora vivo en ______ de México.</p>\n          <p>Tradução: Agora moro na Cidade do México.</p>",
+      "contentPlain": "Complete a frase em espanhol: Ahora vivo en ______ de México. Tradução: Agora moro na Cidade do México.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa pede recuperação ativa da cidade dentro da estrutura `vivo en + lugar`.",
+      "feedbackError": "Esta tarefa pede recuperação ativa da cidade dentro da estrutura `vivo en + lugar`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Ciudad",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f4d200af-a39e-4d61-bc55-74b9253eb2aa",
+      "title": "Recupere o edifício",
+      "content": "<p>Complete a frase em espanhol: La __________ está enfrente del parque.</p>\n          <p>Tradução: A biblioteca fica em frente ao parque.</p>",
+      "contentPlain": "Complete a frase em espanhol: La __________ está enfrente del parque. Tradução: A biblioteca fica em frente ao parque.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa pede recuperação ativa do lugar usado como referência na leitura.",
+      "feedbackError": "Esta tarefa pede recuperação ativa do lugar usado como referência na leitura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "biblioteca",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "75a19fc7-4893-40f1-b637-23fc5ae6b163",
+      "title": "Relacione frase e função",
+      "content": "<p>Associe cada frase do microtexto ao tipo de informação que ela traz para a leitura.</p>",
+      "contentPlain": "Associe cada frase do microtexto ao tipo de informação que ela traz para a leitura.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma como o microtexto organiza cidade, proximidade e relação espacial.",
+      "feedbackError": "Esta tarefa retoma como o microtexto organiza cidade, proximidade e relação espacial.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "9db7711b-7c8f-433c-a655-820a341e8502",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "75a19fc7-4893-40f1-b637-23fc5ae6b163"
+        },
+        {
+          "id": "b8f0d8f8-8c06-4fc7-a7ec-fbbe2dadb418",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "75a19fc7-4893-40f1-b637-23fc5ae6b163"
+        }
+      ],
+      "associations": [
+        {
+          "id": "dcfee291-136b-4bfe-b2bc-af971e0fdb48",
+          "exerciseId": "75a19fc7-4893-40f1-b637-23fc5ae6b163",
+          "leftContent": "Ahora vivo en Ciudad de México.",
+          "rightContent": "onde a pessoa mora",
+          "sequenceItem": 1
+        },
+        {
+          "id": "46f1fa66-1b58-4d78-bc47-f6407b653dc1",
+          "exerciseId": "75a19fc7-4893-40f1-b637-23fc5ae6b163",
+          "leftContent": "Hay un parque cerca de casa.",
+          "rightContent": "o que existe por perto",
+          "sequenceItem": 2
+        },
+        {
+          "id": "27ddf7b9-cca9-4a2e-8498-ec989856f8b0",
+          "exerciseId": "75a19fc7-4893-40f1-b637-23fc5ae6b163",
+          "leftContent": "La biblioteca está enfrente del parque.",
+          "rightContent": "posição entre lugares",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "6b6a4d80-3e5f-4896-9478-fa529975839b",
+      "title": "Recupere a referência",
+      "content": "<p>Complete a frase em espanhol: La biblioteca está ________ del parque.</p>\n          <p>Tradução: A biblioteca fica em frente ao parque.</p>",
+      "contentPlain": "Complete a frase em espanhol: La biblioteca está ________ del parque. Tradução: A biblioteca fica em frente ao parque.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma `enfrente` como referência espacial dentro do microtexto.",
+      "feedbackError": "Esta tarefa retoma `enfrente` como referência espacial dentro do microtexto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "enfrente",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "82b6baf1-80d3-45df-b572-110391447c0c",
+      "title": "Recupere o lugar",
+      "content": "<p>Complete a frase em espanhol: Hay un ______ cerca de casa.</p>\n          <p>Tradução: Há um parque perto de casa.</p>",
+      "contentPlain": "Complete a frase em espanhol: Hay un ______ cerca de casa. Tradução: Há um parque perto de casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa pede recuperação ativa do lugar próximo mencionado na leitura.",
+      "feedbackError": "Esta tarefa pede recuperação ativa do lugar próximo mencionado na leitura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "parque",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Ler uma mensagem sobre a nova vida na Cidade do México"
+}

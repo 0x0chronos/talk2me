@@ -1,0 +1,602 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+    "attemptId": "5cb12849-4dfd-4d2b-a7a5-f3297f2c52d1",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "bb514ab2-7607-47d6-a5b7-d510331cd99c",
+      "34f6a376-09b0-4660-bd1b-05225d2aac44",
+      "cc4f2da6-4895-47d0-87d1-ff940fcbc0a6",
+      "84f852ee-aa69-4b5c-aa74-79b84641734b",
+      "88d0391f-df49-4a9b-a543-0ead648e75de"
+    ],
+    "evaluationExerciseIds": [
+      "38d760ea-18c6-46f4-b126-a7ed3c40b95e",
+      "04a22c1e-7b6b-4254-975d-ee1c0d9447c0",
+      "465948e4-6603-4bc0-9b34-90c04d4544d9",
+      "922dbdaf-544a-4f44-9aac-e8a63cdfbdaa",
+      "f8979558-e8b0-4f37-bca0-6b22e7ab9d8e"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:29.2899635Z"
+  },
+  "contents": [
+    {
+      "id": "d7dc9e1a-2b45-43be-89f6-b5bb9255d352",
+      "title": "Leia a abertura e observe que a aula vai separar três efeitos de como si antes de juntar tudo no fechamento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "e959412f-bef4-4d54-ab00-8d2c229000d5",
+          "textContent": "<p>Nesta aula, <strong>como si</strong> não entra para comparar fatos de modo literal.</p><p>O foco é comentar o que um comportamento <strong>parece</strong> dizer: autoridade demais, reacao desproporcional ou compreensao apenas presumida.</p><p>As próximas telas mantém essas três leituras separadas para que a estrutura fique clara antes do recap final.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e9310faa-2d52-43cd-bbae-6a7c80a50331",
+      "title": "Leia a frase em espanhol e acompanhe a tradução. Repare em como a estrutura comenta o jeito de falar, não o cargo real da pessoa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "709198b8-9650-45c7-944c-65d078aada40",
+          "textContent": "<p>Primeiro contato: leitura de postura profissional.</p><p><strong>En la reunion, habla como si coordinara el programa desde hace años.</strong></p><p>Em português: <strong>Na reunião, fala como se coordenasse o programa há anos.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "764eae80-7e54-48db-ad2e-055636c4bfde",
+      "title": "Leia a nota curta e observe como o comentário sai da descrição neutra e entra na leitura de atitude.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "3dc5162c-f59b-4eac-bd1f-516ec9e09e65",
+          "textContent": "<p><strong>habla</strong> mostra o comportamento visível.</p><p><strong>como si coordinara el programa</strong> não confirma que a pessoa coordena nada; marca a leitura de que o tom dela soa mais autoritativo do que a situação pede.</p><p>Com isso, a frase deixa de ser descritiva e passa a comentar postura.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0098676c-550b-46fd-bfd0-eaf2aea6967d",
+      "title": "Leia a frase e acompanhe a tradução. Repare em como a estrutura amplia a reacao, e não o tamanho real do problema.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "dee57d4a-0fd3-49c2-9479-41fe56ae7a40",
+          "textContent": "<p>Agora a leitura vai para exagero diante de um detalhe técnico.</p><p><strong>Revisa un fallo minimo de la plataforma como si estuviera en riesgo todo el proyecto.</strong></p><p>Em português: <strong>Revisa uma falha minima da plataforma como se todo o projeto estivesse em risco.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ac8c6cc7-4d30-4a3c-9b02-a956c2953213",
+      "title": "Leia a nota e compare o tamanho da falha com o tamanho da reacao que a frase faz aparecer.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "edb6fa57-4919-4f5f-b8ba-d9587aefbabd",
+          "textContent": "<p><strong>un fallo minimo</strong> reduz a cena ao detalhe técnico concreto.</p><p><strong>como si estuviera en riesgo todo el proyecto</strong> projeta uma consequencia enorme e deixa aparecer o exagero que o falante percebe.</p><p>O efeito aqui não é informar perigo real, mas comentar uma reacao grande demais para o tamanho do erro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "93ddcd29-44cd-4caa-bda8-216488eec46b",
+      "title": "Leia a frase e acompanhe a tradução. Repare em como o comentário parte de um gesto visível e não de uma comprovacao de conhecimento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "39183814-a669-4cbb-88ac-15e1b1665668",
+          "textContent": "<p>Por fim, a estrutura entra na aparência de compreensao.</p><p><strong>En el taller, asiente como si entendiera cada termino a la primera.</strong></p><p>Em português: <strong>Na oficina, faz que sim como se entendesse cada termo de primeira.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c765a9d5-e919-465d-a439-9865b5bd9dd6",
+      "title": "Leia a explicacao e observe que a estrutura comenta a impressao produzida pela cena, não a verdade objetiva da situação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "06dafeec-c320-408a-a0b8-4e8b3a7a6d2c",
+          "textContent": "<p><strong>asiente</strong> é o sinal observável.</p><p><strong>como si entendiera cada termino a la primera</strong> não prova compreensao total; marca a impressao de seguranca ou de naturalidade que o gesto transmite.</p><p>Depois de <strong>como si</strong>, o imperfeito do subjuntivo ajuda a construir essa leitura hipotética vista de fora.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1ad4aaa7-f3ed-42a8-a628-29cecbf66605",
+      "title": "Leia o mapa e compare o tipo de comentário que cada frase cria depois que cada uma já apareceu separadamente.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "fc4165db-46ec-4cde-a82f-86823260b985",
+          "textContent": "<p>Depois das três exposicoes, vale comparar o tipo de leitura que cada uma ativa.</p><ul><li><strong>habla como si coordinara...</strong> = postura de autoridade presumida</li><li><strong>revisa un fallo minimo como si estuviera en riesgo...</strong> = exagero diante de um detalhe</li><li><strong>asiente como si entendiera...</strong> = aparência de compreensao ou seguranca</li></ul><p>Nas três, o falante comenta o que a cena parece mostrar, não um fato confirmado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "799d54f1-3434-4169-ae9d-32834fea8e6a",
+      "title": "Passe pelo recap final e observe como a estrutura ajuda a comentar atitude em cenas reais sem ficar na descrição literal.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "896d634c-fe7f-4c02-aeda-30b6182d35f4",
+          "textContent": "<p>Na vida real, <strong>como si</strong> aparece quando a pessoa comenta o que um jeito de falar, reagir ou assentir faz parecer.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "ea6c938f-938b-44ea-90bf-b59e49f36ea4",
+          "textContent": "<p><strong>En la reunion, habla como si coordinara el programa desde hace años.</strong></p><p>Serve para ler autoridade assumida ou tom acima do papel real.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "5bc1be56-dfe4-41f8-aac1-0a08700ef6dc",
+          "textContent": "<p><strong>Revisa un fallo minimo de la plataforma como si estuviera en riesgo todo el proyecto.</strong></p><p>Serve para marcar exagero diante de um detalhe técnico.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "0dbfc75e-1186-4038-91d6-53f168822627",
+          "textContent": "<p><strong>En el taller, asiente como si entendiera cada termino a la primera.</strong></p><p>Serve para sugerir compreensao ou seguranca apenas presumida.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        },
+        {
+          "id": "f58103c8-a5a7-4bad-ac55-ac864e7e2923",
+          "textContent": "<p>Esse tipo de comentário entra em devolutiva profissional, conversa sobre curso, observação sobre reunião e relato breve de um erro técnico quando o comportamento diz mais do que o fato literal.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "bb514ab2-7607-47d6-a5b7-d510331cd99c",
+      "title": "Associe sinal e impressao",
+      "content": "<p>Ligue o verbo ou a acao observavel a impressao que o comentário constroi com como si.</p>",
+      "contentPlain": "Ligue o verbo ou a acao observavel a impressao que o comentário constroi com como si.",
+      "fileUrl": null,
+      "feedbackSuccess": "A leitura parte de um sinal visível e projeta a impressao que ele transmite.",
+      "feedbackError": "A leitura parte de um sinal visível e projeta a impressao que ele transmite.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1709b685-efc9-4383-9339-c94cd4dc499f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bb514ab2-7607-47d6-a5b7-d510331cd99c"
+        },
+        {
+          "id": "e2b1a2ba-a59c-4a6f-a375-6abffe1a8529",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bb514ab2-7607-47d6-a5b7-d510331cd99c"
+        }
+      ],
+      "associations": [
+        {
+          "id": "fd423bfb-ce38-4e2e-a866-6ca7ec4febcf",
+          "exerciseId": "bb514ab2-7607-47d6-a5b7-d510331cd99c",
+          "leftContent": "habla",
+          "rightContent": "tom de autoridade acima do papel confirmado",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b2063108-68ee-411a-a9c4-004d46ef0fe3",
+          "exerciseId": "bb514ab2-7607-47d6-a5b7-d510331cd99c",
+          "leftContent": "revisa un fallo minimo",
+          "rightContent": "reacao desproporcional ao detalhe",
+          "sequenceItem": 2
+        },
+        {
+          "id": "581999c8-3bbc-4a4d-b4b2-fa9e15f502cc",
+          "exerciseId": "bb514ab2-7607-47d6-a5b7-d510331cd99c",
+          "leftContent": "asiente",
+          "rightContent": "seguranca ou compreensao apenas presumida",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "34f6a376-09b0-4660-bd1b-05225d2aac44",
+      "title": "Encontre a leitura de exagero",
+      "content": "<p>Na frase sobre a plataforma, qual leitura mostra a desproporcao entre a falha concreta e a reacao percebida?</p>",
+      "contentPlain": "Na frase sobre a plataforma, qual leitura mostra a desproporcao entre a falha concreta e a reacao percebida?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nessa leitura, como si amplia a reacao sem transformar o risco em fato.",
+      "feedbackError": "Nessa leitura, como si amplia a reacao sem transformar o risco em fato.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5da08ff8-2b64-4d52-abe4-9d1a4fc289d5",
+          "textContent": "A pessoa demonstra que entende cada termo de imediato.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "34f6a376-09b0-4660-bd1b-05225d2aac44"
+        },
+        {
+          "id": "911115bc-2c75-4352-a8c8-8f1b93b39737",
+          "textContent": "A pessoa confirma que todo o projeto está realmente em risco.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "34f6a376-09b0-4660-bd1b-05225d2aac44"
+        },
+        {
+          "id": "dd27f921-7973-4b47-be0d-60f99696cf88",
+          "textContent": "A reacao parece grande demais para um problema pequeno.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "34f6a376-09b0-4660-bd1b-05225d2aac44"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "cc4f2da6-4895-47d0-87d1-ff940fcbc0a6",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Revisa un fallo mínimo de la plataforma como si estuviera en ______ todo el proyecto.</p><p>Traducao: Revisa uma falha minima da plataforma como se todo o projeto estivesse em risco.</p>",
+      "contentPlain": "Complete a frase em espanhol: Revisa un fallo mínimo de la plataforma como si estuviera en ______ todo el proyecto. Traducao: Revisa uma falha minima da plataforma como se todo o projeto estivesse em risco.",
+      "fileUrl": null,
+      "feedbackSuccess": "A cena do fallo mínimo mostra como si ampliando a consequencia percebida.",
+      "feedbackError": "A cena do fallo mínimo mostra como si ampliando a consequencia percebida.",
+      "answerType": "buildWord",
+      "expectedAnswer": "riesgo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "84f852ee-aa69-4b5c-aa74-79b84641734b",
+      "title": "Associe frase e leitura",
+      "content": "<p>Relacione cada frase central da aula ao efeito que ela cria no comentário.</p>",
+      "contentPlain": "Relacione cada frase central da aula ao efeito que ela cria no comentário.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa final separa autoridade presumida, exagero e aparência de compreensao.",
+      "feedbackError": "O mapa final separa autoridade presumida, exagero e aparência de compreensao.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "28c3d34b-803c-458a-9928-4e113a9bfa10",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "84f852ee-aa69-4b5c-aa74-79b84641734b"
+        },
+        {
+          "id": "2a06b76a-793a-4d4b-a49a-a9287751b9a1",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "84f852ee-aa69-4b5c-aa74-79b84641734b"
+        }
+      ],
+      "associations": [
+        {
+          "id": "2058013f-027c-4b67-9375-48d8a22330b7",
+          "exerciseId": "84f852ee-aa69-4b5c-aa74-79b84641734b",
+          "leftContent": "habla como si coordinara el programa",
+          "rightContent": "postura de autoridade presumida",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5ef1cd73-cdf0-4aea-9145-d019ae5a2ec8",
+          "exerciseId": "84f852ee-aa69-4b5c-aa74-79b84641734b",
+          "leftContent": "revisa un fallo minimo como si estuviera en riesgo todo el proyecto",
+          "rightContent": "exagero diante de um detalhe tecnico",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ed9e5c1c-9a2f-4ab8-bbc8-fe7e799780b6",
+          "exerciseId": "84f852ee-aa69-4b5c-aa74-79b84641734b",
+          "leftContent": "asiente como si entendiera cada termino a la primera",
+          "rightContent": "aparencia de compreensao",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "88d0391f-df49-4a9b-a543-0ead648e75de",
+      "title": "Reconheca a leitura de autoridade",
+      "content": "<p>Qual opção comenta o jeito de falar como se a pessoa ocupasse um papel de mais autoridade do que a situação confirma?</p>",
+      "contentPlain": "Qual opção comenta o jeito de falar como se a pessoa ocupasse um papel de mais autoridade do que a situação confirma?",
+      "fileUrl": null,
+      "feedbackSuccess": "Como si pode ler postura sem confirmar o cargo real.",
+      "feedbackError": "Como si pode ler postura sem confirmar o cargo real.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "64afb964-6e3a-4abf-83a8-d9c34105dca4",
+          "textContent": "Revisa un fallo minimo de la plataforma como si estuviera en riesgo todo el proyecto.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "88d0391f-df49-4a9b-a543-0ead648e75de"
+        },
+        {
+          "id": "8bd1f1c4-3c6a-46dc-a43f-05b66e4b0e75",
+          "textContent": "En la reunion, habla como si coordinara el programa desde hace años.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "88d0391f-df49-4a9b-a543-0ead648e75de"
+        },
+        {
+          "id": "b7260ea5-03dd-4b9f-a265-a3341b1a8d05",
+          "textContent": "En el taller, asiente como si entendiera cada termino a la primera.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "88d0391f-df49-4a9b-a543-0ead648e75de"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "38d760ea-18c6-46f4-b126-a7ed3c40b95e",
+      "title": "Monte a forma verbal",
+      "content": "<p>Complete a frase em espanhol: En la reunion, habla como si __________ el programa desde hace años.</p><p>Traducao: Na reunião, fala como se coordenasse o programa há anos.</p>",
+      "contentPlain": "Complete a frase em espanhol: En la reunion, habla como si __________ el programa desde hace años. Traducao: Na reunião, fala como se coordenasse o programa há anos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de como si, a aula usa o imperfeito do subjuntivo para ler postura.",
+      "feedbackError": "Depois de como si, a aula usa o imperfeito do subjuntivo para ler postura.",
+      "answerType": "buildWord",
+      "expectedAnswer": "coordinara",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "04a22c1e-7b6b-4254-975d-ee1c0d9447c0",
+      "title": "Monte a forma verbal",
+      "content": "<p>Complete a frase em espanhol: Revisa un fallo mínimo de la plataforma como si _________ en riesgo todo el proyecto.</p><p>Traducao: Revisa uma falha minima da plataforma como se todo o projeto estivesse em risco.</p>",
+      "contentPlain": "Complete a frase em espanhol: Revisa un fallo mínimo de la plataforma como si _________ en riesgo todo el proyecto. Traducao: Revisa uma falha minima da plataforma como se todo o projeto estivesse em risco.",
+      "fileUrl": null,
+      "feedbackSuccess": "A leitura de exagero também usa como si com imperfeito do subjuntivo.",
+      "feedbackError": "A leitura de exagero também usa como si com imperfeito do subjuntivo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estuviera",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "465948e4-6603-4bc0-9b34-90c04d4544d9",
+      "title": "Monte a palavra-chave",
+      "content": "<p>Complete a frase em espanhol: En el taller, _______ como si entendiera cada termino a la primera.</p><p>Traducao: Na oficina, faz que sim como se entendesse cada termo de primeira.</p>",
+      "contentPlain": "Complete a frase em espanhol: En el taller, _______ como si entendiera cada termino a la primera. Traducao: Na oficina, faz que sim como se entendesse cada termo de primeira.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula separa o gesto observavel da compreensao que apenas parece existir.",
+      "feedbackError": "A aula separa o gesto observavel da compreensao que apenas parece existir.",
+      "answerType": "buildWord",
+      "expectedAnswer": "asiente",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "922dbdaf-544a-4f44-9aac-e8a63cdfbdaa",
+      "title": "Remonte a leitura completa",
+      "content": "<p>Religue os trechos do recap final a seus papeis: autoridade presumida, detalhe técnico, projecao exagerada e compreensao aparente.</p>",
+      "contentPlain": "Religue os trechos do recap final a seus papeis: autoridade presumida, detalhe técnico, projecao exagerada e compreensao aparente.",
+      "fileUrl": null,
+      "feedbackSuccess": "No recap final, como si organiza autoridade, exagero e compreensao aparente.",
+      "feedbackError": "No recap final, como si organiza autoridade, exagero e compreensao aparente.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "c274c8f9-4ecf-4f5c-a351-96f703aceb8f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "922dbdaf-544a-4f44-9aac-e8a63cdfbdaa"
+        },
+        {
+          "id": "d416b677-706d-4987-bef4-9d434aca1545",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "922dbdaf-544a-4f44-9aac-e8a63cdfbdaa"
+        }
+      ],
+      "associations": [
+        {
+          "id": "a120f6f6-3fe6-4c09-925c-0fea581aea41",
+          "exerciseId": "922dbdaf-544a-4f44-9aac-e8a63cdfbdaa",
+          "leftContent": "habla como si coordinara el programa",
+          "rightContent": "comenta autoridade presumida numa reunião",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e49cf4e7-c922-4f55-a0c4-23c4d97e60ca",
+          "exerciseId": "922dbdaf-544a-4f44-9aac-e8a63cdfbdaa",
+          "leftContent": "un fallo minimo",
+          "rightContent": "ancora a cena num detalhe tecnico pequeno",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7030ae8b-04a9-4a13-b5ec-bc01fbe6e706",
+          "exerciseId": "922dbdaf-544a-4f44-9aac-e8a63cdfbdaa",
+          "leftContent": "como si estuviera en riesgo todo el proyecto",
+          "rightContent": "projeta uma consequencia muito maior do que o detalhe",
+          "sequenceItem": 3
+        },
+        {
+          "id": "479209bc-5221-4d85-82a8-9cebe05e92cc",
+          "exerciseId": "922dbdaf-544a-4f44-9aac-e8a63cdfbdaa",
+          "leftContent": "como si entendiera cada termino a la primera",
+          "rightContent": "sugere compreensao total sem prova direta",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "f8979558-e8b0-4f37-bca0-6b22e7ab9d8e",
+      "title": "Monte a forma verbal",
+      "content": "<p>Complete a frase em espanhol: En el taller, asiente como si __________ cada termino a la primera.</p><p>Traducao: Na oficina, faz que sim como se entendesse cada termo de primeira.</p>",
+      "contentPlain": "Complete a frase em espanhol: En el taller, asiente como si __________ cada termino a la primera. Traducao: Na oficina, faz que sim como se entendesse cada termo de primeira.",
+      "fileUrl": null,
+      "feedbackSuccess": "A impressao de compreensao da aula continua hipotética, não confirmada.",
+      "feedbackError": "A impressao de compreensao da aula continua hipotética, não confirmada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "entendiera",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1629345d-62b3-4cd2-8b22-e2bb222effa2",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Ler postura e situacao com como si"
+}

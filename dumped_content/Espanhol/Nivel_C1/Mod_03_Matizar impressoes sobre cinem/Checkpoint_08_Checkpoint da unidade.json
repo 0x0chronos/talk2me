@@ -1,0 +1,373 @@
+{
+  "attemptId": "47120fca-b429-4fd2-b0bb-c33f5b3459c3",
+  "exercises": [
+    {
+      "exerciseId": "5b906aae-c435-408d-8191-21d442195e17",
+      "sequence": 1,
+      "lessonId": "8c0fe97e-9e1e-4dac-8d68-e400dedea11f",
+      "title": "Complete o infinitivo",
+      "content": "<p>No me canso de ______ a esa escena.</p><p>Tradução: Eu não me canso de voltar a essa cena.</p>",
+      "contentPlain": "No me canso de ______ a esa escena. Tradução: Eu não me canso de voltar a essa cena.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, depois de `de` entra um infinitivo para marcar o retorno repetido.",
+      "feedbackError": "Nesta aula, depois de `de` entra um infinitivo para marcar o retorno repetido.",
+      "answerType": "buildWord",
+      "expectedAnswer": "volver",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c5035e1c-76ab-41ff-8d8b-96b995f01f2c",
+      "sequence": 2,
+      "lessonId": "796f1219-91ee-46f9-a966-23c379f8f958",
+      "title": "Diferencie as quatro linhas",
+      "content": "<p>Resolva pela escuta fina das quatro molduras centrais da aula.</p>",
+      "contentPlain": "Resolva pela escuta fina das quatro molduras centrais da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta final pede separar com precisão sessão, cena, sequência e o que ficou gravado.",
+      "feedbackError": "A escuta final pede separar com precisão sessão, cena, sequência e o que ficou gravado.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "229f4e6d-e0eb-4920-a93b-7662fe8ad58d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ff33a6ab8bc4474cbebe393134db6fa0_b02-la-proyeccion-de-anoche-termino-con-un-aplauso-larguisimo.mp3?Expires=1794099866&Signature=Ppkr0074pf1ZasKAJBi7kClhFGaw4~wzuRdzGIhM9KyH89b5kxbXk6566Cvy~0BFGVkochhsPOE0qWiwbCHiSpM3Cp7O1X6zuyj7~9TY1d6X8Kq5SNuKBjqXyY2vurcWTwoLeHEzZYJxxM5c5WK-G-lpRUHmTHEkaGK~VeMTpS28lrXdlL7gfg74q6r~n4thMB6jKV3sIPdPygj3IRn25KnW-bUwjR3C65IHW1ntGd02-uleKaiW~NLgf32mhfxxBNv7OZ-M2hb-g4l~-1RjsFgrDqHY3bNWn9p2Bwx~G8KjQPStprhbc-srYWIlaMN8Ougwk7Ae7zbsBm8BQPUxRw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La proyección de anoche terminó con un aplauso larguísimo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "38c8f86a-7463-4398-9b82-3c708feecb3c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c3bbf6763cd94e8683bff3d0fcd6e5a3_b04-la-escena-del-pasillo-cambio-por-completo-mi-lectura-del-personaje.mp3?Expires=1794099866&Signature=pX7Zlcg1uNpzn6K~U8903Rp~B5C2l91q65n4iHV9D2s1jFWEVepD-v2XmTwiP4CydrwE9O0ZSYe5-5hAQIvqjGmzmLNsTBWFG5toyctvFWR5m8kuEeGroG2n5na~Xl9rj264SVqRUAw3ATgL9zTbEguBtS5Hm8TLSHr~kRrYs8b3P-iKXTJyB7xrRkxVNe0TPTrCm6kJWjpQzx2IWqJOdLKl1Om3q6bJ~ajkZCMB~S4dynOeZgi11fux5TGi-hI7BBI8XteZiRlSCljFgblPz-SnG9pnFuyLLiI51kqgVl1CUs9cqWn2RWeV95x-y6dC9MVflWZpkRnLsyyjVbpSfw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La escena del pasillo cambió por completo mi lectura del personaje.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "98cc7c5b-2650-4700-a73d-f484a6dfb0c0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ec40049a30f64c288c14f36b50cbe0b4_b06-la-secuencia-inicial-parece-tranquila-pero-ya-anuncia-el-conflicto.mp3?Expires=1794099866&Signature=BNP9h3EQIin7pj2ssIT56599200ZvD2S3lrV6ePdThtj2Pxilg0yaG30b2yLxKK2IjwhT0qWUd8zPdayZQxVdDeWyl3ZpDqN2falGqDs9Uoc7fHYKaJlG6So4dnsvnFBlHVVisGswoc7tDqFSGAcE5n36wQmgx8QvGjr9usmV6rhJdcpioCxM6s3PnAIKd6-FBUEMyEDNmXd2KDzlaNhHZc7Z0aGZjLwHygGLfH9dd2K-bG5DIh4qv0VB9YH4AGjbTdEJBMnK92b3t5I5N7nCHPNXUr6aZWkk7N48F5mWW3ESPO3dSuuUQIJN7n3QOATJVAMf698boBhnI1yTmzL3A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La secuencia inicial parece tranquila, pero ya anuncia el conflicto.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "b115c07e-dab1-4e57-be6a-5f08ebb583d2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cf224b7470844431a0cf94e2cd283170_b08-se-me-quedo-grabado-el-silencio-que-hubo-antes-del-final.mp3?Expires=1794099866&Signature=fXKAfs0~UUy2q27j3dPySS-p0qsVhM7kUBCWSTI10OD4AomhJZeF~wk1PymTMMQaCq4cBvExPDyofVgcXwm~DQHmCzE9FFyV3JFCa8NK4pcgqmY16c8jrXbP6MTSl6oCRevTxg2qZwH3xUda-gboaUtkzW4Lz88wH9pQhYC8orpRJPjJLc1gzC4ib1NUTeMq8qxPRvmNvqCrNwsD7--EZ9VrtAQinAplTGrTWCqoOITUK8ljO1HgND2GlcfV8qBhKl7XDYHFrwFAnljI6fP-CE39Dagez4W2qmr8k99as~0GZm66IqbWo-UwZTZPM98BSsHlVZ2dKkJ6THLnJmjzwA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Se me quedó grabado el silencio que hubo antes del final.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "04def01b-a5bd-49f7-85e8-67719170adc9",
+      "sequence": 3,
+      "lessonId": "8c0fe97e-9e1e-4dac-8d68-e400dedea11f",
+      "title": "Associe trecho e função",
+      "content": "<p>Ligue cada fragmento em espanhol ao papel que ele cumpre quando o comentário fica menos genérico.</p>",
+      "contentPlain": "Ligue cada fragmento em espanhol ao papel que ele cumpre quando o comentário fica menos genérico.",
+      "fileUrl": null,
+      "feedbackSuccess": "O bloco de motivo breve mostra como o comentário ganha precisão quando você nomeia o efeito e o motivo.",
+      "feedbackError": "O bloco de motivo breve mostra como o comentário ganha precisão quando você nomeia o efeito e o motivo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "a2e4634c-5a28-401b-aca5-c53ceb47ed51",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a4916d77-899d-40e9-90ae-10977f69851d",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "9d85dd98-5228-413c-8f22-9aabd1aa16d3",
+          "leftContent": "su calma",
+          "rightContent": "traço específico que te atrai",
+          "sequenceItem": 1
+        },
+        {
+          "id": "39f23d7b-4e47-429b-83af-ad84b491cd29",
+          "leftContent": "no parece ensayada",
+          "rightContent": "motivo curto que justifica a atração pela calma",
+          "sequenceItem": 2
+        },
+        {
+          "id": "08ac49e4-33b4-41bb-b93b-49826690348f",
+          "leftContent": "administra el silencio",
+          "rightContent": "maneira de contar que te prende",
+          "sequenceItem": 3
+        },
+        {
+          "id": "044949f1-9e2b-4cf5-adda-7a4fd79ee137",
+          "leftContent": "siempre noto algo nuevo",
+          "rightContent": "razão pela qual você volta",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "96cbbfa4-0218-4c64-b342-fadebad49a95",
+      "sequence": 4,
+      "lessonId": "6f96bb32-86e6-4ea5-9759-e37279429b3a",
+      "title": "Recupere a fórmula de irritação",
+      "content": "<p>Complete em espanhol: Me saca de ______ que miren el móvil en plena proyección.</p><p>Tradução: Isso me tira do sério quando olham o celular em plena projeção.</p>",
+      "contentPlain": "Complete em espanhol: Me saca de ______ que miren el móvil en plena proyección. Tradução: Isso me tira do sério quando olham o celular em plena projeção.",
+      "fileUrl": null,
+      "feedbackSuccess": "`me saca de quicio` liga a irritação forte a uma ação observável.",
+      "feedbackError": "`me saca de quicio` liga a irritação forte a uma ação observável.",
+      "answerType": "buildWord",
+      "expectedAnswer": "quicio",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e9d4cffa-d138-491c-9593-84b177d76712",
+      "sequence": 5,
+      "lessonId": "2d3ea390-4e0d-4dd1-aec9-f29e293376d3",
+      "title": "Recupere a rejeição",
+      "content": "<p>Su comentario no tiene ____ de agresivo.</p><p>Tradução: O comentário dele não soa nada agressivo.</p>",
+      "contentPlain": "Su comentario no tiene ____ de agresivo. Tradução: O comentário dele não soa nada agressivo.",
+      "fileUrl": null,
+      "feedbackSuccess": "`No tener nada de` afasta um rótulo e reposiciona a interpretação do tom.",
+      "feedbackError": "`No tener nada de` afasta um rótulo e reposiciona a interpretação do tom.",
+      "answerType": "buildWord",
+      "expectedAnswer": "nada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "096dc372-1445-4bfe-a5ee-e76e0d2352e7",
+      "sequence": 6,
+      "lessonId": "1094fd28-0212-4b76-a11b-d7f7399d17b0",
+      "title": "Recupere o nucleo da fórmula",
+      "content": "<p>Mateo tiene sangre ____ cuando el rodaje se complica.</p><p>Tradução: Mateo mantém a lucidez quando a filmagem complica.</p>",
+      "contentPlain": "Mateo tiene sangre ____ cuando el rodaje se complica. Tradução: Mateo mantém a lucidez quando a filmagem complica.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Sangre fria` destaca controle e lucidez sob pressão.",
+      "feedbackError": "`Sangre fria` destaca controle e lucidez sob pressão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fria",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e13fbcad-155c-4aeb-adc5-a8ff06ff2280",
+      "sequence": 7,
+      "lessonId": "1094fd28-0212-4b76-a11b-d7f7399d17b0",
+      "title": "Complete a crítica",
+      "content": "<p>Leo carece de ________ cuando toca defender una idea.</p><p>Tradução: Leo carece de firmeza quando precisa defender uma ideia.</p>",
+      "contentPlain": "Leo carece de ________ cuando toca defender una idea. Tradução: Leo carece de firmeza quando precisa defender uma ideia.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Caracter` fecha a crítica a quem cede sob confronto.",
+      "feedbackError": "`Caracter` fecha a crítica a quem cede sob confronto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "caracter",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "78e21df7-254c-4d7d-9afe-23cdfed6c569",
+      "sequence": 8,
+      "lessonId": "796f1219-91ee-46f9-a966-23c379f8f958",
+      "title": "Recupere a sessão inteira",
+      "content": "<p>La __________ de anoche terminó con un aplauso larguísimo.</p><p>Tradu&#231;&#227;o: A sessão de ontem terminou com um aplauso longuissimo.</p>",
+      "contentPlain": "La __________ de anoche terminó con un aplauso larguísimo. Tradução: A sessão de ontem terminou com um aplauso longuissimo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Proyeccion nomeia a exibição inteira antes de entrar em cenas ou sequencias.",
+      "feedbackError": "Proyeccion nomeia a exibição inteira antes de entrar em cenas ou sequencias.",
+      "answerType": "buildWord",
+      "expectedAnswer": "proyeccion",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a030616b-a57f-493b-9db3-58bd57602168",
+      "sequence": 9,
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "title": "Recupere a impressao de agora",
+      "content": "<p>Ahora ____ mucho mas suelta frente a la prensa.</p><p>Tradução: Agora ela esta bem mais solta diante da imprensa.</p>",
+      "contentPlain": "Ahora ____ mucho mas suelta frente a la prensa. Tradução: Agora ela esta bem mais solta diante da imprensa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, estar mostra o ajuste mais recente da impressao.",
+      "feedbackError": "Aqui, estar mostra o ajuste mais recente da impressao.",
+      "answerType": "buildWord",
+      "expectedAnswer": "esta",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9a46250f-47ba-48a8-add9-7ee4eeaf1e7e",
+      "sequence": 10,
+      "lessonId": "3cee52b9-8ee6-4044-b1fd-97557f3e7a1a",
+      "title": "Recupere a expressão sobre Nora",
+      "content": "<p>Nora tiene bastante amor ______, por eso le molestó tanto el tono.</p><p>Tradução: A Nora tem bastante amor-próprio, por isso o tom a incomodou tanto.</p>",
+      "contentPlain": "Nora tiene bastante amor ______, por eso le molestó tanto el tono. Tradução: A Nora tem bastante amor-próprio, por isso o tom a incomodou tanto.",
+      "fileUrl": null,
+      "feedbackSuccess": "No dialogo, amor propio ajuda a ler dignidade e limite.",
+      "feedbackError": "No dialogo, amor propio ajuda a ler dignidade e limite.",
+      "answerType": "buildWord",
+      "expectedAnswer": "propio",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f8e4ec86-0d0a-4d14-b6de-9969c9c22480",
+      "sequence": 11,
+      "lessonId": "796f1219-91ee-46f9-a966-23c379f8f958",
+      "title": "Feche a fórmula da memória",
+      "content": "<p>Se me quedó _______ el silencio que hubo antes del final.</p><p>Tradu&#231;&#227;o: Ficou gravado em mim o silêncio que houve antes do final.</p>",
+      "contentPlain": "Se me quedó _______ el silencio que hubo antes del final. Tradução: Ficou gravado em mim o silêncio que houve antes do final.",
+      "fileUrl": null,
+      "feedbackSuccess": "Grabado fecha a fórmula que nomeia o que continua insistindo na memória.",
+      "feedbackError": "Grabado fecha a fórmula que nomeia o que continua insistindo na memória.",
+      "answerType": "buildWord",
+      "expectedAnswer": "grabado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0a4ae21b-ed26-425f-903d-8ffcf55dda25",
+      "sequence": 12,
+      "lessonId": "6f96bb32-86e6-4ea5-9759-e37279429b3a",
+      "title": "Ouça e ligue só em espanhol",
+      "content": "<p>Associe cada áudio ao comentário correspondente sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio ao comentário correspondente sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "A reta final da aula pede reconhecer as duas fórmulas e o comentário integrado só pelas pistas em espanhol.",
+      "feedbackError": "A reta final da aula pede reconhecer as duas fórmulas e o comentário integrado só pelas pistas em espanhol.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "476a2d22-d9bb-4260-9a62-df1d6a40a89d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5dd08c5ddfb0470f880725f735a1366f_b02-me-da-rechazo-tono-de-superioridad.mp3?Expires=1794099866&Signature=uxTBlWel1-5HlMV-~cIgzJCx1Tu5ZT5smUtIH01YDxtlFsTgbciwk0Ho7ca4cSXyHLXC7fGoRoCFaYpTh885ZmbHXMhMIIEM4QKMneDZaul876LYX7Zp111oiq-fGVvNTdB5E94WDmwJiBn6L2-geA-p3KaMYed8WZAWpP47SUGKusETqDlPMqKiqZ1PEnW3bMDkvD3JaN~lVbtEa~TkUBTKT~P4B~lYmj5aABrJlIensIn5hfo65WbtBo61GmSLcNlLoiR0QwJc-Bonr6rGF~RM2d~rY9~Oorqbeklc9xdbnRVzOAfj8pkOCaEucqRHZiFbm559FrXKNGsLX9dsAw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me da rechazo ese tono de superioridad en algunas charlas de cine, porque convierte la conversación en una competición.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0dd1d2fd-e1fa-423c-b67d-575912004c35",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7c0dff3ee7364b64952dab5767d47ebb_b04-me-saca-de-quicio-movil-en-proyeccion.mp3?Expires=1794099866&Signature=E7J3RAefdDfRY~~nkejFvHhOVNkUsC9RZ6mpphK24uNsLcuKTOzX80H3azw2Ae52ifIXusUpQvaUXT5TUk-NnvfhTql~07Z7xNQZHF2Y2elwcHd8bM-ywcSPVUXY17tV0LhAO-GerqgC72lc-xUOq7QstRTeLODFIYpTs-iZzmfsfrcGymJQGf-mcg3uDbU7MllNh6weqaoNWAuZdPoOT1po6u~r4kcVpF9jA76IJV2XsXOrJn~6f8iTnIEg11UVicubmw-tscP21GlS8-pUKtqK6qjABl-AhSJnGsF9bL1DllCAEdqaD8gDfT4Y64pmR9b2qJ9YcOubU3ChjHz8UA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me saca de quicio que miren el móvil en plena proyección, porque rompe la tensión de la escena.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "289ba183-806f-45c3-93b6-2c07820040bc",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c0e0caa5347c4887bf0f7354662323fb_b06-comentario-integrado-rechazo-e-irritacion.mp3?Expires=1794099866&Signature=HATFpH1tbQvYRlpLCKlqnwNS-XegvABwzSX5zDBja2mewb0PPJECM3zA1c5StrZVmzWv4MfYGeDSGIL3somjlXEjSEEQS~6OGO6x2PY90ewUoeLCokRsZvHpqVEVaSSv6RPQXuqlPLo6BlYT1QsEeRKIAUcuMoMfLbUXA9t3Kz4HV3TkxdPbECMusEhRbT7ZUbR9bd-Wohj1Ypxg48RD~nPluDqjZ-JywcPPiSiwbpc0~IQYModaHONdxqI6v9Ky2oXG3UWsAWzR2F5t0rFyEvb3DU3oEP0jIEhRTX8u5Fwg01jWE3KOTthrXe4aCokymm7~mUpRExFFBXZXVxpUhg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En los debates después del cine, me da rechazo el sarcasmo con el que algunos ridiculizan cualquier emoción. Y me saca de quicio que comenten cada escena en voz alta, porque no dejan respirar la película.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "2d251ea3-c795-4a41-9bee-6487eb680602",
+      "sequence": 13,
+      "lessonId": "3cee52b9-8ee6-4044-b1fd-97557f3e7a1a",
+      "title": "Reconstrua a mediação pela escuta",
+      "content": "<p>Resolva sem apoio em português, distinguindo traço, causa, limite e encaminhamento da conversa.</p>",
+      "contentPlain": "Resolva sem apoio em português, distinguindo traço, causa, limite e encaminhamento da conversa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O dialogo final junta traço, estado, limite e reencuadre do conflito.",
+      "feedbackError": "O dialogo final junta traço, estado, limite e reencuadre do conflito.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "e027649d-c780-4770-8e83-539d7909f8e2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/13bb07a0d53042f8bc63509ad0cd437f_b04-bruno-es-un-cielo-pero-hoy-esta-a-la-defensiva.mp3?Expires=1794099866&Signature=UlM5rfiDs1PrzaBVfo9KnHKd7wvrP5y3iGedxEk0JsmFagdvnvAQbtEBAzy6tdlKAzY2m3j4qx4NgfDskISNkxfmURgPtd4yApxLUaSsNrwyfDYxkvDnkx~F1D15OcsNCckKa8zMadpOiN1t446a9~KX82D4u9rExRnQGX-8K6rdF0XdKo9GoFTzBNTNz3nAhvIDT3fdVQHdIapIHdA5MwKAg1NW1185Z-CqcQLjLEdHQEocc4cVfHPU7iiAe2Vw3f94QZ1V7FG4aTTxgSMZXqgvfImu0hnyF8dzhk7Q9ffd6fPsZhzU4jflgPKJeOgtLirxmc647jhg7WL4U-YV9A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "es un cielo, pero hoy está a la defensiva",
+          "sequenceItem": 1
+        },
+        {
+          "id": "128f0a78-c268-47de-9562-89f9f27691c8",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d4dba8e2d30c43968b2ed176e3aefeb6_b02-hay-bastante-de-malentendido-y-muy-poco-de-mala-fe.mp3?Expires=1794099866&Signature=UBBNg-oS~ACDkGPPWLIZYMTmvUDgQKbrYFUTfcRo6CeHDKIkSI0E6K11nQh5zJELSBiHrveuuUd4zZ~Zcv2stKSOAiTX3F9vTXn0ykLqqU1OhdymiLLEpyIDokPtIDFSrXC~U9TyDo6zw9canDzDqvjAvzqDann-pHN0SQLAQ6p3FT9g6Y25HO1n-FhR6MujASiGmtQOYG-qliZEa10Rit3eIQOXAnlf23yifk5gUBHx2s4ekKt0QmvljE6HmhJLjHMYD4-qnXRbQeN5Kj4DgFMj2jcEZWIBMHWNknrlDJ3AuMlyGCE0wkpR8ypNXticPz5jf1Mz4mXPNklHYhfg2w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hay bastante de malentendido y muy poco de mala fe",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4f9a1a9c-89b6-436f-ac57-41ff8cde4e15",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/015443d0c212432d819a1cb1ff5d7d9e_b06-d03-nora-tiene-bastante-amor-propio.mp3?Expires=1794099866&Signature=rz7gLwaZDWsz5iJ6baROsk-VgFTmx3oABEzglGvRxCrYQA9JO7-gZHU5WhwCVLNxAl73y6D5DJrwPwMnn-1Cfc9rj6nAPRhhErPjehDvxrw1jUIoKbohuFygglQPGBtxZ5DQAe98TPj0Tpyjfu9vxuWFM8sV~NATgtjd~VPQMY4JxUJTC7jA6CTFY2QMrQDbgfITsi8fJeLxIlhqsOMod7rzashw1Oos1zhc9rCpmzcx5nGXl02Cw2Ff3CL~8ex46XUJmLfEj3aOZLo1krot0ZsZweYW6kpdqrfTv21ac7OGSAKdyM6CI6hxbtA9~0juXRsTA~fLyTCT7tQg7V2Mdg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "tiene bastante amor propio",
+          "sequenceItem": 3
+        },
+        {
+          "id": "050aeeaa-b0de-4b8d-834f-a444871221ae",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d6bf3dcd0b464e7f94100e0fb4d99136_b06-d04-entonces-conviene-hablar-con-calma.mp3?Expires=1794099866&Signature=edDPPTKmWVDHQeT0AGqmekWCc-B47FJkeDm52Y0ikdcQjjalPeuPUjmJwvkqLneRH3sSjU8maYADBBTmIzi5LUszf11Z09ILgCpTzD-blaktthONLysAmDMm2syn3uyNCJc29KtCQCDPRGhxrnO9Fs1TL30e50Oh6I28pc8JnFKn8rp6GdTSeAlyylmRNC3Co8e~YXdDzHCO0b-7sCRP4AWd3mdf1XJQ21E-TtLKxSgcJx-lB4DKrVlgEi2BiRP3DA1vpAeFkLvUZgrEHgQAowTWQO61uzNHFvp3vQVqn1uCyBr~ZTD4tXZ0PhbIylQGVzXIcUl0ovPhgIYhhjuvbw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "hablar con calma y separar lo que pasó de cómo estaban",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "2ad80c3d-13b2-45f7-8651-e50e7363ff3e",
+      "sequence": 14,
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "title": "Recupere o verbo de estado",
+      "content": "<p>Después del estreno, Lucia ____ aliviada y todavía algo tensa.</p><p>Tradução: Depois da estreia, Lucia está aliviada e ainda um pouco tensa.</p>",
+      "contentPlain": "Después del estreno, Lucia ____ aliviada y todavía algo tensa. Tradução: Depois da estreia, Lucia está aliviada e ainda um pouco tensa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, estar mostra como Lucia se encontra nesse momento.",
+      "feedbackError": "Aqui, estar mostra como Lucia se encontra nesse momento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "está",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8fd8b786-3743-44b2-b240-2e1c867f1107",
+      "sequence": 15,
+      "lessonId": "2d3ea390-4e0d-4dd1-aec9-f29e293376d3",
+      "title": "Recupere a frase completa",
+      "content": "<p>Distinga os três comentários pela escuta e ligue cada áudio ao enunciado inteiro em espanhol.</p>",
+      "contentPlain": "Distinga os três comentários pela escuta e ligue cada áudio ao enunciado inteiro em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na etapa final, a escuta precisa recuperar a frase inteira e não só o nome da moldura.",
+      "feedbackError": "Na etapa final, a escuta precisa recuperar a frase inteira e não só o nome da moldura.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "30a0136b-ceea-4129-8bd7-5de2a28ee70e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4ca06c1c5b8f4c90ad212630efe6d34e_b02-la-pelicula-tiene-mucho-de-autobiografica-phase4.mp3?Expires=1794099866&Signature=0CnOMfiHbAfhFGmtoe1hYxt9AhAUSYh4PKiXo-awQoNu3Tn20dSI2VDKlX~vFDReFrVu1MnMqMgjiwzqL5BYmWX8lgk-M0MSBnqwkJmhKgMSMVSyujWlauXGOqjuVcwB7-LPYG3CrTYbc6TTxGQFQJzRajrtGiTOJXmfMDECme2NYVrdolXgONeTzB8qfJo-7a~jaHk8XYeT5Zjut9-59QV1Nu5wZZP0ef27hLi9nx87feMECi9qHqc~obW-u4UKB0odO4GkMbPxCZxNUDDfyAZJI-DonuxaFy~1-khsIQuWt4C28W6llrhkOlgzoIUjDLutZYom0PfX~nZ8hJJQ7w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La pelicula tiene mucho de autobiografica.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "62096709-1b5b-4695-a7e8-ca1c05032ac9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d829533bdb4a449f8e9d4aaff6a064ee_b04-el-barrio-nuevo-tiene-algo-de-improvisado-phase4.mp3?Expires=1794099866&Signature=tlEee6Zf5PQRFb-ebgyaC03smq5qrmgvLXig~rR93kmF0eWQlDtjn7w3f6FVFXV9M17IxnuR63vGtNLlgy-X04aTBlL2Yfhw~sFCUwa6ircuLxMCHUpHTNMFmlFs7psVC54-dfo3LDxU5jd1vthnZjkMr7mioW90bufubJjebIdkUb4PrCDjM9CMgNFKebCSiEOBompoYhvNtsC2rTNhLOvloL-WEjWTy04yZBIsfSAYMm-PpAFEplsKEKL4vs7NaGFqoH4qIBiB6hiFNKR3qXiJW4a87di79T0dexK79robW4vHhQ8YpiLQUXAijm4DYWWCpoDsauad0HmeKrwQcw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El barrio nuevo tiene algo de improvisado.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f4a0987e-b561-4305-96bf-2451459c84d9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/72a7d58ae62440be81cc61e7f046f005_b06-su-comentario-no-tiene-nada-de-agresivo-phase4.mp3?Expires=1794099866&Signature=ErqTQwkW6XCYFTOKiKv8CknoJYO0l7zjd4wyAcccBQ5I6CYSlOjdwL~1GPdMZ~rkKOSq4pb0Wx~Qw6e768O2E1ZeXd6M1L52sUuSgYUW-WmHB~ZoiKWb2A9f5Spl3tPHiP5ybnsi4-GK2TCsMOMjclP7oSmPGLf5IPNDr2mLzFd87dlGIooGeIZ8M2z0JBKD-nC4ZHkF1GyrVgy244ZhnWBNjiJ51pUfyLYuiqMagkCK1Q7TOtXadndzb9k8xVr~696~fLtAbuWqHbDEBcCIowXubYYEBilmSpN4SoB5mWUwhVbj2QWQplA85qsigmu6TfFskEPQSgTBeuCxrODJFg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Su comentario no tiene nada de agresivo.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ]
+}

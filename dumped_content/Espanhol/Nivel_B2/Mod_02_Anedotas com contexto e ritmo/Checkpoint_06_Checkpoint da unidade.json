@@ -1,0 +1,466 @@
+{
+  "attemptId": "47772cfb-48d1-4394-a7b8-cc4f2f39630c",
+  "exercises": [
+    {
+      "exerciseId": "91cf63dd-6684-4cc6-bd0d-c2946c91c155",
+      "sequence": 1,
+      "lessonId": "089f2b03-5890-453a-a4fe-10d96eb69cd2",
+      "title": "Recupere o microrelato pelo áudio",
+      "content": "<p>Marque apenas as palavras que fazem parte do relato final completo.</p>",
+      "contentPlain": "Marque apenas as palavras que fazem parte do relato final completo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3366477b6c5c4ddb91db458d06eae319_b05-microrelato-final.mp3?Expires=1794099690&Signature=p5qu7W3I~sZ95RviFLbYbAxmMEZAmVlTv08PmqXZsT0fzl~oMW-gKAZQD9sRA~r1WeiID9MiB4p496aQjfeXnZG~IXWFpzyBTmOWz46lYNfx4dImAlnxZtGH3s0hTvlPLGPvo3TYfIyzGHbzmACgthV2ncP-cc928Bzi096BOojf4NHC-3YELzIn8zmvZJERO0n-fwSggu~4XX8uz7aghsTQNCDFfXNJFrm91yWsDkoXic9yjAWJlxUX2FU0eiwWgg9NjmnPIX13TYpvCtSOv3E3nm21fhqVoQo-ROa7MajeHmh~w6nCwawiYqVgUKMJ90C2adlJgQHlZPZUWauSwA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O microrelato final recompõe abertura, virada, reação e desfecho em uma única escuta.",
+      "feedbackError": "O microrelato final recompõe abertura, virada, reação e desfecho em uma única escuta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3e11170f-c99e-4eb1-942c-75127e3b51cf",
+          "text": "aparcado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "60b499b2-8281-4a14-9658-7f19e5cd1d20",
+          "text": "amiga",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "627fd031-dbee-45ee-a149-dda77f5f7a5d",
+          "text": "cine",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "83672e1a-82d2-4173-8174-98bacae42250",
+          "text": "normal",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a26c1ab9-7bf6-4e61-a187-532e807e6183",
+          "text": "coche",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a9445973-f03b-456a-9eac-115537eb35c1",
+          "text": "susto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ae5b8d85-f08f-44fb-baaa-b05887feace4",
+          "text": "sábado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "df61f5a2-6833-4a66-a9ec-290a2c36326b",
+          "text": "vecino",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e7feff44-a6dd-4e04-8121-881a60aa5bd4",
+          "text": "dejado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eba8c029-1a2b-4146-aae8-cc4d9f6e7952",
+          "text": "calle",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "35029961-cba0-42c4-b764-2ea1ecd95c57",
+      "sequence": 2,
+      "lessonId": "92ed98cf-44d1-4929-907e-2b9668afb37c",
+      "title": "Recupere o problema",
+      "content": "<p>Miré el bolsillo y no tenía el _______.</p><p>Tradução: Olhei o bolso e não estava com o celular.</p>",
+      "contentPlain": "Miré el bolsillo y no tenía el _______. Tradução: Olhei o bolso e não estava com o celular.",
+      "fileUrl": null,
+      "feedbackSuccess": "O primeiro fato concreto da aula fecha a abertura com um problema bem visível.",
+      "feedbackError": "O primeiro fato concreto da aula fecha a abertura com um problema bem visível.",
+      "answerType": "buildWord",
+      "expectedAnswer": "celular",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a332d671-4aad-4ad8-945a-ac4f209ef4f8",
+      "sequence": 3,
+      "lessonId": "8a572cd0-54c9-4532-9aea-37d698a81e91",
+      "title": "Recupere a cronologia nova",
+      "content": "<p>Relacione cada áudio à frase em espanhol correspondente.</p>",
+      "contentPlain": "Relacione cada áudio à frase em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "As três marcas seguem legíveis quando reaparecem em um relato novo em espanhol.",
+      "feedbackError": "As três marcas seguem legíveis quando reaparecem em um relato novo em espanhol.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "d2728c69-534b-4171-93e9-cf1ea60b39a4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a8f819960c5b4d25a9ee79a713970260_ex01-aquella-noche-cerraron-el-puente.mp3?Expires=1794099690&Signature=RNS09-TW393ymBOLAgG1sXLnCyXQRHs-0h~bzMegBA3vFYlhaTj7-1Eop15IxQdFV1Itow8H-Bonhfxi0EnXnf4lQUGq9z0O97OphJ-th87UKf8zvIUbhQ218C9MPdXKzSRtds~w5Wgk~yuH0qzkOOKQHWLRgO5~-ivPGax-jpnVOSBgVyaYp25XGtFks3xu0Ik7led~LfrRps2--Qs~HSP-KggjZFSKxofhQedq1ALZfwCu~URo7wmh5~c-aTE1HV00f9g-~AxDWvVwz-IiBdtNC~-mE4LPMQrwGxXXnTL23jQitNwCMcS3uM9dd-k93swTfUJtdU0SrGDo05hWpw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Aquella noche, cerraron el puente justo cuando íbamos a cruzar.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "dbd17b3b-2b40-445f-a5d3-be7ba7d5d486",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/83760181002e418b97e4d5329e458556_ex02-a-eso-de-las-nueve-empezo-a-sonar-la-alarma.mp3?Expires=1794099690&Signature=CI0TqzCVH-jgi6z41UHUcPo8GMi5Pnh7Jlr58GfgxZFZPgHb3SQ23Og~0923H6ik5BUa3xqojbxiVYwxjxd71dKbKBlNw~Qvsg4T43CsJ14xznSQGwlcs~6ExZjHhTQ~h62MqgZgF4FFO5v1sISmCOa~BNGS~QXRXCpBGLdNFU4Veqt0u6WpApq3Zm6hmktgBJd5oC~1vpPWCB6bznFTctmeRV7k43lhJE7YJ-B6AE9wZELXve75sGY4-~wCM4fP-FhW4H7DVHEbrRmsC8sEQUOw670-5x2pOUFMkwtS9cDCdlXsQNjacFbJhcRaj7UOg09ot--t0S6~9FGt3zFYYg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "A eso de las nueve, empezó a sonar la alarma del edificio.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6bd5094e-2f27-4b7e-bb6a-0dfc7e460a31",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/150a2d1e88e941df9e13897a76eb3058_ex03-veinte-minutos-despues-por-fin-dejaron-entrar-a-todos.mp3?Expires=1794099690&Signature=2B4C0GnamHEe~A-rKKIU7TwJYUlRcTrwhSk~p5hX4FgwrsHK-A~owFfJRdRLnUU6zDJhlHvN8~VWgXtiw~gKRXiWcX78kxcgkhAFiWgE92sWha-Tj41Eh~H02kshRmdJeUl46reC9AO6bJr7NhvpINvWUn-3bL43Zbstdd3KRtVdQ77x-GRJOv9SmX9ju1EBlRL61vDQpuoJ6-9bwPbDw-SZoFyDSSftJfnFuj6jZ-wz7RYSYZvmQTd8A0QdrIjVL14ysOaZKmb7Z1NSpaFuLQssepzDGmM~9rn6CU0Pf953ngeY--ZJUUK1H7c0QmlBUyedo10e1jEI-Hj4IBYopw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Veinte minutos después, por fin dejaron entrar a todos.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "fed8f5d1-b73f-4e55-882b-0710182fb84f",
+      "sequence": 4,
+      "lessonId": "089f2b03-5890-453a-a4fe-10d96eb69cd2",
+      "title": "Recupere a virada",
+      "content": "<p>De repente, vimos que el _____ no estaba donde lo había dejado.</p><p>Tradução: De repente, vimos que o carro não estava onde eu o tinha deixado.</p>",
+      "contentPlain": "De repente, vimos que el _____ no estaba donde lo había dejado. Tradução: De repente, vimos que o carro não estava onde eu o tinha deixado.",
+      "fileUrl": null,
+      "feedbackSuccess": "A virada da aula acontece quando o narrador percebe que o carro não está onde esperava.",
+      "feedbackError": "A virada da aula acontece quando o narrador percebe que o carro não está onde esperava.",
+      "answerType": "buildWord",
+      "expectedAnswer": "coche",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "78c5e607-5f64-49a5-ba8f-5d7d8802e2f2",
+      "sequence": 5,
+      "lessonId": "92ed98cf-44d1-4929-907e-2b9668afb37c",
+      "title": "Recupere a abertura pela escuta",
+      "content": "<p>Escute a frase inicial e selecione apenas as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a frase inicial e selecione apenas as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1fc6d15df55c441a8a0051df1ca3472d_b02-te-juro-que-todo-empezo-cuando-salimos-del-recital.mp3?Expires=1794099690&Signature=bqbS~1-CiJoa-oWYPsq7leMNUtWqCf58xuzd1y9nL35u8AlZC9keqytOejdcCnLzigrN~HZpilnX998p6A7adcQAiIyEpVpqNWmm8iMFuSks4ESuWOiVYA-151W8AlEWt9msoQo5-rBaj5rX3cWYiivXQXjBWQscpZYAOgwvnUMvxevxs7UhD~Fw1B4g5ebyk1rxtDgnAw2R-j6rFwSdqvT16JNeN5W6TfGhFP5OASG6QVzyL7eJjOlWRyc5EPE6aX8NDSyhNcwjmto-2e6Ra7yQmFnnoVCj5Ycja9h2XA~sLXKGWw~M9UiT1r2al9Vhrmy6x0KV1VUESkiNI9puOg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O gancho da aula combina impacto oral com um ponto de partida claro.",
+      "feedbackError": "O gancho da aula combina impacto oral com um ponto de partida claro.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "17657292-f8e6-465c-bf3a-8aaecc8e5334",
+          "text": "recital",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "664b433e-61d7-40ae-b459-7c564f141ed3",
+          "text": "bolsillo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6bb5ae66-008a-4a24-a04f-74d8fa511e08",
+          "text": "todo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9223a348-edd9-4475-bb42-7d18a2ddcb5e",
+          "text": "celular",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9ba1a916-b658-4c5d-84cf-e93eba12bee8",
+          "text": "salimos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b2939039-326d-4639-bcc1-cfeea31e77a0",
+          "text": "juro",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c30073ab-0215-47b6-86a8-8d1158d549e7",
+          "text": "empezó",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "05c9118c-e8fa-41b8-9850-1e1aa8610b3b",
+      "sequence": 6,
+      "lessonId": "8a572cd0-54c9-4532-9aea-37d698a81e91",
+      "title": "Monte a hora aproximada",
+      "content": "<p>A ___ de las nueve, empezó a sonar la alarma del edificio.</p><p>Tradução: Por volta das nove, começou a tocar o alarme do prédio.</p>",
+      "contentPlain": "A ___ de las nueve, empezó a sonar la alarma del edificio. Tradução: Por volta das nove, começou a tocar o alarme do prédio.",
+      "fileUrl": null,
+      "feedbackSuccess": "A referência aproximada de relógio localiza a cena sem soar milimetricamente exata.",
+      "feedbackError": "A referência aproximada de relógio localiza a cena sem soar milimetricamente exata.",
+      "answerType": "buildWord",
+      "expectedAnswer": "eso",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4d9aafcb-6ae3-4fdb-acf7-d97a3eab57a9",
+      "sequence": 7,
+      "lessonId": "413b4501-f6e1-4244-a0c9-f77d33cad5fa",
+      "title": "Reconstrua o microdiálogo",
+      "content": "<p>Relacione cada áudio com sua frase correspondente. Use apenas as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com sua frase correspondente. Use apenas as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O microdiálogo completo reforça a passagem do fundo para a virada dentro da anedota.",
+      "feedbackError": "O microdiálogo completo reforça a passagem do fundo para a virada dentro da anedota.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "83d9736d-5ac7-4c67-bf94-be6bc1941921",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/48e118f887e749d486b8e3dc543f9385_b03b05-linea-01-phase4.mp3?Expires=1794099690&Signature=tToMTOCRmFN7-Td-zu0ZnQnuAqvguExNKilaRR~6TF77LFqQcqVdi5gK78YynRK~x8bV-hhWqv968mP3KCUuLULvXBjtX2EHLe-VUdvZO0Sm4vQnsv6DLK~Eftvr5owKovMohoDln5xQVMnrXrqO1CKGl~R~prBnwEz1bzj4SnCI4Xf~FwnI9lECEKhBF22YoEDSSTywSc~MBY~NGmlZ6LQstugRg7YA7eOfqOkcFhK0E5mXRf1R8pK4yh3PYiyfWyR3TMSpbAeENC-2Oc~d7HwBfvogdlJwzDVcgIoTSVrNReiqvoK46QXLG9gLGE2QRqd8tZWxiuAmiT~DtFKLvA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ayer estaba trabajando en una cafetería y escuchaba música con los auriculares.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3f971f62-192c-4295-b046-041ab0642637",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/490bb89f8d32482d9a6876667996ad6f_b03b05-linea-02-phase4.mp3?Expires=1794099690&Signature=DDli96KlF1mDTMkkxy4dkddWje9hMEnpBmc2UyxnV1728TXitNxgIqcsWlH68LQI647HGV4YrCH431yC84sATmdiBCsh-NRH~cRHryxURKMUYpXjsvkw2vF5YcppJ9J0SJJo-PxLSTAEE9iC-FXjVHjtB9QZfjQrmYTpeWQ4LbB09rV4rEU7w2b9VZFKMKUoGJv1kxdrgFxrMJHo5MkeUIjygXN~Iqtr3f0y0rHV-vX4rw4aQznGFgRAeoK~KEl6-DaMq26QccyvayVcn6aQM0vF0KqFBu0ZSn-hnHp-uG0cMOdmU8kFZpuQntMLBGk0TGanHQla8K7CKhsRMOnHhQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Y entonces qué pasó?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7ae31728-0513-4304-bda1-496edda61a73",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7754462f30654235875d58e34baa5aa9_b03b05-linea-03-phase4.mp3?Expires=1794099690&Signature=SW69TwYk-Db584cIKtYPGv4ENT1~gT-~CLnGVTt8g0bQuw7CHay5jCSBDIynlkr9Weqk6eXXq~Q8Dh2nqZ2zSx6H7kBVAW71OkXQoT9u1lqhCFAuMAwsfM1ogOVTVWYJj50P76vBzeG2f~YdLBXGeWYJY9VHlcxdvslLV6LsE3mKJGvEtLZS--1VSxCF-dcAAKSMPkPj11rAxFksfnRViPzxFbf9oBhtETQFaUZDauObV2QQjOT7TBOI8-8aFX4M6QMJsnU2nSAdpnTWdVhMarHjtbsmkXTTyPg9kZHym5KMsSWHEYm51D9U6HN5ta5n58tkW~9YgZPLplNPSsQvng__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "De repente, se fue la luz y todos empezamos a hablar a la vez.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "972a6527-3bfb-4c37-9b84-82c1bcac6217",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac2fbedfa7274aad9d0c717273b5e0f5_b03b05-linea-04-phase4.mp3?Expires=1794099690&Signature=S~keA~vtgENtipJC60mSbjyLk2Pyz0Eva~R~LWbnqYH6FwYX6I5~tG5YXTkMa~f~~Xw23L6aCYOuhXNYQ2qCwukWHJbn2e-pBo1ZBJYIAJdipBBjM-No~qSS-RwngrSwMjVGLUAEhA6kZjFcMj-x0CGKvuhvCMl1UCcYSLRT0ebHJikA7-Cok-VRwAqG76Su9DAJ8IUZr1KrU7-sf1NuFDhCwB6--dSEBdbfpn-Dadh7TsNxsCUx9wwGdoYVpxgpa5j90NwSi4GxmsPTd9YIgrzBYlmsUzeZiScBC-m3IndG6BUoMTby~OmtweERUf5u6ZNHxongijWNC1WMof2r9Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vaya, ahí empezó la anécdota.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "09c7c297-d441-4950-a7b5-298c3c6646ad",
+      "sequence": 8,
+      "lessonId": "089f2b03-5890-453a-a4fe-10d96eb69cd2",
+      "title": "Reconstrua o loop pelo áudio",
+      "content": "<p>Escute os cinco trechos e ligue cada um ao texto certo sem apoio em português.</p>",
+      "contentPlain": "Escute os cinco trechos e ligue cada um ao texto certo sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O loop completo da aula fica mais sólido quando você recupera cada passo direto do áudio em espanhol.",
+      "feedbackError": "O loop completo da aula fica mais sólido quando você recupera cada passo direto do áudio em espanhol.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "1bb9acbf-5810-4395-80ae-4d5f335021f1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d140799449824ec0babe212a7fbde0df_b03-linea-01.mp3?Expires=1794099690&Signature=PZUfDTXynGOKNAjMIncUnmQpf3lPXHTOQt-oSoTodEmxCb1Ef4Ew5gHfonT56pWey-2QYM0c1Cth4HFuxstyklfeZmgTYalvwWjLoGc6R5Wl3BVWISV5ddnHnlh~zHHycMlnwivs7vut-itd5w-1Oz8sx-HWfcjoHyR2XHHsv3USvx10GaEB2blcTC6ALYLnSdHLmCNgTbf~UBE7q-3gopliugOi6IyZecgt6fgS0VasqYU0MohFFdd4oy~wpY-2VECqsG~QlM3NNoWPri04PBz0GrSXuPF7280iRTZBoZHqzoNZd5-2-ypAXSBeKuuXzLGoJnavaZ6QSJY7tt~PQw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Te juro que todo empezó cuando salíamos del cine.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e8acb8a1-9a38-4f31-96e7-fd491f0e2381",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fcda30e369eb4f7ead7b17bb456e6a0d_b01-no-me-digas.mp3?Expires=1794099690&Signature=K5RaplOhar5eopxpNthi~XbsWAPAGlI3TRm-Z8K5GQGrJk6ZUpdH2-I2CnoY9NhtsI4BfXSaCyUCbIkWeiPpfSQgTtZ2p~vh2wHUZn3ZMg15WOBjNWPq1YUhbazRdf5fkauzrMBnGfFVniwulvooWIXLmMKqilOw97TIYz1WkLWJQv2sH0fWoEXM~NuJDXQ7zHiLBJrGiJAK1xlOdNCYbUPwBSthyXQ5SR7V3XX63W1-L~BVZxOGkSZlzoxMnYNMfnFNdbKl2S2S5qbCZpCGfsVjupYtQ7FotqWWZOU8BX7oj~niEqYVpLLWjumrXrUiGCBv9SHW227~Y5~Z3OTpcw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¡No me digas!",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a39ccf06-8043-47bc-ad43-6f1b98e03b54",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6ec37a5cb23349309503a37bf51e56d5_b03-linea-03.mp3?Expires=1794099690&Signature=V4om8yaRMeVmpm~IRG3uVIhsW9lcicEVvsTK1dov5S3x-cEwyPYXnN0TpG-GPhmBkRfjRsjHT1TcVSZJCWmLkOySiIY1dcRmXsl5OL5WthJyGlNlh1FXRzU1kGfmPZc5kaYNpVx9HvbRzgedWq59YjsZCGm25PlyoAzJ7iJII0L49YZY1oLPV2RfLOe0SgWmqx5k1wOQBqebGPlLkIwaIxaoPQUCEyqwjUIVqrpMFJJPKIPxCspon61Z2s3kjT-waFiqBv1bIaqxuounEG08em7B75Czx-HJXkxfF2VQpeqDzu4F2HJEbRBu~ywuWFS9msrPxbZTEiHIw-GVGHda9g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hasta ese momento, yo pensaba que había aparcado bien.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "fd80fc41-94b5-47f5-8ffe-27afd6d94e92",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/51583c2cdc59485db25112c3c6cc52ff_b03-linea-04.mp3?Expires=1794099690&Signature=yIbm172Oux5OSrhrUgIP68LILd8UNn1xRA4emlqJ~GOMegmsbvZuoSxneWWyvk0A4QGiQm0MEqnrJaYjt3zuvYOGNAgMd3C76R-JtOTHDwHkfToPelUJsOWvULyjQJytP~CT1WKpTE3oGoI58XvcTGYp1s-4DSSSUIiPaQwNFOYGaVSrR-1wfhl9p0nmo9mN~vKvi2o4ANNBpTbp9JqbOHhqc39ujZC7BINBpUjAr9cdVScDZd0qz2iGizmy8BfUSXesDujHnwhkz7ua6NxMdJWjqA2rTMCXV6pzyoloAfPcuYxOaWG61UA-RZu9kFH5uQxM6y5eBqo5v4-HpqreDg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "De repente, vimos que el coche no estaba donde lo había dejado.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "85d23ace-8325-46a1-b5ae-01f2ba3238b5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f277272be0d9400bb953e1fe0e14eeb1_b03-linea-05.mp3?Expires=1794099690&Signature=gjdFcvyTtrUk0pxAk4KATPMuI3xJy5dWhRBkna-VhsdghKJn3HuwDYE8MAYe8jqLAhpro7gQZwM7Uj6sf72AZekHTKg6h-AdYkNOT9uDxOyQjdFQpb15nbbdHojF8LTjJJjx78EjggCtRTiNPEFXQCivU4xAZTq5iZlczR0C5U9yphTYKLg9Gu17yVlYc6mu3taZvuOBirYp~CtSw0yFyHyl1dqaDbJ7WnQn88DpaaC6Wu1632thnMNFXsGBcU06JOkFD4Lv9IP6V4rgfbITCu25PUEMVgkvsaMhkuyBpQFoRz5dabD3L179ezY6pjgV-0-JtFscftQUp0evECKoTQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al final, estaba en la calle de atrás y un vecino nos ayudó a encontrarlo.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "a51ae916-7ec6-4371-b6f3-6118e24578f5",
+      "sequence": 9,
+      "lessonId": "8a572cd0-54c9-4532-9aea-37d698a81e91",
+      "title": "Recupere a abertura",
+      "content": "<p>_______ noche, cerraron el puente justo cuando íbamos a cruzar.</p><p>Tradução: Naquela noite, fecharam a ponte justo quando íamos atravessar.</p>",
+      "contentPlain": "_______ noche, cerraron el puente justo cuando íbamos a cruzar. Tradução: Naquela noite, fecharam a ponte justo quando íamos atravessar.",
+      "fileUrl": null,
+      "feedbackSuccess": "A moldura ampla abre o episódio antes de a história ganhar mais detalhe.",
+      "feedbackError": "A moldura ampla abre o episódio antes de a história ganhar mais detalhe.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Aquella",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "270ae27f-bf33-49bc-a121-fb02fb96ce2e",
+      "sequence": 10,
+      "lessonId": "13a98aed-9e99-4bbc-b92c-280de29317cb",
+      "title": "Recupere a virada de ajuda",
+      "content": "<p>Por ______, una compañera que volvía de trabajar me vio en la esquina y me llevó en coche.</p><p>Tradução: Por sorte, uma colega que estava voltando do trabalho me viu na esquina e me levou de carro.</p>",
+      "contentPlain": "Por ______, una compañera que volvía de trabajar me vio en la esquina y me llevó en coche. Tradução: Por sorte, uma colega que estava voltando do trabalho me viu na esquina e me levou de carro.",
+      "fileUrl": null,
+      "feedbackSuccess": "A ajuda desta aula aparece como uma virada curta que muda o rumo da história.",
+      "feedbackError": "A ajuda desta aula aparece como uma virada curta que muda o rumo da história.",
+      "answerType": "buildWord",
+      "expectedAnswer": "suerte",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "cf170ab1-b1de-405a-bbb1-193cc5249cf9",
+      "sequence": 11,
+      "lessonId": "413b4501-f6e1-4244-a0c9-f77d33cad5fa",
+      "title": "Monte o verbo da interrupção",
+      "content": "<p>De repente, se fue la luz y todo el mundo ____ hacia la barra.</p><p>Tradução: De repente, acabou a luz e todo mundo olhou para o balcão.</p>",
+      "contentPlain": "De repente, se fue la luz y todo el mundo ____ hacia la barra. Tradução: De repente, acabou a luz e todo mundo olhou para o balcão.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na interrupção, a lição troca o fundo em andamento por um fato pontual.",
+      "feedbackError": "Na interrupção, a lição troca o fundo em andamento por um fato pontual.",
+      "answerType": "buildWord",
+      "expectedAnswer": "miró",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "dde584f9-ea46-4727-a805-a6b3da560304",
+      "sequence": 12,
+      "lessonId": "13a98aed-9e99-4bbc-b92c-280de29317cb",
+      "title": "Recupere a causa do atraso",
+      "content": "<p>Como estaba lloviendo muchísimo y no _______ taxis, pensé que iba a llegar tardísimo.</p><p>Tradução: Como estava chovendo muito e não passavam táxis, pensei que ia chegar superatrasada.</p>",
+      "contentPlain": "Como estaba lloviendo muchísimo y no _______ taxis, pensé que iba a llegar tardísimo. Tradução: Como estava chovendo muito e não passavam táxis, pensei que ia chegar superatrasada.",
+      "fileUrl": null,
+      "feedbackSuccess": "A tensão desta aula nasce de uma condição externa que complica o deslocamento.",
+      "feedbackError": "A tensão desta aula nasce de uma condição externa que complica o deslocamento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pasaban",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4e355e5d-2fe9-4276-a20a-3d3154e994bd",
+      "sequence": 13,
+      "lessonId": "92ed98cf-44d1-4929-907e-2b9668afb37c",
+      "title": "Recupere o gancho",
+      "content": "<p>Te ____ que todo empezó cuando salimos del recital.</p><p>Tradução: Juro para você que tudo começou quando saímos do show.</p>",
+      "contentPlain": "Te ____ que todo empezó cuando salimos del recital. Tradução: Juro para você que tudo começou quando saímos do show.",
+      "fileUrl": null,
+      "feedbackSuccess": "Te juro que é o trecho que abre a anedota com mais carga oral.",
+      "feedbackError": "Te juro que é o trecho que abre a anedota com mais carga oral.",
+      "answerType": "buildWord",
+      "expectedAnswer": "juro",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4e737093-f1e4-456b-a3d3-65b45ff8da5d",
+      "sequence": 14,
+      "lessonId": "413b4501-f6e1-4244-a0c9-f77d33cad5fa",
+      "title": "Complete a ação paralela",
+      "content": "<p>Estaba _________ en una cafetería y escuchaba música con los auriculares.</p><p>Tradução: Eu estava trabalhando em uma cafeteria e escutava música com os fones.</p>",
+      "contentPlain": "Estaba _________ en una cafetería y escuchaba música con los auriculares. Tradução: Eu estava trabalhando em uma cafeteria e escutava música com os fones.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa duas formas de fundo para pintar a mesma cena antes do corte.",
+      "feedbackError": "A aula usa duas formas de fundo para pintar a mesma cena antes do corte.",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabajando",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "eb2fe83e-8ec2-443e-969b-4391cf2185b8",
+      "sequence": 15,
+      "lessonId": "13a98aed-9e99-4bbc-b92c-280de29317cb",
+      "title": "Reconstrua o relato em espanhol",
+      "content": "<p>Relacione cada áudio diretamente à linha correspondente do microrelato.</p>",
+      "contentPlain": "Relacione cada áudio diretamente à linha correspondente do microrelato.",
+      "fileUrl": null,
+      "feedbackSuccess": "Reconstruir o relato inteiro ajuda a consolidar a ordem oral de abertura, tensão, ajuda e desfecho.",
+      "feedbackError": "Reconstruir o relato inteiro ajuda a consolidar a ordem oral de abertura, tensão, ajuda e desfecho.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "eec0778e-1cf0-496e-882a-3b867ccb8f49",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/29ed1e6faf9a485b989519ff8dd24913_b02-el-viernes-pasado-iba-a-cenar.mp3?Expires=1794099690&Signature=AC4cwPiXIX4K-NcdrpftyLH844iG8cunwgwca6FaauGjynzWTJfVU5KvpTjNoaEDfZyFm~HGX2w92q63aQIu77O6SJM0iX7ZWYmsVJ6H37PQDV5WtHNoBxZQS93~7uKMybHyYqccZuGxPlTS~6ggt3-83nU22naChRiKgQyl80ktFA3MDE~xVORaIojF7WUiWtprVKiXhL9Mrd9iEEZxC6PrxrZCC047iqVHI1hZ7MBr2LThnfd--b3nf590KOGVbT2gPSJWwJY8uI4n7ZcTHOGB9l1duSaRY0N-2E8KH77SSjHD2q5WuTAx3JHbWWX4LF~qEioVbnpOb4txjK5BEg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El viernes pasado iba a cenar con unos amigos en el centro.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "33b216d8-7f4d-4ff0-94d6-5fb4e00af3b2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b5807d1a5dfd43e78d8428b95519e565_b04-como-estaba-lloviendo-muchisimo.mp3?Expires=1794099690&Signature=cpXhH-SH7M1fZVw21BDruew~IS02QdhUbkncUHzayV~dsDwmn-NWRKtZo3emCbDKUMZZc26oXW6nMPi7q-uFLkBIRRBbEULxi6EW2Q7arm4oyhnUD09I56HDPsVmYzhwZ3wgUsVD2doW-5v0nAZE089uGQ-3O8dzO4emMwk9AojlUTq9EtEC1fZsMkJR2fkse-hsevuTaC4NLLp2Zm-ry8kyK1Fa08vmEypowQLKOG856xXJkQJgzXtIHJkiyaSZdelooahH-OkglVz5ENUAD884eUCHFAz5YVTJYyE4n660hcXO~O2SnOVKMUMH7fR1822mxvqyLVR6dWuwkSEprA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Como estaba lloviendo muchísimo y no pasaban taxis, pensé que iba a llegar tardísimo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7f824b69-70ab-463b-8102-b38fce54cdcb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/80ca6e0c79ab4945a27c9d85b820c4d9_b06-por-suerte-una-companera.mp3?Expires=1794099690&Signature=hQGsXOYg3i4QFpDLT4e~Chdw8nZ6zwatJbAiwfyRhRHCBBfyLtodZvIXN4Zyt-gLiUntAYGWHR9TbvEu2P9t3R16~vgIpK7CGrZ-SaTyHIhUoBr2naOYi0a8399IPErSazkZwuUX2YGzWtLkQ8Yis5avQFiDQ8xKstH6XEU870f-2v98e0~PMrS8d~wgXbBVFyuctvTBJ5hig54LEVkHxlRTj9LXMAEwthLuYBA4t4sDkBymkFpkg8TfEPxDM8IOda0dm5e5lX-pfLeufST9Efyj3hj5KLmLZtuPLXwJpGxvlXwgtslzJ3K7vgsaBHSI--diaAHgSyPoFUfVTh85PA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Por suerte, una compañera que volvía de trabajar me vio en la esquina y me llevó en coche.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "08d198ff-4b2b-4bd5-889e-bb3951ae36fe",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f54811ef162c400b81b9f5224f543ce6_b07-al-final-llegue-tarde.mp3?Expires=1794099690&Signature=b1mpiPwGxckNuUN2oyyhHQOdc6xz~BOaVQQN5b96Kr5p~DDFrLrmIqYDnloJGKJre3CWSjOy3sPhXWw6G1igQ0DwUlCcuzhx89jEgUb2Sio2DdPHsnxgqDGl9BpaKfwFHhHIOK0R6A7nFfjB0je7EDxRF8Gtofu61Zc0rFxTT4tNktSgBJCG40cQQYok302VmAq163rmUzQtqS3oKChAb6NKqMWZa5WOlUtx6h2LCNI24uYRSZ6vU7Q7YCChXe8xUHs4WXsefeVi7YhmNDGKmi0v5L6-ZRo29rSNqZ3A~5J7~xGouD-Eqt4hTvNgrsd-NwYJ-pcKu6hrvHEfeK7lYw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al final, llegué tarde, pero todavía pude brindar con todos.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ]
+}

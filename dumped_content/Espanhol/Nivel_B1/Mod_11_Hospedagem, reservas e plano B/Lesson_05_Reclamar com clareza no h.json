@@ -1,0 +1,650 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+    "attemptId": "1419546d-065b-4c4b-9cea-a3230a3cd47e",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "aa8a070a-3f14-4da6-b789-9972f646db43",
+      "edd4fc64-2112-4f75-a358-3fb2098d32a5",
+      "e6ba0eec-3d91-4b49-a9e9-839eb9d2a070",
+      "d4ca1d8d-ea5c-49e6-be8a-4761a2c9d5ba",
+      "3f134c7f-e8a8-4142-a7e5-f061b1ee2b50"
+    ],
+    "evaluationExerciseIds": [
+      "bbb43317-8bde-42a1-af09-f37ff145a891",
+      "63423b5d-95de-4952-8809-e662a25fe1b3",
+      "14d94a28-1df4-4588-9bd1-df25233ff9b3",
+      "6d5ad388-8bf5-4cc9-bb57-62a8c5e7a98b",
+      "5060a661-2309-44e7-8d3e-e5d414337ba3"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:23.5815635Z"
+  },
+  "contents": [
+    {
+      "id": "7655fc5e-7e7f-4ffb-93f9-6ad3c0348833",
+      "title": "Leia o contexto curto e foque no que saiu do combinado depois do check-in.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "d9e2c767-1a43-4239-80c7-ddd398b9b65b",
+          "textContent": "<p>Você acabou de entrar no quarto depois do check-in.</p><p>A reserva era para descansar, mas o corredor perto do elevador está barulhento.</p><p>Nesta aula, o foco é entender como a queixa vai do problema a um pedido de solução claro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1642ab14-21e1-43ca-9dd1-d7d88b4c01ee",
+      "title": "Escute e leia a frase. Observe como ela abre a queixa antes de explicar o problema.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "ce161144-02d8-4fe7-a56f-4032b72a80df",
+          "textContent": "<p><strong>Quiero presentar una queja.</strong></p><p>Em português: <strong>Quero fazer uma reclamação.</strong></p><p>Essa abertura avisa a recepção de que o problema precisa ser tratado como queixa, não como comentário solto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/632570506f8845d39fc02e866a47e3da_b02-quiero-presentar-una-queja.mp3?Expires=1794099624&Signature=qpO~SSRS5f866L~MW5P4vXGZSKZf0Nx4z5TozJUiYTkJDJ~~pyi-YNgFobV9Iyk2FX4EPf-01TOWFZHpY6B-PctLknUj4SmYdLGOtrXJzUdoEqibOWmE5WMJrfsGWth1ta6pHM9fdEJbcKthzxYpV1dVI~zRpJFFQVThk-yPg71lmXJZ6aUUjEJPT94ftdmkEaIzPXPHDH9vb4Db1Gs16m4PutXZzgQ~aMPt4R-royudIkE4OO5uBGHG0J8Z9z3-sL3PhAUclHrVol8jF~sdQffYPYJR0PXMpJ0Gg~z5Ect51mpxpmD-VBhT301A7waz~W-kqfrl9NE-sanjvb28mg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2d734c16-2279-4baa-9d7a-59ad6eef447c",
+      "title": "Leia a nota curta e note que a frase prepara o atendente para ouvir um problema concreto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "c4829cc8-e53d-48df-a65c-b64be19dd5de",
+          "textContent": "<p><strong>Quiero presentar una queja.</strong> serve para abrir a reclamação com firmeza, mas sem agressividade.</p><p>Ela funciona melhor quando você já vai explicar um fato concreto do quarto, do serviço ou da reserva.</p><p>Assim, a conversa começa clara desde a primeira frase.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2d1277e4-add5-4743-bf16-402cc5ec07ae",
+      "title": "Escute e leia a frase. Repare que agora o foco está no que realmente atrapalha a estadia.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "4d9b89ea-150c-47b0-a524-d31fd49ddd59",
+          "textContent": "<p><strong>Hay mucho ruido en el pasillo.</strong></p><p>Em português: <strong>Há muito barulho no corredor.</strong></p><p>Aqui, o foco não é reclamar de tudo; é nomear o problema que está atrapalhando a estadia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/62c3969f5a954f4c8174ca877dc16914_b04-hay-mucho-ruido-en-el-pasillo.mp3?Expires=1794099624&Signature=jshTKELc~HOt23E2qeBBHzh7zURpOA2-UlgqWQxIA4Ff7wcxj4IyV0dQjcB7yfLgav6map90CUNfUCgBhOVKww4seHYVagPt4NSd6-kkq30hfAzSpYK2GxyH5HlQnlQCDLELkii0y-~YgO5TZoUl7k-RNlUJZQMpPVJzPwObTy7dPYAjqvrLwK6h4CB7cktxXyB9QrrmkeEV9tyv6CE1WdmOgzDBkLgYTV8QdwZej1ODGwytmI2R6Kh0r7rYiYHJKR5uXM-wkEIE6JHmv2rtoSPETHa8AscxoBxwhH76sQf~KOh1mCLf15jyqhAJSzofKNoDuCom-QLpnZUsqGYRKg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "52246b1d-93b0-47e2-a4d0-eb8007755a3e",
+      "title": "Leia os dois passos e observe como a fala passa da abertura para a evidência concreta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "77a19763-7c71-433f-89bd-89fc124312f2",
+          "textContent": "<p>Nesta aula, a reclamação anda em duas peças curtas:</p><ol><li><strong>Quiero presentar una queja.</strong></li><li><strong>Hay mucho ruido en el pasillo.</strong></li></ol><p>Primeiro você abre a reclamação. Depois entrega a evidência concreta para que a recepção entenda o motivo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "bda9f3da-2c7f-4c6c-a135-a20b87168d3a",
+      "title": "Escute e leia a frase. Note que ela não repete o problema; ela exige uma resolução clara.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "fcf63e71-195e-4d63-95e3-1e17b97f4f27",
+          "textContent": "<p><strong>Necesito una solución hoy.</strong></p><p>Em português: <strong>Preciso de uma solução hoje.</strong></p><p>Esta frase não descreve o barulho; ela deixa claro que você espera uma resposta útil agora.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d1cd84b2b40a4b1da1fa24ec64b0affc_b06-necesito-una-solucion-hoy.mp3?Expires=1794099624&Signature=xPlgfG~HHrusJ1ZWy1wTm4tu~exmodU4QunNa9uyh3W0rX8cgEKswVAaC7Gx0ew-FVhnQ1detptwznsAZhX7M-KK5FB90DRxpyeGlvZKiBVvuusPDer66ZwsgRhg-K4x6XaqknXR74W6ACuooKWHVSyQongrqvLKJGnzN6evUUC~Psk6C~i-lA3RKLW41-OOutY~993i~KDpKKvvXrVKWloTFK-yHokhTAAbNO3soAWKM3uMzrMuBllqYRty6rRCtIY-PEDzQ8L57hSzB-NjXs5BXyanejXHAxhEttX5mHi~qPiluYneoKy7ngU5jS57PI-5lKZUd73wtsg90KePng__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "43c7788c-af8c-4c61-928d-085ef53fc943",
+      "title": "Escute e leia a resposta. Observe que a recepção resolve a situação com uma medida clara e imediata.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "0dd656f0-7b70-4b89-9817-2eea51167133",
+          "textContent": "<p><strong>Voy a cambiarle de habitación ahora mismo.</strong></p><p>Em português: <strong>Vou trocar você de quarto agora mesmo.</strong></p><p>Uma solução boa responde com ação concreta, não com desculpa vaga.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/83382414ac0c4481be9c39feaadc2150_b07-voy-a-cambiarle-de-habitacion-ahora-mismo.mp3?Expires=1794099624&Signature=SwfCE9I2qCC0gZyJ22FutUbKsH~pc3tIUgxKwld4cExUK5E64Vkg9yhrz9QAXSNnYSFwJPz7rvypV~EMZZ1Xi36R1dfE2ka3B8bgK2~D5NbXbyGKjbmqHpztZfFs-idaFPchtYVekaMTsopy68-rZe2Iu2-QSJpVIrpy3GpfkGjvTc8lm8Atsg1GEKoyfev-rnnyMl1h~oQPt4V2YWp5kqLnG5ONVZ~qhc-yyEDjtXZxO3jF2PeMHqvxBoH9-F5n312tVMqVlIh-60qHTkIm0HxqT9vuVO0D4HjRzqALs-tlr-JgvJRjpYTdeXn7lQWBFVNm-RwHheF2Ob0U5VgNBA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "90e151ee-725a-4e85-a85c-32ae544ed655",
+      "title": "Leia o resumo final e conecte a sequência da aula a problemas reais de hotel que pedem resposta imediata.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "51707c2c-6c50-4a21-aa81-fe65cc982651",
+          "textContent": "<p>Quando algo sai do combinado no hotel, esta sequência ajuda:</p><ul><li><strong>Quiero presentar una queja.</strong> para abrir a reclamação</li><li><strong>Hay mucho ruido en el pasillo.</strong> para nomear o problema</li><li><strong>Necesito una solución hoy.</strong> para pedir uma resposta clara</li></ul><p>Se a recepção realmente resolver, você pode ouvir algo como <strong>Voy a cambiarle de habitación ahora mismo.</strong></p><p>Isso serve em situações reais como barulho no corredor, quarto diferente do reservado ou outro problema que precisa de ação imediata.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "aa8a070a-3f14-4da6-b789-9972f646db43",
+      "title": "Ligue frase e função",
+      "content": "<p>Relacione cada frase central ao efeito que ela cumpre dentro da reclamação no hotel.</p>",
+      "contentPlain": "Relacione cada frase central ao efeito que ela cumpre dentro da reclamação no hotel.",
+      "fileUrl": null,
+      "feedbackSuccess": "A sequência da aula vai de abertura clara a solução concreta.",
+      "feedbackError": "A sequência da aula vai de abertura clara a solução concreta.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1e24a185-38f7-45d0-846d-07c2b4bebb7a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "aa8a070a-3f14-4da6-b789-9972f646db43"
+        },
+        {
+          "id": "4ecdd5d0-78d9-4d65-88ab-39267178ad20",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "aa8a070a-3f14-4da6-b789-9972f646db43"
+        }
+      ],
+      "associations": [
+        {
+          "id": "c319e337-6781-4800-abe4-988b3d19b3cc",
+          "exerciseId": "aa8a070a-3f14-4da6-b789-9972f646db43",
+          "leftContent": "Quiero presentar una queja.",
+          "rightContent": "abrir a reclamação",
+          "sequenceItem": 1
+        },
+        {
+          "id": "31a98b26-2933-4677-8d2e-2b80bdf311b8",
+          "exerciseId": "aa8a070a-3f14-4da6-b789-9972f646db43",
+          "leftContent": "Hay mucho ruido en el pasillo.",
+          "rightContent": "nomear o problema",
+          "sequenceItem": 2
+        },
+        {
+          "id": "284189a4-40c8-47ad-ab38-5702dd3f186b",
+          "exerciseId": "aa8a070a-3f14-4da6-b789-9972f646db43",
+          "leftContent": "Necesito una solución hoy.",
+          "rightContent": "pedir resposta clara",
+          "sequenceItem": 3
+        },
+        {
+          "id": "16d812e2-9102-4561-a9f5-decd0b2b6c1b",
+          "exerciseId": "aa8a070a-3f14-4da6-b789-9972f646db43",
+          "leftContent": "Voy a cambiarle de habitación ahora mismo.",
+          "rightContent": "oferecer uma solução imediata",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "edd4fc64-2112-4f75-a358-3fb2098d32a5",
+      "title": "Escolha a abertura da reclamação",
+      "content": "<p>Qual frase da aula avisa a recepção de imediato que aquilo vai virar uma queixa?</p>",
+      "contentPlain": "Qual frase da aula avisa a recepção de imediato que aquilo vai virar uma queixa?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula abre a reclamação com clareza antes de detalhar o problema.",
+      "feedbackError": "A aula abre a reclamação com clareza antes de detalhar o problema.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0659a7a5-5cc9-44a2-bba7-04ed3f14c897",
+          "textContent": "Hay mucho ruido en el pasillo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "edd4fc64-2112-4f75-a358-3fb2098d32a5"
+        },
+        {
+          "id": "40ae0733-d51c-4d9d-a034-51fc1a961d6b",
+          "textContent": "Quiero presentar una queja.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "edd4fc64-2112-4f75-a358-3fb2098d32a5"
+        },
+        {
+          "id": "83673608-5419-4990-98a1-507bd957ccbe",
+          "textContent": "Voy a cambiarle de habitación ahora mismo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "edd4fc64-2112-4f75-a358-3fb2098d32a5"
+        },
+        {
+          "id": "f1c06c3b-8f7d-4134-8788-8c3d35aa7c02",
+          "textContent": "Necesito una solución hoy.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "edd4fc64-2112-4f75-a358-3fb2098d32a5"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "e6ba0eec-3d91-4b49-a9e9-839eb9d2a070",
+      "title": "Escute e associe as frases-chave",
+      "content": "<p>Recupere pelo som as quatro falas centrais que movem a reclamação e a resposta do hotel.</p>",
+      "contentPlain": "Recupere pelo som as quatro falas centrais que movem a reclamação e a resposta do hotel.",
+      "fileUrl": null,
+      "feedbackSuccess": "O listening da aula liga som, problema, pedido e resposta de serviço.",
+      "feedbackError": "O listening da aula liga som, problema, pedido e resposta de serviço.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "4fb4d330-8517-47bf-b64a-5e620e5e3bb7",
+          "exerciseId": "e6ba0eec-3d91-4b49-a9e9-839eb9d2a070",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/425ba7b1afb34b45be2d076375144733_b02-quiero-presentar-una-queja.mp3?Expires=1794099624&Signature=Zp~MI3sWHY6VVmPbP~2k0rBlBJvGP-MBtEiu3jLNezhSJyttglhPoyeiIW7AThYr~OmLHbOd1M2JxKaTFaoA4fUdv6gX4pwoRz97NvHkqb9J3Ol6u-uyqYhVvlmLVkhY-XAb67fXAzIBqmWgOmKUaGU4F8FNE6uGuT0MsI7~Qbn1KdSRGwTni-wr0grclmL-oLAOGFiXMhpa-dH1HzS1P7JyKVQppH~aAts1NakgOJanJg8LYfmfUA5E0yDGHvflOHvRZ3eRrKH99P8r2GkNzlFv-6GNBt~1mdpd3JbdRLkfStmE5w~Zp~RwyVf6LevrcVpIX0xUu7l99P5ONMKtlw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Quiero presentar una queja.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "759339dd-cf0d-449a-8ba5-960e38dcca8b",
+          "exerciseId": "e6ba0eec-3d91-4b49-a9e9-839eb9d2a070",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e70892f29ce84e1e92331b33d35ba8b4_b04-hay-mucho-ruido-en-el-pasillo.mp3?Expires=1794099624&Signature=YiUHRtqVosXfmp6JxU8iqCr32f7yCFv~Kp-lDB44PeHC6ia5763fh3QWoOD-~5wZOCP3jKKOVHD~gaQRSpERrd-yEZobiA8JHjGr4HHb~Qmp4GjlFeEcL7fpwUHtNc1Z72ZaPsNLlhcQ2snDb~RgbA7kBgBbDniBTVKVfqyPw-vdHMNk-ErYP2w8EJiZNQXYFKSP9R2ZrGkjVG7Rpi3fQT6MEnrAh6BtMQ0xF5w0XbtGnp5v2KgVioTi25R4Ij-seQEI5qWnVj431wwzTuprQFcTW0-YASH~UwZggysFD8NsBrBRMXTK56qgSTiETOP8JWUhTYs4WsNXLL-0y189ew__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hay mucho ruido en el pasillo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f109a68e-7d95-4886-afcf-78c06311a357",
+          "exerciseId": "e6ba0eec-3d91-4b49-a9e9-839eb9d2a070",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e5711001bfaf491e9172d55c9852b2f7_b06-necesito-una-solucion-hoy.mp3?Expires=1794099624&Signature=IHl8LNQnknuKecJWeisMxcqn2ntuphjA52KvSggyYXFR3NvcsaKh05oE7JOe50CMWR~Cr9o13jX4pBtjVLn-NeTByoCglCzSOyY6Csnw2KhFiTd6p6bRXqfc9li4fuihaM2bRa~CF893l0Em3sCQO~0ol7HetAgTrNL6YeRyYRhjPGOueuHAHE0SDDLtB8~RRDnJp0VFLmrFDpXjjyQy6FmK4L-aj0AezBCJgLKi7C~Nc4Y7sXUzpBSceR~-SDb5wKDgRgT07j2~N3U4wnNSQHdBYRxIJab1Xe2ZL5hKF5-8~kQPB7eQEkJZx3CMO2PN9PCArT1HDRytAm5qKTqAOA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Necesito una solución hoy.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "fe111335-debb-4183-9189-648a56efa1ba",
+          "exerciseId": "e6ba0eec-3d91-4b49-a9e9-839eb9d2a070",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a4ca0a40a37f416c99edb3e6c22aef40_b07-voy-a-cambiarle-de-habitacion-ahora-mismo.mp3?Expires=1794099624&Signature=yLlPFj-KG4dOFo~yU6-rw0nn0pYKNbNtxx10s2WtYwgAetVkK-3hpGC1dYMKpFXUz0EsNW6Jl5Pb3RO6uVjEYli53VkL-LeBafVgE6s3R4FGcJdQNnxyHfZmv0yyJb9UO4qEbv5MtevEDQG0XPe8hERylGHNIZ2xnbMZIDy9fegnCnRn2~A4OBTDOe5Odd-BYKxeW6bVH3zCRhASKlEO8glicdpoWLaOrlyjpWXXYiPb1iT~mtxQZR~79-QgReXbY2-t2Yhb~lxW30brTvu6wgLGiNPJFyacCEaDIITOWpO~hhhqwTdsa18qg3xwcqKUMT32ITmMWKI01wU3pu7Hqw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Voy a cambiarle de habitación ahora mismo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "d4ca1d8d-ea5c-49e6-be8a-4761a2c9d5ba",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta o pedido curto da aula.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta o pedido curto da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e5711001bfaf491e9172d55c9852b2f7_b06-necesito-una-solucion-hoy.mp3?Expires=1794099624&Signature=IHl8LNQnknuKecJWeisMxcqn2ntuphjA52KvSggyYXFR3NvcsaKh05oE7JOe50CMWR~Cr9o13jX4pBtjVLn-NeTByoCglCzSOyY6Csnw2KhFiTd6p6bRXqfc9li4fuihaM2bRa~CF893l0Em3sCQO~0ol7HetAgTrNL6YeRyYRhjPGOueuHAHE0SDDLtB8~RRDnJp0VFLmrFDpXjjyQy6FmK4L-aj0AezBCJgLKi7C~Nc4Y7sXUzpBSceR~-SDb5wKDgRgT07j2~N3U4wnNSQHdBYRxIJab1Xe2ZL5hKF5-8~kQPB7eQEkJZx3CMO2PN9PCArT1HDRytAm5qKTqAOA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O pedido da aula cobra uma resposta útil sem repetir o problema.",
+      "feedbackError": "O pedido da aula cobra uma resposta útil sem repetir o problema.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Necesito una solución hoy.",
+      "typeSpecificData": "{\"expectedText\":\"Necesito una soluci\\u00F3n hoy.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/e5711001bfaf491e9172d55c9852b2f7_b06-necesito-una-solucion-hoy.mp3?Expires=1794099624\\u0026Signature=IHl8LNQnknuKecJWeisMxcqn2ntuphjA52KvSggyYXFR3NvcsaKh05oE7JOe50CMWR~Cr9o13jX4pBtjVLn-NeTByoCglCzSOyY6Csnw2KhFiTd6p6bRXqfc9li4fuihaM2bRa~CF893l0Em3sCQO~0ol7HetAgTrNL6YeRyYRhjPGOueuHAHE0SDDLtB8~RRDnJp0VFLmrFDpXjjyQy6FmK4L-aj0AezBCJgLKi7C~Nc4Y7sXUzpBSceR~-SDb5wKDgRgT07j2~N3U4wnNSQHdBYRxIJab1Xe2ZL5hKF5-8~kQPB7eQEkJZx3CMO2PN9PCArT1HDRytAm5qKTqAOA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3f134c7f-e8a8-4142-a7e5-f061b1ee2b50",
+      "title": "Identifique o problema ouvido",
+      "content": "<p>Escute a frase do quarto e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a frase do quarto e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e70892f29ce84e1e92331b33d35ba8b4_b04-hay-mucho-ruido-en-el-pasillo.mp3?Expires=1794099624&Signature=YiUHRtqVosXfmp6JxU8iqCr32f7yCFv~Kp-lDB44PeHC6ia5763fh3QWoOD-~5wZOCP3jKKOVHD~gaQRSpERrd-yEZobiA8JHjGr4HHb~Qmp4GjlFeEcL7fpwUHtNc1Z72ZaPsNLlhcQ2snDb~RgbA7kBgBbDniBTVKVfqyPw-vdHMNk-ErYP2w8EJiZNQXYFKSP9R2ZrGkjVG7Rpi3fQT6MEnrAh6BtMQ0xF5w0XbtGnp5v2KgVioTi25R4Ij-seQEI5qWnVj431wwzTuprQFcTW0-YASH~UwZggysFD8NsBrBRMXTK56qgSTiETOP8JWUhTYs4WsNXLL-0y189ew__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nomear o ruido no corredor transforma a queixa em fato concreto.",
+      "feedbackError": "Nomear o ruido no corredor transforma a queixa em fato concreto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0cc1ed98-b7c4-44eb-91ae-3cb56865c996",
+          "textContent": "ruido",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3f134c7f-e8a8-4142-a7e5-f061b1ee2b50"
+        },
+        {
+          "id": "1c9bdc83-3624-4664-9084-f7bd77938275",
+          "textContent": "mucho",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3f134c7f-e8a8-4142-a7e5-f061b1ee2b50"
+        },
+        {
+          "id": "3d095a44-2211-4313-942f-c8b07b88b962",
+          "textContent": "pasillo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3f134c7f-e8a8-4142-a7e5-f061b1ee2b50"
+        },
+        {
+          "id": "b5f66f18-4391-4f8c-9347-93b11a0f13ad",
+          "textContent": "solución",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3f134c7f-e8a8-4142-a7e5-f061b1ee2b50"
+        },
+        {
+          "id": "f6b96dec-88de-42ca-bfce-5d0458da2e25",
+          "textContent": "Hay",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3f134c7f-e8a8-4142-a7e5-f061b1ee2b50"
+        },
+        {
+          "id": "f73d7a1d-4a05-41a5-b411-ce31e699c838",
+          "textContent": "queja",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3f134c7f-e8a8-4142-a7e5-f061b1ee2b50"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "bbb43317-8bde-42a1-af09-f37ff145a891",
+      "title": "Complete a abertura",
+      "content": "<p>Quiero presentar una _____.</p><p>Tradução: Quero fazer uma reclamação.</p>",
+      "contentPlain": "Quiero presentar una _____. Tradução: Quero fazer uma reclamação.",
+      "fileUrl": null,
+      "feedbackSuccess": "Queja marca a abertura formal da reclamação.",
+      "feedbackError": "Queja marca a abertura formal da reclamação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "queja",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "63423b5d-95de-4952-8809-e662a25fe1b3",
+      "title": "Recupere a resposta pelo áudio",
+      "content": "<p>Escute a solução oferecida pela recepção e selecione somente as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a solução oferecida pela recepção e selecione somente as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a4ca0a40a37f416c99edb3e6c22aef40_b07-voy-a-cambiarle-de-habitacion-ahora-mismo.mp3?Expires=1794099624&Signature=yLlPFj-KG4dOFo~yU6-rw0nn0pYKNbNtxx10s2WtYwgAetVkK-3hpGC1dYMKpFXUz0EsNW6Jl5Pb3RO6uVjEYli53VkL-LeBafVgE6s3R4FGcJdQNnxyHfZmv0yyJb9UO4qEbv5MtevEDQG0XPe8hERylGHNIZ2xnbMZIDy9fegnCnRn2~A4OBTDOe5Odd-BYKxeW6bVH3zCRhASKlEO8glicdpoWLaOrlyjpWXXYiPb1iT~mtxQZR~79-QgReXbY2-t2Yhb~lxW30brTvu6wgLGiNPJFyacCEaDIITOWpO~hhhqwTdsa18qg3xwcqKUMT32ITmMWKI01wU3pu7Hqw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A boa resposta do hotel vira ação concreta e imediata.",
+      "feedbackError": "A boa resposta do hotel vira ação concreta e imediata.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "28aff54c-7e8c-451a-95e7-a7fca201dd71",
+          "textContent": "ahora",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "63423b5d-95de-4952-8809-e662a25fe1b3"
+        },
+        {
+          "id": "2e237b38-2977-47e1-8439-ee3af63a3d99",
+          "textContent": "mismo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "63423b5d-95de-4952-8809-e662a25fe1b3"
+        },
+        {
+          "id": "3f96f520-4112-4939-b730-bcefc3871102",
+          "textContent": "ruido",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "63423b5d-95de-4952-8809-e662a25fe1b3"
+        },
+        {
+          "id": "460d975b-e745-41a0-9fcb-2a60fb4c6654",
+          "textContent": "pasillo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "63423b5d-95de-4952-8809-e662a25fe1b3"
+        },
+        {
+          "id": "87616e6c-8468-4841-a86a-79ef3b1a7b71",
+          "textContent": "Voy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "63423b5d-95de-4952-8809-e662a25fe1b3"
+        },
+        {
+          "id": "93f41fed-bb25-4f08-8875-1e5dd70aef8c",
+          "textContent": "habitación",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "63423b5d-95de-4952-8809-e662a25fe1b3"
+        },
+        {
+          "id": "a57344fd-9a4d-48e0-8e89-bed44356afdc",
+          "textContent": "cambiarle",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "63423b5d-95de-4952-8809-e662a25fe1b3"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "14d94a28-1df4-4588-9bd1-df25233ff9b3",
+      "title": "Complete o pedido direto",
+      "content": "<p>Necesito una ________ hoy.</p><p>Tradução: Preciso de uma solução hoje.</p>",
+      "contentPlain": "Necesito una ________ hoy. Tradução: Preciso de uma solução hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "Solución explicita a resposta que o hospede espera.",
+      "feedbackError": "Solución explicita a resposta que o hospede espera.",
+      "answerType": "buildWord",
+      "expectedAnswer": "solución",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "6d5ad388-8bf5-4cc9-bb57-62a8c5e7a98b",
+      "title": "Recupere as viradas da sequência",
+      "content": "<p>Recupere pelo som a progressão da queixa: abrir, cobrar resposta e receber a ação concreta.</p>",
+      "contentPlain": "Recupere pelo som a progressão da queixa: abrir, cobrar resposta e receber a ação concreta.",
+      "fileUrl": null,
+      "feedbackSuccess": "A sequência central vai de abrir a queixa a receber a ação do hotel.",
+      "feedbackError": "A sequência central vai de abrir a queixa a receber a ação do hotel.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "644f3536-712a-41ff-ad9e-af5412ae33d4",
+          "exerciseId": "6d5ad388-8bf5-4cc9-bb57-62a8c5e7a98b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/425ba7b1afb34b45be2d076375144733_b02-quiero-presentar-una-queja.mp3?Expires=1794099624&Signature=Zp~MI3sWHY6VVmPbP~2k0rBlBJvGP-MBtEiu3jLNezhSJyttglhPoyeiIW7AThYr~OmLHbOd1M2JxKaTFaoA4fUdv6gX4pwoRz97NvHkqb9J3Ol6u-uyqYhVvlmLVkhY-XAb67fXAzIBqmWgOmKUaGU4F8FNE6uGuT0MsI7~Qbn1KdSRGwTni-wr0grclmL-oLAOGFiXMhpa-dH1HzS1P7JyKVQppH~aAts1NakgOJanJg8LYfmfUA5E0yDGHvflOHvRZ3eRrKH99P8r2GkNzlFv-6GNBt~1mdpd3JbdRLkfStmE5w~Zp~RwyVf6LevrcVpIX0xUu7l99P5ONMKtlw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Quiero presentar una queja.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3234525c-a300-4b3d-b7f2-ff01f1735c92",
+          "exerciseId": "6d5ad388-8bf5-4cc9-bb57-62a8c5e7a98b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e5711001bfaf491e9172d55c9852b2f7_b06-necesito-una-solucion-hoy.mp3?Expires=1794099624&Signature=IHl8LNQnknuKecJWeisMxcqn2ntuphjA52KvSggyYXFR3NvcsaKh05oE7JOe50CMWR~Cr9o13jX4pBtjVLn-NeTByoCglCzSOyY6Csnw2KhFiTd6p6bRXqfc9li4fuihaM2bRa~CF893l0Em3sCQO~0ol7HetAgTrNL6YeRyYRhjPGOueuHAHE0SDDLtB8~RRDnJp0VFLmrFDpXjjyQy6FmK4L-aj0AezBCJgLKi7C~Nc4Y7sXUzpBSceR~-SDb5wKDgRgT07j2~N3U4wnNSQHdBYRxIJab1Xe2ZL5hKF5-8~kQPB7eQEkJZx3CMO2PN9PCArT1HDRytAm5qKTqAOA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Necesito una solución hoy.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1f38afb7-8448-4d9b-8e92-f437173b2858",
+          "exerciseId": "6d5ad388-8bf5-4cc9-bb57-62a8c5e7a98b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a4ca0a40a37f416c99edb3e6c22aef40_b07-voy-a-cambiarle-de-habitacion-ahora-mismo.mp3?Expires=1794099624&Signature=yLlPFj-KG4dOFo~yU6-rw0nn0pYKNbNtxx10s2WtYwgAetVkK-3hpGC1dYMKpFXUz0EsNW6Jl5Pb3RO6uVjEYli53VkL-LeBafVgE6s3R4FGcJdQNnxyHfZmv0yyJb9UO4qEbv5MtevEDQG0XPe8hERylGHNIZ2xnbMZIDy9fegnCnRn2~A4OBTDOe5Odd-BYKxeW6bVH3zCRhASKlEO8glicdpoWLaOrlyjpWXXYiPb1iT~mtxQZR~79-QgReXbY2-t2Yhb~lxW30brTvu6wgLGiNPJFyacCEaDIITOWpO~hhhqwTdsa18qg3xwcqKUMT32ITmMWKI01wU3pu7Hqw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Voy a cambiarle de habitación ahora mismo.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "5060a661-2309-44e7-8d3e-e5d414337ba3",
+      "title": "Ligue a situação a frase",
+      "content": "<p>Parta do sentido em português e recupere a frase exata em espanhol usada na aula.</p>",
+      "contentPlain": "Parta do sentido em português e recupere a frase exata em espanhol usada na aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap da aula junta abertura, problema, pedido e resposta concreta.",
+      "feedbackError": "O recap da aula junta abertura, problema, pedido e resposta concreta.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0408028d-fc39-4520-bf35-5c6cd1c6b440",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5060a661-2309-44e7-8d3e-e5d414337ba3"
+        },
+        {
+          "id": "35586939-767a-45a0-acb6-f9df44e9720a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5060a661-2309-44e7-8d3e-e5d414337ba3"
+        }
+      ],
+      "associations": [
+        {
+          "id": "689e4a51-47f6-4c9c-868a-dc5f2855aa27",
+          "exerciseId": "5060a661-2309-44e7-8d3e-e5d414337ba3",
+          "leftContent": "avisar que aquilo é uma reclamação",
+          "rightContent": "Quiero presentar una queja.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d9dc2922-55e2-484a-84c6-1aa4274c8ed1",
+          "exerciseId": "5060a661-2309-44e7-8d3e-e5d414337ba3",
+          "leftContent": "apontar o fato que atrapalha a estadia",
+          "rightContent": "Hay mucho ruido en el pasillo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2c32071e-9be8-4eef-b455-fe01c15bf594",
+          "exerciseId": "5060a661-2309-44e7-8d3e-e5d414337ba3",
+          "leftContent": "cobrar resposta ainda hoje",
+          "rightContent": "Necesito una solución hoy.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "666be04f-2e59-4b26-85db-b25364ad67ae",
+          "exerciseId": "5060a661-2309-44e7-8d3e-e5d414337ba3",
+          "leftContent": "oferecer uma troca imediata de quarto",
+          "rightContent": "Voy a cambiarle de habitación ahora mismo.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Reclamar com clareza no hotel"
+}

@@ -1,0 +1,662 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+    "attemptId": "333d3634-58b7-46c4-86d2-6dbb08393b68",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "ea81457b-4ddb-4bc2-bfc1-67b45c752741",
+      "960c58ff-8278-4cde-a8df-7584fcf3391a",
+      "a719145b-34d7-4e4d-9b71-3d2c1ea0a286",
+      "8da7f2d1-66f9-4049-92cb-6cedc6695976",
+      "7986d16d-5795-49d3-afd1-b43fc29a302d"
+    ],
+    "evaluationExerciseIds": [
+      "2152d0da-9059-4dff-8f59-3ecef4fb3392",
+      "da2db7e6-c625-477c-8147-efad5a96f16e",
+      "60d87ee3-f7ce-4bc0-81e0-93165d708054",
+      "092f3386-e5f9-4c93-ad99-0a50a2063971",
+      "2e81266c-699d-4b5f-bb94-fe7ea929e5be"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:45.0699113Z"
+  },
+  "contents": [
+    {
+      "id": "314485ba-7bec-4e85-8a28-58e6ed61ea53",
+      "title": "Leia o contexto e observe que agora o foco não é mais o problema, mas para quem vai o conselho.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "aa82eaee-7f98-482c-973d-75598a84f813",
+          "textContent": "<p>Na aula anterior, o foco era entender o problema.</p><p>Agora, o passo seguinte é responder com um conselho claro.</p><p>Nesta aula, você vai ver como a mesma ideia muda quando o conselho vai para uma pessoa, para alguém tratado com mais distância ou para um grupo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "16dc83b5-3419-4c31-8a31-ac153b64bce0",
+      "title": "Escute e leia a frase. Repare que o conselho já mostra um primeiro passo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "02d33a18-480e-4e75-80a9-7e5f2e77960f",
+          "textContent": "<p>Primeiro, um conselho direto com ação bem clara.</p><p><strong>Prueba a hablar con tu jefa.</strong></p><p>Em português: <strong>Tente conversar com a sua chefe.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/133f02a3fbfb43a2a3a71c409e190cae_b02-prueba-a-hablar-con-tu-jefa.mp3?Expires=1794099585&Signature=umGgatHhswelPYGYllet5CvYE~EmO02Axay8RrCi3oLehTqcK79GAK3ZhPcGsQUEgcDrWnfhcOoKlHoOvaMW1~gCWyRyUQbvRFcGG2EI7lox6v63LxkEmaWNozj5gqB3x5~LdQskAmYHKFha~eTfOCF52nhxIkveeOmYZ5cAyEB6ybigNCRW1kzENsXOhpKUmTUBppNm7URZ8eYMc9ffGhugF-UBPoINSQR8L1VdROdiiF538mHPGYbfo8xsnwytkLsUjayRfKB2n7jAJIFjy6FM3y~s~qxelRonwuIrL3iT6d5lSKMQH125FdyV3chHdmrpaE~H22f4vprhGiT6ZA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1eeb699e-bd52-4fd6-8a4a-69dda283a80b",
+      "title": "Leia a nota curta e observe o tipo de ajuda que essa fórmula oferece.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "e022c4a7-a5fb-4688-be78-8a6751d54458",
+          "textContent": "<p><strong>Prueba a...</strong> funciona bem quando você quer sugerir um primeiro passo.</p><p>Soa claro e prático: a pessoa pode testar essa ação e ver se ajuda.</p><p>Não é uma ordem dura. É um empurrão direto para agir.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e319b608-a3c0-4729-8e54-37b7dc94c9ec",
+      "title": "Escute e leia a frase. Note que agora o conselho aponta para um esforço possível.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "d7550ffd-2cb8-4c06-84b8-1f08de0655e4",
+          "textContent": "<p>Outro conselho claro, agora para um esforço curto e realista.</p><p><strong>Intenta descansar este fin de semana.</strong></p><p>Em português: <strong>Tente descansar neste fim de semana.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4556928a6e534923adb579db0b0af827_b04-intenta-descansar-este-fin-de-semana.mp3?Expires=1794099585&Signature=czns3GpMquTyyOoVre-~Q3s68fGy6imeApdDzSH-qQqhPnMavhvTsjtTCTijjw-S1go-HoddqFhDRipw3TkISXK9cDR~5V2BTE1tCtdxi7HaN~I6f8rXohSEqFMKJ-twb4KmJqMOWkfFn~FCqTjHddFbJ3yRXiK2R2XQwSyCjYPjHe6rEHwwhD~seErb0fG0XKAoxajbhRh2~qwMGNiBuWf18NtsqeErJRx5lAdr-KzmMwrkm7y98iS7aF8EOp-rn9pe6PLtYaxkPMfEHvH1FSuD-TJDij0en9AQqyOk~8GtF8wqGMpv1q6gtNyN7qtEC8VhUmcweh5MIvf7qSWV3Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "aece69e9-b87d-4bc9-bf94-335354fe8e94",
+      "title": "Compare as duas frases e observe o foco de cada uma.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "cd2bdb2c-948a-48bc-9419-8c6461b3a264",
+          "textContent": "<p><strong>Prueba a...</strong> aponta para experimentar uma ação: <strong>Prueba a hablar con tu jefa.</strong></p><p><strong>Intenta...</strong> destaca um esforço possível: <strong>Intenta descansar este fin de semana.</strong></p><p>As duas formas são claras e úteis quando você quer ajudar sem entrar ainda em explicações longas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1b63d7a5-1b7b-4116-b20a-87094ad58313",
+      "title": "Escute e leia a frase. Repare que o conselho já mostra com clareza para quem você fala.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "b016c41d-1f49-4edb-9917-bbfa7d5eb067",
+          "textContent": "<p>Agora aparece um conselho que mostra com clareza para quem você fala.</p><p><strong>Te recomiendo hablar con tu jefa.</strong></p><p>Em português: <strong>Eu recomendo que você converse com a sua chefe.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4ddf8e5f2bd0474caf1cf750a489d28d_b06-te-recomiendo-hablar-con-tu-jefa.mp3?Expires=1794099585&Signature=Ao4Cqklmss7xLqGabTA4hjI-Do34xqYbPgB4i7ffKwYZFewRhJRJ0DObqAUwQv1de2-ZQ3HRjVIJEMiRFoUEiFZ0KmHugQilOC7oeaetOntRbufK~jZnRQQVfhoXMkvTtpjiBj2mYOWXL1mWUZCfF0SAVazp6UhcEQdV5rXe~sdzZ~b5lHlMCxJ7AgKot5fgrOn-EjZ9XiKTVDbPSYpd4nhcXs5~2JIeXzLiHEYJjl6RoSaDsvHTzyqdW0qF7v2ch4NT53wAECvwJxcICjgywvlkPHQXmhfVrxxLZM2dlrc1rFbA9LQBwaj9F~Rvpenx9ROQGN4FrPKcIS2J8wwvqQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1b29229a-fdf4-4ff2-bd34-523944fa20de",
+      "title": "Leia o mapa e observe que o verbo pode ficar quase igual enquanto muda quem recebe o conselho.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "7b0754fd-ee9a-4fa3-8a02-d2dfb33a0800",
+          "textContent": "<p>Quando o conselho muda de destinatário, a parte central pode continuar igual.</p><ul><li><strong>Te recomiendo hablar con tu jefa.</strong> para <strong>tú</strong></li><li><strong>Le recomiendo hablar con su jefa.</strong> para <strong>usted</strong> ou ele/ela</li><li><strong>Os recomiendo revisar el horario hoy.</strong> para <strong>vosotros/as</strong></li><li><strong>Les recomiendo revisar el horario hoy.</strong> para <strong>ustedes</strong> ou eles/elas</li></ul><p>O ponto da aula é notar a troca de <strong>te / le / os / les</strong> conforme a pessoa que recebe o conselho.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1408c244-f70e-4616-9c0e-ea33d7b33088",
+      "title": "Leia o resumo final e conecte cada forma a uma situação em que alguém pede ajuda.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "21d46ef8-4148-46ba-ba49-e415d823b99f",
+          "textContent": "<p>Na vida real, conselhos claros costumam ser curtos.</p><ul><li><strong>Intenta descansar este fin de semana.</strong> para um amigo exausto.</li><li><strong>Prueba a hablar con tu jefa.</strong> para alguém travado antes de uma conversa.</li><li><strong>Les recomiendo revisar el horario hoy.</strong> para um grupo que precisa se organizar.</li></ul><p>Essas formas já servem para um chat, um áudio curto ou uma resposta rápida quando alguém pede ajuda.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6d7b0bdf-6468-4ee8-81cf-f64fdc610f6a",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "d8ce36a8-6f9a-48c2-a52a-c007959ce812",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a38cfe5e41dd44769be7a1f054600d0c_MEC-IDM_MODB1-CAP_04-AULA_02.mp4?Expires=1794099585&Signature=cc~LhkB3p0a-7kYsjs9yvITv~2Wpjacnu1UzVuvIwU~e9nhuEjWBHRWFGeUFumDoNBfATPdxbF0xsz5t~PBydZBp-lDN7IGou4AOHC3R89~a1bhYJXZFmUFnYUIUlUqJxw-bLeZy1xxJiRyNwJN8QGqwxO~RhvOF4xvO-IMpQ41LTL0b8-sWpuACCBRVBmmaqnw8nrxcppZURZL1Em8mug1UaimS26D-A1d8unZy9ksyjuj2ezkUx2MM38XTZLHSloWzFEJ9NjVirbadFEWLqFBCc-w4LbOvyLv7qLGN5~MCm5S-Bv5-t2Hd8AkTs5XTJVjUR7UBrULGeJrdhC-z5A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a38cfe5e41dd44769be7a1f054600d0c_MEC-IDM_MODB1-CAP_04-AULA_02.mp4?Expires=1794099585&Signature=cc~LhkB3p0a-7kYsjs9yvITv~2Wpjacnu1UzVuvIwU~e9nhuEjWBHRWFGeUFumDoNBfATPdxbF0xsz5t~PBydZBp-lDN7IGou4AOHC3R89~a1bhYJXZFmUFnYUIUlUqJxw-bLeZy1xxJiRyNwJN8QGqwxO~RhvOF4xvO-IMpQ41LTL0b8-sWpuACCBRVBmmaqnw8nrxcppZURZL1Em8mug1UaimS26D-A1d8unZy9ksyjuj2ezkUx2MM38XTZLHSloWzFEJ9NjVirbadFEWLqFBCc-w4LbOvyLv7qLGN5~MCm5S-Bv5-t2Hd8AkTs5XTJVjUR7UBrULGeJrdhC-z5A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "ea81457b-4ddb-4bc2-bfc1-67b45c752741",
+      "title": "Ouça e marque as palavras",
+      "content": "<p>Escute o conselho curto da aula e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute o conselho curto da aula e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9d161844f93d4e67b8386198d560f017_b04-intenta-descansar-este-fin-de-semana.mp3?Expires=1794099585&Signature=EicWYPVqCcEg5lR8BBNC87BdtqRseD5MxkS0IUlpz8RUdY6y15g4OzpJI6onHHJqPkDX0un-N~qhgA62qDfcsDLC7l~LhdnKdqoSeRhyXNSH9WmBtntS8wR1fh06t-HJQW0iZ8SLrtk2Jh2vsOXbTmPadx32P9gOhVPNBrsJ-DmwRbKt~SJ7Q5oUmrP6yN4AgTmURQZwC2wWXderA1Qbjz8QH3OxqxxZz5tz~ChsmPkRzHDgrmet-irnadmnqNYYgEQKpStBcDtQhmwdL3ANZolX41FosUEwG9acOhCVb-o71bW2bfjzJyaD8wltivsGf7cA83Doss5XrP0U3kh3Ug__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Intenta... apresenta um esforço curto e realista como conselho claro.",
+      "feedbackError": "Intenta... apresenta um esforço curto e realista como conselho claro.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "13cd7882-a88f-466c-a185-a32158a28da7",
+          "textContent": "horario",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ea81457b-4ddb-4bc2-bfc1-67b45c752741"
+        },
+        {
+          "id": "15c75c1e-6427-4096-bbb8-07b969281f60",
+          "textContent": "semana",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ea81457b-4ddb-4bc2-bfc1-67b45c752741"
+        },
+        {
+          "id": "18a7d7d3-1c00-4120-b5d4-5a4c178183c0",
+          "textContent": "Intenta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ea81457b-4ddb-4bc2-bfc1-67b45c752741"
+        },
+        {
+          "id": "4f934ca8-15ec-4b3e-9037-6e492020d35a",
+          "textContent": "prueba",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ea81457b-4ddb-4bc2-bfc1-67b45c752741"
+        },
+        {
+          "id": "5f5d2d36-ba6c-41d9-bab2-0fba892ebe6f",
+          "textContent": "jefa",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ea81457b-4ddb-4bc2-bfc1-67b45c752741"
+        },
+        {
+          "id": "93d90d91-0b33-4469-9ad6-4f7ab2f72337",
+          "textContent": "descansar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ea81457b-4ddb-4bc2-bfc1-67b45c752741"
+        },
+        {
+          "id": "eeba7d65-5108-46f2-b061-617d69d637ca",
+          "textContent": "fin",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ea81457b-4ddb-4bc2-bfc1-67b45c752741"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "960c58ff-8278-4cde-a8df-7584fcf3391a",
+      "title": "Escute e diferencie as duas molduras",
+      "content": "<p>Associe cada áudio principal da comparação ao texto correspondente em espanhol.</p>",
+      "contentPlain": "Associe cada áudio principal da comparação ao texto correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "A comparação da aula separa conselho como teste de ação e como esforço possível.",
+      "feedbackError": "A comparação da aula separa conselho como teste de ação e como esforço possível.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "ef54642c-5571-42d8-8188-c4828c8be344",
+          "exerciseId": "960c58ff-8278-4cde-a8df-7584fcf3391a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1c64149982cf4f53a2ce10c10596861f_b02-prueba-a-hablar-con-tu-jefa.mp3?Expires=1794099585&Signature=Kru0ednUFu8MW196a0hPe6-0zOGWjIm9ksh4E3M7w0HckZXLV4shuXkip6sCnY0WtaTnuiPNM7vdfFlj1sNqv1wmBLX1TThZg2O8gSefSK6R-rgsF~4mFp9~sHVhv-mPhcNoQ4xYlI4CAWOHxuxPbTWVdy2dd5ufbGcjYBf6QAz7SJyd3MxzYDjQxWd72Jo2jErV0xDoI-x3aYOw-VfhNoiW8BndyWAM5DrfuZ2X~atgLGgN-j9~bq5iYyjjwZFcRitxEstjA2RH3sQ-tTtaPUeIS7SFB12wfP39W66ZHVyVRg4M05TgR0-Tis4d2jheLZusfkKyTFjVd1K0Jqsojw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Prueba a hablar con tu jefa.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "271df0f5-6a49-438a-85ef-55e338861d44",
+          "exerciseId": "960c58ff-8278-4cde-a8df-7584fcf3391a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9d161844f93d4e67b8386198d560f017_b04-intenta-descansar-este-fin-de-semana.mp3?Expires=1794099585&Signature=EicWYPVqCcEg5lR8BBNC87BdtqRseD5MxkS0IUlpz8RUdY6y15g4OzpJI6onHHJqPkDX0un-N~qhgA62qDfcsDLC7l~LhdnKdqoSeRhyXNSH9WmBtntS8wR1fh06t-HJQW0iZ8SLrtk2Jh2vsOXbTmPadx32P9gOhVPNBrsJ-DmwRbKt~SJ7Q5oUmrP6yN4AgTmURQZwC2wWXderA1Qbjz8QH3OxqxxZz5tz~ChsmPkRzHDgrmet-irnadmnqNYYgEQKpStBcDtQhmwdL3ANZolX41FosUEwG9acOhCVb-o71bW2bfjzJyaD8wltivsGf7cA83Doss5XrP0U3kh3Ug__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Intenta descansar este fin de semana.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "a719145b-34d7-4e4d-9b71-3d2c1ea0a286",
+      "title": "Escolha o conselho de primeiro passo",
+      "content": "<p>Recupere o contraste entre <strong>Prueba a...</strong> e <strong>Intenta...</strong> e escolha a frase que sugere experimentar uma ação.</p>",
+      "contentPlain": "Recupere o contraste entre Prueba a... e Intenta... e escolha a frase que sugere experimentar uma ação.",
+      "fileUrl": null,
+      "feedbackSuccess": "Prueba a... sugere testar uma ação; intenta... destaca um esforço possível.",
+      "feedbackError": "Prueba a... sugere testar uma ação; intenta... destaca um esforço possível.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "78899463-30f5-40bc-80e6-cc24f86b4ec2",
+          "textContent": "Prueba a hablar con tu jefa.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a719145b-34d7-4e4d-9b71-3d2c1ea0a286"
+        },
+        {
+          "id": "db3631f6-d849-4676-a81f-1bfd3df33908",
+          "textContent": "Intenta descansar este fin de semana.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a719145b-34d7-4e4d-9b71-3d2c1ea0a286"
+        },
+        {
+          "id": "e9ad4531-4478-4d7d-936b-30dd264c45d0",
+          "textContent": "Te recomiendo hablar con tu jefa.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a719145b-34d7-4e4d-9b71-3d2c1ea0a286"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8da7f2d1-66f9-4049-92cb-6cedc6695976",
+      "title": "Ligue forma e destinatário",
+      "content": "<p>Use o mapa do interlocutor da aula para ligar cada forma ao destinatário correspondente.</p>",
+      "contentPlain": "Use o mapa do interlocutor da aula para ligar cada forma ao destinatário correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa do interlocutor troca te, le, os e les conforme quem recebe o conselho.",
+      "feedbackError": "O mapa do interlocutor troca te, le, os e les conforme quem recebe o conselho.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "43418006-2f6a-4192-bd37-0232a0dbedc3",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "8da7f2d1-66f9-4049-92cb-6cedc6695976"
+        },
+        {
+          "id": "a046f119-4fc4-4347-82a0-3d7349cb6ffc",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8da7f2d1-66f9-4049-92cb-6cedc6695976"
+        }
+      ],
+      "associations": [
+        {
+          "id": "c84a97c4-0cc6-4cd0-9710-be9011eb4678",
+          "exerciseId": "8da7f2d1-66f9-4049-92cb-6cedc6695976",
+          "leftContent": "te",
+          "rightContent": "tú",
+          "sequenceItem": 1
+        },
+        {
+          "id": "53f506d0-d6a6-44a8-8d35-94f921dc1e60",
+          "exerciseId": "8da7f2d1-66f9-4049-92cb-6cedc6695976",
+          "leftContent": "le",
+          "rightContent": "usted ou ele/ela",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5229552a-5847-4da3-9569-2d603d8505c4",
+          "exerciseId": "8da7f2d1-66f9-4049-92cb-6cedc6695976",
+          "leftContent": "os",
+          "rightContent": "vosotros/as",
+          "sequenceItem": 3
+        },
+        {
+          "id": "11352829-24c1-42cf-a2ce-a24ce156bb68",
+          "exerciseId": "8da7f2d1-66f9-4049-92cb-6cedc6695976",
+          "leftContent": "les",
+          "rightContent": "ustedes ou eles/elas",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "7986d16d-5795-49d3-afd1-b43fc29a302d",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta o conselho completo.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta o conselho completo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4ddf8e5f2bd0474caf1cf750a489d28d_b06-te-recomiendo-hablar-con-tu-jefa.mp3?Expires=1794099585&Signature=Ao4Cqklmss7xLqGabTA4hjI-Do34xqYbPgB4i7ffKwYZFewRhJRJ0DObqAUwQv1de2-ZQ3HRjVIJEMiRFoUEiFZ0KmHugQilOC7oeaetOntRbufK~jZnRQQVfhoXMkvTtpjiBj2mYOWXL1mWUZCfF0SAVazp6UhcEQdV5rXe~sdzZ~b5lHlMCxJ7AgKot5fgrOn-EjZ9XiKTVDbPSYpd4nhcXs5~2JIeXzLiHEYJjl6RoSaDsvHTzyqdW0qF7v2ch4NT53wAECvwJxcICjgywvlkPHQXmhfVrxxLZM2dlrc1rFbA9LQBwaj9F~Rvpenx9ROQGN4FrPKcIS2J8wwvqQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Te recomiendo destaca com clareza quem recebe o conselho.",
+      "feedbackError": "Te recomiendo destaca com clareza quem recebe o conselho.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Te recomiendo hablar con tu jefa.",
+      "typeSpecificData": "{\"expectedText\":\"Te recomiendo hablar con tu jefa.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/4ddf8e5f2bd0474caf1cf750a489d28d_b06-te-recomiendo-hablar-con-tu-jefa.mp3?Expires=1794099585\\u0026Signature=Ao4Cqklmss7xLqGabTA4hjI-Do34xqYbPgB4i7ffKwYZFewRhJRJ0DObqAUwQv1de2-ZQ3HRjVIJEMiRFoUEiFZ0KmHugQilOC7oeaetOntRbufK~jZnRQQVfhoXMkvTtpjiBj2mYOWXL1mWUZCfF0SAVazp6UhcEQdV5rXe~sdzZ~b5lHlMCxJ7AgKot5fgrOn-EjZ9XiKTVDbPSYpd4nhcXs5~2JIeXzLiHEYJjl6RoSaDsvHTzyqdW0qF7v2ch4NT53wAECvwJxcICjgywvlkPHQXmhfVrxxLZM2dlrc1rFbA9LQBwaj9F~Rvpenx9ROQGN4FrPKcIS2J8wwvqQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "2152d0da-9059-4dff-8f59-3ecef4fb3392",
+      "title": "Ligue contexto e conselho",
+      "content": "<p>Recupere o recap final da aula e conecte cada situação ao conselho mais adequado.</p>",
+      "contentPlain": "Recupere o recap final da aula e conecte cada situação ao conselho mais adequado.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final liga cada conselho claro ao tipo de pessoa ou grupo que precisa de ajuda.",
+      "feedbackError": "O recap final liga cada conselho claro ao tipo de pessoa ou grupo que precisa de ajuda.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "89efb694-2cf7-42e5-8098-970438aa93cc",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2152d0da-9059-4dff-8f59-3ecef4fb3392"
+        },
+        {
+          "id": "a1086dfc-659c-40ed-baf7-b602d5c2c4ef",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2152d0da-9059-4dff-8f59-3ecef4fb3392"
+        }
+      ],
+      "associations": [
+        {
+          "id": "5caa3622-a13e-487a-b030-74e869377a0c",
+          "exerciseId": "2152d0da-9059-4dff-8f59-3ecef4fb3392",
+          "leftContent": "Um grupo que precisa se organizar hoje.",
+          "rightContent": "Les recomiendo revisar el horario hoy.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "417893cf-4053-4438-8190-436223efd783",
+          "exerciseId": "2152d0da-9059-4dff-8f59-3ecef4fb3392",
+          "leftContent": "Uma pessoa exausta no fim de semana.",
+          "rightContent": "Intenta descansar este fin de semana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e3dcba60-af3a-4926-b72d-8dcbc498f4e8",
+          "exerciseId": "2152d0da-9059-4dff-8f59-3ecef4fb3392",
+          "leftContent": "Alguém travado antes de falar com a chefe.",
+          "rightContent": "Prueba a hablar con tu jefa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "da2db7e6-c625-477c-8147-efad5a96f16e",
+      "title": "Reconstrua as três frases centrais",
+      "content": "<p>Associe cada áudio principal da aula à frase correspondente, sem apoio de tradução.</p>",
+      "contentPlain": "Associe cada áudio principal da aula à frase correspondente, sem apoio de tradução.",
+      "fileUrl": null,
+      "feedbackSuccess": "As três frases centrais da aula treinam conselho claro e ajuste ao destinatário.",
+      "feedbackError": "As três frases centrais da aula treinam conselho claro e ajuste ao destinatário.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "4ae525ab-9b8c-419c-97d3-336b819cba57",
+          "exerciseId": "da2db7e6-c625-477c-8147-efad5a96f16e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1c64149982cf4f53a2ce10c10596861f_b02-prueba-a-hablar-con-tu-jefa.mp3?Expires=1794099585&Signature=Kru0ednUFu8MW196a0hPe6-0zOGWjIm9ksh4E3M7w0HckZXLV4shuXkip6sCnY0WtaTnuiPNM7vdfFlj1sNqv1wmBLX1TThZg2O8gSefSK6R-rgsF~4mFp9~sHVhv-mPhcNoQ4xYlI4CAWOHxuxPbTWVdy2dd5ufbGcjYBf6QAz7SJyd3MxzYDjQxWd72Jo2jErV0xDoI-x3aYOw-VfhNoiW8BndyWAM5DrfuZ2X~atgLGgN-j9~bq5iYyjjwZFcRitxEstjA2RH3sQ-tTtaPUeIS7SFB12wfP39W66ZHVyVRg4M05TgR0-Tis4d2jheLZusfkKyTFjVd1K0Jqsojw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Prueba a hablar con tu jefa.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e74f3b74-7976-4e17-a571-54464f58a87f",
+          "exerciseId": "da2db7e6-c625-477c-8147-efad5a96f16e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9d161844f93d4e67b8386198d560f017_b04-intenta-descansar-este-fin-de-semana.mp3?Expires=1794099585&Signature=EicWYPVqCcEg5lR8BBNC87BdtqRseD5MxkS0IUlpz8RUdY6y15g4OzpJI6onHHJqPkDX0un-N~qhgA62qDfcsDLC7l~LhdnKdqoSeRhyXNSH9WmBtntS8wR1fh06t-HJQW0iZ8SLrtk2Jh2vsOXbTmPadx32P9gOhVPNBrsJ-DmwRbKt~SJ7Q5oUmrP6yN4AgTmURQZwC2wWXderA1Qbjz8QH3OxqxxZz5tz~ChsmPkRzHDgrmet-irnadmnqNYYgEQKpStBcDtQhmwdL3ANZolX41FosUEwG9acOhCVb-o71bW2bfjzJyaD8wltivsGf7cA83Doss5XrP0U3kh3Ug__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Intenta descansar este fin de semana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "028d5e08-8dea-4ae4-bc27-c4b9bb41401b",
+          "exerciseId": "da2db7e6-c625-477c-8147-efad5a96f16e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ddc9b882e5a94029849ab648aed6a72c_b06-te-recomiendo-hablar-con-tu-jefa.mp3?Expires=1794099585&Signature=FJ-s1Rq1z14eyjpSjKVpVwpqVhSAWwH4EM6kNzoWI3Be7PRv2XQE7sO4IEf~P4By0KnYwCEToydzCrzCLH-2SS101vYO4jGuUmkU5AIxdnw7s9fJwV8xN0CQIA9tQl8f~f2QrcJ31zSoNA939zsN2gWUj9ZeNWAKi9IkzGFj3H-8VFgU~jxwgVGx94GKSv8FyFf~n2O2aPnTrf9BRqkvG~33SKffVn7aj0cudioKpf0jULvEEDJLty8bzu1u90XLMIr1gpFGHlGchm7asktHWNXmLioYHA0-b40hR29zY-xzo4vf0jyBMlbT1a6u--mW-tI-D75Wx80ka8y~AldIcw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Te recomiendo hablar con tu jefa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "60d87ee3-f7ce-4bc0-81e0-93165d708054",
+      "title": "Complete o primeiro passo",
+      "content": "<p>Complete em espanhol: Prueba a ______ con tu jefa.</p><p>Tradução: Tente conversar com a sua chefe.</p>",
+      "contentPlain": "Complete em espanhol: Prueba a ______ con tu jefa. Tradução: Tente conversar com a sua chefe.",
+      "fileUrl": null,
+      "feedbackSuccess": "Prueba a... empurra a pessoa para testar uma ação concreta.",
+      "feedbackError": "Prueba a... empurra a pessoa para testar uma ação concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hablar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "092f3386-e5f9-4c93-ad99-0a50a2063971",
+      "title": "Recupere o conselho dirigido",
+      "content": "<p>Escute o conselho dirigido a uma pessoa e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute o conselho dirigido a uma pessoa e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ddc9b882e5a94029849ab648aed6a72c_b06-te-recomiendo-hablar-con-tu-jefa.mp3?Expires=1794099585&Signature=FJ-s1Rq1z14eyjpSjKVpVwpqVhSAWwH4EM6kNzoWI3Be7PRv2XQE7sO4IEf~P4By0KnYwCEToydzCrzCLH-2SS101vYO4jGuUmkU5AIxdnw7s9fJwV8xN0CQIA9tQl8f~f2QrcJ31zSoNA939zsN2gWUj9ZeNWAKi9IkzGFj3H-8VFgU~jxwgVGx94GKSv8FyFf~n2O2aPnTrf9BRqkvG~33SKffVn7aj0cudioKpf0jULvEEDJLty8bzu1u90XLMIr1gpFGHlGchm7asktHWNXmLioYHA0-b40hR29zY-xzo4vf0jyBMlbT1a6u--mW-tI-D75Wx80ka8y~AldIcw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Te recomiendo marca com clareza o destinatário do conselho.",
+      "feedbackError": "Te recomiendo marca com clareza o destinatário do conselho.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0a51203a-60e8-4268-a100-9a12d087d9a3",
+          "textContent": "jefa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "092f3386-e5f9-4c93-ad99-0a50a2063971"
+        },
+        {
+          "id": "0e42ac6b-45f4-45e9-91f3-45413ed4c977",
+          "textContent": "con",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "092f3386-e5f9-4c93-ad99-0a50a2063971"
+        },
+        {
+          "id": "23e1018a-c933-4453-a658-1edc16fc43e9",
+          "textContent": "hablar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "092f3386-e5f9-4c93-ad99-0a50a2063971"
+        },
+        {
+          "id": "2c699e6e-193c-42db-b056-44fe75973bb1",
+          "textContent": "descansar",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "092f3386-e5f9-4c93-ad99-0a50a2063971"
+        },
+        {
+          "id": "67b3ecac-fd75-4e1a-8e7c-9e203f255513",
+          "textContent": "horario",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "092f3386-e5f9-4c93-ad99-0a50a2063971"
+        },
+        {
+          "id": "a398d021-eaaa-4ae5-801a-43d8c0612389",
+          "textContent": "Te",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "092f3386-e5f9-4c93-ad99-0a50a2063971"
+        },
+        {
+          "id": "b192c496-09ae-4099-aac7-8860709a6e08",
+          "textContent": "recomiendo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "092f3386-e5f9-4c93-ad99-0a50a2063971"
+        },
+        {
+          "id": "db1673cf-5010-4cf0-825f-0fdfe8d557cc",
+          "textContent": "tu",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "092f3386-e5f9-4c93-ad99-0a50a2063971"
+        },
+        {
+          "id": "f620a713-4c45-4b14-ae03-98511ab93f1e",
+          "textContent": "les",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "092f3386-e5f9-4c93-ad99-0a50a2063971"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2e81266c-699d-4b5f-bb94-fe7ea929e5be",
+      "title": "Complete o conselho para um grupo",
+      "content": "<p>Complete em espanhol: ___ recomiendo revisar el horario hoy.</p><p>Tradução: Eu recomendo a vocês (ustedes) revisar o horário hoje.</p>",
+      "contentPlain": "Complete em espanhol: ___ recomiendo revisar el horario hoy. Tradução: Eu recomendo a vocês (ustedes) revisar o horário hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "No mapa do interlocutor, les marca um conselho dirigido a ustedes ou eles/elas.",
+      "feedbackError": "No mapa do interlocutor, les marca um conselho dirigido a ustedes ou eles/elas.",
+      "answerType": "buildWord",
+      "expectedAnswer": "les",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Dar conselhos claros para cada pessoa"
+}

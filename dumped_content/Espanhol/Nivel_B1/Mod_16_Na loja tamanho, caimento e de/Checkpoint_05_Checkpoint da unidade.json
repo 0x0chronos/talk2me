@@ -1,0 +1,600 @@
+{
+  "attemptId": "c539a6e6-49de-4900-9172-51eee14c6047",
+  "exercises": [
+    {
+      "exerciseId": "23bd6c08-8094-46a3-be85-271a0805969f",
+      "sequence": 1,
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "title": "Complete a resposta de adiamento",
+      "content": "<p>Complete em espanhol: Me lo ______.</p><p>Tradução: Ainda vou pensar.</p>",
+      "contentPlain": "Complete em espanhol: Me lo ______. Tradução: Ainda vou pensar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você recupera a resposta curta que segura a decisão sem cortar a conversa.",
+      "feedbackError": "Aqui você recupera a resposta curta que segura a decisão sem cortar a conversa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pienso",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f82c7033-a3e9-486d-9469-5a3a5f2e1aa3",
+      "sequence": 2,
+      "lessonId": "07bbcea8-4b41-43a6-bd71-a9adbc483bce",
+      "title": "Recupere a sequência curta da loja",
+      "content": "<p>Ligue cada gravação a frase certa e recupere o encadeamento de pedido, resposta e ida ao probador.</p>",
+      "contentPlain": "Ligue cada gravação a frase certa e recupere o encadeamento de pedido, resposta e ida ao probador.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula junta pedido de talla, resposta curta, pedido de color e orientação para o probador em uma única sequência.",
+      "feedbackError": "O diálogo da aula junta pedido de talla, resposta curta, pedido de color e orientação para o probador em uma única sequência.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "b136af66-d7e8-4488-a29f-90356efae2fb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6fdbcde4b4994bf590090cdd102ff327_l02b01-la-tienes-en-otra-talla.mp3?Expires=1794099654&Signature=O6Bk2jeDi0hXn20cHEdj-uyqqhCkgp5UdeV95VHUw4qI58QyyrVIVPsb2RjMkz4d3NhU6x6pGb9-ijX8pR-g3nDZqzacpIx~ecWUSk-IWNfBUD793z6ISBOpt5lNPUmwODx5dF5wvI~qMjFceajGnS-2P2~B3B5~9We5Mh5iyWfYIv639Z3yVyu3cr3hycZJ~ZLhdp4SZJ5tkkk07FHsO6-P3LrtHnmPAWrQ0w7PUrpNwpmZGPcV9e080YuPaujF0-jIHh1m0LjFLEhqvPG8e6rEiev-9gwPDKs3VJCMWnZSpNoLuao6X88Srt6-lziYfk6b6pLK4xOUerbyrVnVWA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿La tienes en otra talla?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0369eedc-1a69-475c-9e5d-d2587a4c2295",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3a90d6f12626409ea28e4cec07c339a4_l02b03-si-te-la-traigo.mp3?Expires=1794099654&Signature=TnUMdykM~yOxMsnJXePiYK0NHmeS9jgPOQVf6IN9g8ngdR5WjTouAk3BN7pl3fzi6xYSD5qPa~fFBXu9evNPfCchlVizyiPdcg2RhzWUIrW-oDvmMiMKoyYArFhdBs0oRRg5RBpIdkrpgYx30BPViHpSNZk2Gl2E9t~RTJMswasHSsU~IrDPi2wR0oYHI8lA2o1TsrCR1LiLr3upgUIFzahzFSpMIg1SJSh7uLBHAHQMGZf3n8UZ1pdhFS2o0sSaQAAclHHnylco0c3oBtzOKETMMxxduiO4g2ZC1l63Dm7MI4BuNDdHUszTd1ykmikKUJ243~IHkRiQkuNTpArAXQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, te la traigo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e8b6b087-c597-4ff5-ada1-5b445cb043b0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/96ba9eba715143bab0345dc88301e8ca_l02b01-la-tienes-en-otro-color.mp3?Expires=1794099654&Signature=Hf7P3py5n0ZuZ~5rghP-cebTutAWy7t2csCUa9QFYKuVzkyae8xghcS7CGgY7sgxR8KSYDZyEXGnE~E9m7Sj8hzbtKJM~ACSi3yhzz~nB1A227Cu5Qq2eppX~eoxUEC5y7HIY9pp4mV13cAbJI-qsfLn5xxy3UYF4Srq3CFonR2T7X~CkTFmZLVnGAkVc5bhK46bmo5BQamajHyq2E64LIlkPGkmEhOb-LoqEe~VcXcFUQQywPgGfpiitB7w3tyJUdMjOCknDlFRpGMuk-QWce375p6H0laMCjOcZ2PykwDOiSONtgCINc4eulkZ9u65mHKu8YqQZeJHagnTgNOTXg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿La tienes en otro color?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "6302b13c-d7be-4de0-94b6-7f60b11785f5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ef379ca3d5514565a3af0bd5604e546d_l02b03-solo-queda-en-negro.mp3?Expires=1794099654&Signature=SMBMimNh5cJFwm7BTU9npFt7Z39fRidKnuBAZSC4e666otmS~oaqI2pNESn1n1fLVsAgRFpv3ut9zy-VtBB1QjXcL14ZRBcFzcr1FUgdWCpkFIFQlcrWBDZDENuNLzxmGS4UZz4OV8cNLc~GaEjzD1E2cLt8xYJEjYE~yzg~25hGXbsToq4PucI8as~jbhr266Dt4AlQiFNehfZTgQ3we-sh5knGVIexaKlMpM1EkSD6dp4JeWuoy94xQ1G5DCc6NDGXIFI2zFTfgGApV5zGwL-SuDzIYsuqF9Rdy1HFTOSWCe1aUuXnI8doZ1cTpEBpDPrRiXgpgXBkFw0s~XSAGA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Solo queda en negro.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "395b757c-2ef2-4206-b578-45d77c17905a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e28b5b2674e04ab9951be5aff368612a_l02b03-los-probadores-estan-al-fondo.mp3?Expires=1794099654&Signature=hl0yedLGIe6nc3gRcPl3xg2EzaliE-0utXNM5gOKbcxm6-75patYjannJOcIkwVZjcoO0DYuuYTX7VIKqN9YV1VH1fqlblEhlS620J-zibInklpEBw5oxsFTZqHuJOkhXmZgqvSeeeej5fxvui4UHa2obfyGg6Qj62rvIsqTib-vBfc1tuuJ82RoWOZFAG3rC65nixTwAOhAWJ9n9jWe4R31HFNmoRiTGUcmnvRXdozYCRZIXwUhdfKit79xu~BwOcwaUbMe7iFx8bA1YP0UiycpHg7mhV9aYnKUBfI8yhxuZssSrW9StlehWl32YV~piDyuo7tqe8CkVLHYt6LLBQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Los probadores están al fondo.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "5323989f-d6a6-4257-bc26-19e75270cbf4",
+      "sequence": 3,
+      "lessonId": "9bcc1aee-06a6-4f59-a852-63bf97307046",
+      "title": "Recupere a sequência pelo áudio",
+      "content": "<p>Escute a fala final do atendimento e marque somente as palavras que realmente aparecem.</p>",
+      "contentPlain": "Escute a fala final do atendimento e marque somente as palavras que realmente aparecem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d0ac142836264f4eb506fa79f4c917da_l03b05-03-en-cuanto-te-traiga-una-talla-mas-los-comparas-otra-vez.mp3?Expires=1794099654&Signature=HjkBakZV0s9c7rTTADedkO~8LOMyxNrjGpXJBS68meqiJREAJdNC1WB4VNihIf9qQJ0hoNjnNZPd-Ajbj7TxBthig5f3WEJWds50oJSgh7HNJIyMSJA~XLdU9kRxxXvxF4QBgIQM7-nmh8UxyFda2FpiMHIkIxv6LBCujWnapKzghGCAh~OPQ0foQDx28pBW0sbwVUVgGGxTe7HI79KS0cmJnBm3hYooPNm1Xm973u6iElqsrmjUjE3Aju9qX14jRODXHW4xfTO2im7TyD9Rt2Jwh4u9HnEI0trZL6ixg-ZfNuVBWK2tyvdTNR7ExYDSwBfOwwngfD28oz0s-Jj74A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "En cuanto ajuda a empurrar a nova comparação para logo depois que a talla chegar.",
+      "feedbackError": "En cuanto ajuda a empurrar a nova comparação para logo depois que a talla chegar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "032babbd-008f-494a-96ba-6ca741e31b06",
+          "text": "mientras",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "241bf4ce-5670-4999-92dd-1bf29b2d2954",
+          "text": "comparas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2c09606e-abef-4d05-bbc0-80031a118393",
+          "text": "gris",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4d6ef159-8dc7-41c9-8bf6-3a9061d21f3f",
+          "text": "En",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5d44fe36-0ac9-4bcb-911b-48202fdd63c9",
+          "text": "vez",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "665701c0-52f9-4c9c-9c26-a40f6646d918",
+          "text": "vestido",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "76f7cc1f-2221-4cb4-bd11-9951c188f4c4",
+          "text": "otra",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "92503d3e-2c2d-470f-b4a7-6dac2227bc37",
+          "text": "talla",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c75a7442-0479-4a53-b086-98ba4b29d1b7",
+          "text": "cuanto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c5fcf74b-cfd1-43a0-8000-114697912910",
+      "sequence": 4,
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "title": "Escolha o fechamento mais natural",
+      "content": "<p>Você decidiu levar a peça, quer pagar com cartão e também quer verificar o que acontece se ela não servir. Qual resposta em espanhol resolve tudo isso de forma natural?</p>",
+      "contentPlain": "Você decidiu levar a peça, quer pagar com cartão e também quer verificar o que acontece se ela não servir. Qual resposta em espanhol resolve tudo isso de forma natural?",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento mais completo desta aula junta decisão, caixa e pós-compra na mesma resposta.",
+      "feedbackError": "O fechamento mais completo desta aula junta decisão, caixa e pós-compra na mesma resposta.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "20952031-a0b1-44c6-8deb-92dce240ee31",
+          "text": "Me lo pienso. Quiero pagar con tarjeta. ¿Y si no le queda bien, se puede cambiar?",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7ce2c640-56dd-447c-be4c-99d1cde583e3",
+          "text": "Si, me lo llevo. Quiero pagar con tarjeta. Y si no le queda bien, se puede cambiar?",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7d4cec87-dcb3-4563-beee-50ac58d45891",
+          "text": "Quiero pagar con tarjeta. Le dejo el ticket dentro. Y si no le queda bien, se puede cambiar?",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d1d5c4eb-bf1a-4e6c-80eb-fa2b353c05ae",
+          "text": "Sí, me lo llevo. Me lo puede envolver para regalo? Y si no le queda bien, se puede cambiar?",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f1e4dbf5-c65d-453e-aac3-40a96868ff81",
+      "sequence": 5,
+      "lessonId": "9bcc1aee-06a6-4f59-a852-63bf97307046",
+      "title": "Complete o marcador temporal",
+      "content": "<p>Complete em espanhol: ________ te pruebas la talla pequeña, te busco el pantalón.</p><p>Tradução: Enquanto você prova o tamanho pequeno, eu busco a calça.</p>",
+      "contentPlain": "Complete em espanhol: ________ te pruebas la talla pequeña, te busco el pantalón. Tradução: Enquanto você prova o tamanho pequeno, eu busco a calça.",
+      "fileUrl": null,
+      "feedbackSuccess": "Mientras liga duas ações simultâneas dentro do provador.",
+      "feedbackError": "Mientras liga duas ações simultâneas dentro do provador.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Mientras",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d7135508-369c-49bc-b27e-09d213fc8980",
+      "sequence": 6,
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "title": "Complete a direção final",
+      "content": "<p>La sección de camisas está al _____.</p><p>Tradução: A seção de camisas fica no fundo.</p>",
+      "contentPlain": "La sección de camisas está al _____. Tradução: A seção de camisas fica no fundo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com fondo, a resposta entrega a direção principal sem precisar de explicação longa.",
+      "feedbackError": "Com fondo, a resposta entrega a direção principal sem precisar de explicação longa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fondo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "dc0a8f5c-8a5e-400a-b00e-548b12059d99",
+      "sequence": 7,
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "title": "Recupere o diálogo completo",
+      "content": "<p>Associe os quatro áudios do diálogo final ao texto em espanhol correspondente.</p>",
+      "contentPlain": "Associe os quatro áudios do diálogo final ao texto em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo curto recompõe pedido de ajuda, resposta mínima, produto e localização da seção.",
+      "feedbackError": "O diálogo curto recompõe pedido de ajuda, resposta mínima, produto e localização da seção.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "6744a634-422b-4fc2-a46a-6c4e9efd37ab",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/90ccb4e35dac44b78b6cc07fd5bc4d86_l01b01-me-puede-ayudar.mp3?Expires=1794099654&Signature=vvZ2-zFlU4c8X9Z6j7xuSOOPugLC9flk6aCSCzJ99SUYw4owf8PlKArzy46nW8fuNqnoUaxkdBTWUdN~go2DxeQfeaNy2S2KXaoq3pQ8llVWAfT6c3xKrZb2qxXJPKenVb7V94iF2QNhK9KqcvXzpF6QIb7LQSPYZ~XgwqsEN50hczQD4899TxjrjKsbD5mJAbe6133coGN0C7IPe8RTbnQFvDOeb-Fs9k1ZNzYuDTS1KEXVJiNnakJBt7MRVTJ7l002auNwaUklSE2RoZF6N6ZnocjRTuesmgcCZxsVN9EZuwv48fqiHWs4GhAvI8xm~rlpHO5-exj1ATnBulu8TA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Me puede ayudar?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3bd05a84-89a8-474f-b5e4-a92417704bb2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8879cabdbc1349d4963144cbcd8e5418_l01b07-linea-02-claro.mp3?Expires=1794099654&Signature=awa3IVjaon5Gpk5jh0kezIk~C5h0v1U9RBMHcWb2i0sl7oTkq0G1o3msOn7Gh-YBr-RW4DncErO3TZS1xpnzq0sAL7aoPrdG6026AOKJ6ds0iAlVDnL9V5NN0sH13Fv7jSGbgeh7D9pa9L5t6J9wyVfqSkZqL4XuiFKJtxIexB5LPEm42cT80r9vcbjXWjd18vtI0a9eU85AyMMoe5OG6Sltq0bJgYRO7o3SN0qgZICLF-CDus06UxpERdPXmlbD5YnQDAQuSItnSlhCq-2Hh2ct3yZ3ny4X2LPe5Ntszs-nMx~y65ghTybvU18mtVQ5ye22TrJxTQ17DkFxXoU17w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Claro.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "02cdcb66-8ce6-417b-9a13-366c73d4cf82",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1692136d672d4e82892dd58a13e9ab3b_l01b03-busco-una-camisa-blanca.mp3?Expires=1794099654&Signature=gZ3r8LrMM9IWTJFiIQqVSCSqEiD2yj~SPxfN64tUhrFojlHV1c4ggwtU4bJobIkZcBNo-NwfqceGydM81fYhdr0CxJKjmbjIcHzRn4qL80935n8q5r7kOWOpu1BtE2GhhHik0roCgoO5VUkEUUUgC9p58kAnv6WjdACRAc0ZJnzEtRqDYGD6cPhLTi5ZKoOodo6MFJDn4CpwBnsjSQ1C8jdaLoWjgSJn9UncRR8YRByQo~B4bTuU7juocbmEPFcWWNzN4-h~BlSXGmag2IifWX4nUuARohkpc5H5oP5PbakVpMvIqC8fLvUPrgiV7EV07i0Y15TrMoDbZB-ezEDVCw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Busco una camisa blanca.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "48b55a61-cfb6-4dff-a3b6-348e9782af0c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f71833e262a24ccf9ef2cf3d16e8d2c9_l01b05-la-seccion-de-camisas-esta-al-fondo.mp3?Expires=1794099654&Signature=YuLFl-ufp7ln00JtLrPI2alSuaR0ei67uIiP1~ohfM9Chnh5jpmJRyljnh2Vd0I0mMaQQ9zgMQ3LvicW7K-BTfD6bsH~sBqPhSsGEypcQWlohAumIbm~ejvMWKRENUYdOaF6gNNAtDx0eKMnbK38LiG0NZNvFX5FbX66rQU0lsJpkbdDQLYTYDAKYgU0YK7gEZQ0YHCwWcuQiFnoShc0Hm8TotgobsEqYabASdNfAGf~MiHbLUcBTWICNdCon~HaRi~cUI5spS83VAUY38qwQURvD8OyGasNfH-7jlYyTLOZQ45X6du1gxaG~2LKadlH7KQlQJEH5Ih~oH2DVoOMLQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La sección de camisas está al fondo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "dba297b5-09f7-4182-ad86-de7b3d5af493",
+      "sequence": 8,
+      "lessonId": "07bbcea8-4b41-43a6-bd71-a9adbc483bce",
+      "title": "Complete o pedido de talla",
+      "content": "<p>¿La tienes en otra _____?</p><p>Tradução: Você tem essa peça em outro tamanho?</p>",
+      "contentPlain": "¿La tienes en otra _____? Tradução: Você tem essa peça em outro tamanho?",
+      "fileUrl": null,
+      "feedbackSuccess": "Com talla, a aula marca a troca de tamanho sem sair da mesma peça.",
+      "feedbackError": "Com talla, a aula marca a troca de tamanho sem sair da mesma peça.",
+      "answerType": "buildWord",
+      "expectedAnswer": "talla",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "67668481-ba55-415c-be14-8089774dcf97",
+      "sequence": 9,
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "title": "Recupere o pedido pelo áudio",
+      "content": "<p>Escute a fala da cliente e marque somente as palavras que realmente aparecem na frase.</p>",
+      "contentPlain": "Escute a fala da cliente e marque somente as palavras que realmente aparecem na frase.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1692136d672d4e82892dd58a13e9ab3b_l01b03-busco-una-camisa-blanca.mp3?Expires=1794099654&Signature=gZ3r8LrMM9IWTJFiIQqVSCSqEiD2yj~SPxfN64tUhrFojlHV1c4ggwtU4bJobIkZcBNo-NwfqceGydM81fYhdr0CxJKjmbjIcHzRn4qL80935n8q5r7kOWOpu1BtE2GhhHik0roCgoO5VUkEUUUgC9p58kAnv6WjdACRAc0ZJnzEtRqDYGD6cPhLTi5ZKoOodo6MFJDn4CpwBnsjSQ1C8jdaLoWjgSJn9UncRR8YRByQo~B4bTuU7juocbmEPFcWWNzN4-h~BlSXGmag2IifWX4nUuARohkpc5H5oP5PbakVpMvIqC8fLvUPrgiV7EV07i0Y15TrMoDbZB-ezEDVCw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Busco una camisa blanca. resume o pedido do produto de forma curta e funcional.",
+      "feedbackError": "Busco una camisa blanca. resume o pedido do produto de forma curta e funcional.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "06181cc2-1ce7-433b-857b-edce7d9fb927",
+          "text": "Busco",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "302684ef-e275-4c90-9a26-253ceaa04119",
+          "text": "blanca",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3ad474fd-172d-4618-9777-129cf5a07e4c",
+          "text": "camisa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c36e4eba-2fb2-4749-9178-5961b732540c",
+          "text": "fondo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ea316eeb-71e9-4909-be8b-7d177db64d5b",
+          "text": "sección",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "efc768cc-cad0-439d-b9c0-e3c0c6ee466a",
+          "text": "Claro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "4cbd3b41-62dc-4523-b323-921dca6f96e9",
+      "sequence": 10,
+      "lessonId": "9bcc1aee-06a6-4f59-a852-63bf97307046",
+      "title": "Escolha a decisão mais natural",
+      "content": "<p>Você quer dizer que uma peça serve, a outra favorece mais e a talla atual ainda não convence. Qual formulação em espanhol encaixa melhor?</p>",
+      "contentPlain": "Você quer dizer que uma peça serve, a outra favorece mais e a talla atual ainda não convence. Qual formulação em espanhol encaixa melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "A fórmula correta junta ajuste, comparação e reserva sem perder a naturalidade da compra.",
+      "feedbackError": "A fórmula correta junta ajuste, comparação e reserva sem perder a naturalidade da compra.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "aeac4ed9-f6fb-4adf-9044-2d8f59a6010e",
+          "text": "Me queda bien, pero la azul me sienta mejor. No creo que esta talla me deje moverme bien.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d3363b53-ca31-459d-a57e-be0e3a495d06",
+          "text": "Dudo que necesite otra talla, pero la compro ahora mismo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e12b87fd-d6cc-4bb4-a57a-56add3bcb914",
+          "text": "Mientras salga, ya me llevo la gris sin probar la otra.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ff405a0f-ff6b-483d-a50f-01db604d4bb3",
+          "text": "La azul me queda bien y por eso no comparo nada.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "9b3b2760-13d7-458d-b033-d38b023301fb",
+      "sequence": 11,
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "title": "Complete a pergunta sobre troca",
+      "content": "<p>Complete em espanhol: ¿Se puede _______?</p><p>Tradução: Dá para trocar?</p>",
+      "contentPlain": "Complete em espanhol: ¿Se puede _______? Tradução: Dá para trocar?",
+      "fileUrl": null,
+      "feedbackSuccess": "¿Se puede cambiar? é a forma curta da aula para pensar no depois da compra.",
+      "feedbackError": "¿Se puede cambiar? é a forma curta da aula para pensar no depois da compra.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambiar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "57907095-31a8-41ae-bcc2-7b408c211883",
+      "sequence": 12,
+      "lessonId": "07bbcea8-4b41-43a6-bd71-a9adbc483bce",
+      "title": "Complete o pedido de cor",
+      "content": "<p>¿La tienes en otro _____?</p><p>Tradução: Você tem essa peça em outra cor?</p>",
+      "contentPlain": "¿La tienes en otro _____? Tradução: Você tem essa peça em outra cor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Com color, a aula mostra como manter a mesma roupa e pedir só outra versão.",
+      "feedbackError": "Com color, a aula mostra como manter a mesma roupa e pedir só outra versão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "color",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f1d82324-ca4d-4f44-b178-00533f65ab19",
+      "sequence": 13,
+      "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+      "title": "Recupere a pergunta pelo áudio",
+      "content": "<p>Escute a fala da cliente e marque somente as palavras que realmente aparecem quando ela pergunta sobre troca.</p>",
+      "contentPlain": "Escute a fala da cliente e marque somente as palavras que realmente aparecem quando ela pergunta sobre troca.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5e1110be581a45c486f5d85a7e1d785f_l04b04-linea-03.mp3?Expires=1794099654&Signature=GmD3ArNa-Jw-chl~mOvvKGP7otQwhszwQ1w~ecPnPdgYgMQTXWWLYq5A4IkeMQzELE7w1YghxdU7-i9wArsU9sbrK0YnQhyoE-Kn3lKOcUcuUXW8sUC74ev~S7euATMINmq~9kMjVIf8UZ6sjdfLiHPwq7BsiaCGQIUc3rZP65vwPqatZO-a9eR37pap9Gpq-mFdrxTufBYkgJNQ07Wheu4ctdWeIcMf9A2lgFCnHbxRiIIulM-G-emXfhSxnwOMjeYE1WjOVEzZfCHeomb6Ye30-0sCRSsMkqPhrqbsuxdSLiZalkB95aCANUtACL3D31f7pwUWM9s6M5dpu9V1hg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta sobre troca aparece no fim da compra sem abrir uma conversa longa.",
+      "feedbackError": "A pergunta sobre troca aparece no fim da compra sem abrir uma conversa longa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "17e57eaf-0a5b-483b-91cc-cd2694e63392",
+          "text": "Gracias",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3613c9d7-9402-4286-be27-46678b6750c2",
+          "text": "ticket",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "54d0a1f6-6ee4-4575-9ce4-eb2673e8302f",
+          "text": "bien",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5d51a34a-78d7-4198-8448-d1319dc1c780",
+          "text": "regalo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "662e16e1-e439-4c05-992a-f934154428e1",
+          "text": "puede",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8b11550a-a81e-468f-a56e-85b002c25850",
+          "text": "si",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9b71d22c-405d-408d-90ad-b6f9928ae439",
+          "text": "no",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bac0daac-f30e-4e40-a398-aad21405837c",
+          "text": "queda",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ff02905b-2526-4627-aff5-22789951e71f",
+          "text": "cambiar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ffed2622-e4f3-4c70-bd11-f0fd6a49ca03",
+          "text": "tarjeta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "5e56d086-25e8-4e69-8107-ee554fce530d",
+      "sequence": 14,
+      "lessonId": "07bbcea8-4b41-43a6-bd71-a9adbc483bce",
+      "title": "Relacione resposta e efeito",
+      "content": "<p>Ligue cada resposta da aula ao que ela realmente faz dentro da interação de loja.</p>",
+      "contentPlain": "Ligue cada resposta da aula ao que ela realmente faz dentro da interação de loja.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa de respostas da aula separa disponibilidade, limitação de cor e localização do probador.",
+      "feedbackError": "O mapa de respostas da aula separa disponibilidade, limitação de cor e localização do probador.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "10efcea1-6c6f-4250-919b-0432e00f728c",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "841f3850-9314-47df-a5e6-9fdf06e9b5fe",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "05d929f6-0a87-4781-90fe-e8b0cf71c4e3",
+          "leftContent": "Sí, te la traigo.",
+          "rightContent": "a opção existe e a peça vai ser buscada",
+          "sequenceItem": 1
+        },
+        {
+          "id": "36341391-5999-4300-a92b-46568482ccad",
+          "leftContent": "Solo queda en negro.",
+          "rightContent": "só resta uma cor disponível",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a76cc5a2-414f-4b3f-bfc0-148c86714c9d",
+          "leftContent": "Los probadores están al fondo.",
+          "rightContent": "já é hora de seguir para o lugar da prova",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "5a9714a2-aeb3-4906-81e8-ec983fbf859e",
+      "sequence": 15,
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "title": "Escolha a sequência mais natural",
+      "content": "<p>Agora o apoio é menor: selecione a ordem que melhor recupera a interação da aula do início ao encaminhamento dentro da loja.</p>",
+      "contentPlain": "Agora o apoio é menor: selecione a ordem que melhor recupera a interação da aula do início ao encaminhamento dentro da loja.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula organiza a interação em três passos: pedir ajuda, dizer o produto e entender para onde ir.",
+      "feedbackError": "A aula organiza a interação em três passos: pedir ajuda, dizer o produto e entender para onde ir.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "34437691-0dbc-4858-92d4-9058fb9be71d",
+          "text": "Busco una camisa blanca. La sección de camisas está al fondo. ¿Me puede ayudar?",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6c16bfb4-6602-4909-92d0-5a5a1a73ea29",
+          "text": "Busco una camisa blanca. ¿Me puede ayudar? La sección de camisas está al fondo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ce1e7e62-21a8-40e3-b0b6-381ab0b888ea",
+          "text": "¿Me puede ayudar? Busco una camisa blanca. La sección de camisas está al fondo.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "da2825c3-68ab-410e-aa75-7de975eb332a",
+          "text": "La sección de camisas está al fondo. ¿Me puede ayudar? Busco una camisa blanca.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

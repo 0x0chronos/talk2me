@@ -1,0 +1,511 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+    "attemptId": "b8578fcd-7288-4802-b78e-72d5be8cf4f3",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "0d0e59dc-d851-4fc1-9ec3-45b96efbffdd",
+      "1b04bc4d-6cd5-4875-b0e1-2b0fddd249f0",
+      "845110a0-be47-4594-a7c3-2838db3afb4f",
+      "f184c20c-37f1-46c2-bd4e-0cd8d7d6f221",
+      "296d4511-36df-45cf-b4b6-eaa611413514"
+    ],
+    "evaluationExerciseIds": [
+      "8b674d7f-b639-4dea-8991-d2947c224795",
+      "08c2a149-eeb3-46ed-be3e-245de6c97d3a",
+      "cb3e4dc2-76d8-4b3d-a21d-7a7617225fc1",
+      "7cbd8ee8-44ec-4110-aaa4-89acae0f02e1",
+      "9861a8cc-bd2b-4792-b77b-7e7bbd602448"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:20.4575989Z"
+  },
+  "contents": [
+    {
+      "id": "99038e05-ab9b-4243-bbef-f1cf92577cd5",
+      "title": "Leia a frase e observe como a pessoa fala de si mesma.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "a1965454-4186-489d-9a4c-305521d44ab5",
+          "textContent": "<p>Observe a frase.</p><p><strong>Estoy triste.</strong></p><p>Eu estou triste.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "72bc99d3-2ecf-47bc-b3e3-4275c9a5fa2c",
+      "title": "Leia a explicação curta e conecte a forma verbal ao sentido da frase.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "22b226e2-7453-4a5b-9084-5b947161672f",
+          "textContent": "<p>Use <strong>estoy</strong> quando você fala de como <strong>você</strong> está.</p><p><strong>Estoy triste.</strong> fala do estado da própria pessoa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "315b7397-a64a-46e4-bc2f-361bd30d66cd",
+      "title": "Leia a frase e observe como o espanhol fala do estado de outra pessoa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "4a3b2823-8d64-45b1-be9c-abfd43ed14bf",
+          "textContent": "<p>Agora observe outra pessoa.</p><p><strong>Ana está triste.</strong></p><p>A Ana está triste.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "21bab34c-2ee1-4925-87d3-c52daaa7a151",
+      "title": "Leia a explicação curta e observe a diferença entre falar de si e falar de outra pessoa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "2eb2d8f6-264f-4b18-9729-ab81e84c2644",
+          "textContent": "<p>Use <strong>está</strong> quando você fala de <strong>uma outra pessoa</strong>.</p><p><strong>Ana está triste.</strong> fala do estado da Ana.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "25315224-3906-49e1-998f-d48159169b57",
+      "title": "Compare as duas frases e observe o que muda quando muda a pessoa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "22f0d19e-515b-4bfb-b929-00f693a3a5f3",
+          "textContent": "<p><strong>Estoy triste.</strong></p><p><strong>Ana está triste.</strong></p><p>O estado continua igual. O verbo muda quando muda a pessoa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "896a0431-f08d-4513-b39a-b9ef193e3cb9",
+      "title": "Leia o resumo final e observe como o mesmo padrão funciona no dia a dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "b2ff02fe-44cb-4b86-9d1f-f36dd845b0f9",
+          "textContent": "<p>No dia a dia, você troca só a pessoa.</p><p><strong>Estoy triste.</strong> Falo de mim.</p><p><strong>Ana está triste.</strong> Falo de outra pessoa.</p><p>Esse contraste já ajuda em mensagens e conversas curtas sobre como alguém está.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "df78ec2e-7bfc-4b4b-9fc7-f97cbae15579",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "f3f1e7ac-56fe-4f21-b7bf-1d8e687f9eb8",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8074f85940d7442696687d8987fe42be_MEC-IDIOMAS_CAP_08_-_AULA_06-ESP.mp4?Expires=1794099440&Signature=TbNDEOyNNjCdkuYxTAg7rT3kI6-KmwI0pB18QYMOPvlOkcSAsGC5qDGBrMmoa2jv32HUnvl9sKru7BWJRniUK5eVg~lvyB4rpNDzicBeW8Z2yxIerto2LrJGay4OAc15i15xjEkIMPc879pH9kOzHMaCNNsi0g~cYsaaVhCChfOeAFX2d7Huo~4PtfrM4q7rYiFg7eMwj8~uu38ClDNP1bm5hOhNxUAyfIytcTwUOhUQM4859SZQita800itXZpqnbiFhFKgth7iwr3wFLNJpWvNzgtLAYW1-ZeZk5nn5fTgYzeS9vkez3~NXsk3t8zNKXmpGHcAI3GK1iF~iKcppg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8074f85940d7442696687d8987fe42be_MEC-IDIOMAS_CAP_08_-_AULA_06-ESP.mp4?Expires=1794099440&Signature=TbNDEOyNNjCdkuYxTAg7rT3kI6-KmwI0pB18QYMOPvlOkcSAsGC5qDGBrMmoa2jv32HUnvl9sKru7BWJRniUK5eVg~lvyB4rpNDzicBeW8Z2yxIerto2LrJGay4OAc15i15xjEkIMPc879pH9kOzHMaCNNsi0g~cYsaaVhCChfOeAFX2d7Huo~4PtfrM4q7rYiFg7eMwj8~uu38ClDNP1bm5hOhNxUAyfIytcTwUOhUQM4859SZQita800itXZpqnbiFhFKgth7iwr3wFLNJpWvNzgtLAYW1-ZeZk5nn5fTgYzeS9vkez3~NXsk3t8zNKXmpGHcAI3GK1iF~iKcppg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "0d0e59dc-d851-4fc1-9ec3-45b96efbffdd",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase que fala do estado da Ana.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase que fala do estado da Ana.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8ae80d90dda44ec0971f486839611965_ana-esta-triste.mp3?Expires=1794099440&Signature=XnDL7hvqIa9yS0i10HG1MIcdSQkOlVL0sCC0O0W9fSz3Q3AuY3cXLx1lfrjxS2V6-UxPTCruI7gMJfFAoUOkfapNhogRAObmlQaYwYt8PBqQ4VDGDOhHfqK-Ak5I33COYxxnrhx6b9YZ4jcaRKns6nYGtdpcQeOkJtGQ0nnaQWJ5CexWXGkcJT-s1CU7XT97MFQr45d3CU3~VNZxaMNtTYFW9lTFN~WuHhhZvIUhDRT6gy9KtHgNtZp3hfySMKdRSHSXtCpOjwSde9rTjU8ndaHyS-TjbH2ZxoifqNjpR~JeHZrwdRLV6TquWMomXUnGM-41KML4922PuF-Msn5nbQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A prática oral desta aula ativa está para falar do estado de outra pessoa no singular.",
+      "feedbackError": "A prática oral desta aula ativa está para falar do estado de outra pessoa no singular.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Ana está triste.",
+      "typeSpecificData": "{\"expectedText\":\"Ana est\\u00E1 triste.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/8ae80d90dda44ec0971f486839611965_ana-esta-triste.mp3?Expires=1794099440\\u0026Signature=XnDL7hvqIa9yS0i10HG1MIcdSQkOlVL0sCC0O0W9fSz3Q3AuY3cXLx1lfrjxS2V6-UxPTCruI7gMJfFAoUOkfapNhogRAObmlQaYwYt8PBqQ4VDGDOhHfqK-Ak5I33COYxxnrhx6b9YZ4jcaRKns6nYGtdpcQeOkJtGQ0nnaQWJ5CexWXGkcJT-s1CU7XT97MFQr45d3CU3~VNZxaMNtTYFW9lTFN~WuHhhZvIUhDRT6gy9KtHgNtZp3hfySMKdRSHSXtCpOjwSde9rTjU8ndaHyS-TjbH2ZxoifqNjpR~JeHZrwdRLV6TquWMomXUnGM-41KML4922PuF-Msn5nbQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1b04bc4d-6cd5-4875-b0e1-2b0fddd249f0",
+      "title": "Escolha a frase para falar da Ana",
+      "content": "<p>Agora a tristeza é da Ana. Qual frase curta funciona melhor em espanhol?</p>",
+      "contentPlain": "Agora a tristeza é da Ana. Qual frase curta funciona melhor em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, Ana está triste. retoma a forma usada para falar de outra pessoa no singular.",
+      "feedbackError": "Nesta aula, Ana está triste. retoma a forma usada para falar de outra pessoa no singular.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "a593d147-6c96-43db-9dfe-64a13eaf49bb",
+          "textContent": "Ana está triste.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1b04bc4d-6cd5-4875-b0e1-2b0fddd249f0"
+        },
+        {
+          "id": "cd1165e7-473e-461d-835c-27b426237e04",
+          "textContent": "Ana estoy triste.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1b04bc4d-6cd5-4875-b0e1-2b0fddd249f0"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "845110a0-be47-4594-a7c3-2838db3afb4f",
+      "title": "Ligue a frase à pessoa certa",
+      "content": "<p>Relacione cada frase ao ponto de vista que ela mostra.</p>",
+      "contentPlain": "Relacione cada frase ao ponto de vista que ela mostra.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste central desta aula é trocar de estoy para está quando muda a pessoa.",
+      "feedbackError": "O contraste central desta aula é trocar de estoy para está quando muda a pessoa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "326445c7-007a-41d7-b276-30a68051617a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "845110a0-be47-4594-a7c3-2838db3afb4f"
+        },
+        {
+          "id": "7de818ef-6a9e-4fdc-948b-8d6d613785c7",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "845110a0-be47-4594-a7c3-2838db3afb4f"
+        }
+      ],
+      "associations": [
+        {
+          "id": "f4369603-e153-4fcb-ba90-952a451ef8cb",
+          "exerciseId": "845110a0-be47-4594-a7c3-2838db3afb4f",
+          "leftContent": "Estoy triste.",
+          "rightContent": "falo de mim",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c08d5458-ab7f-4982-9bf1-b47f6743400a",
+          "exerciseId": "845110a0-be47-4594-a7c3-2838db3afb4f",
+          "leftContent": "Ana está triste.",
+          "rightContent": "falo de outra pessoa",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "f184c20c-37f1-46c2-bd4e-0cd8d7d6f221",
+      "title": "Identifique as palavras da fala sobre você",
+      "content": "<p>Escute o áudio e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute o áudio e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f0b6c45ff6064ff88bf52c63353a2cb8_estoy-triste.mp3?Expires=1794099441&Signature=Dt3jQ--9oMiFiPUKgZ9YyqRyRsgrkygc5B96yhZUFK0ed~UVjwPBrf8Mc6MbPX6~jOy1WkrJb7LNtfZyxCR6yOrFS3SQAOPIjNgJbQXpmqSGbw7c~qSCkpH5t6W9y~~YKkNcrFTqe1ZZMuzYXWuQ00Qrupem83kQJa~ehEIXi6afhPW9ZddOLdqM2sH8JOKcZdDzJ50WagxzZKxq0loDig2O2jb8WryZhBmFke1gitM0FH-IBROysMr9iS6p6hYeRO0Ue2RkzY8J4-WbijsD0KYm3R0i29hjwpKPSf9MF6bky2NmnhEO8hKxWSFztX-eZ4W9rt4U15493fYzJhHYaQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Ouvir estoy triste ajuda a ligar a forma de primeira pessoa ao estado da própria pessoa.",
+      "feedbackError": "Ouvir estoy triste ajuda a ligar a forma de primeira pessoa ao estado da própria pessoa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5a4b16cf-84e4-4645-b3f6-f2baad4a0235",
+          "textContent": "estoy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f184c20c-37f1-46c2-bd4e-0cd8d7d6f221"
+        },
+        {
+          "id": "9439af73-d1d2-4daf-8b73-c1123702f22d",
+          "textContent": "está",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f184c20c-37f1-46c2-bd4e-0cd8d7d6f221"
+        },
+        {
+          "id": "b07dd5ae-d8f8-4978-8993-c888447da28f",
+          "textContent": "Ana",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f184c20c-37f1-46c2-bd4e-0cd8d7d6f221"
+        },
+        {
+          "id": "e506ef25-1435-409f-bed1-b29afdfe8101",
+          "textContent": "triste",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f184c20c-37f1-46c2-bd4e-0cd8d7d6f221"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "296d4511-36df-45cf-b4b6-eaa611413514",
+      "title": "Escolha a frase para falar de você",
+      "content": "<p>Você quer dizer que a tristeza é sua, não de outra pessoa. Qual frase curta funciona melhor em espanhol?</p>",
+      "contentPlain": "Você quer dizer que a tristeza é sua, não de outra pessoa. Qual frase curta funciona melhor em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, estoy marca o estado da própria pessoa e está marca o estado de outra pessoa no singular.",
+      "feedbackError": "Nesta aula, estoy marca o estado da própria pessoa e está marca o estado de outra pessoa no singular.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "32d28e6e-8cd6-4e68-ab5a-003cb34e2184",
+          "textContent": "Estoy triste.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "296d4511-36df-45cf-b4b6-eaa611413514"
+        },
+        {
+          "id": "91d80c10-251d-4147-897a-5bf43c4a14e7",
+          "textContent": "Está triste.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "296d4511-36df-45cf-b4b6-eaa611413514"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "8b674d7f-b639-4dea-8991-d2947c224795",
+      "title": "Complete o estado repetido nas duas frases",
+      "content": "<p>Estoy ______.</p><p>Tradução: Estou triste.</p>",
+      "contentPlain": "Estoy ______. Tradução: Estou triste.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste desta aula muda a pessoa, mas mantém triste como o mesmo estado.",
+      "feedbackError": "O contraste desta aula muda a pessoa, mas mantém triste como o mesmo estado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "triste",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "08c2a149-eeb3-46ed-be3e-245de6c97d3a",
+      "title": "Recupere as duas frases pelo áudio",
+      "content": "<p>Agora o apoio é menor: ligue cada gravação à frase certa e recupere o contraste entre falar de você e falar da Ana.</p>",
+      "contentPlain": "Agora o apoio é menor: ligue cada gravação à frase certa e recupere o contraste entre falar de você e falar da Ana.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final da aula troca apenas a pessoa para contrastar estoy e está com o mesmo estado.",
+      "feedbackError": "O resumo final da aula troca apenas a pessoa para contrastar estoy e está com o mesmo estado.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "aede1788-8add-4900-b6cd-a98ef03a04e2",
+          "exerciseId": "08c2a149-eeb3-46ed-be3e-245de6c97d3a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f0b6c45ff6064ff88bf52c63353a2cb8_estoy-triste.mp3?Expires=1794099441&Signature=Dt3jQ--9oMiFiPUKgZ9YyqRyRsgrkygc5B96yhZUFK0ed~UVjwPBrf8Mc6MbPX6~jOy1WkrJb7LNtfZyxCR6yOrFS3SQAOPIjNgJbQXpmqSGbw7c~qSCkpH5t6W9y~~YKkNcrFTqe1ZZMuzYXWuQ00Qrupem83kQJa~ehEIXi6afhPW9ZddOLdqM2sH8JOKcZdDzJ50WagxzZKxq0loDig2O2jb8WryZhBmFke1gitM0FH-IBROysMr9iS6p6hYeRO0Ue2RkzY8J4-WbijsD0KYm3R0i29hjwpKPSf9MF6bky2NmnhEO8hKxWSFztX-eZ4W9rt4U15493fYzJhHYaQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estoy triste.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7c61df46-753e-4552-8d00-dd0f8544b39a",
+          "exerciseId": "08c2a149-eeb3-46ed-be3e-245de6c97d3a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8ae80d90dda44ec0971f486839611965_ana-esta-triste.mp3?Expires=1794099441&Signature=kteIbue65V1OgLhcLY2H3L4g3kctLBIY9~xiivxxLAECaPulQ90rXg1HvG4z6iI6dsadUGErfEy5fWAOc37wZLO3yV2UDvguWi4aWlJRQshkwVChDDjmkdzpjcWGSGQpz567cEM24kvFHX2q3qhScmonRGVyDGIsUrj3HXuhlEsWjiExezW0pyo46ycX129GUgF80mJMRMpVWGrGLKv0og-MLoWKATlCdsaMx-XwGwezOCuHoqm~5Nulike4yfM73F7ofI1ZWX6dYFUNOgEhR9RmHcUymWZRBBjRKi5XV31X-JpQeYNT-PEspo5i2hDAPoXTWyQYcYfkJ95PbvP1gg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ana está triste.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "cb3e4dc2-76d8-4b3d-a21d-7a7617225fc1",
+      "title": "Complete a frase sobre a Ana",
+      "content": "<p>Ana ____ triste.</p><p>Tradução: A Ana está triste.</p>",
+      "contentPlain": "Ana ____ triste. Tradução: A Ana está triste.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, está é a forma usada para falar do estado de outra pessoa no singular.",
+      "feedbackError": "Nesta aula, está é a forma usada para falar do estado de outra pessoa no singular.",
+      "answerType": "buildWord",
+      "expectedAnswer": "está",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "7cbd8ee8-44ec-4110-aaa4-89acae0f02e1",
+      "title": "Complete a frase sobre você",
+      "content": "<p>_____ triste.</p><p>Tradução: Estou triste.</p>",
+      "contentPlain": "_____ triste. Tradução: Estou triste.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, estoy é a forma usada quando a própria pessoa fala de como está.",
+      "feedbackError": "Nesta aula, estoy é a forma usada quando a própria pessoa fala de como está.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estoy",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "9861a8cc-bd2b-4792-b77b-7e7bbd602448",
+      "title": "Ligue cada palavra ao papel dela",
+      "content": "<p>Reconstrua a lógica da aula relacionando cada palavra ao que ela faz nas frases.</p>",
+      "contentPlain": "Reconstrua a lógica da aula relacionando cada palavra ao que ela faz nas frases.",
+      "fileUrl": null,
+      "feedbackSuccess": "No resumo final, a aula mostra que só a pessoa muda entre estoy triste e Ana está triste.",
+      "feedbackError": "No resumo final, a aula mostra que só a pessoa muda entre estoy triste e Ana está triste.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0256e305-bd18-46d1-af4d-6889b7457ec9",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "95000d5a-7543-44b0-9a6d-583c5bbada45",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9861a8cc-bd2b-4792-b77b-7e7bbd602448"
+        },
+        {
+          "id": "cf23b32d-08b5-4702-846a-21f595f2d13e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9861a8cc-bd2b-4792-b77b-7e7bbd602448"
+        }
+      ],
+      "associations": [
+        {
+          "id": "3ebbf571-2152-40a8-a3b5-ebcc10ef5da2",
+          "exerciseId": "9861a8cc-bd2b-4792-b77b-7e7bbd602448",
+          "leftContent": "estoy",
+          "rightContent": "quando falo de mim",
+          "sequenceItem": 1
+        },
+        {
+          "id": "605e602b-edc2-4b01-904e-3684c8b4babd",
+          "exerciseId": "9861a8cc-bd2b-4792-b77b-7e7bbd602448",
+          "leftContent": "está",
+          "rightContent": "quando falo de outra pessoa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0668e8ec-3cd5-4ffc-a523-2369780a462d",
+          "exerciseId": "9861a8cc-bd2b-4792-b77b-7e7bbd602448",
+          "leftContent": "triste",
+          "rightContent": "estado mostrado na frase",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "title": "O verbo `estar` no singular"
+}

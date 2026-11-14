@@ -1,0 +1,591 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+    "attemptId": "259092be-4df0-476b-b5b7-6afe95a6495b",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "6da3204d-e244-4fe2-8286-339eec64a2df",
+      "cd753cc9-546c-42d2-9df4-7957509e7327",
+      "6e8b2909-91fd-4348-a9f5-9f85fa2ec92e",
+      "7782a97c-b67d-4632-84c0-cdb35e27c47b",
+      "b1d12351-2b98-4cbc-9f33-0a31bc07aa0e"
+    ],
+    "evaluationExerciseIds": [
+      "c3ebf0d9-b738-4b1c-9523-89b5f261ac06",
+      "0d5ad588-777f-4aa7-b0b8-34db90298828",
+      "f4f7ca9e-69dc-430f-b8ff-a82ac4acda67",
+      "407aabd4-9f47-4ffb-bcc7-430d4ecf6118",
+      "514cbe7f-9f92-44f6-b9b0-840f05073e3c"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:45.1856296Z"
+  },
+  "contents": [
+    {
+      "id": "2a85ff4d-7bbe-4d48-9cb8-d49cd132f40a",
+      "title": "Leia o contexto curto e note a diferença de foco.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "627928ea-2488-4205-be01-5dcab72c7dfc",
+          "textContent": "<p>Até aqui, o capítulo mostrou como perguntar a hora do momento.</p><p>Agora o foco muda: você vai perguntar <strong>em que horário uma atividade acontece</strong>.</p><p>Isso aparece ao falar de aula, treino, reunião ou filme.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e0417bef-1e99-4a30-add9-c5e6624e0fef",
+      "title": "Escute e leia a pergunta.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "37184236-10fa-46d2-bd35-a16c383a06d6",
+          "textContent": "<p>Escute e leia a pergunta.</p><p><strong>¿A qué hora es la clase?</strong></p><p>Tradução: A que horas é a aula?</p><p>Use <strong>¿A qué hora...?</strong> para perguntar o horário de uma atividade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/10bb778d704e4bcaa96e5abf44002b58_b02-a-que-hora-es-la-clase.mp3?Expires=1794099465&Signature=rmef4rDWKkt72i1XlLDuZTwljmBBfJlQcKF5p~guMtHE9LSRyniwkhMj4GgHfjj5id4rqPbIB~kYncj6Gho2xjB03MgvMvYUa~UTg62KNTeh3SC~ysZvARwhLu-AIAD90MQa6Zqv0DmYdjOIgd-XCpPlrYV3FRUCN7ZtzCgvpWBw5BowDBfDcOcIjyhs3FRs~XulLZaN1GCuWUGe8tf2npGL-q2kjuo2zROwKiZsmtRS81Vhrnqxu20OtUTLvr72TEEtvh0VFerI3MEoJ5POK-pq0x4rm5~vtn-djv8vg~GYv69fdQdyaDKEgjB-J8r950ke6AdTPQS5zgjelK6Q0Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a55f5567-7eb1-4b10-9d02-cc9f7b2f208d",
+      "title": "Compare as duas perguntas e note o que cada uma procura.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "c4861c8e-70f5-4712-bb85-55aa547eb611",
+          "textContent": "<p>Compare as duas perguntas.</p><ul><li><strong>¿Qué hora es?</strong> = pergunta a hora agora.</li><li><strong>¿A qué hora es la clase?</strong> = pergunta quando a aula acontece.</li></ul><p>Uma olha para o relógio do momento. A outra olha para o horário de um evento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "931c1511-ca3b-4dfd-bdb3-e1c4a6bcc512",
+      "title": "Escute e leia a resposta.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "7902f048-0074-4b4f-a93c-29bad13d1c9a",
+          "textContent": "<p>Escute e leia a resposta.</p><p><strong>La clase es a las ocho.</strong></p><p>Tradução: A aula é às oito.</p><p>Na resposta, <strong>a las ocho</strong> marca o horário da atividade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/58cbae223b8a4d2b8adddcd20b4d5999_b04-la-clase-es-a-las-ocho.mp3?Expires=1794099465&Signature=gjEKRVdHoBmH2h2ciQgV3-Gmku2q6qgQ-e2b3R3EnKaIGmLgYHY-4R2C2h3zV2UxZG80IisNYoN0yYdN~2MZ4CX-zn~USe6SWOs8AqBBBc7OBaURRa-o8YRUcRhwpEn24-bZz~P8jQh5d6N5PSgtgQj5PeWFVIMNXUrtPpwoXBa6pp16yNrr8aiiyNAd4lVnUYH~ws89djsL6e1cg5f2-NC3T51mHaaDCsHxdaktwTs6dXHR-BpA6fVoFN337ZvtC0k~BoSW6PiNz~72Wobg4jaSApJv2HPySLRO5YmNAICSOEqWkdbiErnTHJlO5HTlnhetvTutqyyEonfQi1pDkw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b230d41c-b1e7-4cfe-862f-a65497ab1cbb",
+      "title": "Compare as duas formas e observe qual delas fala do horário de uma atividade.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "93931066-dfe8-4f60-b387-84400bd0f5a5",
+          "textContent": "<p>Agora compare duas formas parecidas.</p><ul><li><strong>Son las ocho.</strong> = são oito horas agora.</li><li><strong>La clase es a las ocho.</strong> = a aula acontece às oito.</li></ul><p>Para falar do horário de um evento, repare no grupo <strong>a las</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "78838db6-cf28-4ebd-8240-42c47235fc64",
+      "title": "Leia a síntese final e conecte as duas frases a uma confirmação de horário.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "dc18e35e-ec2e-43e0-acab-c6816e21860a",
+          "textContent": "<p>Na vida real, isso aparece quando você confirma um compromisso.</p><p><strong>¿A qué hora es la clase?</strong></p><p><strong>La clase es a las ocho.</strong></p><p>Com essas duas frases, você já entende e monta uma troca curta sobre horário de atividade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "6da3204d-e244-4fe2-8286-339eec64a2df",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a resposta em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a resposta em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/58cbae223b8a4d2b8adddcd20b4d5999_b04-la-clase-es-a-las-ocho.mp3?Expires=1794099465&Signature=gjEKRVdHoBmH2h2ciQgV3-Gmku2q6qgQ-e2b3R3EnKaIGmLgYHY-4R2C2h3zV2UxZG80IisNYoN0yYdN~2MZ4CX-zn~USe6SWOs8AqBBBc7OBaURRa-o8YRUcRhwpEn24-bZz~P8jQh5d6N5PSgtgQj5PeWFVIMNXUrtPpwoXBa6pp16yNrr8aiiyNAd4lVnUYH~ws89djsL6e1cg5f2-NC3T51mHaaDCsHxdaktwTs6dXHR-BpA6fVoFN337ZvtC0k~BoSW6PiNz~72Wobg4jaSApJv2HPySLRO5YmNAICSOEqWkdbiErnTHJlO5HTlnhetvTutqyyEonfQi1pDkw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa ativa em voz alta a resposta com a las para dizer o horário da atividade.",
+      "feedbackError": "Esta tarefa ativa em voz alta a resposta com a las para dizer o horário da atividade.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "La clase es a las ocho.",
+      "typeSpecificData": "{\"expectedText\":\"La clase es a las ocho.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/58cbae223b8a4d2b8adddcd20b4d5999_b04-la-clase-es-a-las-ocho.mp3?Expires=1794099465\\u0026Signature=gjEKRVdHoBmH2h2ciQgV3-Gmku2q6qgQ-e2b3R3EnKaIGmLgYHY-4R2C2h3zV2UxZG80IisNYoN0yYdN~2MZ4CX-zn~USe6SWOs8AqBBBc7OBaURRa-o8YRUcRhwpEn24-bZz~P8jQh5d6N5PSgtgQj5PeWFVIMNXUrtPpwoXBa6pp16yNrr8aiiyNAd4lVnUYH~ws89djsL6e1cg5f2-NC3T51mHaaDCsHxdaktwTs6dXHR-BpA6fVoFN337ZvtC0k~BoSW6PiNz~72Wobg4jaSApJv2HPySLRO5YmNAICSOEqWkdbiErnTHJlO5HTlnhetvTutqyyEonfQi1pDkw__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "cd753cc9-546c-42d2-9df4-7957509e7327",
+      "title": "Escolha a pergunta certa",
+      "content": "<p>Você quer saber quando a aula acontece, não a hora do momento. Qual frase da lição funciona em espanhol?</p>",
+      "contentPlain": "Você quer saber quando a aula acontece, não a hora do momento. Qual frase da lição funciona em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a pergunta usada para pedir o horário de uma atividade.",
+      "feedbackError": "Esta tarefa retoma a pergunta usada para pedir o horário de uma atividade.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "03208a93-43b8-4b51-9248-5c29ee29b1af",
+          "textContent": "¿A qué hora es la clase?",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "cd753cc9-546c-42d2-9df4-7957509e7327"
+        },
+        {
+          "id": "d59d397b-ab5e-4c50-9ed5-737d7d0f69ee",
+          "textContent": "¿Qué hora es?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cd753cc9-546c-42d2-9df4-7957509e7327"
+        },
+        {
+          "id": "d805ef35-b86a-4c92-a438-8aec1a2dde05",
+          "textContent": "¿La clase es a las ocho?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cd753cc9-546c-42d2-9df4-7957509e7327"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6e8b2909-91fd-4348-a9f5-9f85fa2ec92e",
+      "title": "Ouça a pergunta e a resposta",
+      "content": "<p>Associe cada áudio ao texto correto para revisar a pergunta e a resposta sobre o horário da aula.</p>",
+      "contentPlain": "Associe cada áudio ao texto correto para revisar a pergunta e a resposta sobre o horário da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma a troca curta sobre o horário da aula.",
+      "feedbackError": "Esta tarefa retoma a troca curta sobre o horário da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "ab96823f-b0f8-472f-a3b4-5a94418c3f01",
+          "exerciseId": "6e8b2909-91fd-4348-a9f5-9f85fa2ec92e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/10bb778d704e4bcaa96e5abf44002b58_b02-a-que-hora-es-la-clase.mp3?Expires=1794099465&Signature=rmef4rDWKkt72i1XlLDuZTwljmBBfJlQcKF5p~guMtHE9LSRyniwkhMj4GgHfjj5id4rqPbIB~kYncj6Gho2xjB03MgvMvYUa~UTg62KNTeh3SC~ysZvARwhLu-AIAD90MQa6Zqv0DmYdjOIgd-XCpPlrYV3FRUCN7ZtzCgvpWBw5BowDBfDcOcIjyhs3FRs~XulLZaN1GCuWUGe8tf2npGL-q2kjuo2zROwKiZsmtRS81Vhrnqxu20OtUTLvr72TEEtvh0VFerI3MEoJ5POK-pq0x4rm5~vtn-djv8vg~GYv69fdQdyaDKEgjB-J8r950ke6AdTPQS5zgjelK6Q0Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿A qué hora es la clase?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4e5f6372-8614-4ab9-b216-7e76c047602f",
+          "exerciseId": "6e8b2909-91fd-4348-a9f5-9f85fa2ec92e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/58cbae223b8a4d2b8adddcd20b4d5999_b04-la-clase-es-a-las-ocho.mp3?Expires=1794099465&Signature=gjEKRVdHoBmH2h2ciQgV3-Gmku2q6qgQ-e2b3R3EnKaIGmLgYHY-4R2C2h3zV2UxZG80IisNYoN0yYdN~2MZ4CX-zn~USe6SWOs8AqBBBc7OBaURRa-o8YRUcRhwpEn24-bZz~P8jQh5d6N5PSgtgQj5PeWFVIMNXUrtPpwoXBa6pp16yNrr8aiiyNAd4lVnUYH~ws89djsL6e1cg5f2-NC3T51mHaaDCsHxdaktwTs6dXHR-BpA6fVoFN337ZvtC0k~BoSW6PiNz~72Wobg4jaSApJv2HPySLRO5YmNAICSOEqWkdbiErnTHJlO5HTlnhetvTutqyyEonfQi1pDkw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La clase es a las ocho.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "7782a97c-b67d-4632-84c0-cdb35e27c47b",
+      "title": "Ouça a pergunta completa",
+      "content": "<p>Ouça a pergunta e marque somente as palavras em espanhol que você ouve.</p>",
+      "contentPlain": "Ouça a pergunta e marque somente as palavras em espanhol que você ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/10bb778d704e4bcaa96e5abf44002b58_b02-a-que-hora-es-la-clase.mp3?Expires=1794099465&Signature=rmef4rDWKkt72i1XlLDuZTwljmBBfJlQcKF5p~guMtHE9LSRyniwkhMj4GgHfjj5id4rqPbIB~kYncj6Gho2xjB03MgvMvYUa~UTg62KNTeh3SC~ysZvARwhLu-AIAD90MQa6Zqv0DmYdjOIgd-XCpPlrYV3FRUCN7ZtzCgvpWBw5BowDBfDcOcIjyhs3FRs~XulLZaN1GCuWUGe8tf2npGL-q2kjuo2zROwKiZsmtRS81Vhrnqxu20OtUTLvr72TEEtvh0VFerI3MEoJ5POK-pq0x4rm5~vtn-djv8vg~GYv69fdQdyaDKEgjB-J8r950ke6AdTPQS5zgjelK6Q0Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa reforça a escuta da pergunta com ¿A qué hora...?",
+      "feedbackError": "Esta tarefa reforça a escuta da pergunta com ¿A qué hora...?",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "12652a9f-eb67-4cc6-95bf-3019846d3557",
+          "textContent": "ocho",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7782a97c-b67d-4632-84c0-cdb35e27c47b"
+        },
+        {
+          "id": "24615b46-894a-4cae-adca-b9494c8d62c1",
+          "textContent": "hora",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7782a97c-b67d-4632-84c0-cdb35e27c47b"
+        },
+        {
+          "id": "34c8e17b-46a3-40ec-b2b9-9a229f73bfc5",
+          "textContent": "es",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7782a97c-b67d-4632-84c0-cdb35e27c47b"
+        },
+        {
+          "id": "67bb0d2d-a417-47c4-a813-60a7d254ff3a",
+          "textContent": "a",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7782a97c-b67d-4632-84c0-cdb35e27c47b"
+        },
+        {
+          "id": "69dc98fa-1f5d-40a0-873d-fbefe5f3c219",
+          "textContent": "clase",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7782a97c-b67d-4632-84c0-cdb35e27c47b"
+        },
+        {
+          "id": "aed1ddf4-2406-48d1-9498-0486811efe2f",
+          "textContent": "son",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7782a97c-b67d-4632-84c0-cdb35e27c47b"
+        },
+        {
+          "id": "e137dc55-3103-4d04-8545-461fb8d4ed42",
+          "textContent": "qué",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7782a97c-b67d-4632-84c0-cdb35e27c47b"
+        },
+        {
+          "id": "e70f1bb4-d221-4aa8-bce9-7913cbdc9985",
+          "textContent": "la",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7782a97c-b67d-4632-84c0-cdb35e27c47b"
+        },
+        {
+          "id": "ee79974e-dd37-447a-9514-77c3937ffb66",
+          "textContent": "las",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7782a97c-b67d-4632-84c0-cdb35e27c47b"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "b1d12351-2b98-4cbc-9f33-0a31bc07aa0e",
+      "title": "Ligue frase e significado",
+      "content": "<p>Relacione a pergunta e a resposta centrais da aula aos sentidos correspondentes em português.</p>",
+      "contentPlain": "Relacione a pergunta e a resposta centrais da aula aos sentidos correspondentes em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa organiza a troca curta usada para confirmar o horário da aula.",
+      "feedbackError": "Esta tarefa organiza a troca curta usada para confirmar o horário da aula.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "895b1f8d-10d3-45f3-8d9e-500ff4e3db36",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b1d12351-2b98-4cbc-9f33-0a31bc07aa0e"
+        },
+        {
+          "id": "949a0e49-7fe8-4925-ad98-cb86c78ecc2d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b1d12351-2b98-4cbc-9f33-0a31bc07aa0e"
+        }
+      ],
+      "associations": [
+        {
+          "id": "d035718f-03ca-4b32-ae89-b2c51768c51e",
+          "exerciseId": "b1d12351-2b98-4cbc-9f33-0a31bc07aa0e",
+          "leftContent": "¿A qué hora es la clase?",
+          "rightContent": "A que horas é a aula?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "99b1a1ab-517c-484e-94a3-cfeaba7a223f",
+          "exerciseId": "b1d12351-2b98-4cbc-9f33-0a31bc07aa0e",
+          "leftContent": "La clase es a las ocho.",
+          "rightContent": "A aula é às oito.",
+          "sequenceItem": 2
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06",
+      "title": "Ouça a resposta com a las",
+      "content": "<p>Ouça a resposta e marque somente as palavras em espanhol que você ouve; ignore as formas da hora do momento.</p>",
+      "contentPlain": "Ouça a resposta e marque somente as palavras em espanhol que você ouve; ignore as formas da hora do momento.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/58cbae223b8a4d2b8adddcd20b4d5999_b04-la-clase-es-a-las-ocho.mp3?Expires=1794099465&Signature=gjEKRVdHoBmH2h2ciQgV3-Gmku2q6qgQ-e2b3R3EnKaIGmLgYHY-4R2C2h3zV2UxZG80IisNYoN0yYdN~2MZ4CX-zn~USe6SWOs8AqBBBc7OBaURRa-o8YRUcRhwpEn24-bZz~P8jQh5d6N5PSgtgQj5PeWFVIMNXUrtPpwoXBa6pp16yNrr8aiiyNAd4lVnUYH~ws89djsL6e1cg5f2-NC3T51mHaaDCsHxdaktwTs6dXHR-BpA6fVoFN337ZvtC0k~BoSW6PiNz~72Wobg4jaSApJv2HPySLRO5YmNAICSOEqWkdbiErnTHJlO5HTlnhetvTutqyyEonfQi1pDkw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta tarefa reforça a escuta da resposta que usa a las para marcar o horário da atividade.",
+      "feedbackError": "Esta tarefa reforça a escuta da resposta que usa a las para marcar o horário da atividade.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "04e39334-80a8-4fff-a0b9-6044e2cac3b8",
+          "textContent": "qué",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06"
+        },
+        {
+          "id": "2252fc1d-440f-4454-851b-365907fbd68c",
+          "textContent": "ocho",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06"
+        },
+        {
+          "id": "7c344610-f933-47fa-b21f-3211f79f482e",
+          "textContent": "a",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06"
+        },
+        {
+          "id": "96b894fe-6c33-41a2-aa7f-4ceace52960e",
+          "textContent": "la",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06"
+        },
+        {
+          "id": "9979924f-13c5-4f29-8a74-403721eba2dc",
+          "textContent": "son",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06"
+        },
+        {
+          "id": "9e1f5c7c-5b75-483a-97fd-c5d67b7e26ef",
+          "textContent": "clase",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06"
+        },
+        {
+          "id": "d0302dd4-3a40-4c7a-abe7-e2c32f5b4549",
+          "textContent": "es",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06"
+        },
+        {
+          "id": "de230e90-b492-48ec-b4d2-c1a384cc3884",
+          "textContent": "las",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06"
+        },
+        {
+          "id": "ed8bbb9d-db7a-4a3c-9500-53b249ae48dd",
+          "textContent": "hora",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c3ebf0d9-b738-4b1c-9523-89b5f261ac06"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "0d5ad588-777f-4aa7-b0b8-34db90298828",
+      "title": "Recupere as duas perguntas",
+      "content": "<p>Associe cada áudio ao texto correto e note qual pergunta fala da hora de agora e qual pergunta fala do horário da aula.</p>",
+      "contentPlain": "Associe cada áudio ao texto correto e note qual pergunta fala da hora de agora e qual pergunta fala do horário da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma o contraste entre perguntar a hora de agora e perguntar o horário de uma atividade.",
+      "feedbackError": "Esta tarefa retoma o contraste entre perguntar a hora de agora e perguntar o horário de uma atividade.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "dc94cfd8-7585-422c-b4f0-bd2f169daa6d",
+          "exerciseId": "0d5ad588-777f-4aa7-b0b8-34db90298828",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3989e65278214e77b475be91067d6429_c05-que-hora-es.mp3?Expires=1794099465&Signature=mf1m0O9Ufxy4uhjavKjb8b6Tzl8dR81qSCXf0FdCEzQFOZXiZjd0w0Bq-~6KUv6zX24o2vKsag8Hwv5gjxiWBHoCGZj3a-N8jcGunWi4YqbKg0X6uUXr4rcp6QZqpZxaPkGbjxG5gfj7p0ZORMEUh7CxSrtCpP~yhNJYTJ2dM3JtiWOl4i9bY8lC3CU~6-YvzaQS9x~tOu~dV-2puM868r0Y-KxepkTT8YxxXP-NG6DK9ZbB4eO-28boX3wLpa~LTDmdD5v7Ci3WbPK5uX~9BB3Gn~25kFpNXSh~PXv9Bjtkbl3xEnqV19yx0ERD6IqNJMivrUSRvIWRtUyAieRXDA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué hora es?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "397d86a1-116d-40e4-a2cb-13c103587e26",
+          "exerciseId": "0d5ad588-777f-4aa7-b0b8-34db90298828",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/10bb778d704e4bcaa96e5abf44002b58_b02-a-que-hora-es-la-clase.mp3?Expires=1794099465&Signature=rmef4rDWKkt72i1XlLDuZTwljmBBfJlQcKF5p~guMtHE9LSRyniwkhMj4GgHfjj5id4rqPbIB~kYncj6Gho2xjB03MgvMvYUa~UTg62KNTeh3SC~ysZvARwhLu-AIAD90MQa6Zqv0DmYdjOIgd-XCpPlrYV3FRUCN7ZtzCgvpWBw5BowDBfDcOcIjyhs3FRs~XulLZaN1GCuWUGe8tf2npGL-q2kjuo2zROwKiZsmtRS81Vhrnqxu20OtUTLvr72TEEtvh0VFerI3MEoJ5POK-pq0x4rm5~vtn-djv8vg~GYv69fdQdyaDKEgjB-J8r950ke6AdTPQS5zgjelK6Q0Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿A qué hora es la clase?",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "f4f7ca9e-69dc-430f-b8ff-a82ac4acda67",
+      "title": "Ligue frase e uso",
+      "content": "<p>Relacione cada frase ao que ela comunica quando você fala de hora ou de horário.</p>",
+      "contentPlain": "Relacione cada frase ao que ela comunica quando você fala de hora ou de horário.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa fixa o contraste entre son las e a las no capítulo.",
+      "feedbackError": "Esta tarefa fixa o contraste entre son las e a las no capítulo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7c234ff2-51e1-4d3d-bc23-8f337ecece82",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f4f7ca9e-69dc-430f-b8ff-a82ac4acda67"
+        },
+        {
+          "id": "af9cd69e-be27-4e61-9877-b894e5729823",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f4f7ca9e-69dc-430f-b8ff-a82ac4acda67"
+        }
+      ],
+      "associations": [
+        {
+          "id": "caea2915-ea5e-486f-a5ab-d55a0bdd646d",
+          "exerciseId": "f4f7ca9e-69dc-430f-b8ff-a82ac4acda67",
+          "leftContent": "Son las ocho.",
+          "rightContent": "diz a hora do momento",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a6eb51dd-75cc-4e39-a0b5-3b00a5280a0b",
+          "exerciseId": "f4f7ca9e-69dc-430f-b8ff-a82ac4acda67",
+          "leftContent": "La clase es a las ocho.",
+          "rightContent": "diz o horário da aula",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "407aabd4-9f47-4ffb-bcc7-430d4ecf6118",
+      "title": "Complete a resposta",
+      "content": "<p><strong>La clase es a ___ ocho.</strong></p><p>Tradução: A aula é às oito.</p>",
+      "contentPlain": "La clase es a ___ ocho. Tradução: A aula é às oito.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa reforça o grupo a las usado para falar do horário de uma atividade.",
+      "feedbackError": "Esta tarefa reforça o grupo a las usado para falar do horário de uma atividade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "las",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "514cbe7f-9f92-44f6-b9b0-840f05073e3c",
+      "title": "Complete a pergunta",
+      "content": "<p><strong>¿A ___ hora es la clase?</strong></p><p>Tradução: A que horas é a aula?</p>",
+      "contentPlain": "¿A ___ hora es la clase? Tradução: A que horas é a aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa recupera a palavra que completa a pergunta sobre o horário da aula.",
+      "feedbackError": "Esta tarefa recupera a palavra que completa a pergunta sobre o horário da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "qué",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ce8d8b5-2602-4c84-a6b4-a894cf2f9a14",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Perguntar a que horas algo acontece"
+}

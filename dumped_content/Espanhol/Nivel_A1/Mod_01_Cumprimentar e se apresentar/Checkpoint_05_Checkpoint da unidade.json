@@ -1,0 +1,458 @@
+{
+  "attemptId": "281d0e89-7e7f-4652-a774-c0ed1416969e",
+  "exercises": [
+    {
+      "exerciseId": "6b67e737-58a6-48fd-83c9-9977d91f9878",
+      "sequence": 1,
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "title": "Escute e identifique as palavras",
+      "content": "<p>Ouça a apresentação comparativa e marque apenas as palavras presentes no áudio.</p>",
+      "contentPlain": "Ouça a apresentação comparativa e marque apenas as palavras presentes no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/28def455d8714e8193ea6c500d8b3e17_l03b05-soy-eva-yo-soy-eva.mp3?Expires=1794099392&Signature=lLOw13NFDVLQtATxM4-8BLiBXn17U7j~OkQG43bbhtnyRplld0aavjTnN~jVN9tkFWlGomgHZs7x5ed79TwR8QHTWwXvUxOjnugZWsgMAVteZ2eyXzd0ty6bw~0qtHQfyPMvBhu0pzb6EkdTka-KvTc-Da5wzG~zylbtM6FzfkFI2j64OE3r7uiiNnrGKs--DuLub85IGWJo95yV5EpTRYs9Y4eUEaX9PSMLdDsJAuK1L4Lrlrcg8oqQ-28ct9GV~DUuKk3G-5tJ4x1kD4wR4jtAsX9haroWow2d4uNAOTd2zHpYVTw3c1h3zt4xdWokjaCONnZHolLgiEREG8SP2Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui você treina ouvir com atenção as palavras das duas apresentações com Eva.",
+      "feedbackError": "Aqui você treina ouvir com atenção as palavras das duas apresentações com Eva.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "146f37d0-8a48-4ffe-ab5b-a058bb28b979",
+          "text": "Eva",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3ed6af48-a53f-44a1-8ef0-8ac94f341acc",
+          "text": "hola",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "46b7591d-6462-411c-8319-b83c77322a3a",
+          "text": "soy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5e5ef5af-3376-4623-815c-837eb39f085e",
+          "text": "yo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bde2a18e-42fc-4ba4-99b6-2e0a9ecec8bd",
+          "text": "Leo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f5021d94-f46c-4949-b430-087d2b09c420",
+      "sequence": 2,
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "title": "Complete a apresentação",
+      "content": "<p>Complete a apresentação em espanhol: __ soy Eva.</p><p>Tradução: Eu sou Eva.</p>",
+      "contentPlain": "Complete a apresentação em espanhol: __ soy Eva. Tradução: Eu sou Eva.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reconstrói a versão com yo explícito para dizer quem você é.",
+      "feedbackError": "Aqui você reconstrói a versão com yo explícito para dizer quem você é.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Yo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5ba8b729-8b24-4b24-b4cc-7483e6e6b9dd",
+      "sequence": 3,
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a resposta em espanhol: Bien, _______.</p><p>Tradução: Bem, obrigado(a).</p>",
+      "contentPlain": "Complete a resposta em espanhol: Bien, _______. Tradução: Bem, obrigado(a).",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula fecha a resposta curta com Bien, gracias.",
+      "feedbackError": "A aula fecha a resposta curta com Bien, gracias.",
+      "answerType": "buildWord",
+      "expectedAnswer": "gracias",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "dd491a63-cc08-41d6-8814-b35e9dcece88",
+      "sequence": 4,
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "title": "Associe cada áudio à frase exata",
+      "content": "<p>Resolva pela escuta e diferencie pergunta, resposta e troca completa.</p>",
+      "contentPlain": "Resolva pela escuta e diferencie pergunta, resposta e troca completa.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula junta pergunta, resposta e troca completa na escuta.",
+      "feedbackError": "A aula junta pergunta, resposta e troca completa na escuta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "cb76b48c-c32b-428a-bab8-cd0946842549",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/83761d18523f418cba6c79268fe31b3a_l01b01-que-tal.mp3?Expires=1794099392&Signature=nsOuwzHZW0nyZCfaZ1G52ewfFORmWXP6LxkLqWre9LwphMr2t-oHAQUEmJtnIDeJmnbB0AlDn~XACROKwDnyHwjAAbQ9Fsn-~H2FRTtZjD9ISUiOmMWbxXIbjRjrMkSkEdmZjKQCTxZGDrEk9WXSfVdPxj3njdS3otgirYrVNL03~WbKAu8Wf0YOm4t8tLIw2m7lRcW1iq1nbOl1q2x7G5bjIyOD4SLVk0MMcvdx3kS-X~QbQ5SbVhzkjMTNPNPJTET8VmMpkzaGX63pwsAid69G7bycU04FEu-iqsKqZVA5vSnsb680mvk5qVZMheGJlwnazWD-xRXnLWtkX9kFuA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué tal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "10aafa37-8f2d-4e2b-bfca-1f7b0e9f4593",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d1a35425ff6c494eb3c1e42b1af33d7d_l01b03-bien-gracias.mp3?Expires=1794099392&Signature=EoKvPZPnpdeyOXWrF5wqJVSmCV1C5G815YZehbA0PeNfTtadUzf0xSBwoAMI1khA2fRr8G-x-DeSEFwKTTvnLP5WknK8FWckUyBqw3PB0PLnQzZQkZVBwuL4omB-BvrNEcIYQ-Y7VcuknoTKhdPkgwuqJy5BheA2z7UkmOE1X8xU557bWbm1AbQfrp56oye44QouUl21MFgTh51~fJ9Dh0z8tWoa9Jrr06lXf~FRaxyKvApxfXML3Sdzv-AX9xAGPuvMMAW-e3yn0Im63N9gge5qm35ob2fd8d~LWXxlvsK7rQhvm~M~Ut2337agEBppcI3t9PNJuSPFbE8QbJhlfg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Bien, gracias.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "82500903-3e8b-44eb-a3ef-d93c8d1a1f8a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5afd516219674e8ebad6b52b7f858001_A1_M1_L1_audio_c63ac3c9_troca-curta.mp3?Expires=1794099392&Signature=RfuRWy6BNrWs2kZEE6oPj0ccOE4DPfAOCiDBBfaVQ9Fhm4lw0RLEeU0X46EH1EB5YiOhGgqCdFRRpKKnutcOagRSAN72YPJhl0atXjKVc1i6H49SkF4MT~YZY9d5bsFk8C9GQ~hoojLl~D4L1a3F9a3PNW3tLVRp~CG9I0jplDnCuMHGF4MnHgT-~uaZ1hOqJcBKiH-H3ysBf6b1NBl7e21gdtTFMF2Ea8szV0p8aLA3XbNfCAxArR2Z33PrQ7m~gfjD5h1ihwOiQYvYbNbnSgWLCOmzcih5fORrmXvdXcWQImyM36mf58YhTlSXWibQ5ZmUl8FoAskzor7vgqrTPg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué tal? Bien, gracias.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "3dee367f-d084-4158-8fda-2835d3d07b22",
+      "sequence": 5,
+      "lessonId": "7b98f963-d347-4f14-a7af-e8a6107206eb",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Tú ____ Julia.</p><p>Tradução: Você é Julia.</p>",
+      "contentPlain": "Complete a frase em espanhol: Tú ____ Julia. Tradução: Você é Julia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com tú, a forma do singular é eres.",
+      "feedbackError": "Com tú, a forma do singular é eres.",
+      "answerType": "buildWord",
+      "expectedAnswer": "eres",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6a8949c9-77f8-4966-a5d2-f39fdde85145",
+      "sequence": 6,
+      "lessonId": "7b98f963-d347-4f14-a7af-e8a6107206eb",
+      "title": "Associe uso e frase",
+      "content": "<p>Combine cada situação com a frase em espanhol que melhor funciona nela.</p>",
+      "contentPlain": "Combine cada situação com a frase em espanhol que melhor funciona nela.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste central da aula é escolher soy, eres ou es conforme a pessoa em foco.",
+      "feedbackError": "O contraste central da aula é escolher soy, eres ou es conforme a pessoa em foco.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "47c540c5-d35d-4367-b29c-4dad22f2755b",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "871685d6-8bc3-4b3f-87c8-e00fb5675534",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "16631f20-6ec7-4324-8515-2a510e9ea600",
+          "leftContent": "dizer quem você é",
+          "rightContent": "Soy Ana.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "afa6db52-c8b9-46e9-860d-27b703cc641a",
+          "leftContent": "confirmar o nome de quem está na sua frente",
+          "rightContent": "¿Eres Julia?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3a42d769-5a6c-4d7f-9f17-05ff4b30df4d",
+          "leftContent": "apresentar outra pessoa",
+          "rightContent": "Ella es Marta.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "e4cc2110-f6ed-491c-bf1a-be7167bc0d30",
+      "sequence": 7,
+      "lessonId": "7b98f963-d347-4f14-a7af-e8a6107206eb",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Él __ Pablo.</p><p>Tradução: Ele é Pablo.</p>",
+      "contentPlain": "Complete a frase em espanhol: Él __ Pablo. Tradução: Ele é Pablo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com él e ella, a forma do singular é es.",
+      "feedbackError": "Com él e ella, a forma do singular é es.",
+      "answerType": "buildWord",
+      "expectedAnswer": "es",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6f09cc57-90de-45fe-bf94-16e131ef7ee2",
+      "sequence": 8,
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "title": "Associe frase e uso",
+      "content": "<p>Combine cada frase com a descrição que mostra como ela aparece nas recombinações da aula.</p>",
+      "contentPlain": "Combine cada frase com a descrição que mostra como ela aparece nas recombinações da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reforça como a aula recombina as duas formas com Leo e Eva.",
+      "feedbackError": "Aqui você reforça como a aula recombina as duas formas com Leo e Eva.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "5ae7943f-904d-4607-8065-acb27f011c84",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b2b9af77-0804-4814-b676-06650e74eb8e",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "3afb5194-f86e-434e-8abf-90188caaadf4",
+          "leftContent": "Soy Leo.",
+          "rightContent": "apresentação curta com Leo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "71320a31-c8f2-4068-999c-38cd29b8de9e",
+          "leftContent": "Yo soy Leo.",
+          "rightContent": "apresentação com yo explícito e Leo",
+          "sequenceItem": 2
+        },
+        {
+          "id": "aa952dae-d2c3-45b6-8e6a-05e2585588ee",
+          "leftContent": "Soy Eva.",
+          "rightContent": "apresentação curta com Eva",
+          "sequenceItem": 3
+        },
+        {
+          "id": "faee6b2c-af6d-43dd-ace1-19be61245493",
+          "leftContent": "Yo soy Eva.",
+          "rightContent": "apresentação com yo explícito e Eva",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "9af01e72-30a1-4fec-90fa-7d34a3992fbf",
+      "sequence": 9,
+      "lessonId": "c488f043-9d31-466c-87a1-5bd60bd28272",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Ouça os três trechos do encontro rápido e ligue cada um à frase certa em espanhol.</p>",
+      "contentPlain": "Ouça os três trechos do encontro rápido e ligue cada um à frase certa em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula junta pergunta, resposta com devolução e resposta final curta.",
+      "feedbackError": "O diálogo da aula junta pergunta, resposta com devolução e resposta final curta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "fe935e56-bb8f-48fd-9fd5-8b55408b4f75",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/da8fa773723c499183628c0506ca3bc3_l02b03-muy-bien.mp3?Expires=1794099392&Signature=X~RAnyRl8DoP4qie7Uo1ZB~LiUJck8ZiiojBxZN6TAhjUaauLr2dS2nEvVcTdT0t3DFsI7CGB5dqparwVz8ptehWw9PDyh4T8FbwcAzCeBxb4TaQHSZtX1Hc9sIcOb1~drRNV~jwNBSfYTR85I0i5RO1JF8zFOVokGQKikd~aAq7UBDFRSM47bAb1vs-oDfTn43Ms8iigiYbGEo9hRD0z~g6y-pU6PRciSgkQGPe6WkrJZ5SjOkp74ZKqv2M8N9ZRnNWqJAcMqV9eK8J~uHMujrWCzNXaMwGGYznO4atS19VssXo60BwsZkUWD7spfnsuM9gjKdp6uphhPmVgmL-5w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Muy bien.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c1f6e8dd-3bed-4d9f-bb84-7ffac63232c5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c34d44a2bd3647e7bf7d2cf674da2c74_l02b06-d1-que-tal.mp3?Expires=1794099392&Signature=HXgpgaCDjMVedOeUYwYi~YItzCwrgrMD4fzSR-SMzAD5nFM3CbOSrZdhhm8H440oRacVjwtPVlKMVgR1jd9z2XbKACt7yYRfGg~R-8DV1koyGVRYJH3q2Hd2lnRAu-SA7QiUcehHUpZdqFEmkgNHXj4uNgMugIkytX4raajnd4XsHqwIz86Tip9jvElGj5YNvoEZDFhlneR1oxDNnFntKBU4N61n-aIoW9GhYEC3ZfBJbLLpHzvq-k7l6Snt0BuerDbh14zhv7ieGD7b14xLn8q2qCtH-LTE00bNqArfaLoeV1oqJ2dRy4uovTrBanbEyJRSWmXpOEbBW8DZQn363Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué tal?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "93d15226-d46c-488a-8ab1-8ac64c827f6e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f765035aebb443d3872e433e74433a1c_l02b05-bien-gracias-y-tu.mp3?Expires=1794099392&Signature=E8Ug-gkJRqHWhAWDlyFh-UIM7Q8kb5c9zTzoWr62RV6sqjzT-T2uMqy2JQwjblpAH0xKgAKvlwsY2lMfMacu7LXOzIu1vMZErzHYE-Z6yb~NwbnTbGRcuhTaLeNv40G-H8vjmA~K6cYoTC~3owMJ1MXcYTx7UYgxzcscY~XZF6x4GanSIU92QI14hz2v6~cTckH7UZ5lZ8gzJy2h9TNZFRh2MNivO~T48W~J4Ybx8ZhTaBO45PeuvucpJRPL4dMFazOu3ei9obL2wIRzosTek1bpg3AGAVrXVJNb6G8mTWsm2qtJub-ymanInL4DpzJKvQpQpy44xg7lvbfUzaWRPw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Bien, gracias. ¿Y tú?",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "19f5c1d0-4416-4680-9ff0-b6367b2f265c",
+      "sequence": 10,
+      "lessonId": "7af9045f-6eb2-4302-9420-cc0f54907a15",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a pergunta em espanhol: ¿Qué ___?</p><p>Tradução: Como vai?</p>",
+      "contentPlain": "Complete a pergunta em espanhol: ¿Qué ___? Tradução: Como vai?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula apresenta ¿Qué tal? como pergunta curta do encontro rápido.",
+      "feedbackError": "A aula apresenta ¿Qué tal? como pergunta curta do encontro rápido.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tal",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "38713048-a7a8-493e-b670-60dec4b6320d",
+      "sequence": 11,
+      "lessonId": "c488f043-9d31-466c-87a1-5bd60bd28272",
+      "title": "Recupere a resposta curta",
+      "content": "<p>Escute a resposta em espanhol e marque apenas as palavras que você ouve.</p>",
+      "contentPlain": "Escute a resposta em espanhol e marque apenas as palavras que você ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/da8fa773723c499183628c0506ca3bc3_l02b03-muy-bien.mp3?Expires=1794099392&Signature=X~RAnyRl8DoP4qie7Uo1ZB~LiUJck8ZiiojBxZN6TAhjUaauLr2dS2nEvVcTdT0t3DFsI7CGB5dqparwVz8ptehWw9PDyh4T8FbwcAzCeBxb4TaQHSZtX1Hc9sIcOb1~drRNV~jwNBSfYTR85I0i5RO1JF8zFOVokGQKikd~aAq7UBDFRSM47bAb1vs-oDfTn43Ms8iigiYbGEo9hRD0z~g6y-pU6PRciSgkQGPe6WkrJZ5SjOkp74ZKqv2M8N9ZRnNWqJAcMqV9eK8J~uHMujrWCzNXaMwGGYznO4atS19VssXo60BwsZkUWD7spfnsuM9gjKdp6uphhPmVgmL-5w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A aula contrasta Muy bien. com Bien, gracias. como respostas curtas possíveis.",
+      "feedbackError": "A aula contrasta Muy bien. com Bien, gracias. como respostas curtas possíveis.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "137285f3-b374-4f6e-8c1a-f52de8294add",
+          "text": "tú",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1ea98096-435b-4cc5-b3a4-930d2831a865",
+          "text": "muy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "49c36a11-0fd7-452b-97be-f9cc8f57ef08",
+          "text": "bien",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "75ec6d16-43fe-46ce-9f10-67d2e7465046",
+          "text": "gracias",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f830d0e1-a9ca-47fa-bd9d-8d61b46bde55",
+      "sequence": 12,
+      "lessonId": "c488f043-9d31-466c-87a1-5bd60bd28272",
+      "title": "Complete a devolução",
+      "content": "<p>Bien, gracias. ¿Y __?</p><p>Tradução: Bem, obrigado(a), e você?</p>",
+      "contentPlain": "Bien, gracias. ¿Y __? Tradução: Bem, obrigado(a), e você?",
+      "fileUrl": null,
+      "feedbackSuccess": "¿Y tú? aparece depois da resposta para manter a conversa em movimento.",
+      "feedbackError": "¿Y tú? aparece depois da resposta para manter a conversa em movimento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tú",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "04d10e03-7604-4ac6-90cc-c23c0e252cb7",
+      "sequence": 13,
+      "lessonId": "c2d964d8-71a4-4d2a-8159-a54728153d27",
+      "title": "Reconstrua a forma",
+      "content": "<p>Complete a apresentação em espanhol: Yo ___ Leo.</p><p>Tradução: Eu sou Leo.</p>",
+      "contentPlain": "Complete a apresentação em espanhol: Yo ___ Leo. Tradução: Eu sou Leo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reforça que soy continua igual quando o nome muda.",
+      "feedbackError": "Aqui você reforça que soy continua igual quando o nome muda.",
+      "answerType": "buildWord",
+      "expectedAnswer": "soy",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1c8d22d2-1121-4d9c-849c-485d83757b93",
+      "sequence": 14,
+      "lessonId": "7b98f963-d347-4f14-a7af-e8a6107206eb",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a fala e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a fala e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/33160cb54d044b788751780576f905c4_b08-d02-yo-soy-julia.mp3?Expires=1794099392&Signature=gc64V86UVqaih8PM61a5o8LHg4fLrDUNR7XkPWWAVqiQWJekz81iqOnmzlDRp8T8Pkf1BSqTf94LozqiVhmwf-WX~WRZItPEFg~LcTKSnet6AQ5qZjpDYAdT5wAuEczlM7wriDuucfnqWd1PumnL9Uz8BJTndm4ZFpwRDXAoEXC5QqMgj4q3Bspm~9hVGqEWc6jHi8kPEt7-CkWmuefMTjt-1HRJAjCgrBp2yYuxahs-ha7ItV~qlVfkrcFa8B2Ignmx1FHbfNg7wJ~~VYT7UG7We9XVZdhaSmPsF5dEzbaRwlU8qVZPMRWb2tAO1mLMHWt07rZ0wfej6-GTRKTf9w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Yo soy reforça o uso de soy para a própria apresentação.",
+      "feedbackError": "Yo soy reforça o uso de soy para a própria apresentação.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1c519cdf-0f52-4b48-804d-cff3bddf5ce7",
+          "text": "Marta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6c4c7e82-3591-43a0-943c-10be56966dff",
+          "text": "Yo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6f6c5642-749e-4d17-80b5-c07d1eb76890",
+          "text": "soy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "89abc337-d047-4cb2-932d-674c1b1cb4e7",
+          "text": "Julia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "faddcde6-9c50-4036-add6-a7f27734c8e7",
+          "text": "eres",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "9f9b5d5b-7e76-47e1-a90d-bf78267b4353",
+      "sequence": 15,
+      "lessonId": "c488f043-9d31-466c-87a1-5bd60bd28272",
+      "title": "Complete a pergunta inicial",
+      "content": "<p>¿___ tal?</p><p>Tradução: Como vai?</p>",
+      "contentPlain": "¿___ tal? Tradução: Como vai?",
+      "fileUrl": null,
+      "feedbackSuccess": "A abertura do diálogo desta aula é a pergunta curta ¿Qué tal?.",
+      "feedbackError": "A abertura do diálogo desta aula é a pergunta curta ¿Qué tal?.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Qué",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

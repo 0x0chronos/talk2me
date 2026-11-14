@@ -1,0 +1,563 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+    "attemptId": "d671671b-8a65-4686-a5ae-53c4a92619fd",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "470f0d25-4dab-46a0-8af7-1a758da42843",
+      "f69a16a1-5b92-4cdb-9906-d734ac158bf0",
+      "83251197-b856-419e-be82-195043b0e544",
+      "493af4f8-1e1d-4286-9c14-e8088c67b3c4",
+      "9902f712-db16-4a50-859f-70004c9b8c65"
+    ],
+    "evaluationExerciseIds": [
+      "2ad80c3d-13b2-45f7-8651-e50e7363ff3e",
+      "764e5dbd-4972-4d9c-b4c4-b555853873f5",
+      "0809cf3b-f6f3-4c16-9156-9d89bb551605",
+      "a030616b-a57f-493b-9db3-58bd57602168",
+      "b7742df6-d243-4fbb-a82a-f9aba855b395"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:04:22.4805573Z"
+  },
+  "contents": [
+    {
+      "id": "ee22876f-22f9-4ff7-ac8f-8b6269df3342",
+      "title": "Leia o mapa curto e acompanhe a pergunta que cada uso de `ser` e `estar` ajuda a responder.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "fdf40b72-c3ba-4580-b002-35c4ba1dfa5d",
+          "textContent": "<p>Nesta aula, <strong>ser</strong> e <strong>estar</strong> não aparecem como lista abstrata.</p><ul><li><strong>ser</strong> ajuda a rotular, definir ou classificar</li><li><strong>estar</strong> mostra como alguém ou algo se encontra naquele momento</li><li><strong>estar</strong> também localiza pessoas e coisas</li><li>o contraste entre os dois ajuda a mostrar mudança de impressão</li></ul><p>O fio do capítulo continua o mesmo: comentar personagens, equipes, exibições e atmosferas com mais precisão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "107172a6-dcfb-4592-abd5-c0b1dc865366",
+      "title": "Leia a frase em espanhol e ligue o uso de `ser` a uma leitura de traço, não de estado.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "06b9e831-4f51-4d7e-9ead-8606a4f97802",
+          "textContent": "<p>Primeiro, um comentário que soa como etiqueta mais estável.</p><p><strong>Lucia es la guionista más meticulosa del equipo.</strong></p><p>Em português: <strong>Lucia é a roteirista mais meticulosa da equipe.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5ef3f7ad-bdf4-4fdc-8947-8edc11e06f3f",
+      "title": "Leia a nota curta e observe o que a frase presume sobre Lucia para além deste momento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "bca719b6-dd3d-458d-8bef-4a629ad7aee6",
+          "textContent": "<p>Com <strong>ser</strong>, o comentário funciona como rótulo ou classificação.</p><p>A frase não fala de um pico de atenção hoje. Ela sugere um jeito de trabalhar que se repete e ajuda a identificar quem essa pessoa é dentro da equipe.</p><p>Por isso, <strong>ser</strong> encaixa melhor quando você quer definir, caracterizar ou classificar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cddffdce-bd39-4e90-843e-6d82af61921c",
+      "title": "Leia a frase e observe como `estar` aponta para o estado do momento, não para a personalidade.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "fc037e33-ba59-454f-8a2c-3145cbdbbdc7",
+          "textContent": "<p>Agora o foco deixa de ser o traço e passa ao estado.</p><p><strong>Después del estreno, Lucia está aliviada y todavía algo tensa.</strong></p><p>Em português: <strong>Depois da estreia, Lucia está aliviada e ainda um pouco tensa.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1b612d14-242c-439c-84a1-bd0280bcd289",
+      "title": "Leia a explicação e acompanhe por que a mesma pessoa pode `ser` de um jeito e agora `estar` de outro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "a1cc8524-a3bc-47f3-923e-12e683fbb0a2",
+          "textContent": "<p><strong>Estar</strong> não redefine quem Lucia é. Ele mostra como ela se encontra depois de uma situação concreta.</p><p>Alguém pode <strong>ser meticulosa</strong> como traço e, ao mesmo tempo, <strong>estar aliviada</strong> depois da estreia.</p><p>Esse contraste evita confundir personalidade com estado passageiro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "bdbc315a-b491-4035-9174-289a34d81f42",
+      "title": "Leia o exemplo e observe que aqui `estar` não fala de emoção nem de traço.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "749122ea-2bb2-4881-b7ea-37a4407e9d3e",
+          "textContent": "<p>Em outro uso, <strong>estar</strong> serve para localizar.</p><p><strong>Los invitados ya estan en el vestibulo, pero el coloquio es en la sala del fondo.</strong></p><p>Em português: <strong>Os convidados já estão no vestíbulo, mas o colóquio é na sala do fundo.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9227bebf-1686-4d27-a2be-aef6a9e5fc1d",
+      "title": "Leia a nota e diferencie localizar pessoas de situar um evento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "e9e20351-6b32-4b33-9de4-f502ecf98739",
+          "textContent": "<p>Na primeira metade, <strong>estan en el vestibulo</strong> localiza pessoas em um ponto físico.</p><p>Na segunda, <strong>el coloquio es en la sala del fondo</strong> apresenta onde o evento acontece.</p><p>Esse par ajuda a não misturar localização de pessoas e objetos com a forma de enquadrar uma sessão, um encontro ou uma atividade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9d6de8ac-0777-483a-b818-039bc235af33",
+      "title": "Leia a frase e acompanhe o salto entre uma caracterização de base e a impressão de agora.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "be753ac2-d62c-4b81-8ac9-e13476030657",
+          "textContent": "<p>O contraste entre os dois verbos também ajuda a mostrar mudança de leitura.</p><p><strong>Sofia era una directora muy rígida al principio; ahora está mucho más suelta frente a la prensa.</strong></p><p>Em português: <strong>Sofia era uma diretora muito rígida no começo; agora está bem mais solta diante da imprensa.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e814362a-ed19-4df3-806c-f328df854936",
+      "title": "Leia a nota curta e observe como a frase não apaga o passado, mas enquadra a mudança.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "32a49108-156a-4c41-a9cc-fca5912a0f40",
+          "textContent": "<p>A frase não trata <strong>ser</strong> e <strong>estar</strong> como sinônimos.</p><p><strong>era una directora muy rígida</strong> cria uma leitura de base. <strong>ahora está mucho más suelta</strong> mostra uma mudança visível na forma como ela aparece neste momento.</p><p>Esse uso é especialmente útil quando você comenta evolução, atmosfera ou impressão corrigida ao longo de uma experiência.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b8c16866-1aaa-495e-8875-2d94771d056d",
+      "title": "Leia o recap final e pense em que tipo de comentário cada uso ajuda a tornar mais preciso.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "6afcabfc-b73b-4aef-88b9-16d8458df528",
+          "textContent": "<p>Ao comentar uma equipe, uma estreia ou uma conversa depois do filme, o contraste fica mais claro assim:</p><ul><li><strong>ser</strong> para rotular ou classificar: quem alguém é, que tipo de perfil tem, que natureza uma obra ou função assume</li><li><strong>estar</strong> para estado: como alguém ou algo se encontra naquele momento</li><li><strong>estar</strong> para localização: onde pessoas e coisas estão</li><li><strong>ser + estar</strong> para mudança de leitura: qual era a impressão de base e como ela aparece agora</li></ul><p>Esse controle entra em comentários reais sobre colegas de equipe, personagens, jornalistas, convidados, salas, estreias e atmosferas de exibição.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0d5da0c7-9ff2-437e-96fe-51b78029afc7",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "454214ae-1afe-4c2d-92ba-baf88f8ee551",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7057da0c53e944ae89cfd6c230262e03_MEC-IDIOMAS_CAP_3_-_AULA_03_ESP.mp4?Expires=1794099863&Signature=XUrohc4x8iDO7PwvZ1g88WNhq4GTiP~HLRurb2WWRFGy5q9--PSRkoitJND8PMJUToqsjzqJxg~EgyQy65VPxIXQ2fRqighvFK2mAiductuPLC1mz5HNWBePWObDNL10eco~M0qRcWhK7WiWWNWJS0Det~tYH85VqBYS88xFoXTd4uvrNL0E3nhgpFITbAuTROamN8UMIc~DiLUKSoL3Mbwopq8hwuFCtSmHOAiPSnmnyoop1vYJRwZ~i7dLoS7FU57VzefJUMltrDKrxGvegZeokr~S1VDrh0pbAHhrRX9wCKKwgj89q9tMBmlXwbBnv2n8Ko54-eKa1Jv0IUgQWw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7057da0c53e944ae89cfd6c230262e03_MEC-IDIOMAS_CAP_3_-_AULA_03_ESP.mp4?Expires=1794099863&Signature=XUrohc4x8iDO7PwvZ1g88WNhq4GTiP~HLRurb2WWRFGy5q9--PSRkoitJND8PMJUToqsjzqJxg~EgyQy65VPxIXQ2fRqighvFK2mAiductuPLC1mz5HNWBePWObDNL10eco~M0qRcWhK7WiWWNWJS0Det~tYH85VqBYS88xFoXTd4uvrNL0E3nhgpFITbAuTROamN8UMIc~DiLUKSoL3Mbwopq8hwuFCtSmHOAiPSnmnyoop1vYJRwZ~i7dLoS7FU57VzefJUMltrDKrxGvegZeokr~S1VDrh0pbAHhrRX9wCKKwgj89q9tMBmlXwbBnv2n8Ko54-eKa1Jv0IUgQWw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "470f0d25-4dab-46a0-8af7-1a758da42843",
+      "title": "Reconheca a leitura de ser",
+      "content": "<p>Na frase <strong>Lucia es la guionista más meticulosa del equipo</strong>, o que <strong>ser</strong> está fazendo?</p>",
+      "contentPlain": "Na frase Lucia es la guionista más meticulosa del equipo , o que ser está fazendo?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, ser funciona como rótulo mais estável.",
+      "feedbackError": "Aqui, ser funciona como rótulo mais estável.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "17606da4-e09b-4e76-9fa5-67a477f36e63",
+          "textContent": "Localiza Lucia em uma parte do festival.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "470f0d25-4dab-46a0-8af7-1a758da42843"
+        },
+        {
+          "id": "4d75ca9b-d4de-4851-a0d6-d812ffb2857f",
+          "textContent": "Mostra um alivio passageiro depois da estreia.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "470f0d25-4dab-46a0-8af7-1a758da42843"
+        },
+        {
+          "id": "f43a22f5-cb1b-48ac-acf1-362896500356",
+          "textContent": "Fala de uma caracterização relativamente estável dentro da equipe.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "470f0d25-4dab-46a0-8af7-1a758da42843"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f69a16a1-5b92-4cdb-9906-d734ac158bf0",
+      "title": "Ligue o trecho a leitura",
+      "content": "<p>Relacione cada trecho em espanhol ao papel que ele cumpre no contraste entre <strong>ser</strong> e <strong>estar</strong>.</p>",
+      "contentPlain": "Relacione cada trecho em espanhol ao papel que ele cumpre no contraste entre ser e estar .",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final separa traço, estado, localização e mudança de leitura.",
+      "feedbackError": "O recap final separa traço, estado, localização e mudança de leitura.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "028b6129-ebf6-4a50-8f00-24af7ab2722c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f69a16a1-5b92-4cdb-9906-d734ac158bf0"
+        },
+        {
+          "id": "e41b86d7-d1ed-482e-9d49-e046ac8e49b1",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f69a16a1-5b92-4cdb-9906-d734ac158bf0"
+        }
+      ],
+      "associations": [
+        {
+          "id": "370e40b1-6e18-4757-b0a2-6be2f327831e",
+          "exerciseId": "f69a16a1-5b92-4cdb-9906-d734ac158bf0",
+          "leftContent": "es la guionista más meticulosa",
+          "rightContent": "rotula um perfil relativamente estável",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3764c9bd-bee8-4720-9f71-f563cdaf40fb",
+          "exerciseId": "f69a16a1-5b92-4cdb-9906-d734ac158bf0",
+          "leftContent": "está aliviada",
+          "rightContent": "descreve um estado do momento",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8872e89d-4914-48f7-9e1c-cd140babe8fe",
+          "exerciseId": "f69a16a1-5b92-4cdb-9906-d734ac158bf0",
+          "leftContent": "estan en el vestibulo",
+          "rightContent": "localiza pessoas em um ponto físico",
+          "sequenceItem": 3
+        },
+        {
+          "id": "6c345d0c-efed-43c6-8346-65fd4fd1d73a",
+          "exerciseId": "f69a16a1-5b92-4cdb-9906-d734ac158bf0",
+          "leftContent": "está mucho más suelta",
+          "rightContent": "mostra uma impressão atual reajustada",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "83251197-b856-419e-be82-195043b0e544",
+      "title": "Leia o contraste entre os verbos",
+      "content": "<p>Quando a aula diz que alguém pode <strong>ser meticulosa</strong> e ao mesmo tempo <strong>estar aliviada</strong>, qual contraste ela organiza?</p>",
+      "contentPlain": "Quando a aula diz que alguém pode ser meticulosa e ao mesmo tempo estar aliviada , qual contraste ela organiza?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, ser marca traço e estar marca estado.",
+      "feedbackError": "Aqui, ser marca traço e estar marca estado.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "22d054ec-1f97-4c1f-a308-3bc54db6c2a0",
+          "textContent": "Contrasta a localização dos convidados com o lugar do colóquio.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "83251197-b856-419e-be82-195043b0e544"
+        },
+        {
+          "id": "2ff932d6-ac01-49e7-8009-e8ed5d8f95bb",
+          "textContent": "Contrasta um traço de trabalho com um estado ligado ao momento.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "83251197-b856-419e-be82-195043b0e544"
+        },
+        {
+          "id": "a137ea7b-b092-4a8b-bdf6-d69fc65a2485",
+          "textContent": "Contrasta a rigidez passada de Sofia com a opinião da imprensa.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "83251197-b856-419e-be82-195043b0e544"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "493af4f8-1e1d-4286-9c14-e8088c67b3c4",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase sobre o estado de Lucia depois da estreia.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase sobre o estado de Lucia depois da estreia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/00587b864fff4be3bf3caef2a2770a3e_b04-despues-del-estreno-lucia-esta-aliviada.mp3?Expires=1794099863&Signature=BVLoOyVY1~dL1yQ1nEp5HNMDvLjcD6HSwdEflW6d7d08e95sEVSo8apok53iMLJED6ratFZxO8rbu6xKpcimZ4AAoIDc7ShBs2x58sdOKkpSYxPBfcCfgYUhIYwlpDdKkrGMRirWKtMK2q4TOXHVtpI33iLW6dI9jfqYjTIA7Ch50kbRFKpiDmalF972TOCYeoj88VuEeTICo8lpO66DHZuSKq~7GQbHMU6Ld5SDKMpIPEIHAiSPlO9-BGsDictHdyyq28enRkYt-eZlVtZ4JPpIU~qZHFjnefzIVPWyLZWF2pwykPZdoOPZPV1SCciQxlY19EtKChKNU~mB1fM3NQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A repetição ativa estar como leitura de estado situacional.",
+      "feedbackError": "A repetição ativa estar como leitura de estado situacional.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Después del estreno, Lucia está aliviada y todavía algo tensa.",
+      "typeSpecificData": "{\"expectedText\":\"Despu\\u00E9s del estreno, Lucia est\\u00E1 aliviada y todav\\u00EDa algo tensa.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/00587b864fff4be3bf3caef2a2770a3e_b04-despues-del-estreno-lucia-esta-aliviada.mp3?Expires=1794099863\\u0026Signature=BVLoOyVY1~dL1yQ1nEp5HNMDvLjcD6HSwdEflW6d7d08e95sEVSo8apok53iMLJED6ratFZxO8rbu6xKpcimZ4AAoIDc7ShBs2x58sdOKkpSYxPBfcCfgYUhIYwlpDdKkrGMRirWKtMK2q4TOXHVtpI33iLW6dI9jfqYjTIA7Ch50kbRFKpiDmalF972TOCYeoj88VuEeTICo8lpO66DHZuSKq~7GQbHMU6Ld5SDKMpIPEIHAiSPlO9-BGsDictHdyyq28enRkYt-eZlVtZ4JPpIU~qZHFjnefzIVPWyLZWF2pwykPZdoOPZPV1SCciQxlY19EtKChKNU~mB1fM3NQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "9902f712-db16-4a50-859f-70004c9b8c65",
+      "title": "Ouça e filtre as palavras",
+      "content": "<p>Selecione apenas as palavras que pertencem a frase sobre o estado de Lucia depois da estreia.</p>",
+      "contentPlain": "Selecione apenas as palavras que pertencem a frase sobre o estado de Lucia depois da estreia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/00587b864fff4be3bf3caef2a2770a3e_b04-despues-del-estreno-lucia-esta-aliviada.mp3?Expires=1794099863&Signature=BVLoOyVY1~dL1yQ1nEp5HNMDvLjcD6HSwdEflW6d7d08e95sEVSo8apok53iMLJED6ratFZxO8rbu6xKpcimZ4AAoIDc7ShBs2x58sdOKkpSYxPBfcCfgYUhIYwlpDdKkrGMRirWKtMK2q4TOXHVtpI33iLW6dI9jfqYjTIA7Ch50kbRFKpiDmalF972TOCYeoj88VuEeTICo8lpO66DHZuSKq~7GQbHMU6Ld5SDKMpIPEIHAiSPlO9-BGsDictHdyyq28enRkYt-eZlVtZ4JPpIU~qZHFjnefzIVPWyLZWF2pwykPZdoOPZPV1SCciQxlY19EtKChKNU~mB1fM3NQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui, a escuta reforca estar como estado depois da estreia.",
+      "feedbackError": "Aqui, a escuta reforca estar como estado depois da estreia.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6f50960d-3141-4e05-8c14-7055cac3d186",
+          "textContent": "vestibulo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9902f712-db16-4a50-859f-70004c9b8c65"
+        },
+        {
+          "id": "ccd6a2af-2467-46f7-b72b-33c7dcfc5dd6",
+          "textContent": "estreno",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9902f712-db16-4a50-859f-70004c9b8c65"
+        },
+        {
+          "id": "e5ae8110-25cf-41e4-b599-9b6d9299f438",
+          "textContent": "tensa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9902f712-db16-4a50-859f-70004c9b8c65"
+        },
+        {
+          "id": "e81c9169-731f-42af-a9a3-4750f92fa246",
+          "textContent": "aliviada",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9902f712-db16-4a50-859f-70004c9b8c65"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "2ad80c3d-13b2-45f7-8651-e50e7363ff3e",
+      "title": "Recupere o verbo de estado",
+      "content": "<p>Después del estreno, Lucia ____ aliviada y todavía algo tensa.</p><p>Tradução: Depois da estreia, Lucia está aliviada e ainda um pouco tensa.</p>",
+      "contentPlain": "Después del estreno, Lucia ____ aliviada y todavía algo tensa. Tradução: Depois da estreia, Lucia está aliviada e ainda um pouco tensa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, estar mostra como Lucia se encontra nesse momento.",
+      "feedbackError": "Aqui, estar mostra como Lucia se encontra nesse momento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "está",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "764e5dbd-4972-4d9c-b4c4-b555853873f5",
+      "title": "Recupere o verbo de localização",
+      "content": "<p>Los invitados ya _____ en el vestibulo.</p><p>Tradução: Os convidados já estão no vestibulo.</p>",
+      "contentPlain": "Los invitados ya _____ en el vestibulo. Tradução: Os convidados já estão no vestibulo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, estar localiza pessoas em um ponto físico.",
+      "feedbackError": "Aqui, estar localiza pessoas em um ponto físico.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estan",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0809cf3b-f6f3-4c16-9156-9d89bb551605",
+      "title": "Complete o verbo de classificação",
+      "content": "<p>Lucia __ la guionista más meticulosa del equipo.</p><p>Tradução: Lucia é a roteirista mais meticulosa da equipe.</p>",
+      "contentPlain": "Lucia __ la guionista más meticulosa del equipo. Tradução: Lucia é a roteirista mais meticulosa da equipe.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, ser classifica Lucia dentro da equipe.",
+      "feedbackError": "Aqui, ser classifica Lucia dentro da equipe.",
+      "answerType": "buildWord",
+      "expectedAnswer": "es",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "a030616b-a57f-493b-9db3-58bd57602168",
+      "title": "Recupere a impressao de agora",
+      "content": "<p>Ahora ____ mucho mas suelta frente a la prensa.</p><p>Tradução: Agora ela esta bem mais solta diante da imprensa.</p>",
+      "contentPlain": "Ahora ____ mucho mas suelta frente a la prensa. Tradução: Agora ela esta bem mais solta diante da imprensa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, estar mostra o ajuste mais recente da impressao.",
+      "feedbackError": "Aqui, estar mostra o ajuste mais recente da impressao.",
+      "answerType": "buildWord",
+      "expectedAnswer": "esta",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b7742df6-d243-4fbb-a82a-f9aba855b395",
+      "title": "Recupere a impressão de agora",
+      "content": "<p>Ahora ____ mucho más suelta frente a la prensa.</p><p>Tradução: Agora ela está bem mais solta diante da imprensa.</p>",
+      "contentPlain": "Ahora ____ mucho más suelta frente a la prensa. Tradução: Agora ela está bem mais solta diante da imprensa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, estar mostra o ajuste mais recente da impressão.",
+      "feedbackError": "Aqui, estar mostra o ajuste mais recente da impressão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "está",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ac00d680-4437-430c-ada3-52472e6a7d1b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Afinar ser e estar entre traco e estado"
+}

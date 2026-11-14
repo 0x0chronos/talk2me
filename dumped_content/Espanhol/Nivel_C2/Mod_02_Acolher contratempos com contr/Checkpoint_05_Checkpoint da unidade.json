@@ -1,0 +1,612 @@
+{
+  "attemptId": "2705d890-b36b-4179-a099-42c9098f12ad",
+  "exercises": [
+    {
+      "exerciseId": "3254c31c-819c-4166-a004-7a68a17ce208",
+      "sequence": 1,
+      "lessonId": "005b5ae4-3efd-4cbf-b1d2-8fc1dc7698be",
+      "title": "Reconstrua o diálogo de apoio",
+      "content": "<p>Associe cada áudio a fala completa correta, sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio a fala completa correta, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo recompõe o apoio em quatro passos: contratempo, acolhimento, ajuda concreta e continuidade.",
+      "feedbackError": "O diálogo recompõe o apoio em quatro passos: contratempo, acolhimento, ajuda concreta e continuidade.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "9131bfe8-ad69-4ea3-9655-2c2a25398a73",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/29910edcad8a44f3b18199da5895e001_b08-d01-entre-la-cancelacion-y-las-llamadas-pendientes.mp3?Expires=1794099915&Signature=J4PpqV5YwgT5wpb3I0V2Eis2h72Tv74jpxbY9-Rt4W1Jz0NB0bjkK2aKorFuNSJhQ9NPIR77ao0rYg2ZGuxs5gOk205BlHzsZT2sqQov0whLA9WmHTR7CE6YlHsSAMnv4~3QeJJPszdbmdEvkvz46ZNfgACCDEPhiKkZwUboUsTCxgfaZJ-0yAYrQ2wWhshxl24kWuF2h6Sfy0Pq6oDfpOQctRh83yULwxM9NjVjOqmuUm5rTJ-mx4UBiuAZj8XNEpHOGT3ZDD0Nl-t5tpEeYwSLOK4WMcIXVV2rBthFOcncxKnelU2HT9XjwDddJLcQCMRBiHHp-wsoPmVQ8vItOQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Entre la cancelación y las llamadas pendientes, ya no se por donde seguir.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f839f399-042b-4d67-baa7-ee405c6cfa4f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1bc676d6af864649a77c4e1242c1e325_b02-no-tienes-por-que-cargar-con-eso-a-solas.mp3?Expires=1794099915&Signature=UGhRUnvKwskC93jd08RSH7D39nWndnIVbvqWJorUK5kn6vbpMooEVRK6DD7iFqDtWciVA3JlyL9Yrc4lq-~WUvy1mzVLnfFYb0u1vQe6VnLJkhx9kJovg8XPonQMkS5lIFBH-72BkUUikIoC3JxRXSJ43f-6kMAeiUrz9ZILbkMZH~yz8fOAlOeaXxcFOdNA7~y8HbxUWPs-iJC8S64i3uiKRZtcT38GdHh5OUZjnQcfarWJWeCDYV7MUi~Ojk25QDI9kCTWvXSnskPaqzvF-Yz55hCLIr4RpN-0ldMt2~mg~6rYqJ8684v1flknP~Y32FZ-xAXcEjMJZOQlba356g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No tienes por que cargar con eso a solas.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8c80c549-78d8-45d4-8ddf-65edf226d406",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4fcc781d120e4786988bd2a555ae75db_b04-si-te-viene-bien-puedo-encargarme-de-la-llamada.mp3?Expires=1794099915&Signature=rqKyWQS12kVXgKMP9VxuzDQDOzhuZktpEXeqET0lYj8CvqDrer-WCQ2RTjTYiLRrJcyFQWhjaaInG5q~abURb4DC7PSmM8546Hqce3RflZzXkJJk~T~0xO2~hT0XqXGhKO-r7BSCxWuFo0DndD-zxDYqpzqyHRleGPG4j1kEyrGWeZgOBqUPEYUp1yU~mROXpA2QA14HcTCrF8nWPR5UtZprTquWTZkjUJy6kDOM6CuJ71y3NMd08Q5C87mORvf4BiukyuEYIqH~XhfFZ7axP~wjViOR2Or8cpGlHIatS604fnUB~LvVFLgHF0dJ7-ysj2rs-v~SI2JyHAm5wrOyrQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si te viene bien, puedo encargarme de la llamada.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "40fac5c0-5919-4c36-aefe-eab7c42faaf1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1cf75a58a01e4742abfd45604e4599f2_b06-cuenta-conmigo-aunque-ahora-lo-veas-todo-negro.mp3?Expires=1794099915&Signature=aNPgCR8QD5~FJz~r9~6IE2~06Ku359qGbmqOpKP2ISDc7K7EH3k4j-pCbU~kotd0nE6xYzOyT67WUVyooT~EXx5e~LD-yE9cCHDRLMxrGqp51Dz5VoYC4nDNIq286RGSuytxIgXnTTcgr9CKCsHU~r93xgytgr4lO-GEQGxvnRwkOK9-3iYqew00E8JaFee4-93ogNlBAKpkRzZw8cLXjjwtOUSpKeACvs9pGiPbxhbfIdyKd5y1jEmgyxGRA7SkCY5DpEy6nTnLxytP1nGa77otFiFjYB5I3G35MEV2f~3kyRVEaaln8VBmgiiPdup9hd7BEyCXwK9Og6jiDfyMKQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuenta conmigo, aunque ahora lo veas todo negro.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "83b0a640-970a-4c44-b11e-bd6cf21cb77a",
+      "sequence": 2,
+      "lessonId": "005b5ae4-3efd-4cbf-b1d2-8fc1dc7698be",
+      "title": "Recupere o verbo do peso",
+      "content": "<p>No tienes por que ______ con eso a solas.</p><p>Traducao: Você não precisa lidar com isso sozinho.</p>",
+      "contentPlain": "No tienes por que ______ con eso a solas. Traducao: Você não precisa lidar com isso sozinho.",
+      "fileUrl": null,
+      "feedbackSuccess": "Cargar con eso faz o problema soar como peso real, e a aula usa isso para acolher sem minimizar.",
+      "feedbackError": "Cargar con eso faz o problema soar como peso real, e a aula usa isso para acolher sem minimizar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cargar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d6b79308-b163-4006-bc1a-b75c38a496eb",
+      "sequence": 3,
+      "lessonId": "c0010f39-6aaa-4c18-b6a8-2b1962b30cc0",
+      "title": "Associe forma e leitura fina",
+      "content": "<p>Ligue cada trecho da aula ao enquadramento de obstáculo mais preciso em português.</p>",
+      "contentPlain": "Ligue cada trecho da aula ao enquadramento de obstáculo mais preciso em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio aqui é diferenciar peso, tom e posição do obstáculo nas quatro entradas.",
+      "feedbackError": "O desafio aqui é diferenciar peso, tom e posição do obstáculo nas quatro entradas.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "61f79807-b231-47fd-82f0-a1e49710a461",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c7be2b83-f8cc-4c41-88f9-bbb49549e89e",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "857b7dbd-2a49-4bd2-b0fe-dcaec29e2656",
+          "leftContent": "Aunque el presupuesto era ajustado",
+          "rightContent": "reconhece o limite logo no início e devolve a frase rápido a ação",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7a69c636-2e03-4768-acc3-cb71b83fb8dc",
+          "leftContent": "A pesar de que la reunion se alargo mucho mas de lo previsto",
+          "rightContent": "carrega mais atraso e custo antes do resultado principal",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a9e2b24a-c0d5-460e-a843-8e0017d39754",
+          "leftContent": "Si bien la propuesta parecia prometedora",
+          "rightContent": "admite um dado favorável e abre uma avaliação mais medida",
+          "sequenceItem": 3
+        },
+        {
+          "id": "e54ca546-bd46-461a-84a3-099fb154ad9c",
+          "leftContent": "aun asi, Luana abrio la cafeteria",
+          "rightContent": "retoma a continuidade depois que o problema já ficou claro",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "5c88c194-8cf4-4a23-a2ad-50a8e1a17b68",
+      "sequence": 4,
+      "lessonId": "c0010f39-6aaa-4c18-b6a8-2b1962b30cc0",
+      "title": "Complete a locução carregada",
+      "content": "<p><strong>A _____ de que la reunion se alargo mucho mas de lo previsto, Caio cerro el acuerdo esa misma tarde.</strong></p><p>Tradução: Apesar de a reunião ter se alongado muito mais do que o previsto, Caio fechou o acordo naquela mesma tarde.</p>",
+      "contentPlain": "A _____ de que la reunion se alargo mucho mas de lo previsto, Caio cerro el acuerdo esa misma tarde. Tradução: Apesar de a reunião ter se alongado muito mais do que o previsto, Caio fechou o acordo naquela mesma tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a locução que deixa a dificuldade mais carregada.",
+      "feedbackError": "Aqui o foco é recuperar a locução que deixa a dificuldade mais carregada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pesar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0bf9af6e-64db-4888-983f-2ccade0f265d",
+      "sequence": 5,
+      "lessonId": "c0010f39-6aaa-4c18-b6a8-2b1962b30cc0",
+      "title": "Complete a locucao carregada",
+      "content": "<p><strong>A _____ de que la reunion se alargo mucho mas de lo previsto, Caio cerro el acuerdo esa misma tarde.</strong></p><p>Tradução: Apesar de a reuniao ter se alongado muito mais do que o previsto, Caio fechou o acordo naquela mesma tarde.</p>",
+      "contentPlain": "A _____ de que la reunion se alargo mucho mas de lo previsto, Caio cerro el acuerdo esa misma tarde. Tradução: Apesar de a reuniao ter se alongado muito mais do que o previsto, Caio fechou o acordo naquela mesma tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco e recuperar a locucao que deixa a dificuldade mais carregada.",
+      "feedbackError": "Aqui o foco e recuperar a locucao que deixa a dificuldade mais carregada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pesar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7ba06b93-0299-4aa1-a40c-dc73e7f2d3e5",
+      "sequence": 6,
+      "lessonId": "1d359381-cd40-4392-88f8-3e91882c60ec",
+      "title": "Recupere a saída de recuperação",
+      "content": "<p>Aun asi, no todo esta perdido: el equipo todavia puede _________.</p><p>Tradução: Ainda assim, nem tudo está perdido: a equipe ainda pode se recompor.</p>",
+      "contentPlain": "Aun asi, no todo esta perdido: el equipo todavia puede _________. Tradução: Ainda assim, nem tudo está perdido: a equipe ainda pode se recompor.",
+      "fileUrl": null,
+      "feedbackSuccess": "A última linha da aula reabre horizonte com puede rehacerse em vez de ficar presa ao golpe.",
+      "feedbackError": "A última linha da aula reabre horizonte com puede rehacerse em vez de ficar presa ao golpe.",
+      "answerType": "buildWord",
+      "expectedAnswer": "rehacerse",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4445fe3f-1967-4ba6-ad6b-abd1cb19e22f",
+      "sequence": 7,
+      "lessonId": "1d359381-cd40-4392-88f8-3e91882c60ec",
+      "title": "Recupere o vocabulario do recap",
+      "content": "<p>Marque somente as palavras que reaparecem no bloco final, sem apoio em português.</p>",
+      "contentPlain": "Marque somente as palavras que reaparecem no bloco final, sem apoio em português.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b8452e9c43c04fe3a6a76469f1d12089_b09-recap-de-reveses-en-voz-alta.mp3?Expires=1794099915&Signature=k3kblxKA-Xj0LJ73XLmK3T7lCyvRNWRrtNISCL4IQLUizrfqS9sl0jM9etXV35gM4zkn2KM6AoKCrJgGVBEgUSW3sOb-kxjaxCIKkKo740GXUzaw4FhQ8lDuAvSgN9hjhjs2M4OVKhJL0x2h0QtPls0z1yEUR6wElRh4PscFNV-W~I8zw7TrFGOYLjm4LzzwQ5AjJzbh57OekItyxKAKgriV3XlaJDXh0vmFinHXj1PTn~qOpzBeZ4Hb80h0DyWV~Mvu4V1Ibvg-f-qrspoW9Wm0TCDdQyv3IQPEtZ8ZeFnGwA1CUVc22vFWiHi~f9gF5jy5sGx~eAGEgXItkMPRlg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap fecha a aula reunindo pressão, lesão, derrota e recuperação no mesmo comentário.",
+      "feedbackError": "O recap fecha a aula reunindo pressão, lesão, derrota e recuperação no mesmo comentário.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "39396c37-9080-40f2-950d-46080034cdcd",
+          "text": "afición",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3e74c14a-3602-412a-a309-6b6b08e4b416",
+          "text": "derrota",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3f91f005-f658-4441-aeb6-f1271d9a04de",
+          "text": "improvisar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "52132faa-5291-4dc7-9fbf-edcb2fb82a99",
+          "text": "torneo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5c8d8111-dc45-4742-9156-287e0271e5e8",
+          "text": "lesión",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5def7ea3-cb97-46bb-aea5-4798b61a5c76",
+          "text": "victoria",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6192bb73-875c-401e-9ebd-a7a937388b8b",
+          "text": "consuelo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "70c3df20-4e08-40a8-b877-d0aa64a535c1",
+          "text": "rehacerse",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "73abf130-ceb0-4169-a53a-5a212bd09a53",
+          "text": "perdido",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d29d88d0-0bf8-453e-a98f-237d74f677b6",
+          "text": "semifinal",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d4422c1a-42e2-4597-8be0-31b34e448f85",
+          "text": "plan",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e15cbfe3-42f2-4c87-b778-60fe6d967f45",
+          "text": "tocado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f51f20ce-6ea3-4f4e-976c-d9eff390de7e",
+          "text": "delicado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "eaec8db9-8961-4f2e-b0fc-3d3a2569ebe7",
+      "sequence": 8,
+      "lessonId": "96387b4e-98c7-423f-8968-797b032fd97f",
+      "title": "Recupere o freio da derrota",
+      "content": "<p>Que no haya salido esta vez no ________ todo el trabajo que hiciste.</p><p>Tradução: O fato de não ter dado certo desta vez não invalida todo o trabalho que você fez.</p>",
+      "contentPlain": "Que no haya salido esta vez no ________ todo el trabajo que hiciste. Tradução: O fato de não ter dado certo desta vez não invalida todo o trabalho que você fez.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Invalida` segura o valor do percurso anterior quando a aula freia a derrota total.",
+      "feedbackError": "`Invalida` segura o valor do percurso anterior quando a aula freia a derrota total.",
+      "answerType": "buildWord",
+      "expectedAnswer": "invalida",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "59d84eb8-5f7e-4ff6-9031-4ecf0e560b45",
+      "sequence": 9,
+      "lessonId": "96387b4e-98c7-423f-8968-797b032fd97f",
+      "title": "Reconstrua o diálogo pela escuta",
+      "content": "<p>Distinga as quatro falas do diálogo e ligue cada áudio ao enunciado completo em espanhol.</p>",
+      "contentPlain": "Distinga as quatro falas do diálogo e ligue cada áudio ao enunciado completo em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta final recompõe a conversa inteira sem reduzir o apoio a uma formula vazia.",
+      "feedbackError": "A escuta final recompõe a conversa inteira sem reduzir o apoio a uma formula vazia.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "e0abc4ba-6888-49ff-a4ac-2291b7169266",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bd0d572ccdb24c27a7e67e6a642b936e_phase4-b06-d01-no-me-dieron-la-beca.mp3?Expires=1794099915&Signature=JA6ad3ihLlfLBJasyXGTzwSRTmphNs9d38UUruoa2k4u5Fe1u~Vwvth3UhupEt-EwDvuxbVNlB9qwApUPF8BT6kPEg0nylxrVOg0c8YOdsvta3-Ko4V1v1IboBqj94OYTuzqWxwC-5YpwR-DnlUXRAxpyIFY3z1-JPl8G31NJXVpYVuGtwZOeOCGdQsFf~wu2m899LUIjtqtRVjQu5rVwcalWBP-IlsYkuydOtyLjxNaIREmpwkM48tlVNFe6O7LkTrvn6LgkFgjBMgdgMa8MBxj9RLdnmaS~zbMa~i4GyVnU-EZrheZvuKdmz3NN4nPCwI1BYJFYZp2qA-0D81RWw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No me dieron la beca.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "dc51fe00-4fb8-4bd8-b341-ad329e6d3fec",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6a8181d4cc454ce9af0d9e104b53b298_phase4-b02-no-haya-salido-esta-vez.mp3?Expires=1794099915&Signature=Su9H0Jb6qgG~5wuIbu9OqfD9R6Sl5hhU8bihCbRrS2fYRVdyC~JSSsYenEuNbTRVSHUt~Om5dsT6QFP5UHTl0OUECmGJlzaPlXOfzxJxeXkdGnnhE8V8gweu2GLQ~YisNEle6E6y7CHsQNRSOJf7SQ9eJN-kfPce2GHgjIyXCUHyT~Xctw31Oo6NqyCszmmdPwmgcuSrAfsB8kMLZD4~5ZUVOmT54TcYzsydRaSuY4UKKSuH65Ky-IfWn8k0bKC253zN9P8xQ1ow5RI4ELY4XlghU3e5nYC0if5zqMNEqs68HZr1eWDKx2uRWz1B-JRw0ELO7z8Awa-8IzcF1FQeJw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Entiendo que hoy te cueste verlo, pero que no haya salido esta vez no invalida todo el trabajo que hiciste.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c5d7574f-7ef2-4774-a539-0a3222cb084a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/11959046d1114f99bb526ee171bff11e_phase4-b06-d03-me-cuesta-verlo.mp3?Expires=1794099915&Signature=SE-p7p7u-742PPicY8-ruBlgQHJY3P1j3Eunj8JoReM29PloEKiBxZJrF~LChuEHHeNuY-3Qxg1o00I7thpwtCXtkylt5FdH4NQBOcORBbgdIaZjVcGt1374D4SNEgVr-LdjpRwNRks5G2G-f4FrGMrOyQHxirvySmCF2xUx6y0ty5pkr5VBhVNe5bywKvOdtOzaYbAINR5j2iNJGH9AlKxWAvUqtJHbEGnml7m81PdGmF249~rSpHNNBHeOH4YXlFcyc4WjEeNiZdUj2jas316RX0JXsTxcFnCm6UV76PJ-6~SaJrOHTPFZ45QYkCCpjWiJAHHqDv7y-gMq3X7O0Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ya, pero ahora mismo me cuesta ver que sirva de algo.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "6ae6349e-b3c8-45e6-8be7-1e1826a28faa",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/131def54b6494ff6b06d218a1e093bf7_phase4-b04-manana-lo-miramos-con-calma.mp3?Expires=1794099915&Signature=Jh2q1Tat9HfWbKpzvcFEyK1ucx2nEveUsk5IEbK80vE~7VYFHnypxlKgp6bqcSJOqzj2LwXCfSlIz0uQY7mC6AFRLQ-KncMxBWXLvZD78wNn2brZooJ9~oea26OT9xRYIphMx977eq4KKt~tC27JpyJEKTUEszbNvSi41UhChJnEH5LbPaabiJcd~z7fqNYirXZwMunBk8vWGHaE~f7dmXx7cPR5K7KdzZHDJftpAsU3tXDbsQR5FcAbIZZAEPIIAueE9Sm1q0Jyk8iIyBkVZPbNZp3tEKlQj~soHLWNLSgQldIL8~s-PzG75yDCuYpNrWSiPMhIaFJtWR-kHNsY~g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Aunque ahora te den ganas de dejarlo, si quieres manana lo miramos con calma y vemos por donde retomarlo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "b8fb368f-90f4-4c8d-b238-333940cd2844",
+      "sequence": 10,
+      "lessonId": "96387b4e-98c7-423f-8968-797b032fd97f",
+      "title": "Escuta seletiva do acolhimento",
+      "content": "<p>Resolva só pela escuta e marque as palavras que sustentam a linha que evita a derrota total.</p>",
+      "contentPlain": "Resolva só pela escuta e marque as palavras que sustentam a linha que evita a derrota total.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6a8181d4cc454ce9af0d9e104b53b298_phase4-b02-no-haya-salido-esta-vez.mp3?Expires=1794099915&Signature=Su9H0Jb6qgG~5wuIbu9OqfD9R6Sl5hhU8bihCbRrS2fYRVdyC~JSSsYenEuNbTRVSHUt~Om5dsT6QFP5UHTl0OUECmGJlzaPlXOfzxJxeXkdGnnhE8V8gweu2GLQ~YisNEle6E6y7CHsQNRSOJf7SQ9eJN-kfPce2GHgjIyXCUHyT~Xctw31Oo6NqyCszmmdPwmgcuSrAfsB8kMLZD4~5ZUVOmT54TcYzsydRaSuY4UKKSuH65Ky-IfWn8k0bKC253zN9P8xQ1ow5RI4ELY4XlghU3e5nYC0if5zqMNEqs68HZr1eWDKx2uRWz1B-JRw0ELO7z8Awa-8IzcF1FQeJw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nessa fala, a escuta precisa segurar dificuldade presente e valor do trabalho feito ao mesmo tempo.",
+      "feedbackError": "Nessa fala, a escuta precisa segurar dificuldade presente e valor do trabalho feito ao mesmo tempo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2a344c29-ad9d-49b8-99ea-6ffbfe1f6b8b",
+          "text": "trabajo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3006023e-0fe7-4295-ad7c-589c9c633caa",
+          "text": "invalida",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "66715ece-e7a0-4bec-86cf-3ff840e80557",
+          "text": "manana",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9f1ef2e1-7d8e-414f-96df-e332215b78a0",
+          "text": "beca",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cffdf7b6-2652-4362-9d17-55ac84e1b4bc",
+          "text": "hiciste",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e2a46a42-0e87-4524-ad17-d7256c1a02b4",
+          "text": "cueste",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fc714cce-0364-4b96-a3fa-d0786e4e0238",
+          "text": "salido",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f74b8774-b1cd-4f90-bcf6-36daad2424d1",
+      "sequence": 11,
+      "lessonId": "005b5ae4-3efd-4cbf-b1d2-8fc1dc7698be",
+      "title": "Recupere a ajuda concreta",
+      "content": "<p>Si te viene bien, puedo __________ de la llamada.</p><p>Traducao: Se for bom para você, posso cuidar da ligação.</p>",
+      "contentPlain": "Si te viene bien, puedo __________ de la llamada. Traducao: Se for bom para você, posso cuidar da ligação.",
+      "fileUrl": null,
+      "feedbackSuccess": "Puedo encargarme de nomeia a tarefa exata e faz a disponibilidade soar verificável.",
+      "feedbackError": "Puedo encargarme de nomeia a tarefa exata e faz a disponibilidade soar verificável.",
+      "answerType": "buildWord",
+      "expectedAnswer": "encargarme",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8dd08841-4058-4070-81cf-dacda10d02fd",
+      "sequence": 12,
+      "lessonId": "005b5ae4-3efd-4cbf-b1d2-8fc1dc7698be",
+      "title": "Ouca e recupere o mapa final",
+      "content": "<p>Marque somente as palavras que entram nas três saídas principais do fechamento.</p>",
+      "contentPlain": "Marque somente as palavras que entram nas três saídas principais do fechamento.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/03564635513845b2b5234940ce905942_b09-recap-apoyo-real.mp3?Expires=1794099915&Signature=oF7QpI7RA5jWU~6Fg8r5vjZUbtDQNGZkUDf~XypBwOrV9bs9IgzBbLPkVMAKzLLyzmJ5QUvWx91pKyLg--qjJ4yzdS6ilA3NRPXh8fZD1q5g1QhaKl1TAEGTuBq9gCIm2DLnTI2UQ2MhC6f3-l5hRkkljHtw2lCmcv7wsmI0i71PbirVbDCy3ecwBENe30MwGQH8DEVdcAElK5d8Nwec-jDEzieQkiEjKOh3pA~Kcyw1i6zeb1eMOFO5VVpqI5w8JF5kTr6V7MEnbHM2nHLek-guvXXBfmi2lVRdepqRq1RRIQdVNUzFIAhb63lwLcttvzpmzGPkVZUYAx1gdy00kA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final recompõe os três gestos centrais da aula em uma única fala de apoio real.",
+      "feedbackError": "O recap final recompõe os três gestos centrais da aula em uma única fala de apoio real.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0e6d9cdf-c6f8-43b2-a1f8-2759c5afda74",
+          "text": "fácil",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1465a6f7-b168-4890-b589-1e2e47cc70ef",
+          "text": "cargar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "34ae59ec-9d23-4c17-a5d4-3156a5348902",
+          "text": "alegria",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "38b9efef-3482-4e45-9ce0-f4e2ebdadbea",
+          "text": "bien",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "40f71ae1-407a-4a3b-86ae-5799cfe00979",
+          "text": "encargarme",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4c61d061-a6d8-49c2-b2ab-76dab0570d3a",
+          "text": "solas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4f7b6c15-e8c7-439d-ba2a-0f79efdf2ed1",
+          "text": "llamada",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "91b4a09f-5d73-4b70-8157-d4370ca1b10c",
+          "text": "conmigo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9f0625af-42f3-43b0-abb6-da6013f26690",
+          "text": "reparar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "be2581a6-a392-476d-84a4-5db6b40c6e38",
+          "text": "aislado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f8618784-ff47-4123-880f-646605f8adfb",
+          "text": "negro",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fdb7c3ef-0559-4af9-b659-f61c830fbb46",
+          "text": "viene",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "ad71554c-7b24-4d01-afe0-b2aa4a318c41",
+      "sequence": 13,
+      "lessonId": "c0010f39-6aaa-4c18-b6a8-2b1962b30cc0",
+      "title": "Filtre a retomada pela escuta",
+      "content": "<p>Resolva só pela escuta e marque as palavras da frase em que a ação volta depois do contratempo.</p>",
+      "contentPlain": "Resolva só pela escuta e marque as palavras da frase em que a ação volta depois do contratempo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c14badcd7cbb407ba84930cc10acc518_phase4-b08-aun-asi-luana-abrio-la-cafeteria.mp3?Expires=1794099915&Signature=fZ6nvYxRMcVCnBTNO9HPOuI7BUuLNRdO-S2yrOQsazcbDCqxDeudQujf77RZLaKI5EhwBNZs4FhkIsIvbPx68SVXIvOeFZokSN5-RBX2NZyYOarNJuxwT0xAZU8EqbknLKUZ3dtCX0akA9re911vhcQKjJ0bAPCkcFqWJgt5M85fOYvy6ivSQHj7pHJulTq9xRGdp8MUfho5WausyNIj8qgKr9hOKwGySheVKUHjrQ3l8n-RySoyBHEBcQXWocQ4nSfCps40x8EDLe8XV2MmWTY5eM9RoUpKq~-qLPZXrrvIL3HEzXlK7NhZj0t3dUQsx35AiABsRpjauD7oXZMUYA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aun asi relança a continuidade depois que o contratempo já entrou na fala.",
+      "feedbackError": "Aun asi relança a continuidade depois que o contratempo já entrou na fala.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1ef3f919-d4ee-47f8-b321-94cd361e170e",
+          "text": "barrio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3a89661a-efb4-4379-b314-f33ba9f5e3ea",
+          "text": "prometedora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "578d57f4-972e-493b-93a4-211fc0ee10fd",
+          "text": "consejo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "63ba1e5d-69b5-49e9-8569-09d2bcce04f1",
+          "text": "aun",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "66bceb19-9a68-42b7-8316-691a8018a5a4",
+          "text": "asi",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a9bc8df6-5dba-40af-97d6-6fcdeec9b1e3",
+          "text": "reunion",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f002bc94-94d4-4c7e-92a6-32e1b7f11974",
+          "text": "luz",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f8918669-d5c0-4ce8-af32-c907932cd6a3",
+      "sequence": 14,
+      "lessonId": "96387b4e-98c7-423f-8968-797b032fd97f",
+      "title": "Recupere a continuidade",
+      "content": "<p>Aunque ahora te den ganas de dejarlo, si quieres manana lo miramos con calma y vemos por donde _________.</p><p>Tradução: Embora agora você fique com vontade de largar tudo, se quiser amanhã olhamos isso com calma e vemos por onde retomar isso.</p>",
+      "contentPlain": "Aunque ahora te den ganas de dejarlo, si quieres manana lo miramos con calma y vemos por donde _________. Tradução: Embora agora você fique com vontade de largar tudo, se quiser amanhã olhamos isso com calma e vemos por onde retomar isso.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Retomarlo` reabre um caminho concreto depois do revés e da vontade de desistir.",
+      "feedbackError": "`Retomarlo` reabre um caminho concreto depois do revés e da vontade de desistir.",
+      "answerType": "buildWord",
+      "expectedAnswer": "retomarlo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4365718e-2025-46a3-a165-de1602325d5d",
+      "sequence": 15,
+      "lessonId": "1d359381-cd40-4392-88f8-3e91882c60ec",
+      "title": "Recupere o conector da prévia",
+      "content": "<p>La semifinal llega en un momento delicado, ______ el equipo todavia compite con confianza.</p><p>Tradução: A semifinal chega em um momento delicado, embora a equipe ainda compita com confianca.</p>",
+      "contentPlain": "La semifinal llega en un momento delicado, ______ el equipo todavia compite con confianza. Tradução: A semifinal chega em um momento delicado, embora a equipe ainda compita com confianca.",
+      "fileUrl": null,
+      "feedbackSuccess": "A prévia da aula depende de aunque para reconhecer pressão sem zerar a competitividade.",
+      "feedbackError": "A prévia da aula depende de aunque para reconhecer pressão sem zerar a competitividade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "aunque",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+    "attemptId": "db5a259c-14f5-4c19-bbc4-8ae759bfac9b",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "7330178f-af29-4069-b300-9bc39cf5b5ad",
+      "b55571ad-b568-499f-9bc3-7ffa70d9fbf7",
+      "4e19958b-ec03-4f41-a5d6-3ef86d418b8c",
+      "b665e94f-2c59-46de-af68-d95f917516e3",
+      "d2da0a57-fcee-44ae-9fb6-e1a1cdf11a02"
+    ],
+    "evaluationExerciseIds": [
+      "3ef38cd9-15ac-4250-91d4-179104d2c5d8",
+      "50fbe1a3-a278-42cf-bdf8-25b9d2438348",
+      "3fe3b3ac-8d1a-4cfb-9730-5d0904d36486",
+      "a39fce5e-d73e-4390-9a6c-29cb998fa219",
+      "0457c46c-cd32-4960-9ef1-85dcbac14278"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:10.5114409Z"
+  },
+  "contents": [
+    {
+      "id": "c7fddc88-4cb7-47f3-9878-4fab52267daa",
+      "title": "Escute e leia a frase. Ligue a ação em espanhol ao apoio em português.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "6cd70d1b-5024-440c-b643-b413577d3432",
+          "textContent": "<p>Escute e observe o lembrete.</p><p><strong>Apaga la luz del pasillo.</strong></p><p>Em português: <strong>Apaga a luz do corredor.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e4b60f40ff60461db3d11ab8e6a99d50_b01-apaga-la-luz-del-pasillo.mp3?Expires=1794099611&Signature=HyKMqTWwPj7kh8~yCuNVfw9RrkUfDOpFTfjl-V3zk9HVyWiH8bKlbP4mXTmzVQkAVKH1wzu7243-aklyo5Rxm2OPLy11lvbL4GEeSgZHuciIUJpj6QQbN-QVgLA29rRDfk8tRpmCgPxqB28Mi65dsjCYmGm~OkWLO6aPkp5DwPGzjzOXM9V344zynaGtR8uniWxq4OxRScSZIVDmzZrds7yxDkNbBBwEGuCPYBipQGYb-Q2an04uOPK1GWJ~CWtzbnv3fkb-Nq2piTi-CQZ~DnBjBrM~FWD4b-aUwe1K0YmgFza72qnXHpOlvAeEr7owMAMBtlQ-R7Q9f3qzU33jLw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c0e1c913-b598-4397-a5a4-1670ee38378b",
+      "title": "Leia a nota curta e observe por que o verbo aparece logo no começo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "8ae9ff87-e0fe-47e8-bf92-92c17da771c6",
+          "textContent": "<p><strong>Apaga...</strong> funciona bem quando a ação precisa acontecer logo e o contexto já está claro para a outra pessoa.</p><p>O verbo vem primeiro e a frase vai direto ao ponto: uma ação, um objeto e nenhuma explicação longa.</p><p>Esse formato aparece muito em lembretes falados no corredor, na cozinha ou perto da porta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fe64a15c-b4e6-476e-9776-6cbd983f6a52",
+      "title": "Escute e leia a frase. Repare no objeto e no lugar que aparecem depois do verbo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "1a470df4-2a75-476d-b120-0993505c9525",
+          "textContent": "<p>Agora observe um lembrete de organização.</p><p><strong>Deja las llaves junto a la puerta.</strong></p><p>Em português: <strong>Deixa as chaves perto da porta.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e17c22c2f10f4bad988918f5cd5ffe1c_b03-deja-las-llaves-junto-a-la-puerta.mp3?Expires=1794099611&Signature=geHWvCuQ7VAH6atrtjryCayeZ8P-qfAqwvwdxTADR68DiFX3zumGbq-yyHKe7I4qtJ7RoW9Dy9ypmUO9Uel9g2KcYt514I2xrl4VychNVd-BOKox1jpO2ISQrXBpsCe90XkxXwueP-mjxXEQKJkzFNoeOJXUknVBvKB5oFGOObQmcaTTzltFJ4UR5yTpO9NClNIDbfQltO3Qh5XpBdtqG-mOJ8RvxFevQ96gZUh7DYknSekweqnDyXRMGTpvTOb7qEmGN94zMh6RLnWTzXtxggGceuUa9zM519Uv3CZEgsFEKbGl19F1fdn5N4bUOm6SgWa2C6S~txnO~tEpvU~dyg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3878854f-5d85-4787-8fbf-16085369fbaf",
+      "title": "Leia a nota e observe como o espanhol organiza objeto e lugar depois do verbo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "6895d0c3-6442-4825-9bd3-509cd9708eb4",
+          "textContent": "<p><strong>Deja...</strong> costuma aparecer em lembretes de organização: onde algo deve ficar quando alguém chega ou sai.</p><p>Depois do verbo, o espanhol indica o objeto e o lugar: <strong>las llaves</strong> + <strong>junto a la puerta</strong>.</p><p>Assim, o recado continua curto, mas já resolve a situação prática.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fe352191-a74a-439f-8f49-0d5b46370150",
+      "title": "Escute e leia a frase. Ligue o verbo ao cuidado prático do dia a dia.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "5150c0ed-fe75-4588-bb22-7baddfe51c1f",
+          "textContent": "<p>Agora o lembrete aponta para um cuidado da rotina.</p><p><strong>Guarda la comida en la nevera.</strong></p><p>Em português: <strong>Guarda a comida na geladeira.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/965eab88ee324592bd5b264c6312a4ec_b05-guarda-la-comida-en-la-nevera.mp3?Expires=1794099611&Signature=c~KgxoPS5GXexNGmXX-LER0DgiTOJTvq-Lr6SU4Y354wbxS9nQA1rWv0Res~NgA3XUujF0Yb74GCW-cWIC8b9adhN4JI~Dwa-E6sKkVDQQCtQ8DdOE49Q9Nm0WRkO-hWE-kp5nFyV~DNLIzQw7O7Ra0KYYZtiGH0qg1Vw3Tijeo7qGUkMYJ2lmZ1-E2xVgdeKdBwNwqDFz4OOYD-cguBR1HDLeD~66F-9ybhGZdUgRrvOecvs0y~6Hv4eo3Wo9U8u4ok6tJuZLlZpjcLz3zFHRBJpoUmVcmgy9TChPuy9hoEJ4X-js7v5t~z8uEq3QgurA2C5ZO~pusAmIgn6QNnMQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7088bfcc-1deb-484c-b98e-4398da8546b8",
+      "title": "Compare as três frases e observe o que se repete nelas.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "ad02d843-ca19-4184-8f2e-553acbaac804",
+          "textContent": "<p><strong>Apaga la luz del pasillo.</strong></p><p><strong>Deja las llaves junto a la puerta.</strong></p><p><strong>Guarda la comida en la nevera.</strong></p><p>Nas três frases, o espanhol abre com o verbo e depois vai para a informação prática que a outra pessoa precisa.</p><p>Se quiser suavizar o tom, muitas vezes basta acrescentar <strong>por favor</strong> ou falar com voz calma.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "584ebf25-568b-46d0-98f1-f236422a93bf",
+      "title": "Avisos rápidos na rotina da casa",
+      "description": "<p>Duas pessoas dividem a casa e trocam avisos curtos enquanto entram e saem.</p>",
+      "contentType": 7,
+      "sequenceItem": 8,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Oye, apaga la luz del pasillo, por favor.</div>\n  <div style=\"opacity: 0.45;\">Ei, apaga a luz do corredor, por favor.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ca94a26c3b34361a584e561f5eb0179_b07-dlg-01-oye-apaga-la-luz.mp3?Expires=1794099611&Signature=GxNfJ7SBIj8PHkFfMmvwZ~WsB~~SkpuPMOxVaFPBVQL2fMdk3KXBJIirFBjY5box6pxvq4WsmheBNzkLEelds-H9Cdixbu202vGw0tzHTnWXH3blurhCC4PNu724WTEk9GuEm6uN36ljctIYRfhfrM0NDy1iWPKbyXgHibjlYsq-45Mg~2yvcefpFqWWkJ3I5-vQsL4kgsufj0903QtzEq4NaeYhT2LYg61srOJOhvoy-wUhA38L0RLEXI1HKxZxdvt08xvAgSLFIjVVQRSYN4blZASX8XW~CR6FVaNRBkJ7Yj99iR7qJ3P8BEErwK3iF7YHLIEMA5KBl4Na8zsoaQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Vale. Y deja las llaves junto a la puerta cuando vuelvas.</div>\n  <div style=\"opacity: 0.45;\">Certo. E deixa as chaves perto da porta quando você voltar.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/15125cd196a44596b2dcd8a6661a32b9_b07-dlg-02-vale-y-deja-las-llaves.mp3?Expires=1794099611&Signature=tu6uU0Fyu3CV7HIEHODWQI9v5zM9TZwTXqRvW45acMVbY966CpP7ZECipQpkUrQIBPDtrO-3z7eDzr8w3RafIBccrvM7mL7IBJv5tu7kEQbUEGeh29f1zML4-Qe9vxdwiLLRgQElTrbx5zPHJ8KFBEv9ePmCiwdsbczJVd0Yb1jU4A4QUHGZv6UlBDHoEu9DZNCdsOhdgXkKkZ1jej8uaN5rltEG6RHufCIenms7kxa2GB3glQnFRRZ9y0Q9Bt3x0STRjbIrkaFXjvVWdx9eV-Kk5a9Oym9yKRfxwmNYYzM9gkdesSzalO8FYhInGhoyC8y3HGLWV1fJCp5KFvXEQA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Claro. Ah, guarda la comida en la nevera.</div>\n  <div style=\"opacity: 0.45;\">Claro. Ah, guarda a comida na geladeira.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7234feab873c4ea5ab1c92f4fc7ff0f6_b07-dlg-03-claro-guarda-la-comida.mp3?Expires=1794099611&Signature=c2hvdlfZuQUNPU2oLqmnqcedGAAzXNcdTOojLGp6DTUy7x-yoCLGGJuvQiEM-LOq0NBkv78JjvRW6Xn6pc8tV89B6VwiWSZYpCiBGeN-BVYWiLNm0219wlaZat0CiKV860ZjmaK9sg77-g~fAPjHcqaU0AfPECQnd01UfTGRIWDy2HYe1c1QGDd~-OyIHdAjFV1WRvzt-aN14P2QhrOw5nfo2pBDT0CU~0XeXeqa5Dxt5i30RoomXdAFJzwXuYeCYE6U25Ao49P~KPGw58-0UlWy6LwY9CcQz2vIGvPNnneJh6tTJyB0vKiGbbZP2t0dBziVFF76v88ebUvkrw1W4A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Hecho, ahora mismo.</div>\n  <div style=\"opacity: 0.45;\">Feito, agora mesmo.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/17a9085336af4621b5e9f9a421450bd3_b07-dlg-04-hecho-no-se-queda-nada-fuera.mp3?Expires=1794099611&Signature=NzebIxNEhtuuFnYA6e53Nty0cWuzW8BrFaCipu0hjMeQh1AJd6Brq7SUlltOpJu32HYd8wqFZVXf8mb5R4welxdf9RGHLaBn1V-8WqOKPMWIdQqCp97r1PNRoYnOI4IiRTzHKc-A8J8L3ydp~U9WnosjCOKHVKnMv5mpvH4JC2QnKnW~29nz30BZDRtLyvWD1pIYva9BpAhZIBt2JExeGlNeEQ3IdWehf4nGaBOTUVb2AFJz9JDnMylUfMNJQ3eJTIKx8fGp2eD9ApI6Z6UHSxsmFkkK5B295tn7gDwnzYSK22eaIhOuxlelhHe7hP4-c~bvXdy8SXE3dJBWEiRp6Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "94d3b2ee-3f27-459f-9c15-bc60050fe741",
+      "title": "Leia o recap final e pense em onde essas frases caberiam na sua rotina.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "cabd787d-1af9-4567-b51d-74c01001af52",
+          "textContent": "<p>Esses lembretes curtos aparecem quando alguém fala no corredor, deixa um recado na cozinha ou manda uma mensagem no grupo da casa.</p><p><strong>Apaga la luz del pasillo.</strong> <strong>Deja las llaves junto a la puerta.</strong> <strong>Guarda la comida en la nevera.</strong></p><p>Na vida real, o imperativo afirmativo ajuda a organizar pequenas ações sem transformar o recado em uma explicação longa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "dbf213c6-8bdc-4381-a7f6-081bf0961163",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "36022b9e-cc5f-47c5-949d-f2060e494775",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c382479924ff43d6ba1a54f8e2201394_MEC-IDM_MODB1-CAP_09-AULA_04.mp4?Expires=1794099611&Signature=LOt4HPruuZfYCyjeYOIZFTGz76bA4oHqZJm7xfYkS94coczMkB0LYzvUIIdp-iaGdFYsZmHbEp~yMMpj7iho0A0snuL4nra6N8Fg96DBbqrqjhddTA14OIrv0LAgfdZOtc0NkxknmkZAxkoiu4ETakfPvUZ07O4~wiI8v2GA-XvWa1LjAYxNHMEuTg0ogdQL1cDGat73~kOZeRfnh2piNHrSPVgR52gIFxkMwnLjniKsBHOMQWYMnCvrHgLXFWCl80PiRoiqq2j1UyJrmL8qpIv6BL2-Xfql1pdHvaE6E6fAtrmdCaHQ5WG6gUZh~NRrs31Pya571b-WBo3ycp58oA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c382479924ff43d6ba1a54f8e2201394_MEC-IDM_MODB1-CAP_09-AULA_04.mp4?Expires=1794099611&Signature=LOt4HPruuZfYCyjeYOIZFTGz76bA4oHqZJm7xfYkS94coczMkB0LYzvUIIdp-iaGdFYsZmHbEp~yMMpj7iho0A0snuL4nra6N8Fg96DBbqrqjhddTA14OIrv0LAgfdZOtc0NkxknmkZAxkoiu4ETakfPvUZ07O4~wiI8v2GA-XvWa1LjAYxNHMEuTg0ogdQL1cDGat73~kOZeRfnh2piNHrSPVgR52gIFxkMwnLjniKsBHOMQWYMnCvrHgLXFWCl80PiRoiqq2j1UyJrmL8qpIv6BL2-Xfql1pdHvaE6E6fAtrmdCaHQ5WG6gUZh~NRrs31Pya571b-WBo3ycp58oA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "7330178f-af29-4069-b300-9bc39cf5b5ad",
+      "title": "Escolha o lembrete do corredor",
+      "content": "<p>Qual opção recupera o lembrete da aula para apagar a luz de uma área comum, o corredor?</p>",
+      "contentPlain": "Qual opção recupera o lembrete da aula para apagar a luz de uma área comum, o corredor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, o imperativo afirmativo abre o lembrete e vai direto para a ação prática.",
+      "feedbackError": "Nesta aula, o imperativo afirmativo abre o lembrete e vai direto para a ação prática.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0381389d-205e-4f66-9354-08a018473d90",
+          "textContent": "Guarda la comida en la nevera.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7330178f-af29-4069-b300-9bc39cf5b5ad"
+        },
+        {
+          "id": "07408cb6-c636-47ed-999d-28495063c7f0",
+          "textContent": "Deja las llaves junto a la puerta.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7330178f-af29-4069-b300-9bc39cf5b5ad"
+        },
+        {
+          "id": "13e784db-c6ee-41ae-815b-0c0ab0fe348c",
+          "textContent": "Apaga la luz del pasillo.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7330178f-af29-4069-b300-9bc39cf5b5ad"
+        },
+        {
+          "id": "b5524a40-2dab-4345-a9d4-5b778de3881c",
+          "textContent": "Deja las llaves junto a la puerta cuando vuelvas.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7330178f-af29-4069-b300-9bc39cf5b5ad"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "b55571ad-b568-499f-9bc3-7ffa70d9fbf7",
+      "title": "Identifique o lembrete da cozinha",
+      "content": "<p>Escute a frase e marque apenas as palavras que você realmente ouve.</p>",
+      "contentPlain": "Escute a frase e marque apenas as palavras que você realmente ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d5593828978461c9fd01da6e0cf64dc_b05-guarda-la-comida-en-la-nevera.mp3?Expires=1794099611&Signature=ZshA1nOM2TEtUU4ZVP3wpGEWhFzN4~~jG3~LPKFAU6w3iyQl4IDXiZmxPnKpoNiVtOAcIqeHs9Z-fY9S3q1AFZqf9aZjQQvwdyMNqv~oQ01lLOykR4IpRaTlYOy-bRe2irpjxw1ojVd2qVMJjmdXU-chb96NVgySFi8I9IajEKXCh1JDGho0RarFa7D4z2f31BpHw7LRH-9JmfJfLHkfirzIM8O6-jsumTsOmmX6c9Ybj7VnXvGlE1zuGaU2-P00N4EWy2LLxk2c~P289XJaJamdX4svUyFerP5--d69FL2tbxM0rUJ50MILe2bta98agFSovTcLZX7J0uVYu1iCLw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Neste lembrete, o verbo e o lugar ajudam a resolver um cuidado prático da rotina.",
+      "feedbackError": "Neste lembrete, o verbo e o lugar ajudam a resolver um cuidado prático da rotina.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1d79da0d-2b24-4361-bbd0-6e6d647f5bff",
+          "textContent": "llaves",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b55571ad-b568-499f-9bc3-7ffa70d9fbf7"
+        },
+        {
+          "id": "426fcd20-1a0f-45f3-9432-8f9768d087a0",
+          "textContent": "pasillo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b55571ad-b568-499f-9bc3-7ffa70d9fbf7"
+        },
+        {
+          "id": "53834965-f114-4225-a6b8-7d13254abdbd",
+          "textContent": "puerta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b55571ad-b568-499f-9bc3-7ffa70d9fbf7"
+        },
+        {
+          "id": "7a7a68a2-d362-4b4e-9b27-5f7e914dd6f6",
+          "textContent": "guarda",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b55571ad-b568-499f-9bc3-7ffa70d9fbf7"
+        },
+        {
+          "id": "b58bea39-b48b-4154-8caa-696c2e5b04f6",
+          "textContent": "nevera",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b55571ad-b568-499f-9bc3-7ffa70d9fbf7"
+        },
+        {
+          "id": "dcf45b3a-42ae-4ebd-9d7c-c97604d0daea",
+          "textContent": "comida",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b55571ad-b568-499f-9bc3-7ffa70d9fbf7"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4e19958b-ec03-4f41-a5d6-3ef86d418b8c",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta o lembrete com tom educado.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta o lembrete com tom educado.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ca94a26c3b34361a584e561f5eb0179_b07-dlg-01-oye-apaga-la-luz.mp3?Expires=1794099611&Signature=GxNfJ7SBIj8PHkFfMmvwZ~WsB~~SkpuPMOxVaFPBVQL2fMdk3KXBJIirFBjY5box6pxvq4WsmheBNzkLEelds-H9Cdixbu202vGw0tzHTnWXH3blurhCC4PNu724WTEk9GuEm6uN36ljctIYRfhfrM0NDy1iWPKbyXgHibjlYsq-45Mg~2yvcefpFqWWkJ3I5-vQsL4kgsufj0903QtzEq4NaeYhT2LYg61srOJOhvoy-wUhA38L0RLEXI1HKxZxdvt08xvAgSLFIjVVQRSYN4blZASX8XW~CR6FVaNRBkJ7Yj99iR7qJ3P8BEErwK3iF7YHLIEMA5KBl4Na8zsoaQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, o lembrete curto pode soar natural com um chamado breve e por favor.",
+      "feedbackError": "No diálogo, o lembrete curto pode soar natural com um chamado breve e por favor.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Oye, apaga la luz del pasillo, por favor.",
+      "typeSpecificData": "{\"expectedText\":\"Oye, apaga la luz del pasillo, por favor.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/0ca94a26c3b34361a584e561f5eb0179_b07-dlg-01-oye-apaga-la-luz.mp3?Expires=1794099611\\u0026Signature=GxNfJ7SBIj8PHkFfMmvwZ~WsB~~SkpuPMOxVaFPBVQL2fMdk3KXBJIirFBjY5box6pxvq4WsmheBNzkLEelds-H9Cdixbu202vGw0tzHTnWXH3blurhCC4PNu724WTEk9GuEm6uN36ljctIYRfhfrM0NDy1iWPKbyXgHibjlYsq-45Mg~2yvcefpFqWWkJ3I5-vQsL4kgsufj0903QtzEq4NaeYhT2LYg61srOJOhvoy-wUhA38L0RLEXI1HKxZxdvt08xvAgSLFIjVVQRSYN4blZASX8XW~CR6FVaNRBkJ7Yj99iR7qJ3P8BEErwK3iF7YHLIEMA5KBl4Na8zsoaQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b665e94f-2c59-46de-af68-d95f917516e3",
+      "title": "Escute e combine os lembretes",
+      "content": "<p>Ligue cada gravação curta ao lembrete certo para recuperar o mapa central da aula.</p>",
+      "contentPlain": "Ligue cada gravação curta ao lembrete certo para recuperar o mapa central da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa da aula junta três lembretes curtos com verbo no começo.",
+      "feedbackError": "O mapa da aula junta três lembretes curtos com verbo no começo.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "ff3d6693-e328-43f7-abcd-0129cf7db402",
+          "exerciseId": "b665e94f-2c59-46de-af68-d95f917516e3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ac4ade262a748058cba5fd84118aa4e_b01-apaga-la-luz-del-pasillo.mp3?Expires=1794099611&Signature=TUO8Acka7TrZ32e3~PFdcK9zunsvyMvkPpAyqMGYdPknjVE1MC-9saL8pFVi8Z8-DaDKRJOGpuXr3Aix-NH4aE8qwLu2J55JEMHBuXjh6JqVK-wvxZnxmzBuEmvFWy8Z3HXplH-AY7CgP~HgYfCWD3VzDv1v-omx69HV4LZaL~KxU-Uf0jhma7gz~bYJgUDDC87HrLinKK4DUNZp2~4J8mMrsvlj7Mvw30rJ-utFieq7cUeEzclFeArgZ5q98ZqWKu9t~0ZdGgHAYXPJJNV8kAjpoqUWvbVv4a2p-Dg1IOAvUOwdtBIDWKCtuc7UFIDTMvmOWv7nQp8dOJ6k9qU14w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Apaga la luz del pasillo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e27db69f-b508-49ec-88b6-4b7ef0a8ecb5",
+          "exerciseId": "b665e94f-2c59-46de-af68-d95f917516e3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e133951d8c4941a8a26e06f4cf3c20bb_b03-deja-las-llaves-junto-a-la-puerta.mp3?Expires=1794099611&Signature=GNcQjvg~YFBSc0JSDPKr3zMlwp869yZhlEHdZKenzNNRDSv-M0n4VLtcT~0BTEbyUviN-cUbo2ZrmHvSWtgm5zkKBod7SmTckpOJfV1FiEAbRBrfxDY56uiYlDs6ZnT9MkLY~w3EMG2AUK2IR9CQmhSqHQMwz9CQ0P37JGLm6wwyTNSs0wBjNJ8i18rrldfXEpuffm0IHHhzaigblBqSisSvMQ4BzL1dN56xG5l04kJwjBLGA8Y6VFWfmU0h7JPGq3iKhXnqHUKXiepCWXn~2nedfftYx9Zfv9oon1qVGys802ffOSyqSG1s2zpVOKUUv9H2YpdWRbwJd3FuJeOgjQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Deja las llaves junto a la puerta.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7c235edb-3840-4ab6-b330-73cc71a52a69",
+          "exerciseId": "b665e94f-2c59-46de-af68-d95f917516e3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d5593828978461c9fd01da6e0cf64dc_b05-guarda-la-comida-en-la-nevera.mp3?Expires=1794099611&Signature=ZshA1nOM2TEtUU4ZVP3wpGEWhFzN4~~jG3~LPKFAU6w3iyQl4IDXiZmxPnKpoNiVtOAcIqeHs9Z-fY9S3q1AFZqf9aZjQQvwdyMNqv~oQ01lLOykR4IpRaTlYOy-bRe2irpjxw1ojVd2qVMJjmdXU-chb96NVgySFi8I9IajEKXCh1JDGho0RarFa7D4z2f31BpHw7LRH-9JmfJfLHkfirzIM8O6-jsumTsOmmX6c9Ybj7VnXvGlE1zuGaU2-P00N4EWy2LLxk2c~P289XJaJamdX4svUyFerP5--d69FL2tbxM0rUJ50MILe2bta98agFSovTcLZX7J0uVYu1iCLw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Guarda la comida en la nevera.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "d2da0a57-fcee-44ae-9fb6-e1a1cdf11a02",
+      "title": "Ligue frase e significado",
+      "content": "<p>Recupere o recap da aula ligando cada lembrete em espanhol ao seu sentido em português.</p>",
+      "contentPlain": "Recupere o recap da aula ligando cada lembrete em espanhol ao seu sentido em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "As três frases da aula mantêm verbo primeiro e informação prática depois.",
+      "feedbackError": "As três frases da aula mantêm verbo primeiro e informação prática depois.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "56923e05-b474-4914-b73b-0876754ea989",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d2da0a57-fcee-44ae-9fb6-e1a1cdf11a02"
+        },
+        {
+          "id": "ad45fbf8-455b-4ff9-b5b9-7673188328a1",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d2da0a57-fcee-44ae-9fb6-e1a1cdf11a02"
+        }
+      ],
+      "associations": [
+        {
+          "id": "aef57864-4367-4929-b805-4eb034b02924",
+          "exerciseId": "d2da0a57-fcee-44ae-9fb6-e1a1cdf11a02",
+          "leftContent": "Apaga la luz del pasillo.",
+          "rightContent": "Apaga a luz do corredor",
+          "sequenceItem": 1
+        },
+        {
+          "id": "42c06844-ac49-4d64-94a1-4914f496f5c9",
+          "exerciseId": "d2da0a57-fcee-44ae-9fb6-e1a1cdf11a02",
+          "leftContent": "Deja las llaves junto a la puerta.",
+          "rightContent": "Deixa as chaves perto da porta",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1859b4de-e45b-4c23-b94a-cf400a81e5fd",
+          "exerciseId": "d2da0a57-fcee-44ae-9fb6-e1a1cdf11a02",
+          "leftContent": "Guarda la comida en la nevera.",
+          "rightContent": "Guarda a comida na geladeira",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "3ef38cd9-15ac-4250-91d4-179104d2c5d8",
+      "title": "Complete o verbo do lembrete",
+      "content": "<p>_____ la luz del pasillo.</p><p>Tradução: Apaga a luz do corredor.</p>",
+      "contentPlain": "_____ la luz del pasillo. Tradução: Apaga a luz do corredor.",
+      "fileUrl": null,
+      "feedbackSuccess": "O lembrete da aula começa com Apaga para pedir uma ação imediata.",
+      "feedbackError": "O lembrete da aula começa com Apaga para pedir uma ação imediata.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Apaga",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "50fbe1a3-a278-42cf-bdf8-25b9d2438348",
+      "title": "Recupere o lembrete no diálogo",
+      "content": "<p>Escute a fala com um aviso rápido e marque só as palavras centrais do lembrete.</p>",
+      "contentPlain": "Escute a fala com um aviso rápido e marque só as palavras centrais do lembrete.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7234feab873c4ea5ab1c92f4fc7ff0f6_b07-dlg-03-claro-guarda-la-comida.mp3?Expires=1794099611&Signature=c2hvdlfZuQUNPU2oLqmnqcedGAAzXNcdTOojLGp6DTUy7x-yoCLGGJuvQiEM-LOq0NBkv78JjvRW6Xn6pc8tV89B6VwiWSZYpCiBGeN-BVYWiLNm0219wlaZat0CiKV860ZjmaK9sg77-g~fAPjHcqaU0AfPECQnd01UfTGRIWDy2HYe1c1QGDd~-OyIHdAjFV1WRvzt-aN14P2QhrOw5nfo2pBDT0CU~0XeXeqa5Dxt5i30RoomXdAFJzwXuYeCYE6U25Ao49P~KPGw58-0UlWy6LwY9CcQz2vIGvPNnneJh6tTJyB0vKiGbbZP2t0dBziVFF76v88ebUvkrw1W4A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, o lembrete reaparece com a mesma estrutura curta vista antes.",
+      "feedbackError": "No diálogo, o lembrete reaparece com a mesma estrutura curta vista antes.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "3406492c-c87a-45b1-9673-9a59bba70d89",
+          "textContent": "nevera",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "50fbe1a3-a278-42cf-bdf8-25b9d2438348"
+        },
+        {
+          "id": "9a532389-3428-4975-8b02-6dddad8badf7",
+          "textContent": "comida",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "50fbe1a3-a278-42cf-bdf8-25b9d2438348"
+        },
+        {
+          "id": "9b3a8230-8fee-47d2-80e2-e9b53df4a8e7",
+          "textContent": "pasillo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "50fbe1a3-a278-42cf-bdf8-25b9d2438348"
+        },
+        {
+          "id": "af8b3cce-c23b-4fdf-9eb7-51b732b1efdc",
+          "textContent": "llaves",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "50fbe1a3-a278-42cf-bdf8-25b9d2438348"
+        },
+        {
+          "id": "e305d30d-5a87-4231-8fe4-3b1f3ce4284d",
+          "textContent": "guarda",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "50fbe1a3-a278-42cf-bdf8-25b9d2438348"
+        },
+        {
+          "id": "eaa35d8a-54f2-423c-b86e-164f4a2db357",
+          "textContent": "puerta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "50fbe1a3-a278-42cf-bdf8-25b9d2438348"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "3fe3b3ac-8d1a-4cfb-9730-5d0904d36486",
+      "title": "Ligue lembrete e situação",
+      "content": "<p>Reuse o mapa da aula e conecte cada frase a um uso real da convivência em casa.</p>",
+      "contentPlain": "Reuse o mapa da aula e conecte cada frase a um uso real da convivência em casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula mostra que o imperativo curto organiza a casa com uma ação clara e um detalhe prático.",
+      "feedbackError": "A aula mostra que o imperativo curto organiza a casa com uma ação clara e um detalhe prático.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "296f126b-3028-4b7d-8c08-876b968ff499",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3fe3b3ac-8d1a-4cfb-9730-5d0904d36486"
+        },
+        {
+          "id": "da349083-680a-433c-a06c-5c5b1c2b5639",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3fe3b3ac-8d1a-4cfb-9730-5d0904d36486"
+        }
+      ],
+      "associations": [
+        {
+          "id": "48327904-59f5-4144-b0b8-c09293f6e3d7",
+          "exerciseId": "3fe3b3ac-8d1a-4cfb-9730-5d0904d36486",
+          "leftContent": "Apaga la luz del pasillo.",
+          "rightContent": "desligar a luz de uma área comum",
+          "sequenceItem": 1
+        },
+        {
+          "id": "47e27d90-be1f-4c2d-823a-6d96745e7e8f",
+          "exerciseId": "3fe3b3ac-8d1a-4cfb-9730-5d0904d36486",
+          "leftContent": "Deja las llaves junto a la puerta.",
+          "rightContent": "deixar um objeto sempre no mesmo lugar",
+          "sequenceItem": 2
+        },
+        {
+          "id": "33bb2915-5ce4-4836-87e1-0b0f55c9bcf2",
+          "exerciseId": "3fe3b3ac-8d1a-4cfb-9730-5d0904d36486",
+          "leftContent": "Guarda la comida en la nevera.",
+          "rightContent": "guardar algo na geladeira depois de usar",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "a39fce5e-d73e-4390-9a6c-29cb998fa219",
+      "title": "Complete o objeto do lembrete",
+      "content": "<p>Deja las ______ junto a la puerta.</p><p>Tradução: Deixa as chaves perto da porta.</p>",
+      "contentPlain": "Deja las ______ junto a la puerta. Tradução: Deixa as chaves perto da porta.",
+      "fileUrl": null,
+      "feedbackSuccess": "No lembrete da entrada, llaves aparece entre o verbo e o lugar.",
+      "feedbackError": "No lembrete da entrada, llaves aparece entre o verbo e o lugar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "llaves",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0457c46c-cd32-4960-9ef1-85dcbac14278",
+      "title": "Recupere o diálogo completo",
+      "content": "<p>Ligue cada gravação à sua fala para recuperar a troca de avisos da casa.</p>",
+      "contentPlain": "Ligue cada gravação à sua fala para recuperar a troca de avisos da casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final recicla os três lembretes da aula em uma troca curta de casa compartilhada.",
+      "feedbackError": "O diálogo final recicla os três lembretes da aula em uma troca curta de casa compartilhada.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "d173e45b-2737-4ba0-b83d-71cb4bda8e74",
+          "exerciseId": "0457c46c-cd32-4960-9ef1-85dcbac14278",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ca94a26c3b34361a584e561f5eb0179_b07-dlg-01-oye-apaga-la-luz.mp3?Expires=1794099611&Signature=GxNfJ7SBIj8PHkFfMmvwZ~WsB~~SkpuPMOxVaFPBVQL2fMdk3KXBJIirFBjY5box6pxvq4WsmheBNzkLEelds-H9Cdixbu202vGw0tzHTnWXH3blurhCC4PNu724WTEk9GuEm6uN36ljctIYRfhfrM0NDy1iWPKbyXgHibjlYsq-45Mg~2yvcefpFqWWkJ3I5-vQsL4kgsufj0903QtzEq4NaeYhT2LYg61srOJOhvoy-wUhA38L0RLEXI1HKxZxdvt08xvAgSLFIjVVQRSYN4blZASX8XW~CR6FVaNRBkJ7Yj99iR7qJ3P8BEErwK3iF7YHLIEMA5KBl4Na8zsoaQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Oye, apaga la luz del pasillo, por favor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2da793dd-7697-4bca-91ed-e112692af62e",
+          "exerciseId": "0457c46c-cd32-4960-9ef1-85dcbac14278",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/15125cd196a44596b2dcd8a6661a32b9_b07-dlg-02-vale-y-deja-las-llaves.mp3?Expires=1794099611&Signature=tu6uU0Fyu3CV7HIEHODWQI9v5zM9TZwTXqRvW45acMVbY966CpP7ZECipQpkUrQIBPDtrO-3z7eDzr8w3RafIBccrvM7mL7IBJv5tu7kEQbUEGeh29f1zML4-Qe9vxdwiLLRgQElTrbx5zPHJ8KFBEv9ePmCiwdsbczJVd0Yb1jU4A4QUHGZv6UlBDHoEu9DZNCdsOhdgXkKkZ1jej8uaN5rltEG6RHufCIenms7kxa2GB3glQnFRRZ9y0Q9Bt3x0STRjbIrkaFXjvVWdx9eV-Kk5a9Oym9yKRfxwmNYYzM9gkdesSzalO8FYhInGhoyC8y3HGLWV1fJCp5KFvXEQA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vale. Y deja las llaves junto a la puerta cuando vuelvas.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3785d31e-3466-4232-bc38-508612af22f3",
+          "exerciseId": "0457c46c-cd32-4960-9ef1-85dcbac14278",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7234feab873c4ea5ab1c92f4fc7ff0f6_b07-dlg-03-claro-guarda-la-comida.mp3?Expires=1794099611&Signature=c2hvdlfZuQUNPU2oLqmnqcedGAAzXNcdTOojLGp6DTUy7x-yoCLGGJuvQiEM-LOq0NBkv78JjvRW6Xn6pc8tV89B6VwiWSZYpCiBGeN-BVYWiLNm0219wlaZat0CiKV860ZjmaK9sg77-g~fAPjHcqaU0AfPECQnd01UfTGRIWDy2HYe1c1QGDd~-OyIHdAjFV1WRvzt-aN14P2QhrOw5nfo2pBDT0CU~0XeXeqa5Dxt5i30RoomXdAFJzwXuYeCYE6U25Ao49P~KPGw58-0UlWy6LwY9CcQz2vIGvPNnneJh6tTJyB0vKiGbbZP2t0dBziVFF76v88ebUvkrw1W4A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Claro. Ah, guarda la comida en la nevera.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c90a7038-0bb5-4d98-a141-849a6ea63e5d",
+          "exerciseId": "0457c46c-cd32-4960-9ef1-85dcbac14278",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/17a9085336af4621b5e9f9a421450bd3_b07-dlg-04-hecho-no-se-queda-nada-fuera.mp3?Expires=1794099611&Signature=NzebIxNEhtuuFnYA6e53Nty0cWuzW8BrFaCipu0hjMeQh1AJd6Brq7SUlltOpJu32HYd8wqFZVXf8mb5R4welxdf9RGHLaBn1V-8WqOKPMWIdQqCp97r1PNRoYnOI4IiRTzHKc-A8J8L3ydp~U9WnosjCOKHVKnMv5mpvH4JC2QnKnW~29nz30BZDRtLyvWD1pIYva9BpAhZIBt2JExeGlNeEQ3IdWehf4nGaBOTUVb2AFJz9JDnMylUfMNJQ3eJTIKx8fGp2eD9ApI6Z6UHSxsmFkkK5B295tn7gDwnzYSK22eaIhOuxlelhHe7hP4-c~bvXdy8SXE3dJBWEiRp6Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hecho, ahora mismo.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Dar lembretes e instruções na rotina"
+}

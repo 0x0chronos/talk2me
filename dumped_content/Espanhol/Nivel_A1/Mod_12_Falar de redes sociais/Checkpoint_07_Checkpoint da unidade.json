@@ -1,0 +1,582 @@
+{
+  "attemptId": "a5c4ad02-7823-461d-90e0-d541a11bfc5d",
+  "exercises": [
+    {
+      "exerciseId": "e6ba78ed-473d-48e3-9801-851b8a6353b8",
+      "sequence": 1,
+      "lessonId": "46e83264-95cd-4807-a1da-adc70a11b856",
+      "title": "Complete a parte central da frase",
+      "content": "<p>Me _____ correr.</p><p>Tradução: Eu gosto de correr.</p>",
+      "contentPlain": "Me _____ correr. Tradução: Eu gosto de correr.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, gusta aparece antes do infinitivo para dizer de que atividade você gosta.",
+      "feedbackError": "Nesta aula, gusta aparece antes do infinitivo para dizer de que atividade você gosta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "gusta",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8601446c-a626-4c0c-9e26-21121ee3f105",
+      "sequence": 2,
+      "lessonId": "f50d8e12-4993-4262-b151-6be2f60e58ab",
+      "title": "Recupere a pergunta pelo momento",
+      "content": "<p>¿______ salimos de fiesta?</p><p>Tradução: Quando saímos para festejar?</p>",
+      "contentPlain": "¿______ salimos de fiesta? Tradução: Quando saímos para festejar?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, cuándo é a forma usada para perguntar pelo momento.",
+      "feedbackError": "Nesta aula, cuándo é a forma usada para perguntar pelo momento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Cuándo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0604d34e-3a8c-4231-959d-9ec4ce4f9d22",
+      "sequence": 3,
+      "lessonId": "a02c09bf-a3f7-4761-9c7c-81a41a422ad5",
+      "title": "Complete o fechamento do horário",
+      "content": "<p>________ a las nueve.</p><p>Tradução: Combinamos às nove.</p>",
+      "contentPlain": "________ a las nueve. Tradução: Combinamos às nove.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula usa quedamos a... para transformar a ideia em plano marcado.",
+      "feedbackError": "O fechamento da aula usa quedamos a... para transformar a ideia em plano marcado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Quedamos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a9d8353a-3dc9-4b44-a2c7-849c04aa32ef",
+      "sequence": 4,
+      "lessonId": "a53934d3-e065-4cb5-8db3-c80008138dc0",
+      "title": "Complete a frase do encontro",
+      "content": "<p>_____ con amigos.</p><p>Tradução: Eu combino de encontrar amigos.</p>",
+      "contentPlain": "_____ con amigos. Tradução: Eu combino de encontrar amigos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula contrasta marcar algo com amigos, ir ao cinema e tomar um café em encontros simples.",
+      "feedbackError": "Esta aula contrasta marcar algo com amigos, ir ao cinema e tomar um café em encontros simples.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Quedo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "44cdc214-6825-4df7-8850-1b47d9331aa4",
+      "sequence": 5,
+      "lessonId": "a53934d3-e065-4cb5-8db3-c80008138dc0",
+      "title": "Recupere a frase pela escuta",
+      "content": "<p>Resolva pela escuta e marque somente as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Resolva pela escuta e marque somente as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/846317f582e1451291a37458e00e237a_tomo-un-cafe-con-amigos.mp3?Expires=1794099464&Signature=YnyW09Kgcd53D0ifjyKl5VxdoMaa11mSgFX4DSSBCgfyFVPUFK~r4~IL~6Wpsgqq8WqleS8g0LSGe9G3Aw~8WimTVo7ZU54p86WBw0i2~995vBDTCw-awGbUkPCQuWAiG0kp-pHy-r8Psdoj-~ZxnVbX29ed3UWkFxn7vCzk-bC72cHK4B1NEy70lAwT-iUMPUh2WwaR8m7V7wDkYowF9oxVzNwNgJKjE0vXU8NfotGG21xgsGbIZyF1qDyUArAGN3z2ChuRevteMBzFNYtZRajZT1pdLNMClKLOVwUfnaDsAGuFD9si3YxfhJ2cNCYRtW7aGPvy8hnV4gadTr6QNw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta aula contrasta marcar algo com amigos, ir ao cinema e tomar um café em encontros simples.",
+      "feedbackError": "Esta aula contrasta marcar algo com amigos, ir ao cinema e tomar um café em encontros simples.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0b70a189-e860-4031-94f7-02c340bbd05c",
+          "text": "cine",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2eb40ebb-6ea7-4f2c-9d96-cfe8ba24fcf2",
+          "text": "café",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4573eed2-0f01-4ca4-8a52-205e463061f7",
+          "text": "Voy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "50796f5d-99de-49e8-9d0f-c703c8f84262",
+          "text": "Tomo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "66869825-b55d-48fe-afc0-e48b5fca4877",
+          "text": "amigos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ce8524e2-a438-47b7-bde5-f525403fa8c0",
+          "text": "un",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e0b58180-65ea-422f-b678-06d323770a05",
+          "text": "con",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "fd8a16ff-9947-4949-b83c-b1f9628eb921",
+      "sequence": 6,
+      "lessonId": "46e83264-95cd-4807-a1da-adc70a11b856",
+      "title": "Reconstrua as frases principais",
+      "content": "<p>Agora passe da escuta para a frase completa e relacione cada áudio à escrita correta.</p>",
+      "contentPlain": "Agora passe da escuta para a frase completa e relacione cada áudio à escrita correta.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final junta as três frases que usam me gusta para falar do tempo livre.",
+      "feedbackError": "O resumo final junta as três frases que usam me gusta para falar do tempo livre.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "65f28687-8ad7-493a-8c3e-9b7396b8d49f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ec6cd4188be24ef4ab80fd89573da4af_b03-me-gusta-correr.mp3?Expires=1794099464&Signature=lnRBp4Uksv037mOsCQGmRLrGc7XA6~dHplnoGl86fxpqtYepomQXu406rdCIJRc439PQOpTxfAd2Lqf4ob9Xv4oxJUhGrpkhBBWL0q9LOsA-43iEcy~0PXzsZ~nfoxUJ564oMlUfiSzJ0~VkYa0XdfMo0671WmELU4dvdjsP1yHACxsgioG0K6OvzQ7OBLyEN1TTbp7skPJC8gh2jL8moyk6j17BkUSAQ3C4zHVRL6NKTSPtbEFzGMCLlWpOT1Sm8OUBAlveEjR4LHR8cesEI6RFcH5jBu6ESAyFAAuqzrpiXkREh9Ah90zgttaqMJ6KbgNuB3GAF2ktTKDcaM6cUA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me gusta correr.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9127f7d4-9db7-4a30-8033-0f3d389c0b40",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/29e8e440f21e499d9f750fba6fc95d10_b05-me-gusta-leer.mp3?Expires=1794099464&Signature=s-5pkXuMxC7oEMnexN0Qwpuok8oh7tXu3TRyKrF1nVhuAKKuuB3j7LRUi5SV5jzbsZdbFS8Oe0iqPOTwYqpqWaSWvMNe5vcjlt7cKF1DrmHUgGRCgxaWL1ovOmEvaMoVzTsB~5qmzy8Hvui8Onsk46AazHBApFE3kifKoDE8XkzgILsbHcUFMIi0E3Nb9o9vMypUfe8KvmWqbluCXkojC8jZxZD8WKQzCJHzhTCKi61FvJg8mft7ynM6jUTNrZJZvf9HBVNXyud5Qr1noaJ6-T~yg3Vo-mcb2y0d8P~JOf0PSLmLbJ0t2CzXDCH9TA22nFcSlLZxRmCmbaBRO~Er3w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me gusta leer.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "28670de7-c7d3-4f16-885e-101adc456f25",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c369557873c54ccda7dab05a4725cc72_b07-me-gusta-jugar-al-futbol.mp3?Expires=1794099464&Signature=cN46rFoUWgtN5WI9Q6HEBg3PwbzFVVGkD8zSzooA~~xRh~OQn6HagfIy08zU7-Q2rkJfRpuz3kzdckn7dOzulOMtxfb0FyHcvufa8xXNcb7oJfwITlz4EOww5dPYld8YBA~j1L-6BdJvxrv-HgPREa9jNhb7rjeC82PGEWk31qQNuiP1TcuAuIgMVOxSggGdQKtVdTmTpSYRP3qlRVPTtw~RTnoR0-QiGxDv-mSXcW7pDr9bLTv1jz8sxyc7VffcUmZ6CysgqHWcsk3VaBowyfRz~IqX6-bEksU7ryRtAK3a2RVLy9gDyj7qFcHFl0PqTBRtfS6YD-zkOI~y8xF1uA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me gusta jugar al fútbol.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "e8f6e4ec-b33c-46fb-9c3c-4759bd46e7ce",
+      "sequence": 7,
+      "lessonId": "e82bcebd-a198-4803-9e11-77107818e59d",
+      "title": "Recupere a frase certa para cada momento",
+      "content": "<p>Ligue cada situação prática à formulação exata em espanhol que fecha a aula.</p>",
+      "contentPlain": "Ligue cada situação prática à formulação exata em espanhol que fecha a aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final mostra que três frases curtas já resolvem um plano simples.",
+      "feedbackError": "O resumo final mostra que três frases curtas já resolvem um plano simples.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "54488c19-b2f1-46de-9236-f34e5640faf4",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ee7ce6d2-2d29-4ec4-add4-d4209be147af",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "a923fac6-6d8c-48ea-ac1c-bcef164ec81c",
+          "leftContent": "iniciar o plano de sábado",
+          "rightContent": "¿Qué hacemos este sábado?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f4d9d746-1068-4aec-bb7b-eed11e43f128",
+          "leftContent": "dizer a atividade principal",
+          "rightContent": "El sábado salimos con amigos.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "aa5b5b9a-811c-40eb-8a0c-8818dc86ae01",
+          "leftContent": "acrescentar o próximo passo",
+          "rightContent": "Después comemos pizza.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "ac3e3242-9308-4ebe-9f7e-8ac789e6e979",
+      "sequence": 8,
+      "lessonId": "f50d8e12-4993-4262-b151-6be2f60e58ab",
+      "title": "Recupere a pergunta pelo áudio",
+      "content": "<p>Escute a pergunta do começo da aula e marque somente as palavras que formam essa frase.</p>",
+      "contentPlain": "Escute a pergunta do começo da aula e marque somente as palavras que formam essa frase.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/65fca16da0a24e01869409937ff20b24_b01-que-hacemos-esta-tarde.mp3?Expires=1794099464&Signature=TkGEQN9zoeAlWXjEIvFpGsHYlvWkYWlUrndH13ezQw5npYspWvsglnIMKX3LC5Yt-kY--vSdICpmqwXSYVxtKYFVaTz6PhlPuAYxYa7BF0b8eh3HJNITNK1JhLO-21lkYnpjwNHSJoDzL74smc-QKaP2q8FpIsnorarXlp1dMcUqhs8nrMenX~XJJYGN6BGqcnehRZznIp0xlUohXlCJ-qyKo4EJM5opLSWnx8XRKsscU4goGkmeGp4SgyIs94SYqMNnJjaJRnAvr3pFNylY3JMlSvN1aNGQDtf4XRKpTsVIfnKKlwfb9gx8tpDG8nix42nltWjzOhhgO10xbcqGhw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta com qué abre o plano pedindo a atividade.",
+      "feedbackError": "A pergunta com qué abre o plano pedindo a atividade.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "377667d8-68a9-451d-a53c-f261c7367782",
+          "text": "esta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3b04e1dd-5e16-4516-b672-201ad120d729",
+          "text": "cuándo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6204813b-bf5e-4746-86ac-82a02c51e380",
+          "text": "dónde",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8f45b978-1d79-4db8-b19c-cb439364d90a",
+          "text": "café",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b0b83932-7571-4e79-bfe2-1e167a8971da",
+          "text": "qué",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e09c43be-29d7-413a-8405-82e2bbb485bd",
+          "text": "hacemos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e3ab1535-b80e-4748-aeb4-85fe843cd2c9",
+          "text": "tarde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "478fc974-5201-4cf5-b7dd-bc88903e6f0b",
+      "sequence": 9,
+      "lessonId": "a53934d3-e065-4cb5-8db3-c80008138dc0",
+      "title": "Associe contexto e frase",
+      "content": "<p>Relacione cada situação curta de mensagem ou conversa ao texto em espanhol adequado.</p>",
+      "contentPlain": "Relacione cada situação curta de mensagem ou conversa ao texto em espanhol adequado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula contrasta marcar algo com amigos, ir ao cinema e tomar um café em encontros simples.",
+      "feedbackError": "Esta aula contrasta marcar algo com amigos, ir ao cinema e tomar um café em encontros simples.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1dcb153a-4062-4ceb-b2a0-303d43d8ae99",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "248fd7ec-d2e7-4458-a805-0578f6fd21c0",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "e98bf539-f0d0-4b08-9afb-3d9f10f829ac",
+          "leftContent": "mensagem dizendo que você já combinou de ver amigos depois da aula",
+          "rightContent": "Quedo con amigos.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2964b40d-b80b-46cd-aa95-577bff5be111",
+          "leftContent": "mensagem dizendo que o plano do grupo é ver um filme",
+          "rightContent": "Voy al cine con amigos.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8f137922-61b2-404e-b187-0f51e26087af",
+          "leftContent": "mensagem dizendo que você vai encontrar amigos para uma pausa rápida",
+          "rightContent": "Tomo un café con amigos.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "fd04dfc1-6f33-4e01-85d0-240300a6e120",
+      "sequence": 10,
+      "lessonId": "a02c09bf-a3f7-4761-9c7c-81a41a422ad5",
+      "title": "Complete a sugestão",
+      "content": "<p>_______ ir al cine.</p><p>Tradução: Podemos ir ao cinema.</p>",
+      "contentPlain": "_______ ir al cine. Tradução: Podemos ir ao cinema.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, podemos apresenta uma proposta leve para os dois decidirem juntos.",
+      "feedbackError": "Nesta aula, podemos apresenta uma proposta leve para os dois decidirem juntos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Podemos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6d442659-909a-450a-ab9d-53da2eff7acc",
+      "sequence": 11,
+      "lessonId": "e82bcebd-a198-4803-9e11-77107818e59d",
+      "title": "Recupere o próximo passo pela escuta",
+      "content": "<p>Escute a continuação do plano dentro do diálogo e marque só as palavras que aparecem.</p>",
+      "contentPlain": "Escute a continuação do plano dentro do diálogo e marque só as palavras que aparecem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b4439e3e93b54a0c8657ee96b44e6550_b05-despues-comemos-pizza.mp3?Expires=1794099464&Signature=ZQ-ZWbHTlAWQZfXeCI1PyYh8fiRjYWzStldGlIoUuB2ZrxJM2iwp7NQN85j-CrBAwDTqIbu3U6rpO8arM5eRGNnERvu~9F9SqEwdLANIhnkMPq1NA0wLmN~8dUcy6Ev90z2UNLTA1YY-VnLZN1uxnFVrcSKt7f-ZajoagexDGAAqU4g8JAk7EwKgngJr6kqHcRMGgPuk9eq4ygabjtIQhDI0iD6cmnFtLXxSsgc7OcMj8-zCLiGCuIOXp7I-O9sF6nZAqESuwwUIZAZNxBlgTihfw3NdpXDfGw8g6w21UxzbrSIwe35JwkiimWpRveN82zz~Z3sHgPiGQO-U8Li0zA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo final, Después introduz o passo seguinte do mesmo plano.",
+      "feedbackError": "No diálogo final, Después introduz o passo seguinte do mesmo plano.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "8cd576da-d7df-42cf-8d42-701f9691e0f4",
+          "text": "salimos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "96265eb7-734f-4bed-b73c-839dee3de92f",
+          "text": "sábado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "da5b8fe3-cfcb-4c93-8efe-de64c34ea721",
+          "text": "pizza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e67d634f-a5d8-4017-9836-f2e52b8ae3a7",
+          "text": "después",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e7beac2f-8bf8-4531-8bab-ef6dc01c5854",
+          "text": "amigos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fcc440f4-550d-4087-bf31-d3ca1e6e1857",
+          "text": "comemos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c635d525-e9eb-4d27-8395-9ed66e53e3c1",
+      "sequence": 12,
+      "lessonId": "dfc8e9a5-36f5-474a-a7f2-ce295aeb4880",
+      "title": "Complete a frase com -imos",
+      "content": "<p>Nosotros _______ de fiesta los viernes.</p><p>Tradução: Nós saímos para festejar às sextas-feiras.</p>",
+      "contentPlain": "Nosotros _______ de fiesta los viernes. Tradução: Nós saímos para festejar às sextas-feiras.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, salimos mostra a forma de nosotros / nosotras nos verbos em -ir.",
+      "feedbackError": "Nesta aula, salimos mostra a forma de nosotros / nosotras nos verbos em -ir.",
+      "answerType": "buildWord",
+      "expectedAnswer": "salimos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ab60afc9-e134-44bd-9f3d-a111d150a192",
+      "sequence": 13,
+      "lessonId": "dfc8e9a5-36f5-474a-a7f2-ce295aeb4880",
+      "title": "Filtre as palavras do áudio",
+      "content": "<p>Marque apenas as palavras que fazem parte da frase sobre outro grupo.</p>",
+      "contentPlain": "Marque apenas as palavras que fazem parte da frase sobre outro grupo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6d0fd7202971481da36dad1d657ed9b3_b09-ellos-comen-pizza-y-salen-de-fiesta.mp3?Expires=1794099464&Signature=QyvssZk81y6xoPCkmZvk5tzB7RdYAir4GETCAznNwWrxSwtKgu7lvoJTUTGd~ZbPBd~p6eFEdyX6vIBIhldZ3WSL2mHhE3Nm6Z31cKHPCGzvP7V67XQ9czl8-KWsH0y9NAJSBkbW9-CLvyvQFHbVeJFMOvNR31~tVevsTpW8anCuYyosUh-Om6DoEBQOYs3W6nvLfr74QfR3BZcjeIFBcBGnAZaIfc-hBI68l1vwAQMWm8DogkZi0c3BKNbQR83u~qHi57ti5sK4-JAtI7eE9790cFXp1qkXzZHu4IrToaNA8xG4tknDjEkLpruLMeluomKUAPf3sZISQTXs6VaXJg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O áudio final ajuda a recuperar como -en aparece quando quem fala está fora do grupo.",
+      "feedbackError": "O áudio final ajuda a recuperar como -en aparece quando quem fala está fora do grupo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1bb970bf-9d2c-498e-bc06-b78a8d4fb10e",
+          "text": "vosotros",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2284ec21-390a-4eeb-a717-847f2792deca",
+          "text": "comemos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "30bf1398-549f-4bfb-8c2d-6e5670c9ee29",
+          "text": "hoy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3859a56c-3f15-4dfb-ba09-64143c63fcf1",
+          "text": "pizza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6d2a630d-1122-4aa6-9faa-78bf092e4bc8",
+          "text": "ellos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6e34a151-c4a0-4a4b-b684-daa2bc274081",
+          "text": "fiesta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c7a20b79-e84a-43ce-8089-d0e31090852a",
+          "text": "salen",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d3ca7418-245f-467d-8974-815b2bc565cc",
+          "text": "comen",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c5a8a563-755a-404f-a9b4-fd46e1133fc1",
+      "sequence": 14,
+      "lessonId": "f50d8e12-4993-4262-b151-6be2f60e58ab",
+      "title": "Complete o interrogativo",
+      "content": "<p>¿___ hacemos esta tarde?</p><p>Tradução: O que fazemos esta tarde?</p>",
+      "contentPlain": "¿___ hacemos esta tarde? Tradução: O que fazemos esta tarde?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, qué é a forma usada para perguntar pela atividade.",
+      "feedbackError": "Nesta aula, qué é a forma usada para perguntar pela atividade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Qué",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f171bfaf-66ce-4c24-9e68-5b4f14da7392",
+      "sequence": 15,
+      "lessonId": "46e83264-95cd-4807-a1da-adc70a11b856",
+      "title": "Recupere a frase pela escuta",
+      "content": "<p>Resolva pela escuta e marque somente as palavras que formam a frase ouvida.</p>",
+      "contentPlain": "Resolva pela escuta e marque somente as palavras que formam a frase ouvida.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ca3936c36b694002adf2f11f191a7af1_b07-me-gusta-jugar-al-futbol.mp3?Expires=1794099464&Signature=upZ27HHKGjldPv-LQxzk3qCk110owFtMT6nXK5RuNQ5DqzKqfHjjTNz8UAlrFPK5TwERB99qZkQRRVdfCoxxIYsRFNjPUDAxs8ekaqaSyms2oYPIjWMBOboXhXh~-D-SiBpmGbfzb8CKhb8Xx-WOlua-sSWkvUByfBH89P2KvuN6QsZIYy5vim57gjnpklABxNDlMl8ZRZbReI5cNUu3qgKjeNCeOPrtnHN~-TBfxu1shxjqDGqBuicQ4Wrx4bYG6Zad8DRJo4Ac9fo8DOgwENkJPIsd2vqwYDxxR2To9ymWIwi-8-BaVMGyzzSP53rwG6flsuICOp0UOcCqm4TLJQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, jugar al fútbol amplia o mesmo padrão de preferência para um esporte.",
+      "feedbackError": "Nesta aula, jugar al fútbol amplia o mesmo padrão de preferência para um esporte.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0089d3aa-c828-43eb-8a2e-61807434f431",
+          "text": "Me",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8451b1ff-3876-4f0e-a2b3-d422c6c95568",
+          "text": "gusta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a1711c7f-4c4a-4328-9b68-25f7f1b69950",
+          "text": "fútbol",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "aa3fc723-6b9e-478f-a175-78b532b4914f",
+          "text": "al",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "af997604-2cc5-47ef-8261-40d58c91b08f",
+          "text": "jugar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bd0e4d9a-41b0-47e8-8ef1-378e7070f02f",
+          "text": "correr",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "efe3fe03-c934-4115-8d36-09dbb2721886",
+          "text": "leer",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

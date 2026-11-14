@@ -1,0 +1,518 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+    "attemptId": "db53ca93-a95d-49bc-836f-a8cbcbc1b1f9",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "7dd42b64-0261-4ea7-862b-915310dacd5c",
+      "2698bd0b-d2ef-4301-ba5b-71129f6b9979",
+      "0999d141-9257-4cf3-88f0-2e7bd74cc542",
+      "9afbc61e-768c-4c7c-935e-ba24ec6e8a3b",
+      "e8c487c0-10bd-4292-aa08-3ca1e459d6b8"
+    ],
+    "evaluationExerciseIds": [
+      "c28f26f0-5116-4d08-a0b5-cfa07e414fa2",
+      "b6e48c77-9fff-4214-9c32-bd8b0bc6b9f5",
+      "b166f343-5cab-44fd-96e9-26e5330375a3",
+      "8edcef1a-ec67-4cbc-8f97-0f87a415331b",
+      "d6b6e3a1-1d27-4c50-bace-1a12680343ea"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:06.9189235Z"
+  },
+  "contents": [
+    {
+      "id": "59fbd942-3e20-4e0f-b3d0-cf8dd45718c3",
+      "title": "Leia o contexto e observe qual problema a mensagem precisa resolver.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "1261affa-86c2-4159-886b-e3068e42c507",
+          "textContent": "<p>Uma amiga quer decidir entre dois aluguéis e pede sua opinião por mensagem.</p><p>Uma opção cabe no orçamento e fica em um bairro tranquilo. A outra é um pouco mais barata, mas fica longe.</p><p>Nesta aula, o foco é escrever em espanhol uma mensagem curta que recomende uma opção ou peça um detalhe antes da decisão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1daab0f7-56ec-4e27-9bf0-4d3cec939344",
+      "title": "Leia a mensagem em espanhol e note qual opção está sendo recomendada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "289b23c2-3dbd-46fd-aefe-c159ec5578af",
+          "textContent": "<p><strong>Yo te recomendaría el piso de la zona del parque porque entra en tu presupuesto, el barrio es tranquilo y está bien comunicado.</strong></p><p>Em português: Eu recomendaria o apartamento da zona do parque porque cabe no seu orçamento, o bairro é tranquilo e tem fácil acesso.</p><p>A mensagem já entrega a recomendação e os critérios que a sustentam.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "57312561-e451-41c0-b691-de0a1a049e61",
+      "title": "Leia os critérios e observe como a justificativa responde ao que importa na escolha.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "7f3c79af-c825-4a19-ac09-070562db3c9f",
+          "textContent": "<p>Numa recomendação curta, a justificativa precisa aparecer de forma concreta:</p><ul><li><strong>custo</strong>: <strong>entra en tu presupuesto</strong></li><li><strong>bairro</strong>: <strong>el barrio es tranquilo</strong></li><li><strong>conveniência</strong>: <strong>está bien comunicado</strong></li></ul><p>Assim, a recomendação não soa vaga e já responde ao que importa na escolha.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "07b48cbc-ba87-4252-b617-cfbd86ba03e2",
+      "title": "Leia a mensagem e note qual informação está sendo pedida com polidez.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "b0f90e28-8c37-4b48-ba94-149106e2f5a3",
+          "textContent": "<p><strong>Buenas tardes. ¿Podría confirmarme si los gastos están incluidos? Si es así, creo que esta opción me convendría.</strong></p><p>Em português: Boa tarde. Poderia me confirmar se os gastos estão incluídos? Se for assim, acho que esta opção seria a mais conveniente para mim.</p><p>Aqui a mensagem ainda não fecha a escolha: primeiro ela pede um dado importante.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6b5c5120-8109-4fad-a998-cc98762a11d7",
+      "title": "Leia os dois passos e observe por que o pedido continua claro sem ficar longo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "8b1f3800-5271-4f06-aa7d-bf135c8e60bd",
+          "textContent": "<p>Um pedido curto costuma ter duas peças:</p><ol><li><strong>pergunta polida</strong>: <strong>¿Podría confirmarme si...?</strong></li><li><strong>motivo da pergunta</strong>: <strong>Si es así, esta opción me convendría.</strong></li></ol><p>Isso mantém o texto formal e mostra por que a informação faz diferença na decisão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "87b7b292-3dc3-4285-b45a-85edb0c215ff",
+      "title": "Leia os dois moldes e observe qual deles serve para recomendar e qual serve para pedir confirmação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "a68dcaf9-9318-4961-b04f-e470018db03a",
+          "textContent": "<p>Para escrever sem travar, escolha um destes caminhos:</p><ul><li><strong>Se você recomenda:</strong> <strong>Te recomendaría ___ porque ___, ___ y ___.</strong></li><li><strong>Se você ainda precisa confirmar:</strong> <strong>¿Podría confirmarme si ___? Si es así, esta opción me convendría.</strong></li></ul><p>Nos dois casos, a mensagem fica curta porque vai direto da ação ao motivo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "401db690-9e7c-4528-a333-db5cc02e6604",
+      "title": "Leia o resumo final e conecte essas peças a situações em que você precisaria escrever sobre um aluguel.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "79e45d13-e097-47de-969a-8932c69799fc",
+          "textContent": "<p>Em situações reais de moradia, estas peças costumam bastar para uma mensagem clara:</p><ul><li><strong>Te recomendaría...</strong> para indicar uma opção</li><li><strong>entra en tu presupuesto / el barrio es tranquilo / está bien comunicado</strong> para justificar</li><li><strong>¿Podría confirmarme si...?</strong> para pedir um detalhe antes de decidir</li></ul><p>Isso serve para responder a uma amiga, escrever a um anunciante ou pedir uma confirmação rápida a uma imobiliária.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "7dd42b64-0261-4ea7-862b-915310dacd5c",
+      "title": "Ligue situação e molde",
+      "content": "<p>Use o esqueleto da aula para decidir quando você recomenda direto e quando ainda precisa confirmar um detalhe.</p>",
+      "contentPlain": "Use o esqueleto da aula para decidir quando você recomenda direto e quando ainda precisa confirmar um detalhe.",
+      "fileUrl": null,
+      "feedbackSuccess": "O esqueleto da aula separa recomendar de pedir confirmação antes da escolha.",
+      "feedbackError": "O esqueleto da aula separa recomendar de pedir confirmação antes da escolha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "3ce0f457-8686-490b-a9ee-46dc18af6340",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7dd42b64-0261-4ea7-862b-915310dacd5c"
+        },
+        {
+          "id": "5b3922ac-c412-4c46-8614-4120cc461970",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7dd42b64-0261-4ea7-862b-915310dacd5c"
+        }
+      ],
+      "associations": [
+        {
+          "id": "b8944555-3b53-4b01-9226-4d41f4463bf6",
+          "exerciseId": "7dd42b64-0261-4ea7-862b-915310dacd5c",
+          "leftContent": "Você já quer indicar uma opção.",
+          "rightContent": "Te recomendaría ___ porque ___, ___ y ___.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "895e288f-fcf6-43d2-a31c-c45fcae6fb87",
+          "exerciseId": "7dd42b64-0261-4ea7-862b-915310dacd5c",
+          "leftContent": "Você ainda precisa checar um dado.",
+          "rightContent": "¿Podría confirmarme si ___? Si es así, esta opción me convendría.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "2698bd0b-d2ef-4301-ba5b-71129f6b9979",
+      "title": "Identifique o motivo da pergunta",
+      "content": "<p>No pedido curto da aula, uma parte explica por que o detalhe confirmado muda a decisão. Marque esse trecho.</p>",
+      "contentPlain": "No pedido curto da aula, uma parte explica por que o detalhe confirmado muda a decisão. Marque esse trecho.",
+      "fileUrl": null,
+      "feedbackSuccess": "No pedido curto, o motivo aparece logo depois da pergunta polida.",
+      "feedbackError": "No pedido curto, o motivo aparece logo depois da pergunta polida.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "3f839747-aa14-4010-8241-6753411cf204",
+          "textContent": "Te recomendaría el piso de la zona del parque.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2698bd0b-d2ef-4301-ba5b-71129f6b9979"
+        },
+        {
+          "id": "5ce9b876-3fbe-4131-af80-7f54cebbd27c",
+          "textContent": "Si es así, esta opción me convendría.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2698bd0b-d2ef-4301-ba5b-71129f6b9979"
+        },
+        {
+          "id": "cdb24be7-0d74-4b96-bbcb-a52b26861ba9",
+          "textContent": "el barrio es tranquilo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2698bd0b-d2ef-4301-ba5b-71129f6b9979"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "0999d141-9257-4cf3-88f0-2e7bd74cc542",
+      "title": "Ligue critério e justificativa",
+      "content": "<p>Conecte cada critério importante da escolha de moradia ao trecho em espanhol usado para justificá-lo.</p>",
+      "contentPlain": "Conecte cada critério importante da escolha de moradia ao trecho em espanhol usado para justificá-lo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula transforma custo, bairro e conveniência em justificativas concretas.",
+      "feedbackError": "A aula transforma custo, bairro e conveniência em justificativas concretas.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "473db9c7-e1a0-42db-b510-29f4d6a09e76",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0999d141-9257-4cf3-88f0-2e7bd74cc542"
+        },
+        {
+          "id": "616a71ed-ea59-4256-a6ef-beef062839b4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0999d141-9257-4cf3-88f0-2e7bd74cc542"
+        }
+      ],
+      "associations": [
+        {
+          "id": "061a01b1-c555-4438-b890-a4e6ae86fde2",
+          "exerciseId": "0999d141-9257-4cf3-88f0-2e7bd74cc542",
+          "leftContent": "Cabe no limite mensal.",
+          "rightContent": "entra en tu presupuesto",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ed665c9a-c992-46bc-9a1c-36741e4c0618",
+          "exerciseId": "0999d141-9257-4cf3-88f0-2e7bd74cc542",
+          "leftContent": "A área parece calma.",
+          "rightContent": "el barrio es tranquilo",
+          "sequenceItem": 2
+        },
+        {
+          "id": "21728afc-0589-4ce5-9ccf-05a19656b715",
+          "exerciseId": "0999d141-9257-4cf3-88f0-2e7bd74cc542",
+          "leftContent": "O deslocamento fica fácil.",
+          "rightContent": "está bien comunicado",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "9afbc61e-768c-4c7c-935e-ba24ec6e8a3b",
+      "title": "Complete a justificativa de custo",
+      "content": "<p>Complete em espanhol: entra en tu ___________.</p><p>Tradução: cabe no seu orçamento.</p>",
+      "contentPlain": "Complete em espanhol: entra en tu ___________. Tradução: cabe no seu orçamento.",
+      "fileUrl": null,
+      "feedbackSuccess": "Entra en tu presupuesto recupera o critério de custo da recomendação.",
+      "feedbackError": "Entra en tu presupuesto recupera o critério de custo da recomendação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "presupuesto",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e8c487c0-10bd-4292-aa08-3ca1e459d6b8",
+      "title": "Escolha a recomendação completa",
+      "content": "<p>Recupere a mensagem-modelo da aula e escolha a opção que já combina recomendação, custo, bairro e conveniência.</p>",
+      "contentPlain": "Recupere a mensagem-modelo da aula e escolha a opção que já combina recomendação, custo, bairro e conveniência.",
+      "fileUrl": null,
+      "feedbackSuccess": "A recomendação curta da aula junta escolha e três criterios concretos.",
+      "feedbackError": "A recomendação curta da aula junta escolha e três criterios concretos.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5f31de4b-097a-4ac7-ad5c-689193e87516",
+          "textContent": "Buenas tardes. ¿Podría confirmarme si los gastos están incluidos? Si es asi, creo que esta opcion me convendria.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e8c487c0-10bd-4292-aa08-3ca1e459d6b8"
+        },
+        {
+          "id": "779196d1-e3df-4575-a330-ae4bb9c9c887",
+          "textContent": "Si es así, creo que esta opción me convendría.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e8c487c0-10bd-4292-aa08-3ca1e459d6b8"
+        },
+        {
+          "id": "9e174199-5617-4de8-bafe-deef12cebeb2",
+          "textContent": "Yo te recomendaría el piso de la zona del parque porque entra en tu presupuesto, el barrio es tranquilo y está bien comunicado.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e8c487c0-10bd-4292-aa08-3ca1e459d6b8"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "c28f26f0-5116-4d08-a0b5-cfa07e414fa2",
+      "title": "Complete o pedido formal",
+      "content": "<p>Complete em espanhol: ¿Podría ___________ si los gastos están incluidos?</p><p>Tradução: Poderia me confirmar se as despesas estão incluídas?</p>",
+      "contentPlain": "Complete em espanhol: ¿Podría ___________ si los gastos están incluidos? Tradução: Poderia me confirmar se as despesas estão incluídas?",
+      "fileUrl": null,
+      "feedbackSuccess": "¿Podría confirmarme si...? mantém o pedido curto e polido antes da decisão.",
+      "feedbackError": "¿Podría confirmarme si...? mantém o pedido curto e polido antes da decisão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "confirmarme",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b6e48c77-9fff-4214-9c32-bd8b0bc6b9f5",
+      "title": "Complete a justificativa de conveniência",
+      "content": "<p>Complete em espanhol: está bien __________.</p><p>Tradução: tem fácil acesso.</p>",
+      "contentPlain": "Complete em espanhol: está bien __________. Tradução: tem fácil acesso.",
+      "fileUrl": null,
+      "feedbackSuccess": "Está bien comunicado recupera o critério de conveniência na recomendação.",
+      "feedbackError": "Está bien comunicado recupera o critério de conveniência na recomendação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "comunicado",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b166f343-5cab-44fd-96e9-26e5330375a3",
+      "title": "Recupere a peça certa para cada uso",
+      "content": "<p>Sem o modelo completo na frente, ligue cada uso real da aula ao fragmento em espanhol que o resolve.</p>",
+      "contentPlain": "Sem o modelo completo na frente, ligue cada uso real da aula ao fragmento em espanhol que o resolve.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final reaproveita recomendação, justificativa e pedido curto em usos reais.",
+      "feedbackError": "O recap final reaproveita recomendação, justificativa e pedido curto em usos reais.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6f0ad377-c3d2-40ca-aa11-00e2a74227c2",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b166f343-5cab-44fd-96e9-26e5330375a3"
+        },
+        {
+          "id": "94c63924-4066-4c20-938b-d4411dcd3f1d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b166f343-5cab-44fd-96e9-26e5330375a3"
+        }
+      ],
+      "associations": [
+        {
+          "id": "23d78784-c3ab-45b5-b746-91bed7fdfd3d",
+          "exerciseId": "b166f343-5cab-44fd-96e9-26e5330375a3",
+          "leftContent": "Uma amiga pede sua opinião e você já vai indicar a melhor opção.",
+          "rightContent": "Te recomendaría...",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5ae52374-1a94-444c-b371-11b1e7046cc2",
+          "exerciseId": "b166f343-5cab-44fd-96e9-26e5330375a3",
+          "leftContent": "Antes de fechar a escolha, você precisa confirmar um detalhe.",
+          "rightContent": "¿Podría confirmarme si...?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "107ef725-1470-4b49-8eba-1841092ddcf9",
+          "exerciseId": "b166f343-5cab-44fd-96e9-26e5330375a3",
+          "leftContent": "Você explica por que a opção cabe no bolso.",
+          "rightContent": "entra en tu presupuesto",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "8edcef1a-ec67-4cbc-8f97-0f87a415331b",
+      "title": "Complete o verbo de recomendação",
+      "content": "<p>Complete em espanhol: Te ____________ el piso de la zona del parque porque entra en tu presupuesto.</p><p>Tradução: Eu recomendaria o apartamento da zona do parque porque ele cabe no seu orçamento.</p>",
+      "contentPlain": "Complete em espanhol: Te ____________ el piso de la zona del parque porque entra en tu presupuesto. Tradução: Eu recomendaria o apartamento da zona do parque porque ele cabe no seu orçamento.",
+      "fileUrl": null,
+      "feedbackSuccess": "Te recomendaría ativa a moldura da recomendação curta na aula.",
+      "feedbackError": "Te recomendaría ativa a moldura da recomendação curta na aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "recomendaría",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d6b6e3a1-1d27-4c50-bace-1a12680343ea",
+      "title": "Complete o efeito na decisão",
+      "content": "<p>Complete em espanhol: Si es así, esta opción me __________.</p><p>Tradução: Se for assim, esta opção seria conveniente para mim.</p>",
+      "contentPlain": "Complete em espanhol: Si es así, esta opción me __________. Tradução: Se for assim, esta opção seria conveniente para mim.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me convendría liga o dado confirmado ao efeito na decisão de moradia.",
+      "feedbackError": "Me convendría liga o dado confirmado ao efeito na decisão de moradia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "convendría",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Escrever uma recomendacao de moradia"
+}

@@ -1,0 +1,628 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+    "attemptId": "c1bca05e-c135-4030-9e2b-70d2d6d17fcb",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "aff52dc7-3773-49a8-8047-377d78b98b60",
+      "f38747d8-ee91-44e9-aced-48b846dc136b",
+      "662c1dd6-9271-4c28-b921-45aa5449f6d6",
+      "9b0921a4-8bff-439e-a626-d4a7c47b1836",
+      "aa15f5e9-c581-4923-8eb1-442bc6e1d752"
+    ],
+    "evaluationExerciseIds": [
+      "37099a04-6b9e-4451-99c9-f4e80ecef6c7",
+      "8159b4d5-65f8-4f5c-9731-69ae9b07bb97",
+      "5d321594-2745-4792-84dd-606e41c94eed",
+      "136a5939-2598-4635-8065-61ead70c7f70",
+      "bd3398c4-15d5-414b-9cf6-00ace414ac65"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:38.1406953Z"
+  },
+  "contents": [
+    {
+      "id": "efff8956-9bc2-4cb4-95b1-50a9be1b4490",
+      "title": "Leia a abertura e observe as três partes que vao aparecer conectadas na fala final.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "c5736f5b-789f-487e-8586-19ff5634db7f",
+          "textContent": "<p>Nesta aula, o foco não e aprender mais um tema separado.</p><p>O objetivo e fechar o capítulo com um comentário oral curto que costura <strong>mudança histórica</strong>, <strong>confiança pública</strong> e <strong>consequência possível</strong>.</p><p>Assim, a fala final soa como leitura cívica conectada, e não como frases avulsas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fc209a34-952d-43f6-8b6a-0599760dde21",
+      "title": "Leia a frase-modelo e observe o contraste entre o que mudou primeiro e o que demorou mais.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "bd2fb772-fba8-4782-9312-ccf724f93255",
+          "textContent": "<p>Comece pelo ponto de partida do comentário.</p><p><strong>La apertura democrática cambió el lenguaje público, pero la confianza institucional tardó más en consolidarse.</strong></p><p>Em português: <strong>A abertura democrática mudou a linguagem publica, mas a confiança institucional demorou mais para se consolidar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "748c99aa-cb56-4231-bbeb-1c6126360b96",
+      "title": "Leia a nota e observe como o comentário sai da história geral e entra no efeito político.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "cd5e4c68-f110-4ecd-ab3a-5aeaa4544ef2",
+          "textContent": "<p><strong>Cambió el lenguaje público</strong> mostra um sinal visível de mudança histórica.</p><p><strong>La confianza institucional tardó más en consolidarse</strong> desloca a fala para um efeito político mais lento e mais frágil.</p><p>Com isso, a abertura não vira cronologia solta: ela já prepara uma leitura sobre legitimidade e confiança.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e334a919-acd3-464a-8495-ee17de930e9c",
+      "title": "Leia a frase e observe como o comentário passa do passado ao critério publico do presente.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "b58704a2-77aa-4bdc-ab8f-9ef1878cf237",
+          "textContent": "<p>Agora o comentário passa do processo histórico para o presente.</p><p><strong>Esa memoria todavía influye en lo que la gente espera de sus representantes.</strong></p><p>Em português: <strong>Essa memória ainda influencia o que as pessoas esperam de seus representantes.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "09ca3b20-316f-4b93-878e-c9ee4a56d90e",
+      "title": "Leia a nota e observe como a frase transforma passado em critério de legitimidade atual.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "a8e89edb-886e-4cea-ab63-4ea7fc879b0f",
+          "textContent": "<p><strong>Esa memoria</strong> retoma a mudança histórica sem precisar recontar o passado inteiro.</p><p><strong>Influye en lo que la gente espera...</strong> mostra que a história continua pesando no critério com que o público julga representantes e instituições.</p><p>Esse passo faz a ponte entre memória e legitimidade atual.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f208594b-4b70-40e6-896e-5f80a5103860",
+      "title": "Leia a frase e observe como por eso prepara a passagem da avaliação para a consequência.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "b708cb4c-006c-4109-979b-90868941d4a2",
+          "textContent": "<p>Por fim, o comentário projeta uma consequência possível.</p><p><strong>Por eso, si las instituciones respondieran con más claridad, la confianza pública sería menos frágil en tiempos de crisis.</strong></p><p>Em português: <strong>Por isso, se as instituições respondessem com mais clareza, a confiança pública seria menos frágil em tempos de crise.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e6c593d9-55c3-4c63-b12b-8a2d1c067afc",
+      "title": "Leia o mapa e observe o trabalho de cada conector no encadeamento da fala.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "78a28c28-855b-4837-8331-6f59cea30138",
+          "textContent": "<p>O encadeamento depende de conectores pequenos, mas precisos.</p><ul><li><strong>pero</strong> contrasta abertura histórica e consolidação da confiança</li><li><strong>todavía</strong> mostra que o efeito segue vivo no presente</li><li><strong>por eso</strong> prepara a consequência</li><li><strong>si...</strong> abre o cenário projetado</li></ul><p>Com isso, a fala avança sem parecer lista de ideias.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e1e9d1ec-73d3-4fde-9af6-6d6ea6d9dd51",
+      "title": "Leia o comentário inteiro e observe a ordem mudança histórica, critério publico e consequência projetada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "418cf37e-17fb-40ce-945b-8f71dae890eb",
+          "textContent": "<p>Agora veja as três partes na mesma fala.</p><p><strong>La apertura democrática cambió el lenguaje público, pero la confianza institucional tardó más en consolidarse. Esa memoria todavía influye en lo que la gente espera de sus representantes. Por eso, si las instituciones respondieran con más claridad, la confianza pública sería menos frágil en tiempos de crisis.</strong></p><p>Em português: o comentário nomeia uma mudança histórica, mostra seu efeito no presente e fecha com uma consequência possível.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "88fe71c7-692a-4ca1-b84d-d938c79e49ad",
+      "title": "Leia o resumo final e pense em quando essa moldura faria sentido fora da aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "b34e57cf-aede-4494-b371-512260de72ca",
+          "textContent": "<p>Esse formato cabe em uma conversa sobre um documentário, em um seminário, em um comentário sobre uma eleição local ou em uma discussão sobre memória pública.</p><p>O fio central desta aula foi este: <strong>algo cambió</strong>, <strong>eso todavía influye</strong>, <strong>por eso, si...</strong></p><p>Quando essas três partes aparecem com clareza, seu comentário em espanhol soa mais histórico, mais político e mais consequente ao mesmo tempo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "aff52dc7-3773-49a8-8047-377d78b98b60",
+      "title": "Ligue parte e papel",
+      "content": "<p>Recupere a arquitetura do comentário ligando cada parte do modelo ao trabalho que ela faz dentro da fala.</p>",
+      "contentPlain": "Recupere a arquitetura do comentário ligando cada parte do modelo ao trabalho que ela faz dentro da fala.",
+      "fileUrl": null,
+      "feedbackSuccess": "O modelo integrado avança de mudança histórica para critério atual e fecha com consequência condicional.",
+      "feedbackError": "O modelo integrado avança de mudança histórica para critério atual e fecha com consequência condicional.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "37e65fa0-9de2-4521-b4ee-dc5a2062db4c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "aff52dc7-3773-49a8-8047-377d78b98b60"
+        },
+        {
+          "id": "691b799a-1912-4e04-99c8-1fbc788c7973",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "aff52dc7-3773-49a8-8047-377d78b98b60"
+        }
+      ],
+      "associations": [
+        {
+          "id": "bf6d7867-9fd0-49e8-b2ea-7a2ae2042763",
+          "exerciseId": "aff52dc7-3773-49a8-8047-377d78b98b60",
+          "leftContent": "La apertura democrática cambió el lenguaje público",
+          "rightContent": "nomeia a virada histórica que abre o comentário",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8204f5d6-3ddd-420c-811b-e035c793ce83",
+          "exerciseId": "aff52dc7-3773-49a8-8047-377d78b98b60",
+          "leftContent": "Esa memoria todavía influye en lo que la gente espera de sus representantes",
+          "rightContent": "mostra que o passado continua guiando a avaliação do presente",
+          "sequenceItem": 2
+        },
+        {
+          "id": "494e90ae-4f9b-4bfd-8aac-a54793692cd1",
+          "exerciseId": "aff52dc7-3773-49a8-8047-377d78b98b60",
+          "leftContent": "Si las instituciones respondieran con más claridad, la confianza pública sería menos frágil en tiempos de crisis",
+          "rightContent": "projeta uma consequência pública possível",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "f38747d8-ee91-44e9-aced-48b846dc136b",
+      "title": "Monte a resposta institucional",
+      "content": "<p>Si las instituciones respondieran con más ________, la confianza pública sería menos frágil en tiempos de crisis.</p><p>Tradução: Se as instituições respondessem com mais clareza, a confiança pública seria menos frágil em tempos de crise.</p>",
+      "contentPlain": "Si las instituciones respondieran con más ________, la confianza pública sería menos frágil en tiempos de crisis. Tradução: Se as instituições respondessem com mais clareza, a confiança pública seria menos frágil em tempos de crise.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na lição, mais clareza institucional sustenta a consequência condicional sobre confiança pública.",
+      "feedbackError": "Na lição, mais clareza institucional sustenta a consequência condicional sobre confiança pública.",
+      "answerType": "buildWord",
+      "expectedAnswer": "claridad",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "662c1dd6-9271-4c28-b921-45aa5449f6d6",
+      "title": "Encontre o criterio do presente",
+      "content": "<p>Qual fragmento mostra que o passado continua pesando nas expectativas sobre representantes e instituicoes?</p>",
+      "contentPlain": "Qual fragmento mostra que o passado continua pesando nas expectativas sobre representantes e instituicoes?",
+      "fileUrl": null,
+      "feedbackSuccess": "A ponte central da aula e mostrar como memoria historica vira criterio de legitimidade atual.",
+      "feedbackError": "A ponte central da aula e mostrar como memoria historica vira criterio de legitimidade atual.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "8a57262d-66b7-496a-9dd1-eb60ddf06dbf",
+          "textContent": "si las instituciones respondieran con más claridad",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "662c1dd6-9271-4c28-b921-45aa5449f6d6"
+        },
+        {
+          "id": "c6b77553-090b-4ac2-944e-5aa1f9ece7b7",
+          "textContent": "la confianza institucional tardó más en consolidarse",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "662c1dd6-9271-4c28-b921-45aa5449f6d6"
+        },
+        {
+          "id": "f2d6c79c-41bd-43dd-af34-44ca34429c7a",
+          "textContent": "la apertura democrática cambió el lenguaje público",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "662c1dd6-9271-4c28-b921-45aa5449f6d6"
+        },
+        {
+          "id": "ff5258ab-c306-43d1-8be0-b21751af41df",
+          "textContent": "esa memoria todavía influye en lo que la gente espera de sus representantes",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "662c1dd6-9271-4c28-b921-45aa5449f6d6"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "9b0921a4-8bff-439e-a626-d4a7c47b1836",
+      "title": "Ligue conector e função",
+      "content": "<p>Recupere como a aula costura história, avaliação e consequência por meio de conectores pequenos.</p>",
+      "contentPlain": "Recupere como a aula costura história, avaliação e consequência por meio de conectores pequenos.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa da aula mostra que a coesao depende do trabalho preciso dos conectores.",
+      "feedbackError": "O mapa da aula mostra que a coesao depende do trabalho preciso dos conectores.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6386e17d-c940-4764-a7b9-672ac6edf328",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9b0921a4-8bff-439e-a626-d4a7c47b1836"
+        },
+        {
+          "id": "adb28e0d-10f5-4f35-ad7f-5becdbdb5cf6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9b0921a4-8bff-439e-a626-d4a7c47b1836"
+        }
+      ],
+      "associations": [
+        {
+          "id": "f79f9557-d413-4065-ac5f-e94b6b086388",
+          "exerciseId": "9b0921a4-8bff-439e-a626-d4a7c47b1836",
+          "leftContent": "pero",
+          "rightContent": "contrasta a mudança histórica com a confiança mais lenta",
+          "sequenceItem": 1
+        },
+        {
+          "id": "29aa7050-18c7-4354-921a-980e887a33bd",
+          "exerciseId": "9b0921a4-8bff-439e-a626-d4a7c47b1836",
+          "leftContent": "todavía",
+          "rightContent": "mantém o efeito do passado no presente",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a4fe360b-dfc6-452d-847d-ecf8715ee523",
+          "exerciseId": "9b0921a4-8bff-439e-a626-d4a7c47b1836",
+          "leftContent": "por eso",
+          "rightContent": "prepara a passagem para a consequência",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2f33ede8-0c5b-487f-a3ae-26c0623b1585",
+          "exerciseId": "9b0921a4-8bff-439e-a626-d4a7c47b1836",
+          "leftContent": "si...",
+          "rightContent": "abre o cenário hipotético",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "aa15f5e9-c581-4923-8eb1-442bc6e1d752",
+      "title": "Encontre o critério do presente",
+      "content": "<p>Qual fragmento mostra que o passado continua pesando nas expectativas sobre representantes e instituições?</p>",
+      "contentPlain": "Qual fragmento mostra que o passado continua pesando nas expectativas sobre representantes e instituições?",
+      "fileUrl": null,
+      "feedbackSuccess": "A ponte central da aula e mostrar como memória histórica vira critério de legitimidade atual.",
+      "feedbackError": "A ponte central da aula e mostrar como memória histórica vira critério de legitimidade atual.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "012b8bd0-2ad9-4a2f-86c4-ff18f78319ac",
+          "textContent": "la apertura democrática cambió el lenguaje público",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "aa15f5e9-c581-4923-8eb1-442bc6e1d752"
+        },
+        {
+          "id": "0b357391-4866-4cf3-bb63-cd74b5577698",
+          "textContent": "la confianza institucional tardó más en consolidarse",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "aa15f5e9-c581-4923-8eb1-442bc6e1d752"
+        },
+        {
+          "id": "1443ea0c-7dab-4bfc-8103-66aaf18641b6",
+          "textContent": "si las instituciones respondieran con más claridad",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "aa15f5e9-c581-4923-8eb1-442bc6e1d752"
+        },
+        {
+          "id": "adbac8dc-fe49-4085-92c8-aecc6a98d453",
+          "textContent": "esa memoria todavía influye en lo que la gente espera de sus representantes",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "aa15f5e9-c581-4923-8eb1-442bc6e1d752"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "37099a04-6b9e-4451-99c9-f4e80ecef6c7",
+      "title": "Recupere a consolidação lenta",
+      "content": "<p>La confianza institucional tardó más en ____________.</p><p>Tradução: A confiança institucional demorou mais para se consolidar.</p>",
+      "contentPlain": "La confianza institucional tardó más en ____________. Tradução: A confiança institucional demorou mais para se consolidar.",
+      "fileUrl": null,
+      "feedbackSuccess": "A abertura do comentário contrasta mudança histórica rápida com consolidação institucional mais lenta.",
+      "feedbackError": "A abertura do comentário contrasta mudança histórica rápida com consolidação institucional mais lenta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "consolidarse",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "8159b4d5-65f8-4f5c-9731-69ae9b07bb97",
+      "title": "Recupere o fio do passado",
+      "content": "<p>Esa _______ todavía influye en lo que la gente espera de sus representantes.</p><p>Tradução: Essa memória ainda influencia o que as pessoas esperam de seus representantes.</p>",
+      "contentPlain": "Esa _______ todavía influye en lo que la gente espera de sus representantes. Tradução: Essa memória ainda influencia o que as pessoas esperam de seus representantes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, memória e o elo que leva a mudança histórica para a expectativa pública atual.",
+      "feedbackError": "Na aula, memória e o elo que leva a mudança histórica para a expectativa pública atual.",
+      "answerType": "buildWord",
+      "expectedAnswer": "memoria",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5d321594-2745-4792-84dd-606e41c94eed",
+      "title": "Diferencie a leitura fina",
+      "content": "<p>Agora o apoio vem da interpretação. Ligue cada trecho do modelo ao efeito mais preciso que ele cumpre dentro do comentário completo.</p>",
+      "contentPlain": "Agora o apoio vem da interpretação. Ligue cada trecho do modelo ao efeito mais preciso que ele cumpre dentro do comentário completo.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário integrado depende de diferenciar virada histórica, consolidação lenta, critério atual e consequência possível.",
+      "feedbackError": "O comentário integrado depende de diferenciar virada histórica, consolidação lenta, critério atual e consequência possível.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0743964a-30c8-40ed-a14f-f8ec116afa7f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5d321594-2745-4792-84dd-606e41c94eed"
+        },
+        {
+          "id": "3a05f3fa-d7f1-4324-8d5b-66322533fac7",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5d321594-2745-4792-84dd-606e41c94eed"
+        }
+      ],
+      "associations": [
+        {
+          "id": "625329bf-d881-4aed-ba84-01a827480777",
+          "exerciseId": "5d321594-2745-4792-84dd-606e41c94eed",
+          "leftContent": "cambió el lenguaje público",
+          "rightContent": "aponta uma mudança visível na forma de falar publicamente",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d800c743-7c26-4330-b4ca-afd47af2d614",
+          "exerciseId": "5d321594-2745-4792-84dd-606e41c94eed",
+          "leftContent": "tardó más en consolidarse",
+          "rightContent": "marca um processo institucional mais lento e menos automatico",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ee8bd84b-f44b-41c6-96aa-5198e8ca5367",
+          "exerciseId": "5d321594-2745-4792-84dd-606e41c94eed",
+          "leftContent": "influye en lo que la gente espera de sus representantes",
+          "rightContent": "transforma memória em critério de avaliação do presente",
+          "sequenceItem": 3
+        },
+        {
+          "id": "74efba0e-7f2c-4152-9194-109181094fe2",
+          "exerciseId": "5d321594-2745-4792-84dd-606e41c94eed",
+          "leftContent": "sería menos frágil en tiempos de crisis",
+          "rightContent": "projeta um efeito de maior estabilidade diante da crise",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "136a5939-2598-4635-8065-61ead70c7f70",
+      "title": "Reconstrua o miniroteiro final",
+      "content": "<p>Use o fio do recap final para ligar cada intenção discursiva ao gatilho em espanhol que a ativa.</p>",
+      "contentPlain": "Use o fio do recap final para ligar cada intenção discursiva ao gatilho em espanhol que a ativa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final resume o comentário em três movimentos: mudança, permanencia e consequência.",
+      "feedbackError": "O recap final resume o comentário em três movimentos: mudança, permanencia e consequência.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "78c67f5e-f8b6-41e5-9f4a-f3f77a3a585f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "136a5939-2598-4635-8065-61ead70c7f70"
+        },
+        {
+          "id": "c6efe9da-2123-4edd-934d-44d57765023c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "136a5939-2598-4635-8065-61ead70c7f70"
+        }
+      ],
+      "associations": [
+        {
+          "id": "bd0a1dd9-ee6b-4995-8322-81d414608f12",
+          "exerciseId": "136a5939-2598-4635-8065-61ead70c7f70",
+          "leftContent": "abrir com uma virada histórica observavel",
+          "rightContent": "algo cambió",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ed2f732c-9e73-4d52-94e4-6096a9c0e69b",
+          "exerciseId": "136a5939-2598-4635-8065-61ead70c7f70",
+          "leftContent": "mostrar que essa virada segue influenciando o presente",
+          "rightContent": "eso todavía influye",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a2d953a1-424b-4176-b1ef-2ff94da3b407",
+          "exerciseId": "136a5939-2598-4635-8065-61ead70c7f70",
+          "leftContent": "passar para uma consequência hipotetica",
+          "rightContent": "por eso, si...",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "bd3398c4-15d5-414b-9cf6-00ace414ac65",
+      "title": "Recupere o contexto da consequência",
+      "content": "<p>La confianza pública sería menos frágil en tiempos de ______.</p><p>Tradução: A confiança pública seria menos frágil em tempos de crise.</p>",
+      "contentPlain": "La confianza pública sería menos frágil en tiempos de ______. Tradução: A confiança pública seria menos frágil em tempos de crise.",
+      "fileUrl": null,
+      "feedbackSuccess": "A consequência final da aula aparece ligada a tempos de crise, não a uma abstracao solta.",
+      "feedbackError": "A consequência final da aula aparece ligada a tempos de crise, não a uma abstracao solta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "crisis",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9f9bd42-36ba-4477-8040-cff6349c4459",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Costurar historia, politica e consequencia em comentario oral"
+}

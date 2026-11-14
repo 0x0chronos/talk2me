@@ -1,0 +1,17 @@
+# Banco local e credenciais sensíveis
+database.sqlite*
+ADMIN-ACESSO.txt
+.env
+private/
+backups/
+__pycache__/
+*.log
+test-results/
+.tools/
+release/
+
+# Mídias pesadas (+17 GB) - servidas sob demanda pelo Google Drive / nuvem
+media/
+media_all/
+dumped_content/**/media/
+.drive-cache/

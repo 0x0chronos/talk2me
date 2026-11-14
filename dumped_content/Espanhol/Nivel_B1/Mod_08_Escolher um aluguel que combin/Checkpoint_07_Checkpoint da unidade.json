@@ -1,0 +1,570 @@
+{
+  "attemptId": "2c5918cf-928e-4d90-bbd4-c72416227854",
+  "exercises": [
+    {
+      "exerciseId": "4bfab6db-b542-48f3-abd5-8a0eb7131f69",
+      "sequence": 1,
+      "lessonId": "731dfa3b-aeff-4d30-a040-73897aa03e2c",
+      "title": "Associe a situação a frase mais útil",
+      "content": "<p>Ligue cada situação curta da aula a frase em espanhol que pesa melhor a opção de moradia.</p>",
+      "contentPlain": "Ligue cada situação curta da aula a frase em espanhol que pesa melhor a opção de moradia.",
+      "fileUrl": null,
+      "feedbackSuccess": "No recap, cada molde do condicional resolve um tipo diferente de tradeoff de moradia.",
+      "feedbackError": "No recap, cada molde do condicional resolve um tipo diferente de tradeoff de moradia.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "cc32da21-02bf-49a7-b6dd-fe5336a19fc3",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f69cd8b0-ce33-4e16-bddf-a2ab0246c978",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "0b711838-8b62-4873-b3c4-18795d5f683d",
+          "leftContent": "quer dizer o que prefere antes de decidir",
+          "rightContent": "Me gustaría vivir en el piso del centro.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "99e464a3-956b-4a45-9003-c918a83a0079",
+          "leftContent": "teletrabalha e compara as duas opções",
+          "rightContent": "Sería mejor alquilar el piso de las afueras si teletrabajas.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5e6ef2b4-b03f-4f63-8b19-6e883751ca30",
+          "leftContent": "quer destacar que a opção residencial ajuda a economizar",
+          "rightContent": "Podrías ahorrar más en el barrio residencial.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d4772ab3-f6c5-443e-b15b-e4e6329e1f72",
+          "leftContent": "sai tarde do trabalho e precisa chegar rápido",
+          "rightContent": "Te convendría el piso cerca del metro si sales tarde del trabajo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "6eb0f42f-e06d-4977-9ce8-3824a6d1d307",
+      "sequence": 2,
+      "lessonId": "e22f5225-741a-4c19-b553-7be4c73171d4",
+      "title": "Complete a abertura polida",
+      "content": "<p>Complete a frase: ¿______ decirme si está amueblado?</p><p>Tradução: Poderia me dizer se está mobiliado?</p>",
+      "contentPlain": "Complete a frase: ¿______ decirme si está amueblado? Tradução: Poderia me dizer se está mobiliado?",
+      "fileUrl": null,
+      "feedbackSuccess": "Podría abre a pergunta polida para confirmar um detalhe do imóvel.",
+      "feedbackError": "Podría abre a pergunta polida para confirmar um detalhe do imóvel.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Podría",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e15a76bd-71b0-44a0-be25-821dca369f74",
+      "sequence": 3,
+      "lessonId": "ecd79c34-dd62-4740-8ae1-98654e9f4f2c",
+      "title": "Ligue frase e impacto na rotina",
+      "content": "<p>Relacione cada expressão da aula ao tipo de efeito que ela sugere para o dia a dia.</p>",
+      "contentPlain": "Relacione cada expressão da aula ao tipo de efeito que ela sugere para o dia a dia.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula compara bairro e rotina pelo centro, pela conexão e pela distância pessoal.",
+      "feedbackError": "A aula compara bairro e rotina pelo centro, pela conexão e pela distância pessoal.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "a9a09c82-4e83-4211-aad3-d2867953b67c",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d30b4e4e-e7e2-482a-b519-430f66afa745",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "e1c8e18d-fc07-46ff-b28f-bbc7fb031ed8",
+          "leftContent": "Es un barrio céntrico.",
+          "rightContent": "rotina mais perto do centro",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4741fd0b-1dd6-4dfc-b593-b7bd0fa8d389",
+          "leftContent": "Está en las afueras.",
+          "rightContent": "rotina mais longe do centro",
+          "sequenceItem": 2
+        },
+        {
+          "id": "aefae8fe-c478-4994-9840-4fe2be571e85",
+          "leftContent": "Está bien comunicado.",
+          "rightContent": "deslocamento com boa conexão",
+          "sequenceItem": 3
+        },
+        {
+          "id": "9b8fe6d4-2880-48f4-9b0a-5c602f7ba446",
+          "leftContent": "Me queda lejos del trabajo.",
+          "rightContent": "distância que pesa no trajeto",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "e98b81e7-0987-4539-83b3-88614f2ec578",
+      "sequence": 4,
+      "lessonId": "731dfa3b-aeff-4d30-a040-73897aa03e2c",
+      "title": "Recupere a recomendação pelo áudio",
+      "content": "<p>Escute a recomendação ligada ao horário de trabalho e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a recomendação ligada ao horário de trabalho e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6bef44e671d1433ea7ff3040a346bba3_b06-te-convendria-el-piso-cerca-del-metro-si-sales-tarde-del-trabajo.mp3?Expires=1794099607&Signature=q~aWYbPEjAp8yJ8l00I8oXhfbUhbFvUPNBFcf3~HI3NVmiqTYDyjv51RHF2yUjgvhGlvwS647B23gTs0vCzPpBGOBo8kKPvBY0J7hrZqCNhYxB2wo8Ec18f3bqRSzvIawdmYHRQpNnI3WoUq13fepwZvcoDVKiQft-Vw0EGEmW9tLZXtXKZhAoyEdfJ4J2Gxpz5b1NOWXlizwqn4vmju86UbUZX2GNWSwB~FmoeS1Ot-pJBKrITuH9YejY9d9oDMDVduZ6baTwxWe52Ws19U0jlJhnedoSFnvIiGNkKn2kVYm7K1fUIJgyW2u7tIKw-PcS4W70dLbkd36gPBf4hcFg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Te convendría aparece quando a aula passa da preferência para a opção que melhor encaixa na rotina.",
+      "feedbackError": "Te convendría aparece quando a aula passa da preferência para a opção que melhor encaixa na rotina.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1c3379c9-75fb-4166-9b24-0c940d303b17",
+          "text": "metro",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "318e3d26-578b-4306-82d1-df4310beaea7",
+          "text": "cerca",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5cc96ee0-f558-4cfe-bb2e-38ef5e3434eb",
+          "text": "trabajo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "62c8a0cf-780f-469f-9f6a-417bdfb3855b",
+          "text": "sales",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "666fff60-141d-43fd-87b4-17d08436453b",
+          "text": "teletrabajas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6ee81e17-7694-474f-b4e6-ac699dc81069",
+          "text": "piso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "90739725-8c95-4965-a10e-0a68e687d8d7",
+          "text": "Te",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9b6a1e7b-335e-4a97-a134-d094a8b004c8",
+          "text": "convendría",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a8ae2f23-80d7-4991-8637-0a0b028c2fde",
+          "text": "ahorrar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cedaa5d6-5235-4244-839a-cb300beddcdd",
+          "text": "tarde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d6a76628-0abc-44f0-9212-fb3480aa2d51",
+          "text": "residencial",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c28f26f0-5116-4d08-a0b5-cfa07e414fa2",
+      "sequence": 5,
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "title": "Complete o pedido formal",
+      "content": "<p>Complete em espanhol: ¿Podría ___________ si los gastos están incluidos?</p><p>Tradução: Poderia me confirmar se as despesas estão incluídas?</p>",
+      "contentPlain": "Complete em espanhol: ¿Podría ___________ si los gastos están incluidos? Tradução: Poderia me confirmar se as despesas estão incluídas?",
+      "fileUrl": null,
+      "feedbackSuccess": "¿Podría confirmarme si...? mantém o pedido curto e polido antes da decisão.",
+      "feedbackError": "¿Podría confirmarme si...? mantém o pedido curto e polido antes da decisão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "confirmarme",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b6e48c77-9fff-4214-9c32-bd8b0bc6b9f5",
+      "sequence": 6,
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "title": "Complete a justificativa de conveniência",
+      "content": "<p>Complete em espanhol: está bien __________.</p><p>Tradução: tem fácil acesso.</p>",
+      "contentPlain": "Complete em espanhol: está bien __________. Tradução: tem fácil acesso.",
+      "fileUrl": null,
+      "feedbackSuccess": "Está bien comunicado recupera o critério de conveniência na recomendação.",
+      "feedbackError": "Está bien comunicado recupera o critério de conveniência na recomendação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "comunicado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8ede78f9-ae2b-49e8-8067-054de82b3a80",
+      "sequence": 7,
+      "lessonId": "731dfa3b-aeff-4d30-a040-73897aa03e2c",
+      "title": "Complete a preferência",
+      "content": "<p>Complete em espanhol: Me ________ vivir en el piso del centro.</p><p>Tradução: Eu gostaria de morar no apartamento do centro.</p>",
+      "contentPlain": "Complete em espanhol: Me ________ vivir en el piso del centro. Tradução: Eu gostaria de morar no apartamento do centro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me gustaría introduz a preferência inicial antes de a aula pesar custo, distância e rotina.",
+      "feedbackError": "Me gustaría introduz a preferência inicial antes de a aula pesar custo, distância e rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "gustaría",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d8403958-f833-4fa1-980a-7cdbdf30eb9a",
+      "sequence": 8,
+      "lessonId": "e22f5225-741a-4c19-b553-7be4c73171d4",
+      "title": "Complete a palavra da disponibilidade",
+      "content": "<p>Complete a frase: ¿Habría ___________ de hacer una visita esta semana?</p><p>Tradução: Haveria possibilidade de fazer uma visita esta semana?</p>",
+      "contentPlain": "Complete a frase: ¿Habría ___________ de hacer una visita esta semana? Tradução: Haveria possibilidade de fazer uma visita esta semana?",
+      "fileUrl": null,
+      "feedbackSuccess": "Posibilidad marca que a pergunta abre disponibilidade, não um fato do anúncio.",
+      "feedbackError": "Posibilidad marca que a pergunta abre disponibilidade, não um fato do anúncio.",
+      "answerType": "buildWord",
+      "expectedAnswer": "posibilidad",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8edcef1a-ec67-4cbc-8f97-0f87a415331b",
+      "sequence": 9,
+      "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+      "title": "Complete o verbo de recomendação",
+      "content": "<p>Complete em espanhol: Te ____________ el piso de la zona del parque porque entra en tu presupuesto.</p><p>Tradução: Eu recomendaria o apartamento da zona do parque porque ele cabe no seu orçamento.</p>",
+      "contentPlain": "Complete em espanhol: Te ____________ el piso de la zona del parque porque entra en tu presupuesto. Tradução: Eu recomendaria o apartamento da zona do parque porque ele cabe no seu orçamento.",
+      "fileUrl": null,
+      "feedbackSuccess": "Te recomendaría ativa a moldura da recomendação curta na aula.",
+      "feedbackError": "Te recomendaría ativa a moldura da recomendação curta na aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "recomendaría",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "95c0aee0-14b7-4cd1-9476-ef6e9327553e",
+      "sequence": 10,
+      "lessonId": "18e73080-0fc3-4daf-9312-b77cd0170b90",
+      "title": "Ligue o modelo final aos efeitos",
+      "content": "<p>Relacione cada trecho do recap final ao papel que ele desempenha na defesa completa da moradia escolhida.</p>",
+      "contentPlain": "Relacione cada trecho do recap final ao papel que ele desempenha na defesa completa da moradia escolhida.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final junta decisão, conveniência, tradeoff e fechamento pela rotina.",
+      "feedbackError": "O recap final junta decisão, conveniência, tradeoff e fechamento pela rotina.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4af6e0f3-2f11-4a1e-85bf-e060e9588765",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a10c2ae7-7938-4d18-ab35-28f822dea641",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "802a896a-3d0e-4356-a2aa-f166aa582a65",
+          "leftContent": "Yo elegiria el piso A.",
+          "rightContent": "abrir a defesa com a decisão",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ca81af70-7068-471b-acc0-4ce239b64ae3",
+          "leftContent": "Me conviene porque está bien comunicado y queda cerca del trabajo.",
+          "rightContent": "justificar a conveniência",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6825b34e-3986-4c82-abe4-2d3c4f60b5a9",
+          "leftContent": "El piso B merece la pena por el espacio y los gastos incluidos.",
+          "rightContent": "reconhecer a vantagem da outra opção",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a332dce7-033b-494e-a60e-68c9e78b5dca",
+          "leftContent": "Para mi rutina sería mejor vivir más cerca.",
+          "rightContent": "fechar a comparação com foco na rotina",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "31f51bb7-a5df-421e-b22f-a5407be20a0e",
+      "sequence": 11,
+      "lessonId": "e22f5225-741a-4c19-b553-7be4c73171d4",
+      "title": "Recupere os detalhes pelo áudio",
+      "content": "<p>Ouça o recap final da aula e marque apenas as palavras que fazem parte da consulta completa sobre o aluguel.</p>",
+      "contentPlain": "Ouça o recap final da aula e marque apenas as palavras que fazem parte da consulta completa sobre o aluguel.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dc629e8be2c64895954f9012cdc52aff_b08-consulta-completa.mp3?Expires=1794099607&Signature=Ktq~92TcXHclzIW~-bVlVAS-Wm1skq~Es5QqXv9xEW51GG0nqlcUwVQl65wYOU23RBVunsWAJ2VptzqmD1axT05mnNE4FRCbol20UKeqV3pJbJoEGuBwTqNeSQriTb4yjw~TXDMUuJe~FLbJgd3DoeiwHLlImLbu~G-umjhMAJ2FVDaj~Jn2BjMRKS4w2GjMCxLksF9aEAyKch2dRvZHn3GvkY5-j--rDuA33vkB53Dt-4767P3OT23okdZykvuKi87JmmI9iUZ4ExjoKsaTUlI0m6ZqjTI3emW21MgDtS0OFxoM5rHtRVd2fxlazMpIE0~1SuTVT4CAIiyfHp3H4g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final junta gastos, mobília e visita numa consulta curta.",
+      "feedbackError": "O recap final junta gastos, mobília e visita numa consulta curta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "74906253-5f2b-45e5-8a7e-e5d419a1359f",
+          "text": "tenemos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "94d86688-f486-4ab3-a3f8-3913ff9b26a7",
+          "text": "jueves",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b3988cf8-3f0a-4293-8a78-e6c3500c03d1",
+          "text": "semana",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bc0fb99c-da32-43f8-a4dd-b45595827cb5",
+          "text": "alquiler",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c7739e83-6e01-481f-9112-0299023fb501",
+          "text": "gastos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d8bf1e7c-1090-4f3d-82ea-0165a5c7c4b0",
+          "text": "incluye",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e95239a9-532f-4ae1-9ca9-16929e93b107",
+          "text": "disponible",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ec752116-3c36-4955-b9bb-432436f60a5e",
+          "text": "visita",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f87f22db-a984-4809-a1e6-f6f408b43ee5",
+          "text": "amueblado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "bbb8b60e-a64a-4413-a909-bb15dc9e2dd5",
+      "sequence": 12,
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "title": "Decida se o anúncio serve",
+      "content": "<p>Considere estes dados da aula:</p><p><strong>Mi presupuesto es de 900 euros.</strong></p><p><strong>Descarto un piso sin gastos incluidos.</strong></p><p><strong>Estudio amueblado y luminoso por 850 euros, con gastos incluidos.</strong></p><p>Qual conclusão combina com essa leitura?</p>",
+      "contentPlain": "Considere estes dados da aula: Mi presupuesto es de 900 euros. Descarto un piso sin gastos incluidos. Estudio amueblado y luminoso por 850 euros, con gastos incluidos. Qual conclusão combina com essa leitura?",
+      "fileUrl": null,
+      "feedbackSuccess": "No segundo perfil, 850 euros e gastos incluidos respondem ao limite e ao descarte.",
+      "feedbackError": "No segundo perfil, 850 euros e gastos incluidos respondem ao limite e ao descarte.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "06a8caf5-439a-4d3e-a24f-f5f9233f5190",
+          "text": "O anúncio não atende esse perfil porque passa de 900 euros.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "357ce9dc-4efa-46b2-b838-527c46529399",
+          "text": "O anúncio não atende esse perfil porque falta amueblado.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3c60561a-739b-44f0-b8a3-a7805c2e503e",
+          "text": "O anúncio atende esse perfil porque cabe no presupuesto e traz gastos incluidos.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "876a42d2-1894-49f6-a2c0-4732da010af7",
+          "text": "O anúncio só serviria se dissesse cerca del trabajo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "78e5391d-71e5-4a35-9d9f-684ad2e3ec26",
+      "sequence": 13,
+      "lessonId": "ecd79c34-dd62-4740-8ae1-98654e9f4f2c",
+      "title": "Complete a descrição do bairro",
+      "content": "<p>Es un barrio ________.</p><p>Tradução: É um bairro central.</p>",
+      "contentPlain": "Es un barrio ________. Tradução: É um bairro central.",
+      "fileUrl": null,
+      "feedbackSuccess": "Céntrico é a palavra da aula para um bairro ligado à proximidade.",
+      "feedbackError": "Céntrico é a palavra da aula para um bairro ligado à proximidade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "céntrico",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3f5472df-7684-4873-abd2-7438617cd5c1",
+      "sequence": 14,
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "title": "Ligue frase e decisão",
+      "content": "<p>Recupere o filtro final da aula ligando cada frase em espanhol ao tipo de decisão que ela expressa.</p>",
+      "contentPlain": "Recupere o filtro final da aula ligando cada frase em espanhol ao tipo de decisão que ela expressa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final transforma as frases da aula em filtro de decisão reutilizável.",
+      "feedbackError": "O recap final transforma as frases da aula em filtro de decisão reutilizável.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "56352784-b8d8-4298-aecb-ea38a837ca71",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8b2fb7a0-3157-4498-aa00-86c71fa54605",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "fc05e6c6-defc-4546-9319-027d2d9a5787",
+          "leftContent": "Necesito que esté amueblado.",
+          "rightContent": "não negociável",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ab1418b2-ebcc-4b18-9a00-1f8cf8ab7a92",
+          "leftContent": "Me basta con un estudio pequeño.",
+          "rightContent": "já serve",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4a67f9a7-6425-4429-b544-20700f39f40d",
+          "leftContent": "Descarto un piso sin gastos incluidos.",
+          "rightContent": "fica fora da busca",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "0dc93c6f-7c42-44dc-b4de-899c3c466bfd",
+      "sequence": 15,
+      "lessonId": "18e73080-0fc3-4daf-9312-b77cd0170b90",
+      "title": "Complete a justificativa de rotina",
+      "content": "<p>Complete em espanhol: Me ________ el piso A porque está cerca del trabajo.</p><p>Tradução: O piso A me convém porque fica perto do trabalho.</p>",
+      "contentPlain": "Complete em espanhol: Me ________ el piso A porque está cerca del trabajo. Tradução: O piso A me convém porque fica perto do trabalho.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me conviene marca quando a moradia encaixa de modo prático na rotina.",
+      "feedbackError": "Me conviene marca quando a moradia encaixa de modo prático na rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "conviene",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

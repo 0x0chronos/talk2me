@@ -1,0 +1,607 @@
+{
+  "attemptId": "ff81515e-ba6d-4342-a369-81afcdae5d62",
+  "exercises": [
+    {
+      "exerciseId": "be80ad2a-4fcc-422c-ac55-37700eb64535",
+      "sequence": 1,
+      "lessonId": "1c556abd-2066-43ab-b8f4-c010e2f9b3f9",
+      "title": "Complete a virada",
+      "content": "<p>Complete em espanhol: Gira a la _______.</p><p>Tradução: Vire à direita.</p>",
+      "contentPlain": "Complete em espanhol: Gira a la _______. Tradução: Vire à direita.",
+      "fileUrl": null,
+      "feedbackSuccess": "Gira a la derecha. marca o momento de virar no caminho.",
+      "feedbackError": "Gira a la derecha. marca o momento de virar no caminho.",
+      "answerType": "buildWord",
+      "expectedAnswer": "derecha",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9b08d264-b1dc-4c93-9495-560bd85ded7f",
+      "sequence": 2,
+      "lessonId": "13f52ee6-200b-49d4-9fd9-8f7590215631",
+      "title": "Reconstrua a sequência",
+      "content": "<p>Relacione cada forma ao papel que ela cumpre quando a resposta vem em duas etapas.</p>",
+      "contentPlain": "Relacione cada forma ao papel que ela cumpre quando a resposta vem em duas etapas.",
+      "fileUrl": null,
+      "feedbackSuccess": "A sequência da aula primeiro apresenta o lugar com hay e depois localiza com está.",
+      "feedbackError": "A sequência da aula primeiro apresenta o lugar com hay e depois localiza com está.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "cb0d308d-424a-47ea-bc74-24e8b7ad97b6",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e38541b5-7b5d-40c3-b6f5-f66016e0fe9c",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "12b2420c-abd2-4e7f-89fe-2dbafc2f1b82",
+          "leftContent": "hay",
+          "rightContent": "a palavra que apresenta que um lugar existe",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0f08a9a2-5e0a-4140-9be1-9d7620995a9f",
+          "leftContent": "está",
+          "rightContent": "a palavra que localiza o lugar já mencionado",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4d1edafd-ce95-4227-b755-63a85d1a689d",
+          "leftContent": "En esta calle hay una farmacia.",
+          "rightContent": "a frase que vem primeiro: o lugar existe",
+          "sequenceItem": 3
+        },
+        {
+          "id": "f79b4089-ef8b-4f8e-978f-09c44e37d292",
+          "leftContent": "La farmacia está al lado del banco.",
+          "rightContent": "a frase que vem depois: onde ele fica",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "7608fcf8-abdb-4035-927d-9a6934167b7b",
+      "sequence": 3,
+      "lessonId": "ce95c468-1b78-4968-b827-c00ab3f2f18d",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a resposta em espanhol: El supermercado está _____ del metro.</p><p>Tradução: O supermercado fica longe do metrô.</p>",
+      "contentPlain": "Complete a resposta em espanhol: El supermercado está _____ del metro. Tradução: O supermercado fica longe do metrô.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa lejos de para indicar distância maior entre lugares.",
+      "feedbackError": "A aula usa lejos de para indicar distância maior entre lugares.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lejos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ee485e5a-5b5f-4ece-ba94-41eee1b7febb",
+      "sequence": 4,
+      "lessonId": "1c556abd-2066-43ab-b8f4-c010e2f9b3f9",
+      "title": "Recupere a pergunta pelo áudio",
+      "content": "<p>Marque somente as palavras que aparecem na pergunta da aula.</p>",
+      "contentPlain": "Marque somente as palavras que aparecem na pergunta da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/06ff1806cca145a299be42f05515e43c_b01-donde-esta-la-estacion.mp3?Expires=1794099488&Signature=FOVV1UNW8G6BgJMdNRn4BIESrJyL4gj0Do2N4aVmK57zPbcFWtPwx~kpHtPREaXJ-EK1e8qEK1oVL~fTqSobvVLy-1WL-qBAtjWU3bweC~kwWMyeOSGPo~SEn1d~Mj0OVorCTsMaVe3V9KKiOhkaQnpPU2hpHesdA2BbT5T0I~CLoM4B2zAUbJIKdLtNzd70kSWN6QIJ2v5PyWhBXcqZnxgzMicG~6iJJmQO9UOazVu8xfDeEkQHANgvEUCIrgqv7JEEJ4oU1vIk13rQX4w9Jj08eclnVlKoB~ffIDYKeHJIyT2H954k9eJJLFDGeiIY24CiIdzJKmHlmVvV0XBnYw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta central da aula junta dónde, está, la e estación.",
+      "feedbackError": "A pergunta central da aula junta dónde, está, la e estación.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1085b69f-f2a3-423e-8eab-1235909ea6ee",
+          "text": "la",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4408c5cc-c6bc-46fc-8807-2b7f84e06513",
+          "text": "recto",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "602a25e9-bedb-4784-817d-2adc2d8069fb",
+          "text": "calle",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "de08186c-5088-4a10-9940-96e8b91585dc",
+          "text": "está",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e3dfcf9f-5984-4baa-b818-883cd834e608",
+          "text": "dónde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ea81dbd9-069d-4a44-abf7-c5be8c533b1b",
+          "text": "estación",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "063b710f-1e42-4fd9-b5ae-f3aa253e8649",
+      "sequence": 5,
+      "lessonId": "04fad3a6-fa0e-4cf6-9f88-cb46a1cb10c9",
+      "title": "Complete a frase com a referência",
+      "content": "<p>La cafetería está _____ el hospital y la estación.</p><p>Tradução: A cafeteria fica entre o hospital e a estação.</p>",
+      "contentPlain": "La cafetería está _____ el hospital y la estación. Tradução: A cafeteria fica entre o hospital e a estação.",
+      "fileUrl": null,
+      "feedbackSuccess": "Entre ajuda a localizar um lugar usando dois pontos de referência na aula.",
+      "feedbackError": "Entre ajuda a localizar um lugar usando dois pontos de referência na aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "entre",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "75a19fc7-4893-40f1-b637-23fc5ae6b163",
+      "sequence": 6,
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "title": "Relacione frase e função",
+      "content": "<p>Associe cada frase do microtexto ao tipo de informação que ela traz para a leitura.</p>",
+      "contentPlain": "Associe cada frase do microtexto ao tipo de informação que ela traz para a leitura.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa retoma como o microtexto organiza cidade, proximidade e relação espacial.",
+      "feedbackError": "Esta tarefa retoma como o microtexto organiza cidade, proximidade e relação espacial.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "9db7711b-7c8f-433c-a655-820a341e8502",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b8f0d8f8-8c06-4fc7-a7ec-fbbe2dadb418",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "dcfee291-136b-4bfe-b2bc-af971e0fdb48",
+          "leftContent": "Ahora vivo en Ciudad de México.",
+          "rightContent": "onde a pessoa mora",
+          "sequenceItem": 1
+        },
+        {
+          "id": "46f1fa66-1b58-4d78-bc47-f6407b653dc1",
+          "leftContent": "Hay un parque cerca de casa.",
+          "rightContent": "o que existe por perto",
+          "sequenceItem": 2
+        },
+        {
+          "id": "27ddf7b9-cca9-4a2e-8498-ec989856f8b0",
+          "leftContent": "La biblioteca está enfrente del parque.",
+          "rightContent": "posição entre lugares",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "fc6bb7c5-23a0-4f77-838a-aa24085ab567",
+      "sequence": 7,
+      "lessonId": "7f5b8c74-7efc-4a38-9f70-17ee711e8128",
+      "title": "Recupere a ideia de distância",
+      "content": "<p>Complete a frase em espanhol: El hospital está _____ de la estación de metro.</p>\n          <p>Tradução: O hospital fica longe da estação de metrô.</p>",
+      "contentPlain": "Complete a frase em espanhol: El hospital está _____ de la estación de metro. Tradução: O hospital fica longe da estação de metrô.",
+      "fileUrl": null,
+      "feedbackSuccess": "`lejos de` mostra distância usando um ponto de referência.",
+      "feedbackError": "`lejos de` mostra distância usando um ponto de referência.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lejos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "309ab38b-9fdd-4f06-90f9-83c4437fa8aa",
+      "sequence": 8,
+      "lessonId": "ce95c468-1b78-4968-b827-c00ab3f2f18d",
+      "title": "Relacione forma e uso",
+      "content": "<p>Associe cada frase da aula ao papel que ela cumpre ao falar sobre lugares.</p>",
+      "contentPlain": "Associe cada frase da aula ao papel que ela cumpre ao falar sobre lugares.",
+      "fileUrl": null,
+      "feedbackSuccess": "O molde da aula separa perguntar por um lugar de dizer se ele fica perto ou longe.",
+      "feedbackError": "O molde da aula separa perguntar por um lugar de dizer se ele fica perto ou longe.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "50a0df1d-0cde-4bc2-adce-ed8bfc077a83",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9cb453f8-a274-4343-bf27-84e26262b59a",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "7c572fc6-e095-4bcf-acf1-5662b09f7545",
+          "leftContent": "¿Dónde está la farmacia?",
+          "rightContent": "perguntar por um lugar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "429d818b-2b83-4797-b461-23ffde36b5d0",
+          "leftContent": "La farmacia está cerca de la plaza.",
+          "rightContent": "indicar que um lugar fica perto de uma referência",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e94cdf61-3041-4eea-9a9e-a6ecc64293ad",
+          "leftContent": "El supermercado está lejos del metro.",
+          "rightContent": "indicar que um lugar fica longe de uma referência",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "08b80869-0829-46fc-b57c-d21eb46a89b0",
+      "sequence": 9,
+      "lessonId": "13f52ee6-200b-49d4-9fd9-8f7590215631",
+      "title": "Complete a frase de localização",
+      "content": "<p>La farmacia ____ al lado del banco.</p><p>Tradução: A farmácia fica ao lado do banco.</p>",
+      "contentPlain": "La farmacia ____ al lado del banco. Tradução: A farmácia fica ao lado do banco.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na sequência da aula, está entra quando o lugar já foi apresentado e agora precisa ser localizado.",
+      "feedbackError": "Na sequência da aula, está entra quando o lugar já foi apresentado e agora precisa ser localizado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "está",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7e33e0dd-a4e8-4c3e-be31-8027170c5100",
+      "sequence": 10,
+      "lessonId": "13f52ee6-200b-49d4-9fd9-8f7590215631",
+      "title": "Filtre as palavras da localização",
+      "content": "<p>Resolva pela escuta e marque somente as palavras que fazem parte da frase de localização.</p>",
+      "contentPlain": "Resolva pela escuta e marque somente as palavras que fazem parte da frase de localização.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7e1fea5f3ede4b88a25e011a7f0301d7_b03-la-farmacia-esta-al-lado-del-banco.mp3?Expires=1794099488&Signature=MEtu4fy7MhiSKo-6GhqxdCeLO~7SHYwM8JptqhDL1RTrzkjx14h1TOoYrnxmFj42qx~UZgN7orVrixVDwWrNmbRlN7pqKOvNVTrkOMDBtX~6NluxMH8NWSpyh~u6u~vHY2huRa36AYYm-qx0WVU8E8BUL2~d7ebY~dSZMrsciMpQ9WnExG~8ISVDHAcRJjZb7qZxWfeOm55YUiCwLILPdSqLJNhuCk-pnb58i-12kPRLeyFqmBEWkSJAxjwzx0ZGCw3UzFb5OcOMOVt7SlPt2c8ti6l45SY4tWBz8NAZ~LeOahPZGabU~mbhVNy8iTXqSyceELAkexai89tXuBfmcA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Pela escuta, fica mais claro que está aparece quando a aula passa para a localização do lugar.",
+      "feedbackError": "Pela escuta, fica mais claro que está aparece quando a aula passa para a localização do lugar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2fdd00b6-a6f5-42fd-afd1-7ff98147fba8",
+          "text": "calle",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "65a921fd-b0a0-40ed-b343-bd3785570200",
+          "text": "barrio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a44464e2-1da4-40eb-a82b-1ad39fad8ab3",
+          "text": "farmacia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b3f35d32-2f1c-4c05-b090-3243f7476bec",
+          "text": "está",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b602121e-e919-49c1-bece-9c562c06ba5a",
+          "text": "hay",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bdf0a66c-4187-4bdb-958f-c9d16872efa5",
+          "text": "lado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ec74dda3-f09e-4ff3-b6d3-5a3a4b390ec4",
+          "text": "banco",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "4af7247a-25e8-49b4-986e-f116baf193cb",
+      "sequence": 11,
+      "lessonId": "1c556abd-2066-43ab-b8f4-c010e2f9b3f9",
+      "title": "Recupere a rota completa",
+      "content": "<p>Use apenas o áudio para reconstruir a pergunta e os três passos do trajeto curto.</p>",
+      "contentPlain": "Use apenas o áudio para reconstruir a pergunta e os três passos do trajeto curto.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula reúne a pergunta de localização e a sequência curta de rota.",
+      "feedbackError": "O fechamento da aula reúne a pergunta de localização e a sequência curta de rota.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "bec24aaf-2834-4771-93a1-28ea653efcb5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/06ff1806cca145a299be42f05515e43c_b01-donde-esta-la-estacion.mp3?Expires=1794099488&Signature=FOVV1UNW8G6BgJMdNRn4BIESrJyL4gj0Do2N4aVmK57zPbcFWtPwx~kpHtPREaXJ-EK1e8qEK1oVL~fTqSobvVLy-1WL-qBAtjWU3bweC~kwWMyeOSGPo~SEn1d~Mj0OVorCTsMaVe3V9KKiOhkaQnpPU2hpHesdA2BbT5T0I~CLoM4B2zAUbJIKdLtNzd70kSWN6QIJ2v5PyWhBXcqZnxgzMicG~6iJJmQO9UOazVu8xfDeEkQHANgvEUCIrgqv7JEEJ4oU1vIk13rQX4w9Jj08eclnVlKoB~ffIDYKeHJIyT2H954k9eJJLFDGeiIY24CiIdzJKmHlmVvV0XBnYw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Dónde está la estación?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "817777df-e217-4194-920e-93d9021e5b3d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/de9c286abb804783ad2e2365b63e5950_b03-sigue-recto.mp3?Expires=1794099488&Signature=HHfWxPui6hxXFMWEBTUR0eWb5loDZrbQMeNWD3Cy1QjmxOWSu5ky3Hr1Gc4Oy62IRkKRHbJ3ONPSVhqZbDNy3bgXBS7Y61gZAWR8fGIqZcjCylKar6Pf83dHD0VoTSuY1rOodIcAlp~rEplW0HXM-eTxXChSGur6-4aj--H9yGxhnIvPJ4e40XaPlyIEnsdgitJWbVNxaTIRzdD~MoHF73RW7hussqrj2PR9Cchp3qhgJUImXE8tv71wOXAszGbygPnhdq5J7VciyS-pfRIkHrHm5C6d~~1ToYaZXTBedHNWKNyfxcWigfLXMBl8LDaidfFfG5tRl2nWpKQccbhAeg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sigue recto.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f1dafb40-5a8a-4bea-a1cf-3f1da2d5a2ef",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/688774cacde34ca88edfc4aaf0983f6e_b05-gira-a-la-derecha.mp3?Expires=1794099488&Signature=GwRCeyjWL0wYCvhVUa08wQyHwVsHzEKi0u2Vm8m~EhZu1bjHG6LxNv0Ozo-5v7WZiqTrlssNiQaobcEAC64R3UTCgCR~BFTfiiplVqd-PuwJbOL5Ptbq9F1556IRJlSDdPp-Rs0oUQwSAJzL3zn9qDzDASsofQolL1SMUZGW8DuGD8mSMh7AcvMmPX73-CuF-HX2JK1tQ-IS8ScbtWdbIQ-dGdS0GasMfqP4zegWzA6YaftI6XV5amy0ZW4AgK3aCaTGYNeXwUJsZs7wg91OgpgSGtNIAGDXLzEceSW2dmy5oQjITsa1hd2Zuh9x1q~eiG5P-gqgYN0e32ucYYtP4g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Gira a la derecha.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c66179a8-30b7-4c02-82af-a289f5092c3e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6aab0e8f8577446d8e4bbb1dc5949a9d_b07-cruza-la-calle.mp3?Expires=1794099488&Signature=ZO8zrIzjBet4ogCeLmTd8sxlWhgGnEqnhPkc57mKh1IQWRxe7Dpsbk0fRlnfcJWhLryfTQlwOIhHCXzWbmHAIYPenF08Yl908KPMqKJ0LGjttzyyN2mw3l9LddO90NF9c9Dr3X1DTmOP74au5ec6EsbjMn77re87IePAHPAMElGdaoQAWLfIRpupopVVAvN3waFrd-k43HJ7QBY2DbXoFeCEeoBSdz1C-TFuyeU24tU8zzmiY1cdVGxybgDv~R9qisfq2OjCTHSOixCGGRG56MuX3lwA58BhYhf3wrj2nkwEYV-9WCEJiVPIdmgPwoJc8SokoEuU3Cr3u2pc54KqbQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cruza la calle.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "b4acc3f8-af02-42db-825b-31bd489dbe40",
+      "sequence": 12,
+      "lessonId": "a7d21202-9786-4850-8993-a8fbb49abf94",
+      "title": "Recupere a cidade",
+      "content": "<p>Complete a frase em espanhol: Ahora vivo en ______ de México.</p>\n          <p>Tradução: Agora moro na Cidade do México.</p>",
+      "contentPlain": "Complete a frase em espanhol: Ahora vivo en ______ de México. Tradução: Agora moro na Cidade do México.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta tarefa pede recuperação ativa da cidade dentro da estrutura `vivo en + lugar`.",
+      "feedbackError": "Esta tarefa pede recuperação ativa da cidade dentro da estrutura `vivo en + lugar`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Ciudad",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "abf72577-c7de-4b56-8b8f-da31f595dd3e",
+      "sequence": 13,
+      "lessonId": "7f5b8c74-7efc-4a38-9f70-17ee711e8128",
+      "title": "Recupere a resposta curta pelo áudio",
+      "content": "<p>Escute a frase e marque só as palavras que aparecem na resposta sobre um lugar muito próximo.</p>",
+      "contentPlain": "Escute a frase e marque só as palavras que aparecem na resposta sobre um lugar muito próximo.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a4e03321ddc54566be71f9e810a3e8e3_b12-la-cafeteria-esta-aqui-mismo.mp3?Expires=1794099488&Signature=M72nnNASWzB9Jp8eBsbczFcz2sOZv70UgyZMm~osCcIHDNtUAaXFS8suLFpnCI0Ly~ztcQQj5tlThOWxOux2a0wokZHeIws6MYoauC-jBJoRHnJlIpCviJQz8hp1AZsioIeoHCL6Q8AtD-dU8x-6oyYERsXsKlkqfeoqSXyhx~e47HWrFAS8UcWNmyc29qGx6eG0-LNgKPHaNwBW~syfz9zHtErKEa63X3b8Fezqt871OI3UhmDtcl4oC5aRXVh1dBbqGvkTRXyLLiJTcgV5W4lnrsXvD1ZiHcZ1iRP5zdHykdzeYu~Xr~nphY4J38oBQpz~0RHmsbzrJlVTuBkZyw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "`aquí mismo` usa a posição de quem fala para indicar proximidade imediata.",
+      "feedbackError": "`aquí mismo` usa a posição de quem fala para indicar proximidade imediata.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4b85d97b-7db0-47bc-a222-83ea2e2a0041",
+          "text": "lejos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5bcab8c9-5b41-486b-add5-80d4fa0552b0",
+          "text": "mercado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6881a475-461e-40ec-86e9-b5a149b0a0d4",
+          "text": "aquí",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9e157c96-7cf8-452d-8f54-168063b22c14",
+          "text": "mismo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9f33465b-8373-45de-8b08-6ced04ec5dbf",
+          "text": "estación",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "aa6ff5a5-3743-44de-badd-0308e0024af6",
+          "text": "cafetería",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "32925519-c7f3-4e01-a948-d70f8bc00490",
+      "sequence": 14,
+      "lessonId": "ce95c468-1b78-4968-b827-c00ab3f2f18d",
+      "title": "Ouça e recupere a resposta",
+      "content": "<p>Resolva pela escuta e marque somente as palavras que fazem parte da frase.</p>",
+      "contentPlain": "Resolva pela escuta e marque somente as palavras que fazem parte da frase.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2447d32cd4b4437d887cde879e5b67d7_el-supermercado-esta-lejos-del-metro.mp3?Expires=1794099488&Signature=W3-nDi0--CLU7jWdtFiFf-AXd8A0KT2FYjEqcQLFnQmBm0nmnihoIzKr-7yRCZwImywMsGgvB1771BblZfG34JIZc7f5hbVj~nraZy0k1GLzqlnZWvg8qod9rcVhxY5yqEufVA0~Oef0zt7D8FVumqUhjfe44HMYyK-cmgIVYv2EYRdHrqi3iX8YzONl4HDLDr--UF1XX2r2RfIMQpgLgnwbMMV~wwOYlndhzDG9-XkaOwR0xXkqreJ9N0QT3TVwYUIuDIEuxKJKunzH3DVOG8JeOy-O1sy7as6XIPOSttphFrgk8yuAhM-EbKcqgXmH3s8uup49BHST5d9JTxwNrg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A resposta da aula combina lugar, distância e referência no mesmo enunciado.",
+      "feedbackError": "A resposta da aula combina lugar, distância e referência no mesmo enunciado.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0f6f50ce-9279-4698-95ef-a5ea1576d37c",
+          "text": "farmacia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "15d94611-8f79-43cd-8ab8-bdb48b22f2da",
+          "text": "plaza",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "45835d29-1767-457d-b7aa-b10ebb2edb8f",
+          "text": "lejos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6bec8e3c-9eaf-4ea2-b8ce-e992acd93488",
+          "text": "metro",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "94d5ea42-5849-4ba4-b4b1-64f2a11aa803",
+          "text": "está",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9b259992-c8e2-4ef1-a8f4-fd53321e5693",
+          "text": "cerca",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d2f4a15b-3d7d-4ce9-a259-7d1bd38bf5e3",
+          "text": "supermercado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "700863a5-c054-4068-8ddb-2fd048a35141",
+      "sequence": 15,
+      "lessonId": "04fad3a6-fa0e-4cf6-9f88-cb46a1cb10c9",
+      "title": "Filtre as palavras do caminho",
+      "content": "<p>Escute a instrução e marque apenas as palavras que fazem parte do trajeto.</p>",
+      "contentPlain": "Escute a instrução e marque apenas as palavras que fazem parte do trajeto.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e054bff3a05e4c8cb24ae681bd939180_b05-cruza-la-calle-y-sigue-recto.mp3?Expires=1794099488&Signature=B-rw656zjO0UbhQChyAr9DWBo6EBseCNn~C-3EhGnM5nwjKsIN3S9-BWAOIeWyiwogPcNN7d91wfQsK2b46p4q2sNpuF9e5zuOFom8jQtTzG~sMs23xyAd6wwMjcOzLgJZ9bMgP86IXkvX4YKLG04Bd~0LGsQkTLhqSd7gY3MssGjRoIKd3R-0~Ls6YBYKKqkvyKFRaGPFt0I9fTwk71YNBQ4sB8UILzR8dw3rQcBbJNcY~UUmhxU4q0i47SKHUOWLbIoxZRG86k6V~6sc0XjbWBpglO1bvzYA25EFvqyAoayZK79ezHU2ZKvNN-G3k~cisgJxg7v8cdkOoX45hekg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A resposta de trajeto da aula se organiza em movimentos curtos e diretos.",
+      "feedbackError": "A resposta de trajeto da aula se organiza em movimentos curtos e diretos.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "32135cd4-606b-479a-8079-d9e8a25df544",
+          "text": "hospital",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "49265a44-ed38-4392-abb9-d59dca756049",
+          "text": "cruza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cb9f171f-8fd0-4516-8233-76c8836c359a",
+          "text": "recto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cc76f79b-22b0-444e-96dd-935ceea2eb2b",
+          "text": "calle",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "dcb21b7a-7335-41d3-9d25-66a383ddfef3",
+          "text": "sigue",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eb965e1d-0cc2-4880-8039-b43892ad1912",
+          "text": "estación",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

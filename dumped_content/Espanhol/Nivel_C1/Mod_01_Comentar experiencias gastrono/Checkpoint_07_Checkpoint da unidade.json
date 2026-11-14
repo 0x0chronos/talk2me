@@ -1,0 +1,516 @@
+{
+  "attemptId": "0a873c6a-4090-4f9e-9d9b-e65e2df358fa",
+  "exercises": [
+    {
+      "exerciseId": "bad24ae5-fa4f-4eb7-a22f-a15b849c7e2b",
+      "sequence": 1,
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "title": "Complete a forma depois do conector",
+      "content": "<p>Complete a frase em espanhol: <strong>Antes de que ______ el plato principal, reviso otra vez el maridaje.</strong></p><p>Tradução: Antes que o prato principal chegue, revejo a harmonização mais uma vez.</p>",
+      "contentPlain": "Complete a frase em espanhol: Antes de que ______ el plato principal, reviso otra vez el maridaje. Tradução: Antes que o prato principal chegue, revejo a harmonização mais uma vez.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a forma que aparece depois de antes de que quando o passo ainda não aconteceu.",
+      "feedbackError": "Aqui o foco é recuperar a forma que aparece depois de antes de que quando o passo ainda não aconteceu.",
+      "answerType": "buildWord",
+      "expectedAnswer": "llegue",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "fffd97b8-5bc5-43b1-bd7a-513a96606d5b",
+      "sequence": 2,
+      "lessonId": "477cc35a-c307-4c35-8d23-70bebb9b86f7",
+      "title": "Recupere a palavra de contenção",
+      "content": "<p>Una entrada limpia y directa, sin exceso de ______, que deja hablar al producto.</p><p>Tradução: Uma entrada limpa e direta, sem excesso de adorno, que deixa o produto falar por si.</p>",
+      "contentPlain": "Una entrada limpia y directa, sin exceso de ______, que deja hablar al producto. Tradução: Uma entrada limpa e direta, sem excesso de adorno, que deixa o produto falar por si.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, adorno aparece para marcar contenção e afastar a ideia de excesso.",
+      "feedbackError": "Nesta aula, adorno aparece para marcar contenção e afastar a ideia de excesso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "adorno",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "23c8f273-8cd4-44ba-8190-67b31d58160c",
+      "sequence": 3,
+      "lessonId": "be2c6981-556c-4b28-b578-a7e312e66f84",
+      "title": "Ouça e selecione",
+      "content": "<p>No trecho final do comentário, qual palavra você ouve para ampliar a observação além da comida?</p>",
+      "contentPlain": "No trecho final do comentário, qual palavra você ouve para ampliar a observação além da comida?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4cdd9b278b5d4ba38796e874a109155d_phase4-b05-comentario-cultural-completo.mp3?Expires=1794099850&Signature=S1oLhQkaVGQWOKNAsu7MR2D37LmdzjqLnaQ7fFqc29kR2spomSBZ7KRoNziV5dg8nyvXAOEuaWuXcmyLp9Rd-i6JzWPsEgs~2PrJSqRs~4MqSmh0XgFMTnWrkwJSvo8EE4rza5VpEcrUTLQ-srIt-atlqEfqM-wOJF4IAl-jO8pK9OmmTggYYiQJ1eLthjcTQHjtaWUaeCf0qi072C1lEjI1kBpVmBhxgo2Ddpq4CGonVfGYKAWM8BMgh0Id8izXPSm9SxRF622ZAxFWc7uJ0LEPLQf73dk25QeEjaSCZzOkwly9c1hEbBnJG08yQi3XzefHJFD11k8B5-9qkhJrlQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No comentário integrado, `mesa` ajuda a tratar a refeição como experiência cultural.",
+      "feedbackError": "No comentário integrado, `mesa` ajuda a tratar a refeição como experiência cultural.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1b05a873-7654-4a31-a795-ded12e9119e4",
+          "text": "receta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a53cbef5-ce83-4356-9fc4-f70d8b4f9e4b",
+          "text": "servicio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a6d9a809-b727-4d35-8a9c-afb88751cb41",
+          "text": "mesa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b2258a7e-fc5f-45c1-bc1f-8f79ff27e30c",
+          "text": "cuenta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "3eaf0408-7ba7-4c3b-8803-bbae8959e2c6",
+      "sequence": 4,
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "title": "Ouça o passo anterior",
+      "content": "<p>Marque só as palavras que aparecem no áudio sobre o momento antes do prato principal.</p>",
+      "contentPlain": "Marque só as palavras que aparecem no áudio sobre o momento antes do prato principal.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a28eb0bfb465482aaba793fca19acc20_phase4-b08-antes-de-que-llegue-el-plato-principal.mp3?Expires=1794099850&Signature=PR-XWaNst0Sg7t3YFKiTrPYUINJMxXIkzSeWkGPXZhpNMx4A53ss2UheAst8lL06kHZUVODmmQKUcmhEh8qxC05G8ITuAhf38YUXx3S7K4iSGIr0Vrwf6fpsFV56B-EKfFU~XRNMXWYCrKoqXkLdG4-0Aic6XBpzIv0f0Q~cArBrY8aVtvA4P83kF~9WBn-ESmzUSg5aNaSvFTnUtu3MSHrLIvmtIgPAhoWQQNr3IdrvC1Mg-mXFIjhyF36nyNh1L7aMVU-4osd7Mw3qCs3tskLRALbDTIRKGR3rMLtXPWO2oosAQxW5x9A-da8ea08G7GiASc8GrrkcVsNTXeNRYw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "feedbackError": "Aqui o foco é ouvir como o conector aparece dentro da frase completa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2fe722d0-a9d9-43ad-956b-3b611c645e30",
+          "text": "maridaje",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "48795ed4-55f6-46d9-97bc-f600e02d80b5",
+          "text": "postre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5dc4699b-a67e-40b2-845b-19e97cba33a9",
+          "text": "principal",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d33d0a16-1147-4544-a3e2-edafb7dbf83e",
+          "text": "llegue",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f67b1258-e49e-4c97-9072-f613cdb24df7",
+          "text": "antes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "feeba99b-7983-4811-9fba-156d7c2ca640",
+          "text": "silencio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "26563cfa-0204-44cf-9cbc-e0cbbb352b61",
+      "sequence": 5,
+      "lessonId": "57e8dc57-fae2-4aa7-8b7d-f2e17ddbec72",
+      "title": "Filtre as palavras pelo áudio",
+      "content": "<p>Selecione só as palavras que fazem parte da reação ao menu.</p>",
+      "contentPlain": "Selecione só as palavras que fazem parte da reação ao menu.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d50198bd278d47beaab4e1ea15963b3e_phase4-b07-d02-menu-respuesta.mp3?Expires=1794099850&Signature=KzWXTM4dVDiZ4eJSESTT1Al4eM~Hxbkc9Zj9Kc0vbYxjkz5PxTxXfXY6sy5qvGigSNdjw0PCmgk9Qul-CiZK~GbJK4j2i05DPQAHbs9ztStE3CpfrDLm2fT9xHsiKnC804bFuuesWQorzOVb1aAHxQzJDHEGKkpM76vi-s9qB4xRZjDnbZeTkM3IsjSHxCZbUERJO3FKPtFQ1QWhhy01qfhxWrkxHhgwJ0hkcOH4lno8LPBFnoiK1WBGysooufVpvFN3E3lHav92RYXP795~IRoVC0DyUC1fx7WnfXV7vynk1r35JvPoCMfab4CuuFI9LXyEgmxL8KrYfz-~MXbuxw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta resposta junta primeira impressão e avaliação curta do menu.",
+      "feedbackError": "Esta resposta junta primeira impressão e avaliação curta do menu.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "823ecf71-8676-4c82-b830-875eb0acfa14",
+          "text": "cercana",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9a1edcdd-152e-4acc-bade-1d509a3dd0fa",
+          "text": "postre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9e622424-072d-4741-a79a-36a8f2283c8f",
+          "text": "pensado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e47cd0dd-b5f5-4c7b-a55f-76152694ce76",
+          "text": "ambicioso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "69925c6c-014d-4497-910d-1903a471eaf1",
+      "sequence": 6,
+      "lessonId": "87eee760-1627-4247-9b84-5ea8121fc2a8",
+      "title": "Recupere o ponto de partida",
+      "content": "<p>Complete a frase em espanhol: <strong>_____ que probamos el menú de mediodía, volvemos a esa taberna cada viernes.</strong></p><p>Tradução: Desde que provamos o menu do meio-dia, voltamos a essa taberna toda sexta-feira.</p>",
+      "contentPlain": "Complete a frase em espanhol: _____ que probamos el menú de mediodía, volvemos a esa taberna cada viernes. Tradução: Desde que provamos o menu do meio-dia, voltamos a essa taberna toda sexta-feira.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a forma exata que abre um hábito a partir de um ponto de virada.",
+      "feedbackError": "Aqui o foco é recuperar a forma exata que abre um hábito a partir de um ponto de virada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desde",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "28f8790c-19d7-4172-a0ae-20e0ab6c7359",
+      "sequence": 7,
+      "lessonId": "477cc35a-c307-4c35-8d23-70bebb9b86f7",
+      "title": "Recupere as quatro linhas em espanhol",
+      "content": "<p>Relacione cada áudio com a linha correspondente sem apoio em português.</p>",
+      "contentPlain": "Relacione cada áudio com a linha correspondente sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, recuperar as linhas completas ajuda a contrastar profundidade, clareza e avaliação implícita.",
+      "feedbackError": "Nesta aula, recuperar as linhas completas ajuda a contrastar profundidade, clareza e avaliação implícita.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "11349d5e-a3be-4f73-aa1a-f33bd694b891",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ead1db8d0aa24c42aead608b6c183132_linea-01-arroz-meloso.mp3?Expires=1794099850&Signature=HQckk84hXrjH5epmdB4tLIpmjjwplQ3M-FHIHm-xk2pxbTNTQne~pCnSjaAy40YfP5x6TceXLsWLKynu1tJ1a4fh0DYFtj0M8sUQXzk7HS8GzP-JpQtMJynBLSZbJsxvm~iSmiTwsERknyMrRvelTTfj1buxIzcIrEibqZWsqEtDo6BudeOCk8xLa9G7TFCeQFHQxDx0E1zLcQV6IalLfEDqT68PZGWEEeMsMui3OzIzD5ug-0mPxas8aMlvLL7Lz0nZD8DA18oTJ9g~-8yOhhuPir3CvlWVTYpwggGlvBLzmn-Ibla9uLQuZgTx-Dv3YLt40xU5M4liJYftsCTPlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Arroz meloso de setas y caldo tostado, terminado con mantequilla ahumada y hierbas frescas.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "09e837eb-2193-4724-85ff-3adf4065410f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9d69832a758d45f884812a42bea613d8_linea-02-plato-despacio.mp3?Expires=1794099850&Signature=A7zNvt9EM4~JAxu9HnBIea2TrIk~nv-KVPs6Iz54zizKM5D-6PQZYHcHyXIInfDrqHJup3M~B-Ke-H1axx4uvqscYg83ETB2ESqzNfk5w9fC-2m3GskAkQ-UcBTFGppscP5LUKIdZQ3WI7MOWX2Ri6oYXlmYs7xMLFLIciL0ATzS1LRwNCqHDkH-yW2qpvu~SNE8LkeGb9vz8zhfw0Il2Pg05csjUwDZmV1clfQUIDMePoshvKyxWFqWGeIMc7bX4Rp5suA04c~PAEIPBN-r2fB8atawpQ1J1KCvqVQweZnrRTfEQuxoDJj7JjCJPALnuV7rIn6CAoKqUmYepqFwNg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Un plato pensado para comer despacio, de sabor profundo y final persistente.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0045ca15-34b5-4536-9621-093810f2c5a0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8506f8150ac0460a971791e51e84c080_linea-03-tomates-de-huerta.mp3?Expires=1794099850&Signature=dMRPEC99BzIlXb~n8u74A4JQUhqCsoPd0ghcXId1SInsay7nS2aNfofV3GJiyLBL1p07pmWQ0tKWoYyThl7zXO0LVKzKWpVilEVsR2Lc04aIDjKr2siehpHr~uhWhw-fz-4TGP7mzzbkw37eFFRB9C5SeRmpTpvkeUnLRkdTBLv4EuB19zmaTI-jrw9mmimTReM12iTUVocGy9FYjO2dhg1G1s6LuJHxV09vH8sNm3QHLwHGVX5nr05u1WTJ6g6GabzSWrAxnE9zltFu~oCI-Usf-h0x-sn3iTmM~iBO9XL9u~hPKqKuF~TN6hWwusX86wrXo4Hsnkw~5FoJYiohtA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tomates de huerta con albahaca fresca, aceite de oliva nuevo y queso de cabra apenas templado.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "ad3a2c9e-5453-4316-9aed-43f3576e08af",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/74156e1f891a49cbb95156daed105de5_linea-04-entrada-limpia.mp3?Expires=1794099850&Signature=XgxsIe58vlDuJNezYn3S8Rs3gD0ntc8bfw6rs3hNe0iBEjIy30bjokjuSO97zBgd2M3tY9vD7MPiGB7f4PR~QQv-gnY~l2HATIXRSOV4uyFoaot5fozO6OMRxQK1v3wOtWywgnN3xszp1W15P~G0F9kEUxxRTg0LZzo~eVZa7vXez-trg-OcOfE8-DwD~DawNEAFGRpI4OZo6U-A5z1m3Qu9Sk~Yepaw95eyID4oKhBvzDRFIMWZ0KLrtAJMFcO66DUhmXbQP17tEi9qZ0cGmmBaVDXTkEBgQmd~RcB7-YkctqV31gSkab7Lf0Ltfl~PDGothECmy~R-57kvMNEg0A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Una entrada limpia y directa, sin exceso de adorno, que deja hablar al producto.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "223b930b-9202-4b09-81ce-2e23b90b497b",
+      "sequence": 8,
+      "lessonId": "30d59b74-a447-4ed9-87ab-14e385cf6f80",
+      "title": "Ouça e recupere o resumo final",
+      "content": "<p>Marque somente as palavras que fazem parte do comentário final da aula.</p>",
+      "contentPlain": "Marque somente as palavras que fazem parte do comentário final da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/efce88aaece6490b94d027ccd5984a52_b10-tiene-un-servicio-atento-y-un-plato-equilibrado.mp3?Expires=1794099850&Signature=HZBYuWkNNa4A5o4euO52PDUl3roukWqTQd9uLmZ6F2~1nDWid0Hs8QpqIMvWV6q89a3I2h8KiQ036rvos0U4sSWVV2GLl8KZIcMMpOayAxoFXU9s3xTB~TcPZS-GLD1qFDhUI5qUL0IWfnCloT1Z-f422Yx35BORk4Z~XPBXjti5392JvIOQJYqQn1ApKwGbAKu4fV4J3D5RRvtHYiqMYTRR9EZT~F3i6sUDTFLj3wX7PBMT81s6q1Z24cZ1YgvZtRQ15yMgiOqoNoUzVmHriwoT1lvMDkIQFvgfnUYBWmmwxotKgFG~8Ww~AysQ4d~fdyLi1AEjLk2Qh3Kf1SyOIQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final resume atendimento e prato na mesma frase.",
+      "feedbackError": "O recap final resume atendimento e prato na mesma frase.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3db52407-2144-4076-a277-ab4795d54da3",
+          "text": "tiene",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4f01d3ac-0f8d-4273-bd5f-f8a90cbaabf7",
+          "text": "tranquilo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "749dc6ba-02b0-4b30-88dc-a515004c1ba4",
+          "text": "servicio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8e760567-177b-4bb6-9f87-e5fd15a412bd",
+          "text": "taberna",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "93facefc-87f9-4846-b9aa-1ef79f412cef",
+          "text": "plato",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a7b7194d-abea-4ca8-9cf9-25c9d4faaf54",
+          "text": "atento",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "da01e71b-a9b0-4b45-9b07-bce555632a6f",
+          "text": "equilibrado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "204cc504-a377-4da1-90bd-a8458c278bfb",
+      "sequence": 9,
+      "lessonId": "be2c6981-556c-4b28-b578-a7e312e66f84",
+      "title": "Escuta final do comentário",
+      "content": "<p>Resolva pela escuta em espanhol, distinguindo a frase parcial do comentário completo.</p>",
+      "contentPlain": "Resolva pela escuta em espanhol, distinguindo a frase parcial do comentário completo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta final exige distinguir observação isolada, virada temporal e comentário integrado.",
+      "feedbackError": "A escuta final exige distinguir observação isolada, virada temporal e comentário integrado.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "88260fca-2f72-4640-8f2f-95877dadbb5e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/da190c875258468d869f8f571dbfc79c_phase4-b01-lo-que-mas-me-llamo-la-atencion.mp3?Expires=1794099850&Signature=jFCyK568ghRnV4YSvHvj3WRqrQDcyOYETnUTyQEihP533bJKGsF1S4KAFb4s7S-6WkN~WCqGmJoHs0eUAzqjp5mWizwV9vT84qylLNo7Uuo8~HAsaCagEUqK-XKBkzQeUoyQkIvU1Kkc63pSqVS7lI7WtQKeYPGlzL~NzibIUTcore3ZBTOJH0pGf23z4Tb0RF~RcPuDD28Lf5HTo1x1kxxWp3yZYR41eIEH-U4qGerwztKvwExY7jnIFgB91zJITXkPlVGxA-OcdZDtV3PIeEkNUfMeNvxj1Fex57hMDjtxyZm6k3nFsSO9jCLrkf49jWEUk3ZYY1Qd0-9KYO5R-w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo que más me llamó la atención fue que la conversación siguió mucho rato después del postre.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0810df48-7c09-4a79-a640-2109ef9938f4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4814afed220b44b7b1956f52fbf633c2_phase4-b03-al-principio-me-parecio-una-cena.mp3?Expires=1794099850&Signature=0ZIlUDkVyH0Nai4UyMXnbU6fdctT9myRQN99a44Z3~oYUzhnvsIkyD02vxwzhA2qfsw~Ugo259P-LawNzDOEnHsVWRyoy9mBgNWIfQ8nw6LVqkoC7W89C3iAPmfmmaKkzEfdhlQcAxElXvJf3yhlzHeoyl03d9885c1bgI9GqxnQSbzker9qYLPJPLDiS068X4pdMmfz6d5WuU5YixN3mBO8ztITe9HLX9QlYcjtK7AnYNA1l0wXnqtHfpMg-RaMbcvHY~B9zaHis7ZbIpbfa3c6lU7fczbl0bz7ywwIXuSaFM69gb~MCBKS1OVOvOTOrb7w3BHFkOmAXAGSIcBQgw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al principio me pareció una cena bastante formal, pero en cuanto llegó el postre el ambiente se volvió mucho más relajado.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7bbda811-49bf-4192-90e0-0fa4c8469962",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4cdd9b278b5d4ba38796e874a109155d_phase4-b05-comentario-cultural-completo.mp3?Expires=1794099850&Signature=S1oLhQkaVGQWOKNAsu7MR2D37LmdzjqLnaQ7fFqc29kR2spomSBZ7KRoNziV5dg8nyvXAOEuaWuXcmyLp9Rd-i6JzWPsEgs~2PrJSqRs~4MqSmh0XgFMTnWrkwJSvo8EE4rza5VpEcrUTLQ-srIt-atlqEfqM-wOJF4IAl-jO8pK9OmmTggYYiQJ1eLthjcTQHjtaWUaeCf0qi072C1lEjI1kBpVmBhxgo2Ddpq4CGonVfGYKAWM8BMgh0Id8izXPSm9SxRF622ZAxFWc7uJ0LEPLQf73dk25QeEjaSCZzOkwly9c1hEbBnJG08yQi3XzefHJFD11k8B5-9qkhJrlQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al principio me pareció una cena bastante formal, pero en cuanto llegó el postre el ambiente se volvió mucho más relajado. Lo que más me llamó la atención fue que la conversación siguió mucho rato después, como si la mesa importara tanto como la comida.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "4542acce-2676-4cc9-992c-5a6d4a67807d",
+      "sequence": 10,
+      "lessonId": "57e8dc57-fae2-4aa7-8b7d-f2e17ddbec72",
+      "title": "Reconstrua o detalhe do prato",
+      "content": "<p>Lo que más me sorprendió fue lo ___________ que estaba el postre.</p><p>Tradução: O que mais me surpreendeu foi como a sobremesa estava equilibrada.</p>",
+      "contentPlain": "Lo que más me sorprendió fue lo ___________ que estaba el postre. Tradução: O que mais me surpreendeu foi como a sobremesa estava equilibrada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta moldura da aula destaca o detalhe do prato que ganha o comentário.",
+      "feedbackError": "Esta moldura da aula destaca o detalhe do prato que ganha o comentário.",
+      "answerType": "buildWord",
+      "expectedAnswer": "equilibrado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2f080bcc-9299-48fe-a9f0-362537444a29",
+      "sequence": 11,
+      "lessonId": "30d59b74-a447-4ed9-87ab-14e385cf6f80",
+      "title": "Complete a avaliação do serviço",
+      "content": "<p>Complete a frase em espanhol: Tiene un servicio ______.</p>\n          <p>Tradução: Tem um serviço atencioso.</p>",
+      "contentPlain": "Complete a frase em espanhol: Tiene un servicio ______. Tradução: Tem um serviço atencioso.",
+      "fileUrl": null,
+      "feedbackSuccess": "Servicio atento resume o cuidado da equipe com mais precisão.",
+      "feedbackError": "Servicio atento resume o cuidado da equipe com mais precisão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "atento",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5499401c-9ea4-40c6-80ad-be05e144df89",
+      "sequence": 12,
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "title": "Recupere a avaliação",
+      "content": "<p>Al probar la salsa, me resultó más ______ de lo que esperaba.</p><p>Tradução: Ao provar o molho, ele me pareceu mais leve do que eu esperava.</p>",
+      "contentPlain": "Al probar la salsa, me resultó más ______ de lo que esperaba. Tradução: Ao provar o molho, ele me pareceu mais leve do que eu esperava.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta frase mostra como a prova do prato ajusta a avaliação sensorial.",
+      "feedbackError": "Esta frase mostra como a prova do prato ajusta a avaliação sensorial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ligera",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5c3e8aeb-d9d1-4c5c-801e-de095a37215b",
+      "sequence": 13,
+      "lessonId": "57e8dc57-fae2-4aa7-8b7d-f2e17ddbec72",
+      "title": "Reconstrua as respostas pelo som",
+      "content": "<p>Ligue cada resposta ao texto correto sem apoio em português.</p>",
+      "contentPlain": "Ligue cada resposta ao texto correto sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo recombina as três molduras orais da aula em respostas curtas.",
+      "feedbackError": "O diálogo recombina as três molduras orais da aula em respostas curtas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "5efb8759-3909-4b35-b998-6ec9ec52dd28",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d50198bd278d47beaab4e1ea15963b3e_phase4-b07-d02-menu-respuesta.mp3?Expires=1794099850&Signature=KzWXTM4dVDiZ4eJSESTT1Al4eM~Hxbkc9Zj9Kc0vbYxjkz5PxTxXfXY6sy5qvGigSNdjw0PCmgk9Qul-CiZK~GbJK4j2i05DPQAHbs9ztStE3CpfrDLm2fT9xHsiKnC804bFuuesWQorzOVb1aAHxQzJDHEGKkpM76vi-s9qB4xRZjDnbZeTkM3IsjSHxCZbUERJO3FKPtFQ1QWhhy01qfhxWrkxHhgwJ0hkcOH4lno8LPBFnoiK1WBGysooufVpvFN3E3lHav92RYXP795~IRoVC0DyUC1fx7WnfXV7vynk1r35JvPoCMfab4CuuFI9LXyEgmxL8KrYfz-~MXbuxw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En cuanto lo leí, me pareció ambicioso pero bien pensado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "dfdd728e-64d9-4a42-a024-f4d639fd2c15",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/25f06a2e03b344dc80f964773f88637d_phase4-b07-d04-costumbre-respuesta.mp3?Expires=1794099850&Signature=tEROfVRfNLPqZKvm7tYG~WXLm7H37f5mF0a4TiYNnVGI3HffcKg57b8BsSHPm~M33rtjfuTtdXpndVCJRwz1uWsDeVMf8e0O-ZDiA9imDX-EaTILg9JYorKc97yPD7~dPtgcUwQFo73C4CMVcIknEtI9stY8W2z3-cHVJvCnDa2JKaFzLixVRDmrXlaFMmq97E-UPCVBeaN3T2Em6E0z-CJPdXBIGF2tqgLA9n8LZNwhawG57figb0PtpwPlA22H1-Wi-0RWNTCxOMeeTcmzzHeJIeuCH5KhtguX9mAuhzHQVQdSHarUku8YSVlSn6K3LhU7qbI~S9WEoRWuGw5wdw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Una vez que empezamos a compartir los platos, la cena me resultó mucho más cercana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5e2e55df-586a-4ef2-a4bb-1c25da48b218",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fec1c952b542402b8a479e20b250132c_phase4-b07-d06-plato-respuesta.mp3?Expires=1794099850&Signature=UlkMsTC9khaRGefwW58nwmmJO~ReQE07-VVF2Cxe0GYLhG2dkFeoCaDcixxBZS2bSp8B9B1vhDV5edoKZa0u9j6ofFnRn7qxFKVvFBvAUw9dGFOQOjaoFtsfJPIY2o5xo5iTNd2i2sJaj8rYpZ2fvgdZ7rvZBHhGRimDN22lK5Y1AEkSDGI8-4Wgo~49X0BhdCU4Fb9YiiFnBI1AE2B25lk4p-aaVLsl3SUF3hGMSW22MVbpJFSyCTaSxQGOCC6EAzyI151G9ngc7XQSh~-EtPPqJ69AuCK4G65nRPAWoadztGdWg2b1IgnW1Rmphc7nbD~ry1Fk0K6fWcVNh8uC8g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo que más me sorprendió fue lo equilibrado que estaba el postre.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "628ad63f-e0e1-4016-a4c0-90baca8d264a",
+      "sequence": 14,
+      "lessonId": "be2c6981-556c-4b28-b578-a7e312e66f84",
+      "title": "Complete o ponto de virada",
+      "content": "<p>En cuanto llegó el ______ el ambiente se volvió mucho más relajado.</p><p>Tradução: Assim que a sobremesa chegou, o ambiente ficou bem mais relaxado.</p>",
+      "contentPlain": "En cuanto llegó el ______ el ambiente se volvió mucho más relajado. Tradução: Assim que a sobremesa chegou, o ambiente ficou bem mais relaxado.",
+      "fileUrl": null,
+      "feedbackSuccess": "`postre` marca o ponto de virada que muda a atmosfera da refeição.",
+      "feedbackError": "`postre` marca o ponto de virada que muda a atmosfera da refeição.",
+      "answerType": "buildWord",
+      "expectedAnswer": "postre",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "89f0e55b-8686-4888-b66e-6cf0ed73affc",
+      "sequence": 15,
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "title": "Escute e recupere as pistas",
+      "content": "<p>Marque apenas as palavras que aparecem no comentário da chegada do prato.</p>",
+      "contentPlain": "Marque apenas as palavras que aparecem no comentário da chegada do prato.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c0866dee792142e1b3a9c3a3e60cd4c4_b01-cuando-llego-el-plato.mp3?Expires=1794099850&Signature=b197rkntE9XR9L2~Hi3IbIuOkGDbYkCVfW6m3AITVvm73ubv2wiZJOsczClTjBtCMllqXjDWuiMKSlQUz9~TRsktydeQ3Yd-Nxb8WnfQFTTLPXhqCnNejCZrXihtTBrU5qTfwCo3OEnvGNsHB9dj0RrDlUe6LIMbGc1TZM6i3mh~i2ftmFrVg~eNy3PT1feM7Br4VdxaAVYIX8~zzBWiSiUc4mPkaWF2NkUJDy429kiMBqkIwehj~0Hhm2cErhwTcWjtpuPHqZ3dnHjhu0XtIg-Heqfs9NcclF~Q9AYzUjvtdZnM3u7G7l8ru5KAfFuOVdi3TQEUC0DvZEYpypYGVg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Este comentário prende a avaliação ao instante em que o prato chega.",
+      "feedbackError": "Este comentário prende a avaliação ao instante em que o prato chega.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "12fa9998-1df7-430c-9166-057cab436526",
+          "text": "cuando",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "141de94c-7e91-4f6d-82b1-ce1e75770a6f",
+          "text": "llegó",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1a0e9cfc-55b7-460b-9044-c8a6ce98e322",
+          "text": "ahumado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "635d7063-b543-4f8e-9f73-74d7ef4ceec5",
+          "text": "plato",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ab37f116-b399-4136-aabe-ac5dffe0f2bf",
+          "text": "salsa",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d8f421a7-1bb1-443e-b5e1-5cf4dcf3d1c1",
+          "text": "aroma",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fb8d7927-2f2d-4b81-a7fa-b0834cff61ed",
+          "text": "pesado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fbf3e4ad-c588-482a-9f26-82c20001ec94",
+          "text": "delicado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

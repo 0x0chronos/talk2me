@@ -1,0 +1,707 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+    "attemptId": "612d60e8-f875-4335-a558-48fcbab1362a",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "35f20a34-b44c-4ebd-baaa-cecc782625e3",
+      "d08fb046-b930-42c4-994d-6fc5d76ff3bb",
+      "57d0df8f-f7c5-4287-96c2-1bc5956d8f6d",
+      "92249772-c961-4643-99f1-54c9a2e6c629",
+      "3978bd23-720f-4207-8965-49cab64f43ac"
+    ],
+    "evaluationExerciseIds": [
+      "fcca765b-3c74-4d0e-b89a-3acf05201a79",
+      "7082fb36-8271-4000-8069-6caef6b501b4",
+      "f262f489-dc56-4670-b4cc-0a249cc5784f",
+      "c8c90b23-7eb5-4eff-ba86-d4645178a55a",
+      "25e3c343-ca2e-4348-8a1a-7337899c0247"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:04.1331616Z"
+  },
+  "contents": [
+    {
+      "id": "a7ea072f-403f-4ea2-a804-4308df600d3b",
+      "title": "Olhe a imagem, escute e acompanhe a escrita em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "24c36ee0-4cf0-471b-89b4-ba56cecc5802",
+          "textContent": "<p>Olhe, escute e leia.</p><p><strong>el bolígrafo</strong></p><p>Em português: <strong>a caneta</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b91272a84a0549dfaadd4f6bf26f7c24_b01-el-boligrafo.png?Expires=1794099424&Signature=jMoqHC6s9ZSGbhHI6Zm7l0~~hJX9BvxCQ0~8susnabThUtmJvRj-CPvO1mvHjctPZDAbZQ~F5ciSUEGxODih6rfsZ9IJxNWpP7srY-0nAW3a1Dk7CuXmmSlOTKwPk3qeLBtpjBVYcSgm3tm552vfu2pVMXNKnvS3MyMKvOiG0iQp4tF4IdnL5BE-GTOoGhRYsd~y5Z2eWPHEZqd1ajbpTRFwZyV1K3b3RmY-y49I2z~8tNYKeATtwBRLLu2fYZhIo2qWGyst1GPsDwSC2HfsBmupU0-1N3KwtOUJz1DiFa~oAzgMYdv0OxygGcJzZUFT4g6Q31XVsI4UpMJX8YFsGQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2184b61e2c934cb691511caf932f3cfc_b01-el-boligrafo.mp3?Expires=1794099424&Signature=t46XcsDEyror6OdjL~B7~GVlTHHcks4cCvJ2XaJa2oF~b~WiYCDoKK~fdwALXjBSKrvmkDCyeMEmW16RhYF7wPURpafW53YgLfBEboRtN7dqYzVv7ID8QOhA9hJtr2dzJ9bTsPDLlTlmENF3ZX-7vy6dKQqNF~Ds5ZOnF8tnj2Iz9l96xqn-jQBSluoS5TqGdYGWHOx7C5BgTu-gjijjdUNFrlhDSpU-5Is0dD7kILQdAtLx2tdqRxXuVXbmOXk2WcOR~M3qjP1ixwLc9FDaLrisqo59t4ceheWGK5197q7DfqFWgJ-0g~f6MWQTwsZdc-hYxtWWYHxeLCQI3VBAUA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b2499714-90d1-4051-97fd-1d6193227f0d",
+      "title": "Escute a frase e localize a palavra que você acabou de conhecer.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "5605a432-924c-47cf-b225-976043121d62",
+          "textContent": "<p>Agora escute a mesma palavra dentro de uma frase curta.</p><p><strong>Aquí está el bolígrafo.</strong></p><p>Em português: <strong>Aqui está a caneta.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6795246f46f84e6ca3a44233d492a3f3_b02-aqui-esta-el-boligrafo.mp3?Expires=1794099424&Signature=0NRUz0HztOk7GuA-wbojWyavod56zU60KFgh62GaCWJAWTCsT1HlXPl42DmI2nPEZQbGwqgG~qSAYM-zbNXmU7kK3ZKpjnvxezJ3HRYKEeLcC6XoT0b~aU1lT1K44b2jybCPNAnZyp2DzEszRFeORjv7gZMd-QdOKqsAkqUFY~kNoEVfBcBxfpJ70vTDuM5Nasx5a3SmRuMSDuALt6hklA6RhmK5Iwo6JENSTEXJuI7eDIAG9f7hWgTmPZHFLNF-eCpaHI2v-W~oKfoaj1t1VJlhpgI2JYd5Pj6YFfrSwfEeTyuL4EwS9Oj0j4Y5Qin4pbHFmSI8vUxsbwwAGlQsxw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "efd14ef1-cc77-4d93-a880-508324b418f5",
+      "title": "Observe onde a pista aparece no começo e no final da expressão.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "cfba7e61-924f-499c-b1a8-c65bdcc8ba7d",
+          "textContent": "<p>Em <strong>el bolígrafo</strong>, a pista mais visível vem no começo: <strong>el</strong>.</p><p>O final <strong>-o</strong> também aparece muitas vezes em palavras masculinas.</p><p>Use isso como pista inicial. Em espanhol, <strong>bolígrafo</strong> vem com <strong>el</strong>, mesmo que em português você pense em <strong>a caneta</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3ed313e5-cd61-4221-89b9-9ce46c60570f",
+      "title": "Pedir um objeto",
+      "description": "<p>Escute a troca curta e acompanhe como <strong>bolígrafo</strong> reaparece sem mudar.</p>",
+      "contentType": 7,
+      "sequenceItem": 4,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Tienes un bolígrafo?</div>\n  <div style=\"opacity: 0.45;\">Você tem uma caneta?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ebf1032763674e51bab3772322b0124c_b04-dialogo-pregunta.mp3?Expires=1794099424&Signature=AjQDtHC-QKDGszzfIhWAQnv7WJfEiyjjH38QB28KL2TI2aZnwuDO3UzIJKNyK-PCRG-IHL8bMPk0egewjqO9vOBuO~LMsFvsrysm-JuCshaBHQYWWP27RNPbooyH7A6bfkHykX3cN5DdpIPkuA5pDTDzhJdMwzwReLhiMhmaXGziKzK3HZDkqDMgyYwvISdG1p724X5rqdc9utXk7nVagT59ZreGVKVe7pIp5BpZyp9yuIS9fLRkfThuj3WBtWMfZYmawW5FJzjvS35d59Li4YGhYE-EDcN~WYlUxdz-nERVXmBAx14fSNFCm653qbSwFJerUQyITFPLC6R6EQlSsg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Sí, aquí tengo un bolígrafo.</div>\n  <div style=\"opacity: 0.45;\">Sim, aqui eu tenho uma caneta.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5cdcea29ec424c52b4a15d934f3d9967_b04-dialogo-respuesta.mp3?Expires=1794099424&Signature=vRyyHHj0TdnrZg1qIDm1~jwnh4giHU4GWnIyUZdS9PnVM0E1cAUY0A~uFji9ILsMlOP9i-1Fn-1xgjBTsJZNh7XQP43hpu67zgHV56oyof4BbqeYlQKj4cc6S2UXp2DMAKpYu~AP513GL4ajryiP8-xGuYy1bJ7MbnpzMQlfu1trMifaZUyoTuqH5CUxjWfCuYX2mM7tMVY0EiOjbh6Mcwod7UGty223g0OTfhrOK~2ndHJJ8tCsnBO-KH8K3AD-GjisUFg~A96tTVs9Hh9l0Yn5gW9eLgayIg~GbSTMIKHFgHXF4Z8tcNGqNLOSE0KTMJJUBEezYcpf4XxtkuzP2Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "3ce0bbb5-67b7-4c46-8585-b1628d0dd7d1",
+      "title": "Olhe a imagem, escute e acompanhe a escrita em espanhol.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "ff5f44e2-5ba7-482f-ae1e-0bb66c0b318b",
+          "textContent": "<p>Olhe, escute e leia.</p><p><strong>la casa</strong></p><p>Em português: <strong>a casa</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/cd883e47022c4e55a4d799a8236594c2_b05-la-casa.png?Expires=1794099424&Signature=nYlZX2nHzrTEu4gdzXJvM3Pz0657bN1gVX0FFzq1r~KsC7NJzkZQxcNl4okfaIqyG8TJL3KTC6jeIK0m3RY9zEowBTRjMlZhBDPIGMcAVC3zuzf3d2MfCLSN~vsOZh9S2qPkwA9nk5zno0-E0JGJkL2JLZ9gb2nLUX5tHROJL~2CHTCrfz9EDf1L~hlJKJfrggAAlJiEYJ90~xhJzYUFObaRnx~HZQQsMm-6mSzF2HaUApbO85-4BBZiVMUW0ciM-nRjKIeEyJ9wCe-hYUdT4dshhQ0sxb7Ofetu86K5-9hdcsPjjo4EM8zmlB~2D-1M24M7l6xbqkrJGNkDbH5Heg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/44ff61e9a06a408d8488b3e1299ab8d1_b05-la-casa.mp3?Expires=1794099424&Signature=TSwgpApMMTk0jxqxBXdioVfyMB5s7GTp3D8GTPI6IIahBw6-9coylZMyWKeVJZpTfsGd8vPLiwvf13YBXWsA-7t7dtaJEqRot4LDH-WIKRwZBzujMxR~73EJggSe7J35caFvisgupE5VhBIXecuO~aIJ01Cy1tqnCwd-0IiWzfN7Fi3jnYtPmM4a1jvcXAem1f4N2kID5BWUf-5gfq3DnPLAXrKd~c5WgYCLw0~uMYpsTzxTTm2ev1nbT8TT8CMLcYH5tFin-zY5W4i1yaW9yJA2Ym8cR2Y2YrQ6qlFBn6ipYMNLACsFo7KJRIcBy445ZK-HCNKAiG4WBSKmD~jZAA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a4c026ed-fd5b-44b0-adc0-248de6d2e2a8",
+      "title": "Escute a frase e acompanhe onde a palavra conhecida aparece.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "4d490114-b774-416a-8fe4-431d501b795d",
+          "textContent": "<p>Agora escute a mesma palavra em uma frase curta.</p><p><strong>La casa está aquí.</strong></p><p>Em português: <strong>A casa está aqui.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0c61a5d1a8dd4d439982d86cc090ad58_b06-la-casa-esta-aqui.mp3?Expires=1794099424&Signature=cnLwtYupgXJxjVxKt3c35~eYLTe6-uSf308qE5NXpSpAr6oAiMG2JASXGC4yPl0mW~lDAbu4fYt54StKYWRGcWKqW8GBJ8POjs7tfLoptMr~ERvlPl3vlArCOr9SQbtd26563ppwjZhou-n123AliLhpFcyho3LOUkJSXHUVBNxUhezhih7k4K4ZCvHmRw9zXR-OdwUyl-kR0Db2Mv3KgxG4btAxAKt19wQ1yQxHbhyEftI9wsFDXF1rzS7Dd~mKjl7ZP4OV0-ocKqYnpKXJa~~NPqf4oaT49mtCScvGsAJPIya046wpWgbh2YRvi3YuKWf-cJMVVIUn44XlufuIDw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "718bc03d-f7f9-4535-9cdc-d382fe41fb65",
+      "title": "Observe qual pista aparece antes do substantivo e qual aparece no final.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "5ae9bccd-c4f3-452e-a084-2111598c7c1b",
+          "textContent": "<p>Em <strong>la casa</strong>, a pista principal no começo é <strong>la</strong>.</p><p>O final <strong>-a</strong> também costuma ajudar a perceber palavras femininas.</p><p>Aqui o espanhol combina com o português: <strong>casa</strong> aparece como feminina nos dois idiomas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "250bcb8d-1656-4deb-a357-3b8689f898c4",
+      "title": "Escute a frase completa e reconheça a palavra que já ficou conhecida.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "6c17ba42-017d-472d-b90e-10ff74807931",
+          "textContent": "<p>Agora escute um comentário mais natural.</p><p><strong>Tu casa es muy bonita.</strong></p><p>Em português: <strong>Sua casa é muito bonita.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9ab286e7d03746e88125bcd640ea9957_b08-tu-casa-es-muy-bonita.mp3?Expires=1794099424&Signature=LajhQdNl~qP6y~bMgmd8f-6yU4l2DtccpnHQNLHqiS3ot-oMK7g-vQMmpt-ZO4ox8BCRkmhvVpNpZsYVKSyy1YQHQH4wFE6qil3ympUyqJsGd9ROR5hKren~wxz~AZ5J0BmjWiiGmm954OS7X4C6KpdRrnKVuT9EseC8E4ErZcvvrUji9XrnDnAEG9Ks5skcANijIWrtZn9lfKDI4oIE7PzG2jCqTZql6K9J1mMyr1d0mjyyifdc5gTG4wJrXn4yWulHvdTPLeCkZwCJogtaSzdM3w4efkq1zvTwtQ0iHGly7zCb6zxOMtHD~5bpJ2lJBo83GePUhK6FmYh5pIGGqQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6d03395f-374d-435e-a233-73227c162eb2",
+      "title": "Observe o que mudou antes do substantivo, sem tentar decorar tudo agora.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "a4b81e7f-3c3e-4b3c-b6d4-84b87f5b83b7",
+          "textContent": "<p>Nesta frase, o artigo <strong>la</strong> desaparece porque <strong>tu</strong> vem antes do substantivo.</p><p>Mesmo assim, <strong>casa</strong> continua sendo a mesma palavra que você viu em <strong>la casa</strong>.</p><p>Por enquanto, o foco é reconhecer <strong>casa</strong> com rapidez dentro da frase completa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e898009a-a9ef-4553-a5e5-4bc596209bed",
+      "title": "Compare as duas formas e repare em qual pista aparece primeiro em cada uma.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "87ffedce-51c0-4e73-835c-0f76073e21eb",
+          "textContent": "<p>Agora compare os dois cartões-base da aula.</p><ul><li><strong>el bolígrafo</strong></li><li><strong>la casa</strong></li></ul><p><strong>el/la</strong> costuma ser a pista mais segura no começo da expressão.</p><p>Os finais <strong>-o/-a</strong> ajudam bastante, mas funcionam como pista frequente, não como regra absoluta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4bfc54a3-9102-40b9-8ade-22c357aab9e8",
+      "title": "Leia o resumo final e ligue cada frase a uma situação comum do cotidiano.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "6deeac64-04a1-4553-8dec-57ae3a7424a6",
+          "textContent": "<p>No cotidiano, essas pistas aparecem quando você procura um objeto ou comenta um lugar.</p><ul><li><strong>Aquí está el bolígrafo.</strong></li><li><strong>La casa está aquí.</strong></li><li><strong>Tu casa es muy bonita.</strong></li></ul><p>Com <strong>el</strong>, <strong>la</strong>, <strong>-o</strong> e <strong>-a</strong>, o gênero começa a ficar visível em palavras muito comuns.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1eeca94b-2e48-46a7-87c9-2b3d6307402e",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 12,
+      "items": [
+        {
+          "id": "4b1a615e-0c95-468f-a6dc-5b466a04b4cb",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0f6a72f8735845bdb9eb5acbfd0a7af0_MEC-IDIOMAS_CAP_06_-_AULA_01-ESP.mp4?Expires=1794099424&Signature=jkdjqcuu-FAC4LDnimUnRjJ64XyjDP9ej5VTFzvJyngp16nb6n02SsjjmTdcqTBfG1sOzhPnW39j6JTK5LbHEFk8ffZZkScqqwlVrEHFiUolUvrutahtSZSoE4QeQDc07Jhr51-8N2U-GKonYJv8nucyxgL3ySyxSy6WETRlVUtLOzH8Ub38E1FRUBJ2qoJhh6vX-q8N9pQRDpyIwhRlt97-c1MTZWdfPe0XpVd5jV3u3c9qhrnlGIXh-jM~zREW1BagRAGywU5ikBl7Wx4DSrMe2HOuXK6qYJLR-f0RkrsQJoI1xdG562tgJa9POpPw90hoQarByJ1b1XCdARX8Dg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0f6a72f8735845bdb9eb5acbfd0a7af0_MEC-IDIOMAS_CAP_06_-_AULA_01-ESP.mp4?Expires=1794099424&Signature=jkdjqcuu-FAC4LDnimUnRjJ64XyjDP9ej5VTFzvJyngp16nb6n02SsjjmTdcqTBfG1sOzhPnW39j6JTK5LbHEFk8ffZZkScqqwlVrEHFiUolUvrutahtSZSoE4QeQDc07Jhr51-8N2U-GKonYJv8nucyxgL3ySyxSy6WETRlVUtLOzH8Ub38E1FRUBJ2qoJhh6vX-q8N9pQRDpyIwhRlt97-c1MTZWdfPe0XpVd5jV3u3c9qhrnlGIXh-jM~zREW1BagRAGywU5ikBl7Wx4DSrMe2HOuXK6qYJLR-f0RkrsQJoI1xdG562tgJa9POpPw90hoQarByJ1b1XCdARX8Dg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "35f20a34-b44c-4ebd-baaa-cecc782625e3",
+      "title": "Escolha a expressão certa",
+      "content": "<p>Qual opção da aula combina com <strong>a caneta</strong> em português?</p>",
+      "contentPlain": "Qual opção da aula combina com a caneta em português?",
+      "fileUrl": null,
+      "feedbackSuccess": "Em espanhol, bolígrafo aparece com el, mesmo quando em português pensamos em a caneta.",
+      "feedbackError": "Em espanhol, bolígrafo aparece com el, mesmo quando em português pensamos em a caneta.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "175cc942-c278-45b8-9227-93eabcbc7b5d",
+          "textContent": "la bolígrafo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "35f20a34-b44c-4ebd-baaa-cecc782625e3"
+        },
+        {
+          "id": "30e451c8-bc89-4413-98ab-a553bacf063a",
+          "textContent": "la casa",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "35f20a34-b44c-4ebd-baaa-cecc782625e3"
+        },
+        {
+          "id": "4e07b6c2-5470-4e44-8996-6b8d2bca2db9",
+          "textContent": "el casa",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "35f20a34-b44c-4ebd-baaa-cecc782625e3"
+        },
+        {
+          "id": "5880c37e-093e-4f29-9903-699b55c53089",
+          "textContent": "el bolígrafo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "35f20a34-b44c-4ebd-baaa-cecc782625e3"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d08fb046-b930-42c4-994d-6fc5d76ff3bb",
+      "title": "Associe as pistas",
+      "content": "<p>Relacione as pistas destacadas na aula com o lugar em que elas aparecem.</p>",
+      "contentPlain": "Relacione as pistas destacadas na aula com o lugar em que elas aparecem.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, el e la aparecem como pista inicial, e -o e -a entram como pista frequente no final.",
+      "feedbackError": "Nesta aula, el e la aparecem como pista inicial, e -o e -a entram como pista frequente no final.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "ee45a6d0-5b75-411e-8e90-9394c6194a0d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d08fb046-b930-42c4-994d-6fc5d76ff3bb"
+        },
+        {
+          "id": "ffcff3e2-6e5c-4bc0-ba01-946de1458f25",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d08fb046-b930-42c4-994d-6fc5d76ff3bb"
+        }
+      ],
+      "associations": [
+        {
+          "id": "88772dff-94db-460f-b62b-02353abcfa31",
+          "exerciseId": "d08fb046-b930-42c4-994d-6fc5d76ff3bb",
+          "leftContent": "el",
+          "rightContent": "pista no começo de bolígrafo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d3762a9c-4f16-4b56-b704-90a5c6ddfda9",
+          "exerciseId": "d08fb046-b930-42c4-994d-6fc5d76ff3bb",
+          "leftContent": "la",
+          "rightContent": "pista no começo de casa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b6d9fa02-952d-4859-a55f-e109567d5f9c",
+          "exerciseId": "d08fb046-b930-42c4-994d-6fc5d76ff3bb",
+          "leftContent": "-o",
+          "rightContent": "pista frequente no final de bolígrafo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "825cfa36-0084-49e4-b719-2d15a1a927c1",
+          "exerciseId": "d08fb046-b930-42c4-994d-6fc5d76ff3bb",
+          "leftContent": "-a",
+          "rightContent": "pista frequente no final de casa",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "57d0df8f-f7c5-4287-96c2-1bc5956d8f6d",
+      "title": "Associe áudio e expressão",
+      "content": "<p>Escute e combine cada áudio com a expressão-base correspondente.</p>",
+      "contentPlain": "Escute e combine cada áudio com a expressão-base correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os cartões-base da aula ligam o som a el bolígrafo e la casa.",
+      "feedbackError": "Os cartões-base da aula ligam o som a el bolígrafo e la casa.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "a85dc9fd-4334-4738-802a-3a2aafd9a837",
+          "exerciseId": "57d0df8f-f7c5-4287-96c2-1bc5956d8f6d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2184b61e2c934cb691511caf932f3cfc_b01-el-boligrafo.mp3?Expires=1794099424&Signature=t46XcsDEyror6OdjL~B7~GVlTHHcks4cCvJ2XaJa2oF~b~WiYCDoKK~fdwALXjBSKrvmkDCyeMEmW16RhYF7wPURpafW53YgLfBEboRtN7dqYzVv7ID8QOhA9hJtr2dzJ9bTsPDLlTlmENF3ZX-7vy6dKQqNF~Ds5ZOnF8tnj2Iz9l96xqn-jQBSluoS5TqGdYGWHOx7C5BgTu-gjijjdUNFrlhDSpU-5Is0dD7kILQdAtLx2tdqRxXuVXbmOXk2WcOR~M3qjP1ixwLc9FDaLrisqo59t4ceheWGK5197q7DfqFWgJ-0g~f6MWQTwsZdc-hYxtWWYHxeLCQI3VBAUA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "el bolígrafo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d0c8c42f-05dc-44db-b0b4-67f8a2df6aa4",
+          "exerciseId": "57d0df8f-f7c5-4287-96c2-1bc5956d8f6d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/44ff61e9a06a408d8488b3e1299ab8d1_b05-la-casa.mp3?Expires=1794099424&Signature=TSwgpApMMTk0jxqxBXdioVfyMB5s7GTp3D8GTPI6IIahBw6-9coylZMyWKeVJZpTfsGd8vPLiwvf13YBXWsA-7t7dtaJEqRot4LDH-WIKRwZBzujMxR~73EJggSe7J35caFvisgupE5VhBIXecuO~aIJ01Cy1tqnCwd-0IiWzfN7Fi3jnYtPmM4a1jvcXAem1f4N2kID5BWUf-5gfq3DnPLAXrKd~c5WgYCLw0~uMYpsTzxTTm2ev1nbT8TT8CMLcYH5tFin-zY5W4i1yaW9yJA2Ym8cR2Y2YrQ6qlFBn6ipYMNLACsFo7KJRIcBy445ZK-HCNKAiG4WBSKmD~jZAA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "la casa",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "92249772-c961-4643-99f1-54c9a2e6c629",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6795246f46f84e6ca3a44233d492a3f3_b02-aqui-esta-el-boligrafo.mp3?Expires=1794099424&Signature=0NRUz0HztOk7GuA-wbojWyavod56zU60KFgh62GaCWJAWTCsT1HlXPl42DmI2nPEZQbGwqgG~qSAYM-zbNXmU7kK3ZKpjnvxezJ3HRYKEeLcC6XoT0b~aU1lT1K44b2jybCPNAnZyp2DzEszRFeORjv7gZMd-QdOKqsAkqUFY~kNoEVfBcBxfpJ70vTDuM5Nasx5a3SmRuMSDuALt6hklA6RhmK5Iwo6JENSTEXJuI7eDIAG9f7hWgTmPZHFLNF-eCpaHI2v-W~oKfoaj1t1VJlhpgI2JYd5Pj6YFfrSwfEeTyuL4EwS9Oj0j4Y5Qin4pbHFmSI8vUxsbwwAGlQsxw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na frase da aula, el continua marcando a expressão el bolígrafo.",
+      "feedbackError": "Na frase da aula, el continua marcando a expressão el bolígrafo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Aquí está el bolígrafo.",
+      "typeSpecificData": "{\"expectedText\":\"Aqu\\u00ED est\\u00E1 el bol\\u00EDgrafo.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/6795246f46f84e6ca3a44233d492a3f3_b02-aqui-esta-el-boligrafo.mp3?Expires=1794099424\\u0026Signature=0NRUz0HztOk7GuA-wbojWyavod56zU60KFgh62GaCWJAWTCsT1HlXPl42DmI2nPEZQbGwqgG~qSAYM-zbNXmU7kK3ZKpjnvxezJ3HRYKEeLcC6XoT0b~aU1lT1K44b2jybCPNAnZyp2DzEszRFeORjv7gZMd-QdOKqsAkqUFY~kNoEVfBcBxfpJ70vTDuM5Nasx5a3SmRuMSDuALt6hklA6RhmK5Iwo6JENSTEXJuI7eDIAG9f7hWgTmPZHFLNF-eCpaHI2v-W~oKfoaj1t1VJlhpgI2JYd5Pj6YFfrSwfEeTyuL4EwS9Oj0j4Y5Qin4pbHFmSI8vUxsbwwAGlQsxw__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3978bd23-720f-4207-8965-49cab64f43ac",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a frase e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a frase e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6795246f46f84e6ca3a44233d492a3f3_b02-aqui-esta-el-boligrafo.mp3?Expires=1794099424&Signature=0NRUz0HztOk7GuA-wbojWyavod56zU60KFgh62GaCWJAWTCsT1HlXPl42DmI2nPEZQbGwqgG~qSAYM-zbNXmU7kK3ZKpjnvxezJ3HRYKEeLcC6XoT0b~aU1lT1K44b2jybCPNAnZyp2DzEszRFeORjv7gZMd-QdOKqsAkqUFY~kNoEVfBcBxfpJ70vTDuM5Nasx5a3SmRuMSDuALt6hklA6RhmK5Iwo6JENSTEXJuI7eDIAG9f7hWgTmPZHFLNF-eCpaHI2v-W~oKfoaj1t1VJlhpgI2JYd5Pj6YFfrSwfEeTyuL4EwS9Oj0j4Y5Qin4pbHFmSI8vUxsbwwAGlQsxw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na frase curta da aula, el continua acompanhando bolígrafo.",
+      "feedbackError": "Na frase curta da aula, el continua acompanhando bolígrafo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2a8f4e2c-ec08-462a-8cfd-c51ab823cef6",
+          "textContent": "bolígrafo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3978bd23-720f-4207-8965-49cab64f43ac"
+        },
+        {
+          "id": "5b7d3f34-3999-4479-875f-6acdf456d5ae",
+          "textContent": "la",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3978bd23-720f-4207-8965-49cab64f43ac"
+        },
+        {
+          "id": "6319fdc2-20e3-424f-b748-b8f09cdcb682",
+          "textContent": "Aquí",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3978bd23-720f-4207-8965-49cab64f43ac"
+        },
+        {
+          "id": "799c11bf-8447-4ba6-8278-dcbf09dc4714",
+          "textContent": "casa",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3978bd23-720f-4207-8965-49cab64f43ac"
+        },
+        {
+          "id": "9b01d8af-b0ba-4915-8651-67263a886ae5",
+          "textContent": "está",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3978bd23-720f-4207-8965-49cab64f43ac"
+        },
+        {
+          "id": "edb612e1-1195-429a-b66a-ad9db89872d5",
+          "textContent": "el",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3978bd23-720f-4207-8965-49cab64f43ac"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "fcca765b-3c74-4d0e-b89a-3acf05201a79",
+      "title": "Associe situação e frase",
+      "content": "<p>Combine cada situação do cotidiano com a frase da aula que melhor funciona nela.</p>",
+      "contentPlain": "Combine cada situação do cotidiano com a frase da aula que melhor funciona nela.",
+      "fileUrl": null,
+      "feedbackSuccess": "No resumo da aula, as frases ligam o gênero a situações simples do cotidiano.",
+      "feedbackError": "No resumo da aula, as frases ligam o gênero a situações simples do cotidiano.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "80a27ad1-650e-4349-9537-7c7f8dcd75a5",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "fcca765b-3c74-4d0e-b89a-3acf05201a79"
+        },
+        {
+          "id": "9c8f6a0e-b59b-4e42-b0a9-5d6dc70f158e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "fcca765b-3c74-4d0e-b89a-3acf05201a79"
+        }
+      ],
+      "associations": [
+        {
+          "id": "6b3c8d69-8e26-4f6c-ab9b-0028c5f0f50b",
+          "exerciseId": "fcca765b-3c74-4d0e-b89a-3acf05201a79",
+          "leftContent": "mostrar onde está a caneta",
+          "rightContent": "Aquí está el bolígrafo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e0af2a5e-0dab-4a95-ab4b-20fc164e0714",
+          "exerciseId": "fcca765b-3c74-4d0e-b89a-3acf05201a79",
+          "leftContent": "indicar onde está a casa",
+          "rightContent": "La casa está aquí.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ea386d67-b5a2-454f-aa87-a8617297b4ec",
+          "exerciseId": "fcca765b-3c74-4d0e-b89a-3acf05201a79",
+          "leftContent": "elogiar a casa de alguém",
+          "rightContent": "Tu casa es muy bonita.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "7082fb36-8271-4000-8069-6caef6b501b4",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Aquí está __ bolígrafo.</p><p>Tradução: Aqui está a caneta.</p>",
+      "contentPlain": "Complete a frase em espanhol: Aquí está __ bolígrafo. Tradução: Aqui está a caneta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Em el bolígrafo, a pista mais segura aparece no começo: el.",
+      "feedbackError": "Em el bolígrafo, a pista mais segura aparece no começo: el.",
+      "answerType": "buildWord",
+      "expectedAnswer": "el",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f262f489-dc56-4670-b4cc-0a249cc5784f",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute o comentário e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute o comentário e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9ab286e7d03746e88125bcd640ea9957_b08-tu-casa-es-muy-bonita.mp3?Expires=1794099424&Signature=LajhQdNl~qP6y~bMgmd8f-6yU4l2DtccpnHQNLHqiS3ot-oMK7g-vQMmpt-ZO4ox8BCRkmhvVpNpZsYVKSyy1YQHQH4wFE6qil3ympUyqJsGd9ROR5hKren~wxz~AZ5J0BmjWiiGmm954OS7X4C6KpdRrnKVuT9EseC8E4ErZcvvrUji9XrnDnAEG9Ks5skcANijIWrtZn9lfKDI4oIE7PzG2jCqTZql6K9J1mMyr1d0mjyyifdc5gTG4wJrXn4yWulHvdTPLeCkZwCJogtaSzdM3w4efkq1zvTwtQ0iHGly7zCb6zxOMtHD~5bpJ2lJBo83GePUhK6FmYh5pIGGqQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui, casa continua clara mesmo sem o artigo la antes dela.",
+      "feedbackError": "Aqui, casa continua clara mesmo sem o artigo la antes dela.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "37674f44-cd6c-4f69-bd9a-16663f7edb75",
+          "textContent": "Tu",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f262f489-dc56-4670-b4cc-0a249cc5784f"
+        },
+        {
+          "id": "4e1b582a-d93a-4439-8e8b-d87bd5e4cb7c",
+          "textContent": "bonita",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f262f489-dc56-4670-b4cc-0a249cc5784f"
+        },
+        {
+          "id": "6a419bda-625c-45bd-87e9-699ae1e2e11c",
+          "textContent": "bolígrafo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f262f489-dc56-4670-b4cc-0a249cc5784f"
+        },
+        {
+          "id": "820a7a22-6ae9-4cd5-bf8d-5c08dc64db53",
+          "textContent": "casa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f262f489-dc56-4670-b4cc-0a249cc5784f"
+        },
+        {
+          "id": "a69802d4-13ab-4be3-b55d-9363b2ab4178",
+          "textContent": "muy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f262f489-dc56-4670-b4cc-0a249cc5784f"
+        },
+        {
+          "id": "e5e0bd23-7dec-4166-b2b5-69240ed00664",
+          "textContent": "la",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f262f489-dc56-4670-b4cc-0a249cc5784f"
+        },
+        {
+          "id": "f6212a47-f8d1-4a19-9ade-cee9888d2bdf",
+          "textContent": "es",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f262f489-dc56-4670-b4cc-0a249cc5784f"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c8c90b23-7eb5-4eff-ba86-d4645178a55a",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Tu ____ es muy bonita.</p><p>Tradução: Sua casa é muito bonita.</p>",
+      "contentPlain": "Complete a frase em espanhol: Tu ____ es muy bonita. Tradução: Sua casa é muito bonita.",
+      "fileUrl": null,
+      "feedbackSuccess": "Mesmo sem la, casa continua reconhecível quando tu vem antes do substantivo.",
+      "feedbackError": "Mesmo sem la, casa continua reconhecível quando tu vem antes do substantivo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "casa",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "25e3c343-ca2e-4348-8a1a-7337899c0247",
+      "title": "Associe áudio e frase",
+      "content": "<p>Escute e combine cada áudio com a frase completa correspondente.</p>",
+      "contentPlain": "Escute e combine cada áudio com a frase completa correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "As frases do resumo mostram como bolígrafo e casa reaparecem em usos bem curtos.",
+      "feedbackError": "As frases do resumo mostram como bolígrafo e casa reaparecem em usos bem curtos.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1d2c6f19-ec94-45e2-a554-90f102210ac8",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "4527a051-81ff-4f15-a313-243436ba893b",
+          "exerciseId": "25e3c343-ca2e-4348-8a1a-7337899c0247",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1e28f0d442c34c0ca0302aa83ba83b5a_b02-aqui-esta-el-boligrafo.mp3?Expires=1794099424&Signature=AUYV~MQQDLDsgdkTdenky5NUIeIwj5UTSmzDx~xf3x1GTlLtax5VlwcPW7dMESkrbEIAlfwtpjN6AtfZG-gniNXSpunXm-ATQiamoff7kwuPCkAGhE9dbBnSy5HFT4ATVTv6ptbMMzgyP9FlzkrPmgOiZ9eIpO3o7Sh6Di~kwtiOcC-8MyR84-c~c~kF1itGckSumPQXlt2PU7qs~eURgAoiO6NNAHSVWjxbNXxYlD~Cxno9ufX9aDTLJDxEm-2fzuxg8k4H36g5IVBOIFavl0cNOEyUawkzmgEre4lPsZ~hFTqdNyFdgBpa~R0uJbIYjvSfGRx3WYAnjBCaaaVbwA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Aquí está el bolígrafo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "fe77a5d2-3f94-4eea-8301-eac00c235e71",
+          "exerciseId": "25e3c343-ca2e-4348-8a1a-7337899c0247",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d45e69ba66424c0c93bb5b28177cf0bf_b06-la-casa-esta-aqui.mp3?Expires=1794099424&Signature=TuTEAYsaa2B-8t03f1PztBJAumZFppZ~Qc8zPz1oe~ALs4eQ71IWKyBdb16PFwmwze5k7RxXkOxvcTAfzwdGK-eU7oTEvTJrTq5Kfsn~hCXGKmljSCOfJ419lSkpPyBEJaeaOM7TOr-lo6-tStSHYLXQd~vaqOz5cZyOgMIDLaW5hhx2BopDNX5CfxR3L9t7nesrVEtFtVm~D6lVhloof3djLxMUiuyoEMERcqYEUqpUgonih2r9zCr37G39eggvIs4pctxyUAWnJ318bu7IrRxOOOt-yR0yYvgNj8nBy1m8TWb-BPbS1wrNLIhFjd5zvdvyd~va9qXvfXvk6Na9pg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La casa está aquí.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5e9c5038-ec41-4eeb-90c7-7c2c6ea282f9",
+          "exerciseId": "25e3c343-ca2e-4348-8a1a-7337899c0247",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0450b24cd3134ccf931f49efcfabb02a_b08-tu-casa-es-muy-bonita.mp3?Expires=1794099424&Signature=SrtF5ICtQk5MxFc9Wve0yKriqvGirjBKxgrIRL7PcchE4evYYAJoJXd7wzUU6vSd3KgwXeFIxuLnfC5l7Y7wvhWLn20PKD6eZ-Wo1VQg~3puwef0uvN8FmnnIsME05oIjSWmVRrcNxNoqArZ2lAkju6BVkhC7CFRhalL0x6iUdJ-57dASNcSxwqeUvN-aOKnjPSfhj~~xbzQffJE3rf-QpDTnMRepUJRE4P6~A6QgXV8C1t3WS5XLiOpS9hDGSsoKtO7P2DPit2rfBfISFC-CueVOxYVEsXCyts9qHJjfRgu9RltPOEaFNYo~AS5HtosHDBOLGlndxfvOnBA6CI2Qg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tu casa es muy bonita.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "title": "Descobrir o gênero dos substantivos"
+}

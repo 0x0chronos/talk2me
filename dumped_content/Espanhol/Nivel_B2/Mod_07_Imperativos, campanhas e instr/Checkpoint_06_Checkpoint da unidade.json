@@ -1,0 +1,475 @@
+{
+  "attemptId": "c6ab7f12-2c8a-4fae-be4d-8d48402100c2",
+  "exercises": [
+    {
+      "exerciseId": "36efa2a3-5712-4664-9a11-f65b11893a33",
+      "sequence": 1,
+      "lessonId": "5cdbeb98-7109-4740-a3d8-bd3089e243d1",
+      "title": "Ligue frase e efeito de tom",
+      "content": "<p>Relacione cada formulação ao efeito principal que ela produz sobre quem lê.</p>",
+      "contentPlain": "Relacione cada formulação ao efeito principal que ela produz sobre quem lê.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, o tom muda antes mesmo de mudar a ação principal do imperativo.",
+      "feedbackError": "Nesta lição, o tom muda antes mesmo de mudar a ação principal do imperativo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "66eec1d3-0d25-430c-a992-e865f1f35820",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a01b88bc-7071-4fa0-aa71-73121fbaec20",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "8576145a-f625-49ad-9bb2-db76408e600f",
+          "leftContent": "No dejes las bolsas fuera del contenedor.",
+          "rightContent": "frear um erro rápido em aviso geral",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d9c87b2a-c0bc-480a-9866-c01a29b3ef69",
+          "leftContent": "Por favor, no dejes las bolsas fuera del contenedor.",
+          "rightContent": "suavizar a relação sem tirar a clareza",
+          "sequenceItem": 2
+        },
+        {
+          "id": "41095623-d55a-483f-9186-04966f9ab1ca",
+          "leftContent": "Súmate al barrio limpio: deja las bolsas dentro del contenedor.",
+          "rightContent": "convencer com uma razão positiva",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "890230cd-028d-4bcc-99ba-9601555e9553",
+      "sequence": 2,
+      "lessonId": "9ba551a0-5fd9-43fe-a374-5aaa87287bbf",
+      "title": "Recupere a ação de checagem",
+      "content": "<p>No lo compartas sin _______ la fecha.</p><p>Tradução: Não compartilhe isso sem conferir a data.</p>",
+      "contentPlain": "No lo compartas sin _______ la fecha. Tradução: Não compartilhe isso sem conferir a data.",
+      "fileUrl": null,
+      "feedbackSuccess": "Revisar la fecha reforça a cautela com um dado concreto antes do repasse.",
+      "feedbackError": "Revisar la fecha reforça a cautela com um dado concreto antes do repasse.",
+      "answerType": "buildWord",
+      "expectedAnswer": "revisar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3d7815a2-b8a9-4391-b2fe-7662319ea867",
+      "sequence": 3,
+      "lessonId": "52d3a2e1-3017-4859-a739-cbc4965f187b",
+      "title": "Escuta integrada do aviso",
+      "content": "<p>Sem apoio em português, marque só as palavras que aparecem no áudio que junta convite e entrega.</p>",
+      "contentPlain": "Sem apoio em português, marque só as palavras que aparecem no áudio que junta convite e entrega.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/15c2c26f14864bab9e2fd2248238eef0_c01-sumate-y-dejalas-en-la-mesa-de-recepcion-antes-de-las-dos.mp3?Expires=1794099739&Signature=Idf3BEJuwoSdbFXWj3pgL8M9~5FVlbtjcJbqNelKtHe2kgu1mGURYinqnHMkDjiD3maofEwqOb4iiOaL05t-~rG7NPo1RqX0pJd90rEStZc-uyklqm2BnlXVgV4Q0BYPTmWjcactQSfLCqmXb0-3I1JaEoH36xNhxxd~Eeba8bCFFBdiwaYTk0tk2Q0WohO5XBUgsVE~MPrlxBZkxBnQC-dAmr2jhegFfPHC7yjy~SJ08-bqk4mYE0~1ILb96HJOfEKGCaDDwa8rZz0zcYD8sgIAYKpB4v~KYQJIMcvWKEfNfghtTcX2M-C8aA2j0KBntn3RJb1-XiUZOekD66LLvQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No desafio, o aviso recompõe convite e entrega sem repetir explicações longas.",
+      "feedbackError": "No desafio, o aviso recompõe convite e entrega sem repetir explicações longas.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1fb91356-6477-43fb-9435-4dc209feaa47",
+          "text": "basurero",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "319b6995-bc0a-4b6c-8a51-a91cc914564e",
+          "text": "dos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4f2fa0e6-a41e-44ec-a12a-758ed0918713",
+          "text": "cerrado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "816a7000-a587-4f16-9d3d-8b6cc13793f9",
+          "text": "recogida",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8cd61251-9f17-4e5c-a5b9-94d6537822dd",
+          "text": "común",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9ee3f501-3614-40ac-9396-8bd6e0405c87",
+          "text": "recepción",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b1a56fbf-9578-4e22-9b2e-3692add4c664",
+          "text": "déjalas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bc8654a2-bcda-4d20-920b-8de9e8f53189",
+          "text": "mesa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bf73d75d-3f7f-4aa0-adf6-8b396f8b8f50",
+          "text": "pilas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c3f65ca9-6ef3-45c6-8c19-8121389840c3",
+          "text": "sábado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "de17581b-a1fb-413f-a4c4-daafca14524d",
+          "text": "súmate",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "23b8d705-25c2-4f58-b712-5217df88ec9c",
+      "sequence": 4,
+      "lessonId": "fe0128d2-8821-4ce8-a135-744f0149d151",
+      "title": "Recupere o detalhe do valor",
+      "content": "<p>Cuidar el barrio empieza con un gesto _______.</p><p>Tradução: Cuidar do bairro começa com um gesto pequeno.</p>",
+      "contentPlain": "Cuidar el barrio empieza con un gesto _______. Tradução: Cuidar do bairro começa com um gesto pequeno.",
+      "fileUrl": null,
+      "feedbackSuccess": "A ideia de gesto pequeno suaviza a persuasão sem abandonar a causa.",
+      "feedbackError": "A ideia de gesto pequeno suaviza a persuasão sem abandonar a causa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pequeño",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4c9a328b-7e0d-4a10-a8e2-bbca9eb22aa9",
+      "sequence": 5,
+      "lessonId": "9ba551a0-5fd9-43fe-a374-5aaa87287bbf",
+      "title": "Recupere o verbo do repasse",
+      "content": "<p>No lo ______ sin revisar la fecha.</p><p>Tradução: Não compartilhe isso sem conferir a data.</p>",
+      "contentPlain": "No lo ______ sin revisar la fecha. Tradução: Não compartilhe isso sem conferir a data.",
+      "fileUrl": null,
+      "feedbackSuccess": "Compartas aparece no aviso que freia o repasse antes de conferir a data.",
+      "feedbackError": "Compartas aparece no aviso que freia o repasse antes de conferir a data.",
+      "answerType": "buildWord",
+      "expectedAnswer": "compartas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "53f25335-1f30-41bf-86a9-802d7b3a6440",
+      "sequence": 6,
+      "lessonId": "b6bcb4b0-9c05-43e9-b95c-7d2c412ca13d",
+      "title": "Recupere o pedido de retorno",
+      "content": "<p>Después de la prueba, ________ si te funciona.</p><p>Tradução: Depois do teste, me conte se isso funciona para você.</p>",
+      "contentPlain": "Después de la prueba, ________ si te funciona. Tradução: Depois do teste, me conte se isso funciona para você.",
+      "fileUrl": null,
+      "feedbackSuccess": "Cuéntame pede notícia ou opinião depois da ação inicial.",
+      "feedbackError": "Cuéntame pede notícia ou opinião depois da ação inicial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuéntame",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4426916d-5f59-4011-80c4-0f2b9e2369e6",
+      "sequence": 7,
+      "lessonId": "52d3a2e1-3017-4859-a739-cbc4965f187b",
+      "title": "Recupere a condição prática",
+      "content": "<p>Trae las pilas usadas en un recipiente _______.</p><p>Tradução: Traga as pilhas usadas em um recipiente fechado.</p>",
+      "contentPlain": "Trae las pilas usadas en un recipiente _______. Tradução: Traga as pilhas usadas em um recipiente fechado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Cerrado acrescenta a condição prática que deixa a instrução utilizável.",
+      "feedbackError": "Cerrado acrescenta a condição prática que deixa a instrução utilizável.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cerrado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a758fd9b-f475-40b8-a761-72cc95c8a785",
+      "sequence": 8,
+      "lessonId": "9ba551a0-5fd9-43fe-a374-5aaa87287bbf",
+      "title": "Reconstrua os avisos por partes",
+      "content": "<p>Associe cada fragmento ouvido ao trecho correspondente sem apoio em português.</p>",
+      "contentPlain": "Associe cada fragmento ouvido ao trecho correspondente sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Separar os avisos por partes reforça a ordem do pronome e o foco de cada alerta.",
+      "feedbackError": "Separar os avisos por partes reforça a ordem do pronome e o foco de cada alerta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "4781d8ec-98e8-41e4-99e1-845daf33fd37",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b06c8d86680a42f8ae0d75c99f9b79a4_c05-no-lo-compartas.mp3?Expires=1794099739&Signature=z2e6V4HqOODCZ0xoChtbpajpPl5XeVl5wYjWEB0prSq4u-QVlH0G5X0T8cXE7mO7TiSfpXhf~oWSqOdYQu2woj2ZRVD7U6oHlNfJL82aLpSk2cfTYHku~cFsKNiIGhNtd2Yl74i7a1vEO0jAkIyfM2esgqkQvo~zIxaphmQCJB4iUSCT3mYOQg28U0lRFAvQnnn2WYmfLHBpQ~LXCexKrNi1sGIORSUN5MVbmZC0Y0F1K42mv8nZSpzLwl3Cp7IooL25e3tjlkKv3sD6H5CseHXF2qmWqpPchUtFDLexr2xCEHJVZqw5ifbxbCi7Dl00OYWU4ePN~FBVwvmCLtVo~Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No lo compartas",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8f4f3807-cd63-4a20-bb05-031848572d80",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ee7dae5071d74072aefdcd59367c6247_c05-sin-revisar-la-fecha.mp3?Expires=1794099739&Signature=vVt1NvbL4PQoO9SnNsTR72gwo5vpolFr4Ib07F2t3LHZKAXT0UP9HMYmsrVJC9aK2vnw~P2A~yfzCwCrVxvO50cIyodHb75WhikuSbLrDMlt-P8QDANw9Ogu79nfXBFWf3bMFbTEMvxtKjUoSCqhYEMkhodf6sndRnxN5OaC23oYUYVYV3eINm5f1hMnjgVAK56GiL~NJynghdPa2E-DDlWU~ZxUbm1d6iYTidtUEwnwNnPM1iG1mfgV3Jp3RwarrW7m6sNHcFi1Bh0uC~~C1Z0goFadX3WQLX0joxNKUzm2yysttnJsO-~UkAxR8qYgKZOXu-asu7LirpYpkx5pyw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "sin revisar la fecha",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ad6c750f-38a8-4900-bba7-5d4585fc472a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/792a0006ccd747ea852b1faee2aa30c7_c05-no-te-quedes.mp3?Expires=1794099739&Signature=kJwkoVaPN8EkhgxpihmShgu4cP3wIiCUMiNQCeFPs8-CBDqQZlAuC3thqXst5i9l7vYsFdyCXlwou5ZIMocn1OEDAeTH8Cy2eCmW9hexxDBdeIek-eND1fgu0zPardjy3IR0QW1XxqgihhKZJlGWNpF6t~jqXxY0L7kkbtxwXcdJtJcPv2ASYhxQmPZ0BrG4Q23QpQAugGydXmYeyF~U3f1csOpeLXAGENYcp~ZWNffyXSXsLnQSfChzMmX8ExWfKNveL6KAeY1ZOrYYucdQ-dkhF4FYBsrf4ldO9o3aaBaujx7hNWgnsQVlcKEvpBgS~MEvcFKFk~jw9iolAaapmA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No te quedes",
+          "sequenceItem": 3
+        },
+        {
+          "id": "1369e5b6-ba74-4630-90c0-d64edba456a5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/df4219816ef94677a9030d6af34c8ec1_c05-solo-con-el-titular.mp3?Expires=1794099739&Signature=xwVnj2SzTFJdeY3Y1PZL5mpN4abqTzBg84eHmv0-gIONWawDL~NGE7KQT4yb35m43ENgq88kjYuPGFNy2LbkClSt20Ym7nZmVI0NogFdW3WdCwnYDzzn-zFQ1JMjg5-~q5fnY~uLvBAlVvILtD5tGfhxMQhITQmxlcqNsyM87i0UNiwQVJT9CV6pp1ecm6LjnxffmLTEKK-wkHQe1Ze133FyNnZ9KmOE2MIMD3KTeNj~TKoKNmeR2YouRHxmNHxNBC-~wa-jy~yY6hw3DnBNWKcvaw5WeKpOMx4MdbDBOK8RLtsv-iSmcP46DMcVPCU8ucfvvjX18Tzf9fDrcCntbw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "solo con el titular",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "8c433a40-bc26-4425-abfa-92590605eae4",
+      "sequence": 9,
+      "lessonId": "b6bcb4b0-9c05-43e9-b95c-7d2c412ca13d",
+      "title": "Recupere o convite direto",
+      "content": "<p>Si el producto ya está claro en la escena, ________ hoy mismo.</p><p>Tradução: Se o produto já está claro na cena, experimente isso hoje mesmo.</p>",
+      "contentPlain": "Si el producto ya está claro en la escena, ________ hoy mismo. Tradução: Se o produto já está claro na cena, experimente isso hoje mesmo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Pruébalo aparece quando o objeto já está claro e a mensagem quer ativar a ação.",
+      "feedbackError": "Pruébalo aparece quando o objeto já está claro e a mensagem quer ativar a ação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pruébalo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0a726999-1421-4125-b668-d28330cffb94",
+      "sequence": 10,
+      "lessonId": "b6bcb4b0-9c05-43e9-b95c-7d2c412ca13d",
+      "title": "Reconstrua os comandos pelo áudio",
+      "content": "<p>Relacione cada áudio a frase correspondente. Um deles recombina o convite de testar com o pedido de retorno.</p>",
+      "contentPlain": "Relacione cada áudio a frase correspondente. Um deles recombina o convite de testar com o pedido de retorno.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio final recompõe convite, retorno e recombinação curta pelo som.",
+      "feedbackError": "O desafio final recompõe convite, retorno e recombinação curta pelo som.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8261d3bb-8a16-457f-b7c7-fa3ac2376195",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/78c4257b8e8a424ab9776787350ceb91_b02-pruebalo-hoy-mismo.mp3?Expires=1794099739&Signature=RtIzM6wIIYk5BmBvxwzMx-cp0VOSGD-MBjsnbPEMAjWuYyK08XoytASmtsGX7mC83lCEEXZ3Ik~0XUs5BL9sinCL0eQR-7qWqfJDU1g400PS7HfI1Tss36Y1s5gqgEXSR3n0g3J~YXD6kT-yC2h5IACBOu~jbK-QNydPttm3eRuGEBBGTVcg~4OqHS5jpDkowM-kdPGxtacL2E9idCl6SQS2G3rKU7t2PuaecgWQSSjwXxaPMyqmOejfTe4m~eFx-Z0w842Mgg4dDRNiWN3mpfClw~yYMVp5wryfv8jhVL2SlsQ8-tZIzvu0OXUOFFTK51ZoLSp0cnOHb296r62qbg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Pruébalo hoy mismo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e18a651c-5cf1-4190-8e9d-ab4e00b9168d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bc22f378746c474c83c73b5fc72006e8_b04-cuentame-si-te-funciona.mp3?Expires=1794099739&Signature=q4NlxvvjU1NYahxe96nqTQT7mNp1qPtnPMVr812IwiCzsFgRtPONiCf-LankNg2cWPWw2g3ibnTnVHdOZCJEGzUA9qOYZRdC3EWhBjeeY~iHfnxFMAIPpgtfqs9m-fJGpMcRG0PIR1J8EC~l2J7UJobz5vD3bge2MR7IFr5L3wivVwVkx51Z~eipcV8T1E33hJ4DYEefH~H00UPGL6ZeMUUj1uHuHBh1U1y2bdoNpqMJU2EzVTVm-aV9PYYPKaLXh2RgYs2OrSjO4cyYqTM~gXAV283juVAhSL0qqkreGpEQb7EXpeQc9Ye4NrTU8RliRfv5ikcXwU3d1eGF8yOw-A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuéntame si te funciona.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "92cb188e-496f-4ee8-b197-3676a95eca4c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bd6eaf46c3114272ae85f33a3a76135f_b06-pruebalo-hoy-y-cuentame-si-te-sirve.mp3?Expires=1794099739&Signature=OMvJZF7XKdZt3frIccneFLncey65S1h~~o5x1sPSXkSA~OzOTbazHxs9TBSmmUv-VlNa27k6AM4harVi-rhdJCZzBh7nHYndgIpuB49rgGhRFnhltlwDW5H3FqEiFyw~PeqfnmVDWsP9S9384bjUH3MeIpAgpHL8D-pQFi5t1rlhS~B9NsVhMEJ6ZQ6rUqIoGld26AgFTRa~uAff0IHuy1ztrOsa6fBAShulZiGcpbFuSau0P8h7Ih92DEMiZMylIx8iGQ3bT~LIxdSZH8gymxNclruVzjilqaEnCiSQJEEhHVYYy-HtG63f33keAZ2xWcCbFJ4qLCxKloQ0Qf6HeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Pruébalo hoy y cuéntame si te sirve.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "cb1e90b2-b4c4-4512-bd8a-7ba7d8fe4e1d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4932ed9ce88546d58734ab88fe1a3175_c01-pruebalo-hoy-mismo-y-cuentame-si-te-funciona.mp3?Expires=1794099739&Signature=1VKn8mCQGxmWO0DkscmtubpsTvEheZ98ifnwW1lJOatwTTI5y8K8yw58zyP7NFOmKE6xbQJtmDc8Jgpt24yo8gfgfPbzQ4YCjB2K7cV8Kat6F864MSNr3Ps4ep7R2ftJq4lnJUWyuCMnFQVb2CBdxXmOrAPg7E8lDKf4-HReMKsFajDZi6AX2xqPCvZqVm6~5Bg2AkSskPkrWdR4QvNQLAlngyteL8txhckifnNibY4Uds1e-KkVg~J2gkWG2RQl3tA5bxoALZ8FbkZXdrW2sVd3HAuCRlOp1YG1TbU9NpXJ4YtrxgldWlh7LrtKaU5Sn4G81T3Nt70ErQDQrQ8Isg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Pruébalo hoy mismo y cuéntame si te funciona.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "39899c4c-a987-4660-b210-d6a79e2f67f8",
+      "sequence": 11,
+      "lessonId": "fe0128d2-8821-4ce8-a135-744f0149d151",
+      "title": "Reconstrua a campanha pelo áudio",
+      "content": "<p>Relacione cada áudio a frase correspondente. Um deles traz uma formulação nova que reforça a mesma causa com outro ritmo.</p>",
+      "contentPlain": "Relacione cada áudio a frase correspondente. Um deles traz uma formulação nova que reforça a mesma causa com outro ritmo.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento recompõe as duas estratégias da aula em áudios curtos e reutilizáveis.",
+      "feedbackError": "O fechamento recompõe as duas estratégias da aula em áudios curtos e reutilizáveis.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "4474518c-ec11-44e0-8ec4-6dfdebfbc395",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d6fe32040fd64ab9bebfa3e82d542fcb_b02-sumate-a-la-limpieza-del-parque-este-domingo.mp3?Expires=1794099739&Signature=QAccXQ40gUDmN6QOxVOMMOH7eqDbXoOakprzVX6r8pTsCnfcepcw1togaeMnVCgdnrdns6d3FbCRThJHYIhjtQU88CTinC59cQK5-mdBUiXW88ISCzUWDhqd2yu163QVlKJ~QKq81God3DoCRMefxr7PWaf0~X1dwMXIBTh3xZWQLqVFk6Ae0Fg8atM3QRj-8jeLzqWxJLB4aOIfcqBLQClKFtCkh9WaSX4gXNnKR5~8PKfKW-gbMq-3aJJa7AAFLAp4ggyOKDRshzIrb4gpbMxJEWigYZJUvv~hBp8kBet3BZnYuW~~ljh4~A~UFd-oDAw2hX-mMFFWOx8nAXIaKw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Súmate a la limpieza del parque este domingo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c00d405c-a116-46da-a129-126cb73ea2c7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c3ba4b0986ab4701b3355dfcd5570fe6_b04-cuidar-el-barrio-empieza-con-un-gesto-pequeno.mp3?Expires=1794099739&Signature=yZNS59~QYp~cbuP5b9REAYAw8Y8DiRlaw~cEZ6fYJ7pCD8V775dwldOylivE~JkOpettdH942wXpNrY8WEtEOfoA7bNN2opIY4vxXW-EeporcZUheR2XSi2N62WeDYwm1EB0DBJ4LIoF62Wl7pdfYy~7jrA1Tclm7znqMODD6clhWoSbtw1WL0So~YxnEXUh1YYnRO-GB64eiyOUinOSb7KT11JHrMA8aiAAzc25Ph9kx1swVKkP6H5nB8Q~X1wTaJSj5hFecT-wML~8sNv2bl3egfmYImQJw0AgSQH7lqUUYZDMQXg2H1UfF0bt98bzRl3NyO33RfifXHNdcQsQ6A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuidar el barrio empieza con un gesto pequeño.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ff1ac9ea-3f1c-4eb2-9e3b-e812d4cdb2b2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb5bf46f325d4949b5679d972d26b621_b06-microcampana-barrio.mp3?Expires=1794099739&Signature=X9GfA4sdM4LB~0-H5YmPGmbydGHWsJFru~MOOjkQdH2UXk7Qq6AkkcUGnLqPHdgsLgkVTPfc81UiM8uX3a7PrK3NT80rIB2jXerbSBdiwYIj6wLRq~XbKWZu~2qzkFyGLMHBIfXyyDO9e5K4o71pAOWFXyVT657490fSVh6YMaXzv4JIrtzCc3XlfANQYOCrNeKyPYXTHXrYJ-NToRETeSGByDAjhmQr88OOdVYH5-vKvXPAX2-6HvpE2ul7V9j-58XghJnrjH35PS8HhLXqpzZQ8ysyKS7R6v~gi3fvQ6DtFwqQ-ik5BYueGa9h9POxl2dAAk70d6Ma1pBJSAbjYw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Súmate a la limpieza del parque este domingo. Cuidar el barrio empieza con un gesto pequeño.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c99db2a6-e83c-4160-aaf1-daa60b090d2f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b504c460a2cc452fb73bc9818fead656_c02-sumate-hoy-cuidar-el-barrio-tambien.mp3?Expires=1794099739&Signature=DS2PJCkFLy1Yt1sho2IBqYLnDe~lg53DRSkkScYVu3UVJqTWQyqUj3G-Fre1EAW09288jgniecFdb222inWlLM5Cze2D5ZCt6hF0R3VO4ovJzAwCNCebKlTL~RGvOo66RLXQtTtaOsR3rfIzwdxajZoP2UGW2QHpMETssDqvIRqTtxGO1IEszO5-KdDG8RJ7gr8Hxe5LsZjyfdVma6hArcutOx9ohkzOF~7B1gYXxOTryTl2EFLV2pOuyRg9NLfsEulx2TKX9RiUfBjZO3W~m0vUY54Af08U~4fAOCM3-BiyVGUn2faI8v2NiRNEJ8pdS7QZxmqyIdWC7yg5~-lcGw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¡Súmate hoy! Cuidar el barrio también empieza con un gesto pequeño.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "869ebdfd-126f-4bdd-9621-8607398b59a7",
+      "sequence": 12,
+      "lessonId": "5cdbeb98-7109-4740-a3d8-bd3089e243d1",
+      "title": "Recupere os contextos pelo áudio",
+      "content": "<p>Marque somente as palavras em espanhol que apontam para os três contextos do fechamento.</p>",
+      "contentPlain": "Marque somente as palavras em espanhol que apontam para os três contextos do fechamento.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/317e81cfcd0d43c3beb99001c67d2b77_b08-recap-tono-directo-suavizado-y-persuasivo.mp3?Expires=1794099739&Signature=QSkhxjYcpeObTrdxmad8-1A1NjAh8NISWLzWmiLgp55NCxlI6WTiKTRxArxkGGP0RwtjCEtzboXFO4v5W1JtbYFSYnF1mAvrfpLPxdUujncsfib99n1Ygd3i2LmjM7UW1L-ZEV5KsKGRxlnPpUEcHz-u47-iw6gP8MuqBKPPEL~OTSOX3kh5RpvHGQ2Z7nFEPivlN4~U8uywn4U4qvIy1dk0XVskk1Kce0jv2u~h7ljMPCGwr5qK2R5A2f0~0KfUXlpJWtBhs3zSnhfEPlfIC5lawJMuQdk7QDMmEXcI7Qldr1fdKOofDhUF2kAGxFakP0GrAdq~ayIhyfb7uK0SxQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta lição, o recap final reorganiza o tom pelos contextos de uso real.",
+      "feedbackError": "Nesta lição, o recap final reorganiza o tom pelos contextos de uso real.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4179436b-2a59-48d5-9110-b6196e1d36d9",
+          "text": "mensaje",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6541e590-e4b9-42a5-92b1-3dc69ecd0268",
+          "text": "barrio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a8a38cfd-58bc-445f-82d4-926eb6b08bf4",
+          "text": "campaña",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c5609bd3-c269-4be8-8e56-d2c91979dc2a",
+          "text": "bolsas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f8063247-584c-41cd-bdd4-45a478bd2b5d",
+          "text": "contenedor",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fa4610be-4161-4b6e-b28e-09ffa046e0b4",
+          "text": "avisos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "120ab34c-bae3-4211-af44-8ae2274d1b73",
+      "sequence": 13,
+      "lessonId": "5cdbeb98-7109-4740-a3d8-bd3089e243d1",
+      "title": "Complete o comando direto",
+      "content": "<p>Complete a frase: No _____ las bolsas fuera del contenedor.</p><p>Tradução: Não deixe as sacolas fora do contêiner.</p>",
+      "contentPlain": "Complete a frase: No _____ las bolsas fuera del contenedor. Tradução: Não deixe as sacolas fora do contêiner.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, o aviso direto usa uma frase curta para impedir um erro rápido.",
+      "feedbackError": "Nesta lição, o aviso direto usa uma frase curta para impedir um erro rápido.",
+      "answerType": "buildWord",
+      "expectedAnswer": "dejes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c0117ed6-0602-42c7-a7e3-f8fbac5c674e",
+      "sequence": 14,
+      "lessonId": "52d3a2e1-3017-4859-a739-cbc4965f187b",
+      "title": "Recupere o convite da campanha",
+      "content": "<p>______ a la recogida del sábado.</p><p>Tradução: Participe da coleta de sábado.</p>",
+      "contentPlain": "______ a la recogida del sábado. Tradução: Participe da coleta de sábado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Súmate abre o microaviso como convite persuasivo para a ação coletiva.",
+      "feedbackError": "Súmate abre o microaviso como convite persuasivo para a ação coletiva.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Súmate",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "37203d77-177f-4644-ac80-541623b6ea28",
+      "sequence": 15,
+      "lessonId": "fe0128d2-8821-4ce8-a135-744f0149d151",
+      "title": "Recupere a ação da campanha",
+      "content": "<p>Súmate a la ________ del parque este domingo.</p><p>Tradução: Junte-se à limpeza do parque neste domingo.</p>",
+      "contentPlain": "Súmate a la ________ del parque este domingo. Tradução: Junte-se à limpeza do parque neste domingo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A chamada direta da aula usa uma ação concreta para mover o leitor rapidamente.",
+      "feedbackError": "A chamada direta da aula usa uma ação concreta para mover o leitor rapidamente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "limpieza",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

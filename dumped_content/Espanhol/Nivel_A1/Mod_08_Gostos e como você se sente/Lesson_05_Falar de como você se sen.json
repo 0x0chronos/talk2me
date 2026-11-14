@@ -1,0 +1,585 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+    "attemptId": "5d63aaf9-3afd-4257-b19a-27e88604c31d",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "5db13a3c-481b-413e-8115-c78bbbca573f",
+      "e1c39dcc-1608-4f03-81e8-80b9f162693b",
+      "6ea20fa8-6770-4b01-9ec8-95c8db04343a",
+      "084fb591-3766-40e3-bdf2-f0558b31d19c",
+      "a125f6a2-ab24-4a8d-b6be-422f7d2da19d"
+    ],
+    "evaluationExerciseIds": [
+      "3d271b70-5773-43d8-8854-edb91c3b299e",
+      "1ba4fb39-3ce7-4fc5-b47c-9fa7e1e9150d",
+      "35b30dbd-7d7d-4291-8954-28ddf8846521",
+      "094018e4-4b26-425f-9b85-024c54750d7a",
+      "58e05f9f-3a06-4dbc-91d7-ca3e6209c88c"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:19.9459206Z"
+  },
+  "contents": [
+    {
+      "id": "4e8e7ec6-cf55-4102-b07a-cb476d209030",
+      "title": "Leia a pergunta e observe o sentido em português.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "65d9ca27-8cba-47ed-aa2c-d73f4bd2fcad",
+          "textContent": "<p>Observe a pergunta.</p><p><strong>¿Cómo estás?</strong></p><p>Em português: <strong>Como você está?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "685f208b-4cfa-483a-b4a2-bbd962c8b9fd",
+      "title": "Leia a nota curta e ligue a pergunta a um encontro rápido.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "c755e108-d93a-4166-a05f-6a4597237868",
+          "textContent": "<p><strong>¿Cómo estás?</strong> serve para perguntar como a outra pessoa está naquele momento.</p><p>Você pode ouvir isso ao encontrar um colega, começar uma conversa curta ou mandar uma mensagem.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "64e6e7f6-bfa9-44ac-b8a2-27872ae8b1d9",
+      "title": "Leia a resposta e observe o significado em português.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "de0ede5f-029b-4dcd-be4a-95f9f8d45f85",
+          "textContent": "<p>Veja uma resposta simples.</p><p><strong>Estoy bien.</strong></p><p>Em português: <strong>Estou bem.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d8071424-20d8-4154-bcc1-3d2eddeb85f0",
+      "title": "Leia a explicação curta e observe o tom da resposta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "da7f936a-35bb-41a5-b507-5f5488c9997f",
+          "textContent": "<p><strong>Estoy bien.</strong> funciona bem quando você quer responder de forma breve e natural.</p><p>É uma resposta comum quando está tudo certo e a conversa continua leve.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "73934f1e-4d7d-4809-b1b4-9c92ed670a46",
+      "title": "Leia a nova resposta e observe o significado em português.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "c9f81af2-cc43-40c8-a223-65a3d9318d36",
+          "textContent": "<p>Agora veja outra resposta.</p><p><strong>Estoy mal.</strong></p><p>Em português: <strong>Estou mal.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5d3dee2e-4893-4c6f-b118-1e8820472d34",
+      "title": "Compare as respostas e observe o começo igual.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "f2b64b57-2773-4855-8609-916fd07f638e",
+          "textContent": "<p>Compare as respostas.</p><p><strong>Estoy bien.</strong></p><p><strong>Estoy mal.</strong></p><p>As duas respondem a <strong>¿Cómo estás?</strong>. Nesta aula, observe a resposta inteira como um bloco pronto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "78a3d9dc-e8c0-47cf-998d-cc5505d607d2",
+      "title": "Leia o resumo final e imagine onde essa troca aparece no seu dia a dia.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "98ab9aa7-686d-400a-b330-ee35d4087c0b",
+          "textContent": "<p>Em uma situação real, a troca pode ser bem curta.</p><p><strong>¿Cómo estás?</strong></p><p><strong>Estoy bien.</strong> ou <strong>Estoy mal.</strong></p><p>Você pode ouvir isso ao chegar ao trabalho, encontrar um amigo ou responder uma mensagem.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "bdfda748-332b-4974-8fb4-519eed68cd51",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "dd3d0946-7469-4329-bb46-aae4af29863b",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fddf1404421f4123966290548d8cd927_MEC-IDIOMAS_CAP_08_-_AULA_05-ESP.mp4?Expires=1794099440&Signature=hqiPGPIJvEkAHD9KVxl13m9dWYT15xRZlY~n9z58VPaQd-wyESp1uGIZOFDD4cUHQzvLEFaK8OarSk5VKkGenQyAd~YW-C5qH0AsyDH8CPWaDIQyJywY8qskf2FML6~vCVOX0t~yLAujT~WAKB-eY2mGzopsyy7Awjdzhi85a2axMEdqal1REOn5HK74aWsCPk5kf4iZIFI3HtwlIt1NxSXy88sFI3dPKGeiC5S-BFuTGtBC26fRGtF6nrLwJXnMpzQaG95Yr6CGOERhKFA12obc0VCvnas0VK~-K8VjWUQEl74oTIuwj9YmuKgWYG6H47rFO~hX7Boel-UERm6G6A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/fddf1404421f4123966290548d8cd927_MEC-IDIOMAS_CAP_08_-_AULA_05-ESP.mp4?Expires=1794099440&Signature=hqiPGPIJvEkAHD9KVxl13m9dWYT15xRZlY~n9z58VPaQd-wyESp1uGIZOFDD4cUHQzvLEFaK8OarSk5VKkGenQyAd~YW-C5qH0AsyDH8CPWaDIQyJywY8qskf2FML6~vCVOX0t~yLAujT~WAKB-eY2mGzopsyy7Awjdzhi85a2axMEdqal1REOn5HK74aWsCPk5kf4iZIFI3HtwlIt1NxSXy88sFI3dPKGeiC5S-BFuTGtBC26fRGtF6nrLwJXnMpzQaG95Yr6CGOERhKFA12obc0VCvnas0VK~-K8VjWUQEl74oTIuwj9YmuKgWYG6H47rFO~hX7Boel-UERm6G6A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "5db13a3c-481b-413e-8115-c78bbbca573f",
+      "title": "Separe as palavras da pergunta",
+      "content": "<p>Escute o áudio e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute o áudio e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d4c7663fb1d4d35b9b98f8bb9906503_l05-como-estas.mp3?Expires=1794099440&Signature=uoNDsTPLg5LxKPt9oZAO-ugDuhZFTOAh8dXbEan5wMjnOZJtkCoIb-bAHuaJIr5acqvZ9NC6yrlMZbQ89jLfzNcXmQa1zXrum6PtqiSvZPWhAAbys-Nzn2ZjzIxqN7Hbty4OYrCLGBmqz76VEkda1Az0umaxdefqbefiNF-sHciShOvrMUe6BYgLRNU5V0io9~awDs~STSDBpiMEaRDRhJLgwSmbjBulQ4BwLRfEj6JFzC31BS-jiT2x-xWuCZl5cK3mXFx8Teun46LQYgWzVKqd2kla5ooJa8Bs8enP9E6pB0pArbSLPGrCRapDCS1e-plhy2XEtnVbc7MYCcCnpg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A escuta desta aula ajuda a reconhecer a pergunta completa ¿Cómo estás?.",
+      "feedbackError": "A escuta desta aula ajuda a reconhecer a pergunta completa ¿Cómo estás?.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "8ec4decc-fbfc-4e4f-8bfb-4df192eec6c7",
+          "textContent": "estás",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5db13a3c-481b-413e-8115-c78bbbca573f"
+        },
+        {
+          "id": "a9ee0b74-d3ab-45b7-86bf-72977e17f7da",
+          "textContent": "mal",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5db13a3c-481b-413e-8115-c78bbbca573f"
+        },
+        {
+          "id": "ae591c4f-7318-47d6-86cf-25fe3e04dcc9",
+          "textContent": "cómo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5db13a3c-481b-413e-8115-c78bbbca573f"
+        },
+        {
+          "id": "d632af4d-de80-4888-a3fe-09567313b185",
+          "textContent": "bien",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5db13a3c-481b-413e-8115-c78bbbca573f"
+        },
+        {
+          "id": "fdb78828-eff4-4173-8c7f-d6036f6f58aa",
+          "textContent": "estoy",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5db13a3c-481b-413e-8115-c78bbbca573f"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "e1c39dcc-1608-4f03-81e8-80b9f162693b",
+      "title": "Escute e combine as falas",
+      "content": "<p>Associe cada gravação à frase correspondente em espanhol.</p>",
+      "contentPlain": "Associe cada gravação à frase correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta revisão liga som e escrita na pergunta e nas duas respostas curtas da aula.",
+      "feedbackError": "Esta revisão liga som e escrita na pergunta e nas duas respostas curtas da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "0223926b-0cbb-44e9-974a-177c4454a630",
+          "exerciseId": "e1c39dcc-1608-4f03-81e8-80b9f162693b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d4c7663fb1d4d35b9b98f8bb9906503_l05-como-estas.mp3?Expires=1794099440&Signature=uoNDsTPLg5LxKPt9oZAO-ugDuhZFTOAh8dXbEan5wMjnOZJtkCoIb-bAHuaJIr5acqvZ9NC6yrlMZbQ89jLfzNcXmQa1zXrum6PtqiSvZPWhAAbys-Nzn2ZjzIxqN7Hbty4OYrCLGBmqz76VEkda1Az0umaxdefqbefiNF-sHciShOvrMUe6BYgLRNU5V0io9~awDs~STSDBpiMEaRDRhJLgwSmbjBulQ4BwLRfEj6JFzC31BS-jiT2x-xWuCZl5cK3mXFx8Teun46LQYgWzVKqd2kla5ooJa8Bs8enP9E6pB0pArbSLPGrCRapDCS1e-plhy2XEtnVbc7MYCcCnpg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Cómo estás?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "580e6019-e950-4824-8302-c216fbcf1ca8",
+          "exerciseId": "e1c39dcc-1608-4f03-81e8-80b9f162693b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3120f4a681ec4bcbbb02754bff9c3063_l05-estoy-bien.mp3?Expires=1794099440&Signature=bUBungTb9-3bW4NnnEKyU-RHh~VQjluKER-mvSSK7KQBuiUyk251sbeQD3rM7Fo-98-0GbIRc~QsTMnBzI00ubmw107AFHSNDaFcWLv2pUKUNDlTC5SMIkZr1UAkGs7ZFloqRL6JFScpflfDTgqq8j0fZi72oGKKGNWS-CbASr~P2bCo2mKyRxPur7DBoFNcjthX-Twu~5DUTX1a5ZnPEfdG1IV0NMWTLv~KZO1V6XFxlxs7hXRS2DfxjxiUWPGfAqBEQ3SPBdKjyE1DVlUeiHoJlI0Pl57hd0vTVXCF5ttMjQo4zcpdYGpmqT-7Zv4uTnTY~PGhUk-xewW45SKCPQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estoy bien.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4de2ecf9-88d9-4272-b69e-630e12507d48",
+          "exerciseId": "e1c39dcc-1608-4f03-81e8-80b9f162693b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/02fa9f2d6ecf48c592e44d20b0614a91_l05-estoy-mal.mp3?Expires=1794099440&Signature=Jm2Kyh4oElE2mMYp1mVk-bYO1gtjQiq4uFJsZ8IhRudz0YTIIc-TS5C0abA0qEqoR7~aTE1Nf0i1oQK5gjkZ9CzjA0peJsLaLcud1HGzFEwUhBMZYjPnhbLMj5CoTSY-3e3Qa8BuhhqyY7-6rW3EEJWwqM4C4BaYi4H-YIOMBlznUBDLWtzb9lbgHlQhG3llUrgSQ7z~14tUUvuV4U8BXsUr4U-RrzF-WJ3YcsO69yNpwQIpMrCPFpX-udLmy6f8O~ROdflrlPxgvp0bkJ228RcUn1084DhPTqhQpviIw3iCwgHiqwehclMUbCTMoFcs554ZWauw79kHMtw3juDlkQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estoy mal.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "6ea20fa8-6770-4b01-9ec8-95c8db04343a",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a resposta curta positiva da aula.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a resposta curta positiva da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3120f4a681ec4bcbbb02754bff9c3063_l05-estoy-bien.mp3?Expires=1794099440&Signature=bUBungTb9-3bW4NnnEKyU-RHh~VQjluKER-mvSSK7KQBuiUyk251sbeQD3rM7Fo-98-0GbIRc~QsTMnBzI00ubmw107AFHSNDaFcWLv2pUKUNDlTC5SMIkZr1UAkGs7ZFloqRL6JFScpflfDTgqq8j0fZi72oGKKGNWS-CbASr~P2bCo2mKyRxPur7DBoFNcjthX-Twu~5DUTX1a5ZnPEfdG1IV0NMWTLv~KZO1V6XFxlxs7hXRS2DfxjxiUWPGfAqBEQ3SPBdKjyE1DVlUeiHoJlI0Pl57hd0vTVXCF5ttMjQo4zcpdYGpmqT-7Zv4uTnTY~PGhUk-xewW45SKCPQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Estoy bien. é a resposta curta positiva apresentada nesta aula.",
+      "feedbackError": "Estoy bien. é a resposta curta positiva apresentada nesta aula.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Estoy bien.",
+      "typeSpecificData": "{\"expectedText\":\"Estoy bien.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/3120f4a681ec4bcbbb02754bff9c3063_l05-estoy-bien.mp3?Expires=1794099440\\u0026Signature=bUBungTb9-3bW4NnnEKyU-RHh~VQjluKER-mvSSK7KQBuiUyk251sbeQD3rM7Fo-98-0GbIRc~QsTMnBzI00ubmw107AFHSNDaFcWLv2pUKUNDlTC5SMIkZr1UAkGs7ZFloqRL6JFScpflfDTgqq8j0fZi72oGKKGNWS-CbASr~P2bCo2mKyRxPur7DBoFNcjthX-Twu~5DUTX1a5ZnPEfdG1IV0NMWTLv~KZO1V6XFxlxs7hXRS2DfxjxiUWPGfAqBEQ3SPBdKjyE1DVlUeiHoJlI0Pl57hd0vTVXCF5ttMjQo4zcpdYGpmqT-7Zv4uTnTY~PGhUk-xewW45SKCPQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "084fb591-3766-40e3-bdf2-f0558b31d19c",
+      "title": "Reconheça quando usar a pergunta",
+      "content": "<p>Em qual situação <strong>¿Cómo estás?</strong> funciona melhor nesta aula?</p>",
+      "contentPlain": "Em qual situação ¿Cómo estás? funciona melhor nesta aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula apresenta ¿Cómo estás? como pergunta breve sobre o estado da outra pessoa.",
+      "feedbackError": "A aula apresenta ¿Cómo estás? como pergunta breve sobre o estado da outra pessoa.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0a4e79f8-b45d-4dea-825b-c2d884c77e2f",
+          "textContent": "Ao dizer de forma breve que não está bem.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "084fb591-3766-40e3-bdf2-f0558b31d19c"
+        },
+        {
+          "id": "a2562ef6-22cf-4d25-8a0b-f6e5045a9e0c",
+          "textContent": "Ao encontrar alguém e querer saber como a pessoa está.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "084fb591-3766-40e3-bdf2-f0558b31d19c"
+        },
+        {
+          "id": "b7e17bf6-fa26-4dba-8af7-0d62faed5d8a",
+          "textContent": "Ao responder de forma curta que está tudo certo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "084fb591-3766-40e3-bdf2-f0558b31d19c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a125f6a2-ab24-4a8d-b6be-422f7d2da19d",
+      "title": "Ligue a frase ao sentido",
+      "content": "<p>Relacione as três formas centrais da aula ao apoio em português.</p>",
+      "contentPlain": "Relacione as três formas centrais da aula ao apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "A lição fixa uma pergunta e duas respostas curtas para falar de como alguém está.",
+      "feedbackError": "A lição fixa uma pergunta e duas respostas curtas para falar de como alguém está.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "36623a6c-4683-46bf-a8f1-cddf670bc41d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a125f6a2-ab24-4a8d-b6be-422f7d2da19d"
+        },
+        {
+          "id": "c63dc0c1-a019-49c1-8227-aa467671e7a2",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a125f6a2-ab24-4a8d-b6be-422f7d2da19d"
+        }
+      ],
+      "associations": [
+        {
+          "id": "8dc8c151-5ae1-48d1-8255-59480c9d4d01",
+          "exerciseId": "a125f6a2-ab24-4a8d-b6be-422f7d2da19d",
+          "leftContent": "¿Cómo estás?",
+          "rightContent": "Como você está?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ee3fa04a-307f-42c0-8c18-b420d4cfc5e2",
+          "exerciseId": "a125f6a2-ab24-4a8d-b6be-422f7d2da19d",
+          "leftContent": "Estoy bien.",
+          "rightContent": "Estou bem.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a96e5a73-26af-4d60-be58-b18d95ba2ef1",
+          "exerciseId": "a125f6a2-ab24-4a8d-b6be-422f7d2da19d",
+          "leftContent": "Estoy mal.",
+          "rightContent": "Estou mal.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "3d271b70-5773-43d8-8854-edb91c3b299e",
+      "title": "Complete a resposta negativa",
+      "content": "<p>Complete a resposta em espanhol: Estoy ___.</p><p>Tradução: Estou mal.</p>",
+      "contentPlain": "Complete a resposta em espanhol: Estoy ___. Tradução: Estou mal.",
+      "fileUrl": null,
+      "feedbackSuccess": "Estoy mal. é a resposta curta negativa apresentada nesta aula.",
+      "feedbackError": "Estoy mal. é a resposta curta negativa apresentada nesta aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mal",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1ba4fb39-3ce7-4fc5-b47c-9fa7e1e9150d",
+      "title": "Complete a resposta positiva",
+      "content": "<p>Complete a resposta em espanhol: Estoy ____.</p><p>Tradução: Estou bem.</p>",
+      "contentPlain": "Complete a resposta em espanhol: Estoy ____. Tradução: Estou bem.",
+      "fileUrl": null,
+      "feedbackSuccess": "Estoy bien. é a resposta curta positiva apresentada nesta aula.",
+      "feedbackError": "Estoy bien. é a resposta curta positiva apresentada nesta aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "bien",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "35b30dbd-7d7d-4291-8954-28ddf8846521",
+      "title": "Associe cada áudio à frase exata",
+      "content": "<p>Resolva pela escuta e diferencie a pergunta, as duas respostas e as duas trocas completas.</p>",
+      "contentPlain": "Resolva pela escuta e diferencie a pergunta, as duas respostas e as duas trocas completas.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final da aula contrasta a mesma pergunta com as duas respostas curtas possíveis.",
+      "feedbackError": "O recap final da aula contrasta a mesma pergunta com as duas respostas curtas possíveis.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "bf4c50c5-9d1d-47e9-9e36-af5c0beb0d1b",
+          "exerciseId": "35b30dbd-7d7d-4291-8954-28ddf8846521",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2d4c7663fb1d4d35b9b98f8bb9906503_l05-como-estas.mp3?Expires=1794099440&Signature=uoNDsTPLg5LxKPt9oZAO-ugDuhZFTOAh8dXbEan5wMjnOZJtkCoIb-bAHuaJIr5acqvZ9NC6yrlMZbQ89jLfzNcXmQa1zXrum6PtqiSvZPWhAAbys-Nzn2ZjzIxqN7Hbty4OYrCLGBmqz76VEkda1Az0umaxdefqbefiNF-sHciShOvrMUe6BYgLRNU5V0io9~awDs~STSDBpiMEaRDRhJLgwSmbjBulQ4BwLRfEj6JFzC31BS-jiT2x-xWuCZl5cK3mXFx8Teun46LQYgWzVKqd2kla5ooJa8Bs8enP9E6pB0pArbSLPGrCRapDCS1e-plhy2XEtnVbc7MYCcCnpg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Cómo estás?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "dad7498e-f7c3-4bd9-b6c2-752f0f19df60",
+          "exerciseId": "35b30dbd-7d7d-4291-8954-28ddf8846521",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3120f4a681ec4bcbbb02754bff9c3063_l05-estoy-bien.mp3?Expires=1794099440&Signature=bUBungTb9-3bW4NnnEKyU-RHh~VQjluKER-mvSSK7KQBuiUyk251sbeQD3rM7Fo-98-0GbIRc~QsTMnBzI00ubmw107AFHSNDaFcWLv2pUKUNDlTC5SMIkZr1UAkGs7ZFloqRL6JFScpflfDTgqq8j0fZi72oGKKGNWS-CbASr~P2bCo2mKyRxPur7DBoFNcjthX-Twu~5DUTX1a5ZnPEfdG1IV0NMWTLv~KZO1V6XFxlxs7hXRS2DfxjxiUWPGfAqBEQ3SPBdKjyE1DVlUeiHoJlI0Pl57hd0vTVXCF5ttMjQo4zcpdYGpmqT-7Zv4uTnTY~PGhUk-xewW45SKCPQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estoy bien.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b5ce0b6a-8939-4917-82da-791a0b031ea4",
+          "exerciseId": "35b30dbd-7d7d-4291-8954-28ddf8846521",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/02fa9f2d6ecf48c592e44d20b0614a91_l05-estoy-mal.mp3?Expires=1794099440&Signature=Jm2Kyh4oElE2mMYp1mVk-bYO1gtjQiq4uFJsZ8IhRudz0YTIIc-TS5C0abA0qEqoR7~aTE1Nf0i1oQK5gjkZ9CzjA0peJsLaLcud1HGzFEwUhBMZYjPnhbLMj5CoTSY-3e3Qa8BuhhqyY7-6rW3EEJWwqM4C4BaYi4H-YIOMBlznUBDLWtzb9lbgHlQhG3llUrgSQ7z~14tUUvuV4U8BXsUr4U-RrzF-WJ3YcsO69yNpwQIpMrCPFpX-udLmy6f8O~ROdflrlPxgvp0bkJ228RcUn1084DhPTqhQpviIw3iCwgHiqwehclMUbCTMoFcs554ZWauw79kHMtw3juDlkQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estoy mal.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "90e1ca17-007b-4c12-9567-51f47982e80c",
+          "exerciseId": "35b30dbd-7d7d-4291-8954-28ddf8846521",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1e049ae517eb467d803cd152d600b6ee_l05-como-estas-estoy-bien.mp3?Expires=1794099440&Signature=yAUk3raz09iAvtZmYOhJRsprkSaDsBcWESQ0hZW-z9aTlOPBMrbARmmYJlFZusacMFWuOJ7r1AzDN2IKy63LTnFbiOAeamUYcFi9-DrbcpIrHXczDwOA2tealCfVOhD2LXs~0Pex4Us6r3vfKVFKSoiCkGSw4ElGaVU4CwtdCWs70JoyTF02Na2ty9Tw-O~lma8vD4z7Er7pvz6Kjj~K5YmTfttlDUeAF5PceijX7t0Q1ueJNsFhdBZ85kLzXvKXRFfw8rtexDu~vO-6GmNhjhYe1Bb6Q6xZr1j4O~~f4XcIzdw9A81t-Qwd7stMvbvRa9vOGw9jCE5sbesULRSPAg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Cómo estás? Estoy bien.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "294d4b00-077c-445b-bf34-0acc005811c1",
+          "exerciseId": "35b30dbd-7d7d-4291-8954-28ddf8846521",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0dcee4a3f9d0458b848ed905ad727923_l05-como-estas-estoy-mal.mp3?Expires=1794099440&Signature=kRjzZywSZnoEix~yPLKdoSvNjaE05nMgVXOkEBlkUud7QvdRwOfCd5G2XXLaLaDNOX3D5C2-3LNZNh0Dj3dIDmb1sWnL0M9MrWM3RI6KoEd2gxObv~dLQEJ9tnj1Grq7Y5VvEYrSeYkF1rS1DhEb~XFz2DSdekNBp~xYbUAmjNyY~bdGIIm2DkQUqAE3kJ4mbK7eX76VQjrbPiNpXIx09yfR0JA22IiFOeOIg3NPWi4KTcYXb5q7MtLlMC1C0L8YYvnpGA~vtAzPYvcVSCqjl72uPYB6t2ndlsCrCL62p-B0NsoONrfwntzDbNa~Q~yBmKkgbLknEsXMf6rFzrlglg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Cómo estás? Estoy mal.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "094018e4-4b26-425f-9b85-024c54750d7a",
+      "title": "Recupere a troca pela escuta",
+      "content": "<p>Escute a troca e marque só as palavras presentes no áudio.</p>",
+      "contentPlain": "Escute a troca e marque só as palavras presentes no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1e049ae517eb467d803cd152d600b6ee_l05-como-estas-estoy-bien.mp3?Expires=1794099440&Signature=yAUk3raz09iAvtZmYOhJRsprkSaDsBcWESQ0hZW-z9aTlOPBMrbARmmYJlFZusacMFWuOJ7r1AzDN2IKy63LTnFbiOAeamUYcFi9-DrbcpIrHXczDwOA2tealCfVOhD2LXs~0Pex4Us6r3vfKVFKSoiCkGSw4ElGaVU4CwtdCWs70JoyTF02Na2ty9Tw-O~lma8vD4z7Er7pvz6Kjj~K5YmTfttlDUeAF5PceijX7t0Q1ueJNsFhdBZ85kLzXvKXRFfw8rtexDu~vO-6GmNhjhYe1Bb6Q6xZr1j4O~~f4XcIzdw9A81t-Qwd7stMvbvRa9vOGw9jCE5sbesULRSPAg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O fechamento da aula junta a pergunta com uma resposta curta em uma microtroca real.",
+      "feedbackError": "O fechamento da aula junta a pergunta com uma resposta curta em uma microtroca real.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "71fbddfa-ae1b-46e1-9a21-036ff829c4b0",
+          "textContent": "estás",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "094018e4-4b26-425f-9b85-024c54750d7a"
+        },
+        {
+          "id": "975c1a36-ad25-4a7f-994e-cb97fcd72c61",
+          "textContent": "cómo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "094018e4-4b26-425f-9b85-024c54750d7a"
+        },
+        {
+          "id": "aa1cc062-7aae-4fbb-a31e-b2380b2491c5",
+          "textContent": "estoy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "094018e4-4b26-425f-9b85-024c54750d7a"
+        },
+        {
+          "id": "cc3380a6-74b5-47cb-8518-59733dc9bb40",
+          "textContent": "bien",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "094018e4-4b26-425f-9b85-024c54750d7a"
+        },
+        {
+          "id": "ec6ce80f-fcf3-4cda-903a-84942d08aca5",
+          "textContent": "hola",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "094018e4-4b26-425f-9b85-024c54750d7a"
+        },
+        {
+          "id": "f2e8cbe7-4fa2-45a7-985b-11bb0796a3c7",
+          "textContent": "mal",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "094018e4-4b26-425f-9b85-024c54750d7a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "58e05f9f-3a06-4dbc-91d7-ca3e6209c88c",
+      "title": "Complete a palavra da pergunta",
+      "content": "<p>Complete a pergunta em espanhol: ¿Cómo _____?</p><p>Tradução: Como você está?</p>",
+      "contentPlain": "Complete a pergunta em espanhol: ¿Cómo _____? Tradução: Como você está?",
+      "fileUrl": null,
+      "feedbackSuccess": "A pergunta central da aula é ¿Cómo estás?.",
+      "feedbackError": "A pergunta central da aula é ¿Cómo estás?.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estás",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4276de1e-1284-40c9-80ce-f21eeab75980",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Falar de como você se sente"
+}

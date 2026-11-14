@@ -1,0 +1,786 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+    "attemptId": "cc320837-d95d-43d7-81b3-ab139f34a2ff",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "d79b1bff-b8e8-40d3-b29f-53af2cc8be73",
+      "5496ef8e-07e1-4d4d-a970-9587a790a076",
+      "ec0ba9d2-691f-450d-ac17-aa31a44342f2",
+      "dd555a41-99f0-47a8-8f99-68b71a6ac3a9",
+      "7b7c0fdb-f1e2-4e32-affd-5aa29cc62637"
+    ],
+    "evaluationExerciseIds": [
+      "1fa6356f-6907-4d1b-ab81-51fc18e0f32c",
+      "15256173-89f2-446c-a3e2-46500b0e56a8",
+      "16b0b995-b22e-4fb3-ab7f-321d049fae18",
+      "7813f021-4b61-4fdd-bf1b-4ddcba6281aa",
+      "66aa892f-fc18-463b-959e-6925b17e70bc"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:16.6126173Z"
+  },
+  "contents": [
+    {
+      "id": "0b1a2996-958e-4930-a8a7-0c55a8cd6668",
+      "title": "Escute e leia a frase. Repare no que o falante trata como leitura provavel do caso.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "39887c42-5035-4e61-aa0e-e18903334e1f",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Creo que necesita ir al centro de salud hoy.</strong></p><p>Em portugues: <strong>Acho que ele ou ela precisa ir ao centro de saude hoje.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f74e0f0957994589afaf4c7c27bf9d4b_phase4-b01-creo-que-necesita-ir-al-centro-de-salud-hoy.mp3?Expires=1794099917&Signature=CnvQqtDbaJpIzM~gT57yrXi2vy1G9q11D8gRj04s4RmRxy4~wkBTNDctiA6D7kK2NKIMIZufkLNydH4wPxyJs2I3La8DPmZa0y9CO5dfUvNN6qdiyb56IGTSggE~L8ox8F-zFsLXTqFJMH9aUtnQ6ovjbK1CZOkoO7bKj4vc7-iJZ178I98HI0mxmj8BDb1uXzxlqDDQmclKbhgQ~RsHxDSLv5qbDLG5HnnRKHh43GcLYb4AS2wsrlbjlQPaFw0AWZY3wJqYUdx9v5fa1fBrjjBBQyW~ZSndNyHI8RYt6MWIU4UTnWkVxugH-bjeIV32~OyR7ps687OEj007ujcY7Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "04251ac2-5640-438e-b35c-75df78afabd1",
+      "title": "Leia a nota curta e observe que aqui a opinião soa como leitura provável, não como recuo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "0bfa2a2f-2b23-410d-9d58-c862bc99de72",
+          "textContent": "<p><strong>creo que</strong> apresenta a avaliação como algo que o falante considera provavel.</p><p>Por isso, a frase costuma continuar no indicativo: <strong>Creo que necesita...</strong></p><p>Em comentários de saúde, essa moldura serve para tomar posição sem soar completamente categorico.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "43186215-e16f-42ba-a60e-53ae8badd2db",
+      "title": "Escute e leia a frase. Note como a opiniao agora recua da possibilidade em vez de assumi-la.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "bcdbba2f-b956-4248-a0ed-cc534ad319b3",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>No creo que necesite ir a urgencias por ahora.</strong></p><p>Em portugues: <strong>Nao acho que ele ou ela precise ir para a urgencia por enquanto.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9c95861917cc4259b07d0b60ab0403e5_phase4-b03-no-creo-que-necesite-ir-a-urgencias-por-ahora.mp3?Expires=1794099917&Signature=bEkwBxEfaH7vqIjK3M86P-Ttz2XxLAJHbzz1Jm4aqUyxucNyuqV0p0gHFI68TllUIH8u9jxDWFuMmqUa5hqtbnsbAI4WvhrTJiSxj8rtf7INb4HMD5t74oe0AaYfCwLWpIL4cII44vGgEsmEQHMqMTam9qTg5suNMJhrCmf-xGvKQ1f8kyh8XkxKT7QVDiNOSoL1F31bu8b5Y8~QV5Xo6A-DYHGXRUKbZNR5Jai5wO2Uwyq4nTTw1cCnnuxhJZJYcAvqtqjYmRhjc1TcxgajcpivdyYD9YnCg9S8otMeUzIQ3AybZyLXvW1SpJUHieR-Jss4MyzPIhOLxs9undcbsg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ae3b28f5-0325-4720-ab82-3966c36ff8f9",
+      "title": "Leia o contraste e observe o que muda quando a opinião afirma uma leitura ou se afasta dela.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "343d939f-9274-4ba1-b296-29872703618d",
+          "textContent": "<p><strong>Creo que...</strong> leva a frase para algo que o falante assume como leitura provável.</p><p><strong>No creo que...</strong> recua dessa leitura e abre espaco para subjuntivo.</p><ul><li><strong>Creo que necesita ir al centro de salud hoy.</strong> soa como avaliação assumida.</li><li><strong>No creo que necesite ir a urgencias por ahora.</strong> mostra reserva sobre a urgência.</li></ul><p>A mesma chave continua se a fala olha para algo que já aconteceu: <strong>Creo que fue la medicación.</strong> / <strong>No creo que fuera la medicación.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "691ecf7b-9ad3-4c95-b2f3-fd0a72fc459a",
+      "title": "Escute e leia a frase. Repare que a avaliacao continua afirmativa, mas com um peso um pouco mais observacional.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "337e4449-0ac1-4d22-8525-f38d13ca0bb6",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Me parece que el tratamiento le esta haciendo efecto.</strong></p><p>Em portugues: <strong>Me parece que o tratamento esta fazendo efeito.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/71e642be9522473c98dfb93bde156481_phase4-b05-me-parece-que-el-tratamiento-le-esta-haciendo-efecto.mp3?Expires=1794099917&Signature=TWJS4w9dsMAVkJbMCrTk6vKY04T7z~VAgJsFzdfCXEQr6LqF5~ApUAlGp4o9wFpZ0ectZv8-cT8q1n9rfWM3mFm-xYR5VJXa~rve4MkKn92zYIOdqjR5PqZwKz~erYxYNp2bMMtVlMQXcQ6KTuLmlAsMB2f2k8VysT6osffct78xkNVHBkz-lQm1SzbKyoEpeSYlC0JjHu3sdQXK3Ert1QAe5IqnfDLJU8lQa19W8OQouPahqt9HVXlmm8T6-Voa1EwbmoOFfoN5dLAmurZQNVldFe-yFYEATR8~bqs2~G54UNuZL-qQKStXFHuiGkwAbDGSfPW49cXC3uZSFkNnjg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "396e363c-a366-49fa-8890-464a9e93c0eb",
+      "title": "Leia a nota e observe a diferenca entre afirmar algo e apresenta-lo como impressão pessoal.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "6c2a355b-bc05-4753-8220-e5db636ba430",
+          "textContent": "<p><strong>me parece que</strong> continua levando a uma leitura afirmativa, por isso a frase segue no indicativo.</p><p>A diferença principal é de tom: a avaliação fica mais ligada a impressão do falante do que a uma afirmação seca.</p><p>Em comentários sobre sintomas ou tratamento, isso ajuda a soar observador sem perder posição.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0c31e548-8aed-48af-a5f7-d4fb1b16994b",
+      "title": "Escute e leia a frase. Note que a impressao agora serve para rejeitar uma leitura e por isso muda o modo verbal.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "9fdad640-93da-449a-b1c4-f970cb0f4c3a",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>No me parece que el mareo venga de la comida.</strong></p><p>Em portugues: <strong>Nao me parece que a tontura venha da comida.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/acaa7b90073b474ea94e3a04c52765c3_phase4-b07-no-me-parece-que-el-mareo-venga-de-la-comida.mp3?Expires=1794099917&Signature=pXcRMfKM6yy3JbYvihPw3hnweqmc1ljMbZqCa7duClTLhBML24xzcZqA8aSYwLQkahNElfAP6oicCpG8CYt-yhJIk9gk0~HBAkz~4UcBRJMAz2bXmD4Ihl0wCoZQEZk4IljS1tgrtuS3WVps08maum4mEStyVWNW6zJ4gwueiE7KSerxORLpl62WN7VuBXHNrcEiiw6LVD7Z~IrUyLy3KEDMLylnVqU-VIBOaxP8HhffKu1n3VjK2xUrYDfFmE3OtVmf1CwGlrbknNHHfJKCQ~UPdoXsCTPTh7O1DWDMfwAZBNirASueInWQfYDCuyctiEl2VnH4UZriuLBC9QpO9g__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c69c08bc-b18e-4a7a-b70e-368b095b7792",
+      "title": "Leia o contraste e observe como a mesma moldura muda de peso quando aparece afirmada ou negada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "d5c24b18-9362-4c5e-ac45-9c540df836db",
+          "textContent": "<p><strong>Me parece que...</strong> apresenta uma leitura pessoal que o falante considera plausível.</p><p><strong>No me parece que...</strong> usa essa mesma moldura para afastar uma explicação e, por isso, abre subjuntivo.</p><ul><li><strong>Me parece que el tratamiento le esta haciendo efecto.</strong> observa uma melhora provavel.</li><li><strong>No me parece que el mareo venga de la comida.</strong> rejeita essa origem como explicação principal.</li></ul><p>O ganho aqui não é soar mais formal, e sim graduar melhor quanta distância você coloca da ideia comentada.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a165d168-50ea-47a0-8e17-6f0c89601c42",
+      "title": "Escute e leia a frase. Repare que aqui o falante infere com cautela, sem mudar para subjuntivo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "4f3ae1f8-ab73-4bdf-a03d-892dee5780ae",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Supongo que no es solo cansancio.</strong></p><p>Em portugues: <strong>Suponho que nao seja so cansaco.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/eb70268697ff4b0d8653521879baa617_phase4-b09-supongo-que-no-es-solo-cansancio.mp3?Expires=1794099917&Signature=0nvp-d7HU0DKX-hbvqMNctQ-WeCPwUy6NDe-CV~HPw21iAV-SUwKg-liXfeImqcBxiEAXgbz02DcCS0iGqO-i0j9pxIak1EVuFm2D5goSSxfAAf-IOHM96~NgjRgBWxVhFMf9m8F~18xY8GIGgzgvNyykD80zQpCfD~xESGOWPEsaR0O4fav2j~QCZCtNZGg3nmebaT4PIH7lwJrgH-Aog~rry~-brxTUWbWzARGqEUpGYzVaOoOU4RKInHNFhZHGYD~hXhMLCiQ7uc4b-CQWgGSVDbNbcckRtkEWd5gMgveqLKNM8nNtu5~RgVRrwjdnEj4fXSX3LDGv6ZfP0VRtQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5273b09a-832b-4224-a72f-b8993967c45a",
+      "title": "Leia a nota e compare esse caso com no creo que para perceber por que o modo não muda do mesmo jeito.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "4333196c-8f39-4f33-ace6-33121aa2711d",
+          "textContent": "<p><strong>supongo que no</strong> continua soando como inferência cautelosa, não como rejeição frontal.</p><p>Por isso, a frase costuma seguir com indicativo: <strong>Supongo que no es solo cansancio.</strong></p><ul><li><strong>No creo que necesite ir a urgencias...</strong> afasta uma possibilidade e abre subjuntivo.</li><li><strong>Supongo que no es solo cansancio.</strong> ainda apresenta uma leitura provável, só que com cautela.</li></ul><p>Essa nuance é útil quando você quer comentar um caso sem soar nem taxativo nem completamente distante da própria avaliação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f8b3c20a-b453-4739-9eca-004bcc328258",
+      "title": "Passe pelas frases e observe que tipo de posicao cada uma ajuda a construir em comentarios reais sobre saude.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "ad2f9de4-a9f7-44c0-8094-d380f2a30176",
+          "textContent": "<p><strong>Creo que necesita ir al centro de salud hoy.</strong></p><p>Bom para tomar uma posicao mais assumida sobre o proximo passo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f74e0f0957994589afaf4c7c27bf9d4b_phase4-b01-creo-que-necesita-ir-al-centro-de-salud-hoy.mp3?Expires=1794099917&Signature=CnvQqtDbaJpIzM~gT57yrXi2vy1G9q11D8gRj04s4RmRxy4~wkBTNDctiA6D7kK2NKIMIZufkLNydH4wPxyJs2I3La8DPmZa0y9CO5dfUvNN6qdiyb56IGTSggE~L8ox8F-zFsLXTqFJMH9aUtnQ6ovjbK1CZOkoO7bKj4vc7-iJZ178I98HI0mxmj8BDb1uXzxlqDDQmclKbhgQ~RsHxDSLv5qbDLG5HnnRKHh43GcLYb4AS2wsrlbjlQPaFw0AWZY3wJqYUdx9v5fa1fBrjjBBQyW~ZSndNyHI8RYt6MWIU4UTnWkVxugH-bjeIV32~OyR7ps687OEj007ujcY7Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "a99b17e1-3820-4f40-add9-66dfc0da2acd",
+          "textContent": "<p><strong>No creo que necesite ir a urgencias por ahora.</strong></p><p>Bom para afastar uma leitura sem transformar isso em fato absoluto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9c95861917cc4259b07d0b60ab0403e5_phase4-b03-no-creo-que-necesite-ir-a-urgencias-por-ahora.mp3?Expires=1794099917&Signature=bEkwBxEfaH7vqIjK3M86P-Ttz2XxLAJHbzz1Jm4aqUyxucNyuqV0p0gHFI68TllUIH8u9jxDWFuMmqUa5hqtbnsbAI4WvhrTJiSxj8rtf7INb4HMD5t74oe0AaYfCwLWpIL4cII44vGgEsmEQHMqMTam9qTg5suNMJhrCmf-xGvKQ1f8kyh8XkxKT7QVDiNOSoL1F31bu8b5Y8~QV5Xo6A-DYHGXRUKbZNR5Jai5wO2Uwyq4nTTw1cCnnuxhJZJYcAvqtqjYmRhjc1TcxgajcpivdyYD9YnCg9S8otMeUzIQ3AybZyLXvW1SpJUHieR-Jss4MyzPIhOLxs9undcbsg__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "1917a616-267f-489c-b2db-27b9fb945d7b",
+          "textContent": "<p><strong>Me parece que el tratamiento le esta haciendo efecto.</strong></p><p>Bom para comentar melhora ou evolucao como impressao observada.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/71e642be9522473c98dfb93bde156481_phase4-b05-me-parece-que-el-tratamiento-le-esta-haciendo-efecto.mp3?Expires=1794099917&Signature=TWJS4w9dsMAVkJbMCrTk6vKY04T7z~VAgJsFzdfCXEQr6LqF5~ApUAlGp4o9wFpZ0ectZv8-cT8q1n9rfWM3mFm-xYR5VJXa~rve4MkKn92zYIOdqjR5PqZwKz~erYxYNp2bMMtVlMQXcQ6KTuLmlAsMB2f2k8VysT6osffct78xkNVHBkz-lQm1SzbKyoEpeSYlC0JjHu3sdQXK3Ert1QAe5IqnfDLJU8lQa19W8OQouPahqt9HVXlmm8T6-Voa1EwbmoOFfoN5dLAmurZQNVldFe-yFYEATR8~bqs2~G54UNuZL-qQKStXFHuiGkwAbDGSfPW49cXC3uZSFkNnjg__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "3ea21ad8-914b-4a1f-9417-b903da4f99c3",
+          "textContent": "<p><strong>No me parece que el mareo venga de la comida.</strong></p><p>Bom para rejeitar uma explicacao e abrir outra leitura do problema.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/acaa7b90073b474ea94e3a04c52765c3_phase4-b07-no-me-parece-que-el-mareo-venga-de-la-comida.mp3?Expires=1794099917&Signature=pXcRMfKM6yy3JbYvihPw3hnweqmc1ljMbZqCa7duClTLhBML24xzcZqA8aSYwLQkahNElfAP6oicCpG8CYt-yhJIk9gk0~HBAkz~4UcBRJMAz2bXmD4Ihl0wCoZQEZk4IljS1tgrtuS3WVps08maum4mEStyVWNW6zJ4gwueiE7KSerxORLpl62WN7VuBXHNrcEiiw6LVD7Z~IrUyLy3KEDMLylnVqU-VIBOaxP8HhffKu1n3VjK2xUrYDfFmE3OtVmf1CwGlrbknNHHfJKCQ~UPdoXsCTPTh7O1DWDMfwAZBNirASueInWQfYDCuyctiEl2VnH4UZriuLBC9QpO9g__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "7f79e052-5f87-41ad-8a5e-c77e74dd6504",
+          "textContent": "<p><strong>Supongo que no es solo cansancio.</strong></p><p>Bom para inferir com cautela em mensagens, consultas breves ou comentarios depois do atendimento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/eb70268697ff4b0d8653521879baa617_phase4-b09-supongo-que-no-es-solo-cansancio.mp3?Expires=1794099917&Signature=0nvp-d7HU0DKX-hbvqMNctQ-WeCPwUy6NDe-CV~HPw21iAV-SUwKg-liXfeImqcBxiEAXgbz02DcCS0iGqO-i0j9pxIak1EVuFm2D5goSSxfAAf-IOHM96~NgjRgBWxVhFMf9m8F~18xY8GIGgzgvNyykD80zQpCfD~xESGOWPEsaR0O4fav2j~QCZCtNZGg3nmebaT4PIH7lwJrgH-Aog~rry~-brxTUWbWzARGqEUpGYzVaOoOU4RKInHNFhZHGYD~hXhMLCiQ7uc4b-CQWgGSVDbNbcckRtkEWd5gMgveqLKNM8nNtu5~RgVRrwjdnEj4fXSX3LDGv6ZfP0VRtQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4f47a7e7-6559-4362-b3ad-baddb4040a9b",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 12,
+      "items": [
+        {
+          "id": "83f31172-8cf1-4449-bdff-c03c576fdf0e",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/99534d46f5bc40d48cc64bd13a085faa_MEC-IDIOMAS_CAP_3_-_AULA_02_ESP.mp4?Expires=1794099917&Signature=TJTnLVbiUuLcioyG8qpXx3THakVNUl26fKvKYafU-yYcNx6N1G9bm6rWQbJG-zk-79-bqkhUExt89ZDp3E6njhNwWsZJq7QOQ2Sa4A0c~T0EDxHv54eQPeczhqTpdZkT0LpYCKNrW7BRuRhTG-64~QA0hkqBSpClQXkj~oCqTtAtOkczFUiTc0RhdEbs2dd21q3Vp4Q~U2Qee0naAl~yOjTJ1CjCHOTf8JxespgP7ePfifz6mHKlEWftuBEnWYBRU0-a3hnluZYH93yamV0hZ8w-xO9OTfRuq~u6oy0xyGRk9suFIvfh0jtI11NNwZc4eDWrzHB~Dzq7Gj058mdBDg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/99534d46f5bc40d48cc64bd13a085faa_MEC-IDIOMAS_CAP_3_-_AULA_02_ESP.mp4?Expires=1794099917&Signature=TJTnLVbiUuLcioyG8qpXx3THakVNUl26fKvKYafU-yYcNx6N1G9bm6rWQbJG-zk-79-bqkhUExt89ZDp3E6njhNwWsZJq7QOQ2Sa4A0c~T0EDxHv54eQPeczhqTpdZkT0LpYCKNrW7BRuRhTG-64~QA0hkqBSpClQXkj~oCqTtAtOkczFUiTc0RhdEbs2dd21q3Vp4Q~U2Qee0naAl~yOjTJ1CjCHOTf8JxespgP7ePfifz6mHKlEWftuBEnWYBRU0-a3hnluZYH93yamV0hZ8w-xO9OTfRuq~u6oy0xyGRk9suFIvfh0jtI11NNwZc4eDWrzHB~Dzq7Gj058mdBDg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "d79b1bff-b8e8-40d3-b29f-53af2cc8be73",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase que afasta a urgência imediata.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase que afasta a urgência imediata.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac3a5990a3de45af96dcfb15fa08a218_phase4-b03-no-creo-que-necesite-ir-a-urgencias-por-ahora.mp3?Expires=1794099917&Signature=XbXgPt4ygkFHVeamfyndPsA9JSqNvVVlTMRB2uXG36kldUs4owA81U8nkMRoYzSLRalLFNPSOE1fZ4saRQ1RUqpZ5dA2PgTeJkhqMZmvfSw8TfiGM9wxhOkhxG7HM4-FYOx2S1Y9it~OvzxuELXC0MizPilsD-FeoN1LlG-t3jT2KS6IXaStuXCz9w4wRVOlbZ6xNfBlvkZ~CdL5P38KIvASKjauO8mFouxINTyQEnU6P2LmLVfWs6baEzQkZ4JZDUUrMKCV8l7T1LgrT3hENx3FmbUZGosiESmVV-sG3CCYjqUv1e7mkY530VQ5atQ5M0oIhjCrR-wLiri~GCHsUA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No creo que ativa o recuo que empurra a avaliação para o subjuntivo.",
+      "feedbackError": "No creo que ativa o recuo que empurra a avaliação para o subjuntivo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "No creo que necesite ir a urgencias por ahora.",
+      "typeSpecificData": "{\"expectedText\":\"No creo que necesite ir a urgencias por ahora.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/ac3a5990a3de45af96dcfb15fa08a218_phase4-b03-no-creo-que-necesite-ir-a-urgencias-por-ahora.mp3?Expires=1794099917\\u0026Signature=XbXgPt4ygkFHVeamfyndPsA9JSqNvVVlTMRB2uXG36kldUs4owA81U8nkMRoYzSLRalLFNPSOE1fZ4saRQ1RUqpZ5dA2PgTeJkhqMZmvfSw8TfiGM9wxhOkhxG7HM4-FYOx2S1Y9it~OvzxuELXC0MizPilsD-FeoN1LlG-t3jT2KS6IXaStuXCz9w4wRVOlbZ6xNfBlvkZ~CdL5P38KIvASKjauO8mFouxINTyQEnU6P2LmLVfWs6baEzQkZ4JZDUUrMKCV8l7T1LgrT3hENx3FmbUZGosiESmVV-sG3CCYjqUv1e7mkY530VQ5atQ5M0oIhjCrR-wLiri~GCHsUA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5496ef8e-07e1-4d4d-a970-9587a790a076",
+      "title": "Escute e ligue as cinco molduras",
+      "content": "<p>Revise pela escuta as cinco linhas reaproveitadas no recap final sobre sintomas, urgência e tratamento.</p>",
+      "contentPlain": "Revise pela escuta as cinco linhas reaproveitadas no recap final sobre sintomas, urgência e tratamento.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os cinco áudios da aula ancoram como a moldura muda o peso da avaliação em saúde.",
+      "feedbackError": "Os cinco áudios da aula ancoram como a moldura muda o peso da avaliação em saúde.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "64374267-0093-47a6-b8ca-d7304cd17ba8",
+          "exerciseId": "5496ef8e-07e1-4d4d-a970-9587a790a076",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7c957306964441b78dbda996d89e665a_phase4-b01-creo-que-necesita-ir-al-centro-de-salud-hoy.mp3?Expires=1794099917&Signature=aIuoyqzpAAmQ4oHU7IzaQk8J5X9l1jcO86JxjrND3LYtP-HyE2xispJZ-1wL1kHdep8aMudWVjs2M5YxsexSWQgxPIxsctNoVTd6bXFiTDqsLX5vYcmDmCRxThGgghb1lY-z9bDaTBKX1wQ~QmaMqn3zhtBx0DTzO9wrparuKTzNoHg3cfgD~GA8vG-SexKoIeG52py1r26b78Al7Znl5IlxeRRiPm9BOgLk9jYJP08AWJyWOc-Mv77FykATZXz4lCE1oj2bZp3He9cXwv00FPsxWS5JFqBq8-zC8OVm9qxN6b7hevNGyTr694w-z42~hmWgy4-3FjgjaC4ynn1Tdg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Creo que necesita ir al centro de salud hoy.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "dc16de48-9d5b-4a99-8f85-57a4ddb0fc21",
+          "exerciseId": "5496ef8e-07e1-4d4d-a970-9587a790a076",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac3a5990a3de45af96dcfb15fa08a218_phase4-b03-no-creo-que-necesite-ir-a-urgencias-por-ahora.mp3?Expires=1794099917&Signature=XbXgPt4ygkFHVeamfyndPsA9JSqNvVVlTMRB2uXG36kldUs4owA81U8nkMRoYzSLRalLFNPSOE1fZ4saRQ1RUqpZ5dA2PgTeJkhqMZmvfSw8TfiGM9wxhOkhxG7HM4-FYOx2S1Y9it~OvzxuELXC0MizPilsD-FeoN1LlG-t3jT2KS6IXaStuXCz9w4wRVOlbZ6xNfBlvkZ~CdL5P38KIvASKjauO8mFouxINTyQEnU6P2LmLVfWs6baEzQkZ4JZDUUrMKCV8l7T1LgrT3hENx3FmbUZGosiESmVV-sG3CCYjqUv1e7mkY530VQ5atQ5M0oIhjCrR-wLiri~GCHsUA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No creo que necesite ir a urgencias por ahora.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f4a199be-16f3-453e-a759-54270b66b1c5",
+          "exerciseId": "5496ef8e-07e1-4d4d-a970-9587a790a076",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3be74d30ac9543cda062f130d4eb4494_phase4-b05-me-parece-que-el-tratamiento-le-esta-haciendo-efecto.mp3?Expires=1794099917&Signature=Q1XFFH6Jn5Zrv7MRnlHlzkQYveS18APCSX3MSnY9OoFa7gi6r-DDC0SIXc~pqyslifglqU0J4xJ6BGdlthqBvE3h2OgU1~exGy3tTJ6ZMvNWFZjLDRnfeKDTyAkgHgpjtQKJwzH0AgYzSl8nAR00HkjHTMtbhWhZe6mLXvQocIkHJuXQz0Kchvkx6t~48zmeTBLjLqG01l90-z62UvMHBo0Y3-8wfPhY1tgTuCKVFtvdw8WFWhr0XdQ1YbAsJ7Fz5BvVNSv-7BRv~i8YTijTOhtAigJCZ0tGsrz6MAtAQTITNzs7nt87H3K2jJw7K7stRxVoK4Nx1Wb-UzVxB0dsow__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me parece que el tratamiento le esta haciendo efecto.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "f8bea03a-7a36-47b5-b9ef-33c5084a7664",
+          "exerciseId": "5496ef8e-07e1-4d4d-a970-9587a790a076",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ee3846e8fc6546038e8274c7d8c6742e_phase4-b07-no-me-parece-que-el-mareo-venga-de-la-comida.mp3?Expires=1794099917&Signature=cH6TDaC9C0j4OkXYQ7dmQNrRwSeEJl6KC-HzkoPaz8OF-zXT-sbpg~4OyE9ObUat7NEJ6GYWvmsX5y9PEHbelaq7rAEtjo94wonSfoX3mQetlNHhDys~Qy7ztFRXwOKMuerpSE-YtBir8to5JWzV072Ob8yJDC6iVgYKh32J3DVMciqt2WUFCw12BFsCh7PzuIc4TkHgqZ7DEOiFSJacbVN44Pvpvh5S21eqxu-ytsfpYVPRuYdS0rbWd3kwQzi5og2WeKkCou6oRJEojsgTV~uUFMcQel3~OWqBzphfwsVR-4He5g3drTKfMl1uQpDYkHjFVZdBsoELMvlJwjnZdg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No me parece que el mareo venga de la comida.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "2287e7a7-286e-47bd-a041-c62a7e4628b2",
+          "exerciseId": "5496ef8e-07e1-4d4d-a970-9587a790a076",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c7feb89b520470da47e66949462e880_phase4-b09-supongo-que-no-es-solo-cansancio.mp3?Expires=1794099917&Signature=yzb9Q9Ri6OQt~eMf3QjEGBUmK~LXtvd3o6KYjn5m5~Dl~jqO1xYAbjWgsNz~FMZ6Vv24odwjvW~r4K5KY12c678k9mwtOrM3PSrdafiFJO1dG0DNcS0RQtFEg~6LgWOKy5OcAwqCXnpR6FvZVXXo25KxV10Rg5DkIW~WaVENW~MmHtV1NQ36uapvjLLL6CBkCC11eAW0OuB6UaQZs8meXMOinQ7UiyjyYpyyyhZlS3Eel4qK2L1wj7G3bVc30i66rifXJa0kudaPo~yq~dEliVoDtKRBcJHkUd~CcxY9kXIpmCMfcZNoYqSqZt~FxrdBdny-HF7HZGjRxMMIVIxIpA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Supongo que no es solo cansancio.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "ec0ba9d2-691f-450d-ac17-aa31a44342f2",
+      "title": "Ligue frase e efeito",
+      "content": "<p>Recupere a função de cada linha do recap final sem sair do campo de saúde da aula.</p>",
+      "contentPlain": "Recupere a função de cada linha do recap final sem sair do campo de saúde da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final distribui cinco maneiras de graduar opinião ao comentar saúde.",
+      "feedbackError": "O recap final distribui cinco maneiras de graduar opinião ao comentar saúde.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1ecd2469-58ab-4545-8109-274318b1857f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ec0ba9d2-691f-450d-ac17-aa31a44342f2"
+        },
+        {
+          "id": "fb73ed53-b7f3-45f9-a956-043ba2bc6c95",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ec0ba9d2-691f-450d-ac17-aa31a44342f2"
+        }
+      ],
+      "associations": [
+        {
+          "id": "2829bf64-9760-4c1e-bcfb-6df00eec4cc4",
+          "exerciseId": "ec0ba9d2-691f-450d-ac17-aa31a44342f2",
+          "leftContent": "Creo que necesita ir al centro de salud hoy.",
+          "rightContent": "tomar uma posicao mais assumida sobre o proximo passo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ebc95ada-8c80-41f8-94b8-c7345dc721a9",
+          "exerciseId": "ec0ba9d2-691f-450d-ac17-aa31a44342f2",
+          "leftContent": "No creo que necesite ir a urgencias por ahora.",
+          "rightContent": "afastar uma leitura de urgencia com reserva",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2a231e8a-f2b0-41c7-9d77-159125791c11",
+          "exerciseId": "ec0ba9d2-691f-450d-ac17-aa31a44342f2",
+          "leftContent": "Me parece que el tratamiento le esta haciendo efecto.",
+          "rightContent": "comentar melhora como impressao observada",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d0986795-78a1-44d5-9740-75964a7e5525",
+          "exerciseId": "ec0ba9d2-691f-450d-ac17-aa31a44342f2",
+          "leftContent": "No me parece que el mareo venga de la comida.",
+          "rightContent": "rejeitar essa origem como explicacao principal",
+          "sequenceItem": 4
+        },
+        {
+          "id": "fd61421f-05bc-4526-bf84-ef2e51d2c77e",
+          "exerciseId": "ec0ba9d2-691f-450d-ac17-aa31a44342f2",
+          "leftContent": "Supongo que no es solo cansancio.",
+          "rightContent": "inferir com cautela sem sair do indicativo",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "dd555a41-99f0-47a8-8f99-68b71a6ac3a9",
+      "title": "Reconheca a inferência cautelosa",
+      "content": "<p>Qual moldura ajuda a inferir com cautela sem abrir o mesmo recuo de <strong>no creo que</strong>?</p>",
+      "contentPlain": "Qual moldura ajuda a inferir com cautela sem abrir o mesmo recuo de no creo que ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Supongo que no entra na aula como inferência cautelosa que ainda segue no indicativo.",
+      "feedbackError": "Supongo que no entra na aula como inferência cautelosa que ainda segue no indicativo.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "18addbe3-92f3-4a78-a23a-dbd5aa888c2b",
+          "textContent": "supongo que no",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dd555a41-99f0-47a8-8f99-68b71a6ac3a9"
+        },
+        {
+          "id": "885b15c0-71de-4824-8dc7-dc24bdcf14c3",
+          "textContent": "no creo que",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dd555a41-99f0-47a8-8f99-68b71a6ac3a9"
+        },
+        {
+          "id": "8d55a7d6-00c7-43a5-a72d-fd0f493449fb",
+          "textContent": "no me parece que",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dd555a41-99f0-47a8-8f99-68b71a6ac3a9"
+        },
+        {
+          "id": "daf21cf7-2e4e-4f2d-ad68-3f2536a8822b",
+          "textContent": "creo que",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dd555a41-99f0-47a8-8f99-68b71a6ac3a9"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7b7c0fdb-f1e2-4e32-affd-5aa29cc62637",
+      "title": "Filtre a explicação rejeitada",
+      "content": "<p>Ouça a frase que rejeita uma explicação para o sintoma e selecione apenas as palavras que aparecem nela.</p>",
+      "contentPlain": "Ouça a frase que rejeita uma explicação para o sintoma e selecione apenas as palavras que aparecem nela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ee3846e8fc6546038e8274c7d8c6742e_phase4-b07-no-me-parece-que-el-mareo-venga-de-la-comida.mp3?Expires=1794099917&Signature=cH6TDaC9C0j4OkXYQ7dmQNrRwSeEJl6KC-HzkoPaz8OF-zXT-sbpg~4OyE9ObUat7NEJ6GYWvmsX5y9PEHbelaq7rAEtjo94wonSfoX3mQetlNHhDys~Qy7ztFRXwOKMuerpSE-YtBir8to5JWzV072Ob8yJDC6iVgYKh32J3DVMciqt2WUFCw12BFsCh7PzuIc4TkHgqZ7DEOiFSJacbVN44Pvpvh5S21eqxu-ytsfpYVPRuYdS0rbWd3kwQzi5og2WeKkCou6oRJEojsgTV~uUFMcQel3~OWqBzphfwsVR-4He5g3drTKfMl1uQpDYkHjFVZdBsoELMvlJwjnZdg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No me parece que serve na aula para rejeitar uma explicação e abrir outra leitura do sintoma.",
+      "feedbackError": "No me parece que serve na aula para rejeitar uma explicação e abrir outra leitura do sintoma.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0345223e-feaa-4656-afbf-6b35af00ef8b",
+          "textContent": "venga",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7b7c0fdb-f1e2-4e32-affd-5aa29cc62637"
+        },
+        {
+          "id": "2400e9f0-5047-4b7c-adaf-868188cfaf34",
+          "textContent": "cansancio",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7b7c0fdb-f1e2-4e32-affd-5aa29cc62637"
+        },
+        {
+          "id": "33962afa-d508-47ee-af5c-f2821bcd6978",
+          "textContent": "urgencias",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7b7c0fdb-f1e2-4e32-affd-5aa29cc62637"
+        },
+        {
+          "id": "88b90ee8-1a49-4e29-97cd-014e626a56de",
+          "textContent": "comida",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7b7c0fdb-f1e2-4e32-affd-5aa29cc62637"
+        },
+        {
+          "id": "c9819dc2-4d94-485f-9f00-be798ac9549a",
+          "textContent": "mareo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7b7c0fdb-f1e2-4e32-affd-5aa29cc62637"
+        },
+        {
+          "id": "d56d7896-881a-415c-a5ef-8554d31313c4",
+          "textContent": "tratamiento",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7b7c0fdb-f1e2-4e32-affd-5aa29cc62637"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "1fa6356f-6907-4d1b-ab81-51fc18e0f32c",
+      "title": "Resolva a escuta sobre urgência",
+      "content": "<p>Sem apoio de tradução, marque apenas as palavras presentes na linha que recua da leitura de urgencia.</p>",
+      "contentPlain": "Sem apoio de tradução, marque apenas as palavras presentes na linha que recua da leitura de urgencia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac3a5990a3de45af96dcfb15fa08a218_phase4-b03-no-creo-que-necesite-ir-a-urgencias-por-ahora.mp3?Expires=1794099917&Signature=XbXgPt4ygkFHVeamfyndPsA9JSqNvVVlTMRB2uXG36kldUs4owA81U8nkMRoYzSLRalLFNPSOE1fZ4saRQ1RUqpZ5dA2PgTeJkhqMZmvfSw8TfiGM9wxhOkhxG7HM4-FYOx2S1Y9it~OvzxuELXC0MizPilsD-FeoN1LlG-t3jT2KS6IXaStuXCz9w4wRVOlbZ6xNfBlvkZ~CdL5P38KIvASKjauO8mFouxINTyQEnU6P2LmLVfWs6baEzQkZ4JZDUUrMKCV8l7T1LgrT3hENx3FmbUZGosiESmVV-sG3CCYjqUv1e7mkY530VQ5atQ5M0oIhjCrR-wLiri~GCHsUA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No creo que afasta a urgência sem transformar a avaliação em fato fechado.",
+      "feedbackError": "No creo que afasta a urgência sem transformar a avaliação em fato fechado.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "172c278c-b02c-422b-a10f-f61e81f9a712",
+          "textContent": "tratamiento",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1fa6356f-6907-4d1b-ab81-51fc18e0f32c"
+        },
+        {
+          "id": "37921a29-b57c-40b6-9f98-702ccd241d62",
+          "textContent": "centro",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1fa6356f-6907-4d1b-ab81-51fc18e0f32c"
+        },
+        {
+          "id": "c6b40eeb-d75e-4ed9-9f68-8af4a64ce2a6",
+          "textContent": "necesite",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1fa6356f-6907-4d1b-ab81-51fc18e0f32c"
+        },
+        {
+          "id": "d10b5b92-c8c8-43cd-a1f6-9c9e632fd74b",
+          "textContent": "ahora",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1fa6356f-6907-4d1b-ab81-51fc18e0f32c"
+        },
+        {
+          "id": "d63b639b-4c38-40b9-9a20-e5ed16784f47",
+          "textContent": "urgencias",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1fa6356f-6907-4d1b-ab81-51fc18e0f32c"
+        },
+        {
+          "id": "e0787fe2-94e2-4dd7-9ed0-a803b5e1db1a",
+          "textContent": "salud",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1fa6356f-6907-4d1b-ab81-51fc18e0f32c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "15256173-89f2-446c-a3e2-46500b0e56a8",
+      "title": "Recupere o verbo da explicacao",
+      "content": "<p>No me parece que el mareo _____ de la comida.</p><p>Tradução: Nao me parece que a tontura venha da comida.</p>",
+      "contentPlain": "No me parece que el mareo _____ de la comida. Tradução: Nao me parece que a tontura venha da comida.",
+      "fileUrl": null,
+      "feedbackSuccess": "No me parece que tambem empurra a avaliacao para subjuntivo ao rejeitar uma explicacao.",
+      "feedbackError": "No me parece que tambem empurra a avaliacao para subjuntivo ao rejeitar uma explicacao.",
+      "answerType": "buildWord",
+      "expectedAnswer": "venga",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "16b0b995-b22e-4fb3-ab7f-321d049fae18",
+      "title": "Reconstrua as avaliações pela escuta",
+      "content": "<p>Resolva só pela escuta e diferencie os trechos que mostram passo assumido, reserva, melhora, rejeição e inferência cautelosa.</p>",
+      "contentPlain": "Resolva só pela escuta e diferencie os trechos que mostram passo assumido, reserva, melhora, rejeição e inferência cautelosa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula recombina cinco molduras para ajustar certeza, recuo e cautela em saúde.",
+      "feedbackError": "O fechamento da aula recombina cinco molduras para ajustar certeza, recuo e cautela em saúde.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "48503b5a-5367-47b2-89a9-c94228377077",
+          "exerciseId": "16b0b995-b22e-4fb3-ab7f-321d049fae18",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7c957306964441b78dbda996d89e665a_phase4-b01-creo-que-necesita-ir-al-centro-de-salud-hoy.mp3?Expires=1794099917&Signature=aIuoyqzpAAmQ4oHU7IzaQk8J5X9l1jcO86JxjrND3LYtP-HyE2xispJZ-1wL1kHdep8aMudWVjs2M5YxsexSWQgxPIxsctNoVTd6bXFiTDqsLX5vYcmDmCRxThGgghb1lY-z9bDaTBKX1wQ~QmaMqn3zhtBx0DTzO9wrparuKTzNoHg3cfgD~GA8vG-SexKoIeG52py1r26b78Al7Znl5IlxeRRiPm9BOgLk9jYJP08AWJyWOc-Mv77FykATZXz4lCE1oj2bZp3He9cXwv00FPsxWS5JFqBq8-zC8OVm9qxN6b7hevNGyTr694w-z42~hmWgy4-3FjgjaC4ynn1Tdg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "necesita ir al centro de salud hoy",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3819de98-d342-4822-a3ec-eb56130d6fed",
+          "exerciseId": "16b0b995-b22e-4fb3-ab7f-321d049fae18",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac3a5990a3de45af96dcfb15fa08a218_phase4-b03-no-creo-que-necesite-ir-a-urgencias-por-ahora.mp3?Expires=1794099917&Signature=XbXgPt4ygkFHVeamfyndPsA9JSqNvVVlTMRB2uXG36kldUs4owA81U8nkMRoYzSLRalLFNPSOE1fZ4saRQ1RUqpZ5dA2PgTeJkhqMZmvfSw8TfiGM9wxhOkhxG7HM4-FYOx2S1Y9it~OvzxuELXC0MizPilsD-FeoN1LlG-t3jT2KS6IXaStuXCz9w4wRVOlbZ6xNfBlvkZ~CdL5P38KIvASKjauO8mFouxINTyQEnU6P2LmLVfWs6baEzQkZ4JZDUUrMKCV8l7T1LgrT3hENx3FmbUZGosiESmVV-sG3CCYjqUv1e7mkY530VQ5atQ5M0oIhjCrR-wLiri~GCHsUA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "necesite ir a urgencias por ahora",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0590c3a1-f18b-4993-be19-f9f947d53cbe",
+          "exerciseId": "16b0b995-b22e-4fb3-ab7f-321d049fae18",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3be74d30ac9543cda062f130d4eb4494_phase4-b05-me-parece-que-el-tratamiento-le-esta-haciendo-efecto.mp3?Expires=1794099917&Signature=Q1XFFH6Jn5Zrv7MRnlHlzkQYveS18APCSX3MSnY9OoFa7gi6r-DDC0SIXc~pqyslifglqU0J4xJ6BGdlthqBvE3h2OgU1~exGy3tTJ6ZMvNWFZjLDRnfeKDTyAkgHgpjtQKJwzH0AgYzSl8nAR00HkjHTMtbhWhZe6mLXvQocIkHJuXQz0Kchvkx6t~48zmeTBLjLqG01l90-z62UvMHBo0Y3-8wfPhY1tgTuCKVFtvdw8WFWhr0XdQ1YbAsJ7Fz5BvVNSv-7BRv~i8YTijTOhtAigJCZ0tGsrz6MAtAQTITNzs7nt87H3K2jJw7K7stRxVoK4Nx1Wb-UzVxB0dsow__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "el tratamiento le esta haciendo efecto",
+          "sequenceItem": 3
+        },
+        {
+          "id": "1e61c722-0250-467e-be87-29869d2da39c",
+          "exerciseId": "16b0b995-b22e-4fb3-ab7f-321d049fae18",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ee3846e8fc6546038e8274c7d8c6742e_phase4-b07-no-me-parece-que-el-mareo-venga-de-la-comida.mp3?Expires=1794099917&Signature=cH6TDaC9C0j4OkXYQ7dmQNrRwSeEJl6KC-HzkoPaz8OF-zXT-sbpg~4OyE9ObUat7NEJ6GYWvmsX5y9PEHbelaq7rAEtjo94wonSfoX3mQetlNHhDys~Qy7ztFRXwOKMuerpSE-YtBir8to5JWzV072Ob8yJDC6iVgYKh32J3DVMciqt2WUFCw12BFsCh7PzuIc4TkHgqZ7DEOiFSJacbVN44Pvpvh5S21eqxu-ytsfpYVPRuYdS0rbWd3kwQzi5og2WeKkCou6oRJEojsgTV~uUFMcQel3~OWqBzphfwsVR-4He5g3drTKfMl1uQpDYkHjFVZdBsoELMvlJwjnZdg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "el mareo venga de la comida",
+          "sequenceItem": 4
+        },
+        {
+          "id": "1cd01f18-934d-4282-beef-c453c9d3cbd0",
+          "exerciseId": "16b0b995-b22e-4fb3-ab7f-321d049fae18",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c7feb89b520470da47e66949462e880_phase4-b09-supongo-que-no-es-solo-cansancio.mp3?Expires=1794099917&Signature=yzb9Q9Ri6OQt~eMf3QjEGBUmK~LXtvd3o6KYjn5m5~Dl~jqO1xYAbjWgsNz~FMZ6Vv24odwjvW~r4K5KY12c678k9mwtOrM3PSrdafiFJO1dG0DNcS0RQtFEg~6LgWOKy5OcAwqCXnpR6FvZVXXo25KxV10Rg5DkIW~WaVENW~MmHtV1NQ36uapvjLLL6CBkCC11eAW0OuB6UaQZs8meXMOinQ7UiyjyYpyyyhZlS3Eel4qK2L1wj7G3bVc30i66rifXJa0kudaPo~yq~dEliVoDtKRBcJHkUd~CcxY9kXIpmCMfcZNoYqSqZt~FxrdBdny-HF7HZGjRxMMIVIxIpA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "no es solo cansancio",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "7813f021-4b61-4fdd-bf1b-4ddcba6281aa",
+      "title": "Recupere o verbo da explicação",
+      "content": "<p>No me parece que el mareo _____ de la comida.</p><p>Tradução: Não me parece que a tontura venha da comida.</p>",
+      "contentPlain": "No me parece que el mareo _____ de la comida. Tradução: Não me parece que a tontura venha da comida.",
+      "fileUrl": null,
+      "feedbackSuccess": "No me parece que tambem empurra a avaliação para subjuntivo ao rejeitar uma explicação.",
+      "feedbackError": "No me parece que tambem empurra a avaliação para subjuntivo ao rejeitar uma explicação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "venga",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "66aa892f-fc18-463b-959e-6925b17e70bc",
+      "title": "Separe o tipo de posição",
+      "content": "<p>Ligue cada início em espanhol ao gesto de avaliação que ele deixa mais natural no comentário sobre saúde.</p>",
+      "contentPlain": "Ligue cada início em espanhol ao gesto de avaliação que ele deixa mais natural no comentário sobre saúde.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula gira em torno de graduar certeza, distância e cautela ao comentar saúde.",
+      "feedbackError": "A aula gira em torno de graduar certeza, distância e cautela ao comentar saúde.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c9c06898-46a0-4f6d-b67f-23df708f03ce",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "555e6755-723e-41b0-a542-7f619bfec534",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "66aa892f-fc18-463b-959e-6925b17e70bc"
+        },
+        {
+          "id": "9079a97d-b89d-4440-b0a0-2c3f5243d0f6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "66aa892f-fc18-463b-959e-6925b17e70bc"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ed20837c-cf31-4bc1-9e87-3175dbfe0e84",
+          "exerciseId": "66aa892f-fc18-463b-959e-6925b17e70bc",
+          "leftContent": "Creo que necesita...",
+          "rightContent": "avaliacao assumida",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c06de53b-df68-46a1-8bae-124b4adfec9e",
+          "exerciseId": "66aa892f-fc18-463b-959e-6925b17e70bc",
+          "leftContent": "No creo que necesite...",
+          "rightContent": "possibilidade afastada com reserva",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8a67876c-7fd8-49d3-b3f8-3c417b8a3874",
+          "exerciseId": "66aa892f-fc18-463b-959e-6925b17e70bc",
+          "leftContent": "Me parece que el tratamiento...",
+          "rightContent": "impressao afirmativa",
+          "sequenceItem": 3
+        },
+        {
+          "id": "0208523a-41d0-49a1-8928-63107177562b",
+          "exerciseId": "66aa892f-fc18-463b-959e-6925b17e70bc",
+          "leftContent": "No me parece que el mareo...",
+          "rightContent": "explicacao rejeitada",
+          "sequenceItem": 4
+        },
+        {
+          "id": "06e2026f-6694-42e7-a6ff-76622d0ee2ea",
+          "exerciseId": "66aa892f-fc18-463b-959e-6925b17e70bc",
+          "leftContent": "Supongo que no es...",
+          "rightContent": "inferencia cautelosa ainda provavel",
+          "sequenceItem": 5
+        }
+      ]
+    }
+  ],
+  "title": "Ajustar certeza e duvida ao comentar saude"
+}

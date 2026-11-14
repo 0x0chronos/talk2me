@@ -1,0 +1,534 @@
+{
+  "attemptId": "a1f756a4-be7a-4624-8a55-ea0ff794900f",
+  "exercises": [
+    {
+      "exerciseId": "40d1a716-7e39-4dad-960f-0f752a63ee5e",
+      "sequence": 1,
+      "lessonId": "b1a89bd8-615e-4138-a2b0-dfcf7bd6ef4d",
+      "title": "Recupere a primeira linha pela escuta",
+      "content": "<p>Escute a primeira linha da resposta e marque apenas as palavras que fazem parte do áudio.</p>",
+      "contentPlain": "Escute a primeira linha da resposta e marque apenas as palavras que fazem parte do áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c033af3e62d44947b3cb35459815597e_b02-en-mi-barrio-hay-una-cafeteria-y-un-mercado.mp3?Expires=1794099484&Signature=krYKI6Wu1iIapuAMn9T~Dtz9nJNCkvgBgVllCfMQMy2Dy9fsT7CaBrXTP45tiLsVbPhiYp8OsS6C~mWMgFQlLm0OiVKo5u-bE5ZPJbYOI-5U3TPGqhNLWAaP2fp3rcJ5j478~jGhthS4~rxVJ6Lsuu8TUJpM7z4Vb6pgN1aeMPp8DuAAuGlEq3OMRsThqfPKXw~dLjrSSU6bTix1NjbcXb17YWEcggM5aDaGPIs83cE7JqCsXeDkQ7WkDHBcjHW92gLLZhCYSS8mjb5oINwdOovyy6x8GceWpCkCm~UsRlFunXTIhYI2iYzSDJYPK3WeYwQFNqudIUk2wTjaP1MZeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta aula abre a resposta com uma linha mais fluida que junta dois lugares conhecidos.",
+      "feedbackError": "Esta aula abre a resposta com uma linha mais fluida que junta dois lugares conhecidos.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0066ae87-352a-4842-9f9e-52d6e03eac1c",
+          "text": "cafetería",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1049bf4a-2364-4acc-b900-fa33ebed430a",
+          "text": "un",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "149e6ef2-3abb-4dfe-8fae-4c02dd5f6933",
+          "text": "mi",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2059b562-d59e-4f6d-9048-52e2ce173894",
+          "text": "barrio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "265a3421-1633-463d-9fc2-cb640786d3d3",
+          "text": "parada",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4534e015-5daf-4f4a-9843-883feffa09f1",
+          "text": "tren",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "45bc3ef5-bb79-4c4e-8496-4986867d87c0",
+          "text": "hay",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "91d1ce1b-2064-4c60-aec4-b159e67bae6b",
+          "text": "mercado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "aec768f4-293b-438f-9145-f13452cf4480",
+          "text": "en",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d26c82f7-db4e-458c-9af0-7c4ec997e1bc",
+          "text": "cerca",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e97ce0ed-392d-40b6-a70c-13517e428129",
+          "text": "y",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fc99e580-6783-4909-bb39-b214edef117d",
+          "text": "una",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "d7d93657-9f1d-49ec-afdc-7fbf08f31111",
+      "sequence": 2,
+      "lessonId": "4a017b4e-f28a-4ca1-98cb-c0d34ab5fb59",
+      "title": "Reconstrua as respostas do diálogo",
+      "content": "<p>Escute as duas respostas curtas do diálogo e ligue cada áudio ao texto correspondente em espanhol.</p>",
+      "contentPlain": "Escute as duas respostas curtas do diálogo e ligue cada áudio ao texto correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "As respostas do diálogo dão a informação essencial com localização curta e direta.",
+      "feedbackError": "As respostas do diálogo dão a informação essencial com localização curta e direta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "72c9e1da-0f60-4c93-9b59-0c5e6f7b1a27",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/69f04339e05a48e6952a86c43b304e25_b06-dialogo-respuesta-cafeteria.mp3?Expires=1794099484&Signature=olTvQvC7VlsZGnv8Jy-3iitLZVovyGSiyyJ8HBGHmRevG9~OMbAl6KSmi9Z79nUWTEvi7zYW6KKANMC0P4fY~DlAIHhXyMYhPw5TYVUqSH3JEigDifhtOQ-YLjCM9lbDlPlXDvHx4t7ODjCmQogiVdrUApSBS7MDzkpbdaV~JSia6vcsfs2cnHEa7ZV6dIuJAxlYKkDyZIrqT~ClOpyA~8CyQo30G6IF3vsLUAh48~PQVkKmhcS6voXOnrie1~QkeV4oL8-3hd-wcCT~Wh1nTnhBZskyZxSNs~5HfolMQL1V4f6lxZ0ONb0-OkdVp9Fl5JnKdMUdBk1FM10~hdH2uQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, hay una cafetería en esta calle.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2e785574-b0fe-4008-b0f5-80f5d680f875",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6b92b09439c84fcabb87d4bc72aebc74_b06-dialogo-respuesta-estacion.mp3?Expires=1794099484&Signature=M3uo-HpHmzlMs0GgxL~NtDa~IhjLY4uNW3CqIIPOYnFcUe5nfn3lJehzfGMobYf1eq10KvTGNjxUr7ojlF2vNnhrewS6dnIqt4vY4RckB7aw7oPJpbgu45NoEheDkyInBzBiLS3jgvGEqPFJzbfZVH6Qr9GM86KIADbrDSaEqsgXk~0A6DLMIQCl-k4tX0G7N8k1GsqKn8D19mzpbYqByHga~39QYttBRcX7J2oeNy9u~WLzlh25TC0oxbiR-~vH5DnuM7Btd1FnZ-7fFrzw0EOhqvwAYsnOneSHuds82MNm5BXLUIF2MMd0LntPhnDS3zzIlpjh8jle5YR8004X0A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hay una estación en el centro.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "exerciseId": "b65b132b-f389-4893-88d7-50a1bff8d426",
+      "sequence": 3,
+      "lessonId": "61153286-0c4e-44ae-8a19-e1f97e09e1f3",
+      "title": "Complete o lugar do ônibus",
+      "content": "<p>¿Dónde hay una ______ de autobús?</p><p>Tradução: Onde há um ponto de ônibus?</p>",
+      "contentPlain": "¿Dónde hay una ______ de autobús? Tradução: Onde há um ponto de ônibus?",
+      "fileUrl": null,
+      "feedbackSuccess": "A pergunta da aula usa parada de autobús para localizar transporte na cidade.",
+      "feedbackError": "A pergunta da aula usa parada de autobús para localizar transporte na cidade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "parada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c39cdffd-c60c-4634-8bf2-4f6fdff64055",
+      "sequence": 4,
+      "lessonId": "7f1e3a1b-11dd-48bf-8a43-882cc24edb55",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete o lugar em espanhol: el _______.</p><p>Tradução: o mercado.</p>",
+      "contentPlain": "Complete o lugar em espanhol: el _______. Tradução: o mercado.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula apresenta el mercado como o lugar para compras do dia a dia.",
+      "feedbackError": "A aula apresenta el mercado como o lugar para compras do dia a dia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mercado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4feb3967-9eb2-4190-bd5b-9737b12da58b",
+      "sequence": 5,
+      "lessonId": "1038cccc-d1f0-434b-ac91-446fe682837a",
+      "title": "Relacione cada frase ao efeito dela no texto",
+      "content": "<p>Reconstrua a lógica da descrição ligando cada linha em espanhol ao que ela faz no retrato do bairro.</p>",
+      "contentPlain": "Reconstrua a lógica da descrição ligando cada linha em espanhol ao que ela faz no retrato do bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "O microtexto desta aula avança ao listar o que existe e fechar com o que falta no bairro.",
+      "feedbackError": "O microtexto desta aula avança ao listar o que existe e fechar com o que falta no bairro.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4beee0d6-dc4f-4e04-8b54-10bc6993cb17",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "645dd9ed-2042-4466-8474-659517f269ed",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "0e363891-a7ff-4e99-9e54-3818f36b3af0",
+          "leftContent": "Hay un mercado y dos cafeterías.",
+          "rightContent": "listar lugares que existem",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3787720f-27c7-4319-ad38-e4bf8151c8ba",
+          "leftContent": "También hay una parada de autobús cerca.",
+          "rightContent": "acrescentar um detalhe útil de localização",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8b952b41-5234-4496-bcea-13825681809e",
+          "leftContent": "No hay estación de tren.",
+          "rightContent": "indicar uma ausência importante",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "426fa7b4-28f5-4d7c-aa34-451f60f0ee8d",
+      "sequence": 6,
+      "lessonId": "f4c9fc4b-9f5e-4f5d-bc85-8ba1ba7a3bf9",
+      "title": "Monte a palavra",
+      "content": "<p>En mi barrio hay una _________.</p><p>Tradução: No meu bairro tem uma cafeteria.</p>",
+      "contentPlain": "En mi barrio hay una _________. Tradução: No meu bairro tem uma cafeteria.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula reforça as palavras que sustentam a troca curta sobre o bairro.",
+      "feedbackError": "A aula reforça as palavras que sustentam a troca curta sobre o bairro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cafetería",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8088dfc0-29a9-4b5b-9089-cfaf2372cae6",
+      "sequence": 7,
+      "lessonId": "1038cccc-d1f0-434b-ac91-446fe682837a",
+      "title": "Complete a ausência importante",
+      "content": "<p>No hay estación de ____.</p><p>Tradução: Não há estação de trem.</p>",
+      "contentPlain": "No hay estación de ____. Tradução: Não há estação de trem.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, no hay ajuda a registrar uma ausência importante na descrição do bairro.",
+      "feedbackError": "Nesta aula, no hay ajuda a registrar uma ausência importante na descrição do bairro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tren",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5e9849c5-bd67-4ef8-81fc-419d656cc619",
+      "sequence": 8,
+      "lessonId": "61153286-0c4e-44ae-8a19-e1f97e09e1f3",
+      "title": "Complete o lugar do trem",
+      "content": "<p>La ________ de tren está en el centro.</p><p>Tradução: A estação de trem fica no centro.</p>",
+      "contentPlain": "La ________ de tren está en el centro. Tradução: A estação de trem fica no centro.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula mostra estación de tren em uma frase curta sobre onde o lugar fica.",
+      "feedbackError": "A aula mostra estación de tren em uma frase curta sobre onde o lugar fica.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estación",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "85e4e936-0c14-4074-b205-4584a682ec2f",
+      "sequence": 9,
+      "lessonId": "f4c9fc4b-9f5e-4f5d-bc85-8ba1ba7a3bf9",
+      "title": "Monte a palavra",
+      "content": "<p>También ___ un mercado cerca.</p><p>Tradução: Também tem um mercado perto.</p>",
+      "contentPlain": "También ___ un mercado cerca. Tradução: Também tem um mercado perto.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula reforça as palavras que sustentam a troca curta sobre o bairro.",
+      "feedbackError": "A aula reforça as palavras que sustentam a troca curta sobre o bairro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hay",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7a96d1f5-741a-446f-a7b7-ecc56770a136",
+      "sequence": 10,
+      "lessonId": "22569137-8aec-4e8e-88cf-2e7fd3c3f936",
+      "title": "Recupere a frase pelo áudio",
+      "content": "<p>Escute a frase do plural e marque somente as palavras presentes nela.</p>",
+      "contentPlain": "Escute a frase do plural e marque somente as palavras presentes nela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4d3904910c144b10a8b41b62868eea2d_b03-hay-mercados.mp3?Expires=1794099484&Signature=hJXmWfzGxOcoTAtIKte2WfUuiiupkJeuW-5DqVBexz76nQKO6GCpCBK7ZUcDYeDX1fmHZafLn4StED5RWkNQAQLDbdL4exmwZnoc68APxFgZj3uDIW0CzmI5N3gb4qlSrR6sGOA4IlxdAul7bCWPLrhNxdGYmERWPMa7II4bQIMWByWC8TwywU55P2X1QH38rW5ud8cXEDfpPAs2fskfs1HCRKKPG~H4suoIueYmIyapQDQDL28n2Bg907KrJwCqWwF-SOWtf2jmLCkKB5Wsbr6UVFhuwmJzV34YrvxfzLN9bkwxQdmteTZCaWJo1T3DTcWnPJIcpCUb6J0ti4xixQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na frase do plural, o foco continua em dizer o que existe no bairro com hay.",
+      "feedbackError": "Na frase do plural, o foco continua em dizer o que existe no bairro com hay.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "008a53df-d061-444c-ba01-acc4f584140e",
+          "text": "en",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3cca054c-84ee-4ac4-9ed4-365b7e6bce0d",
+          "text": "un",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6d88e734-8004-4a05-b8c2-5b274859da59",
+          "text": "hay",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "75a5e2c2-a3ca-46e4-9121-b148941a15fa",
+          "text": "mercados",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ab45f17e-4782-49a5-93b2-bf45dad2085c",
+          "text": "este",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c3792e08-9b0d-46c8-b3be-e726eaf89235",
+          "text": "barrio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c44c9edc-73e4-4ddf-a56a-613de8da8bde",
+          "text": "mi",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d31240d5-b8f0-48f8-8de2-1a2ac4e0acd5",
+          "text": "muchos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f467ceb3-a262-4219-bbdc-f3f9e4ba5524",
+          "text": "hospital",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "25185a71-53d3-4fbb-9eba-819defbb4d68",
+      "sequence": 11,
+      "lessonId": "b1a89bd8-615e-4138-a2b0-dfcf7bd6ef4d",
+      "title": "Reconstrua a palavra",
+      "content": "<p>No hay ________ de tren.</p><p>Tradução: Não tem estação de trem.</p>",
+      "contentPlain": "No hay ________ de tren. Tradução: Não tem estação de trem.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula também treina como dizer o que não existe no bairro com no hay.",
+      "feedbackError": "Esta aula também treina como dizer o que não existe no bairro com no hay.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estación",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "07b20fe7-1d31-4960-9a5c-eef7313007a9",
+      "sequence": 12,
+      "lessonId": "22569137-8aec-4e8e-88cf-2e7fd3c3f936",
+      "title": "Complete a estrutura central",
+      "content": "<p>En mi barrio ___ un hospital.</p><p>Tradução: No meu bairro tem um hospital.</p>",
+      "contentPlain": "En mi barrio ___ un hospital. Tradução: No meu bairro tem um hospital.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, hay é a forma usada para dizer que algo existe em um lugar.",
+      "feedbackError": "Nesta aula, hay é a forma usada para dizer que algo existe em um lugar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hay",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6a2a238e-21f1-46ff-ae12-e2f56ae84a04",
+      "sequence": 13,
+      "lessonId": "f4c9fc4b-9f5e-4f5d-bc85-8ba1ba7a3bf9",
+      "title": "Ouça a pergunta e identifique as palavras",
+      "content": "<p>Escute a pergunta curta da aula e marque apenas as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a pergunta curta da aula e marque apenas as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5861ccf41db44066bd94808b44826ac2_b05-que-hay-en-tu-barrio.mp3?Expires=1794099484&Signature=xQzamRp4uDafM3OWGAJmoxdJgHBPmS2T9NhoTYm-bhCkvhTTXNRcyQ1L026uf7ZT6svJCrKkyetSKdhm9tduXZMkyUx70thZuLg-yViJwGA~iXIF5pcFsQnrshjuSL0OcQWmCKoF96Dah-j91iZV84~0ua3qGOv3lLWf6i28cCKOq9uacmiVTIiOjbGE86HnxsWzSCi4W-gwflV4D2qHviWtyAFo2ZQLdeV19qVQxnPe4iX1ecQ1jHqa8svnAehlMqv1LXOukeWcJr1Kfd49WM9TWQYTXQoHPj3HSFzPZXyZg4YZgHh105MnjE2Gbpy4Y2Y2M9-mbltWAEt9Ymq8Vg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A aula reforça as palavras que sustentam a troca curta sobre o bairro.",
+      "feedbackError": "A aula reforça as palavras que sustentam a troca curta sobre o bairro.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1781d152-e12b-462f-887e-0d49b1daa63f",
+          "text": "hay",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1d489a4f-7e32-4783-abec-9ee7a433d6e1",
+          "text": "tu",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6b2f60d8-52e7-4083-bc6e-3124acd0e04a",
+          "text": "qué",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "95d580b8-3a1c-4c25-8772-adebdd9127ab",
+          "text": "mi",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b1b46056-663a-4d79-983c-b8bc5d932812",
+          "text": "en",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ddcf0a32-d9d3-464e-993c-879e4177d6d0",
+          "text": "mercado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f3b020a1-4f1b-49d4-b024-e6b030abf0d6",
+          "text": "barrio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "6fb9651d-57ef-427c-82f9-d3b2432a3be7",
+      "sequence": 14,
+      "lessonId": "7f1e3a1b-11dd-48bf-8a43-882cc24edb55",
+      "title": "Selecione apenas o que você ouvir",
+      "content": "<p>Escute o áudio e recupere o artigo e o nome do lugar sem olhar para a imagem.</p>",
+      "contentPlain": "Escute o áudio e recupere o artigo e o nome do lugar sem olhar para a imagem.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c6fa936700984aa89cdfe20f4853bd19_b02-la-cafeteria.mp3?Expires=1794099484&Signature=e8W3nNsvrlS4oD9GhvTlr~XU2X0uoaBCsYhBhJMGNgMjPCR40lW60DEMAvwr11YuquF2aHftN~Qt~CpXgt~jsQb~l7J9-DjoFUHxFW1OkY7jwvWi2ezBoiIawvJGAn2tp6Arr-g0B8Q1ZhW2c2LwJzvUlOYUgq1Or~Xxo57yccVZWOjF-5KBM8ZkXavdvN1AVSMQfcTzNmaBfeXeiHEdH46jjwTCF212QBRfd7o2sOIpCpiQzbjR-25pFD9Jeox-5zE9loIL5DnYXOX61ALYnW2dIOEzFQeNhN-Ozz2BbAWhf80ysfDV1Ox-6tzMPtlkfbLmbStl8MqEivtJZ9XlHg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A aula apresenta la cafetería como um lugar comum da cidade.",
+      "feedbackError": "A aula apresenta la cafetería como um lugar comum da cidade.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "08ea4adc-24ad-4576-b2d9-494bf8b51b47",
+          "text": "el",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3b67efdd-e004-4a6d-bf62-659a94e452b0",
+          "text": "la",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4770ff4e-1437-4b68-bc44-c474f8ebc6c5",
+          "text": "cafetería",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b33b1cf9-d701-4914-9c38-fe4a45cd66f5",
+          "text": "las",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bf35d5b5-2423-475d-a0e3-f2fb99233cd3",
+          "text": "mercado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e98682c4-71e8-4479-ab23-9d4efee1dc43",
+          "text": "tiendas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "692a91f1-1f52-40ee-8d05-471e6601be1a",
+      "sequence": 15,
+      "lessonId": "4a017b4e-f28a-4ca1-98cb-c0d34ab5fb59",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a resposta em espanhol: Sí, ___ una cafetería en esta calle.</p><p>Tradução: Sim, há uma cafeteria nesta rua.</p>",
+      "contentPlain": "Complete a resposta em espanhol: Sí, ___ una cafetería en esta calle. Tradução: Sim, há uma cafeteria nesta rua.",
+      "fileUrl": null,
+      "feedbackSuccess": "No minidiálogo, hay aparece em perguntas e também em respostas curtas sobre lugares.",
+      "feedbackError": "No minidiálogo, hay aparece em perguntas e também em respostas curtas sobre lugares.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hay",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

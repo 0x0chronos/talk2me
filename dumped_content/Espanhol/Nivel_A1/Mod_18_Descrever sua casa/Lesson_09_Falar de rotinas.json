@@ -1,0 +1,552 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+    "attemptId": "c35ef1af-b618-4c3d-b3c5-7dad788e7663",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "ffe3cecc-c40d-4e21-a496-6ff1236a22de",
+      "0850c180-a4fa-4f97-b186-50114398404b",
+      "7e751722-39d9-4cc4-ba93-aeb014d77bb8",
+      "5afb227d-3865-4b52-92b8-ee7688b9cb3d",
+      "b5f85b93-4d2d-412c-b979-00fe11069348"
+    ],
+    "evaluationExerciseIds": [
+      "dec3e86b-d288-4523-b7ef-09c289d5e900",
+      "04052e19-4471-4921-85cb-e87f994513fd",
+      "5356cac1-acb9-4581-8cb7-7a4a2bcacb02",
+      "ff767597-95c9-43e8-8c04-0cf545708623",
+      "e7a3d8c6-4a9d-47f7-8977-6a723ce5a8fa"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:58:20.1532918Z"
+  },
+  "contents": [
+    {
+      "id": "6798a3de-fa02-4f53-bb06-b59e57e44250",
+      "title": "Escute a pergunta e ligue a frase ao começo de uma conversa sobre o dia a dia.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "cb77a949-0a7c-4e37-b995-ffd200cd7a7c",
+          "textContent": "<p>Uma pergunta simples já abre o tema da rotina.</p><p><strong>¿Qué haces un día normal?</strong></p><p>Em português: O que você faz em um dia normal?</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0830c43069e841688cd6db8dda3b6dbc_que-haces-un-dia-normal.mp3?Expires=1794099500&Signature=mwyOKXFVDYH8H~IHNubRD9vr9ado~dCROvi40o6k2srlOH5LqcjkTl6m5xgXhBFDhSv5X1HjiBVg40xWik7eZXPrzAhX4AFVTtuYboAiz8jMsBLklM9UqIEvUA38br6ZaY-mC1NtFED4DTqquqUThYWOQgU8ElVQ~1bObQHSzSpA-nlRmZj~TCcm8VgOqTytHo6E5R1ntSc8IR1jh7LempW5gPvqiHYWXn0VbTup3QTb7ZmavmNUe8sBH~Y3I1E82QuWtYntbKjfDXPopvTCFE-Ac30PNQxph~LR23qMkah5nYRaorRlYiKw6PaDF9-WtaSKgpHu-UZ~d9IFzsX6Qg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9782f9e7-c833-4f2c-bf22-abf0c6f6feb2",
+      "title": "Observe a imagem, escute o áudio e conecte a palavra em espanhol ao sentido em português.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "41cf7e02-24bf-4d7d-bbab-9155fa684dcc",
+          "textContent": "<p>Comece com uma ação muito comum da manhã.</p><p><strong>despertarse</strong></p><p>Em português: acordar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9c7bd052101f4361a3319bc358de6cef_despertarse-manana.png?Expires=1794099500&Signature=u-g7671-aSyyNeWQQ91uZXGzSORs0BHP9zE~ACNycA9uht1SGMP4EDTfaUlefwAauwBIOS3AF8wa1eS-COvrUhknP0JzOJa19Gj26FmwF4iJSjWwiUXzpUjKOOe4IM59QT0sFh4yFro4nXr20i9g5r3M38cCqDVJAT7zMOOX-L6AbgL18A7gD6GHWaf1Uf5oteKKEZvadissfkmJ7XhGDoFeyVY-UfhdtQJSx-ZyX0pizpoy4BhbKxBWpxOSakZEimW2m-bREGoQngArGjVVwnWJwElgFQxCeTHOdk4WjNs9q~Bcn-m2DZhZixWb7abk-N5loycDS-fG-AUB4Pk9qw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7118672605444e3ca540749757c18a83_despertarse.mp3?Expires=1794099500&Signature=JATLwn5pEF5zOEAnBlpsZjrkzzAwXIfrdrfxeLzA~0Op7vhsYdeyKpeYBq0y6jtGXAq9rC8Y5FS6gAZZj3jKSCL3e6QuooKRaluQfPDXGStAciKbEIovsbUhBp966ATAQ6-qXV0tnBk4phZsRtzLR6V~zK3s8bFxcfw6qL1-ItqCFy5cbUNkTLaEpw6f4il5H3DFfBOpd0M~LR-OBzW1zpAq9VPd6IiryGepaqE2~x~6FIxXfHxgw6Z4fnwBgSGq4OkKuhPCeflQQlrrESgNp8nqx1aoY-CAfJleGao1CWB1lyCzVOGB5BVeF6VnjmyevFE~NLcZIkcyvuaxGQkI8g__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "581539dd-89cf-472d-b435-c2740137e42a",
+      "title": "Leia o exemplo e note como a ação entra em uma rotina matinal simples.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "a413ee83-1085-4d48-a064-3ea5bad5eefc",
+          "textContent": "<p><strong>despertarse</strong> fala do momento de acordar.</p><p>Exemplo: <strong>Normalmente, me despierto a las siete en punto.</strong></p><p>Em português: Normalmente, acordo às sete em ponto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e8daf19a-23bb-4193-9a12-ba0afe663475",
+      "title": "Veja a imagem, escute o áudio e associe a palavra ao momento de levantar da cama.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "7614aee2-dc87-4d25-9acc-d4b8fd29330b",
+          "textContent": "<p>Agora veja outra ação da manhã.</p><p><strong>levantarse</strong></p><p>Em português: levantar-se.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/53c17d5f2efb41b981e33f3d3f1f5d5f_levantarse-manana.png?Expires=1794099500&Signature=P0-qEdS32yl2pA2rv5JnQs2OFI0UGkTHRmSyO9dL3iCkt7OXKY3HeOyVEt~i3J-D-UWCzmTryhbRN-pYwutYou8wiZTpeUX0iAL0Yabtqf3oki1XxGNEpA1ZDGRRD-kZTkhBtQWkTDEU3-jm3xSrEhwjs0mPX~biY7ZAfGZBhZ26p4E5IS8oQuka7Ll6AN2FYFDEFVIqvW0Eefe1iU2WFdwW3y8vBcXx6412eHC-Fw7zddcH1ppq3hVQn8dPuFujTlPDMJionr0rxSxYN32RbdqtbP6nzYsuNSXOUuEkHM44RNfun~hT8xSFQHqlyr6-F7zcGpGm3OHGELnzl3QL0w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a61ffd78f7a34a5a898506b4349302f7_levantarse.mp3?Expires=1794099500&Signature=l8PnR2vOuRr8AsjI1-ffyh4xs6SST7A8Mipn-GpGW9h8X5tE9bwyUSOD29gSiI8iDMtYlYIxd7N15laax~bBGibpcDjIx0jzqdiCNmvOIM5tuPJXHhv5Kz23kpAbKye7-lXZ7jDY80hS2tyeZcgFXriBaiRs7fXDOCyZfI7TrDJwrrJyGNyrp6cbxsHue25xNDtYYvPP6tqGuVy5-H05IqdFU2DmITt1LknvHx8ARMt0TouQqFbSyOunYrq9Nz2RiGGf3mNdRA4Pf0kxeEmmY9EmFATWng~WYwpRZj3MpPUWsPFCa~5MeVKNDmXnPPYNmYHmRlnIsfy93rMq6MxMkw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7c90525c-17bb-446c-b6d1-8134ec1c5b66",
+      "title": "Leia a frase e repare em como ela descreve o momento de levantar em um contexto real.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "bcfda44d-9a82-4dbe-8626-882a2fdd1c9e",
+          "textContent": "<p><strong>levantarse</strong> fala do momento de sair da cama e começar a manhã.</p><p>Exemplo: <strong>Ella se levanta más tarde los fines de semana.</strong></p><p>Em português: Ela se levanta mais tarde nos fins de semana.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fd39f0ac-95c9-4bf8-acba-d866f465e143",
+      "title": "Leia o quadro curto e observe o que muda entre acordar e se levantar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "c0c67696-f288-4fbf-accf-d573a27fa892",
+          "textContent": "<p>As duas ações fazem parte da mesma manhã, mas não dizem exatamente a mesma coisa.</p><ul><li><strong>despertarse</strong>: acordar</li><li><strong>levantarse</strong>: levantar-se da cama</li></ul><p>Primeiro alguém <strong>se despierta</strong>; depois normalmente <strong>se levanta</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "94b3bd7c-7279-4384-9e89-0a810a24951a",
+      "title": "Leia o cartão final e ligue as formas da aula a uma conversa simples sobre como o dia começa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "5e018566-8a34-4fe8-849a-8297239ab3e9",
+          "textContent": "<p>Em conversas sobre a manhã, você já pode reconhecer perguntas e respostas como estas:</p><ul><li><strong>¿Qué haces un día normal?</strong></li><li><strong>Normalmente, me despierto a las siete en punto.</strong></li><li><strong>Ella se levanta más tarde los fines de semana.</strong></li></ul><p>Esse repertório ajuda a entender relatos simples sobre como o dia começa em casa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "ffe3cecc-c40d-4e21-a496-6ff1236a22de",
+      "title": "Ligue cada verbo ao sentido",
+      "content": "<p>Relacione os dois verbos centrais da aula ao significado mais próximo em português.</p>",
+      "contentPlain": "Relacione os dois verbos centrais da aula ao significado mais próximo em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste central da aula separa despertarse de levantarse no começo da manhã.",
+      "feedbackError": "O contraste central da aula separa despertarse de levantarse no começo da manhã.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1173048e-68dc-41f4-9e11-0eb4dff1a691",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ffe3cecc-c40d-4e21-a496-6ff1236a22de"
+        },
+        {
+          "id": "ba69d373-3d2f-477d-8226-efc3d3a12795",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ffe3cecc-c40d-4e21-a496-6ff1236a22de"
+        }
+      ],
+      "associations": [
+        {
+          "id": "bd1c941d-2eff-4e9e-aadb-9747c9ebdf88",
+          "exerciseId": "ffe3cecc-c40d-4e21-a496-6ff1236a22de",
+          "leftContent": "despertarse",
+          "rightContent": "acordar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b00a2355-0944-431b-b046-4f38d82caa61",
+          "exerciseId": "ffe3cecc-c40d-4e21-a496-6ff1236a22de",
+          "leftContent": "levantarse",
+          "rightContent": "levantar-se",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "0850c180-a4fa-4f97-b186-50114398404b",
+      "title": "Reconheça a pergunta da rotina",
+      "content": "<p>Você quer perguntar o que a outra pessoa costuma fazer em um dia comum. Qual opção funciona melhor em espanhol?</p>",
+      "contentPlain": "Você quer perguntar o que a outra pessoa costuma fazer em um dia comum. Qual opção funciona melhor em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula abre a rotina com ¿Qué haces un día normal? como pergunta-base.",
+      "feedbackError": "A aula abre a rotina com ¿Qué haces un día normal? como pergunta-base.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "c74ec4e4-c6c3-4751-a2a6-ee50aef2885c",
+          "textContent": "¿Qué haces ahora?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0850c180-a4fa-4f97-b186-50114398404b"
+        },
+        {
+          "id": "d34c6450-402c-4eca-af2c-d33e63426c37",
+          "textContent": "¿Qué haces un día normal?",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0850c180-a4fa-4f97-b186-50114398404b"
+        },
+        {
+          "id": "fbe07e8b-0e1b-48e8-bd8e-13d944b3e937",
+          "textContent": "¿Qué haces hoy?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0850c180-a4fa-4f97-b186-50114398404b"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7e751722-39d9-4cc4-ba93-aeb014d77bb8",
+      "title": "Identifique as palavras da pergunta",
+      "content": "<p>Escute a pergunta completa e marque somente as palavras que você realmente ouve.</p>",
+      "contentPlain": "Escute a pergunta completa e marque somente as palavras que você realmente ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0830c43069e841688cd6db8dda3b6dbc_que-haces-un-dia-normal.mp3?Expires=1794099500&Signature=mwyOKXFVDYH8H~IHNubRD9vr9ado~dCROvi40o6k2srlOH5LqcjkTl6m5xgXhBFDhSv5X1HjiBVg40xWik7eZXPrzAhX4AFVTtuYboAiz8jMsBLklM9UqIEvUA38br6ZaY-mC1NtFED4DTqquqUThYWOQgU8ElVQ~1bObQHSzSpA-nlRmZj~TCcm8VgOqTytHo6E5R1ntSc8IR1jh7LempW5gPvqiHYWXn0VbTup3QTb7ZmavmNUe8sBH~Y3I1E82QuWtYntbKjfDXPopvTCFE-Ac30PNQxph~LR23qMkah5nYRaorRlYiKw6PaDF9-WtaSKgpHu-UZ~d9IFzsX6Qg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta-base desta aula fala de um dia normal, não de um momento específico.",
+      "feedbackError": "A pergunta-base desta aula fala de um dia normal, não de um momento específico.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "026231a1-eea4-4ee1-a869-384599f7c576",
+          "textContent": "qué",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7e751722-39d9-4cc4-ba93-aeb014d77bb8"
+        },
+        {
+          "id": "3fddcf44-b3dd-4219-bdd8-32e2ef630804",
+          "textContent": "haces",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7e751722-39d9-4cc4-ba93-aeb014d77bb8"
+        },
+        {
+          "id": "4d52618d-c89b-41f2-96bb-75bbf26f1c2e",
+          "textContent": "un",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7e751722-39d9-4cc4-ba93-aeb014d77bb8"
+        },
+        {
+          "id": "4f1c6076-6ff1-473d-925c-7cacab49e16d",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7e751722-39d9-4cc4-ba93-aeb014d77bb8"
+        },
+        {
+          "id": "7cdd7e66-5059-4f8a-afd7-bab999c494b4",
+          "textContent": "normal",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7e751722-39d9-4cc4-ba93-aeb014d77bb8"
+        },
+        {
+          "id": "c150f285-40df-46d8-9778-5981bb2715e4",
+          "textContent": "día",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7e751722-39d9-4cc4-ba93-aeb014d77bb8"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5afb227d-3865-4b52-92b8-ee7688b9cb3d",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a pergunta central da aula.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a pergunta central da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0830c43069e841688cd6db8dda3b6dbc_que-haces-un-dia-normal.mp3?Expires=1794099500&Signature=mwyOKXFVDYH8H~IHNubRD9vr9ado~dCROvi40o6k2srlOH5LqcjkTl6m5xgXhBFDhSv5X1HjiBVg40xWik7eZXPrzAhX4AFVTtuYboAiz8jMsBLklM9UqIEvUA38br6ZaY-mC1NtFED4DTqquqUThYWOQgU8ElVQ~1bObQHSzSpA-nlRmZj~TCcm8VgOqTytHo6E5R1ntSc8IR1jh7LempW5gPvqiHYWXn0VbTup3QTb7ZmavmNUe8sBH~Y3I1E82QuWtYntbKjfDXPopvTCFE-Ac30PNQxph~LR23qMkah5nYRaorRlYiKw6PaDF9-WtaSKgpHu-UZ~d9IFzsX6Qg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A prática oral desta aula ativa a pergunta usada para abrir uma conversa sobre rotina.",
+      "feedbackError": "A prática oral desta aula ativa a pergunta usada para abrir uma conversa sobre rotina.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "¿Qué haces un día normal?",
+      "typeSpecificData": "{\"expectedText\":\"\\u00BFQu\\u00E9 haces un d\\u00EDa normal?\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/0830c43069e841688cd6db8dda3b6dbc_que-haces-un-dia-normal.mp3?Expires=1794099500\\u0026Signature=mwyOKXFVDYH8H~IHNubRD9vr9ado~dCROvi40o6k2srlOH5LqcjkTl6m5xgXhBFDhSv5X1HjiBVg40xWik7eZXPrzAhX4AFVTtuYboAiz8jMsBLklM9UqIEvUA38br6ZaY-mC1NtFED4DTqquqUThYWOQgU8ElVQ~1bObQHSzSpA-nlRmZj~TCcm8VgOqTytHo6E5R1ntSc8IR1jh7LempW5gPvqiHYWXn0VbTup3QTb7ZmavmNUe8sBH~Y3I1E82QuWtYntbKjfDXPopvTCFE-Ac30PNQxph~LR23qMkah5nYRaorRlYiKw6PaDF9-WtaSKgpHu-UZ~d9IFzsX6Qg__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b5f85b93-4d2d-412c-b979-00fe11069348",
+      "title": "Escute e associe os itens centrais",
+      "content": "<p>Ligue cada áudio ao texto certo e recupere a pergunta-base e as duas ações da manhã.</p>",
+      "contentPlain": "Ligue cada áudio ao texto certo e recupere a pergunta-base e as duas ações da manhã.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ligar som e escrita na pergunta-base e nas duas ações da aula.",
+      "feedbackError": "Aqui o foco é ligar som e escrita na pergunta-base e nas duas ações da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "47ca5d91-a4eb-42a3-9e53-e2d4f9879631",
+          "exerciseId": "b5f85b93-4d2d-412c-b979-00fe11069348",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0830c43069e841688cd6db8dda3b6dbc_que-haces-un-dia-normal.mp3?Expires=1794099500&Signature=mwyOKXFVDYH8H~IHNubRD9vr9ado~dCROvi40o6k2srlOH5LqcjkTl6m5xgXhBFDhSv5X1HjiBVg40xWik7eZXPrzAhX4AFVTtuYboAiz8jMsBLklM9UqIEvUA38br6ZaY-mC1NtFED4DTqquqUThYWOQgU8ElVQ~1bObQHSzSpA-nlRmZj~TCcm8VgOqTytHo6E5R1ntSc8IR1jh7LempW5gPvqiHYWXn0VbTup3QTb7ZmavmNUe8sBH~Y3I1E82QuWtYntbKjfDXPopvTCFE-Ac30PNQxph~LR23qMkah5nYRaorRlYiKw6PaDF9-WtaSKgpHu-UZ~d9IFzsX6Qg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué haces un día normal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4343f855-5319-48ef-b221-606842e4ab13",
+          "exerciseId": "b5f85b93-4d2d-412c-b979-00fe11069348",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7118672605444e3ca540749757c18a83_despertarse.mp3?Expires=1794099500&Signature=JATLwn5pEF5zOEAnBlpsZjrkzzAwXIfrdrfxeLzA~0Op7vhsYdeyKpeYBq0y6jtGXAq9rC8Y5FS6gAZZj3jKSCL3e6QuooKRaluQfPDXGStAciKbEIovsbUhBp966ATAQ6-qXV0tnBk4phZsRtzLR6V~zK3s8bFxcfw6qL1-ItqCFy5cbUNkTLaEpw6f4il5H3DFfBOpd0M~LR-OBzW1zpAq9VPd6IiryGepaqE2~x~6FIxXfHxgw6Z4fnwBgSGq4OkKuhPCeflQQlrrESgNp8nqx1aoY-CAfJleGao1CWB1lyCzVOGB5BVeF6VnjmyevFE~NLcZIkcyvuaxGQkI8g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "despertarse",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1d3c8f77-2a7b-446e-8d0a-63a373ef3d7c",
+          "exerciseId": "b5f85b93-4d2d-412c-b979-00fe11069348",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a61ffd78f7a34a5a898506b4349302f7_levantarse.mp3?Expires=1794099500&Signature=l8PnR2vOuRr8AsjI1-ffyh4xs6SST7A8Mipn-GpGW9h8X5tE9bwyUSOD29gSiI8iDMtYlYIxd7N15laax~bBGibpcDjIx0jzqdiCNmvOIM5tuPJXHhv5Kz23kpAbKye7-lXZ7jDY80hS2tyeZcgFXriBaiRs7fXDOCyZfI7TrDJwrrJyGNyrp6cbxsHue25xNDtYYvPP6tqGuVy5-H05IqdFU2DmITt1LknvHx8ARMt0TouQqFbSyOunYrq9Nz2RiGGf3mNdRA4Pf0kxeEmmY9EmFATWng~WYwpRZj3MpPUWsPFCa~5MeVKNDmXnPPYNmYHmRlnIsfy93rMq6MxMkw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "levantarse",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "dec3e86b-d288-4523-b7ef-09c289d5e900",
+      "title": "Complete a frase sobre levantar-se",
+      "content": "<p>Ella se _______ más tarde los fines de semana.</p><p>Tradução: Ela se levanta mais tarde nos fins de semana.</p>",
+      "contentPlain": "Ella se _______ más tarde los fines de semana. Tradução: Ela se levanta mais tarde nos fins de semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, levantarse aparece para falar do momento de sair da cama.",
+      "feedbackError": "Nesta aula, levantarse aparece para falar do momento de sair da cama.",
+      "answerType": "buildWord",
+      "expectedAnswer": "levanta",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "04052e19-4471-4921-85cb-e87f994513fd",
+      "title": "Complete a frase sobre acordar",
+      "content": "<p>Normalmente, me _________ a las siete en punto.</p><p>Tradução: Normalmente, acordo às sete em ponto.</p>",
+      "contentPlain": "Normalmente, me _________ a las siete en punto. Tradução: Normalmente, acordo às sete em ponto.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, despertarse aparece em frase curta para falar do momento de acordar.",
+      "feedbackError": "Nesta aula, despertarse aparece em frase curta para falar do momento de acordar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "despierto",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5356cac1-acb9-4581-8cb7-7a4a2bcacb02",
+      "title": "Reconstrua a minirotina pelo áudio",
+      "content": "<p>Ouça os três trechos e ligue cada áudio à frase certa em espanhol.</p>",
+      "contentPlain": "Ouça os três trechos e ligue cada áudio à frase certa em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula junta a pergunta-base com duas frases curtas sobre o começo do dia.",
+      "feedbackError": "O fechamento da aula junta a pergunta-base com duas frases curtas sobre o começo do dia.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "478e880f-2c5d-4c27-9ddf-f5341bf4aed3",
+          "exerciseId": "5356cac1-acb9-4581-8cb7-7a4a2bcacb02",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0830c43069e841688cd6db8dda3b6dbc_que-haces-un-dia-normal.mp3?Expires=1794099500&Signature=mwyOKXFVDYH8H~IHNubRD9vr9ado~dCROvi40o6k2srlOH5LqcjkTl6m5xgXhBFDhSv5X1HjiBVg40xWik7eZXPrzAhX4AFVTtuYboAiz8jMsBLklM9UqIEvUA38br6ZaY-mC1NtFED4DTqquqUThYWOQgU8ElVQ~1bObQHSzSpA-nlRmZj~TCcm8VgOqTytHo6E5R1ntSc8IR1jh7LempW5gPvqiHYWXn0VbTup3QTb7ZmavmNUe8sBH~Y3I1E82QuWtYntbKjfDXPopvTCFE-Ac30PNQxph~LR23qMkah5nYRaorRlYiKw6PaDF9-WtaSKgpHu-UZ~d9IFzsX6Qg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué haces un día normal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "74027093-3718-46f1-98b9-21a66b928de0",
+          "exerciseId": "5356cac1-acb9-4581-8cb7-7a4a2bcacb02",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8e59fa8632294ce7a4d6bb08193f8f17_normalmente-me-despierto-a-las-siete-en-punto.mp3?Expires=1794099500&Signature=foolHeQiLcucAFqJeE7TP1tX4xa2kkhoDlqSJY5Ts7FOFz0MfYmV3NLpP21dR0g5JZEsyNUYgsrSJzU5jp1DmskrRR6mku8PFvVPs9aG0hyg5~TleOPLFIlZAL7~F8y8w6XXdVLND7m~JZ4Zxun16pYohpPPAcC1thTREVIRKZV2CT8AvvEClHTc-Hez6COJ5D79qmJ0JksgDBiNep0mj~mENQKax5yati1HvJg14i9k82NXEk0tI~PZwUfFjfmeBh7UeaGPLxk0Lfg1WMoDjX~0F1K1QOAmnt~IWB3H-0e-SbBLAPqc9F72uCq7UsDKPQIMucv8dsn~5bUvgQerAg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Normalmente, me despierto a las siete en punto.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "fe158cab-8c82-4e05-8aaf-df17ab55d522",
+          "exerciseId": "5356cac1-acb9-4581-8cb7-7a4a2bcacb02",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/48caa6a02577456eb39cf4f136889122_ella-se-levanta-mas-tarde-los-fines-de-semana.mp3?Expires=1794099500&Signature=DHmPFDsGc~cHYtRYjzEicjRE~mIZonbTHzcB46IzZhaHYbw1DZbSmXCOi1kKjNDYBEDqbSkRbQWTdiiZ-2oTLUE3dWLghU1Z97o20vxYaygO~jea7cBZ97HJlrwFOeTdpHjJKNzo3g-QJS8jYk6mDP2rcZH5eSI7JaJK~L-hjcb2EVThdeMhBCqUcFPHJLmfPBrOIq6P0Dlf3f1Q6Qzb3khfpv1fPc68xZWVy3dYnv8hVGeKfYAgSnVCyM--rlrW91XyLgMLfVIW4Li4lu1~oA~iibalQ~5h3WOC39P~iOeYPA1uWx10ZYOo2LJ4VQJzRHCmySxSfBQ~cRd6z7h0Cw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ella se levanta más tarde los fines de semana.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "ff767597-95c9-43e8-8c04-0cf545708623",
+      "title": "Recupere a frase da manhã pelo áudio",
+      "content": "<p>Escute a rotina curta sobre a hora de acordar e marque somente as palavras que você ouve.</p>",
+      "contentPlain": "Escute a rotina curta sobre a hora de acordar e marque somente as palavras que você ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8e59fa8632294ce7a4d6bb08193f8f17_normalmente-me-despierto-a-las-siete-en-punto.mp3?Expires=1794099500&Signature=foolHeQiLcucAFqJeE7TP1tX4xa2kkhoDlqSJY5Ts7FOFz0MfYmV3NLpP21dR0g5JZEsyNUYgsrSJzU5jp1DmskrRR6mku8PFvVPs9aG0hyg5~TleOPLFIlZAL7~F8y8w6XXdVLND7m~JZ4Zxun16pYohpPPAcC1thTREVIRKZV2CT8AvvEClHTc-Hez6COJ5D79qmJ0JksgDBiNep0mj~mENQKax5yati1HvJg14i9k82NXEk0tI~PZwUfFjfmeBh7UeaGPLxk0Lfg1WMoDjX~0F1K1QOAmnt~IWB3H-0e-SbBLAPqc9F72uCq7UsDKPQIMucv8dsn~5bUvgQerAg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A frase Normalmente, me despierto a las siete en punto mostra despertarse em uma rotina curta com horário.",
+      "feedbackError": "A frase Normalmente, me despierto a las siete en punto mostra despertarse em uma rotina curta com horário.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "49225dc6-8039-4ac3-a730-a92ee7d71b61",
+          "textContent": "normalmente",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ff767597-95c9-43e8-8c04-0cf545708623"
+        },
+        {
+          "id": "6495c521-4c65-4d59-a513-31f9356ccde2",
+          "textContent": "despierto",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ff767597-95c9-43e8-8c04-0cf545708623"
+        },
+        {
+          "id": "84d4d228-3485-4ee0-9453-848c91426d25",
+          "textContent": "siete",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ff767597-95c9-43e8-8c04-0cf545708623"
+        },
+        {
+          "id": "95591dd9-2cd9-4745-a859-d760e9f9104a",
+          "textContent": "tarde",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ff767597-95c9-43e8-8c04-0cf545708623"
+        },
+        {
+          "id": "9d7464bb-3e18-4b0b-9dcf-56485d49ae55",
+          "textContent": "levanta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ff767597-95c9-43e8-8c04-0cf545708623"
+        },
+        {
+          "id": "dcfa5677-49f1-4ffd-82ea-3abedebed6a3",
+          "textContent": "punto",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ff767597-95c9-43e8-8c04-0cf545708623"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "e7a3d8c6-4a9d-47f7-8977-6a723ce5a8fa",
+      "title": "Complete a pergunta sobre a rotina",
+      "content": "<p>¿Qué _____ un día normal?</p><p>Tradução: O que você faz em um dia normal?</p>",
+      "contentPlain": "¿Qué _____ un día normal? Tradução: O que você faz em um dia normal?",
+      "fileUrl": null,
+      "feedbackSuccess": "A abertura da aula usa haces para perguntar sobre a rotina de um dia comum.",
+      "feedbackError": "A abertura da aula usa haces para perguntar sobre a rotina de um dia comum.",
+      "answerType": "buildWord",
+      "expectedAnswer": "haces",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c5644921-535d-4a29-81b6-142339928f34",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Falar de rotinas"
+}

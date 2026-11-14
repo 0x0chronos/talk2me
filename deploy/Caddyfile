@@ -1,0 +1,3 @@
+talk2me.biosinformatica.store {
+    reverse_proxy app:3001
+}

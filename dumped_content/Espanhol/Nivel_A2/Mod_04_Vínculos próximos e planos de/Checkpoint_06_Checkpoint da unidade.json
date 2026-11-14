@@ -1,0 +1,425 @@
+{
+  "attemptId": "adf4499f-df52-4743-a624-314c36b3c74a",
+  "exercises": [
+    {
+      "exerciseId": "b6d4c913-247d-4491-b52c-ee384d139934",
+      "sequence": 1,
+      "lessonId": "361f9186-72b5-4308-83fc-2740b026494e",
+      "title": "Reconstrua o conector",
+      "content": "<p>_______ de cenar, mi compañero de clase va a regalar un libro.</p>",
+      "contentPlain": "_______ de cenar, mi compañero de clase va a regalar un libro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Después organiza a sequência da mensagem.",
+      "feedbackError": "Retome a linha com o conector temporal e reconstrua a primeira palavra.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Después",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4af8513b-624f-4b88-9f95-7ee43c6aca4b",
+      "sequence": 2,
+      "lessonId": "d610f024-573e-4253-8749-942945c007ea",
+      "title": "Escuta final",
+      "content": "<p>Resolva apenas pela escuta e pelo texto em espanhol.</p>",
+      "contentPlain": "Resolva apenas pela escuta e pelo texto em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta final. Você diferenciou os três vínculos usando apenas áudio e texto em espanhol.",
+      "feedbackError": "Escute novamente e confirme se cada frase aponta para vizinhança, estudo ou relação familiar.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "032b0116-3ec9-4d4a-bf71-96d8feaf24b5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1ccaddec0630465fbfe336ff66bfbf19_b01-es-mi-vecino.mp3?Expires=1794099524&Signature=urCR9c1aLfaGd7tTUeRMFMFEBaBWi2geliLe93A-7PPktZbAuNQKdo~wbC7i4-jhTEJc1u2~b~mru8XPFbI5GQGmLj5CzYUNxT2oLcWGlzckI42w0iS95ypfU7LmN2qHq4U41pF9SYSyWTvNrdtONRJwHEIVDmqNcQqEEacdsDHvI~~mkZ42M2Segi2k8YB~3pTjdH~qYculgP48xqj1INDyafPhtB6~kOzVTvV~UnJbiUgF0VT7boY5w9YUeWU8ECcSfUZGREHEEGAO8wfUkL2VTi2KpeTYKsaQv3BQNCIjPTUM2HPPTrsse8FseFC1e4LmFBEihRaaPFhoObIHCg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es mi vecino.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "fdabb1d1-b4ae-4b72-b2c2-6cb1289da7a2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d947e573b3684365a23eb6717d69c3c5_b03-es-mi-companero-de-clase.mp3?Expires=1794099524&Signature=HbtRInWthD-xRZ~MAIJAxAgdKPPBp6~IcG0iPFsLacK5sZA4Ut15kW-GLYjMKnWGvcQU~au9ma6izshXGvbVkRwOvo3yp18Gp7AfgDWTp2ujFwHlarUxAtLqqbhMvcFdV0dnvDzcXtvfdDsjLTKIfgsN23Nf1VYdrmYfRSqtlE5vVCgIrEiq08KB0tTqDscgTKuvAkVkVp1pR88anH4MRVnM62SZG7zb~IDUmVfXq0bxPviHMRmV7PLyzmrPPWNWEpRbiDk6vKZWWX9DqOcze0Pj6qUBRCnh9CYl1pR0rmQ2W011whaPAFRIxx6NqDsim8cfBC5t0NTaoYQX9KxLXg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es mi compañero de clase.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a8dd1be8-f0db-4f75-b9ea-7ddbeb5e9e6e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/762f9c6a6fa3470e8b6dd7b5980f3547_b05-son-gemelos.mp3?Expires=1794099524&Signature=nW3VqWpQj8qz~ZLyoskVy~9ECa-Bv8X1kos8yXyxwuIh6xsLmXOBxuZSOIo3VaYyhl4DRDzowkAw~g9UBeWkPrYLx9btbd3HW5lxVKAV3A-y5xHVVeOrXTDV-lI3TJRPZyiOHiBYgHbS9vLAYPYOtfdJX-GbnGYk6lTBCTtglR8D7fyoBTZjMdJGVpEM-ymLFYq~XblM1Fy0Tp~3-eDKYoZYnTxnqD7tNRs1dDur8ujDvDMfjHDCT6YlJ5PdjSmCipHgKLmv1vH6LulwbpxccRHF1YXBiDXn0AgKAIA5C2RVS22XWHFyHHN9I1IbJJQb1uwXjiFOTHwi06Qug1qn5A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Son gemelos.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "232d0bc6-5ed2-4d76-9100-a563b15bdfec",
+      "sequence": 3,
+      "lessonId": "d610f024-573e-4253-8749-942945c007ea",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Son _______.</p>",
+      "contentPlain": "Son _______.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa é a palavra usada quando a frase fala de duas pessoas gêmeas.",
+      "feedbackError": "Retome a cena do aniversário e recupere o rótulo usado para os dois irmãos.",
+      "answerType": "buildWord",
+      "expectedAnswer": "gemelos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3ce09aca-8f50-4511-9514-1d6543a8ebe8",
+      "sequence": 4,
+      "lessonId": "361f9186-72b5-4308-83fc-2740b026494e",
+      "title": "Reconstrua o verbo",
+      "content": "<p>Mi vecina va a _______ la sala.</p>",
+      "contentPlain": "Mi vecina va a _______ la sala.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Decorar recupera a tarefa que a vizinha vai fazer na festa.",
+      "feedbackError": "Volte à linha da vecina e monte o verbo que aparece depois de va a.",
+      "answerType": "buildWord",
+      "expectedAnswer": "decorar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5130b8f3-326d-4e7c-8e98-b0a526e582f2",
+      "sequence": 5,
+      "lessonId": "ceede690-cc78-41de-b1aa-3c5a1fe0ab5f",
+      "title": "Recupere quem participa",
+      "content": "<p>No diálogo, quem a pessoa vai visitar <strong>antes da festa</strong>?</p>",
+      "contentPlain": "No diálogo, quem a pessoa vai visitar antes da festa ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. A primeira ação do plano é visitar `a mi vecino`.",
+      "feedbackError": "Releia ou reescute o diálogo e recupere quem aparece na primeira ação.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "661063c1-ad24-486a-85c2-a8743e1a2480",
+          "text": "a mi vecino",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8b4b9dc6-e003-4b4a-bd8a-ef22c53506e5",
+          "text": "a mi compañera de clase",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bdcb4fae-ac16-4543-85da-1a3c80839fc1",
+          "text": "a los gemelos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "adff2e37-2db0-4d01-9f4a-25809c93374a",
+      "sequence": 6,
+      "lessonId": "cd592d01-6ad8-4633-8110-594a6262899d",
+      "title": "Recupere a palavra-chave",
+      "content": "<p>Después del trabajo, voy a comprar un ______ para los gemelos.</p>",
+      "contentPlain": "Después del trabajo, voy a comprar un ______ para los gemelos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Regalo é a palavra-chave da frase sobre o presente.",
+      "feedbackError": "Retome a frase completa e recupere o substantivo logo depois de un.",
+      "answerType": "buildWord",
+      "expectedAnswer": "regalo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2688cdc3-562f-4862-9f6d-32c9694c43b8",
+      "sequence": 7,
+      "lessonId": "32167b82-15ed-47f0-989e-135e8dcfc11a",
+      "title": "Reconstrua o verbo",
+      "content": "<p>Voy a _______ una planta a Rosa.</p>",
+      "contentPlain": "Voy a _______ una planta a Rosa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Regalar é o verbo que fecha o plano com o presente.",
+      "feedbackError": "Retome a frase do presente e reconstrua o verbo completo em espanhol.",
+      "answerType": "buildWord",
+      "expectedAnswer": "regalar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ee7a1210-a10c-4729-9e50-45d82952ae94",
+      "sequence": 8,
+      "lessonId": "cd592d01-6ad8-4633-8110-594a6262899d",
+      "title": "Escolha o plano coerente",
+      "content": "<p>Você quer comprar o presente só depois de sair do trabalho. Qual frase da aula combina com esse contexto?</p>",
+      "contentPlain": "Você quer comprar o presente só depois de sair do trabalho. Qual frase da aula combina com esse contexto?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa frase encaixa o presente depois de outra atividade.",
+      "feedbackError": "Retome a frase com después del trabajo: ela é a única que fala de comprar o presente.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3580dd04-8c70-4aef-95d5-2c26bf97f7e8",
+          "text": "Voy a invitar a mi compañera de clase.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a336501f-8fbd-4034-9c45-0cb35c88f100",
+          "text": "Después del trabajo, voy a comprar un regalo para los gemelos.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "db07bed6-129c-4cc3-8c69-afb155b22e53",
+          "text": "Antes de la cena, voy a visitar a mi vecino.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "612c5ffe-c1ba-4417-9436-10849c22bed1",
+      "sequence": 9,
+      "lessonId": "32167b82-15ed-47f0-989e-135e8dcfc11a",
+      "title": "Reconstrua o verbo",
+      "content": "<p>Voy a _______ a Clara.</p>",
+      "contentPlain": "Voy a _______ a Clara.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Invitar completa a frase do convite.",
+      "feedbackError": "Volte ao card do convite e recupere o verbo usado para chamar a pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "invitar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "52c0320e-bfcd-44ac-97ef-4c62b9159077",
+      "sequence": 10,
+      "lessonId": "361f9186-72b5-4308-83fc-2740b026494e",
+      "title": "Complete a mensagem",
+      "content": "<p>Depois de <strong>El sábado voy a hacer una fiesta de cumpleaños en casa.</strong>, qual linha continua a mensagem com uma participante e a tarefa dela?</p>",
+      "contentPlain": "Depois de El sábado voy a hacer una fiesta de cumpleaños en casa. , qual linha continua a mensagem com uma participante e a tarefa dela?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa linha amplia a mensagem com participante e responsabilidade concreta.",
+      "feedbackError": "Procure a opção que apresenta uma pessoa real da comemoração e a ação que ela vai fazer.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "6838c355-336b-4320-a01c-a3671083fe34",
+          "text": "Voy a invitar a mi vecina. Mi vecina va a decorar la sala.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "99da5e56-6c4f-4a36-9373-148d141b5eec",
+          "text": "Voy a decorar la sala.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f5689e37-4dba-48b0-84c8-725e9067f115",
+          "text": "Voy a invitar a mi vecina.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "71c47028-8f75-4f30-b201-069ce21c3ea3",
+      "sequence": 11,
+      "lessonId": "d610f024-573e-4253-8749-942945c007ea",
+      "title": "Ouça e escolha",
+      "content": "<p>Agora selecione a palavra que ajuda a reconhecer a relação de estudo nesse áudio.</p>",
+      "contentPlain": "Agora selecione a palavra que ajuda a reconhecer a relação de estudo nesse áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d947e573b3684365a23eb6717d69c3c5_b03-es-mi-companero-de-clase.mp3?Expires=1794099524&Signature=HbtRInWthD-xRZ~MAIJAxAgdKPPBp6~IcG0iPFsLacK5sZA4Ut15kW-GLYjMKnWGvcQU~au9ma6izshXGvbVkRwOvo3yp18Gp7AfgDWTp2ujFwHlarUxAtLqqbhMvcFdV0dnvDzcXtvfdDsjLTKIfgsN23Nf1VYdrmYfRSqtlE5vVCgIrEiq08KB0tTqDscgTKuvAkVkVp1pR88anH4MRVnM62SZG7zb~IDUmVfXq0bxPviHMRmV7PLyzmrPPWNWEpRbiDk6vKZWWX9DqOcze0Pj6qUBRCnh9CYl1pR0rmQ2W011whaPAFRIxx6NqDsim8cfBC5t0NTaoYQX9KxLXg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Compañero é a pista central para esse vínculo de estudo.",
+      "feedbackError": "Compare esse áudio com o de vizinhança e procure a palavra que aponta para convivência na sala de aula.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "03c53690-0003-403b-aac7-df6d1fffca9c",
+          "text": "vecino",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "119bea8e-308c-48d4-93d6-637a8034929e",
+          "text": "compañero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bc8e1c9c-6c44-4a89-8b44-6736211b2219",
+          "text": "gemelos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "107b1268-a05b-4fd8-b784-383fe9d18419",
+      "sequence": 12,
+      "lessonId": "ceede690-cc78-41de-b1aa-3c5a1fe0ab5f",
+      "title": "Recupere a pista correta",
+      "content": "<p>_______ de la visita, voy a invitar a mi compañera de clase.</p>",
+      "contentPlain": "_______ de la visita, voy a invitar a mi compañera de clase.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. `Después` introduz o que vem depois da visita.",
+      "feedbackError": "Falta a pista que indica a ação seguinte na sequência.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Después",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "75ab8b9d-fb1a-498a-9b8a-58536984fe9c",
+      "sequence": 13,
+      "lessonId": "cd592d01-6ad8-4633-8110-594a6262899d",
+      "title": "Escute e recupere a frase",
+      "content": "<p>Agora ouça os áudios fora da ordem do recap e ligue cada um ao texto em espanhol correspondente.</p>",
+      "contentPlain": "Agora ouça os áudios fora da ordem do recap e ligue cada um ao texto em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou as três frases apenas pelo áudio.",
+      "feedbackError": "Ouça novamente e separe as entradas voy a, antes de e después de para mapear cada frase.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "7a047e96-a1f1-4586-8650-a67198ff53e0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b69a45fbd9764098a29461f8a80f6c4b_b03-antes-de-la-cena-voy-a-visitar-a-mi-vecino.mp3?Expires=1794099524&Signature=goOn94TNNXqbCQCIADHqpXE7hXILfAfa8~qHp8n9bAQdtLBeDN85SR4s3j6WuYNccNIrzsPUkFpriY0EkUSKi7~i9eBeBxoeko5IEYhm7F-6tuiRRmn94tkqZZwZHvq8eSC70Gr2Jz4eW~UVK~JQyexABc-RI8knsfMs1cMU55aWsAylmkrC9AwMs4xpURxkZNpFIB88CmlC2dbY2QLgvyZtpf8KkVIHJwDSKSg8IqEDJus3x4~qKuc5Oc8l4rO1J2jBXmXt1hSehEh9k2iRl58TC-zzN9HzuoIA0a~~cP9iXKHfHgKd2TEm3OB0~sqRpkNPCUphFynPuxFSOugYlA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Antes de la cena, voy a visitar a mi vecino.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e17bbdd1-a27c-419b-89bb-420d3cd4ea01",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0d53c687337442e99033377e64a73a27_b01-voy-a-invitar-a-mi-companera-de-clase.mp3?Expires=1794099524&Signature=xe6KLLLq82RnmFZI3fLxDsjrIuYkEI0yKSx2AdjufYP--GGrPEnTxXiWmOoJywDRshndoegtcWMGZZ7vaMEHgGsdkvfeO-TRViNeCAg~3mWzhS1PEJ8HWFD5YJba9yzEUYp~SjhgJ-3ktY6D02EokoEsV1H3d4OQFjdqae7SnZy3c~OnASEmgMWQ6OI0h4xVVBPlcy8416ss9uq2KFK2GDQ8GObyeuKAOHZ749C1~bM1~Ccfz7ss36fUEkyfggHHInqKwh0aCgpo6hwod1vO69rWZUihtROxUz~JJdpkv~qEtXyWMgULJy8YW34NW5xpmmPf~nnk7lm0KYvqY5r1tA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Voy a invitar a mi compañera de clase.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "26e5ddf4-98cd-498b-891f-36f9501aafc4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/db2fbaf4a9ff48f9b62152583ffa4a91_b04-despues-del-trabajo-voy-a-comprar-un-regalo-para-los-gemelos.mp3?Expires=1794099524&Signature=0zxqr8L1duLt6CIpvfYIe6TVTAhuw1Vq8NwuEEHNHPAfjgr1lWNS5wv9902WilIJA5gQly2HvI8oVqGqXHSv7sGSKxH85aJXG53zjMFucF77fKBpGFuK0OXqkQs1j~4DRYRf2RbVhkg~lFHDfxpo-n9uTxacwDU8CH-1abKPddJKtYq9h-FCrELRjc5MpY-YSRC2gP80v678DC0v6l9vpRbv~76FvyrdR2bTLPTx12ZOI-g4nz1-8qRs5-PmOp-Ve49TGrpvGAtvrMXc6nw01FR9VOLGaK-fpa7bvKb5Gfj1eGLedS4yrkvGlGTLV0ZfxZVgNWQGBNAThWMhbDkmJA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Después del trabajo, voy a comprar un regalo para los gemelos.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "1800d855-dd89-4a77-9bba-b0780bf78aca",
+      "sequence": 14,
+      "lessonId": "32167b82-15ed-47f0-989e-135e8dcfc11a",
+      "title": "Identifique pelo áudio",
+      "content": "<p>Ouça a frase completa e escolha qual verbo principal aparece nela.</p>",
+      "contentPlain": "Ouça a frase completa e escolha qual verbo principal aparece nela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7d07d91da67148bb8943195bcf6dbeae_b03-voy-a-visitar-a-diego-el-domingo.mp3?Expires=1794099524&Signature=VMAC3EeqLRxlaFVlvH-5r289I10T8qZhMdEupa0O-VpigPlJJjhhLtWSh2JHNiGyZgXIYGDjoIHj7f-HaKEGBJh8YLPvA5hecYDpJyQEM1y2KXQa8eoFsF6eFpaasYMbKkD-VF~bGDew6OR5q7M8sW2U8s-zmMXFjsQljwfpF7x0Gy2etYjXVr1FCU45ExUWBK12tO1E87-w3g76lV0o83~sR9~lQwb~nBX8oyEAqydZ3v3x5FqjOW7avwSwD2PN24FT-eOaH~r5itswfqvpfKWPCf4VktzPMN0e4R0Go6oun9R~Xa~2NZaLTnN5eXozxVF8e8Wc~RmbfqvW25QOew__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Isso. O áudio traz o verbo visitar no plano de domingo.",
+      "feedbackError": "Escute novamente e foque no verbo que aparece depois de voy a.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2ccd3f7d-19e0-4425-82c5-f6f9380532e4",
+          "text": "visitar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5877465d-0da5-4ee8-9698-3a4076a4491c",
+          "text": "invitar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9bbb7517-9815-41ea-a79e-0f3189296917",
+          "text": "hacer",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cefe2bb7-590c-4ad5-af42-7b8b73ddd0a3",
+          "text": "regalar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "5a19c602-bd6d-4141-a112-7635e75e9a65",
+      "sequence": 15,
+      "lessonId": "ceede690-cc78-41de-b1aa-3c5a1fe0ab5f",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Ouça e ligue cada fala ao texto certo. Use apenas as pistas em espanhol.</p>",
+      "contentPlain": "Ouça e ligue cada fala ao texto certo. Use apenas as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta. Você reconstruiu o diálogo usando só o áudio e o texto em espanhol.",
+      "feedbackError": "Escute novamente e use as pistas `antes`, `después` e `mientras` para separar cada fala.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "0cc7458b-ddb6-4a81-bc98-9a95d5505ac6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bc0f025fddb64041a565476f7e4e9174_b05-01-que-haces-primero-para-la-fiesta.mp3?Expires=1794099524&Signature=a1ahvSgXOLhEKyw5jdb~qlNniS-ArAEfvPiupI6MzDnXHXbGEyLhiHqCVww-iDIYtuxZ72UhlWxeps2dthkHfQVxAFQG~Qf1aZ60dVjoHHUcPFEgv-8UpamzY2RqElWcbFpCGBU-Gr0s4CddKO-3CjJ-TcK1~OuxkReLY7Rhq1mArbd2hTUW0t34Ah7wwYbJEVRVIkQFcc15oIgNyNfICeZkUXdhYWazvxuPaGEBddvTEe3VYrlsd~i3P3tzJksg3PC2xyz6qXGOtSBHv0Pzm~RfEdcbHbrpu0rxTPCTUBhqgTRz0v~Lw1lNL0U7HLK8vHzcpRxHr4zRH37U547UBg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué haces primero para la fiesta?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a4f1ce0e-8b12-4052-808e-9ece35129826",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5c4600dbcd4741aebbd56197f48c5bcc_b01-antes-de-la-fiesta.mp3?Expires=1794099524&Signature=OO6krfFSwq7gzW5xMdw65j~Y~yWn1pvzTWhOwPCqzjdijE~n8CpmNnFsM066IiNCgFKrYdIwEyNp9ab0ZWSEBM2UQXWMQ9gzslcIR5v-II07~8rC0km9yah0mxGy3-UepjCXg2Va3MvVSDIiOdZ~-lZn3n9BPoa-1o8MXnefzvU3JJwGvpD~RPtJQiljdgeTk~FVFOcU11mhPdgqETZg7l5Hvp~H2SA-KMx8s94GWGDX3rT4vBw3q1MtTbdEFxwOOaC4BTDSl5OZdCMwcwX58fkx8NP7lJ-I8ZiME~okc9M-YzZZokOy9VjtVZuKpY~UpqpzEe3RPu-biqh5ev5~zw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Antes de la fiesta, voy a visitar a mi vecino.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "894f3f68-1409-4fcf-a1a3-77f92248d02b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6992f65703944144bf89aeff1cd330e4_b02-despues-de-la-visita.mp3?Expires=1794099524&Signature=M0y3-~QktgmnDq6SialpRP4eHidMxkDQXvgMFIuKHSiE~~xkrju4BbgqWNw-X~p30L9tJ4aJyQD6v9w2oa96K1zI67YxBYQcIMyKxdVuO-HGPxPAy-oo91QTlNo0Sp8leJX333~YCN18nU2NGnRlNj70ZC7zwGArTRomyFjs2wi~mdL-pL1-I3B4Jz20Y2r7HxRF4XsICZvXz1rwmd043BWBVfzDlD7I-mFmOzquvzhL444HapXhZYJpsiCMMqIht2zUCyYrRGBUDSvUAe69ChvYucmIKsJ0SzrumoSVFsxBdCSyklm29DmUeDIhxyMJasbUnnyeph2VGlvbI7uC~g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Después de la visita, voy a invitar a mi compañera de clase.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "cd9f9efd-b76e-4e02-8259-2f06502fae79",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fdd1c39802df4457a3ece478a15aca27_b03-mientras-yo-visito.mp3?Expires=1794099524&Signature=ZRrFQR0xoXgxdukyAfpY17RaC5sXRw5Temy~dn24tYARefJIA6Ea8PcJviVfyENV9GM0XGkyyOflJw7RskSVCYHcO-9o8WdKJK~3mbtz0eSMyoKZX9TDi4luZNZjgmpzyw2yu-4YRWybMGGrCvUWO03MoG5oHM1Tv9TJ-Ta3X5saTMTAWOhNQPDEbaATASuNe7Gpvm~c7c2xZUSQDBD0apjyvGBz2n2lalj8fqu45Ty8oFdoiTdrzPyx6Pg5HBDprArXI4f9Z31jipmBCx2ftW-9KsleauxjmrPL7DvM~lrSVS6C0oejnxkzTx7ljb2~fSCUmyDUyIAG5fWtKz0Bqw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mientras yo visito a mi vecino, mi compañera de clase invita a los gemelos.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ]
+}

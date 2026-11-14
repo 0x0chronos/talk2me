@@ -1,0 +1,600 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+    "attemptId": "28d1c6a2-bb20-4c34-9ac6-a7505ec2a8a3",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "92a288ab-450a-47f7-bb40-73ce6b083c58",
+      "de255aa0-92f4-40d9-8f24-945d40098343",
+      "845dc3ab-2662-4036-b3df-0dd4502e9dfb",
+      "242ee9d4-1b31-4f9c-a077-34819a298540",
+      "3728fe90-5424-42ac-9672-154589b36b42"
+    ],
+    "evaluationExerciseIds": [
+      "8b2135f8-a8ab-4317-b734-7edec9c261f9",
+      "593a7fc7-753b-43e1-8f51-f907740bb37c",
+      "c8efd526-a7b8-4586-9a4d-e3d0bc1c6c98",
+      "ef6a9bba-0732-4e58-8350-d52a05d6092e",
+      "0414b123-031e-4ff3-bcbd-58f41e132fa0"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:26.5144647Z"
+  },
+  "contents": [
+    {
+      "id": "d8f818dd-afef-49a1-b64d-f602dfda5dfb",
+      "title": "Leia o contexto breve e procure duas pistas em cada perfil: onde a pessoa vive e o que ela faz.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "670b6880-442b-435e-b267-08216b773346",
+          "textContent": "<p>Nesta aula, você vai ler perfis bem curtos de estudantes em Barcelona.</p><p>Em cada perfil, procure duas pistas: <strong>onde a pessoa vive</strong> e <strong>o que ela faz</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "14787ba3-28aa-4c69-98e1-35cd492e485f",
+      "title": "Escute e leia a frase completa com tradução.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "f1932015-6c63-470b-b0e5-555f646bc852",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Vive en Barcelona.</strong></p><p>Mora em Barcelona.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/89e471ee5254492f9c064ab5b8788d83_vive-en-barcelona.mp3?Expires=1794099447&Signature=PmHtsZ18WBPFW712-FWO69fjCqqmGHzWs1y94hYjqg2CO0zu7sBhcQ6k9D1nNkzjfl8nKc0DiPpw1wTwy0Crd8TWz0gSMGyC1BqRB1N7GBGDuQ0IrTQeDe0NEAPpruaz-zU6m7BFhrlwv5cfz1cOYuxuAuqhqmdjpfCKyeap7y-HRMEvSS-CfiRu4WQufsGLRWZN1CvGDIVx2NfgIF~eDMp6twaCrzCcei0TvzuA8Dgj7x5nNeF9udhJxn5Wh6oqE2adb~hYtUsARVuq1EfmlKQq7ZcUs2N-jfbpRzRxC~9oyulOlGyg4N6~1sYVFhoUIRs-ynPSS1XKe6YhNZALJw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f0583f85-4735-4a9a-8ae8-9223ee41b6a4",
+      "title": "Releia a frase e observe qual parte indica o lugar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "392c4c8e-7bc8-4181-b04d-de450ae56e40",
+          "textContent": "<p>Use <strong>vive en + lugar</strong> para dizer onde uma pessoa mora.</p><p>No perfil, <strong>Barcelona</strong> é a cidade.</p><p>Ao ler, essa estrutura ajuda você a localizar rápido uma informação importante.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "22f110e5-3a71-4fa1-8363-06599ab83f74",
+      "title": "Escute e leia a frase completa com tradução.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "e03cbe29-9176-4c48-abcb-8192dcbeb1fe",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Estudia historia.</strong></p><p>Estuda história.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/916d924f30c346dd8a54752ef174734d_estudia-historia.mp3?Expires=1794099447&Signature=QU~XhCm~GznwY4Idkv1Jk5arzykvRdrAmELXb5aOm3ejT01Pf-cOjaIgrW1IQVClN4m--Jo9m7gAA0j5SP2nIHfy-pQNL6r4zH6qm6Xt7fBA99zMEJJUNlS8aEYCHfCxmEOpDF5ydciFU-29mJCBt-Fz3P87cfyAPOIMu9dCdeQhnThmyJ0oAIZpL8sRztuyUV~wo-dSdbDJYZov~oYCcaX9GW-kV92Kd94~SCxLaB9t8tE5hlcOx70tyuA-asbzrCD6XemrnUL6r04bpZYVjpy5~uuFl9DPcjoiRVoUzCgpQ4BFAID7OTGaRvPQgKMIN40i~hpEk4w1dBsuedbLMg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d5e52e48-88da-48b0-ba90-c6a813d16826",
+      "title": "Leia a explicação curta e observe o que aparece depois de `estudia`.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "6bda93ce-d1fe-4bbd-a07e-4e1f3bace3bd",
+          "textContent": "<p>Use <strong>estudia + matéria</strong> para indicar o que a pessoa estuda.</p><p>Na leitura, a palavra depois de <strong>estudia</strong> traz a informação principal desta parte.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8f36ef07-f0ce-43af-a836-0ac47dd7ae10",
+      "title": "Escute e leia a frase completa com tradução.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "877dd2d8-8868-4d64-9c6e-17cb90c53aa0",
+          "textContent": "<p>Escute e leia a frase.</p><p><strong>Trabaja en un café.</strong></p><p>Trabalha em um café.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/488f084afd2248da9eef73e0a0620fef_trabaja-en-un-cafe.mp3?Expires=1794099447&Signature=fkT1j78WeGRXhZHCl~bT939hc5CCdEllFbm4RvohVpv~jAri0peDdA0QIxXRmApvEpMR-VN4Az9qQsD62FRdZ4U-5NYGuVWeiHDETb~YrgJRJccPCU6tPfhSsBorY15bUXxRCf5N-lhsdNZQagkytRXvuZlmARXydIdyT2P-0~1t4UM6fQLtdTKeQ4A5IMIXeicQrMWI63RcjlAJBC6m2mcn2adgYXC-GaB1oFZ~WzGR7bTFoDCfbpXtmvjBXBgvA1~vmIDbUaEfDAY8o8j19OGftgHMMBeCJK6nomEx6N7JBDWIp5xnhpuW~1jaIbxSygTyy9r7DdMHfNjgx3QUCQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f55fd74e-5c43-4b5c-bacb-ecccef69b88d",
+      "title": "Leia a explicação curta e observe o lugar que aparece depois de `en`.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "e36c5cc4-ed94-48f1-8e64-2d05d185f5e6",
+          "textContent": "<p>Use <strong>trabaja en + lugar</strong> para mostrar onde a pessoa trabalha.</p><p>Depois de <strong>en</strong>, a leitura traz o local de trabalho.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c5d8f931-f38b-464a-baee-d8843bfdcc6f",
+      "title": "Leia o perfil e observe que cada frase traz uma informação principal.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "17e9716d-c4b1-4f12-b0b1-419825bae5de",
+          "textContent": "<p>Agora a informação aparece dentro de um perfil curto.</p><p><strong>Lucía vive en Barcelona. Estudia historia.</strong></p><p>Leia assim: primeiro a cidade, depois o estudo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d7575365-e09a-4fde-80a7-5133fa5e1c35",
+      "title": "Leia o perfil e repare que a organização da informação continua igual.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "e295a6b4-a277-42c7-8e1c-157e43aad992",
+          "textContent": "<p>O padrão continua igual em outro perfil.</p><p><strong>Marcos vive en Barcelona. Trabaja en un café.</strong></p><p>Leia assim: primeiro a cidade, depois o trabalho.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6ff40b11-4150-4bc2-b4d8-38253fe6f04f",
+      "title": "Leia os dois perfis juntos e procure primeiro moradia, depois estudo ou trabalho.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "b823e570-a8dd-4df4-b77f-93529eef9903",
+          "textContent": "<p>Agora leia os dois perfis juntos.</p><p><strong>Lucía vive en Barcelona. Estudia historia. Marcos vive en Barcelona. Trabaja en un café.</strong></p><p>Para entender rápido, procure primeiro a moradia. Depois, veja se a segunda frase fala de estudo ou trabalho.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8044c7ed-a488-4b3c-be56-8d44cd822472",
+      "title": "Leia o resumo final e conecte esse tipo de perfil a apresentações de colegas, moradia ou universidade.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "a4428d6a-ed75-4d59-aa61-ac1266aad763",
+          "textContent": "<p>Na vida real, esse tipo de texto aparece em apresentações de colegas, em grupos de moradia ou em mensagens da universidade.</p><p><strong>vive en Barcelona</strong> mostra onde a pessoa mora.</p><p><strong>estudia historia</strong> e <strong>trabaja en un café</strong> mostram a atividade principal.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "92a288ab-450a-47f7-bb40-73ce6b083c58",
+      "title": "Escolha a pista de moradia",
+      "content": "<p>Leia as três pistas curtas e selecione a que fala de moradia.</p>",
+      "contentPlain": "Leia as três pistas curtas e selecione a que fala de moradia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, vive en + lugar mostra onde a pessoa mora.",
+      "feedbackError": "Nesta aula, vive en + lugar mostra onde a pessoa mora.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "149cc630-94aa-40e3-aa21-b22deb5a2db8",
+          "textContent": "Trabaja en un café.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "92a288ab-450a-47f7-bb40-73ce6b083c58"
+        },
+        {
+          "id": "7cd3b1a3-8dcc-431b-bf3c-be1051d3048d",
+          "textContent": "Estudia historia.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "92a288ab-450a-47f7-bb40-73ce6b083c58"
+        },
+        {
+          "id": "e74a17b8-f908-418d-b0a7-b15181b4729f",
+          "textContent": "Vive en Barcelona.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "92a288ab-450a-47f7-bb40-73ce6b083c58"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "de255aa0-92f4-40d9-8f24-945d40098343",
+      "title": "Ligue a frase ao sentido",
+      "content": "<p>Relacione cada pista do perfil ao sentido correto.</p>",
+      "contentPlain": "Relacione cada pista do perfil ao sentido correto.",
+      "fileUrl": null,
+      "feedbackSuccess": "A recapitulação final retoma moradia, estudo e trabalho em frases bem curtas.",
+      "feedbackError": "A recapitulação final retoma moradia, estudo e trabalho em frases bem curtas.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5a670bc8-f9b6-4ddc-bb4d-4d8e21aed411",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "de255aa0-92f4-40d9-8f24-945d40098343"
+        },
+        {
+          "id": "a925c14b-4a28-4427-97c8-a441f243702e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "de255aa0-92f4-40d9-8f24-945d40098343"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ab8d5036-2f81-4609-a4e6-774393b8382e",
+          "exerciseId": "de255aa0-92f4-40d9-8f24-945d40098343",
+          "leftContent": "Vive en Barcelona.",
+          "rightContent": "mora em Barcelona",
+          "sequenceItem": 1
+        },
+        {
+          "id": "789d15e0-2705-49bc-9c7f-0ec9238e6c35",
+          "exerciseId": "de255aa0-92f4-40d9-8f24-945d40098343",
+          "leftContent": "Estudia historia.",
+          "rightContent": "estuda história",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ad9cefeb-69f3-45f6-b1e4-30aa77aef8de",
+          "exerciseId": "de255aa0-92f4-40d9-8f24-945d40098343",
+          "leftContent": "Trabaja en un café.",
+          "rightContent": "trabalha em um café",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "845dc3ab-2662-4036-b3df-0dd4502e9dfb",
+      "title": "Escute e associe as três pistas",
+      "content": "<p>Ligue cada áudio à frase certa e recupere as três pistas principais da aula.</p>",
+      "contentPlain": "Ligue cada áudio à frase certa e recupere as três pistas principais da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ligar som e escrita nas três pistas centrais da aula.",
+      "feedbackError": "Aqui o foco é ligar som e escrita nas três pistas centrais da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "a7c5d540-3e0a-4fb1-a076-91ea11710fb6",
+          "exerciseId": "845dc3ab-2662-4036-b3df-0dd4502e9dfb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/89e471ee5254492f9c064ab5b8788d83_vive-en-barcelona.mp3?Expires=1794099447&Signature=PmHtsZ18WBPFW712-FWO69fjCqqmGHzWs1y94hYjqg2CO0zu7sBhcQ6k9D1nNkzjfl8nKc0DiPpw1wTwy0Crd8TWz0gSMGyC1BqRB1N7GBGDuQ0IrTQeDe0NEAPpruaz-zU6m7BFhrlwv5cfz1cOYuxuAuqhqmdjpfCKyeap7y-HRMEvSS-CfiRu4WQufsGLRWZN1CvGDIVx2NfgIF~eDMp6twaCrzCcei0TvzuA8Dgj7x5nNeF9udhJxn5Wh6oqE2adb~hYtUsARVuq1EfmlKQq7ZcUs2N-jfbpRzRxC~9oyulOlGyg4N6~1sYVFhoUIRs-ynPSS1XKe6YhNZALJw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vive en Barcelona.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5901a450-df89-4528-acce-0c6653473a21",
+          "exerciseId": "845dc3ab-2662-4036-b3df-0dd4502e9dfb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/916d924f30c346dd8a54752ef174734d_estudia-historia.mp3?Expires=1794099447&Signature=QU~XhCm~GznwY4Idkv1Jk5arzykvRdrAmELXb5aOm3ejT01Pf-cOjaIgrW1IQVClN4m--Jo9m7gAA0j5SP2nIHfy-pQNL6r4zH6qm6Xt7fBA99zMEJJUNlS8aEYCHfCxmEOpDF5ydciFU-29mJCBt-Fz3P87cfyAPOIMu9dCdeQhnThmyJ0oAIZpL8sRztuyUV~wo-dSdbDJYZov~oYCcaX9GW-kV92Kd94~SCxLaB9t8tE5hlcOx70tyuA-asbzrCD6XemrnUL6r04bpZYVjpy5~uuFl9DPcjoiRVoUzCgpQ4BFAID7OTGaRvPQgKMIN40i~hpEk4w1dBsuedbLMg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estudia historia.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "04b06c32-4610-4c49-94d0-afae9a13e16a",
+          "exerciseId": "845dc3ab-2662-4036-b3df-0dd4502e9dfb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/488f084afd2248da9eef73e0a0620fef_trabaja-en-un-cafe.mp3?Expires=1794099447&Signature=fkT1j78WeGRXhZHCl~bT939hc5CCdEllFbm4RvohVpv~jAri0peDdA0QIxXRmApvEpMR-VN4Az9qQsD62FRdZ4U-5NYGuVWeiHDETb~YrgJRJccPCU6tPfhSsBorY15bUXxRCf5N-lhsdNZQagkytRXvuZlmARXydIdyT2P-0~1t4UM6fQLtdTKeQ4A5IMIXeicQrMWI63RcjlAJBC6m2mcn2adgYXC-GaB1oFZ~WzGR7bTFoDCfbpXtmvjBXBgvA1~vmIDbUaEfDAY8o8j19OGftgHMMBeCJK6nomEx6N7JBDWIp5xnhpuW~1jaIbxSygTyy9r7DdMHfNjgx3QUCQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Trabaja en un café.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "242ee9d4-1b31-4f9c-a077-34819a298540",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase curta de moradia.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase curta de moradia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/89e471ee5254492f9c064ab5b8788d83_vive-en-barcelona.mp3?Expires=1794099447&Signature=PmHtsZ18WBPFW712-FWO69fjCqqmGHzWs1y94hYjqg2CO0zu7sBhcQ6k9D1nNkzjfl8nKc0DiPpw1wTwy0Crd8TWz0gSMGyC1BqRB1N7GBGDuQ0IrTQeDe0NEAPpruaz-zU6m7BFhrlwv5cfz1cOYuxuAuqhqmdjpfCKyeap7y-HRMEvSS-CfiRu4WQufsGLRWZN1CvGDIVx2NfgIF~eDMp6twaCrzCcei0TvzuA8Dgj7x5nNeF9udhJxn5Wh6oqE2adb~hYtUsARVuq1EfmlKQq7ZcUs2N-jfbpRzRxC~9oyulOlGyg4N6~1sYVFhoUIRs-ynPSS1XKe6YhNZALJw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A prática oral ativa o padrão vive en + lugar.",
+      "feedbackError": "A prática oral ativa o padrão vive en + lugar.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Vive en Barcelona.",
+      "typeSpecificData": "{\"expectedText\":\"Vive en Barcelona.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/89e471ee5254492f9c064ab5b8788d83_vive-en-barcelona.mp3?Expires=1794099447\\u0026Signature=PmHtsZ18WBPFW712-FWO69fjCqqmGHzWs1y94hYjqg2CO0zu7sBhcQ6k9D1nNkzjfl8nKc0DiPpw1wTwy0Crd8TWz0gSMGyC1BqRB1N7GBGDuQ0IrTQeDe0NEAPpruaz-zU6m7BFhrlwv5cfz1cOYuxuAuqhqmdjpfCKyeap7y-HRMEvSS-CfiRu4WQufsGLRWZN1CvGDIVx2NfgIF~eDMp6twaCrzCcei0TvzuA8Dgj7x5nNeF9udhJxn5Wh6oqE2adb~hYtUsARVuq1EfmlKQq7ZcUs2N-jfbpRzRxC~9oyulOlGyg4N6~1sYVFhoUIRs-ynPSS1XKe6YhNZALJw__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3728fe90-5424-42ac-9672-154589b36b42",
+      "title": "Identifique as palavras da frase",
+      "content": "<p>Escute a pista de trabalho e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a pista de trabalho e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/488f084afd2248da9eef73e0a0620fef_trabaja-en-un-cafe.mp3?Expires=1794099447&Signature=fkT1j78WeGRXhZHCl~bT939hc5CCdEllFbm4RvohVpv~jAri0peDdA0QIxXRmApvEpMR-VN4Az9qQsD62FRdZ4U-5NYGuVWeiHDETb~YrgJRJccPCU6tPfhSsBorY15bUXxRCf5N-lhsdNZQagkytRXvuZlmARXydIdyT2P-0~1t4UM6fQLtdTKeQ4A5IMIXeicQrMWI63RcjlAJBC6m2mcn2adgYXC-GaB1oFZ~WzGR7bTFoDCfbpXtmvjBXBgvA1~vmIDbUaEfDAY8o8j19OGftgHMMBeCJK6nomEx6N7JBDWIp5xnhpuW~1jaIbxSygTyy9r7DdMHfNjgx3QUCQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Trabaja en + lugar marca o local de trabalho no perfil.",
+      "feedbackError": "Trabaja en + lugar marca o local de trabalho no perfil.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "652e56bb-b22c-47f2-8e0b-a8ad5b338547",
+          "textContent": "trabaja",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3728fe90-5424-42ac-9672-154589b36b42"
+        },
+        {
+          "id": "7f30b8e0-6ebb-4367-a3d8-b29896c03778",
+          "textContent": "vive",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3728fe90-5424-42ac-9672-154589b36b42"
+        },
+        {
+          "id": "a16bf4c7-e262-44d5-8c53-3fd77d1caee6",
+          "textContent": "un",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3728fe90-5424-42ac-9672-154589b36b42"
+        },
+        {
+          "id": "bdb85ec9-ba11-4f1d-a326-a16acc308a4e",
+          "textContent": "Barcelona",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3728fe90-5424-42ac-9672-154589b36b42"
+        },
+        {
+          "id": "d4907847-cb94-45fb-a5b3-5be7b9438d6a",
+          "textContent": "en",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3728fe90-5424-42ac-9672-154589b36b42"
+        },
+        {
+          "id": "f5b3f622-75ea-4772-8564-c3f12405f53d",
+          "textContent": "café",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3728fe90-5424-42ac-9672-154589b36b42"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "8b2135f8-a8ab-4317-b734-7edec9c261f9",
+      "title": "Complete a matéria",
+      "content": "<p>Lucía estudia ________.</p><p>Tradução: Lucía estuda história.</p>",
+      "contentPlain": "Lucía estudia ________. Tradução: Lucía estuda história.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com estudia, a palavra seguinte mostra o que a pessoa estuda.",
+      "feedbackError": "Com estudia, a palavra seguinte mostra o que a pessoa estuda.",
+      "answerType": "buildWord",
+      "expectedAnswer": "historia",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "593a7fc7-753b-43e1-8f51-f907740bb37c",
+      "title": "Complete o lugar",
+      "content": "<p>Marcos trabaja en un ____.</p><p>Tradução: Marcos trabalha em um café.</p>",
+      "contentPlain": "Marcos trabaja en un ____. Tradução: Marcos trabalha em um café.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de trabaja en, o perfil traz o lugar de trabalho.",
+      "feedbackError": "Depois de trabaja en, o perfil traz o lugar de trabalho.",
+      "answerType": "buildWord",
+      "expectedAnswer": "café",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c8efd526-a7b8-4586-9a4d-e3d0bc1c6c98",
+      "title": "Complete o verbo de trabalho",
+      "content": "<p>Marcos _______ en un café.</p><p>Tradução: Marcos trabalha em um café.</p>",
+      "contentPlain": "Marcos _______ en un café. Tradução: Marcos trabalha em um café.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com trabaja en + lugar, a leitura mostra onde a pessoa trabalha.",
+      "feedbackError": "Com trabaja en + lugar, a leitura mostra onde a pessoa trabalha.",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabaja",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ef6a9bba-0732-4e58-8350-d52a05d6092e",
+      "title": "Complete o verbo de moradia",
+      "content": "<p>Lucía ____ en Barcelona.</p><p>Tradução: Lucía mora em Barcelona.</p>",
+      "contentPlain": "Lucía ____ en Barcelona. Tradução: Lucía mora em Barcelona.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nos microperfis, a primeira frase costuma trazer a moradia da pessoa.",
+      "feedbackError": "Nos microperfis, a primeira frase costuma trazer a moradia da pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "vive",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0414b123-031e-4ff3-bcbd-58f41e132fa0",
+      "title": "Associe descrição e perfil",
+      "content": "<p>Relacione cada resumo em português ao microperfil correspondente em espanhol.</p>",
+      "contentPlain": "Relacione cada resumo em português ao microperfil correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na leitura curta, primeiro aparece a moradia e depois a atividade principal.",
+      "feedbackError": "Na leitura curta, primeiro aparece a moradia e depois a atividade principal.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "245ad6e7-7416-493d-912a-d41a7fefd7e4",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5b564927-20a8-4631-b9e0-eb2a8010d2cd",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0414b123-031e-4ff3-bcbd-58f41e132fa0"
+        },
+        {
+          "id": "d618fb63-a605-4fce-8bb2-780f681835a1",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0414b123-031e-4ff3-bcbd-58f41e132fa0"
+        }
+      ],
+      "associations": [
+        {
+          "id": "b585a459-4f26-43a5-bb8a-c5da1e4ee5f6",
+          "exerciseId": "0414b123-031e-4ff3-bcbd-58f41e132fa0",
+          "leftContent": "mora em Barcelona e estuda história",
+          "rightContent": "Lucía vive en Barcelona. Estudia historia.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3e117dd4-79d1-4f0b-89e1-3c3f43eefbc5",
+          "exerciseId": "0414b123-031e-4ff3-bcbd-58f41e132fa0",
+          "leftContent": "mora em Barcelona e trabalha em um café",
+          "rightContent": "Marcos vive en Barcelona. Trabaja en un café.",
+          "sequenceItem": 2
+        }
+      ]
+    }
+  ],
+  "title": "Ler perfis curtos de estudantes em Barcelona"
+}

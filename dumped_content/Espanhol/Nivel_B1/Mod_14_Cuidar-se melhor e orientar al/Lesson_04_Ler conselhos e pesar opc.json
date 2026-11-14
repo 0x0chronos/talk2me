@@ -1,0 +1,543 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+    "attemptId": "ceec797d-3385-4bfc-9444-bc1515237f9d",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "6b50db24-864d-4f03-b913-94217cf7b098",
+      "c83408d4-6849-4194-bdf0-bdcd695d80db",
+      "94e50c60-3cc2-4a94-812f-0e14e0bee740",
+      "c18b41ac-e656-47d0-a563-7740a3cce802",
+      "e6dacf0b-c465-42a0-8c6d-2541a99bda24"
+    ],
+    "evaluationExerciseIds": [
+      "074efaf3-791c-4394-bb7f-05de75113c64",
+      "659d3702-8380-4cd7-a70c-fa8e983a2852",
+      "316c1204-4392-4682-960e-6703a0b8fc83",
+      "4b2806f9-9ffb-42f2-8c6c-681c791b3232",
+      "2ad42f00-4feb-484d-b6d5-66a29ea924eb"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:40.1298385Z"
+  },
+  "contents": [
+    {
+      "id": "8cde9e9f-db6a-4ce2-803c-4e9dc5145125",
+      "title": "Leia a abertura e observe o critério que vai guiar a comparação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "72d9df83-0d64-438b-b098-86c3c73e2463",
+          "textContent": "<p>Ler um conselho não é só reconhecer <strong>te recomiendo que...</strong> ou <strong>conviene que...</strong>.</p><p>Nesta aula, o foco é perceber qual orientação responde melhor ao problema principal.</p><p>Você vai comparar conselhos curtos e pesar o que é útil, exagerado ou apenas parcial.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6ca2650f-ad4f-4a1d-a0f1-13d2ad98be65",
+      "title": "Leia o caso e observe qual é a preocupação central da pessoa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "8a8dafd9-640a-47d7-94c4-e47ab35f063d",
+          "textContent": "<p>Este é o pedido de ajuda:</p><p><strong>Tengo la piel muy seca y, después de ducharme, me queda tirante. No sé qué cambiar en mi rutina.</strong></p><p>A pessoa descreve o problema e pede uma orientação concreta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a7bf95e2-da3b-4f67-81ee-8ab7ceff1693",
+      "title": "Leia a primeira opção e observe como ela se liga ao problema descrito.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "2f888649-30bd-43e1-8443-82eafb4c73e1",
+          "textContent": "<p>Opção 1:</p><p><strong>Te recomiendo que uses una crema hidratante después de ducharte.</strong></p><p>Este conselho toca diretamente no momento em que a pele fica mais seca.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "15fb81ac-89f5-42dd-a94d-e0c83b41b010",
+      "title": "Leia a segunda opção e note por que ela soa mais ampla do que o caso exige.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "37dddb4e-8ce9-4c14-ac86-75f5b6f63bbc",
+          "textContent": "<p>Opção 2:</p><p><strong>Es mejor que cambies toda tu rutina de cuidado esta semana.</strong></p><p>A frase soa firme, mas propõe uma mudança muito ampla para um problema ainda bem localizado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "87dcb97d-fe03-43a9-953e-e55c34b3dc43",
+      "title": "Leia a terceira opção e observe por que ela ajuda só de forma parcial.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "ff32eb15-23cb-4c37-8f4b-2251c6d2577e",
+          "textContent": "<p>Opção 3:</p><p><strong>Conviene que bebas más agua durante el día.</strong></p><p>Esta orientação pode ajudar, mas não ataca de modo tão direto o ponto principal do caso.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4172631c-831c-4154-9fc4-35e0c8c0c95f",
+      "title": "Leia a comparação e observe o papel de cada conselho dentro do caso.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "4aa6a543-91b1-40f0-b8d1-ff3e9ca4f06b",
+          "textContent": "<p>Ao pesar as três opções, vale olhar para a relação entre problema e conselho.</p><ul><li><strong>Te recomiendo que uses una crema hidratante después de ducharte.</strong> responde ao foco principal.</li><li><strong>Es mejor que cambies toda tu rutina de cuidado esta semana.</strong> exagera o tamanho da mudança.</li><li><strong>Conviene que bebas más agua durante el día.</strong> fica em um plano mais geral e parcial.</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ab95a4ac-3ed2-40ab-9997-55f9d208f457",
+      "title": "Leia a nota e localize no caso as palavras que justificam o conselho mais adequado.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "5ca15de6-aeeb-414f-af5c-b468fa7f4d13",
+          "textContent": "<p>As pistas mais fortes do caso são <strong>tengo la piel muy seca</strong> e <strong>después de ducharme, me queda tirante</strong>.</p><p>Esses trechos apontam para um cuidado específico da pele logo depois do banho.</p><p>Por isso, a opção com <strong>crema hidratante</strong> combina melhor com o texto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "299079b3-a610-4c08-b3da-af5ed3de78ad",
+      "title": "Leia o fechamento e observe como essa leitura ajuda fora da aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "96e1bd00-f168-40ca-954d-9fec3b1f06f9",
+          "textContent": "<p>Na vida real, esse tipo de leitura ajuda quando você recebe um conselho por mensagem, em um fórum ou em uma conversa curta.</p><p>O mais útil não é escolher a frase mais forte, e sim a que responde ao problema central com precisão.</p><p>Neste caso, a resposta mais alinhada é: <strong>Te recomiendo que uses una crema hidratante después de ducharte.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "6b50db24-864d-4f03-b913-94217cf7b098",
+      "title": "Escolha a queixa central",
+      "content": "<p>No caso lido, qual frase mostra o problema principal que a pessoa quer resolver?</p>",
+      "contentPlain": "No caso lido, qual frase mostra o problema principal que a pessoa quer resolver?",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "31c61185-e030-4f59-9989-864d29193e42",
+          "textContent": "Tengo la piel muy seca.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6b50db24-864d-4f03-b913-94217cf7b098"
+        },
+        {
+          "id": "6b635733-0471-49d8-b87b-4b3d8835cc5d",
+          "textContent": "No sé qué cambiar en mi rutina.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6b50db24-864d-4f03-b913-94217cf7b098"
+        },
+        {
+          "id": "d7fe917e-4f26-4582-ab80-0cd65a1e295c",
+          "textContent": "Conviene que bebas más agua durante el dia.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6b50db24-864d-4f03-b913-94217cf7b098"
+        },
+        {
+          "id": "ebffacb4-0547-4d15-a6b5-777bb6fe1049",
+          "textContent": "Te recomiendo que uses una crema hidratante después de ducharte.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6b50db24-864d-4f03-b913-94217cf7b098"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c83408d4-6849-4194-bdf0-bdcd695d80db",
+      "title": "Escolha o conselho mais direto",
+      "content": "<p>Qual orientação responde com mais precisão ao desconforto que aparece depois do banho?</p>",
+      "contentPlain": "Qual orientação responde com mais precisão ao desconforto que aparece depois do banho?",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "f8ddf9f8-867c-433a-b3b2-cbf845e9cf22",
+          "textContent": "Te recomiendo que uses una crema hidratante después de ducharte.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c83408d4-6849-4194-bdf0-bdcd695d80db"
+        },
+        {
+          "id": "f9b80efb-b83c-4a25-9dc2-214e71a40656",
+          "textContent": "Conviene que bebas más agua durante el día.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c83408d4-6849-4194-bdf0-bdcd695d80db"
+        },
+        {
+          "id": "fbbccbec-1ea0-4b1f-8321-38a598b32259",
+          "textContent": "Es mejor que cambies toda tu rutina de cuidado esta semana.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c83408d4-6849-4194-bdf0-bdcd695d80db"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "94e50c60-3cc2-4a94-812f-0e14e0bee740",
+      "title": "Escolha a pista do texto",
+      "content": "<p>Qual trecho do caso mostra que o desconforto aparece logo depois do banho?</p>",
+      "contentPlain": "Qual trecho do caso mostra que o desconforto aparece logo depois do banho?",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "ab1c239b-8cf4-491a-9a6b-d642cc8fe033",
+          "textContent": "después de ducharme, me queda tirante",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "94e50c60-3cc2-4a94-812f-0e14e0bee740"
+        },
+        {
+          "id": "afb235e5-6662-4981-8d08-784eb2edc5dc",
+          "textContent": "durante el día",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "94e50c60-3cc2-4a94-812f-0e14e0bee740"
+        },
+        {
+          "id": "bcbcb9ea-dfe4-4d42-9efa-5b24f5bf1ad2",
+          "textContent": "toda tu rutina de cuidado esta semana",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "94e50c60-3cc2-4a94-812f-0e14e0bee740"
+        },
+        {
+          "id": "c98bff6a-c164-4765-b1ad-22c199b52590",
+          "textContent": "tengo la piel muy seca",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "94e50c60-3cc2-4a94-812f-0e14e0bee740"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c18b41ac-e656-47d0-a563-7740a3cce802",
+      "title": "Complete o conselho parcial",
+      "content": "<p>Complete em espanhol: Conviene que bebas más ____ durante el día.</p><p>Tradução: Convém que você beba mais água durante o dia.</p>",
+      "contentPlain": "Complete em espanhol: Conviene que bebas más ____ durante el día. Tradução: Convém que você beba mais água durante o dia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "agua",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e6dacf0b-c465-42a0-8c6d-2541a99bda24",
+      "title": "Ligue conselho e efeito",
+      "content": "<p>Relacione cada opção da aula ao papel que ela cumpre ao comparar os conselhos.</p>",
+      "contentPlain": "Relacione cada opção da aula ao papel que ela cumpre ao comparar os conselhos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "161364f3-1d1c-4d42-a9bb-f3aae3b3fde1",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e6dacf0b-c465-42a0-8c6d-2541a99bda24"
+        },
+        {
+          "id": "30b3f3d8-58ef-4c1f-8696-54430cce151f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e6dacf0b-c465-42a0-8c6d-2541a99bda24"
+        }
+      ],
+      "associations": [
+        {
+          "id": "b593796c-55ac-456e-a5e7-bed3400be46f",
+          "exerciseId": "e6dacf0b-c465-42a0-8c6d-2541a99bda24",
+          "leftContent": "Te recomiendo que uses una crema hidratante después de ducharte.",
+          "rightContent": "responde ao foco principal",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d1a0fac2-94b9-4eed-962b-593a08a3e899",
+          "exerciseId": "e6dacf0b-c465-42a0-8c6d-2541a99bda24",
+          "leftContent": "Es mejor que cambies toda tu rutina de cuidado esta semana.",
+          "rightContent": "exagera a mudança",
+          "sequenceItem": 2
+        },
+        {
+          "id": "83c9fe4d-a28f-436d-a931-1310d5b06eae",
+          "exerciseId": "e6dacf0b-c465-42a0-8c6d-2541a99bda24",
+          "leftContent": "Conviene que bebas más agua durante el dia.",
+          "rightContent": "ajuda de modo parcial",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "074efaf3-791c-4394-bb7f-05de75113c64",
+      "title": "Ligue a opção ao alcance real",
+      "content": "<p>Relacione cada conselho a como ele funciona dentro do caso, indo além de rotulos simples.</p>",
+      "contentPlain": "Relacione cada conselho a como ele funciona dentro do caso, indo além de rotulos simples.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4fbb532a-c483-40df-8555-6d8887010ed6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "074efaf3-791c-4394-bb7f-05de75113c64"
+        },
+        {
+          "id": "d7447fb2-0c80-4e8e-8d0a-2c903f0453ce",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "074efaf3-791c-4394-bb7f-05de75113c64"
+        }
+      ],
+      "associations": [
+        {
+          "id": "fa1f17ad-8a1b-412e-a7f1-36a3b798fc85",
+          "exerciseId": "074efaf3-791c-4394-bb7f-05de75113c64",
+          "leftContent": "Te recomiendo que uses una crema hidratante después de ducharte.",
+          "rightContent": "atua no ponto em que a pele incomoda",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e0ab8c6f-4d62-45d9-89a7-2c9606d12b08",
+          "exerciseId": "074efaf3-791c-4394-bb7f-05de75113c64",
+          "leftContent": "Es mejor que cambies toda tu rutina de cuidado esta semana.",
+          "rightContent": "amplia o caso além do que o texto pede",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c80ac1ab-5a0e-4081-94e1-bd0fc669e6d7",
+          "exerciseId": "074efaf3-791c-4394-bb7f-05de75113c64",
+          "leftContent": "Conviene que bebas más agua durante el dia.",
+          "rightContent": "ajuda no cuidado geral, mas não resolve o foco imediato",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "659d3702-8380-4cd7-a70c-fa8e983a2852",
+      "title": "Recupere a dúvida do caso",
+      "content": "<p>Complete em espanhol: No sé qué _______ en mi rutina.</p><p>Tradução: Não sei o que mudar na minha rotina.</p>",
+      "contentPlain": "Complete em espanhol: No sé qué _______ en mi rutina. Tradução: Não sei o que mudar na minha rotina.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambiar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "316c1204-4392-4682-960e-6703a0b8fc83",
+      "title": "Recupere a pista decisiva",
+      "content": "<p>Complete em espanhol: después de ducharme, me queda _______.</p><p>Tradução: depois de tomar banho, ela fica repuxando.</p>",
+      "contentPlain": "Complete em espanhol: después de ducharme, me queda _______. Tradução: depois de tomar banho, ela fica repuxando.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tirante",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4b2806f9-9ffb-42f2-8c6c-681c791b3232",
+      "title": "Recupere a mudança exagerada",
+      "content": "<p>Complete em espanhol: Es mejor que cambies toda tu ______ de cuidado esta semana.</p><p>Tradução: É melhor que você mude toda a sua rotina de cuidado esta semana.</p>",
+      "contentPlain": "Complete em espanhol: Es mejor que cambies toda tu ______ de cuidado esta semana. Tradução: É melhor que você mude toda a sua rotina de cuidado esta semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "rutina",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2ad42f00-4feb-484d-b6d5-66a29ea924eb",
+      "title": "Recupere a mudança exagerada",
+      "content": "<p>Complete em espanhol: Es mejor que _______ toda tu rutina de cuidado esta semana.</p><p>Tradução: É melhor que você mude toda a sua rotina de cuidado esta semana.</p>",
+      "contentPlain": "Complete em espanhol: Es mejor que _______ toda tu rutina de cuidado esta semana. Tradução: É melhor que você mude toda a sua rotina de cuidado esta semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambies",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Ler conselhos e pesar opcoes"
+}

@@ -1,0 +1,611 @@
+{
+  "attemptId": "9b2119db-d522-4fe8-9766-f0fb5195c5d7",
+  "exercises": [
+    {
+      "exerciseId": "e3542f7c-3bdb-4add-882e-d83e5c0e5c8c",
+      "sequence": 1,
+      "lessonId": "7cf5c896-6a74-47bc-ab47-575a42b2295e",
+      "title": "Recupere o diagnóstico",
+      "content": "<p>La plaza del barrio necesita más ________.</p><p>Tradução: A praça do bairro precisa de mais limpeza.</p>",
+      "contentPlain": "La plaza del barrio necesita más ________. Tradução: A praça do bairro precisa de mais limpeza.",
+      "fileUrl": null,
+      "feedbackSuccess": "Necesita más... serve para diagnosticar o que falta no espaço comum.",
+      "feedbackError": "Necesita más... serve para diagnosticar o que falta no espaço comum.",
+      "answerType": "buildWord",
+      "expectedAnswer": "limpieza",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8ad45b84-a3dd-425b-99f3-0971abee3c37",
+      "sequence": 2,
+      "lessonId": "ed39770d-2494-475b-8594-996cac6f4e13",
+      "title": "Ligue trecho e função persuasiva",
+      "content": "<p>Associe cada trecho ao papel que ele cumpre quando a fala fica mais convincente.</p>",
+      "contentPlain": "Associe cada trecho ao papel que ele cumpre quando a fala fica mais convincente.",
+      "fileUrl": null,
+      "feedbackSuccess": "A ordem da aula fica mais persuasiva quando a fala avança de medida para prioridade e consequência.",
+      "feedbackError": "A ordem da aula fica mais persuasiva quando a fala avança de medida para prioridade e consequência.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "8200d4bf-f47c-4526-9e16-23e97aac520d",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b2436b75-71a6-4e80-be9f-994b5fbad39b",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "ead415ac-9fd8-44e8-afce-8c5a8c311ace",
+          "leftContent": "Podríamos organizar más actividades en la plaza.",
+          "rightContent": "apresenta uma medida possível",
+          "sequenceItem": 1
+        },
+        {
+          "id": "aff5c84a-5dad-4b1e-9583-b8972a3f6fff",
+          "leftContent": "Lo más urgente es mejorar la iluminación.",
+          "rightContent": "destaca a prioridade central",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c8fc4509-876e-4806-bda1-a1cdb8fe5966",
+          "leftContent": "Si la plaza sigue oscura",
+          "rightContent": "abre a condição que continua",
+          "sequenceItem": 3
+        },
+        {
+          "id": "aa929406-f01b-4968-b9d2-1581b21bf929",
+          "leftContent": "los vecinos evitarán pasar por allí de noche.",
+          "rightContent": "mostra a consequência prevista",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "fbdcc25c-5400-4a5c-9b38-7c150f47b040",
+      "sequence": 3,
+      "lessonId": "12029288-64f5-403d-b50f-fc54852c61ba",
+      "title": "Identifique o núcleo do diagnóstico",
+      "content": "<p>Escute a frase sobre segurança do bairro e selecione somente as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Escute a frase sobre segurança do bairro e selecione somente as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e431d7ca13d64fff986df172922c4a24_b05-la-delincuencia-hace-que-muchos-vecinos-eviten-salir-de-noche.mp3?Expires=1794099776&Signature=Aw3rXmKQi3eCo3TXV4e~2VDrCnZFDGWD1XeNUgMiuZoXOedUBHjUtePGLuEtGb38~oTeYmvZxTBqKHb6xhs1PWckTZfMCOEbDzK5jaoGiMV00SXwR7jUZfyDwmLnvN6ZN2IgG5qV74jIV2FSuCdIhW3J9p-k8Hy-2-DYC-2LCpr2chydBjVC8qb1vjYHsAMn91uLyiU797nlmC8Ln1~3GWJYeymQcMAd7~PltuxTAjKGHJyPbLXU9o1ebiBrDlHu1l8RHO7NJKvU35xRhAmnnG43n6nHAhZBd6Ce1QhLC8t3E7kSUH48MHyU3tjiwjB6flnVZYeff9y2FVeUL4t4EQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "La delincuencia aparece ligada a mudança de rotina e saídas noturnas evitadas.",
+      "feedbackError": "La delincuencia aparece ligada a mudança de rotina e saídas noturnas evitadas.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "083740a8-0c00-4220-9cbc-304345fdb4c5",
+          "text": "puertas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1f807f0d-2fd0-4b96-9dca-ff54772b82ea",
+          "text": "eviten",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6752ed66-4434-4cce-b120-88bf5c6fe264",
+          "text": "vecinos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8135dfd2-6c5a-4c88-b211-3365699d07fc",
+          "text": "jóvenes",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8214cbc9-d537-402f-989a-2dca75e845d2",
+          "text": "muchos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "933fd414-75e8-44fd-811e-c334c9d2e208",
+          "text": "delincuencia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c4c78a76-4c3b-4d14-9130-956101d7a6f6",
+          "text": "salir",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c9f9ac9d-dd20-429f-bf50-7bde303d543f",
+          "text": "noche",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f4087a78-3e10-4f1f-b2c9-bd24b3a34e82",
+          "text": "convivencia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f9215145-5305-42d1-ae33-21369b56c154",
+          "text": "familias",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "d76de281-47a4-47d6-a683-9f4d1e09c5da",
+      "sequence": 4,
+      "lessonId": "12029288-64f5-403d-b50f-fc54852c61ba",
+      "title": "Recupere o termo de exclusão",
+      "content": "<p>La ______________ cierra puertas y deja a muchas personas fuera de oportunidades básicas.</p><p>Tradução: A discriminação fecha portas e deixa muitas pessoas fora de oportunidades básicas.</p>",
+      "contentPlain": "La ______________ cierra puertas y deja a muchas personas fuera de oportunidades básicas. Tradução: A discriminação fecha portas e deixa muitas pessoas fora de oportunidades básicas.",
+      "fileUrl": null,
+      "feedbackSuccess": "La discriminación aparece na aula como mecanismo de exclusão e barreira de acesso.",
+      "feedbackError": "La discriminación aparece na aula como mecanismo de exclusão e barreira de acesso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "discriminación",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ac198bf1-a134-4322-ba1e-cab25566695d",
+      "sequence": 5,
+      "lessonId": "7cf5c896-6a74-47bc-ab47-575a42b2295e",
+      "title": "Reconstrua o brief completo",
+      "content": "<p>Relacione cada áudio diretamente à linha correspondente do brief da praça.</p>",
+      "contentPlain": "Relacione cada áudio diretamente à linha correspondente do brief da praça.",
+      "fileUrl": null,
+      "feedbackSuccess": "Reconstruir o brief completo reforça a ordem problema, medida, prioridade e consequência.",
+      "feedbackError": "Reconstruir o brief completo reforça a ordem problema, medida, prioridade e consequência.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "cb23a0aa-0826-4fbd-ac85-919d338e925b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c1d830949ed14e59829d3a9c7845a478_b02-la-plaza-del-barrio-necesita-mas-limpieza.mp3?Expires=1794099776&Signature=Wf8fsrbk6SebG0EKzmpy-jKS1K7PHkexGrF6qAZEqKGG3QH96fLLFP6FG~wcX3kIns8ZBIj2Xu7batdllJbxOq7BomUGm~bnV3PNoYIEzqcceRQlJwSwWVRYbrxa9ulTqI386Z0VTa9kfHI6e0MTFqAWKyJKTPqtfaUlMFJniX8ioouSEDWC63yhGUQO0HnX8smQp2CiCEvsJMRWocNBIsAx0vOL8b8hG162Pw8uh0PiMcEcpba~H05H0uPF6win1-crEnrmkZ9BBNEykFsUUidYQn4efvDAc4B~7MjRwn2uOC04cgs~28dxtI4j-vzrcEQQpE9XENpgiTYLIeBFYg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La plaza del barrio necesita más limpieza.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "25991c9f-dd4a-45fe-9d21-0ef38c4b446f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e11e248e806448f6977582f16261a64a_b04-podriamos-pedir-mas-contenedores-para-la-plaza.mp3?Expires=1794099776&Signature=MiuqmGRoKuzCuteLTmJsnJ8bSdBjlwX0Qgeokb3gf~2fwcgRFBugL30ecDYIaaG3lMDzftg1FLB0cF71susEwGz9cz-VBIlv4Ggzq96Vs1DCb8JvqYlVnWiIbKu5oOuQY1A2vo-SPzo5CSEad2vbZt5VIeKJLoZ5YBPH-TS6wcQOddO21G-AdoduTKtgehLZbN3eC0SpuBaga9heOmIm8xmK64cAHi2yPqUYXW8v7VpZVMI4RX7dRF-f~YFls6K9xL5QVoGd53r43V89L0wuimhwgNGql1uZCfmguJjGhl64Q8bsD4GfQxq6Gaq8kRQwAB69I7o8xioWywu9DJiQSQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Podríamos pedir más contenedores para la plaza.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3120757c-0a4b-4987-bf04-e585defc3862",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7b73cb421b0041058d38a135b744e7eb_b06-lo-mas-urgente-es-pedir-mas-contenedores-este-mes.mp3?Expires=1794099776&Signature=k~CFTqi-nFXj1uNgPbgiQPqggLmrO1HjG1Qifj~hljY1KeohsrhCRQ4BJbsjYCuu~V0fmHaWOrW4VgYep85oSim8c-cPELt8LG~UFGbx6brlJPga2v2NiVHzrtD6HCBe9ggj9vyIo26qBX894LjsiP0B7~DJ5os0CyMeM3cAyIXzeqLb5vS5r5WlsOIMQVypw0WMzlVYQ0QbzM5U65tEpCpWsuM0CWvLppn0LZaeA8grmdep9bDt28gti2Du12Op433rq-SyZT7YVJUJs3UWp~1teiEB2fUjGgpqWRiJzu-81-IiT6oza-BvRfpQ~ZAxXkXUfNh9M83jEzDbwndwnw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo más urgente es pedir más contenedores este mes.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "f0eb1856-16af-4dd2-87ac-99da8f36006b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7df1f51229ba4ed3b8476cdffc07c51c_c02-consecuencia-espacio-limpio-y-seguro.mp3?Expires=1794099776&Signature=w-G0vY3YVN1GOWwiDbWrraQUB8LR-AdRnwXm-T0pP9cSyqDxSSf5Zp02jr9Ij6bV14kdu5jTFoX2hxAAvOS2pMMZxfFCiTf-bo-zbz-5~H7MyyH6RuNy4UZD1Rr5w6aq5PuaSqn-PCz0m4Hy9tSM~XQh9MZ-R~F2h4AYxzn~NNXt8AIgikzIJx2L1qnpiHcoUBLgBKDSgqiq7er~mMxJzE73G2qIW3DQmb2kimks8zRSn3438ZQkSbHK9p5THz5g8ORgfmUDc1VtQ4D9e7x-msqHUBPdKyUrTPyJpp2Cg2CnsYx7fLzFL3TZ6BEf6OrQTVIXfEGSusFB4uP-PmA7ag__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Así el espacio estaría más limpio y más seguro para todos.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "86954b5d-5088-42ed-b8be-b5eaf7931357",
+      "sequence": 6,
+      "lessonId": "ed39770d-2494-475b-8594-996cac6f4e13",
+      "title": "Recupere a palavra da prioridade",
+      "content": "<p>Lo más _______ es mejorar la iluminación de la plaza.</p><p>Tradução: O mais urgente é melhorar a iluminação da praça.</p>",
+      "contentPlain": "Lo más _______ es mejorar la iluminación de la plaza. Tradução: O mais urgente é melhorar a iluminação da praça.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, urgente marca qual medida deve vir antes das outras.",
+      "feedbackError": "Nesta aula, urgente marca qual medida deve vir antes das outras.",
+      "answerType": "buildWord",
+      "expectedAnswer": "urgente",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6f6d2129-49b8-4319-85bc-aec51ee210da",
+      "sequence": 7,
+      "lessonId": "7cf5c896-6a74-47bc-ab47-575a42b2295e",
+      "title": "Recupere a prioridade",
+      "content": "<p>Lo más _______ es pedir más contenedores este mes.</p><p>Tradução: O mais urgente é pedir mais contêineres neste mês.</p>",
+      "contentPlain": "Lo más _______ es pedir más contenedores este mes. Tradução: O mais urgente é pedir mais contêineres neste mês.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lo más urgente es... mostra qual medida deve vir primeiro.",
+      "feedbackError": "Lo más urgente es... mostra qual medida deve vir primeiro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "urgente",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2c3b1e9a-baa3-4857-b5ab-0af189909297",
+      "sequence": 8,
+      "lessonId": "12029288-64f5-403d-b50f-fc54852c61ba",
+      "title": "Ligue problema e impacto",
+      "content": "<p>Conecte cada problema em espanhol ao efeito coletivo que a aula destacou.</p>",
+      "contentPlain": "Conecte cada problema em espanhol ao efeito coletivo que a aula destacou.",
+      "fileUrl": null,
+      "feedbackSuccess": "O foco da aula não é o caso isolado, e sim o impacto coletivo de cada problema.",
+      "feedbackError": "O foco da aula não é o caso isolado, e sim o impacto coletivo de cada problema.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0b2a12d5-f76d-4341-a03c-fb05a5ec89ff",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "48590b0e-a90e-407e-984a-61d6f728e5e2",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "4be710e1-5eac-40dc-a906-0523de4f2649",
+          "leftContent": "el desempleo",
+          "rightContent": "deixa muita gente sem perspectivas estáveis",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1eb7806e-c805-4159-a98e-8ece91933e87",
+          "leftContent": "la delincuencia",
+          "rightContent": "faz muitos vizinhos evitarem sair à noite",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c5dc45a6-92c2-4941-a3de-73ea9f6ad52c",
+          "leftContent": "la discriminación",
+          "rightContent": "exclui pessoas de oportunidades básicas",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "88bb706f-f864-4fc7-8164-0bee2fe5c7f6",
+      "sequence": 9,
+      "lessonId": "ed39770d-2494-475b-8594-996cac6f4e13",
+      "title": "Recupere o verbo da consequência",
+      "content": "<p>Si la plaza sigue oscura, los vecinos ________ pasar por allí de noche.</p><p>Tradução: Se a praça continuar escura, os moradores evitarão passar por ali à noite.</p>",
+      "contentPlain": "Si la plaza sigue oscura, los vecinos ________ pasar por allí de noche. Tradução: Se a praça continuar escura, os moradores evitarão passar por ali à noite.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na consequência desta aula, evitarán projeta o efeito provável de não agir.",
+      "feedbackError": "Na consequência desta aula, evitarán projeta o efeito provável de não agir.",
+      "answerType": "buildWord",
+      "expectedAnswer": "evitarán",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "bd1e88e5-3f09-4b44-b737-3600a5d678d5",
+      "sequence": 10,
+      "lessonId": "ed39770d-2494-475b-8594-996cac6f4e13",
+      "title": "Reconstrua os fragmentos da defesa",
+      "content": "<p>Associe cada áudio ao fragmento exato da sequência, sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio ao fragmento exato da sequência, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os fragmentos centrais desta aula reaparecem como peças curtas para defender uma prioridade.",
+      "feedbackError": "Os fragmentos centrais desta aula reaparecem como peças curtas para defender uma prioridade.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "cdbbae2d-73c0-4853-abbf-5f2a7ba96f81",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c7e3f10124b486e9d6dc4634d990c92_b2c11l03c05-a1-podriamos-organizar-mas-actividades-en-la-plaza.mp3?Expires=1794099776&Signature=LQdJoAaqlAhEgnJJREnyRjfKYfZ1BudT9GpDUdBjUmXT3onB7EZ3NLefYTyo~QhN3zcqrVpGVUQKO0VZkVVSt1GAo0Nk7Q363PrsHbf2KR5g9YsX5WeotlwN6NfrdR2Nf8wTY5v7gH2gVHKISpmo54SqFwXwwKCSspEAbPrK-6Q4Qe9oAGDkO5926~N~aPCu5Wuw0aa-wbYjnzVqKjUn8khyfXm2wpyx-6XA0BNhq2K8~chUcEX46wWUSkP-RuiIruds9Xszcn5paA6PrmKhfAXyrrSWktjjumen3HLoqJKma4PEVqwXlYu6zsEkKjRQFsqMQgaDp5irviFCw5ULpw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Podríamos organizar más actividades en la plaza.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0b02510a-938b-4c71-bc47-b5b3ec4014d4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/eff97ae4f6374f39b2b6a9f74bdd8634_b2c11l03c05-a2-lo-mas-urgente-es-mejorar-la-iluminacion.mp3?Expires=1794099776&Signature=FQwMH1mLf-aKX7XL4TSuYOJUzT8H1u5~Z6J7KO2-OxWIXGkquyavzqXA~ZkqyZzxVMtA8rrJmPrOjZ7MUaYdIu7A3WzS41GQRFLIM8aW2Vlw2QPkuX6-tNpZDDGQim2CQ9OOTUFrkO~Smcog82cZxdqVcEaYhlW6ggSMPpZ5p1hppy-vSklLaQL9JBIcnOsuFY5wjj7hlxLyjjF~gqP4XOcFgfpDNHvIVEN5xaXdI1blYrujkldHIdUCF7UJJjNA9nngqn4k57bE2F9yvaVTUf2dQnRaRvmkhu2NwPAps8byuluZhl2Owg4pIDVMxr41eQz48xHKS4695TAfUSa54Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo más urgente es mejorar la iluminación.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "847401e5-9b38-494c-8d52-98718d6928ea",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f72e1fd2f6734f4a9be8c7f9e690d9df_b2c11l03c05-a3-si-la-plaza-sigue-oscura.mp3?Expires=1794099776&Signature=VkLCJ~CrrunKUUZv~AfVM92yJ1i~LI20WsIg9Rc-IBILwyrQXlCLOdIF1YNBXllxeEtPR5Q41T9RtKvX8An~zx2meutJReUs-NIq8cfOmHcnwNm-RBzj9mKIHV~fsL4gv9-KLalyyvuwS8bggGVclsyzXT1LfuoKm1KbMO34hHCU3oDGBZPlK6ZmnItJfWaRp3D1rqH7s4aDwKIxTmAo4cga-0QC8UbLGT0NRfvTp-Ak3x~GA9BVlt35zz-RmZGQPrWVF2ikUwDmP-QeU5XDzSVU15o3HL9hiM5RjQEDrewvxYe8XmI6~hrQEm99NQgm3u84Xt44BsJ-l5fULVvOmA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si la plaza sigue oscura.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "758ba825-a02a-424b-825b-1d379bd63d4a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2808f4fb36fd45b083db3a2c74c86f74_b2c11l03c05-a4-los-vecinos-evitaran-pasar-por-alli-de-noche.mp3?Expires=1794099776&Signature=Ctn-BOmP8n9iAkyeG-X-MxWV2cN22uqIiras1AYOqbYfu-O9KTgFab-luXKOetmazh1uuzZhiLSKv8uWmWGYAWwtSXizEICw3PARNcfU8C4H5p7sFqru08vRtdzyG9VtqJmpZnmwzAZoqtAG9cbCVOUD-7ci4zdQ0u6Y8Mq0kojYxqm1L~1Jaajj0zGcRyIIEjlnWxod3taeKJ9yeNXwuSocDRCUZMNoESPHWgjKLD8qgXqJetfLdf9~H1Z0GzsF9b0tbkUabruEj8sVFbLZIqagJskV3P8~zcuMWGV2kMWNAV~uh6dQY~sNocHVSiK~zJkxS2~f7JSC2kwO2hBffQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Los vecinos evitarán pasar por allí de noche.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "748b4bc6-518e-4ef3-a2d6-9e766edad854",
+      "sequence": 11,
+      "lessonId": "20bd44e7-0357-497a-8d8d-ff56502d1818",
+      "title": "Recupere o ajuste da proposta",
+      "content": "<p>_____ mejor reforzar la limpieza alrededor de la plaza los fines de semana.</p><p>Tradução: Seria melhor reforçar a limpeza ao redor da praça nos fins de semana.</p>",
+      "contentPlain": "_____ mejor reforzar la limpieza alrededor de la plaza los fines de semana. Tradução: Seria melhor reforçar a limpeza ao redor da praça nos fins de semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com sería mejor, a aula mostra como melhorar a medida sem transformar a fala em confronto.",
+      "feedbackError": "Com sería mejor, a aula mostra como melhorar a medida sem transformar a fala em confronto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Sería",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0273b187-2923-40d8-bf7e-c723e852cec0",
+      "sequence": 12,
+      "lessonId": "20bd44e7-0357-497a-8d8d-ff56502d1818",
+      "title": "Filtre as palavras do recap",
+      "content": "<p>Escute o fechamento da aula e marque somente as palavras que fazem parte do áudio.</p>",
+      "contentPlain": "Escute o fechamento da aula e marque somente as palavras que fazem parte do áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/bc272760aba94553a9cdf44e6e295cfd_b09-recap-propuestas-practicas.mp3?Expires=1794099776&Signature=RO5jsl~TY0wcKnKlqemj88dz-cr4l1tNCYJYnAdJckH76AnQ9GF9d~BYfMvUbQE0Vw~SO9ZfwW2jnYGXy-v4bmhbPM91gcy3~n35ZaUUbwninjGhvhPVqSdoGnOcNqOkFWwvvVVNm-kCLA673evriURVfmobYnYeDK4wRtGBRXa8igl44ITdIK-fA9vMFLPDTKVIvCqG0wTXJG5NBNDMFUhO8azIlj0~2Ht28HF2moOnZwr3xG0EzMNwdZNyN9js-9KOr4Oe6P0JkPE3eG00o9C8lKVckqGdnS19aURN6zUErOvBLj8mFcJjYT9I2o1Qc8PVG1lvJvujfpGapNplQg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final recompõe as três fórmulas para transformar queixa em medida concreta.",
+      "feedbackError": "O recap final recompõe as três fórmulas para transformar queixa em medida concreta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0b1ebb98-b79f-4f26-a850-5c8e360c1934",
+          "text": "transitadas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "0dbbe6c2-bdca-4d9a-bedc-c922f30b6fe5",
+          "text": "convendría",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "35011226-c346-4c71-92ba-30e3587c3f0c",
+          "text": "queja",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "380f58d3-6fc0-4f72-8017-af9cb92d4898",
+          "text": "vecinos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4fce3bdc-b104-4d86-a7b2-5c39a15cd6d7",
+          "text": "mercado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5119b37f-f7ca-4909-8320-a9eae1af2435",
+          "text": "calles",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5ae3f13e-386d-47ee-8c6c-7591628bf41f",
+          "text": "frecuencia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5b11dd89-b8e2-422f-bab3-84d891f3fbb3",
+          "text": "vecinal",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5dc4b3cc-8691-4322-b559-3b7f47018e1f",
+          "text": "limpieza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "973290eb-65b1-4715-b048-09b08c9033d5",
+          "text": "sería",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "aacaab20-0478-480f-be16-287b91f7afc0",
+          "text": "recolección",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c5b0b74e-6292-4ce9-a271-6ca9e9354826",
+          "text": "fórmulas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "de496ddc-9b5f-46d6-929c-f41e306dcb80",
+          "text": "plaza",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e2d91722-fb23-4de6-9454-a390484d8a3e",
+          "text": "medida",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e6ebd287-3fe3-426c-b348-7f00d9ce2c1f",
+          "text": "contenedores",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e9124f8c-6b8b-43ee-9459-1e9c76cc71f9",
+          "text": "podríamos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f0a38542-edb0-4a82-8aa9-c0b6e19e24d8",
+          "text": "fines",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f9af94fb-4e5b-4f32-a520-7cca4eb7abde",
+          "text": "ayuntamiento",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "89e71c76-f712-42c3-9fff-f9b56f3b8f09",
+      "sequence": 13,
+      "lessonId": "20bd44e7-0357-497a-8d8d-ff56502d1818",
+      "title": "Reconstrua o eixo da proposta",
+      "content": "<p>Associe os áudios aos fragmentos que recompõem o problema e três medidas concretas, sem apoio em português.</p>",
+      "contentPlain": "Associe os áudios aos fragmentos que recompõem o problema e três medidas concretas, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "No diálogo, a conversa avança do problema para três saídas práticas com fórmulas diferentes.",
+      "feedbackError": "No diálogo, a conversa avança do problema para três saídas práticas com fórmulas diferentes.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "5e3cd294-7385-4ef6-8688-2e6e495593ff",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5af72c1b47024d79ace5031b56945c4b_b2c11l02c05-a1-la-plaza-sigue-llena-de-basura.mp3?Expires=1794099776&Signature=wltpKQoI~0h3isHJPVbCFoHZkv9mlI1am0voSO2A0OKy6eQDHzP9R-rgBEehXMv6DVBqkmK4pCyknN9aNVvXp8oqXcEn12TigiV~0iM5w9sUklEu7~8kFt1ZbMXbeIy9toGxy5QArp7uG8STKiBAArLUP0x5TmdlFIzd~ApEBpj-lOz3D3FDRXeaCnsho0D6aLN8Wj5LziXph-oqtTZWlZ~PEQLxdXGTe7BJIYLk5MHxJr~~aARUMJ5pJDtMDprotjfDYUDqy9pFalZb8F40B3r1b6~oF-3iX6SMnqAuHHK8QnPIvJq1V76f2GYFTWLu5O-gahnOzLSsF4VVt73FeA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La plaza sigue llena de basura.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8133a436-8b6e-41eb-afe4-d6c3a45ef6e1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/81e0d95b67334b40b6d387712baa5dfb_b2c11l02c05-a2-podriamos-colocar-mas-contenedores.mp3?Expires=1794099776&Signature=npZ0-ULaPVhH83LtXSE82lP4L1bwPslV74rX2HYWeGpJv~LEiwvbQIhBKGJyWvpQWETop5eSLlUW1sy54dmzpBoZjBbEB9a3lENq33hWtcgLvFCFAcWfqntwA4wi1aDyGSJiEsPBHiVzOY3l904mLKYrWNAaxVGw4DMu7YVQozqOvndRN6W2vlHOon7qgaQiMpXjPrOLkeQsZbq43O218sC8Bl4eGJ58G35mN1en2dnyBUI7sthFh-hST79pYtw5biWT3yDZfaxgN8w-stklYL~uOoloyBQJAFptFrj~-xiUzLb7yLHewiQBqDwQ-VMkAz6k1BkxIduih6qTsY1BlQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Podríamos colocar más contenedores.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b93ae761-9a3e-411e-8e1b-c66b908cc867",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/752288b3b8eb45ef888c020a41892a37_b2c11l02c05-a3-convendria-aumentar-la-frecuencia-de-recoleccion.mp3?Expires=1794099776&Signature=IJAEPnvjjYYA8luu9oJ1E5cSpKFi6DG4WgtrCkojtwOeXAr0u5PBPXcIT7LllwaUzDQN3u3kk0tH8iE9Tnj6ob3eqq0BHyue0znTk0bm1D4dIrrHhFWAuh0JQ-CNzXlxpuotNUAKJmvZH0YZ-ZYo9O1gjCNzkxGuktQosURm2alut5PQsBWT0O-Evsn4OBBOl2A5ue9CkKrlEQ7053oC4eGl-kL-x1sveOw0XpsOnKo3z9-OPXaU8dEqTAfcdEav5THVF3FKUgS-S~zvP5GQAo2Q3ey3hQgdnSPzloLfy~5JX6f4rfSjAiouBdrvtQZpbudy-sWZ7DEYA1hlUEfZbQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Convendría aumentar la frecuencia de recolección.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "b5683ba1-b04e-471b-be34-c4a3a602ebfa",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/72bce18212bc40459fa88b1fcb4fb89b_b2c11l02c05-a4-seria-mejor-reforzar-la-limpieza.mp3?Expires=1794099776&Signature=N8iDFW1WQnLzUTj22-zLKBakr2N3mKJN6STSle2iYVkLP09Z-SEKic75Vnp99i6da6NZwchRvq5ZfXGiUr-vG1dKtjz4dBP1V0cPAcBrTos3vvKmKIzJ9k-wnOwkky9ZUhKA1MD-VWBwNdiuD~rXBQ3lCgSFJ2fVWRnGLYkYytPKHiqAzGsVcX3mR1gL5r8A-LFPZgu20N2PxzBedMJIR20uQfbKYK7dg~HGBfbCRKt6IwKYR2yTdhJpsFuyn8pi~GMyakyeuBdWastozeE6Uhy7V3yt1KTgiEOr3G0vmKrWvrtaD~OtoskgQrmByibeFR06LCwoprqJI2rjCiKMBg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sería mejor reforzar la limpieza.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "bf74fde5-6c22-438b-8eb0-6f1b197172e7",
+      "sequence": 14,
+      "lessonId": "12029288-64f5-403d-b50f-fc54852c61ba",
+      "title": "Recupere os diagnósticos completos",
+      "content": "<p>Escute com atenção e relacione cada áudio ao diagnóstico completo correspondente em espanhol.</p>",
+      "contentPlain": "Escute com atenção e relacione cada áudio ao diagnóstico completo correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "As notas da aula ampliam cada termo com um efeito coletivo mais preciso.",
+      "feedbackError": "As notas da aula ampliam cada termo com um efeito coletivo mais preciso.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "0845850e-3a11-48f0-a6ed-107ec85d92c9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0e09ad507fc949b28051dfb8676cd2a2_b03-en-este-distrito-el-desempleo-deja-a-muchos-jovenes-sin-perspectivas-estables.mp3?Expires=1794099776&Signature=0muiGTBPtNEXOkuc1ykTAvRgNTuYTvLZC~YSsqS9dPaNv1VzhFczNafSZekGdgsCwRwEzxHwmokG1JaimEOz3mAZVXwE8Sf1RnwxgvXZh4a9Jw03cp1AvjoM4QIk3lI~4MRGTnjy-USA1wIzQ9HWNSEjKafqNpdtdZFVHC-uYT2mweC59rZXEC5kIdyz3spcjrcK3ehPfxJYFmC4oJf6TZfFUS5izYi0T6C~1M6mgWc6PI6Z1VUBZzXa1QImHmMZFS6w3RLMLlbxNlK7Tbqwo7rrXhgBE7GwT8DjqofxTjGj2aW490Ez5p~ZO4WzaTlQO9Bkhh2GIm9WYs2yMyEbVg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En este distrito, el desempleo deja a muchos jóvenes sin perspectivas estables.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "50386426-d771-4b7d-95ef-15929a0e0d5b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e431d7ca13d64fff986df172922c4a24_b05-la-delincuencia-hace-que-muchos-vecinos-eviten-salir-de-noche.mp3?Expires=1794099776&Signature=Aw3rXmKQi3eCo3TXV4e~2VDrCnZFDGWD1XeNUgMiuZoXOedUBHjUtePGLuEtGb38~oTeYmvZxTBqKHb6xhs1PWckTZfMCOEbDzK5jaoGiMV00SXwR7jUZfyDwmLnvN6ZN2IgG5qV74jIV2FSuCdIhW3J9p-k8Hy-2-DYC-2LCpr2chydBjVC8qb1vjYHsAMn91uLyiU797nlmC8Ln1~3GWJYeymQcMAd7~PltuxTAjKGHJyPbLXU9o1ebiBrDlHu1l8RHO7NJKvU35xRhAmnnG43n6nHAhZBd6Ce1QhLC8t3E7kSUH48MHyU3tjiwjB6flnVZYeff9y2FVeUL4t4EQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La delincuencia hace que muchos vecinos eviten salir de noche.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "443bc7fd-082c-4f77-a1a2-6ddf800e96e4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/94d8be300003464abef0351672a0160c_b07-la-discriminacion-cierra-puertas-y-deja-a-muchas-personas-fuera-de-oportunidades-basicas.mp3?Expires=1794099776&Signature=uq8RJF4lMzUCNGS8zshZL3VbMIibuGOywL1g5OpBv-lTp1TDBtLrN-~XIv4koog5qBKl4RzZCLlZadyO8l06CLv~Tj1PZjqGMdehAhVm-6BKDrI7nwxlMZvb3ryp6j8GYYcu0R2H912d1fLVXsmiSV6JM7LBPfcPF78lGPP2d-s2n5K4zJVRl6S1C5SnkMT-zOpwFw8ZJuSt-MnW~qN7S3pXSxtHPLBoZ8MGyntFPGv1voshcRwhiGNGo7jcUrZ2KZVi9f9PNkAwmCJUp8BoNyAKSYURbUE1c6HwHZZZ7pJcyxQIJMhr~sp6-1EzYDM~7eTJOdAmwH36CWie2w~9XQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La discriminación cierra puertas y deja a muchas personas fuera de oportunidades básicas.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "8a49c217-7471-41a2-ae83-f812decb20a9",
+      "sequence": 15,
+      "lessonId": "7cf5c896-6a74-47bc-ab47-575a42b2295e",
+      "title": "Recupere a medida concreta",
+      "content": "<p>Podríamos pedir más ____________ para la plaza.</p><p>Tradução: Poderíamos pedir mais contêineres para a praça.</p>",
+      "contentPlain": "Podríamos pedir más ____________ para la plaza. Tradução: Poderíamos pedir mais contêineres para a praça.",
+      "fileUrl": null,
+      "feedbackSuccess": "Podríamos... fica mais forte quando vem com uma ação específica e plausível.",
+      "feedbackError": "Podríamos... fica mais forte quando vem com uma ação específica e plausível.",
+      "answerType": "buildWord",
+      "expectedAnswer": "contenedores",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

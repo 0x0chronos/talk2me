@@ -1,0 +1,593 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+    "attemptId": "3672ccbc-51a8-46d8-b131-540e9c1522b1",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "cf5cb090-4ff4-4733-9826-e81690a11910",
+      "fb923571-a60c-47d9-9a70-e8edd2ac67ad",
+      "eb7bf8a0-aa9d-4af5-a7d7-355cd920b9e5",
+      "c95819bf-dc44-4bea-b6b8-79efb3b52d1a",
+      "ac463b2c-0789-4429-a6e7-d6c9e58a2acb"
+    ],
+    "evaluationExerciseIds": [
+      "17b4f20a-8bda-45f5-810e-3d152b57571e",
+      "ecaf8d03-c0e0-4866-892f-179dd7317827",
+      "07987462-3d55-4ace-8cb3-8181e60a2eae",
+      "20e708eb-9df8-436d-9974-a5f82a114c9d",
+      "165e33e0-89e7-4aa1-ade3-afc9e233ce50"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:36.8680602Z"
+  },
+  "contents": [
+    {
+      "id": "53a9d6f7-54ce-4fe7-9675-272edcc0deb0",
+      "title": "Leia o contexto e observe quais partes um update curto precisa cobrir para fazer sentido.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "6c09cf55-711f-4596-9fe5-3cbf3b75aead",
+          "textContent": "<p>Hoje você precisa mandar um update curto porque faltou a uma reunião depois de amanhecer mal.</p><p>O foco não é contar toda a consulta: o foco é dizer <strong>o que sente</strong>, <strong>há quanto tempo</strong>, <strong>o que pode ser</strong> e <strong>o que vai fazer agora</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "29575d6e-c7fb-46b9-b041-e03261e2459c",
+      "title": "Leia a frase em espanhol e note como o update já começa com problema e tempo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "1c20a1c8-126c-42ac-91e1-200a591fbd8f",
+          "textContent": "<p><strong>Desde anoche tengo fiebre y dolor de cabeza.</strong></p><p>Em português: <strong>Desde ontem à noite estou com febre e dor de cabeça.</strong></p><p>Esse começo já situa o sintoma e a duração sem alongar a mensagem.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f9744c03-8a42-452e-996b-133df69d1786",
+      "title": "Leia a frase e observe como ela atualiza o estado atual depois da primeira informação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "65360ac5-520d-4824-8110-4f38740ae5ad",
+          "textContent": "<p><strong>Hoy me encuentro un poco mejor, pero sigo con mareos.</strong></p><p>Em português: <strong>Hoje estou um pouco melhor, mas continuo com tontura.</strong></p><p>Depois do sintoma e do tempo, essa parte mostra como a situação está agora.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b101accd-263c-407e-a4aa-d78a7f8d49ae",
+      "title": "Leia a frase e foque no tom de hipótese, não de certeza.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "3add09e2-92a4-4190-b492-b4027d25e893",
+          "textContent": "<p><strong>Puede que sea una infección leve o simplemente cansancio acumulado.</strong></p><p>Em português: <strong>Pode ser uma infecção leve ou simplesmente cansaço acumulado.</strong></p><p>O update continua prudente: ele comenta uma possibilidade, não fecha um diagnóstico.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7dc717a3-61bc-4946-b5ac-802c19a14aa2",
+      "title": "Leia a frase e observe como o cuidado e o próximo passo aparecem no mesmo bloco.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "f77ab95a-17d3-4a68-86bf-9206658792c4",
+          "textContent": "<p><strong>Voy a descansar esta tarde y, si mañana sigo igual, voy a pedir cita.</strong></p><p>Em português: <strong>Vou descansar esta tarde e, se amanhã eu continuar igual, vou marcar consulta.</strong></p><p>Aqui o update fecha com ação concreta agora e critério simples para agir de novo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4a600aa8-4fed-4ac7-9ff2-415faa3dadbf",
+      "title": "Leia a sequência e observe como a mensagem avança em quatro passos curtos.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "c604eb41-a677-4976-b542-dcb9f365a075",
+          "textContent": "<p>Um update curto de saúde costuma andar em quatro passos:</p><ol><li><strong>sintoma + duração</strong>: <strong>Desde anoche tengo fiebre...</strong></li><li><strong>estado agora</strong>: <strong>Hoy me encuentro un poco mejor...</strong></li><li><strong>hipótese cautelosa</strong>: <strong>Puede que sea...</strong></li><li><strong>plano e retorno</strong>: <strong>Voy a descansar... / si mañana sigo igual...</strong></li></ol><p>Essa ordem deixa a mensagem curta e fácil de entender.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "87e8bb4d-ba4e-43c8-b58e-05a114f7715a",
+      "title": "Leia o modelo completo e observe como as quatro partes aparecem sem virar um relato longo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "894d060a-c83a-442f-aa36-685407bf1129",
+          "textContent": "<p><strong>Desde anoche tengo fiebre y dolor de cabeza. Hoy me encuentro un poco mejor, pero sigo con mareos.</strong></p><p><strong>Puede que sea una infección leve, así que voy a descansar esta tarde. Si mañana sigo igual, voy a pedir cita.</strong></p><p>Em português: o modelo junta sintoma, duração, estado atual, hipótese e próximo passo em um update curto e plausível.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0c6aaa29-3e3b-41d1-8a43-c7ab388278fa",
+      "title": "Leia o recap final e conecte esse formato a momentos reais em que você precisaria atualizar alguém.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "8e87f4e5-93fd-46ef-898f-d7bc2d2cc901",
+          "textContent": "<p>Quando alguém perguntar <strong>¿Cómo sigues?</strong>, esse formato já resolve muito:</p><ul><li><strong>o que você sente</strong></li><li><strong>há quanto tempo</strong></li><li><strong>o que pode estar acontecendo</strong></li><li><strong>o que você vai fazer agora ou quando vai voltar</strong></li></ul><p>Isso funciona numa mensagem para o trabalho, numa conversa com alguém próximo ou num retorno curto à clínica.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "cf5cb090-4ff4-4733-9826-e81690a11910",
+      "title": "Escolha o estado atual",
+      "content": "<p>Depois da abertura, qual frase mostra melhora parcial e continuidade do mal-estar?</p>",
+      "contentPlain": "Depois da abertura, qual frase mostra melhora parcial e continuidade do mal-estar?",
+      "fileUrl": null,
+      "feedbackSuccess": "A segunda parte do update mostra como a situação está agora, sem repetir a abertura.",
+      "feedbackError": "A segunda parte do update mostra como a situação está agora, sem repetir a abertura.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1754f450-45f2-414f-a0cc-2870fd428ce5",
+          "textContent": "Puede que sea una infección leve o simplemente cansancio acumulado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cf5cb090-4ff4-4733-9826-e81690a11910"
+        },
+        {
+          "id": "2cb64e1e-848c-4876-982a-7f27e8abf649",
+          "textContent": "Desde anoche tengo fiebre y dolor de cabeza.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cf5cb090-4ff4-4733-9826-e81690a11910"
+        },
+        {
+          "id": "b4bc63bf-aff5-4e2a-a874-99aa2f7953b6",
+          "textContent": "Voy a descansar esta tarde y, si mañana sigo igual, voy a pedir cita.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "cf5cb090-4ff4-4733-9826-e81690a11910"
+        },
+        {
+          "id": "cbbc5693-0369-4118-a621-c67d07d4ad90",
+          "textContent": "Hoy me encuentro un poco mejor, pero sigo con mareos.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "cf5cb090-4ff4-4733-9826-e81690a11910"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "fb923571-a60c-47d9-9a70-e8edd2ac67ad",
+      "title": "Complete o plano",
+      "content": "<p>Complete em espanhol: Voy a _________ esta tarde y, si mañana sigo igual, voy a pedir cita.</p><p>Tradução: Vou descansar esta tarde e, se amanhã eu continuar igual, vou marcar consulta.</p>",
+      "contentPlain": "Complete em espanhol: Voy a _________ esta tarde y, si mañana sigo igual, voy a pedir cita. Tradução: Vou descansar esta tarde e, se amanhã eu continuar igual, vou marcar consulta.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento desta aula junta uma ação imediata e um critério simples de retorno.",
+      "feedbackError": "O fechamento desta aula junta uma ação imediata e um critério simples de retorno.",
+      "answerType": "buildWord",
+      "expectedAnswer": "descansar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "eb7bf8a0-aa9d-4af5-a7d7-355cd920b9e5",
+      "title": "Escolha a hipótese cautelosa",
+      "content": "<p>Qual opção comenta o que pode estar acontecendo sem soar como diagnóstico fechado?</p>",
+      "contentPlain": "Qual opção comenta o que pode estar acontecendo sem soar como diagnóstico fechado?",
+      "fileUrl": null,
+      "feedbackSuccess": "Puede que marca a hipótese cautelosa sem transformar a mensagem em diagnóstico.",
+      "feedbackError": "Puede que marca a hipótese cautelosa sem transformar a mensagem em diagnóstico.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "062fcfcb-6d95-478c-9481-490d8579fbbd",
+          "textContent": "Voy a descansar esta tarde y, si mañana sigo igual, voy a pedir cita.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "eb7bf8a0-aa9d-4af5-a7d7-355cd920b9e5"
+        },
+        {
+          "id": "37c13d79-9f27-4f87-b688-a0164c32a3fe",
+          "textContent": "Desde anoche tengo fiebre y dolor de cabeza.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "eb7bf8a0-aa9d-4af5-a7d7-355cd920b9e5"
+        },
+        {
+          "id": "3a170d60-0801-4c82-b2db-1d9d75ddb4c9",
+          "textContent": "Puede que sea una infección leve o simplemente cansancio acumulado.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "eb7bf8a0-aa9d-4af5-a7d7-355cd920b9e5"
+        },
+        {
+          "id": "6bef2228-ebc2-461b-98b1-8f062d4dea70",
+          "textContent": "Hoy me encuentro un poco mejor, pero sigo con mareos.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "eb7bf8a0-aa9d-4af5-a7d7-355cd920b9e5"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c95819bf-dc44-4bea-b6b8-79efb3b52d1a",
+      "title": "Ligue frase e função",
+      "content": "<p>Recupere a ordem da aula relacionando cada frase ao passo que ela representa.</p>",
+      "contentPlain": "Recupere a ordem da aula relacionando cada frase ao passo que ela representa.",
+      "fileUrl": null,
+      "feedbackSuccess": "A ordem da aula anda de sintoma e duração para estado, hipótese e plano.",
+      "feedbackError": "A ordem da aula anda de sintoma e duração para estado, hipótese e plano.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4fe0c4c8-c5ac-448e-872f-e492f90c4d9f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c95819bf-dc44-4bea-b6b8-79efb3b52d1a"
+        },
+        {
+          "id": "b9830f79-383d-46a7-9b73-db3afdbeadb8",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c95819bf-dc44-4bea-b6b8-79efb3b52d1a"
+        }
+      ],
+      "associations": [
+        {
+          "id": "4093ace1-ad5f-49cc-be6d-41d3a03d32b5",
+          "exerciseId": "c95819bf-dc44-4bea-b6b8-79efb3b52d1a",
+          "leftContent": "Desde anoche tengo fiebre y dolor de cabeza.",
+          "rightContent": "sintoma e duração",
+          "sequenceItem": 1
+        },
+        {
+          "id": "fe36e77b-e7b3-47a5-931b-84b5d60bfd2e",
+          "exerciseId": "c95819bf-dc44-4bea-b6b8-79efb3b52d1a",
+          "leftContent": "Hoy me encuentro un poco mejor, pero sigo con mareos.",
+          "rightContent": "estado agora",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4a2d41e0-e64d-4ff3-b6da-ffc6e5fa5c95",
+          "exerciseId": "c95819bf-dc44-4bea-b6b8-79efb3b52d1a",
+          "leftContent": "Puede que sea una infección leve o simplemente cansancio acumulado.",
+          "rightContent": "hipótese cautelosa",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a0352724-9c1d-4fb5-b43a-73f62e2e1416",
+          "exerciseId": "c95819bf-dc44-4bea-b6b8-79efb3b52d1a",
+          "leftContent": "Voy a descansar esta tarde y, si mañana sigo igual, voy a pedir cita.",
+          "rightContent": "plano e retorno",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "ac463b2c-0789-4429-a6e7-d6c9e58a2acb",
+      "title": "Escolha a abertura do update",
+      "content": "<p>Qual opção já diz o que a pessoa sente e desde quando, como no primeiro passo da aula?</p>",
+      "contentPlain": "Qual opção já diz o que a pessoa sente e desde quando, como no primeiro passo da aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "O update curto desta aula começa com sintoma e duração para situar a mensagem rapidamente.",
+      "feedbackError": "O update curto desta aula começa com sintoma e duração para situar a mensagem rapidamente.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "203a83ba-c683-4e31-85e6-05fd0b4a9cdc",
+          "textContent": "Hoy me encuentro un poco mejor, pero sigo con mareos.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ac463b2c-0789-4429-a6e7-d6c9e58a2acb"
+        },
+        {
+          "id": "a4807d5b-9e17-4a9b-9706-d45abb161ed9",
+          "textContent": "Voy a descansar esta tarde y, si mañana sigo igual, voy a pedir cita.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ac463b2c-0789-4429-a6e7-d6c9e58a2acb"
+        },
+        {
+          "id": "a5f5dea5-b04e-4910-9b51-64bda58b94d1",
+          "textContent": "Puede que sea una infección leve o simplemente cansancio acumulado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ac463b2c-0789-4429-a6e7-d6c9e58a2acb"
+        },
+        {
+          "id": "f6e6231f-1fcc-4ec5-8315-b0559c375a7b",
+          "textContent": "Desde anoche tengo fiebre y dolor de cabeza.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ac463b2c-0789-4429-a6e7-d6c9e58a2acb"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "17b4f20a-8bda-45f5-810e-3d152b57571e",
+      "title": "Complete a hipótese",
+      "content": "<p>Complete em espanhol: Puede que sea una infección leve o simplemente _________ acumulado.</p><p>Tradução: Pode ser uma infecção leve ou simplesmente cansaço acumulado.</p>",
+      "contentPlain": "Complete em espanhol: Puede que sea una infección leve o simplemente _________ acumulado. Tradução: Pode ser uma infecção leve ou simplesmente cansaço acumulado.",
+      "fileUrl": null,
+      "feedbackSuccess": "A hipótese da aula continua prudente ao sugerir uma causa sem fechar o diagnóstico.",
+      "feedbackError": "A hipótese da aula continua prudente ao sugerir uma causa sem fechar o diagnóstico.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cansancio",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ecaf8d03-c0e0-4866-892f-179dd7317827",
+      "title": "Complete a abertura do update",
+      "content": "<p>Complete em espanhol: Desde anoche tengo fiebre y dolor de ______.</p><p>Tradução: Desde ontem à noite estou com febre e dor de cabeça.</p>",
+      "contentPlain": "Complete em espanhol: Desde anoche tengo fiebre y dolor de ______. Tradução: Desde ontem à noite estou com febre e dor de cabeça.",
+      "fileUrl": null,
+      "feedbackSuccess": "A abertura do update junta o sintoma e desde quando ele começou: Desde anoche tengo fiebre y dolor de cabeza.",
+      "feedbackError": "A abertura do update junta o sintoma e desde quando ele começou: Desde anoche tengo fiebre y dolor de cabeza.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cabeza",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "07987462-3d55-4ace-8cb3-8181e60a2eae",
+      "title": "Recupere o sintoma que continua",
+      "content": "<p>Complete em espanhol: Hoy me encuentro un poco mejor, pero sigo con ______.</p><p>Tradução: Hoje estou um pouco melhor, mas continuo com tontura.</p>",
+      "contentPlain": "Complete em espanhol: Hoy me encuentro un poco mejor, pero sigo con ______. Tradução: Hoje estou um pouco melhor, mas continuo com tontura.",
+      "fileUrl": null,
+      "feedbackSuccess": "No modelo final, sigo con mostra que o mal-estar ainda continua no presente.",
+      "feedbackError": "No modelo final, sigo con mostra que o mal-estar ainda continua no presente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mareos",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "20e708eb-9df8-436d-9974-a5f82a114c9d",
+      "title": "Ligue o modelo aos efeitos",
+      "content": "<p>Relacione cada trecho do modelo integrado ao papel que ele cumpre no update final da aula.</p>",
+      "contentPlain": "Relacione cada trecho do modelo integrado ao papel que ele cumpre no update final da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O modelo final junta sintoma, estado atual, hipótese cautelosa e próximo passo.",
+      "feedbackError": "O modelo final junta sintoma, estado atual, hipótese cautelosa e próximo passo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2f40e00f-7bb3-474a-8a46-4f96b487af4a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "20e708eb-9df8-436d-9974-a5f82a114c9d"
+        },
+        {
+          "id": "8a978635-7a94-4890-a13d-e5f444159bdb",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "20e708eb-9df8-436d-9974-a5f82a114c9d"
+        }
+      ],
+      "associations": [
+        {
+          "id": "48030503-e990-4c1b-bce3-e1634cfe65cc",
+          "exerciseId": "20e708eb-9df8-436d-9974-a5f82a114c9d",
+          "leftContent": "Desde anoche tengo fiebre y dolor de cabeza.",
+          "rightContent": "abrir com sintoma e duração",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4fc29bfd-9d07-4e95-a12f-7af90f8931d2",
+          "exerciseId": "20e708eb-9df8-436d-9974-a5f82a114c9d",
+          "leftContent": "Hoy me encuentro un poco mejor, pero sigo con mareos.",
+          "rightContent": "atualizar o estado atual",
+          "sequenceItem": 2
+        },
+        {
+          "id": "394b05d8-be88-446f-9ec2-411b2ba8f20a",
+          "exerciseId": "20e708eb-9df8-436d-9974-a5f82a114c9d",
+          "leftContent": "Puede que sea una infección leve.",
+          "rightContent": "levantar uma hipótese cautelosa",
+          "sequenceItem": 3
+        },
+        {
+          "id": "bb02693d-fbab-480e-b848-e3a0e56b07e7",
+          "exerciseId": "20e708eb-9df8-436d-9974-a5f82a114c9d",
+          "leftContent": "Si mañana sigo igual, voy a pedir cita.",
+          "rightContent": "indicar o próximo passo se não melhorar",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "165e33e0-89e7-4aa1-ade3-afc9e233ce50",
+      "title": "Escolha o update completo",
+      "content": "<p>Qual opção cobre o que você sente, há quanto tempo, o que pode estar acontecendo e o que vai fazer agora, na ordem curta trabalhada na aula?</p>",
+      "contentPlain": "Qual opção cobre o que você sente, há quanto tempo, o que pode estar acontecendo e o que vai fazer agora, na ordem curta trabalhada na aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final pede um update curto com sintoma, estado atual, hipótese e plano em ordem clara.",
+      "feedbackError": "O recap final pede um update curto com sintoma, estado atual, hipótese e plano em ordem clara.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "3d9ec5fd-9448-4b2c-b1c2-a96eeed1e4b4",
+          "textContent": "Hoy me encuentro un poco mejor, pero sigo con mareos. Puede que sea una infección leve o simplemente cansancio acumulado. Desde anoche tengo fiebre y dolor de cabeza. Voy a descansar esta tarde y, si mañana sigo igual, voy a pedir cita.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "165e33e0-89e7-4aa1-ade3-afc9e233ce50"
+        },
+        {
+          "id": "3feabf43-6817-4590-9b91-2e2367599930",
+          "textContent": "Desde anoche tengo fiebre y dolor de cabeza. Voy a descansar esta tarde y, si manana sigo igual, voy a pedir cita. Hoy me encuentro un poco mejor, pero sigo con mareos. Puede que sea una infeccion leve o simplemente cansancio acumulado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "165e33e0-89e7-4aa1-ade3-afc9e233ce50"
+        },
+        {
+          "id": "939c51b5-9fde-48d5-a719-baeb03337e97",
+          "textContent": "Puede que sea una infeccion leve o simplemente cansancio acumulado. Desde anoche tengo fiebre y dolor de cabeza. Voy a descansar esta tarde y, si manana sigo igual, voy a pedir cita. Hoy me encuentro un poco mejor, pero sigo con mareos.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "165e33e0-89e7-4aa1-ade3-afc9e233ce50"
+        },
+        {
+          "id": "b3dad051-fb60-46fb-abdd-3cd78490cf1f",
+          "textContent": "Desde anoche tengo fiebre y dolor de cabeza. Hoy me encuentro un poco mejor, pero sigo con mareos. Puede que sea una infeccion leve, así que voy a descansar esta tarde. Si manana sigo igual, voy a pedir cita.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "165e33e0-89e7-4aa1-ade3-afc9e233ce50"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "title": "Dar um update curto de saude"
+}

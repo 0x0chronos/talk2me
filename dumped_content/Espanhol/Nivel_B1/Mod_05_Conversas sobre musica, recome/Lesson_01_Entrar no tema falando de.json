@@ -1,0 +1,622 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+    "attemptId": "ba09c1e6-09b5-42ee-ab82-76028fdb1919",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "7b6f9cec-13d0-44c7-a8b2-0a9b1fe7e9c9",
+      "10120870-6fd9-406a-864b-3e38ecacc56e",
+      "f68ebcf3-c3b5-4a71-9390-704d76c1d02e",
+      "59ef32e9-d1d0-490f-af96-2055783704fa",
+      "b902d348-c6a2-4c59-bacb-68779cf44ac8"
+    ],
+    "evaluationExerciseIds": [
+      "896bf218-0748-458c-a17e-6bb8771d6e81",
+      "2cef88b7-d309-492c-98a7-9633a63a3e0f",
+      "63eb2bfc-9f11-4c6b-b3fe-473f467ef6fb",
+      "42faebb1-62cd-4fe5-a6f7-178b51bad486",
+      "fdc7c1f5-549a-4133-8ea8-20318ee3a625"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:48.0267887Z"
+  },
+  "contents": [
+    {
+      "id": "7b91f12e-7948-4a5d-bd16-81e9dae1fb90",
+      "title": "Escute e leia a frase. Observe como ela entra na conversa sem pedir uma resposta longa ainda.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "03c41569-c717-47fd-97ab-1a5b81b64263",
+          "textContent": "<p><strong>¿Qué música escuchas?</strong></p><p>Em português: <strong>Que música você escuta?</strong></p><p>Essa pergunta abre o tema de forma simples e natural.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3035e91156ae4cb0b37c36c18641c38e_l01b01-que-musica-escuchas.mp3?Expires=1794099588&Signature=oiLLC1sPhPl9j6vxv131xYe33ESTGSnGjNJVVCwafBqHe9vaTGRvNAdrSRm72rjSi~xx97fw4QhcKaGnr7Fkq2khb2dk0G2t9wBhGqjibJjfhMQ8dtoOZpXJPYq1JDJ3JcEXbO8d4UjxV2GW8KTxBHQhnpBHNtk~x2qSdkJsIYUJmD0VJOMMKqbZhMAO5JrnN8LfYGFp0biusHNoW9isdzp7EddT1~eJ4tZclzOZOAq8BWuREujWg-v0gmTUw98JMO9ZyPQnDdS8uDW40ZXJsrqaSsiZKjVmS9lL5golXvG6DOGaCag71issKJoST6lHPNm8SzJq1n4-Fl5OQX8ERQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7abe311c-4243-483e-bd85-eb706471077a",
+      "title": "Leia a nota curta e foque na função social da pergunta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "798dd95d-a64a-4185-a716-de5c7c93ebc8",
+          "textContent": "<p><strong>¿Qué música escuchas?</strong> funciona bem quando você quer abrir o tema sem parecer formal demais.</p><p>Ela pede um tipo de resposta bem cotidiano: o que a pessoa costuma ouvir, e não uma análise longa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8a27b3d5-5140-462d-8177-10e923450e36",
+      "title": "Escute e leia a resposta. Note como ela combina o verbo com um estilo e uma frequência simples.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "d78a798e-3ccc-48e1-82bc-64263d3a780f",
+          "textContent": "<p><strong>Escucho pop casi todos los días.</strong></p><p>Em português: <strong>Eu escuto pop quase todos os dias.</strong></p><p>A frase responde de forma simples sobre o que entra na rotina da pessoa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/550958d96ea44047ba9388a81cd7ba31_l01b03-escucho-pop-casi-todos-los-dias.mp3?Expires=1794099588&Signature=OkgxtXmmOGtr4r4UbmdvWX3G~5yShvIkac4Eg~buln5qI19J9QCvJjLSjpKBh6zy3jWCPbBWJTjvWysDMOfeWGUpJK5ZeEexEjQDnX5Rerx4zuH6x5OlLwyIXXkSCaj4avZW4BSjXJZp9kIePp6gqQEoUcuo0d9oR0fihzlgztDRoGisDUi8Ykz6iNtnwWF~G4blQ-rbbLcwP2d2jNwF0JgEEbPwD~3mUDYPqWmlU3rw9YJHsHMGiuNi-foPEGg4lWem0yV-xhzAKQPWJEjP7eOfSoIxWlC2m61Wij0GLLGJz~enmZI9Ly4Oo8dcsODTTOgu6Fm1beJwnWmTEjRe5w__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "69166c6b-d900-4e1e-a5be-7e8b83e5a6cf",
+      "title": "Leia a explicação e observe onde aparece o estilo e onde aparece o hábito.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "7864fd92-954a-48a1-aaf8-00d7d682a051",
+          "textContent": "<p>Em <strong>Escucho pop casi todos los días.</strong>, <strong>escucho</strong> mostra o hábito e <strong>pop</strong> diz o estilo.</p><p><strong>Casi todos los días</strong> acrescenta uma frequência simples, boa para conversas do dia a dia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f1be90d4-05a1-4452-a710-7e646324b069",
+      "title": "Escute e leia a frase. Repare que agora a pessoa não só responde, mas também explica o motivo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "b0096fc1-ad8a-4de4-9227-af6d4cb898ab",
+          "textContent": "<p><strong>Me gusta porque me relaja.</strong></p><p>Em português: <strong>Eu gosto porque me relaxa.</strong></p><p>Essa frase acrescenta um motivo pessoal sem alongar demais a resposta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6b2def5d9b6a45c7b00698f6107b387d_l01b05-me-gusta-porque-me-relaja.mp3?Expires=1794099588&Signature=H7OBaD69lVDM38x~vhfDySUETcUINbn4vWY-~WAlYY07I6~~w03ANfac2KqKE03V53TBjXusPUOIshTSO7ce-RV-A3HIinS212wyA1~zA4MtaK8HcIqaymW9TNp0nvL4bFhkkcEuw2MruNT0qcl0dapR68RGaEidpikPG0OqKqPbPCyAUVvz~7onFoBrXcO94VM1ReEpHtfYLiUE1QcO6t~UOwA-YcBk8O3A9MRU~-hewIx4uwHJn2v8z68l-MEdgnqFNtbc5jMg-GI17tmLG3qA5O2QqerBTQC4cK9IfNBpyrwAyq6Vaz7R9-XhYM2F91eHNEl8vqlUyIqjdS~vUQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a17fda24-79e9-43ff-9be1-3a4449e17949",
+      "title": "Leia a nota e observe que o foco aqui é dar um motivo pessoal curto, não descrever o gênero em detalhe.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "fe035047-8e44-4e93-8d9a-d928e1d32c0a",
+          "textContent": "<p><strong>Porque</strong> liga o gosto a um motivo simples.</p><p>Em <strong>Me gusta porque me relaja.</strong>, a pessoa não explica tudo sobre a música; ela só mostra por que essa música combina com ela.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "60bdf3ba-1aed-4311-9c9a-6088aed238a4",
+      "title": "Uma conversa curta sobre o que se ouve",
+      "description": "<p>O diálogo mostra um jeito simples de abrir o tema, responder e acrescentar um motivo pessoal sem sair do contexto da aula.</p>",
+      "contentType": 7,
+      "sequenceItem": 7,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Qué música escuchas?</div>\n  <div style=\"opacity: 0.45;\">Que música você escuta?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b29ee00ff23d41868d2f0618e51b0435_l01b01-que-musica-escuchas.mp3?Expires=1794099588&Signature=jYvAO6a8MsvQJ8LhpeUAMClAR-9130IUED94-CIgANNdz~Rpv~B88ICMRL9DaqbWciEtiadL1KfdBRyTyiUyfcOjHhKnWh1LLXQ8Te6ZC0960pXm0Izmxra~dXG-0b6WLxbtJB-Qd-vpSimYl25plRVqfE~lbiQkf5w~mnpQWjP9rB-KlZ9pfwxcIlYuCjZTTdctwiuWmEOUlTp5GWUaSDYUsqDvk1bSFB8DfGz5Uju3qfEKPXv1SMiF0BULQ1YtiV1y86PHdFpZ2RQIvC5UIOcccLej6hg1dzelnHwQk4-tnZPOVdK6poClDGoxS1twR4w9oJXDInAXRohx9y0r1Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Escucho pop casi todos los días.</div>\n  <div style=\"opacity: 0.45;\">Eu escuto pop quase todos os dias.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/995f6e8ca371424d8bbd618fcddef432_l01b03-escucho-pop-casi-todos-los-dias.mp3?Expires=1794099588&Signature=IaNKFX8cltjzuNUJfOA49XN5UJ09mYgmrBfchUActQdI9ZlFxS2f2lRlFFPu2TqQMbPMFvBTY2cdQ7ADncM4vyHnaKWcP208z1njBBYlN7zGu9ljNftnleeuTGQuJuA~YQNTd9ddE3KzdUf4o83bX6lSud7oEnt-6t8NoGTzg85MoHbY1uS31SH80686AxNpjqoS~~nW30sNIuEShiUVYMzXpcxpU2eCoW~-QTLunN~K9VTJBAVWOBpn5NNrso7Kv6-oNER7qG3K41J7CMyNk8wW8BurapvzYXzXQU9D77x4oBhm4x8Ug4oKBVt6rErYaFCQ0FPQuqmQDGp4PYILlw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Me gusta porque me relaja.</div>\n  <div style=\"opacity: 0.45;\">Eu gosto porque me relaxa.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b5f268bf92b9417488be7e2660eefbc9_l01b05-me-gusta-porque-me-relaja.mp3?Expires=1794099588&Signature=mjjf1pg76Qdu7h5rXtuFECZQEeayU-kc~l6kTYVxXB~6uBbmRUlvQUE1tEc27bEsVPJHf1qoKRxiH4o7O6jugan~OReEeDzQxySSzTk7nWFB3-5iDhY5vYuzAUxnRpMb-ZspBm~4Ts7QcfCGvaLXzXeiBuxFKBy9jZwt3pOc3BgJhYMinONFDi4sLssHbBVhopcWJM~wOPvhY9S8jhX16B~RPP2wdrkYmD7PEYi-eyoKFV56V1VfnvPq3OuvOOKH5G7YxIv7DMhlbpKt1dgUrm8i00WbNXqt5IGWyjsg7vPYBUMJjqQ5czFjSNpNEMf8gxiOj-yFmW88-EzbUk4D-w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "8e2283bc-cb34-43fb-8e6b-e39b2c2345dd",
+      "title": "Leia o resumo final e pense em situações reais em que essas três peças apareceriam juntas.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "f11d9ad2-7051-4d70-9a5d-e9d4572c8176",
+          "textContent": "<p><strong>¿Qué música escuchas?</strong> abre o tema. <strong>Escucho pop casi todos los días.</strong> responde sobre o hábito. <strong>Me gusta porque me relaja.</strong> acrescenta um motivo pessoal.</p><p>No dia a dia, essa sequência aparece quando você comenta o que ouve com colegas, amigos ou alguém que acabou de conhecer.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "7b6f9cec-13d0-44c7-a8b2-0a9b1fe7e9c9",
+      "title": "Identifique a pergunta ouvida",
+      "content": "<p>Escute a abertura da conversa e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a abertura da conversa e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b29ee00ff23d41868d2f0618e51b0435_l01b01-que-musica-escuchas.mp3?Expires=1794099588&Signature=jYvAO6a8MsvQJ8LhpeUAMClAR-9130IUED94-CIgANNdz~Rpv~B88ICMRL9DaqbWciEtiadL1KfdBRyTyiUyfcOjHhKnWh1LLXQ8Te6ZC0960pXm0Izmxra~dXG-0b6WLxbtJB-Qd-vpSimYl25plRVqfE~lbiQkf5w~mnpQWjP9rB-KlZ9pfwxcIlYuCjZTTdctwiuWmEOUlTp5GWUaSDYUsqDvk1bSFB8DfGz5Uju3qfEKPXv1SMiF0BULQ1YtiV1y86PHdFpZ2RQIvC5UIOcccLej6hg1dzelnHwQk4-tnZPOVdK6poClDGoxS1twR4w9oJXDInAXRohx9y0r1Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "¿Qué música escuchas? abre o tema com uma pergunta curta e direta.",
+      "feedbackError": "¿Qué música escuchas? abre o tema com uma pergunta curta e direta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "327bb7c8-e411-4a42-b8fe-166961eae418",
+          "textContent": "escuchas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7b6f9cec-13d0-44c7-a8b2-0a9b1fe7e9c9"
+        },
+        {
+          "id": "416426ae-b13c-4205-ab0f-92618d7b5cda",
+          "textContent": "pop",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7b6f9cec-13d0-44c7-a8b2-0a9b1fe7e9c9"
+        },
+        {
+          "id": "5b4c733d-549a-47ba-aae7-ad4149c522cc",
+          "textContent": "relaja",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7b6f9cec-13d0-44c7-a8b2-0a9b1fe7e9c9"
+        },
+        {
+          "id": "9710ea9a-c3c3-41c9-b34f-4cef9bd8dff8",
+          "textContent": "Qué",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7b6f9cec-13d0-44c7-a8b2-0a9b1fe7e9c9"
+        },
+        {
+          "id": "e6da02bd-7d49-4cc0-a70d-c14247ce844c",
+          "textContent": "música",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7b6f9cec-13d0-44c7-a8b2-0a9b1fe7e9c9"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "10120870-6fd9-406a-864b-3e38ecacc56e",
+      "title": "Escolha a resposta de hábito",
+      "content": "<p>Qual frase da aula diz o que a pessoa costuma ouvir no dia a dia?</p>",
+      "contentPlain": "Qual frase da aula diz o que a pessoa costuma ouvir no dia a dia?",
+      "fileUrl": null,
+      "feedbackSuccess": "Escucho + estilo + frequência forma a resposta curta sobre o que a pessoa costuma ouvir.",
+      "feedbackError": "Escucho + estilo + frequência forma a resposta curta sobre o que a pessoa costuma ouvir.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7a9adb93-7292-405e-9e7d-1e9d4f7ac66f",
+          "textContent": "Escucho pop casi todos los días.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "10120870-6fd9-406a-864b-3e38ecacc56e"
+        },
+        {
+          "id": "8daf3bf6-28f5-4cda-be19-dcb795bbbca9",
+          "textContent": "Me gusta porque me relaja.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "10120870-6fd9-406a-864b-3e38ecacc56e"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f68ebcf3-c3b5-4a71-9390-704d76c1d02e",
+      "title": "Escute e associe as falas",
+      "content": "<p>Relacione cada gravação do diálogo a frase exata correspondente.</p>",
+      "contentPlain": "Relacione cada gravação do diálogo a frase exata correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ligar som e escrita nas três falas que entram no tema de música.",
+      "feedbackError": "Aqui o foco é ligar som e escrita nas três falas que entram no tema de música.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "13471c03-0948-43f9-b8b2-66fc172b99f6",
+          "exerciseId": "f68ebcf3-c3b5-4a71-9390-704d76c1d02e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b29ee00ff23d41868d2f0618e51b0435_l01b01-que-musica-escuchas.mp3?Expires=1794099588&Signature=jYvAO6a8MsvQJ8LhpeUAMClAR-9130IUED94-CIgANNdz~Rpv~B88ICMRL9DaqbWciEtiadL1KfdBRyTyiUyfcOjHhKnWh1LLXQ8Te6ZC0960pXm0Izmxra~dXG-0b6WLxbtJB-Qd-vpSimYl25plRVqfE~lbiQkf5w~mnpQWjP9rB-KlZ9pfwxcIlYuCjZTTdctwiuWmEOUlTp5GWUaSDYUsqDvk1bSFB8DfGz5Uju3qfEKPXv1SMiF0BULQ1YtiV1y86PHdFpZ2RQIvC5UIOcccLej6hg1dzelnHwQk4-tnZPOVdK6poClDGoxS1twR4w9oJXDInAXRohx9y0r1Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué música escuchas?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b9f2ff9c-00a8-417e-bd02-872d6706e251",
+          "exerciseId": "f68ebcf3-c3b5-4a71-9390-704d76c1d02e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/995f6e8ca371424d8bbd618fcddef432_l01b03-escucho-pop-casi-todos-los-dias.mp3?Expires=1794099588&Signature=IaNKFX8cltjzuNUJfOA49XN5UJ09mYgmrBfchUActQdI9ZlFxS2f2lRlFFPu2TqQMbPMFvBTY2cdQ7ADncM4vyHnaKWcP208z1njBBYlN7zGu9ljNftnleeuTGQuJuA~YQNTd9ddE3KzdUf4o83bX6lSud7oEnt-6t8NoGTzg85MoHbY1uS31SH80686AxNpjqoS~~nW30sNIuEShiUVYMzXpcxpU2eCoW~-QTLunN~K9VTJBAVWOBpn5NNrso7Kv6-oNER7qG3K41J7CMyNk8wW8BurapvzYXzXQU9D77x4oBhm4x8Ug4oKBVt6rErYaFCQ0FPQuqmQDGp4PYILlw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Escucho pop casi todos los días.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6e1349fb-eb70-427d-bf20-0ccaa4435fe7",
+          "exerciseId": "f68ebcf3-c3b5-4a71-9390-704d76c1d02e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b5f268bf92b9417488be7e2660eefbc9_l01b05-me-gusta-porque-me-relaja.mp3?Expires=1794099588&Signature=mjjf1pg76Qdu7h5rXtuFECZQEeayU-kc~l6kTYVxXB~6uBbmRUlvQUE1tEc27bEsVPJHf1qoKRxiH4o7O6jugan~OReEeDzQxySSzTk7nWFB3-5iDhY5vYuzAUxnRpMb-ZspBm~4Ts7QcfCGvaLXzXeiBuxFKBy9jZwt3pOc3BgJhYMinONFDi4sLssHbBVhopcWJM~wOPvhY9S8jhX16B~RPP2wdrkYmD7PEYi-eyoKFV56V1VfnvPq3OuvOOKH5G7YxIv7DMhlbpKt1dgUrm8i00WbNXqt5IGWyjsg7vPYBUMJjqQ5czFjSNpNEMf8gxiOj-yFmW88-EzbUk4D-w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me gusta porque me relaja.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "59ef32e9-d1d0-490f-af96-2055783704fa",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a justificativa curta da aula.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a justificativa curta da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6b2def5d9b6a45c7b00698f6107b387d_l01b05-me-gusta-porque-me-relaja.mp3?Expires=1794099588&Signature=H7OBaD69lVDM38x~vhfDySUETcUINbn4vWY-~WAlYY07I6~~w03ANfac2KqKE03V53TBjXusPUOIshTSO7ce-RV-A3HIinS212wyA1~zA4MtaK8HcIqaymW9TNp0nvL4bFhkkcEuw2MruNT0qcl0dapR68RGaEidpikPG0OqKqPbPCyAUVvz~7onFoBrXcO94VM1ReEpHtfYLiUE1QcO6t~UOwA-YcBk8O3A9MRU~-hewIx4uwHJn2v8z68l-MEdgnqFNtbc5jMg-GI17tmLG3qA5O2QqerBTQC4cK9IfNBpyrwAyq6Vaz7R9-XhYM2F91eHNEl8vqlUyIqjdS~vUQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Me gusta porque me relaja. acrescenta um motivo pessoal curto sem alongar a resposta.",
+      "feedbackError": "Me gusta porque me relaja. acrescenta um motivo pessoal curto sem alongar a resposta.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Me gusta porque me relaja.",
+      "typeSpecificData": "{\"expectedText\":\"Me gusta porque me relaja.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/6b2def5d9b6a45c7b00698f6107b387d_l01b05-me-gusta-porque-me-relaja.mp3?Expires=1794099588\\u0026Signature=H7OBaD69lVDM38x~vhfDySUETcUINbn4vWY-~WAlYY07I6~~w03ANfac2KqKE03V53TBjXusPUOIshTSO7ce-RV-A3HIinS212wyA1~zA4MtaK8HcIqaymW9TNp0nvL4bFhkkcEuw2MruNT0qcl0dapR68RGaEidpikPG0OqKqPbPCyAUVvz~7onFoBrXcO94VM1ReEpHtfYLiUE1QcO6t~UOwA-YcBk8O3A9MRU~-hewIx4uwHJn2v8z68l-MEdgnqFNtbc5jMg-GI17tmLG3qA5O2QqerBTQC4cK9IfNBpyrwAyq6Vaz7R9-XhYM2F91eHNEl8vqlUyIqjdS~vUQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b902d348-c6a2-4c59-bacb-68779cf44ac8",
+      "title": "Ligue frase e tradução",
+      "content": "<p>Associe as três falas centrais da aula ao sentido correspondente em português.</p>",
+      "contentPlain": "Associe as três falas centrais da aula ao sentido correspondente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap da aula junta pergunta, hábito de escuta e motivo pessoal na mesma conversa curta.",
+      "feedbackError": "O recap da aula junta pergunta, hábito de escuta e motivo pessoal na mesma conversa curta.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "b5c5cd26-c0c0-4d81-9511-27b6572f72f9",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b902d348-c6a2-4c59-bacb-68779cf44ac8"
+        },
+        {
+          "id": "c7216d7c-4a3c-409b-9655-560a5bf84032",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b902d348-c6a2-4c59-bacb-68779cf44ac8"
+        }
+      ],
+      "associations": [
+        {
+          "id": "70cb495f-bf74-40f0-b9b0-17b46624b5af",
+          "exerciseId": "b902d348-c6a2-4c59-bacb-68779cf44ac8",
+          "leftContent": "¿Qué música escuchas?",
+          "rightContent": "Que música você escuta?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b7b37847-bec6-482e-9f80-f72cf7c0b4fd",
+          "exerciseId": "b902d348-c6a2-4c59-bacb-68779cf44ac8",
+          "leftContent": "Escucho pop casi todos los días.",
+          "rightContent": "Eu escuto pop quase todos os dias.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "80622deb-3e13-45c5-aaa0-cc72a01b0414",
+          "exerciseId": "b902d348-c6a2-4c59-bacb-68779cf44ac8",
+          "leftContent": "Me gusta porque me relaja.",
+          "rightContent": "Eu gosto porque me relaxa.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "896bf218-0748-458c-a17e-6bb8771d6e81",
+      "title": "Recupere a resposta pelo áudio",
+      "content": "<p>Escute a frase completa e selecione apenas as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a frase completa e selecione apenas as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/995f6e8ca371424d8bbd618fcddef432_l01b03-escucho-pop-casi-todos-los-dias.mp3?Expires=1794099588&Signature=IaNKFX8cltjzuNUJfOA49XN5UJ09mYgmrBfchUActQdI9ZlFxS2f2lRlFFPu2TqQMbPMFvBTY2cdQ7ADncM4vyHnaKWcP208z1njBBYlN7zGu9ljNftnleeuTGQuJuA~YQNTd9ddE3KzdUf4o83bX6lSud7oEnt-6t8NoGTzg85MoHbY1uS31SH80686AxNpjqoS~~nW30sNIuEShiUVYMzXpcxpU2eCoW~-QTLunN~K9VTJBAVWOBpn5NNrso7Kv6-oNER7qG3K41J7CMyNk8wW8BurapvzYXzXQU9D77x4oBhm4x8Ug4oKBVt6rErYaFCQ0FPQuqmQDGp4PYILlw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Escucho pop casi todos los días. junta estilo e frequência na resposta central da aula.",
+      "feedbackError": "Escucho pop casi todos los días. junta estilo e frequência na resposta central da aula.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "320191a6-2b98-430a-882e-55f678c78be4",
+          "textContent": "Escucho",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "896bf218-0748-458c-a17e-6bb8771d6e81"
+        },
+        {
+          "id": "482f0d35-15dd-4a3c-9ba9-ebf50754775f",
+          "textContent": "todos",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "896bf218-0748-458c-a17e-6bb8771d6e81"
+        },
+        {
+          "id": "723a3994-fb30-4828-ba8e-22578bb9d327",
+          "textContent": "relaja",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "896bf218-0748-458c-a17e-6bb8771d6e81"
+        },
+        {
+          "id": "af760ece-d528-4da3-af03-9bc2e36ce7e8",
+          "textContent": "pop",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "896bf218-0748-458c-a17e-6bb8771d6e81"
+        },
+        {
+          "id": "bf3e07f5-4ab1-4d26-85de-9d89e7d4fd73",
+          "textContent": "casi",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "896bf218-0748-458c-a17e-6bb8771d6e81"
+        },
+        {
+          "id": "f6d5cf17-eeb9-4315-a283-194686ec620a",
+          "textContent": "días",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "896bf218-0748-458c-a17e-6bb8771d6e81"
+        },
+        {
+          "id": "fbce2982-197f-441c-b534-faa8610cda7c",
+          "textContent": "porque",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "896bf218-0748-458c-a17e-6bb8771d6e81"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2cef88b7-d309-492c-98a7-9633a63a3e0f",
+      "title": "Complete a pergunta de música",
+      "content": "<p>¿Qué ______ escuchas?</p><p>Tradução: Que música você escuta?</p>",
+      "contentPlain": "¿Qué ______ escuchas? Tradução: Que música você escuta?",
+      "fileUrl": null,
+      "feedbackSuccess": "A pergunta central da aula usa música para abrir o tema de forma direta.",
+      "feedbackError": "A pergunta central da aula usa música para abrir o tema de forma direta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "música",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "63eb2bfc-9f11-4c6b-b3fe-473f467ef6fb",
+      "title": "Complete a resposta de hábito",
+      "content": "<p>Escucho pop ____ todos los días.</p><p>Tradução: Eu escuto pop quase todos os dias.</p>",
+      "contentPlain": "Escucho pop ____ todos los días. Tradução: Eu escuto pop quase todos os dias.",
+      "fileUrl": null,
+      "feedbackSuccess": "Casi todos los días acrescenta uma frequência simples à resposta sobre o hábito de escuta.",
+      "feedbackError": "Casi todos los días acrescenta uma frequência simples à resposta sobre o hábito de escuta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "casi",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "42faebb1-62cd-4fe5-a6f7-178b51bad486",
+      "title": "Escolha a sequência da conversa",
+      "content": "<p>Selecione a ordem que melhor recupera a passagem de pergunta, resposta e motivo pessoal.</p>",
+      "contentPlain": "Selecione a ordem que melhor recupera a passagem de pergunta, resposta e motivo pessoal.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula segue uma ordem simples: abrir o tema, responder e acrescentar o motivo.",
+      "feedbackError": "O diálogo da aula segue uma ordem simples: abrir o tema, responder e acrescentar o motivo.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4aca8528-fb8b-489d-814e-cc464bf09536",
+          "textContent": "Escucho pop casi todos los días. Me gusta porque me relaja. ¿Qué música escuchas?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "42faebb1-62cd-4fe5-a6f7-178b51bad486"
+        },
+        {
+          "id": "6f6c7b9a-2e83-4bd5-ac06-2d2b87e450a8",
+          "textContent": "Me gusta porque me relaja. ¿Qué música escuchas? Escucho pop casi todos los días.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "42faebb1-62cd-4fe5-a6f7-178b51bad486"
+        },
+        {
+          "id": "a80f868c-2a1a-493c-b485-f78469a12b40",
+          "textContent": "¿Qué música escuchas? Me gusta porque me relaja. Escucho pop casi todos los días.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "42faebb1-62cd-4fe5-a6f7-178b51bad486"
+        },
+        {
+          "id": "eba2a068-d83a-4ee8-8536-462f872cfdf6",
+          "textContent": "¿Qué música escuchas? Escucho pop casi todos los días. Me gusta porque me relaja.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "42faebb1-62cd-4fe5-a6f7-178b51bad486"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "fdc7c1f5-549a-4133-8ea8-20318ee3a625",
+      "title": "Relacione fala e função",
+      "content": "<p>Ligue cada frase em espanhol ao efeito que ela cumpre na conversa sobre música.</p>",
+      "contentPlain": "Ligue cada frase em espanhol ao efeito que ela cumpre na conversa sobre música.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fluxo da aula passa por abrir o tema, dizer o que se ouve e justificar de forma breve.",
+      "feedbackError": "O fluxo da aula passa por abrir o tema, dizer o que se ouve e justificar de forma breve.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "c0e3631e-8924-4662-8f2a-668fe4ebb942",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "fdc7c1f5-549a-4133-8ea8-20318ee3a625"
+        },
+        {
+          "id": "fa3df6e0-8aca-4921-94e3-ec57d37dd9d4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "fdc7c1f5-549a-4133-8ea8-20318ee3a625"
+        }
+      ],
+      "associations": [
+        {
+          "id": "8e6800a3-b155-46c2-95b0-08cc872f9097",
+          "exerciseId": "fdc7c1f5-549a-4133-8ea8-20318ee3a625",
+          "leftContent": "¿Qué música escuchas?",
+          "rightContent": "abrir o tema",
+          "sequenceItem": 1
+        },
+        {
+          "id": "da38b92b-ce89-4465-849b-de2fede7d935",
+          "exerciseId": "fdc7c1f5-549a-4133-8ea8-20318ee3a625",
+          "leftContent": "Escucho pop casi todos los días.",
+          "rightContent": "responder sobre o hábito de escuta",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8a1cd4c1-7670-49a0-b149-39f05e4d4213",
+          "exerciseId": "fdc7c1f5-549a-4133-8ea8-20318ee3a625",
+          "leftContent": "Me gusta porque me relaja.",
+          "rightContent": "acrescentar um motivo pessoal",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "title": "Entrar no tema falando de musica"
+}

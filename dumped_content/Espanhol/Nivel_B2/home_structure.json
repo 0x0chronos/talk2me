@@ -1,0 +1,1808 @@
+{
+  "currentLevel": {
+    "id": "23ab47f0-4d12-4330-b806-a3601fca1a6a",
+    "name": "B2",
+    "icon": null,
+    "bannerImageUrl": null
+  },
+  "modules": [
+    {
+      "id": "1b61a7dc-4ff5-4fe6-8148-b3129929857e",
+      "title": "Mudancas de vida e trajetorias de aprendizagem",
+      "subTitle": "Fale sobre rotinas de estudo, viradas pessoais e experiencias que mudaram seu caminho em espanhol.",
+      "sequenceItem": 1,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": true,
+      "learningPath": [
+        {
+          "lessonId": "7e2505ec-3183-4249-9848-8cf816126000",
+          "title": "Rotinas de estudo e constancia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": true,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "877d02e9-a7cc-42d7-9c52-37911a8c365e",
+          "title": "Viradas pessoais e decisoes importantes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ba9df6c2-bd6e-4d5c-b327-704bea11fdda",
+          "title": "Marcos do passado com sequencia clara",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e6095e68-9ce4-449b-b325-d097e69ab874",
+          "title": "Leitura de relatos de crescimento",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "bccb9604-33ab-4f8e-89c2-87c5da185eba",
+          "title": "Contraste funcional dos tempos do passado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "74058369-e925-459c-bafb-1e1dedc94c80",
+          "title": "Falar sobre mudancas de vida",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fd9ff74c-c74f-4772-8103-f19cac3bf34b",
+          "title": "Fechamento da trajetoria de aprendizagem",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "598729c9-971e-48b3-9488-a63b8784ec46",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "5f504f8e-1d1b-45db-8edd-17d68b295e7d",
+      "title": "Anedotas com contexto e ritmo",
+      "subTitle": "Conte historias cotidianas com marcadores temporais, pano de fundo e desfecho mais natural em espanhol.",
+      "sequenceItem": 2,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "92ed98cf-44d1-4929-907e-2b9668afb37c",
+          "title": "Abrir uma anedota com naturalidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8a572cd0-54c9-4532-9aea-37d698a81e91",
+          "title": "Marcar quando a história aconteceu",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "413b4501-f6e1-4244-a0c9-f77d33cad5fa",
+          "title": "Pano de fundo e interrupcao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "13a98aed-9e99-4bbc-b92c-280de29317cb",
+          "title": "Contar uma experiencia passada em voz alta",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "089f2b03-5890-453a-a4fe-10d96eb69cd2",
+          "title": "Fechar a anedota com ritmo e desfecho",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "83b281a0-be8c-4e91-a12f-effb5040dc5f",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "fad5939f-a61c-4bfc-9dab-c2d2fd6d10a0",
+      "title": "Cinema, recomendacoes e gosto cultural",
+      "subTitle": "Descreva obras, refine opinioes e recomende experiencias culturais com mais nuance em espanhol.",
+      "sequenceItem": 3,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "45d4f821-ddf3-4c85-906c-aa73a5c27ee6",
+          "title": "Linguagem para comentar cinema e series",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "900bc20d-55bd-4737-aaf5-36b7f54c7e4d",
+          "title": "Reformular e suavizar opinioes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6d05a296-98bf-4bc4-9a72-30e577078609",
+          "title": "Subjuntivo para avaliacao cultural",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5d2d19c2-8a0c-4e70-a453-72ad25fbad25",
+          "title": "Descrever uma obra com mais detalhe",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e5766182-89a3-4680-9d2d-1f5c33c73bb8",
+          "title": "Ajustar uma recomendacao cultural ao interlocutor",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6ed1359e-d5fa-4b56-a5f8-3385a53f43e7",
+          "title": "Comparar gostos culturais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "947123a5-ba72-4a01-8957-8f15ba3d15c9",
+          "title": "Negociar o que assistir",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "58557d5b-a34a-4a14-894e-d3b41eec44b2",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "750e2e90-f94a-4ce7-8a13-b2dfba598cee",
+      "title": "Habitos de lazer e preferencias do dia a dia",
+      "subTitle": "Fale sobre hobbies, compare rotinas e interprete preferencias coletivas sem sobrecarregar a licao.",
+      "sequenceItem": 4,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "fc71ea5b-d92b-40c6-823c-a11ef16a5f8e",
+          "title": "Habitos de tempo livre",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f6738e2a-50e5-45e2-968f-f2b08d539587",
+          "title": "Ler perfis de preferencias",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "b1656339-313b-4197-bfaf-7fda2466f7e6",
+          "title": "Dados simples do cotidiano",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "68c00638-0ac0-4148-a32e-fce1a2f0ea83",
+          "title": "Comparar rotinas e opcoes de lazer",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5d3a652a-c801-4d25-8c1c-193c4116dd31",
+          "title": "Costumes e normas sociais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0ed33fc6-7d23-48f2-8ef4-40c70fe71f43",
+          "title": "Preferencias coletivas e convivencia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "293207c9-53a3-422b-b6aa-db27e149b2a8",
+          "title": "Habitos alimentares, corpo e sabor",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "d2f43ad5-88a0-4aa2-bbd9-8c0518e969ce",
+          "title": "Avaliar escolhas do dia a dia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ee959331-cadc-4e2e-a00e-6788cb6a39b5",
+          "title": "Modismos com comida e refeicoes sociais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5696b503-93dd-4b71-b176-dd5515365b34",
+          "title": "Fechamento sobre estilo de vida cotidiano",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 10,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 11,
+          "type": "checkpoint",
+          "checkpointId": "c427cced-057e-4ddb-bf3d-630e3757e5c1",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "d05a1833-e73f-4473-96c1-42bd6f2ca39b",
+      "title": "Alimentacao, pandemia e mudanca pessoal",
+      "subTitle": "Reflita sobre habitos, confinamento e ajustes de rotina usando espanhol mais analitico e pessoal.",
+      "sequenceItem": 5,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "d1bb6372-8c69-41a9-9c99-1dbe9055ddee",
+          "title": "Mudancas de habito e alimentacao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0d9e6f53-0071-4b05-80a2-fac85164b112",
+          "title": "Memorias da pandemia e adaptacao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "59bb43ed-5e9b-4e0d-a6dd-7f5b94e9f72f",
+          "title": "Reflexao com imperfecto de subjuntivo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "7275a835-28d7-4900-93d3-ed624288c392",
+          "title": "Verbos com preposicao em contexto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ac330f66-85a2-437b-a8d8-c76dfcdfed43",
+          "title": "Fechamento sobre mudanca pessoal",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "756b3126-e478-45f1-a5d6-ad96d359da77",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "c29c55ca-3f61-4a39-95a6-842fc28e9ddc",
+      "title": "Bem-estar urbano, consumo e rotina",
+      "subTitle": "Fale sobre saude, compras, energia e produtividade em um arco pratico de estilo de vida contemporaneo.",
+      "sequenceItem": 6,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "361a76a5-5c86-4611-8b1f-7d40c1ff2216",
+          "title": "Bem-estar e energia do dia a dia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "837810aa-b499-41cf-97f4-d11ac6ec8dff",
+          "title": "Habitos de consumo cotidianos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "954800d0-0e25-4c22-89fa-2daa970bf2fe",
+          "title": "Linguagem de compra e modismos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "19a11314-2585-483e-b624-8210728fb9c8",
+          "title": "Padroes de habito em andamento",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ba6ddc19-37b5-4f9e-88a4-35b82ba7d7cb",
+          "title": "Alimentacao e equilibrio cotidiano",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "97cfe038-e875-4579-b975-6323cfb3861d",
+          "title": "Recomendar mudancas realistas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ba957a09-0f2c-410d-b240-f8e130823091",
+          "title": "Pressao e qualidade de vida",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "2f47ddd4-a6d5-4dbe-bc6a-3fd217e4b0e8",
+          "title": "Produtividade, tempo e graus de certeza",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3125f890-2852-4d03-b856-0f712116f948",
+          "title": "Laboratorio de decisoes de estilo de vida",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 10,
+          "type": "checkpoint",
+          "checkpointId": "9bdf0f65-c6d5-40d7-91e1-33c62e267ec2",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "c93e300e-6c39-438e-93b5-e8337655fc47",
+      "title": "Imperativos, campanhas e instrucoes",
+      "subTitle": "Use comandos positivos e negativos com mais seguranca em anuncios, orientacoes e mensagens publicas.",
+      "sequenceItem": 7,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "b6bcb4b0-9c05-43e9-b95c-7d2c412ca13d",
+          "title": "Comandos positivos com clareza",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fe0128d2-8821-4ce8-a135-744f0149d151",
+          "title": "Linguagem persuasiva de campanhas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9ba551a0-5fd9-43fe-a374-5aaa87287bbf",
+          "title": "Comandos negativos e avisos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5cdbeb98-7109-4740-a3d8-bd3089e243d1",
+          "title": "Contrastar forma e tom",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "52d3a2e1-3017-4859-a739-cbc4965f187b",
+          "title": "Unir campanha e instrucao em um microaviso",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "02bf49be-522b-4bc6-94f7-7524f145552e",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "e1da5852-62d4-4133-a2a1-50ddcd96cb8c",
+      "title": "Reclamacoes, condicoes e escolhas de estilo de vida",
+      "subTitle": "Aprenda a reclamar com clareza, entender condicoes e defender preferencias com mais nuance em espanhol.",
+      "sequenceItem": 8,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "f297537b-fe69-4600-a6b7-88685fff529d",
+          "title": "Abrir uma reclamacao com clareza",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "b5329a3d-2a37-4d93-ba95-5b31d9129db7",
+          "title": "Condicoes e garantias de atendimento",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "39d133ef-cbb7-4266-8d63-ad771ed9a05c",
+          "title": "Ler politicas de devolucao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "1d615d55-7ba2-4c95-9a03-b66bcf05ce44",
+          "title": "Explicar como algo deveria funcionar",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "420fedfe-e0c8-47cf-911c-7af2e9f6b191",
+          "title": "Opiniao com posicao mais clara",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "b8934072-0ef7-4f98-b264-259561978ee6",
+          "title": "Finalidade e expectativa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6d56b1c0-2c2d-4356-a1e3-6920d26beaa7",
+          "title": "Explicar o que combina com sua rotina",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "35b34393-2a1c-48ca-af57-cbab8c6a3475",
+          "title": "Fechamento entre consumo e estilo de vida",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "checkpoint",
+          "checkpointId": "702a8e8b-8ec4-4ccc-b1a4-2af2cbd4f486",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "570be6c1-bbe4-40ac-ac60-7f7993cfcfa5",
+      "title": "Midia, noticias e estilos de turismo",
+      "subTitle": "Fale sobre como voce se informa e que tipo de viagem prefere em um capitulo-ponte curto e funcional.",
+      "sequenceItem": 9,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "01eccec0-b69d-4b14-9d26-c8a0562e8fa1",
+          "title": "Vocabulario de imprensa e midia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "001be841-340d-4100-8a6f-3460d1e8ddf5",
+          "title": "Fontes de informacao e criterio de confianca",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "134ce377-e0f5-481b-ae6b-31dfe1cc36f7",
+          "title": "Estilos de turismo e perfil de viagem",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f78d8661-d6f2-4b17-b90c-640656704e38",
+          "title": "Conectar noticias e destinos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "checkpoint",
+          "checkpointId": "b6888ca4-dd44-4ffe-b5dc-4a1500c4d294",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "921377c4-2b00-4ce1-be9f-c453e42db62d",
+      "title": "Noticias, meio ambiente e relato indireto",
+      "subTitle": "Compartilhe noticias, organize debate ambiental e relate pedidos ou instrucoes sem transformar o capitulo em um modulo excessivo.",
+      "sequenceItem": 10,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "f9d20373-5b20-4c8a-9a44-b3ad7b683afb",
+          "title": "Abrir conversa com uma noticia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "392de709-007a-49fb-942f-ae151137423f",
+          "title": "Desejos improvaveis sobre problemas publicos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8f4348fd-79c7-4d9c-a721-35102e134c08",
+          "title": "Organizar um comentario curto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "29524e17-f8f0-4aa7-895c-17300dadcf00",
+          "title": "Imprensa, fontes e circulacao da informacao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "87f7caad-0b38-444f-9fcf-72d5ed7a3e3c",
+          "title": "Desastres naturais e reacao publica",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "011553e6-1382-44c1-a3e6-d1eb514f45fa",
+          "title": "Consciência ambiental e hábitos coletivos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0db44209-192d-498e-b133-c5f325e0d2c2",
+          "title": "Conectores para debate ambiental",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fe993436-c1af-4188-b5ff-6e20573d215c",
+          "title": "Ecologia em ordem temporal",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5c584af3-e7d2-4c85-b26e-8e62ccd24ecc",
+          "title": "Vida digital e habitos conscientes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "98270d79-5f64-4e3c-9550-9e4291aa2e44",
+          "title": "Pedidos e avisos em estilo indireto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 10,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6e1704fc-0a57-4781-a5c5-bef718f85196",
+          "title": "Briefing final sobre noticia e meio ambiente",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 11,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 12,
+          "type": "checkpoint",
+          "checkpointId": "e39824b2-62eb-4a0a-a053-600b34222398",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "1ae57398-528d-44d8-ae12-8eb027da782d",
+      "title": "Propor soluções para problemas sociais",
+      "subTitle": "Discuta urgências coletivas e defenda medidas concretas com linguagem de recomendação.",
+      "sequenceItem": 11,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "12029288-64f5-403d-b50f-fc54852c61ba",
+          "title": "Nomear problemas sociais com foco e urgência",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "20bd44e7-0357-497a-8d8d-ff56502d1818",
+          "title": "Transformar crítica em proposta prática",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ed39770d-2494-475b-8594-996cac6f4e13",
+          "title": "Priorizar ações e prever consequências",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "7cf5c896-6a74-47bc-ab47-575a42b2295e",
+          "title": "Defender uma ação comunitária em formato breve",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "checkpoint",
+          "checkpointId": "8af78a0d-dc0b-4c95-99a9-cb9ff0187ee2",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "c5fc546f-fa08-4402-b32e-e99570022693",
+      "title": "Imaginar futuros e definir relações importantes",
+      "subTitle": "Projete mudanças sociais e descreva as pessoas e relações que fazem sentido nesse futuro.",
+      "sequenceItem": 12,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "d338d0bb-8cfe-47ed-ab00-0142a165013c",
+          "title": "Imaginar mudanças sociais e futuros possíveis",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "01625d02-916e-4db8-8480-d7a4c08b64ff",
+          "title": "Falar de resultados futuros já alcançados",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "cfdfd778-c4d5-4799-bb86-7925e779c28f",
+          "title": "Discutir desafios globais e respostas possíveis",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "d9eb88a1-a41d-46b8-9ea3-76a4ae503e3f",
+          "title": "Imaginar comunidades melhores e mais compatíveis",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "93260c93-3f2a-410a-86fd-cff97f776855",
+          "title": "Descrever traços de personalidade que importam",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5d70c3d9-6b49-40a5-96b3-aa558485b8e0",
+          "title": "Falar de relações e compatibilidade com nuance",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f3b5ff31-6d44-4363-a82d-b31883b2b1e0",
+          "title": "Definir pessoas e grupos com oracoes de relativo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "afefecb8-d68b-4ca9-b77b-7beec263769c",
+          "title": "Integrar futuro social e valores relacionais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "checkpoint",
+          "checkpointId": "d9efa3a0-dbd6-43d4-9591-3b41026ab674",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "4cbb51b4-7418-48e6-a7da-3d1abaf4a1a6",
+      "title": "Nuances de ser, estar e emoções",
+      "subTitle": "Diferencie traço, estado e mudança de sentido antes de falar de emoções com mais precisão.",
+      "sequenceItem": 13,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "a652bee7-0585-46f2-bdec-27cbb17f9404",
+          "title": "Usar estar para estado, reação e condição",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "297a5b2a-2c66-4957-9255-e7199b4d4c29",
+          "title": "Usar ser para traço e avaliação mais estável",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "17338edb-6da3-4010-885d-e281ef2447b4",
+          "title": "Perceber adjetivos que mudam de sentido",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "14b0beaa-00f6-488b-8cf0-b8b923115313",
+          "title": "Falar de emoções negativas com precisão",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0267a494-244f-4ff3-a524-ffdcd663a8b8",
+          "title": "Integrar traço, estado e emoção em fala guiada",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "c8ad30b1-a08a-4a1c-aa8f-9b85cdc4377f",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "73c41fb9-d558-4f0c-b938-3d6db35cb1b0",
+      "title": "Trabalho, formação e trajetória profissional",
+      "subTitle": "Explique condições, obstáculos e mudanças de percurso com conectores funcionais e relato biográfico.",
+      "sequenceItem": 14,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "f7a6cc38-eb64-4d2b-aa93-8148927e80da",
+          "title": "Descrever condições de trabalho e responsabilidades",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "88855647-de8c-4c72-9168-dcb4be8612ed",
+          "title": "Usar concessivas para falar de obstáculos no trabalho",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "a5981fa3-e43b-4615-b58d-09a231e92c17",
+          "title": "Explicar consequencias de decisoes profissionais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "88ff4792-46e8-44a3-840b-29472b836129",
+          "title": "Organizar um relato breve de experiência profissional",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fa97bf76-322d-40fb-81c0-6822088fe16e",
+          "title": "Conectar formação, especialização e mudança de direção",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0da3436f-6c04-492d-a702-993f75f58339",
+          "title": "Integrar trabalho e estudo em uma história de carreira",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "44d80309-faea-40e3-a032-7edcd78c18b2",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "f319741e-5dba-4b22-9921-9714932ab3e3",
+      "title": "Livros, resenhas e identidade acadêmica",
+      "subTitle": "Use leitura e opinião para chegar a formação, escolhas de estudo e percurso profissional.",
+      "sequenceItem": 15,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "3f098680-17c4-459f-a541-db930efdce7c",
+          "title": "Falar de gostos de leitura e linguagem literária",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "14b17e40-51de-4ef7-a8d3-0b9e49ed8aae",
+          "title": "Justificar opiniões sobre livros com conectores",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "61c84359-c0d4-4207-92b7-78e1960cae94",
+          "title": "Montar uma mini-resenha curta e organizada",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f2a1913d-65ce-4528-83f1-6470f3a0fb5d",
+          "title": "Ligar leitura, universidade e identidade intelectual",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9efde6da-ca74-42ca-bd8f-b7aa5cd1cfe5",
+          "title": "Relacionar estudos, carreira e escolhas de percurso",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "59b00491-9780-4d80-bd6c-1df3d22ca864",
+          "title": "Traçar um perfil cultural e profissional integrado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "b05c5266-4460-43d6-996a-9ce20934f875",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "9bc0943e-e1d0-49e8-90af-2b08d94f1f11",
+      "title": "Informação, risco digital e passados alternativos",
+      "subTitle": "Relate informação, interprete risco e avalie consequências passadas com passiva, hipótese e passado irreal.",
+      "sequenceItem": 16,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "80c3a950-b0a8-4024-b4f7-82d0138b3045",
+          "title": "Usar voz passiva para relatar informação pública",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fe16c80b-de80-4135-ad87-da83c65f6a4c",
+          "title": "Marcar fonte e linguagem de relato",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "5adcb253-b80c-48ce-9dd4-94a894729425",
+          "title": "Controlar rumor e responsabilidade na circulação de mensagens",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6d12ad29-a2be-4eea-abc8-822b3f9a4178",
+          "title": "Falar de ameaças digitais e prevenção",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0939b02e-5ede-4d8c-a7d3-eda23f1e371c",
+          "title": "Formular hipóteses sobre risco e causa provável",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "72c1b7a3-3a0b-4c36-bfb3-b5fd39030a7d",
+          "title": "Interpretar mensagens suspeitas com leitura crítica",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "63115634-0e7d-4f04-9f0a-3fe8571eb725",
+          "title": "Abrir o passado irreal por decisões não realizadas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "077227bd-5a2e-4f06-b1cc-8a369531ee08",
+          "title": "Refinar o arrependimento com pluscuamperfecto de subjuntivo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "bf2565e2-59e6-4dfd-90ba-8035fa040781",
+          "title": "Integrar informação, risco e consequência retrospectiva",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 10,
+          "type": "checkpoint",
+          "checkpointId": "c4b7f052-d06f-4e87-a05c-4e206ca1ebc8",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "ef1b57de-3b84-4341-ba89-0ff2672a342d",
+      "title": "Arrependimentos e desejos impossíveis sobre o passado",
+      "subTitle": "Use ojalá e passado irreal para refletir sobre decisões e possibilidades que já não podem acontecer.",
+      "sequenceItem": 17,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "7601e659-b91b-46e3-8f68-42cf3b57c1f4",
+          "title": "Introduzir ojalá para desejos impossíveis no passado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "441d16c7-0271-45da-b42f-b2324158b99a",
+          "title": "Ligar arrependimento a alternativas e consequências",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "d9f3ee5d-150e-4b3a-ae1a-9bcea9145ee5",
+          "title": "Fechar com reflexão retrospectiva e aprendizado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "checkpoint",
+          "checkpointId": "1be137b5-5401-4810-801c-361a208804ea",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "83b81968-c219-4524-b13b-e98db35b9942",
+      "title": "Opiniões sobre espaço público e famílias atuais",
+      "subTitle": "Use indicativo e subjuntivo para opinar sobre arte urbano, convivência e modelos familiares.",
+      "sequenceItem": 18,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "f2421f1d-1b9e-4cf7-9ee7-9f1c15653d68",
+          "title": "Falar de arte urbano e espaço público",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3950a475-9bf5-46eb-9aca-0ccf1286be1a",
+          "title": "Escolher indicativo ou subjuntivo em opiniões",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "a5281c91-178c-4b7d-b8da-454df7acfa1a",
+          "title": "Falar de modelos familiares e mudança social",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "eea601ee-22c6-48e1-a38d-4748c3a83700",
+          "title": "Discutir convivência e incômodos do dia a dia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8a787c26-4776-4157-aeaa-5899f9a9ef31",
+          "title": "Integrar opiniões sobre esfera pública e vida privada",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "d84f4bbe-7313-4292-9d1d-1e9a0e431ab8",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "3d3b94b0-fe1b-4e79-bfd5-27b0d8ecc838",
+      "title": "Emoções negativas, saúde mental e leitura de dados",
+      "subTitle": "Fale de bem-estar, interprete quantificações simples e comente observações sociais com apoio de leitura.",
+      "sequenceItem": 19,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "6b080abf-ee12-43f4-819e-a0de21633610",
+          "title": "Nomear sentimentos negativos e seus gatilhos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e74a1dff-714a-41fa-a8a1-dfc859075c7c",
+          "title": "Falar de saúde mental cotidiana com cuidado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "4f651e1f-1cee-4e70-84bf-b3a609ebad81",
+          "title": "Interpretar porcentagens e frações em contexto social",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "4da090de-a2d0-4805-a1dd-dfc997e3ff67",
+          "title": "Usar leitura como pivô entre emoção e observação social",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "735dcce9-64eb-4e9d-b81a-76cc85c4bb7d",
+          "title": "Comentar dados simples com empatia e contexto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "a61c5572-e443-445f-b5a4-04467e613d50",
+          "title": "Fechar com fluidez reflexiva sobre bem-estar e sociedade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "f8a6b239-eb87-409f-86b4-8c4fa21b1405",
+          "challengeReached": false
+        }
+      ]
+    }
+  ],
+  "nextLesson": {
+    "lessonId": "7e2505ec-3183-4249-9848-8cf816126000",
+    "moduleId": "1b61a7dc-4ff5-4fe6-8148-b3129929857e",
+    "title": "Rotinas de estudo e constancia",
+    "icon": null,
+    "currentStep": 0,
+    "stepSequence": 0
+  }
+}

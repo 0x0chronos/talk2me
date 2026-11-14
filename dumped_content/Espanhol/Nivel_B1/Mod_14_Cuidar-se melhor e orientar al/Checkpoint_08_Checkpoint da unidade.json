@@ -1,0 +1,466 @@
+{
+  "attemptId": "7f733f85-84e3-4293-b90b-f201249b025c",
+  "exercises": [
+    {
+      "exerciseId": "f0e189f3-c6a9-4da2-9f29-7ba7c9245a1d",
+      "sequence": 1,
+      "lessonId": "fa11d10a-0bbe-4b7a-8168-9576aec1cafd",
+      "title": "Monte a resposta completa pelo áudio",
+      "content": "<p>Recupere as quatro partes da orientação final associando cada áudio à sua linha em espanhol.</p>",
+      "contentPlain": "Recupere as quatro partes da orientação final associando cada áudio à sua linha em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "A resposta aplicada se monta com duas recomendações, uma justificativa e um follow-up.",
+      "feedbackError": "A resposta aplicada se monta com duas recomendações, uma justificativa e um follow-up.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "ad2b4eab-398f-4d9c-b19a-008b723249ff",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/62fd6445d9a9451fa0a5211d1e7f2f37_b03-te-recomiendo-que-duermas-un-poco-mas-esta-semana.mp3?Expires=1794099643&Signature=wIF5dthgrwCW9RwVn9ZGz13PkMyWUyl3iDW2yF3hrkBPzBnn5g9PnNnLYmCAYhk5Xjl3PmLnrZ1I0ysUEPB03FrLVXm4z-DagaJ5fpOn1EJx4wuu7xjEUgK1vsY46JtPkqGH3OS1NEJjNtaZCizAyoezhKynEsURojdCbpLXy8ut3iQEFwljQwFvk6mlT2DwyGPloxHuZKJid4JyU7czJR9uljim9ZlzeTFCUdYMPz~EUUPudkm1LCgIFDiFPWXZQ69UL4-x3FiuGAGGFr838OErA6D55dXaROnWBIkcdIspULrUvxadF6ULU1wD2l0-HX8OImzW3y1mWoI-H5kh4g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Te recomiendo que duermas un poco más esta semana.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f59e8f10-52be-4870-b15f-420d3b880f8a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0a138e72729247b1a795b83f18465961_b04-es-mejor-que-uses-una-crema-hidratante-por-la-noche.mp3?Expires=1794099643&Signature=KzcPl~R~EPM08t5xz~HP7gDJKorFjm4Iopr-k55K22eCDc4yNxNSJDS6hZW0qQI2Z~Mvri~ZByfH7K-EOJ0mFWqZq5-ojUj--XpzvM8AsyF53w~Jsiv4-qqogbKp7hfa9W~8WyLZkP3FtaRspKXMFGQUgB3stsQfxlVURrDO8m7GC9sfV-i~QuxWo~RlC1yZMq2Ad6egel~IEBk16VLBjqYsDtKs6hxqcU6Vs~xTYGAyB3ttP5Y4CX4JQeVTzrDyJFzOQ~Qc0bl8gwruXj9AkERMLD5ihL66Rwjnwn8a3wvbd7AgYOha39ZBgXqnKhBgDPZ~yjGAxTJP3c3EwOyIAQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es mejor que uses una crema hidratante por la noche.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "cbf906b6-73eb-493f-b7d8-1a7d5395d7f5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/95b9467497914a7bb952800914ee3b5d_b05-lo-digo-porque-duermes-poco-y-tienes-la-piel-seca.mp3?Expires=1794099643&Signature=jFLELxX~jMGan0AyV-ne5sv2mI~por3FcOLI8yz6kf0BhZUqCTjLaqnY-udFYNdUwJLYemb5NevbQ~LDKVgprbL~0FvTgkrJ5PZydZdVs12RazEKTcOuYc3Jc9u~qGL-uDrr3wgZD7kaQIKRsFcpnfR77BjzfOMOeKAuhrLPC5PTS-q5zmMl3PhhGtt6hU-bCqBueOC8mQBzAB~Ye3uje9Q05Ri57hpItfJkxMbpsNNNg6R6dLYP7C8buWPYszE1eqvr~w0JqsmSftyhnHnWc~Qu3USodG61AnmecVXK8OgnLO0FcusQIRb3DqFtfib41K9O3W37nhKt24EKa0qG0g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo digo porque duermes poco y tienes la piel seca.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c9ae8eb9-4876-4a5c-beac-e2ab990b9d9b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/db1b3339c1ad4634b246406ad55d2cad_b07-si-sigues-igual-conviene-que-pidas-una-cita-la-proxima-semana.mp3?Expires=1794099643&Signature=d-sescbvlT60EzuW5jdksbz7PAle5OXPC42jTSS2x1-4AxvvNyiueRGMONI~nqMghw-UD2UljB-BVJNHCLFk2NuWP4k41CIpprfbyvQEyhekCNhxi2fyFr20GAqIlaYBEayD-z-usVgbZUfK70~AtP-cMAtJGFkvL6KIQJj0-mswnql9ge8FB2tzABly8zT-OWdRrW5N-mjuQ~rlgVcy6fKFABHrf9T80C52S6rKjDHsQGznANdklD9vQaO4McJBuJ7bBKCJBalo0wAfukmt6IsTujs5PH34wJuUJ2AHwSzGdA~qUyU1NXvzqjIOpj84uBHCDQrdcwPzXGzudX7EFQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si sigues igual, conviene que pidas una cita la próxima semana.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "cf8c4045-daa2-49da-b80a-204eff2e2f88",
+      "sequence": 2,
+      "lessonId": "64b21a46-fb25-49fd-b35b-cc6cfe3c939e",
+      "title": "Complete o produto",
+      "content": "<p>Uso crema __________ cada noche.</p><p>Tradução: Uso creme hidratante todas as noites.</p>",
+      "contentPlain": "Uso crema __________ cada noche. Tradução: Uso creme hidratante todas as noites.",
+      "fileUrl": null,
+      "feedbackSuccess": "Crema hidratante aparece na aula como produto específico de cuidado da pele.",
+      "feedbackError": "Crema hidratante aparece na aula como produto específico de cuidado da pele.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hidratante",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "71430266-2ab6-4f4f-9cb5-4c39c4e9e377",
+      "sequence": 3,
+      "lessonId": "d644d187-b450-44ef-8acc-2e34b864c34a",
+      "title": "Complete a checagem",
+      "content": "<p>La próxima semana ______ si tu piel se ve mejor.</p><p>Tradução: Na próxima semana, veja se a sua pele parece melhor.</p>",
+      "contentPlain": "La próxima semana ______ si tu piel se ve mejor. Tradução: Na próxima semana, veja se a sua pele parece melhor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, revisa transforma o follow-up em uma checagem concreta.",
+      "feedbackError": "Nesta aula, revisa transforma o follow-up em uma checagem concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "revisa",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0e1fe0d9-6766-4d2a-b5e9-471c94a4402a",
+      "sequence": 4,
+      "lessonId": "44af1627-27fa-48ee-9de3-a640b5a8b61f",
+      "title": "Complete o conselho mais neutro",
+      "content": "<p>Complete em espanhol: Conviene que _____ menos café por la noche.</p><p>Tradução: Convém que você tome menos café à noite.</p>",
+      "contentPlain": "Complete em espanhol: Conviene que _____ menos café por la noche. Tradução: Convém que você tome menos café à noite.",
+      "fileUrl": null,
+      "feedbackSuccess": "Conviene que também pede a forma da outra pessoa, aqui com tomes.",
+      "feedbackError": "Conviene que também pede a forma da outra pessoa, aqui com tomes.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tomes",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "17b2afb1-0276-4953-82d0-e1615d0a3c2d",
+      "sequence": 5,
+      "lessonId": "d644d187-b450-44ef-8acc-2e34b864c34a",
+      "title": "Reconstrua as três orientações",
+      "content": "<p>Ligue cada início em espanhol ao desfecho correto para recuperar a fala central da aula.</p>",
+      "contentPlain": "Ligue cada início em espanhol ao desfecho correto para recuperar a fala central da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a fala completa liga lembrete, checagem e próximo passo no mesmo tema.",
+      "feedbackError": "Nesta aula, a fala completa liga lembrete, checagem e próximo passo no mesmo tema.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "63159ef8-ffc0-4030-81f7-7178c4ff74a5",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a6d6db1d-89bb-4041-a3ff-c6489970cf18",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "4e68783e-6b21-4fcb-8d43-f700c6084e41",
+          "leftContent": "No te olvides de",
+          "rightContent": "usar protector solar todos los días.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "992f8076-2fe1-446a-93c0-2c16f1b4ab82",
+          "leftContent": "La próxima semana",
+          "rightContent": "revisa si tu piel se ve mejor.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3f376db8-8aef-432d-8ec7-e4a938e1e5c0",
+          "leftContent": "Si sigues con la piel seca,",
+          "rightContent": "pide una cita.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "fb82b54e-1040-4b78-a9ff-b045c9e5f169",
+      "sequence": 6,
+      "lessonId": "64b21a46-fb25-49fd-b35b-cc6cfe3c939e",
+      "title": "Recupere o produto pelo áudio",
+      "content": "<p>Escute a frase da rotina de noite e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a frase da rotina de noite e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0c4636b17b5b4a34baa342167b07c0d0_b03-uso-crema-hidratante-cada-noche.mp3?Expires=1794099643&Signature=KguEhkO6sJHRYYDOze147B~s-TuuuS4y5Home423EvWMmQwc4Gvq-vMhPWYa9EUuO133P5INoveNtIo6pwYh7BxRdAX8StNbXhOUSny5qJQAPSjdhrXIzMdLCAWANrTP-yXa45MUwBNyYalfDKfr2B98KqmabhbY8oXE59Rl64~UJRouycoWXTONx7GE3xgdQM6QxG8pIZxCdsibl-xyNkyN4D1S8fApUp66tlzOsWpS5ymWNffLd0o1DIYY1OGNP1yniyBRbHIXe-tDWevA5FGS0lDIPtnPeg-SHM4fWGvlHr-Bnn~EmL0VikfOMv8j3fP17A2g8Z5gbGykdVHwXw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na aula, crema hidratante entra como item de cuidado dentro da rotina da noite.",
+      "feedbackError": "Na aula, crema hidratante entra como item de cuidado dentro da rotina da noite.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "002aed86-4e7b-4002-92c3-e022bbeaf139",
+          "text": "noche",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "0c340097-5a08-48d4-94c2-893e00de8c3c",
+          "text": "solar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "0e17ffb9-30b9-4675-b6d3-c91dd132450f",
+          "text": "salir",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "50157065-2444-4e37-ba27-cb88da1ab8e5",
+          "text": "Uso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "588f97a6-3531-4b89-9a1b-e3a781e25861",
+          "text": "crema",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "830eefc3-88d0-43d3-886f-244125080c40",
+          "text": "hidratante",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b65e4f5d-d386-4410-8fc4-dfaa7cdfd979",
+          "text": "cada",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d0f35fc9-7dfd-4c25-b01e-e39de256ddd2",
+          "text": "protector",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "6652091c-a85f-461c-a50d-a91411c1b72d",
+      "sequence": 7,
+      "lessonId": "64b21a46-fb25-49fd-b35b-cc6cfe3c939e",
+      "title": "Complete a ação da noite",
+      "content": "<p>Me ___________ antes de dormir.</p><p>Tradução: Tiro a maquiagem antes de dormir.</p>",
+      "contentPlain": "Me ___________ antes de dormir. Tradução: Tiro a maquiagem antes de dormir.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula apresenta desmaquillarse como ação concreta do fim do dia.",
+      "feedbackError": "A aula apresenta desmaquillarse como ação concreta do fim do dia.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desmaquillo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "659d3702-8380-4cd7-a70c-fa8e983a2852",
+      "sequence": 8,
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "title": "Recupere a dúvida do caso",
+      "content": "<p>Complete em espanhol: No sé qué _______ en mi rutina.</p><p>Tradução: Não sei o que mudar na minha rotina.</p>",
+      "contentPlain": "Complete em espanhol: No sé qué _______ en mi rutina. Tradução: Não sei o que mudar na minha rotina.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambiar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "683acdbf-8bcd-4140-aa19-42d0430dff86",
+      "sequence": 9,
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "title": "Monte a palavra",
+      "content": "<p>Complete em espanhol: <strong>Para cuidarte mejor, conviene que _____ pausas durante el día.</strong></p><p>Tradução: Para se cuidar melhor, convém que faça pausas durante o dia.</p>",
+      "contentPlain": "Complete em espanhol: Para cuidarte mejor, conviene que _____ pausas durante el día. Tradução: Para se cuidar melhor, convém que faça pausas durante o dia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, hagas ativa uma ação concreta na rotina.",
+      "feedbackError": "Nesta aula, hagas ativa uma ação concreta na rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hagas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "559f9e43-cece-4c07-82d9-ecdb6e253c44",
+      "sequence": 10,
+      "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+      "title": "Monte a palavra",
+      "content": "<p>Complete em espanhol: <strong>Por la noche, es mejor que ______ una rutina más tranquila.</strong></p><p>Tradução: À noite, é melhor que você tenha uma rotina mais tranquila.</p>",
+      "contentPlain": "Complete em espanhol: Por la noche, es mejor que ______ una rutina más tranquila. Tradução: À noite, é melhor que você tenha uma rotina mais tranquila.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, tengas serve para algo que vale a pena manter.",
+      "feedbackError": "Nesta aula, tengas serve para algo que vale a pena manter.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tengas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4b2806f9-9ffb-42f2-8c6c-681c791b3232",
+      "sequence": 11,
+      "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+      "title": "Recupere a mudança exagerada",
+      "content": "<p>Complete em espanhol: Es mejor que cambies toda tu ______ de cuidado esta semana.</p><p>Tradução: É melhor que você mude toda a sua rotina de cuidado esta semana.</p>",
+      "contentPlain": "Complete em espanhol: Es mejor que cambies toda tu ______ de cuidado esta semana. Tradução: É melhor que você mude toda a sua rotina de cuidado esta semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "feedbackError": "Esta aula treina ler o caso para separar problema principal, pistas e conselho mais adequado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "rutina",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b28a4e11-fea1-4123-b718-7123a320cbd7",
+      "sequence": 12,
+      "lessonId": "fa11d10a-0bbe-4b7a-8168-9576aec1cafd",
+      "title": "Complete o follow-up",
+      "content": "<p>Complete em espanhol: Si sigues igual, conviene que _____ una cita la próxima semana.</p><p>Tradução: Se continuar igual, convém que você marque uma consulta na próxima semana.</p>",
+      "contentPlain": "Complete em espanhol: Si sigues igual, conviene que _____ una cita la próxima semana. Tradução: Se continuar igual, convém que você marque uma consulta na próxima semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "O follow-up desta aula indica o próximo passo se a situação continuar igual.",
+      "feedbackError": "O follow-up desta aula indica o próximo passo se a situação continuar igual.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pidas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2c8281b5-a804-49c7-be76-2a7074fd6454",
+      "sequence": 13,
+      "lessonId": "cfc310ec-e0fb-425c-8aa7-bff79aac7f67",
+      "title": "Escolha a sequência da aula",
+      "content": "<p>Selecione a ordem que melhor recupera primeiro a queixa curta e depois a pista de rotina.</p>",
+      "contentPlain": "Selecione a ordem que melhor recupera primeiro a queixa curta e depois a pista de rotina.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, a compreensão melhora quando a queixa breve é ligada logo depois à rotina.",
+      "feedbackError": "Na aula, a compreensão melhora quando a queixa breve é ligada logo depois à rotina.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "439943a6-cd84-4e6e-a645-b19974a56fce",
+          "text": "Duermes poco cuando hace mucho calor en tu cuarto. Duermes poco cuando hace mucho calor en tu cuarto.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "46d4543d-9cb0-469e-9851-edf187c7d5d4",
+          "text": "Estoy cansada. Estoy cansada.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6049c433-02e1-42a6-a994-e2684262e723",
+          "text": "Duermes poco cuando hace mucho calor en tu cuarto. Estoy cansada.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "72f88b22-e304-4a3b-8c53-28e7539d2c0a",
+          "text": "Estoy cansada. Duermes poco cuando hace mucho calor en tu cuarto.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "2fff7aac-aba2-4527-bc9a-5c1ff3b4e07b",
+      "sequence": 14,
+      "lessonId": "cfc310ec-e0fb-425c-8aa7-bff79aac7f67",
+      "title": "Recupere a pista pelo áudio",
+      "content": "<p>Escute a frase completa e marque somente as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a frase completa e marque somente as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e30b7c50f8cc4bfab7dec75a770b9f69_b04-duermes-poco-cuando-hace-mucho-calor-en-tu-cuarto.mp3?Expires=1794099643&Signature=kiC03aPse0wnmRSwhqXT8z68-nJa7vUCuihSgJHuJEW7SVpvn1GUvrEiqrKXORAph~FGzrJJ87mNoLtgVRtnUY267YIOxZB34V5Ez-rMzEGVRT3F2eT8wg8SbiLHpj4P0uEsJrZxQo-5xRjUFCO6XNDum-drGcfQaM~Tuvc-Ivu27FEXKfsTiABHNTDHtAB3mgZEKLMUtJ9fdcW2dwhUTcl82o662Q1qhOO~7Mr08kcXmjM8CFgQ7ExL6gtKfMP9r~7xE06DbIrhu~mF~KXImbeqwAi7hTIp5Po5bPhjSYOJ~TKADpFAvOesUFlPaoTC~sNp18wrGjS8WoxobJyOuA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A frase de rotina destaca sono curto, calor e quarto como pistas do mal-estar.",
+      "feedbackError": "A frase de rotina destaca sono curto, calor e quarto como pistas do mal-estar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0ad9b253-11c6-4f26-b04d-533bd689e2c1",
+          "text": "Duermes",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3cf2ce53-7f35-4692-b5d1-78b2da685c3e",
+          "text": "crema",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "47b8f4ef-9505-4b10-9c67-e9cc803459ed",
+          "text": "mucho",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "647b65d6-19f7-47de-adf0-0a79c5704791",
+          "text": "hace",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "87e6f775-91bc-42b3-b1bd-ecd4a31b2c93",
+          "text": "cuarto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cc86e75f-2d95-43b6-8e05-2a35856a27b9",
+          "text": "cansada",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d86e415b-0231-4229-8f23-34067128bf67",
+          "text": "poco",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e4d4b4f9-093c-4482-bb94-36d968b460ea",
+          "text": "calor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "313e8a91-2c6c-418b-a395-7ab8d58d473d",
+      "sequence": 15,
+      "lessonId": "44af1627-27fa-48ee-9de3-a640b5a8b61f",
+      "title": "Recupere as três molduras pelo áudio",
+      "content": "<p>Ligue cada gravação ao texto certo e recupere a diferença entre conselho direto, avaliação e tom neutro.</p>",
+      "contentPlain": "Ligue cada gravação ao texto certo e recupere a diferença entre conselho direto, avaliação e tom neutro.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final junta as três molduras centrais de recomendação.",
+      "feedbackError": "O recap final junta as três molduras centrais de recomendação.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "ee9c58f3-cf00-41e8-a26a-8543e794a6b2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/26d88c69972f4af5af9d04c2d637b1eb_b02-te-recomiendo-que-te-acuestes-antes.mp3?Expires=1794099643&Signature=TNG-dWZ81xUXw1pinWmmNaJmO0SXoGYaNfj2NskyhzSx8eaxYvo1cHTAlngYukNoufXNLL7hfTE~XsWvpUubaDSB1H0xsqzSpztx6yl6OufKkhtt~H4iRC0GArsmiW5UAKGS4OySK5OaWB~CEVy1zbHMMUgaBHlUlnRYU-peCc3lvTVpOThN0ppwXxvfMXf0Yb3zuI5v1Tufk8YgVQifvugduLncIeJSfnvIuzUE~fdwv8tV~l4dVXHcL69X~Hq~hbGFigNdOXtae~B8i7p-Ac4684VGoHeNHaiklWKA~tZXFHZ1JIInLzMUcmk0WZrGD6G-vDM9ZQKDWMHO-d-xGg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Te recomiendo que te acuestes antes.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e1ed35d4-e9c5-420e-87c6-239b00339a9c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d0150fd8f24f42189d43390d5dfc4bec_b04-es-mejor-que-dejes-el-movil-fuera-del-cuarto.mp3?Expires=1794099643&Signature=UoJenf0H6LDHrxTfCr9~GW9QabPiucvKgRAA4432adaC~Zw3LdhJ5FP8jBgh1~gW3fPEEMtgj2m28lU2eMDIIsvf08qovtMXKA08l4QJcJ6WIZpEL7uo04j5chx1AJg~EWI5sLxw4nCRJFALMs1WtfWLXhVs0vCAnCUunZaAas7WfszGSJhPaxsH5L508JiYpvW~N0tcogH61WtDbIcmyB5S7KdyBjDf2~w7EE3phKwaNb8zkbtRB82gH2G9yAsU5Z9fMNRYujhZA0PTkJ5vgWAsXTjIM82tyUO65aFBeMFVbQH3C6OOV16dR0uZTLRl82O7POYBWH3tjngfgXwLUQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es mejor que dejes el móvil fuera del cuarto.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "bd953630-3364-4a23-8bc4-79ecc8cef4a6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/12efab256ab34b428aac427f38512cbb_b06-conviene-que-tomes-menos-cafe-por-la-noche.mp3?Expires=1794099643&Signature=1AHmp4BvNY63JvEWM0laH1hMo56q7LIIgoxqJGdY9n7njNih4va5Z14tVwMcCfY916daTvOXqkoGauJEexBaPUilgtICEjn2NPdCtGmRDmj3E0iWppOC0rvpdpo2VgI0BDio7~FJXsztryYMkx3d3Z~0HZYwisEqre~cZr6b9ays3dFhlpTIJPd6HIvF4VP40UqjrKLM3PNdWa-Ip3QD6RdnbbA~V8qSQYo6tGG0KnXDct6o3c58mRpLyzZztbNZf6nwiDBsWIeU8SzmbOpnfLEisIgMajT8yXvNyBX7m2fFxUFsdnK0~l-4kN2TQa8SJhCzoJ5EcovC9xPFU6XZ5Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Conviene que tomes menos café por la noche.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "attemptId": "66470d39-44e0-471f-ad00-78ad111f4c6f",
+  "exercises": [
+    {
+      "exerciseId": "61cd618e-f4cb-4388-8a13-3b3c0adffe55",
+      "sequence": 1,
+      "lessonId": "bcbd752f-31c5-47ba-a87b-9ea9709c410a",
+      "title": "Complete o estado do momento",
+      "content": "<p>Hoy _____ un poco nervioso, la verdad.</p><p>Tradução: Hoje estou um pouco nervoso, para falar a verdade.</p>",
+      "contentPlain": "Hoy _____ un poco nervioso, la verdad. Tradução: Hoje estou um pouco nervoso, para falar a verdade.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, estar mostra como a pessoa se sente naquele instante.",
+      "feedbackError": "Nesta aula, estar mostra como a pessoa se sente naquele instante.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estoy",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d0b30bb1-38ab-4db4-a7ff-a4982c55342f",
+      "sequence": 2,
+      "lessonId": "b0e06aa5-83ac-4388-851f-06e6d0d13bfb",
+      "title": "Relacione parte e função",
+      "content": "<p>Ligue cada frase ao papel que ela desempenha quando você fala de si com antes e agora.</p>",
+      "contentPlain": "Ligue cada frase ao papel que ela desempenha quando você fala de si com antes e agora.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a autodescrição combina passado, retrato atual, hábito e estado do momento.",
+      "feedbackError": "Nesta aula, a autodescrição combina passado, retrato atual, hábito e estado do momento.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4289911f-7aed-4df7-b6c3-eb1a22ffcbf1",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cde4ab7c-e28a-4910-a962-44270f220290",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "6b273c15-eb8e-487f-a1d3-f298caabe248",
+          "leftContent": "Antes era bastante cerrada.",
+          "rightContent": "contraste com o passado",
+          "sequenceItem": 1
+        },
+        {
+          "id": "14505ba7-8f2e-4840-964d-019df92f0649",
+          "leftContent": "Ahora soy más sociable.",
+          "rightContent": "retrato atual",
+          "sequenceItem": 2
+        },
+        {
+          "id": "df3f44b9-40aa-4cde-a994-71b4cd1dab33",
+          "leftContent": "Suelo ser tranquila.",
+          "rightContent": "jeito habitual de agora",
+          "sequenceItem": 3
+        },
+        {
+          "id": "554a8970-d976-4025-a9ab-58c04fe73725",
+          "leftContent": "A veces me pongo nerviosa con gente nueva.",
+          "rightContent": "estado em situação",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "fd39d1f9-4994-474b-a84c-e93fd688c61d",
+      "sequence": 3,
+      "lessonId": "398375fe-1d06-4d89-ae4f-624eab1bc343",
+      "title": "Recupere o valor implícito",
+      "content": "<p>Complete em espanhol: No le gusta la gente _________.</p><p>Tradução: Ela não gosta de gente mentirosa.</p>",
+      "contentPlain": "Complete em espanhol: No le gusta la gente _________. Tradução: Ela não gosta de gente mentirosa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Essa parte do retrato deixa visível um valor pessoal a partir do que ela rejeita.",
+      "feedbackError": "Essa parte do retrato deixa visível um valor pessoal a partir do que ela rejeita.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mentirosa",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "78abb610-40ca-4ce2-b015-eba1afb74e91",
+      "sequence": 4,
+      "lessonId": "bcbd752f-31c5-47ba-a87b-9ea9709c410a",
+      "title": "Complete o traço mais estável",
+      "content": "<p>Eva __ muy atenta con la gente.</p><p>Tradução: Eva é muito atenciosa com as pessoas.</p>",
+      "contentPlain": "Eva __ muy atenta con la gente. Tradução: Eva é muito atenciosa com as pessoas.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, ser com atenta descreve um jeito mais estável da pessoa.",
+      "feedbackError": "Nesta aula, ser com atenta descreve um jeito mais estável da pessoa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "es",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "91f89f11-691b-4923-b167-da1ceb72efd0",
+      "sequence": 5,
+      "lessonId": "9b184215-e583-480f-9a32-051b4e9f61b5",
+      "title": "Ligue situação e comentário",
+      "content": "<p>Recupere o diálogo e conecte cada leitura de comportamento à frase em espanhol que melhor combina com ela.</p>",
+      "contentPlain": "Recupere o diálogo e conecte cada leitura de comportamento à frase em espanhol que melhor combina com ela.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo da aula transforma situações de convivência em julgamentos curtos e precisos.",
+      "feedbackError": "O diálogo da aula transforma situações de convivência em julgamentos curtos e precisos.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "061e3b98-eca0-449e-bbf8-9eb0e2fba0ca",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6a087f87-e269-461e-b6ab-bf194ddfc2d2",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "62f16b3f-2eb2-45ed-8f51-a7c4b376e838",
+          "leftContent": "No começo a pessoa passa boa impressão, mas depois muda a versão.",
+          "rightContent": "Al principio parece sincero, pero a veces es un poco mentiroso.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "827249f4-2ee5-400e-89e4-892376b4ee75",
+          "leftContent": "Com gente nova, ela quase não se abre.",
+          "rightContent": "Sí, y además es bastante cerrado con la gente nueva.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8c780118-5f62-4dd8-a8f8-d09193fccb5e",
+          "leftContent": "Quando surgem problemas, ela vê tudo pelo lado ruim e perde a paciência.",
+          "rightContent": "Y cuando hay problemas, es muy pesimista e impaciente.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "39c0efa1-2241-4f01-895f-3e0acab84def",
+      "sequence": 6,
+      "lessonId": "9b184215-e583-480f-9a32-051b4e9f61b5",
+      "title": "Complete o traço de expectativa ruim",
+      "content": "<p>Antes de empezar, ya cree que todo va a salir mal: es muy _________.</p><p>Tradução: Antes de começar, ela já acha que tudo vai dar errado: é muito pessimista.</p>",
+      "contentPlain": "Antes de empezar, ya cree que todo va a salir mal: es muy _________. Tradução: Antes de começar, ela já acha que tudo vai dar errado: é muito pessimista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Optimista / pesimista contrasta como a pessoa encara problemas nesta aula.",
+      "feedbackError": "Optimista / pesimista contrasta como a pessoa encara problemas nesta aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pesimista",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3edddd63-a922-40b4-ac66-ae08809782bd",
+      "sequence": 7,
+      "lessonId": "9ba2faf2-00df-4913-9bce-b63b4edba8cc",
+      "title": "Complete o ponto de início",
+      "content": "<p>Trabajo en esta empresa _____ 2024.</p><p>Tradução: Trabalho nesta empresa desde 2024.</p>",
+      "contentPlain": "Trabajo en esta empresa _____ 2024. Tradução: Trabalho nesta empresa desde 2024.",
+      "fileUrl": null,
+      "feedbackSuccess": "Desde marca o ponto inicial quando a situação continua no presente.",
+      "feedbackError": "Desde marca o ponto inicial quando a situação continua no presente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desde",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "60dd9109-bff4-401e-a413-74f0fe4dcd52",
+      "sequence": 8,
+      "lessonId": "398375fe-1d06-4d89-ae4f-624eab1bc343",
+      "title": "Recupere o traço do passado",
+      "content": "<p>Complete em espanhol: De adolescente era más _________.</p><p>Tradução: Na adolescência, ela era mais reservada.</p>",
+      "contentPlain": "Complete em espanhol: De adolescente era más _________. Tradução: Na adolescência, ela era mais reservada.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste com o passado depende do traço mais fechado da adolescência.",
+      "feedbackError": "O contraste com o passado depende do traço mais fechado da adolescência.",
+      "answerType": "buildWord",
+      "expectedAnswer": "reservada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f34c9341-36ae-4ef9-98d6-85eaffc6898e",
+      "sequence": 9,
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "title": "Reconstrua as falas do diálogo",
+      "content": "<p>Relacione cada gravação ao trecho exato que aparece no mini diálogo da aula.</p>",
+      "contentPlain": "Relacione cada gravação ao trecho exato que aparece no mini diálogo da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mini diálogo combina abertura cuidadosa, pergunta ampla e resposta breve.",
+      "feedbackError": "O mini diálogo combina abertura cuidadosa, pergunta ampla e resposta breve.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "28c82e90-8f09-421b-9050-eb581a4624a9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d26df82a154d4b2c91b204f70c014344_b01-te-molesta-si-te-hago-una-pregunta-un-poco-personal.mp3?Expires=1794099572&Signature=bfXC~l15oplxrux-SOEXBRdrVyRe0baUOOuiVz3-Gcr~suZXu4nBHfi6USMS7k4pOZd5mj0G4-4coUmDRVqNWTIl72YXG~nUA9xfv5qQZdv3vAZ7EWJSO-6IIKMfpvfEc40dlRf6tcyk~hM1jY~1pK7MxyCIJdvbbvYqZ4sDm8jnJsXGSyS9n7diFGQX0jhZJl6nxakg9TAfmzMjqrCozgpdANboD6oD6ttyXUI1QQPJNW-Mrmyl~m8JBzJ4CHLgCUooLRxG-IM3fYwXyjQOPN8UKj7psYel6UY6EAz3hGOM155AA3rM9VEA2jkzdPBeUXTanilw~vsgPXPupbk7Bg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Te molesta si te hago una pregunta un poco personal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "511f4eee-fb48-420c-a709-54dec6a999cb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a24d23f0747409e993a63116b1dd11a_b03-a-que-te-dedicas-ahora.mp3?Expires=1794099572&Signature=W7Dhwe6VT7G2QNPEbQSmQ87fyagK8mQpT79U9tZU9JW6NXfZXf7vNgN~nkMreEi1J54Jdfg38SoCHHOEN11n3Fsnx0rhMsQA~YHelHoWo5vDpkQgiwvmZT09x6WMD8PlwelAP79pw4~XTgTsGuW-ms3Z3eWx7ucGuBy4OU-nVq-d3~yE9CXg8RfRDHMn74aq1Y8xsTlIdiVs8dXTsCWtlc6j3yYRfzan7Zlzp-uBoGr-jI9Cq4GaHfTwkrGw1PRnp9VqE9hENrQqe17WChnoD1ulqgvHfGrwe9DREhdCxZ6ueDNbLDosuKfKLQBw3oXb3jBIy2WUMxEhITucdP6NNw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿A qué te dedicas ahora?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "481bf1b1-2739-4985-aa52-8295a2a98301",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c38bc5acf34f4982b650c237745c0ab8_b06-si-no-te-incomoda-vives-solo-o-con-alguien.mp3?Expires=1794099572&Signature=w42NT7pomUD0TuKxmJHyaWe3BPJ5j~0nWXCSR8lT~fwa8DlBNunAjQNpsj-dUw24pBoZIDdf4EhSrh4~MxJN03fjL6rzbvmh1zkDXzJp10vupCwmaC-nLs8fY1cEF-fB7Es5fDPqZVCBQI9V7PuRxxfzbFADLvX-M8yUARuXMPn2eWdOnhomYrZQ9w1waBdPdzDyfFsTL9qUxIlxO8c4jOoHWCBtDXsqr161qQuZAmk4qOZZtSoH~OfsJNkcVmhVEYKz0ZI4IANTXd5moO8HOK5b1fkYPBa8E0VgXW0HVLpmhrW7PPfqn14WR4vd6VGhqArRIy3fDIG5AlhSlmafJQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si no te incomoda, ¿vives solo o con alguien?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "8a656ffb-24d5-4e46-b0fa-5693d597ce73",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8532670f55e472da57ac20f5155c331_b07-vivo-con-mi-hermana.mp3?Expires=1794099572&Signature=XJwjU753RFwCzgIGSvJz7OUn1gIQj30~~9vwWX0UGq7uIvaLzbQeWn1AfgKOMH2wYlGxPzLwLKWnCyKGaNqMRnUhzhJbWPvGfC~nFTtP9fPL91l8LMWhrnWKhQeIGnp~bH9lM~UX5Cy7rRAubr9Zk6cZs0NSzCCYQegE0m02LeDD-zXRUAa5kViX1m6Ige8OKQCsymXojqocw263QwlSbCv3gNwJQRN~Dd8AELp~nYwhF8k5haswr72GzG3t3Ptb0OoWBAj11SKiDIm1S9gKkgv1PYr3bAd~h0RKWKInSJvoyrFlK0VWIW81H46SyA4Ar17-he~-WFYSIAbuREJyMw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vivo con mi hermana.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "cb1567f0-6101-4a2f-8b8e-e29eb9449084",
+      "sequence": 10,
+      "lessonId": "9ba2faf2-00df-4913-9bce-b63b4edba8cc",
+      "title": "Complete a expressão de duração",
+      "content": "<p>Vivo aquí desde ____ un año.</p><p>Tradução: Moro aqui há um ano.</p>",
+      "contentPlain": "Vivo aquí desde ____ un año. Tradução: Moro aqui há um ano.",
+      "fileUrl": null,
+      "feedbackSuccess": "Desde hace combina quantidade de tempo com situação ainda em curso.",
+      "feedbackError": "Desde hace combina quantidade de tempo com situação ainda em curso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hace",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "378ad68e-17e9-415a-984a-99c6789584a8",
+      "sequence": 11,
+      "lessonId": "b0e06aa5-83ac-4388-851f-06e6d0d13bfb",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Associe cada gravação à sua fala em espanhol e recupere a troca completa.</p>",
+      "contentPlain": "Associe cada gravação à sua fala em espanhol e recupere a troca completa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, o diálogo curto reaproveita pergunta sobre o passado e resposta contrastiva sobre si.",
+      "feedbackError": "Nesta aula, o diálogo curto reaproveita pergunta sobre o passado e resposta contrastiva sobre si.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "2e60da4c-1b82-43a7-9e12-a231397bb972",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f92af08b800b476e93df2777a278e49c_b06-dlg-01-como-eras-antes.mp3?Expires=1794099572&Signature=CZq5MwwwE0FhTjUF6xhLs4vJTqAHx5Bilb8cNTufoLkogr6MX1HXBd~w-bCiba~PxdvLoUGCfCPBjqeC~dhg3s~P-ny~Fyovumet7g8b4tkZAe9smf7fSh2hyHQkvLbyCw5rpESxCpXLeRrITjLzW6TYFdhspQU82XbkXcSsm6e002aUsh8Fd1LIaSh2bSwe1rTINZCsXMdRQLJlB97537D2rkSPKDKSTPcXuIptcmhZCflTT~ScmJnD4czRm-uvtknXWaWsh9zbQl~Q~hFxM8bLvQnJRJQnrrirrsMg3aAgx~~H8DSLiUfSaVtxl58Kmt1d~yH0Cq9WeSMzvWzhMA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Cómo eras antes?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3f7f1466-118f-4665-ab70-81d4becbc95c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/343cdf2ff1734c80ae9952856d006967_b06-dlg-02-antes-era-bastante-cerrada.mp3?Expires=1794099572&Signature=cE9gAlTz-DJ9w9gKSQiL~me0-D7XQLQEKnBEkzoTpSMoETGUieeS4NE1RHNmX9yTwQK8LVfUbqCmN1J7OEgjO9ZReBZu7G~qDAGIld7x~qBo2Wbe63ofmGg6sPJIcTqBigp0ZjgySoC4cYBO9YuT0GyYE2I73F~gbxgwUKfmNwQ0aeEF3THRcAO6uThxFpGQLdjvs~X~hrtJeyVF-U-q2xhHjqmRkLaal5UAK72mNqPiy9w1c~yM37tJ5Ah5ghRyr0HSPYGvRWSwiqa8F20XBTeIw9ZLlnKlhpqKcsAJBf6jdOjyNhSkOEOoMWFaQMtBSGHyRn1XHgTPj-oZWbOctA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Antes era bastante cerrada.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "04c7c24c-d205-44d5-b07c-5da06294b296",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e5702eb61dac4a5d9e6fa0c41f77bda7_b06-dlg-03-y-ahora.mp3?Expires=1794099572&Signature=E5oDxLxIr5PpXvIw8DAoVyyMSjFRruZMQP7F8HgcU852~jnn7ApnGu0db0RoRdHQnaOAd6zLjB7M7YGDbFbwnzugfBueQ6jHps0K4~WarvaAHZFfUDDHq-FAvnbkx2EsCrwENaD-qhbdRtjquk7wS1omZlTU2Dv4esICrIDOyzg3i9vHeXM1DlcKf2wCLKJG3qqROmQM35MqThiOEU7MsruoFsmgpDr4O0hA9xxUzjdWuaHEQaspTSqtIcIvxYW7avYlU8XuuCKr6dIHawuiLWEXVqM0LWmX23KvhVkj-w1Fjh~S3qrpKlDQap0ku41G3DdMc0KjaEm4MNi64WrEFQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Y ahora?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "efedeeee-2d89-411c-99d3-ae4dd46a12fa",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9f76b43605f6402bbf494089ebba7a56_b06-dlg-04-ahora-soy-mas-sociable-aunque-a-veces-me-pongo-nerviosa-con-gente-nueva.mp3?Expires=1794099572&Signature=HWo8Wl-8p71RQzefLeQsl8CzkRpMB~AKQpWXfBfA-NLTM4VDg57G~6iHiwUaBgJvP3OJpwyRDWG1sjJcXKvfG8Q6gqg5m9RJUQPsHAPNrM2-NVhPIazxAjCil0V1wlf4vLkzEnGmXqlm~9e3vNi747HXW6oBcTnSfdR2Qc-yjgu-92KS-k3-PSCYjP99N4EcxTEeB8E3~h6WlV8sOTZTLkKTq6ksnZTl6~yJegjEURdYGn6qBTw5VFo3Ck0cd8IUAHnYm49CRsccnMg884P6Kn5Nip2mToN8D5YMfcBTn1iHJ~Jz7UyQjb7Dwq9LN3uEjKxdBe~eELRZipN0Y4sEiQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ahora soy más sociable, aunque a veces me pongo nerviosa con gente nueva.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "f15af21d-5adf-4304-9129-3874b1d06a81",
+      "sequence": 12,
+      "lessonId": "fd771c81-d18a-4149-bfb6-f9b3efd015b6",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: No, _______ no.</p><p>Tradução: Não, ainda não.</p>",
+      "contentPlain": "Complete a frase em espanhol: No, _______ no. Tradução: Não, ainda não.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você recupera a resposta curta usada antes da apresentação.",
+      "feedbackError": "Aqui você recupera a resposta curta usada antes da apresentação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "todavía",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "bf201c06-e898-4c8a-8f04-20949081c33c",
+      "sequence": 13,
+      "lessonId": "347b068b-2132-469e-8f77-009adc2497ef",
+      "title": "Recupere o comentário completo",
+      "content": "<p>Agora use o padrão da aula: ligue cada áudio lexical ao comentário curto completo que o contém.</p>",
+      "contentPlain": "Agora use o padrão da aula: ligue cada áudio lexical ao comentário curto completo que o contém.",
+      "fileUrl": null,
+      "feedbackSuccess": "O bloco com Parece organiza os quatro traços como comentários curtos de primeira impressão.",
+      "feedbackError": "O bloco com Parece organiza os quatro traços como comentários curtos de primeira impressão.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8aab9ffb-21b8-4240-9d1e-440b002cd13e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1711d3b3fb054fc8bca39ad3dc458d3e_B1_M001_L01_audio_9712bc10_b01-sincera.mp3?Expires=1794099572&Signature=qcTRpvEjBxYw03l1DPQdF-AVzsd-agxjHJwDL89w-CZ1gZMfSyvLYnPcrm4d8uS7jIw4j4INZ4m9jZMwWaJydlAXai6TUUHcvLClCtGe52YD48MQFtmbqLefVIgntPozmBLrIZ3zFaahlxM6PQuNN4gPZOrMfBnyiBvrhyhQmA0~~gwmQixjxl7b-tBwfxGhNeWsg1tmwQAONrCxHiRYqtdKFJ93Ipo3NOGSbj0bhbv2d8GWuBkTv3sP0KWwjVPYgcn83Rgl2nkQ2EeFAtWk9MYK7tvyAktWiiw1NvAB-71rHF9wPqpofESXwpkfVSzyym63Z21RsWUev28aRpncSQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Parece sincera.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3e8f8789-40db-45a8-86c8-63f170e86043",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/241602b1aa6647e0b09cff3232725bc5_B1_M001_L01_audio_28402323_b03-sociable.mp3?Expires=1794099572&Signature=ULh29F1~j5CTNFOdKbcEY~e8uiy7iUAUdqAAiHAHqe39pVFz-XHPWH9Rah-dakVy5~tWCfLHWciTKq4m1mY100ffbK9H366JzrhziNaxaZdI3OOD-1dkJ-Xclv3Nn6uecsKSZRy5B5K1LeWJ2ejO-EKyvSeYuB5L~tAxkmk50ZdmW~D~zuNUwNoCAb960E7M4ESFdj12HpeuCsvZIuRls-tJEh~XKZa6aF13sNsEe6rqrkaShdMrh9cDZd6gNI8fxd4OPtTcFT~0KGN8eamxyDeCJLTDVspakwInd8IEntU2FH1OeDmDgzVm3wHnSM7g2lRUpU2eIgDMIb-P~f0YNA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Parece sociable.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5e7593dd-767f-47e0-9003-7159d51b4478",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ad84aa6a96e4acead35aae18317eb68_B1_M001_L01_audio_da2d5dea_b05-tranquila.mp3?Expires=1794099572&Signature=Du02ny0DF7pXX6C-MF1gcNVT50cootyJChW22i9k6P-wGMGMekCwCaTqdJ6zA0FqphxAyolGQM-3TMOcUD~Eo5lFoLCa0t5cBFikDVHueVtUKTw~HDoQ2~u-3cD80QKi4W83X~3b3aY7LedXqjknrtgPW2MxmFJxxcmNZ68fE6TEoywma2DJIONDycpgepNUUajXokM2Xh-Qe7UrYOv9Xl3cQxTLQrI-yGDtU1a0BDf~WZ2XFdMtX3K4tGKPT8nvNKLJYLmlgrDQroH6GfIBMMDVDMNfEOJfrc0vDlGzIwi9rQPCGbVa39pMehj3ql1tXvA0SMdlzbeb5M2uSCGc8w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Parece tranquila.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "016755d3-85cb-469d-8c47-4154fc38084f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2c451ea6fdb547c286d9f8880b7c0623_B1_M001_L01_audio_623771cf_b07-decidida.mp3?Expires=1794099572&Signature=xTfDsiO1Av~pYKAH44dp47jn-bIXACbkn~FIqxp3oWLbD81a9cLaohMuoxB5IiuGJH0UG1XCOnd-2KbQFmVQqz3fiQtlCOIXY3DTSy1iuI5IM4ghlVjJT~Gc3~OrVswcKWVlqSZjxSuHIBtGBhF5CLUi1n~bCeeWRZvPMMFeHqgZIrF~UUsHjo5VIyp324QRpeQgHdLSUiVx4LKjCfFsw8buJ7qM3JalkSlxo~MEpbDlgGqArXY~djEXzun956AqeoZAj~UjSZdmF2A38Jlq9fvYMHJ212HD92WEWvPsySAkMHegX0CiFcivnxfTwVmPbHJFbANbWjNyPXWd5EHQAg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Parece decidida.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "bdd12194-b174-48dc-9d58-44c9c298cdfa",
+      "sequence": 14,
+      "lessonId": "347b068b-2132-469e-8f77-009adc2497ef",
+      "title": "Complete o comentário com calma",
+      "content": "<p>Parece _________.</p><p>Tradução: Parece tranquila.</p>",
+      "contentPlain": "Parece _________. Tradução: Parece tranquila.",
+      "fileUrl": null,
+      "feedbackSuccess": "O frame Parece + adjetivo resume uma primeira impressão positiva sem fazer uma descrição longa.",
+      "feedbackError": "O frame Parece + adjetivo resume uma primeira impressão positiva sem fazer uma descrição longa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tranquila",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "938b8d26-6c7b-4acd-bf67-e58adb68cc9c",
+      "sequence": 15,
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "title": "Complete a resposta sobre moradia",
+      "content": "<p>Vivo con mi _______.</p><p>Tradução: Moro com a minha irmã.</p>",
+      "contentPlain": "Vivo con mi _______. Tradução: Moro com a minha irmã.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vivo con mi hermana mostra como responder sobre vida pessoal sem alongar.",
+      "feedbackError": "Vivo con mi hermana mostra como responder sobre vida pessoal sem alongar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hermana",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

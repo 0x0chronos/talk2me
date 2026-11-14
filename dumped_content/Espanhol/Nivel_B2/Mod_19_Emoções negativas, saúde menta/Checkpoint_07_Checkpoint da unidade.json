@@ -1,0 +1,533 @@
+{
+  "attemptId": "2a5b4b54-04d3-47ea-8a43-6a21f2decc2c",
+  "exercises": [
+    {
+      "exerciseId": "b259d92f-3265-442c-9c11-01470ecb22ec",
+      "sequence": 1,
+      "lessonId": "a61c5572-e443-445f-b5a4-04467e613d50",
+      "title": "Filtre as palavras do resumo",
+      "content": "<p>Marque somente as palavras que você ouve no resumo que junta observação, dado e apoio.</p>",
+      "contentPlain": "Marque somente as palavras que você ouve no resumo que junta observação, dado e apoio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0568630ade1c4770bf229661270bd7e2_b2c19l06c01-resumen-cansancio-apoyo.mp3?Expires=1794099843&Signature=L1P-LW3VTu~1HvkSKNzm8fcE5ZnRNjPpR-LqeckV-6mdNb0iiwT5jW4RDlYuJaZv4O026Kf67kixkNMfrjfy2LAqhuOVQwoXByQfWClGRPU3JrvhZG2tE~3pasnBTNMx7GhjsQoMrtcuva9QbKOVhfH4Ss4UhUNvMIlQpD6Jvk4Yafo~4xgb~P7t~ZuFUL9D~-HdnhM8ZJJK~LKksUhYzUgbfU9KhFHgPgUB--NPXaxl-MZ5CSfJwdnTtU61121OKhtklTb0eSVixG~gimns~7dQhxQ2ZAhKigLxSo1s8c~Bc~AjzVIfnsB0FMSYOcALiBZ0HxLMKx4HoEG2bchHTA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O fechamento da aula junta observação do entorno, dado simples e pedido de apoio.",
+      "feedbackError": "O fechamento da aula junta observação do entorno, dado simples e pedido de apoio.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0b3ed030-c991-467e-b345-e5e03984a461",
+          "text": "gente",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2b5d5368-e657-4e19-ab1c-cfde00b47dc4",
+          "text": "alrededor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4bff8dee-8862-4342-82d3-62aa7ea76eb2",
+          "text": "apoyo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "514712c0-b727-4f62-9a71-11ef2e7d57df",
+          "text": "tercio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5175b1ca-cff5-47c5-89fa-278befb548bc",
+          "text": "energía",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6b7eb05c-85ae-4bb1-90fc-d2bafa1aa96f",
+          "text": "sueño",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7029cf5b-7b57-4c2f-99c8-44a748ec07fc",
+          "text": "equipo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b12c5358-1519-489c-b866-0dfb51db39ca",
+          "text": "barrio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b5c343e2-f76e-45ac-8387-6c80384145d8",
+          "text": "tarda",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bd8427e7-a7ee-49e2-9352-729216970997",
+          "text": "últimamente",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c2f02e51-eeac-49ea-b349-1a93c1272134",
+          "text": "mitad",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d4973805-3be7-4b6a-a64e-3aae95eb58b9",
+          "text": "pedir",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f165ff3f-19c5-4fd8-a7b0-6b63f44ad184",
+          "text": "desconecta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ffac4911-57a8-4c57-90ba-9910b2e650b1",
+          "text": "cansancio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "1c7f7763-8259-4210-9782-9932ea2a1b77",
+      "sequence": 2,
+      "lessonId": "4da090de-a2d0-4805-a1dd-dfc997e3ff67",
+      "title": "Remonte o comentário social",
+      "content": "<p>Associe cada áudio novo à sua frase correspondente para remontar a leitura em espanhol.</p>",
+      "contentPlain": "Associe cada áudio novo à sua frase correspondente para remontar a leitura em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário guiado recompõe ideia central, dado simples e efeito social.",
+      "feedbackError": "O comentário guiado recompõe ideia central, dado simples e efeito social.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "d8d4ca74-9cf9-4b0c-9f93-eeb566cc79a2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a7a2ae05c1a44c56bbddc5f2751722aa_ex01-el-articulo-presenta-el-cansancio-como-un-tema-compartido.mp3?Expires=1794099843&Signature=x9QtuK4VFCzp1C5BrsF8MjQom1zQzj-Zjr8tzTvEjooKKnnDIWlmMrPmXHTehArkZMSyJ~P3ErnmB1-AZUM4t-Yxfol84hdu0VV-RQd7m3M1jYIVsMDSe18CLdRgxn1vlukp3YpZlZopq3IuUrdvSSohDDh1sRePKvPMJ0zuMenZ~SLsSsODbQyljn~6s0zZEZgZ6rpfnMKCB3b3Yv9WzQOrJZqJBBgnE11ddGBQFGcpAV07RIAY9UWr1fPrRQJdvfkhGuz8vAxFkXwcyAGdx5rn2eLnAC2QnuRILHpKKurcjhNghHEVHMC1-HhOHS7Lw41RDli-SqzDiHfV6KLrKA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El artículo presenta el cansancio como un tema compartido.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "48f195d7-9432-433b-bd02-ad019e17cf08",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/80037aeacbb4491e9ef57849e883d81b_ex02-casi-la-mitad-contesta-mensajes-incluso-de-noche.mp3?Expires=1794099843&Signature=PPbwEWq01Ljy905BcBJd4Dzhf1QKybsdyjIcTxCXdXWX2AJXZFMt6tTwahQDe~9f3H6HLwxO9bVVCbKKf9MaiKojb4Ovga8t79MOFRL5WjGyHXzp1YqsReL86hcP5ZpWGLwVztn6uMZcUkfVU0lbw-3bxlTBiRCjrLkpzglQIEJoYSge~exeuSaKVfY4Vf9AX8qaNEoCyAvEt7m6ih2i~Q8sPKlNxYxVxFPVYBS2iL~hWmZ0VvmakFkYmlGDRN5MN96qPQIJTMlcI6C052qK8pkfu~bQQx-ulYgIDahgxVql6Ytfp-JcwjZNVwTCNJ-btpWgTpg43oJPsRDac3lmug__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Casi la mitad contesta mensajes incluso de noche.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5819e628-90d6-4eb4-912e-177ee9136c8d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7126033ad97149938384bd184989d568_ex03-solo-una-minoria-logra-desconectarse-al-cerrar-el-dia.mp3?Expires=1794099843&Signature=HYLLRsqKlyyZVVtnZwOFiclLkFNa49xYxot41DRq9Y1epJxBJSbfjORdI1SKjKZaFMChKUhwXMlZZKJXpXvRpIbkQYXd5xk-OPo07sP7Z-OhMiUUaF8SA4VKID4O9M2LtdZ7YWWJgYVXekKcDYUpIowN~MuTvpieW38ALZSwKnUJNI4Cy8Kx1ZJJwV8Sfq1lIuuulzVbIebHbaVwdP8qQmgr0zBy2-tiZlLKtdDins6Lbh2RnZCdZGcHIv1CunbyRC8ZQOnUuUXrvi5M1U~ckzsxCQ4bvMQj4QVxdgNKBpCsd7FJTgkCJPEG6h~PqQSoXH-mEFrhzhNlKwmKMciUYA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Solo una minoría logra desconectarse al cerrar el día.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "144c3378-e57d-4084-a6ce-2bf77a06e09f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c48645ecb73b40c785fba4b6e7940951_ex04-por-eso-descansar-empieza-a-parecer-algo-excepcional.mp3?Expires=1794099843&Signature=gjDeGd0P6muhClqzU49ASH5ZObZ~3NH0ytiKPPbo~41lmtcIZ3KVO6qBmS2xKFUlFwsL45bwLo4qSrsYJ3IL4bkO8SMS~eD-mB5L6tZ7wDgxZ5E~EbRd3PlfpXY2GFfrqD~P3WQ8LV5UrZ9XOw9lcTWkN-71du15SwNIu~kB2JH5LKeGYjk8E~dkpCEd6~dK51D1UmNFtNIlc77cltUmeDmHsqvL8qzdMbohXNvKNq8rW3QW8Q-rO1vUeKon4MXfejZQZa3cn6gLrWgW9KsDx2e52Rictl1C88xP7yYwvVZC0Nqz7tssPCOqu1qw6Qrt8-Oo2Dp-j2ox07wacRpeXg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Por eso descansar empieza a parecer algo excepcional.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "15a6fa2d-bc66-4967-b897-8c4aaa26dae6",
+      "sequence": 3,
+      "lessonId": "735dcce9-64eb-4e9d-b81a-76cc85c4bb7d",
+      "title": "Ouça e ligue sem apoio",
+      "content": "<p>Relacione cada áudio a uma frase que recombina dado, matiz e empatia. Use apenas as pistas do espanhol.</p>",
+      "contentPlain": "Relacione cada áudio a uma frase que recombina dado, matiz e empatia. Use apenas as pistas do espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O foco aqui é ouvir e reconstruir um comentário com dado, matiz e empatia.",
+      "feedbackError": "O foco aqui é ouvir e reconstruir um comentário com dado, matiz e empatia.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "77eef8c7-f704-4199-8db5-4883fd8aaece",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c39b37f347d842e7b765634a527185d1_phase5-c05-a01-encuesta-equipo-sin-energia.mp3?Expires=1794099843&Signature=nN9eIktEM~qF4IJFUN6R4Vna4F9JxhPG9mf5~ljTTyIb1Bx3lTKjwMJ-WPaEzqo4bXGtzWtS3ucWRy9kwJMOOzwYdzXFJxOZvBlyCNl2jjIqY-0AlfWJJf00uACS73uNV4KPy7gjpR-Nr7afmXHvuawBTApanVjHXsiCOZ3TbaRaLQiPnOS5ZGoWeixKpCv6dS322XXuI9RwF8ODQJy7qfvd-bsnRA5md5peY2-qrDs679tjH46Z-1rbK0UUz4315qiKfaJT~tGLU-57VSuS1po3XYi~ukjAblcA~~Fs9tWOtBUfm0r-retYF2mJqjpGGaDAegLSJc47nBNIWOQngg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Según la encuesta del equipo, casi la mitad llega al viernes sin energía.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4f9aadef-9e32-4bf9-bd2d-47328be60f0a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6cfa3cd35fd643ca920222c7c9b99b6e_phase5-c05-a02-no-significa-todo-el-mundo-mal.mp3?Expires=1794099843&Signature=UVTg1SUwP2ioZADcTtVCV94p-0AsBEgF4Aaa4yNgqen9grMTGXZTu5DT71t0cQOFkM2IT1M5sDkeaesxclKlQLc3OPceINa7UEKPdU4alVbovJBIJYq4QHDAKoJOxrAHJMEh4eHIM8dZsa93gDgm3yp0-n9PMQ3ql40JILze12HjL6vIR3g6Io0kSaGxV3RVurpQg4QegTKcaAKPJUhfmJk1jYjUtH4J03i0LR3jjA2GyeCDNjW30i9pLLXagNklR2eRX6P3OlFG3deE8EOc7YtdroBeIlVzRUQ~MLAh0JHze-Abigi4x44oNU8-7DsxzQN08ssP6-kkskU~1uxh2A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Eso no significa que todo el mundo esté mal, pero sí que el cansancio pesa más.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8f7c1aeb-cd25-47b8-8dea-f3d6b230b3be",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8c845e91862464086ceeb51ad1096b4_phase5-c05-a03-detras-del-dato-hay-personas.mp3?Expires=1794099843&Signature=A~x7r7l6oAlhHQf-LHcldg0MagrPBLgAsMDWD~vqprFtYygjmdhWRBh3-rImoB4l86hfu9w8NC2JhFFBomJ0dz1zQr-pNavnsPbi2Xf-C5TOAbPZXdsKqGoDdktXPMO4uZrquULFw2N3JHNfTk0S6-TZb0xyQJZko7HCHFDi0L3ZQg-rXzjnH7og3ESl~a2Ae4QEqdmIyPeiTzXuhIpz1heL3TzSIy7NzIIkjwNI1chbCD0nGKkX-IA9UwXAw3f7D0aHfpM6Tg3frg4OXzRLcxGGdkZl5IAyh2hH32MIJdhELOGXHh9r2lTvjzzlL1l6LINuDy56xQ4iuLS-6Dnucg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Detrás de ese dato hay personas que necesitan descanso y apoyo.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "f5eea6a9-5727-4ff6-9ecc-eacb81f40abe",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3cbe8b6690824d77927579d6784c716b_phase5-c05-a04-comentarlo-con-cuidado.mp3?Expires=1794099843&Signature=NQdh0t-XB7UpR19x~iLyhYhgDiV5Gjec6yZMk8STOe-18~OUih3ChxU5nOkxgF~L9cen-4BmjtmSVZ~ojt-lzvplamaPpeyQz7X~7WWyIFxQF7v3Kp4FvOVvqOjdOF3Ftk7ryBM0gxLjm2A-78ndVirTjtKXAblyqiIqrRr7MJ3Ox0CG7BXMnPJ8a~gytuZtKPMp926erAYdkzrg0Ru-YKe0uSXKBWYm6fa8WvQV7cWSwnYWLZYGCVC8pBjldCaQHDOZuXXDa6oXZYRxzozhq2tHeH9dhZ3hjkRukcBjVqQA4E~H7rv3tYf0BBiuSwTOBXlwJkgWE0sKNCzcKNbwBA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Conviene comentarlo con cuidado y no como si fuera una cifra cualquiera.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "284b5ede-d468-4e91-b04a-89d4b9ad3e82",
+      "sequence": 4,
+      "lessonId": "a61c5572-e443-445f-b5a4-04467e613d50",
+      "title": "Recupere o sinal do diálogo",
+      "content": "<p>Más que el número, me impresiona que mucha gente diga que ya no __________ bien.</p><p>Tradução: Mais do que o número, me impressiona que muita gente diga que já não consegue se desligar bem.</p>",
+      "contentPlain": "Más que el número, me impresiona que mucha gente diga que ya no __________ bien. Tradução: Mais do que o número, me impressiona que muita gente diga que já não consegue se desligar bem.",
+      "fileUrl": null,
+      "feedbackSuccess": "No diálogo, o número importa menos do que o sinal humano de desgaste.",
+      "feedbackError": "No diálogo, o número importa menos do que o sinal humano de desgaste.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desconecta",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2a28be93-d269-42c3-9767-2af353367389",
+      "sequence": 5,
+      "lessonId": "735dcce9-64eb-4e9d-b81a-76cc85c4bb7d",
+      "title": "Recupere a dimensão humana",
+      "content": "<p>Complete a frase em espanhol: <strong>Detrás de ese dato hay ________ que llevan semanas tratando de sostener demasiado a la vez.</strong></p><p>Tradução: Por trás desse dado, há pessoas que passam semanas tentando sustentar coisas demais ao mesmo tempo.</p>",
+      "contentPlain": "Complete a frase em espanhol: Detrás de ese dato hay ________ que llevan semanas tratando de sostener demasiado a la vez. Tradução: Por trás desse dado, há pessoas que passam semanas tentando sustentar coisas demais ao mesmo tempo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui a aula devolve o comentário às pessoas por trás do dado.",
+      "feedbackError": "Aqui a aula devolve o comentário às pessoas por trás do dado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "personas",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e1f3339d-1c4a-41d8-b9ec-0dbb671e1ce5",
+      "sequence": 6,
+      "lessonId": "4f651e1f-1cee-4e70-84bf-b3a609ebad81",
+      "title": "Recupere a parte grande do grupo",
+      "content": "<p>La _____ del equipo llega al final del día sin energía.</p><p>Tradução: Metade da equipe chega ao fim do dia sem energia.</p>",
+      "contentPlain": "La _____ del equipo llega al final del día sin energía. Tradução: Metade da equipe chega ao fim do dia sem energia.",
+      "fileUrl": null,
+      "feedbackSuccess": "La mitad de... resume uma parte grande do grupo sem listar pessoas uma por uma.",
+      "feedbackError": "La mitad de... resume uma parte grande do grupo sem listar pessoas uma por uma.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mitad",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1a052856-67f9-4920-ad7c-af95df3be971",
+      "sequence": 7,
+      "lessonId": "6b080abf-ee12-43f4-819e-a0de21633610",
+      "title": "Reconstrua o diálogo da aula",
+      "content": "<p>Associe cada áudio à fala completa correta, sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio à fala completa correta, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo recompõe a aula inteira ao ligar pergunta, gatilho e reação em espanhol corrido.",
+      "feedbackError": "O diálogo recompõe a aula inteira ao ligar pergunta, gatilho e reação em espanhol corrido.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "eafc1e28-274a-4a94-97fa-c705a04cef09",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7428b754498749a0b35bdce09f1a6c0c_b08-d01-ultimamente-que-te-pesa-mas-del-dia.mp3?Expires=1794099843&Signature=zuTpJ8b3KeS3UgEH23n1k5Xd8G4IdgvQBegYwslvNhyeKi8E9yN-qu5bttDE4oGmn4d5XJmgcgz3BefdlhW8Ut0ultnSjhN5SfGQ8iW7nuJ0kQUbE7XqEAVZhHNQ1mHjnxTG10HiZ7u~xfCrrYNVTxXbbBqVQIazl-dMEK2CTjuf2esd7JAyrPHRQSQ5-XOBLunEmLU1qMDXGjls-LV7-p9x1bw6eUc9t4fQ9cuFhYKp-ezV9eDS0ZzPH~PWuCoSz1iAwmbzutt-Se6h8te6KxZ2UmvsD0VO4ClisIThexFSH~iLhFzTGP7~HvBSuRebmRNS99lbuI9eLGmeioExrQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Últimamente, ¿qué te pesa más del día?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "50468ad6-07f1-4641-9ee9-8d2f9f9d607c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/dfae00ae44764c4085d2fc5ad4c51a00_B2_M019_L01_audio_b55c1037_b02-me-frustra-perder-tiempo-en-el-trafico-todas-las-mananas.mp3?Expires=1794099843&Signature=bF40Ovk~Tuxl-wpCxwS2bc1aMfsK4rzJVBdtTCxUhYeHkIefMAzfu1xaH~h5VFGnWe00ybP~cMS9Holl6WGnLsEFywwWxQsKn5JJg1BW3QvfLvzs78nivMnQGJVEKFvkAmQamIXhNMZp7PiFFuJ8pENM9qEYIBxAiJsMwRkfeZBJzfWESdsS1d61wsxmf73jMhTBZBKDi1-BpzO40rBUX7KEDabg1poy-l80OhDASgUWHpxpmIegpTqTks~sbfW3Cp6B7B2qJ1o432E7bceIR0SHgiqA-BO7wnQ4B67hmonxeDQUTA4Q2eBy3LkNQdusg8~gz65c1M0wOTshJ3u1Lw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me frustra perder tiempo en el tráfico todas las mañanas.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f500b234-91ee-4fc2-9e1a-2cef8560d3fa",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/db8c700c9dc84682884d4ef42575e095_b08-d03-a-mi-me-agobia-tener-demasiados-mensajes-pendientes.mp3?Expires=1794099843&Signature=c5m7hIxbZFbVG9N0DnKNIWRNKiEu2PKALTduyHe-8rpFl2T43RbH6CzaxW2468jjNmpNrJcVcCR-5N~hbB3x-0KUxhjY5d-cBqC0pv2enueaIM90iZ6IQSSpgTEpGlmXr3kxV3~3uw0CRnRm0SiMqFTTNlyykvXQQeYgdJcjeaIC4FYma39IjeWeO3brEyePx2iIgpvogRDrb7I56A2lrFY~ouzF2aDaQgv8fB-74m7J-sE1o38TxhBUyVwwG8jpRvlmOjYm5lz5P4I419xLxraW~cwzMatKlcx5377L~~udwdXBAPuL2nXXYeSdy7JeNU-2cKCXceTEa8HwEnLrqA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "A mí me agobia tener demasiados mensajes pendientes al mismo tiempo.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "bbfe4a64-faf8-48b1-9eb7-b52c4134b0f4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b8ea1f2e309c45498fe07480558c546f_B2_M019_L01_audio_a0cbf2aa_b06-tantas-reuniones-seguidas-me-dejan-agotada-al-final-del-dia.mp3?Expires=1794099843&Signature=HoClorKo6GuzVldKTmLY~bkIb-lYRRyAEfuDDiTJPSd3lXEc4QSzkTSnM9Ex8IA5xmjYeMW7pjyQZk429fJnLRSgKm0qxHnIrNgGbCIfBRBgk4eGnHfHeWwXV8ReZtxO1NlEIKwPbl4Az8UN-f14f~FDUhTgtHQXgfRfM4tR23XMaYjBRQqE1L7aAJKorWBJjDcup00Bre1YwmrELsSKKdJB~HxIf8aXdb4Yk8Y7a44SVi7DzdIl20HMPUAko62n1WBS8mh20pr0nQ4fRIt0dqtmmtW7d04dtTwJg9lAcwcDjrvKfKUWPoowVvaK5IwjHz6WG50v0sTUuxX8M8zS8w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Y tantas reuniones seguidas me dejan agotada al final del día.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "2ab53cfd-77b6-431c-9856-63079a6552ed",
+      "sequence": 8,
+      "lessonId": "4f651e1f-1cee-4e70-84bf-b3a609ebad81",
+      "title": "Recupere a aproximação",
+      "content": "<p>____ el 40 % necesita descansar más el fin de semana.</p><p>Tradução: Quase 40% precisa descansar mais no fim de semana.</p>",
+      "contentPlain": "____ el 40 % necesita descansar más el fin de semana. Tradução: Quase 40% precisa descansar mais no fim de semana.",
+      "fileUrl": null,
+      "feedbackSuccess": "Casi mostra que a porcentagem é aproximada, mas continua ligada a uma leitura de pesquisa.",
+      "feedbackError": "Casi mostra que a porcentagem é aproximada, mas continua ligada a uma leitura de pesquisa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Casi",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "efe7c631-08d4-4567-8a98-d5689163e43a",
+      "sequence": 9,
+      "lessonId": "4f651e1f-1cee-4e70-84bf-b3a609ebad81",
+      "title": "Reconstrua o diálogo da pesquisa",
+      "content": "<p>Relacione cada áudio à linha correspondente do diálogo sobre os dados do grupo.</p>",
+      "contentPlain": "Relacione cada áudio à linha correspondente do diálogo sobre os dados do grupo.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final reaproveita as três formas de quantificar para ler os dados do grupo com naturalidade.",
+      "feedbackError": "O diálogo final reaproveita as três formas de quantificar para ler os dados do grupo com naturalidade.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "ef037993-5fa1-4cb8-8232-748d1f7b5075",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9d1cb7cbef854dcb84bcf5cf24baff79_phase4-b08-linea-01-que-dice-la-encuesta-del-equipo.mp3?Expires=1794099843&Signature=xg6W434sdLElU7q7Wea4Uu3cJDk~aDshNqnAozyctGa3d1o-LsyeQ9VUS6DMCUsGgGKH9dH7vV0uKr1ixYbXr4hJ9DuKrS1h0E-Upe3tGCchRGIJ6hu7wikVwTH58rBDCXVup2P51vOQiJMeU-ih52jeE71fTlqn1OaLSgAaemkZoPuxlAHdrwaPiZuv1WNNMBHAGWPc24y1mMfb12HDptO6LIZJ6eamCxeF14kOgwnsmz6jBBGNM4-x~1sdm9EewOJcVRMEJ9n6Iyh6cehyEbdDGbYIMSdJxtgf8ClJWIabkvWtnJwlvdJlRYmyqQy55-Kp5LLbwa-xCwHUE3qtww__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué dice la encuesta del equipo?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ec0c71cc-885c-4549-898f-0a996d111e9c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0f420bb91db64c8f8e8275c5fbc8b10e_phase4-b02-la-mitad-del-equipo-llega-al-final-del-dia-sin-energia.mp3?Expires=1794099843&Signature=a700HSLIHq-vm90y~cDJQ5cbakHRHwMu52AXGn7rCOg99Qh0PiENtbdX45NL9Ph9cm4q9T-W9wMTSX6SfqQ-gKw1TSnv47MdCjvlOOBKd-~tpuomEU0ub0KuRIlY4c9uwuUVIgbZud~EsDngCgFWJIEFWzuvfuCQEpaZo1t0pCQBnwqn8IYn~TJJESUEYcHhH1D92zMVxJufsGJrWUzbrghPYhq50RywWN2dK0pEngz2YlLf9-Oq3OfpxcA4vzzHzaJxBpaQ2BsyNhQUihagUjzOLsPO5VpGcaw9CqNKlSYhVciIgyp7hNV~LAf5CaU4KeLSFFZgkmWllMHHp8sAPw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La mitad del equipo llega al final del día sin energía.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5c44ebc0-fac0-41a3-9997-bfdc80a250c9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ab782c2bcd4b4ebb98ad6017ba150afc_phase4-b08-linea-03-y-sobre-el-sueno.mp3?Expires=1794099843&Signature=YsbWQ8y74uDp38zxDfbWFc8fHI7a7OCNZ7LBhYLcUtKYzyDYW-b18GuCc7F6NwSBArIjkpUQRF4hT30ytaB3rbOtdN2YjqRCTmXBI~GxHwrvqRnSu1ZC55bBwa6gccl~c~c-vjD594pJj10QLc5bUn-MM1S5qf0dEFxXqc3gTtpt5ijF5lPX36ksWaLLldy0kgnCMOhQ5jTNpb59OPbqTt~HSZc6ZjoNXAX0dXhnebxMpYtG4if~H13vIOOQ2-2zisR9~WtXtbX3MarMbklcEMUh6VO-vL8VC9mhNLLfhRsBrUauelfOsBATXuNiGJnGIc3RhTyYDmeYTnxfvwcnqQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Y sobre el sueño?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d737429d-6c2b-4c95-9256-1038da2792b0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3f87a440807f46f3a8f2f1f396498e00_phase4-b04-uno-de-cada-tres-duerme-mal-entre-semana.mp3?Expires=1794099843&Signature=suRmyoakLXVpV2b5cwWZmMwSjArxwUDYiEgyuuc-KEPXvdDaFJtLHlRxmpg-0A3wIUj3xMehSNMC-gHTQK3563MH1p6vEU2ci-QtYqFUEiGJwxPsQv0tKgB370Nuz4vI--O~CYbCbV-0phPlX-HdnUPTtt2d9XmYVI6XOcbBdGnSxHmxkNW8xQJ15y7W4JtZgTen36W1~0X4IGvAGj68cz0KrlYGKXul8Pn17KcNb41pTZXyYO8O649qVsAKUuFjypFNzAuwnt3veB8jK~F0DcafwUkUXL4QWjrc89mWJBPjQRVbgzX8DV9PHYRKtCuKNHcPRQC6lPsyM9lTT6XzhA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Uno de cada tres duerme mal entre semana.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "b2907a2b-1b38-466f-9e1b-4b3b754a1db3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/2631a77adf8442768dbc94d989a20d30_phase4-b06-casi-el-cuarenta-por-ciento-necesita-descansar-mas-el-fin-de-semana.mp3?Expires=1794099843&Signature=zmyTYJ529Xbiwo7ECu4Mk5ndweLPYGvsP4Xh6FxOlqcDcEAm-8si7y7zwLW3JJ3jLGJlBFcwZJ7dtYfWaH7qCfjft7eeIuTyo3IT2lQ9Br0Ce2HysGuMWbNCFUXnPBaRS1KOCXpE-Turl7ransW0N4V~hEBnIytJxq6GxpH3PJPpE~xzq-vVxmjfjb2vro8uwZRQ4H828ZS8~9~e0KSD-2GLCv5zWlNhzYid6rksl7isbtg72Vm5GIC-BBqcsxhwRBOVKVqEddd9nKyf3I73~X5pusobDTCY2UU86NRA8oIucr6oF61E5a3W4nlEKtmwT9MMiHcZBX0K4eJ~dFhw2A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Casi el 40 % necesita descansar más el fin de semana.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "37b0699b-aae8-487c-bb27-a324e411f029",
+      "sequence": 10,
+      "lessonId": "735dcce9-64eb-4e9d-b81a-76cc85c4bb7d",
+      "title": "Ouça e marque o tom cuidadoso",
+      "content": "<p>Marque só as palavras que você realmente ouve no comentário em espanhol, sem apoio em português.</p>",
+      "contentPlain": "Marque só as palavras que você realmente ouve no comentário em espanhol, sem apoio em português.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3cbe8b6690824d77927579d6784c716b_phase5-c05-a04-comentarlo-con-cuidado.mp3?Expires=1794099843&Signature=NQdh0t-XB7UpR19x~iLyhYhgDiV5Gjec6yZMk8STOe-18~OUih3ChxU5nOkxgF~L9cen-4BmjtmSVZ~ojt-lzvplamaPpeyQz7X~7WWyIFxQF7v3Kp4FvOVvqOjdOF3Ftk7ryBM0gxLjm2A-78ndVirTjtKXAblyqiIqrRr7MJ3Ox0CG7BXMnPJ8a~gytuZtKPMp926erAYdkzrg0Ru-YKe0uSXKBWYm6fa8WvQV7cWSwnYWLZYGCVC8pBjldCaQHDOZuXXDa6oXZYRxzozhq2tHeH9dhZ3hjkRukcBjVqQA4E~H7rv3tYf0BBiuSwTOBXlwJkgWE0sKNCzcKNbwBA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui a escuta cobra o tom cuidadoso ao comentar um dado.",
+      "feedbackError": "Aqui a escuta cobra o tom cuidadoso ao comentar um dado.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "07e780e0-53e5-4691-ae6e-dcbceac93cc9",
+          "text": "cifra",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "41c6ef9d-92f4-4635-99d8-3a763b9e3e62",
+          "text": "encuesta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7f00f64a-af25-4cfa-aab0-1ebac886fa2f",
+          "text": "cualquiera",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "acef3526-77ea-4245-ab0e-30921ab10198",
+          "text": "personas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ae915bff-8a26-4dae-ba7d-d470a73e7c37",
+          "text": "cuidado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e47b9f9e-f0eb-4f55-a79f-cb4facbc228e",
+          "text": "conviene",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "d5ccf3f0-d5b0-44e2-8fc2-f5e31e90ec35",
+      "sequence": 11,
+      "lessonId": "e74a1dff-714a-41fa-a8a1-dfc859075c7c",
+      "title": "Recupere a sensação de sobrecarga",
+      "content": "<p>Últimamente me siento bastante ________.</p><p>Tradução: Ultimamente eu me sinto bastante sobrecarregada.</p>",
+      "contentPlain": "Últimamente me siento bastante ________. Tradução: Ultimamente eu me sinto bastante sobrecarregada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Abrumada nomeia sobrecarga acumulada em uma fase recente.",
+      "feedbackError": "Abrumada nomeia sobrecarga acumulada em uma fase recente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "abrumada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "2aba490a-9421-4a96-af4b-94a9883f312a",
+      "sequence": 12,
+      "lessonId": "e74a1dff-714a-41fa-a8a1-dfc859075c7c",
+      "title": "Associe expressão e efeito",
+      "content": "<p>Ligue cada expressão ao papel mais preciso que ela cumpre quando a aula fala de saúde mental com cuidado.</p>",
+      "contentPlain": "Ligue cada expressão ao papel mais preciso que ela cumpre quando a aula fala de saúde mental com cuidado.",
+      "fileUrl": null,
+      "feedbackSuccess": "No desafio, o foco é distinguir tom, fase, problema e apoio com mais precisão.",
+      "feedbackError": "No desafio, o foco é distinguir tom, fase, problema e apoio com mais precisão.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "25b69989-cd9b-49a3-9184-9f5c2d9643ad",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bafcc0f8-d371-491d-8d05-6a2c94e4b5c0",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "2ada04b9-cf3e-4265-97ec-c99f6400c04d",
+          "leftContent": "con naturalidad",
+          "rightContent": "fala do tom cotidiano e respeitoso da conversa",
+          "sequenceItem": 1
+        },
+        {
+          "id": "219273f0-2b61-4cf7-a459-04186126ea38",
+          "leftContent": "últimamente",
+          "rightContent": "apresenta a situação como uma fase e não como um instante",
+          "sequenceItem": 2
+        },
+        {
+          "id": "9668a8d2-037b-4769-b818-473120ce4146",
+          "leftContent": "en sí",
+          "rightContent": "isola o problema considerado sozinho",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2e65427a-d013-47cc-a73f-8e22188728d1",
+          "leftContent": "la sensación de no tener apoyo",
+          "rightContent": "nomeia a falta de amparo que pesa na experiência",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "49c1731a-c71b-479f-8296-057b2493adc4",
+      "sequence": 13,
+      "lessonId": "4da090de-a2d0-4805-a1dd-dfc997e3ff67",
+      "title": "Recupere o contraste",
+      "content": "<p>En muchas oficinas, el cansancio ya no parece algo _______.</p><p>Tradução: Em muitos escritórios, o cansaço já não parece algo privado.</p>",
+      "contentPlain": "En muchas oficinas, el cansancio ya no parece algo _______. Tradução: Em muitos escritórios, o cansaço já não parece algo privado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Privado marca o ponto de partida que a leitura transforma em conversa coletiva.",
+      "feedbackError": "Privado marca o ponto de partida que a leitura transforma em conversa coletiva.",
+      "answerType": "buildWord",
+      "expectedAnswer": "privado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b604c20a-2282-4f32-a011-1dc0ca4e342b",
+      "sequence": 14,
+      "lessonId": "4da090de-a2d0-4805-a1dd-dfc997e3ff67",
+      "title": "Recupere o efeito social",
+      "content": "<p>Con tanta conexión constante, descansar parece una _________.</p><p>Tradução: Com tanta conexão constante, descansar parece uma exceção.</p>",
+      "contentPlain": "Con tanta conexión constante, descansar parece una _________. Tradução: Com tanta conexão constante, descansar parece uma exceção.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excepción resume o efeito social do texto sobre o descanso.",
+      "feedbackError": "Excepción resume o efeito social do texto sobre o descanso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "excepción",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b550e780-6196-489b-8c61-81834b772e66",
+      "sequence": 15,
+      "lessonId": "6b080abf-ee12-43f4-819e-a0de21633610",
+      "title": "Recupere o efeito no fim do dia",
+      "content": "<p>Después de tantas reuniones seguidas, termino _______.</p><p>Tradução: Depois de tantas reuniões seguidas, eu termino esgotada.</p>",
+      "contentPlain": "Después de tantas reuniones seguidas, termino _______. Tradução: Depois de tantas reuniões seguidas, eu termino esgotada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com agotada, a aula fecha a ideia de desgaste como efeito final da repetição.",
+      "feedbackError": "Com agotada, a aula fecha a ideia de desgaste como efeito final da repetição.",
+      "answerType": "buildWord",
+      "expectedAnswer": "agotada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

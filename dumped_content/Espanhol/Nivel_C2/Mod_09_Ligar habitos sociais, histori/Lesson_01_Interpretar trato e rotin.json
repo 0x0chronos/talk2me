@@ -1,0 +1,616 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+    "attemptId": "d9a36070-1aa2-4b39-a76b-e436073a02c6",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "c4a027dd-d5b8-4555-8e0c-8c4f037b2946",
+      "18ec38b2-c804-4921-8808-b0a449dbeb75",
+      "5be70d85-2314-4833-81e2-5dfe744836c8",
+      "5b5edbba-7202-4e51-8965-0fc4be0256a0",
+      "b15394d2-9bc8-4acf-91a6-bb44d80c648f"
+    ],
+    "evaluationExerciseIds": [
+      "35151d00-e36c-49af-96b0-d86691ac0fb7",
+      "375d2966-95fe-4689-8b12-e1bd5fa560fc",
+      "8859c911-1003-490e-b749-5f01727e528d",
+      "fb6d70e7-2dd1-4bc3-9947-198d03be9b76",
+      "dbc2bd9b-cc74-4b3d-a1d8-e7b4c936f617"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:36.7786014Z"
+  },
+  "contents": [
+    {
+      "id": "0491fb1e-c582-4c8d-af14-ed4ddf30ffba",
+      "title": "Leia a abertura e observe por que a aula separa impressão inicial, costume do grupo e ritmo de confiança.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "0de65667-2c53-4cab-8c2a-3c5c158d9441",
+          "textContent": "<p>Em interacoes novas, a leitura mais rápida quase sempre parece óbvia.</p><p>Mas, em espanhol, comentar hábitos sociais com mais matiz pede um passo a mais: separar <strong>primeira impressão</strong>, <strong>costume do grupo</strong> e <strong>ritmo de confiança</strong>.</p><p>Nesta aula, cada tela ajusta um desses pontos antes de fechar com um comentário curto de vida real.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fe50cfd8-2fd2-44aa-ab94-b00ed34d9891",
+      "title": "Leia a frase em espanhol e repare que a observação descreve a cena sem fechar o julgamento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "2456e150-71af-4b69-af4c-071df95d0a06",
+          "textContent": "<p>Comece pela leitura inicial da cena.</p><p><strong>A primera vista, el trato parecia distante.</strong></p><p>Em português: <strong>A primeira vista, a forma de tratar parecia distante.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1be7064e-59ee-4418-bf68-1b2f3da00930",
+      "title": "Leia a nota curta e observe como a combinação de `a primera vista` com `parecia` deixa espaço para revisão.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "f0ff0e64-e73d-4391-855f-a6539f405ba0",
+          "textContent": "<p><strong>A primera vista</strong> marca que o comentário nasce de um primeiro contato.</p><p>Com <strong>parecia</strong>, o falante descreve a impressão sem transforma-la em certeza.</p><p>Essa combinação ajuda a soar cuidadoso quando você ainda esta relendo o comportamento do outro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "92567e84-615f-4713-b87a-fb88e2576547",
+      "title": "Leia a frase em espanhol e repare que agora o foco sai da impressão pessoal e vai para a rotina do grupo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "86548204-86c0-4a8e-a70e-4d245be883ee",
+          "textContent": "<p>Agora a cena ganha uma regra social do grupo.</p><p><strong>En ese equipo es costumbre escuchar antes de opinar.</strong></p><p>Em português: <strong>Nesse time, e costume ouvir antes de opinar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b192b53e-5139-4aca-8a54-cfee69034ec6",
+      "title": "Leia a explicacao e observe como o comentário ganha matiz quando o hábito aparece como norma do grupo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "09dda0e8-7137-4d00-91c2-d7ccbd240a0d",
+          "textContent": "<p><strong>costumbre</strong> desloca a leitura do plano pessoal para o plano coletivo.</p><p>Em vez de dizer que alguem e frio ou antipatico, a frase sugere um hábito compartilhado.</p><p>Isso abre espaço para comentar reserva, formalidade ou cautela sem cair em estereotipo rápido.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0d9e2826-0249-4c47-8945-a659b715bcad",
+      "title": "Leia a frase em espanhol e repare que a proximidade aqui aparece como processo, não como algo imediato.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "7f3f2673-01d5-45b6-a7ad-9cc551c6c3c0",
+          "textContent": "<p>Agora entra o ritmo da proximidade.</p><p><strong>Tardan en entrar en confianza, pero despues hablan con mucha franqueza.</strong></p><p>Em português: <strong>Demoram a entrar em confiança, mas depois falam com muita franqueza.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d240ef3e-6dd0-4a72-8795-4720465eb07f",
+      "title": "Leia o comentário completo e observe como a interpretação muda sem apagar a primeira impressão.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "a220abc0-378e-4b23-9005-edc21523b57e",
+          "textContent": "<p><strong>A primera vista, el trato parecia distante.</strong></p><p><strong>Luego entendi que en ese equipo es costumbre escuchar antes de opinar.</strong></p><p><strong>Tardan en entrar en confianza, pero despues hablan con mucha franqueza.</strong></p><p>Em português: o comentário não apaga a primeira leitura; ele a corrige com mais contexto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3d797a21-1756-4d51-99f5-9803e65c4707",
+      "title": "Leia o fechamento e conecte a linguagem da aula a equipes novas, reuniões, famílias ou grupos que você ainda esta aprendendo a interpretar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "1cf06af3-7da2-4b43-b984-e69d001bb5d0",
+          "textContent": "<p>Na vida real, este tipo de comentário ajuda a não confundir uma cena reservada com falta de abertura.</p><p><strong>La primera impresión puede cambiar mucho.</strong></p><p><strong>Conviene no confundir una costumbre de trato reservado con falta de confianza.</strong></p><p><strong>A veces la cercania aparece solo despues de un tiempo.</strong></p><p>Em português: <strong>A primeira impressão pode mudar muito. Convém não confundir um costume de trato reservado com falta de confiança. Às vezes a proximidade só aparece depois de um tempo.</strong></p><p>Isso serve para falar de uma equipe nova, de uma reunião entre desconhecidos ou de um grupo em que a proximidade aparece devagar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "c4a027dd-d5b8-4555-8e0c-8c4f037b2946",
+      "title": "Relacione necessidade e frase",
+      "content": "<p>Pense em uma equipe nova ou um grupo desconhecido e ligue cada necessidade do comentário a frase da lição que melhor a resolve.</p>",
+      "contentPlain": "Pense em uma equipe nova ou um grupo desconhecido e ligue cada necessidade do comentário a frase da lição que melhor a resolve.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap da aula junta primeira impressão, costume e confiança no mesmo comentário.",
+      "feedbackError": "O recap da aula junta primeira impressão, costume e confiança no mesmo comentário.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0df8d3f3-3292-40f4-acd8-ee5cf295de88",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c4a027dd-d5b8-4555-8e0c-8c4f037b2946"
+        },
+        {
+          "id": "2ae6d7b3-3464-4576-8bf4-c325c7c557ce",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c4a027dd-d5b8-4555-8e0c-8c4f037b2946"
+        }
+      ],
+      "associations": [
+        {
+          "id": "bf196e22-1389-4bcb-a870-c925571173e5",
+          "exerciseId": "c4a027dd-d5b8-4555-8e0c-8c4f037b2946",
+          "leftContent": "abrir pela leitura inicial",
+          "rightContent": "A primera vista, el trato parecia distante.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "cd9d4b2c-2cd9-4deb-94c6-47fe27d772c1",
+          "exerciseId": "c4a027dd-d5b8-4555-8e0c-8c4f037b2946",
+          "leftContent": "corrigir a impressão com contexto do grupo",
+          "rightContent": "En ese equipo es costumbre escuchar antes de opinar.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2d2d5ccf-4cba-4f74-85fe-fb8cc5afe1e3",
+          "exerciseId": "c4a027dd-d5b8-4555-8e0c-8c4f037b2946",
+          "leftContent": "mostrar que a abertura aparece depois",
+          "rightContent": "Tardan en entrar en confianza, pero despues hablan con mucha franqueza.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "18ec38b2-c804-4921-8808-b0a449dbeb75",
+      "title": "Reconheca a leitura provisória",
+      "content": "<p>Na frase da aula, qual interpretação em português combina melhor com <strong>a primera vista</strong> e <strong>parecia</strong>?</p>",
+      "contentPlain": "Na frase da aula, qual interpretação em português combina melhor com a primera vista e parecia ?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa a primera vista e parecia para manter a primeira leitura em aberto.",
+      "feedbackError": "A aula usa a primera vista e parecia para manter a primeira leitura em aberto.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "14622773-458c-4fe5-8334-6350da390162",
+          "textContent": "Fecha o comentário como certeza sobre o caráter do grupo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "18ec38b2-c804-4921-8808-b0a449dbeb75"
+        },
+        {
+          "id": "29e6c4cc-5367-44b7-9185-d0f4cb5fa5e0",
+          "textContent": "Mostra que a confiança apareceu de imediato.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "18ec38b2-c804-4921-8808-b0a449dbeb75"
+        },
+        {
+          "id": "d0bb2632-6515-4b3e-bf8a-1bfdcb4e5988",
+          "textContent": "Troca a leitura social por uma regra de horário.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "18ec38b2-c804-4921-8808-b0a449dbeb75"
+        },
+        {
+          "id": "fefc9d0b-6b73-461e-aa0c-00d9fa515e26",
+          "textContent": "Apresenta a impressão como provisória e aberta a revisão.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "18ec38b2-c804-4921-8808-b0a449dbeb75"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5be70d85-2314-4833-81e2-5dfe744836c8",
+      "title": "Localize o hábito do grupo",
+      "content": "<p>Qual linha da lição relê a reserva sem chamar ninguém de frio, porque a interpretação vai para a rotina coletiva?</p>",
+      "contentPlain": "Qual linha da lição relê a reserva sem chamar ninguém de frio, porque a interpretação vai para a rotina coletiva?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, es costumbre desloca a leitura do individuo para o hábito do grupo.",
+      "feedbackError": "Na aula, es costumbre desloca a leitura do individuo para o hábito do grupo.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "03aa892c-0d15-4fe0-b5ec-e774e9e4cabf",
+          "textContent": "Tardan en entrar en confianza, pero despues hablan con mucha franqueza.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5be70d85-2314-4833-81e2-5dfe744836c8"
+        },
+        {
+          "id": "9a20ae57-6a23-4bc6-b9ef-068594aba9de",
+          "textContent": "En ese equipo es costumbre escuchar antes de opinar.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5be70d85-2314-4833-81e2-5dfe744836c8"
+        },
+        {
+          "id": "b7815d65-e4a0-48c7-8544-02bd3c364891",
+          "textContent": "La primera impresión puede cambiar mucho.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5be70d85-2314-4833-81e2-5dfe744836c8"
+        },
+        {
+          "id": "e2143ebd-5dc0-4f58-a4cb-7ab9faf0f38b",
+          "textContent": "A primera vista, el trato parecia distante.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5be70d85-2314-4833-81e2-5dfe744836c8"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5b5edbba-7202-4e51-8965-0fc4be0256a0",
+      "title": "Recupere o hábito coletivo",
+      "content": "<p>En ese equipo es _________ escuchar antes de opinar.</p><p>Tradução: Nesse time, e costume ouvir antes de opinar.</p>",
+      "contentPlain": "En ese equipo es _________ escuchar antes de opinar. Tradução: Nesse time, e costume ouvir antes de opinar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, costumbre ajuda a reler a reserva como norma do grupo.",
+      "feedbackError": "Na aula, costumbre ajuda a reler a reserva como norma do grupo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "costumbre",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b15394d2-9bc8-4acf-91a6-bb44d80c648f",
+      "title": "Ligue expressão e função",
+      "content": "<p>Recupere os quatro pontos centrais da lição ligando cada expressão em espanhol ao efeito que ela ativa em português.</p>",
+      "contentPlain": "Recupere os quatro pontos centrais da lição ligando cada expressão em espanhol ao efeito que ela ativa em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "A releitura da aula passa por impressão inicial, hábito do grupo e ritmo de confiança.",
+      "feedbackError": "A releitura da aula passa por impressão inicial, hábito do grupo e ritmo de confiança.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1fe1d4f6-9515-4273-b763-f04aea3cc50d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b15394d2-9bc8-4acf-91a6-bb44d80c648f"
+        },
+        {
+          "id": "e993de0a-32df-40fc-b47d-641d6fbf2ff3",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b15394d2-9bc8-4acf-91a6-bb44d80c648f"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ed497754-bfb2-4ae9-a0de-5b0bd972cb3f",
+          "exerciseId": "b15394d2-9bc8-4acf-91a6-bb44d80c648f",
+          "leftContent": "A primera vista",
+          "rightContent": "marca o primeiro contato",
+          "sequenceItem": 1
+        },
+        {
+          "id": "62a4a69f-370d-4c02-9809-25a8c13da347",
+          "exerciseId": "b15394d2-9bc8-4acf-91a6-bb44d80c648f",
+          "leftContent": "parecia",
+          "rightContent": "evita transformar a leitura em certeza",
+          "sequenceItem": 2
+        },
+        {
+          "id": "207db6ce-87ef-45a7-813f-2364d993264c",
+          "exerciseId": "b15394d2-9bc8-4acf-91a6-bb44d80c648f",
+          "leftContent": "es costumbre",
+          "rightContent": "desloca a interpretação para hábito coletivo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "495d2b86-2773-4bbb-9d0d-90d86ac139cd",
+          "exerciseId": "b15394d2-9bc8-4acf-91a6-bb44d80c648f",
+          "leftContent": "entrar en confianza",
+          "rightContent": "mostra que a proximidade leva tempo",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "35151d00-e36c-49af-96b0-d86691ac0fb7",
+      "title": "Reencaixe a moldura interpretativa",
+      "content": "<p>Faça o caminho menos direto: ligue cada necessidade discursiva a expressão em espanhol que melhor organiza esse comentário social.</p>",
+      "contentPlain": "Faça o caminho menos direto: ligue cada necessidade discursiva a expressão em espanhol que melhor organiza esse comentário social.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula distribui a leitura entre impressão inicial, hábito do grupo e ritmo de confiança.",
+      "feedbackError": "A aula distribui a leitura entre impressão inicial, hábito do grupo e ritmo de confiança.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "ac9a79ac-6cb1-4944-a4d4-95b3d3799f05",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "35151d00-e36c-49af-96b0-d86691ac0fb7"
+        },
+        {
+          "id": "f29900c9-a7a1-43a2-b41f-251c86a1eb27",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "35151d00-e36c-49af-96b0-d86691ac0fb7"
+        }
+      ],
+      "associations": [
+        {
+          "id": "c51cf403-42e9-4d29-a577-9b885786986d",
+          "exerciseId": "35151d00-e36c-49af-96b0-d86691ac0fb7",
+          "leftContent": "limitar a leitura ao primeiro contato",
+          "rightContent": "A primera vista",
+          "sequenceItem": 1
+        },
+        {
+          "id": "34d6e637-817e-438b-b661-52811dd99ccc",
+          "exerciseId": "35151d00-e36c-49af-96b0-d86691ac0fb7",
+          "leftContent": "manter a observação como impressão revisavel",
+          "rightContent": "parecia",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c9db7345-5430-42b4-afd2-9b81ce8fee49",
+          "exerciseId": "35151d00-e36c-49af-96b0-d86691ac0fb7",
+          "leftContent": "explicar a reserva como norma coletiva",
+          "rightContent": "es costumbre escuchar antes de opinar",
+          "sequenceItem": 3
+        },
+        {
+          "id": "19378fe8-0dd1-47d4-9397-1453665fd5db",
+          "exerciseId": "35151d00-e36c-49af-96b0-d86691ac0fb7",
+          "leftContent": "marcar que a proximidade chega depois",
+          "rightContent": "tardan en entrar en confianza",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "375d2966-95fe-4689-8b12-e1bd5fa560fc",
+      "title": "Ligue trecho e matiz",
+      "content": "<p>No comentário integrado da lição, conecte cada trecho em espanhol ao tipo de releitura mais precisa que ele produz.</p>",
+      "contentPlain": "No comentário integrado da lição, conecte cada trecho em espanhol ao tipo de releitura mais precisa que ele produz.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário integrado ganha matiz quando cada trecho corrige a leitura anterior.",
+      "feedbackError": "O comentário integrado ganha matiz quando cada trecho corrige a leitura anterior.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "03a593cf-e3de-4f76-8bbc-a2ab595d7488",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "375d2966-95fe-4689-8b12-e1bd5fa560fc"
+        },
+        {
+          "id": "5f6cdd5a-a715-4441-827e-a54700710bb5",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "375d2966-95fe-4689-8b12-e1bd5fa560fc"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ab9dc91a-60c2-4907-ba8e-d8ed798177c1",
+          "exerciseId": "375d2966-95fe-4689-8b12-e1bd5fa560fc",
+          "leftContent": "el trato parecia distante",
+          "rightContent": "descreve a cena sem fechar um julgamento",
+          "sequenceItem": 1
+        },
+        {
+          "id": "55eb9613-2951-4293-be01-68389b684b78",
+          "exerciseId": "375d2966-95fe-4689-8b12-e1bd5fa560fc",
+          "leftContent": "luego entendi",
+          "rightContent": "corrige a leitura inicial com novo contexto",
+          "sequenceItem": 2
+        },
+        {
+          "id": "97a5dcb2-bc74-4db0-b6e4-3ca4294dfe41",
+          "exerciseId": "375d2966-95fe-4689-8b12-e1bd5fa560fc",
+          "leftContent": "escuchar antes de opinar",
+          "rightContent": "mostra cautela compartilhada antes da fala",
+          "sequenceItem": 3
+        },
+        {
+          "id": "3d82ba0f-9fa1-4405-adc8-9e629c86a737",
+          "exerciseId": "375d2966-95fe-4689-8b12-e1bd5fa560fc",
+          "leftContent": "despues hablan con mucha franqueza",
+          "rightContent": "mostra que a abertura aparece após a confiança",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "8859c911-1003-490e-b749-5f01727e528d",
+      "title": "Reconstrua a impressão aberta",
+      "content": "<p>A primera vista, el trato _______ distante.</p><p>Tradução: A primeira vista, a forma de tratar parecia distante.</p>",
+      "contentPlain": "A primera vista, el trato _______ distante. Tradução: A primeira vista, a forma de tratar parecia distante.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, parecia impede que a primeira leitura soe como certeza definitiva.",
+      "feedbackError": "Na aula, parecia impede que a primeira leitura soe como certeza definitiva.",
+      "answerType": "buildWord",
+      "expectedAnswer": "parecia",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "fb6d70e7-2dd1-4bc3-9947-198d03be9b76",
+      "title": "Reconstrua o ritmo da confiança",
+      "content": "<p>Tardan en entrar en _________, pero despues hablan con mucha franqueza.</p><p>Tradução: Demoram a entrar em confiança, mas depois falam com muita franqueza.</p>",
+      "contentPlain": "Tardan en entrar en _________, pero despues hablan con mucha franqueza. Tradução: Demoram a entrar em confiança, mas depois falam com muita franqueza.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, entrar en confianza mostra que a proximidade se constroi com o tempo.",
+      "feedbackError": "Na aula, entrar en confianza mostra que a proximidade se constroi com o tempo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "confianza",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "dbc2bd9b-cc74-4b3d-a1d8-e7b4c936f617",
+      "title": "Reconstrua o hábito de fala",
+      "content": "<p>En ese equipo es costumbre escuchar antes de ______.</p><p>Tradução: Nesse time, e costume ouvir antes de opinar.</p>",
+      "contentPlain": "En ese equipo es costumbre escuchar antes de ______. Tradução: Nesse time, e costume ouvir antes de opinar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, escuchar antes de opinar mostra uma regra coletiva de cautela.",
+      "feedbackError": "Na aula, escuchar antes de opinar mostra uma regra coletiva de cautela.",
+      "answerType": "buildWord",
+      "expectedAnswer": "opinar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "04e33c3a-df20-4b9a-9172-827642ee8846",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Interpretar trato e rotina nas primeiras impressoes"
+}

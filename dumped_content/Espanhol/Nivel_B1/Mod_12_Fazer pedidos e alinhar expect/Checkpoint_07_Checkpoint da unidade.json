@@ -1,0 +1,591 @@
+{
+  "attemptId": "21d34c6f-f5ca-4c04-b972-fd263d5cc0b5",
+  "exercises": [
+    {
+      "exerciseId": "3d05981a-47fc-46f1-8613-748ba1741634",
+      "sequence": 1,
+      "lessonId": "1a09a68b-9b1e-4c05-a1ee-33e52e5264a7",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Quisiera pedir que me _________ de habitación.</p><p>Tradução: Gostaria de pedir que me trocassem de quarto.</p>",
+      "contentPlain": "Complete a frase em espanhol: Quisiera pedir que me _________ de habitación. Tradução: Gostaria de pedir que me trocassem de quarto.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, cambiaran aparece no pedido de mudança formulado de maneira educada.",
+      "feedbackError": "Nesta aula, cambiaran aparece no pedido de mudança formulado de maneira educada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambiaran",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c09e2ac4-ee3c-400a-ae4e-962da3d1926f",
+      "sequence": 2,
+      "lessonId": "c5395a0b-64c7-4f0a-8a60-8513099cfd72",
+      "title": "Remonte o mapa da micro-história",
+      "content": "<p>Associe cada função do relato à linha completa que reaparece no mapa final da aula.</p>",
+      "contentPlain": "Associe cada função do relato à linha completa que reaparece no mapa final da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, o mapa narrativo junta expectativa, problema, conselho e desfecho.",
+      "feedbackError": "Nesta aula, o mapa narrativo junta expectativa, problema, conselho e desfecho.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "621f38a6-3fb4-496f-bab3-6efb876aa05b",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f773f02d-4d97-4d8b-a268-fe850a4fd3d6",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "d39c33d7-2c81-4388-93e9-484e3a411cb5",
+          "leftContent": "o que já estava combinado",
+          "rightContent": "Ya habíamos confirmado la reserva para tres noches.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1dc7b25d-5744-4faa-8a6b-665978ed5c21",
+          "leftContent": "a virada do problema",
+          "rightContent": "Resulta que el anuncio era engañoso y la habitación no tenía ventana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "86b68d36-c0dc-4869-92c0-53bbff82fccd",
+          "leftContent": "o conselho para agir",
+          "rightContent": "Lo mejor sería hablar con recepción hoy mismo y pedir otra habitación.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "27094b96-6714-49fa-92e5-6b14a6dcf5b1",
+          "leftContent": "o desfecho",
+          "rightContent": "Al final nos cambiaron de habitación.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "49cd61ea-2f5c-4de7-9e49-2e7f8c91cc3e",
+      "sequence": 3,
+      "lessonId": "2b86512c-2f7a-494e-880f-40448de87814",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Le pido que me confirme si el desayuno está ________.</p><p>Tradução: Peço que me confirme se o café da manhã está incluído.</p>",
+      "contentPlain": "Complete a frase em espanhol: Le pido que me confirme si el desayuno está ________. Tradução: Peço que me confirme se o café da manhã está incluído.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este exercício reforça a recuperação do pedido de confirmação dentro da mensagem de reserva.",
+      "feedbackError": "Este exercício reforça a recuperação do pedido de confirmação dentro da mensagem de reserva.",
+      "answerType": "buildWord",
+      "expectedAnswer": "incluido",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f03694c0-dfa4-4918-ac14-f29df1765f68",
+      "sequence": 4,
+      "lessonId": "5aef9bf0-04cb-46ec-a60f-9496c8261ce4",
+      "title": "Complete a avaliação do bairro",
+      "content": "<p>Me gusta que el barrio _____ mercados cerca.</p><p>Tradução: Gosto que o bairro tenha mercados por perto.</p>",
+      "contentPlain": "Me gusta que el barrio _____ mercados cerca. Tradução: Gosto que o bairro tenha mercados por perto.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me gusta que... avalia uma qualidade concreta do lugar.",
+      "feedbackError": "Me gusta que... avalia uma qualidade concreta do lugar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tenga",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "744e5eb9-b682-4421-a3a2-6e1fb50ca9d5",
+      "sequence": 5,
+      "lessonId": "cb0be6d9-1330-4d86-979b-649b6b3398e4",
+      "title": "Complete o pedido de quarto",
+      "content": "<p>Complete em espanhol: ¿Sería posible cambiarme a una habitación ________?</p><p>Tradução: Seria possível me mudar para um quarto de dentro?</p>",
+      "contentPlain": "Complete em espanhol: ¿Sería posible cambiarme a una habitación ________? Tradução: Seria possível me mudar para um quarto de dentro?",
+      "fileUrl": null,
+      "feedbackSuccess": "Habitación interior é a solução pedida para reduzir o barulho do quarto.",
+      "feedbackError": "Habitación interior é a solução pedida para reduzir o barulho do quarto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "interior",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "4ef9f931-b29c-4a57-b1e6-efc4b74fa17f",
+      "sequence": 6,
+      "lessonId": "1a09a68b-9b1e-4c05-a1ee-33e52e5264a7",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Escute as falas da recepção e do hóspede e combine cada áudio com a linha correta.</p>",
+      "contentPlain": "Escute as falas da recepção e do hóspede e combine cada áudio com a linha correta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, o diálogo avança de confirmação para problema e depois para uma resposta de solução.",
+      "feedbackError": "Nesta aula, o diálogo avança de confirmação para problema e depois para uma resposta de solução.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "06a5c96e-6122-4d59-b545-52bc8425d78a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/832ec5efe7964043afdfb178794fc528_b07-d02-si-esta-incluido-hasta-las-diez.mp3?Expires=1794099632&Signature=ts~GalwsnNycq~TI1PuueSVcn9C3xD5zlg8-W4ndsvfU5-zOL0JdpMZ84qJ1pl9IEkDitEYPqEJhdqBijZct-2dC7RWaRnoBp9gjqTmT5Jo~T00UMNgla1X9XNnXU~Gwp6tgyKykkZyNVKkAFWxHpudkndloSsOYeYYyXibDCKDpRLbbG-M3WS6eDzQCmWn5RBEioPBTw7uxjHQGH3PqPTJYfH1eoBfjCYgG46M1w0SLefz0KFyyiIxJMpbdZiolhl9riF1XcOv91yP6ixpxGOdyhUCa4osGyuHldF4FtWTpc-pnUYiTmXxL3JNxKPOJhOaYd1GLg5TGw0FGXs~nJA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, está incluido hasta las diez.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2607f9a6-52e3-4cf4-a7b8-5093e31bf8db",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/19d87f24019a41e1a56189d411ca4578_b07-d04-claro-que-pasa-con-la-habitacion.mp3?Expires=1794099632&Signature=hQW70xSXnvRlu9BWfZQjsZHF7HWnllt-c57lgJ~Cde9z1-qDpmwjVfk06eZRfQt0n0xN-567EV4dDOVp1sgj4aioogOyZbzqxKyDo6b9cmC3Vr~HcODVys2FTGUVZbx85k~CYwXPh7HE7gs5275ko3QSRpYhPs83CRBR~Q3sHSkDXaQeJ7oHkM0TqKQPo552zqkfH7hg6Wi4sigfgo4Aw-nnXhDrILYPmte~dAIv7lsNBsn9w5qvaKgxeVu1nS4lE4TMB2P47IYR-gQmJ2dJGTp9xdLwEmhPonHGs0TVf-~AZJrbu910vPcVBRIgu9A~6nzcL8crodQrSHvhpdyyvQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Claro. ¿Qué pasa con la habitación?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5105ed7d-0bbb-4754-93a2-5ead3d8bf0e7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/29b74d6cf93a4e34baa00fc631ab439f_b04-el-aire-acondicionado-no-funciona-bien.mp3?Expires=1794099632&Signature=aNV3A1iF4Q8f4F17cF60Ore4stEusi2dWEFEnMA~9jhAaD~fNoQcwt6nW4lgSNfAOOqoNCNAx7NA-TtCB2huBkbWcf9iAuD-ihbxj7ZPJEQeSC7X5imNs0e-Nj~4TW23Pp7X7YM0pkHQmcDVC90VRUrwG1eLkaqC9cJCtkgw8iKhDel7X~ubgjvjLmGzTwHy6jJ14MPQ5t~Hx~06g8XB22prB2WmG5vDqAXrGhZddp3k2iInliyZKRhaMPQkKl54xcIiFBYp13~eUvzyo~MZEd94IcDd0prqScuMkN9NFFc35aa6h8yBym0ycY5YR9u-YnrWrpl8v4j61a2IrmNz7w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "El aire acondicionado no funciona bien.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "258af88f-b39a-455e-be4e-ee709bbda025",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/07e53a0187b44261a487374bf7cdbb18_b07-d07-lo-revisamos-ahora-mismo.mp3?Expires=1794099632&Signature=vQs8LFTLA5XXPSBCL3ruFWtaJEvkOjIJ3prbxQfjvElAKBeW~9YE8fHLc6P3OFiAMLyASHJqcg2n4aiqgTuHmH~1rMYibiLFbMMYjYoAJ6O7zqO5FvJPj77I9fAk7K2bTFFcm2tCfNcsHYpJSfj7mVFU0z1Yi~TrkWTlI1Kw7v83qWO3qBtngPTp~-ube7c4o-K6WXeoFyyQDJ1JCMEStvzqXtfQiKLbKCYyX40fJIEn7jg737o2072QBQFkuj3a6ZONN~D-Llx1zB8-JlIRYq-fq26k6gAowEQQIDNxIcdHvmkMAEbb7j9yMUEn0TDxey~c6iicRgo0~bGA-8wbfA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, lo revisamos ahora mismo. Si hace falta, le cambiamos de habitación.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "cba53fba-5633-4689-b6df-dc8327ce0fc4",
+      "sequence": 7,
+      "lessonId": "2b86512c-2f7a-494e-880f-40448de87814",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Prefiero que tenga _________ 24 horas.</p><p>Tradução: Prefiro que tenha recepção 24 horas.</p>",
+      "contentPlain": "Complete a frase em espanhol: Prefiero que tenga _________ 24 horas. Tradução: Prefiro que tenha recepção 24 horas.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este exercício recupera o critério concreto usado para filtrar uma hospedagem.",
+      "feedbackError": "Este exercício recupera o critério concreto usado para filtrar uma hospedagem.",
+      "answerType": "buildWord",
+      "expectedAnswer": "recepción",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5fa9c308-4cae-43fd-bed9-0334c72ac542",
+      "sequence": 8,
+      "lessonId": "cb0be6d9-1330-4d86-979b-649b6b3398e4",
+      "title": "Reconstrua o diálogo pelo áudio",
+      "content": "<p>Associe cada trecho do diálogo ao texto correspondente em espanhol para recuperar a negociação completa.</p>",
+      "contentPlain": "Associe cada trecho do diálogo ao texto correspondente em espanhol para recuperar a negociação completa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Reconstruir o diálogo inteiro mostra como a aula fecha um ajuste cotidiano em poucas falas.",
+      "feedbackError": "Reconstruir o diálogo inteiro mostra como a aula fecha um ajuste cotidiano em poucas falas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "7318d406-784b-4a5e-ab31-fffb739b45ca",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/82af0500d0a84370a14013021b476c55_b05-dlg-01-queria-que-la-habitacion-fuera-mas-tranquila.mp3?Expires=1794099632&Signature=ATy8l3mzsQrLMqM-Mobl2YaaR5xiJC~6QGimmM91qCenjGVMPMT3HWt7biAVY35kJqzSYRDyBMwXTM9Ru8UgzbTVKSUHCsmrBejDxa~~qOzkAaH-JXWzJQy8xgzytRwkmuw0kjE5u1ADFljK994UUPFcw2YX7zAyV16Z9T5461oJBQAQqVh7TO72Bzba1GVcMWg5WtgSdUWr1NTur-JJuRYUeryCT2PeNzNPhKamG5Sb6nplx0~4wEjf4otSoeQ3K6MNKXkimFrSaxQ-qxvI4N5RBk3guOjgSPGdhyC649nLR7Eme0l~J0Dmph2QtQ0UKXGHM5emKQUBwAm8d~2F1A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Quería que la habitación fuera más tranquila, porque anoche casi no dormí.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9f6732ad-34bd-40e2-bce2-1c11e5b62841",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8898a9be6a574fb6845df853b8741abc_b05-dlg-02-lo-siento-hoy-no-tengo-otra-habitacion-libre.mp3?Expires=1794099632&Signature=gYGuZsOghHbuPqpA8-N8CJQHDFRqL1cEvtnLDE3jOZ5ZvWKejiy5jcghjT~dl4WxX09UVgsDmKXmSunYvYQpKm4L1HgENLtGvjB716orysiSGQ46zCPSBR-N6~e1LTkv9RDqlkl5jXffxFoWdHoP-nVZbTPkvKdcP710en3jIMiT2Tn5q5dioZWirmgUejY~~n6wqxUYyy8x7WcAwDgXyLHb1eycX691nn2OR3OE2WF~1QiWlsWjhQs4jYu3BcTIf~by4lVim-8vJmtQzakWrlM0N~223eyquxATE-CmbbN2l9pphxBxwKPialaUa62TnG7hjaPht1bn8Q0V19Y~5A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo siento. Hoy no tengo otra habitación libre, pero mañana por la mañana sí.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "44a18dc0-129c-44d8-b91f-0ecaf41359b8",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5a9ef2f76a3e42e3b2749b0c1035c24c_b05-dlg-03-entonces-prefiero-cambiarme-manana.mp3?Expires=1794099632&Signature=Rxt6McWonEOCoclnYaxzP-VA447mRb9I0WfLtpptwxlwRcltUdrenyLNrq3RjYLewjvrWEIr5BSAObLh925XYNiwRw1kcKF8ndZt5xMe1R66IzGCDsaV7QxWgRFe8ZwQSrvaKx6iTJGMy06MxNy8J9pFctszBlHhxpJyB8IURKtC0MA1-DWM9iadxVuU5Gm065ZTg5qgEkDquEQ7-dtfymzd5Lx1Ggx4MK9gqCPJC~D9ryqDVb02XNAnFYI~EksthTyeXXpOxY7tqt9O7UaBIq2arpKnhE~WCrd92Tev7~6ACR29eAtnWEKplEGuBVSBOxJwTn8GgTXSrLn-PTYBbw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Entonces prefiero cambiarme mañana. Gracias por buscar una solución.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c4dc0af3-3b4f-48e1-ac0e-8a4d8306713b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/259bc01afa8a4b93b6afc50b39d39911_b05-dlg-04-manana-por-la-manana-haremos-el-cambio.mp3?Expires=1794099632&Signature=xH2961zWU8ToOYkAmcXk-mV~6It48imNGKXW4B7LJuQNEr64iY~V4QyehaKVJOskYCO-2~gE3LqPzj~3GU6LhiiNb-Iyv66AO5YgCvBf9g8rykSd3M3KLu2aoG3em8IbeIk3qU2Ho0qy~Nk4gJS7pS1~KAsgHyr0HFnuL0GrC3l3azyIlvr3rKT5YR3AaY6Rzs~yCRnAJKUQF7kpdAJyRc7mhPpvURutdz3klMjDin6lKh3GJEIRShNwocfJ-oyKXIR2oXlAdEyKdwEAEpA46DDy0Dej0Ozk50JW6gXSwkfEWy208jLGBmgUzrC~4yKRNhysDl7q2JhWIFIfqE8npw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Perfecto. Mañana por la mañana haremos el cambio.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "cc583aa1-eb61-4204-bf8c-a37e60078203",
+      "sequence": 9,
+      "lessonId": "c5395a0b-64c7-4f0a-8a60-8513099cfd72",
+      "title": "Recupere as palavras do resumo final",
+      "content": "<p>Marque apenas as palavras centrais que fazem parte do resumo completo da estadia.</p>",
+      "contentPlain": "Marque apenas as palavras centrais que fazem parte do resumo completo da estadia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0d101e09e76c42db82d526d83b537dd8_b10-resumen-completo-del-problema.mp3?Expires=1794099632&Signature=m7NNOP9jDHwfsjh~PgJwFvuzIyA8YvyGgROag4XIwxY0uY7TV3qO2-enfIdY5qOyFhzTo6N9RpYd-QFeSkHctB8xef6J14oL0aw-MlhHasOtpzSCehGZerMzI9wF3uHKVMjmp-Y-jdFY-Hxn8wszgWZm26Ug8zm1bRQs-Q6zGg7ZoGG98dQncy4MoaKavCOkErth046czRVzSiurPc6tz7poRYInkCzuBE-4W3NKObeYnsLHkAohOUeVSlUPqt7KzLoliEKceY9JB-Qbz71wqIV0NjNIVXZa03OKrKSgEM4J7VrmqiFZE0TIakXYYQC~pQSNRGdcCBJjgOadb918~w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, o resumo final encadeia expectativa, problema, conselho e resultado.",
+      "feedbackError": "Nesta aula, o resumo final encadeia expectativa, problema, conselho e resultado.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "32749140-428f-47e3-a213-a3fbfd6e665a",
+          "text": "terraza",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4ed96100-c72a-4bac-ad03-fff3db642324",
+          "text": "engañoso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "58b98f6b-4fba-4355-8d24-80b8011fe53c",
+          "text": "ventana",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "71f00ef6-7617-405f-9a68-5a32ba80cad6",
+          "text": "recepción",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8e573d94-43d2-4b78-b14e-ab1375cd7846",
+          "text": "habitación",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9644a372-308a-47fe-acb9-8055ac7660b9",
+          "text": "baño",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a93a1eab-b779-4ed5-8806-ed254c903025",
+          "text": "habíamos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b2b77675-3082-457a-b0c3-2598144d4f5f",
+          "text": "cancelaron",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "be982cca-22d5-45a6-bdba-60e7e93bfbc8",
+          "text": "vecinos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d1d6d7a8-2d62-45e5-a15f-8707f0e5acad",
+          "text": "reserva",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e27cddb3-e055-456a-9835-fa49f26ee265",
+          "text": "cambiaron",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "370926f6-8d2f-4d14-a2f8-65720c383923",
+      "sequence": 10,
+      "lessonId": "5aef9bf0-04cb-46ec-a60f-9496c8261ce4",
+      "title": "Ligue a frase ao momento real",
+      "content": "<p>Relacione cada frase completa ao uso mais natural dela em moradia e hospedagem.</p>",
+      "contentPlain": "Relacione cada frase completa ao uso mais natural dela em moradia e hospedagem.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final liga cada moldura a um momento real de moradia ou hospedagem.",
+      "feedbackError": "O recap final liga cada moldura a um momento real de moradia ou hospedagem.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "3574eeaa-8090-429b-9b42-6350e3fc4ac8",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3aadbf2b-bf65-44b1-9e99-ea4ed6411118",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "34b0d445-aea7-45e4-ad8c-b715c0b98e40",
+          "leftContent": "Quiero que me mandes la dirección del piso hoy.",
+          "rightContent": "pedir uma informação ao anfitrião no mesmo dia",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5eb4efcd-8916-454d-8000-c42f34992704",
+          "leftContent": "Prefiero que la habitacion sea tranquila.",
+          "rightContent": "dizer como você quer o quarto",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4e3212de-64ef-44f2-b4ef-388f3da8fc5a",
+          "leftContent": "Espero que el propietario responda esta tarde.",
+          "rightContent": "marcar a expectativa de uma resposta",
+          "sequenceItem": 3
+        },
+        {
+          "id": "122d1cd6-96dd-42b7-af37-0bd1e6c80761",
+          "leftContent": "Ojala no haya ruido por la noche.",
+          "rightContent": "desejar que a estadia corra sem barulho",
+          "sequenceItem": 4
+        },
+        {
+          "id": "76031f98-9c6c-4097-9346-d267ae4fc37d",
+          "leftContent": "Me gusta que el barrio tenga mercados cerca.",
+          "rightContent": "valorizar o que o bairro oferece por perto",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "2c759fd8-58af-4d36-b14c-2802a127b953",
+      "sequence": 11,
+      "lessonId": "1a09a68b-9b1e-4c05-a1ee-33e52e5264a7",
+      "title": "Ouça e filtre as palavras",
+      "content": "<p>Escute a sequência completa da estadia e marque só as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Escute a sequência completa da estadia e marque só as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d203fa20119c4f35846c07da8766f02c_b08-secuencia-de-pedido-educado.mp3?Expires=1794099632&Signature=Oun0Wz~cBmbr7yuMFBpjvVxIq1-v0eNtJ~OTHY5wy6YPKCZn0cz8UbUwvrcTYNdXxYrZ9i49tlV35iY3VpRkoCk6ta4s1EfD8WAI8HqIOMODJX3xHDXCYHPOrMuCtIWopVSgDk8QXbdWKVOQESG24-iAzL7iiZqUMNckC2yifRiPRL9fJ3xpX843b9KR-bJV~koyOq5qar4RBBnmjUVnIQ43Zo-DLElROuzVFANmrJd~6wh-e9k2gFVOjyZtu-yiio0ZxnjBjKSgJhf3-CfnmPLi5lezPhUf0GVYJa5adMvuBV~PfDCewKKdIJoe6qTnxUtU3Dm0j0nhz12LUU5PWA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, a sequência real junta confirmação, mudança e pedido de ajuda no mesmo atendimento.",
+      "feedbackError": "Nesta aula, a sequência real junta confirmação, mudança e pedido de ajuda no mesmo atendimento.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "15c827bb-8292-44ea-a9c6-4a5e98010794",
+          "text": "revisarlo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "47a7ece9-f723-4746-bf46-89236085d346",
+          "text": "incluido",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "580e08d4-eaec-4812-bb49-cf88609e75dd",
+          "text": "habitación",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "615759a3-838d-456c-80c4-ba8613d205cc",
+          "text": "piscina",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9009f10b-fded-47cb-83ae-5c51ff228fc5",
+          "text": "reserva",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "dfe79d1f-07bc-4d06-9b75-c8ae0c8930f0",
+          "text": "desayuno",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "34a21bfc-3939-4bbd-bdfc-b3daec38c26b",
+      "sequence": 12,
+      "lessonId": "cb0be6d9-1330-4d86-979b-649b6b3398e4",
+      "title": "Complete a aceitação do acordo",
+      "content": "<p>Complete em espanhol: Entonces ________ cambiarme mañana.</p><p>Tradução: Então prefiro me mudar amanhã.</p>",
+      "contentPlain": "Complete em espanhol: Entonces ________ cambiarme mañana. Tradução: Então prefiro me mudar amanhã.",
+      "fileUrl": null,
+      "feedbackSuccess": "Prefiero ajuda a aceitar a alternativa encontrada dentro da negociação.",
+      "feedbackError": "Prefiero ajuda a aceitar a alternativa encontrada dentro da negociação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "prefiero",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7e3a8cca-eb4f-4526-a4d4-87c6f4115744",
+      "sequence": 13,
+      "lessonId": "25510ab1-e011-47c6-8f6e-3360f08db059",
+      "title": "Recupere o fechamento do diálogo",
+      "content": "<p>Marque somente as palavras da última fala, sem misturar elementos das outras vozes do plano.</p>",
+      "contentPlain": "Marque somente as palavras da última fala, sem misturar elementos das outras vozes do plano.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7a8624f65e24464485bbc7e9500fd6d9_b08-entonces-espero-que-encontremos-algo-hoy.mp3?Expires=1794099632&Signature=s7dY6fHkFzC-VGZUMDVAGd68nrN2EpeCvCjPnt9ZQfGs4w1NsSul800J~j7CNyKx4AxNhbcdZ0RNNF9ynMfxyprhZSLiJFUlHvPw-lKg-pQqAJlYjY4uxlA1fVvi0t547V-SMBlYyUh8AdFXuoXCjHJ7lGecEByvsomARyyB55a37EmycsBOAuiX1O89hxRVT2WBdHW-MgE6L0txRhzKZJNHq0b7xemZpjC3Np5q1hTRhQJ2KDpGw4J6w5Bn~URnY7L5ak5FgXLabJlP~36z3GVYYiUkBYCHX7yPxSr7vWZnUrja7KeESZaA4~o-jR97osiSkegJdjQO41s25Ur1cQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O fechamento do diálogo usa espero que encontremos para projetar o próximo passo do grupo.",
+      "feedbackError": "O fechamento do diálogo usa espero que encontremos para projetar o próximo passo do grupo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "099903e8-0816-4f07-9364-65b41d962b99",
+          "text": "centro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2e198996-2153-45bb-ad52-162b9ce05837",
+          "text": "algo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6904c2b1-c399-48bd-9222-5b59ebc806e3",
+          "text": "encontremos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7095d066-e7fe-48ba-911d-e362c7631168",
+          "text": "prima",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "84cdee07-b623-4b42-bf11-8c7455bf6c7d",
+          "text": "espero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "91453abc-e522-4b1a-893e-0da089b3311a",
+          "text": "reservemos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a79b7b24-6cc5-45cd-bfc1-c1a4bf0a7bc9",
+          "text": "hoy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b29cf002-c1cc-4a09-8cfa-2210541f9dc6",
+          "text": "que",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ccf43607-86a7-4722-b074-ba111b00ace9",
+          "text": "Entonces",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "56ea44e8-37d0-4185-bc71-9e24eecfc469",
+      "sequence": 14,
+      "lessonId": "c5395a0b-64c7-4f0a-8a60-8513099cfd72",
+      "title": "Complete o ponto de partida",
+      "content": "<p>Ya habíamos confirmado la _______ para tres noches.</p><p>Tradução: Já tínhamos confirmado a reserva para três noites.</p>",
+      "contentPlain": "Ya habíamos confirmado la _______ para tres noches. Tradução: Já tínhamos confirmado a reserva para três noites.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, reserva pertence ao ponto de partida já combinado.",
+      "feedbackError": "Nesta aula, reserva pertence ao ponto de partida já combinado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "reserva",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "5fa8a7a1-1285-4ab0-b958-6fa4ef0b4cef",
+      "sequence": 15,
+      "lessonId": "25510ab1-e011-47c6-8f6e-3360f08db059",
+      "title": "Reconstrua o diálogo final",
+      "content": "<p>Ligue cada gravação à frase certa e recupere a sequência completa da decisão compartilhada.</p>",
+      "contentPlain": "Ligue cada gravação à frase certa e recupere a sequência completa da decisão compartilhada.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final junta quatro vozes da mesma decisão sem mudar a estrutura central da aula.",
+      "feedbackError": "O diálogo final junta quatro vozes da mesma decisão sem mudar a estrutura central da aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "04145cfa-0479-494d-9f22-1c3c0b564df9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0547131eed084574ae666b612bb1319b_b02-quiero-que-vengas-temprano-a-la-visita.mp3?Expires=1794099632&Signature=U67sVT3DdPDq7WW-6pt5qBrw2pnC47bq3FtsocoE6sevgBwHKqcvUydF5YlFEkoU9xxn0QFyvDIYTOBClnq07wqRdFRHr3gc5vyIHTjX0NWDeO0PsFV08SIRu9GtVCdnRlGtu9TBk9t3rSVisFmQ6IMNhYLlOPNbDbJAU5dW~p88YKDqzAZ3SMd0YA-~YMRqF1PBHJASGz3wbWb0QTgr~RMCEoB-Qk3bWID9aAV-EzV5c0MSwEr0wmwkfBr7cLsaHSzM9vqpW3wZuvUZoe91afcgWGTWRvWHKyyqLKKMZnloYbSRkyq2Bk5EmaCiu3-TyvpvfYV-ivlzRvln0osRuQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Quiero que vengas temprano a la visita.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a53f70a9-8f1a-414a-ac8c-c07fee96c85f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/62927bad0e5d41fc9a195d552edb30ff_b04-mi-prima-quiere-que-reservemos-hoy.mp3?Expires=1794099632&Signature=kjJJf3bUm3-4U1wivabtNheiem2l5wAthySKkTngJWpVKXdb2ZqdU6Hx3Jm8~MtbCz8UP6osm6VZhmZXoBNvG-0Md2jGi2usERJ2ZJjfHSsXxQSsemqFtcJ0PG9yy06NYn4~b4qJ9cx3e--0DRwV9khubSJohsk9XtRNU6owMfsWcz4JqdE0vmG0bEx2PZBIYJPQW51Yuij9tjk9V2dQWZSldIcqm7zWTX-PQ511jOtySRsgkhsSw~XXWz-9MSe5S-JFk6Cek8Oe-kB2Ay3PmBAedzLFtW7cHxxQgbVntE1iIdaIJ7hrvJSQa0d2rEMkN3xwIW9wf3CWgjZfQc6qxA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi prima quiere que reservemos hoy.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "95d7c688-fd91-4eee-bb68-02f347c3ff7d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1d1842fc32384b29b6626eecf558aaf3_b06-mis-tios-prefieren-que-nos-quedemos-cerca-del-centro.mp3?Expires=1794099632&Signature=w~~EgiT9BMk15790l82itYD3PjmDUO9q5880CLhzfmDS35OXEiz81mOgyD4HR5vI8eECPSFwMiItNTfsIoE5dMOhPn9PixylbOySxyizeXo6onjhbsLB5nyUSBficQ0PpOpL9inzT4Cl19I2zECfW-flzCGakQkbrO36TN~wQ~BW2LTQkip2CUkUnztHNiALqSC65Kwj6stIANTLqBd4FDjtfe7SVGfAbf1PBo-lZkMNezrNfOxc-ziHT-s~m5CXFjbE-ueghxZVP~8nCqFmX24ukWPTsXko1CYH3AXIgHnXdjATxiI1thtIgau0Dq5yUrFmVMNaseUDsecbk9YoJA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mis tíos prefieren que nos quedemos cerca del centro.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "55c6bd71-4124-4d00-bda9-8e50f7535b24",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7a8624f65e24464485bbc7e9500fd6d9_b08-entonces-espero-que-encontremos-algo-hoy.mp3?Expires=1794099632&Signature=s7dY6fHkFzC-VGZUMDVAGd68nrN2EpeCvCjPnt9ZQfGs4w1NsSul800J~j7CNyKx4AxNhbcdZ0RNNF9ynMfxyprhZSLiJFUlHvPw-lKg-pQqAJlYjY4uxlA1fVvi0t547V-SMBlYyUh8AdFXuoXCjHJ7lGecEByvsomARyyB55a37EmycsBOAuiX1O89hxRVT2WBdHW-MgE6L0txRhzKZJNHq0b7xemZpjC3Np5q1hTRhQJ2KDpGw4J6w5Bn~URnY7L5ak5FgXLabJlP~36z3GVYYiUkBYCHX7yPxSr7vWZnUrja7KeESZaA4~o-jR97osiSkegJdjQO41s25Ur1cQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Entonces espero que encontremos algo hoy.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+    "attemptId": "51720262-a2c2-47ae-bf74-285a41c639b8",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "085feda2-9090-4a14-91da-27eee607a72b",
+      "0cf94a4f-08ad-4bb0-a67d-a222c6d16e76",
+      "3255f5c1-041f-4361-8d1a-ee7f533a651c",
+      "0e94f191-f44d-47ea-bac5-a02e6a8f8933",
+      "91501603-5f1a-47a9-98ee-5b1366f3ee3b"
+    ],
+    "evaluationExerciseIds": [
+      "7a292520-6fd5-4424-9d2b-6986504ce1bc",
+      "17e2d517-5233-48bb-9580-ca16c0cd4165",
+      "3f5472df-7684-4873-abd2-7438617cd5c1",
+      "bbb8b60e-a64a-4413-a909-bb15dc9e2dd5",
+      "71c68907-984c-43dc-8ab2-2b02da441e61"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:03.3296308Z"
+  },
+  "contents": [
+    {
+      "id": "64dcf298-3c28-4acb-a746-fbba916eca35",
+      "title": "Leia o mapa e observe as três perguntas que guiam a busca.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "b083732c-696a-48ef-9d5b-076df50dc037",
+          "textContent": "<p>Ao ler um perfil de busca, tente separar três coisas:</p><ul><li><strong>o que a pessoa precisa</strong></li><li><strong>o que ela aceita</strong></li><li><strong>o que ela descarta</strong></li></ul><p>Em espanhol, essas pistas costumam aparecer em frases curtas. Nesta aula, você vai ler perfis e anúncios com esse filtro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8b7fab7c-c827-4a47-8693-9ab6bb44284e",
+      "title": "Escute e leia o perfil. Note o que é necessário e o que aparece apenas como vantagem.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "10361df9-2a03-4527-8096-40a7fffdf0cf",
+          "textContent": "<p>Primeiro perfil:</p><p><strong>Busco un alquiler cerca del trabajo.</strong></p><p><strong>Necesito que esté amueblado.</strong></p><p><strong>Si es luminoso, mejor.</strong></p><p>Em português: a pessoa procura um aluguel perto do trabalho, precisa que ele seja mobiliado e vê a luminosidade como um ponto positivo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/32340caae49a4f6080ea85fd3cabcb02_b02-primer-perfil.mp3?Expires=1794099603&Signature=06hQVigi2Fq9dhoedL9J7CIUl70t3S~xRzUNiSn7PrRw~~6-rIVPDbqbSVbAZFZtGADR46xd2eLoVitVdFxZnluGear0KJVvaidk6hxQbukHrywMeR-8Q8u2axIp4biRPiYCpjB1NviT5of3X684RN~A1Egt3KqPgt31ji2yto~4RHPTbxFp1UaLroOhPV-b-lKat4zcG3uJEx1cGb8o1UDvNmKL9dpibR9XgdRgp1QJ5M--JJcOCuviV57VaXVj9ZOT2YEg1qA0mN321oT5gOGLQByfsn5EERNwQycWwaNst6mDBKi7eSXAhMMa1RS1sY57cru7NjLH-fg3H1ejQw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e47a5066-5e1f-4d87-8ad1-1828ef0fa47c",
+      "title": "Leia a nota curta e compare o peso de `Necesito...` com `Si..., mejor.`",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "1f6de3ce-7906-44f4-b6d8-bf264195a9b8",
+          "textContent": "<p><strong>Necesito...</strong> marca algo que entra como requisito da busca.</p><p><strong>Si es luminoso, mejor.</strong> não muda a busca inteira; só mostra uma preferência que ajuda na decisão.</p><p><strong>Busco un alquiler...</strong> abre o quadro geral. Depois, as outras frases refinam esse quadro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "29ec3a9a-eafc-4ea5-a0bb-9bbaeae97658",
+      "title": "Escute e leia o perfil. Observe como o texto mostra teto de gasto, opção aceitável e algo descartado.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "890b75d2-18a1-4ee8-9bc5-2c011f78f26f",
+          "textContent": "<p>Segundo perfil:</p><p><strong>Mi presupuesto es de 900 euros.</strong></p><p><strong>Me basta con un estudio pequeño.</strong></p><p><strong>Descarto un piso sin gastos incluidos.</strong></p><p>Em português: a pessoa tem um teto de 900 euros, aceita um estudio pequeno e exclui um imóvel sem despesas incluídas.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/86a1b54bb0564b4caa2b6dbb2aa23aad_b04-segundo-perfil.mp3?Expires=1794099603&Signature=TfYcH9kgJhIOZEWMwyMd1lV4NepU8zsn~3mCl68mqtttwsH4dnxwevaO0UYcn6lGyV1zIa5lKXBnAoHg3lWFgZpFKzQLBOVja81Su~y4QmkBsBKJXZiFjEUB7P92~sM~-v8bOWa3wyLQvhbmLnPfk2tjJx050xKG6zPYqyqdTg5OSqYyIIJIdOrXcRJaSqxnMMumsr6OWfFo17xUMqWRHr56IcPnRQJfK7Dao~HWgsbKbCsMHf7t92be80Q-jnSUd54jc4VeRyd-GZV-y-mvHuryb72rhFQvacNFHaXp7LlMFbOndSCmIw45xDLJaSl4XAQF6VtpbMaO4gpsROPjkg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "96f81a17-b25e-42a1-905b-2a39ddd776f7",
+      "title": "Leia o mapa e ligue cada expressão ao papel que ela cumpre no perfil.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "7983db93-5eb4-491e-b4c6-f67f69514e0d",
+          "textContent": "<p>Três sinais úteis nesta aula:</p><ul><li><strong>Mi presupuesto es...</strong> mostra um limite concreto.</li><li><strong>Me basta con...</strong> mostra o mínimo aceitável.</li><li><strong>Descarto...</strong> mostra o que fica fora da busca.</li></ul><p>Com esse mapa, você não precisa entender cada palavra do texto para captar a necessidade principal.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "706ce2d2-664e-49e9-afde-1d93a4131148",
+      "title": "Escute e leia o anúncio. Observe como os dados aparecem de forma mais compacta do que em um perfil.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "b0ff886b-a7d5-42a2-953f-6fa3775a9878",
+          "textContent": "<p>Anúncio curto:</p><p><strong>Estudio amueblado y luminoso por 850 euros, con gastos incluidos.</strong></p><p>Em português: estudio mobiliado e iluminado por 850 euros, com despesas incluídas.</p><p>Um anúncio costuma condensar a informação. O trabalho aqui é bater esses dados com o filtro da pessoa que busca.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c7ec1a4810364991b9abda51c86134a2_b06-anuncio-corto.mp3?Expires=1794099603&Signature=AzwM~yvh4rIcXfvw~bFXRzJ0SYIpTzyMcrGhM8VWIEnp0VwpZWMO2r~gqVVCcwu7~r8hCn6gpmYtQkgQ1eTiIjKmM3n7LMx0entkX28Fn6~kcFZz4~ZNUJjZu2YXDZGK7kMPw9B4w~QvRLRohyECw57nkVUBbCRjLuwoKilFcNswZyPFB5Ba1NBpHaJ8c17uqsExYpziq8f0Za9naNSFL67-ZqtGTfNN2PljO2wcsm-2eHHQDAlnYTDXr2kH0KtyiZGbsU244vOYqfWlw74wTobrBILPqHWLB5mXdJXFcd6eHmzKl7erwPVXFadAQF3UfrZ6WDkCHd6Shb6VshGYJg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "748d5b3a-1caa-4f89-98b4-7c9d5a5216bc",
+      "title": "Leia o resumo final e conecte o filtro da aula a anúncios, sites e mensagens sobre aluguel.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "17c7a3b7-23a0-48b9-913f-0b8c395ea0f1",
+          "textContent": "<p>Antes de escolher um imóvel, este filtro já ajuda muito:</p><ul><li><strong>Necesito...</strong> para o que não é negociável</li><li><strong>Me basta con...</strong> para o que já serve</li><li><strong>Descarto...</strong> para o que sai da busca</li></ul><p>Em situações reais, você lê mais rápido quando procura sinais como <strong>amueblado</strong>, <strong>gastos incluidos</strong> e um valor que cabe no <strong>presupuesto</strong>.</p><p>Isso vale ao ler perfis de outras pessoas, anúncios de aluguel e mensagens curtas em sites de moradia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "085feda2-9090-4a14-91da-27eee607a72b",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a linha do anúncio curto.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a linha do anúncio curto.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6320194f3f8341e4a421f195c6fd8e11_b06-anuncio-corto.mp3?Expires=1794099603&Signature=gITpJgw-lVZ-~~k9zZuZ1XXEhJJwQVkiyG5lJcUHu7m15okEKBv7E9h9AlbuIARd5uVrys1VS9KsvrwyIW42RuJL2nbgMn4uCbmc-k8b6RTK-aavE3FBKUoyUNpJTjDGL-Qdc0-vnX-H~xzRmj6UehL4qSGGwiUlchuU5ZG78ct9xRqepHNRE5XQBY69gu-its1-AvHFIo~2kXAhC-BUYDGDCGGxFUAwliEWEsq9L06fnu8CuaM2u1Q5p3ftIOkcU7rxLxR0wlOdrafi34EJsfLz6mnTQbw1T5U3Qc-VqKALLvo5ENXHWuce~4Llz~y~rgUoB6xTM3IvpO-d7dD7qg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O anúncio curto concentra mobília, luz, preço e gastos em uma linha.",
+      "feedbackError": "O anúncio curto concentra mobília, luz, preço e gastos em uma linha.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Estudio amueblado y luminoso por 850 euros, con gastos incluidos.",
+      "typeSpecificData": "{\"expectedText\":\"Estudio amueblado y luminoso por 850 euros, con gastos incluidos.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/6320194f3f8341e4a421f195c6fd8e11_b06-anuncio-corto.mp3?Expires=1794099603\\u0026Signature=gITpJgw-lVZ-~~k9zZuZ1XXEhJJwQVkiyG5lJcUHu7m15okEKBv7E9h9AlbuIARd5uVrys1VS9KsvrwyIW42RuJL2nbgMn4uCbmc-k8b6RTK-aavE3FBKUoyUNpJTjDGL-Qdc0-vnX-H~xzRmj6UehL4qSGGwiUlchuU5ZG78ct9xRqepHNRE5XQBY69gu-its1-AvHFIo~2kXAhC-BUYDGDCGGxFUAwliEWEsq9L06fnu8CuaM2u1Q5p3ftIOkcU7rxLxR0wlOdrafi34EJsfLz6mnTQbw1T5U3Qc-VqKALLvo5ENXHWuce~4Llz~y~rgUoB6xTM3IvpO-d7dD7qg__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0cf94a4f-08ad-4bb0-a67d-a222c6d16e76",
+      "title": "Escute perfil e anúncio",
+      "content": "<p>Associe cada gravação ao texto correspondente e note a passagem do perfil pessoal para a oferta concreta.</p>",
+      "contentPlain": "Associe cada gravação ao texto correspondente e note a passagem do perfil pessoal para a oferta concreta.",
+      "fileUrl": null,
+      "feedbackSuccess": "O anúncio condensa dados que nos perfis aparecem em frases separadas.",
+      "feedbackError": "O anúncio condensa dados que nos perfis aparecem em frases separadas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "3d8413cd-b366-44ce-8ead-acfca60c7606",
+          "exerciseId": "0cf94a4f-08ad-4bb0-a67d-a222c6d16e76",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c412968202741388870a93e65387525_b02-primer-perfil.mp3?Expires=1794099603&Signature=F1A7T6vwB7CHEcr1nw4GP~b-WllE1G1Nm-3oihPtkg1iuRp2OMkuHt2fWMRcrUd1ZcYlJRagDVLfNLq8x6-eXGZjLYwdvOBXraXFpPLNLIzmbBfoorgVwC32o204dCVn00M9lvjTyNXcyZooAWpinhsV~sgqqpVPUCTf-MOEuUJhcV3YGc3mCgVE2dtrKhtMqH7-nzuEGf0IgfDErWug5cJo~PB7NUaLfbNTWqI-2mVrq53AFkwaFFmXz-GXq27M4VUJ5x7yXGLVg-NQ6p9gWnSOx83yaeTDLKqSqZ2Kl4ASeq6bZunEBYE3NOBj2vUoN8Nr4ZWF1fSCKMikqwyDYA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Busco un alquiler cerca del trabajo. Necesito que esté amueblado. Si es luminoso, mejor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7b25840b-55a2-47a1-982c-c77940d2f0e6",
+          "exerciseId": "0cf94a4f-08ad-4bb0-a67d-a222c6d16e76",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6320194f3f8341e4a421f195c6fd8e11_b06-anuncio-corto.mp3?Expires=1794099603&Signature=gITpJgw-lVZ-~~k9zZuZ1XXEhJJwQVkiyG5lJcUHu7m15okEKBv7E9h9AlbuIARd5uVrys1VS9KsvrwyIW42RuJL2nbgMn4uCbmc-k8b6RTK-aavE3FBKUoyUNpJTjDGL-Qdc0-vnX-H~xzRmj6UehL4qSGGwiUlchuU5ZG78ct9xRqepHNRE5XQBY69gu-its1-AvHFIo~2kXAhC-BUYDGDCGGxFUAwliEWEsq9L06fnu8CuaM2u1Q5p3ftIOkcU7rxLxR0wlOdrafi34EJsfLz6mnTQbw1T5U3Qc-VqKALLvo5ENXHWuce~4Llz~y~rgUoB6xTM3IvpO-d7dD7qg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estudio amueblado y luminoso por 850 euros, con gastos incluidos.",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "3255f5c1-041f-4361-8d1a-ee7f533a651c",
+      "title": "Escolha a preferência",
+      "content": "<p>Qual frase do material marca uma vantagem desejável, mas não obrigatória?</p>",
+      "contentPlain": "Qual frase do material marca uma vantagem desejável, mas não obrigatória?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, Si es luminoso, mejor. marca preferência, enquanto Necesito... marca requisito.",
+      "feedbackError": "Nesta aula, Si es luminoso, mejor. marca preferência, enquanto Necesito... marca requisito.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "18b1ecf8-1ce7-44a9-9462-a7e2bcfea4c1",
+          "textContent": "Busco un alquiler cerca del trabajo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3255f5c1-041f-4361-8d1a-ee7f533a651c"
+        },
+        {
+          "id": "5b305e67-8ed1-4885-a987-8fb033777dfa",
+          "textContent": "Mi presupuesto es de 900 euros.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3255f5c1-041f-4361-8d1a-ee7f533a651c"
+        },
+        {
+          "id": "a35daebd-bea4-4b75-bc0f-bdaa250c7c78",
+          "textContent": "Necesito que esté amueblado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3255f5c1-041f-4361-8d1a-ee7f533a651c"
+        },
+        {
+          "id": "bda5133b-5603-459b-a49b-98716a96b9fe",
+          "textContent": "Si es luminoso, mejor.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3255f5c1-041f-4361-8d1a-ee7f533a651c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "0e94f191-f44d-47ea-bac5-a02e6a8f8933",
+      "title": "Ligue expressão e função",
+      "content": "<p>Recupere o mapa da aula ligando cada forma a sua função na leitura do perfil.</p>",
+      "contentPlain": "Recupere o mapa da aula ligando cada forma a sua função na leitura do perfil.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa da aula separa limite, suficiente e descarte para ler perfis mais rápido.",
+      "feedbackError": "O mapa da aula separa limite, suficiente e descarte para ler perfis mais rápido.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "70860ce7-ec48-40f6-855a-38bef29b790d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0e94f191-f44d-47ea-bac5-a02e6a8f8933"
+        },
+        {
+          "id": "de2ef644-98f3-4e1d-a38d-80948ccd71f7",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0e94f191-f44d-47ea-bac5-a02e6a8f8933"
+        }
+      ],
+      "associations": [
+        {
+          "id": "868f5480-7792-4ae6-a8d8-ba48d1c0d997",
+          "exerciseId": "0e94f191-f44d-47ea-bac5-a02e6a8f8933",
+          "leftContent": "Mi presupuesto es...",
+          "rightContent": "limite concreto",
+          "sequenceItem": 1
+        },
+        {
+          "id": "76b6b7a8-f2cf-4d42-9a1c-96b881dcd7ed",
+          "exerciseId": "0e94f191-f44d-47ea-bac5-a02e6a8f8933",
+          "leftContent": "Me basta con...",
+          "rightContent": "mínimo aceitável",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b7584bbd-bd93-48ef-8886-3523e9508f26",
+          "exerciseId": "0e94f191-f44d-47ea-bac5-a02e6a8f8933",
+          "leftContent": "Descarto...",
+          "rightContent": "o que fica fora da busca",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "91501603-5f1a-47a9-98ee-5b1366f3ee3b",
+      "title": "Identifique as palavras-chave do perfil",
+      "content": "<p>Marque apenas as palavras que você ouve e que ajudam a localizar limite e condição do imóvel.</p>",
+      "contentPlain": "Marque apenas as palavras que você ouve e que ajudam a localizar limite e condição do imóvel.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a1a766c985e453baf37b507a34e15b8_b04-segundo-perfil.mp3?Expires=1794099603&Signature=HKSab3S8JDy22p3GUuDgFHBHtBIXfXaMdYtzPTQxuheWo1KiDJI6xxWCCwhHalPzJ8JWo5g2729J-DfgHV3YS40yY0kXbSgTXmlDJC4xIq7RHV7Yu0LY2lFMFG2o1WqR3uJTGmWy9W4zaSGOnj9buIaTJJ0rOdEhh6w7f6bAJU6TsdQN0A4HjhKh0BHNcoREHICUgJPK~Bniljff~buE4ZwVaYSHWEBwTYgAgx-Hv1ds~rs73c56YA7ivQLlE81fq7WNTW~Z0h0Y7Afwggq0kwFJMy1Mj1AqH7~75mGnitjmKweVddsj7Vcr-kTJ072AzVpPsj1dBRLxZCtlALQ09A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No segundo perfil, presupuesto, estudio e gastos ajudam a localizar limite e descarte.",
+      "feedbackError": "No segundo perfil, presupuesto, estudio e gastos ajudam a localizar limite e descarte.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0b74fbc7-1f07-4ce3-973d-4c6a9741df2f",
+          "textContent": "estudio",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91501603-5f1a-47a9-98ee-5b1366f3ee3b"
+        },
+        {
+          "id": "29750622-7f11-404e-9b3b-7307fe28f3af",
+          "textContent": "gastos",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91501603-5f1a-47a9-98ee-5b1366f3ee3b"
+        },
+        {
+          "id": "52e47512-a383-4dba-90be-c812695beafa",
+          "textContent": "amueblado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "91501603-5f1a-47a9-98ee-5b1366f3ee3b"
+        },
+        {
+          "id": "c9a44b38-b830-48ba-b69c-efc62fc64a0c",
+          "textContent": "luminoso",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "91501603-5f1a-47a9-98ee-5b1366f3ee3b"
+        },
+        {
+          "id": "f8727e67-c09c-4274-9f54-77172ee6379f",
+          "textContent": "trabajo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "91501603-5f1a-47a9-98ee-5b1366f3ee3b"
+        },
+        {
+          "id": "fc0f3b94-976e-4b6e-b107-87fee4ba20c1",
+          "textContent": "presupuesto",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "91501603-5f1a-47a9-98ee-5b1366f3ee3b"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "7a292520-6fd5-4424-9d2b-6986504ce1bc",
+      "title": "Complete o critério de descarte",
+      "content": "<p>Descarto un piso sin ______ incluidos.</p><p>Tradução: Descarto um imóvel sem despesas incluídas.</p>",
+      "contentPlain": "Descarto un piso sin ______ incluidos. Tradução: Descarto um imóvel sem despesas incluídas.",
+      "fileUrl": null,
+      "feedbackSuccess": "No segundo perfil, gastos incluidos define o que ainda entra ou sai da busca.",
+      "feedbackError": "No segundo perfil, gastos incluidos define o que ainda entra ou sai da busca.",
+      "answerType": "buildWord",
+      "expectedAnswer": "gastos",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "17e2d517-5233-48bb-9580-ca16c0cd4165",
+      "title": "Recupere os três textos centrais",
+      "content": "<p>Ligue cada gravação ao texto certo para recuperar os perfis e o anúncio que estruturam a aula.</p>",
+      "contentPlain": "Ligue cada gravação ao texto certo para recuperar os perfis e o anúncio que estruturam a aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os três áudios retomam perfil com requisito, perfil com limite e anúncio compacto.",
+      "feedbackError": "Os três áudios retomam perfil com requisito, perfil com limite e anúncio compacto.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "87f87355-a803-4a04-afe6-d009223bb51e",
+          "exerciseId": "17e2d517-5233-48bb-9580-ca16c0cd4165",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8c412968202741388870a93e65387525_b02-primer-perfil.mp3?Expires=1794099603&Signature=F1A7T6vwB7CHEcr1nw4GP~b-WllE1G1Nm-3oihPtkg1iuRp2OMkuHt2fWMRcrUd1ZcYlJRagDVLfNLq8x6-eXGZjLYwdvOBXraXFpPLNLIzmbBfoorgVwC32o204dCVn00M9lvjTyNXcyZooAWpinhsV~sgqqpVPUCTf-MOEuUJhcV3YGc3mCgVE2dtrKhtMqH7-nzuEGf0IgfDErWug5cJo~PB7NUaLfbNTWqI-2mVrq53AFkwaFFmXz-GXq27M4VUJ5x7yXGLVg-NQ6p9gWnSOx83yaeTDLKqSqZ2Kl4ASeq6bZunEBYE3NOBj2vUoN8Nr4ZWF1fSCKMikqwyDYA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Busco un alquiler cerca del trabajo. Necesito que esté amueblado. Si es luminoso, mejor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "88c780d6-ff44-4872-af8d-3ed9ad7caaf4",
+          "exerciseId": "17e2d517-5233-48bb-9580-ca16c0cd4165",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a1a766c985e453baf37b507a34e15b8_b04-segundo-perfil.mp3?Expires=1794099603&Signature=HKSab3S8JDy22p3GUuDgFHBHtBIXfXaMdYtzPTQxuheWo1KiDJI6xxWCCwhHalPzJ8JWo5g2729J-DfgHV3YS40yY0kXbSgTXmlDJC4xIq7RHV7Yu0LY2lFMFG2o1WqR3uJTGmWy9W4zaSGOnj9buIaTJJ0rOdEhh6w7f6bAJU6TsdQN0A4HjhKh0BHNcoREHICUgJPK~Bniljff~buE4ZwVaYSHWEBwTYgAgx-Hv1ds~rs73c56YA7ivQLlE81fq7WNTW~Z0h0Y7Afwggq0kwFJMy1Mj1AqH7~75mGnitjmKweVddsj7Vcr-kTJ072AzVpPsj1dBRLxZCtlALQ09A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi presupuesto es de 900 euros. Me basta con un estudio pequeño. Descarto un piso sin gastos incluidos.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e9d8761c-ca58-4227-9021-e88622a81882",
+          "exerciseId": "17e2d517-5233-48bb-9580-ca16c0cd4165",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6320194f3f8341e4a421f195c6fd8e11_b06-anuncio-corto.mp3?Expires=1794099603&Signature=gITpJgw-lVZ-~~k9zZuZ1XXEhJJwQVkiyG5lJcUHu7m15okEKBv7E9h9AlbuIARd5uVrys1VS9KsvrwyIW42RuJL2nbgMn4uCbmc-k8b6RTK-aavE3FBKUoyUNpJTjDGL-Qdc0-vnX-H~xzRmj6UehL4qSGGwiUlchuU5ZG78ct9xRqepHNRE5XQBY69gu-its1-AvHFIo~2kXAhC-BUYDGDCGGxFUAwliEWEsq9L06fnu8CuaM2u1Q5p3ftIOkcU7rxLxR0wlOdrafi34EJsfLz6mnTQbw1T5U3Qc-VqKALLvo5ENXHWuce~4Llz~y~rgUoB6xTM3IvpO-d7dD7qg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Estudio amueblado y luminoso por 850 euros, con gastos incluidos.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "3f5472df-7684-4873-abd2-7438617cd5c1",
+      "title": "Ligue frase e decisão",
+      "content": "<p>Recupere o filtro final da aula ligando cada frase em espanhol ao tipo de decisão que ela expressa.</p>",
+      "contentPlain": "Recupere o filtro final da aula ligando cada frase em espanhol ao tipo de decisão que ela expressa.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final transforma as frases da aula em filtro de decisão reutilizável.",
+      "feedbackError": "O recap final transforma as frases da aula em filtro de decisão reutilizável.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "56352784-b8d8-4298-aecb-ea38a837ca71",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3f5472df-7684-4873-abd2-7438617cd5c1"
+        },
+        {
+          "id": "8b2fb7a0-3157-4498-aa00-86c71fa54605",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3f5472df-7684-4873-abd2-7438617cd5c1"
+        }
+      ],
+      "associations": [
+        {
+          "id": "fc05e6c6-defc-4546-9319-027d2d9a5787",
+          "exerciseId": "3f5472df-7684-4873-abd2-7438617cd5c1",
+          "leftContent": "Necesito que esté amueblado.",
+          "rightContent": "não negociável",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ab1418b2-ebcc-4b18-9a00-1f8cf8ab7a92",
+          "exerciseId": "3f5472df-7684-4873-abd2-7438617cd5c1",
+          "leftContent": "Me basta con un estudio pequeño.",
+          "rightContent": "já serve",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4a67f9a7-6425-4429-b544-20700f39f40d",
+          "exerciseId": "3f5472df-7684-4873-abd2-7438617cd5c1",
+          "leftContent": "Descarto un piso sin gastos incluidos.",
+          "rightContent": "fica fora da busca",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "bbb8b60e-a64a-4413-a909-bb15dc9e2dd5",
+      "title": "Decida se o anúncio serve",
+      "content": "<p>Considere estes dados da aula:</p><p><strong>Mi presupuesto es de 900 euros.</strong></p><p><strong>Descarto un piso sin gastos incluidos.</strong></p><p><strong>Estudio amueblado y luminoso por 850 euros, con gastos incluidos.</strong></p><p>Qual conclusão combina com essa leitura?</p>",
+      "contentPlain": "Considere estes dados da aula: Mi presupuesto es de 900 euros. Descarto un piso sin gastos incluidos. Estudio amueblado y luminoso por 850 euros, con gastos incluidos. Qual conclusão combina com essa leitura?",
+      "fileUrl": null,
+      "feedbackSuccess": "No segundo perfil, 850 euros e gastos incluidos respondem ao limite e ao descarte.",
+      "feedbackError": "No segundo perfil, 850 euros e gastos incluidos respondem ao limite e ao descarte.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "06a8caf5-439a-4d3e-a24f-f5f9233f5190",
+          "textContent": "O anúncio não atende esse perfil porque passa de 900 euros.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bbb8b60e-a64a-4413-a909-bb15dc9e2dd5"
+        },
+        {
+          "id": "357ce9dc-4efa-46b2-b838-527c46529399",
+          "textContent": "O anúncio não atende esse perfil porque falta amueblado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bbb8b60e-a64a-4413-a909-bb15dc9e2dd5"
+        },
+        {
+          "id": "3c60561a-739b-44f0-b8a3-a7805c2e503e",
+          "textContent": "O anúncio atende esse perfil porque cabe no presupuesto e traz gastos incluidos.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bbb8b60e-a64a-4413-a909-bb15dc9e2dd5"
+        },
+        {
+          "id": "876a42d2-1894-49f6-a2c0-4732da010af7",
+          "textContent": "O anúncio só serviria se dissesse cerca del trabajo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bbb8b60e-a64a-4413-a909-bb15dc9e2dd5"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "71c68907-984c-43dc-8ab2-2b02da441e61",
+      "title": "Complete a necessidade do perfil",
+      "content": "<p>Necesito que esté _________.</p><p>Tradução: Preciso que esteja mobiliado.</p>",
+      "contentPlain": "Necesito que esté _________. Tradução: Preciso que esteja mobiliado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Amueblado aparece como requisito direto no primeiro perfil.",
+      "feedbackError": "Amueblado aparece como requisito direto no primeiro perfil.",
+      "answerType": "buildWord",
+      "expectedAnswer": "amueblado",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Mapear necessidades de moradia"
+}

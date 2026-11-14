@@ -1,0 +1,568 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+    "attemptId": "dea13c4c-fbad-4ac6-9872-b42ecaafdb07",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "3a8cf629-1c71-4e62-a931-ba980eb390d4",
+      "a7fded57-325b-408e-9e9b-cf1e749aa69f",
+      "1aedd080-8c9a-4d64-a3ed-720fe0b39d9c",
+      "87031634-ae2c-4e31-9501-c46f2be8dd97",
+      "f01c7a86-7359-4afd-9be1-7c6d350c9757"
+    ],
+    "evaluationExerciseIds": [
+      "857b7a69-08e6-408c-9d04-5d66d7e711be",
+      "d00da921-3ab5-4618-9ebb-70b333545d70",
+      "877ad655-421d-45dc-83c5-a1ba7e29fc92",
+      "cded7de9-c7cd-4a6b-bd0f-db403e228ad4",
+      "814514d0-eb38-478c-b0dc-74ba2cc746e3"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:47.5505463Z"
+  },
+  "contents": [
+    {
+      "id": "cfffef3f-c58e-401f-9bfa-68f8ec3dcdf0",
+      "title": "Leia o contexto e observe o que ainda precisa ser decidido antes do envio da candidatura.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "107860b9-c76a-4363-8ae1-2bd2835b82b4",
+          "textContent": "<p>Marina quer se candidatar a uma vaga remota de atendimento ao cliente.</p><p>Ela ainda precisa adaptar o CV e decidir se manda a solicitação hoje ou se espera mais dois dias.</p><p>Nesta aula, o foco é fechar essa escolha em espanhol com uma recomendação clara e um plano curto de ação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "66aca51a-ceb5-4958-b0a8-f97ac735ba94",
+      "title": "Leia a frase em espanhol e note como a recomendação já escolhe um primeiro passo concreto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "dde80ece-0c8f-4412-adaa-e1e879b47f30",
+          "textContent": "<p><strong>Te recomiendo que adaptes el CV hoy.</strong></p><p>Em português: Eu recomendo que você adapte o CV hoje.</p><p>A recomendação fica clara porque escolhe uma ação concreta e imediata, sem abrir muitas possibilidades ao mesmo tempo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "19b0ae46-f55c-4fe4-af8c-230ea2bf2556",
+      "title": "Leia a frase e observe como a reserva enfraquece a outra opção sem mudar a decisão principal.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "3c6a7df4-78de-43ef-839b-f2e48b42020f",
+          "textContent": "<p><strong>No creo que sea buena idea esperar hasta el viernes.</strong></p><p>Em português: Não acho que seja uma boa ideia esperar até sexta-feira.</p><p>A reserva aqui não bloqueia a decisão principal; ela só mostra por que a outra opção parece mais fraca.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6ffb03c5-825e-48c4-b3f5-fcadefed0621",
+      "title": "Leia as frases e acompanhe a ordem entre terminar o CV, enviar a solicitação e confirmar o envio.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "11616516-74c3-4053-899b-8cc8b45201ba",
+          "textContent": "<p>Depois da recomendação, o plano precisa andar em ordem.</p><p><strong>Cuando tengas el CV listo, manda la solicitud.</strong></p><p><strong>En cuanto la mandes, confirma el envío.</strong></p><p>Em português: Quando você tiver o CV pronto, envie a candidatura. Assim que enviar, confirme o envio.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4f7334fd-98f2-4f50-96cc-e21b7f43670e",
+      "title": "Leia o esquema e observe a ordem entre escolher, frear uma alternativa e sequenciar o plano.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "e9bf6707-2e5c-42dc-a25c-ec53656af56d",
+          "textContent": "<p>Um fechamento claro costuma caber em três movimentos curtos:</p><ol><li><strong>escolher e recomendar</strong>: <strong>Te recomiendo que...</strong></li><li><strong>frear a alternativa fraca</strong>: <strong>No creo que sea buena idea...</strong></li><li><strong>ordenar o plano</strong>: <strong>Cuando...</strong> / <strong>En cuanto...</strong></li></ol><p>Essa ordem ajuda a transformar opinião em ação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "26d19397-5423-4872-8178-46278a7f19de",
+      "title": "Leia o modelo completo e observe como a mensagem continua curta mesmo juntando as três peças da aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "de0ea88c-00cd-46d2-acc5-a7ca38b65b81",
+          "textContent": "<p><strong>Esta vacante encaja mejor.</strong></p><p><strong>Te recomiendo que adaptes el CV hoy, porque no creo que sea buena idea esperar hasta el viernes.</strong></p><p><strong>Cuando tengas el CV listo, manda la solicitud y, en cuanto la mandes, confirma el envío.</strong></p><p>Em português: a mensagem escolhe uma opção, afasta a alternativa mais fraca e fecha com os próximos passos.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "28bcdc35-a1a1-4126-ae08-58b7d630cbc2",
+      "title": "Leia o resumo final e ligue cada parte da aula a situações em que você precisa orientar uma decisão curta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "fef204a6-0ae0-461c-9dad-3d167307e5dd",
+          "textContent": "<p>Para fechar uma escolha em espanhol, você já pode combinar três peças:</p><ul><li><strong>te recomiendo que...</strong> para orientar a melhor ação</li><li><strong>no creo que sea buena idea...</strong> para marcar uma reserva breve</li><li><strong>cuando...</strong> / <strong>en cuanto...</strong> para ordenar o que vem depois</li></ul><p>Isso serve para situações reais como enviar uma candidatura, confirmar uma entrevista, organizar uma inscrição em curso ou decidir o próximo passo de um projeto curto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "3a8cf629-1c71-4e62-a931-ba980eb390d4",
+      "title": "Ligue marcador e passo",
+      "content": "<p>Recupere a ordem curta do plano relacionando cada início ao próximo movimento correto.</p>",
+      "contentPlain": "Recupere a ordem curta do plano relacionando cada início ao próximo movimento correto.",
+      "fileUrl": null,
+      "feedbackSuccess": "O plano da aula fica claro porque cada marcador temporal empurra a ação seguinte na ordem certa.",
+      "feedbackError": "O plano da aula fica claro porque cada marcador temporal empurra a ação seguinte na ordem certa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7661dced-48d2-4d8f-b15b-4a7136c17206",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3a8cf629-1c71-4e62-a931-ba980eb390d4"
+        },
+        {
+          "id": "9a306b62-5900-4bf5-9f59-833a4ddb2106",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3a8cf629-1c71-4e62-a931-ba980eb390d4"
+        }
+      ],
+      "associations": [
+        {
+          "id": "d467b22c-b2d5-4775-bd29-01405e822331",
+          "exerciseId": "3a8cf629-1c71-4e62-a931-ba980eb390d4",
+          "leftContent": "Cuando tengas el CV listo",
+          "rightContent": "manda la solicitud",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4851dbcf-d9ac-44b2-9a22-0bc3bf826b8a",
+          "exerciseId": "3a8cf629-1c71-4e62-a931-ba980eb390d4",
+          "leftContent": "En cuanto la mandes",
+          "rightContent": "confirma el envío",
+          "sequenceItem": 2
+        }
+      ]
+    },
+    {
+      "id": "a7fded57-325b-408e-9e9b-cf1e749aa69f",
+      "title": "Complete o primeiro passo",
+      "content": "<p>Complete em espanhol: Cuando ______ el CV listo, manda la solicitud.</p><p>Tradução: Quando você tiver o CV pronto, envie a candidatura.</p>",
+      "contentPlain": "Complete em espanhol: Cuando ______ el CV listo, manda la solicitud. Tradução: Quando você tiver o CV pronto, envie a candidatura.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa cuando para ligar a recomendação ao primeiro passo concreto do plano.",
+      "feedbackError": "A aula usa cuando para ligar a recomendação ao primeiro passo concreto do plano.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tengas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1aedd080-8c9a-4d64-a3ed-720fe0b39d9c",
+      "title": "Escolha a recomendação central",
+      "content": "<p>Qual frase em espanhol orienta a melhor ação imediata antes do envio da candidatura?</p>",
+      "contentPlain": "Qual frase em espanhol orienta a melhor ação imediata antes do envio da candidatura?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula abre o fechamento com uma recomendação clara antes da reserva e dos próximos passos.",
+      "feedbackError": "A aula abre o fechamento com uma recomendação clara antes da reserva e dos próximos passos.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6cd04f76-868e-48a9-a015-2b71ff7fe9b8",
+          "textContent": "Cuando tengas el CV listo, manda la solicitud.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1aedd080-8c9a-4d64-a3ed-720fe0b39d9c"
+        },
+        {
+          "id": "8e6ba64d-f488-44aa-b021-6a16359e2e35",
+          "textContent": "Te recomiendo que adaptes el CV hoy.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1aedd080-8c9a-4d64-a3ed-720fe0b39d9c"
+        },
+        {
+          "id": "c2975345-6195-40f4-a434-5791652e89a0",
+          "textContent": "Esta vacante encaja mejor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1aedd080-8c9a-4d64-a3ed-720fe0b39d9c"
+        },
+        {
+          "id": "ce6343f1-15dc-482e-87bb-b8267b8ad006",
+          "textContent": "No creo que sea buena idea esperar hasta el viernes.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1aedd080-8c9a-4d64-a3ed-720fe0b39d9c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "87031634-ae2c-4e31-9501-c46f2be8dd97",
+      "title": "Ligue estrutura e função",
+      "content": "<p>Relacione cada fórmula da aula ao efeito que ela acrescenta para o plano soar claro e acionável.</p>",
+      "contentPlain": "Relacione cada fórmula da aula ao efeito que ela acrescenta para o plano soar claro e acionável.",
+      "fileUrl": null,
+      "feedbackSuccess": "O esqueleto da aula organiza a fala em recomendação, reserva breve e sequência de ações.",
+      "feedbackError": "O esqueleto da aula organiza a fala em recomendação, reserva breve e sequência de ações.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "8fe020fd-132c-4bd5-aa86-611e6e3a7e73",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "87031634-ae2c-4e31-9501-c46f2be8dd97"
+        },
+        {
+          "id": "b7a11ba9-7f78-4986-bcc1-52a7c916632b",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "87031634-ae2c-4e31-9501-c46f2be8dd97"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ec9eeeb7-f697-472e-8a2d-c9c21a10e02c",
+          "exerciseId": "87031634-ae2c-4e31-9501-c46f2be8dd97",
+          "leftContent": "Te recomiendo que...",
+          "rightContent": "escolher e recomendar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "6b4a00cf-ca40-49bd-b510-3a63a84a42e8",
+          "exerciseId": "87031634-ae2c-4e31-9501-c46f2be8dd97",
+          "leftContent": "No creo que sea buena idea...",
+          "rightContent": "frear a alternativa fraca",
+          "sequenceItem": 2
+        },
+        {
+          "id": "599a0d11-b393-4a67-a704-2e6816cf83a5",
+          "exerciseId": "87031634-ae2c-4e31-9501-c46f2be8dd97",
+          "leftContent": "Cuando... / En cuanto...",
+          "rightContent": "ordenar o plano",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "f01c7a86-7359-4afd-9be1-7c6d350c9757",
+      "title": "Escolha a reserva breve",
+      "content": "<p>Você quer mostrar que adiar a candidatura alguns dias parece a opção mais fraca, sem mudar a decisão principal. Qual frase faz isso?</p>",
+      "contentPlain": "Você quer mostrar que adiar a candidatura alguns dias parece a opção mais fraca, sem mudar a decisão principal. Qual frase faz isso?",
+      "fileUrl": null,
+      "feedbackSuccess": "A reserva breve da aula serve para frear a alternativa fraca sem apagar a recomendação principal.",
+      "feedbackError": "A reserva breve da aula serve para frear a alternativa fraca sem apagar a recomendação principal.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1619f721-dad3-4aa4-87f7-1858bd78e4cb",
+          "textContent": "En cuanto la mandes, confirma el envío.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f01c7a86-7359-4afd-9be1-7c6d350c9757"
+        },
+        {
+          "id": "274fd292-80c6-4fff-9a68-69444ea80da2",
+          "textContent": "No creo que sea buena idea esperar hasta el viernes.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f01c7a86-7359-4afd-9be1-7c6d350c9757"
+        },
+        {
+          "id": "43101372-8ada-4f5c-bcc0-ce53b451b731",
+          "textContent": "Te recomiendo que adaptes el CV hoy.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f01c7a86-7359-4afd-9be1-7c6d350c9757"
+        },
+        {
+          "id": "8807ac2f-58e1-46f1-8c22-a986c3979321",
+          "textContent": "Cuando tengas el CV listo, manda la solicitud.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f01c7a86-7359-4afd-9be1-7c6d350c9757"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "857b7a69-08e6-408c-9d04-5d66d7e711be",
+      "title": "Recupere a escolha principal",
+      "content": "<p>Complete em espanhol: Esta vacante ______ mejor.</p><p>Tradução: Esta vaga combina melhor.</p>",
+      "contentPlain": "Complete em espanhol: Esta vacante ______ mejor. Tradução: Esta vaga combina melhor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Antes de planejar os próximos passos, a aula fecha qual opção combina melhor.",
+      "feedbackError": "Antes de planejar os próximos passos, a aula fecha qual opção combina melhor.",
+      "answerType": "buildWord",
+      "expectedAnswer": "encaja",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d00da921-3ab5-4618-9ebb-70b333545d70",
+      "title": "Escolha o plano mais claro",
+      "content": "<p>Qual resposta em espanhol segue a arquitetura da aula para fechar uma escolha com orientação clara e próximos passos?</p>",
+      "contentPlain": "Qual resposta em espanhol segue a arquitetura da aula para fechar uma escolha com orientação clara e próximos passos?",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final da aula funciona quando a escolha vem acompanhada de reserva breve e de uma ordem clara de ações.",
+      "feedbackError": "O recap final da aula funciona quando a escolha vem acompanhada de reserva breve e de uma ordem clara de ações.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "011b94e0-7b64-457a-ab28-2b49af702b23",
+          "textContent": "Esta vacante encaja mejor. Te recomiendo que adaptes el CV hoy. No creo que sea buena idea esperar hasta el viernes. Cuando tengas el CV listo, manda la solicitud y, en cuanto la mandes, confirma el envío.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d00da921-3ab5-4618-9ebb-70b333545d70"
+        },
+        {
+          "id": "3a0dd85f-bd19-407a-a9cb-7f4b2f615632",
+          "textContent": "No creo que sea buena idea esperar hasta el viernes. Esta vacante encaja mejor. En cuanto la mandes, confirma el envío.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d00da921-3ab5-4618-9ebb-70b333545d70"
+        },
+        {
+          "id": "58462858-1cbf-4ac1-9d31-477485776805",
+          "textContent": "Te recomiendo que adaptes el CV hoy. Cuando tengas el CV listo, manda la solicitud. Esta vacante encaja mejor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d00da921-3ab5-4618-9ebb-70b333545d70"
+        },
+        {
+          "id": "594b8543-6061-45cc-846f-eecf56b2fa10",
+          "textContent": "Cuando tengas el CV listo, manda la solicitud. No creo que sea buena idea esperar hasta el viernes. Te recomiendo que adaptes el CV hoy. Esta vacante encaja mejor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d00da921-3ab5-4618-9ebb-70b333545d70"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "877ad655-421d-45dc-83c5-a1ba7e29fc92",
+      "title": "Complete a recomendação",
+      "content": "<p>Complete em espanhol: Te recomiendo que _______ el CV hoy.</p><p>Tradução: Eu recomendo que você adapte o CV hoje.</p>",
+      "contentPlain": "Complete em espanhol: Te recomiendo que _______ el CV hoy. Tradução: Eu recomendo que você adapte o CV hoje.",
+      "fileUrl": null,
+      "feedbackSuccess": "A recomendação central da aula transforma a escolha em uma ação imediata e concreta.",
+      "feedbackError": "A recomendação central da aula transforma a escolha em uma ação imediata e concreta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "adaptes",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "cded7de9-c7cd-4a6b-bd0f-db403e228ad4",
+      "title": "Complete a reserva breve",
+      "content": "<p>Complete em espanhol: No creo que ______ buena idea esperar hasta el viernes.</p><p>Tradução: Não acho que seja uma boa ideia esperar até sexta-feira.</p>",
+      "contentPlain": "Complete em espanhol: No creo que ______ buena idea esperar hasta el viernes. Tradução: Não acho que seja uma boa ideia esperar até sexta-feira.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de no creo que, a aula usa sea para marcar uma reserva breve sobre a alternativa mais fraca.",
+      "feedbackError": "Depois de no creo que, a aula usa sea para marcar uma reserva breve sobre a alternativa mais fraca.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sea",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "814514d0-eb38-478c-b0dc-74ba2cc746e3",
+      "title": "Ligue o modelo aos efeitos",
+      "content": "<p>Relacione os trechos do modelo integrado ao papel que cada um cumpre para fechar a orientação.</p>",
+      "contentPlain": "Relacione os trechos do modelo integrado ao papel que cada um cumpre para fechar a orientação.",
+      "fileUrl": null,
+      "feedbackSuccess": "O modelo integrado junta escolha, recomendação, reserva breve e próximo passo numa resposta curta.",
+      "feedbackError": "O modelo integrado junta escolha, recomendação, reserva breve e próximo passo numa resposta curta.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1b32ec01-d5bf-4aa0-b9b7-8877b9ed92a4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "814514d0-eb38-478c-b0dc-74ba2cc746e3"
+        },
+        {
+          "id": "44ede3e0-a96b-488e-a5b5-aadfb5c16e26",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "814514d0-eb38-478c-b0dc-74ba2cc746e3"
+        }
+      ],
+      "associations": [
+        {
+          "id": "4ff207cf-ffa1-41a8-ac63-e5d9c6da73fb",
+          "exerciseId": "814514d0-eb38-478c-b0dc-74ba2cc746e3",
+          "leftContent": "Esta vacante encaja mejor.",
+          "rightContent": "escolher uma opção",
+          "sequenceItem": 1
+        },
+        {
+          "id": "be39322f-df4b-447d-b923-d869e1c92ae0",
+          "exerciseId": "814514d0-eb38-478c-b0dc-74ba2cc746e3",
+          "leftContent": "Te recomiendo que adaptes el CV hoy.",
+          "rightContent": "recomendar a ação principal",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ee3bc2c0-dc59-4fc9-913d-1b0d5f7a979e",
+          "exerciseId": "814514d0-eb38-478c-b0dc-74ba2cc746e3",
+          "leftContent": "no creo que sea buena idea esperar hasta el viernes.",
+          "rightContent": "marcar uma reserva breve",
+          "sequenceItem": 3
+        },
+        {
+          "id": "54147327-1056-4275-9890-b3e08d6e3e96",
+          "exerciseId": "814514d0-eb38-478c-b0dc-74ba2cc746e3",
+          "leftContent": "Cuando tengas el CV listo, manda la solicitud.",
+          "rightContent": "ordenar o primeiro próximo passo",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Fechar uma escolha com plano claro"
+}

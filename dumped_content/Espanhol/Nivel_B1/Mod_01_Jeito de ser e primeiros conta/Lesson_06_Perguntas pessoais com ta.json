@@ -1,0 +1,689 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+    "attemptId": "108b8055-424b-4c26-af8c-ee8866a626cf",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "35495993-e495-4e1c-9b17-aec7dc91fec3",
+      "987d630b-4a21-49c3-84f6-0b93997cc6a5",
+      "912784da-067c-47a1-91ce-fa0284160012",
+      "f408a9b0-ff4e-48dc-af13-a37d16cf6d77",
+      "e5594f92-20b0-45bc-a1fb-fede0054f39b"
+    ],
+    "evaluationExerciseIds": [
+      "213bb693-c0c2-4a03-8ccd-432fdb0ccb96",
+      "f34c9341-36ae-4ef9-98d6-85eaffc6898e",
+      "70086741-0b90-47ae-b5b5-4cf456174498",
+      "93e55727-6933-4ead-bc94-74cf831f01ac",
+      "938b8d26-6c7b-4acd-bf67-e58adb68cc9c"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:29.1774799Z"
+  },
+  "contents": [
+    {
+      "id": "20831597-60cd-4df1-ba7e-ccc3019542b3",
+      "title": "Escute e leia a frase. Observe que a conversa ainda não pede a informação: primeiro ela abre espaço para perguntar.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "cfca77f3-3919-4139-ab38-0518906a62d2",
+          "textContent": "<p>Antes de entrar em trabalho ou vida pessoal, a fala pode abrir espaço com cuidado.</p><p><strong>¿Te molesta si te hago una pregunta un poco personal?</strong></p><p>Em português: <strong>Você se importa se eu fizer uma pergunta um pouco pessoal?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d26df82a154d4b2c91b204f70c014344_b01-te-molesta-si-te-hago-una-pregunta-un-poco-personal.mp3?Expires=1794099569&Signature=BRg032wwfQbehfNrmfrOvkge3Sm83rgd65e5oqX5TBLjMZKsrHk8k0yPhfBVv6Kl24g1fk5IegBWymxp368cMothVNS5EMjIs56cnbhImKB9YX54J~kB1fA7faLlH3XljzWYuzGJgJxWFpl3UbdZ8dOpqLkNNt5wOrUWUILFXd1m8oq8rC-cNexUaoGYMCgmH2IvgbzEdoQkvu5lF8~kCGJ5hJDnB3d1iPbpLarfiwfvAS~aGZBuO9uv0Lv~G0BDfn7ntuVTNP2tSvSVjawJxO2z0Itz~xhSIYke6iIEJNkCgtYudTLS-d4bfaWlegCsyvhg-Pk-XqgLRIII50AJJw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1a19b853-f1e7-4205-b9bc-8e1c8d921cb3",
+      "title": "Leia a nota curta e observe em que momento essa abertura costuma fazer sentido.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "a2e130ad-d2e0-498d-820f-e15079aeb833",
+          "textContent": "<p>Essa abertura aparece quando a conversa sai do neutro e entra em temas como trabalho, rotina pessoal ou moradia.</p><p>Ela não força a outra pessoa a responder de imediato. Primeiro, ela mostra cuidado.</p><p>Por isso, a pergunta seguinte tende a soar mais leve e menos invasiva.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f98d5461-44a8-43f0-858f-1d4a6fb89ade",
+      "title": "Escute e leia a pergunta. Note que ela pede o essencial, sem exigir detalhes demais.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "05cbec95-8c48-4d25-9fc8-7621ca9af51e",
+          "textContent": "<p>Depois da abertura cuidadosa, pode vir uma pergunta social ampla.</p><p><strong>¿A qué te dedicas ahora?</strong></p><p>Em português: <strong>Com o que você trabalha agora?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a24d23f0747409e993a63116b1dd11a_b03-a-que-te-dedicas-ahora.mp3?Expires=1794099569&Signature=UPy89-YykhwnYCJuyJ1MqO4DbEeYUh4M4WhoruaTDngG89HtmgGXq7ASxh7sTocYlFNKYt8pziK-pDgJ0xANRiLtDMKMxkkKfbG7EQDte-gv~ttHfwjiq-DnkF4x~FKm6stsPuSe0VUZGIpRy-oc1mdgYAENedZ8XGx~ALJ6mhIwstwFw5FcELehXrP1LhqoLr6Hs8pdL1s5rxHyV1eB5im1nz-eJWCMNTOjXH0Hh5h4GqSfgEIYOrocYFmg2GtrC21YqsdXMsen138b5G4a4TxxwyDU-wNt5Txuwe9w2ekWPox4g54Mn2KvtEpCdIeZBckX6UPZ9LktbZWDHkALhw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d3bc6d6f-c4a0-4f63-bcde-8bf9d4c6e6e4",
+      "title": "Leia a nota e observe o tipo de detalhe que essa pergunta evita exigir.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "cf7f89c6-3a17-4528-8bc9-b1737664332a",
+          "textContent": "<p><strong>¿A qué te dedicas...?</strong> pergunta pelo que a pessoa faz, mas não exige cargo, empresa nem uma explicação longa.</p><p>Por isso, ela funciona bem para quem trabalha, estuda, mistura as duas coisas ou está em transição.</p><p>O resultado é uma pergunta curiosa, mas ainda socialmente leve.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e550d5bb-8ccd-42a8-9251-70e7aa9f9af8",
+      "title": "Escute e leia a resposta. Repare como ela responde sem transformar a conversa em currículo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "e895e252-d4b4-45e9-b8a1-de1b8d288f03",
+          "textContent": "<p>Uma resposta curta já pode resolver a pergunta com naturalidade.</p><p><strong>Ahora trabajo en una librería.</strong></p><p>Em português: <strong>Agora trabalho em uma livraria.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0f4e25742c03495297257a6293ebe941_b05-ahora-trabajo-en-una-libreria.mp3?Expires=1794099569&Signature=hRcIYnzOhly93Zvv0XClcOL9n1D4wx1PFy7nB9uxIeMAl3h522BwP7kaIG17PM-O6WOCF49wJKhe1CCgFVWRTAdREAaI~9yxImeAXW8-3lVvU61aixSi-tzhtE7R4RbxR9lut0KC~bShuVANvkLniyHZaaVY6tCrHCtoGKR-OMUB86LRs67fSd9tNjWpuNB-euqH4TZwfueamrQ41bmbvdmz2mA4Dvzcz7hZYXq3WT~wigYu1J9Bpl7gHA5Qg1-R0EeOaZ94Uyrj0gAm9~lLyvGJbbu9jCtB9JCSaG1UPvkKBlkGwYc31aFq6idWxgVdxKAd5LdLmxBPjiPYsdB7WQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1f3c603c-f2f0-40e0-b8f4-7115bb09d37a",
+      "title": "Escute e leia a pergunta. Observe como a abertura suaviza um tema mais íntimo do cotidiano.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "6cea9e1d-37e7-42c3-84d7-1113c9a2f20a",
+          "textContent": "<p>O mesmo cuidado também vale quando a conversa toca a vida pessoal.</p><p><strong>Si no te incomoda, ¿vives solo o con alguien?</strong></p><p>Em português: <strong>Se não te incomoda, você mora sozinho ou com alguém?</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c38bc5acf34f4982b650c237745c0ab8_b06-si-no-te-incomoda-vives-solo-o-con-alguien.mp3?Expires=1794099569&Signature=bvv0dqgbNEqwki6a8R6-lndcOb8IjCk~opw3WQsRToLxV8Ro~ehD3vXuPj8evrvRT1VD7IowFN08hXWZftC7DNxgbRdyU~P9Abt2PWtxi3VH7k7zxcMY1OxV0HhoLfi5g3hGbTuFh~QpqGXcmbT6EvRGKrmrcoGo3DPJrtgAALUpTZeG~oaJQIm6KUUSaGp5Grzsdr4Mf2AavUOaBPNFV82UTfefJgy43HXD4wEkWVPxNbMvRbaLX0w6qm69Dz0Z9M8CgmOZv96A6uOS1xNZNroi6xR6XxsTJvgqYOTkPUi8Jpz1QPUwHnmkEdzWAbA3uhWlJ-MpF6Qya40Ocsi0Vg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b6d1def9-bcec-405f-8fc4-191a55bedd15",
+      "title": "Escute e leia a resposta. Note que uma resposta breve já basta para manter o tato dos dois lados.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "e9e7939a-4d95-4ff0-8199-d6f9bf3b640e",
+          "textContent": "<p>Em temas mais pessoais, responder pouco também pode soar natural.</p><p><strong>Vivo con mi hermana.</strong></p><p>Em português: <strong>Moro com a minha irmã.</strong></p><p>Essa resposta informa o essencial e pode parar aí.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8532670f55e472da57ac20f5155c331_b07-vivo-con-mi-hermana.mp3?Expires=1794099569&Signature=C1My5F4O4GBr1-TPWovmZgaaY~nBwiBTA7VgzT0NeZ7QjsUO7lTp3jQSp32mQtw94djL7ARqdM2D~1xK1OgEe7Uiq4koZUQ1NkFVOMQ4yF~-DgJMAYyturqlV2olb8WDvWV47NkKpYp2Ae0ZAtdPUueGDTejRqk8qG-dYNWj1iGM2JG83-vIrWbEtzIDPMHyJKGLHOXoPcn~8S4sR~ByLm0CB1P9y70tZqPgR-TSDPnXuwKYO9KSZg0ZvNRWl3uSvRCJqeXlJ2u4YCCiox-B27-itVbc160ddJD7UUnkn7sdw8oifPX79WPDcG42BflsO~VSlBTtiuYaIfDBxO0aCg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0a40fa8d-561a-45e2-9f49-76e462b6355b",
+      "title": "Primeiro contato com cuidado",
+      "description": "<p>As mesmas fórmulas aparecem juntas para mostrar como uma conversa curta pode entrar em temas pessoais sem ficar pesada.</p>",
+      "contentType": 7,
+      "sequenceItem": 8,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Te molesta si te hago una pregunta un poco personal?</div>\n  <div style=\"opacity: 0.45;\">Você se importa se eu fizer uma pergunta um pouco pessoal?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d26df82a154d4b2c91b204f70c014344_b01-te-molesta-si-te-hago-una-pregunta-un-poco-personal.mp3?Expires=1794099569&Signature=BRg032wwfQbehfNrmfrOvkge3Sm83rgd65e5oqX5TBLjMZKsrHk8k0yPhfBVv6Kl24g1fk5IegBWymxp368cMothVNS5EMjIs56cnbhImKB9YX54J~kB1fA7faLlH3XljzWYuzGJgJxWFpl3UbdZ8dOpqLkNNt5wOrUWUILFXd1m8oq8rC-cNexUaoGYMCgmH2IvgbzEdoQkvu5lF8~kCGJ5hJDnB3d1iPbpLarfiwfvAS~aGZBuO9uv0Lv~G0BDfn7ntuVTNP2tSvSVjawJxO2z0Itz~xhSIYke6iIEJNkCgtYudTLS-d4bfaWlegCsyvhg-Pk-XqgLRIII50AJJw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Claro, dime.</div>\n  <div style=\"opacity: 0.45;\">Claro, pode falar.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/59f24d4d7fca4c8f862e784d7971aa38_b08-claro-dime.mp3?Expires=1794099569&Signature=qmyaaNe~vkzXr72nQAYZYkZrDmWGHx2C8Gmp34TZESGEnN2Jo5bGRvk9uuGn0tgbfIYvyCHiBY7KIY5oaePbjFFn6SDd6JIrtr4GCed~ACaERN5Dergnl-yhFOsefqYvizH7P~Dbej9k-GOpY0FQnpbiLdAPq6RNy~-sS4gCJKqCNHqN-llK6hlSCDWVDGY0UpY4WIdzvPKjGZuXDmaP8jMwd90a4DMClN4fsj~TUOYJRTtJnIbVRTPMW2SfgsxxDvmk6LJCzbvnOfhmnJp2iH1UCMbxgyDc6v3aKhnTJuXyig5igD1cQbdxqZ8J7gkKlFS1zTy9u-YAdZbGOS0YvQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿A qué te dedicas ahora?</div>\n  <div style=\"opacity: 0.45;\">Com o que você trabalha agora?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a24d23f0747409e993a63116b1dd11a_b03-a-que-te-dedicas-ahora.mp3?Expires=1794099569&Signature=UPy89-YykhwnYCJuyJ1MqO4DbEeYUh4M4WhoruaTDngG89HtmgGXq7ASxh7sTocYlFNKYt8pziK-pDgJ0xANRiLtDMKMxkkKfbG7EQDte-gv~ttHfwjiq-DnkF4x~FKm6stsPuSe0VUZGIpRy-oc1mdgYAENedZ8XGx~ALJ6mhIwstwFw5FcELehXrP1LhqoLr6Hs8pdL1s5rxHyV1eB5im1nz-eJWCMNTOjXH0Hh5h4GqSfgEIYOrocYFmg2GtrC21YqsdXMsen138b5G4a4TxxwyDU-wNt5Txuwe9w2ekWPox4g54Mn2KvtEpCdIeZBckX6UPZ9LktbZWDHkALhw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Ahora trabajo en una librería.</div>\n  <div style=\"opacity: 0.45;\">Agora trabalho em uma livraria.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0f4e25742c03495297257a6293ebe941_b05-ahora-trabajo-en-una-libreria.mp3?Expires=1794099569&Signature=hRcIYnzOhly93Zvv0XClcOL9n1D4wx1PFy7nB9uxIeMAl3h522BwP7kaIG17PM-O6WOCF49wJKhe1CCgFVWRTAdREAaI~9yxImeAXW8-3lVvU61aixSi-tzhtE7R4RbxR9lut0KC~bShuVANvkLniyHZaaVY6tCrHCtoGKR-OMUB86LRs67fSd9tNjWpuNB-euqH4TZwfueamrQ41bmbvdmz2mA4Dvzcz7hZYXq3WT~wigYu1J9Bpl7gHA5Qg1-R0EeOaZ94Uyrj0gAm9~lLyvGJbbu9jCtB9JCSaG1UPvkKBlkGwYc31aFq6idWxgVdxKAd5LdLmxBPjiPYsdB7WQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Si no te incomoda, ¿vives solo o con alguien?</div>\n  <div style=\"opacity: 0.45;\">Se não te incomoda, você mora sozinho ou com alguém?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c38bc5acf34f4982b650c237745c0ab8_b06-si-no-te-incomoda-vives-solo-o-con-alguien.mp3?Expires=1794099569&Signature=bvv0dqgbNEqwki6a8R6-lndcOb8IjCk~opw3WQsRToLxV8Ro~ehD3vXuPj8evrvRT1VD7IowFN08hXWZftC7DNxgbRdyU~P9Abt2PWtxi3VH7k7zxcMY1OxV0HhoLfi5g3hGbTuFh~QpqGXcmbT6EvRGKrmrcoGo3DPJrtgAALUpTZeG~oaJQIm6KUUSaGp5Grzsdr4Mf2AavUOaBPNFV82UTfefJgy43HXD4wEkWVPxNbMvRbaLX0w6qm69Dz0Z9M8CgmOZv96A6uOS1xNZNroi6xR6XxsTJvgqYOTkPUi8Jpz1QPUwHnmkEdzWAbA3uhWlJ-MpF6Qya40Ocsi0Vg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Vivo con mi hermana.</div>\n  <div style=\"opacity: 0.45;\">Moro com a minha irmã.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8532670f55e472da57ac20f5155c331_b07-vivo-con-mi-hermana.mp3?Expires=1794099569&Signature=C1My5F4O4GBr1-TPWovmZgaaY~nBwiBTA7VgzT0NeZ7QjsUO7lTp3jQSp32mQtw94djL7ARqdM2D~1xK1OgEe7Uiq4koZUQ1NkFVOMQ4yF~-DgJMAYyturqlV2olb8WDvWV47NkKpYp2Ae0ZAtdPUueGDTejRqk8qG-dYNWj1iGM2JG83-vIrWbEtzIDPMHyJKGLHOXoPcn~8S4sR~ByLm0CB1P9y70tZqPgR-TSDPnXuwKYO9KSZg0ZvNRWl3uSvRCJqeXlJ2u4YCCiox-B27-itVbc160ddJD7UUnkn7sdw8oifPX79WPDcG42BflsO~VSlBTtiuYaIfDBxO0aCg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "ad636d99-c8b1-4121-86e0-93654f399695",
+      "title": "Leia o fechamento e imagine essas falas em um café, numa apresentação entre colegas ou numa conversa entre amigos de amigos.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "33c45c21-29e3-4516-9d09-72b65b7631be",
+          "textContent": "<p>Em um café, numa apresentação entre colegas ou numa conversa entre amigos de amigos, estas fórmulas ajudam você a entrar em temas pessoais sem pesar o clima.</p><ul><li><strong>¿Te molesta si te hago una pregunta un poco personal?</strong></li><li><strong>¿A qué te dedicas ahora?</strong></li><li><strong>Si no te incomoda, ¿vives solo o con alguien?</strong></li></ul><p>Com respostas breves como <strong>Ahora trabajo en una librería.</strong> e <strong>Vivo con mi hermana.</strong>, a conversa avança sem ficar invasiva.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "07421202-eb48-4b06-a9f3-7ba28018d7e4",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "b4226522-306e-4ec2-8332-56c304b58f3c",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b4742025609d40de89474a5cbbdab40f_MEC-IDM_MODB1-CAP_01-AULA_06.mp4?Expires=1794099569&Signature=BHiLb1i5YjdZAVi09FEl~xweSJLZTd~YMWSQLlEXnL2WiggPfl-ADL80h-OEa5S-Q7UBDzymB--DQStidJmv4EchnaD-FOPzoBVVJWMrh~q5ApM~RsY7YEctWp29-vclVMyQLWySmcWaAPFQNoP~F8-tZD9NUYOPCHlA10DmigNDZnm6eCBMZQJDRX47Gi6FY8ySU84d2Uq~x7huLrKW9UMjEryoUsYdBVVJAsR-8zw0oxelt6QqEmig1rN32AHl8JA9b1kz53FsCQrHdFSRbBqNehNByQqy8RT0e~87AjJyNAsCiY00g~1diTuNt~45a-nDyxegx3Gq3iBc3EVG9g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b4742025609d40de89474a5cbbdab40f_MEC-IDM_MODB1-CAP_01-AULA_06.mp4?Expires=1794099569&Signature=BHiLb1i5YjdZAVi09FEl~xweSJLZTd~YMWSQLlEXnL2WiggPfl-ADL80h-OEa5S-Q7UBDzymB--DQStidJmv4EchnaD-FOPzoBVVJWMrh~q5ApM~RsY7YEctWp29-vclVMyQLWySmcWaAPFQNoP~F8-tZD9NUYOPCHlA10DmigNDZnm6eCBMZQJDRX47Gi6FY8ySU84d2Uq~x7huLrKW9UMjEryoUsYdBVVJAsR-8zw0oxelt6QqEmig1rN32AHl8JA9b1kz53FsCQrHdFSRbBqNehNByQqy8RT0e~87AjJyNAsCiY00g~1diTuNt~45a-nDyxegx3Gq3iBc3EVG9g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "35495993-e495-4e1c-9b17-aec7dc91fec3",
+      "title": "Escolha a pergunta sobre trabalho",
+      "content": "<p>Qual pergunta da aula pede o essencial sobre trabalho sem pressionar por muitos detalhes?</p>",
+      "contentPlain": "Qual pergunta da aula pede o essencial sobre trabalho sem pressionar por muitos detalhes?",
+      "fileUrl": null,
+      "feedbackSuccess": "¿A qué te dedicas...? abre o tema de trabalho de um jeito amplo e leve.",
+      "feedbackError": "¿A qué te dedicas...? abre o tema de trabalho de um jeito amplo e leve.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "096eb32e-4d41-4741-8745-b34d4ac6d6da",
+          "textContent": "¿Te molesta si te hago una pregunta un poco personal?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "35495993-e495-4e1c-9b17-aec7dc91fec3"
+        },
+        {
+          "id": "7f1801d3-bbbb-418a-a2d9-6cd6b629cfc9",
+          "textContent": "¿A qué te dedicas ahora?",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "35495993-e495-4e1c-9b17-aec7dc91fec3"
+        },
+        {
+          "id": "f3942f9b-a892-4f16-9cc6-88a309613bc1",
+          "textContent": "Si no te incomoda, ¿vives solo o con alguien?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "35495993-e495-4e1c-9b17-aec7dc91fec3"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "987d630b-4a21-49c3-84f6-0b93997cc6a5",
+      "title": "Identifique a pergunta ouvida",
+      "content": "<p>Escute a frase completa e marque somente as palavras que realmente fazem parte dela.</p>",
+      "contentPlain": "Escute a frase completa e marque somente as palavras que realmente fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c38bc5acf34f4982b650c237745c0ab8_b06-si-no-te-incomoda-vives-solo-o-con-alguien.mp3?Expires=1794099569&Signature=bvv0dqgbNEqwki6a8R6-lndcOb8IjCk~opw3WQsRToLxV8Ro~ehD3vXuPj8evrvRT1VD7IowFN08hXWZftC7DNxgbRdyU~P9Abt2PWtxi3VH7k7zxcMY1OxV0HhoLfi5g3hGbTuFh~QpqGXcmbT6EvRGKrmrcoGo3DPJrtgAALUpTZeG~oaJQIm6KUUSaGp5Grzsdr4Mf2AavUOaBPNFV82UTfefJgy43HXD4wEkWVPxNbMvRbaLX0w6qm69Dz0Z9M8CgmOZv96A6uOS1xNZNroi6xR6XxsTJvgqYOTkPUi8Jpz1QPUwHnmkEdzWAbA3uhWlJ-MpF6Qya40Ocsi0Vg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Si no te incomoda... mantém o tema de moradia leve antes da resposta.",
+      "feedbackError": "Si no te incomoda... mantém o tema de moradia leve antes da resposta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "22fe9f22-6f56-42ff-a5a6-617f6a5b8db7",
+          "textContent": "incomoda",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "987d630b-4a21-49c3-84f6-0b93997cc6a5"
+        },
+        {
+          "id": "3aae6572-c594-403e-a482-83ee59ea6e6a",
+          "textContent": "trabajo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "987d630b-4a21-49c3-84f6-0b93997cc6a5"
+        },
+        {
+          "id": "55e6e5a8-221e-44b7-a38c-c0a33b0a62e0",
+          "textContent": "alguien",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "987d630b-4a21-49c3-84f6-0b93997cc6a5"
+        },
+        {
+          "id": "67a563f4-b431-4bee-adca-8d3b036b5b65",
+          "textContent": "hermana",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "987d630b-4a21-49c3-84f6-0b93997cc6a5"
+        },
+        {
+          "id": "7ff4f476-556d-449c-ba58-e3425fbed09e",
+          "textContent": "vives",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "987d630b-4a21-49c3-84f6-0b93997cc6a5"
+        },
+        {
+          "id": "a28b032d-90f1-4713-8aa9-6a7688d28bed",
+          "textContent": "solo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "987d630b-4a21-49c3-84f6-0b93997cc6a5"
+        },
+        {
+          "id": "ed9b2ac4-b026-480a-9bd8-fb3e66a1fc61",
+          "textContent": "molesta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "987d630b-4a21-49c3-84f6-0b93997cc6a5"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "912784da-067c-47a1-91ce-fa0284160012",
+      "title": "Escute e associe as falas",
+      "content": "<p>Relacione cada gravação da aula à frase escrita correspondente.</p>",
+      "contentPlain": "Relacione cada gravação da aula à frase escrita correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é ligar som e escrita nas fórmulas centrais do diálogo.",
+      "feedbackError": "Aqui o foco é ligar som e escrita nas fórmulas centrais do diálogo.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "2c9f3b43-244f-4312-b217-c05864c428eb",
+          "exerciseId": "912784da-067c-47a1-91ce-fa0284160012",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d26df82a154d4b2c91b204f70c014344_b01-te-molesta-si-te-hago-una-pregunta-un-poco-personal.mp3?Expires=1794099569&Signature=BRg032wwfQbehfNrmfrOvkge3Sm83rgd65e5oqX5TBLjMZKsrHk8k0yPhfBVv6Kl24g1fk5IegBWymxp368cMothVNS5EMjIs56cnbhImKB9YX54J~kB1fA7faLlH3XljzWYuzGJgJxWFpl3UbdZ8dOpqLkNNt5wOrUWUILFXd1m8oq8rC-cNexUaoGYMCgmH2IvgbzEdoQkvu5lF8~kCGJ5hJDnB3d1iPbpLarfiwfvAS~aGZBuO9uv0Lv~G0BDfn7ntuVTNP2tSvSVjawJxO2z0Itz~xhSIYke6iIEJNkCgtYudTLS-d4bfaWlegCsyvhg-Pk-XqgLRIII50AJJw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Te molesta si te hago una pregunta un poco personal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "96d6cffe-f4dc-4769-b903-ad0895bdca68",
+          "exerciseId": "912784da-067c-47a1-91ce-fa0284160012",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0f4e25742c03495297257a6293ebe941_b05-ahora-trabajo-en-una-libreria.mp3?Expires=1794099569&Signature=hRcIYnzOhly93Zvv0XClcOL9n1D4wx1PFy7nB9uxIeMAl3h522BwP7kaIG17PM-O6WOCF49wJKhe1CCgFVWRTAdREAaI~9yxImeAXW8-3lVvU61aixSi-tzhtE7R4RbxR9lut0KC~bShuVANvkLniyHZaaVY6tCrHCtoGKR-OMUB86LRs67fSd9tNjWpuNB-euqH4TZwfueamrQ41bmbvdmz2mA4Dvzcz7hZYXq3WT~wigYu1J9Bpl7gHA5Qg1-R0EeOaZ94Uyrj0gAm9~lLyvGJbbu9jCtB9JCSaG1UPvkKBlkGwYc31aFq6idWxgVdxKAd5LdLmxBPjiPYsdB7WQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ahora trabajo en una librería.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a0a6ca47-584e-4131-b83d-fde5f0c172c6",
+          "exerciseId": "912784da-067c-47a1-91ce-fa0284160012",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8532670f55e472da57ac20f5155c331_b07-vivo-con-mi-hermana.mp3?Expires=1794099569&Signature=C1My5F4O4GBr1-TPWovmZgaaY~nBwiBTA7VgzT0NeZ7QjsUO7lTp3jQSp32mQtw94djL7ARqdM2D~1xK1OgEe7Uiq4koZUQ1NkFVOMQ4yF~-DgJMAYyturqlV2olb8WDvWV47NkKpYp2Ae0ZAtdPUueGDTejRqk8qG-dYNWj1iGM2JG83-vIrWbEtzIDPMHyJKGLHOXoPcn~8S4sR~ByLm0CB1P9y70tZqPgR-TSDPnXuwKYO9KSZg0ZvNRWl3uSvRCJqeXlJ2u4YCCiox-B27-itVbc160ddJD7UUnkn7sdw8oifPX79WPDcG42BflsO~VSlBTtiuYaIfDBxO0aCg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vivo con mi hermana.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "f408a9b0-ff4e-48dc-af13-a37d16cf6d77",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a pergunta cuidadosa sobre moradia.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a pergunta cuidadosa sobre moradia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c38bc5acf34f4982b650c237745c0ab8_b06-si-no-te-incomoda-vives-solo-o-con-alguien.mp3?Expires=1794099569&Signature=bvv0dqgbNEqwki6a8R6-lndcOb8IjCk~opw3WQsRToLxV8Ro~ehD3vXuPj8evrvRT1VD7IowFN08hXWZftC7DNxgbRdyU~P9Abt2PWtxi3VH7k7zxcMY1OxV0HhoLfi5g3hGbTuFh~QpqGXcmbT6EvRGKrmrcoGo3DPJrtgAALUpTZeG~oaJQIm6KUUSaGp5Grzsdr4Mf2AavUOaBPNFV82UTfefJgy43HXD4wEkWVPxNbMvRbaLX0w6qm69Dz0Z9M8CgmOZv96A6uOS1xNZNroi6xR6XxsTJvgqYOTkPUi8Jpz1QPUwHnmkEdzWAbA3uhWlJ-MpF6Qya40Ocsi0Vg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A aula treina perguntas pessoais com aberturas que suavizam o tom.",
+      "feedbackError": "A aula treina perguntas pessoais com aberturas que suavizam o tom.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Si no te incomoda, ¿vives solo o con alguien?",
+      "typeSpecificData": "{\"expectedText\":\"Si no te incomoda, \\u00BFvives solo o con alguien?\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/c38bc5acf34f4982b650c237745c0ab8_b06-si-no-te-incomoda-vives-solo-o-con-alguien.mp3?Expires=1794099569\\u0026Signature=bvv0dqgbNEqwki6a8R6-lndcOb8IjCk~opw3WQsRToLxV8Ro~ehD3vXuPj8evrvRT1VD7IowFN08hXWZftC7DNxgbRdyU~P9Abt2PWtxi3VH7k7zxcMY1OxV0HhoLfi5g3hGbTuFh~QpqGXcmbT6EvRGKrmrcoGo3DPJrtgAALUpTZeG~oaJQIm6KUUSaGp5Grzsdr4Mf2AavUOaBPNFV82UTfefJgy43HXD4wEkWVPxNbMvRbaLX0w6qm69Dz0Z9M8CgmOZv96A6uOS1xNZNroi6xR6XxsTJvgqYOTkPUi8Jpz1QPUwHnmkEdzWAbA3uhWlJ-MpF6Qya40Ocsi0Vg__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e5594f92-20b0-45bc-a1fb-fede0054f39b",
+      "title": "Ligue pergunta e sentido",
+      "content": "<p>Relacione as três perguntas centrais da aula ao apoio em português correspondente.</p>",
+      "contentPlain": "Relacione as três perguntas centrais da aula ao apoio em português correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap junta três jeitos leves de entrar em trabalho e vida pessoal.",
+      "feedbackError": "O recap junta três jeitos leves de entrar em trabalho e vida pessoal.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2647096d-6f11-4041-a17b-617773a0b000",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e5594f92-20b0-45bc-a1fb-fede0054f39b"
+        },
+        {
+          "id": "6a9465b8-e53a-43e7-9c5b-8dc8059c5a1e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e5594f92-20b0-45bc-a1fb-fede0054f39b"
+        }
+      ],
+      "associations": [
+        {
+          "id": "42b3c5d1-59c0-4309-96ad-d1e84e7fbedf",
+          "exerciseId": "e5594f92-20b0-45bc-a1fb-fede0054f39b",
+          "leftContent": "¿Te molesta si te hago una pregunta un poco personal?",
+          "rightContent": "Você se importa se eu fizer uma pergunta um pouco pessoal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "08b156c4-c7f8-4032-a7b3-416f299e5c26",
+          "exerciseId": "e5594f92-20b0-45bc-a1fb-fede0054f39b",
+          "leftContent": "¿A qué te dedicas ahora?",
+          "rightContent": "Com o que você trabalha agora?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "07b511e9-fd8f-4c92-b354-16d21d47678b",
+          "exerciseId": "e5594f92-20b0-45bc-a1fb-fede0054f39b",
+          "leftContent": "Si no te incomoda, ¿vives solo o con alguien?",
+          "rightContent": "Se não te incomoda, você mora sozinho ou com alguém?",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "213bb693-c0c2-4a03-8ccd-432fdb0ccb96",
+      "title": "Relacione resposta e função",
+      "content": "<p>Ligue cada resposta da conversa curta ao efeito que ela cumpre no diálogo.</p>",
+      "contentPlain": "Ligue cada resposta da conversa curta ao efeito que ela cumpre no diálogo.",
+      "fileUrl": null,
+      "feedbackSuccess": "No diálogo, respostas curtas mantêm a conversa leve e cooperativa.",
+      "feedbackError": "No diálogo, respostas curtas mantêm a conversa leve e cooperativa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "208dfeb2-3e4e-4805-946d-d058182e73a1",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "213bb693-c0c2-4a03-8ccd-432fdb0ccb96"
+        },
+        {
+          "id": "4a9977f1-c331-4c60-86e6-35fd006522bb",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "213bb693-c0c2-4a03-8ccd-432fdb0ccb96"
+        }
+      ],
+      "associations": [
+        {
+          "id": "0a5f4e54-8661-4d5d-a4c2-f1810885a67a",
+          "exerciseId": "213bb693-c0c2-4a03-8ccd-432fdb0ccb96",
+          "leftContent": "Claro, dime.",
+          "rightContent": "autorizar a pergunta",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1046376e-1bc5-4b64-81d1-dba99f703be9",
+          "exerciseId": "213bb693-c0c2-4a03-8ccd-432fdb0ccb96",
+          "leftContent": "Ahora trabajo en una librería.",
+          "rightContent": "responder sobre trabalho",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2af1d49e-1ee9-4a7e-9dab-7ddbcbf19bcd",
+          "exerciseId": "213bb693-c0c2-4a03-8ccd-432fdb0ccb96",
+          "leftContent": "Vivo con mi hermana.",
+          "rightContent": "responder sobre moradia",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "f34c9341-36ae-4ef9-98d6-85eaffc6898e",
+      "title": "Reconstrua as falas do diálogo",
+      "content": "<p>Relacione cada gravação ao trecho exato que aparece no mini diálogo da aula.</p>",
+      "contentPlain": "Relacione cada gravação ao trecho exato que aparece no mini diálogo da aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mini diálogo combina abertura cuidadosa, pergunta ampla e resposta breve.",
+      "feedbackError": "O mini diálogo combina abertura cuidadosa, pergunta ampla e resposta breve.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "28c82e90-8f09-421b-9050-eb581a4624a9",
+          "exerciseId": "f34c9341-36ae-4ef9-98d6-85eaffc6898e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d26df82a154d4b2c91b204f70c014344_b01-te-molesta-si-te-hago-una-pregunta-un-poco-personal.mp3?Expires=1794099569&Signature=BRg032wwfQbehfNrmfrOvkge3Sm83rgd65e5oqX5TBLjMZKsrHk8k0yPhfBVv6Kl24g1fk5IegBWymxp368cMothVNS5EMjIs56cnbhImKB9YX54J~kB1fA7faLlH3XljzWYuzGJgJxWFpl3UbdZ8dOpqLkNNt5wOrUWUILFXd1m8oq8rC-cNexUaoGYMCgmH2IvgbzEdoQkvu5lF8~kCGJ5hJDnB3d1iPbpLarfiwfvAS~aGZBuO9uv0Lv~G0BDfn7ntuVTNP2tSvSVjawJxO2z0Itz~xhSIYke6iIEJNkCgtYudTLS-d4bfaWlegCsyvhg-Pk-XqgLRIII50AJJw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Te molesta si te hago una pregunta un poco personal?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "511f4eee-fb48-420c-a709-54dec6a999cb",
+          "exerciseId": "f34c9341-36ae-4ef9-98d6-85eaffc6898e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8a24d23f0747409e993a63116b1dd11a_b03-a-que-te-dedicas-ahora.mp3?Expires=1794099569&Signature=UPy89-YykhwnYCJuyJ1MqO4DbEeYUh4M4WhoruaTDngG89HtmgGXq7ASxh7sTocYlFNKYt8pziK-pDgJ0xANRiLtDMKMxkkKfbG7EQDte-gv~ttHfwjiq-DnkF4x~FKm6stsPuSe0VUZGIpRy-oc1mdgYAENedZ8XGx~ALJ6mhIwstwFw5FcELehXrP1LhqoLr6Hs8pdL1s5rxHyV1eB5im1nz-eJWCMNTOjXH0Hh5h4GqSfgEIYOrocYFmg2GtrC21YqsdXMsen138b5G4a4TxxwyDU-wNt5Txuwe9w2ekWPox4g54Mn2KvtEpCdIeZBckX6UPZ9LktbZWDHkALhw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿A qué te dedicas ahora?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "481bf1b1-2739-4985-aa52-8295a2a98301",
+          "exerciseId": "f34c9341-36ae-4ef9-98d6-85eaffc6898e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c38bc5acf34f4982b650c237745c0ab8_b06-si-no-te-incomoda-vives-solo-o-con-alguien.mp3?Expires=1794099569&Signature=bvv0dqgbNEqwki6a8R6-lndcOb8IjCk~opw3WQsRToLxV8Ro~ehD3vXuPj8evrvRT1VD7IowFN08hXWZftC7DNxgbRdyU~P9Abt2PWtxi3VH7k7zxcMY1OxV0HhoLfi5g3hGbTuFh~QpqGXcmbT6EvRGKrmrcoGo3DPJrtgAALUpTZeG~oaJQIm6KUUSaGp5Grzsdr4Mf2AavUOaBPNFV82UTfefJgy43HXD4wEkWVPxNbMvRbaLX0w6qm69Dz0Z9M8CgmOZv96A6uOS1xNZNroi6xR6XxsTJvgqYOTkPUi8Jpz1QPUwHnmkEdzWAbA3uhWlJ-MpF6Qya40Ocsi0Vg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si no te incomoda, ¿vives solo o con alguien?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "8a656ffb-24d5-4e46-b0fa-5693d597ce73",
+          "exerciseId": "f34c9341-36ae-4ef9-98d6-85eaffc6898e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8532670f55e472da57ac20f5155c331_b07-vivo-con-mi-hermana.mp3?Expires=1794099569&Signature=C1My5F4O4GBr1-TPWovmZgaaY~nBwiBTA7VgzT0NeZ7QjsUO7lTp3jQSp32mQtw94djL7ARqdM2D~1xK1OgEe7Uiq4koZUQ1NkFVOMQ4yF~-DgJMAYyturqlV2olb8WDvWV47NkKpYp2Ae0ZAtdPUueGDTejRqk8qG-dYNWj1iGM2JG83-vIrWbEtzIDPMHyJKGLHOXoPcn~8S4sR~ByLm0CB1P9y70tZqPgR-TSDPnXuwKYO9KSZg0ZvNRWl3uSvRCJqeXlJ2u4YCCiox-B27-itVbc160ddJD7UUnkn7sdw8oifPX79WPDcG42BflsO~VSlBTtiuYaIfDBxO0aCg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Vivo con mi hermana.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "70086741-0b90-47ae-b5b5-4cf456174498",
+      "title": "Recupere a resposta pelo áudio",
+      "content": "<p>Escute a frase completa e selecione apenas as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a frase completa e selecione apenas as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0f4e25742c03495297257a6293ebe941_b05-ahora-trabajo-en-una-libreria.mp3?Expires=1794099569&Signature=hRcIYnzOhly93Zvv0XClcOL9n1D4wx1PFy7nB9uxIeMAl3h522BwP7kaIG17PM-O6WOCF49wJKhe1CCgFVWRTAdREAaI~9yxImeAXW8-3lVvU61aixSi-tzhtE7R4RbxR9lut0KC~bShuVANvkLniyHZaaVY6tCrHCtoGKR-OMUB86LRs67fSd9tNjWpuNB-euqH4TZwfueamrQ41bmbvdmz2mA4Dvzcz7hZYXq3WT~wigYu1J9Bpl7gHA5Qg1-R0EeOaZ94Uyrj0gAm9~lLyvGJbbu9jCtB9JCSaG1UPvkKBlkGwYc31aFq6idWxgVdxKAd5LdLmxBPjiPYsdB7WQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Ahora trabajo en una librería entrega só a informação central sobre trabalho.",
+      "feedbackError": "Ahora trabajo en una librería entrega só a informação central sobre trabalho.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "12952025-4a14-4e75-95e0-47c0b9ef2977",
+          "textContent": "Ahora",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "70086741-0b90-47ae-b5b5-4cf456174498"
+        },
+        {
+          "id": "1f574563-00bf-406a-a54b-537ba1c63744",
+          "textContent": "alguien",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "70086741-0b90-47ae-b5b5-4cf456174498"
+        },
+        {
+          "id": "6076f935-61d5-4f2e-b3bb-7451242be43a",
+          "textContent": "trabajo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "70086741-0b90-47ae-b5b5-4cf456174498"
+        },
+        {
+          "id": "9b32817c-3207-42c9-9452-d6288a796947",
+          "textContent": "hermana",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "70086741-0b90-47ae-b5b5-4cf456174498"
+        },
+        {
+          "id": "b48594a6-212d-4d07-9696-c3e6a215242e",
+          "textContent": "librería",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "70086741-0b90-47ae-b5b5-4cf456174498"
+        },
+        {
+          "id": "d8599738-f3ae-4d62-9bb8-86aa3dd7885a",
+          "textContent": "vivo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "70086741-0b90-47ae-b5b5-4cf456174498"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "93e55727-6933-4ead-bc94-74cf831f01ac",
+      "title": "Complete a resposta sobre trabalho",
+      "content": "<p>Ahora _______ en una librería.</p><p>Tradução: Agora trabalho em uma livraria.</p>",
+      "contentPlain": "Ahora _______ en una librería. Tradução: Agora trabalho em uma livraria.",
+      "fileUrl": null,
+      "feedbackSuccess": "A resposta curta de trabalho informa o essencial e não vira currículo.",
+      "feedbackError": "A resposta curta de trabalho informa o essencial e não vira currículo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabajo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "938b8d26-6c7b-4acd-bf67-e58adb68cc9c",
+      "title": "Complete a resposta sobre moradia",
+      "content": "<p>Vivo con mi _______.</p><p>Tradução: Moro com a minha irmã.</p>",
+      "contentPlain": "Vivo con mi _______. Tradução: Moro com a minha irmã.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vivo con mi hermana mostra como responder sobre vida pessoal sem alongar.",
+      "feedbackError": "Vivo con mi hermana mostra como responder sobre vida pessoal sem alongar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hermana",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Perguntas pessoais com tato"
+}

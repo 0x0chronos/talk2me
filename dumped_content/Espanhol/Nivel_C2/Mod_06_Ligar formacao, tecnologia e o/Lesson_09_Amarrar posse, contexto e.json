@@ -1,0 +1,598 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+    "attemptId": "2eae543b-f0f4-473a-aab0-b8fed4f2d15c",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "6104460d-84e9-4228-8be2-acfc03e5d26a",
+      "dbc0e08c-727b-4667-a81e-e6348ccf6f78",
+      "a5f34995-b23e-4599-863d-01a934250e49",
+      "d927292a-e96f-4a06-aca9-4e6471bb047e",
+      "613b5fc1-ea6e-4100-8ab4-0ff87bd832cb"
+    ],
+    "evaluationExerciseIds": [
+      "960d6788-ac91-4bb4-a39a-d9ceda79e358",
+      "954f1f8e-f5f8-42d7-8068-e0301bf6efb9",
+      "5d1bdc16-cd94-44d1-be75-96f04be7b844",
+      "3a755ca5-3a74-4a5b-8dc3-755b007fdf7c",
+      "6a6b6ff0-ee9a-431a-8964-728585d0e38a"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:31.1434303Z"
+  },
+  "contents": [
+    {
+      "id": "34cc54c4-5ef1-4797-a044-bc7ce118346b",
+      "title": "Leia o mapa curto e observe por que `cuyo` deixa o comentário mais compacto do que uma sequência de frases soltas.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "a1d8995a-73a5-4390-b96a-7cf03126151f",
+          "textContent": "<p>Nesta aula, o foco não é decorar uma definição isolada de <strong>cuyo</strong>, mas perceber quando ele ajuda a condensar uma relação formal.</p><p>Em vez de quebrar a ideia em duas partes, a frase pode ligar:</p><ul><li>quem ou o que aparece como referência principal</li><li>o elemento que pertence, caracteriza ou depende dessa referência</li></ul><p>Isso é especialmente útil em comentários sobre bolsas, programas, projetos, plataformas e instituições.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c72ec535-b061-43a2-9a1d-05b3fad09561",
+      "title": "Leia a frase em espanhol e ligue `cuyo` ao projeto que caracteriza a investigadora.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "ad228265-3a7f-471a-9cbb-3fba59dc6a37",
+          "textContent": "<p><strong>Hay una investigadora cuyo proyecto conecta escuelas rurales y empresas locales.</strong></p><p>Em português: <strong>Existe uma pesquisadora cujo projeto conecta escolas rurais e empresas locais.</strong></p><p>A frase não separa a pesquisadora e o projeto em dois comentários independentes.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "746a8975-c2fe-418b-bba7-471fadb064cc",
+      "title": "Leia a frase e observe que agora a relação formal recai sobre uma rede de mentores.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "d801b644-5167-499c-b2f8-7f584ed7fabf",
+          "textContent": "<p><strong>Es una plataforma cuya red de mentores apoya a perfiles nuevos en el sector.</strong></p><p>Em português: <strong>É uma plataforma cuja rede de mentores apoia perfis novos no setor.</strong></p><p>A frase continua formal e compacta, mas agora o elemento ligado é <strong>red</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "bc93a4dc-ca8d-44b3-b6f7-babb2113239a",
+      "title": "Leia a frase e note que o foco passa para requisitos plurais ligados ao convênio.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "785d8a5c-e4f2-433f-841c-d74e0215881c",
+          "textContent": "<p><strong>Son convenios cuyos requisitos piden experiencia en manejo de datos.</strong></p><p>Em português: <strong>São convênios cujos requisitos pedem experiência em manejo de dados.</strong></p><p>O comentário fica mais denso porque convênio e requisitos aparecem na mesma estrutura.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "70d4d7bd-9697-4337-b896-1f2a4b3b5c07",
+      "title": "Leia a frase e observe que a relação formal agora aponta para condições plurais de uma bolsa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "b4074ec2-1c78-4c30-9a04-67ab6f29846d",
+          "textContent": "<p><strong>Son becas cuyas condiciones incluyen apoyo economico y seguimiento docente.</strong></p><p>Em português: <strong>São bolsas cujas condições incluem apoio econômico e acompanhamento docente.</strong></p><p>Agora a forma muda de novo porque o substantivo ligado é <strong>condiciones</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4138e97b-a178-4eb3-ba60-39d3e8fd2798",
+      "title": "Leia o quadro curto e observe com qual substantivo cada forma concorda.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "d3681950-addd-4ff6-a2d2-8e8c2bc829b5",
+          "textContent": "<p>O ponto central desta aula é simples: <strong>cuyo</strong> não concorda com quem possui, mas com o nome que aparece depois.</p><ul><li><strong>cuyo proyecto</strong>: <strong>proyecto</strong> é masculino singular</li><li><strong>cuya red</strong>: <strong>red</strong> é feminino singular</li><li><strong>cuyos requisitos</strong>: <strong>requisitos</strong> é masculino plural</li><li><strong>cuyas condiciones</strong>: <strong>condiciones</strong> é feminino plural</li></ul><p>Se o aluno enxerga esse encaixe, a estrutura deixa de parecer arbitraria.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9f0cda17-5720-44dd-97bc-f6ec75a19c7c",
+      "title": "Compare as duas formulações e foque no ganho de densidade da segunda.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "a3b540a7-8db6-4053-868b-40a651f8b9c5",
+          "textContent": "<p>Duas frases podem falar da mesma relação, mas não soam iguais.</p><ul><li><strong>Es un programa que tiene unas condiciones que cambian segun la region.</strong></li><li><strong>Es un programa cuyas condiciones cambian segun la region.</strong></li></ul><p>A segunda versão fica mais compacta e tende a soar mais natural em descrição de programa, perfil institucional, nota técnica ou comentário profissional.</p><p>Em conversa casual, outras estruturas podem aparecer mais. Aqui, o ganho está no registro formal.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e795fe27-cb01-4ba4-98e8-34b133e7d59b",
+      "title": "Leia o recap final e observe em que tipos de texto essa estrutura se torna especialmente útil.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "c74635fb-ba66-4adc-a01e-4d5471dbfe3a",
+          "textContent": "<p>Nesta aula, <strong>cuyo</strong> deixou de ser uma partícula abstrata e passou a servir para ligar pessoa, projeto, plataforma, convênio ou beca em uma frase mais formal.</p><p>Isso aparece em usos reais como:</p><ul><li>um perfil de pesquisa <strong>cuyo proyecto</strong> precisa ser apresentado com precisão</li><li>uma plataforma <strong>cuya red</strong> de apoio precisa ser descrita sem rodeios</li><li>uma bolsa ou um convênio <strong>cuyas condiciones</strong> ou <strong>cuyos requisitos</strong> precisam ficar claros</li></ul><p>Assim, o fechamento do capítulo junta formação, tecnologia e oportunidade em comentários que soam mais institucionais e mais coesos.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f876afee-681d-4fb7-8b63-8307eb496916",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "1e668a73-758d-4ac3-a724-47378903ae5c",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a50510c410584508bbe9f0bcca2642a8_MEC-IDIOMAS_CAP_6_-_AULA_09_ESP.mp4?Expires=1794099931&Signature=mcODc5COxiMcisPpCsntEHUFEG8pLIqEBkCLE0C8c4K78swexf~uLvYaV7WNzyCDytAT1uZePR3iPkjbMzkeB2bIZvVoGyyXr1H-UnwSAJk~NG9KUPVpU7Meru5LBsW5pt35A4DrgY7gGgdx030eYSXcHqWbGFjfXmZ3ADjVtkFIw-mg-Rlw5FeeklGqQeuKgTbB32WJdhIrpPEB3oc50NkCUiONDSzUxWGSJ72BPRwgH4s1nXuLQH5OitLW5bP9uQgg4ONtHSLMR8FSLSgEqCVj3I3MdY2bzvzYdJrCacddh9tPbug1CA37yBtyvC8WOMAU-Ge2GfCzZDF0Aw4T7A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a50510c410584508bbe9f0bcca2642a8_MEC-IDIOMAS_CAP_6_-_AULA_09_ESP.mp4?Expires=1794099931&Signature=mcODc5COxiMcisPpCsntEHUFEG8pLIqEBkCLE0C8c4K78swexf~uLvYaV7WNzyCDytAT1uZePR3iPkjbMzkeB2bIZvVoGyyXr1H-UnwSAJk~NG9KUPVpU7Meru5LBsW5pt35A4DrgY7gGgdx030eYSXcHqWbGFjfXmZ3ADjVtkFIw-mg-Rlw5FeeklGqQeuKgTbB32WJdhIrpPEB3oc50NkCUiONDSzUxWGSJ72BPRwgH4s1nXuLQH5OitLW5bP9uQgg4ONtHSLMR8FSLSgEqCVj3I3MdY2bzvzYdJrCacddh9tPbug1CA37yBtyvC8WOMAU-Ge2GfCzZDF0Aw4T7A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "6104460d-84e9-4228-8be2-acfc03e5d26a",
+      "title": "Escolha a versao mais formal",
+      "content": "<p>Qual opcao resume melhor a relacao entre programa e condicoes no registro trabalhado na aula?</p>",
+      "contentPlain": "Qual opcao resume melhor a relacao entre programa e condicoes no registro trabalhado na aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, `cuyo` aparece para compactar a relacao e soar mais institucional.",
+      "feedbackError": "Nesta aula, `cuyo` aparece para compactar a relacao e soar mais institucional.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "21d66d5b-498e-42a0-b524-3b9e7f7851b4",
+          "textContent": "Es un programa cuyas condiciones cambian segun la region.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6104460d-84e9-4228-8be2-acfc03e5d26a"
+        },
+        {
+          "id": "5511dc28-a30b-4d89-ab6d-15fefde93d8a",
+          "textContent": "Es un programa cuyos condiciones cambian segun la region.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6104460d-84e9-4228-8be2-acfc03e5d26a"
+        },
+        {
+          "id": "759a303a-2686-4f1d-95e2-fdf4e2d54efe",
+          "textContent": "Es un programa cuya condiciones cambian segun la region.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6104460d-84e9-4228-8be2-acfc03e5d26a"
+        },
+        {
+          "id": "d777f4ec-ece1-41a9-af43-879b162fbed0",
+          "textContent": "Es un programa que tiene unas condiciones que cambian segun la region.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6104460d-84e9-4228-8be2-acfc03e5d26a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "dbc0e08c-727b-4667-a81e-e6348ccf6f78",
+      "title": "Escolha a versão mais formal",
+      "content": "<p>Qual opção resume melhor a relação entre programa e condições no registro trabalhado na aula?</p>",
+      "contentPlain": "Qual opção resume melhor a relação entre programa e condições no registro trabalhado na aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, `cuyo` aparece para compactar a relação e soar mais institucional.",
+      "feedbackError": "Nesta aula, `cuyo` aparece para compactar a relação e soar mais institucional.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0919c88a-f339-4b5f-ae52-f991749643ec",
+          "textContent": "Es un programa cuyos condiciones cambian segun la region.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dbc0e08c-727b-4667-a81e-e6348ccf6f78"
+        },
+        {
+          "id": "68a6c06e-a3b1-4671-898d-26c1a807e468",
+          "textContent": "Es un programa cuya condiciones cambian segun la region.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dbc0e08c-727b-4667-a81e-e6348ccf6f78"
+        },
+        {
+          "id": "97f75d64-8b58-4879-a52d-aea320549474",
+          "textContent": "Es un programa que tiene unas condiciones que cambian segun la region.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "dbc0e08c-727b-4667-a81e-e6348ccf6f78"
+        },
+        {
+          "id": "a3a5c7e7-fba9-4e2c-9237-3942908ad669",
+          "textContent": "Es un programa cuyas condiciones cambian segun la region.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "dbc0e08c-727b-4667-a81e-e6348ccf6f78"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a5f34995-b23e-4599-863d-01a934250e49",
+      "title": "Complete a relação formal",
+      "content": "<p>Complete em espanhol: Hay una investigadora ____ proyecto conecta escuelas rurales y empresas locales.</p><p>Tradução: Existe uma pesquisadora cujo projeto conecta escolas rurais e empresas locais.</p>",
+      "contentPlain": "Complete em espanhol: Hay una investigadora ____ proyecto conecta escuelas rurales y empresas locales. Tradução: Existe uma pesquisadora cujo projeto conecta escolas rurais e empresas locais.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Cuyo` ajuda a unir referência principal e projeto na mesma frase formal.",
+      "feedbackError": "`Cuyo` ajuda a unir referência principal e projeto na mesma frase formal.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuyo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d927292a-e96f-4a06-aca9-4e6471bb047e",
+      "title": "Ligue o substantivo e a palavra",
+      "content": "<p>Recupere a regra central da aula ligando cada substantivo em espanhol ao item que concorda com ele.</p>",
+      "contentPlain": "Recupere a regra central da aula ligando cada substantivo em espanhol ao item que concorda com ele.",
+      "fileUrl": null,
+      "feedbackSuccess": "A concordancia de `cuyo` segue o substantivo possuido em espanhol.",
+      "feedbackError": "A concordancia de `cuyo` segue o substantivo possuido em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7f9f156a-8fe3-41d0-b128-8f47c04e90ab",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d927292a-e96f-4a06-aca9-4e6471bb047e"
+        },
+        {
+          "id": "b4d2fd0c-a92a-44a2-a73b-878763c871c8",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d927292a-e96f-4a06-aca9-4e6471bb047e"
+        }
+      ],
+      "associations": [
+        {
+          "id": "dc675aa6-58fd-4d9e-90c2-f49e82c577ad",
+          "exerciseId": "d927292a-e96f-4a06-aca9-4e6471bb047e",
+          "leftContent": "proyecto",
+          "rightContent": "cuyo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c433cbbc-b896-43b4-a60f-7ea9fc66ce67",
+          "exerciseId": "d927292a-e96f-4a06-aca9-4e6471bb047e",
+          "leftContent": "red",
+          "rightContent": "cuya",
+          "sequenceItem": 2
+        },
+        {
+          "id": "da4eb203-6b20-4841-9c15-8b3d6ff78df0",
+          "exerciseId": "d927292a-e96f-4a06-aca9-4e6471bb047e",
+          "leftContent": "requisitos",
+          "rightContent": "cuyos",
+          "sequenceItem": 3
+        },
+        {
+          "id": "68bb6730-3e92-4cad-afd2-bf2cc231c91d",
+          "exerciseId": "d927292a-e96f-4a06-aca9-4e6471bb047e",
+          "leftContent": "condiciones",
+          "rightContent": "cuyas",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "613b5fc1-ea6e-4100-8ab4-0ff87bd832cb",
+      "title": "Ligue contexto e trecho",
+      "content": "<p>No recap final, relacione cada contexto da aula ao trecho em espanhol que o descreve com mais coesao.</p>",
+      "contentPlain": "No recap final, relacione cada contexto da aula ao trecho em espanhol que o descreve com mais coesao.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap liga `cuyo` a perfis, plataformas, convênios e becas em uso real.",
+      "feedbackError": "O recap liga `cuyo` a perfis, plataformas, convênios e becas em uso real.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "a9cee039-4155-4a47-903f-1ace6df66004",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "613b5fc1-ea6e-4100-8ab4-0ff87bd832cb"
+        },
+        {
+          "id": "c3171131-bb57-4ceb-b5ed-acd90ff1869e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "613b5fc1-ea6e-4100-8ab4-0ff87bd832cb"
+        }
+      ],
+      "associations": [
+        {
+          "id": "e68e00f6-2ff3-4c5c-92c9-a7793c328fd1",
+          "exerciseId": "613b5fc1-ea6e-4100-8ab4-0ff87bd832cb",
+          "leftContent": "perfil de pesquisa",
+          "rightContent": "cuyo proyecto",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9cb9def7-5d0c-45d1-999e-bc3c3a0c5846",
+          "exerciseId": "613b5fc1-ea6e-4100-8ab4-0ff87bd832cb",
+          "leftContent": "plataforma de mentoria",
+          "rightContent": "cuya red",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f672ec35-6c69-426f-af95-b08aa357646d",
+          "exerciseId": "613b5fc1-ea6e-4100-8ab4-0ff87bd832cb",
+          "leftContent": "convenio tecnico",
+          "rightContent": "cuyos requisitos",
+          "sequenceItem": 3
+        },
+        {
+          "id": "13165af5-840c-47d6-9e3f-bdd6e4e5ec90",
+          "exerciseId": "613b5fc1-ea6e-4100-8ab4-0ff87bd832cb",
+          "leftContent": "bolsa com acompanhamento",
+          "rightContent": "cuyas condiciones",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "960d6788-ac91-4bb4-a39a-d9ceda79e358",
+      "title": "Recupere a relacao com rede",
+      "content": "<p>Complete em espanhol: Es una plataforma ____ red de mentores acompana a perfiles emergentes.</p><p>Tradução: E uma plataforma cuja rede de mentores acompanha perfis emergentes.</p>",
+      "contentPlain": "Complete em espanhol: Es una plataforma ____ red de mentores acompana a perfiles emergentes. Tradução: E uma plataforma cuja rede de mentores acompanha perfis emergentes.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Cuya` reaparece quando o nome ligado e feminino singular.",
+      "feedbackError": "`Cuya` reaparece quando o nome ligado e feminino singular.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuya",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "954f1f8e-f5f8-42d7-8068-e0301bf6efb9",
+      "title": "Feche a frase com projeto",
+      "content": "<p>Complete em espanhol: Presentaron a una investigadora ____ proyecto une formacion tecnica y desarrollo local.</p><p>Tradução: Apresentaram uma pesquisadora cujo projeto une formação técnica e desenvolvimento local.</p>",
+      "contentPlain": "Complete em espanhol: Presentaron a una investigadora ____ proyecto une formacion tecnica y desarrollo local. Tradução: Apresentaram uma pesquisadora cujo projeto une formação técnica e desenvolvimento local.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Cuyo` fecha o capítulo ligando pessoa, projeto e contexto em uma frase mais coesa.",
+      "feedbackError": "`Cuyo` fecha o capítulo ligando pessoa, projeto e contexto em uma frase mais coesa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuyo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5d1bdc16-cd94-44d1-be75-96f04be7b844",
+      "title": "Ligue a reescrita formal",
+      "content": "<p>Relacione cada frase mais quebrada com a reformulacao em espanhol que fica mais compacta e institucional.</p>",
+      "contentPlain": "Relacione cada frase mais quebrada com a reformulacao em espanhol que fica mais compacta e institucional.",
+      "fileUrl": null,
+      "feedbackSuccess": "O ganho de <strong>cuyo</strong> nesta aula está em condensar a relação sem perder precisão.",
+      "feedbackError": "O ganho de <strong>cuyo</strong> nesta aula está em condensar a relação sem perder precisão.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "08d56235-6dea-4614-9c56-e1d7700dac49",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5d1bdc16-cd94-44d1-be75-96f04be7b844"
+        },
+        {
+          "id": "0a036e5c-abfd-4573-9ada-660942610371",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5d1bdc16-cd94-44d1-be75-96f04be7b844"
+        }
+      ],
+      "associations": [
+        {
+          "id": "763c4c8d-b595-4831-956c-09fec6e3fe81",
+          "exerciseId": "5d1bdc16-cd94-44d1-be75-96f04be7b844",
+          "leftContent": "Es una plataforma que tiene una red de mentores muy activa.",
+          "rightContent": "Es una plataforma cuya red de mentores es muy activa.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "461c4e0a-84ef-4b1d-9cc8-8a02ccf58c6f",
+          "exerciseId": "5d1bdc16-cd94-44d1-be75-96f04be7b844",
+          "leftContent": "Son convenios que tienen requisitos cada vez más técnicos.",
+          "rightContent": "Son convenios cuyos requisitos son cada vez más técnicos.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "39f14941-4f6c-45e9-b462-2ad47bdd8d92",
+          "exerciseId": "5d1bdc16-cd94-44d1-be75-96f04be7b844",
+          "leftContent": "Hay una investigadora que tiene un proyecto sobre escuelas rurales.",
+          "rightContent": "Hay una investigadora cuyo proyecto trata sobre escuelas rurales.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2b964b7e-245d-40c7-b0d7-6e5421a3c744",
+          "exerciseId": "5d1bdc16-cd94-44d1-be75-96f04be7b844",
+          "leftContent": "Son becas que tienen condiciones distintas segun la region.",
+          "rightContent": "Son becas cuyas condiciones varian segun la region.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "3a755ca5-3a74-4a5b-8dc3-755b007fdf7c",
+      "title": "Recupere a relação com rede",
+      "content": "<p>Complete em espanhol: Es una plataforma ____ red de mentores acompaña a perfiles emergentes.</p><p>Tradução: É uma plataforma cuja rede de mentores acompanha perfis emergentes.</p>",
+      "contentPlain": "Complete em espanhol: Es una plataforma ____ red de mentores acompaña a perfiles emergentes. Tradução: É uma plataforma cuja rede de mentores acompanha perfis emergentes.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Cuya` reaparece quando o nome ligado é feminino singular.",
+      "feedbackError": "`Cuya` reaparece quando o nome ligado é feminino singular.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuya",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "6a6b6ff0-ee9a-431a-8964-728585d0e38a",
+      "title": "Recupere a relação com requisitos",
+      "content": "<p>Complete em espanhol: Firmaron convenios _____ requisitos incluyen experiencia con datos abiertos.</p><p>Tradução: Eles assinaram convênios cujos requisitos incluem experiência com dados abertos.</p>",
+      "contentPlain": "Complete em espanhol: Firmaron convenios _____ requisitos incluyen experiencia con datos abiertos. Tradução: Eles assinaram convênios cujos requisitos incluem experiência com dados abertos.",
+      "fileUrl": null,
+      "feedbackSuccess": "`Cuyos` aparece quando o nome ligado é masculino plural.",
+      "feedbackError": "`Cuyos` aparece quando o nome ligado é masculino plural.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuyos",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fc910065-c603-4c41-9580-42a884f40210",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Amarrar posse, contexto e instituicao com cuyo"
+}

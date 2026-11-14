@@ -1,0 +1,636 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+    "attemptId": "b80fcd4f-8841-4742-951e-35b8a80b5e4a",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "d99201ea-f5f6-4623-b711-3dfe880149ba",
+      "8b8028f7-200f-47cd-803b-5ba2acb5b1ce",
+      "1fd77537-8319-4771-a1aa-d74219cce323",
+      "f4deb4c9-7818-4418-bdee-b2551023de97",
+      "885b8dfc-c023-4345-a459-79ba070fa262"
+    ],
+    "evaluationExerciseIds": [
+      "409862cf-5562-414a-a903-3cc54f6ca4fb",
+      "5fcd14ab-e526-4ee1-95a0-3abfb51a9350",
+      "11e4f7d7-90f3-4b81-8f4b-2080fdb3713a",
+      "51ffb574-af3b-4766-b3e4-ff877a7f44f4",
+      "b08f6736-a8dc-43fa-894e-4b9717a9dc26"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:59.1473406Z"
+  },
+  "contents": [
+    {
+      "id": "48ba6b10-98ee-4f22-ba65-9ae05f18472c",
+      "title": "Leia o contexto e observe quais saídas curtas costumam aparecer quando a pessoa já decidiu o que fazer com a peça.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "44cb1a0c-4fee-458c-98d3-e615cb577bde",
+          "textContent": "<p>A prova da roupa já terminou.</p><p>Agora a decisão precisa ficar clara: você pode <strong>levar</strong> a peça, <strong>trocar</strong> por outra opção, pedir <strong>devolução</strong> ou registrar uma <strong>reclamação</strong>.</p><p>Nesta aula, o foco é reconhecer qual frase curta resolve cada caminho no caixa ou no atendimento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c041f7b2-8d3b-46a5-9c5f-d84238dba253",
+      "title": "Escute e leia a frase. Relacione o espanhol ao momento em que a pessoa decide ficar com a peça.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "7ff4ba54-1a2f-4c36-9d85-50e849cbe4db",
+          "textContent": "<p>Quando a escolha já está fechada, a resposta pode ser mínima.</p><p><strong>Me la llevo.</strong></p><p>Em português: <strong>Vou levar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/523a1869abea4bae8472a7c64b4e4e00_l05b02-me-la-llevo.mp3?Expires=1794099659&Signature=fC7XNKh0AB~QLNzslNHcGXUp78RFBgcsgM2qjGXyQyUgw7046bdA1MTjuGkKx-HOSeFUd2WU4AlGOsYPR3wgfTHGXZ8JJtefszf2D-gYSf~e9YgcGArbl5738iOZ09yHGZ2wpaM2I3QxJO3bUENJsrYyyB4I5-YfChSp88ll1TDsoIzkOqL1X8VBSIR3II3T~XJhHYLZu71~aI53PAglqSPq08pYbUWvLOry4fvnXBPlmPvTTzEuXYpxE~WA7cOtfbhmmBFG~wXu9RBbuDaQWF1C3kpVeruJoKOg3jXpeJAPspplR5pqIQkXo33AgSVPjnTIATAWf5RpFwvbeHw~3Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b633560c-5667-410e-97d0-74b094998aa0",
+      "title": "Leia a nota curta e observe por que essa frase funciona bem no fim da escolha.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "ed3104b6-0ff9-4252-9c93-fd2556d765bb",
+          "textContent": "<p><strong>Me la llevo.</strong> funciona quando a decisão já está tomada e você não precisa abrir outro problema.</p><p>A frase cabe bem depois de comentários como caimento, finalidade da compra ou conselho recebido antes.</p><p>Ela fecha a interação de modo direto: a peça ficou certa, então a compra continua.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "92cedf80-2a02-4a23-b411-390b2f878b8c",
+      "title": "Escute e leia a frase. Note que a pessoa não fica com aquela opção, mas ainda quer resolver a compra.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "5cad46a7-3536-49a2-871c-d8bace5da803",
+          "textContent": "<p>Se a peça não vai com você desse jeito, a decisão muda.</p><p><strong>La cambio.</strong></p><p>Em português: <strong>Vou trocar.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f9133b3645644eb196d5b0e1b62d1466_l05b04-la-cambio.mp3?Expires=1794099659&Signature=WJzsTZYXxG4EhqMkQ0RjulDTWjACtZs4aBTlofyWnZvtWZQaOHUx~HQBfMD9Ya1Oevttck6bL9mR6vcgfSYNDSfvMdVTO4kegE3TQvmrK4s9H39RDz6P3RFH4UsRZEe~crN2RYc0iQ4jkqoTRy528Y3tzoxM0sWlNzxYr4~S9Gv7nXZiRcnCnPNJ3W-YaT1RA69rvVjRK9-b2QCN2-LV-xc6VnsyF5hhiirLCjlPINSGwuZMzvTnkMc~vhXRgzfdy9voeHTeNyzDM8tTgfZgj7nWRFreO7Z099i4B0qM0Ww-MebEoNpO2j-ZowCLKic3S6JceR8gKpy3JHchUCF58Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8c55e7ad-8f0a-4cc6-bc3c-2decbb39c82f",
+      "title": "Leia a explicação e observe a diferença entre trocar a peça e desistir totalmente dela.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "1723ccf8-403d-4ade-9f97-ae4e70e03a5f",
+          "textContent": "<p><strong>La cambio.</strong> serve quando você ainda quer continuar com a compra, mas precisa de outra versão da peça.</p><p>O problema aqui costuma ser prático: tamanho, cor, ajuste ou outro detalhe parecido.</p><p>Por isso, trocar é diferente de pedir o dinheiro de volta ou abrir uma reclamação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6bde6a2c-a1d3-488f-9784-650a77efc0f1",
+      "title": "Passe pelos dois cartões com áudio. Observe a diferença entre recuperar o dinheiro e registrar um problema.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "35298954-fb22-459b-b036-14b72c387bcf",
+          "textContent": "<p><strong>Quiero una devolución.</strong></p><p>Em português: <strong>Quero uma devolução do valor.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a56b1336351649cd8b9e879f620923b5_l05b06-quiero-una-devolucion.mp3?Expires=1794099659&Signature=Qz~KLh63o-YJCiFfBh8MfHEKNhpk8-BNua4Yp9Ir8~EZiqLWOi00qBJSHHnpPbxviSez7IzHPBI-oMNUzJFomkTXCbmJhNZbMIGyznyGrD9-~TRlHzlwRRP4qAmSziOd-AdydwwpuBS~9jinWmim5az5FdoFCPzHNa-J-WGeFF~P5MmDSb-xdgfRDN8umw-dLNYLXEbAUDHc5TwtojlParDuS0OFxZyxcjLk1B584gyd79Qh7bScxPn79LZxyZC0A9rj1mPf-vdrAiIyik9qw4oluAriuI-BCzsQ-vfImlKq31i8EH6DZINBh~SSuk-0KA3TV-Rm6zVC~lXtlokVyQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "99c89d9f-df50-4c73-9425-9a42d5942782",
+          "textContent": "<p><strong>Quiero poner una reclamación.</strong></p><p>Em portugues: <strong>Quero registrar uma reclamação.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a9ed47d42a0b4fed8a1726ce080229cb_l05b06-quiero-poner-una-reclamacion.mp3?Expires=1794099659&Signature=p1OaKehZfzkkV8L01F1Ooc-tmjMaJA46y7QP7SwaQWZPY946EznMdYUx1BAI0SCvcxO0PiEcpNYEX-tBSgpV2VLCH1~PV6kBkNZIqxm38ESM3mQZmy0lJtBuAHj5JHesQOvZw6ZmP-iI87Ds3iD9MC2TYMtM6EIZq76qDqwqnWOSoZX8GApNdp8y20XQI72CqPqYPcRfyXoCTcoYbQj0DcaO2ZtAae-JArCWuJ5kpxs2aRBriXyEdtsins6JL~-d8m55ku4GRl7SHZNLPVTvT3Ds12VJvOj1A3Jfxm7LNSWcw~P1qJSLh-v7WfuNq~bMSawdAFj39p5dm5kxJ0EtNA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "be5cb43f-0d12-492b-a117-de9cd6ae1942",
+      "title": "Leia o contraste e identifique que tipo de problema cada frase resolve.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "72903617-978c-427d-95d7-8985d64374b1",
+          "textContent": "<p><strong>Quiero una devolución.</strong> aparece quando você não quer seguir com a compra e prefere receber o valor de volta.</p><p><strong>Quiero poner una reclamación.</strong> aparece quando existe um problema que precisa ficar registrado, como defeito sério, entrega errada ou atendimento ruim.</p><p>As duas frases pertencem ao pós-compra, mas não fazem o mesmo trabalho.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "577d0a92-6b47-4978-b821-8abf8956d9fe",
+      "title": "Leia o resumo final e pense em qual dessas frases você usaria numa loja física ou numa compra online.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "a29e38a1-7948-4bc3-9d97-1fd4b88ea7ff",
+          "textContent": "<p>No fim de uma compra de roupa, estas quatro decisões resolvem situações reais diferentes:</p><ul><li><strong>Me la llevo.</strong> quando a peça ficou certa e você vai fechar a compra.</li><li><strong>La cambio.</strong> quando ainda quer a peça, mas precisa de outra opção.</li><li><strong>Quiero una devolución.</strong> quando prefere encerrar a compra e receber o valor de volta.</li><li><strong>Quiero poner una reclamación.</strong> quando houve um problema que precisa ser registrado.</li></ul><p>Isso serve tanto no caixa quanto depois, ao resolver uma compra de roupa que chegou com problema ou não saiu como esperado.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "d99201ea-f5f6-4623-b711-3dfe880149ba",
+      "title": "Escolha a decisão final",
+      "content": "<p>Você já decidiu ficar com a peça e não precisa abrir outro problema no atendimento. Qual frase em espanhol fecha essa compra de forma direta?</p>",
+      "contentPlain": "Você já decidiu ficar com a peça e não precisa abrir outro problema no atendimento. Qual frase em espanhol fecha essa compra de forma direta?",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta aula diferencia fechar a compra de trocar, devolver ou reclamar.",
+      "feedbackError": "Esta aula diferencia fechar a compra de trocar, devolver ou reclamar.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1dbe8230-bbf8-46a0-a7d0-69bf2277b5ea",
+          "textContent": "Quiero poner una reclamación.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d99201ea-f5f6-4623-b711-3dfe880149ba"
+        },
+        {
+          "id": "6d7548c8-9671-42df-bd5c-a0cb65d6b21e",
+          "textContent": "Quiero una devolución.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d99201ea-f5f6-4623-b711-3dfe880149ba"
+        },
+        {
+          "id": "72c8214a-71da-4cd3-8179-67759cf9f827",
+          "textContent": "La cambio.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d99201ea-f5f6-4623-b711-3dfe880149ba"
+        },
+        {
+          "id": "9a6cbbdf-bbbd-46fa-953a-28c6250d82f2",
+          "textContent": "Me la llevo.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d99201ea-f5f6-4623-b711-3dfe880149ba"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8b8028f7-200f-47cd-803b-5ba2acb5b1ce",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase usada para registrar um problema.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase usada para registrar um problema.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9be9ac4330ba45958fc014da037b1e58_l05b06-quiero-poner-una-reclamacion.mp3?Expires=1794099659&Signature=TypNjQGPi206vC-36UnfKnAuGMIQxc~bznaHbHeOl1pimUjNtX5we1btriinyFb2RFoNdEJAN-amV7TwLYVrTNN7mkwSZwEXdC9ZDMfEqdoSZ1ULWcC9reCdYzvzIG8oLELUbyClIAwDT2b9BrW09FSNbWlpEpsDRCS~ObuUTZCu1DTLqodPdL~R7pz701sk5rmOaTyR1aqX5ttjKJ~N5SoUSgl767qM3aW9y~Bdxs5CQoZct315wqVQYNsOeqYebYaj6O1avzQ1jZUWB~F8xY1oEcQ0EmlET3A1T6jSoiRyUXRoTwTzcpaYrCSRIZEOebzULpQa7j9zZoR6hbaYjA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta repetição ativa a fórmula curta de reclamação no atendimento.",
+      "feedbackError": "Esta repetição ativa a fórmula curta de reclamação no atendimento.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Quiero poner una reclamación.",
+      "typeSpecificData": "{\"expectedText\":\"Quiero poner una reclamaci\\u00F3n.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/9be9ac4330ba45958fc014da037b1e58_l05b06-quiero-poner-una-reclamacion.mp3?Expires=1794099659\\u0026Signature=TypNjQGPi206vC-36UnfKnAuGMIQxc~bznaHbHeOl1pimUjNtX5we1btriinyFb2RFoNdEJAN-amV7TwLYVrTNN7mkwSZwEXdC9ZDMfEqdoSZ1ULWcC9reCdYzvzIG8oLELUbyClIAwDT2b9BrW09FSNbWlpEpsDRCS~ObuUTZCu1DTLqodPdL~R7pz701sk5rmOaTyR1aqX5ttjKJ~N5SoUSgl767qM3aW9y~Bdxs5CQoZct315wqVQYNsOeqYebYaj6O1avzQ1jZUWB~F8xY1oEcQ0EmlET3A1T6jSoiRyUXRoTwTzcpaYrCSRIZEOebzULpQa7j9zZoR6hbaYjA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1fd77537-8319-4771-a1aa-d74219cce323",
+      "title": "Ligue frase e sentido",
+      "content": "<p>Relacione as quatro saídas finais da aula ao que cada uma resolve na compra ou no pós-compra.</p>",
+      "contentPlain": "Relacione as quatro saídas finais da aula ao que cada uma resolve na compra ou no pós-compra.",
+      "fileUrl": null,
+      "feedbackSuccess": "As quatro frases resolvem caminhos diferentes no caixa e no pós-compra.",
+      "feedbackError": "As quatro frases resolvem caminhos diferentes no caixa e no pós-compra.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "989dc634-366e-477c-9eb3-bb669a089e66",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "1fd77537-8319-4771-a1aa-d74219cce323"
+        },
+        {
+          "id": "d74545c2-c54c-4bc2-afeb-101c80abe8a0",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "1fd77537-8319-4771-a1aa-d74219cce323"
+        }
+      ],
+      "associations": [
+        {
+          "id": "367f6349-af85-441c-96ba-3422f0cfa08e",
+          "exerciseId": "1fd77537-8319-4771-a1aa-d74219cce323",
+          "leftContent": "Me la llevo.",
+          "rightContent": "levar a peça",
+          "sequenceItem": 1
+        },
+        {
+          "id": "cef53478-96c8-483d-90ff-fed5393e2fe0",
+          "exerciseId": "1fd77537-8319-4771-a1aa-d74219cce323",
+          "leftContent": "La cambio.",
+          "rightContent": "trocar por outra opção",
+          "sequenceItem": 2
+        },
+        {
+          "id": "902e747f-8ed4-42fc-a5b3-f96efe47fad1",
+          "exerciseId": "1fd77537-8319-4771-a1aa-d74219cce323",
+          "leftContent": "Quiero una devolución.",
+          "rightContent": "pedir o valor de volta",
+          "sequenceItem": 3
+        },
+        {
+          "id": "06e341a6-63d6-44ff-80a3-6c1d041216b1",
+          "exerciseId": "1fd77537-8319-4771-a1aa-d74219cce323",
+          "leftContent": "Quiero poner una reclamación.",
+          "rightContent": "registrar um problema",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "f4deb4c9-7818-4418-bdee-b2551023de97",
+      "title": "Ouça e marque as palavras",
+      "content": "<p>Escute a frase e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a frase e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/26207b8888e146fd9f88e2e9d7a364c0_l05b06-quiero-una-devolucion.mp3?Expires=1794099659&Signature=LTtnmHZyC879lHQlqkpNms7tjy~z9TBrXlDd0j~~Y14oKWb4aYu0SW-hYL-L0AmXmCHDUgDqy19X-2EUEVWG8rIA8ljQftcvgDF097jrj9pGRzp1JkPVOmCkFk8oPAYkIwHSOr0C3oomTWA2Zazj8DVRJTluv4E3piA7WsfRErwf4DlsIsEP4LTvDhzmpp98W3sC23ykRmMxeb0HxSPAeIMRwjTqqz9rDkV9Yuae8QjalhaXTTBhUtxFZIIr~1odLZaFVF9H6-EB~Ph7uKJz4ECR5OWTD1LmFMOjRAEjWvy~nXVpVrTJUkpQfEarX0TwQWFV8rm39K2J1FJoue9pmw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O pedido de devolução usa uma fórmula curta diferente de troca e reclamação.",
+      "feedbackError": "O pedido de devolução usa uma fórmula curta diferente de troca e reclamação.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "60a13584-18b5-45b4-a005-16dd7c4e6de6",
+          "textContent": "reclamación",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f4deb4c9-7818-4418-bdee-b2551023de97"
+        },
+        {
+          "id": "6cc197e9-723f-4805-88aa-f99a5c7d6275",
+          "textContent": "poner",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f4deb4c9-7818-4418-bdee-b2551023de97"
+        },
+        {
+          "id": "7046ad6c-e029-4740-a7e1-02cf66a45b09",
+          "textContent": "una",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f4deb4c9-7818-4418-bdee-b2551023de97"
+        },
+        {
+          "id": "e01f5fe8-5fa1-4ff9-b122-9ea645758f18",
+          "textContent": "devolución",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f4deb4c9-7818-4418-bdee-b2551023de97"
+        },
+        {
+          "id": "f76672d5-c674-4f14-9088-6c784d961ce0",
+          "textContent": "Quiero",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f4deb4c9-7818-4418-bdee-b2551023de97"
+        },
+        {
+          "id": "f98452db-bc55-4d38-a728-5a20abbf160d",
+          "textContent": "cambio",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f4deb4c9-7818-4418-bdee-b2551023de97"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "885b8dfc-c023-4345-a459-79ba070fa262",
+      "title": "Associe áudio e frase",
+      "content": "<p>Associe os dois áudios de decisão ao texto em espanhol correspondente.</p>",
+      "contentPlain": "Associe os dois áudios de decisão ao texto em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na escuta, a aula separa levar a peça de trocá-la por outra opção.",
+      "feedbackError": "Na escuta, a aula separa levar a peça de trocá-la por outra opção.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "fd545c7e-79cf-4e8a-a97f-c30e311d6f4a",
+          "exerciseId": "885b8dfc-c023-4345-a459-79ba070fa262",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7fce9a81043847f0806492fff442f2e0_l05b02-me-la-llevo.mp3?Expires=1794099659&Signature=gV0EJuXqxyjC6DwMuCp5AZ3Ka3Zm2jJW1EYYHPkn5DP38xmZdSu9BHfJsPiKCnz9Vug2W~ec~Z3ju7~Y3KG2OY3rKkisSMQJEr4THNRovgHTr5t1JFEePy7bIKeZpEP9qo0nDyG542lj8G-azef572wCDpCLhErEmczQDvc0iTMxtT5jFb8gX6kMF3AEEs3PxlE-TepxFXV7XGegVGjHlHm4p-5PF5RWhFUvpVSRyhSpnvLKiDS~ChV5Rs-NvWlzLW4LKNQmKsmeQh0mrAiHcixNEkyUNB~NAwDN4nUHCgWkEszXtA33mnowC795V2lCvZlLMX9NAyPZ0Ai6RWXmsg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me la llevo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "71ee6416-2c10-4a16-9b3b-ad6cd1b3d061",
+          "exerciseId": "885b8dfc-c023-4345-a459-79ba070fa262",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/28fd9e390f9e4505a8b1a292ef6b0081_l05b04-la-cambio.mp3?Expires=1794099659&Signature=hVpQfrdSuI-Y9cadBP9kXIXYtmU~EQKb4Mc4UGi1jzTHaS0-wPH5NXSQHGVNH2ip6cLvjJktxw~X-y5oHgjBSZfusLjhbWn4CJcb6lQ7FLN4WysDOoO0YaTirLNxdGZk~QVEMjdiSV-x1-IEanMMpSDYhHJNukD7OPY0hH1PEkrD8jr4BIPJ4rU-NwfhDaHEDysRDI8v2uWTiqs0jQGO8G0Ic4BDrzP90lP5A1C07LynF5Ts45kxHnkEDug9VCXzl~AxjXoA8XXJ5O1uXjay2DqyhGFWdG-MQTtK6fzZb3kmDj~V-c2FH~Fbf1KrknLdDvQimyJwj6wy0hqBXGtfVA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La cambio.",
+          "sequenceItem": 2
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "409862cf-5562-414a-a903-3cc54f6ca4fb",
+      "title": "Recupere a reclamação pelo áudio",
+      "content": "<p>Escute a fala e marque somente as palavras que realmente aparecem quando a troca já não resolve.</p>",
+      "contentPlain": "Escute a fala e marque somente as palavras que realmente aparecem quando a troca já não resolve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9be9ac4330ba45958fc014da037b1e58_l05b06-quiero-poner-una-reclamacion.mp3?Expires=1794099659&Signature=TypNjQGPi206vC-36UnfKnAuGMIQxc~bznaHbHeOl1pimUjNtX5we1btriinyFb2RFoNdEJAN-amV7TwLYVrTNN7mkwSZwEXdC9ZDMfEqdoSZ1ULWcC9reCdYzvzIG8oLELUbyClIAwDT2b9BrW09FSNbWlpEpsDRCS~ObuUTZCu1DTLqodPdL~R7pz701sk5rmOaTyR1aqX5ttjKJ~N5SoUSgl767qM3aW9y~Bdxs5CQoZct315wqVQYNsOeqYebYaj6O1avzQ1jZUWB~F8xY1oEcQ0EmlET3A1T6jSoiRyUXRoTwTzcpaYrCSRIZEOebzULpQa7j9zZoR6hbaYjA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Reclamação serve para registrar um problema, não para trocar ou devolver.",
+      "feedbackError": "Reclamação serve para registrar um problema, não para trocar ou devolver.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1e8e2a6f-0b91-45f5-b68a-f25f26ec0974",
+          "textContent": "cambio",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "409862cf-5562-414a-a903-3cc54f6ca4fb"
+        },
+        {
+          "id": "3a270395-6ff2-4699-aa27-ce4a5d11f6c3",
+          "textContent": "Quiero",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "409862cf-5562-414a-a903-3cc54f6ca4fb"
+        },
+        {
+          "id": "4b66358e-9aa2-4513-be2a-5e824f76c10e",
+          "textContent": "devolución",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "409862cf-5562-414a-a903-3cc54f6ca4fb"
+        },
+        {
+          "id": "712811d6-2fec-4343-9168-0ffd20882cbd",
+          "textContent": "una",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "409862cf-5562-414a-a903-3cc54f6ca4fb"
+        },
+        {
+          "id": "79b8da49-c7da-4137-b6c0-8c58608a99d9",
+          "textContent": "reclamación",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "409862cf-5562-414a-a903-3cc54f6ca4fb"
+        },
+        {
+          "id": "a5565386-3437-4f36-bfdf-f0f8ce63a23e",
+          "textContent": "llevo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "409862cf-5562-414a-a903-3cc54f6ca4fb"
+        },
+        {
+          "id": "f4b1ac48-d7de-4227-9b87-e4d5fe23e858",
+          "textContent": "poner",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "409862cf-5562-414a-a903-3cc54f6ca4fb"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5fcd14ab-e526-4ee1-95a0-3abfb51a9350",
+      "title": "Complete o pedido de devolução",
+      "content": "<p>Complete em espanhol: Quiero una __________.</p><p>Tradução: Quero uma devolução do valor.</p>",
+      "contentPlain": "Complete em espanhol: Quiero una __________. Tradução: Quero uma devolução do valor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Devolución encerra a compra e pede o valor de volta.",
+      "feedbackError": "Devolución encerra a compra e pede o valor de volta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "devolución",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "11e4f7d7-90f3-4b81-8f4b-2080fdb3713a",
+      "title": "Escolha entre devolver e reclamar",
+      "content": "<p>A troca já não resolve e você quer que a loja registre formalmente o problema de produto ou atendimento. Qual frase em espanhol faz isso de modo direto?</p>",
+      "contentPlain": "A troca já não resolve e você quer que a loja registre formalmente o problema de produto ou atendimento. Qual frase em espanhol faz isso de modo direto?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, devolução e reclamação pertencem ao pós-compra, mas não fazem o mesmo trabalho.",
+      "feedbackError": "Na aula, devolução e reclamação pertencem ao pós-compra, mas não fazem o mesmo trabalho.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "29bf0a38-ab91-45cb-95a1-db389a8e8e45",
+          "textContent": "Quiero poner una reclamación.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "11e4f7d7-90f3-4b81-8f4b-2080fdb3713a"
+        },
+        {
+          "id": "a31e218a-3505-42b6-a819-31a45ad0a1a0",
+          "textContent": "La cambio.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "11e4f7d7-90f3-4b81-8f4b-2080fdb3713a"
+        },
+        {
+          "id": "bc3fff52-57d5-48d7-b967-ebcfd67bd814",
+          "textContent": "Me la llevo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "11e4f7d7-90f3-4b81-8f4b-2080fdb3713a"
+        },
+        {
+          "id": "f6f41065-c9af-4241-a01f-94739ddcfcbc",
+          "textContent": "Quiero una devolución.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "11e4f7d7-90f3-4b81-8f4b-2080fdb3713a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "51ffb574-af3b-4766-b3e4-ff877a7f44f4",
+      "title": "Complete a decisão de troca",
+      "content": "<p>Complete em espanhol: La ______.</p><p>Tradução: Vou trocar.</p>",
+      "contentPlain": "Complete em espanhol: La ______. Tradução: Vou trocar.",
+      "fileUrl": null,
+      "feedbackSuccess": "La cambio ativa a saída de troca quando a compra continua com outra opção.",
+      "feedbackError": "La cambio ativa a saída de troca quando a compra continua com outra opção.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambio",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b08f6736-a8dc-43fa-894e-4b9717a9dc26",
+      "title": "Recupere as quatro saídas finais",
+      "content": "<p>Associe cada áudio ao caminho que ele resolve na compra ou no pós-compra.</p>",
+      "contentPlain": "Associe cada áudio ao caminho que ele resolve na compra ou no pós-compra.",
+      "fileUrl": null,
+      "feedbackSuccess": "As quatro saídas finais do capítulo precisam ficar distintas na escuta.",
+      "feedbackError": "As quatro saídas finais do capítulo precisam ficar distintas na escuta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "87200ce1-e5fb-49c5-bc7e-1ad657027714",
+          "exerciseId": "b08f6736-a8dc-43fa-894e-4b9717a9dc26",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7fce9a81043847f0806492fff442f2e0_l05b02-me-la-llevo.mp3?Expires=1794099659&Signature=gV0EJuXqxyjC6DwMuCp5AZ3Ka3Zm2jJW1EYYHPkn5DP38xmZdSu9BHfJsPiKCnz9Vug2W~ec~Z3ju7~Y3KG2OY3rKkisSMQJEr4THNRovgHTr5t1JFEePy7bIKeZpEP9qo0nDyG542lj8G-azef572wCDpCLhErEmczQDvc0iTMxtT5jFb8gX6kMF3AEEs3PxlE-TepxFXV7XGegVGjHlHm4p-5PF5RWhFUvpVSRyhSpnvLKiDS~ChV5Rs-NvWlzLW4LKNQmKsmeQh0mrAiHcixNEkyUNB~NAwDN4nUHCgWkEszXtA33mnowC795V2lCvZlLMX9NAyPZ0Ai6RWXmsg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me la llevo.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "bb8b5927-b961-4452-ab45-07225687241b",
+          "exerciseId": "b08f6736-a8dc-43fa-894e-4b9717a9dc26",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/28fd9e390f9e4505a8b1a292ef6b0081_l05b04-la-cambio.mp3?Expires=1794099659&Signature=hVpQfrdSuI-Y9cadBP9kXIXYtmU~EQKb4Mc4UGi1jzTHaS0-wPH5NXSQHGVNH2ip6cLvjJktxw~X-y5oHgjBSZfusLjhbWn4CJcb6lQ7FLN4WysDOoO0YaTirLNxdGZk~QVEMjdiSV-x1-IEanMMpSDYhHJNukD7OPY0hH1PEkrD8jr4BIPJ4rU-NwfhDaHEDysRDI8v2uWTiqs0jQGO8G0Ic4BDrzP90lP5A1C07LynF5Ts45kxHnkEDug9VCXzl~AxjXoA8XXJ5O1uXjay2DqyhGFWdG-MQTtK6fzZb3kmDj~V-c2FH~Fbf1KrknLdDvQimyJwj6wy0hqBXGtfVA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La cambio.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b87a4c29-f42c-4b10-a408-78a910eadeae",
+          "exerciseId": "b08f6736-a8dc-43fa-894e-4b9717a9dc26",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/26207b8888e146fd9f88e2e9d7a364c0_l05b06-quiero-una-devolucion.mp3?Expires=1794099659&Signature=LTtnmHZyC879lHQlqkpNms7tjy~z9TBrXlDd0j~~Y14oKWb4aYu0SW-hYL-L0AmXmCHDUgDqy19X-2EUEVWG8rIA8ljQftcvgDF097jrj9pGRzp1JkPVOmCkFk8oPAYkIwHSOr0C3oomTWA2Zazj8DVRJTluv4E3piA7WsfRErwf4DlsIsEP4LTvDhzmpp98W3sC23ykRmMxeb0HxSPAeIMRwjTqqz9rDkV9Yuae8QjalhaXTTBhUtxFZIIr~1odLZaFVF9H6-EB~Ph7uKJz4ECR5OWTD1LmFMOjRAEjWvy~nXVpVrTJUkpQfEarX0TwQWFV8rm39K2J1FJoue9pmw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Quiero una devolución.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "135306c2-a81e-466d-b56d-c67d38e7aac5",
+          "exerciseId": "b08f6736-a8dc-43fa-894e-4b9717a9dc26",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9be9ac4330ba45958fc014da037b1e58_l05b06-quiero-poner-una-reclamacion.mp3?Expires=1794099659&Signature=TypNjQGPi206vC-36UnfKnAuGMIQxc~bznaHbHeOl1pimUjNtX5we1btriinyFb2RFoNdEJAN-amV7TwLYVrTNN7mkwSZwEXdC9ZDMfEqdoSZ1ULWcC9reCdYzvzIG8oLELUbyClIAwDT2b9BrW09FSNbWlpEpsDRCS~ObuUTZCu1DTLqodPdL~R7pz701sk5rmOaTyR1aqX5ttjKJ~N5SoUSgl767qM3aW9y~Bdxs5CQoZct315wqVQYNsOeqYebYaj6O1avzQ1jZUWB~F8xY1oEcQ0EmlET3A1T6jSoiRyUXRoTwTzcpaYrCSRIZEOebzULpQa7j9zZoR6hbaYjA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Quiero poner una reclamación.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Fechar a decisao ou abrir uma reclamacao"
+}

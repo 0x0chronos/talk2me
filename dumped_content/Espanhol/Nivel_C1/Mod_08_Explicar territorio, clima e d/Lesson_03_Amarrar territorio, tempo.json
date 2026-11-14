@@ -1,0 +1,564 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+    "attemptId": "99bf4008-5868-40a2-87a7-bebaff443046",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "89364325-14ce-4d75-b50b-4b037d28990a",
+      "282e45b6-44cf-4345-a3e6-094d0d5af6f2",
+      "ba9d770e-9d48-468e-b79f-9eaa32d625b3",
+      "47d2fd45-fdc7-4b66-838b-f0c8bf00bbcb",
+      "16f718f9-b76d-4678-8201-9e7974997b2b"
+    ],
+    "evaluationExerciseIds": [
+      "90841f20-93f6-49eb-b988-6a58567ba1e4",
+      "ac0f0e49-ec48-4916-9adf-ddd37651d699",
+      "c136c7cf-2e8e-48de-8dc4-423895b946bc",
+      "58056a7e-2d8a-4cac-9032-b0b64d9f62c4",
+      "120333b2-28cf-4f7a-9a6e-88c8bbe5060f"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:04:52.2109802Z"
+  },
+  "contents": [
+    {
+      "id": "738b1b2d-5e0a-4b75-8734-5018d9abb812",
+      "title": "Leia o contexto e observe por que um mesmo trajeto pede ritmos diferentes.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "a322a052-b473-4b45-a961-42267ec7e6c1",
+          "textContent": "<p>Imagine um percurso curto que passa pela desembocadura de um rio, cruza uma parte mais aberta e termina no município.</p><p>O foco aqui não é listar a paisagem, mas explicar por que o passeio acelera, desacelera ou pede mais cuidado quando o tempo vira.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0f6c22e3-a81a-4e5e-8f76-d6a2ee3903bf",
+      "title": "Leia a frase em espanhol e note como o ambiente já explica o ritmo do trajeto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "4bf93e41-6e1c-43e7-9b2f-ec0a4eb311a4",
+          "textContent": "<p><strong>Junto a la desembocadura, las ráfagas nos hicieron frenar y caminar con más cuidado.</strong></p><p>Em português: Perto da desembocadura, as rajadas fizeram a gente frear e caminhar com mais cuidado.</p><p>O comentário junta território, tempo e deslocamento na mesma linha.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "94051f0f-e753-4670-9c93-95262cfd57dd",
+      "title": "Leia a nota curta e observe como cada parte da frase cumpre uma função diferente.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "93c58ecc-e368-4ecc-ac7d-16ccee6d04a7",
+          "textContent": "<p>Nesse tipo de comentário, três peças aparecem juntas:</p><ul><li><strong>Junto a la desembocadura</strong> situa o trecho.</li><li><strong>las ráfagas</strong> mostram a mudança de tempo.</li><li><strong>nos hicieron frenar</strong> explica o efeito prático no percurso.</li></ul><p>Assim, o ambiente não fica solto da ação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cd777f38-f926-4397-9bfc-45610ef3cabc",
+      "title": "Leia a frase e observe como o calor muda a leitura do mesmo percurso.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "804e5603-96b6-4e15-b371-fad1a844656c",
+          "textContent": "<p><strong>Por el interior, el sendero era llevadero al amanecer, pero el sol de justicia volvió pesado el tramo final.</strong></p><p>Em português: No interior, a trilha era tranquila ao amanhecer, mas o calor forte deixou a parte final mais pesada.</p><p>A condição atmosférica muda a experiência do deslocamento sem precisar de uma explicação longa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1fbe4be5-f55d-4f9a-9149-a65a27f42a57",
+      "title": "Compare os dois comentários e foque no efeito do ambiente sobre o trajeto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "118588f4-6291-4aaa-9161-2f90f686b232",
+          "textContent": "<p>Os dois comentários fazem o mesmo trabalho com causas diferentes.</p><p>No primeiro, o vento obriga a <strong>frenar</strong>. No segundo, o calor transforma o trecho final em algo mais pesado.</p><p>O ponto central não é decorar um clima isolado, mas mostrar como a condição altera o deslocamento.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "47987c36-f7e6-4486-b0e6-875516b130cc",
+      "title": "Leia a frase e observe como a explicação continua compacta, mesmo com mais de um detalhe do percurso.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "c94f5e6f-02fc-4331-9e3a-2b0bab24a3e7",
+          "textContent": "<p><strong>La ruta entre el cauce y el municipio parecía corta, aunque la llovizna alargó cada parada.</strong></p><p>Em português: O trajeto entre o curso do rio e o município parecia curto, embora a garoa tenha alongado cada parada.</p><p>A frase segue curta, mas já explica por que o percurso foi sentido de outro jeito.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "42487ff1-6e9d-4a35-98a9-15f70168d953",
+      "title": "Leia os três passos e observe como eles organizam a descrição sem alongar demais a fala.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "2d6859f0-c567-404c-9617-36633a671653",
+          "textContent": "<p>Um comentário situado sobre trajeto costuma andar em três passos:</p><ol><li><strong>localizar o trecho</strong>: <strong>Junto a la desembocadura...</strong></li><li><strong>nomear a condição que muda a leitura</strong>: <strong>las ráfagas</strong>, <strong>el sol de justicia</strong>, <strong>la llovizna</strong></li><li><strong>mostrar o efeito no movimento</strong>: <strong>nos hicieron frenar</strong>, <strong>volvió pesado el tramo final</strong>, <strong>alargó cada parada</strong></li></ol><p>Essa ordem ajuda a comentar percurso e passeio sem soar como lista de detalhes.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "bacd2136-71d9-4898-81e4-e08b4cb507d3",
+      "title": "Leia o resumo final e conecte a aula a situações em que você precisaria explicar como um passeio mudou de ritmo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "98ad44aa-256f-4293-9783-26468f5f8dfd",
+          "textContent": "<p>Nesta aula, a linguagem de geografia ficou mais útil quando serviu para explicar o deslocamento.</p><p>Isso aparece em situações reais como um áudio para amigos depois de uma trilha, um post curto sobre um fim de semana ou uma explicação de rota para quem vai fazer o mesmo passeio.</p><p>Em vez de só nomear o lugar ou o clima, você passa a dizer por que o percurso mudou de ritmo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "89364325-14ce-4d75-b50b-4b037d28990a",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a linha em que o vento muda o passo do percurso.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a linha em que o vento muda o passo do percurso.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7bb34b40a968403482ae735de1c94012_b02-desembocadura-rafagas.mp3?Expires=1794099892&Signature=ofzHrCBYvMEASzTkC9b71tiIziMoFv8WJ2ETMIfj5d43t2D1bsS4cj-xRTeH27Xz-VS6sg1OkyDlb86iLcOZoLE0hSnil4WQoFraAz1q~~T21x5ftGaCUl5m5UHEgiDo9-ye6i2pgi6hGwlHjweryfbVz1awsWkjwJnr84cwNzSP2YEjFBO8w7B2POlKJpGWIMZw2Hcmjj8NFyGk0LbTS6BpKP2ZNhqCYCXvGOmfWfHPsuHDQ5SU9YdktkKhVWqiBnXKJcO~ISFZhdHwCMGesBqL5oRN7iPayYqDyaHgtfn2IJwRHgDzcBhkS9JxNMFKlpkvtYD1LL4n1xFR~w1q-w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Esta repetição ativa a linha em que o ambiente obriga a ajustar o movimento.",
+      "feedbackError": "Esta repetição ativa a linha em que o ambiente obriga a ajustar o movimento.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Junto a la desembocadura, las ráfagas nos hicieron frenar y caminar con más cuidado.",
+      "typeSpecificData": "{\"expectedText\":\"Junto a la desembocadura, las r\\u00E1fagas nos hicieron frenar y caminar con m\\u00E1s cuidado.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/7bb34b40a968403482ae735de1c94012_b02-desembocadura-rafagas.mp3?Expires=1794099892\\u0026Signature=ofzHrCBYvMEASzTkC9b71tiIziMoFv8WJ2ETMIfj5d43t2D1bsS4cj-xRTeH27Xz-VS6sg1OkyDlb86iLcOZoLE0hSnil4WQoFraAz1q~~T21x5ftGaCUl5m5UHEgiDo9-ye6i2pgi6hGwlHjweryfbVz1awsWkjwJnr84cwNzSP2YEjFBO8w7B2POlKJpGWIMZw2Hcmjj8NFyGk0LbTS6BpKP2ZNhqCYCXvGOmfWfHPsuHDQ5SU9YdktkKhVWqiBnXKJcO~ISFZhdHwCMGesBqL5oRN7iPayYqDyaHgtfn2IJwRHgDzcBhkS9JxNMFKlpkvtYD1LL4n1xFR~w1q-w__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "282e45b6-44cf-4345-a3e6-094d0d5af6f2",
+      "title": "Ligue trecho e função",
+      "content": "<p>Associe cada parte em espanhol ao trabalho que ela faz no comentário de percurso.</p>",
+      "contentPlain": "Associe cada parte em espanhol ao trabalho que ela faz no comentário de percurso.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta frase, o comentário situado funciona porque cada parte cumpre uma função clara.",
+      "feedbackError": "Nesta frase, o comentário situado funciona porque cada parte cumpre uma função clara.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "374b5155-0be2-4abe-a9cc-b2053e1d1116",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "282e45b6-44cf-4345-a3e6-094d0d5af6f2"
+        },
+        {
+          "id": "b2bdf9f8-d7aa-4d15-bbc6-df0b6db46471",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "282e45b6-44cf-4345-a3e6-094d0d5af6f2"
+        }
+      ],
+      "associations": [
+        {
+          "id": "f6d97868-991c-4fcc-a63d-f5e833e064b5",
+          "exerciseId": "282e45b6-44cf-4345-a3e6-094d0d5af6f2",
+          "leftContent": "Junto a la desembocadura",
+          "rightContent": "localiza o trecho mais exposto",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f16d4b44-f88d-4b72-8102-6cf06f708899",
+          "exerciseId": "282e45b6-44cf-4345-a3e6-094d0d5af6f2",
+          "leftContent": "las ráfagas",
+          "rightContent": "nomeia a mudança de vento",
+          "sequenceItem": 2
+        },
+        {
+          "id": "efaca29b-ef8d-4a8a-a249-0319eeabd43e",
+          "exerciseId": "282e45b6-44cf-4345-a3e6-094d0d5af6f2",
+          "leftContent": "nos hicieron frenar",
+          "rightContent": "mostra o efeito no passo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "cdae28b4-9f2a-40c4-b8b3-335fd7ff4e2d",
+          "exerciseId": "282e45b6-44cf-4345-a3e6-094d0d5af6f2",
+          "leftContent": "el sol de justicia",
+          "rightContent": "nomeia a condição de calor",
+          "sequenceItem": 4
+        },
+        {
+          "id": "93434ec7-2445-4662-ba7b-06ea0df3d739",
+          "exerciseId": "282e45b6-44cf-4345-a3e6-094d0d5af6f2",
+          "leftContent": "alargó cada parada",
+          "rightContent": "mostra o alongamento das pausas",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "ba9d770e-9d48-468e-b79f-9eaa32d625b3",
+      "title": "Recupere o caminho do interior",
+      "content": "<p>Por el interior, el _______ era llevadero al amanecer, pero el sol de justicia volvió pesado el tramo final.</p><p>Tradução: Pelo interior, a trilha era tranquila ao amanhecer, mas o calor forte deixou a parte final mais pesada.</p>",
+      "contentPlain": "Por el interior, el _______ era llevadero al amanecer, pero el sol de justicia volvió pesado el tramo final. Tradução: Pelo interior, a trilha era tranquila ao amanhecer, mas o calor forte deixou a parte final mais pesada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta frase, sendero entra dentro de um comentário em que o calor muda o ritmo.",
+      "feedbackError": "Nesta frase, sendero entra dentro de um comentário em que o calor muda o ritmo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "sendero",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "47d2fd45-fdc7-4b66-838b-f0c8bf00bbcb",
+      "title": "Escute e ligue os comentários",
+      "content": "<p>Revise pela escuta os três comentários situados que sustentam a aula.</p>",
+      "contentPlain": "Revise pela escuta os três comentários situados que sustentam a aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "A revisão pela escuta retoma a costura entre território, tempo e deslocamento.",
+      "feedbackError": "A revisão pela escuta retoma a costura entre território, tempo e deslocamento.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "ba88a742-df97-430f-aab4-1d61e646d337",
+          "exerciseId": "47d2fd45-fdc7-4b66-838b-f0c8bf00bbcb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7bb34b40a968403482ae735de1c94012_b02-desembocadura-rafagas.mp3?Expires=1794099892&Signature=ofzHrCBYvMEASzTkC9b71tiIziMoFv8WJ2ETMIfj5d43t2D1bsS4cj-xRTeH27Xz-VS6sg1OkyDlb86iLcOZoLE0hSnil4WQoFraAz1q~~T21x5ftGaCUl5m5UHEgiDo9-ye6i2pgi6hGwlHjweryfbVz1awsWkjwJnr84cwNzSP2YEjFBO8w7B2POlKJpGWIMZw2Hcmjj8NFyGk0LbTS6BpKP2ZNhqCYCXvGOmfWfHPsuHDQ5SU9YdktkKhVWqiBnXKJcO~ISFZhdHwCMGesBqL5oRN7iPayYqDyaHgtfn2IJwRHgDzcBhkS9JxNMFKlpkvtYD1LL4n1xFR~w1q-w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Junto a la desembocadura, las ráfagas nos hicieron frenar y caminar con más cuidado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2ef4a1d8-7849-47ca-84d6-c2fec1f0f0ef",
+          "exerciseId": "47d2fd45-fdc7-4b66-838b-f0c8bf00bbcb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b923c90eafd742169f2adc21c5ecc84a_b04-interior-sol-de-justicia.mp3?Expires=1794099892&Signature=v~hVjqjcDPwbHnNd9Hh7MHJNBRXkAV9pZno-HJkC2pxka9TqqUCS0Y9651z8wR97tvfEernyjW-eQrSO5y1p~lrQ-l7k-slEYfNwFcWL2tbwDOZ3bnGXBwrhSV68ptiQAOyH4Vdq8r8Sw5yqrLNZ-qKx~EEy5Us9DZ8TkKulbX7ZZkRyMz6WpExkLeZu7pgU-eOhP49aV-b3kYuUyl-uin1x2OGKmXRaPDF9OAj4-7usr1ZsuW8xkZVGRqzYQDHkWTOJUZ6uS8RBN7nU9TRk9Dk9x3Fv61kcPZCn7Sk-9Oq0C3u8p45E4FasrOV-KCR8lQuK1ypNEivz3AFKkNitbQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Por el interior, el sendero era llevadero al amanecer, pero el sol de justicia volvió pesado el tramo final.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "9bcc557f-5104-45e4-9862-2f691d5ebce2",
+          "exerciseId": "47d2fd45-fdc7-4b66-838b-f0c8bf00bbcb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f220742521e3481899a42c6230fd1c6d_b06-cauce-municipio-llovizna.mp3?Expires=1794099892&Signature=No3rullvHxS0ESXzf~LLMVA82rbbtTdN4EggpsiWpsqqin7Sag0AsSDilmo9OGysB11f7pJZCW-7UolqFQPZ~QmYEaeGDvLMaXhzHRQe3sZq0Ga~R0e5nGMhi8hX58bDi1Pid6UdsglGEBBHWYzO8H2GMhxw3Gy-HYnnOKcA9WhKwLsd3tG75ngvUF720mef5Tkmc8QeQJGWbyvy7Blo83BExmcUfvWLo9ml6eiJ8uwROKW6GGvAgMRDBuiVdkU05-pxHcWdGYWsE96AyEkZyCtIOuM~qUStVSlD5IFMEfD7cVHQEUnep0Cqvj3dPrsaDQBgR67PbI~-HRjQI6V1ig__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La ruta entre el cauce y el municipio parecía corta, aunque la llovizna alargó cada parada.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "16f718f9-b76d-4678-8201-9e7974997b2b",
+      "title": "Reconheça o efeito no movimento",
+      "content": "<p>No comentário «Junto a la desembocadura, las ráfagas nos hicieron frenar y caminar con más cuidado», qual trecho deixa claro o que aconteceu com o passo do trajeto?</p>",
+      "contentPlain": "No comentário «Junto a la desembocadura, las ráfagas nos hicieron frenar y caminar con más cuidado», qual trecho deixa claro o que aconteceu com o passo do trajeto?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta frase, a aula separa lugar, condição e efeito para evitar comentário solto.",
+      "feedbackError": "Nesta frase, a aula separa lugar, condição e efeito para evitar comentário solto.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4e981a6a-bb3b-48f5-8b32-92841ebbda9d",
+          "textContent": "Junto a la desembocadura",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "16f718f9-b76d-4678-8201-9e7974997b2b"
+        },
+        {
+          "id": "53e93c32-f3aa-4dae-8b52-39ef359e34dc",
+          "textContent": "las ráfagas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "16f718f9-b76d-4678-8201-9e7974997b2b"
+        },
+        {
+          "id": "c9a9f4cb-c23c-4e1f-bd3b-4cf7f65fe5c6",
+          "textContent": "nos hicieron frenar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "16f718f9-b76d-4678-8201-9e7974997b2b"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "90841f20-93f6-49eb-b988-6a58567ba1e4",
+      "title": "Recupere o calor extremo",
+      "content": "<p>Por el interior, el sendero era llevadero al amanecer, pero el sol de ________ volvió pesado el tramo final.</p><p>Tradução: Pelo interior, a trilha era tranquila ao amanhecer, mas o calor forte deixou a parte final mais pesada.</p>",
+      "contentPlain": "Por el interior, el sendero era llevadero al amanecer, pero el sol de ________ volvió pesado el tramo final. Tradução: Pelo interior, a trilha era tranquila ao amanhecer, mas o calor forte deixou a parte final mais pesada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta frase, sol de justicia condensa a condição que muda a leitura do trajeto.",
+      "feedbackError": "Nesta frase, sol de justicia condensa a condição que muda a leitura do trajeto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "justicia",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ac0f0e49-ec48-4916-9adf-ddd37651d699",
+      "title": "Separe as leituras do percurso",
+      "content": "<p>Ligue cada trecho em espanhol ao efeito de percurso que ele faz aparecer sem tradução palavra por palavra.</p>",
+      "contentPlain": "Ligue cada trecho em espanhol ao efeito de percurso que ele faz aparecer sem tradução palavra por palavra.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta frase, a aula não separa clima de deslocamento: ela lê o efeito no ritmo.",
+      "feedbackError": "Nesta frase, a aula não separa clima de deslocamento: ela lê o efeito no ritmo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "28e9c57e-98bc-461f-83c0-709511533d36",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ac0f0e49-ec48-4916-9adf-ddd37651d699"
+        },
+        {
+          "id": "cfeabda4-450a-489f-a1ca-5f20e8efbd1e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ac0f0e49-ec48-4916-9adf-ddd37651d699"
+        }
+      ],
+      "associations": [
+        {
+          "id": "6fb9ca9e-8251-4f1e-912e-b8797c2bb0fa",
+          "exerciseId": "ac0f0e49-ec48-4916-9adf-ddd37651d699",
+          "leftContent": "nos hicieron frenar",
+          "rightContent": "o vento obrigou a reduzir o passo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e674f8dc-8984-46a2-b78b-13c3b7153d7f",
+          "exerciseId": "ac0f0e49-ec48-4916-9adf-ddd37651d699",
+          "leftContent": "volvió pesado el tramo final",
+          "rightContent": "o calor tornou o fim mais exigente",
+          "sequenceItem": 2
+        },
+        {
+          "id": "802c581d-d471-42e8-bfce-0dafca20acf2",
+          "exerciseId": "ac0f0e49-ec48-4916-9adf-ddd37651d699",
+          "leftContent": "alargó cada parada",
+          "rightContent": "a garoa alongou o ritmo das pausas",
+          "sequenceItem": 3
+        },
+        {
+          "id": "701d8776-cecf-44a1-84e1-426131c8ac87",
+          "exerciseId": "ac0f0e49-ec48-4916-9adf-ddd37651d699",
+          "leftContent": "parecía corta",
+          "rightContent": "o trajeto parecia curto antes da mudança",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "c136c7cf-2e8e-48de-8dc4-423895b946bc",
+      "title": "Recupere a garoa do comentário",
+      "content": "<p>La ruta entre el cauce y el municipio parecía corta, aunque la ________ alargó cada parada.</p><p>Tradução: O trajeto entre o curso do rio e o município parecia curto, embora a garoa tenha alongado cada parada.</p>",
+      "contentPlain": "La ruta entre el cauce y el municipio parecía corta, aunque la ________ alargó cada parada. Tradução: O trajeto entre o curso do rio e o município parecia curto, embora a garoa tenha alongado cada parada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta frase, llovizna não aparece solta: ela explica o novo ritmo do percurso.",
+      "feedbackError": "Nesta frase, llovizna não aparece solta: ela explica o novo ritmo do percurso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "llovizna",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "58056a7e-2d8a-4cac-9032-b0b64d9f62c4",
+      "title": "Recupere o ponto costeiro",
+      "content": "<p>Junto a la _____________, las ráfagas nos hicieron frenar y caminar con más cuidado.</p><p>Tradução: Perto da desembocadura, as rajadas fizeram a gente frear e caminhar com mais cuidado.</p>",
+      "contentPlain": "Junto a la _____________, las ráfagas nos hicieron frenar y caminar con más cuidado. Tradução: Perto da desembocadura, as rajadas fizeram a gente frear e caminhar com mais cuidado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta frase, desembocadura ancora o comentário num trecho concreto do percurso.",
+      "feedbackError": "Nesta frase, desembocadura ancora o comentário num trecho concreto do percurso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desembocadura",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "120333b2-28cf-4f7a-9a6e-88c8bbe5060f",
+      "title": "Filtre a rota pela escuta",
+      "content": "<p>Resolva só pela escuta e selecione apenas as palavras presentes no comentário.</p>",
+      "contentPlain": "Resolva só pela escuta e selecione apenas as palavras presentes no comentário.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f220742521e3481899a42c6230fd1c6d_b06-cauce-municipio-llovizna.mp3?Expires=1794099892&Signature=No3rullvHxS0ESXzf~LLMVA82rbbtTdN4EggpsiWpsqqin7Sag0AsSDilmo9OGysB11f7pJZCW-7UolqFQPZ~QmYEaeGDvLMaXhzHRQe3sZq0Ga~R0e5nGMhi8hX58bDi1Pid6UdsglGEBBHWYzO8H2GMhxw3Gy-HYnnOKcA9WhKwLsd3tG75ngvUF720mef5Tkmc8QeQJGWbyvy7Blo83BExmcUfvWLo9ml6eiJ8uwROKW6GGvAgMRDBuiVdkU05-pxHcWdGYWsE96AyEkZyCtIOuM~qUStVSlD5IFMEfD7cVHQEUnep0Cqvj3dPrsaDQBgR67PbI~-HRjQI6V1ig__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta frase, a escuta precisa reconhecer lugar e condição dentro da mesma linha curta.",
+      "feedbackError": "Nesta frase, a escuta precisa reconhecer lugar e condição dentro da mesma linha curta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f15a77a0-fdba-417d-a0ec-f52a91ce56c5",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "03b142ed-2b39-4afa-9cc0-50941f0c36bc",
+          "textContent": "municipio",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "120333b2-28cf-4f7a-9a6e-88c8bbe5060f"
+        },
+        {
+          "id": "921ef237-7ea9-4a26-928c-1ac53153416a",
+          "textContent": "desembocadura",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "120333b2-28cf-4f7a-9a6e-88c8bbe5060f"
+        },
+        {
+          "id": "ae1b7504-b5c5-447b-98fb-1a67e29fe7e5",
+          "textContent": "sendero",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "120333b2-28cf-4f7a-9a6e-88c8bbe5060f"
+        },
+        {
+          "id": "d2510497-c09a-455d-acfc-617c9057e377",
+          "textContent": "llovizna",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "120333b2-28cf-4f7a-9a6e-88c8bbe5060f"
+        },
+        {
+          "id": "f2bc8f1f-8fa1-44dd-b535-0869854b3ea4",
+          "textContent": "cauce",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "120333b2-28cf-4f7a-9a6e-88c8bbe5060f"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "title": "Amarrar territorio, tempo e deslocamento"
+}

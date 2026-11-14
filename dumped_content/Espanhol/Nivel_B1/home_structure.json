@@ -1,0 +1,1753 @@
+{
+  "currentLevel": {
+    "id": "8df1ce89-dbee-40ee-a0a1-bed1bfdc5f78",
+    "name": "B1",
+    "icon": null,
+    "bannerImageUrl": null
+  },
+  "modules": [
+    {
+      "id": "0d08ad8d-4b1c-419d-ae43-8db6ffd92d2c",
+      "title": "Jeito de ser e primeiros contatos",
+      "subTitle": "Descreva traços de personalidade, apresente alguém e sustente conversas iniciais com mais nuance em espanhol.",
+      "sequenceItem": 1,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": true,
+      "learningPath": [
+        {
+          "lessonId": "347b068b-2132-469e-8f77-009adc2497ef",
+          "title": "Primeiras impressões positivas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": true,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9b184215-e583-480f-9a32-051b4e9f61b5",
+          "title": "Contrastar traços e oposições de personalidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "b0e06aa5-83ac-4388-851f-06e6d0d13bfb",
+          "title": "Falar de si com antes e agora",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "398375fe-1d06-4d89-ae4f-624eab1bc343",
+          "title": "Ler um retrato de personalidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fd771c81-d18a-4149-bfb6-f9b3efd015b6",
+          "title": "Apresentar alguém e quebrar o gelo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fe5cccbd-2cb1-4bd7-aa02-110b991e0d7d",
+          "title": "Perguntas pessoais com tato",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9ba2faf2-00df-4913-9bce-b63b4edba8cc",
+          "title": "Falar de duração e mudança pessoal",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "bcbd752f-31c5-47ba-a87b-9ea9709c410a",
+          "title": "Ser e estar em conversas iniciais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 9,
+          "type": "checkpoint",
+          "checkpointId": "9eeb8769-0521-47c8-9266-5252d6687660",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "dc40451f-3a89-47e8-9011-dc9a8004f9c1",
+      "title": "Relações, convites e combinados",
+      "subTitle": "Fale sobre pessoas próximas, convide alguém e reorganize um plano entre amigos em espanhol.",
+      "sequenceItem": 2,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+          "title": "Ouvir quem é quem no grupo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8ccc21c9-817b-481a-a86b-5c57d7a48eb3",
+          "title": "Fazer perguntas sociais sem travar",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "cde39616-6d7c-4b4c-a503-a47269081e79",
+          "title": "Lançar um convite leve",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "67d79022-dfc9-4552-b117-76d86c0c8f8d",
+          "title": "Recusar sem cortar a conversa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+          "title": "Pesar o lado bom e o lado ruim",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+          "title": "Negociar uma saída possível",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+          "title": "Fechar o combinado com clareza",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "8ed824d4-e5c5-4eab-9385-045f263b839a",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "0d67ff46-ca56-4556-adae-e1451fe2c752",
+      "title": "Como você se sente e como reage",
+      "subTitle": "Descreva mudanças de humor, explique o motivo e reaja a novidades curtas com naturalidade em espanhol.",
+      "sequenceItem": 3,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "f4c19bdf-c8a9-433f-8430-de878480ebcd",
+          "title": "Fazer check-ins de humor",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0695bce9-c497-4426-98ec-5fba906125ea",
+          "title": "Dizer por que alguém está assim",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "bbb73599-24bb-487e-ba5d-53fa2e36569c",
+          "title": "Reagir a novidades na hora",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e245e94f-586f-42e5-9234-ced4f0d32d93",
+          "title": "Ler um dia de altos e baixos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6b0c553a-a284-4b52-8fd7-1f7e4f5586aa",
+          "title": "Juntar sentimento, motivo e reação",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "09c027b4-d035-41f9-85f7-1a79c45834d8",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "b286dae9-78ee-48ca-a3be-47bca3033492",
+      "title": "Ajudar alguém a decidir com mais tato",
+      "subTitle": "Entenda o dilema de outra pessoa e ofereça conselhos em espanhol com o grau certo de firmeza.",
+      "sequenceItem": 4,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "a5b61127-6fef-4e79-94e7-e3f1f20e3cf3",
+          "title": "Entender o impasse antes do conselho",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "aabe7ba3-c6e3-4e93-9ced-92551ad793a3",
+          "title": "Dar conselhos claros para cada pessoa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "67f1f404-364b-4277-9b3e-bdf49c02e63e",
+          "title": "Escolher um tom mais cuidadoso",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "45d0a5c2-4d57-4d6b-86f5-2700959434f6",
+          "title": "Usar o condicional para aconselhar",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "99d9a053-46e6-4d9e-8534-1886dce22566",
+          "title": "Falar conselhos com mais naturalidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ae1f14b2-066a-4510-8016-fa83cc32a8f8",
+          "title": "Apoiar uma decisao em acao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "0385e423-673a-444e-b707-55068d246fa8",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "56dea652-d09a-4969-8794-0f93adaec71c",
+      "title": "Conversas sobre musica, recomendacoes e reacoes",
+      "subTitle": "Use a musica como ponte para conversar, recomendar e comparar gostos em espanhol com mais naturalidade.",
+      "sequenceItem": 5,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "9fad2903-959f-4274-9410-4b973c35fa2f",
+          "title": "Entrar no tema falando de musica",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "a20165c2-b645-4677-a5b3-2af2dad1248f",
+          "title": "Reagir a sons, ritmos e letras",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "c7a7550e-5b55-4a0c-9a4e-95ae23360fae",
+          "title": "Recomendar algo para ouvir",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "1ceb2a67-9f7d-443e-8248-94ac46f8abb1",
+          "title": "Ler um fenomeno musical",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "caecdaab-592d-44df-a52e-d457a7e88d70",
+          "title": "Comparar estilos e popularidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "d0c7eba0-c61e-4f9c-8b0f-58a73d5722df",
+          "title": "Escolher o que ouvir com outra pessoa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "02c655f2-cd6c-4a7e-a59e-6a261b903ab0",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "c5843b0b-1236-4f9e-a981-b405f3156632",
+      "title": "Gostos culturais e habitos de entretenimento",
+      "subTitle": "Fale sobre musica, cinema e o que voce costuma ver ou ouvir para reagir a opcoes culturais em espanhol.",
+      "sequenceItem": 6,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "54ba8c13-84eb-46a1-8f98-736bbc98d251",
+          "title": "Abrir a conversa sobre gostos culturais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3e00ce00-8113-4ded-ae69-9481af00fda0",
+          "title": "Entender opinioes diferentes sobre generos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "b8d111ee-c42b-46fa-9175-51bcba1aa995",
+          "title": "Organizar preferencias e reacoes com mais precisao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "4a12aa97-9107-4a2f-ba94-27d847c8b1d3",
+          "title": "Falar de habitos culturais com soler",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6db5f44a-3ef5-4bac-a598-db386999720a",
+          "title": "Comentar o que esta em cartaz e faz sucesso",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ee684cee-4432-4de2-8b6a-42f81c46890a",
+          "title": "Ler uma nota cultural e reagir ao impacto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "7aa924a7-bb01-4955-a16d-9d54188a3d1a",
+          "title": "Escolher o que ver ou ouvir em uma troca guiada",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "b306fae4-3abc-4f66-ad8d-5138923ddd65",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "5a8cc70b-2f44-49d7-aef0-925f9c320c28",
+      "title": "Preferências, relatos e escolhas com contexto",
+      "subTitle": "Compare gostos, conte um episódio marcante e recomende opções com mais nuance em espanhol.",
+      "sequenceItem": 7,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "20aa85a5-ab76-41f4-ad60-a78cab967b92",
+          "title": "Gostos, reações e escolhas culturais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "609db28a-08bb-48b7-b611-8d786374ec1e",
+          "title": "O que já tinha acontecido",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "cd6eca7e-89ae-4947-a14b-d1d8bc9b40e0",
+          "title": "Como segurar a atenção numa história",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "cddaa5d8-9d5c-4221-90b8-eda4a343b8c5",
+          "title": "Particípios irregulares em relatos vivos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8c5c1c1e-1550-44d2-9e27-7854ca5e374c",
+          "title": "Ouvir e recontar o essencial",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ecd03a84-adb3-4423-b7da-2fa516335445",
+          "title": "Morar aqui ou ali?",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fbd67910-4f02-4c04-af56-59a9bc3fbdef",
+          "title": "Conselhos e alternativas melhores",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "fd5bd86c-2560-427a-b0e4-cb9fbd04a88e",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "dcc8848d-f7f1-4c44-a300-bd1585e8cf5b",
+      "title": "Escolher um aluguel que combine com sua rotina",
+      "subTitle": "Compare opcoes, avalie bairros e faca perguntas polidas para escolher onde morar em espanhol.",
+      "sequenceItem": 8,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "b82ff233-93f0-41b9-bd33-41d9ad3a95ee",
+          "title": "Mapear necessidades de moradia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ecd79c34-dd62-4740-8ae1-98654e9f4f2c",
+          "title": "Comparar bairros com a rotina",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "731dfa3b-aeff-4d30-a040-73897aa03e2c",
+          "title": "Pesar opcoes com o condicional",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e22f5225-741a-4c19-b553-7be4c73171d4",
+          "title": "Pedir detalhes de aluguel com polidez",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "4ef8ae54-11ce-4377-92f8-b195371fd69c",
+          "title": "Escrever uma recomendacao de moradia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "18e73080-0fc3-4daf-9312-b77cd0170b90",
+          "title": "Defender a melhor escolha de moradia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "cc1391e7-ad91-4c87-babb-f00e4ded7323",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "328e8d73-4d33-42a7-81e4-d0450330c875",
+      "title": "Moradia compartilhada e organização da casa",
+      "subTitle": "Fale sobre onde morar, combine responsabilidades e dê instruções práticas em espanhol.",
+      "sequenceItem": 9,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "589f2401-00a1-4e79-a317-39829d88c6e9",
+          "title": "Escolher onde morar e alinhar convivência",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8d815715-44bb-4800-9585-64531d8fb44c",
+          "title": "Mapear a casa e o que faz falta",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "50523f9e-66bc-4c23-9992-a99ce1943364",
+          "title": "Combinar tarefas e turnos da casa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "751f0902-f0db-4845-9c4b-3af8baace322",
+          "title": "Dar lembretes e instruções na rotina",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "6f9858b0-d36e-4824-a60f-d1fbd97babc3",
+          "title": "Resolver problemas da casa com comandos úteis",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f7fecf3f-493b-4112-8687-11b35d7da4b5",
+          "title": "Negociar regras para viver melhor junto",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "f592f5ee-4993-4c03-9499-9f628c32ba19",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "776a8141-1e86-401e-b66c-f70ed6fd4682",
+      "title": "Em movimento: trajetos, planos e ajustes",
+      "subTitle": "Planeje como se deslocar, diga o que pretende fazer e ajuste o percurso quando houver mudanças.",
+      "sequenceItem": 10,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "95b225f2-1543-4c19-a867-d195f8f5bf8d",
+          "title": "Escolher como circular",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "a0eb05ed-6b5b-4a88-a950-0e75d58a016a",
+          "title": "Montar um dia no mapa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3bc84ebd-043f-4314-87e4-ab12e10ce4f3",
+          "title": "Dizer o que voce pretende fazer",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "8769a8fd-e5c7-4f53-b47b-b9a5b2b4ac34",
+          "title": "Reagir quando a rota muda",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "19e3a51a-d21f-4451-ae00-a83a9aa7b69f",
+          "title": "Assumir um itinerario",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ddb43c72-7f75-4f79-a230-a8d0421c74df",
+          "title": "Acompanhar o trajeto de outra pessoa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "4c3b42a7-5d7a-495e-b068-245bada75cbb",
+          "title": "Apresentar um dia de viagem com plano B",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "da68c297-c08e-4224-8dee-30f787d6e062",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "d26b5264-4d8f-4249-b2e4-0d52a697775b",
+      "title": "Hospedagem, reservas e plano B",
+      "subTitle": "Compare opções de estadia, confirme a chegada e peça soluções claras quando a viagem não sair como esperado.",
+      "sequenceItem": 11,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "c6111d05-ce9f-4793-a87e-6c8b77f690b4",
+          "title": "Definir o que importa na estadia",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9e5810a7-9350-429c-bf85-d89950dcd04a",
+          "title": "Ler opcoes de hospedagem com criterio",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "75645393-69de-4ded-84a6-b75925156419",
+          "title": "Projetar a reserva com futuro irregular",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+          "title": "Chegar, confirmar e pedir ajustes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3f73a18f-9c66-4aac-9597-694e1873e761",
+          "title": "Reclamar com clareza no hotel",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "808dc236-c635-4439-8d85-c400f03a629b",
+          "title": "Fechar a estadia com escolha e plano B",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "c6322d2f-1a84-4dde-93bb-5129d189c43f",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "e240cd62-d829-44e9-84aa-815388209f7a",
+      "title": "Fazer pedidos e alinhar expectativas",
+      "subTitle": "Diga o que voce quer que aconteca, combine preferencias e resolva pequenos problemas de moradia ou hospedagem em espanhol.",
+      "sequenceItem": 12,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "5aef9bf0-04cb-46ec-a60f-9496c8261ce4",
+          "title": "Dizer o que voce quer que aconteca",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "25510ab1-e011-47c6-8f6e-3360f08db059",
+          "title": "Colocar outras pessoas no plano",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "2b86512c-2f7a-494e-880f-40448de87814",
+          "title": "Escolher uma estadia pelo que importa",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "1a09a68b-9b1e-4c05-a1ee-33e52e5264a7",
+          "title": "Pedir mudancas sem soar brusco",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "c5395a0b-64c7-4f0a-8a60-8513099cfd72",
+          "title": "Seguir problema, conselho e desfecho",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "cb0be6d9-1330-4d86-979b-649b6b3398e4",
+          "title": "Negociar e fechar uma solucao curta",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "f3a8a3e0-b65e-4bcf-ac99-e107a344a98b",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "cd844a2e-3093-4a9e-a7f6-bbdd2d9e13b1",
+      "title": "Sintomas, cuidado e proximos passos",
+      "subTitle": "Descreva como esta se sentindo, diga ha quanto tempo e entenda orientacoes simples para se cuidar ou procurar ajuda.",
+      "sequenceItem": 13,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "3d3e2139-fea2-4757-8ae7-4ff01f7c4dbf",
+          "title": "Dizer com clareza o que esta incomodando",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+          "title": "Marcar ha quanto tempo e se esta melhorando",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "ba7f7820-aaad-4668-9e3d-836a4b389b84",
+          "title": "Ler uma consulta sem perder o fio",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "1b611ce4-c55c-41b6-a73b-c473c0e15098",
+          "title": "Falar com cautela sobre o que pode ser",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f6e4744a-e77a-4e6b-abd2-ad21239a5d09",
+          "title": "Seguir orientacoes e saber quando voltar",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "1b831c79-5cbd-484d-bb73-a444c23a175a",
+          "title": "Dar um update curto de saude",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "6ef4a83d-0c0b-48ae-a21c-0de8e850f40e",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "6e2cd915-1899-4c79-8939-2a72c7f87d6f",
+      "title": "Cuidar-se melhor e orientar alguém",
+      "subTitle": "Fale sobre hábitos de cuidado, entenda preocupações cotidianas e recomende mudanças úteis em espanhol.",
+      "sequenceItem": 14,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "cfc310ec-e0fb-425c-8aa7-bff79aac7f67",
+          "title": "Do incomodo ao habito",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "64b21a46-fb25-49fd-b35b-cc6cfe3c939e",
+          "title": "Rotinas e produtos que fazem diferenca",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "44af1627-27fa-48ee-9de3-a640b5a8b61f",
+          "title": "Recomendar uma rotina melhor",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "918d5f39-0f85-46e7-90ee-a00819182bea",
+          "title": "Ler conselhos e pesar opcoes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "bb2510d4-f07f-48e5-8858-fec3c5a83d38",
+          "title": "Usar irregulares para orientar melhor",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "d644d187-b450-44ef-8acc-2e34b864c34a",
+          "title": "Prevenir e combinar um follow-up",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "fa11d10a-0bbe-4b7a-8168-9576aec1cafd",
+          "title": "Responder a uma consulta de cuidado",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "b6d32fe9-bdbe-4218-be6f-6dd4fa3ae3ef",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "7a0e1219-a307-4151-8fbe-91a5f5475ef7",
+      "title": "Avaliar opções e organizar próximos passos",
+      "subTitle": "Use o subjuntivo com mais precisão para recomendar, duvidar e planejar ações futuras em contextos de trabalho e escolhas cotidianas.",
+      "sequenceItem": 15,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "3a7873bc-197c-47c2-8ba5-638578bbc2ca",
+          "title": "Notar as trocas-chave do subjuntivo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "4c4591eb-8d1f-4a80-bd9d-b04a1133f6b3",
+          "title": "Entender vagas, funcoes e requisitos",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "636f323a-599e-4224-8440-371f21c3a787",
+          "title": "Orientar uma candidatura com mais precisao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+          "title": "Comparar opcoes com mais reserva",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "c60bc8cf-e736-44be-8490-9f1ef87431cc",
+          "title": "Sequenciar o que vem depois",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "024f3993-11ca-4587-9c1e-065c50555e9e",
+          "title": "Fechar uma escolha com plano claro",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "32c6e8f9-d703-476f-9c0f-e0f9bf36d281",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "d8831dcc-c011-4a9f-ac6c-d762c8d8d524",
+      "title": "Na loja: tamanho, caimento e decisao de compra",
+      "subTitle": "Peca ajuda, experimente opcoes e feche uma compra curta de roupa em espanhol.",
+      "sequenceItem": 16,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+          "title": "Pedir ajuda e se orientar na loja",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "07bbcea8-4b41-43a6-bd71-a9adbc483bce",
+          "title": "Pedir outra talla, outra cor e ir ao provador",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "9bcc1aee-06a6-4f59-a852-63bf97307046",
+          "title": "Dizer como a peca veste e comparar opcoes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "a83abdfe-5e21-4197-a9ff-285c90eb4715",
+          "title": "Fechar a compra e resolver o depois",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "checkpoint",
+          "checkpointId": "0be12623-ba3a-4da6-b139-35762b6d99dd",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "008b1778-963d-4694-9b69-409208c2d707",
+      "title": "No provador: estilo, caimento e decisao",
+      "subTitle": "Comente como uma peca veste, justifique a compra e resolva a decisao final em espanhol.",
+      "sequenceItem": 17,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "8ff2026d-503b-4c44-a813-51241060ebfb",
+          "title": "Entrar no provador e experimentar opcoes",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "3a120bf7-0461-409a-8418-a796055153b3",
+          "title": "Comentar como a roupa veste e comparar pecas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "f2186402-03ca-481a-983b-ed69e2c47be2",
+          "title": "Explicar para quem e como a compra chega",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "077a131c-8f7d-495f-9c74-765e32ac6732",
+          "title": "Recomendar ou frear a compra com tato",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "1af08b9f-5dca-4357-94b7-cdff3bb956f1",
+          "title": "Fechar a decisao ou abrir uma reclamacao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "checkpoint",
+          "checkpointId": "938b14fb-cab9-4229-ae9e-11cf12997fcd",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "3c9ce3f6-ccb8-4511-ba86-5e6cc2038dd1",
+      "title": "Vida coletiva, regras e vozes da comunidade",
+      "subTitle": "Discuta problemas do bairro, avalie soluções e relate o que outras pessoas dizem ou pedem em espanhol.",
+      "sequenceItem": 18,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "c3204078-831f-404d-9219-a1dd3fda5c07",
+          "title": "Prioridades ambientais e opinioes publicas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "0109c6cb-474d-4554-87af-d4c077ccb51d",
+          "title": "Solucoes urbanas e reacoes locais",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "164d19af-ffd4-4094-be21-5650fb84daf6",
+          "title": "Direitos, regras e participacao no bairro",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "58e57c63-62c3-484d-8cff-8382d2686d44",
+          "title": "O que a comunidade anda dizendo",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "c60ba714-1bff-407b-9905-d6af83e4cca6",
+          "title": "Mudanca social e demandas compartilhadas",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "b2ebedb7-ae13-4328-b0e6-4b883e950b55",
+          "title": "Pedidos do bairro e acao coletiva",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "checkpoint",
+          "checkpointId": "6684bd79-40d9-4ebb-a628-ea2be0256a45",
+          "challengeReached": false
+        }
+      ]
+    },
+    {
+      "id": "d12dca53-6a92-428e-b57e-f3e0cad15904",
+      "title": "Voz cívica: posições, reações e ação local",
+      "subTitle": "Comente problemas sociais, reaja a opiniões diferentes e proponha uma participação simples na comunidade.",
+      "sequenceItem": 19,
+      "icon": null,
+      "bannerImageUrl": null,
+      "completed": false,
+      "unlocked": false,
+      "learningPath": [
+        {
+          "lessonId": "ed95b224-4174-4771-9923-c3f24cc6b7dd",
+          "title": "Ler o bairro como tema publico",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 1,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "936d7488-b032-49fa-abf0-a9c6a66a28b5",
+          "title": "Dizer o que voce quer que mude",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 2,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "88cacc00-10a4-4a7c-8bee-3c1cb4a2aef4",
+          "title": "Entender quem decide o que",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 3,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "e059f22d-e8b5-4ce8-b8de-96f0f9c31600",
+          "title": "Reagir sem perder o tom",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 4,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "1a34a309-aaa1-4c40-acab-178b153f5601",
+          "title": "Escutar posicoes sem se confundir",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 5,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "45cb4183-eb94-436b-af2d-6cee8563b48e",
+          "title": "Entrar no debate com educacao",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 6,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "53774693-9dc8-44ac-83c0-4b43b6f9d025",
+          "title": "Levar a conversa para uma acao local",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 7,
+          "type": "lesson",
+          "checkpointId": null,
+          "challengeReached": false
+        },
+        {
+          "lessonId": "00000000-0000-0000-0000-000000000000",
+          "title": "Checkpoint da unidade",
+          "icon": null,
+          "stars": 0,
+          "unlocked": false,
+          "sequence": 8,
+          "type": "checkpoint",
+          "checkpointId": "1531260b-57ad-44e0-9e20-6ee71af234ea",
+          "challengeReached": false
+        }
+      ]
+    }
+  ],
+  "nextLesson": {
+    "lessonId": "347b068b-2132-469e-8f77-009adc2497ef",
+    "moduleId": "0d08ad8d-4b1c-419d-ae43-8db6ffd92d2c",
+    "title": "Primeiras impressões positivas",
+    "icon": null,
+    "currentStep": 0,
+    "stepSequence": 0
+  }
+}

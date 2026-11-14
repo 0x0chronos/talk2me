@@ -1,0 +1,492 @@
+{
+  "attemptId": "685bfa8f-61e2-432f-88e7-775302b37fd4",
+  "exercises": [
+    {
+      "exerciseId": "41056265-1004-4136-b975-c2673f40d1ef",
+      "sequence": 1,
+      "lessonId": "f7c49ebc-de07-4b0f-acf3-85f9e80996ee",
+      "title": "Interprete o contraste",
+      "content": "<p>O que a frase <strong>Antes iba a un curso de dibujo. Ahora estudio por la noche.</strong> comunica?</p>",
+      "contentPlain": "O que a frase Antes iba a un curso de dibujo. Ahora estudio por la noche. comunica?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. A frase contrasta um hábito antigo com a rotina atual.",
+      "feedbackError": "Leia de novo: `antes` aponta para o passado e `ahora` muda o foco para o presente.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "18b72291-e809-4fe4-87a8-5242c70a6d0a",
+          "text": "A pessoa ainda vai ao curso de desenho à noite, na mesma rotina escolar.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "31dd47c9-c3e2-4c95-a486-b1d0a7180c0c",
+          "text": "A pessoa compara duas atividades que aconteciam no mesmo momento do passado.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "55214e88-aa20-4d4b-90e9-b08ddcce5033",
+          "text": "Primeiro havia um curso de desenho no passado e depois aparece a rotina atual de estudar à noite.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "5a59849f-1ce9-4e81-8d4a-de8c345d72dc",
+      "sequence": 2,
+      "lessonId": "a7c35014-2189-4512-af63-2af79e58d3a4",
+      "title": "Recupere o hábito da manhã",
+      "content": "<p>Cuando iba a la escuela, __________ temprano.</p>",
+      "contentPlain": "Cuando iba a la escuela, __________ temprano.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `desayunaba` ativa o hábito da manhã no período escolar.",
+      "feedbackError": "Falta a forma em `-aba` usada no primeiro exemplo da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desayunaba",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9755c96d-8add-419b-a801-8037f7806bed",
+      "sequence": 3,
+      "lessonId": "a7c35014-2189-4512-af63-2af79e58d3a4",
+      "title": "Escolha a memória completa",
+      "content": "<p>Qual opção expressa melhor: <strong>Quando eu ia para a escola, tomava café cedo e depois da aula fazia a tarefa na biblioteca</strong>?</p>",
+      "contentPlain": "Qual opção expressa melhor: Quando eu ia para a escola, tomava café cedo e depois da aula fazia a tarefa na biblioteca ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa opção junta duas rotinas passadas sem trocar o tempo verbal.",
+      "feedbackError": "A resposta certa precisa manter os dois hábitos no imperfecto e preservar a sequência manhã mais depois da aula.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2dd41e81-0dfe-4377-ba03-388abd590b18",
+          "text": "Cuando iba a la escuela, desayuno temprano y después de clase, hago la tarea en la biblioteca.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "417208e9-bd91-4c9b-b1d2-8e1aea635ebc",
+          "text": "Los fines de semana, jugaba con mis amigos del colegio.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "da2c61cf-825d-4539-9607-5ad72c3603b0",
+          "text": "Cuando iba a la escuela, desayunaba temprano y después de clase, hacía la tarea en la biblioteca.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "39a03bb4-8b07-4b5d-a1d0-48bfe3aac6b2",
+      "sequence": 4,
+      "lessonId": "abce4ce6-a628-451d-b1ef-b44f29510798",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta. Você reconheceu as frases diretamente pelo áudio e manteve o foco no espanhol.",
+      "feedbackError": "Escute novamente e diferencie cada começo: escola, depois da aula, fim de semana e sequência completa.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "5646c6aa-5070-4f02-9180-1ccff8d5bab3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5dc67b6cd5b64eefb76198179076a42f_l05b01-cuando-iba-a-la-escuela-almorzaba-en-casa.mp3?Expires=1794099529&Signature=kjpfpHyhbWsIIqQ9sT2Qxea84VGRJT94JdC19pgfd9e~vyfolqK3PI461K73QXGoc8UD~WX8YoD1wtBEAKQKdSq0v9pXBrUsj1E8gnvtgkn4nI0CLH7I5Py2oDqNIHbbNA-okwDbtjRpfrjeh6W4jptyyqMBNiLxcP9ewLfybrKqiDQaFpGNm9ecs7y7UKyKjR7dFHZVxtT7cSbKOmSM6dK~aKTDZgmjGeRiKyM~8Pg7b4VIUf6LLoLmiaMff6rfB~yMuIYcWEE-Ojos04o0TXF3LV8QZIZfVIX5lbxI6HoDsE3AI6R0rCKSi2ckegWv1QoMiQ-q6LiO6q6-rwGwkQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuando iba a la escuela, almorzaba en casa.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "11b5e3bb-d6d6-4a6c-ae3d-73876e666cff",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5d4054599ec640ea8aeb377a9ab76b43_l05b02-despues-de-clase-practicaba-musica.mp3?Expires=1794099529&Signature=XZKbV1e2V9xIbZDSEq2HGO4W-reA678lYjN~72Aa7PhqdLjVLEjthO0UKV16D2Hf3BazWXjnl9f4b09kRNarDBRe-wKebG-IsMCB2qWzYKks4AgC-OQIg8KE22qGUrNaZ2PsxpHWj4NNC46HYnK7k429fvEi~ZNQJuVp4HTXviEY1KoT8utlxhb-47u3-vYR6lWno8lirB1gprUZfywX1Ao7ClbE9haPL9UjuCsJylg2pckDBPGvEJQQoylbNdPC-9FKx0L61DgNpsRPNYTgFDHPICLcVhnqdobIQnZZDbidrqJp3e8qeHKQTZdaIDx~RZJpFN3AwAqDGt4yZzhEbg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Después de clase, practicaba música.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "58f5e49c-1bfe-49e2-8a7a-0c6db63e804e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8f1a1a1e38af465ab8d3b643bd3cd7c3_l05b03-los-fines-de-semana-salia-con-mis-vecinos.mp3?Expires=1794099529&Signature=rCEnyOtK3iZeKBj6LtmdTK8k84S1IYapHw4JT53fyvUpMFz4~J7gGIB0gdfblDGAiQATCgQEqoh1W32y8yncVpswRJ5sKL6T1P~Hxfel~7pz1YgFPQlLg3kBHptttQ4u-JuvwDwRf3~ITXT~yvJBwIPsNWNkulErWf9Al3azVUE1NwEraJTYUi8KIOyJGK-8ZhLHTXceP4ffE0e-4ZT4JK89A1LcUIrMP34i1iqL~O2ffKBAIrQAa6mdduP2DgsZS3eQthvJLJIHpA1KA2HbUyd3X8prfr0niAdd3mFBlGVmaVrxzkluC-9fXnlRVED26wEo7dIi1v4hCi2I~7A9zw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Los fines de semana, salía con mis vecinos.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "4b98a414-604d-4229-9b73-bf8f1b9bede0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/87c1bbbacbaf49b6b1d99dc762d79a07_l05b04-secuencia-corta-de-recuerdo.mp3?Expires=1794099529&Signature=zJvnY9l5fiKvcOWB~6P0UojT2fU4a1UrxoRz~1I~FjSmgMcCwBztL5g59CSwRjod32zTfniiK7o1VXCtavl4kUU23CcKm76gDZVTkuqLNs2KgNrdz66ABE48MV~fNHabWSMxoc5pBuU-nTjkuOJqmv9hlUPg~QljKUJDBGz3nL194fI8U60-GotFqxUJQWUWeRj5Q6q25YAPnjXvXiEvrAf58JWsgw-9PSgT0l3lj--0OHwaAvnIYd4FRIRdysA4craVc3v1naxM~mIibcPfB-IRjP6KYLN-mYNXsypOy3JSUHOajVUZ~eJ7t0UIiBW7D7cX5HgcFwoN5649UfUfSQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuando iba a la escuela, almorzaba en casa. Después de clase, practicaba música. Los fines de semana, salía con mis vecinos.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "12dae748-0c7f-4cba-9b7a-9a76ad1f41f4",
+      "sequence": 5,
+      "lessonId": "6753d2a0-2350-4959-bcc0-272451eb79d4",
+      "title": "Ouça e selecione",
+      "content": "<p>No áudio, qual palavra aparece como o momento favorito?</p>",
+      "contentPlain": "No áudio, qual palavra aparece como o momento favorito?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a33e2f792a01499e84d97e65dd1467a0_l01b05-cuando-iba-a-la-escuela-la-clase-era-mi-momento-favorito.mp3?Expires=1794099529&Signature=OinjwnaaoMy0wHbokkqUUSW2Scz1fUkHLzdI4Dx4j2RXR7P0vb23Yqm9yix2kM6cs~eDe401lUrcOuyEaezofrI-mDX3mHjj~Py9EnMcasymTrrTV8hl9cEgrMet1ZUssmQXoxjLw0t5dXzsafMnLyK2QN1~q9unU1iUa7Z4jISm9y8pSH7xyZR~WKbL-uTNaDtpu9XlorMPjYfmnEeRXC06uPrK6InWKGKE4KDScncj3iX1b5Vs1DUj2mLQTijJ-1EDkLr~ljlMexKvWm-pqQcQJ9bu1KScwYPTMtLiTNa6eOJbvQc-fR95wFaKZLJBLEKaMq-AQO1T174ulfrTzg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Neste áudio, a palavra ouvida como momento favorito é `clase`.",
+      "feedbackError": "Escute outra vez e foque na palavra que vem depois de `la` na segunda parte da frase (`la clase era mi momento favorito`).",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4b8dcbd6-bcaa-42b8-90d6-5980d9b6efc7",
+          "text": "recreo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5a719baa-48a3-49c8-8e95-d27d24576f8d",
+          "text": "clase",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5acd5a79-ebb2-4d9a-82dc-fc3f74136ea4",
+          "text": "favorito",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9601d2a0-41dd-4ef1-833e-3c91c525e673",
+          "text": "escuela",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c93af1fc-dd97-4d89-9e67-903cb5145522",
+      "sequence": 6,
+      "lessonId": "6753d2a0-2350-4959-bcc0-272451eb79d4",
+      "title": "Escolha a lembrança natural",
+      "content": "<p>Você quer dizer: <strong>Quando eu ia à escola, o recreio era meu momento favorito.</strong> Qual opção funciona melhor?</p>",
+      "contentPlain": "Você quer dizer: Quando eu ia à escola, o recreio era meu momento favorito. Qual opção funciona melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa é a formulação natural e fiel ao modelo apresentado na aula.",
+      "feedbackError": "Compare as opções e escolha a que mantém `el recreo` e a estrutura completa `Cuando iba a la escuela`.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "9241499c-c5c9-4881-8ae5-03903c018259",
+          "text": "Cuando iba a la escuela, el recreo era mi momento favorito.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9fc9fb53-18d1-4b78-97a4-1370d2506013",
+          "text": "Cuando iba a la escuela, la clase era mi momento favorito.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d7bd9819-964f-45cb-868f-e63114ae9327",
+          "text": "Cuando voy a la escuela, el recreo es mi momento favorito.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "97931809-f881-4fd7-80b4-a04179a0e58b",
+      "sequence": 7,
+      "lessonId": "abce4ce6-a628-451d-b1ef-b44f29510798",
+      "title": "Monte a forma que falta",
+      "content": "<p>Cuando iba a la escuela, _________ en casa.</p>",
+      "contentPlain": "Cuando iba a la escuela, _________ en casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. `almorzaba` completa a rotina curta do período escolar.",
+      "feedbackError": "Recupere o verbo do primeiro bloco e complete a frase com a forma do imperfecto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "almorzaba",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c4af4ae1-8d84-4175-a7d1-25fb5c68e5a2",
+      "sequence": 8,
+      "lessonId": "f7c49ebc-de07-4b0f-acf3-85f9e80996ee",
+      "title": "Complete o contraste",
+      "content": "<p>Antes iba a un curso de dibujo. _____ estudio por la noche.</p>",
+      "contentPlain": "Antes iba a un curso de dibujo. _____ estudio por la noche.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `Ahora` move a frase para a vida atual.",
+      "feedbackError": "Falta o marcador que leva o contraste para o presente. Revise a nota sobre o contraste entre passado e presente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Ahora",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3832cc8d-ae72-421e-9968-058bcf1d1e16",
+      "sequence": 9,
+      "lessonId": "827f9454-6b90-43fb-b2f3-a8803a8f52af",
+      "title": "Escolha a opção natural",
+      "content": "<p>Você quer dizer: <strong>Depois da aula, eu fazia teatro.</strong> Qual opção funciona melhor?</p>",
+      "contentPlain": "Você quer dizer: Depois da aula, eu fazia teatro. Qual opção funciona melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa é a frase que liga a atividade ao momento logo depois da aula.",
+      "feedbackError": "Procure a opção que combina o marcador temporal de depois da aula com a atividade de teatro.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "94ace7c9-7b8b-413e-8da1-e9718038d299",
+          "text": "Iba a un curso de dibujo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9d9505b8-eb17-4ca6-804f-b9170f81d35d",
+          "text": "Los sábados iba a un curso de dibujo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "abf149da-f1c2-4b6d-bfd8-ecd85e1221bf",
+          "text": "Después de clase, hacía teatro.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "3f222e94-dfc5-4e74-b3a0-e098b1007473",
+      "sequence": 10,
+      "lessonId": "a7c35014-2189-4512-af63-2af79e58d3a4",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Associe cada áudio à frase correspondente. Aqui você trabalha só com espanhol e precisa distinguir os modelos simples da frase combinada.</p>",
+      "contentPlain": "Associe cada áudio à frase correspondente. Aqui você trabalha só com espanhol e precisa distinguir os modelos simples da frase combinada.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta. Você distinguiu os hábitos isolados e a frase combinada com menos apoio.",
+      "feedbackError": "Escute novamente e compare os marcadores temporais para separar as três frases-base da frase integrada.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "9d95190d-a401-43cf-96a6-edb0b9f9f712",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8ae159f62ab04f3f890a36b7509da733_l02b01-cuando-iba-a-la-escuela-desayunaba-temprano.mp3?Expires=1794099529&Signature=cEXzkAX7xNTrOLmUmsjtP0EzYGlJDypfkGHScyABDiXiUW6poz9cvpbk5KQOGvODFzRDUN81dhOtq3drvFQ5fQbGPBiKBiKuK04d9Uj3mS10ccQEX9Zo754HiVsgFM3i-~c-KNZHU-J1lBP1msZJW8E5hS2BV05npLbbOXvGWng4ejtEPO5Rq96cwaQ6-xmpLDvLiGOCByoK7g7lVAOgwL19Y06lST4~EaCJ3Hc~LpYxAUviYcVhdVAsNzJK0YXC7jn0yIIOc1cbVJrIbpQ5B7rh6AvghowWAh3YuEbaEkOlAlVdZv8aAK8on2YoR0IPISzw1vk13sD8wokNyefHKg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuando iba a la escuela, desayunaba temprano.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b5dadca7-2cf7-4d88-8db7-3a858eb040d9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5a15d1312b8642b892badefd30e5cdcb_l02b03-despues-de-clase-hacia-la-tarea-en-la-biblioteca.mp3?Expires=1794099529&Signature=OoAC8ce0lUem6ewCMQUXGcD-971WYXpC-ah8gM3V-9Kp9hBCdpGQ1wvE4CLTY~fp1cX8gHP0eyLCb4owWQfF0mjp1R6~8UU-LJYzRhmpOomQ8xOhDujHfVrOYaE7lc4Snv5duz6nnsYgDMOO~alCJL0tCuwj05CUbEcMPbUvb5DKbOQqXZ-lX6IYfEX5Zb818u9VWJ9BO-~zfx26w-vJoc9thpLpiSri0sDse7jbfU8QHQvvLLMKcoBcWi4~HXazxZyP66kxkX1YZGYgZeIyAqHZD8a02pvi7RyfFr~rNcZaMZhLHUtWbMgO-unu2DWu0UPikXdb7--W2UKSy0zqAw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Después de clase, hacía la tarea en la biblioteca.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3e50572d-e356-48a0-b3cd-ed3c455ea3a3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9ca8a2b17b37417b8fdb261a66372374_l02b05-los-fines-de-semana-jugaba-con-mis-amigos-del-colegio.mp3?Expires=1794099529&Signature=YjQQmSxtqvaOdo0~hoRg7N6U~HqNpeOvxlUiGCzx-~dHmi-ZqpCagRnFoeys3Uk5kleAu7QTVLFQDkOxf-M6Vi79EK~83~qFF9bQKgq7PWksw4n~bMOAG8D~ZMBVIPbuSNoE8rX5OzobPFWKYCsMsnJ0nSZODbUpTVrIhUm~nAnyMqhhNknok~1tS9BJGIXvkhVaXWUQ9N0PHUJA5LUWqLpQiYE8nGlkfE5TQlmUAxsawRbQDxHdmUJGlHyVb0KP6mylzUVhnyEipZjfgOcm9JC2XiyFjXGrspnLteyoJuog~qXnc2~QylNWiOihAi06DgFLAn1laKj4Tj5ncwwwpQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Los fines de semana, jugaba con mis amigos del colegio.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "4c830337-3044-4cd9-a3d4-64a5eea3ae60",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/eaa35c4c4cd04f038c2a8afbbbb7eda5_l02-challenge-cuando-iba-a-la-escuela-desayunaba-temprano-y-despues-de-clase-hacia-la-tarea-en-la-biblioteca.mp3?Expires=1794099529&Signature=gE33Vy040fALu1J7LBfgcmEgsS3WjPqW0G3tupu1NFAYvXq-eYbLLG9qgVU7u--IvXGwxb1IPsj7CQuUJmEUGzxNKSu7fStWaTZXa-ppaDSwNThWTgyHM7DvxvuuWIV9wbCNUBxrT28l3hmudEoGh-TUrTs-kfTRC-Zr1-QdRPZ-RmVThCCjWu-VUoZeq989iorJHHd46~gzwVeR1NNGAVOFkos~SmQma6Rg2R1H6NOBCtXlztcTQ9AUgcIIwhIJrq-KkwuL16v7EuBhqNetWorTSPakELsJgaZ2rNUn9OhjaulkpoAI6EvtmA3sSmY1lWXhzBH6qy584FCrIGtlgA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuando iba a la escuela, desayunaba temprano y después de clase, hacía la tarea en la biblioteca.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "bf06bc45-158f-49e6-b1d0-821bc32c9143",
+      "sequence": 11,
+      "lessonId": "abce4ce6-a628-451d-b1ef-b44f29510798",
+      "title": "Ouça e identifique",
+      "content": "<p>Qual palavra você ouve na frase sobre o fim de semana?</p>",
+      "contentPlain": "Qual palavra você ouve na frase sobre o fim de semana?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8f1a1a1e38af465ab8d3b643bd3cd7c3_l05b03-los-fines-de-semana-salia-con-mis-vecinos.mp3?Expires=1794099529&Signature=rCEnyOtK3iZeKBj6LtmdTK8k84S1IYapHw4JT53fyvUpMFz4~J7gGIB0gdfblDGAiQATCgQEqoh1W32y8yncVpswRJ5sKL6T1P~Hxfel~7pz1YgFPQlLg3kBHptttQ4u-JuvwDwRf3~ITXT~yvJBwIPsNWNkulErWf9Al3azVUE1NwEraJTYUi8KIOyJGK-8ZhLHTXceP4ffE0e-4ZT4JK89A1LcUIrMP34i1iqL~O2ffKBAIrQAa6mdduP2DgsZS3eQthvJLJIHpA1KA2HbUyd3X8prfr0niAdd3mFBlGVmaVrxzkluC-9fXnlRVED26wEo7dIi1v4hCi2I~7A9zw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. A frase do fim de semana termina com `vecinos`.",
+      "feedbackError": "Escute outra vez e foque na última palavra da frase do terceiro bloco.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "19194d56-aebd-471d-b807-63069b22e61f",
+          "text": "vecinos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3ca3ea01-9cdf-4a15-ae50-7b9341d63ebf",
+          "text": "casa",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c8530736-4fe7-41ce-92aa-3138d8fc760a",
+          "text": "escuela",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d4b465d4-c942-4cdf-8ff4-8bdc7666a52a",
+          "text": "música",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "2dfedcfd-eca5-4cbe-99e7-f4c2457a532b",
+      "sequence": 12,
+      "lessonId": "5fd4093b-e66b-4e04-bdd4-f20e94fb0398",
+      "title": "Ouça e identifique a palavra",
+      "content": "<p>No áudio completo da comparação, qual lugar aparece na parte de antes?</p>",
+      "contentPlain": "No áudio completo da comparação, qual lugar aparece na parte de antes?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c74ee6a8d2f640e4859200a9e6479df0_l06b05-cuando-iba-a-la-escuela-hacia-la-tarea-en-la-biblioteca-ahora-estudio-en-casa-por-la-noche.mp3?Expires=1794099529&Signature=gnrk3sA5nib4uXic1sddV875A8009PtL2l1smRsCh~NuUABX9NoEz13g3ZPqKhL-ipIGeeZkZNoI6XPl41p3m6R1BhvqP1CZTNHR2RfKamyZ6yJ3OjcQGzFtaQz9Y5QD6wYYc6KjmxSGOZvtDgZIjgPKL7M2ywm4D2NP08i4MY~8-vl-rrvOrXYPtGydSic631SI0pR5p3hhA-cF7jaW8nadrbrWn68~d3oDGehmkuchrXkfkaWAK5WdNeoRN1uWJu2y5oGjQrC9kqIeyr-tXwzt5XMD7YhdBhKq1ai7F6CTngfdBzxVEfYImr2OrY0RPmtsPZB3ih5g7Q7TiUddVg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. A parte do passado menciona `biblioteca`.",
+      "feedbackError": "Escute de novo e foque no lugar que aparece antes da mudança para a rotina atual.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "239ea518-a746-4333-8445-072f848ab52b",
+          "text": "noche",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "842ba9d5-15c8-4bc3-90fc-a87ee3fc9023",
+          "text": "casa",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "85be1919-026d-439c-8a7f-1a6e275d93cc",
+          "text": "biblioteca",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "96bad3bb-df84-43f0-a61d-87abe2f59c52",
+          "text": "ahora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "18c27641-6181-4774-89e7-a375920001c0",
+      "sequence": 13,
+      "lessonId": "6753d2a0-2350-4959-bcc0-272451eb79d4",
+      "title": "Monte a forma correta",
+      "content": "<p>el ______</p>",
+      "contentPlain": "el ______",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. A expressão correta é `el recreo`.",
+      "feedbackError": "Revise o bloco do intervalo e complete com a palavra exata em espanhol.",
+      "answerType": "buildWord",
+      "expectedAnswer": "recreo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "19c6b747-7e7b-4ea0-b4ef-ae7578e58cad",
+      "sequence": 14,
+      "lessonId": "5fd4093b-e66b-4e04-bdd4-f20e94fb0398",
+      "title": "Escolha a comparação completa",
+      "content": "<p>Você quer dizer: <strong>Quando eu ia à escola, fazia a tarefa na biblioteca. Agora estudo em casa à noite.</strong> Qual opção funciona melhor?</p>",
+      "contentPlain": "Você quer dizer: Quando eu ia à escola, fazia a tarefa na biblioteca. Agora estudo em casa à noite. Qual opção funciona melhor?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Essa opção mantém o contraste claro entre a fase da escola e a rotina atual.",
+      "feedbackError": "Procure a opção que conserva uma linha do passado e outra do presente sem misturar os tempos.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7cd9198e-7e18-4bad-8b26-f3a01b17bdb2",
+          "text": "Cuando iba a la escuela, hacía la tarea en la biblioteca. Ahora estudio en casa por la noche.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7f5f3298-0b37-419b-8097-b8b31d98e7fe",
+          "text": "Antes, estudio en la biblioteca. Ahora hacía la tarea por la noche.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d941fac9-9f36-4ee0-89de-d618fcbfe3e1",
+          "text": "Cuando iba a la escuela, estudio en casa por la noche.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "519b5023-9372-44a5-8bb8-5c05f2a6881e",
+      "sequence": 15,
+      "lessonId": "827f9454-6b90-43fb-b2f3-a8803a8f52af",
+      "title": "Monte a forma correta",
+      "content": "<p>Complete sem tradução: Los sábados iba a un _____ de dibujo.</p>",
+      "contentPlain": "Complete sem tradução: Los sábados iba a un _____ de dibujo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você recuperou a palavra-chave da rotina de sábado.",
+      "feedbackError": "Retome a frase do curso e monte a palavra que fica entre un e de dibujo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "curso",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

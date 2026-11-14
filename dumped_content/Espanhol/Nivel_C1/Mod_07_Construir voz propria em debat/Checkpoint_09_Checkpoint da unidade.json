@@ -1,0 +1,455 @@
+{
+  "attemptId": "ed38eaf1-28c1-48b9-a6ee-064bea71ea2c",
+  "exercises": [
+    {
+      "exerciseId": "543005ff-2cb7-4904-ae43-f4e2ea190035",
+      "sequence": 1,
+      "lessonId": "8e5c3ef5-7c7c-410d-82b2-b20b0e5edb67",
+      "title": "Associe comentário e movimento",
+      "content": "<p>Resolva sem apoio de tradução literal, pensando no papel que cada conector cumpre no comentário.</p>",
+      "contentPlain": "Resolva sem apoio de tradução literal, pensando no papel que cada conector cumpre no comentário.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula treina quando cada conector sustenta soma, reserva ou conclusão.",
+      "feedbackError": "A aula treina quando cada conector sustenta soma, reserva ou conclusão.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "bd5507ad-3a88-4ed5-bf32-1a66b58b5ba1",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e5870fb9-b5a9-4cb7-b85b-98580f9d4fb5",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "efdb2680-c9e2-4945-89e3-a25e057754b4",
+          "leftContent": "Lidera bien la transicion y, ademas, ordena prioridades con calma.",
+          "rightContent": "soma um segundo apoio ao mesmo perfil",
+          "sequenceItem": 1
+        },
+        {
+          "id": "76fe1928-548e-47a7-b894-0cfd21ddfb46",
+          "leftContent": "Tiene buen criterio; sin embargo, evita conversaciones tensas.",
+          "rightContent": "abre uma reserva sem desmontar o elogio",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7fc87175-4ca8-478a-ba6c-047edde1fd5e",
+          "leftContent": "Mostró resultados estables; en consecuencia, ya inspira confianza para un salto mayor.",
+          "rightContent": "fecha uma conclusão sustentada por evidências",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "59fb12b6-8eed-43c4-82af-f900bcb80336",
+      "sequence": 2,
+      "lessonId": "42994e00-cbd8-485a-a3b7-b49b7218e9da",
+      "title": "Reconstrua a arquitetura do comentário",
+      "content": "<p>Associe cada trecho do comentário integrado ao efeito que ele produz na argumentação.</p>",
+      "contentPlain": "Associe cada trecho do comentário integrado ao efeito que ele produz na argumentação.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário final soa autoral porque organiza prioridade, causa, consequência e matiz no mesmo bloco.",
+      "feedbackError": "O comentário final soa autoral porque organiza prioridade, causa, consequência e matiz no mesmo bloco.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "6c81ea7a-299b-4bd1-ab28-3d722ea08dfb",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "91461b35-7c20-483e-98e6-5c63bf392751",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "8e4016c7-c475-48db-b518-768869fd35d0",
+          "leftContent": "la ciudad deberia rehabilitar primero las escuelas con peor aislamiento termico",
+          "rightContent": "fixa a prioridade pública da tese",
+          "sequenceItem": 1
+        },
+        {
+          "id": "01359957-c65b-4cab-98cb-db7fcee64a3a",
+          "leftContent": "las olas de calor ya alteran la rutina escolar",
+          "rightContent": "apresenta o fato que ativa a justificativa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6b37e1ea-3af4-432d-8cc2-f578a2cbd205",
+          "leftContent": "sale más caro socialmente",
+          "rightContent": "explicita a consequência coletiva",
+          "sequenceItem": 3
+        },
+        {
+          "id": "290329c5-c2cc-44c4-826f-f159dabd79c0",
+          "leftContent": "publica criterios claros y resultados verificables",
+          "rightContent": "define a condição de transparência do matiz",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "2d9252ba-d05c-4594-a86b-a70e9a034603",
+      "sequence": 3,
+      "lessonId": "9571d016-8d7c-4fd0-addb-70c680e4b0dc",
+      "title": "Recupere a abertura da tese",
+      "content": "<p>En ______ termino, conviene ampliar el horario de la biblioteca del barrio.</p><p>Tradução: Em primeiro lugar, convém ampliar o horário da biblioteca do bairro.</p>",
+      "contentPlain": "En ______ termino, conviene ampliar el horario de la biblioteca del barrio. Tradução: Em primeiro lugar, convém ampliar o horário da biblioteca do bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "A abertura da lição usa en primer termino para anunciar a tese desde o início.",
+      "feedbackError": "A abertura da lição usa en primer termino para anunciar a tese desde o início.",
+      "answerType": "buildWord",
+      "expectedAnswer": "primer",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "87a1e11d-f1cf-4d83-bcbc-1b5e09d5ae34",
+      "sequence": 4,
+      "lessonId": "aceea16e-cbd8-4512-a9de-1f931a6cd4b2",
+      "title": "Recupere a reserva de agua",
+      "content": "<p>Los _________ costeros tardan décadas en recuperarse si la extracción sigue igual.</p><p>Tradução: Os aquiferos costeiros demoram decadas para se recuperar se a extracao continuar igual.</p>",
+      "contentPlain": "Los _________ costeros tardan décadas en recuperarse si la extracción sigue igual. Tradução: Os aquiferos costeiros demoram decadas para se recuperar se a extracao continuar igual.",
+      "fileUrl": null,
+      "feedbackSuccess": "Acuíferos enquadra a agua como sistema de reserva sob pressao.",
+      "feedbackError": "Acuíferos enquadra a agua como sistema de reserva sob pressao.",
+      "answerType": "buildWord",
+      "expectedAnswer": "acuíferos",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d3379b36-92ad-4c1f-a2cd-0e18854d6dbf",
+      "sequence": 5,
+      "lessonId": "72f69d43-145f-4629-8f07-1a089c0609e7",
+      "title": "Escute a mudança de rumo",
+      "content": "<p>Resolva só pela escuta: selecione as palavras que constroem a ideia de virada profissional.</p>",
+      "contentPlain": "Resolva só pela escuta: selecione as palavras que constroem a ideia de virada profissional.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/26f8bcdfc6114b668383ac419ae9a582_b08-despues-de-anos-en-consultoria.mp3?Expires=1794099891&Signature=FCPP3d43R0ADSuKEPw5-clyZFzH2rIuTg73aDz8mKnB7FIC-2GW~dVhlM90EAwn6VlCBhOu7nDz-MuPUg9qujCUqQd6HSUtZdcVh4ExRthGAonfTxlchaA-oQwTfGvxawx1P3wX~TA2wXILwszQipGi8cvthToJDfBXusr8NmK7Ej6ASU9CeZIhZB5scOcfmSAiQkA4Sr6D1CliCNkQXf-lPU2ZSl3TRsNbVtoV27EPMLIYcBdLh1iJwxiN8uMNwzfeIfCl0sPhEuehJva2l0L8~eDwFOd-WsoxMVMMr77B939~GrZ~vstTii5XWT6pYGBRJbkS0HCn4lwsRVk7DyA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na virada, a escuta precisa recuperar passado, novo eixo e novo tipo de projeto.",
+      "feedbackError": "Na virada, a escuta precisa recuperar passado, novo eixo e novo tipo de projeto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0a174c98-3d2d-4cb5-bcd1-37d9ae657481",
+          "text": "promoción",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2dacbeb2-a0e4-448e-b9e7-8f0c18241e00",
+          "text": "comunitarios",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "433e5194-949e-4e4f-a173-182685384518",
+          "text": "sostenibilidad",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "838bdf07-52dd-4e97-9f96-3cd39a8fc636",
+          "text": "consultoria",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "afcb63da-f80c-473c-a849-3c3579dbc402",
+          "text": "giro",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b13c030b-2b9f-4b2b-bade-69e409810ebe",
+          "text": "visibilidad",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "ad1538b1-296c-4ad4-adc8-ab297789285f",
+      "sequence": 6,
+      "lessonId": "72f69d43-145f-4629-8f07-1a089c0609e7",
+      "title": "Recupere o verbo da subida",
+      "content": "<p>Tras dos anos liderando proyectos pequenos, lo ___________ a la coordinacion regional.</p><p>Tradução: Depois de dois anos liderando projetos pequenos, promoveram-no para a coordenação regional.</p>",
+      "contentPlain": "Tras dos anos liderando proyectos pequenos, lo ___________ a la coordinacion regional. Tradução: Depois de dois anos liderando projetos pequenos, promoveram-no para a coordenação regional.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, `ascendieron` torna explícita a leitura de ascensão.",
+      "feedbackError": "Aqui, `ascendieron` torna explícita a leitura de ascensão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ascendieron",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "90f169f3-4617-453b-b41c-9df5efa1f681",
+      "sequence": 7,
+      "lessonId": "8f25fd22-180c-4872-aacb-dfce8a25d7e6",
+      "title": "Recomponha a indignação pública",
+      "content": "<p>Me ________ que se celebren anuncios vacíos mientras los datos siguen mostrando daño acumulado.</p><p>Tradução: Me enfurece que se celebrem anuncios vazios enquanto os dados seguem mostrando dano acumulado.</p>",
+      "contentPlain": "Me ________ que se celebren anuncios vacíos mientras los datos siguen mostrando daño acumulado. Tradução: Me enfurece que se celebrem anuncios vazios enquanto os dados seguem mostrando dano acumulado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a indignação reforça a crítica a decisões ou omissões públicas.",
+      "feedbackError": "Nesta aula, a indignação reforça a crítica a decisões ou omissões públicas.",
+      "answerType": "buildWord",
+      "expectedAnswer": "enfurece",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7846c0f7-8ccf-4d10-afb6-2acd99f2888a",
+      "sequence": 8,
+      "lessonId": "aceea16e-cbd8-4512-a9de-1f931a6cd4b2",
+      "title": "Recupere o impacto ampliado",
+      "content": "<p>Cuando cae la _____________ del humedal, el daño ya no afecta a una sola especie.</p><p>Tradução: Quando a biodiversidade da área úmida cai, o dano já não afeta uma única espécie.</p>",
+      "contentPlain": "Cuando cae la _____________ del humedal, el daño ya no afecta a una sola especie. Tradução: Quando a biodiversidade da área úmida cai, o dano já não afeta uma única espécie.",
+      "fileUrl": null,
+      "feedbackSuccess": "Biodiversidad amplia o dano para o equilíbrio do ecossistema.",
+      "feedbackError": "Biodiversidad amplia o dano para o equilíbrio do ecossistema.",
+      "answerType": "buildWord",
+      "expectedAnswer": "biodiversidad",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "412ae2a9-7281-49eb-a273-9ca3fd07f3ac",
+      "sequence": 9,
+      "lessonId": "42514ee9-b558-4874-a4e2-7b2e1461f7b8",
+      "title": "Reconstrua pela escuta",
+      "content": "<p>Resolva sem apoio em português, distinguindo enquadramento do problema, postura avaliativa e consequência projetada.</p>",
+      "contentPlain": "Resolva sem apoio em português, distinguindo enquadramento do problema, postura avaliativa e consequência projetada.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da aula pede escuta integrada de escala, postura e consequência no mesmo repertório.",
+      "feedbackError": "O fechamento da aula pede escuta integrada de escala, postura e consequência no mesmo repertório.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "c5fe572d-7622-4354-8205-a6230c7a8738",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ba8c5faa123941b89de4a567bd36dcb6_phase4-b02-sequia-ya-no-es.mp3?Expires=1794099891&Signature=x3B-1DLYlDNG6RxN-6w57PmgdU7XhJHXJNa~4wLvcACmL~8ML699wsx5KHFK1NLwxM4yv5RMwOwvoX4zq5rfKMHCYIpSvWLysz4ditteOqBMwQhPoPV8Au2SHmcZH6WQ5QYsisXJ5jXsLXjonnpKL-RzIymvQ-j5He9oC9LG0n76tKJrVdTIoCTYeO97j-yQKFfOs-b6qT9XuIBdF9YZvuw4LjYfzs8lzX9A0Kpzigm8BC-bspuL3V8M24ZchSktmCP5~KSnX9t3qHMndJOiEfxX8H5L4JBX7dqvYGVF7mGFG9evriA4gVeL31FLlUkTqExLe6eBbzTg8y9bgKKdew__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "ya no es una alerta puntual",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8cbcb16c-44e2-4c84-8bda-b34ee29323cc",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f3be943010e34998a8a3cc8fb880d7c0_phase4-b04-biodiversidad-como-lujo.mp3?Expires=1794099891&Signature=NvBG3OiwGjzMJtNpLjkknz9ZzoEn96qLSPYKN6534-AUWSRFWrJ2UZCkIc~~OsHjUlUmjpDgsBBokUhAKvMmCMWvmrue93vVUcUHnfUNm911ZFuKo2qlfJsyVGJU2KY2xaFruwJVBXPF0-Vkj0JXhYVyKjGfCOXs~dCgHLECoeSB4hkLSQDSPQ2TwkbStWfgCehzfR-5UKWv7XkKPgG-HKS~wuRm7v1EUjvuHUst8C8708b0enIQkOPZnf9uI4~fbZIoUOTsBwMCy8yEuBkMkKfxFyCrRfQ4JHKg6ePiueNm79nUm0LAj2DoodTlA9OWqfi19iOq6uaNiFMtP79SOg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "esa mirada debilita cualquier politica ambiental seria",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f1289419-96e4-43b1-9c5f-3579a0453c37",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/85176f36c52544c186c775553d18ba43_phase4-b06-residuos-mal-menor.mp3?Expires=1794099891&Signature=EamENzEVTKRoO8BaOWCdD0tTUaM0Nr3esaHEO2hN4HijkMz4I430X6oqIm4ER3QX3REVt6tSbVuc1O1SJuu7Oq5yKj~~NOpygWAbG3sf5YxHK7tgf~hDpuk-VFnqFPk3FeWPajKCpW9M6FnryTvrk6YmtOaRs7OTVrm5wfSjZXVg9FyTacoFHXhcI-Z6wNESyS~DfFUXxPZ7HjMJaT2R0YVQrlnME4Ur6ZrUfldPiJEpSdc4xuTOLDWY0uAttLuZdieeyIAhu~0CtSdnx9WEA3FcaeJFrGfHbIeGiH2OWNcJ7J4qYAz3r30nx1Bjp6VF60XXxYaa8zTq2pv-tyI9-w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "acabaremos trasladando el costo ambiental",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "89b1beea-2407-4889-94bf-e39d702de8db",
+      "sequence": 10,
+      "lessonId": "42514ee9-b558-4874-a4e2-7b2e1461f7b8",
+      "title": "Recupere o julgamento sobre biodiversidade",
+      "content": "<p>Me inquieta que la biodiversidad se trate como un ____, porque esa mirada debilita cualquier politica ambiental seria.</p><p>Tradução: Me inquieta que a biodiversidade seja tratada como um luxo, porque esse olhar enfraquece qualquer politica ambiental seria.</p>",
+      "contentPlain": "Me inquieta que la biodiversidad se trate como un ____, porque esa mirada debilita cualquier politica ambiental seria. Tradução: Me inquieta que a biodiversidade seja tratada como um luxo, porque esse olhar enfraquece qualquer politica ambiental seria.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na linha da biodiversidade, o julgamento aparece ao críticar a leitura do tema como luxo.",
+      "feedbackError": "Na linha da biodiversidade, o julgamento aparece ao críticar a leitura do tema como luxo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "lujo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "281fe972-829b-4a9d-af7b-00ab24bd83fc",
+      "sequence": 11,
+      "lessonId": "42994e00-cbd8-485a-a3b7-b49b7218e9da",
+      "title": "Reforce a prioridade",
+      "content": "<p>A mi juicio, la ciudad deberia rehabilitar _______ las escuelas con peor aislamiento termico.</p><p>Tradução: Na minha opinião, a cidade deveria reabilitar primeiro as escolas com pior isolamento térmico.</p>",
+      "contentPlain": "A mi juicio, la ciudad deberia rehabilitar _______ las escuelas con peor aislamiento termico. Tradução: Na minha opinião, a cidade deveria reabilitar primeiro as escolas com pior isolamento térmico.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, a tese fica mais forte quando define prioridade e não apenas tema.",
+      "feedbackError": "Nesta lição, a tese fica mais forte quando define prioridade e não apenas tema.",
+      "answerType": "buildWord",
+      "expectedAnswer": "primero",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f59587c6-6cbb-4ecf-821f-c8f2752df720",
+      "sequence": 12,
+      "lessonId": "8f25fd22-180c-4872-aacb-dfce8a25d7e6",
+      "title": "Recupere o alívio parcial",
+      "content": "<p>Me ______ que por fin haya datos abiertos para revisar la gestión con más detalle.</p><p>Tradução: Me alivia que finalmente haja dados abertos para revisar a gestao com mais detalhe.</p>",
+      "contentPlain": "Me ______ que por fin haya datos abiertos para revisar la gestión con más detalle. Tradução: Me alivia que finalmente haja dados abertos para revisar a gestao com mais detalhe.",
+      "fileUrl": null,
+      "feedbackSuccess": "O alívio desta aula reconhece melhora parcial sem encerrar a avaliação pública.",
+      "feedbackError": "O alívio desta aula reconhece melhora parcial sem encerrar a avaliação pública.",
+      "answerType": "buildWord",
+      "expectedAnswer": "alivia",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e7031e8a-433e-45e7-816b-5220b6cbe614",
+      "sequence": 13,
+      "lessonId": "9571d016-8d7c-4fd0-addb-70c680e4b0dc",
+      "title": "Recupere a reserva",
+      "content": "<p>No ________, haria falta reforzar la seguridad y el personal de tarde.</p><p>Tradução: No entanto, seria preciso reforçar a segurança e a equipe da tarde.</p>",
+      "contentPlain": "No ________, haria falta reforzar la seguridad y el personal de tarde. Tradução: No entanto, seria preciso reforçar a segurança e a equipe da tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "A reserva da lição introduz limite prático sem desfazer a posição inicial.",
+      "feedbackError": "A reserva da lição introduz limite prático sem desfazer a posição inicial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "obstante",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "20dca92b-2fff-47c8-92f2-21e47103ec06",
+      "sequence": 14,
+      "lessonId": "6d7121d4-ae2d-4843-b38a-860388495d5c",
+      "title": "Reconstrua a causa pelo som",
+      "content": "<p>Ligue cada áudio ao trecho em espanhol que carrega a moldura causal decisiva.</p>",
+      "contentPlain": "Ligue cada áudio ao trecho em espanhol que carrega a moldura causal decisiva.",
+      "fileUrl": null,
+      "feedbackSuccess": "Fechar pela escuta ajuda a distinguir a moldura causal antes da conclusão de cada frase.",
+      "feedbackError": "Fechar pela escuta ajuda a distinguir a moldura causal antes da conclusão de cada frase.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "2b8b8c5b-59c7-4005-b50c-b9bf7317ce6f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/24a73715f09843b3895d14104ef5e8d2_b02-puesto-que-la-sequia-ya-afecta-a-varios-municipios.mp3?Expires=1794099891&Signature=v7H4DW1igxZF6hpeIAZfWI98AjW56fyTL9Sk6PxjJ~hw1B2o5cOLa0wtVkAZBnXIvlVa3cJeYgJdPXfBcbzRG4Ztjh~Ta5bmFtYKtbntbwJ-WB-e0D95xOUm~0pT1cK0oH7ckVZsOEacbOzrnku53FdI0pxfXCLaaGTLG51id1EZmhXjzOuL6asb4XMVCPGv1JFBWzsy5-me~FbxJb0cqrwfmUZC9~OffVQHrdqD8aykKLSUNGQgbUXOtJm-beXsVFtMiCqpEJxuP3fqAaRKdx5Q6aYekYgZJ8LeE0hwzo4oZhKZaKRbkJyGwxXyjKFPkSxdhP0blwUVNDZb4d9fCg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Puesto que la sequía ya afecta a varios municipios",
+          "sequenceItem": 1
+        },
+        {
+          "id": "15baf9b8-c2fd-4022-9b10-06af806c0e23",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/335f41c18dfc443f8baf69c5d3af7410_b04-ya-que-el-consumo-domestico-apenas-ha-bajado.mp3?Expires=1794099891&Signature=cuStSJglMaqNFh2kiBUFf6hZtF8CUdaDPrr5QCEPvKYpHUjbGoUWF-53hqB8DphTnC654G0qGHzAcuKm~UCkjP1AlNrxXcG2j40EYJoPqrhRChHm3MstxMsnycGGYo~0sg-MwpDVR~0Am-N~ufvvs8P513cU1moQodNlHRH2e~qOLc1X6Eduk9rMaLAmM0wf-sqniZIscq-xf8r5AGg7w8SjeDSCiUD19DFStutE0iPbip1214ynwC~~YSfkKqiEd2nrvIkua8YuQba3v2g-SBcYB4iejXGmgkGiQZYj-qaKxeG3pKdgnOb5Z0wo5~XzicvnTJmUKLbNy3OIdEbE7Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ya que el consumo doméstico apenas ha bajado",
+          "sequenceItem": 2
+        },
+        {
+          "id": "41575371-f4ad-4511-84df-1779683d51ea",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4b5ad0840dc14e0cbc1e4a83d4256578_b06-dado-que-el-informe-descarta-una-mejora-inmediata.mp3?Expires=1794099891&Signature=DQ-vU5iGKnTwPst8q9lbXNHUcqQBignxjwPVyV5tZVqhhXEuTCR~suL9od3OZp4IKCF2mhK0BvsW2wLkf7LoeCeV-Dpk~LDsULKvWd2qgicYTfiTkRY-xIVcTQPRXMJqQo2NMYhKgTy9fvvfOwSbn3oeJbyH8d1ZgH5pUekHrE~iJ305Shk2HRP106NxbV5W52kAcQ3hM-zpkWk7jyhDeW0Jfs2PFVDqjCd7FCNL2MvwGm0wKB8ZmF4MnMsjKH2TaN0SYKWX0Td4AkLeyTm6eqJz4pw5S9exnF2XQMLK6InarGeUdkUpqWpUGN2oJfM5NRug7ttk2ioskWEcCoyC5Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Dado que el informe descarta una mejora inmediata",
+          "sequenceItem": 3
+        },
+        {
+          "id": "861cafe3-ddc9-4ebf-883e-9e7c9cdefeb9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/977474e1a777457592e97c97666191e2_b08-gracias-a-los-depositos-de-reserva-del-barrio.mp3?Expires=1794099891&Signature=FZZOvSrVmvXrgJa6ySO1Vn32ufX7cr2mWTK3vMPqYw-O5o8lvox4BBoQ~0uSnY47nJq-GfZdJNSQDZ05bWJpZ4MLzxnelCDkEyT1rNHxq6pdTmAX7YmQJCPovDayRBAzDAuWES0Qiy5dlwYEx21Sg2HetJ-Kg00E1I0fi2v9IOMP6-qEQVwuHDayYpf0hhjhBgRVrv-mTFpQ85j2p9TkTSBre3E1Gi0lwSN5BOAhkji9yRA2KuklX0Ll17xAqOxfejBVRAalWR288lvpa03QNUmmx9hqFJsK0Hr65-zfP9cRfyeq2k12t0Mi2dlzaRHVHvtUVayyGirlmjlWJ~83Xg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Gracias a los depósitos de reserva del barrio",
+          "sequenceItem": 4
+        },
+        {
+          "id": "c10ba4f3-4271-4c70-88c7-890ec2f5e8df",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bc64c25deae84aacac934bc622faae33_b10-debido-a-la-falta-de-mantenimiento.mp3?Expires=1794099891&Signature=kZiAucYz49nLB8~x9C46Tr1r2bFLT51hxRYHde6h1Y6GGLzNmJHcH~Y5F2PvQeHQP2SbQjRfW-tiPDDMK2nX5hkIfU--zeAK5UTNlsMyQdrVV4By7HbnFoNPbH2ehAZfEqmFDattW367VcZjTsYBsDFdoe7lFpInRi6ju0jFA0h0NCAKYCEAuZu2nHbVIaO9NmRXm3QybWb-mNPXPqH2-GhBP1oTowv4~XRVKDT1ojDg9NCGxM~Z~RQsfpaLLh-7JOIWSJ1mnbmxwOkSd3tEj25Ca9sdzuYRSqBTfZnLzp4fppMecxIbGkI53a2u5JMCxuOvHy-K7U0YWscfjlVwlg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Debido a la falta de mantenimiento",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "45088506-a40f-4ba0-a703-61090d23d83e",
+      "sequence": 15,
+      "lessonId": "6d7121d4-ae2d-4843-b38a-860388495d5c",
+      "title": "Resolva a justificativa pela escuta",
+      "content": "<p>Sem apoio em português, selecione apenas as palavras que pertencem ao comentário sobre os limites da campanha.</p>",
+      "contentPlain": "Sem apoio em português, selecione apenas as palavras que pertencem ao comentário sobre os limites da campanha.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/335f41c18dfc443f8baf69c5d3af7410_b04-ya-que-el-consumo-domestico-apenas-ha-bajado.mp3?Expires=1794099891&Signature=cuStSJglMaqNFh2kiBUFf6hZtF8CUdaDPrr5QCEPvKYpHUjbGoUWF-53hqB8DphTnC654G0qGHzAcuKm~UCkjP1AlNrxXcG2j40EYJoPqrhRChHm3MstxMsnycGGYo~0sg-MwpDVR~0Am-N~ufvvs8P513cU1moQodNlHRH2e~qOLc1X6Eduk9rMaLAmM0wf-sqniZIscq-xf8r5AGg7w8SjeDSCiUD19DFStutE0iPbip1214ynwC~~YSfkKqiEd2nrvIkua8YuQba3v2g-SBcYB4iejXGmgkGiQZYj-qaKxeG3pKdgnOb5Z0wo5~XzicvnTJmUKLbNy3OIdEbE7Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Ya que costuma soar como justificativa mais explicativa para a conclusão.",
+      "feedbackError": "Ya que costuma soar como justificativa mais explicativa para a conclusão.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0f3062ad-e872-47f2-ae22-414c883f313d",
+          "text": "consumo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6047952a-8cc2-483e-ab37-e3c7cb30caeb",
+          "text": "basta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "818051b3-adfd-4290-a1ac-441f57bff2fa",
+          "text": "campaña",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8b51dd4b-5e19-4b9b-9a5f-559209b02d04",
+          "text": "fugas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f0d64ac7-ebce-4aaf-afad-a35f9a54f991",
+          "text": "informe",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fda6afdf-a75e-4da7-9c86-512779d65f39",
+          "text": "barrio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

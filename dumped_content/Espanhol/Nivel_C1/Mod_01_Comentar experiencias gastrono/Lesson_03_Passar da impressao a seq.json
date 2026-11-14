@@ -1,0 +1,619 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+    "attemptId": "d9333620-257d-4018-9203-2f7f43d83d27",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "61bc5a8e-3612-4f1f-bcd2-709cbceb5a66",
+      "781a8729-815a-4844-a6b5-974565cd666c",
+      "b20ad092-9422-407e-a62b-fd557d981cc7",
+      "ca0908d9-a3d0-4498-b948-8cc000b69688",
+      "e31e1bbb-e987-43c0-b3ad-d52ab825e32d"
+    ],
+    "evaluationExerciseIds": [
+      "e4e0cbf8-caa9-4307-a425-ccf3192d3ba4",
+      "6a8ebe95-5a70-483e-b37c-31e6cffeea47",
+      "5499401c-9ea4-40c6-80ad-be05e144df89",
+      "89f0e55b-8686-4888-b66e-6cf0ed73affc",
+      "2098390e-2cd8-4f74-9058-5d83852b61c2"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:04:04.6182493Z"
+  },
+  "contents": [
+    {
+      "id": "cca95d54-bf4e-456f-94a4-58463747d189",
+      "title": "Escute e leia o comentario. Note como a avaliação já vem presa a um momento da refeicao.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "6fae9b75-0315-49b3-88a5-8c45d0c95692",
+          "textContent": "<p>Observe como a avaliação nao aparece solta.</p><p><strong>Cuando llegó el plato, el aroma ya prometía algo más delicado.</strong></p><p>Em portugues: <strong>Quando o prato chegou, o aroma já prometia algo mais delicado.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/807d852e636b41edba9e643f8cf1f3ac_b01-cuando-llego-el-plato.mp3?Expires=1794099845&Signature=qEApZel3tSuAvJ0LpJhZpB3uGIMlyw03eSIxPnuo9wPbCVhE97tStOm7aaoRKWy8Yst80Wbhe3uDanG-BXdPQpgoaSkIZmTCvOUK92uhIwSKJbEROcQaolr-1hCs-UkM1sheAuva1gpYX3U1fmS7XJlO-1xTqejSrN6pb1AiUl1k3zyIZbbdzoQRjJ2AJ-4HB0vDZbX7KsEAbD5p6JlKhfbhFQR2opWnh5nt8o1dpKEv2sJeTm2dgltL7xv6e1tp7L9Zn7S7Ny~DK0HU0JU7EyPi2xxCho5NwUPSbhUnYCGcvKgNHlAZa~4Y27ib6ONF1He6XRw3ovL8IHLKWyWCkQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5601cca3-b3b0-4d4d-883d-bd6c7949b83c",
+      "title": "Leia a nota curta e observe o papel de \"Cuando llegó el plato\" no comentário.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "f0d05237-030e-4e9c-806d-10b6539125d9",
+          "textContent": "<p><strong>Cuando llegó el plato</strong> ancora a impressão no momento do serviço.</p><p>Assim, o comentário deixa de ser apenas <strong>delicado</strong> e passa a dizer quando essa percepção surgiu.</p><p>Nesta aula, o foco é exatamente esse: amarrar sensação e momento da experiência.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0c48d4a2-7470-4c57-a751-f0b95ceb2be0",
+      "title": "Escute e leia a frase. Repare que agora a impressão muda quando a comida é provada.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "a479f479-7d27-47ea-8e4f-1af96d50570c",
+          "textContent": "<p>Agora a avaliação vem depois da prova.</p><p><strong>Al probar la salsa, me resultó más ligera de lo que esperaba.</strong></p><p>Em portugues: <strong>Ao provar o molho, ele me pareceu mais leve do que eu esperava.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d0401c56a3234220b004715b5c459bf2_b03-al-probar-la-salsa.mp3?Expires=1794099845&Signature=QsvXSGp60H~0zlmIrLcVcxIMFFBVVklsxLxwQSEKlQHfSw8OjBmHr1LhSP1uL8s69oaGAI51mQU0fkcmjk~As51RaYbZ6gKw8GcLFDwqdrXC-XZbv2bm5J74NNG1Mb5zUd~Nk~NfuybEU3eEfdhgydwySfKhAc3fMA3iFPSRE2ngTtxF5J6BxrblWv3BuRgux0UlVpsMC8mIpPEHtcMcU60zp6-OGTcicufndfz3BQg8snMDH9qCD~gnsYb-Of9bn~ouPwbtxO4EPeTRkqSFPnJ78VZ0OSt8udiyuZpab-iTSoZvzKy-SAGxJVxTIViZ0QhtCSUl6KlH~Q8cuRRHcQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c1ddd061-3907-46fb-82ff-80d849051f4b",
+      "title": "Compare as duas molduras em espanhol e observe que cada uma aponta para um momento diferente da experiência.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "a913aa4a-0541-4974-8ed7-94d8ffaaa73d",
+          "textContent": "<p><strong>Cuando llegó...</strong> marca a primeira impressão.</p><p><strong>Al probar...</strong> marca o momento em que o sabor confirma, corrige ou complica essa impressão.</p><p>Esse pequeno deslocamento já cria sequência sem precisar listar conectores formais.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c8f674ba-40f7-48ce-9f12-9d8d46b43fe4",
+      "title": "Escute e leia o comentário completo. Observe como o contexto da mesa entra sem virar um texto longo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "00d1f8a2-e8ec-4d5e-a9aa-7ecafb494134",
+          "textContent": "<p>Agora o comentário junta contexto de mesa, ordem e avaliacao.</p><p><strong>En una mesa tan animada, el plato llegó tarde, pero al probarlo el toque ahumado me resultó limpio y nada pesado.</strong></p><p>Em portugues: <strong>Em uma mesa tão animada, o prato chegou tarde, mas ao prova-lo o toque defumado me pareceu limpo e nada pesado.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/2e3fe56d506e43388dac96d242a0141b_b05-comentario-de-mesa.mp3?Expires=1794099845&Signature=R3y0xgVGOHsxvjH6CQ1jjRd7tcSAHl9N-bwn9sRhppT-Ayt0Kh33RQuVhfKTxozSTKchAmcV5K8NUVAldvyjRzommq-AjfbhOwWelRJG~ZY1R6pikLkoQuw~BYF8QljNA9l91ZcwFxpiIIWqaCCfwq-X9o4Ky4sDvtZ7cRzLEBNRU085TCRwsKUzzKezbygss3qPFAAdT4-gn0iD~H20S5GLkukO09qwct5jBrFXihLocHPkTy5rnjkftFLpWzslEPMF--az1Q3el5s1G4zVWkhND9oVHyDJ6tGs~D-CMxY-dqCjXI7TXBrm-1uq0f0e3sBAD9eO44sxrYtGhT0trw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "75293525-4373-45cf-b0ec-bc92b269a8cc",
+      "title": "Leia o resumo final e pense em situações reais em que você comentaria como a impressão foi mudando ao longo da refeição.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "faf5d0fa-ebf5-4bcf-8405-8497b6c13467",
+          "textContent": "<p>Em conversas reais sobre um jantar, um menu degustação ou um prato provado com amigos, esse tipo de comentário soa mais natural porque mistura <strong>momento</strong>, <strong>contexto</strong> e <strong>avaliação</strong>.</p><p><strong>Cuando llegó...</strong> ajuda a mostrar a primeira impressão. <strong>Al probar...</strong> mostra o que aconteceu quando o sabor realmente entrou em jogo.</p><p>Assim, você não só diz se o prato foi bom ou ruim: você conta como a experiência foi se definindo à mesa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "61bc5a8e-3612-4f1f-bcd2-709cbceb5a66",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase completa em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase completa em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b4fd971e7e4e45ca838ac33a58f68cce_b03-al-probar-la-salsa.mp3?Expires=1794099845&Signature=G--9KTC1h9ALdPZEDSNlp0px-3UuFPxY-aLqlUifOmTqXOcQnrQPBi0co8ujf~eIcFpNvqcIAovvG559g-rsKZelICz-O1B-EhUMTPSkWYmARdh6MdHQCijYzVqE5PVrUnejIfe8xj3bdGIBUhpZlI~Ue~K1vZjH-0NlkWeqRb0MD8k9p0Os6p~YLPiebqerkUF3xYVBXbr~-qvKjvop0cTUCPwx6DKMWSlPccQHZRko3-hHwd9WGHUyrut~I58uFPL~6eksBwNO3A2KfuAs7EDMtxF7GEZ2jecyouBnmfyGnhsqvSTch-tfT1wM~dNBvl60jrmMKlATc6Nzvnu1kg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui a aula ativa em voz alta a avaliação que surge no momento da prova.",
+      "feedbackError": "Aqui a aula ativa em voz alta a avaliação que surge no momento da prova.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Al probar la salsa, me resultó más ligera de lo que esperaba.",
+      "typeSpecificData": "{\"expectedText\":\"Al probar la salsa, me result\\u00F3 m\\u00E1s ligera de lo que esperaba.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/b4fd971e7e4e45ca838ac33a58f68cce_b03-al-probar-la-salsa.mp3?Expires=1794099845\\u0026Signature=G--9KTC1h9ALdPZEDSNlp0px-3UuFPxY-aLqlUifOmTqXOcQnrQPBi0co8ujf~eIcFpNvqcIAovvG559g-rsKZelICz-O1B-EhUMTPSkWYmARdh6MdHQCijYzVqE5PVrUnejIfe8xj3bdGIBUhpZlI~Ue~K1vZjH-0NlkWeqRb0MD8k9p0Os6p~YLPiebqerkUF3xYVBXbr~-qvKjvop0cTUCPwx6DKMWSlPccQHZRko3-hHwd9WGHUyrut~I58uFPL~6eksBwNO3A2KfuAs7EDMtxF7GEZ2jecyouBnmfyGnhsqvSTch-tfT1wM~dNBvl60jrmMKlATc6Nzvnu1kg__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "781a8729-815a-4844-a6b5-974565cd666c",
+      "title": "Reconheça o ponto da sequência",
+      "content": "<p>Qual frase abre diretamente com o momento da prova?</p>",
+      "contentPlain": "Qual frase abre diretamente com o momento da prova?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é distinguir a primeira impressão do comentário que nasce na prova.",
+      "feedbackError": "Aqui o foco é distinguir a primeira impressão do comentário que nasce na prova.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "222a6a41-2bb2-4dd0-ad7c-60aae1acf126",
+          "textContent": "En una mesa tan animada, el plato llegó tarde, pero al probarlo el toque ahumado me resultó limpio y nada pesado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "781a8729-815a-4844-a6b5-974565cd666c"
+        },
+        {
+          "id": "489175a8-5f16-48da-8be6-ba85db8afd25",
+          "textContent": "Cuando llegó el plato, el aroma ya prometía algo más delicado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "781a8729-815a-4844-a6b5-974565cd666c"
+        },
+        {
+          "id": "7acb4ba2-8798-4c4c-be09-b50bb345dd39",
+          "textContent": "Al probar la salsa, me resultó más ligera de lo que esperaba.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "781a8729-815a-4844-a6b5-974565cd666c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "b20ad092-9422-407e-a62b-fd557d981cc7",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>No comentário mais denso da aula, marque só as palavras que você realmente ouve.</p>",
+      "contentPlain": "No comentário mais denso da aula, marque só as palavras que você realmente ouve.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b9fbd622107d472f92f386a3c638f270_b05-comentario-de-mesa.mp3?Expires=1794099845&Signature=JS~GnD9RqAy6hj7vn-AyGUnJUqN8gStE7pwcZ~WwZ3zASJ-v9uEGoOcXrHPkGPVIZS78fW-R97rzcPFyremwjMweXHZLVMyK3sxyIQlXXnujB6vrHVA1NvbPgLk4YXFILeg9ifbB63d~z3zvaVR80Xf642xq~LsvjpjEIQ9Ckt9xfHRA6WfTc7baHR0Q8HG2tRtD8wI8nMTbfd5hhfNzbJZWQ8C0ImcEFwfwDhKqcgepfB~XHXF-DBKDs-oGe7c5ktclp5jD-l5WZBrz~SKu9f7zsX8pxiOLf~F6eiIScl6qSsVHUahBqX6kTIXTPWBou8TZo82E4JOnsF1wiagG2g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Neste modelo, contexto de mesa e avaliação aparecem encadeados no mesmo comentário.",
+      "feedbackError": "Neste modelo, contexto de mesa e avaliação aparecem encadeados no mesmo comentário.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "3162b6e9-1cd0-47c5-91e1-a3c1bcc56abf",
+          "textContent": "limpio",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b20ad092-9422-407e-a62b-fd557d981cc7"
+        },
+        {
+          "id": "35bd734b-2033-4f43-9732-5ca1f0d0717f",
+          "textContent": "aroma",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b20ad092-9422-407e-a62b-fd557d981cc7"
+        },
+        {
+          "id": "4601c8b7-c472-4a67-9b93-a6654ffdaf3d",
+          "textContent": "ahumado",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b20ad092-9422-407e-a62b-fd557d981cc7"
+        },
+        {
+          "id": "71d70813-679e-46b2-adf5-841e4465a73d",
+          "textContent": "pesado",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b20ad092-9422-407e-a62b-fd557d981cc7"
+        },
+        {
+          "id": "810a5f04-8b4d-4d0c-a9c7-953adc2a7ccf",
+          "textContent": "plato",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b20ad092-9422-407e-a62b-fd557d981cc7"
+        },
+        {
+          "id": "a7db83e9-2745-4413-a9ba-73a4210f52d5",
+          "textContent": "mesa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b20ad092-9422-407e-a62b-fd557d981cc7"
+        },
+        {
+          "id": "ab4fee91-17c6-46d0-8056-71b532d17c71",
+          "textContent": "salsa",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b20ad092-9422-407e-a62b-fd557d981cc7"
+        },
+        {
+          "id": "ba9fc843-33bd-4e2b-ad57-4d9aeb66495a",
+          "textContent": "tarde",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b20ad092-9422-407e-a62b-fd557d981cc7"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "ca0908d9-a3d0-4498-b948-8cc000b69688",
+      "title": "Ligue trecho e função",
+      "content": "<p>Associe cada trecho em espanhol ao sentido que ele organiza na experiência.</p>",
+      "contentPlain": "Associe cada trecho em espanhol ao sentido que ele organiza na experiência.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula junta contexto, momento e avaliação em um mesmo comentário.",
+      "feedbackError": "A aula junta contexto, momento e avaliação em um mesmo comentário.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6d0c1e0d-09b5-4212-9f5e-48527060e9de",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ca0908d9-a3d0-4498-b948-8cc000b69688"
+        },
+        {
+          "id": "ee6fe0d8-70d9-4301-9147-0ccb61215f1f",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ca0908d9-a3d0-4498-b948-8cc000b69688"
+        }
+      ],
+      "associations": [
+        {
+          "id": "85fa5308-2157-4cfc-a4ad-02efb2010d7b",
+          "exerciseId": "ca0908d9-a3d0-4498-b948-8cc000b69688",
+          "leftContent": "Cuando llegó el plato",
+          "rightContent": "primeira impressão no serviço",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7ae0f4b3-04e2-49f5-bfae-ef6cf39f5cae",
+          "exerciseId": "ca0908d9-a3d0-4498-b948-8cc000b69688",
+          "leftContent": "Al probar la salsa",
+          "rightContent": "avaliação depois da prova",
+          "sequenceItem": 2
+        },
+        {
+          "id": "50c026bf-b506-407c-a858-8f2a754bd106",
+          "exerciseId": "ca0908d9-a3d0-4498-b948-8cc000b69688",
+          "leftContent": "En una mesa tan animada",
+          "rightContent": "contexto da mesa",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2aaff146-0350-4314-ad66-4f4553901642",
+          "exerciseId": "ca0908d9-a3d0-4498-b948-8cc000b69688",
+          "leftContent": "nada pesado",
+          "rightContent": "avaliação final do sabor",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "e31e1bbb-e987-43c0-b3ad-d52ab825e32d",
+      "title": "Escute e associe",
+      "content": "<p>Ouça cada comentário e ligue ao texto correspondente em espanhol.</p>",
+      "contentPlain": "Ouça cada comentário e ligue ao texto correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "A escuta desta aula ajuda a ligar som, momento da refeição e avaliação sensorial.",
+      "feedbackError": "A escuta desta aula ajuda a ligar som, momento da refeição e avaliação sensorial.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "a784aa56-7af9-43ea-96b3-d28922b1cdcf",
+          "exerciseId": "e31e1bbb-e987-43c0-b3ad-d52ab825e32d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c0866dee792142e1b3a9c3a3e60cd4c4_b01-cuando-llego-el-plato.mp3?Expires=1794099845&Signature=PBlQj4fpqMhTG2zoptpNwkP8w-3RkzwTGdRUdFItT1~gjE0~sOVF8K9Z8E95AedM71HLA7Da0jaaMMdH1FVAI1nki8IxYpEzIu4gg9cRiX6j4lXgisMJiWbc~qwOeJkfEkwA3ihpo3lmFiQsA5zaLjgWVaGdY4rO-EUOLr4uvVcrckMoyoBNztl~MInAUX1bUruTGeJzi5H9PKKr6t0WCRXMium7r--oiOmSvPf2c6I4T04-3BEHDd0G1pfOgL4Egf~AAH-RHPa8JcnEf2Ab2DdStc70nQ~pMEVX2QVAkejss6Y2eYZ8bgCaWlNs3DSf9Wm003x1DzrzTagGqY8XzQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuando llegó el plato, el aroma ya prometía algo más delicado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "40381c04-24a3-4533-8eab-47845e0ecff3",
+          "exerciseId": "e31e1bbb-e987-43c0-b3ad-d52ab825e32d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b4fd971e7e4e45ca838ac33a58f68cce_b03-al-probar-la-salsa.mp3?Expires=1794099845&Signature=G--9KTC1h9ALdPZEDSNlp0px-3UuFPxY-aLqlUifOmTqXOcQnrQPBi0co8ujf~eIcFpNvqcIAovvG559g-rsKZelICz-O1B-EhUMTPSkWYmARdh6MdHQCijYzVqE5PVrUnejIfe8xj3bdGIBUhpZlI~Ue~K1vZjH-0NlkWeqRb0MD8k9p0Os6p~YLPiebqerkUF3xYVBXbr~-qvKjvop0cTUCPwx6DKMWSlPccQHZRko3-hHwd9WGHUyrut~I58uFPL~6eksBwNO3A2KfuAs7EDMtxF7GEZ2jecyouBnmfyGnhsqvSTch-tfT1wM~dNBvl60jrmMKlATc6Nzvnu1kg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al probar la salsa, me resultó más ligera de lo que esperaba.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "509d7831-cfca-4a72-9f86-8138e78ea598",
+          "exerciseId": "e31e1bbb-e987-43c0-b3ad-d52ab825e32d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b9fbd622107d472f92f386a3c638f270_b05-comentario-de-mesa.mp3?Expires=1794099845&Signature=JS~GnD9RqAy6hj7vn-AyGUnJUqN8gStE7pwcZ~WwZ3zASJ-v9uEGoOcXrHPkGPVIZS78fW-R97rzcPFyremwjMweXHZLVMyK3sxyIQlXXnujB6vrHVA1NvbPgLk4YXFILeg9ifbB63d~z3zvaVR80Xf642xq~LsvjpjEIQ9Ckt9xfHRA6WfTc7baHR0Q8HG2tRtD8wI8nMTbfd5hhfNzbJZWQ8C0ImcEFwfwDhKqcgepfB~XHXF-DBKDs-oGe7c5ktclp5jD-l5WZBrz~SKu9f7zsX8pxiOLf~F6eiIScl6qSsVHUahBqX6kTIXTPWBou8TZo82E4JOnsF1wiagG2g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En una mesa tan animada, el plato llegó tarde, pero al probarlo el toque ahumado me resultó limpio y nada pesado.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "e4e0cbf8-caa9-4307-a425-ccf3192d3ba4",
+      "title": "Recupere a avaliação",
+      "content": "<p>Al probar la salsa, me resultó más ______ de lo que esperaba.</p><p>Tradução: Ao provar o molho, ele me pareceu mais leve do que eu esperava.</p>",
+      "contentPlain": "Al probar la salsa, me resultó más ______ de lo que esperaba. Tradução: Ao provar o molho, ele me pareceu mais leve do que eu esperava.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta frase mostra como a prova do prato ajusta a avaliação sensorial.",
+      "feedbackError": "Esta frase mostra como a prova do prato ajusta a avaliação sensorial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ligera",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "6a8ebe95-5a70-483e-b37c-31e6cffeea47",
+      "title": "Leia a engrenagem do comentário",
+      "content": "<p>No comentário mais denso da aula, associe cada trecho ao papel que ele cumpre.</p>",
+      "contentPlain": "No comentário mais denso da aula, associe cada trecho ao papel que ele cumpre.",
+      "fileUrl": null,
+      "feedbackSuccess": "O modelo final da aula combina contexto de mesa, ordem e avaliação do prato.",
+      "feedbackError": "O modelo final da aula combina contexto de mesa, ordem e avaliação do prato.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1d257f7c-da31-413b-86da-fe4b8fdd9359",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6a8ebe95-5a70-483e-b37c-31e6cffeea47"
+        },
+        {
+          "id": "90def065-269e-4ead-9be9-4999a32dfd45",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6a8ebe95-5a70-483e-b37c-31e6cffeea47"
+        }
+      ],
+      "associations": [
+        {
+          "id": "8315aa2b-5e0a-4f8e-b933-a84d98666bb4",
+          "exerciseId": "6a8ebe95-5a70-483e-b37c-31e6cffeea47",
+          "leftContent": "En una mesa tan animada",
+          "rightContent": "abre o contexto da refeição",
+          "sequenceItem": 1
+        },
+        {
+          "id": "73fd70e4-8b0f-4a2c-bacb-1ef84f14accf",
+          "exerciseId": "6a8ebe95-5a70-483e-b37c-31e6cffeea47",
+          "leftContent": "el plato llegó tarde",
+          "rightContent": "marca a ordem do serviço",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8eb12787-63b0-48c4-a26d-a43e0b5185c6",
+          "exerciseId": "6a8ebe95-5a70-483e-b37c-31e6cffeea47",
+          "leftContent": "al probarlo",
+          "rightContent": "move a avaliação para a prova",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2501834a-dabd-4bbf-9d9f-367e5054aab4",
+          "exerciseId": "6a8ebe95-5a70-483e-b37c-31e6cffeea47",
+          "leftContent": "nada pesado",
+          "rightContent": "fecha a impressão do sabor",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "5499401c-9ea4-40c6-80ad-be05e144df89",
+      "title": "Recupere a avaliação",
+      "content": "<p>Al probar la salsa, me resultó más ______ de lo que esperaba.</p><p>Tradução: Ao provar o molho, ele me pareceu mais leve do que eu esperava.</p>",
+      "contentPlain": "Al probar la salsa, me resultó más ______ de lo que esperaba. Tradução: Ao provar o molho, ele me pareceu mais leve do que eu esperava.",
+      "fileUrl": null,
+      "feedbackSuccess": "Esta frase mostra como a prova do prato ajusta a avaliação sensorial.",
+      "feedbackError": "Esta frase mostra como a prova do prato ajusta a avaliação sensorial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ligera",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "89f0e55b-8686-4888-b66e-6cf0ed73affc",
+      "title": "Escute e recupere as pistas",
+      "content": "<p>Marque apenas as palavras que aparecem no comentário da chegada do prato.</p>",
+      "contentPlain": "Marque apenas as palavras que aparecem no comentário da chegada do prato.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c0866dee792142e1b3a9c3a3e60cd4c4_b01-cuando-llego-el-plato.mp3?Expires=1794099845&Signature=PBlQj4fpqMhTG2zoptpNwkP8w-3RkzwTGdRUdFItT1~gjE0~sOVF8K9Z8E95AedM71HLA7Da0jaaMMdH1FVAI1nki8IxYpEzIu4gg9cRiX6j4lXgisMJiWbc~qwOeJkfEkwA3ihpo3lmFiQsA5zaLjgWVaGdY4rO-EUOLr4uvVcrckMoyoBNztl~MInAUX1bUruTGeJzi5H9PKKr6t0WCRXMium7r--oiOmSvPf2c6I4T04-3BEHDd0G1pfOgL4Egf~AAH-RHPa8JcnEf2Ab2DdStc70nQ~pMEVX2QVAkejss6Y2eYZ8bgCaWlNs3DSf9Wm003x1DzrzTagGqY8XzQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Este comentário prende a avaliação ao instante em que o prato chega.",
+      "feedbackError": "Este comentário prende a avaliação ao instante em que o prato chega.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "12fa9998-1df7-430c-9166-057cab436526",
+          "textContent": "cuando",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "89f0e55b-8686-4888-b66e-6cf0ed73affc"
+        },
+        {
+          "id": "141de94c-7e91-4f6d-82b1-ce1e75770a6f",
+          "textContent": "llegó",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "89f0e55b-8686-4888-b66e-6cf0ed73affc"
+        },
+        {
+          "id": "1a0e9cfc-55b7-460b-9044-c8a6ce98e322",
+          "textContent": "ahumado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "89f0e55b-8686-4888-b66e-6cf0ed73affc"
+        },
+        {
+          "id": "635d7063-b543-4f8e-9f73-74d7ef4ceec5",
+          "textContent": "plato",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "89f0e55b-8686-4888-b66e-6cf0ed73affc"
+        },
+        {
+          "id": "ab37f116-b399-4136-aabe-ac5dffe0f2bf",
+          "textContent": "salsa",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "89f0e55b-8686-4888-b66e-6cf0ed73affc"
+        },
+        {
+          "id": "d8f421a7-1bb1-443e-b5e1-5cf4dcf3d1c1",
+          "textContent": "aroma",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "89f0e55b-8686-4888-b66e-6cf0ed73affc"
+        },
+        {
+          "id": "fb8d7927-2f2d-4b81-a7fa-b0834cff61ed",
+          "textContent": "pesado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "89f0e55b-8686-4888-b66e-6cf0ed73affc"
+        },
+        {
+          "id": "fbf3e4ad-c588-482a-9f26-82c20001ec94",
+          "textContent": "delicado",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "89f0e55b-8686-4888-b66e-6cf0ed73affc"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2098390e-2cd8-4f74-9058-5d83852b61c2",
+      "title": "Escute e recupere a âncora",
+      "content": "<p>Ouça cada comentário completo e ligue ao trecho que organiza a experiência.</p>",
+      "contentPlain": "Ouça cada comentário completo e ligue ao trecho que organiza a experiência.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, pequenas âncoras em espanhol organizam a sequência do comentário.",
+      "feedbackError": "Nesta aula, pequenas âncoras em espanhol organizam a sequência do comentário.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "5ac176ba-c162-4b53-9e92-d61d4bb80b51",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "200d6943-34a7-4633-ad86-dd8246e5a9ca",
+          "exerciseId": "2098390e-2cd8-4f74-9058-5d83852b61c2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c0866dee792142e1b3a9c3a3e60cd4c4_b01-cuando-llego-el-plato.mp3?Expires=1794099845&Signature=PBlQj4fpqMhTG2zoptpNwkP8w-3RkzwTGdRUdFItT1~gjE0~sOVF8K9Z8E95AedM71HLA7Da0jaaMMdH1FVAI1nki8IxYpEzIu4gg9cRiX6j4lXgisMJiWbc~qwOeJkfEkwA3ihpo3lmFiQsA5zaLjgWVaGdY4rO-EUOLr4uvVcrckMoyoBNztl~MInAUX1bUruTGeJzi5H9PKKr6t0WCRXMium7r--oiOmSvPf2c6I4T04-3BEHDd0G1pfOgL4Egf~AAH-RHPa8JcnEf2Ab2DdStc70nQ~pMEVX2QVAkejss6Y2eYZ8bgCaWlNs3DSf9Wm003x1DzrzTagGqY8XzQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuando llegó el plato",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3240c249-3201-46e7-9b18-cb9276945bd6",
+          "exerciseId": "2098390e-2cd8-4f74-9058-5d83852b61c2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b4fd971e7e4e45ca838ac33a58f68cce_b03-al-probar-la-salsa.mp3?Expires=1794099845&Signature=G--9KTC1h9ALdPZEDSNlp0px-3UuFPxY-aLqlUifOmTqXOcQnrQPBi0co8ujf~eIcFpNvqcIAovvG559g-rsKZelICz-O1B-EhUMTPSkWYmARdh6MdHQCijYzVqE5PVrUnejIfe8xj3bdGIBUhpZlI~Ue~K1vZjH-0NlkWeqRb0MD8k9p0Os6p~YLPiebqerkUF3xYVBXbr~-qvKjvop0cTUCPwx6DKMWSlPccQHZRko3-hHwd9WGHUyrut~I58uFPL~6eksBwNO3A2KfuAs7EDMtxF7GEZ2jecyouBnmfyGnhsqvSTch-tfT1wM~dNBvl60jrmMKlATc6Nzvnu1kg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al probar la salsa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3954d650-5952-417f-b820-09139b1bf7c6",
+          "exerciseId": "2098390e-2cd8-4f74-9058-5d83852b61c2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b9fbd622107d472f92f386a3c638f270_b05-comentario-de-mesa.mp3?Expires=1794099845&Signature=JS~GnD9RqAy6hj7vn-AyGUnJUqN8gStE7pwcZ~WwZ3zASJ-v9uEGoOcXrHPkGPVIZS78fW-R97rzcPFyremwjMweXHZLVMyK3sxyIQlXXnujB6vrHVA1NvbPgLk4YXFILeg9ifbB63d~z3zvaVR80Xf642xq~LsvjpjEIQ9Ckt9xfHRA6WfTc7baHR0Q8HG2tRtD8wI8nMTbfd5hhfNzbJZWQ8C0ImcEFwfwDhKqcgepfB~XHXF-DBKDs-oGe7c5ktclp5jD-l5WZBrz~SKu9f7zsX8pxiOLf~F6eiIScl6qSsVHUahBqX6kTIXTPWBou8TZo82E4JOnsF1wiagG2g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "En una mesa tan animada",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "title": "Passar da impressao a sequencia"
+}

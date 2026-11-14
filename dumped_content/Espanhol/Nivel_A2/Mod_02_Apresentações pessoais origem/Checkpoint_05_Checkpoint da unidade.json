@@ -1,0 +1,611 @@
+{
+  "attemptId": "52b997a9-e1ed-4a71-863b-90873ad7b044",
+  "exercises": [
+    {
+      "exerciseId": "e8611336-6d3b-4c95-8e10-e4fbca31e1f3",
+      "sequence": 1,
+      "lessonId": "e2bec68a-2f81-4fe5-8955-5559ab608555",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a abertura do perfil: Me _____ Alex.</p>",
+      "contentPlain": "Complete a abertura do perfil: Me _____ Alex.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você reconstruiu a forma usada para apresentar o nome.",
+      "feedbackError": "Tente novamente e complete a frase com a palavra central de Me llamo....",
+      "answerType": "buildWord",
+      "expectedAnswer": "llamo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "d0479b24-a001-456b-b2c6-dba6ba2ddce5",
+      "sequence": 2,
+      "lessonId": "30911738-0195-458c-acfa-621a356abb9a",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute o áudio e marque somente as palavras em espanhol que você realmente ouvir.</p>",
+      "contentPlain": "Escute o áudio e marque somente as palavras em espanhol que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/99a8ab0ba9554e699aedf48c5ab67925_valeria-full-profile.mp3?Expires=1794099514&Signature=sLkv7LyK~E8VdXCZa6fDrsfI8cpnHlTYFTLWc8DWrNsMHdl8kgB35xSiHD-R~8YChdBjyLFs3pstdhVLu~FL-1BqjpOAtZ95TH-cTULwEHo9XOBm-pSCA3IYDA8LJnY2Og6SM7R7Sj1cHf9DRq0rSmQR06Qtq3YRqm9LKlv7ChoUOqTzTtmaW0XpOUDfc2uC96qUjpbqcGbLwEcAhkGJWtnkNNc~OlGp9fA9WQoudV9kWd4h3fyGOD9E0xr6sHJ5Zagn4LRPOwMKSbsSDDdzyFUvMiZUHyM~UwtygpeU~46S2AwZ1XZxZMRY3JhODbbUH4OQv7GSREyshdoOCDYAqw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta. Você identificou as palavras que realmente aparecem no perfil.",
+      "feedbackError": "Escute novamente e selecione só as palavras que estão no áudio do perfil completo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "06eb877f-81a1-4a15-8d96-ef391f3c82e7",
+          "text": "quito",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "099f2994-6b44-423c-8747-698b1562b0ca",
+          "text": "soy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3bf44b1b-8eed-455e-8c48-ac6fa7fcf358",
+          "text": "vivo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4b05136d-6d9b-4fbc-b100-7718691b10bf",
+          "text": "hola",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "87917a4b-0b52-41ee-ae93-3ad3b7f9e1c3",
+          "text": "marido",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "88233da1-d3be-4f2b-9081-ac179f716312",
+          "text": "nací",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e324601e-621d-4c49-bd3f-9ead377e20da",
+          "text": "valeria",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fa379aae-936c-4580-bc29-a244f6940751",
+          "text": "santiago",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fd713707-4bbd-4aa2-821b-3bd83d6348d7",
+          "text": "extranjera",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "680d1df8-8f51-4e29-b3a3-a164a613d677",
+      "sequence": 3,
+      "lessonId": "30911738-0195-458c-acfa-621a356abb9a",
+      "title": "Combine áudio e função",
+      "content": "<p>Escute os trechos e associe cada um à função que ele tem no perfil.</p>",
+      "contentPlain": "Escute os trechos e associe cada um à função que ele tem no perfil.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você reconheceu a função de cada trecho ouvido.",
+      "feedbackError": "Escute novamente e separe o que é só abertura, o que traz lugares e o que já forma o perfil completo.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "36742881-d607-474e-9060-79640ecfa8c8",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/021b3fec4c8b4f11a6fc8d8695a02e0a_hola-soy-valeria.mp3?Expires=1794099514&Signature=DHatfuoeblDY0Blf1BwuovtVO6EhN7KgKxSs~59jIxqosY8xRrdDJoSThZnvUtzVqSnMWJHtyj0A5Y0X2vSpaolgvyh3ogkAJixC3UJVn737Igd6MYK1ZIrHN54ogvrbghEYhFOlN1I-Qhnv9tDOSCMtVj17YqVqismAmhoXoQXhFHKy5aocOgwO~Xctnn-tao75eA-6krL~58WvKWTeP2RGi5B3dzXHcsLa8vya48D4lYmlveQaLi9VT4LWg0I3qJOYTHyU3z3HCLuS8ZeAg15sz1RfhYLTKHAK4QAMbnM5puFwN5EOQ5q~FrIKgSilmcTREyvOJB6i~ot4ILH0aA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "abertura",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a5e78226-74e2-4e4d-ab38-0484b27c2520",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/aeeee4b714f843d589e78ccc440c35ae_naci-en-quito-y-vivo-en-santiago.mp3?Expires=1794099514&Signature=eYazDGmzzyVt6K4TcoF~iuxhCvdXvcq5JHqsboNnelxlIMJ4zq6UHT8-4yvtIoF5NwycWsNHR0ZcSOEBmNaTaC1S1u0-a7G34a9R5lHmZvrywD2GEAfq9ck233aVIk8BPmEmEVdfsrUcl49PtckSkaxdMu5TFy89mGwUHamiRcQnyRbuOwsImNEmNTVA9iYP1kCy1jFDJprFXfEOWZxJHgZbdS8AVqOEIu-uGYN7eWlVSBgxUIXBsvDylGBT-j3FFnPvDeKuXJa2580NNfsfpaUvye6TkmTSyWcxJqA50TFJWeMgpMyOqQv9maP7c5CWyWPGZ3hU~LKfi0MzzTajUQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "origem e moradia atual",
+          "sequenceItem": 2
+        },
+        {
+          "id": "87e06a78-2bb7-460d-bc46-461a6ee1c077",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/99a8ab0ba9554e699aedf48c5ab67925_valeria-full-profile.mp3?Expires=1794099514&Signature=sLkv7LyK~E8VdXCZa6fDrsfI8cpnHlTYFTLWc8DWrNsMHdl8kgB35xSiHD-R~8YChdBjyLFs3pstdhVLu~FL-1BqjpOAtZ95TH-cTULwEHo9XOBm-pSCA3IYDA8LJnY2Og6SM7R7Sj1cHf9DRq0rSmQR06Qtq3YRqm9LKlv7ChoUOqTzTtmaW0XpOUDfc2uC96qUjpbqcGbLwEcAhkGJWtnkNNc~OlGp9fA9WQoudV9kWd4h3fyGOD9E0xr6sHJ5Zagn4LRPOwMKSbsSDDdzyFUvMiZUHyM~UwtygpeU~46S2AwZ1XZxZMRY3JhODbbUH4OQv7GSREyshdoOCDYAqw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "perfil completo",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "02b4068d-0162-4077-8925-c60d50b42674",
+      "sequence": 4,
+      "lessonId": "e2bec68a-2f81-4fe5-8955-5559ab608555",
+      "title": "Escolha o perfil correto",
+      "content": "<p>Você quer montar uma apresentação pessoal mínima com nome e idade. Qual opção segue exatamente o padrão trabalhado na aula?</p>",
+      "contentPlain": "Você quer montar uma apresentação pessoal mínima com nome e idade. Qual opção segue exatamente o padrão trabalhado na aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. Essa opção junta corretamente nome e idade no mesmo microperfil.",
+      "feedbackError": "Revise a recapitulação final e procure a combinação que usa me llamo e tengo ... años.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "130a127c-a4e5-47cd-af77-09ec6937e14d",
+          "text": "Me llamo Alex. Soy treinta y un.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1b006b60-7b19-47d3-b2c8-c2da42431c2a",
+          "text": "Soy Alex. Soy treinta y un años.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6ab963d8-c275-40ac-bc43-6bcec97ed96a",
+          "text": "Me llamo Alex. Tengo treinta y un años.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "9caaab65-ac47-40d3-99a3-3946b68fe55d",
+      "sequence": 5,
+      "lessonId": "30911738-0195-458c-acfa-621a356abb9a",
+      "title": "Escolha o detalhe final",
+      "content": "<p>Valeria já disse <strong>Hola, soy Valeria.</strong> Ela quer fechar o perfil dizendo que vem de outro país. Qual detalhe final combina?</p>",
+      "contentPlain": "Valeria já disse Hola, soy Valeria. Ela quer fechar o perfil dizendo que vem de outro país. Qual detalhe final combina?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. O detalhe final mantém a concordância com Valeria.",
+      "feedbackError": "Observe qual forma combina com uma mulher que fala sobre si mesma.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "10c35ed6-5fce-4e11-bd60-8254f6e915f1",
+          "text": "Soy extranjera.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "27ce6673-e7ac-423f-9cbc-b2159e0cd07c",
+          "text": "Soy extranjero.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cae1685e-4ee8-455a-8452-c3750c4ace05",
+          "text": "Mi marido.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "e95b64a2-6f8c-4265-8790-4509427f0ff3",
+      "sequence": 6,
+      "lessonId": "e2bec68a-2f81-4fe5-8955-5559ab608555",
+      "title": "Selecione só o que você ouvir",
+      "content": "<p>Escute o perfil completo e marque somente as palavras presentes no áudio.</p>",
+      "contentPlain": "Escute o perfil completo e marque somente as palavras presentes no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3ed0931b8b67446ab936a26e729b2bef_b05-me-llamo-alex-tengo-treinta-y-un-anos.mp3?Expires=1794099514&Signature=QGlCu-r0Ysg-ofMdJYwzbMSKrmmj~8GL~EbLBGNdRrUzR453SgAXdmstXBk7w7MqqytcHwbcFuGeB0dIyFucOYLXLoNaPcTliFFCFHT0wc-KttHrUdjBaKlMelWvLs~SENesPuXe-Z1EJrbTo1E9cnQJoX3V8MF4TSS7AjXlpofBow-AnIQcFVA~n8dKiQqinPU2X8G2aTLdxDO-NIb6G-Grwpdgpcx-9IH284mX9G5sUPF96yEcflXVfG-zHTmmP5Ovc0YcugId5duyjwNBhNzEGx~YlIWu7B6Jy0WpQEOSK9TL1MvaCDAPK9ffYDlkg7RThBCX9aV~f-Rt94QbWg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Você identificou todas as palavras do microperfil completo.",
+      "feedbackError": "Escute novamente e selecione só as palavras que realmente aparecem no áudio.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "40fabe2e-987b-4464-8198-14032f37f995",
+          "text": "soy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4d4d76bd-46a3-4d64-9e5b-d50326d6e7f4",
+          "text": "tengo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5f6e5b21-dd23-463a-b5c8-4296989cc161",
+          "text": "y",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6b62fc3e-da15-402a-a01a-44aabf062411",
+          "text": "Alex",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "88644554-087b-42d0-a68a-983cb8d603dc",
+          "text": "nombre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8dc98732-5d9e-4a48-a395-795935c07e54",
+          "text": "treinta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "95da8294-3813-4ca9-aa0e-e082c7dd274d",
+          "text": "años",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a2f72cda-1130-4466-879e-604c891456bb",
+          "text": "llamo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b4684da7-b3ef-46ff-b9a1-8b7e5b147190",
+          "text": "un",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ce67a4f6-d680-489f-8b3f-01a1ad5a95d2",
+          "text": "me",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f52bf1df-c6a9-4cd6-96ee-7fe67a3341b5",
+      "sequence": 7,
+      "lessonId": "18cfabcd-4791-4881-9eda-281a7492c218",
+      "title": "Escolha a melhor resposta",
+      "content": "<p>Qual opção em espanhol corresponde a: <strong>Nasci em Lima, mas agora moro em Medellín</strong>?</p>",
+      "contentPlain": "Qual opção em espanhol corresponde a: Nasci em Lima, mas agora moro em Medellín ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você escolheu o microperfil que mantém origem e moradia atual separadas.",
+      "feedbackError": "Compare de novo qual parte fala do nascimento e qual parte fala de onde a pessoa mora hoje.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "22b33b6a-3fc9-4bc0-9dff-178deeadcf55",
+          "text": "Nací en Lima, pero ahora vivo en Medellín.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8e01de39-639f-42f0-b264-e30643130fd9",
+          "text": "Vivo en Lima, pero ahora nací en Medellín.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ecd21c4b-05f5-43e8-a54d-0988ad0f150e",
+          "text": "Nací en Medellín y vivo en Lima.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "8ae349e5-5813-47bf-a693-49f522081196",
+      "sequence": 8,
+      "lessonId": "216988b5-f752-469c-97ed-566aafb8ff9b",
+      "title": "Encontre o detalhe certo",
+      "content": "<p>Um homem se apresenta e quer acrescentar que vem de outro país. Qual detalhe combina com essa situação?</p>",
+      "contentPlain": "Um homem se apresenta e quer acrescentar que vem de outro país. Qual detalhe combina com essa situação?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Para um homem falando de si mesmo, a forma esperada é `extranjero`.",
+      "feedbackError": "Revise a nota de contraste e veja qual forma muda quando quem fala é homem ou mulher.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "00851271-7e87-47b7-bbc2-cc89cd8dfed2",
+          "text": "Mi mujer.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "349a5cbf-754b-49f3-aabe-bbf871551a6e",
+          "text": "Soy extranjera.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "82e31958-c0cc-4a20-bed8-61c5dced2cb9",
+          "text": "Soy extranjero.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "5bbb66a8-d248-4d10-8a32-fc9b6ba14ed3",
+      "sequence": 9,
+      "lessonId": "18cfabcd-4791-4881-9eda-281a7492c218",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: ____ en Lima. (Nasci em Lima.)</p>",
+      "contentPlain": "Complete a frase em espanhol: ____ en Lima. (Nasci em Lima.)",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou a forma usada para falar da origem.",
+      "feedbackError": "Volte à frase do nascimento e recupere o verbo com acento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Nací",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0ba9ec77-db40-419a-be50-d2674648692e",
+      "sequence": 10,
+      "lessonId": "216988b5-f752-469c-97ed-566aafb8ff9b",
+      "title": "Ouça e identifique",
+      "content": "<p>No áudio, quais palavras-alvo desta aula você realmente ouve?</p>",
+      "contentPlain": "No áudio, quais palavras-alvo desta aula você realmente ouve?",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1e8c779426344732ac67a857723915ed_c04-mi-mujer-es-extranjera.mp3?Expires=1794099514&Signature=h5FDuRM~L0T4iOy3U5PZpOZYSEK35n9~-bovpH~yX3Xa1Hi5RrHC6CTsj2PMX8yH6whkyhHkA0dhWhI~jh1S4N7tf4KEiNks2rnuwdbenUiE2HDypmpUwZ7Xy8s3iBdjE1QIodIeCuhtKTwFZyPkSdxBwYG8gT6H7YkCpx6PTQJdo5WdSgDRAh8KA3WVzRKkMbW8g51gTCpOlE4~WQZXIJ26TwFmDQ~mjrXLlM0x~VmjAVVxtDEXGlyV9NsUxH~j7FKC39S7zCF5XbKSlZHJkAkDo5ivVVQXmaXidCW02j6eKt-cZmIy-52d7~SAbSjGoEjmJsHwXw9Z6AJmD2jcIg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. O áudio combina `mujer` com `extranjera` em uma frase curta de perfil.",
+      "feedbackError": "Escute outra vez e marque apenas as palavras-alvo que realmente aparecem na frase.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "823f5549-0cd2-4ef3-b7ab-b213eb417c39",
+          "text": "marido",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a113dba0-41e4-48af-b544-2e715c227bb1",
+          "text": "extranjera",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ca8f27e1-cc2c-4463-91dc-c6372bb4883a",
+          "text": "mujer",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d9655b69-916d-4210-a866-b25b1c966c6f",
+          "text": "extranjero",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "acd85ab4-7f6b-4edd-8ce4-bccbd5880c97",
+      "sequence": 11,
+      "lessonId": "30911738-0195-458c-acfa-621a356abb9a",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Nací en _____ y vivo en Santiago.</p>",
+      "contentPlain": "Complete a frase em espanhol: Nací en _____ y vivo en Santiago.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou a cidade de origem.",
+      "feedbackError": "Retome a linha com origem e moradia atual e complete o nome da cidade inicial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Quito",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "80a66c4f-61b5-4052-9ab5-e3346c3bc756",
+      "sequence": 12,
+      "lessonId": "216988b5-f752-469c-97ed-566aafb8ff9b",
+      "title": "Complete a expressão",
+      "content": "<p>Complete a expressão (minha esposa): mi mu___</p>",
+      "contentPlain": "Complete a expressão (minha esposa): mi mu___",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. `mi mujer` é a expressão usada na aula para falar da própria esposa.",
+      "feedbackError": "Retome o bloco de «mi mujer» e complete a parte final da palavra.",
+      "answerType": "buildWord",
+      "expectedAnswer": "jer",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f2750678-d0b7-4f3b-9569-f0508638a191",
+      "sequence": 13,
+      "lessonId": "18cfabcd-4791-4881-9eda-281a7492c218",
+      "title": "Ouça o áudio e selecione as palavras",
+      "content": "<p>Escute o microperfil completo e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute o microperfil completo e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c4739aa092e04da5b8bec78c1d5809de_b06-microperfil-ahora-vivo.mp3?Expires=1794099514&Signature=Og8XXVGu5PPY9lOjuVWT5fbiYwg2dQbGXwN38XIFzfryrxhO0AT-Rd4G2W7Hx-R90EKIaUPPVuaWokY4z~8lE3JSJK3APHBpQkRpK-SbDGygMuKPm6gMo6AbnJZ-SWdCSz1HUhSqJh~dyjX0u5JAylO57ZyiHig5Lbz4GkcvVuA3kpFe0pmFJaG9gr-sh6zjQaO2qyvKuO9gKkNGnAXiv2ibrHDRzhZqa8fn25O-gEsIUOeTrhhU6aN0sXmbcH8zBm5q5rXW9obZ8bq63X-ApQvYUXuoqc6RwIfDx~bO~JUQPn6RERIdbEs0GIDHPLJ3QW~g1qX0Cb~j0CBsOvnd9Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta. Você identificou os elementos do microperfil completo.",
+      "feedbackError": "Escute novamente e marque apenas as palavras que aparecem no áudio final.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2355ee22-875c-410f-a6f1-200645e8226c",
+          "text": "bogotá",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2ac293e0-1e88-40d8-bb35-05235f476177",
+          "text": "lima",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3a687660-6bb7-4ed1-bce5-815f6b3fef60",
+          "text": "nací",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "54431175-99ce-4c11-83a7-bc4f04e029cd",
+          "text": "ahora",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "94ccf16d-433f-4e17-b1b0-7c6a9a204428",
+          "text": "vivo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d8b301b6-77ad-4bb0-a9e3-a0e9a9b54a21",
+          "text": "pero",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e0001540-8d3c-4c37-8c1c-f5bb062f93b4",
+          "text": "medellín",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f879d5b7-6e35-4d98-bbb4-b64b1791b348",
+          "text": "siempre",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "29e90e71-3890-473d-8e57-357b0a2e4d74",
+      "sequence": 14,
+      "lessonId": "e2bec68a-2f81-4fe5-8955-5559ab608555",
+      "title": "Associe som e frase exata",
+      "content": "<p>Faça a associação sem apoio em português e preste atenção à frase inteira.</p>",
+      "contentPlain": "Faça a associação sem apoio em português e preste atenção à frase inteira.",
+      "fileUrl": null,
+      "feedbackSuccess": "Bom trabalho. Você reconheceu as frases completas apenas pelo som e pela forma escrita.",
+      "feedbackError": "Escute outra vez e associe cada áudio à formulação exata em espanhol.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "f9c6770a-158a-43cf-9960-cc771a225cf8",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8bb510b860fb4cbbb8ceac053c7212e5_b01-me-llamo-alex.mp3?Expires=1794099514&Signature=J78dZl3PYkBywKehDdpR1QiAjXTS8LhIadvbmy-OurcRYpxaOxi826xtOtvnE1t6KN~fA3T8ksKRtU3XjcGKkNv0swKotAfThIfZlKLS8R2bdW0k0IZVDrDQ4yTv34AqUnl-luzKefUteNpd~wgv8seGRD9ke78amQQj7qfn2gs-OkcSX3P7-SEknLu39vnF2nHhKI0dGAHkvPry3s9fxfpeUSFAau1suJgmyOxJZ8-fobuDk9ftIDQfFPXw8xjcO1GtCVv4EtWt6s5nnAlgt71g1d3F7QjW4GUxnyhmO~nMdMA2dCI2VhZMlii2NmxZAsOouX2rpKne30UNLVdbDQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me llamo Alex.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e145ee00-1cec-4222-a858-4196f74093f9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/82077e494c3a4ec4aacca617f6f984de_b03-tengo-treinta-y-un-anos.mp3?Expires=1794099514&Signature=Kko4sa7gFASvnCnyfoNrvvQgidRRjzzeNFh~BUzvGBFYUa1wnuNjscbRoQAB0lujalvlyL-Z74bfJI9a~1vSWQy1jNuFucK8ZsE-M7J6mIJIBrbN85XBsabV7vqoX5YQgPTQx8Fzm6vvvLl9UiG193zsC7JtgWXA4pTxpXkyo7TN9LjbZCYMS4u2cZYrLRXdMgwRYKQFWnmGyC-fpfcftA3cRLZj4-oqyexIGe5GR8yZKJm0x0EyduLDl1TZpbJBy2m2M2QRID-DU55-aLUtKIDOfkW7rZoHMNm3WSpXNOYZKS18BcpwuFL67nYSgnsqX887yACAzXINTtX4v9snYQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo treinta y un años.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8a69e1ea-ec7d-47f4-bc9e-2672a1ef566c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3ed0931b8b67446ab936a26e729b2bef_b05-me-llamo-alex-tengo-treinta-y-un-anos.mp3?Expires=1794099514&Signature=QGlCu-r0Ysg-ofMdJYwzbMSKrmmj~8GL~EbLBGNdRrUzR453SgAXdmstXBk7w7MqqytcHwbcFuGeB0dIyFucOYLXLoNaPcTliFFCFHT0wc-KttHrUdjBaKlMelWvLs~SENesPuXe-Z1EJrbTo1E9cnQJoX3V8MF4TSS7AjXlpofBow-AnIQcFVA~n8dKiQqinPU2X8G2aTLdxDO-NIb6G-Grwpdgpcx-9IH284mX9G5sUPF96yEcflXVfG-zHTmmP5Ovc0YcugId5duyjwNBhNzEGx~YlIWu7B6Jy0WpQEOSK9TL1MvaCDAPK9ffYDlkg7RThBCX9aV~f-Rt94QbWg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me llamo Alex. Tengo treinta y un años.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "0d3c3418-3da2-4f61-b2e0-fdb731e0df93",
+      "sequence": 15,
+      "lessonId": "216988b5-f752-469c-97ed-566aafb8ff9b",
+      "title": "Relacione os áudios completos",
+      "content": "<p>Agora relacione cada áudio a uma frase curta de perfil completa.</p>",
+      "contentPlain": "Agora relacione cada áudio a uma frase curta de perfil completa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta. Você distinguiu frases completas e não só palavras isoladas.",
+      "feedbackError": "Escute novamente e compare quem fala de si com quem fala do próprio cônjuge.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "94e745ab-bebb-4f97-aef2-617003de63e4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1e8c779426344732ac67a857723915ed_c04-mi-mujer-es-extranjera.mp3?Expires=1794099514&Signature=h5FDuRM~L0T4iOy3U5PZpOZYSEK35n9~-bovpH~yX3Xa1Hi5RrHC6CTsj2PMX8yH6whkyhHkA0dhWhI~jh1S4N7tf4KEiNks2rnuwdbenUiE2HDypmpUwZ7Xy8s3iBdjE1QIodIeCuhtKTwFZyPkSdxBwYG8gT6H7YkCpx6PTQJdo5WdSgDRAh8KA3WVzRKkMbW8g51gTCpOlE4~WQZXIJ26TwFmDQ~mjrXLlM0x~VmjAVVxtDEXGlyV9NsUxH~j7FKC39S7zCF5XbKSlZHJkAkDo5ivVVQXmaXidCW02j6eKt-cZmIy-52d7~SAbSjGoEjmJsHwXw9Z6AJmD2jcIg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi mujer es extranjera.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "28190aa3-3b08-4077-bdcb-764fce856acf",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bc66382a956a4e13adb52dbe2150affc_c05-mi-marido-es-extranjero.mp3?Expires=1794099514&Signature=pRT3e68ItHxvagQA6cU~moP7FFgAbBdwGH6QapSsC70iNtPZmLhlaXlfs2xBYEpbUlSgfkj03mKpgNlLDlhVPTdtKjAril2qfnZJijEB2YrQZPXykS8FX84hycqTdw3Qgyj4Qgc-CHB-C8tJ3~7kdDwCWbZNB4dY5Fg0Xl-AHEptBKiiu5B~JSViJHWmdOq7d5D-EyQ-eW1YJDzG35BCrjEy-Ho~~ZcUaGHFYKkfEfgCndURuRDEJ9YZtMIKEkRC8167QJSynbN0Hhucyk6EEl6Cg~ki1MF5NmRBc2M4JBGM4v-urVgvLgh17T230p7qMnzpNOs2ydW5QrMMLlussw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Mi marido es extranjero.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f1c0aa96-7898-4e8a-89ea-b7a1ec7f3755",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b31c881afd9c4939919c553e0469dfe2_b02-soy-extranjera.mp3?Expires=1794099514&Signature=eInrnpH8ipT2SFReMf84WpInY5I~86xTVt3KIXVStifTa6fqSsnCresSBLFoecggjSEZ7REds-FLnUnhCUuUIPF5cPYAQhJvLf3BJLWnuOM5bNdGlZ8ZMVkn0xNAtb9~mgXDSRjiH0J~kotliRhIWTmtVENxWinNMZ9GJ5iPpku4EXGOLfK27~C-4EDDYobzO5uTcXHDFPPxu0KusCHZ-hz2Jo2WCNz1pdP~rcMXJtaiZ8YFW9rRwFKVNoBO~BB7J8IlGYvSU5fodLGu~wk1hnXiHYTz41nUA5oQs3T12x-r-TButQFfdwKcUHxxKDEEpcNaoPxFi6elSuthI8ZVZg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy extranjera.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ]
+}

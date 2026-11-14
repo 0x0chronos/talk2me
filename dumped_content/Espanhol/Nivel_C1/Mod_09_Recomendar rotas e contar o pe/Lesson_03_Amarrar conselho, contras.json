@@ -1,0 +1,655 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+    "attemptId": "8376ba08-0e86-44ad-aa50-ef7f44b3a043",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "7f739643-24c2-405b-a8f3-20ecef994427",
+      "52315110-0a23-42aa-8358-658d61ea9a38",
+      "20f63371-0ee0-49f6-a5a1-2ffb6f8c9cf7",
+      "a2a2da45-7015-41b1-8f36-60e65f0bc907",
+      "5345d6d1-3b51-4e7a-a393-48bb699dcc85"
+    ],
+    "evaluationExerciseIds": [
+      "b8058cab-359c-4f9b-895a-4bcc30f2289b",
+      "d981d69a-e7dc-4565-9721-d3a9bffc7403",
+      "b31a7dea-bfe4-4169-9571-af1f5acb6cff",
+      "2779b682-c1ce-487b-b14e-76a79b485020",
+      "4d0ff422-108b-4194-a80f-c4dae3b76e46"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:04:59.5181528Z"
+  },
+  "contents": [
+    {
+      "id": "a17bdc16-db44-453c-a5fb-4a80c6348344",
+      "title": "Leia o cartão e observe o que um comentário de trajeto mais maduro costuma deixar visível.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "0979501c-9f30-4d8c-88a1-2e517a26d766",
+          "textContent": "<p>Num comentário de rota mais maduro, não basta dizer <strong>ve por aquí</strong>.</p><p>Você costuma mostrar <strong>de quem é o ponto de vista</strong>, <strong>onde entra a ressalva</strong> e <strong>qual alternativa está sendo contrastada</strong>.</p><p>Esta lição trabalha esses marcadores dentro de comentários curtos sobre trajeto, desvio e parada.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c298deac-62fc-41b5-8f6c-8d6e60e2df10",
+      "title": "Leia a frase e repare em como a opinião aparece logo no início do comentário.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "6f3ee0f3-b806-4803-8c8c-e3e4569413d6",
+          "textContent": "<p><strong>A mi juicio, la ruta del interior compensa el rodeo porque te deja parar en pueblos menos saturados.</strong></p><p>Em português: <strong>Na minha opinião, a rota do interior compensa o desvio porque permite parar em povoados menos cheios.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a5df8440-ed83-4e1c-9669-43d800fcc75a",
+      "title": "Leia a nota curta e observe que tipo de comentário esse conector legitima.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "4bcdd8a4-9219-4b17-91dd-da39c501dc97",
+          "textContent": "<p><strong>A mi juicio</strong> abre um critério pessoal.</p><p>Ele funciona quando você quer sustentar uma recomendação como leitura própria do caminho, não como regra geral.</p><p>Depois dele, costuma vir o motivo do seu conselho: o que compensa, o que vale a pena ou o que pesa contra.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "392c83a5-4778-472f-9f2f-c82de4aaddbc",
+      "title": "Leia a frase e observe como o comentário muda quando o ponto de vista não é seu.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "f1f701bf-7609-43e9-995d-8b5bcbe4b7ba",
+          "textContent": "<p><strong>Según Tomás, la variante del río merece más la pena si quieres caminar sin acumular tantos kilómetros.</strong></p><p>Em português: <strong>Segundo Tomás, a variante do rio vale mais a pena se você quiser caminhar sem acumular tantos quilômetros.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3e668570-2373-4faa-8140-ba201c7a7b85",
+      "title": "Leia a explicação e note por que esse conector ajuda tanto quando a rota depende de perfil.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "32dca305-43de-41e5-9c64-f5f3a1d19b4a",
+          "textContent": "<p><strong>Según + pessoa</strong> desloca o comentário para outra voz.</p><p>Isso ajuda quando a rota depende do perfil de quem viaja: quem prefere silêncio, quem vai com pouco tempo ou quem valoriza mais as paradas culturais.</p><p>O critério continua no texto, mas você deixa claro que ele não sai de você.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d1080e48-33da-472a-b07b-b63bb70a03fe",
+      "title": "Leia a frase e repare em como o conselho fica mais preciso depois do ajuste.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "db82e11c-4961-4007-885c-0af62ce66dcc",
+          "textContent": "<p><strong>Te conviene dormir en Mansilla; mejor dicho, a las afueras, si quieres salir temprano sin cruzar el centro.</strong></p><p>Em português: <strong>Vale a pena dormir em Mansilla; ou melhor, nos arredores, se você quiser sair cedo sem atravessar o centro.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7dc1de93-1173-44ec-a156-2b6c755ab338",
+      "title": "Leia a nota e observe por que esse ajuste não anula o comentário anterior.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "f45688ec-8218-4b77-894a-dc044527f4ce",
+          "textContent": "<p><strong>Mejor dicho</strong> corrige ou afina o que acabou de ser dito.</p><p>Ele entra quando a primeira formulação ainda está ampla demais para um conselho de rota.</p><p>Em vez de voltar atrás por completo, você ajusta o foco e deixa a recomendação mais precisa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "74fc52ad-ee88-4eec-b52b-852d6a9ea48e",
+      "title": "Leia a frase e repare em como o contraste altera a recomendação final.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "3a924556-ac22-4b54-b5d6-b2ad5fec217f",
+          "textContent": "<p><strong>La carretera del puerto ofrece mejores vistas; sin embargo, castiga bastante si llegas con las piernas cargadas.</strong></p><p>Em português: <strong>A estrada da serra oferece vistas melhores; no entanto, pesa bastante se você chegar com as pernas cansadas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "62df07b9-f7b3-4221-ac7c-f9769baedd30",
+      "title": "Leia a explicação e observe quando esse contraste deixa de ser decorativo e passa a pesar na decisão.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "69aba104-3cfe-456e-bfb3-c1e7e2b8934e",
+          "textContent": "<p><strong>Sin embargo</strong> introduz um contraponto que pesa de verdade na decisão.</p><p>Use-o quando a alternativa tem um ponto forte, mas existe um limite que muda a recomendação final.</p><p>Assim, o contraste não soa decorativo: ele reorganiza o critério do trajeto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d29f9e44-684f-4f0d-99e4-da387868ed1d",
+      "title": "Leia o comentário e acompanhe como cada conector empurra a recomendação para um critério diferente.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "c37f87e6-013a-44af-891a-dc12de8af53d",
+          "textContent": "<p><strong>A mi juicio, la variante de la sierra es la más bonita; sin embargo, no la elegiría al final de la tarde.</strong></p><p><strong>Según Irene, la del valle cansa menos y deja más tiempo para visitar el monasterio.</strong></p><p><strong>Te diría que pares allí; mejor dicho, en el pueblo de al lado, donde se duerme con más calma.</strong></p><p>Aqui, o comentário encadeia critério próprio, contraponto, ponto de vista de outra pessoa e ajuste fino da recomendação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ce36dba8-2ce5-419f-9ad8-34a72825ad5c",
+      "title": "Leia o resumo final e conecte cada movimento discursivo a situações de viagem que pedem mais critério.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 11,
+      "items": [
+        {
+          "id": "aece6ee1-a286-43c3-bbf7-88df61eb5f1f",
+          "textContent": "<p>Num comentário real sobre trajeto, estes conectores resolvem quatro movimentos muito comuns:</p><ul><li><strong>A mi juicio...</strong> para assumir seu critério.</li><li><strong>Según X...</strong> para atribuir a leitura a outra pessoa.</li><li><strong>Mejor dicho...</strong> para afinar uma recomendação.</li><li><strong>Sin embargo...</strong> para inserir um contraste que muda a decisão.</li></ul><p>Isso aparece quando você sugere um desvio num grupo, justifica por que uma parada vale a pena ou comenta depois da viagem qual rota realmente funcionou melhor.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7c05f86e-9993-4afc-ba6b-25a09c151879",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 12,
+      "items": [
+        {
+          "id": "ad2329c8-675c-4f84-86d1-e78ee03f701e",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/107f0d5d7ea64d52b2267774ef16301a_MEC-IDIOMAS_CAP_9_-_AULA_03_ESP.mp4?Expires=1794099900&Signature=MymDrB-vXWA~7AlRIR2mzc-4a9XMv7DZoHDx~yxP7obmtuZwDseymjGC1efaVJ5QgLqxl0fZw0R~gk540QIGFVHOnfTebTuac-g-TMTsAHNuUOg~Fe05advyqj0r3fjZwwBft6W1W5ZPt~fJJFZGwQbIVrlJC-pzcdKeoQ-4DMJS52dFnjcf8v1V6WIkC3w1pEKfjnx253UjG1tJnHOCc1dsSplprShMBPBkQ0f0dNTFIt0Q9c2XY9jBPy3Z2I3AJurKustz6oudIfFPf7cDfZh32XC6FBl5c6TQcUzjrad1lK8-DZk3H9nRMbR5w4qvKsGk8F6YaxXQd8iNyKux2g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/107f0d5d7ea64d52b2267774ef16301a_MEC-IDIOMAS_CAP_9_-_AULA_03_ESP.mp4?Expires=1794099900&Signature=MymDrB-vXWA~7AlRIR2mzc-4a9XMv7DZoHDx~yxP7obmtuZwDseymjGC1efaVJ5QgLqxl0fZw0R~gk540QIGFVHOnfTebTuac-g-TMTsAHNuUOg~Fe05advyqj0r3fjZwwBft6W1W5ZPt~fJJFZGwQbIVrlJC-pzcdKeoQ-4DMJS52dFnjcf8v1V6WIkC3w1pEKfjnx253UjG1tJnHOCc1dsSplprShMBPBkQ0f0dNTFIt0Q9c2XY9jBPy3Z2I3AJurKustz6oudIfFPf7cDfZh32XC6FBl5c6TQcUzjrad1lK8-DZk3H9nRMbR5w4qvKsGk8F6YaxXQd8iNyKux2g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "7f739643-24c2-405b-a8f3-20ecef994427",
+      "title": "Reconstrua o ajuste fino",
+      "content": "<p>Complete em espanhol: Te diría que pares en la aldea; mejor _____, en la plaza pequeña.</p><p>Tradução: Eu diria para você parar no povoado; ou melhor, na pracinha.</p>",
+      "contentPlain": "Complete em espanhol: Te diría que pares en la aldea; mejor _____, en la plaza pequeña. Tradução: Eu diria para você parar no povoado; ou melhor, na pracinha.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, mejor dicho serve para estreitar o foco sem reiniciar o comentário.",
+      "feedbackError": "Na aula, mejor dicho serve para estreitar o foco sem reiniciar o comentário.",
+      "answerType": "buildWord",
+      "expectedAnswer": "dicho",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "52315110-0a23-42aa-8358-658d61ea9a38",
+      "title": "Identifique a atribuição de voz",
+      "content": "<p>Qual opção mostra o movimento de apoiar o comentário na experiência de outra pessoa?</p>",
+      "contentPlain": "Qual opção mostra o movimento de apoiar o comentário na experiência de outra pessoa?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, según + pessoa desloca o critério para outra voz no comentário de rota.",
+      "feedbackError": "Na aula, según + pessoa desloca o critério para outra voz no comentário de rota.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7521c0ad-8ecb-4dc2-93b7-da88ddd5f423",
+          "textContent": "Sin embargo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "52315110-0a23-42aa-8358-658d61ea9a38"
+        },
+        {
+          "id": "bb0bec99-3368-4593-a2cb-f7fdf5019050",
+          "textContent": "Según Marta",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "52315110-0a23-42aa-8358-658d61ea9a38"
+        },
+        {
+          "id": "be23413d-bbf9-49ab-b452-8d7eb67574c1",
+          "textContent": "Mejor dicho",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "52315110-0a23-42aa-8358-658d61ea9a38"
+        },
+        {
+          "id": "ed057c0f-a197-4e18-950b-776d7d9943ee",
+          "textContent": "A mi juicio",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "52315110-0a23-42aa-8358-658d61ea9a38"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "20f63371-0ee0-49f6-a5a1-2ffb6f8c9cf7",
+      "title": "Identifique o critério próprio",
+      "content": "<p>Qual conector da aula enquadra o comentário de rota como leitura pessoal, e não como regra geral?</p>",
+      "contentPlain": "Qual conector da aula enquadra o comentário de rota como leitura pessoal, e não como regra geral?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa A mi juicio para assumir critério próprio antes do comentário de rota.",
+      "feedbackError": "A aula usa A mi juicio para assumir critério próprio antes do comentário de rota.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0b15744b-e495-426f-b4fc-0dddeceeb07b",
+          "textContent": "A mi juicio",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "20f63371-0ee0-49f6-a5a1-2ffb6f8c9cf7"
+        },
+        {
+          "id": "173caaa7-37d4-4858-a1ad-15e573203feb",
+          "textContent": "Sin embargo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "20f63371-0ee0-49f6-a5a1-2ffb6f8c9cf7"
+        },
+        {
+          "id": "88441332-2d3e-4ac8-845c-367e5ff1abd3",
+          "textContent": "Según Laura",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "20f63371-0ee0-49f6-a5a1-2ffb6f8c9cf7"
+        },
+        {
+          "id": "9f7bdd82-6805-46e9-a637-9143832b703d",
+          "textContent": "Mejor dicho",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "20f63371-0ee0-49f6-a5a1-2ffb6f8c9cf7"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a2a2da45-7015-41b1-8f36-60e65f0bc907",
+      "title": "Ligue situação e conector",
+      "content": "<p>Use o comentário encadeado da aula para decidir qual conector encaixa melhor em cada necessidade de percurso.</p>",
+      "contentPlain": "Use o comentário encadeado da aula para decidir qual conector encaixa melhor em cada necessidade de percurso.",
+      "fileUrl": null,
+      "feedbackSuccess": "No comentário encadeado, cada conector empurra a recomendação para um critério diferente.",
+      "feedbackError": "No comentário encadeado, cada conector empurra a recomendação para um critério diferente.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1e618ecc-94cf-4eef-9718-23b6b8ebad57",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a2a2da45-7015-41b1-8f36-60e65f0bc907"
+        },
+        {
+          "id": "d3d0725d-f540-4a22-9ccd-3a9de66a2243",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a2a2da45-7015-41b1-8f36-60e65f0bc907"
+        }
+      ],
+      "associations": [
+        {
+          "id": "22ed5ea4-eab3-49a4-bc56-ac3d89d82e07",
+          "exerciseId": "a2a2da45-7015-41b1-8f36-60e65f0bc907",
+          "leftContent": "Você quer deixar claro que a avaliação é sua.",
+          "rightContent": "A mi juicio",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2cc1731e-4be3-41f4-b14d-a73312476ee5",
+          "exerciseId": "a2a2da45-7015-41b1-8f36-60e65f0bc907",
+          "leftContent": "Você quer apoiar o comentário na experiência de outra pessoa.",
+          "rightContent": "Según Diego",
+          "sequenceItem": 2
+        },
+        {
+          "id": "04559c3b-394d-4991-92c3-d746905e02cd",
+          "exerciseId": "a2a2da45-7015-41b1-8f36-60e65f0bc907",
+          "leftContent": "Você quer corrigir o ponto exato da parada.",
+          "rightContent": "Mejor dicho",
+          "sequenceItem": 3
+        },
+        {
+          "id": "90689120-ae5e-4773-9c6d-0e846df93761",
+          "exerciseId": "a2a2da45-7015-41b1-8f36-60e65f0bc907",
+          "leftContent": "Você quer inserir uma ressalva que muda a escolha.",
+          "rightContent": "Sin embargo",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "5345d6d1-3b51-4e7a-a393-48bb699dcc85",
+      "title": "Ligue conector e função",
+      "content": "<p>Conecte cada conector em espanhol ao efeito que ele cria dentro de um comentário de trajeto.</p>",
+      "contentPlain": "Conecte cada conector em espanhol ao efeito que ele cria dentro de um comentário de trajeto.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap da aula organiza os quatro conectores por função: critério próprio, atribuição, precisão e contraste.",
+      "feedbackError": "O recap da aula organiza os quatro conectores por função: critério próprio, atribuição, precisão e contraste.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "62790456-38c7-4424-83fc-d22759593cd4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5345d6d1-3b51-4e7a-a393-48bb699dcc85"
+        },
+        {
+          "id": "8e314566-1aeb-469f-8562-6ae244af5e9c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5345d6d1-3b51-4e7a-a393-48bb699dcc85"
+        }
+      ],
+      "associations": [
+        {
+          "id": "3cf7f1ab-5f83-4b01-aa4c-618982970e5f",
+          "exerciseId": "5345d6d1-3b51-4e7a-a393-48bb699dcc85",
+          "leftContent": "A mi juicio",
+          "rightContent": "assumir seu critério sobre a rota",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1c04493a-029d-4bdc-9fba-2d05db8af78d",
+          "exerciseId": "5345d6d1-3b51-4e7a-a393-48bb699dcc85",
+          "leftContent": "Según Paula",
+          "rightContent": "atribuir a leitura a outra pessoa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "917ed46d-439e-4f92-94d3-af5aa0c23bd0",
+          "exerciseId": "5345d6d1-3b51-4e7a-a393-48bb699dcc85",
+          "leftContent": "Mejor dicho",
+          "rightContent": "afinar uma recomendação",
+          "sequenceItem": 3
+        },
+        {
+          "id": "fd67c5f7-7e9d-4a97-8d1b-2c329ae3339b",
+          "exerciseId": "5345d6d1-3b51-4e7a-a393-48bb699dcc85",
+          "leftContent": "Sin embargo",
+          "rightContent": "inserir um contraste que muda a decisão",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "b8058cab-359c-4f9b-895a-4bcc30f2289b",
+      "title": "Reconstrua a precisão",
+      "content": "<p>Complete em espanhol: Te conviene dormir en el pueblo alto; mejor _____, a la entrada, para salir sin tráfico.</p><p>Tradução: Vale a pena dormir no povoado alto; ou melhor, na entrada, para sair sem trânsito.</p>",
+      "contentPlain": "Complete em espanhol: Te conviene dormir en el pueblo alto; mejor _____, a la entrada, para salir sin tráfico. Tradução: Vale a pena dormir no povoado alto; ou melhor, na entrada, para sair sem trânsito.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, mejor dicho reaparece para refinar um conselho sem recomecar a frase.",
+      "feedbackError": "Na aula, mejor dicho reaparece para refinar um conselho sem recomecar a frase.",
+      "answerType": "buildWord",
+      "expectedAnswer": "dicho",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d981d69a-e7dc-4565-9721-d3a9bffc7403",
+      "title": "Reconstrua a atribuição",
+      "content": "<p>Complete em espanhol: _____ Elena, el ramal del valle deja más tiempo para la visita.</p><p>Tradução: Segundo Elena, o ramal do vale deixa mais tempo para a visita.</p>",
+      "contentPlain": "Complete em espanhol: _____ Elena, el ramal del valle deja más tiempo para la visita. Tradução: Segundo Elena, o ramal do vale deixa mais tempo para a visita.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, según + pessoa atribui o critério a outra experiência de viagem.",
+      "feedbackError": "Na aula, según + pessoa atribui o critério a outra experiência de viagem.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Según",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b31a7dea-bfe4-4169-9571-af1f5acb6cff",
+      "title": "Reconstrua o contraponto",
+      "content": "<p>Complete em espanhol: La variante del puerto regala mejores vistas; sin _______, llega a cansar si ya vienes justo.</p><p>Tradução: A variante do passo de montanha oferece vistas melhores; no entanto, chega a cansar se você já vier no limite.</p>",
+      "contentPlain": "Complete em espanhol: La variante del puerto regala mejores vistas; sin _______, llega a cansar si ya vienes justo. Tradução: A variante do passo de montanha oferece vistas melhores; no entanto, chega a cansar se você já vier no limite.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, sin embargo introduz um contraponto que pesa de verdade na decisão da rota.",
+      "feedbackError": "Na aula, sin embargo introduz um contraponto que pesa de verdade na decisão da rota.",
+      "answerType": "buildWord",
+      "expectedAnswer": "embargo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2779b682-c1ce-487b-b14e-76a79b485020",
+      "title": "Reconstrua o ponto de vista",
+      "content": "<p>Complete em espanhol: A mi ______, el desvío del bosque compensa si viajas con calma.</p><p>Tradução: Na minha opinião, o desvio da mata compensa se você viajar com calma.</p>",
+      "contentPlain": "Complete em espanhol: A mi ______, el desvío del bosque compensa si viajas con calma. Tradução: Na minha opinião, o desvio da mata compensa se você viajar com calma.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, a mi juicio enquadra a recomendação como leitura própria do trajeto.",
+      "feedbackError": "Na aula, a mi juicio enquadra a recomendação como leitura própria do trajeto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "juicio",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4d0ff422-108b-4194-a80f-c4dae3b76e46",
+      "title": "Associe trecho e efeito",
+      "content": "<p>Ligue cada trecho em espanhol ao papel discursivo que ele cumpre dentro de um comentário mais autoral sobre a rota.</p>",
+      "contentPlain": "Ligue cada trecho em espanhol ao papel discursivo que ele cumpre dentro de um comentário mais autoral sobre a rota.",
+      "fileUrl": null,
+      "feedbackSuccess": "O comentário encadeado da aula junta critério próprio, atribuição, precisão e contraste no mesmo fio.",
+      "feedbackError": "O comentário encadeado da aula junta critério próprio, atribuição, precisão e contraste no mesmo fio.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "34b79c1b-0936-4ad1-b613-2311f1b25529",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5ae132f9-d929-47f7-a66a-5053766744d0",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4d0ff422-108b-4194-a80f-c4dae3b76e46"
+        },
+        {
+          "id": "97baec8d-c4f3-4248-a8db-50db857d8af4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4d0ff422-108b-4194-a80f-c4dae3b76e46"
+        }
+      ],
+      "associations": [
+        {
+          "id": "196f1a25-8583-4232-bfbf-570b45752d21",
+          "exerciseId": "4d0ff422-108b-4194-a80f-c4dae3b76e46",
+          "leftContent": "A mi juicio, la ruta de la sierra compensa el rodeo.",
+          "rightContent": "abre um critério próprio",
+          "sequenceItem": 1
+        },
+        {
+          "id": "03da652e-48d2-4df2-9d3e-4a94954c05db",
+          "exerciseId": "4d0ff422-108b-4194-a80f-c4dae3b76e46",
+          "leftContent": "Según Lucia, el camino del valle desgasta menos.",
+          "rightContent": "passa a avaliação para outra voz",
+          "sequenceItem": 2
+        },
+        {
+          "id": "02c1495b-b97b-4f55-b101-34f657f97a61",
+          "exerciseId": "4d0ff422-108b-4194-a80f-c4dae3b76e46",
+          "leftContent": "Te sugeriría parar allí; mejor dicho, en el pueblo vecino.",
+          "rightContent": "corrige o ponto exato da recomendação",
+          "sequenceItem": 3
+        },
+        {
+          "id": "063b3ac1-4875-476a-a106-6275b06acc6f",
+          "exerciseId": "4d0ff422-108b-4194-a80f-c4dae3b76e46",
+          "leftContent": "El paso alto tiene vistas limpias; sin embargo, a esa hora ya se hace pesado.",
+          "rightContent": "introduz um limite que muda a escolha",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Amarrar conselho, contraste e ponto de vista no trajeto"
+}

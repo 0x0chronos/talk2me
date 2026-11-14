@@ -1,0 +1,556 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+    "attemptId": "6d3bd57e-49ed-44dd-adb3-2f04404f0040",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "e21ad03a-6a4a-4863-9b49-915f9b3eddeb",
+      "7aa3a928-8543-4d5d-b9b9-055d9cb5199d",
+      "5c4d11cb-30b9-47a7-9bc0-4f4a599498eb",
+      "80ff060c-868f-4995-a957-6243bb99fb6f",
+      "681bf103-35a4-4c3e-bf4f-1992663b0efb"
+    ],
+    "evaluationExerciseIds": [
+      "46b09392-b5ed-46a6-8da0-a327968e4a33",
+      "bb5e3350-6c18-415d-9bd5-8406fb5aeaeb",
+      "6c4d91ce-b36c-42c8-9b53-f7f722ce2ba9",
+      "233ddab4-36d9-44b3-87b6-31b8a1a5de33",
+      "0588911a-7248-4497-9e59-0e91ba6e4794"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:17.9919182Z"
+  },
+  "contents": [
+    {
+      "id": "6d277469-e251-4139-a0c5-ab47dadae30e",
+      "title": "Observe a cena, escute a frase e ligue o espanhol ao sentido em português.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "504cc46a-e715-40be-82f6-e2d8535da1c7",
+          "textContent": "<p>A atualização começa com o seu estado agora.</p><p><strong>Hoy estoy cansado.</strong></p><p>Em português: <strong>Hoje estou cansado.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/848635dcd6ee4442ba4c5afe3af845e0_l07b01-evening-health-update-scene.png?Expires=1794099558&Signature=dLo0JAUmgsFJtEEhNxl0SYP83PgSwphbuJsOfYix0wFIBzpWNPCa8QuWBOp763n0HOF0wa97FYLaa-bwl~RTVzCGB5dotGr4yTSxtbpylPc7NfBuAdLvzQV~b617X8NMrba6HeZyLn4wsC4CZCRJmYUarPkEqXkyH--vqQ~fzKJ4u8as3~LIUMTSbB-e-KZ7Z-HyjRhV0PANOv54Et80AqXvPKpeRvroZeomW2q9IKOuvK-US-KrJXXYneLQmuaidmIh0xLzbIW1DpFIf5nUtCs5~5bzHadSOHCVBe5T~0mhT-60X1KcUq-lS39xeI-u-GYND~wxvIKS7JnJDKCv4Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e617c7d336c643e1a38991e58039aa20_l07b01-hoy-estoy-cansado.mp3?Expires=1794099558&Signature=eGYZD8wdAdLbHlwECEa9iX7M9sIT5wbFM0XJPwQa6DqwziR1p9dzeEn5FDm9matuVEj4jzv19jf1JKIdsJBB0fGSqsFAJEFqwVu042Zm-4Ymhqu8L8ieCg637iR7dTTq-2lQDcLc~7p9dcBXsoS~rgEw0kaFkRkCfoZNBQtW8QGAoRtlKQCNBmA-vJ8gDiDSvM8HW79ShAHmLy-4o7f9rrufRmcxc82aGtHkiTuswcrWA-AX0GZr135HCCEUSweBuHk9a0qc8r4C5ltge8~IzLZTsXGsE9WnRaAxCE3rBLEqWNcY28bw1c9gxneqSbjE6bTQo39JzTw89kWMiXepYg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ae5eb34d-d577-4cd2-be35-7b8070b30ffa",
+      "title": "Leia a nota curta e observe o papel da primeira frase na atualização.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "6470559c-2d59-45e3-84f8-617864ee8f27",
+          "textContent": "<p><strong>Hoy estoy cansado.</strong> abre a atualização com uma informação imediata: como você está neste momento.</p><p>Vale a pena dizer isso primeiro e só depois acrescentar saúde ou ações do dia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "60fe5e0e-3c92-4163-a6de-1f23ae379a4e",
+      "title": "Escute a frase e observe como ela acrescenta uma informação de saúde.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "1cff6daa-80c3-450e-a63e-0eb653dcc7f1",
+          "textContent": "<p>Depois do estado atual, você pode acrescentar um sintoma simples.</p><p><strong>Me duele la cabeza.</strong></p><p>Em português: <strong>Estou com dor de cabeça.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/848635dcd6ee4442ba4c5afe3af845e0_l07b01-evening-health-update-scene.png?Expires=1794099558&Signature=dLo0JAUmgsFJtEEhNxl0SYP83PgSwphbuJsOfYix0wFIBzpWNPCa8QuWBOp763n0HOF0wa97FYLaa-bwl~RTVzCGB5dotGr4yTSxtbpylPc7NfBuAdLvzQV~b617X8NMrba6HeZyLn4wsC4CZCRJmYUarPkEqXkyH--vqQ~fzKJ4u8as3~LIUMTSbB-e-KZ7Z-HyjRhV0PANOv54Et80AqXvPKpeRvroZeomW2q9IKOuvK-US-KrJXXYneLQmuaidmIh0xLzbIW1DpFIf5nUtCs5~5bzHadSOHCVBe5T~0mhT-60X1KcUq-lS39xeI-u-GYND~wxvIKS7JnJDKCv4Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a4966b3de211436fbad9e270046287bd_l07b03-me-duele-la-cabeza.mp3?Expires=1794099558&Signature=YYRTqK0VEZ92Z1nI5zNCbZ7LYDa2nojZuNI7iQ0XtK9g-03mkkx~gXCWIioPIizGPT0z3skPDKARC~sQSvqKqAjKIPUYW6UBnOFZIHBJaIArfnCvIT4NXtYA5WBgjnQ768vXbJdBCNZFBcTs0bl9ocq7aSBebHRxxT8Zd~PDwt23lwsorOYZZSq4Ri9vEKMxHZPcm7ogboZQ~cizKnEXGIIMXopRI~3gouUz2LUdkY-wSIpxvpqekm8nr42Qgxi9ej-3VeB~djF7~Hx61WijJEHdu3L~cnd1PxVvI~TgnnLO1G0XddB98MPoQZv~HcwPGcLEhedvU0UfJRhym8J4lg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "53d9464c-1839-4af7-9405-5b16d299c760",
+      "title": "Escute a frase e note que agora a atualização muda do agora para algo que já aconteceu hoje.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "88a1abd9-6abd-4604-af59-bf10c9c7fd13",
+          "textContent": "<p>Na terceira parte, a pessoa conta algo que já aconteceu hoje.</p><p><strong>Esta mañana he trabajado mucho.</strong></p><p>Em português: <strong>Hoje de manhã trabalhei muito.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/4aea4a01c1d4412cb1edbb00e91507b2_l07b04-esta-manana-he-trabajado-mucho.mp3?Expires=1794099558&Signature=vV9TGuXYJMCuLpSbP1mGk2EBlc-zzVUtbgoN3pFmZxQGwxlY7uI8srs6loeY1WYV9VWc8Gq2JC6OhYvYOUCT4OZjQB3GJ6vM35DgH~lu6dwmejqQyVGZ5W2qOy5PC2ZyjiwbrQxcoBV0jlcUYH5RptJzDpSX5~XTkca2XDGjTd7bVncKvUkIfsv5tE2x0s8LnOztGDZvwsi1YgjnQQS83W-oRistbTUXihEq08mgRP-qddoA~BZEgy8iUqIZWU3U5VCWF1sHxxIgKTXzeku86RuBMLsNkNMXm-lOtoKyv38ev1Bdhrn3Y7IY3XbPl755V1F4KDc~53DTK6HeZ3-UWg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7b224b33-1283-4a46-b6a0-457d0f65be01",
+      "title": "Observe a sequência e veja como cada frase cumpre uma função específica.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "9c83f5c0-af01-43b2-a36d-9405c8fa91d3",
+          "textContent": "<p>A atualização fica clara quando cada frase tem uma função.</p><p><strong>Hoy estoy cansado.</strong> abre o estado atual.</p><p><strong>Me duele la cabeza.</strong> acrescenta o sintoma.</p><p><strong>Esta mañana he trabajado mucho.</strong> fecha com algo que já aconteceu hoje.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f8dc6159-26fd-4141-a4ba-8d4378cd0c96",
+      "title": "Leia a mensagem final e observe como a sequência vira uma atualização natural para alguém próximo.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "43d0a8cd-dd85-4772-be67-2ef95149c711",
+          "textContent": "<p>Em uma mensagem para alguém de casa ou do trabalho, a atualização pode soar assim.</p><p><strong>Hoy estoy cansado y me duele la cabeza.</strong></p><p><strong>Esta mañana he trabajado mucho y luego he vuelto a casa temprano.</strong></p><p>Em português: <strong>Hoje estou cansado e estou com dor de cabeça. Hoje de manhã trabalhei muito e depois voltei cedo para casa.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1a40e48030d24d4d986cf938066e5ab7_l07b06-health-and-day-update.mp3?Expires=1794099558&Signature=B84pJN~VHEuauQ4hNaGLv5o4d6iQkaXyh6iv9APy5CV~T62B6ZCZ9otC12fRem3xUTrdfdP6sGfujU~cxUrcjPRE5maGudLAnUZY69OaQsmyZQqNh6~FbuC00k7KonljUmE5xnbuuvS8z6Eqw7LS0~zoPmD6MgnHQIczW-d~EyqGTnfWP2tLXlTk5Rui308k0DsKMGPrCsrp7CBsbprF2MsbMIkCa7n20iTHuh4LLU9XcIDdAWgElK1rKNGJEKT7I2DAjEC0qGm8IwHz1VYLeVkewvslu72reWFR11ckSlglDwZif4KeVlIl8NYOHAKVESeW0gY5RCmVDsKUhSJAVg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "e21ad03a-6a4a-4863-9b49-915f9b3eddeb",
+      "title": "Escute e associe",
+      "content": "<p>Ouça cada trecho e ligue-o à frase correta em espanhol.</p>",
+      "contentPlain": "Ouça cada trecho e ligue-o à frase correta em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você conectou som e texto nas três partes da atualização.",
+      "feedbackError": "Tente outra vez e compare cada áudio com a frase exata apresentada na aula.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "99f1b18f-a82f-42ca-ad80-d1ab4005b17b",
+          "exerciseId": "e21ad03a-6a4a-4863-9b49-915f9b3eddeb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e617c7d336c643e1a38991e58039aa20_l07b01-hoy-estoy-cansado.mp3?Expires=1794099558&Signature=eGYZD8wdAdLbHlwECEa9iX7M9sIT5wbFM0XJPwQa6DqwziR1p9dzeEn5FDm9matuVEj4jzv19jf1JKIdsJBB0fGSqsFAJEFqwVu042Zm-4Ymhqu8L8ieCg637iR7dTTq-2lQDcLc~7p9dcBXsoS~rgEw0kaFkRkCfoZNBQtW8QGAoRtlKQCNBmA-vJ8gDiDSvM8HW79ShAHmLy-4o7f9rrufRmcxc82aGtHkiTuswcrWA-AX0GZr135HCCEUSweBuHk9a0qc8r4C5ltge8~IzLZTsXGsE9WnRaAxCE3rBLEqWNcY28bw1c9gxneqSbjE6bTQo39JzTw89kWMiXepYg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy estoy cansado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "07ff524f-dad4-4d3a-ba07-7686f1bf503a",
+          "exerciseId": "e21ad03a-6a4a-4863-9b49-915f9b3eddeb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a4966b3de211436fbad9e270046287bd_l07b03-me-duele-la-cabeza.mp3?Expires=1794099558&Signature=YYRTqK0VEZ92Z1nI5zNCbZ7LYDa2nojZuNI7iQ0XtK9g-03mkkx~gXCWIioPIizGPT0z3skPDKARC~sQSvqKqAjKIPUYW6UBnOFZIHBJaIArfnCvIT4NXtYA5WBgjnQ768vXbJdBCNZFBcTs0bl9ocq7aSBebHRxxT8Zd~PDwt23lwsorOYZZSq4Ri9vEKMxHZPcm7ogboZQ~cizKnEXGIIMXopRI~3gouUz2LUdkY-wSIpxvpqekm8nr42Qgxi9ej-3VeB~djF7~Hx61WijJEHdu3L~cnd1PxVvI~TgnnLO1G0XddB98MPoQZv~HcwPGcLEhedvU0UfJRhym8J4lg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me duele la cabeza.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d29a3075-df36-4360-9fc0-8303144028b7",
+          "exerciseId": "e21ad03a-6a4a-4863-9b49-915f9b3eddeb",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4aea4a01c1d4412cb1edbb00e91507b2_l07b04-esta-manana-he-trabajado-mucho.mp3?Expires=1794099558&Signature=vV9TGuXYJMCuLpSbP1mGk2EBlc-zzVUtbgoN3pFmZxQGwxlY7uI8srs6loeY1WYV9VWc8Gq2JC6OhYvYOUCT4OZjQB3GJ6vM35DgH~lu6dwmejqQyVGZ5W2qOy5PC2ZyjiwbrQxcoBV0jlcUYH5RptJzDpSX5~XTkca2XDGjTd7bVncKvUkIfsv5tE2x0s8LnOztGDZvwsi1YgjnQQS83W-oRistbTUXihEq08mgRP-qddoA~BZEgy8iUqIZWU3U5VCWF1sHxxIgKTXzeku86RuBMLsNkNMXm-lOtoKyv38ev1Bdhrn3Y7IY3XbPl755V1F4KDc~53DTK6HeZ3-UWg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta mañana he trabajado mucho.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "7aa3a928-8543-4d5d-b9b9-055d9cb5199d",
+      "title": "Ligue frase e função",
+      "content": "<p>Associe cada frase à função que ela cumpre dentro da atualização curta.</p>",
+      "contentPlain": "Associe cada frase à função que ela cumpre dentro da atualização curta.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você recuperou a ordem funcional da atualização.",
+      "feedbackError": "Revise a sequência do bloco final: estado atual, sintoma e depois ação recente.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "725d6fe5-3ec4-475b-8b33-3400161cb2ea",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7aa3a928-8543-4d5d-b9b9-055d9cb5199d"
+        },
+        {
+          "id": "8d871077-fc53-400c-977e-bdbfefe12a80",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7aa3a928-8543-4d5d-b9b9-055d9cb5199d"
+        }
+      ],
+      "associations": [
+        {
+          "id": "acd16f79-9463-4660-931a-252518a59364",
+          "exerciseId": "7aa3a928-8543-4d5d-b9b9-055d9cb5199d",
+          "leftContent": "Hoy estoy cansado.",
+          "rightContent": "estado atual",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b139a92a-fdcc-4e58-8cf2-f19cbdb45626",
+          "exerciseId": "7aa3a928-8543-4d5d-b9b9-055d9cb5199d",
+          "leftContent": "Me duele la cabeza.",
+          "rightContent": "sintoma",
+          "sequenceItem": 2
+        },
+        {
+          "id": "65dec83d-6121-4c5a-87d0-de212a17465a",
+          "exerciseId": "7aa3a928-8543-4d5d-b9b9-055d9cb5199d",
+          "leftContent": "Esta mañana he trabajado mucho.",
+          "rightContent": "ação recente do dia",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "5c4d11cb-30b9-47a7-9bc0-4f4a599498eb",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a frase em espanhol: <strong>Me duele la ______.</strong></p>",
+      "contentPlain": "Complete a frase em espanhol: Me duele la ______.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. cabeza completa o sintoma corretamente.",
+      "feedbackError": "A palavra faltante é cabeza, como no modelo da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cabeza",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "80ff060c-868f-4995-a957-6243bb99fb6f",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Repita a frase em voz alta para ativar a abertura da atualização.</p>",
+      "contentPlain": "Repita a frase em voz alta para ativar a abertura da atualização.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dbd96d5d89ea4323ba9225518801a030_A2_M011_L07_audio_e617c7d3_hoy-estoy-mal.mp3?Expires=1794099558&Signature=k-a4u4vEPJaQt1lmJ8ehdVySJbu5mJ7PDCLVDLXlH8~86bvdw5da5yf8Bjnw1nUHMOOGpLvBId~5TQGMLXOq7~0DrR7DKRm7qBHbOx48pXe~M~q4AqHAMTZY3ej4-0oUJ9vJPdnmH4SEa695zUY1kRrXPE6eJLF7n8alTi6szJvc-sDLDsK552hITjjHeC7GmUo36zkZtCvoluKnURXCEwhtKipUW27LNVbewHZcRSAgK32DFjlZSsCm6EA9J5EBooGC8Q0tYwGoN48aP8wu3G9XB5KT0iRcZeqpT1fQ-xIpSWc1RUCNdIT8jvtJAqqUJmB~KE1Lz~dMuU-~irnGYQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa repetição. A ideia é dizer a frase inteira com ritmo contínuo.",
+      "feedbackError": "Tente repetir de novo ouvindo primeiro o modelo completo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Hoy estoy mal.",
+      "typeSpecificData": "{\"expectedText\":\"Hoy estoy mal.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/dbd96d5d89ea4323ba9225518801a030_A2_M011_L07_audio_e617c7d3_hoy-estoy-mal.mp3?Expires=1794099558\\u0026Signature=k-a4u4vEPJaQt1lmJ8ehdVySJbu5mJ7PDCLVDLXlH8~86bvdw5da5yf8Bjnw1nUHMOOGpLvBId~5TQGMLXOq7~0DrR7DKRm7qBHbOx48pXe~M~q4AqHAMTZY3ej4-0oUJ9vJPdnmH4SEa695zUY1kRrXPE6eJLF7n8alTi6szJvc-sDLDsK552hITjjHeC7GmUo36zkZtCvoluKnURXCEwhtKipUW27LNVbewHZcRSAgK32DFjlZSsCm6EA9J5EBooGC8Q0tYwGoN48aP8wu3G9XB5KT0iRcZeqpT1fQ-xIpSWc1RUCNdIT8jvtJAqqUJmB~KE1Lz~dMuU-~irnGYQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "681bf103-35a4-4c3e-bf4f-1992663b0efb",
+      "title": "Como a atualização começa?",
+      "content": "<p>Qual frase em espanhol abre a atualização falando só de como a pessoa está agora?</p>",
+      "contentPlain": "Qual frase em espanhol abre a atualização falando só de como a pessoa está agora?",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. A abertura informa primeiro o estado atual.",
+      "feedbackError": "Ainda não. A primeira frase da atualização é Hoy estoy cansado.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "80894644-89f7-4057-a2ec-f8a5b772ae17",
+          "textContent": "Esta mañana he trabajado mucho.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "681bf103-35a4-4c3e-bf4f-1992663b0efb"
+        },
+        {
+          "id": "a0039358-0970-4704-b9ee-cdccfa2a46be",
+          "textContent": "Me duele la cabeza.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "681bf103-35a4-4c3e-bf4f-1992663b0efb"
+        },
+        {
+          "id": "cbdec754-72e3-4958-8205-a4da9111f185",
+          "textContent": "Hoy estoy cansado.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "681bf103-35a4-4c3e-bf4f-1992663b0efb"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "46b09392-b5ed-46a6-8da0-a327968e4a33",
+      "title": "Qual atualização está completa?",
+      "content": "<p>Selecione a opção que junta as três partes centrais trabalhadas nesta aula.</p>",
+      "contentPlain": "Selecione a opção que junta as três partes centrais trabalhadas nesta aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. A resposta completa junta estado atual, sintoma e ação recente.",
+      "feedbackError": "A opção correta precisa trazer os três movimentos da atualização, não apenas um ou dois.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "369283c4-53c7-461f-b5a6-cfa92b24cd07",
+          "textContent": "Me duele la cabeza. Luego he vuelto a casa temprano.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "46b09392-b5ed-46a6-8da0-a327968e4a33"
+        },
+        {
+          "id": "4927bf34-4a1a-416e-a738-22bf2dca9cd3",
+          "textContent": "Hoy estoy cansado. Esta mañana he trabajado mucho.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "46b09392-b5ed-46a6-8da0-a327968e4a33"
+        },
+        {
+          "id": "81e56417-3b35-46d8-a383-82b445ad510a",
+          "textContent": "Hoy estoy cansado. Me duele la cabeza. Esta mañana he trabajado mucho.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "46b09392-b5ed-46a6-8da0-a327968e4a33"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "bb5e3350-6c18-415d-9bd5-8406fb5aeaeb",
+      "title": "O que você ouve?",
+      "content": "<p>Ouça a atualização final e selecione todas as palavras em espanhol que aparecem no áudio.</p>",
+      "contentPlain": "Ouça a atualização final e selecione todas as palavras em espanhol que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1a40e48030d24d4d986cf938066e5ab7_l07b06-health-and-day-update.mp3?Expires=1794099558&Signature=B84pJN~VHEuauQ4hNaGLv5o4d6iQkaXyh6iv9APy5CV~T62B6ZCZ9otC12fRem3xUTrdfdP6sGfujU~cxUrcjPRE5maGudLAnUZY69OaQsmyZQqNh6~FbuC00k7KonljUmE5xnbuuvS8z6Eqw7LS0~zoPmD6MgnHQIczW-d~EyqGTnfWP2tLXlTk5Rui308k0DsKMGPrCsrp7CBsbprF2MsbMIkCa7n20iTHuh4LLU9XcIDdAWgElK1rKNGJEKT7I2DAjEC0qGm8IwHz1VYLeVkewvslu72reWFR11ckSlglDwZif4KeVlIl8NYOHAKVESeW0gY5RCmVDsKUhSJAVg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta. Você identificou palavras-chave da atualização completa.",
+      "feedbackError": "Ouça novamente e procure só as palavras realmente presentes no áudio final.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "360f2b5f-f56f-4a00-9562-8f4decd3f2d4",
+          "textContent": "trabajado",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bb5e3350-6c18-415d-9bd5-8406fb5aeaeb"
+        },
+        {
+          "id": "440c208b-bf4d-4cbf-9823-cd8c0e01c194",
+          "textContent": "temprano",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bb5e3350-6c18-415d-9bd5-8406fb5aeaeb"
+        },
+        {
+          "id": "961439d2-8fb9-463c-a10c-5b2f00247192",
+          "textContent": "cansado",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bb5e3350-6c18-415d-9bd5-8406fb5aeaeb"
+        },
+        {
+          "id": "9ea04a5e-9e2d-4c52-9cc9-b0c927bd99fe",
+          "textContent": "cabeza",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "bb5e3350-6c18-415d-9bd5-8406fb5aeaeb"
+        },
+        {
+          "id": "a373c326-d2dd-4cf5-b8e9-87985f043d37",
+          "textContent": "médico",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "bb5e3350-6c18-415d-9bd5-8406fb5aeaeb"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6c4d91ce-b36c-42c8-9b53-f7f722ce2ba9",
+      "title": "Ligue a atualização ao sentido",
+      "content": "<p>Associe cada trecho do modelo final à ideia correspondente em português.</p>",
+      "contentPlain": "Associe cada trecho do modelo final à ideia correspondente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você recuperou o sentido de cada trecho do modelo final.",
+      "feedbackError": "Revise como a versão final organiza agora, manhã e depois.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "16b0e66f-d9da-49ba-b800-64d3585e62e5",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6c4d91ce-b36c-42c8-9b53-f7f722ce2ba9"
+        },
+        {
+          "id": "ee9bcfb5-ba00-4dbb-ac7a-250bb7f21592",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6c4d91ce-b36c-42c8-9b53-f7f722ce2ba9"
+        }
+      ],
+      "associations": [
+        {
+          "id": "a24adb55-e9c5-433e-8556-ca16b1ac6aff",
+          "exerciseId": "6c4d91ce-b36c-42c8-9b53-f7f722ce2ba9",
+          "leftContent": "Hoy estoy cansado y me duele la cabeza.",
+          "rightContent": "como estou agora",
+          "sequenceItem": 1
+        },
+        {
+          "id": "253d377d-90ab-4032-a8dd-0211d19d7c5e",
+          "exerciseId": "6c4d91ce-b36c-42c8-9b53-f7f722ce2ba9",
+          "leftContent": "Esta mañana he trabajado mucho.",
+          "rightContent": "o que aconteceu hoje de manhã",
+          "sequenceItem": 2
+        },
+        {
+          "id": "90643830-38ae-44fe-ad78-c555fdfa80d6",
+          "exerciseId": "6c4d91ce-b36c-42c8-9b53-f7f722ce2ba9",
+          "leftContent": "luego he vuelto a casa temprano.",
+          "rightContent": "o que aconteceu depois",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "233ddab4-36d9-44b3-87b6-31b8a1a5de33",
+      "title": "Reconstrua a forma verbal",
+      "content": "<p>Complete a frase: <strong>Luego he ______ a casa temprano.</strong></p>",
+      "contentPlain": "Complete a frase: Luego he ______ a casa temprano.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. vuelto fecha a sequência do dia no modelo final.",
+      "feedbackError": "A forma correta é vuelto, como na revisão final da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "vuelto",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0588911a-7248-4497-9e59-0e91ba6e4794",
+      "title": "Associe os trechos do áudio",
+      "content": "<p>Ouça os trechos e associe cada um à linha escrita correta em espanhol.</p>",
+      "contentPlain": "Ouça os trechos e associe cada um à linha escrita correta em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ótimo. Você reconheceu os trechos e a revisão ampliada pelo áudio.",
+      "feedbackError": "Compare cada clipe com a frase exata antes de tentar de novo.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4117226c-b897-48be-a983-5bfd230b94f6",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "8316091a-6b86-4797-8fe4-3798e6deb8c8",
+          "exerciseId": "0588911a-7248-4497-9e59-0e91ba6e4794",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7b16d3896282433c87691941e41a56e8_l07b01-hoy-estoy-cansado.mp3?Expires=1794099558&Signature=fcCR7BCP1QcnDcTyizTX3SXYhm34RETDZlXrjJuH9uxfZaz3Aup2O5FXL-6N2AumiCmKovvLISr3tHkrj3fROy7p~C~~64VLnyvotQKpmSk1mquakbvumLqxG-I~oH16Gt-Uvdkt5EO62cA5MvNpCPcfi~5gz7CY53sJd~fmD5XZnPTUEd8aPRjESdy2ONjamZ7TcXqcFRe4~5ZceARX33VaWg~NHc8RLy7DImZOKQl8itqhMoik1gICht6Cvicmu-cSm6KgZEuho8u0d~0p1AQT5Rj6K6Q8eGN7JauaioZwUP7BzjqMSJj01zs4qeLTeJez26~YO5q-C9C6CNajgA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy estoy cansado.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0257ed07-4f94-4664-92de-2b6e2538df0b",
+          "exerciseId": "0588911a-7248-4497-9e59-0e91ba6e4794",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/24736e60651b45e489bb306015d666fc_l07b03-me-duele-la-cabeza.mp3?Expires=1794099558&Signature=Kc0JmZR0y8YZBcWjhQU~NaTFdYjHrmJVvopkO4LYdRYzMNAB6B572Wz9RiENi5nuBa9mAU9HiUK7HtKwtmqlRskbpeC0Ikh4DySS~CRPFZ8SWBnlseIyWmDXrZ0T440IbQ-seanSaYeleRYGKbtNxbjr1ivgF0uVa5dQcZciKL307FXmnK9VMUwo2bVjz4r4VNPfHBMcz6vklFtY90DT8YzucxcyFrFXcBLf7GRhllxHjqnS3m1kIa0YSeZooourtbyoHhZslSXMHDwDdSzAUk~YJw~EuYEpQGUhwa3K1KDoNdO0ZF2tuauKr6QJdMpzf7LK7au0dA06icsSEM5qgw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Me duele la cabeza.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "95754629-18cc-4266-ba3f-e91a962883ab",
+          "exerciseId": "0588911a-7248-4497-9e59-0e91ba6e4794",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/40bdf76cfbb543bb901dee7f9650c5a3_l07b04-esta-manana-he-trabajado-mucho.mp3?Expires=1794099558&Signature=GWj~0kC3~MvRwo0CjHdSqu84WhZG3nULzCJHojJqeBfav-nDhh8tcmlBzLdCOAP67VgWpD-VExQJaYrF4f9SkiXoXUDaNKhXsp5fZVskjjMF0ODfMiN7-bufwpa6PKRHfoidjlPdT4DKGU1VKkBXNi-VIMFoKfrM7n4Z3sfjpeut-STnZRv-1wSdd99Bcs~zQ1jH8it3NqrkA4U4doGb4XWtvk0Cm52eL-VtnRyIOlBUoqjW-4faAwe0qK8nTXlLcFsS4-Kkh4uQclV4wsFQ0TV5dIjsgXYztwXJTGhl5MZCuaXGRVv69O5~PmwIKqJmWMfboxA2jQv4XBy97~8gOQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Esta mañana he trabajado mucho.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "5c307e82-c67c-406d-9221-d3166a72b266",
+          "exerciseId": "0588911a-7248-4497-9e59-0e91ba6e4794",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3e6e98897e7e4d5983a8db28019215d7_l07b06-health-and-day-update.mp3?Expires=1794099558&Signature=diU2MSWNg2pMkJMARchetAsEt1nURd67xFWMjnXEhTwLasQLKgi5z9JjHKScx92bdAhMztHmgClHs5ml4b~y1Ieyp8kgly8WjCG2MIcYBo7-rc6yi3zvYwIh7nZAg1wu-6ASsXdK0wAcH2h0ShZ9kl1PtrfSfFKk5byJS6pCYi5Ff9PLtOQpkHro4-rBLq-E19sPKxtbDiP4T-hLKLZ5sizQCxCo~BaGy02Cbofr2E6in8d4go-Rcv98FdLV9g8sxOdgSbgVR2n~wXmviPXY1g1uLMrVFrnL2LjLwNSg2oBdHr-bpRnEe8Sy2I1mt1wGGj~2tIw9bSVoDnyt00vPWQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy estoy cansado y me duele la cabeza. Esta mañana he trabajado mucho y luego he vuelto a casa temprano.",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Fazer uma atualização de saúde e do dia"
+}

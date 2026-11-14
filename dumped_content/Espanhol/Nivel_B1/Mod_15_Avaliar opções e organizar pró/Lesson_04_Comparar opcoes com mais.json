@@ -1,0 +1,613 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+    "attemptId": "90173d93-6ac2-4866-b60f-97ebd569e41c",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "39625730-4026-4f3b-af5f-6f3eaf68617b",
+      "0b48d7ae-723f-4ab9-a189-4a674f1735eb",
+      "bd05318b-2b2c-4a75-be6d-b364dca1b0c5",
+      "f2e06ac2-7139-4d93-a3d0-c4c12b9852b4",
+      "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153"
+    ],
+    "evaluationExerciseIds": [
+      "13968089-de84-414e-a885-f39d362efe09",
+      "8eceeab8-42bb-4577-8318-de173cf3d43a",
+      "7ce9a6ea-367a-4217-a7fc-c65d6c5795bb",
+      "4eebd8c9-cc58-44dd-8776-7fe8d3e458e5",
+      "9dd7c401-b028-4207-810d-015e00ef93d5"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:46.241323Z"
+  },
+  "contents": [
+    {
+      "id": "33e00d46-2afc-4698-a108-066ba0180673",
+      "title": "Leia o cenário curto e observe o que está em jogo em cada alternativa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "b5780730-fe09-4c79-8cd8-7438dc26765f",
+          "textContent": "<p>Paula está comparando duas vagas antes de decidir o próximo passo.</p><p><strong>Opción A:</strong> vacante nocturna en atención al cliente.</p><p><strong>Opción B:</strong> opción híbrida con formación inicial y contacto con clientes.</p><p>Nas próximas telas, a linguagem de dúvida vai mostrar como reservar julgamento sem fechar a conversa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0021a269-80fc-4ed8-8629-29dfe3484898",
+      "title": "Escute a frase e ligue a reserva a uma das vagas do cenário.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "55ae5068-628d-4128-aeba-2cee2acf9d97",
+          "textContent": "<p><strong>No creo que te convenga aceptar la vacante nocturna.</strong></p><p>Em português: <strong>Não acho que seja conveniente aceitar a vaga noturna.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/84d92146f0d941d9af4e3ebc750a1600_b02-no-creo-que-te-convenga-aceptar-la-vacante-nocturna.mp3?Expires=1794099646&Signature=nYL7hS-mHqQl2A3ZEVuQFAkcMCT9kGMziKu7qAsEHPa445183d3xdgjEsDMKkrs2JWoCCWp-vweRV1NRHTZTC3C3LWNtwDaeM1FKZaMHR9XBZQGxLUXEKlYums1LqKUfncdD9lYnRjwD39RJ3buKKwXHnwuSk7upYhUs837JgjiHDIDtT40YHVQwQntp3uBMpBHSPxwS29Ab906QB~x6Qzw-bQa0tQu5seH9iSLpt2X6rYJzvzDsVXPfJ-OjojRuznXb~AqrYAdJOPJemsfIkEs-kXGwAXnppH6WjBuCOzYmq2T2-4wZWg73Aryoig-zqRyrITA3shtMaTzx78o~Rg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0afeab91-84e5-4a5c-9213-86b7a5ae442c",
+      "title": "Leia a nota curta e observe como a frase sinaliza pouca confiança sem fechar a conversa.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "65e72655-1f9e-42d6-a840-fc32fc50a5b5",
+          "textContent": "<p><strong>No creo que</strong> mostra reserva sem soar totalmente definitivo.</p><p>Use esse início quando uma opção não parece boa o bastante, segura o bastante ou convincente o bastante.</p><p>Depois dele, o verbo costuma aparecer no subjuntivo: aqui, <strong>convenga</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7c250b20-34b3-408d-8c14-7f880bd43923",
+      "title": "Escute a frase e note como a avaliação fica mais cética.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "f48206bd-2eee-4e58-b7eb-9b3109b25bb3",
+          "textContent": "<p><strong>Dudo que puedas aprender mucho en ese puesto.</strong></p><p>Em português: <strong>Duvido que você consiga aprender muito nesse cargo.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/66a0417ffbcd443ebe5344eb6334040f_b04-dudo-que-puedas-aprender-mucho-en-ese-puesto.mp3?Expires=1794099646&Signature=xFM6WvbEToe41g~NASmd0qbcjrILW6zDt7TN2s2fggM2zTHiu2VrnzLsZrsh2IYFxazMjF8EMG5w4GUcaDRmj13sp-oNsPaiIPUo12sRZ8FgHBY3iJzQmb3Oq~xIGTjr3uSbEQvhe6RE8CEznlj56Ea4sx28ifMyURuRhkL3YmxOzV4HhxB2bfFEUiPt2qXiyDOFbZuxUP1rlUY0vUY2XjKXVGe4bCpX6qxAS0QRuzxnepMCpKmMFyafOd0B5CWwmkBqDlUJKmHj-8acY9Ghu1njiliwF~UQTSx7ypc7aUJux5XMzKSken9c0zgRqidGeMb-0-c4SpXt03JUgZoVdg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "92d4d8cd-5653-4448-b5dd-2e2b0355542a",
+      "title": "Leia a comparação curta e observe como o grau de dúvida aumenta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "a3f7a543-8144-49e2-b79e-ec3bca241bd4",
+          "textContent": "<p><strong>Dudo que</strong> soa mais direto que <strong>no creo que</strong>.</p><p>Ele aparece quando você realmente questiona a viabilidade, o ganho ou o encaixe de uma alternativa.</p><p>Depois dele, o verbo também vai ao subjuntivo: aqui, <strong>puedas</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "80c119d6-1349-46c7-997a-d25e8c6ed1b4",
+      "title": "Escute a frase e acompanhe a diferença entre duvidar de algo e manter outra opção possível.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "a0040f3a-ac2e-407a-8fae-c598c6ed1ea1",
+          "textContent": "<p><strong>Puede que la opción híbrida encaje mejor con tu experiencia.</strong></p><p>Em português: <strong>Pode ser que a opção híbrida combine melhor com a sua experiência.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/359b6c483c0a426487d83b27ca647066_b06-puede-que-la-opcion-hibrida-encaje-mejor-con-tu-experiencia.mp3?Expires=1794099646&Signature=hzQ4HlOE4AOzN-EIBuDhd0ro7rs90FVjMGN9jaKehHqZFT-mCKS8xpf5QwEaMz14p08gvd3SYYqrHARzpTJ1MtX1j0YeUYVOTcVEZKInzzkdryq~7Kz5gwpwz9La1gF5FQYDRuIepHux1sDvjLJ-HOCL53ffEm21xjFYcRqNqBeg0T9c-JUFkVDb9PPykovp6ZNe3Gv-RXgjEGW~QK9dyAjwIX7q90sxGKc41D0Q0h4vKgj7Ba~IHVtlfz2FIN9DFRKGMdlUr75JWkJ6m6bYq3QOP8rxSlTj-aclezuqlbueSzAFqcQEiQJc9uL3uXBr0tQQfQyfKMiMzcnAzygqMA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d2befda4-7167-477f-8d3a-f12c8bb90e83",
+      "title": "Leia a nota curta e compare os três inícios vistos na aula.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "2e327644-d4df-4464-8fdd-890f8fd23d22",
+          "textContent": "<p><strong>Puede que</strong> não rejeita a opção. Ele deixa uma possibilidade aberta.</p><p>Ao comparar alternativas, você pode usar <strong>no creo que</strong> para marcar pouca confiança, <strong>dudo que</strong> para uma dúvida mais forte e <strong>puede que</strong> para indicar que algo ainda é possível.</p><p>Depois dele, o verbo também aparece no subjuntivo: aqui, <strong>encaje</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "fa9f1cff-225a-47ef-b6fb-1b66c5668d33",
+      "title": "Leia o recap final e pense em como essas aberturas ajudam a comparar uma vaga, um curso ou um plano real.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "97b1bb6b-1eed-4c2e-b041-cd5d971b38b2",
+          "textContent": "<p>Na vida real, essas três aberturas ajudam quando você compara uma vaga, um curso ou até um plano do dia.</p><ul><li><strong>No creo que te convenga...</strong> para uma opção que não convence.</li><li><strong>Dudo que puedas...</strong> para questionar se algo realmente funciona.</li><li><strong>Puede que ... encaje mejor...</strong> para deixar uma possibilidade mais promissora em aberto.</li></ul><p>Assim, você compara com mais precisão e mostra exatamente o grau de reserva que sente.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "39625730-4026-4f3b-af5f-6f3eaf68617b",
+      "title": "Escolha a reserva que deixa a opção aberta",
+      "content": "<p>Você quer dizer a Paula que uma das opções ainda pode combinar melhor com ela, sem descartar essa possibilidade. Qual frase da aula expressa esse tipo de reserva?</p>",
+      "contentPlain": "Você quer dizer a Paula que uma das opções ainda pode combinar melhor com ela, sem descartar essa possibilidade. Qual frase da aula expressa esse tipo de reserva?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, puede que deixa uma alternativa aberta enquanto no creo que e dudo que marcam mais reserva.",
+      "feedbackError": "Nesta aula, puede que deixa uma alternativa aberta enquanto no creo que e dudo que marcam mais reserva.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "94f040cf-72f0-45ea-bfe0-b15f870957bd",
+          "textContent": "Dudo que puedas aprender mucho en ese puesto.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "39625730-4026-4f3b-af5f-6f3eaf68617b"
+        },
+        {
+          "id": "f78b0735-5b7e-442f-850a-70459a762967",
+          "textContent": "Puede que la opción híbrida encaje mejor con tu experiencia.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "39625730-4026-4f3b-af5f-6f3eaf68617b"
+        },
+        {
+          "id": "f96c5716-9ec6-4d96-ae94-53fcaa2daa52",
+          "textContent": "No creo que te convenga aceptar la vacante nocturna.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "39625730-4026-4f3b-af5f-6f3eaf68617b"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "0b48d7ae-723f-4ab9-a189-4a674f1735eb",
+      "title": "Ligue a abertura ao efeito",
+      "content": "<p>Associe cada fórmula da aula ao tipo de reserva que ela ajuda a construir ao comparar alternativas.</p>",
+      "contentPlain": "Associe cada fórmula da aula ao tipo de reserva que ela ajuda a construir ao comparar alternativas.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final separa três graus de reserva: pouca confiança, dúvida mais forte e possibilidade ainda aberta.",
+      "feedbackError": "O recap final separa três graus de reserva: pouca confiança, dúvida mais forte e possibilidade ainda aberta.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "38903b24-c93a-40cd-be73-a6f0638b960d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0b48d7ae-723f-4ab9-a189-4a674f1735eb"
+        },
+        {
+          "id": "d60a8307-dde1-4fcd-abb0-1d0da9de2c15",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0b48d7ae-723f-4ab9-a189-4a674f1735eb"
+        }
+      ],
+      "associations": [
+        {
+          "id": "c7ac4afb-ccfe-45bf-9386-f397d9cd8335",
+          "exerciseId": "0b48d7ae-723f-4ab9-a189-4a674f1735eb",
+          "leftContent": "No creo que...",
+          "rightContent": "mostrar pouca confiança na opção",
+          "sequenceItem": 1
+        },
+        {
+          "id": "23527cdf-83dd-48b2-87b9-a14c05d2b03c",
+          "exerciseId": "0b48d7ae-723f-4ab9-a189-4a674f1735eb",
+          "leftContent": "Dudo que...",
+          "rightContent": "questionar a opção de forma mais direta",
+          "sequenceItem": 2
+        },
+        {
+          "id": "70e699f5-9826-40d4-94e9-27e0c5a33ca4",
+          "exerciseId": "0b48d7ae-723f-4ab9-a189-4a674f1735eb",
+          "leftContent": "Puede que...",
+          "rightContent": "manter uma possibilidade em aberto",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "bd05318b-2b2c-4a75-be6d-b364dca1b0c5",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a frase que deixa uma alternativa em aberto.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a frase que deixa uma alternativa em aberto.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/359b6c483c0a426487d83b27ca647066_b06-puede-que-la-opcion-hibrida-encaje-mejor-con-tu-experiencia.mp3?Expires=1794099646&Signature=hzQ4HlOE4AOzN-EIBuDhd0ro7rs90FVjMGN9jaKehHqZFT-mCKS8xpf5QwEaMz14p08gvd3SYYqrHARzpTJ1MtX1j0YeUYVOTcVEZKInzzkdryq~7Kz5gwpwz9La1gF5FQYDRuIepHux1sDvjLJ-HOCL53ffEm21xjFYcRqNqBeg0T9c-JUFkVDb9PPykovp6ZNe3Gv-RXgjEGW~QK9dyAjwIX7q90sxGKc41D0Q0h4vKgj7Ba~IHVtlfz2FIN9DFRKGMdlUr75JWkJ6m6bYq3QOP8rxSlTj-aclezuqlbueSzAFqcQEiQJc9uL3uXBr0tQQfQyfKMiMzcnAzygqMA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Puede que ajuda a comparar alternativas sem fechar a conclusão.",
+      "feedbackError": "Puede que ajuda a comparar alternativas sem fechar a conclusão.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Puede que la opción híbrida encaje mejor con tu experiencia.",
+      "typeSpecificData": "{\"expectedText\":\"Puede que la opci\\u00F3n h\\u00EDbrida encaje mejor con tu experiencia.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/359b6c483c0a426487d83b27ca647066_b06-puede-que-la-opcion-hibrida-encaje-mejor-con-tu-experiencia.mp3?Expires=1794099646\\u0026Signature=hzQ4HlOE4AOzN-EIBuDhd0ro7rs90FVjMGN9jaKehHqZFT-mCKS8xpf5QwEaMz14p08gvd3SYYqrHARzpTJ1MtX1j0YeUYVOTcVEZKInzzkdryq~7Kz5gwpwz9La1gF5FQYDRuIepHux1sDvjLJ-HOCL53ffEm21xjFYcRqNqBeg0T9c-JUFkVDb9PPykovp6ZNe3Gv-RXgjEGW~QK9dyAjwIX7q90sxGKc41D0Q0h4vKgj7Ba~IHVtlfz2FIN9DFRKGMdlUr75JWkJ6m6bYq3QOP8rxSlTj-aclezuqlbueSzAFqcQEiQJc9uL3uXBr0tQQfQyfKMiMzcnAzygqMA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f2e06ac2-7139-4d93-a3d0-c4c12b9852b4",
+      "title": "Escute e recupere as três frases",
+      "content": "<p>Associe cada gravação principal da aula ao texto correspondente em espanhol.</p>",
+      "contentPlain": "Associe cada gravação principal da aula ao texto correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Os três áudios da aula contrastam rejeitar com reserva, duvidar de forma direta e deixar uma alternativa em aberto.",
+      "feedbackError": "Os três áudios da aula contrastam rejeitar com reserva, duvidar de forma direta e deixar uma alternativa em aberto.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "f4d3dd67-1814-4cb7-84e0-708dc2eb5657",
+          "exerciseId": "f2e06ac2-7139-4d93-a3d0-c4c12b9852b4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/76e82a0b1d8142ba8e74ec468c18e9b1_b02-no-creo-que-te-convenga-aceptar-la-vacante-nocturna.mp3?Expires=1794099646&Signature=A-TeiCvaCHWG~4nU8FGTGrTXLuP5ODFa2Zg5hBQtsri4RGktXTU3-ByfP9qGQ75hiRW5AW-nmUUgxX4X7~eeEePmQiaP4sqlLYXAedSviTQTawmS61l1t65BchMPcleZbeNvmkQDWv5D2q4hb44tVIWbRKWLeXorTsMNjtC5XbCOHKmrICYwaC~vx0rUmlSTEFapHn~4f528Da7OvrRuIJ7aePYI1h5nkROKpEsJ2g~1C6q74pJHpTX9ZwJLo2dD7QDvtoYi-3Gy7WoWhYjfhw4GcQas~8~1GtXmoSqvMrUlyKctMykb3cO84hxC9FRqcswfiy73eS9hd-xQPYUZqg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No creo que te convenga aceptar la vacante nocturna.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "7e509c4b-1583-4ebd-ba60-72e8e3c77aa9",
+          "exerciseId": "f2e06ac2-7139-4d93-a3d0-c4c12b9852b4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f4f42a9350a7428696e151fbe587cf7a_b04-dudo-que-puedas-aprender-mucho-en-ese-puesto.mp3?Expires=1794099646&Signature=kmMUXQW8DdfsCNGELJ-N7UVaVwEnaykDm14W9qoykGi53eHZWChv4Ueq~lNI5V6gQDoqqMw6IGj-BaLJHG12utZEoq9nb1WVQWsKTUwmMvLRJsZaSZUemUXIKbnkFNFpa43FvgtNFRYm~ZuS3J6K5bmBsi~-oWiESI5Ig~aZxuR7HwVXYcIm9H4JfUQrqpNmW14CMGPwwunccCzDYBLKkjKU4qJOybJ08yZ51C2Y8ogyGx3B0BHqWKU7PeUYHAF4u4hl9OST4rllh7WvnOxmyn9vpK24oy2ETp3Y3sRpotkrINWyRyDpFdzWq1W3JD1p4J6m3WklPiIg9ARr8T6sOQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Dudo que puedas aprender mucho en ese puesto.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b3375ca9-9e95-4dcb-b9d6-c4c06e8bf2a5",
+          "exerciseId": "f2e06ac2-7139-4d93-a3d0-c4c12b9852b4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e445a9eaf6d24d02856fd8806539c5e6_b06-puede-que-la-opcion-hibrida-encaje-mejor-con-tu-experiencia.mp3?Expires=1794099646&Signature=DyHgiZQ1F3IMriWQloM79kwi8zVL1sq5oDSMqpB4uRkmj2vdRYL6FxFJC1uMOHhzSB3e2FZ~LpvBml17MjJ~I1ier-McIFuyJk1hmUMZ6NGTBAkkfT8YWG4RhfNG58twQJw9Aev9yLbxoeNmQuSR6l0JU-3Hmx4nTKxSxUlXz2qhKv7KcPY9rdkRHRW8l~6fEV3qWSPxqD2h1ypNVR2dZa1vMfFcWqodYU7YOfoCWNucPOQ6eHorNvPbXhY5-P1Y1Zqj2Ji3GHtZWRMIxXcAk6xzQcA-~2HRYx~E~tU~UYIqaAaCAR8Eziz4jzofdlsqBxrfHEr5TAjO9bYK46QTZA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Puede que la opción híbrida encaje mejor con tu experiencia.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153",
+      "title": "Marque as palavras que você ouviu",
+      "content": "<p>Escute a avaliação mais cética da aula e marque somente as palavras presentes na fala.</p>",
+      "contentPlain": "Escute a avaliação mais cética da aula e marque somente as palavras presentes na fala.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f4f42a9350a7428696e151fbe587cf7a_b04-dudo-que-puedas-aprender-mucho-en-ese-puesto.mp3?Expires=1794099646&Signature=kmMUXQW8DdfsCNGELJ-N7UVaVwEnaykDm14W9qoykGi53eHZWChv4Ueq~lNI5V6gQDoqqMw6IGj-BaLJHG12utZEoq9nb1WVQWsKTUwmMvLRJsZaSZUemUXIKbnkFNFpa43FvgtNFRYm~ZuS3J6K5bmBsi~-oWiESI5Ig~aZxuR7HwVXYcIm9H4JfUQrqpNmW14CMGPwwunccCzDYBLKkjKU4qJOybJ08yZ51C2Y8ogyGx3B0BHqWKU7PeUYHAF4u4hl9OST4rllh7WvnOxmyn9vpK24oy2ETp3Y3sRpotkrINWyRyDpFdzWq1W3JD1p4J6m3WklPiIg9ARr8T6sOQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Dudo que introduz a dúvida mais direta da aula e aparece com o verbo no subjuntivo.",
+      "feedbackError": "Dudo que introduz a dúvida mais direta da aula e aparece com o verbo no subjuntivo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1a889ddc-85b7-4431-90e4-6bd9a438b4f4",
+          "textContent": "puesto",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153"
+        },
+        {
+          "id": "44c049de-16c0-4ab9-b585-e0b522a87618",
+          "textContent": "puedas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153"
+        },
+        {
+          "id": "498461b2-2a61-46e5-9dfb-3a6933a12135",
+          "textContent": "opción",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153"
+        },
+        {
+          "id": "4cfdd2d4-15cd-43ff-864e-8ae4192bbb51",
+          "textContent": "Dudo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153"
+        },
+        {
+          "id": "786eae1e-fb9f-4587-946e-21392e0eef8b",
+          "textContent": "convenga",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153"
+        },
+        {
+          "id": "82da394b-f089-4dbc-b4eb-d6e3249c506a",
+          "textContent": "experiencia",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153"
+        },
+        {
+          "id": "b17c1524-5b9f-45cf-bf05-5b49cbb2cd35",
+          "textContent": "mucho",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153"
+        },
+        {
+          "id": "e7f44c16-c203-4d8b-9bfd-0daf2779a12a",
+          "textContent": "aprender",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4a1abea4-2dc9-4cc4-be69-03c7f3ae3153"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "13968089-de84-414e-a885-f39d362efe09",
+      "title": "Associe cada áudio ao verbo-chave",
+      "content": "<p>Relacione cada gravação principal da aula ao verbo no subjuntivo que ela traz.</p>",
+      "contentPlain": "Relacione cada gravação principal da aula ao verbo no subjuntivo que ela traz.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula contrasta convenga, puedas e encaje para marcar três graus de reserva ao comparar opções.",
+      "feedbackError": "A aula contrasta convenga, puedas e encaje para marcar três graus de reserva ao comparar opções.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "84a17ed0-23e7-4cfc-b524-4cb94a2383c3",
+          "exerciseId": "13968089-de84-414e-a885-f39d362efe09",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/76e82a0b1d8142ba8e74ec468c18e9b1_b02-no-creo-que-te-convenga-aceptar-la-vacante-nocturna.mp3?Expires=1794099646&Signature=A-TeiCvaCHWG~4nU8FGTGrTXLuP5ODFa2Zg5hBQtsri4RGktXTU3-ByfP9qGQ75hiRW5AW-nmUUgxX4X7~eeEePmQiaP4sqlLYXAedSviTQTawmS61l1t65BchMPcleZbeNvmkQDWv5D2q4hb44tVIWbRKWLeXorTsMNjtC5XbCOHKmrICYwaC~vx0rUmlSTEFapHn~4f528Da7OvrRuIJ7aePYI1h5nkROKpEsJ2g~1C6q74pJHpTX9ZwJLo2dD7QDvtoYi-3Gy7WoWhYjfhw4GcQas~8~1GtXmoSqvMrUlyKctMykb3cO84hxC9FRqcswfiy73eS9hd-xQPYUZqg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "convenga",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8919aec9-2c26-46b2-ae71-125003ce6529",
+          "exerciseId": "13968089-de84-414e-a885-f39d362efe09",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f4f42a9350a7428696e151fbe587cf7a_b04-dudo-que-puedas-aprender-mucho-en-ese-puesto.mp3?Expires=1794099646&Signature=kmMUXQW8DdfsCNGELJ-N7UVaVwEnaykDm14W9qoykGi53eHZWChv4Ueq~lNI5V6gQDoqqMw6IGj-BaLJHG12utZEoq9nb1WVQWsKTUwmMvLRJsZaSZUemUXIKbnkFNFpa43FvgtNFRYm~ZuS3J6K5bmBsi~-oWiESI5Ig~aZxuR7HwVXYcIm9H4JfUQrqpNmW14CMGPwwunccCzDYBLKkjKU4qJOybJ08yZ51C2Y8ogyGx3B0BHqWKU7PeUYHAF4u4hl9OST4rllh7WvnOxmyn9vpK24oy2ETp3Y3sRpotkrINWyRyDpFdzWq1W3JD1p4J6m3WklPiIg9ARr8T6sOQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "puedas",
+          "sequenceItem": 2
+        },
+        {
+          "id": "6b4a4d66-8fc7-4186-b54f-cbf593a5e97c",
+          "exerciseId": "13968089-de84-414e-a885-f39d362efe09",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e445a9eaf6d24d02856fd8806539c5e6_b06-puede-que-la-opcion-hibrida-encaje-mejor-con-tu-experiencia.mp3?Expires=1794099646&Signature=DyHgiZQ1F3IMriWQloM79kwi8zVL1sq5oDSMqpB4uRkmj2vdRYL6FxFJC1uMOHhzSB3e2FZ~LpvBml17MjJ~I1ier-McIFuyJk1hmUMZ6NGTBAkkfT8YWG4RhfNG58twQJw9Aev9yLbxoeNmQuSR6l0JU-3Hmx4nTKxSxUlXz2qhKv7KcPY9rdkRHRW8l~6fEV3qWSPxqD2h1ypNVR2dZa1vMfFcWqodYU7YOfoCWNucPOQ6eHorNvPbXhY5-P1Y1Zqj2Ji3GHtZWRMIxXcAk6xzQcA-~2HRYx~E~tU~UYIqaAaCAR8Eziz4jzofdlsqBxrfHEr5TAjO9bYK46QTZA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "encaje",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "8eceeab8-42bb-4577-8318-de173cf3d43a",
+      "title": "Recupere a opção que segue aberta",
+      "content": "<p>Escute a comparação mais aberta da aula e marque apenas as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a comparação mais aberta da aula e marque apenas as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e445a9eaf6d24d02856fd8806539c5e6_b06-puede-que-la-opcion-hibrida-encaje-mejor-con-tu-experiencia.mp3?Expires=1794099646&Signature=DyHgiZQ1F3IMriWQloM79kwi8zVL1sq5oDSMqpB4uRkmj2vdRYL6FxFJC1uMOHhzSB3e2FZ~LpvBml17MjJ~I1ier-McIFuyJk1hmUMZ6NGTBAkkfT8YWG4RhfNG58twQJw9Aev9yLbxoeNmQuSR6l0JU-3Hmx4nTKxSxUlXz2qhKv7KcPY9rdkRHRW8l~6fEV3qWSPxqD2h1ypNVR2dZa1vMfFcWqodYU7YOfoCWNucPOQ6eHorNvPbXhY5-P1Y1Zqj2Ji3GHtZWRMIxXcAk6xzQcA-~2HRYx~E~tU~UYIqaAaCAR8Eziz4jzofdlsqBxrfHEr5TAjO9bYK46QTZA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Puede que abre uma possibilidade e combina com um verbo no subjuntivo.",
+      "feedbackError": "Puede que abre uma possibilidade e combina com um verbo no subjuntivo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0cc6a9bc-a1c5-4356-a1bd-c2e19f345d8d",
+          "textContent": "convenga",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "8eceeab8-42bb-4577-8318-de173cf3d43a"
+        },
+        {
+          "id": "1ab83260-574c-48b2-bdbc-e5899f773533",
+          "textContent": "dudo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "8eceeab8-42bb-4577-8318-de173cf3d43a"
+        },
+        {
+          "id": "220507bc-17d5-4359-9fe5-b60488f51609",
+          "textContent": "mejor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8eceeab8-42bb-4577-8318-de173cf3d43a"
+        },
+        {
+          "id": "30a7f19a-8df2-4cbf-ac81-0f9b9bd38d3d",
+          "textContent": "encaje",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8eceeab8-42bb-4577-8318-de173cf3d43a"
+        },
+        {
+          "id": "36061cf1-9a27-4d21-b1cd-d700a1440da1",
+          "textContent": "híbrida",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8eceeab8-42bb-4577-8318-de173cf3d43a"
+        },
+        {
+          "id": "64ca2677-65b5-4b4f-ba77-b7cdab1e83de",
+          "textContent": "experiencia",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8eceeab8-42bb-4577-8318-de173cf3d43a"
+        },
+        {
+          "id": "b2041f39-86d1-438f-9a21-1334866e31bd",
+          "textContent": "Puede",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8eceeab8-42bb-4577-8318-de173cf3d43a"
+        },
+        {
+          "id": "c296dba9-1841-454f-9330-2afbe51e9d6a",
+          "textContent": "puesto",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "8eceeab8-42bb-4577-8318-de173cf3d43a"
+        },
+        {
+          "id": "d1482030-4d23-4c08-bc79-d7db7124b60a",
+          "textContent": "opción",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "8eceeab8-42bb-4577-8318-de173cf3d43a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7ce9a6ea-367a-4217-a7fc-c65d6c5795bb",
+      "title": "Complete a dúvida mais direta",
+      "content": "<p>Dudo que ______ aprender mucho en ese puesto.</p><p>Tradução: Duvido que você consiga aprender muito nesse cargo.</p>",
+      "contentPlain": "Dudo que ______ aprender mucho en ese puesto. Tradução: Duvido que você consiga aprender muito nesse cargo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de dudo que, a aula destaca puedas para uma dúvida mais direta.",
+      "feedbackError": "Depois de dudo que, a aula destaca puedas para uma dúvida mais direta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "puedas",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4eebd8c9-cc58-44dd-8776-7fe8d3e458e5",
+      "title": "Complete a reserva com no creo que",
+      "content": "<p>No creo que te ________ aceptar la vacante nocturna.</p><p>Tradução: Não acho que seja conveniente aceitar a vaga noturna.</p>",
+      "contentPlain": "No creo que te ________ aceptar la vacante nocturna. Tradução: Não acho que seja conveniente aceitar a vaga noturna.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de no creo que, a aula destaca convenga para marcar pouca confiança na opção.",
+      "feedbackError": "Depois de no creo que, a aula destaca convenga para marcar pouca confiança na opção.",
+      "answerType": "buildWord",
+      "expectedAnswer": "convenga",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "9dd7c401-b028-4207-810d-015e00ef93d5",
+      "title": "Complete a possibilidade em aberto",
+      "content": "<p>Puede que la opción híbrida ______ mejor con tu experiencia.</p><p>Tradução: Pode ser que a opção híbrida combine melhor com a sua experiência.</p>",
+      "contentPlain": "Puede que la opción híbrida ______ mejor con tu experiencia. Tradução: Pode ser que a opção híbrida combine melhor com a sua experiência.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de puede que, a aula destaca encaje para deixar uma possibilidade em aberto.",
+      "feedbackError": "Depois de puede que, a aula destaca encaje para deixar uma possibilidade em aberto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "encaje",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "d3fe2e69-274d-4eda-8045-c6253e1cecdd",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Comparar opcoes com mais reserva"
+}

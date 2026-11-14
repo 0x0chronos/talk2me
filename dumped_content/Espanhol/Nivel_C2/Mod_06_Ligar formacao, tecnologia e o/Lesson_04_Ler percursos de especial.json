@@ -1,0 +1,640 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+    "attemptId": "87f9a94f-7d92-4d44-91ef-5b2c047ccf8c",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "f4b906cf-3625-40aa-985c-d077581b42ae",
+      "5fc4969d-2789-4b14-9251-3dcab116e465",
+      "6fe53639-f533-4b9d-8cdb-ee886ae50238",
+      "7126134e-9044-4dd1-b0b1-4c2edb593259",
+      "b1493b76-b1ea-4a4b-9bbe-8270efb309e1"
+    ],
+    "evaluationExerciseIds": [
+      "db0806d0-1cb2-4649-9d58-b340bb6ac993",
+      "f5e46943-a8b0-449d-8b81-e5c2dbb60c91",
+      "1d31c8d5-b198-4aaa-8600-a47e1912b397",
+      "479c5239-21e3-4a52-a93e-8eee16611ce3",
+      "9c6a7ad2-580f-4698-afc1-fcd883de03fd"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:29.0840778Z"
+  },
+  "contents": [
+    {
+      "id": "5d5553b7-93da-4950-a969-bf50f9af79a9",
+      "title": "Leia o mapa inicial e guarde as quatro perguntas que vao orientar os microtextos.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "2526a003-8264-4ca0-a3f9-6f3812db3a3c",
+          "textContent": "<p>Nesta aula, o foco não é decidir se um curso parece interessante só pelo título. O foco é ler <strong>que tipo de percurso</strong> a descrição está construindo.</p><ul><li><strong>para quem</strong> a rota parece pensada</li><li><strong>como</strong> ela se cursa</li><li><strong>que condições de acesso</strong> ela exige</li><li><strong>que avanço profissional</strong> ela promete</li></ul><p>Ao longo dos microtextos, repare se a rota abre uma entrada guiada, uma formação aplicada ou um percurso avançado que já pressupõe experiência.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "884150c3-4b0b-4e9e-8f93-232975b28555",
+      "title": "Leia o microtexto em espanhol e acompanhe a tradução. Foque em quem pode entrar e no tipo de acompanhamento.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "98c95126-2daf-443a-9c89-9495b6046163",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>El trayecto tecnico en soporte digital para pequenos negocios se dirige a personas con manejo basico de ofimatica. Puede seguirse por la tarde o a distancia y ofrece una asesoria semanal para acompanar las primeras practicas.</strong></p><p>Em português: <strong>O percurso técnico em suporte digital para pequenos negócios se dirige a pessoas com manejo básico de ferramentas de escritório. Ele pode ser feito a tarde ou a distância e oferece uma assessoria semanal para acompanhar as primeiras práticas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4fa13adb-fd3b-4d3c-b42a-0b83ae81e494",
+      "title": "Leia a nota e observe como o texto limita o ponto de partida esperado para o candidato.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "d89e5f87-af6b-4e13-8e05-57d2f97590c1",
+          "textContent": "<p>As pistas principais aqui são <strong>manejo basico de ofimatica</strong> e <strong>acompanar las primeras practicas</strong>.</p><p>Elas mostram que a rota não espera dominio técnico previo. O texto prepara uma <strong>entrada acompanhada</strong>, com base inicial suficiente para comecar sem partir do zero absoluto.</p><p>Quando a descrição fala em base básica, horário acessível e apoio frequente, a leitura tende a ser de <strong>porta de entrada</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "297ee7d2-5ec9-4cbe-a2b6-0210c2b741fc",
+      "title": "Leia o microtexto em espanhol e acompanhe a tradução. Foque em como o curso funciona e no que ele exige para acompanhar a parte técnica.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "5414f6c2-9c26-425c-8b8b-5210aa156f29",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>El diploma semipresencial en automatización de procesos combina talleres presenciales de fin de semana con laboratorios remotos. Para seguir el modulo virtual, el centro pide equipo propio y una conexion estable para trabajar con simuladores.</strong></p><p>Em português: <strong>O diploma semipresencial em automatização de processos combina oficinas presenciais de fim de semana com laboratórios remotos. Para acompanhar o módulo virtual, o centro pede equipamento próprio e uma conexão estável para trabalhar com simuladores.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1679f45b-bdda-4539-9d23-e81181cbd404",
+      "title": "Leia a nota e observe como o texto transforma formato de aula em critério real de acesso.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "4d5bf65e-56c1-4de7-8d57-08689cf1ca64",
+          "textContent": "<p>Aqui, a leitura depende menos do tema e mais da combinacao de <strong>talleres presenciales</strong>, <strong>laboratorios remotos</strong>, <strong>equipo propio</strong> e <strong>conexion estable</strong>.</p><p>Essas marcas mostram uma rota que tenta caber na rotina de quem não estuda em tempo integral, mas que ainda cobra infraestrutura concreta para acompanhar a parte técnica.</p><p>Em descricoes desse tipo, a modalidade não é detalhe: ela define o ritmo do curso e o tipo de acesso que o aluno precisa ter.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0b7503ef-79c7-4f3d-b995-869583195017",
+      "title": "Leia o microtexto em espanhol e acompanhe a tradução. Foque em quem já pode entrar e no tipo de avanço que aparece no final.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "a5417f14-9c4d-4f4e-8518-6ad0c00004d5",
+          "textContent": "<p>Leia o microtexto.</p><p><strong>La especialización en analitica aplicada a la salud pública está pensada para tecnicos que ya trabajan con bases de datos. El programa incluye un proyecto final con tableros de seguimiento y prepara para coordinar procesos de monitoreo.</strong></p><p>Em português: <strong>A especialização em analítica aplicada a saúde pública foi pensada para técnicos que já trabalham com bases de dados. O programa inclui um projeto final com painéis de acompanhamento e prepara para coordenar processos de monitoramento.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8af2a94e-eb3e-49f9-80c9-be3ad799a984",
+      "title": "Leia a nota e observe por que esta descrição já não soa como rota de entrada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "d070cdc1-48bb-47a9-99a9-757b2f1da9d9",
+          "textContent": "<p>As pistas decisivas são <strong>tecnicos que ya trabajan con bases de datos</strong>, <strong>proyecto final</strong> e <strong>coordinar procesos de monitoreo</strong>.</p><p>O texto não vende uma iniciação. Ele pressupõe experiência prévia, pede aprofundamento aplicado e projeta um passo profissional com mais responsabilidade.</p><p>Quando a descrição fala em público já experiente e em coordenar processos, a leitura tende a ser de <strong>especialização avançada</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ac164fd1-98e0-406b-a704-4b26160a5315",
+      "title": "Leia o quadro e observe como cada descrição reorganiza a leitura do mesmo campo formativo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "cc19e268-053b-4893-b7ab-ba26e4eeaaa6",
+          "textContent": "<p>As três descricoes não fazem o mesmo trabalho.</p><ul><li><strong>soporte digital para pequenos negocios</strong>: abre uma entrada guiada para quem tem base digital simples e precisa de acompanhamento proximo.</li><li><strong>automatización de procesos</strong>: combina presenca e remoto, exigindo equipamento e conexão para acompanhar a parte prática.</li><li><strong>analitica aplicada a la salud publica</strong>: parte de experiência previa e projeta um passo de maior especialização e coordenacao.</li></ul><p>Em leitura, isso ajuda a separar <strong>nivel de entrada</strong>, <strong>modalidade</strong> e <strong>alcance profissional</strong> sem depender do título do curso.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b3ab690a-c5d6-42b8-80c7-d94c699991d3",
+      "title": "Leia as três pistas e observe que prometer um percurso profissional não significa o mesmo em todos os casos.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "6b712d22-1c85-4d3b-ae48-d73bb8e50e21",
+          "textContent": "<p>A promessa profissional muda bastante de uma descrição para outra.</p><ul><li><strong>acompanar las primeras practicas</strong> sugere insercao guiada e consolidação inicial.</li><li><strong>trabajar con simuladores</strong> aponta para treino técnico controlado antes da aplicacao plena.</li><li><strong>coordinar procesos de monitoreo</strong> já projeta ampliacao de papel e mais responsabilidade.</li></ul><p>Por isso, ler bem uma descrição de curso também é medir <strong>que tipo de avanço</strong> ela promete, e não apenas em que área ela se inscreve.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9b9deffa-c1f3-4ee1-b48d-c6d612d95d0f",
+      "title": "Leia o fechamento e leve essa lente para descricoes de curso, editais de capacitação e escolhas reais de especialização.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "ef56ce12-1c19-40cc-99a0-941ebddbb5ea",
+          "textContent": "<p>Leia o resumo final.</p><p><strong>Cuando lees la descripción de un curso, conviene separar a quien va dirigido, como se cursa, que condiciones de acceso impone y que avance profesional promete. Esa lectura sirve para comparar becas, programas de empresa y especializaciones sin dejarse llevar solo por el titulo.</strong></p><p>Em português: <strong>Quando você lê a descrição de um curso, convém separar para quem ele é pensado, como ele se cursa, que condições de acesso ele impõe e que avanço profissional promete. Essa leitura ajuda a comparar bolsas, programas de empresa e especializacoes sem se deixar levar só pelo título.</strong></p><p>Essa lente reaparece em páginas de curso, editais de capacitação, atualização interna da empresa e escolhas reais de estudo feitas com pouco tempo e muita informação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "f4b906cf-3625-40aa-985c-d077581b42ae",
+      "title": "Encontre o sinal de entrada",
+      "content": "<p>Qual pista em espanhol mostra que o percurso espera uma base inicial, e não experiência técnica avancada?</p>",
+      "contentPlain": "Qual pista em espanhol mostra que o percurso espera uma base inicial, e não experiência técnica avancada?",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula usa essas pistas para separar entrada guiada de especialização avancada.",
+      "feedbackError": "A aula usa essas pistas para separar entrada guiada de especialização avancada.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "199a27fc-0f3d-47c3-af9f-e60632a1b5d2",
+          "textContent": "tecnicos que ya trabajan con bases de datos",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f4b906cf-3625-40aa-985c-d077581b42ae"
+        },
+        {
+          "id": "a7d072f8-a7ce-4f67-8bfa-ccf9c5583c72",
+          "textContent": "coordinar procesos de monitoreo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f4b906cf-3625-40aa-985c-d077581b42ae"
+        },
+        {
+          "id": "ab08aec4-781b-4b3d-a831-929986b01480",
+          "textContent": "manejo basico de ofimatica",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f4b906cf-3625-40aa-985c-d077581b42ae"
+        },
+        {
+          "id": "fd4de916-5153-4241-919c-498d423f113b",
+          "textContent": "proyecto final",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f4b906cf-3625-40aa-985c-d077581b42ae"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5fc4969d-2789-4b14-9251-3dcab116e465",
+      "title": "Monte a condição técnica",
+      "content": "<p>El centro pide una conexion _______ para trabajar con simuladores.</p><p>Tradução: O centro pede uma conexão estável para trabalhar com simuladores.</p>",
+      "contentPlain": "El centro pide una conexion _______ para trabajar con simuladores. Tradução: O centro pede uma conexão estável para trabalhar com simuladores.",
+      "fileUrl": null,
+      "feedbackSuccess": "A descrição do diploma torna visível que a infraestrutura exigida também organiza o acesso.",
+      "feedbackError": "A descrição do diploma torna visível que a infraestrutura exigida também organiza o acesso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estable",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "6fe53639-f533-4b9d-8cdb-ee886ae50238",
+      "title": "Identifique a exigencia de acesso",
+      "content": "<p>Qual trecho em espanhol mostra uma condição técnica concreta para acompanhar a parte virtual do diploma?</p>",
+      "contentPlain": "Qual trecho em espanhol mostra uma condição técnica concreta para acompanhar a parte virtual do diploma?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, modalidade e infraestrutura também funcionam como critério real de acesso.",
+      "feedbackError": "Nesta aula, modalidade e infraestrutura também funcionam como critério real de acesso.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "38b6dccc-1805-4b68-aa9c-b9b618d2709d",
+          "textContent": "una conexion estable para trabajar con simuladores",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "6fe53639-f533-4b9d-8cdb-ee886ae50238"
+        },
+        {
+          "id": "85c678a6-0a92-4300-9f39-c2558fc53bd4",
+          "textContent": "personas con manejo basico de ofimatica",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6fe53639-f533-4b9d-8cdb-ee886ae50238"
+        },
+        {
+          "id": "c197eaf8-1617-4bbf-8ac4-32be83a93b63",
+          "textContent": "una asesoria semanal para acompanar las primeras practicas",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6fe53639-f533-4b9d-8cdb-ee886ae50238"
+        },
+        {
+          "id": "f56b053e-c93b-4aa9-bcac-6f0b34ecc445",
+          "textContent": "un proyecto final con tableros de seguimiento",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "6fe53639-f533-4b9d-8cdb-ee886ae50238"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7126134e-9044-4dd1-b0b1-4c2edb593259",
+      "title": "Ligue percurso e perfil",
+      "content": "<p>Recupere o contraste central da aula ligando cada rota em espanhol a leitura geral que ela pede.</p>",
+      "contentPlain": "Recupere o contraste central da aula ligando cada rota em espanhol a leitura geral que ela pede.",
+      "fileUrl": null,
+      "feedbackSuccess": "O mapa da aula separa os três percursos por entrada, modalidade e alcance profissional.",
+      "feedbackError": "O mapa da aula separa os três percursos por entrada, modalidade e alcance profissional.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "20d0cdb8-e937-4298-9eeb-f68e1963b15a",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7126134e-9044-4dd1-b0b1-4c2edb593259"
+        },
+        {
+          "id": "78dfa67d-b112-44dd-bfe2-1cd3be51626d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7126134e-9044-4dd1-b0b1-4c2edb593259"
+        }
+      ],
+      "associations": [
+        {
+          "id": "b0e3f57c-945e-41d6-8cef-d591b0636d22",
+          "exerciseId": "7126134e-9044-4dd1-b0b1-4c2edb593259",
+          "leftContent": "soporte digital para pequenos negocios",
+          "rightContent": "entrada guiada com base inicial e apoio proximo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a39cfafe-1d16-4dec-99bb-fcbd48111c27",
+          "exerciseId": "7126134e-9044-4dd1-b0b1-4c2edb593259",
+          "leftContent": "automatizacion de procesos",
+          "rightContent": "rota aplicada com modalidade mista e exigencia de infraestrutura",
+          "sequenceItem": 2
+        },
+        {
+          "id": "28216cd9-fdbd-4936-a828-4918fdd01417",
+          "exerciseId": "7126134e-9044-4dd1-b0b1-4c2edb593259",
+          "leftContent": "analitica aplicada a la salud publica",
+          "rightContent": "especialização avançada com experiência prévia",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "b1493b76-b1ea-4a4b-9bbe-8270efb309e1",
+      "title": "Ligue pista e promessa",
+      "content": "<p>Relacione cada pista em espanhol ao alcance profissional que ela ajuda a ler em português.</p>",
+      "contentPlain": "Relacione cada pista em espanhol ao alcance profissional que ela ajuda a ler em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula mostra que a promessa profissional muda de intensidade de uma descrição para outra.",
+      "feedbackError": "A aula mostra que a promessa profissional muda de intensidade de uma descrição para outra.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "14cbbce0-c4b3-47c8-8d8e-5c07eb5604b0",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b1493b76-b1ea-4a4b-9bbe-8270efb309e1"
+        },
+        {
+          "id": "d33d8c25-43fd-4571-a4a7-159055214823",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b1493b76-b1ea-4a4b-9bbe-8270efb309e1"
+        }
+      ],
+      "associations": [
+        {
+          "id": "92b75011-29e8-43f2-b25d-72b16b2bb215",
+          "exerciseId": "b1493b76-b1ea-4a4b-9bbe-8270efb309e1",
+          "leftContent": "acompanar las primeras practicas",
+          "rightContent": "insercao guiada e consolidacao inicial",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ea58623f-ec80-44a7-aa7b-f9f949b501f4",
+          "exerciseId": "b1493b76-b1ea-4a4b-9bbe-8270efb309e1",
+          "leftContent": "trabajar con simuladores",
+          "rightContent": "treino tecnico controlado antes da aplicação plena",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8b96513e-51fd-426d-b717-e7078916aebf",
+          "exerciseId": "b1493b76-b1ea-4a4b-9bbe-8270efb309e1",
+          "leftContent": "coordinar procesos de monitoreo",
+          "rightContent": "ampliacao de papel com mais responsabilidade",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "db0806d0-1cb2-4649-9d58-b340bb6ac993",
+      "title": "Recupere o retrato completo",
+      "content": "<p>Ligue cada rota em espanhol ao resumo mais preciso em português. O foco está na combinacao de entrada, formato e projecao.</p>",
+      "contentPlain": "Ligue cada rota em espanhol ao resumo mais preciso em português. O foco está na combinacao de entrada, formato e projecao.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste final da aula combina perfil de entrada, formato e alcance profissional.",
+      "feedbackError": "O contraste final da aula combina perfil de entrada, formato e alcance profissional.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "227be574-f18a-43c6-8d79-563ff95115d7",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "db0806d0-1cb2-4649-9d58-b340bb6ac993"
+        },
+        {
+          "id": "73e67c2a-1bee-4ed5-82d0-3c27cce61224",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "db0806d0-1cb2-4649-9d58-b340bb6ac993"
+        }
+      ],
+      "associations": [
+        {
+          "id": "0eba776c-dc9c-4666-9301-dc91b27c8755",
+          "exerciseId": "db0806d0-1cb2-4649-9d58-b340bb6ac993",
+          "leftContent": "trayecto tecnico en soporte digital para pequenos negocios",
+          "rightContent": "entrada guiada com horário flexível e apoio semanal",
+          "sequenceItem": 1
+        },
+        {
+          "id": "99ff1059-c464-4693-9b6c-6bc85278f07d",
+          "exerciseId": "db0806d0-1cb2-4649-9d58-b340bb6ac993",
+          "leftContent": "diploma semipresencial en automatizacion de procesos",
+          "rightContent": "modalidade mista com laboratórios remotos e infraestrutura própria",
+          "sequenceItem": 2
+        },
+        {
+          "id": "085fe11d-0772-4136-88fe-57de2cca64af",
+          "exerciseId": "db0806d0-1cb2-4649-9d58-b340bb6ac993",
+          "leftContent": "especializacion en analitica aplicada a la salud publica",
+          "rightContent": "aprofundamento para tecnicos experientes com projeto final",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "f5e46943-a8b0-449d-8b81-e5c2dbb60c91",
+      "title": "Recupere o apoio prometido",
+      "content": "<p>Ofrece una ________ semanal para acompanar las primeras practicas.</p><p>Tradução: Oferece uma assessoria semanal para acompanhar as primeiras práticas.</p>",
+      "contentPlain": "Ofrece una ________ semanal para acompanar las primeras practicas. Tradução: Oferece uma assessoria semanal para acompanhar as primeiras práticas.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na rota inicial, o apoio semanal ajuda a marcar uma entrada acompanhada.",
+      "feedbackError": "Na rota inicial, o apoio semanal ajuda a marcar uma entrada acompanhada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "asesoria",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1d31c8d5-b198-4aaa-8600-a47e1912b397",
+      "title": "Recupere a modalidade tecnica",
+      "content": "<p>Combina talleres presenciales de fin de semana con laboratorios _______.</p><p>Tradução: Combina oficinas presenciais de fim de semana com laboratorios remotos.</p>",
+      "contentPlain": "Combina talleres presenciales de fin de semana con laboratorios _______. Tradução: Combina oficinas presenciais de fim de semana com laboratorios remotos.",
+      "fileUrl": null,
+      "feedbackSuccess": "A rota de automatizacion usa a modalidade mista para definir ritmo e acesso.",
+      "feedbackError": "A rota de automatizacion usa a modalidade mista para definir ritmo e acesso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "remotos",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "479c5239-21e3-4a52-a93e-8eee16611ce3",
+      "title": "Aplique a lente final",
+      "content": "<p>Use a lente de fechamento da aula e ligue cada pista em espanhol a pergunta de leitura mais adequada.</p>",
+      "contentPlain": "Use a lente de fechamento da aula e ligue cada pista em espanhol a pergunta de leitura mais adequada.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final organiza a leitura por quem entra, como se cursa, acesso e avanço profissional.",
+      "feedbackError": "O recap final organiza a leitura por quem entra, como se cursa, acesso e avanço profissional.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7857b8f0-7471-4d16-b27f-768175d0cf8c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "479c5239-21e3-4a52-a93e-8eee16611ce3"
+        },
+        {
+          "id": "e1a58cd0-63ff-4dff-97f8-11490b37d38d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "479c5239-21e3-4a52-a93e-8eee16611ce3"
+        }
+      ],
+      "associations": [
+        {
+          "id": "0b178465-7eeb-405a-8652-c8449224ee49",
+          "exerciseId": "479c5239-21e3-4a52-a93e-8eee16611ce3",
+          "leftContent": "se dirige a personas con manejo basico de ofimatica",
+          "rightContent": "para quem a rota foi pensada",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ed61335d-657c-4cb8-b709-30dc98469b81",
+          "exerciseId": "479c5239-21e3-4a52-a93e-8eee16611ce3",
+          "leftContent": "puede seguirse por la tarde o a distancia",
+          "rightContent": "como o curso se organiza",
+          "sequenceItem": 2
+        },
+        {
+          "id": "800a4aa8-3ba1-4a56-8bf1-95beff6a7447",
+          "exerciseId": "479c5239-21e3-4a52-a93e-8eee16611ce3",
+          "leftContent": "pide equipo propio y una conexion estable",
+          "rightContent": "que condições de acesso ela impõe",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d3174971-df32-4667-aebc-360535ef6fcf",
+          "exerciseId": "479c5239-21e3-4a52-a93e-8eee16611ce3",
+          "leftContent": "prepara para coordinar procesos de monitoreo",
+          "rightContent": "que avanço profissional ela promete",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "9c6a7ad2-580f-4698-afc1-fcd883de03fd",
+      "title": "Recupere a projecao profissional",
+      "content": "<p>Prepara para _________ procesos de monitoreo.</p><p>Tradução: Prepara para coordenar processos de monitoramento.</p>",
+      "contentPlain": "Prepara para _________ procesos de monitoreo. Tradução: Prepara para coordenar processos de monitoramento.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na especialização, a projecao profissional já aponta para mais responsabilidade.",
+      "feedbackError": "Na especialização, a projecao profissional já aponta para mais responsabilidade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "coordinar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "f0a91afb-2e41-40ae-9a8a-5611fff5c024",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Ler percursos de especializacao em descricoes de curso"
+}

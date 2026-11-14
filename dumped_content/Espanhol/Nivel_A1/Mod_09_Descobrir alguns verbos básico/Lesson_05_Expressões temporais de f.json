@@ -1,0 +1,654 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+    "attemptId": "e215aabf-e14f-4e93-ae10-41c13535ba0f",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "44ab3320-6100-4c96-9839-eccd69bde4da",
+      "467f7687-bbc3-481e-83cb-fe8ad8466099",
+      "a06ea0e2-0849-42ee-8ee9-59f881fb2304",
+      "fcc853c1-427b-4c62-9bdf-cc90ec6d3945",
+      "06240a17-a02a-4c0d-a1af-227bd34fc91e"
+    ],
+    "evaluationExerciseIds": [
+      "221cdf57-3838-471b-9e0e-a695dad97777",
+      "84bc49f5-950b-4511-a6dc-068573eac740",
+      "10ebb884-6d14-4829-a39c-cc538c70e737",
+      "66c902a3-1d40-4458-9d46-9d5c67138b59",
+      "5e56c1f2-b025-4bdc-aee1-6d4ef41b5e95"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:26.959307Z"
+  },
+  "contents": [
+    {
+      "id": "6b9dabd2-5748-4708-b7dc-fbd885cf47a1",
+      "title": "Leia a frase e observe como a expressão mostra uma ação repetida diariamente.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "cbae292f-2ae0-4307-889f-801510725b10",
+          "textContent": "<p>Observe a expressão.</p><p><strong>Todos los días desayuno con fruta.</strong></p><p>Em português: Todos os dias tomo café da manhã com fruta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0b8e645b5ec64988865df00ecacdc976_todos-los-dias-desayuno-con-fruta.mp3?Expires=1794099447&Signature=ocw2Xbdoe3tBDXnsuEgHyIWfBGD4bGacaS9f4udhZaFxFWzh8XLAurmHbUjNyKaWE9bOaZHjG7GIAOX7jIi96OPHu49V926UxTP977YtuSkQ2Zya0Fmq6JsbcHtdEKuvFw3DADHXRNM3XnnW5oq3AMaV9Kk~nSOTDUCeJzlv6supqVeWxPBw6JyzUO3FhXcFY8hhBoN7A25FMyjSu5WQz7tj21T4euaXBYt794sDmDuEG2iuiqf3Ldx2Oh5ey-VVNoBsW89NH6QNiwmbcowxnaQUBNYuEIPfIzmIHzyTsjgvnam0Txk5Xi0Ern4lMj9eMbbLL7Qz3UIEw4WXA0aTng__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "69152f24-3c67-4a30-a2cb-7f7c29678477",
+      "title": "Leia a frase e note que a ação acontece algumas vezes, não sempre.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "0ef8ba38-2528-45c5-8294-dadf22e9668e",
+          "textContent": "<p>Observe outra expressão.</p><p><strong>A veces camino al trabajo.</strong></p><p>Em português: Às vezes vou ao trabalho a pé.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/528ff1455e734669aaf6b1efa33e8edf_a-veces-camino-al-trabajo.mp3?Expires=1794099447&Signature=hMMt38WQ9kb18xO-Rt2sWJqxQ1r5EjYsZUDecqtenlosDFNoamqkp0QKbrLymm0YJ20fz1D81fHb1ZzwMJPFgWvoGtOLx6Zb8vqdNAT2n1PUdf92Iu3kYOekNyMmIKuwh8e0BcNTPBXnHkHUB~bqqWIitdRw6cyLBb7XVgIkeFN8BmkaXECVYltAPiBTUzjLoGyrwb88lG~OkQ0jvnsgFs5Bo9Q8rF-0Ld8-h1v6lfILN7kN2LWjFEWXGxsSBLPfmS61vlQmJCrf1BWwhE-AtLBtIqQ--UeJPzQSAZ6d1kuGr0KY93r0UH91FuYUgb3OroPFk3HcQzLHGkdcluAF1g__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a99f208f-215b-4335-8b43-1d5d54a9576d",
+      "title": "Leia a frase e perceba que a ação acontece com frequência, sem ser uma regra de todos os dias.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "4b0c0f35-f06d-4be8-b7ae-68aec48b1c56",
+          "textContent": "<p>Observe mais uma expressão.</p><p><strong>A menudo estudio en la biblioteca.</strong></p><p>Em português: Frequentemente estudo na biblioteca.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7b800f15cd754a349bd3cd170bbab041_a-menudo-estudio-en-la-biblioteca.mp3?Expires=1794099447&Signature=gEJJtcVFz-utEqYusGr0b6msj7vrdft-9FI3ZcCAJyFKJt7Xq4aYUmlgtnh9ionwjiLkp8xjFYgRN4cxE4i1LBeLISn-FQpxTznILta5Nv-yzibVtJgUCJDgsN7UeU8-O2dQYXLxrlLom4tFfJnkkonKGBSY9-SDbbJSLVSnvp4Tx~Q7JuclbqvhdTFFKmSLHvBBBNVVF2DghmZAp~-zJrXojKUhDVvDJZ8~P2lAyQUQPX0AEV3k6Wg6-XJP60wOCLmeh24~QW8cxMcOyqJq1fDe~eYG3zOZpZ6rfcjJQjG6U9G9KDi45egf4MKlHN3V3X~kPhVukO51y7F8N3ew4A__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5f1b5b8b-6f74-45a4-9102-86873546241e",
+      "title": "Leia a frase e observe que a ação quase não acontece.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "2337c198-0a41-4b6f-a061-b99d2b4c5d3e",
+          "textContent": "<p>Observe a mudança de sentido.</p><p><strong>Casi nunca ceno tarde.</strong></p><p>Em português: Quase nunca janto tarde.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1399dd49abc04d2eb9fe3159149ae31e_casi-nunca-ceno-tarde.mp3?Expires=1794099447&Signature=ZCwXc~C2jNPMM0eDuUlGat5-oPxRXTIfUjQMgW-vw4qzvIkaXb9SfOl4G3vgS5Y8tLVXfwdlL6LdgIaur3h24uEcbi5dgXrYWjpHJOZmUYOVtqrlQvbYPOH1liVQCFaB0RrzH-BcHMsK~PtOZkR1m~YUw8aH-zV~Au2jrRdFndcHIj1820mRPCU9emTodQMjuZXhkFX8CBfvyzh91kr~FAVFM58zsp-776-NeIMRZxNBQI9sCaRibqegvcf6f2qTXn4l1AYhz9-2EcACDTZwOo0W-QgUscNOTl2bSmf4lI7uUgDdR92QrifbbzU3tfq~23lOjWydb81IuOj1LgPaOA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1ba18b5c-17ef-431b-be49-f57c1de10de1",
+      "title": "Leia a frase e observe a ideia de frequência zero.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "4e2c5550-7912-42ac-850e-e278db69047e",
+          "textContent": "<p>Observe a expressão mais forte.</p><p><strong>Nunca trabajo los domingos.</strong></p><p>Em português: Nunca trabalho aos domingos.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b73bd2ed01da4df6b42341c376591961_nunca-trabajo-los-domingos.mp3?Expires=1794099447&Signature=ohL3ex9k8yNwqb3nag1YOmGtvb3tiGljfqqKARrQSDAOv~9M6AiX81WqLisWrur2ppOH3f6IGTbY0JFk8wKTkGn2RmQH3ucwL7bXhODXrrQBIkpySal6wV6KoVxSahs0HDhtLxoDQfFCumbKsEu4Q8oWrU-tIr0KJQMDa~iiDsTpCxdsnKVedse-v~USefWJUeLy4peUZ3lCBG3h4yXRwq3~4m1i1phvCsh9KeuU3FyInZi-ZqIpz8D0OFa7GrrxCTa6NhdlK7Mru8TncUqo7VWVtV0VvC3t-gjCOYs7h0evtAA8KbqmqW73DaSR3rWuFG6byUaXgna1rdR22Z9P1w__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "de219cfd-64ba-441a-99da-675b306843d1",
+      "title": "Compare as duas frases e repare na posição da expressão.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "e3141099-a120-4c04-a6af-eea5be1a08f7",
+          "textContent": "<p>Compare as duas formas.</p><p><strong>A menudo estudio en casa.</strong></p><p><strong>Estudio en casa a menudo.</strong></p><p>As duas frases passam a mesma ideia: a ação acontece com frequência.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "28814ba2-ea87-4ab6-ada7-5304b20ec937",
+      "title": "Observe os pares de frases e note o papel de no quando a expressão vai para o final.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "0a7f6429-f297-4065-9db5-af73a0094ad5",
+          "textContent": "<p>Veja o contraste.</p><p><strong>Nunca llego tarde.</strong></p><p><strong>No llego tarde nunca.</strong></p><p><strong>Casi nunca cocino de noche.</strong></p><p><strong>No cocino de noche casi nunca.</strong></p><p>Quando essas expressões ficam depois do verbo, o <strong>no</strong> ajuda a manter a frase natural.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "082588f5-cc4d-4d2e-ae11-34154320e89a",
+      "title": "Leia o resumo final e ligue cada expressão a uma rotina possível.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "578bb930-155b-4e65-a1c4-48c7441f7625",
+          "textContent": "<p>Em uma conversa sobre hábitos, essas expressões ajudam a mostrar quanto uma ação se repete.</p><ul><li><strong>Todos los días desayuno en casa.</strong></li><li><strong>A menudo estudio con música.</strong></li><li><strong>A veces ceno con amigos.</strong></li><li><strong>Casi nunca llego tarde.</strong></li></ul><p>Se algo não acontece, você pode usar <strong>nunca</strong>: <strong>Nunca trabajo los domingos.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "748b44bf-c671-4f63-a90e-daee167b6168",
+      "title": "Acompanhe a explicação",
+      "description": null,
+      "contentType": 2,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "b6e5b3d4-71e2-49f3-8960-b9198e2402bf",
+          "textContent": null,
+          "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dab2bbbfc4a8484d99d18e80e956f5bb_MEC-IDIOMAS_CAP_09_-_AULA_05-ESP.mp4?Expires=1794099447&Signature=HpOVI-cwlZkew2DIY-haRBBV4146NeuqAAcJ1ry5~OQwbLzs4v1A2PVQfHUtGdrp2P-Jnt3kFOiRv8CJVs~s8TWL-M28CXA5TwJm~9qPOJdnICBI6Xi5GdeCLiByXEILs3-~tgBDd6VjRCT7ucGDv~JEiqpeCsDVzziE9suRnOvH9EQRhPxNv~81Pcc9RjAnaM-WqWTm0nbQ08JYvy4W~3nVmptilb5m52uKxD~ZjeAluoFuSkumtiZ2TE91pQJVsUq7u1nLJyEoAI3cQLWLTnQGeBnGJ79Kf9hylfPzeX~SVB7qjcuEJmRTXrfj4eTjr6-AlVVlaXO7~wYP-yCwcg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "videoUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/dab2bbbfc4a8484d99d18e80e956f5bb_MEC-IDIOMAS_CAP_09_-_AULA_05-ESP.mp4?Expires=1794099447&Signature=HpOVI-cwlZkew2DIY-haRBBV4146NeuqAAcJ1ry5~OQwbLzs4v1A2PVQfHUtGdrp2P-Jnt3kFOiRv8CJVs~s8TWL-M28CXA5TwJm~9qPOJdnICBI6Xi5GdeCLiByXEILs3-~tgBDd6VjRCT7ucGDv~JEiqpeCsDVzziE9suRnOvH9EQRhPxNv~81Pcc9RjAnaM-WqWTm0nbQ08JYvy4W~3nVmptilb5m52uKxD~ZjeAluoFuSkumtiZ2TE91pQJVsUq7u1nLJyEoAI3cQLWLTnQGeBnGJ79Kf9hylfPzeX~SVB7qjcuEJmRTXrfj4eTjr6-AlVVlaXO7~wYP-yCwcg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "44ab3320-6100-4c96-9839-eccd69bde4da",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a frase da aula e marque apenas as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Escute a frase da aula e marque apenas as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/7b800f15cd754a349bd3cd170bbab041_a-menudo-estudio-en-la-biblioteca.mp3?Expires=1794099447&Signature=gEJJtcVFz-utEqYusGr0b6msj7vrdft-9FI3ZcCAJyFKJt7Xq4aYUmlgtnh9ionwjiLkp8xjFYgRN4cxE4i1LBeLISn-FQpxTznILta5Nv-yzibVtJgUCJDgsN7UeU8-O2dQYXLxrlLom4tFfJnkkonKGBSY9-SDbbJSLVSnvp4Tx~Q7JuclbqvhdTFFKmSLHvBBBNVVF2DghmZAp~-zJrXojKUhDVvDJZ8~P2lAyQUQPX0AEV3k6Wg6-XJP60wOCLmeh24~QW8cxMcOyqJq1fDe~eYG3zOZpZ6rfcjJQjG6U9G9KDi45egf4MKlHN3V3X~kPhVukO51y7F8N3ew4A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Ouvir a frase ajuda a ligar a expressão de frequência ao hábito descrito em espanhol.",
+      "feedbackError": "Ouvir a frase ajuda a ligar a expressão de frequência ao hábito descrito em espanhol.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "34a9881a-993c-4e8e-bbba-cfd6c62c97a7",
+          "textContent": "domingos",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "44ab3320-6100-4c96-9839-eccd69bde4da"
+        },
+        {
+          "id": "399eab6d-37ec-45b5-b8d4-8afe6397f819",
+          "textContent": "trabajo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "44ab3320-6100-4c96-9839-eccd69bde4da"
+        },
+        {
+          "id": "50abe659-fd47-4fe4-a911-c9bddc02e468",
+          "textContent": "fruta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "44ab3320-6100-4c96-9839-eccd69bde4da"
+        },
+        {
+          "id": "6d4b1481-ea74-480d-99f5-0e76be809d5a",
+          "textContent": "biblioteca",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "44ab3320-6100-4c96-9839-eccd69bde4da"
+        },
+        {
+          "id": "d8877bf4-017c-41e3-aa90-997da0fbc55d",
+          "textContent": "estudio",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "44ab3320-6100-4c96-9839-eccd69bde4da"
+        },
+        {
+          "id": "e99a8c0b-7006-450e-9567-4a8918abef5a",
+          "textContent": "menudo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "44ab3320-6100-4c96-9839-eccd69bde4da"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "467f7687-bbc3-481e-83cb-fe8ad8466099",
+      "title": "Combine áudio e frase",
+      "content": "<p>Escute os modelos da aula e associe cada áudio à frase correspondente em espanhol.</p>",
+      "contentPlain": "Escute os modelos da aula e associe cada áudio à frase correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "As expressões de frequência mostram se uma rotina acontece sempre, às vezes, quase nunca ou nunca.",
+      "feedbackError": "As expressões de frequência mostram se uma rotina acontece sempre, às vezes, quase nunca ou nunca.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "f3161ebf-5bd2-448c-93f2-bb0d47b75fae",
+          "exerciseId": "467f7687-bbc3-481e-83cb-fe8ad8466099",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0b8e645b5ec64988865df00ecacdc976_todos-los-dias-desayuno-con-fruta.mp3?Expires=1794099447&Signature=ocw2Xbdoe3tBDXnsuEgHyIWfBGD4bGacaS9f4udhZaFxFWzh8XLAurmHbUjNyKaWE9bOaZHjG7GIAOX7jIi96OPHu49V926UxTP977YtuSkQ2Zya0Fmq6JsbcHtdEKuvFw3DADHXRNM3XnnW5oq3AMaV9Kk~nSOTDUCeJzlv6supqVeWxPBw6JyzUO3FhXcFY8hhBoN7A25FMyjSu5WQz7tj21T4euaXBYt794sDmDuEG2iuiqf3Ldx2Oh5ey-VVNoBsW89NH6QNiwmbcowxnaQUBNYuEIPfIzmIHzyTsjgvnam0Txk5Xi0Ern4lMj9eMbbLL7Qz3UIEw4WXA0aTng__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Todos los días desayuno con fruta.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b701ee16-2b88-426e-985d-c6a67d362e46",
+          "exerciseId": "467f7687-bbc3-481e-83cb-fe8ad8466099",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/528ff1455e734669aaf6b1efa33e8edf_a-veces-camino-al-trabajo.mp3?Expires=1794099447&Signature=hMMt38WQ9kb18xO-Rt2sWJqxQ1r5EjYsZUDecqtenlosDFNoamqkp0QKbrLymm0YJ20fz1D81fHb1ZzwMJPFgWvoGtOLx6Zb8vqdNAT2n1PUdf92Iu3kYOekNyMmIKuwh8e0BcNTPBXnHkHUB~bqqWIitdRw6cyLBb7XVgIkeFN8BmkaXECVYltAPiBTUzjLoGyrwb88lG~OkQ0jvnsgFs5Bo9Q8rF-0Ld8-h1v6lfILN7kN2LWjFEWXGxsSBLPfmS61vlQmJCrf1BWwhE-AtLBtIqQ--UeJPzQSAZ6d1kuGr0KY93r0UH91FuYUgb3OroPFk3HcQzLHGkdcluAF1g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "A veces camino al trabajo.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0b3ea62e-9e6d-4b66-b86a-60cc0afef4c3",
+          "exerciseId": "467f7687-bbc3-481e-83cb-fe8ad8466099",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7b800f15cd754a349bd3cd170bbab041_a-menudo-estudio-en-la-biblioteca.mp3?Expires=1794099447&Signature=gEJJtcVFz-utEqYusGr0b6msj7vrdft-9FI3ZcCAJyFKJt7Xq4aYUmlgtnh9ionwjiLkp8xjFYgRN4cxE4i1LBeLISn-FQpxTznILta5Nv-yzibVtJgUCJDgsN7UeU8-O2dQYXLxrlLom4tFfJnkkonKGBSY9-SDbbJSLVSnvp4Tx~Q7JuclbqvhdTFFKmSLHvBBBNVVF2DghmZAp~-zJrXojKUhDVvDJZ8~P2lAyQUQPX0AEV3k6Wg6-XJP60wOCLmeh24~QW8cxMcOyqJq1fDe~eYG3zOZpZ6rfcjJQjG6U9G9KDi45egf4MKlHN3V3X~kPhVukO51y7F8N3ew4A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "A menudo estudio en la biblioteca.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "04782598-b1fa-4424-86e8-7658a3c72c06",
+          "exerciseId": "467f7687-bbc3-481e-83cb-fe8ad8466099",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1399dd49abc04d2eb9fe3159149ae31e_casi-nunca-ceno-tarde.mp3?Expires=1794099447&Signature=ZCwXc~C2jNPMM0eDuUlGat5-oPxRXTIfUjQMgW-vw4qzvIkaXb9SfOl4G3vgS5Y8tLVXfwdlL6LdgIaur3h24uEcbi5dgXrYWjpHJOZmUYOVtqrlQvbYPOH1liVQCFaB0RrzH-BcHMsK~PtOZkR1m~YUw8aH-zV~Au2jrRdFndcHIj1820mRPCU9emTodQMjuZXhkFX8CBfvyzh91kr~FAVFM58zsp-776-NeIMRZxNBQI9sCaRibqegvcf6f2qTXn4l1AYhz9-2EcACDTZwOo0W-QgUscNOTl2bSmf4lI7uUgDdR92QrifbbzU3tfq~23lOjWydb81IuOj1LgPaOA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Casi nunca ceno tarde.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "17ef2e71-2224-4f6e-9b14-3cf4396d8bad",
+          "exerciseId": "467f7687-bbc3-481e-83cb-fe8ad8466099",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b73bd2ed01da4df6b42341c376591961_nunca-trabajo-los-domingos.mp3?Expires=1794099447&Signature=ohL3ex9k8yNwqb3nag1YOmGtvb3tiGljfqqKARrQSDAOv~9M6AiX81WqLisWrur2ppOH3f6IGTbY0JFk8wKTkGn2RmQH3ucwL7bXhODXrrQBIkpySal6wV6KoVxSahs0HDhtLxoDQfFCumbKsEu4Q8oWrU-tIr0KJQMDa~iiDsTpCxdsnKVedse-v~USefWJUeLy4peUZ3lCBG3h4yXRwq3~4m1i1phvCsh9KeuU3FyInZi-ZqIpz8D0OFa7GrrxCTa6NhdlK7Mru8TncUqo7VWVtV0VvC3t-gjCOYs7h0evtAA8KbqmqW73DaSR3rWuFG6byUaXgna1rdR22Z9P1w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Nunca trabajo los domingos.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "a06ea0e2-0849-42ee-8ee9-59f881fb2304",
+      "title": "Combine expressão e sentido",
+      "content": "<p>Associe cada expressão de frequência ao sentido mais próximo em português.</p>",
+      "contentPlain": "Associe cada expressão de frequência ao sentido mais próximo em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "As expressões de frequência mostram se uma rotina acontece sempre, às vezes, quase nunca ou nunca.",
+      "feedbackError": "As expressões de frequência mostram se uma rotina acontece sempre, às vezes, quase nunca ou nunca.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "de8deb8d-0a1f-4b75-acf5-9e41a7d70a34",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a06ea0e2-0849-42ee-8ee9-59f881fb2304"
+        },
+        {
+          "id": "e3c747ab-63ef-40d0-af22-341e83b9e9ca",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a06ea0e2-0849-42ee-8ee9-59f881fb2304"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ba927352-15aa-4c1e-9834-66dda3204aad",
+          "exerciseId": "a06ea0e2-0849-42ee-8ee9-59f881fb2304",
+          "leftContent": "todos los días",
+          "rightContent": "todos os dias",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0f30b650-834b-4769-8bfc-c4d8b5bb745c",
+          "exerciseId": "a06ea0e2-0849-42ee-8ee9-59f881fb2304",
+          "leftContent": "a menudo",
+          "rightContent": "com frequência",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0e696a2a-5a6c-4652-af40-43fd4f8de935",
+          "exerciseId": "a06ea0e2-0849-42ee-8ee9-59f881fb2304",
+          "leftContent": "a veces",
+          "rightContent": "às vezes",
+          "sequenceItem": 3
+        },
+        {
+          "id": "7c1594a7-2fe4-4fa1-9fa3-4fb8fcad08cf",
+          "exerciseId": "a06ea0e2-0849-42ee-8ee9-59f881fb2304",
+          "leftContent": "casi nunca",
+          "rightContent": "quase nunca",
+          "sequenceItem": 4
+        },
+        {
+          "id": "94e659a2-13be-473a-8769-281ac1f26828",
+          "exerciseId": "a06ea0e2-0849-42ee-8ee9-59f881fb2304",
+          "leftContent": "nunca",
+          "rightContent": "nunca",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "fcc853c1-427b-4c62-9bdf-cc90ec6d3945",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita a frase em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita a frase em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b73bd2ed01da4df6b42341c376591961_nunca-trabajo-los-domingos.mp3?Expires=1794099447&Signature=ohL3ex9k8yNwqb3nag1YOmGtvb3tiGljfqqKARrQSDAOv~9M6AiX81WqLisWrur2ppOH3f6IGTbY0JFk8wKTkGn2RmQH3ucwL7bXhODXrrQBIkpySal6wV6KoVxSahs0HDhtLxoDQfFCumbKsEu4Q8oWrU-tIr0KJQMDa~iiDsTpCxdsnKVedse-v~USefWJUeLy4peUZ3lCBG3h4yXRwq3~4m1i1phvCsh9KeuU3FyInZi-ZqIpz8D0OFa7GrrxCTa6NhdlK7Mru8TncUqo7VWVtV0VvC3t-gjCOYs7h0evtAA8KbqmqW73DaSR3rWuFG6byUaXgna1rdR22Z9P1w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Repita a frase completa para praticar como nunca marca frequência zero em uma rotina.",
+      "feedbackError": "Repita a frase completa para praticar como nunca marca frequência zero em uma rotina.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Nunca trabajo los domingos.",
+      "typeSpecificData": "{\"expectedText\":\"Nunca trabajo los domingos.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/b73bd2ed01da4df6b42341c376591961_nunca-trabajo-los-domingos.mp3?Expires=1794099447\\u0026Signature=ohL3ex9k8yNwqb3nag1YOmGtvb3tiGljfqqKARrQSDAOv~9M6AiX81WqLisWrur2ppOH3f6IGTbY0JFk8wKTkGn2RmQH3ucwL7bXhODXrrQBIkpySal6wV6KoVxSahs0HDhtLxoDQfFCumbKsEu4Q8oWrU-tIr0KJQMDa~iiDsTpCxdsnKVedse-v~USefWJUeLy4peUZ3lCBG3h4yXRwq3~4m1i1phvCsh9KeuU3FyInZi-ZqIpz8D0OFa7GrrxCTa6NhdlK7Mru8TncUqo7VWVtV0VvC3t-gjCOYs7h0evtAA8KbqmqW73DaSR3rWuFG6byUaXgna1rdR22Z9P1w__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "06240a17-a02a-4c0d-a1af-227bd34fc91e",
+      "title": "Escolha a frase para uma rotina diária",
+      "content": "<p>Você quer dizer que tomar café da manhã com fruta é um hábito diário. Qual frase funciona melhor em espanhol?</p>",
+      "contentPlain": "Você quer dizer que tomar café da manhã com fruta é um hábito diário. Qual frase funciona melhor em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "As expressões de frequência mostram se uma rotina acontece sempre, às vezes, quase nunca ou nunca.",
+      "feedbackError": "As expressões de frequência mostram se uma rotina acontece sempre, às vezes, quase nunca ou nunca.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5ab469eb-98f3-4e79-bf1a-9cb9d86ca161",
+          "textContent": "A veces desayuno con fruta.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "06240a17-a02a-4c0d-a1af-227bd34fc91e"
+        },
+        {
+          "id": "e5a1b307-a2b5-4c21-a3e6-6bc7dab73993",
+          "textContent": "Nunca desayuno con fruta.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "06240a17-a02a-4c0d-a1af-227bd34fc91e"
+        },
+        {
+          "id": "e601bca9-051a-4bda-8918-850ba28b2f9d",
+          "textContent": "Casi nunca desayuno con fruta.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "06240a17-a02a-4c0d-a1af-227bd34fc91e"
+        },
+        {
+          "id": "f2e556e9-414a-4a39-94fa-348a346fcc8b",
+          "textContent": "Todos los días desayuno con fruta.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "06240a17-a02a-4c0d-a1af-227bd34fc91e"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "221cdf57-3838-471b-9e0e-a695dad97777",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: No llego tarde _____.</p><p>Tradução: Eu nunca chego tarde.</p>",
+      "contentPlain": "Complete a frase em espanhol: No llego tarde _____. Tradução: Eu nunca chego tarde.",
+      "fileUrl": null,
+      "feedbackSuccess": "Quando nunca vai para o fim, a frase costuma manter no antes do verbo.",
+      "feedbackError": "Quando nunca vai para o fim, a frase costuma manter no antes do verbo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "nunca",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "84bc49f5-950b-4511-a6dc-068573eac740",
+      "title": "Associe frase e padrão",
+      "content": "<p>Relacione cada frase ao padrão de posição mostrado no contraste com <strong>nunca</strong> e <strong>casi nunca</strong>.</p>",
+      "contentPlain": "Relacione cada frase ao padrão de posição mostrado no contraste com nunca e casi nunca .",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a posição de nunca e casi nunca muda a forma da frase, mas não a ideia de frequência.",
+      "feedbackError": "Nesta aula, a posição de nunca e casi nunca muda a forma da frase, mas não a ideia de frequência.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "1487da98-6b82-43f8-8183-7d5e894a87a0",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "84bc49f5-950b-4511-a6dc-068573eac740"
+        },
+        {
+          "id": "ffa294e4-f10c-4c42-a991-24b0aec50ebd",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "84bc49f5-950b-4511-a6dc-068573eac740"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ff82fdfc-01a1-4054-acf1-44cca64f1f10",
+          "exerciseId": "84bc49f5-950b-4511-a6dc-068573eac740",
+          "leftContent": "Nunca llego tarde.",
+          "rightContent": "nunca antes do verbo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "de02c793-67a8-43e2-896e-8058c3dfa385",
+          "exerciseId": "84bc49f5-950b-4511-a6dc-068573eac740",
+          "leftContent": "No llego tarde nunca.",
+          "rightContent": "nunca no final com no",
+          "sequenceItem": 2
+        },
+        {
+          "id": "02820aca-9379-4109-981e-6699c637ccce",
+          "exerciseId": "84bc49f5-950b-4511-a6dc-068573eac740",
+          "leftContent": "Casi nunca cocino de noche.",
+          "rightContent": "quase nunca antes do verbo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c2a81f10-b46d-40dc-a8b4-74ab61b627da",
+          "exerciseId": "84bc49f5-950b-4511-a6dc-068573eac740",
+          "leftContent": "No cocino de noche casi nunca.",
+          "rightContent": "quase nunca no final com no",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "10ebb884-6d14-4829-a39c-cc538c70e737",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: A _____ camino al trabajo.</p><p>Tradução: Às vezes vou ao trabalho a pé.</p>",
+      "contentPlain": "Complete a frase em espanhol: A _____ camino al trabajo. Tradução: Às vezes vou ao trabalho a pé.",
+      "fileUrl": null,
+      "feedbackSuccess": "A expressão a veces mostra uma rotina ocasional, sem a ideia de sempre.",
+      "feedbackError": "A expressão a veces mostra uma rotina ocasional, sem a ideia de sempre.",
+      "answerType": "buildWord",
+      "expectedAnswer": "veces",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "66c902a3-1d40-4458-9d46-9d5c67138b59",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Estudio en casa a ______.</p><p>Tradução: Estudo em casa com frequência.</p>",
+      "contentPlain": "Complete a frase em espanhol: Estudio en casa a ______. Tradução: Estudo em casa com frequência.",
+      "fileUrl": null,
+      "feedbackSuccess": "A menudo pode ficar no começo ou no fim da frase sem mudar a frequência da rotina.",
+      "feedbackError": "A menudo pode ficar no começo ou no fim da frase sem mudar a frequência da rotina.",
+      "answerType": "buildWord",
+      "expectedAnswer": "menudo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5e56c1f2-b025-4bdc-aee1-6d4ef41b5e95",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a frase e selecione apenas as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Escute a frase e selecione apenas as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1399dd49abc04d2eb9fe3159149ae31e_casi-nunca-ceno-tarde.mp3?Expires=1794099447&Signature=ZCwXc~C2jNPMM0eDuUlGat5-oPxRXTIfUjQMgW-vw4qzvIkaXb9SfOl4G3vgS5Y8tLVXfwdlL6LdgIaur3h24uEcbi5dgXrYWjpHJOZmUYOVtqrlQvbYPOH1liVQCFaB0RrzH-BcHMsK~PtOZkR1m~YUw8aH-zV~Au2jrRdFndcHIj1820mRPCU9emTodQMjuZXhkFX8CBfvyzh91kr~FAVFM58zsp-776-NeIMRZxNBQI9sCaRibqegvcf6f2qTXn4l1AYhz9-2EcACDTZwOo0W-QgUscNOTl2bSmf4lI7uUgDdR92QrifbbzU3tfq~23lOjWydb81IuOj1LgPaOA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Casi nunca indica frequência muito baixa e aparece como bloco útil para falar de hábitos.",
+      "feedbackError": "Casi nunca indica frequência muito baixa e aparece como bloco útil para falar de hábitos.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4f27f3f9-99ec-4eaa-84b5-b9e44b03381d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "041f2761-242e-4dc0-b580-218086db3c39",
+          "textContent": "nunca",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5e56c1f2-b025-4bdc-aee1-6d4ef41b5e95"
+        },
+        {
+          "id": "27a3a629-c89a-4687-9833-db7a5a66a8fa",
+          "textContent": "biblioteca",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5e56c1f2-b025-4bdc-aee1-6d4ef41b5e95"
+        },
+        {
+          "id": "51d3b20d-9528-4a12-b60b-9fb1d7fa8b48",
+          "textContent": "tarde",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5e56c1f2-b025-4bdc-aee1-6d4ef41b5e95"
+        },
+        {
+          "id": "6e561374-2fb4-415d-9e53-c2b3c414a228",
+          "textContent": "ceno",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5e56c1f2-b025-4bdc-aee1-6d4ef41b5e95"
+        },
+        {
+          "id": "7fc0610a-9847-4aee-8d93-84feed229fd2",
+          "textContent": "casi",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5e56c1f2-b025-4bdc-aee1-6d4ef41b5e95"
+        },
+        {
+          "id": "db23b0d4-87ae-4580-b3ed-7831c0f0549b",
+          "textContent": "fruta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5e56c1f2-b025-4bdc-aee1-6d4ef41b5e95"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "title": "Expressões temporais de frequência"
+}

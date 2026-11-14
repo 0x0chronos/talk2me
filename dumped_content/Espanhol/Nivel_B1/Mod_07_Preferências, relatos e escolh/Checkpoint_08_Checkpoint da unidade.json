@@ -1,0 +1,567 @@
+{
+  "attemptId": "0312de92-8205-4acc-9850-37fd3b101081",
+  "exercises": [
+    {
+      "exerciseId": "ed63c1f9-15a5-4c4a-a8c1-1c39ffad52f3",
+      "sequence": 1,
+      "lessonId": "20aa85a5-ab76-41f4-ad60-a78cab967b92",
+      "title": "Recupere a progressão pelo áudio",
+      "content": "<p>Ligue cada gravação ao texto certo e refaça o caminho da atração inicial ao contraste final.</p>",
+      "contentPlain": "Ligue cada gravação ao texto certo e refaça o caminho da atração inicial ao contraste final.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo recompõe atração, escolha, reação e contraste na mesma sequência.",
+      "feedbackError": "O diálogo recompõe atração, escolha, reação e contraste na mesma sequência.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "63605d35-4299-4fc3-b8b8-16e385dd258d",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3c5358d824d042ce89f59832b730f2ac_b02-a-mi-me-atrae-mas-el-festival-de-cine.mp3?Expires=1794099603&Signature=AsWlohGGCi6L8~R4nyWdk7S1UPV9gWDYea5-Gz87O1tCedLiI-rbAP0OZBeRp-mHR~w8yCjXtHl7N-TTBOK~4Sy~Z2M5t6XrkS36apOYP1irHe1tTlVT9xuiJdlgiBcyac~E0nU5m0usdCHZNjNqyX1MizW8mueZQymJXsJcxFGeRyR6kY7~CT7jVFkBYHYL9DnZrBX5LYPutMM2KcnRoCT4ggF~BI2ZRNaaCVhvgObSU2wOyTPqyJ~xVgm57LkJoeYWYszaNXobQY9OWccdu3wOog7ryhOL-zjVnV0wc1e7UiVYIngI-y0fIDh-qmjBiCGsqZ323jNnP7dEhJjuHw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "me atrae más",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f8060403-b5da-4bfd-9f7f-9b58ff439d2e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c6ec42cf027143cdbe8a37bde0abda55_b04-yo-prefiero-el-concierto-al-aire-libre.mp3?Expires=1794099603&Signature=Cw4-gzV6GuNSe-G1gDnm9qIeL57PpCA3viwHrPi6LL9dfbALFnwYlnZOmSc2UMk9qv3SXlisGVsrysalnPqZwuPI8WIyT6QrBDVVRKJyiHAat60G~6rVkRpsvu0SonwmiTF6ClcvdXPK0vn-ydY1LUnw1bZjgrqOe2E~Vw9-65MOE6cjs3kE6XvbUsriix8~M5o7itjXUOvI0SwQIUGZiW36h8dyJw-hwhLppajENTr53gEJ1W5q63-e6W1NoA6ZS1pbYVd~RQtzCkEPjpEIusb1yImdqkNH6HMcrboO0Nlhlq3HSR13L86ncpk8r8r1tt2P6SR8vHZybvJlwltayg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "prefiero ... porque ...",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d3ec49dc-65ec-48f9-a7bf-f70c2f442196",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7112025aaaa84853a6463ca46bc2540c_b06-la-exposicion-inmersiva-me-sorprendio.mp3?Expires=1794099603&Signature=rIWyq93xkgjvqrBaEU4M2x9~x5Ufn-ngD2DLdqz3H6MGL3pj0myCFBe0TXrKOSNK7jduyd7PuSzuJLA~qD5voTGFqX~pvFDqFlkYhf8p~g3D3S2H4d8u1tfFHM9s6wfsfFQNH-QpXTfo29OwFLdwyrAEkujlQ2OQ53FZKpGSvDWZ0SF0iiK~M0CmcRBUinEoo7fTOd~AosCK3HT~2lbPxaejkRR6wMlOmP~FUSyXFQKuCVRWCUHee~r6TDxlClQE-A4LAdK-Pf-brxURl5ewcoP3UJuTFHUT4aD8rDmvY~XpBVeFetaq~rHCC3gf6HppNkVgbmeVAjwc9EsLDCs4uA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "me sorprendió",
+          "sequenceItem": 3
+        },
+        {
+          "id": "4c513612-2e84-44d7-9e52-316cd76efd1e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/76a15201259145bfbd7f9f1e9945675b_b08-no-es-tan-tradicional-como-la-otra-muestra.mp3?Expires=1794099603&Signature=E8xU-Q9mGVziC4Iw3LBpJlCTg8zF9VIEN2D5iYQecDkw8iHLw3LLGS5kvXdXSeNfwxSIwCFhFPLK424-H8PtdCr1YUomHbHkKqiFjDvOA~lm3NXNS7xZyi5yz8XrLKm-q~Wvj3oTJE~QDjlWJhfuT0Z8y5Jh2wRFYKg-7XnUgORQSRrgtxZcrwvkOjScy6E8kPv4x5qyZlijRGF0je8LbjA-fEX9ADBfxhyVmjPMdDtdxuCd2YrxNT80UXg3cKe7ZxnZJ2R1pHYQEsx00FwppF~CPk1Ggh7ji2n2OnwXlSa5DbMe-j9bk-2ezUKrrPA7Ch~MNPii6Rf-j7x5EMp-rQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "no es tan ... como ...",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "3b795b30-3f89-4a30-b2ca-a57f4e3196d8",
+      "sequence": 2,
+      "lessonId": "fbd67910-4f02-4c04-af56-59a9bc3fbdef",
+      "title": "Recupere a avaliação da alternativa",
+      "content": "<p>Marque apenas as palavras da frase que redireciona a escolha para outra opção de moradia.</p>",
+      "contentPlain": "Marque apenas as palavras da frase que redireciona a escolha para outra opção de moradia.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/001c8662ce9f4f4ebf34a78ae9c454fd_b04-seria-mejor-seguir-buscando-algo-con-mas-luz-natural.mp3?Expires=1794099603&Signature=T3io7HQPnW3mQysSIeR8XXieQo32nrK6fm-9b~JTkIuwhKLoXFhkmqcBqIfXCgj-HiZNreMJGogFomw2PRV6FgoWAwhn2v6XqJqWvgPhUdKLZ1hh-5l2LcNjVvL~b7WzdVrADXTBz-IFBAjz43Jos-Bm-xYtDXkRQ2MwJ8EF2QRGv40MMvteqMHYHOyzYVmUg1phAFZn7siBWAm8yyZim4DPXOxvXsGB2YGQUF6Yz56CUiMiGKqhOYJIUot0AOSrM~cZvo3uaDtXJALfsyQ7mT5akmw~Da3RMKTyMBfBB~0EyxopdMrE8EwsHkuobCMpBaJEhU0J-vFBhkUYyXu~IA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, Sería mejor... avalia a alternativa antes de recomendar outra escolha.",
+      "feedbackError": "Nesta aula, Sería mejor... avalia a alternativa antes de recomendar outra escolha.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "409e4011-54ca-44eb-b45f-7dccbbea0f4f",
+          "text": "mejor",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4d839b49-6b31-4afa-a4ff-73e9a4bd616e",
+          "text": "cocina",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5aa35a14-bfe2-4771-938b-bedcf018a3ab",
+          "text": "luz",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "681e2d99-86b1-47ae-bf0f-c8132896c581",
+          "text": "parque",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "869fff30-a963-40d0-9a43-ef4abc6711fe",
+          "text": "buscando",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a15be56b-8701-434f-840f-8b5cbf2f565e",
+          "text": "Sería",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e243fbac-0d62-4661-8889-846ccbaae31a",
+          "text": "seguir",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e457b109-9968-4ef9-b5f6-f387c7458a7a",
+          "text": "metro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "c615702d-799f-464b-aac4-1c192ade3fc1",
+      "sequence": 3,
+      "lessonId": "8c5c1c1e-1550-44d2-9e27-7854ca5e374c",
+      "title": "Complete o pano de fundo",
+      "content": "<p>Habíamos llegado temprano porque ella me había _____ que la sala se llenaba rápido.</p><p>Tradução: Tínhamos chegado cedo porque ela tinha me dito que a sala enchia rápido.</p>",
+      "contentPlain": "Habíamos llegado temprano porque ella me había _____ que la sala se llenaba rápido. Tradução: Tínhamos chegado cedo porque ela tinha me dito que a sala enchia rápido.",
+      "fileUrl": null,
+      "feedbackSuccess": "O pano de fundo desta aula se apoia em me había dicho para explicar o que já vinha de antes.",
+      "feedbackError": "O pano de fundo desta aula se apoia em me había dicho para explicar o que já vinha de antes.",
+      "answerType": "buildWord",
+      "expectedAnswer": "dicho",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c161cf08-9323-4df7-9514-9efb85854d02",
+      "sequence": 4,
+      "lessonId": "20aa85a5-ab76-41f4-ad60-a78cab967b92",
+      "title": "Complete a escolha assumida",
+      "content": "<p>Complete em espanhol: Entre las dos opciones, yo ________ el concierto al aire libre porque tiene más ambiente.</p><p>Tradução: Entre as duas opções, eu prefiro o concerto ao ar livre porque tem mais ambiente.</p>",
+      "contentPlain": "Complete em espanhol: Entre las dos opciones, yo ________ el concierto al aire libre porque tiene más ambiente. Tradução: Entre as duas opções, eu prefiro o concerto ao ar livre porque tem mais ambiente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Prefiero resolve a escolha e pode vir com uma razão curta logo depois.",
+      "feedbackError": "Prefiero resolve a escolha e pode vir com uma razão curta logo depois.",
+      "answerType": "buildWord",
+      "expectedAnswer": "prefiero",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3e590f0d-f526-454b-aedc-a45f05e554fa",
+      "sequence": 5,
+      "lessonId": "ecd03a84-adb3-4423-b7da-2fa516335445",
+      "title": "Complete o critério de luz natural",
+      "content": "<p>Este piso es ________ y me atrae más para trabajar en casa.</p><p>Tradução: Este apartamento é bem iluminado e me atrai mais para trabalhar em casa.</p>",
+      "contentPlain": "Este piso es ________ y me atrae más para trabajar en casa. Tradução: Este apartamento é bem iluminado e me atrai mais para trabalhar em casa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Luminoso marca o critério de conforto visual que pesa na comparação.",
+      "feedbackError": "Luminoso marca o critério de conforto visual que pesa na comparação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "luminoso",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "bed7c23c-be12-4a8c-a032-1355cb0aac5b",
+      "sequence": 6,
+      "lessonId": "cd6eca7e-89ae-4947-a14b-d1d8bc9b40e0",
+      "title": "Recupere a microanedota completa",
+      "content": "<p>Associe cada áudio do diálogo ao trecho certo para recuperar a sequência da história.</p>",
+      "contentPlain": "Associe cada áudio do diálogo ao trecho certo para recuperar a sequência da história.",
+      "fileUrl": null,
+      "feedbackSuccess": "A microanedota junta gancho, pergunta, virada e desfecho em quatro passos curtos.",
+      "feedbackError": "A microanedota junta gancho, pergunta, virada e desfecho em quatro passos curtos.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "ddd6bfe6-d34d-4351-b8e5-c8b3eed65048",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/386fb3cde84c4c27b9e6b9a1c3094222_b02-no-te-imaginas-cine-de-verano.mp3?Expires=1794099603&Signature=qpBMzfv3Rv0BVYeVPQP8fvS1yxcM1JmOnOAPYOmqNHuWB0tE2zJPV1cibtVD5d4I9jNZgqSrkQoyvPtGrmqW4U6Dt8TuAX4PXAdr-B~wGvY8o7i3x-zWeq9IuodsaI~81P-mzmU1NOEFGnLnmAnS0b7x8xxAm8YP-x5Er4K6VjoreEH-HqJk377OacSisiwd6Fux-E-ydXOGjYdDodOxYSY3MkWRdeMTu6Wi87pHFoiJDTV2oMknrcHKOyCbFm-9-WJmRuA0qDIERZFiKckrdwojM48bnkKEM0bJxOoINVgsToU~wRhtFt-VhaxHnWrjOUOYOOphVyVxXTYfqy~5NQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "No te imaginas lo que nos pasó en el cine de verano.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8b0ec576-152c-416f-ae82-748e21c937d9",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb84c5bfc04840889e7821f9f9717e75_b08-dialogo-que-paso.mp3?Expires=1794099603&Signature=JA3px1lWzH0zsp~HZ7Mhc59Tzc3zEoBeajuMm1qBy7fkDfwRex7i1a4V0RE8egsjBOQyCjd6dhtwgnlnzilRr8vHYNXUZrzeHoduIDXIpbD8aB7OqQKFtU7EfOQ1Gayi3UrwPE7RFYB1jtHgAzZsnS4Hbbxo075jCxQX7QJJ9EEDF0ldOecmKBolxCZnGc06kWqK8LixK3DFMBTp3qf4qDYeZwBZFT4ne1Z89uZ9d6j2M5RKCJHlL0igQSUIfTER67~V7DCGByxqdMWnH3zeGVP6ZLzdrk1Qzt4vpz0l8ETkzeP1dtkNLQiJ0zAGgBBp9jO2HaynNVKGQPyEynDW~w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué pasó?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2a425ffd-ee86-48dd-8efe-ff36b350fcf1",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5334b6c9b61641328d9bf84bc1a8008d_b04-resulta-que-entradas-dia-siguiente.mp3?Expires=1794099603&Signature=Tk5z6-QpMF57QHJ3JEyUyiFcB~YicAE18kNofb3R~ZLB1jDltnIYl6UkE5RQOEmXsRIywWQvenWzxkgnFZNCC~y2pczgV5y7HVlWdjU7UNPGNargMTgxJdevciZNa2Iyqzmyl5~HElMjqgMS3YSM2-Fdo2zQDCDgfaDKlumXjon521JXr4qluaWfes2igkzb9q2VTX6BCYR6sviBH6DGusoXcjtfU~QcD1~XB4HFzFEfcjnKfQ-pNXCZToET1YzDalxgzwp7HcyZZ4GbwEfs54RbjGRCXtBsOfvFXZXgEX2v8PPL5yMWouUpd0boeIcNAxBW0FElNGT6hx4tQ9AlJw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Resulta que yo había guardado las entradas para el día siguiente.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "4e0f6a67-1ffb-4f16-9814-83529684a083",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/16bf656cf58244279d99e8be7af8f452_b06-al-final-sesion-siguiente.mp3?Expires=1794099603&Signature=q-cYlN2G6IQmvKKamBISwlh-7bwvuWtRJomAJhriKv-fXE0ZTB5lDPD-Pz5UeUTFlxw9sEFw6DEZj1gTp6H2WE3U7ewDVv5jD8hsD2FjeALI0EzjTjtqvSp-rvb5De1U5HXQJ~Lzp7CnsrKXSdmi9Qu2dpT-qc1xT817qF46q4ficCaHhan0OioCBtS~bWOkZvYtAZQu-bF4isW5OLUA4xlxW5pHwJhTjAnqUs~HvCB3c~0fvUrYNOgYav6Pw0YqYT5cYbvDj6ZJU7ea3U~dpHWUQ3StUUct9FPewb7xDYvh7ZeuKFInCyVvsKetcBYLUdG6jAsV8wTiPlBHDnNnWA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al final, nos dejaron entrar a la sesión siguiente y todo salió bien.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "e8c728c7-365d-4670-9f0b-3c24bc513692",
+      "sequence": 7,
+      "lessonId": "fbd67910-4f02-4c04-af56-59a9bc3fbdef",
+      "title": "Complete o pedido educado",
+      "content": "<p>¿_______ mandarme un video de la cocina?</p><p>Tradução: Você poderia me mandar um vídeo da cozinha?</p>",
+      "contentPlain": "¿_______ mandarme un video de la cocina? Tradução: Você poderia me mandar um vídeo da cozinha?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, ¿Podrías...? abre um pedido claro e educado por mensagem.",
+      "feedbackError": "Nesta aula, ¿Podrías...? abre um pedido claro e educado por mensagem.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Podrías",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c7e19683-11ab-4525-9d95-2d8a921d4ad5",
+      "sequence": 8,
+      "lessonId": "8c5c1c1e-1550-44d2-9e27-7854ca5e374c",
+      "title": "Reconstrua a história pelo áudio",
+      "content": "<p>Ligue cada gravação ao texto correspondente e recupere como a aula passa do detalhe ao resumo.</p>",
+      "contentPlain": "Ligue cada gravação ao texto correspondente e recupere como a aula passa do detalhe ao resumo.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula fecha quando o aluno reconhece tanto o relato detalhado quanto o reconto breve.",
+      "feedbackError": "A aula fecha quando o aluno reconhece tanto o relato detalhado quanto o reconto breve.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "35235715-03ee-488c-a071-3c08a6ea5083",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/5654df3d462640868cfc007a23e65a4c_b03-antes-de-la-sorpresa.mp3?Expires=1794099603&Signature=LSM25NC-ksNm8KPcltUu0GDlDDOdnIIfyWF38l-uwNwhTykAkrLYtKAQCldADVgHnwyT4l4UFdLPDKIHsrWB4r4qMeFTrCLZZr7Q6AmQKk8poQEPy1cM5PCKqTU6FMFy8QjE4aZC8Vb8EJuXiiJ4nE8zouCGmvgy5yuvXtN4CPq2ciXE~ieGWEXNAxLu7AC8~DbrNg4w~tfP9qdXmhcNheS5JZjqrseGVuXu1mzgUbe0be1kFuU0IqF47Sfa3tsZW-OywOwxI82ZgZj4t5yFoCOfC7DT0NAd95EWdQuRe2gZyJJbZrFYRfKoYKK7sPf9cdYHA8RJzXk8i6wu02jSpA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Habíamos llegado temprano porque ella me había dicho que la sala se llenaba rápido.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1c147e1c-4bba-4e48-bf20-a8b3705cb675",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/54cde1811d144a5fb62e4384c19f3487_b04-giro-de-la-historia.mp3?Expires=1794099603&Signature=Aq4o61X1Fw4WaZIdPdS2nSVu2PVnjE6gAgo8Rd-CpE2D0Khm3NH9B4GE-PCNIN~-nY6knfxXnPPdChhnBN66VybOFmf~YIYUL1Agge0t0uaIMjnVtFwa2o8DsgAHgxken6M8Jh4sBmS3IO1GDnbAYo-WYdQJqhpds85Y5bELjtKzynZDbiafiRulVz8pErZidrzoQmIIlDchJcTBmxbjHl36Nq-KPnlmOZCAqJ4U2lzcUKQprQ8UwaoY8bOWK2Sb1d9eMZpLqJA95yXFkC8OLgCbxpceiDAQjAXY4Ko5AjoYe96nmX~M6LgND7gAl~0GoCqS7rrUk1WhI7loxmIjXQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Resulta que, mientras mirábamos una foto del puerto, reconocí a mi antiguo profesor de dibujo en la imagen. De repente, el propio fotógrafo apareció detrás de nosotros.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "316dec1d-4e00-4eea-bfeb-9fef93e71742",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b5f654b62be94758a43bf3e9a22b21e1_b05-resultado-final.mp3?Expires=1794099603&Signature=yq7jplpmolw8CReXGAxWt1eta~lsOp7ikOSEbiRSLCJ6oQk6L8r-vhOTTYf2-hMAxFZkMrvC1K-SnClUM2cnHp5DKKZyEGSf3h3KcZhC16ivFPhTbRC7lv~fiEHQ2HXzyeqhTFnKQcdj3MPYMWwWk8bG2SPFdw~-U~ubqOTRpTsKF0JSmnfWwxVvLxxYET1NDiUdOfhgn6xaXcwaCPXxPcpS0wBBSSmYiJZecQjFjrbHtnHQ5OQqf1COUUMJxgQhsCprP7~3a5WVdVTIjMA-9l8qxtHWWe2xzocbduydU-O0L6hrbAHrQVZ2OuxW9B29A4fhoafcPCoL7Y1gh4HI0w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al final, nos quedamos hablando con él en la cafetería del museo y salí con una foto firmada.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "0153065b-f803-4853-9ae7-3278972cd7cc",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fffc5e7bda1d49d0adeb8e1de0c46178_b08-reconto-breve.mp3?Expires=1794099603&Signature=lOCBIvkt7sT44g2uaj6rx3-OAEtuFtn8LWi98SlI74R9ChiHGhzbLgUeYUQHF4HDkF408dojXkE1yX57kk0XWTGWBwMTbb6hrpIj4jPn4B5m6DMb9XVme10dPsJXQt9HObMGmdvi4b76ckim8rCa-6qXeeaqWgvPL1o~K5ft4FgScz4U7eDeclVua1wJ~CsTs9asUioJTrouZE9hH3zxfP3jlzPV9vLKz4rV5qkg9dqLaipyXwA3NkPKbTZPbp2tpJKybtExHEOgAeWNLX4KjqnBtSWm4UCoh34i3cmEV8P7yAKtMhr2gQJiza1rwLuUS5GG~mX2mnH2XQUcJJ6DJQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Habíamos llegado temprano a una muestra de fotografía. Resulta que reconocí a mi antiguo profesor en una imagen. De repente, apareció el fotógrafo y nos contó la historia de la foto. Al final, salí del museo sonriendo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "103bdc1a-cf26-4ef2-b770-dade260b9610",
+      "sequence": 9,
+      "lessonId": "cddaa5d8-9d5c-4221-90b8-eda4a343b8c5",
+      "title": "Identifique as palavras do áudio",
+      "content": "<p>Ouça a frase do imprevisto e marque somente as palavras em espanhol que aparecem no áudio.</p>",
+      "contentPlain": "Ouça a frase do imprevisto e marque somente as palavras em espanhol que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/101b2e8c6f524864984aa2d8c47689ba_b07-alguien-habia-roto-una-ventanilla-phase4.mp3?Expires=1794099603&Signature=hnIjX2kkcmrjUboJwEsjL7GfBtBs3FHFk3dVZvzyDGt9nRMKOfa-YH3hkL5EjAd0lYhNTRSqvcmbUA02ky6aXIzm8wq-ZrZv3QG6pQ4WMgYsZ1cVLDOrvXaqwImLQVX92n8l3AS96xpn0JepM0UB5I~Uxc~i32lSZfYzUwb3Yg9Br~TvvmGFSB7MdYUMBiBTrdHv96AHMFoFasalsLV7Rm~PswGL6syezBZpwJn21IyA1Lrp5JQLptsELPPW29QHqhKFeXrPTq42MJ6ZYXnRCAd2YiYJXBUdkvIKubct8luL9f1BB-fXn13k7unhy9yKSHQ3IXQJPc2akwvHEV2zjA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Neste relato, roto marca um dano que já tinha acontecido antes da chegada.",
+      "feedbackError": "Neste relato, roto marca um dano que já tinha acontecido antes da chegada.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0fa4dc5b-d077-459b-bc1a-30516edaa9a7",
+          "text": "fila",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1d7f1bd6-cf0b-44a4-9b3e-6009e4de65ce",
+          "text": "escrito",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "477d0876-a2fb-4c52-9d30-b795c7d0a7a2",
+          "text": "ventanilla",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a0c7e92a-cb72-4973-b2c2-07d61ba4c710",
+          "text": "horario",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b880ef25-3729-4e0d-8c64-5565be6d8f4a",
+          "text": "roto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bb9e155d-ea8b-4878-93e9-9b359efe344a",
+          "text": "volvimos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "4fe066b1-ebd4-4988-b1e1-a9f2f6acebf8",
+      "sequence": 10,
+      "lessonId": "609db28a-08bb-48b7-b611-8d786374ec1e",
+      "title": "Ouça e recupere a explicação",
+      "content": "<p>Escute a resposta do diálogo e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a resposta do diálogo e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e5b483f5c7a94ad0bd83269f9748c6ef_b06-linea-02-porque-yo-ya-habia-leido-el-programa.mp3?Expires=1794099603&Signature=OOewa5pA9v13A1bjOAm~-HSUltnCsQiYLcDyPhMebK8uxvulspgBS2aSipYbjaL2jKErbT7w4ZgjA~ilxYFY06tJDee2EVqSlwblpSGWXWa56sQGgj8UfVJpKLfXWNz-IinKQ0gWpbx2Cr2mDrRhH8rwvN1-cqgvp6UKdq3ssipt2CMw1~pVqr2AIT51tKwzqoAlFtNxXobNoV2CL8l4vhczgSMl4AVxJedpR1sxz2qRVoeEzPMgFgUj3wRJeVcWK4hUIB0VHxn-aPBs~BaJwblfYALbk61W5HuciO17BHRFxaMFI7Yz4NwA5EXxY6w83SJ~BQzK1FQq~FhqXIN6hA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A resposta do diálogo junta o que já tinha sido lido e o que já tinha sido comprado antes.",
+      "feedbackError": "A resposta do diálogo junta o que já tinha sido lido e o que já tinha sido comprado antes.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1e537e24-aadf-4bdf-b2b8-7f14e32b54cb",
+          "text": "empezado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "30cadcb0-6822-4af9-bbf6-6d50616dad44",
+          "text": "leído",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "401c6a3c-e97f-44df-83af-bfa932e8afb1",
+          "text": "habíamos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5ca30b62-cc53-42c3-bd90-1c2b842cadae",
+          "text": "rápido",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "affaa35d-93b5-42a5-96ab-ed8fbd20e9cb",
+          "text": "entradas",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b32ff21e-14b3-49e9-abf1-f8ea684b8886",
+          "text": "línea",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bf2bdc85-fa2c-487f-9383-96c94808702f",
+          "text": "comprado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c0d98a24-e8a5-47e2-b201-df5ed80e9f56",
+          "text": "programa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f661e503-d333-4681-b17f-cdc302e120ef",
+          "text": "auditorio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "ff91e67b-3dc7-4d21-af0e-0320bd2fd6d5",
+      "sequence": 11,
+      "lessonId": "8c5c1c1e-1550-44d2-9e27-7854ca5e374c",
+      "title": "Reconstrua o esqueleto da história",
+      "content": "<p>Ligue cada começo em espanhol ao complemento que devolve a ordem do recontar.</p>",
+      "contentPlain": "Ligue cada começo em espanhol ao complemento que devolve a ordem do recontar.",
+      "fileUrl": null,
+      "feedbackSuccess": "O esqueleto da aula segura o recontar em quatro movimentos curtos e na ordem certa.",
+      "feedbackError": "O esqueleto da aula segura o recontar em quatro movimentos curtos e na ordem certa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "051947b4-2d0d-4b72-b44c-735379cee2c5",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c1e728a1-5427-440b-80e4-5ee3fb319568",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "612696a1-75d1-4a30-9810-e5f244e4e4e1",
+          "leftContent": "Habíamos llegado temprano porque...",
+          "rightContent": "ella me había dicho que la sala se llenaba rápido.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8496e071-d6be-47aa-bba2-844af9f13e00",
+          "leftContent": "Resulta que reconocí...",
+          "rightContent": "a mi antiguo profesor de dibujo en la imagen.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "78352f05-2d5a-4a20-8bc6-51c3c878496b",
+          "leftContent": "De repente apareció...",
+          "rightContent": "el propio fotógrafo detrás de nosotros.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a7a96a09-c6b0-42dd-b6d9-76d6085b9233",
+          "leftContent": "Al final nos quedamos...",
+          "rightContent": "hablando con él en la cafetería del museo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "08f0df44-aae3-4235-95fd-d70a65f3a288",
+      "sequence": 12,
+      "lessonId": "609db28a-08bb-48b7-b611-8d786374ec1e",
+      "title": "Complete a ação anterior",
+      "content": "<p>La prueba de sonido ya _____ empezado.</p><p>Tradução: A passagem de som já tinha começado.</p>",
+      "contentPlain": "La prueba de sonido ya _____ empezado. Tradução: A passagem de som já tinha começado.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na primeira cena da aula, había marca o que já estava em andamento antes da entrada.",
+      "feedbackError": "Na primeira cena da aula, había marca o que já estava em andamento antes da entrada.",
+      "answerType": "buildWord",
+      "expectedAnswer": "había",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6c0a41fb-dd72-41cf-a565-2fe9d2a65b85",
+      "sequence": 13,
+      "lessonId": "cd6eca7e-89ae-4947-a14b-d1d8bc9b40e0",
+      "title": "Recupere as palavras do desfecho",
+      "content": "<p>Escute como a história termina e marque só as palavras realmente presentes na frase final.</p>",
+      "contentPlain": "Escute como a história termina e marque só as palavras realmente presentes na frase final.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/16bf656cf58244279d99e8be7af8f452_b06-al-final-sesion-siguiente.mp3?Expires=1794099603&Signature=q-cYlN2G6IQmvKKamBISwlh-7bwvuWtRJomAJhriKv-fXE0ZTB5lDPD-Pz5UeUTFlxw9sEFw6DEZj1gTp6H2WE3U7ewDVv5jD8hsD2FjeALI0EzjTjtqvSp-rvb5De1U5HXQJ~Lzp7CnsrKXSdmi9Qu2dpT-qc1xT817qF46q4ficCaHhan0OioCBtS~bWOkZvYtAZQu-bF4isW5OLUA4xlxW5pHwJhTjAnqUs~HvCB3c~0fvUrYNOgYav6Pw0YqYT5cYbvDj6ZJU7ea3U~dpHWUQ3StUUct9FPewb7xDYvh7ZeuKFInCyVvsKetcBYLUdG6jAsV8wTiPlBHDnNnWA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O desfecho da aula mostra como o resultado chega depois do imprevisto.",
+      "feedbackError": "O desfecho da aula mostra como o resultado chega depois do imprevisto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0f46159f-2d4c-4f1b-a66e-a8dd4e5db9e9",
+          "text": "dejaron",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3a4bdf11-acd2-4863-8f48-a4bca391449d",
+          "text": "final",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6a8d7cc7-f7fc-47f4-ac24-7f77f9111576",
+          "text": "siguiente",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ae303ceb-91f5-4b50-925d-c351aef1294d",
+          "text": "verano",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d94c8ac3-01f8-49aa-aa56-b42ddd69420b",
+          "text": "salió",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e9ec5be5-2cbb-4075-a3f1-79066d0afd15",
+          "text": "entradas",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "3cc37d3b-981e-4dcb-9f01-12e23fa1e403",
+      "sequence": 14,
+      "lessonId": "cddaa5d8-9d5c-4221-90b8-eda4a343b8c5",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: La organizadora nos había _______ el cambio de horario esa mañana.</p><p>Tradução: A organizadora tinha escrito para nós a mudança de horário naquela manhã.</p>",
+      "contentPlain": "Complete a frase em espanhol: La organizadora nos había _______ el cambio de horario esa mañana. Tradução: A organizadora tinha escrito para nós a mudança de horário naquela manhã.",
+      "fileUrl": null,
+      "feedbackSuccess": "Escrito retoma uma mensagem ou mudança que já tinha chegado antes.",
+      "feedbackError": "Escrito retoma uma mensagem ou mudança que já tinha chegado antes.",
+      "answerType": "buildWord",
+      "expectedAnswer": "escrito",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e8bf58df-e5c2-4b06-8328-90941c22d6ba",
+      "sequence": 15,
+      "lessonId": "ecd03a84-adb3-4423-b7da-2fa516335445",
+      "title": "Complete a ação de aluguel",
+      "content": "<p>Quiero ________ un piso cerca del trabajo.</p><p>Tradução: Quero alugar um apartamento perto do trabalho.</p>",
+      "contentPlain": "Quiero ________ un piso cerca del trabajo. Tradução: Quero alugar um apartamento perto do trabalho.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, alquilar situa a busca prática por um lugar para morar.",
+      "feedbackError": "Nesta aula, alquilar situa a busca prática por um lugar para morar.",
+      "answerType": "buildWord",
+      "expectedAnswer": "alquilar",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

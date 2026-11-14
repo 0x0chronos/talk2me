@@ -1,0 +1,602 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+    "attemptId": "06812a08-7d80-47b0-8076-b922cd125d8e",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "c45964ee-d7a3-46cf-8bfd-870f436bcd48",
+      "10a8bce8-853a-457c-8af8-b9e067dd078c",
+      "5d37f8bc-4384-4ab4-9e91-eb4d73ac095a",
+      "11f444c9-326d-40b3-a510-07e7bddde722",
+      "95eae4a6-6cb8-4b67-8185-11ec67a2a3d0"
+    ],
+    "evaluationExerciseIds": [
+      "447d6ef0-2283-4d73-9297-aa3d97eee1d5",
+      "4c899bdb-706b-4253-ba6d-bd06812553b3",
+      "3191f465-62e9-44cc-9025-8615a532244c",
+      "ee4b27ad-c10d-45cc-ac59-b15b676bec17",
+      "ec3df0a3-c431-4818-8522-83ddaf19a349"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:26.3255147Z"
+  },
+  "contents": [
+    {
+      "id": "336b49ed-b193-4da8-8f30-cc8eef1b0506",
+      "title": "Leia a abertura e observe quais critérios vão organizar a comparação.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "5aacdf61-f9d0-4200-b643-856d3ead1c5c",
+          "textContent": "<p>Depois de nomear credenciais e marcadores de certeza, a pergunta agora muda: <strong>que rota de estudo faz mais sentido para uma meta real?</strong></p><p>Nesta aula, <strong>grado</strong> entra como referência conhecida, e três alternativas ganham contorno próprio: <strong>formación profesional</strong>, <strong>certificación de competencias</strong> e <strong>formación continua</strong>.</p><p>O foco não é decidir qual vale mais, mas o que cada percurso resolve melhor.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "53a6f8f9-fb22-4253-8eba-2d725e6e24c8",
+      "title": "Leia a frase em espanhol e acompanhe a tradução.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "7757da47-7b92-4298-b7fd-04214d85e3cd",
+          "textContent": "<p>Leia a frase e acompanhe a tradução.</p><p><strong>La formación profesional suele acercarte antes al trabajo porque combina técnica y práctica desde el principio.</strong></p><p>Em português: <strong>A formação profissional costuma aproximar você mais cedo do trabalho porque combina técnica e prática desde o início.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "dab9e229-421b-484e-8ced-11df49933c07",
+      "title": "Leia a nota curta e observe que tipo de comentário essa expressão abre.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "2d770cb7-f724-4014-a442-fb21ea787562",
+          "textContent": "<p><strong>formación profesional</strong> aponta para um percurso mais aplicado, normalmente pensado para ligar estudo e trabalho desde cedo.</p><p>Ela entra bem quando o comentário destaca função técnica, prática recorrente ou uma entrada mais direta numa área.</p><p>Não precisa soar inferior a <strong>grado</strong>; muda o tipo de percurso e o prazo da meta.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e760da62-57ff-4707-9e91-1006400fa717",
+      "title": "Leia a frase em espanhol e acompanhe a tradução.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "25f53c56-bf60-45e6-a46b-ad185bb9b4af",
+          "textContent": "<p>Leia a frase e acompanhe a tradução.</p><p><strong>La certificación de competencias le dio reconocimiento oficial a una experiencia que ya tenía en el trabajo.</strong></p><p>Em português: <strong>A certificação de competências deu reconhecimento oficial a uma experiência que ela já tinha no trabalho.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e170d09b-168d-4b5d-98bf-27a8c029b485",
+      "title": "Leia a explicação e observe por que essa rota aparece quando já existe prática anterior.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "ee18889d-7feb-4b99-90a7-3bbb6a7c86d5",
+          "textContent": "<p><strong>certificación de competencias</strong> não costuma apresentar um aprendizado do zero.</p><p>Ela serve para validar oficialmente algo que a pessoa já sabe fazer, mas ainda não tinha transformado em credencial reconhecida.</p><p>Por isso, aparece bem em comentários sobre experiência acumulada, mudança de cargo ou formalização de saber profissional.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "795f3a24-75f0-446b-aab1-fe4d1addaebc",
+      "title": "Leia a frase em espanhol e acompanhe a tradução.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "8cead959-6785-407f-8825-03bdf442cbd5",
+          "textContent": "<p>Leia a frase e acompanhe a tradução.</p><p><strong>La formación continua le permite actualizarse sin apartarse del todo de su puesto actual.</strong></p><p>Em português: <strong>A formação contínua permite que ela se atualize sem se afastar por completo do cargo atual.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a259810a-9a9d-443a-946e-dd8b8a4e91da",
+      "title": "Leia a nota e observe em que situações essa expressão costuma fazer mais sentido.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "986cf0df-3bd4-4801-ad1d-daaf45a6023b",
+          "textContent": "<p><strong>formación continua</strong> enquadra um percurso de atualização, não necessariamente uma mudança total de rota.</p><p>Ela entra bem quando alguém já trabalha, precisa manter movimento profissional e não quer interromper toda a rotina para voltar a estudar em tempo integral.</p><p>O ganho central aqui costuma ser <strong>flexibilidade com progresso</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1d08e426-985b-4027-bbbc-03c72ba153e1",
+      "title": "Leia o quadro e observe que cada rota responde melhor a um perfil diferente.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "93ba3644-ee49-4aeb-9b1f-e9d80803d57d",
+          "textContent": "<p>Compare as rotas pelo perfil que costuma precisar de cada uma:</p><ul><li><strong>grado</strong>: quando a meta pede uma base mais longa e uma credencial ampla.</li><li><strong>formación profesional</strong>: quando a prioridade é entrar antes numa área aplicada.</li><li><strong>certificación de competencias</strong>: quando já existe experiência e falta reconhecimento formal.</li><li><strong>formación continua</strong>: quando a pessoa já trabalha e precisa se atualizar sem parar tudo.</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b1aaba09-3570-4899-ab82-a32bd19ab90a",
+      "title": "Leia o segundo contraste e observe como o critério muda a leitura da rota.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "7de0a705-c55f-4c46-a499-bf2599b8e047",
+          "textContent": "<p>Agora compare pelos critérios da aula:</p><ul><li><strong>tempo</strong>: <strong>grado</strong> tende a pedir percurso mais longo; <strong>formación profesional</strong> costuma encurtar a entrada prática.</li><li><strong>reconhecimento</strong>: <strong>certificación de competencias</strong> transforma experiência prévia em validação mais legível.</li><li><strong>flexibilidade</strong>: <strong>formación continua</strong> costuma caber melhor na rotina de quem já está empregado.</li><li><strong>saída profissional</strong>: nenhuma rota vence sempre; a melhor escolha depende do objetivo e do prazo.</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "8fe3c990-37d1-4bf4-9b08-684a9b937b92",
+      "title": "Leia o fechamento e observe como a comparação reaparece quando alguém precisa justificar um caminho de estudo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 10,
+      "items": [
+        {
+          "id": "8890764b-3f6a-480a-a558-83e7fde5fe35",
+          "textContent": "<p>Em vida real, a comparação costuma soar assim:</p><p><strong>Si buscas una base amplia y un título con recorrido largo, un grado sigue teniendo peso; si necesitas incorporarte antes al trabajo, la formación profesional puede ser más directa; y si ya trabajas, la certificación de competencias o la formación continua suelen ajustarse mejor.</strong></p><p>Em português: <strong>Se você busca uma base ampla e um título com percurso mais longo, um grado continua tendo peso; se precisa entrar antes no trabalho, a formação profissional pode ser mais direta; e, se já trabalha, a certificação de competências ou a formação contínua costumam se ajustar melhor.</strong></p><p>Esse tipo de contraste reaparece quando alguém explica por que adiou a universidade, validou experiência ou procurou uma atualização mais flexível.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "c45964ee-d7a3-46cf-8bfd-870f436bcd48",
+      "title": "Ligue rota e perfil",
+      "content": "<p>Relacione cada percurso em espanhol ao tipo de necessidade descrita em português.</p>",
+      "contentPlain": "Relacione cada percurso em espanhol ao tipo de necessidade descrita em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "A lição organiza cada rota pelo perfil e pela necessidade que ela atende.",
+      "feedbackError": "A lição organiza cada rota pelo perfil e pela necessidade que ela atende.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "283fb210-6427-4e21-86ce-c5621e97a579",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c45964ee-d7a3-46cf-8bfd-870f436bcd48"
+        },
+        {
+          "id": "309cc6b6-e152-4eee-b48d-319423ae5a0e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c45964ee-d7a3-46cf-8bfd-870f436bcd48"
+        }
+      ],
+      "associations": [
+        {
+          "id": "67701953-48f0-493a-a0a4-c1cfdbea4090",
+          "exerciseId": "c45964ee-d7a3-46cf-8bfd-870f436bcd48",
+          "leftContent": "grado",
+          "rightContent": "base mais longa com credencial ampla",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8e4607f7-1465-4fe9-b344-a8313e2cddc6",
+          "exerciseId": "c45964ee-d7a3-46cf-8bfd-870f436bcd48",
+          "leftContent": "formación profesional",
+          "rightContent": "entrada mais direta em uma área aplicada",
+          "sequenceItem": 2
+        },
+        {
+          "id": "06a2ae25-c241-423e-95ee-33239391f95f",
+          "exerciseId": "c45964ee-d7a3-46cf-8bfd-870f436bcd48",
+          "leftContent": "certificación de competencias",
+          "rightContent": "reconhecimento formal de experiência já acumulada",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2ce25451-d595-4483-b656-27c3bf61612a",
+          "exerciseId": "c45964ee-d7a3-46cf-8bfd-870f436bcd48",
+          "leftContent": "formación continua",
+          "rightContent": "atualização sem parar toda a rotina de trabalho",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "10a8bce8-853a-457c-8af8-b9e067dd078c",
+      "title": "Escolha a rota mais aplicada",
+      "content": "<p>Uma pessoa quer entrar antes em uma área técnica e prática. Qual rota nomeia melhor esse percurso em espanhol?</p>",
+      "contentPlain": "Uma pessoa quer entrar antes em uma área técnica e prática. Qual rota nomeia melhor esse percurso em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, formación profesional aparece como rota aplicada para entrar antes no trabalho.",
+      "feedbackError": "Nesta lição, formación profesional aparece como rota aplicada para entrar antes no trabalho.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "11b3251c-76c5-4d0f-acb7-de80db12f5bb",
+          "textContent": "formación continua",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "10a8bce8-853a-457c-8af8-b9e067dd078c"
+        },
+        {
+          "id": "23c50e7a-86e2-4445-b36c-e83de50d56c6",
+          "textContent": "formación profesional",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "10a8bce8-853a-457c-8af8-b9e067dd078c"
+        },
+        {
+          "id": "76a63924-1d4b-4973-a18a-d01d6d433d8b",
+          "textContent": "certificación de competencias",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "10a8bce8-853a-457c-8af8-b9e067dd078c"
+        },
+        {
+          "id": "b12734e5-c320-4bce-86d9-0c694e247094",
+          "textContent": "grado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "10a8bce8-853a-457c-8af8-b9e067dd078c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5d37f8bc-4384-4ab4-9e91-eb4d73ac095a",
+      "title": "Escolha a rota mais flexível",
+      "content": "<p>Uma profissional quer seguir estudando, mas precisa continuar ligada ao cargo atual. Qual rota expressa isso em espanhol?</p>",
+      "contentPlain": "Uma profissional quer seguir estudando, mas precisa continuar ligada ao cargo atual. Qual rota expressa isso em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, formación continua organiza atualização com continuidade de trabalho.",
+      "feedbackError": "Nesta lição, formación continua organiza atualização com continuidade de trabalho.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "29b70cbb-adad-4d71-97b3-56610c0b7c7f",
+          "textContent": "formación profesional",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5d37f8bc-4384-4ab4-9e91-eb4d73ac095a"
+        },
+        {
+          "id": "4691c795-dfa9-4ce9-be0a-38d7226113fc",
+          "textContent": "grado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5d37f8bc-4384-4ab4-9e91-eb4d73ac095a"
+        },
+        {
+          "id": "ca78edbd-81d8-4a94-8f03-1d2f55e37a10",
+          "textContent": "certificación de competencias",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5d37f8bc-4384-4ab4-9e91-eb4d73ac095a"
+        },
+        {
+          "id": "e2aad8bf-d8f2-4749-ac90-63c017a156b3",
+          "textContent": "formación continua",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5d37f8bc-4384-4ab4-9e91-eb4d73ac095a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "11f444c9-326d-40b3-a510-07e7bddde722",
+      "title": "Escolha a rota mais flexivel",
+      "content": "<p>Uma profissional quer seguir estudando, mas precisa continuar ligada ao cargo atual. Qual rota expressa isso em espanhol?</p>",
+      "contentPlain": "Uma profissional quer seguir estudando, mas precisa continuar ligada ao cargo atual. Qual rota expressa isso em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, formación continua organiza atualização com continuidade de trabalho.",
+      "feedbackError": "Nesta lição, formación continua organiza atualização com continuidade de trabalho.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0019037e-e27b-4387-9561-a56a855f6fda",
+          "textContent": "formación continua",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "11f444c9-326d-40b3-a510-07e7bddde722"
+        },
+        {
+          "id": "438d2d1c-8aa3-4cb0-9c8f-f44aed226596",
+          "textContent": "formación profesional",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "11f444c9-326d-40b3-a510-07e7bddde722"
+        },
+        {
+          "id": "a604f2df-a87b-476f-936a-d276791754d9",
+          "textContent": "grado",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "11f444c9-326d-40b3-a510-07e7bddde722"
+        },
+        {
+          "id": "d15950e0-54a5-492f-9f88-24490ec60137",
+          "textContent": "certificación de competencias",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "11f444c9-326d-40b3-a510-07e7bddde722"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "95eae4a6-6cb8-4b67-8185-11ec67a2a3d0",
+      "title": "Complete o reconhecimento",
+      "content": "<p>Complete em espanhol: La certificación de competencias le dio reconocimiento _______ a una experiencia que ya tenía en el trabajo.</p><p>Tradução: A certificação de competências deu reconhecimento oficial a uma experiência que ela já tinha no trabalho.</p>",
+      "contentPlain": "Complete em espanhol: La certificación de competencias le dio reconocimiento _______ a una experiencia que ya tenía en el trabajo. Tradução: A certificação de competências deu reconhecimento oficial a uma experiência que ela já tinha no trabalho.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, certificación de competencias aparece ligada a reconhecimento oficial.",
+      "feedbackError": "Aqui, certificación de competencias aparece ligada a reconhecimento oficial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "oficial",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "447d6ef0-2283-4d73-9297-aa3d97eee1d5",
+      "title": "Complete a experiência validada",
+      "content": "<p>Complete em espanhol: La certificación de competencias sirve para dar reconocimiento formal a una experiencia ______.</p><p>Tradução: A certificação de competências serve para dar reconhecimento formal a uma experiência prévia.</p>",
+      "contentPlain": "Complete em espanhol: La certificación de competencias sirve para dar reconocimiento formal a una experiencia ______. Tradução: A certificação de competências serve para dar reconhecimento formal a uma experiência prévia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta lição, esta rota valida experiência prévia em vez de recomeçar do zero.",
+      "feedbackError": "Nesta lição, esta rota valida experiência prévia em vez de recomeçar do zero.",
+      "answerType": "buildWord",
+      "expectedAnswer": "previa",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4c899bdb-706b-4253-ba6d-bd06812553b3",
+      "title": "Complete o percurso mais longo",
+      "content": "<p>Complete em espanhol: Si buscas una base amplia y un título con recorrido largo, un _____ sigue teniendo peso.</p><p>Tradução: Se você busca uma base ampla e um título com percurso mais longo, uma graduação continua tendo peso.</p>",
+      "contentPlain": "Complete em espanhol: Si buscas una base amplia y un título con recorrido largo, un _____ sigue teniendo peso. Tradução: Se você busca uma base ampla e um título com percurso mais longo, uma graduação continua tendo peso.",
+      "fileUrl": null,
+      "feedbackSuccess": "No contraste final, grado nomeia a rota de base ampla e percurso mais longo.",
+      "feedbackError": "No contraste final, grado nomeia a rota de base ampla e percurso mais longo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "grado",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3191f465-62e9-44cc-9025-8615a532244c",
+      "title": "Complete a experiencia validada",
+      "content": "<p>Complete em espanhol: La certificación de competencias sirve para dar reconocimiento formal a una experiencia ______.</p><p>Tradução: A certificação de competências serve para dar reconhecimento formal a uma experiência prévia.</p>",
+      "contentPlain": "Complete em espanhol: La certificación de competencias sirve para dar reconocimiento formal a una experiencia ______. Tradução: A certificação de competências serve para dar reconhecimento formal a uma experiência prévia.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta licao, esta rota valida experiencia previa em vez de recomecar do zero.",
+      "feedbackError": "Nesta licao, esta rota valida experiencia previa em vez de recomecar do zero.",
+      "answerType": "buildWord",
+      "expectedAnswer": "previa",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ee4b27ad-c10d-45cc-ac59-b15b676bec17",
+      "title": "Complete a rota de atualizacao",
+      "content": "<p>Complete em espanhol: La formación ________ le permite actualizarse sin apartarse del todo de su puesto actual.</p><p>Tradução: A formação contínua permite que ela se atualize sem se afastar por completo do cargo atual.</p>",
+      "contentPlain": "Complete em espanhol: La formación ________ le permite actualizarse sin apartarse del todo de su puesto actual. Tradução: A formação contínua permite que ela se atualize sem se afastar por completo do cargo atual.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta licao, formación continua aparece como atualizacao sem ruptura total.",
+      "feedbackError": "Nesta licao, formación continua aparece como atualizacao sem ruptura total.",
+      "answerType": "buildWord",
+      "expectedAnswer": "continua",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ec3df0a3-c431-4818-8522-83ddaf19a349",
+      "title": "Ligue descrição e rota em espanhol",
+      "content": "<p>Relacione cada descrição em espanhol com a rota correspondente.</p>",
+      "contentPlain": "Relacione cada descrição em espanhol com a rota correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento da lição recompõe as quatro rotas em espanhol segundo objetivo, prazo e reconhecimento.",
+      "feedbackError": "O fechamento da lição recompõe as quatro rotas em espanhol segundo objetivo, prazo e reconhecimento.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e88ffd2e-ea2a-4a40-b932-a64081d66b5d",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "490e9da5-2538-4ecc-aecc-3a0af166d2c4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ec3df0a3-c431-4818-8522-83ddaf19a349"
+        },
+        {
+          "id": "e3b8f3d5-96b5-4a66-950d-6b448161fd65",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ec3df0a3-c431-4818-8522-83ddaf19a349"
+        }
+      ],
+      "associations": [
+        {
+          "id": "c246f3b7-bec5-4519-a121-fc9fd463b7f0",
+          "exerciseId": "ec3df0a3-c431-4818-8522-83ddaf19a349",
+          "leftContent": "una base amplia y un título con recorrido largo",
+          "rightContent": "grado",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4411b352-71bb-4dab-bb2a-e63ad577068f",
+          "exerciseId": "ec3df0a3-c431-4818-8522-83ddaf19a349",
+          "leftContent": "incorporarte antes al trabajo",
+          "rightContent": "formación profesional",
+          "sequenceItem": 2
+        },
+        {
+          "id": "96b1529e-bfb0-4f2a-82dc-292f0d0cebe4",
+          "exerciseId": "ec3df0a3-c431-4818-8522-83ddaf19a349",
+          "leftContent": "reconocimiento formal de una experiencia previa",
+          "rightContent": "certificación de competencias",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a569bd68-d310-46dd-a3c5-f5d739b93b14",
+          "exerciseId": "ec3df0a3-c431-4818-8522-83ddaf19a349",
+          "leftContent": "actualizarte sin apartarte del todo de tu puesto actual",
+          "rightContent": "formación continua",
+          "sequenceItem": 4
+        }
+      ]
+    }
+  ],
+  "title": "Contrastar rotas de formacao com criterio"
+}

@@ -1,0 +1,569 @@
+{
+  "attemptId": "66e5864a-0330-46cd-9d9a-0f3ea6a79ff4",
+  "exercises": [
+    {
+      "exerciseId": "8acfd28a-0ec6-48f7-a70f-85df8aa2d177",
+      "sequence": 1,
+      "lessonId": "74058369-e925-459c-bafb-1e1dedc94c80",
+      "title": "Ouça e ligue sem apoio",
+      "content": "<p>Relacione cada áudio diretamente à frase em espanhol correspondente.</p>",
+      "contentPlain": "Relacione cada áudio diretamente à frase em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar as linhas da atualização usando só pistas em espanhol.",
+      "feedbackError": "Aqui o foco é recuperar as linhas da atualização usando só pistas em espanhol.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "196fc0ec-b3a6-4b1f-8b63-789ba8657d68",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ca3d08a414804228a1be193210cbee46_b02-durante-una-etapa-trabajaba.mp3?Expires=1794099684&Signature=NF72Z9fzL4HpX1njnMqYqbbbhei5-WBpPd8PX19XYkMei8NJtBF57MO80sbpUbOMkqj98a6uP3LOMjXqFUmIcJVC36neJXaLth0P21U0ngayyTPl0nw2SM0VGHBGNn7-egjK~D3Hu6I3eonNrjRwFhvvPA5EdiXqQr08PBrPD3iB6iFy8gOSTN8SzXTYB40Rl19UqaR~nKeLFs0hpMvojSeAgStSRV1-MVFciJJ34wWTUiL79S1dQRP8gFiLyXVdLA3-3q3HvrcYIsb2ObqcWFlEESNM1CsUOMnCOF7EsH33d2usqBp~aPbROD4K8YAMFkvJMwBs5uWFQD9NG~yvHg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Durante una etapa trabajaba hasta tarde y casi no tenía energía para estudiar.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d6bd0c84-bb05-42d0-91be-7d867c06164e",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a2a46f98fe2043a6a542697ae689037f_b04-cuando-cambie-de-horario.mp3?Expires=1794099684&Signature=ZJMLY2X56HY5FPiKFLnUzXK~Lzi7P7P5QC~sqyG--NpCRAuP37-bL-595NKO1rLiDVcyaKOJlpyUWA-U4rXpNitkP2C2nZ01kVCYbO3hUKxG7GwM9ftjieyE4U8f18YsP1Yj8n9IiGCyTzKFM6Xpw8dQ1D0Xw~49rsYLg8jlH2YT6YZw-3mQOyhy62X7ptpvYixb42Wox1GVjyawlwIz4kvfyvp27pzcBYc1aNA-ZXE6i5BXI-oKC7jQObxKW4Hy3KPKTTaJ7IE2n2sM73tMsnGmjUZtyFHG08OcH2Dyxpncj0~BX8xaqqeUK~fInA~Kfvs9XKH2Gd03cOvCEpJx2A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuando cambié de horario, empecé a estudiar por la mañana.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "687564eb-82b9-4875-8e21-e5e28a859a31",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4c82d4ceb36146d4adc10e5452157344_b06-poco-a-poco-fui-ganando-confianza.mp3?Expires=1794099684&Signature=Ugj7ZiX1hRPldqwDn6WCKpp2mm2HqNSyS53Pf5Nb55j5DnIet9UUPTvq~rOKpgiVac1ez4X13q~UVpfUqgzUWviH8ViklkeQmnjaPdrOWfJpbRS5QS5yOkYp~zCo0uiDKTZvkheIOVekemH68Kvcf-JFmKye7N7MPImOZp7CrkUU6kZuGsAkG0U0q2EKBYCxrdO0Hzre8PR0LiRZOJsJr2ueVasib~Gm0Z~KgJGqaUmK6ZtYRwkYFcDB~c4MsMMURc75iLG84Rg9FozIFrADHi4UyBkx85-DfPYkdiUirgYoe8BTPptRRdWj8TGNvxEUPTWkcTD0KIryAA~9UJ0vJg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Poco a poco fui ganando más confianza para hablar.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "58626197-5373-4fa4-b279-5c5bb507ed2c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9bb4a1a253c544a19c795c8a5818ab92_b08-actualizacion-completa.mp3?Expires=1794099684&Signature=OCYfBiIYUCb7Lly62yUbQ79TljHHRS94Mg7vDCCAHrrUE9-sBAbO1HDbrDzy0UxsFWZ~aHn5sRsHrVOqdW2XkSPXZyA8tzMCGsfpZkblz1wC-rLQ3ngvnfHD3p0yCMyC3XzuAcLpuH4MbwmYhBMbctiz0dnCve2Riy-VvZw8ShM7MG4VEWN~HnY5F-tqxwxIwI1KUBNkramoLqMQixykpsZVwo3an101x63y9Jmcx8EVZMJ4GlL6Ye1aAB7lmGlaUX8PJvSBmB5j58JhsAXbLlaS89xWZmqwWI0uW7AnpCP2KqdahsB~YYimQr0C2MCumGVs1wppOQQntLA5JJ5YXw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Durante una etapa trabajaba hasta tarde y casi no tenía energía para estudiar. Cuando cambié de horario, empecé a estudiar por la mañana. Poco a poco fui ganando más confianza para hablar.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "e8537680-7d7a-458d-9b09-010171403f81",
+      "sequence": 2,
+      "lessonId": "bccb9604-33ab-4f8e-89c2-87c5da185eba",
+      "title": "Recupere o relato em espanhol",
+      "content": "<p>Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste da lição fica claro quando você recupera contexto, virada e resultado no mesmo relato.",
+      "feedbackError": "O contraste da lição fica claro quando você recupera contexto, virada e resultado no mesmo relato.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "ce8350b1-e558-4b2d-8159-dc18269cecdd",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ce3d9d7346e64fe6a2f84f18e5533941_b02-cuando-preparaba-mi-cambio-de-carrera.mp3?Expires=1794099684&Signature=fSUZ7Wb5nlwHDHDH6snH~ew-ySY9ciKBvTCLh8mPg1gbMW1leGCKFbApovXCiE6Ci~-WbJ5mBa4rYNfHj55GKUJeZOeVIOdiGWfPJmlCbNMzvX9UrVrhcXn4Jhqm0hVyouJjy1BVdWRAHbmWAFCuClHiLuvim~YTE7VfiPgvdj97aLDR7q2y5herrNwqFuEyd8C4neLaTLBgl-mPkvnRNjSCpRq5dEH-hvDdqVo~uthiukHybPvGcumwkjLDGxw~D2e95oj~AOJmKDhrCSnXVPvugahAMU27W8sDbKZWFcjB~1ZAKNw-PjEVTkkLLRnL7uMQ5yGwTKL2DUUhWOP9VQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Cuando preparaba mi cambio de carrera, estudiaba español todas las noches.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1d2d6f5d-715f-4a6b-96e7-9a0b1ce31dd0",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/47783f59ddb04e039bd7e65d96cf07e8_b04-un-dia-una-empresa-chilena-me-llamo.mp3?Expires=1794099684&Signature=WotSq7P9b0CZlwUgVWmMU~iaVb9li9nJZE5gG3B94cv5VwcN6HB6SXXrHhO881Q7IF4mTIe2C6TDNdZtYMbEM9Kr68qZye4RKb8q9XWqjh9QwmhwNZoLdNs2s0SEEsJ5LpNFQLF3xMdFkdI63QpSnBKWhIooGbMfao9bILzdFCI5O5E8pwdlJpkAA9A~RaoVbH608LbR72ynwT74M-eo~u8Ki2gH2rBjDsIT1XA6-EatE8osXfq9xnUcgrs7cK-NFDCQz3CJT7lePPuOSMNtCdHFxZ2sYy0PlPJUDvKRARY8jZU9EsNqtKf8qwOkvQ1ivgoN20JFkJRCMydsPMqHHw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Un día, una empresa chilena me llamó para una entrevista.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0328933c-dbc2-4f9d-964b-1881a09995a2",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/53b6284b7da04c9295ca9f8fd289b79c_b06-con-el-tiempo-fui-ganando-confianza.mp3?Expires=1794099684&Signature=oDngud6KJRkiuY4HpKRhwWSKNkDnTpfXlef2wbn706~o~jZPKY8jJHwDBo7VizVahrkSJKyJ189GRp58-8mmSwXornD4RJ0EmzbJn9FMv-gS~eUFmYQu5GwVdg1RdjLFeGgENXUTCaSyXE4lruUs0CQ-WSh96moDI8RWHn8ZwZUqfWTu2yW1tMBc5aILX2~afrfEQUSPDIB-VqMNLONvKn30mCBmj4MvJUdlcfG9SoOOLn2nOul8kqMyLli2tMGreW7N-wy2GLj8eKgPJeW1QlVUJONsrHwjxlmd8tnoMRdj0cQl9krgbNIXk8JKEgTgMuqRSIKZ8xSK5IW0kProlw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Con el tiempo, fui ganando confianza para hablar en las entrevistas.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "7ac86732-cb60-4de8-ac2a-460855f34caa",
+      "sequence": 3,
+      "lessonId": "7e2505ec-3183-4249-9848-8cf816126000",
+      "title": "Complete o hábito",
+      "content": "<p>Complete em espanhol: Yo _____ repasar con audios cortos.</p><p>Tradução: Eu costumo revisar com áudios curtos.</p>",
+      "contentPlain": "Complete em espanhol: Yo _____ repasar con audios cortos. Tradução: Eu costumo revisar com áudios curtos.",
+      "fileUrl": null,
+      "feedbackSuccess": "Suelo + infinitivo é o recurso da aula para falar de costume de estudo.",
+      "feedbackError": "Suelo + infinitivo é o recurso da aula para falar de costume de estudo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "suelo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "75b89260-c1ea-4ba0-bf94-dbd95c425d39",
+      "sequence": 4,
+      "lessonId": "877d02e9-a7cc-42d7-9c52-37911a8c365e",
+      "title": "O que aparece no áudio?",
+      "content": "<p>Ouça a frase e marque apenas as palavras que realmente aparecem nela.</p>",
+      "contentPlain": "Ouça a frase e marque apenas as palavras que realmente aparecem nela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3ba65bed59c24eca866a9a15c0aa5c88_b05-me-di-cuenta-de-que-queria-un-cambio.mp3?Expires=1794099684&Signature=eJ0vhQbaCYe8DNqJCr2HdEFZwTFY8JyIowcKapvVFo6lkJC3vtkj8znf3JBf~wmjHmyRHaivx3P73sIacqftuxQrYWRcCq8KZSeGQVu46EtFaNrlHuoT1FkgCS9NQ~9MgMMCxDX1loCD1NMAPqr38fAkNLLYHuLIdHyuvHT-SdvV8kRfyjfE3Hc8Phwdf9OpVr5Dk6FFcEs~80kxuOZ~9pvyeVfByi49M2Inc40lWThU3St3TixP0AFf7aV-7fSPgAiNV3dIKt8mNRNkTwERHPG74OM2oV-yz1HHYS-Q3Xzib7dcizsL~lz-W2xiVX2MsGcQJfWLQ1LsMKjbP6A5Gg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui darse cuenta de que apresenta a percepção que explica a mudança.",
+      "feedbackError": "Aqui darse cuenta de que apresenta a percepção que explica a mudança.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "24994f4e-b07d-4d9c-a113-9eb4ce38d31b",
+          "text": "quería",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "67324e71-f26e-4929-a369-a6277d91b9dd",
+          "text": "noche",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b141a4b2-6100-448e-8b88-34a5e5fe760a",
+          "text": "cambio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ca0364d9-94d5-4b76-8c43-a00c3b203049",
+          "text": "volví",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f2291f7c-1983-4b5d-a0ac-ddcd0194612f",
+          "text": "cuenta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "075905c3-510b-42a2-bc3a-1e784740427a",
+      "sequence": 5,
+      "lessonId": "e6095e68-9ce4-449b-b325-d097e69ab874",
+      "title": "Recupere a barreira inicial",
+      "content": "<p>Complete a frase em espanhol: me daba _________ hablar.</p>\n          <p>Tradução: Eu tinha vergonha de falar.</p>",
+      "contentPlain": "Complete a frase em espanhol: me daba _________ hablar. Tradução: Eu tinha vergonha de falar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vergüenza nomeia a barreira inicial antes da mudança.",
+      "feedbackError": "Vergüenza nomeia a barreira inicial antes da mudança.",
+      "answerType": "buildWord",
+      "expectedAnswer": "vergüenza",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "142be3ee-18ea-4bcb-a8c9-eb758387f2b1",
+      "sequence": 6,
+      "lessonId": "fd9ff74c-c74f-4772-8103-f19cac3bf34b",
+      "title": "Reconstrua a conversa pelo áudio",
+      "content": "<p>Ouça os quatro trechos e ligue cada um ao texto certo para recuperar a sequência completa da conversa.</p>",
+      "contentPlain": "Ouça os quatro trechos e ligue cada um ao texto certo para recuperar a sequência completa da conversa.",
+      "fileUrl": null,
+      "feedbackSuccess": "A conversa final encadeia pergunta, rotina, progresso e virada pessoal no mesmo fio.",
+      "feedbackError": "A conversa final encadeia pergunta, rotina, progresso e virada pessoal no mesmo fio.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "8c52fdc2-f5aa-4468-ada2-70d506cc5e29",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/915790fa9dd74946acc8ad9523041e1f_b06-hace-tiempo-que-no-hablamos.mp3?Expires=1794099684&Signature=grjHM~hPFkxJNT5-np71RA~QEVA8fzWPjbhitIUkysluylmDX-50QmkDjetk~dtVa-tab~7XWb3ja3cGbwIfJKWuGl4SXbLTpr2PsvsTLnmXgMn2kHvIIZq3vlxnmGOOatbfWE3mNJkSdIfFe8wO9od~gNgfoWsu0CsaYQZyypeDOzpeMLD~z9CLATQgxCeqW0O1~~jL0W3rZ72q~JYrmKmXPJ1o3DapByBU2wO5IVyqP6u7eJy5Doppic2F19XW3H~A-n3jM1GwBGkKW~NkIWmvrBQ4veCdWdUB1QLUnYa-SfjpL91BKK3Sj6mt3wxcjZpodM8xYZNm6vtjTPP4dw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hace tiempo que no hablamos. ¿Cómo va tu español?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3830a5db-83c4-458a-997b-1349ebd37a09",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4753642cb2de4f5c9009951e51036889_b01-desde-que-me-mude-a-recife.mp3?Expires=1794099684&Signature=afnsh0~u3IvwZhzKytyE2yqoi1abmHMo5uFjMfwTsDHkktHCFXh-4WSbcbk~K6BngrqBiyWb8nwoLYeU30Xkcy5MoJPhQD5LKLOgubxHREz608D633gKC1KFfLfwD~7jKc8QrvDOAFTRH3DYIME9WPKrerVOGvXpw-fXogMHm9aPa9CFa3Cd~gIOUmBUgeUnUKtEp6QKdk11-mmCyCEnHVW77Wm0J8xGTzu~1C5SD95jwxKJKd~pNS2~GxHW5pI~s3XyHb8RtUXq~uf-xTPX31mRjMw-0sWaGvuFF~u6OdizMx8TQWcaO3iCrNnWl4R3ckg~B4ESooU9ir1rC~jgWA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Desde que me mudé a Recife, estudio español con más constancia.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "365f0cf7-17f4-4d41-ac64-fc59a969512a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/499e45830cbe4c9bb727ad25e62709f9_b03-al-principio-me-costaba-hablar.mp3?Expires=1794099684&Signature=qeXiRbtBmppXls0qlvLL-3YwALSLjnxj6hZwfBL~KBZC-~XFanMQO31p47RHe6Nu34bHfdkjZ7IB6Z7QAkJp3CG4DplifVDbmsv~2NxYzY2BE~CTjyqsle5RNoC4NDlj38h-ew-jXBQv6fniop~AOrDzVYXt7QVwvpvnmjH7tp9hDcVTcSaW75NT5wOVwS7iM0OJnYs-PFcACmTGQqQarg1Z8KDGKm-wJLWA5rd-OLfUiXJV-k0qBpRX7JZV0L8MenH7TK9MKSY-DxQD83krkBDVVxheUna-1Nrn9i0TVkAmjUz0r2fPAPEO1zTh7YF2gfdsfQywkiE1aeoxVUMgSQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Al principio me costaba hablar, pero con el tiempo fui ganando confianza.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "2ff258a3-5ca6-4846-a12f-02a4921d61a4",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/332536ca7f8c414e8b2f3de9bc3589e6_b05-deje-de-trabajar-por-la-noche.mp3?Expires=1794099684&Signature=FUhQleBDS8Oj5fdRR0OCBGt6ZSEbg27wVLuEH5PdOFKKB6FvsdiKp1~wtzAEd346lGN2~3HGuGL5iPeBMrXl1LYCRLYCgZ7YEsIv862E8vK~drrxGhrDVs6DAuzIYVcbG7JxQnFXztUfn3jQKjI6bC369U3K22NLotsacUGxvH7P3mUP6arOYGeTmNMzIUEaAvuwK3aT7sovoEhJWvKPIVxbMx80ew7zL7UTLrBYATB4KBvlrrbjlGQUTvjMOZdnGuOQiHcDheuQSAAQkvfaUZwV69CbUfk8iSAPkggX4OJMDuAv7eG2jV5MRQokyA~ndVvDpxi8lip7ifTtyFVmmA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Dejé de trabajar por la noche y volví a la universidad.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "e9cb3e5f-537a-4626-9e42-de53413dfb9d",
+      "sequence": 7,
+      "lessonId": "e6095e68-9ce4-449b-b325-d097e69ab874",
+      "title": "Escute e recupere a consequência",
+      "content": "<p>Marque somente as palavras que fazem parte do trecho sobre o que aconteceu depois da virada.</p>",
+      "contentPlain": "Marque somente as palavras que fazem parte do trecho sobre o que aconteceu depois da virada.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5721ae2a1e014e1ca2ce271a75bbb2c9_task-consecuencia-principal.mp3?Expires=1794099684&Signature=vbtzpyf2AbL91onSwL5G29QTQiCbkdPuVQH6EPV0J1lq9jVp2iEnD0NKZsC-b852iMbjs0VOQp~40jLJIXY23TtKHqehX2P6dF0OUpixfn36Tnb27GjgNN5z1sWhY3haq2qdTxG6M7YFnfpEBTaer1KaQverVdJT8L7hdUEd1Np0oY34C6ww6W6qwxG~QiHGpXLhInelgUIPPHUUbj-b9AsytoOk6D0SSxFw4zY77eAO~t4WRd~xECw1psEqhIkkxYMKR28PuLmQbx9bjpkrJgHhAvJXtaXu~l4JROpNHTK5Vss44QjzcrCnSFHSTedYpxb3atPOFFtyvFamX2RfAQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A consequência final mostra nova rotina e uso real do espanhol.",
+      "feedbackError": "A consequência final mostra nova rotina e uso real do espanhol.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1ffcdf21-503b-4f80-8f4e-33b9b8f8e568",
+          "text": "día",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5f9e4370-f61a-441e-a218-a2fe1d51905d",
+          "text": "clases",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "afb3388f-4272-4b7f-ba0f-28670f14c57d",
+          "text": "leer",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b44f43d8-bc14-4cc7-baf1-ff2270a71ced",
+          "text": "entonces",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bad48b9b-7a60-4200-a16c-a605a8d81100",
+          "text": "club",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cb5396d7-0b11-4e9b-8f9d-c458ed211b55",
+          "text": "voz",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d3755abf-365a-4d86-af07-c2d4d57a2a15",
+          "text": "desde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e57f4f79-77d0-43a9-89ad-3db878014a10",
+          "text": "trabajo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fbf0ed67-8f0c-477d-b87b-14e9fc051881",
+          "text": "alta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "71c73d36-c690-4563-9f41-640b605674df",
+      "sequence": 8,
+      "lessonId": "7e2505ec-3183-4249-9848-8cf816126000",
+      "title": "Complete o resultado",
+      "content": "<p>Complete em espanhol: Desde que preparo un plan semanal, estudio con más __________.</p><p>Tradução: Desde que preparo um plano semanal, estudo com mais constância.</p>",
+      "contentPlain": "Complete em espanhol: Desde que preparo un plan semanal, estudio con más __________. Tradução: Desde que preparo um plano semanal, estudo com mais constância.",
+      "fileUrl": null,
+      "feedbackSuccess": "A mudança da aula termina em con más constancia como resultado atual.",
+      "feedbackError": "A mudança da aula termina em con más constancia como resultado atual.",
+      "answerType": "buildWord",
+      "expectedAnswer": "constancia",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "028e55ae-1454-4203-9b91-7f7aa35d76ec",
+      "sequence": 9,
+      "lessonId": "bccb9604-33ab-4f8e-89c2-87c5da185eba",
+      "title": "Ouça e selecione",
+      "content": "<p>Marque só as palavras que você realmente ouve na frase da entrevista.</p>",
+      "contentPlain": "Marque só as palavras que você realmente ouve na frase da entrevista.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/47783f59ddb04e039bd7e65d96cf07e8_b04-un-dia-una-empresa-chilena-me-llamo.mp3?Expires=1794099684&Signature=WotSq7P9b0CZlwUgVWmMU~iaVb9li9nJZE5gG3B94cv5VwcN6HB6SXXrHhO881Q7IF4mTIe2C6TDNdZtYMbEM9Kr68qZye4RKb8q9XWqjh9QwmhwNZoLdNs2s0SEEsJ5LpNFQLF3xMdFkdI63QpSnBKWhIooGbMfao9bILzdFCI5O5E8pwdlJpkAA9A~RaoVbH608LbR72ynwT74M-eo~u8Ki2gH2rBjDsIT1XA6-EatE8osXfq9xnUcgrs7cK-NFDCQz3CJT7lePPuOSMNtCdHFxZ2sYy0PlPJUDvKRARY8jZU9EsNqtKf8qwOkvQ1ivgoN20JFkJRCMydsPMqHHw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na virada pontual, o áudio concentra o evento fechado que reorganiza o relato.",
+      "feedbackError": "Na virada pontual, o áudio concentra o evento fechado que reorganiza o relato.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "8d0ddab0-6f8d-4aec-9f83-ba9581eca6b7",
+          "text": "tiempo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "95a9d884-359c-4f26-b1eb-b7ff8f6cf0ad",
+          "text": "chilena",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9ea04c58-47cc-4231-9009-4c42c3797879",
+          "text": "llamó",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c5ded5cf-64a5-401d-ac3c-c1e3f0f3c5db",
+          "text": "día",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f03941cc-3dd6-4abf-80c1-9d431628e710",
+          "text": "empresa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f712a5e9-10c3-4021-81b5-ef1a5329e61b",
+          "text": "ganando",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fbfce510-0413-4cda-b8c1-7d88bb690afa",
+          "text": "entrevista",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "a29c298d-f033-4005-8f9b-82e61657b2a7",
+      "sequence": 10,
+      "lessonId": "ba9df6c2-bd6e-4d5c-b327-704bea11fdda",
+      "title": "Recupere o progresso no áudio",
+      "content": "<p>Marque todas as palavras da frase nova que ainda mostra uma mudança gradual.</p>",
+      "contentPlain": "Marque todas as palavras da frase nova que ainda mostra uma mudança gradual.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e6261d8e666249d5a9ceb9d189809735_l03c02-con-el-tiempo-gane-mas-confianza.mp3?Expires=1794099684&Signature=m0F9XYcPesB~IwZCfqZnmsAYPn6DFVK33vxABTCuWGSY-Eg449RXKqrV4O5uLlyNBt1qz3Ygvr6-phuNTevnPJNi7fyxC3UoZd5JkF-0wFgTlixrYtIj2riJklVCxUON-tAbyV0z~4mpa-MEpLrkLrI~4D6r9obPbPKQ9QJtE2dcX-g0LZzDhHJ16pfJXVur4mN4mEPqRNzHugadTIpg9yYuZjZSbVv-0PfVM3i9pNBftk-Q1mzeBhMQLRO0W-ElBiCnug9zRy44ryNwBPZHLCBHtmKY5ZGiMVO~is1HWyTCOQJ4WCXXbuHFahzet4ru6-oJlB5hSsW-JQ-Hnub9aA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Mesmo em outro contexto, Con el tiempo continua marcando progresso gradual.",
+      "feedbackError": "Mesmo em outro contexto, Con el tiempo continua marcando progresso gradual.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "03867c81-3e11-498e-8507-23cf31fa16d0",
+          "text": "gané",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1f7de965-0cfe-4d5e-a807-b21fd637994d",
+          "text": "con",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "449d0f87-8ea9-4a46-ab85-80c41034c09c",
+          "text": "proyectos",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "654c9033-fc69-474b-8a41-7f8558a94982",
+          "text": "más",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "828d2199-36e3-41a7-9c2c-4fd3315579be",
+          "text": "confianza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9a7d2e73-7664-4425-b356-1f7ceebbaacc",
+          "text": "el",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c256be0c-382d-447c-99ff-f7cd116844fa",
+          "text": "reuniones",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c2579074-2188-450d-b8d3-d3686f3167cd",
+          "text": "principio",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e881ffe3-1996-4197-8d5e-3a2c75ab0640",
+          "text": "bilingües",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f8b32db8-c492-4379-8dbf-2b2171e7b9ee",
+          "text": "tiempo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "19d842dd-45b9-40ee-b4b8-636616e7b96d",
+      "sequence": 11,
+      "lessonId": "877d02e9-a7cc-42d7-9c52-37911a8c365e",
+      "title": "Complete a retomada",
+      "content": "<p>Después _____ a estudiar.</p><p>Tradução: Depois voltei a estudar.</p>",
+      "contentPlain": "Después _____ a estudiar. Tradução: Depois voltei a estudar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, volví mostra a retomada de um plano importante.",
+      "feedbackError": "Nesta aula, volví mostra a retomada de um plano importante.",
+      "answerType": "buildWord",
+      "expectedAnswer": "volví",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e18b8012-f67b-479b-9772-15e4ef5a876c",
+      "sequence": 12,
+      "lessonId": "ba9df6c2-bd6e-4d5c-b327-704bea11fdda",
+      "title": "Recupere o marcador de processo",
+      "content": "<p>Con el ______, gané más confianza al hablar.</p><p>Tradução: Com o tempo, ganhei mais confiança ao falar.</p>",
+      "contentPlain": "Con el ______, gané más confianza al hablar. Tradução: Com o tempo, ganhei mais confiança ao falar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Con el tiempo serve para mostrar progresso pouco a pouco.",
+      "feedbackError": "Con el tiempo serve para mostrar progresso pouco a pouco.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tiempo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7a485386-710b-4e68-a8bb-7ce4d876930c",
+      "sequence": 13,
+      "lessonId": "fd9ff74c-c74f-4772-8103-f19cac3bf34b",
+      "title": "Complete a virada de rumo",
+      "content": "<p>Dejé de trabajar por la noche y _____ a la universidad.</p><p>Tradução: Parei de trabalhar à noite e voltei para a universidade.</p>",
+      "contentPlain": "Dejé de trabajar por la noche y _____ a la universidad. Tradução: Parei de trabalhar à noite e voltei para a universidade.",
+      "fileUrl": null,
+      "feedbackSuccess": "A decisão concreta do relato termina com a volta à universidade.",
+      "feedbackError": "A decisão concreta do relato termina com a volta à universidade.",
+      "answerType": "buildWord",
+      "expectedAnswer": "volví",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "34a398d9-95a9-4682-a45d-e9289a57b56b",
+      "sequence": 14,
+      "lessonId": "74058369-e925-459c-bafb-1e1dedc94c80",
+      "title": "Associe frase e efeito",
+      "content": "<p>Ligue cada frase completa ao efeito mais preciso que ela cria na atualização.</p>",
+      "contentPlain": "Ligue cada frase completa ao efeito mais preciso que ela cria na atualização.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é perceber o efeito de cada linha dentro da atualização completa.",
+      "feedbackError": "Aqui o foco é perceber o efeito de cada linha dentro da atualização completa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "39278b91-0faa-4549-817f-8978b344f2d3",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4672dc08-718a-48b3-b112-07f6a158d459",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "199db673-b6f4-4a16-88d6-c66940a55289",
+          "leftContent": "Durante una etapa trabajaba hasta tarde y casi no tenía energía para estudiar.",
+          "rightContent": "descreve a rotina que pressionava os estudos",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a967212e-95bc-4795-9bf1-4893d7c8aee6",
+          "leftContent": "Cuando cambié de horario, empecé a estudiar por la mañana.",
+          "rightContent": "marca a mudança concreta e o novo hábito",
+          "sequenceItem": 2
+        },
+        {
+          "id": "88cc256a-4893-4190-aa77-21bec3f33d79",
+          "leftContent": "Poco a poco fui ganando más confianza para hablar.",
+          "rightContent": "fecha com um ganho acumulado para falar",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "769e71e6-1e00-4abb-9663-867d3af57990",
+      "sequence": 15,
+      "lessonId": "74058369-e925-459c-bafb-1e1dedc94c80",
+      "title": "Complete o ganho final",
+      "content": "<p>Poco a poco fui ganando más _________ para hablar.</p><p>Tradução: Aos poucos fui ganhando mais confiança para falar.</p>",
+      "contentPlain": "Poco a poco fui ganando más _________ para hablar. Tradução: Aos poucos fui ganhando mais confiança para falar.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a palavra que fecha a atualização com ganho acumulado.",
+      "feedbackError": "Aqui o foco é recuperar a palavra que fecha a atualização com ganho acumulado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "confianza",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

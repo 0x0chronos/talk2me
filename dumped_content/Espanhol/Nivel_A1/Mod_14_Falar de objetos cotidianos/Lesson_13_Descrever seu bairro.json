@@ -1,0 +1,483 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+    "attemptId": "0c5d37a9-26f9-4714-8370-885e04ab5a3e",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "e569e29c-c9e8-4e78-b26c-58fdc1be87cd",
+      "95e7e558-6476-4f6a-8dbe-2646afd2bbf9",
+      "83bb1e48-ecea-461b-adbb-838311c69cac",
+      "6db2ca95-8959-4945-847a-0fd3683a0f4b",
+      "fb1108bf-2b61-4091-b23c-e20744b7da73"
+    ],
+    "evaluationExerciseIds": [
+      "bb05ecf8-c8c4-4f63-bb34-243872cb5d2c",
+      "f0be1497-1ea5-40f6-a4da-d491ecb3575e",
+      "bb3c9f5a-7d8b-4fc0-ac3f-4213f292ab0b",
+      "09c2fcdb-1c76-4353-b7ce-72277511c2e2",
+      "7bb835ec-3103-4a99-bec8-18876117b42e"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:57:56.2291422Z"
+  },
+  "contents": [
+    {
+      "id": "ebf2bf5f-e31c-461a-883e-b0405d2df202",
+      "title": "Observe a cena e note a estrutura em espanhol que vai guiar a leitura.",
+      "description": null,
+      "contentType": 4,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "abcc062a-637b-41bf-9ea2-db74c39d03a3",
+          "textContent": "<p>Observe a cena antes de ler.</p><p>Nesta aula, você vai encontrar a estrutura <strong>En mi barrio hay...</strong>.</p><p>Ela ajuda a localizar os lugares que existem no bairro descrito.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/116f76d4b69049a78a025bd01118732e_b01-barrio-contexto.png?Expires=1794099476&Signature=sdfDSNyw2iJ01WQQbA42Hbnsb0BoxLQVCFNgnXZ45H2V9lsxdeb2oofnfPSgtXWZJV4Y4B~3WtAAIpRIxwOVCz2LTCTVTdk9jcE5otGt4LenrU3kLoIH3kWx2deWMkxjV2ir0EDrPWlWmuqwa6lpuBCA5F~j2M~pN3wS-vwVSGjKlz0R3pntljD~DiBfM8e8zVu39Huvgjvy4TVMEQLxYNjH2ebluTygg-nuOMPb6pi9NHCNfzIgXbE~IWjFcTbLgs9XCUzH4OD3KZ7EMFohDHmUX9IgJS4~8qwe8ne4iz43I8Iu9udZHbI3yyTXLQB8US~jVfZGj8Qj-Qebe-PVBQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b0ddf604-1602-4a0a-9ab5-48cd10ee5759",
+      "title": "Leia o texto e acompanhe apenas os lugares mencionados.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "25704d83-304b-46b3-9258-ef754f1f35c9",
+          "textContent": "<p>Leia a primeira parte do texto.</p><p><strong>Hola, soy Inés. En mi barrio hay un mercado y una cafetería. También hay una parada de autobús.</strong></p><p>Por enquanto, foque só nos lugares que aparecem.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1e5fc0b8-55df-4c6d-8fdb-c3f0e6b95ec1",
+      "title": "Observe as frases destacadas e note o que vem logo depois de `hay`.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "e49715d3-615a-4474-a78f-e1bcfe4774fe",
+          "textContent": "<p><strong>Hay</strong> mostra que um lugar existe no bairro.</p><p><strong>Hay un mercado.</strong></p><p><strong>Hay una cafetería.</strong></p><p>Depois de <strong>hay</strong>, vem a informação principal da frase.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "626ac9dc-78d0-43c8-9923-a5e70e402ba2",
+      "title": "Leia a continuação e perceba que o texto agora mostra o que existe e o que não existe no bairro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "3aff48ca-a60d-4b49-93ff-fe2ec8acad4e",
+          "textContent": "<p>Leia a continuação.</p><p><strong>También hay una plaza. No hay estación de tren.</strong></p><p>Agora o texto combina uma presença e uma ausência no mesmo bairro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1e6542b2-0d6c-4c4c-94c6-11300e6e86b3",
+      "title": "Compare as duas frases e observe como a negação muda a leitura.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "004300dc-fd83-4164-ba41-1fceb1247a6d",
+          "textContent": "<p><strong>Hay una plaza.</strong> indica que esse lugar existe no bairro.</p><p><strong>No hay estación de tren.</strong> indica que esse lugar não existe ali.</p><p>Em descrições curtas, esse contraste ajuda você a montar o mapa do texto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "72ead345-0c95-4871-80c0-2e909b679f12",
+      "title": "Releia o resumo e guarde as pistas mais úteis para entender um bairro em espanhol.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "4068622d-f036-4473-acc1-63bce998593c",
+          "textContent": "<p>Ao ler uma descrição curta de bairro, procure primeiro estas pistas:</p><ul><li><strong>Hay...</strong> para localizar o que existe.</li><li><strong>No hay...</strong> para localizar o que falta.</li><li>Os nomes dos lugares, como <strong>mercado</strong>, <strong>cafetería</strong> e <strong>plaza</strong>.</li></ul><p>Isso ajuda a entender apresentações curtas, comentários sobre onde alguém mora e descrições simples do dia a dia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "e569e29c-c9e8-4e78-b26c-58fdc1be87cd",
+      "title": "Reconheça a frase de ausência",
+      "content": "<p>Qual frase usa a pista principal da aula para dizer que um lugar não existe nesse bairro?</p>",
+      "contentPlain": "Qual frase usa a pista principal da aula para dizer que um lugar não existe nesse bairro?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, `hay` marca existência e `no hay` marca ausência no bairro.",
+      "feedbackError": "Nesta aula, `hay` marca existência e `no hay` marca ausência no bairro.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "02e7c9e1-5113-440e-b07e-c480c03139b1",
+          "textContent": "Hay una plaza.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e569e29c-c9e8-4e78-b26c-58fdc1be87cd"
+        },
+        {
+          "id": "090d6317-cfcb-45e6-8ab6-30b827d6a72f",
+          "textContent": "No hay estación de tren.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e569e29c-c9e8-4e78-b26c-58fdc1be87cd"
+        },
+        {
+          "id": "165d5337-3189-4ec5-b6fc-4acbd9c5cb9b",
+          "textContent": "Hay un mercado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e569e29c-c9e8-4e78-b26c-58fdc1be87cd"
+        },
+        {
+          "id": "612f7e9c-131c-408f-a548-9b26215a1baf",
+          "textContent": "Hay una cafetería.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e569e29c-c9e8-4e78-b26c-58fdc1be87cd"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "95e7e558-6476-4f6a-8dbe-2646afd2bbf9",
+      "title": "Ligue os lugares ao significado",
+      "content": "<p>O resumo final retoma três nomes de lugares. Relacione cada um ao significado em português.</p>",
+      "contentPlain": "O resumo final retoma três nomes de lugares. Relacione cada um ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final junta `hay`, `no hay` e nomes de lugares para montar o bairro.",
+      "feedbackError": "O resumo final junta `hay`, `no hay` e nomes de lugares para montar o bairro.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "705807d2-30c4-4be3-9fd5-0cb5659870d0",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "95e7e558-6476-4f6a-8dbe-2646afd2bbf9"
+        },
+        {
+          "id": "c07eda42-7cbb-42bc-a223-57c8b37f7362",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "95e7e558-6476-4f6a-8dbe-2646afd2bbf9"
+        }
+      ],
+      "associations": [
+        {
+          "id": "49fe1ade-04ea-49da-b104-9a5dc973d07d",
+          "exerciseId": "95e7e558-6476-4f6a-8dbe-2646afd2bbf9",
+          "leftContent": "mercado",
+          "rightContent": "lugar onde se compra comida",
+          "sequenceItem": 1
+        },
+        {
+          "id": "dd1a7c94-1fa8-44f0-b6e5-b59e01253c76",
+          "exerciseId": "95e7e558-6476-4f6a-8dbe-2646afd2bbf9",
+          "leftContent": "cafetería",
+          "rightContent": "lugar para tomar um café ou fazer um lanche",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e3fe0e5e-5ae4-4848-8896-6618cb7fded7",
+          "exerciseId": "95e7e558-6476-4f6a-8dbe-2646afd2bbf9",
+          "leftContent": "plaza",
+          "rightContent": "praça",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "83bb1e48-ecea-461b-adbb-838311c69cac",
+      "title": "Ligue os lugares ao significado",
+      "content": "<p>No texto de Inés, relacione cada frase ao que ela diz sobre o bairro.</p>",
+      "contentPlain": "No texto de Inés, relacione cada frase ao que ela diz sobre o bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "O texto de Inés usa hay para o que existe e no hay para o que falta no bairro.",
+      "feedbackError": "O texto de Inés usa hay para o que existe e no hay para o que falta no bairro.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "3ef7f7d8-086b-4e7f-ac3f-588192fcc614",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "83bb1e48-ecea-461b-adbb-838311c69cac"
+        },
+        {
+          "id": "43ed4408-82f7-4a47-9daa-4b39a2f12b98",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "83bb1e48-ecea-461b-adbb-838311c69cac"
+        }
+      ],
+      "associations": [
+        {
+          "id": "da1aab84-e57a-482c-bb37-905aa200c6b7",
+          "exerciseId": "83bb1e48-ecea-461b-adbb-838311c69cac",
+          "leftContent": "Hay un mercado.",
+          "rightContent": "o bairro tem um mercado",
+          "sequenceItem": 1
+        },
+        {
+          "id": "442eadcf-ff8b-4c53-a178-a52872fd5b3c",
+          "exerciseId": "83bb1e48-ecea-461b-adbb-838311c69cac",
+          "leftContent": "Hay una plaza.",
+          "rightContent": "o bairro tem uma praça",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f3e753e6-a177-4841-8a60-ed0c9335279f",
+          "exerciseId": "83bb1e48-ecea-461b-adbb-838311c69cac",
+          "leftContent": "No hay estación de tren.",
+          "rightContent": "o bairro não tem estação de trem",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "6db2ca95-8959-4945-847a-0fd3683a0f4b",
+      "title": "Complete a pista da frase",
+      "content": "<p>Complete a frase: También ___ una plaza.</p><p>Tradução: Também existe uma praça.</p>",
+      "contentPlain": "Complete a frase: También ___ una plaza. Tradução: Também existe uma praça.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste da aula fica mais claro quando você recupera `hay` na frase do bairro.",
+      "feedbackError": "O contraste da aula fica mais claro quando você recupera `hay` na frase do bairro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hay",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "fb1108bf-2b61-4091-b23c-e20744b7da73",
+      "title": "Recupere o terceiro lugar do texto",
+      "content": "<p>Na primeira metade do microtexto, além de <strong>mercado</strong> e <strong>cafeteria</strong>, aparece mais um lugar. Qual é?</p>",
+      "contentPlain": "Na primeira metade do microtexto, além de mercado e cafeteria , aparece mais um lugar. Qual é?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na primeira parte do texto, `hay` apresenta três lugares simples do bairro.",
+      "feedbackError": "Na primeira parte do texto, `hay` apresenta três lugares simples do bairro.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "016b7df2-875b-4b9b-9c0f-03bd0b630381",
+          "textContent": "parada de autobús",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "fb1108bf-2b61-4091-b23c-e20744b7da73"
+        },
+        {
+          "id": "572f8333-4269-4ff3-9100-c3518d96b40a",
+          "textContent": "plaza",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "fb1108bf-2b61-4091-b23c-e20744b7da73"
+        },
+        {
+          "id": "ea5da150-5ccb-42a4-8280-29c01ace706c",
+          "textContent": "estación de tren",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "fb1108bf-2b61-4091-b23c-e20744b7da73"
+        },
+        {
+          "id": "ec1a6f6c-9f98-4bd0-9765-12ea70a1c03f",
+          "textContent": "barrio",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "fb1108bf-2b61-4091-b23c-e20744b7da73"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "bb05ecf8-c8c4-4f63-bb34-243872cb5d2c",
+      "title": "Marque a ausência na frase",
+      "content": "<p>Complete a frase: También hay una _____.</p><p>Tradução: Também existe uma praça.</p>",
+      "contentPlain": "Complete a frase: También hay una _____. Tradução: Também existe uma praça.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "feedbackError": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "plaza",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f0be1497-1ea5-40f6-a4da-d491ecb3575e",
+      "title": "Recupere outro lugar do bairro",
+      "content": "<p>Complete a frase: Hay una _________ en mi barrio.</p><p>Tradução: Existe uma cafeteria no meu bairro.</p>",
+      "contentPlain": "Complete a frase: Hay una _________ en mi barrio. Tradução: Existe uma cafeteria no meu bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "feedbackError": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cafetería",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "bb3c9f5a-7d8b-4fc0-ac3f-4213f292ab0b",
+      "title": "Marque a ausência na frase",
+      "content": "<p>Complete a frase: __ hay estación de tren.</p><p>Tradução: Não existe estação de trem.</p>",
+      "contentPlain": "Complete a frase: __ hay estación de tren. Tradução: Não existe estação de trem.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "feedbackError": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "no",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "09c2fcdb-1c76-4353-b7ce-72277511c2e2",
+      "title": "Complete o lugar composto",
+      "content": "<p>Complete a frase: Hay una parada de _______.</p><p>Tradução: Existe uma parada de ônibus.</p>",
+      "contentPlain": "Complete a frase: Hay una parada de _______. Tradução: Existe uma parada de ônibus.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "feedbackError": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "autobús",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "7bb835ec-3103-4a99-bec8-18876117b42e",
+      "title": "Recupere um lugar do bairro",
+      "content": "<p>Complete a frase: Hay un _______ en mi barrio.</p><p>Tradução: Existe um mercado no meu bairro.</p>",
+      "contentPlain": "Complete a frase: Hay un _______ en mi barrio. Tradução: Existe um mercado no meu bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "feedbackError": "Nesta aula, você reconstrói o mapa do bairro recuperando nomes de lugares e as pistas `hay` e `no hay`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "mercado",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "44386b69-f1ae-4811-8538-4cd3a368f76f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Descrever seu bairro"
+}

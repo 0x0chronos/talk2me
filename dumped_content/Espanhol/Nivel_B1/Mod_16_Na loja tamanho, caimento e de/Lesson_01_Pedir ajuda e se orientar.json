@@ -1,0 +1,676 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+    "attemptId": "53339cb1-55ce-48a6-8c4f-b53cb692caa2",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "e4ca9967-b3c7-4b15-90ea-5d5215190b2c",
+      "e9afa5d9-c86f-458a-8d8b-ff425b375a33",
+      "23470650-b0b7-4b0a-b37c-23f982d196fc",
+      "669f161d-6a83-47d1-928d-4c501fd6eff7",
+      "de7dd0d0-7dfa-45f5-9e53-1a9be8d479c2"
+    ],
+    "evaluationExerciseIds": [
+      "5a9714a2-aeb3-4906-81e8-ec983fbf859e",
+      "1bfec7e5-c92f-4fdd-bad5-7f3a0ae1e250",
+      "d7135508-369c-49bc-b27e-09d213fc8980",
+      "dc0a8f5c-8a5e-400a-b00e-548b12059d99",
+      "67668481-ba55-415c-be14-8089774dcf97"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:48.0774423Z"
+  },
+  "contents": [
+    {
+      "id": "3ac6f662-843b-48b5-98cd-30b6b3d20d63",
+      "title": "Escute e leia a frase. Observe como ela abre a interação antes do pedido principal.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "a2fb627f-0f88-447c-aed9-57541a9ed94e",
+          "textContent": "<p><strong>¿Me puede ayudar?</strong></p><p>Em português: <strong>O senhor / a senhora pode me ajudar?</strong></p><p>Essa abertura entra na conversa com cortesia antes do pedido principal.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/abd5c7d2e4e3456a863ad60e1148e370_l01b01-me-puede-ayudar.mp3?Expires=1794099648&Signature=uIXe4Q98l73BqpGO1JQpG5gsRO3tDU6u25LPK0MpJkM05OI0kO1aHAJOVeMLifOr23dPHYmd9SXst2C3WEFSgselUmafuTEmVmnLajh5eEDqnk8G8oLBEa62IIX0vLKJChx~LXKZMZ4ju27hn7mjUcFvpxAnpHUmlCckOqx7DKIkzofPIlGR49vbbJ~DZLEE-sfd79ZVcS0YiVJQcewSqfsZjBGUnRIJGl4s~UpVyb9FJSye7krIk-wnpftDjJCmSn286B0Zv7KFa7Y7rYhQpunvvHSTNdmjeqVIveTyB-c1KspIkFAPQ~LL2kqwk-MGaB~d4VGFL1v0VggsN6FeqA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "997175d6-ce58-438e-9a39-d2af224cc48c",
+      "title": "Leia a nota curta e observe que o foco aqui é abrir a interação, não explicar tudo de uma vez.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "fdb494e7-9a0c-4c29-a64d-c315ff72a3a3",
+          "textContent": "<p><strong>¿Me puede ayudar?</strong> funciona bem quando você ainda não explicou o que quer.</p><p>Primeiro vem o pedido de ajuda. Depois, você acrescenta o produto, a seção ou a necessidade concreta.</p><p>Isso deixa a entrada educada e direta ao mesmo tempo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "63b7cc16-5bc7-424e-ac70-a231f7f85ccd",
+      "title": "Escute, leia e observe a imagem. Repare que a frase nomeia a peça de forma curta e funcional.",
+      "description": null,
+      "contentType": 3,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "888b3b98-6e51-4642-906b-ca03f0dcb92b",
+          "textContent": "<p><strong>Busco una camisa blanca.</strong></p><p>Em português: <strong>Estou procurando uma camisa branca.</strong></p><p>A imagem ajuda a ligar a frase ao momento em que você já sabe o que quer encontrar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/b685793e3b234785b711f85054bd1447_l01b03-mujer-busca-camisa-blanca.png?Expires=1794099648&Signature=OlRBi25hqVViWfSx-5kHlwV1iVZMoVxirj3rAgnJm3fboQ2b3sBLqd5j1NePvnpjjgJEWvzlfYKJUeNrY6b1qAkOnvk8YkFN6ah2kuVuBiFbczq6QaWVEh8KBlkW0M9R3dPuyP~NWgYxAuLfffKwsieTn2FPTCe3SbS0S5DSkax3PgcYAzXAxghTeVpbwfA5967Fse6kx6585ZgPwYTIeZTp9iHQ8QpiUmzzPBtj~xtgbLpU39k5dpmOV9KX1GqPXllZBJkedRfYKYJ2HCuLEzK8PigPLyThHLpfdhXNgKkq2Yrbux46ve0KtABSBNzaQVSwoWDVZTa03vCd11GXtw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3a39ff18a4d34a48be578094a6320506_l01b03-busco-una-camisa-blanca.mp3?Expires=1794099648&Signature=otEWJWqVvFLao4Mg2FzVP-n0imn~EH~ZdP5riX7yXtfrOSiV6lHUX0~T8lVZIkb9hMNR2o1gVS2fg9r0VzOgmAu05WXPftE2x1MHXiEbuugkTEZG6d-0cN1hLSzLLKHklhzDCExjxr2vpkJ4J7QmpcCgvW0lMOZjHI5eabhscM~3cUXBWNWTptKFhMaHRsKKZSt4GNKail0juH1CWycPSn9F2wIS3p-wL0ImeRG~6R1DE5f3C9JgyFrGTIbJkROcaIzUR1d-tgkbiW5Qrczyer8O25laaiAn75sqCzRKcHFBzvSvzEGM6WroqryewoyWHgbTVOAkI53NrDCIkJgMBQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1fe9b6a0-2623-4dff-8c40-30aa8e9ddade",
+      "title": "Leia a explicação e observe que a frase vai direto ao produto que você quer encontrar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "680e3687-56ac-4446-add0-ced5ba1abc47",
+          "textContent": "<p><strong>Busco...</strong> foca no que você quer encontrar, sem transformar o pedido em uma explicação longa.</p><p>Depois desse início, o atendimento costuma responder com a seção, a localização ou o próximo passo.</p><p>Por isso, a frase funciona bem quando você quer ajuda rápida dentro da loja.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f64ffbc6-168c-46a8-abe0-7cf9193b1e7c",
+      "title": "Escute e leia a frase. Repare em como a resposta aponta para onde seguir sem se alongar.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "84f260e1-9610-4bca-abfc-762867f81cef",
+          "textContent": "<p><strong>La sección de camisas está al fondo.</strong></p><p>Em português: <strong>A seção de camisas fica no fundo.</strong></p><p>Essa resposta curta ajuda a entender para onde ir sem depender de uma explicação longa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e27065c7312242aa9735d834d27849aa_l01b05-la-seccion-de-camisas-esta-al-fondo.mp3?Expires=1794099648&Signature=mlDH8u42Si5wOPmbxGtsaBxKXEofnUTEvGi0dOs2rB5NCfugr6avducxVoZmCn2HsC2AsZ~LVsKpnZLFBq1G0FeC-kdpThjfipzAoKe8ShhY52vHUP8komKlk1FmZZfIKJYzG74KBdCPUWBhKwwAfCR7pai9uUMhqbKp3kjkah7k4xJIvoL82AsFncztbI97yezm1pjKv8eTZlwqj-CRNB7Wl-2INrgRzkAw0lPtmFNn67TDWuJLfFdwa9dsbOOfXkUYlVZYD~oCsop13aBY7PvzPy9BkWAWXrKpTWnG63y5KxpXhfylKp7unU~V9WJ~KnkUNY4VlYJQhVjHxjqSJA__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "124b0a07-63d3-44b2-a356-a8617bcb3baf",
+      "title": "Leia a nota e observe o papel de al fondo dentro da resposta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "5138ce52-4b7a-41be-b337-8e4931f71eda",
+          "textContent": "<p>Em respostas de loja, você nem sempre escuta uma frase longa.</p><p><strong>La sección de camisas está al fondo.</strong> já entrega a informação principal: onde seguir dentro da loja.</p><p><strong>Al fondo</strong> aponta para a parte de trás do espaço, então o aluno precisa reconhecer a direção sem esperar mais contexto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "bc6936a3-905f-452b-b173-a8f4eb10894d",
+      "title": "Uma troca curta na loja",
+      "description": "<p>O diálogo junta apenas a entrada educada, o que a cliente procura e a resposta curta de localização.</p>",
+      "contentType": 7,
+      "sequenceItem": 7,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">¿Me puede ayudar?</div>\n  <div style=\"opacity: 0.45;\">O senhor / a senhora pode me ajudar?</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/90ccb4e35dac44b78b6cc07fd5bc4d86_l01b01-me-puede-ayudar.mp3?Expires=1794099648&Signature=q2H2pNsfAxS1cGIEpbc8j4JzRDaY74A~CXQCu8wwLqf7G~O5jahoyYpgxKoliHVukJE6a9fRpW0VA7Ujgnno0lRT3Rev4WIjlUtgcg5zYu3mWDoBaTZpVQ~VsLDn1iRpP-wRbOkOw4rEOCcgASCj9T-xFKZlqm2h2bUHFj0OR0uuYWaLA0B-tXaP0f51u53WtrUl6fJkVzhBGc~wGtDQwR8vDKwBt8bYnJzwzLKQBpr0fN7S1RnfjwD9Tg3o8lqG8sfpy1xakgKC3ORWoBrxQQiS52rncplIhzSSIgB6dKUZHDrn7~t7e4nLTb3JJPydfWwRrQtT-Mt6G7li4DIrQg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Claro.</div>\n  <div style=\"opacity: 0.45;\">Claro.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8879cabdbc1349d4963144cbcd8e5418_l01b07-linea-02-claro.mp3?Expires=1794099648&Signature=o3s088rbr1d7b~bHnW5NK4IHVh6Ex8rPH69W67mevbBn-wh1aiz4ogIzoUaoLlJ6jDrh91iC8HdFbl-eq~p7XCEcHaP00NBKEtltrFe7qRyGF-s-4Ln84vwaHQivTWxBWYUsZqj9Yyc1~4wlT31XYSf7bF3U2HPaK2CZxmplEkrTrW0rB87HrBlvvehP-jQC-ghQ12wIxY-NL2PWzrZtsDe~FlOXpAE3XqcFpDwF4u0n~Tl1tS4I8R6bwTq1MZUBwSV0wjhVlzYQ6av~Rk0WCQZNzWX1gPFVs6CuJo5lohFjUxB02DHWcYFq56xXnVNKWoG47RHIfdaxibpzkJ3cNg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">Busco una camisa blanca.</div>\n  <div style=\"opacity: 0.45;\">Estou procurando uma camisa branca.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1692136d672d4e82892dd58a13e9ab3b_l01b03-busco-una-camisa-blanca.mp3?Expires=1794099648&Signature=QUQgDPi8WYCLFq2HkfSGuGqoQIWimv-rShkedbg0sUJM2XEACA1YqRL0fxEhFnsTz8kFoBHTixjwctJsIMNOBwH94kFavulAFEd2RESUjMdem9gE4Vc9pAXEh7v6e11Easrcd-izjLUBwzfdLWzJwwg4d7FWVrfGlew5Vgfc3tAON-8oKzoXmmK1nz-tBVKTteH5T6MN4AzGP3UlWERWmmAPwIGvdwdPj8L7A7wS1rIFyJ66NNPQ4QxoNjGYDZHE8H1hQvzcRQMBxR1kbYHL5m8NoXZOi5r9IOZTn90hxDAO~vzDdyWftScs1J8spJmS2kBkIybTm7CW3ulq5cYKAA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-weight: 700;\">La sección de camisas está al fondo.</div>\n  <div style=\"opacity: 0.45;\">A seção de camisas fica no fundo.</div>\n</div>",
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f71833e262a24ccf9ef2cf3d16e8d2c9_l01b05-la-seccion-de-camisas-esta-al-fondo.mp3?Expires=1794099648&Signature=gYdWWjSC-zwPXekyTXJduyulDIDm88uljYo91Ac9ccFuQTxKIyzPOoC-fUNMG9BR1iepRTdzcZHbmI7S2sDC0DChzk0YMJc9z8blLNEweOIFQxE5OJ8haeqOWoqCQbNAvM6rO8lBmEkzvDGa5LVBKyGZEhs33BROCEWeqBzVdgLiBHn6qjV8ayR0AM5a-ftAhNSrhd-an~XNP9xlF3GiY7xeDPnKDyusbSXV1hizGgrsNuhOaWbNh5tHcXTeCsPENvmoU0pPof3KLQEqhRtUDlEjWpwSPpWZ8E3lpYfxjGMIR7T1D7opEJUHBbig8FJ0PSMTw7j57vX277BRasgVFA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    },
+    {
+      "id": "5d6c7732-81d3-4965-a404-685c77813baa",
+      "title": "Escute palavra por palavra e observe quais termos ajudam a reconhecer quem atende, o que se procura e para onde ir.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "65439105-5a18-4289-9ce7-570d4acf3b44",
+          "textContent": "<p><strong>dependiente</strong></p><p>Em português: <strong>atendente / vendedor</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a6ba7be0d55d45569fe1c53ef28e0caa_l01b08-dependiente.mp3?Expires=1794099648&Signature=aA5~yL3sXeXHlb5ltOTBNdQWe2H~Q84jyC1d3twuzcExLRIJ2L~x-nqEA7nCFom9osHuKvASMW8AmHy8iwBPZIyhhfnvDp7WJMwi0jp-pcF94c6v4D2TG3xgzi~Xc5uRaZOEdB4Abup5V3ldNxmI-6rbEuf7fVr3Tc8YWqZEUaXKcVU3KOPG6bK3KEmuzH7xM~DVUK86hnnXYAVeOKhoUcbkwZIuvI7q-fWpVTmiA6lAbcszslrcy8jx6NCxWnbVsnnJ1GksAYaYj8dlun8Z78vMQlx2QxUpK3-ZeJyq9WHtbyaG8ob9rmjJ34K~MTWdK119ZhI4vZrQ39nezB~XoQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "3ef23654-bc4e-4760-aa41-91049bbd8a9d",
+          "textContent": "<p><strong>camisa</strong></p><p>Em português: <strong>camisa</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f20ba09f5b6e413280e21bc72c524a92_l01b08-camisa.mp3?Expires=1794099648&Signature=KK-pr7jYAE8wvVYdk1dndug3iYfPdB9F3KtSNvDipkq-qR2GkHlCW8kM6obEKv3XjfImPzlUSczBIWHicqZ1brerryU01j~JSgVnG9s9QUgs-uuOka5LhB9ruUcBwS9AG7ioE3JXYVgxmeQSflsE-MWp39gsdMo-u2aMudO3t1npUXcVg3iSrwwitYQyuuS57Q47Z~ok4GsKHCbFbYHWAVyNb8cw6nMitOL7o6lepDIMt9INVErdsqk3ZH8dsPbC2PdYUCcq26v0XwOOeGD-jjFGoe-etGZHtTlRZDAudAK0z66Kqb0emUqpPJ0L2RFJJH6CLtgVpDGu1rKUjTsZKg__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "a0604e80-9b90-476c-a0ed-a777abaddf1e",
+          "textContent": "<p><strong>sección</strong></p><p>Em português: <strong>seção</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/5128069366844be99ae3b387a09eeb40_l01b08-seccion.mp3?Expires=1794099648&Signature=qGQNKVB7V1hJiLbHUaXRs2-nqR5YJbeCbm~xz02CPtXjZ4rtK0LONI~2h5iJYIQi5nweygWU2YQpMHMFZZTzmTiGGb3lSvf5SVItHeEVN~lD1YFeRifk7JXeHKXWCSCy7zmkhAr~Rl0804V-JqGFm9-hJyOGFAyEOvMa~R7wvgVNf43TZpS~CPcWjPOdfOrFtVjBDNq65gOSaFGdFQbVSbyXExnGhNXs~gnQJkXbMuPMS0DasecUkqrvDBh3K7dPtUlYuAwOWqaVr8OoePPJSpnC4WO2pbrEfiFaYz-yYEOr19188A7j9NWlK~0rzlSFMyRzYn5JArTF0j8YQw06CA__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "eff23095-2936-4cb2-bc7d-3a37146f48f9",
+          "textContent": "<p><strong>fondo</strong></p><p>Em português: <strong>fundo</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3b67ae1ab9bc4f53b864854c272e3e89_l01b08-fondo.mp3?Expires=1794099648&Signature=FO-84tp4OhRdqHbSJ7mWC5s~bsjN2JX3k873kxttmKrlt5CkjXYRrnvRXjvOFcAU~r2q7rK7JXshLw50Ot5lRACDEjMg3rUrBibFZP9DcJxhCk6V0TN6siXO4kdA6nbZ1on3S22AR96~NEcyJSL8JPxHQr4U~aCLidfCLfC1rkvR8aGpX0PXBsCEQH9NbOUrga9Ma78ZXy07SKjf4Xjdn-1pKu2LFfAENnjk8QKi6yejUHNxS9tpAwoQu3AtJEuCXbPD~xYNq8NFaIB2JCqG7x3CpApgDjQwjIPydEHVkyZoflS1FC7ErN5i8LZkj9al3ocyqEOeN~8lcRV-V8qpeQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "06e06ba0-421e-4582-bd83-8868cc6b090b",
+      "title": "Leia o resumo final e ligue cada frase a um momento real de entrada e orientação na loja.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "ec8a52e4-7265-40ac-8f18-ee7f618716cf",
+          "textContent": "<p>Em uma compra real, a sequência desta aula costuma aparecer assim:</p><ul><li><strong>¿Me puede ayudar?</strong> para abrir a interação</li><li><strong>Busco una camisa blanca.</strong> para dizer o que você procura</li><li><strong>La sección de camisas está al fondo.</strong> para entender para onde ir</li></ul><p>Isso ajuda quando você entra numa loja, quer localizar uma peça específica e precisa seguir uma orientação curta sem perder o fio da conversa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "e4ca9967-b3c7-4b15-90ea-5d5215190b2c",
+      "title": "Escute e associe as palavras",
+      "content": "<p>Ligue cada áudio da galeria lexical a palavra escrita correspondente.</p>",
+      "contentPlain": "Ligue cada áudio da galeria lexical a palavra escrita correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "A galeria lexical reforça quem atende, a peça buscada, a área da loja e a direção final.",
+      "feedbackError": "A galeria lexical reforça quem atende, a peça buscada, a área da loja e a direção final.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "d770125b-ea68-42ba-9313-e5f0a09abdf4",
+          "exerciseId": "e4ca9967-b3c7-4b15-90ea-5d5215190b2c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1f25fa5467064807b64024aa92d284bf_l01b08-dependiente.mp3?Expires=1794099648&Signature=kcBd~62uQdd8JN3sgGmFkO6RcL5E12ivU7wOZEOvRZuwQNaV7Vwfjcbh2GqgBPwF2kz5Ks17TM9fBoF1zniquYm70zxwSM3m0c6~AoXTtGTBM5OeZgaRkwYzIm8rdhKtbd3gibkvr5CvoCnZosejClhL-wyRlZNzIYDIjdu-ITCUaRW3lzczbpFy-gSsPTOtM0F8bS1EHlYPiXKMLW7mHJLDvwqLt1ltGkLcLGJGeSd0I7t4PrfnDeD0Yg2rpVyRctnWybQngvZrXmtr3GHfR0fp0W0wWFajvWGpHKbAK1esxhl5eQ2lvGPblnN4RIL5-CwZX3Ujjnuyb6ti-uDznA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "dependiente",
+          "sequenceItem": 1
+        },
+        {
+          "id": "801ebdd9-c14a-48df-8053-bea9cebde804",
+          "exerciseId": "e4ca9967-b3c7-4b15-90ea-5d5215190b2c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d283ea5d93814e8f8bc1d6b8c458e12f_l01b08-camisa.mp3?Expires=1794099648&Signature=0AEs~oOJduAMH7IqdLkp9RDhrSbj6FElzQaoBX-9HjQzrGXvWu0axdPFIPfXdnPFh4tlLXEQ0B7hw8Lu8s1zHl3LKjG~Kz81halb989OKwx3eTCQmeN0sxD0z5lax0hvNuaUB4pe3owuDnlnmIg~gpztiz1SD6s9xcKS1dWasyc05YVLUvAZal6ggv1OJ8KXzq-DG6GMp2QNQsO1u2K~VV~bBtUFZIIQNDrsdqHLiP97XsgWJ05eLcLeg0SDd4hNxYh1XUg-J~LwgfxJJ1cfVTjMHmuqROuJFMiiJR21rxJ6Wa36nC7hwq0hcQbGKSvdIJ03x1LzdvmHavBcsEqE5g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "camisa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5cfdce30-ffe6-4811-b427-289ad4814fd9",
+          "exerciseId": "e4ca9967-b3c7-4b15-90ea-5d5215190b2c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/39c990cc1391480990da5f3eecb28064_l01b08-seccion.mp3?Expires=1794099648&Signature=kX8KpOBIhHp~luHhQdF0Tur7igHKppWJHSzQIpCWpOSgmH1y0pUgDgRNuwTVX4TWChLC1dXjJZixUU7YDEyMuE~dJR49g5aEuE5teL56lEUVgBoJmlF1qmc8dIWrB6HT3YaQgGUAZgWI3XyxE-Sk9O7QAD0Lgq4Si6ClDHLOp5Ux4UnPx2Z-RK9orBXLt8nu1lOQHTFOOEo8KA2dneEQA2gFynOHpO5YI4zhtq8Sa-Zsx1y7vDfrvnpO443m1DWYCqNPW58CeAxOwlRBhAxgpivd9bwCl1HHppOkIC-kiX8TcPtqa4ZX2PVTuGcGhnroJX31bRtSn3mXWcqK0YYpqg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "sección",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c72f028c-f9ce-4bef-9055-35cd0ff4a47f",
+          "exerciseId": "e4ca9967-b3c7-4b15-90ea-5d5215190b2c",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e3426a384fef429dae278ccfca14f197_l01b08-fondo.mp3?Expires=1794099648&Signature=bZsneqWsW6IVmqCYNKl1hWu48CbelFTpsFKtGl7eagMZf4krTozW9XtXXeK97dnh~x6qUEI2tdHVTGcFyTW5yWV14gNUk6A-LtSKjOS9MEMQL5bOdYm20Tqndg1oGveLtfI334~iWadUqFo5UVHjWJRI1Cf0SaPYhd6TjaDaLr8Ty2v8XkgHjSWDShG339e37UolSGoB3MkpFdQPKhr5d3uNYfzNIPia5XkNkF7fWJebYqwOaejCLfQiX0afawC7KBoCTiJufEWXGXeh3mTb6yrEF592iOno0-1WHj2s2IiwgpUncR5Mf3CgylR6XqsSEFWICNjiLybBGIS~Gf5AuA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "fondo",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "e9afa5d9-c86f-458a-8d8b-ff425b375a33",
+      "title": "Ligue a frase a sua função",
+      "content": "<p>Relacione cada frase da aula ao momento prático da compra em que ela entra.</p>",
+      "contentPlain": "Relacione cada frase da aula ao momento prático da compra em que ela entra.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final da aula organiza abertura, pedido do produto e localização como três passos diferentes.",
+      "feedbackError": "O recap final da aula organiza abertura, pedido do produto e localização como três passos diferentes.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "7829a31c-da99-4f59-997c-d28e69622073",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "e9afa5d9-c86f-458a-8d8b-ff425b375a33"
+        },
+        {
+          "id": "a51f2eb2-50e5-4a5f-9035-741e8c70e3c0",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "e9afa5d9-c86f-458a-8d8b-ff425b375a33"
+        }
+      ],
+      "associations": [
+        {
+          "id": "da76773f-1e18-4e30-89ae-8cf3be4f3997",
+          "exerciseId": "e9afa5d9-c86f-458a-8d8b-ff425b375a33",
+          "leftContent": "¿Me puede ayudar?",
+          "rightContent": "abrir a interação com cortesia",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d1b4676e-6857-4de1-9668-4d2be718da02",
+          "exerciseId": "e9afa5d9-c86f-458a-8d8b-ff425b375a33",
+          "leftContent": "Busco una camisa blanca.",
+          "rightContent": "dizer o que se procura",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7612a1f1-708b-4f3a-9eda-0ffa7b1b69b5",
+          "exerciseId": "e9afa5d9-c86f-458a-8d8b-ff425b375a33",
+          "leftContent": "La sección de camisas está al fondo.",
+          "rightContent": "indicar para onde seguir",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "23470650-b0b7-4b0a-b37c-23f982d196fc",
+      "title": "Escolha a frase do produto",
+      "content": "<p>Você já entrou na loja e agora quer nomear a peça desejada. Qual frase vai direto ao produto?</p>",
+      "contentPlain": "Você já entrou na loja e agora quer nomear a peça desejada. Qual frase vai direto ao produto?",
+      "fileUrl": null,
+      "feedbackSuccess": "Com Busco..., a aula vai direto ao produto procurado sem alongar a explicação.",
+      "feedbackError": "Com Busco..., a aula vai direto ao produto procurado sem alongar a explicação.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "584cfa41-d909-4fb0-b847-2a63eca12319",
+          "textContent": "La sección de camisas está al fondo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "23470650-b0b7-4b0a-b37c-23f982d196fc"
+        },
+        {
+          "id": "d63150f7-f364-491c-b288-b6d474882c42",
+          "textContent": "Claro.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "23470650-b0b7-4b0a-b37c-23f982d196fc"
+        },
+        {
+          "id": "df425c9b-cb8e-4266-ad28-29b0683e9a6b",
+          "textContent": "Busco una camisa blanca.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "23470650-b0b7-4b0a-b37c-23f982d196fc"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "669f161d-6a83-47d1-928d-4c501fd6eff7",
+      "title": "Identifique a orientação curta",
+      "content": "<p>Escute a resposta do atendimento e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a resposta do atendimento e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f71833e262a24ccf9ef2cf3d16e8d2c9_l01b05-la-seccion-de-camisas-esta-al-fondo.mp3?Expires=1794099648&Signature=gYdWWjSC-zwPXekyTXJduyulDIDm88uljYo91Ac9ccFuQTxKIyzPOoC-fUNMG9BR1iepRTdzcZHbmI7S2sDC0DChzk0YMJc9z8blLNEweOIFQxE5OJ8haeqOWoqCQbNAvM6rO8lBmEkzvDGa5LVBKyGZEhs33BROCEWeqBzVdgLiBHn6qjV8ayR0AM5a-ftAhNSrhd-an~XNP9xlF3GiY7xeDPnKDyusbSXV1hizGgrsNuhOaWbNh5tHcXTeCsPENvmoU0pPof3KLQEqhRtUDlEjWpwSPpWZ8E3lpYfxjGMIR7T1D7opEJUHBbig8FJ0PSMTw7j57vX277BRasgVFA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "La sección de camisas está al fondo. concentra a orientação principal em poucas palavras.",
+      "feedbackError": "La sección de camisas está al fondo. concentra a orientação principal em poucas palavras.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "02ccfa28-2a7d-459b-90d2-ade9551f8f29",
+          "textContent": "dependiente",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "669f161d-6a83-47d1-928d-4c501fd6eff7"
+        },
+        {
+          "id": "76ac138b-e2b3-4503-a7e8-7da79db2f4c0",
+          "textContent": "camisas",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "669f161d-6a83-47d1-928d-4c501fd6eff7"
+        },
+        {
+          "id": "83330647-11fe-4433-9d33-48bb5643ea1c",
+          "textContent": "blanca",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "669f161d-6a83-47d1-928d-4c501fd6eff7"
+        },
+        {
+          "id": "dbf6048c-9409-4ec7-9050-ad01087c32c9",
+          "textContent": "ayudar",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "669f161d-6a83-47d1-928d-4c501fd6eff7"
+        },
+        {
+          "id": "edeaf86d-bada-4be0-b9ed-f36b1f9fea7a",
+          "textContent": "sección",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "669f161d-6a83-47d1-928d-4c501fd6eff7"
+        },
+        {
+          "id": "fa88ab43-afa7-4e5e-a869-7e3ee542f923",
+          "textContent": "fondo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "669f161d-6a83-47d1-928d-4c501fd6eff7"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "de7dd0d0-7dfa-45f5-9e53-1a9be8d479c2",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a abertura mais educada da aula.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a abertura mais educada da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/90ccb4e35dac44b78b6cc07fd5bc4d86_l01b01-me-puede-ayudar.mp3?Expires=1794099648&Signature=q2H2pNsfAxS1cGIEpbc8j4JzRDaY74A~CXQCu8wwLqf7G~O5jahoyYpgxKoliHVukJE6a9fRpW0VA7Ujgnno0lRT3Rev4WIjlUtgcg5zYu3mWDoBaTZpVQ~VsLDn1iRpP-wRbOkOw4rEOCcgASCj9T-xFKZlqm2h2bUHFj0OR0uuYWaLA0B-tXaP0f51u53WtrUl6fJkVzhBGc~wGtDQwR8vDKwBt8bYnJzwzLKQBpr0fN7S1RnfjwD9Tg3o8lqG8sfpy1xakgKC3ORWoBrxQQiS52rncplIhzSSIgB6dKUZHDrn7~t7e4nLTb3JJPydfWwRrQtT-Mt6G7li4DIrQg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A repetição oral ativa a entrada educada que abre o resto da conversa na loja.",
+      "feedbackError": "A repetição oral ativa a entrada educada que abre o resto da conversa na loja.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "¿Me puede ayudar?",
+      "typeSpecificData": "{\"expectedText\":\"\\u00BFMe puede ayudar?\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/90ccb4e35dac44b78b6cc07fd5bc4d86_l01b01-me-puede-ayudar.mp3?Expires=1794099648\\u0026Signature=q2H2pNsfAxS1cGIEpbc8j4JzRDaY74A~CXQCu8wwLqf7G~O5jahoyYpgxKoliHVukJE6a9fRpW0VA7Ujgnno0lRT3Rev4WIjlUtgcg5zYu3mWDoBaTZpVQ~VsLDn1iRpP-wRbOkOw4rEOCcgASCj9T-xFKZlqm2h2bUHFj0OR0uuYWaLA0B-tXaP0f51u53WtrUl6fJkVzhBGc~wGtDQwR8vDKwBt8bYnJzwzLKQBpr0fN7S1RnfjwD9Tg3o8lqG8sfpy1xakgKC3ORWoBrxQQiS52rncplIhzSSIgB6dKUZHDrn7~t7e4nLTb3JJPydfWwRrQtT-Mt6G7li4DIrQg__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "5a9714a2-aeb3-4906-81e8-ec983fbf859e",
+      "title": "Escolha a sequência mais natural",
+      "content": "<p>Agora o apoio é menor: selecione a ordem que melhor recupera a interação da aula do início ao encaminhamento dentro da loja.</p>",
+      "contentPlain": "Agora o apoio é menor: selecione a ordem que melhor recupera a interação da aula do início ao encaminhamento dentro da loja.",
+      "fileUrl": null,
+      "feedbackSuccess": "A aula organiza a interação em três passos: pedir ajuda, dizer o produto e entender para onde ir.",
+      "feedbackError": "A aula organiza a interação em três passos: pedir ajuda, dizer o produto e entender para onde ir.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "34437691-0dbc-4858-92d4-9058fb9be71d",
+          "textContent": "Busco una camisa blanca. La sección de camisas está al fondo. ¿Me puede ayudar?",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5a9714a2-aeb3-4906-81e8-ec983fbf859e"
+        },
+        {
+          "id": "6c16bfb4-6602-4909-92d0-5a5a1a73ea29",
+          "textContent": "Busco una camisa blanca. ¿Me puede ayudar? La sección de camisas está al fondo.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5a9714a2-aeb3-4906-81e8-ec983fbf859e"
+        },
+        {
+          "id": "ce1e7e62-21a8-40e3-b0b6-381ab0b888ea",
+          "textContent": "¿Me puede ayudar? Busco una camisa blanca. La sección de camisas está al fondo.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "5a9714a2-aeb3-4906-81e8-ec983fbf859e"
+        },
+        {
+          "id": "da2825c3-68ab-410e-aa75-7de975eb332a",
+          "textContent": "La sección de camisas está al fondo. ¿Me puede ayudar? Busco una camisa blanca.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "5a9714a2-aeb3-4906-81e8-ec983fbf859e"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "1bfec7e5-c92f-4fdd-bad5-7f3a0ae1e250",
+      "title": "Complete a abertura educada",
+      "content": "<p>¿Me puede ______?</p><p>Tradução: O senhor / a senhora pode me ajudar?</p>",
+      "contentPlain": "¿Me puede ______? Tradução: O senhor / a senhora pode me ajudar?",
+      "fileUrl": null,
+      "feedbackSuccess": "Com ayudar, a abertura fica educada e prepara o pedido principal na loja.",
+      "feedbackError": "Com ayudar, a abertura fica educada e prepara o pedido principal na loja.",
+      "answerType": "buildWord",
+      "expectedAnswer": "ayudar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d7135508-369c-49bc-b27e-09d213fc8980",
+      "title": "Complete a direção final",
+      "content": "<p>La sección de camisas está al _____.</p><p>Tradução: A seção de camisas fica no fundo.</p>",
+      "contentPlain": "La sección de camisas está al _____. Tradução: A seção de camisas fica no fundo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com fondo, a resposta entrega a direção principal sem precisar de explicação longa.",
+      "feedbackError": "Com fondo, a resposta entrega a direção principal sem precisar de explicação longa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "fondo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "dc0a8f5c-8a5e-400a-b00e-548b12059d99",
+      "title": "Recupere o diálogo completo",
+      "content": "<p>Associe os quatro áudios do diálogo final ao texto em espanhol correspondente.</p>",
+      "contentPlain": "Associe os quatro áudios do diálogo final ao texto em espanhol correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo curto recompõe pedido de ajuda, resposta mínima, produto e localização da seção.",
+      "feedbackError": "O diálogo curto recompõe pedido de ajuda, resposta mínima, produto e localização da seção.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "6744a634-422b-4fc2-a46a-6c4e9efd37ab",
+          "exerciseId": "dc0a8f5c-8a5e-400a-b00e-548b12059d99",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/90ccb4e35dac44b78b6cc07fd5bc4d86_l01b01-me-puede-ayudar.mp3?Expires=1794099648&Signature=q2H2pNsfAxS1cGIEpbc8j4JzRDaY74A~CXQCu8wwLqf7G~O5jahoyYpgxKoliHVukJE6a9fRpW0VA7Ujgnno0lRT3Rev4WIjlUtgcg5zYu3mWDoBaTZpVQ~VsLDn1iRpP-wRbOkOw4rEOCcgASCj9T-xFKZlqm2h2bUHFj0OR0uuYWaLA0B-tXaP0f51u53WtrUl6fJkVzhBGc~wGtDQwR8vDKwBt8bYnJzwzLKQBpr0fN7S1RnfjwD9Tg3o8lqG8sfpy1xakgKC3ORWoBrxQQiS52rncplIhzSSIgB6dKUZHDrn7~t7e4nLTb3JJPydfWwRrQtT-Mt6G7li4DIrQg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Me puede ayudar?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "3bd05a84-89a8-474f-b5e4-a92417704bb2",
+          "exerciseId": "dc0a8f5c-8a5e-400a-b00e-548b12059d99",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8879cabdbc1349d4963144cbcd8e5418_l01b07-linea-02-claro.mp3?Expires=1794099648&Signature=o3s088rbr1d7b~bHnW5NK4IHVh6Ex8rPH69W67mevbBn-wh1aiz4ogIzoUaoLlJ6jDrh91iC8HdFbl-eq~p7XCEcHaP00NBKEtltrFe7qRyGF-s-4Ln84vwaHQivTWxBWYUsZqj9Yyc1~4wlT31XYSf7bF3U2HPaK2CZxmplEkrTrW0rB87HrBlvvehP-jQC-ghQ12wIxY-NL2PWzrZtsDe~FlOXpAE3XqcFpDwF4u0n~Tl1tS4I8R6bwTq1MZUBwSV0wjhVlzYQ6av~Rk0WCQZNzWX1gPFVs6CuJo5lohFjUxB02DHWcYFq56xXnVNKWoG47RHIfdaxibpzkJ3cNg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Claro.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "02cdcb66-8ce6-417b-9a13-366c73d4cf82",
+          "exerciseId": "dc0a8f5c-8a5e-400a-b00e-548b12059d99",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/1692136d672d4e82892dd58a13e9ab3b_l01b03-busco-una-camisa-blanca.mp3?Expires=1794099648&Signature=QUQgDPi8WYCLFq2HkfSGuGqoQIWimv-rShkedbg0sUJM2XEACA1YqRL0fxEhFnsTz8kFoBHTixjwctJsIMNOBwH94kFavulAFEd2RESUjMdem9gE4Vc9pAXEh7v6e11Easrcd-izjLUBwzfdLWzJwwg4d7FWVrfGlew5Vgfc3tAON-8oKzoXmmK1nz-tBVKTteH5T6MN4AzGP3UlWERWmmAPwIGvdwdPj8L7A7wS1rIFyJ66NNPQ4QxoNjGYDZHE8H1hQvzcRQMBxR1kbYHL5m8NoXZOi5r9IOZTn90hxDAO~vzDdyWftScs1J8spJmS2kBkIybTm7CW3ulq5cYKAA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Busco una camisa blanca.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "48b55a61-cfb6-4dff-a3b6-348e9782af0c",
+          "exerciseId": "dc0a8f5c-8a5e-400a-b00e-548b12059d99",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f71833e262a24ccf9ef2cf3d16e8d2c9_l01b05-la-seccion-de-camisas-esta-al-fondo.mp3?Expires=1794099648&Signature=gYdWWjSC-zwPXekyTXJduyulDIDm88uljYo91Ac9ccFuQTxKIyzPOoC-fUNMG9BR1iepRTdzcZHbmI7S2sDC0DChzk0YMJc9z8blLNEweOIFQxE5OJ8haeqOWoqCQbNAvM6rO8lBmEkzvDGa5LVBKyGZEhs33BROCEWeqBzVdgLiBHn6qjV8ayR0AM5a-ftAhNSrhd-an~XNP9xlF3GiY7xeDPnKDyusbSXV1hizGgrsNuhOaWbNh5tHcXTeCsPENvmoU0pPof3KLQEqhRtUDlEjWpwSPpWZ8E3lpYfxjGMIR7T1D7opEJUHBbig8FJ0PSMTw7j57vX277BRasgVFA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "La sección de camisas está al fondo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "67668481-ba55-415c-be14-8089774dcf97",
+      "title": "Recupere o pedido pelo áudio",
+      "content": "<p>Escute a fala da cliente e marque somente as palavras que realmente aparecem na frase.</p>",
+      "contentPlain": "Escute a fala da cliente e marque somente as palavras que realmente aparecem na frase.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/1692136d672d4e82892dd58a13e9ab3b_l01b03-busco-una-camisa-blanca.mp3?Expires=1794099648&Signature=QUQgDPi8WYCLFq2HkfSGuGqoQIWimv-rShkedbg0sUJM2XEACA1YqRL0fxEhFnsTz8kFoBHTixjwctJsIMNOBwH94kFavulAFEd2RESUjMdem9gE4Vc9pAXEh7v6e11Easrcd-izjLUBwzfdLWzJwwg4d7FWVrfGlew5Vgfc3tAON-8oKzoXmmK1nz-tBVKTteH5T6MN4AzGP3UlWERWmmAPwIGvdwdPj8L7A7wS1rIFyJ66NNPQ4QxoNjGYDZHE8H1hQvzcRQMBxR1kbYHL5m8NoXZOi5r9IOZTn90hxDAO~vzDdyWftScs1J8spJmS2kBkIybTm7CW3ulq5cYKAA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Busco una camisa blanca. resume o pedido do produto de forma curta e funcional.",
+      "feedbackError": "Busco una camisa blanca. resume o pedido do produto de forma curta e funcional.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "36bd5dd7-4c84-4434-bbfb-c6b6b8c236f5",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "06181cc2-1ce7-433b-857b-edce7d9fb927",
+          "textContent": "Busco",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "67668481-ba55-415c-be14-8089774dcf97"
+        },
+        {
+          "id": "302684ef-e275-4c90-9a26-253ceaa04119",
+          "textContent": "blanca",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "67668481-ba55-415c-be14-8089774dcf97"
+        },
+        {
+          "id": "3ad474fd-172d-4618-9777-129cf5a07e4c",
+          "textContent": "camisa",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "67668481-ba55-415c-be14-8089774dcf97"
+        },
+        {
+          "id": "c36e4eba-2fb2-4749-9178-5961b732540c",
+          "textContent": "fondo",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "67668481-ba55-415c-be14-8089774dcf97"
+        },
+        {
+          "id": "ea316eeb-71e9-4909-be8b-7d177db64d5b",
+          "textContent": "sección",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "67668481-ba55-415c-be14-8089774dcf97"
+        },
+        {
+          "id": "efc768cc-cad0-439d-b9c0-e3c0c6ee466a",
+          "textContent": "Claro",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "67668481-ba55-415c-be14-8089774dcf97"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "title": "Pedir ajuda e se orientar na loja"
+}

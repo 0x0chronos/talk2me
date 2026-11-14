@@ -1,0 +1,588 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+    "attemptId": "10878cdb-9ae7-43b4-8d63-870574291678",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "ed30f5f2-6ec0-4ed6-ac3a-4d6bb3fcd3e1",
+      "7ad88dc9-9ddd-4b9f-bffb-803570d186ec",
+      "f2775a8b-76e2-4b77-9f21-263b504ebfbb",
+      "846efa66-61bd-46ee-9d8a-054b33ab4eab",
+      "4dfa8676-532e-45e3-a7c2-180560b6e839"
+    ],
+    "evaluationExerciseIds": [
+      "b3ae3e8f-7eae-4044-9528-ad10ac35fc78",
+      "3d3ba9ea-d560-4f98-91e4-7ee4353a84cd",
+      "ccdad332-72db-4bf6-8f9c-1013e432f03d",
+      "174032c6-7a83-46c2-852a-e45d95c43723",
+      "9ceba400-5c89-44c1-98bf-aa01a40ce740"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:05:33.5596082Z"
+  },
+  "contents": [
+    {
+      "id": "2ddc6563-3b6a-4423-8136-af171c559fdf",
+      "title": "Leia a abertura e observe que a aula vai costurar procedimento, prova e efeito coletivo no mesmo caso.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "492fbc63-f274-4caf-a05d-3e0c06fd13a9",
+          "textContent": "<p>Nesta lição final, o foco é comentar um caso único sem separar processo, prova e efeito coletivo.</p><p>Você vai acompanhar um piloto de energia em colégios públicos e observar como um comentário técnico curto ganha força quando mostra <strong>o que se fez</strong>, <strong>que dado apareceu</strong> e <strong>por que isso importa</strong>.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "26814387-343a-4063-9db6-c46de4081d29",
+      "title": "Leia a frase em espanhol e repare em como ela comeca pelo que foi feito no projeto piloto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "deaf5ce0-7a98-48cd-8e56-a3fa88844d8d",
+          "textContent": "<p>O comentário pode abrir pelo procedimento realizado.</p><p><strong>En el proyecto piloto se instalaron paneles solares y baterías en seis colegios públicos.</strong></p><p>Aqui, a frase prioriza a ação observável do projeto antes de qualquer agente individual.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3e319880-8c5e-4b37-9770-62b0cf1c3e57",
+      "title": "Leia a nota curta e observe por que comecar com o procedimento deixa o comentário mais útil.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "13bc986c-ddd4-4521-981d-1c5f8300fc82",
+          "textContent": "<p><strong>Se instalaron</strong> desloca o foco para a intervenção realizada e para sua escala concreta.</p><p>Isso funciona bem em comentário técnico ou institucional, porque o leitor entende logo <strong>o que entrou em operação</strong> e <strong>onde</strong>, sem depender de nomes de equipes ou responsáveis.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e503f4b2-7193-4796-8e46-539e6fde77ff",
+      "title": "Leia a segunda frase e note como o comentário passa do procedimento a um dado verificável.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "c15c8bca-07ce-4cf4-a063-c71c86e56456",
+          "textContent": "<p>Depois do procedimento, o comentário precisa mostrar que houve um resultado observável.</p><p><strong>Según los primeros datos, el consumo de la red bajó un 28 % durante los meses de más calor.</strong></p><p>A frase ancora a leitura em um dado inicial, não em uma impressão vaga.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "de5e710e-cc46-4513-aec4-a981f67ac6c7",
+      "title": "Leia a nota e observe como a frase limita a afirmação e, ao mesmo tempo, ganha credibilidade.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "25a3291d-a9de-41d9-8e4f-d77d13bff6ea",
+          "textContent": "<p><strong>Según los primeros datos</strong> evita exagero e mostra de onde vem a leitura inicial.</p><p>O recorte <strong>bajó un 28 %</strong> transforma a frase em comentário apoiado por evidência observável, não apenas por entusiasmo com a inovação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "0b3b0fef-d8f6-4284-81db-c689d9e8a810",
+      "title": "Leia a terceira frase e repare em como o comentário sai do número e chega ao impacto coletivo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "a75419af-3f50-4a4a-b321-2f7d883be512",
+          "textContent": "<p>O comentário fica completo quando o dado leva a uma consequência pública clara.</p><p><strong>Eso redujo el coste del suministro y estabilizó el servicio en una zona con cortes frecuentes.</strong></p><p>Agora o caso já não fala só de tecnologia: ele mostra por que a mudança importa para a comunidade.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f5046e7c-fa1c-4d8b-b4cc-757bff5cdbc9",
+      "title": "Leia o molde e observe a sequência curta de procedimento, evidência e impacto.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "11fbb840-5be6-414b-8a9f-a78ef744a390",
+          "textContent": "<p>Para soar claro e aplicado, o comentário pode seguir esta ordem curta:</p><ol><li><strong>Procedimento:</strong> <em>En el proyecto piloto se instalaron...</em></li><li><strong>Evidência:</strong> <em>Según los primeros datos...</em></li><li><strong>Impacto:</strong> <em>Eso redujo...</em></li></ol><p>Essa organização evita pular direto para a opinião e ajuda a ligar ação, prova e efeito sem alongar demais a fala.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "050e8b51-341c-406c-bd22-7ce47a70b638",
+      "title": "Leia o comentário final e observe como as tres partes entram no mesmo fluxo sem abrir um tema novo.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "e30cd315-f4bd-4cf0-9f11-a3ba9154c9c9",
+          "textContent": "<p><strong>En el proyecto piloto se instalaron paneles solares y baterías en seis colegios públicos. Según los primeros datos, el consumo de la red bajó un 28 % durante los meses de más calor. Eso redujo el coste del suministro y estabilizó el servicio en una zona con cortes frecuentes.</strong></p><p>Um comentário assim cabe em uma reunião vecinal, em uma apresentação de trabalho sobre energia ou em um debate público sobre serviços locais.</p><p>O efeito de C2 aqui não está em falar mais, e sim em ligar procedimento, dado e impacto com precisão.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "ed30f5f2-6ec0-4ed6-ac3a-4d6bb3fcd3e1",
+      "title": "Localize a ancoragem da prova",
+      "content": "<p>Qual trecho da aula limita a afirmação e mostra que o comentário se apoia em dados iniciais?</p>",
+      "contentPlain": "Qual trecho da aula limita a afirmação e mostra que o comentário se apoia em dados iniciais?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, según los primeros datos ancora a leitura em evidência inicial sem exagero.",
+      "feedbackError": "Na aula, según los primeros datos ancora a leitura em evidência inicial sem exagero.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "341ce5fe-1ac4-4897-81ff-7762baab33fe",
+          "textContent": "Eso redujo el coste del suministro",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ed30f5f2-6ec0-4ed6-ac3a-4d6bb3fcd3e1"
+        },
+        {
+          "id": "ae500358-fa2a-4489-9e11-931c06569d08",
+          "textContent": "Según los primeros datos",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ed30f5f2-6ec0-4ed6-ac3a-4d6bb3fcd3e1"
+        },
+        {
+          "id": "b3e04096-0c54-4d09-985c-557d029cf4a2",
+          "textContent": "en una zona con cortes frecuentes",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ed30f5f2-6ec0-4ed6-ac3a-4d6bb3fcd3e1"
+        },
+        {
+          "id": "f9e7fb37-7da9-4371-81ac-1a6ce3b3f63f",
+          "textContent": "En el proyecto piloto",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ed30f5f2-6ec0-4ed6-ac3a-4d6bb3fcd3e1"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7ad88dc9-9ddd-4b9f-bffb-803570d186ec",
+      "title": "Ligue necessidade e início",
+      "content": "<p>Escolha o melhor início em espanhol para cada movimento do comentário sobre o piloto.</p>",
+      "contentPlain": "Escolha o melhor início em espanhol para cada movimento do comentário sobre o piloto.",
+      "fileUrl": null,
+      "feedbackSuccess": "A ordem curta da aula evita pular direto para opinião e liga ação, prova e efeito.",
+      "feedbackError": "A ordem curta da aula evita pular direto para opinião e liga ação, prova e efeito.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "91434473-89b7-4aba-98c8-962c3b0896ac",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7ad88dc9-9ddd-4b9f-bffb-803570d186ec"
+        },
+        {
+          "id": "e5041c00-f987-458b-989f-e78c7560c97e",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7ad88dc9-9ddd-4b9f-bffb-803570d186ec"
+        }
+      ],
+      "associations": [
+        {
+          "id": "15f73bbd-a887-4f32-86ff-c9d4b6b9e507",
+          "exerciseId": "7ad88dc9-9ddd-4b9f-bffb-803570d186ec",
+          "leftContent": "Você quer abrir dizendo o que foi feito no projeto.",
+          "rightContent": "En el proyecto piloto se instalaron...",
+          "sequenceItem": 1
+        },
+        {
+          "id": "168de519-b4a9-4cb2-afa3-c0a50a00b990",
+          "exerciseId": "7ad88dc9-9ddd-4b9f-bffb-803570d186ec",
+          "leftContent": "Você quer passar da ação para um dado verificável.",
+          "rightContent": "Según los primeros datos...",
+          "sequenceItem": 2
+        },
+        {
+          "id": "fea3c53b-53dc-40ad-ac84-0672f42b849d",
+          "exerciseId": "7ad88dc9-9ddd-4b9f-bffb-803570d186ec",
+          "leftContent": "Você quer fechar com a consequência pública do piloto.",
+          "rightContent": "Eso redujo...",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "f2775a8b-76e2-4b77-9f21-263b504ebfbb",
+      "title": "Reconheca a abertura pelo procedimento",
+      "content": "<p>Qual linha da aula prioriza <strong>o que foi feito</strong> antes de comentar dado ou impacto?</p>",
+      "contentPlain": "Qual linha da aula prioriza o que foi feito antes de comentar dado ou impacto?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, se instalaron abre o comentário pelo procedimento impessoal do piloto.",
+      "feedbackError": "Na aula, se instalaron abre o comentário pelo procedimento impessoal do piloto.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "31505c8c-aa23-4b5d-9422-6f6810a6b596",
+          "textContent": "Eso redujo el coste del suministro y estabilizó el servicio en una zona con cortes frecuentes.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f2775a8b-76e2-4b77-9f21-263b504ebfbb"
+        },
+        {
+          "id": "665df565-a442-4537-981c-08d8bd0ae30e",
+          "textContent": "Según los primeros datos, el consumo de la red bajó un 28 % durante los meses de más calor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f2775a8b-76e2-4b77-9f21-263b504ebfbb"
+        },
+        {
+          "id": "c66187ae-12e5-4336-910d-efdd85bd5d15",
+          "textContent": "En el proyecto piloto se instalaron paneles solares y baterías en seis colegios públicos.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f2775a8b-76e2-4b77-9f21-263b504ebfbb"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "846efa66-61bd-46ee-9d8a-054b33ab4eab",
+      "title": "Reconstrua a prova observável",
+      "content": "<p>Complete em espanhol: Según los primeros _____, el consumo de la red bajó un 28 % durante los meses de más calor.</p><p>Tradução: Segundo os primeiros dados, o consumo da rede caiu 28 % durante os meses de mais calor.</p>",
+      "contentPlain": "Complete em espanhol: Según los primeros _____, el consumo de la red bajó un 28 % durante los meses de más calor. Tradução: Segundo os primeiros dados, o consumo da rede caiu 28 % durante os meses de mais calor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, según los primeros datos ancora o comentário em uma prova observável inicial.",
+      "feedbackError": "Na aula, según los primeros datos ancora o comentário em uma prova observável inicial.",
+      "answerType": "buildWord",
+      "expectedAnswer": "datos",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4dfa8676-532e-45e3-a7c2-180560b6e839",
+      "title": "Ligue parte e função",
+      "content": "<p>Recupere a escada da aula e conecte cada etapa em espanhol ao papel que ela resolve no comentário aplicado.</p>",
+      "contentPlain": "Recupere a escada da aula e conecte cada etapa em espanhol ao papel que ela resolve no comentário aplicado.",
+      "fileUrl": null,
+      "feedbackSuccess": "O molde da aula organiza o comentário em procedimento, evidência e impacto.",
+      "feedbackError": "O molde da aula organiza o comentário em procedimento, evidência e impacto.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "2e3b769c-3e9d-4890-b35f-58d3ed71f571",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4dfa8676-532e-45e3-a7c2-180560b6e839"
+        },
+        {
+          "id": "4c27d9da-b946-4efc-9297-029202ffdebe",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4dfa8676-532e-45e3-a7c2-180560b6e839"
+        }
+      ],
+      "associations": [
+        {
+          "id": "4912f7a1-28ff-44f7-97a0-97f27c646239",
+          "exerciseId": "4dfa8676-532e-45e3-a7c2-180560b6e839",
+          "leftContent": "En el proyecto piloto se instalaron...",
+          "rightContent": "mostrar o que entrou em operação",
+          "sequenceItem": 1
+        },
+        {
+          "id": "da99633e-3c41-4186-8304-b7e4c1b94264",
+          "exerciseId": "4dfa8676-532e-45e3-a7c2-180560b6e839",
+          "leftContent": "Según los primeros datos...",
+          "rightContent": "apoiar a leitura em evidência observável",
+          "sequenceItem": 2
+        },
+        {
+          "id": "5e2c4262-e5c4-4339-ac73-ee8c4f8bad72",
+          "exerciseId": "4dfa8676-532e-45e3-a7c2-180560b6e839",
+          "leftContent": "Eso redujo...",
+          "rightContent": "explicar por que a mudança importa para a comunidade",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "b3ae3e8f-7eae-4044-9528-ad10ac35fc78",
+      "title": "Reconstrua o impacto público",
+      "content": "<p>Complete em espanhol: Eso redujo el coste del suministro y __________ el servicio en una zona con cortes frecuentes.</p><p>Tradução: Isso reduziu o custo do fornecimento e estabilizou o serviço em uma zona com cortes frequentes.</p>",
+      "contentPlain": "Complete em espanhol: Eso redujo el coste del suministro y __________ el servicio en una zona con cortes frecuentes. Tradução: Isso reduziu o custo do fornecimento e estabilizou o serviço em uma zona com cortes frequentes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, estabilizó fecha o comentário ligando o dado a um efeito público concreto.",
+      "feedbackError": "Na aula, estabilizó fecha o comentário ligando o dado a um efeito público concreto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estabilizó",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3d3ba9ea-d560-4f98-91e4-7ee4353a84cd",
+      "title": "Reconstrua a cautela da evidência",
+      "content": "<p>Complete em espanhol: Según los ________ datos, el consumo de la red bajó un 28 % durante los meses de más calor.</p><p>Tradução: Segundo os primeiros dados, o consumo da rede caiu 28 % durante os meses de mais calor.</p>",
+      "contentPlain": "Complete em espanhol: Según los ________ datos, el consumo de la red bajó un 28 % durante los meses de más calor. Tradução: Segundo os primeiros dados, o consumo da rede caiu 28 % durante os meses de mais calor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, según los primeros datos ancora a leitura sem transformar indício em certeza total.",
+      "feedbackError": "Na aula, según los primeros datos ancora a leitura sem transformar indício em certeza total.",
+      "answerType": "buildWord",
+      "expectedAnswer": "primeros",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ccdad332-72db-4bf6-8f9c-1013e432f03d",
+      "title": "Associe pista e efeito",
+      "content": "<p>Observe as pistas em espanhol e ligue cada uma ao ganho de precisão que ela traz para o comentário.</p>",
+      "contentPlain": "Observe as pistas em espanhol e ligue cada uma ao ganho de precisão que ela traz para o comentário.",
+      "fileUrl": null,
+      "feedbackSuccess": "As pistas da aula fazem o comentário soar aplicado, não vago.",
+      "feedbackError": "As pistas da aula fazem o comentário soar aplicado, não vago.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "6fec3de0-abd3-422a-885c-4eae16a81d94",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "ccdad332-72db-4bf6-8f9c-1013e432f03d"
+        },
+        {
+          "id": "b833b73e-00cb-4e77-9699-e9e0e07606ed",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "ccdad332-72db-4bf6-8f9c-1013e432f03d"
+        }
+      ],
+      "associations": [
+        {
+          "id": "6915c513-061b-4f8e-b4a0-f76ba15b4893",
+          "exerciseId": "ccdad332-72db-4bf6-8f9c-1013e432f03d",
+          "leftContent": "se instalaron",
+          "rightContent": "priorizar a intervenção realizada antes de nomear agentes",
+          "sequenceItem": 1
+        },
+        {
+          "id": "9cc11540-9d16-4d44-b299-0680e08b9678",
+          "exerciseId": "ccdad332-72db-4bf6-8f9c-1013e432f03d",
+          "leftContent": "bajó un 28 %",
+          "rightContent": "medir o resultado em vez de sugerir melhora vaga",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0d7915d8-ecfd-43e0-8183-44aba292f183",
+          "exerciseId": "ccdad332-72db-4bf6-8f9c-1013e432f03d",
+          "leftContent": "cortes frecuentes",
+          "rightContent": "explicar o problema coletivo que torna o impacto relevante",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "174032c6-7a83-46c2-852a-e45d95c43723",
+      "title": "Reconstrua o impacto publico",
+      "content": "<p>Complete em espanhol: Eso redujo el coste del suministro y __________ el servicio en una zona con cortes frecuentes.</p><p>Tradução: Isso reduziu o custo do fornecimento e estabilizou o servico em uma zona com cortes frequentes.</p>",
+      "contentPlain": "Complete em espanhol: Eso redujo el coste del suministro y __________ el servicio en una zona con cortes frecuentes. Tradução: Isso reduziu o custo do fornecimento e estabilizou o servico em uma zona com cortes frequentes.",
+      "fileUrl": null,
+      "feedbackSuccess": "Na aula, estabilizó fecha o comentario ligando o dado a um efeito publico concreto.",
+      "feedbackError": "Na aula, estabilizó fecha o comentario ligando o dado a um efeito publico concreto.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estabilizó",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "9ceba400-5c89-44c1-98bf-aa01a40ce740",
+      "title": "Separe as tres peças do comentário",
+      "content": "<p>Ligue cada linha em espanhol ao papel que ela cumpre dentro do comentário aplicado sobre energia pública.</p>",
+      "contentPlain": "Ligue cada linha em espanhol ao papel que ela cumpre dentro do comentário aplicado sobre energia pública.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final recombina procedimento, evidência e impacto no mesmo comentário.",
+      "feedbackError": "O recap final recombina procedimento, evidência e impacto no mesmo comentário.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "86550d91-5628-4c1e-ac08-a63071d58a42",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "481ec59d-415b-4b23-b71c-a366321ef3c6",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9ceba400-5c89-44c1-98bf-aa01a40ce740"
+        },
+        {
+          "id": "f710e643-d938-4ff3-9929-5e4b6ff65976",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9ceba400-5c89-44c1-98bf-aa01a40ce740"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ffe50259-0285-429d-a6af-c283264ae38f",
+          "exerciseId": "9ceba400-5c89-44c1-98bf-aa01a40ce740",
+          "leftContent": "En el proyecto piloto se instalaron paneles solares y baterías en seis colegios públicos.",
+          "rightContent": "procedimento em chave impessoal",
+          "sequenceItem": 1
+        },
+        {
+          "id": "cf1a4e58-7214-4c23-a7f8-d2b16313d845",
+          "exerciseId": "9ceba400-5c89-44c1-98bf-aa01a40ce740",
+          "leftContent": "Según los primeros datos, el consumo de la red bajó un 28 % durante los meses de más calor.",
+          "rightContent": "evidência inicial com medida observável",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a01f00dd-d869-4cb0-a734-3dc456221cba",
+          "exerciseId": "9ceba400-5c89-44c1-98bf-aa01a40ce740",
+          "leftContent": "Eso redujo el coste del suministro y estabilizó el servicio en una zona con cortes frecuentes.",
+          "rightContent": "impacto coletivo sobre custo e estabilidade",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "title": "Amarrar processo e impacto em um comentario aplicado"
+}

@@ -1,0 +1,615 @@
+{
+  "attemptId": "dae3a7bb-a0ab-459a-a93d-1f553abc901d",
+  "exercises": [
+    {
+      "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954",
+      "sequence": 1,
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "title": "Recupere o resumo completo",
+      "content": "<p>Marque apenas as palavras do áudio final. O foco é recuperar os elementos que fecham o plano.</p>",
+      "contentPlain": "Marque apenas as palavras do áudio final. O foco é recuperar os elementos que fecham o plano.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0c99edcdfd2645859f5db728af4253f6_l07b06-perfecto-entonces-quedamos.mp3?Expires=1794099578&Signature=TCFRZ6Ps97X0e2blBso7vblO-y1XCVoeyawlX0KVbtn9yY7v84cTG7QQP2JZEJXygzJwKz57V790LZXnyXi2HmJUI1Qm6f3t9mln-mmAlf6NHNV6MxRccJvXG0L416giI7iQy7UwvzjhIU0AGepjRD682A1BUMeNSKe6khXKllOYIqsgQhv5Euhj~AcHeeQqqiqY3VldPbV1cODd3udwE8YVmBnlPqzEWr4z-daZ0yMlQGG8-rjR7dYaWrmbyvmIYbXy4lV9DGwrk0BZuaB3J2ofFLAM-ZpX20ESy5ms1wrhqz4pLBOQXyDJNhxwDXNZW1TUzSllHLsEnL1lqRRg9g__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O áudio final fecha o plano com confirmação, decisão, detalhes e atividade na mesma fala.",
+      "feedbackError": "O áudio final fecha o plano com confirmação, decisão, detalhes e atividade na mesma fala.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "45528ca7-b9eb-4a24-90fa-ad917eef6906",
+          "text": "quedamos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5b1fd4ae-f240-4f75-b28e-786084779c6a",
+          "text": "tomar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "60283c2c-de6b-42e3-822e-198499f45e24",
+          "text": "media",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6da4aec9-9ac6-46cb-8263-5fde035af1d4",
+          "text": "Perfecto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7495bd76-737a-402a-8f41-60536dc68f53",
+          "text": "entrada",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7c3e5858-b917-46d2-9855-449f0ae9d7a0",
+          "text": "domingo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8f579361-b9e1-4173-8030-489cc39c227e",
+          "text": "cine",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "98a84efe-ebdf-4c5d-a243-8284b33171d0",
+          "text": "plaza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eef9ebeb-9824-495c-bd15-2b912bccdba7",
+          "text": "algo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fb54d50e-641f-44ad-8cdd-101e0c3253b3",
+          "text": "siete",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "7f4599a0-054a-4fb4-9040-6e01fcfac275",
+      "sequence": 2,
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "title": "Reconstrua o diálogo ouvido",
+      "content": "<p>Relacione cada gravação da conversa à linha exata correspondente.</p>",
+      "contentPlain": "Relacione cada gravação da conversa à linha exata correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "No diálogo, as pistas entram em sequência curta para apresentar Nico dentro do grupo.",
+      "feedbackError": "No diálogo, as pistas entram em sequência curta para apresentar Nico dentro do grupo.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "d69f7148-34a6-4680-a625-d2b86effb104",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6e282e701b3944e599dba829883682d4_l01b07-conoces-a-nico.mp3?Expires=1794099578&Signature=zG50eiQubvtO2ICTva4zIo71BhjoQeeiVRlYnQE1wJZ3ut4UQ-JZR-Ovc7usWBtBKIPxgxiwmim9ceEPBtlvsgjA~s7TUD2dS7X3DoJ6x1MEnU8R6GnK3-W1XKaFmHGJGr8hKO1TNCIdhrHSjtU~~nq709JdCkBALHdBMBrBFB3lBAGbRX78z8bCCjF2L0Cci2bIvAz5naEfulEEqdlaMaaGuXP7BofcQrXc1LasiO~A1T0ZaPPsxghxXSR3K3DItavrPWAGqnhrf-jCPqrg6w3Rs29TCWZ3yyzir9EJD0pLaWkKICPvSpvp44Qa0Wx74lZHYxGqdowxfO4UK1wB~w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Conoces a Nico?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "4fb56b71-96b8-425b-88e2-a91036ee2cfd",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a47080872d35411a843323be0d2abafd_l01b02-es-la-pareja-de-elena.mp3?Expires=1794099578&Signature=gr4z0RYFIlPnu18-lk9683BxRjsGAsSbLmppL8lshRxUcNnsrvy9yNQ5ympWbPyja0ds0K9TQyaR5ye0yZv2Qc~ugo9QpxgMnOxdVqIhOE0Uzg3viK5kUDuujDCQFSKA908VTLemHLoIzcRMR2NhD9jCYIAyizWv~aI8AnIi9twczuziwylYVWLrw6BeAiTxdyWRruiyEHzY9KMHSh5OgOYMyw79w3h8~btTju~Kh55WPvgqfdbyQuXA04eB0ZX9W9j4Hh0QdtphCAtM5rD5k5GJqvKtyyDU3kxVUd7ptSYzAothx0WDd39ph9ebR9t5Er8MS7lytfHM72da6MwPGg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es la pareja de Elena.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a937a6df-35b4-4d4c-b14c-6a5c183bcf20",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/501df7e22bbb462bba01cd943d222ffd_l01b07-trabaja-como-disenador-grafico-no.mp3?Expires=1794099578&Signature=x84PguIThDK4hMUgXxx6MIM4Gh6N8Lxong8a3pIjWVupLyqJ9aRldyJ-3fKbpoJqcAcGkuTvtJf0PSdSDPMwSjlg~AF9QS3K6TV-orIY~G98L8w-lMxcArYOeLGSd9XDBb4tz5zX9dYtBcKFJJ3aFCci6tRJntEOmr8zDpwqAeZ-a~xWFmmwl6Vl1homyHWNRxmRTpNoQjI-SNS~jKT7cAP~d4qD9cMIB37or9IC3-XTxBFiy3eH-U0Ksp6Jcm42y9IP49oXj523OqRsKQvhJ26SWfMwkGBM0jL3BTiBjm4~mT538nNP5OXxyfklJqBWzD~fcOr8ObCo5-V1D~OI4Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Trabaja como diseñador gráfico, ¿no?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "cd23a1a6-6cab-46c8-bece-94f3efe3fc4b",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6e8bf060d8cf415b8da9ee77d875221a_l01b06-se-conocen-desde-hace-tres-anos.mp3?Expires=1794099578&Signature=VIiWDkv7hOcZS63yeMvC3LKC2qluJBgksZ7DDkGC-m-bi-Ks3qr0aiftUnc0PEY-k~9u3jzTpnCq5ZqjREp5PQTJN6r--YU4lde~CCGBvaqzVHpuCM-lyPae8gn5XYSLgzqZhKhUIQKgFjrH8MhZb-VwdZYLX5eIsArhEFslj0Qbt97UUjmpnbH1hioxeA11GtNULjb1JwnBvLGUcwH6Jx1iZc5IteoDp8hAku3SQRgWuONkrCAfTV7~QXxTw8Pa7lxHpFy3Qt1vJxZg3ZqFj0jWJhNGSuD3c-skac71LHKYyDIvEgKKzc45JUWDCDNMlYhG3yqYMeGPUxaJ7P8paw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Se conocen desde hace tres años.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "4f39b154-3466-4582-b552-a5708883c7c6",
+      "sequence": 3,
+      "lessonId": "8ccc21c9-817b-481a-a86b-5c57d7a48eb3",
+      "title": "Complete a pergunta de profissão",
+      "content": "<p>¿A qué se ______ tu amiga Marta?</p><p>Tradução: Com o que sua amiga Marta trabalha?</p>",
+      "contentPlain": "¿A qué se ______ tu amiga Marta? Tradução: Com o que sua amiga Marta trabalha?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, ¿A qué se dedica...? é a pergunta curta para abrir o tema da profissão.",
+      "feedbackError": "Nesta aula, ¿A qué se dedica...? é a pergunta curta para abrir o tema da profissão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "dedica",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6bf3379f-95f7-46bf-bd96-3e3871699243",
+      "sequence": 4,
+      "lessonId": "cde39616-6d7c-4b4c-a503-a47269081e79",
+      "title": "Complete a aceitação",
+      "content": "<p>Complete em espanhol: Me __________.</p><p>Tradução: Eu adoraria.</p>",
+      "contentPlain": "Complete em espanhol: Me __________. Tradução: Eu adoraria.",
+      "fileUrl": null,
+      "feedbackSuccess": "Me encantaría. aceita o plano com entusiasmo e sem alongar a resposta.",
+      "feedbackError": "Me encantaría. aceita o plano com entusiasmo e sem alongar a resposta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "encantaría",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "27d3a215-f9dc-4ef7-9afc-c16e0199489b",
+      "sequence": 5,
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "title": "Complete a reação",
+      "content": "<p>Complete em espanhol: ¡Qué ____ plan!</p><p>Tradução: Que ótimo plano!</p>",
+      "contentPlain": "Complete em espanhol: ¡Qué ____ plan! Tradução: Que ótimo plano!",
+      "fileUrl": null,
+      "feedbackSuccess": "Antes de plan, a aula fixa a forma buen na reação curta.",
+      "feedbackError": "Antes de plan, a aula fixa a forma buen na reação curta.",
+      "answerType": "buildWord",
+      "expectedAnswer": "buen",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e13ac95c-5e22-4608-8c7a-d8be6993428e",
+      "sequence": 6,
+      "lessonId": "8ccc21c9-817b-481a-a86b-5c57d7a48eb3",
+      "title": "Complete o ponto de partida",
+      "content": "<p>Conozco a Marta _____ la universidad.</p><p>Tradução: Conheço a Marta desde a universidade.</p>",
+      "contentPlain": "Conozco a Marta _____ la universidad. Tradução: Conheço a Marta desde a universidade.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, desde aponta de onde a relação começou.",
+      "feedbackError": "Nesta aula, desde aponta de onde a relação começou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "desde",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "304f7439-e401-465c-b984-a51c31787f02",
+      "sequence": 7,
+      "lessonId": "c15d423c-acc7-4865-90e2-46140feab129",
+      "title": "Complete a pista de vínculo",
+      "content": "<p>Es la ______ de Elena.</p><p>Tradução: É o parceiro da Elena.</p>",
+      "contentPlain": "Es la ______ de Elena. Tradução: É o parceiro da Elena.",
+      "fileUrl": null,
+      "feedbackSuccess": "Es la pareja de... situa quem a pessoa é dentro do grupo.",
+      "feedbackError": "Es la pareja de... situa quem a pessoa é dentro do grupo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pareja",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "07c7d053-bf79-488f-a570-1a56b31bf6a4",
+      "sequence": 8,
+      "lessonId": "67d79022-dfc9-4552-b117-76d86c0c8f8d",
+      "title": "Complete a abertura da recusa",
+      "content": "<p>Complete em espanhol: Lo ______, no puedo esta noche.</p><p>Tradução: Sinto muito, não posso esta noite.</p>",
+      "contentPlain": "Complete em espanhol: Lo ______, no puedo esta noche. Tradução: Sinto muito, não posso esta noite.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, lo siento abre a recusa com cuidado antes da negativa.",
+      "feedbackError": "Nesta aula, lo siento abre a recusa com cuidado antes da negativa.",
+      "answerType": "buildWord",
+      "expectedAnswer": "siento",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ae27bc46-66eb-4042-939b-0b44561a2f0a",
+      "sequence": 9,
+      "lessonId": "cde39616-6d7c-4b4c-a503-a47269081e79",
+      "title": "Recupere o combinado no áudio",
+      "content": "<p>Escute a proposta de horário e lugar e marque apenas as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a proposta de horário e lugar e marque apenas as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/bc031ebe77e94788828f6466f2d557bd_l03b04-quedamos-a-las-siete-en-la-plaza.mp3?Expires=1794099578&Signature=ECn-faYMVeE4FYcx9ZhzeLr7QjE~7N7p4-RnAQUTr9W0Wc0UT5KSeHxQXq1WoZPIW3EkGqu2zWCgkvSz7LEimLadszL6s1r3thD62VFEQwyhPAshH16D~jakFNBlZSpmZUvbcG4WfuXkUXYQzZyaNcWUYQX6YA7GjdzkJgSuI4jDu5vxK2XvAtS~28YCNS4Pwx3E~FndQiAiqm7bugLtH1jFKammCMaeM5xkGEJG~wU5XkLfX98~suHatv344BhxmSL9NgBkXRXLZ7mAt3Ngy1BP-l~VL~Yl3hr~pdoZrWod-SiAkcamYcenU8WlX56hehs6XSL24iHxAqPWrlrUNA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "¿Quedamos...? move o convite para o combinado concreto de hora e lugar.",
+      "feedbackError": "¿Quedamos...? move o convite para o combinado concreto de hora e lugar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "034a3c3b-0af3-4914-af8a-c51daf187102",
+          "text": "clase",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "15fa56e5-e969-4d27-87ab-e1dc8f992729",
+          "text": "plaza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "60694880-e320-4adf-a074-2808a983827b",
+          "text": "siete",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b3740d8e-b60f-492e-9f17-5580c199f5c0",
+          "text": "apetece",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cf06ca7a-85de-4a90-8391-492d7e93d0ac",
+          "text": "Quedamos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f741eefd-8559-44da-ad23-9de7854146bb",
+          "text": "encantaría",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "321f3959-7e11-4492-ac75-fee18bfe18c5",
+      "sequence": 10,
+      "lessonId": "e3c2763b-6986-46b9-8e2f-40a5e31a6750",
+      "title": "Recupere o limite",
+      "content": "<p>Complete em espanhol: Lo ____ del cine al aire libre es que queda lejos.</p><p>Tradução: O lado ruim do cinema ao ar livre é que fica longe.</p>",
+      "contentPlain": "Complete em espanhol: Lo ____ del cine al aire libre es que queda lejos. Tradução: O lado ruim do cinema ao ar livre é que fica longe.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lo malo de... abre o comentário que marca o limite do plano.",
+      "feedbackError": "Lo malo de... abre o comentário que marca o limite do plano.",
+      "answerType": "buildWord",
+      "expectedAnswer": "malo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b6b1babe-0864-4837-b290-02d191e23ea6",
+      "sequence": 11,
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "title": "Complete o ponto de encontro",
+      "content": "<p>Perfecto. Entonces, quedamos el domingo a las siete en la _____ para tomar algo.</p><p>Tradução: Perfeito. Então, combinamos no domingo às sete na praça para tomar alguma coisa.</p>",
+      "contentPlain": "Perfecto. Entonces, quedamos el domingo a las siete en la _____ para tomar algo. Tradução: Perfeito. Então, combinamos no domingo às sete na praça para tomar alguma coisa.",
+      "fileUrl": null,
+      "feedbackSuccess": "No resumo, la plaza fecha o lugar do encontro dentro da mesma frase.",
+      "feedbackError": "No resumo, la plaza fecha o lugar do encontro dentro da mesma frase.",
+      "answerType": "buildWord",
+      "expectedAnswer": "plaza",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "baf4d6a5-23dd-4a8d-a047-72db885a5f5d",
+      "sequence": 12,
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "title": "Recupere o combinado final",
+      "content": "<p>Escute o fechamento da negociação e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute o fechamento da negociação e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/8eee68a6eb2e4729bb127bd92e1633cb_l06b06-linea-05.mp3?Expires=1794099578&Signature=sB2qqt2mxldnFR3m-77Jo-EkYu-kWlgZxrAXhP7lwabPGJFrI9flYCPbhHUUFtQGTBpkWxNtX-C2s20xt17Ao4xaJP2aogunEJT37dP-JPvyiWiHtI5DB0SjtDmwMkFG66XERc23bMKoUH5ZEYJm50aLSfzQ1F84Z6vDI5xJ8E-gbK-ChpycaI2rdv91dI6aJHa1lqdaBlx9SaKlDqIyQCxKTBnxjsSMuVXV0-Fb1PGqOqdgShxo~BdYh6gL9wWc8DZKjyLyw7Eg5GelUD7ruVQsdrct1rBLheMU2DpcuIN9vRxnXqbFyZVr429VYf9pp~K154-t8f8X1zPMVzdNig__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A fala final transforma a alternativa em combinado concreto para os dois.",
+      "feedbackError": "A fala final transforma a alternativa em combinado concreto para os dois.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1668dd20-2ff1-465a-a528-c2bec9292e34",
+          "text": "gente",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "17f4da9e-e1c8-4bba-a071-eccd19a9cfbd",
+          "text": "nada",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "26671f89-4fb4-4405-82fe-fbb3c833958c",
+          "text": "entonces",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "905d8d0e-d859-400d-ac7d-b3c3e6b06104",
+          "text": "tarde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "91f7ba53-6c57-4e0c-9736-3450f95b3fa3",
+          "text": "quedamos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "95097c83-8f18-4798-a36d-7bf6ad805bb0",
+          "text": "sábado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b6855a2a-1bd7-4246-bf1e-301349f1cbae",
+          "text": "tardísimo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bb8bbc65-ddc7-4e1d-bd68-5e129a936617",
+          "text": "cine",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "f418c530-1766-4af6-969c-a4ea4b0bfb34",
+      "sequence": 13,
+      "lessonId": "8ccc21c9-817b-481a-a86b-5c57d7a48eb3",
+      "title": "Recupere a pergunta sobre tempo",
+      "content": "<p>Escute a pergunta da aula e marque apenas as palavras que fazem parte dela.</p>",
+      "contentPlain": "Escute a pergunta da aula e marque apenas as palavras que fazem parte dela.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e41433b787e646eda531c6001fe75d01_l02b04-desde-cuando-conoces-a-marta.mp3?Expires=1794099578&Signature=nw7990~bT7P~4rKEjPbGqUQLYduJFGYbhjK9Br6B-bi~kFH35hKIkMmVbIqqW2VRJkF-ygIzmO1GHKwdSFUDDASI4BNHnBrcG3LJ8m3YuBbX66tPhSwljWAGJ87nAxPVlkGFLdU8B6q1A~Ca-D7BSFzdjYsS1cwC2WCdQ5U0wHfiNn4dBtavyZ2SJwq~knmXzc8XqIQhLMsFEXQkzfADvrikVz3djalopaD7KxZBJTgEayvrskg1cRvoN~xVVEDhyl~3ndwBne3VqAdSp7wLEuwdnwdVSeIfI-hSqVct9Qg4kRiLCqoFMbzvvt0o9OLtIIb1sKy8~-cl6~DMxDIWTQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, ¿Desde cuándo conoces...? puxa o tempo da relação de forma direta.",
+      "feedbackError": "Nesta aula, ¿Desde cuándo conoces...? puxa o tempo da relação de forma direta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "127ebe78-3c67-484f-8bdb-9a29f8bae305",
+          "text": "cuándo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "61146e1c-30b0-45d0-a418-b91af3f1cc8a",
+          "text": "amiga",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6be43021-1ec5-4ef9-bd6e-a4d374d365c7",
+          "text": "universidad",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6faa46e6-2faa-428b-b2b0-0f3133b7dc08",
+          "text": "conoces",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "751ae63a-fbe5-424f-9654-7b3d6f666b37",
+          "text": "Marta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "96b39306-0e7b-415c-9631-797ad737dcac",
+          "text": "dedica",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bf8e01d0-d9fc-42f8-ae7b-201265a6125f",
+          "text": "desde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ee70712b-a9a5-4234-a1c3-21db2a910f95",
+          "text": "profesora",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "39855131-6f1f-40a6-af70-dee764e2a798",
+      "sequence": 14,
+      "lessonId": "56b46442-8774-48c8-b1df-db0928b2d12b",
+      "title": "Ligue cada fala ao efeito dela",
+      "content": "<p>Recupere o encadeamento completo da aula relacionando cada fala do diálogo ao que ela acrescenta no plano.</p>",
+      "contentPlain": "Recupere o encadeamento completo da aula relacionando cada fala do diálogo ao que ela acrescenta no plano.",
+      "fileUrl": null,
+      "feedbackSuccess": "A negociação completa anda por convite, alternativa, avaliação positiva, avaliação negativa e acordo.",
+      "feedbackError": "A negociação completa anda por convite, alternativa, avaliação positiva, avaliação negativa e acordo.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "28a2230d-72c1-490e-95fc-f551e3c922eb",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "406379dc-6105-46a6-a0d6-e1b8be8da4d4",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "6588dff6-b366-4650-b053-a70a462d59b6",
+          "leftContent": "¿Te apetece ir al cine hoy?",
+          "rightContent": "lançar o convite",
+          "sequenceItem": 1
+        },
+        {
+          "id": "ac5ba06c-fda3-4fe3-9422-f79738e97620",
+          "leftContent": "Hoy no puedo, es que salgo tardísimo. Si quieres, podríamos ir el sábado.",
+          "rightContent": "recusar e propor alternativa",
+          "sequenceItem": 2
+        },
+        {
+          "id": "35da9fdb-4d59-4bf1-88cc-f9d2c28a0f8c",
+          "leftContent": "Vale. Lo bueno del sábado es que vamos con más calma.",
+          "rightContent": "apontar um lado positivo",
+          "sequenceItem": 3
+        },
+        {
+          "id": "08866ca9-9738-440b-a320-069a5ec4622f",
+          "leftContent": "Sí, aunque lo malo es que habrá más gente.",
+          "rightContent": "marcar um lado negativo",
+          "sequenceItem": 4
+        },
+        {
+          "id": "55dcb4a6-283a-4df6-9713-470294ea6d07",
+          "leftContent": "No pasa nada, entonces quedamos el sábado por la tarde.",
+          "rightContent": "fechar o novo combinado",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "4262d0d1-4c41-4f03-be71-a4c806575c3c",
+      "sequence": 15,
+      "lessonId": "67d79022-dfc9-4552-b117-76d86c0c8f8d",
+      "title": "Recupere a recusa do diálogo",
+      "content": "<p>Escute a segunda fala do diálogo e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute a segunda fala do diálogo e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb8907c42ab445aaa14c923b636208a9_b07-dlg-02-lo-siento-no-puedo-esta-noche-es-que-manana-madrugo.mp3?Expires=1794099578&Signature=goEkMqOE1LVhE~zqJiSoZelMlfsZKE5x7cvoU14iXRzkIJxz64NTy~5-W9uJ1s50a-mmIImYYXULVnyfzkMNuSl5QuXYDWamRvvlj~UCxMcze6pGTpngW2tJrH9vbAex25tDlx5prcCbfJ9uhPueziWi8H3mY7-VxagadRmM3JtSfyTId0NrolO4mR9nhE2eyvlK0Ok5HlUZjVBtocIexUgyvDyqLzPJY2s6F0Ug0FhNuaPb1EmDOvTiYFYUGPXVWSJKeSL5-l5V8p-JCnwcmXTcqfBDapAyYQstU2M2Jyh8pp52bpd-teGaZxy7Ze8Ad-iKimWT0Culr66QU95SNQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, a recusa principal combina tato com um motivo curto para não alongar a desculpa.",
+      "feedbackError": "No diálogo, a recusa principal combina tato com um motivo curto para não alongar a desculpa.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "07818311-149f-4498-9d74-d05968263996",
+          "text": "mañana",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "102b2b7d-50a6-44e4-b8c9-8bad99898878",
+          "text": "no",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "312e05c6-f83a-4d5e-9824-2bae806dfc62",
+          "text": "sábado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "351d69a4-3842-44bd-ad13-218d6360038d",
+          "text": "puedo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "45e02504-dac9-4084-ac3f-44529f94d0f5",
+          "text": "noche",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "51d61868-4391-4201-b9fe-325a8561e541",
+          "text": "tarde",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8c912b92-7e61-49a5-b025-af92b73c07fc",
+          "text": "cine",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c640b898-4c91-4864-a755-30f041161bf9",
+          "text": "Lo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "df4f69c1-a30c-4e19-a4a0-91a1549e5be9",
+          "text": "siento",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "fb663a4b-c22c-4fdb-b495-cd12764f2ed2",
+          "text": "madrugo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+    "attemptId": "f935393b-6b91-4643-82d3-f479715587fc",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "143b869e-f8ca-41df-b7b8-abd5a938dd12",
+      "c7f2a11e-85ab-4c6e-8ec2-baee0045944f",
+      "a33be8cd-c0c8-4202-8fdb-e85976962785",
+      "746131d2-6f6a-475b-a547-d9937d1d3628",
+      "4269bb35-b325-4f00-962e-b154e0983231"
+    ],
+    "evaluationExerciseIds": [
+      "c70ffaf5-7aa4-4722-a4b4-896bd716e089",
+      "c866fe22-5dfd-4d6f-a85b-d9037c6e7544",
+      "3e80e100-1bdb-4a31-9ae8-72d2d6e96057",
+      "498c84c8-cbe3-40ec-88bd-a64659ac8904",
+      "602286f3-1a40-4d74-a17a-6a531b50bf59"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:32.967816Z"
+  },
+  "contents": [
+    {
+      "id": "e3407087-9032-4d6b-a8a3-f3a0a33aeb9f",
+      "title": "Leia o cartão e observe o que a outra pessoa espera quando pede um update de saúde.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "1df94d90-7411-4bc0-b656-60cb80795591",
+          "textContent": "<p>Na aula anterior, bastava dizer o sintoma.</p><p>Agora o outro passo é dar um update mais útil: <strong>há quanto tempo</strong> você está assim e <strong>se isso mudou</strong>.</p><p>Esse tipo de resposta aparece num chat, no trabalho ou quando alguém de casa pergunta como você está.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "bd4645df-290b-43e4-9609-ae42c10d5c49",
+      "title": "Escute e leia a frase. Repare como o tempo aparece antes do sintoma.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "6c208261-a9af-493a-bcae-40beaf8fd822",
+          "textContent": "<p>Primeiro, marque a duração do problema.</p><p><strong>Llevo dos días con tos.</strong></p><p>Em português: <strong>Estou com tosse há dois dias.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/a73e37b698b14818b3d5e6e297d80467_b02-llevo-dos-dias-con-tos.mp3?Expires=1794099633&Signature=NYfTpQ3ChsmyGe1mqwTd50G5xLDzHp6Xr~0~spYJPVXU2SdnBFeuTxgvrjhGdA9nHPZ~pHaiiT1u6iS4EsnYAEPjX03Yf5l3K4T~F6W554Cmyhl~kanITlNYGjbEZs5asxr4eS8AeTfGEWyiziEbhl~di7NxsjHjeAFt-cd6uWrXbhitt4KVQX2yuM1K3IfjtT56NAxGQNCqULPxs-IxwjFDMy8zCvmDV~MCKGrE5poL4syIDPn-JerCraKarJFZfAhgd6HffJBCEe51nx3~CpQmYU-AMjl7ESSI5eE8wFLzwb-uJ-LlUcl4hEGT0BdZE7qq1kMlkNvGr8qElqFleg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c8704836-72c7-462c-970a-e015ade0647a",
+      "title": "Leia a nota curta e observe o molde antes de passar para a mudança do quadro.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "58d9229e-e7d9-47e1-ae48-079c4f3a79a9",
+          "textContent": "<p><strong>llevo + tiempo + con + sintoma</strong> ajuda a dizer desde quando o mal-estar continua.</p><p>Você pode trocar o tempo: <strong>dos días</strong>, <strong>una semana</strong>, <strong>tres noches</strong>.</p><p>O foco aqui não é a causa. O foco é a duração do que você sente.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "660ee274-28e5-4862-a5f2-d21f7b456d7b",
+      "title": "Passe pelos três cartões com áudio. Observe a diferença entre piora, melhora e falta de mudança.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "207584f1-7af1-42f5-99a6-440155d0d676",
+          "textContent": "<p><strong>Desde ayer me encuentro peor.</strong></p><p>Em portugues: <strong>Desde ontem estou pior.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/469585741186439ea5f146d29344d5f3_b04-desde-ayer-me-encuentro-peor.mp3?Expires=1794099633&Signature=m3YavYTw~hhJARCl4yqGQ22wlyGqmoRvRAAbOBl~GlemTz-QhJtzKS-bxklo0SjPZ543tGMihoFNr2aYmYmyevz1Lzw0c0qT5ZhBOaizHqpI3hfx5zhPIsmwUIKBUIYXNwxbZh0BvSwae4MJTxCwUM3OpjbMJgj5BmpCvvqfyJsov1KDufZZ7bJlnjflJLoQGkDArWHm~yToTBBlZIyWTBSs3gvVOoQA3ELasnfdnUDcyFuouxw6XXZHSZ2U2eHviWrGhfCq-haJm17e0NqIV9gTzwwvqkydx6OKfzQ0O5MCQkuLJFs09hLZRq5bPwG36Q-F~2vynUtykJm-roAVQQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "0926f979-6907-4258-bece-ff450b9ee7d0",
+          "textContent": "<p><strong>Hoy me encuentro mejor.</strong></p><p>Em portugues: <strong>Hoje estou melhor.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/477128c2558440d888db138a9d68cae9_b04-hoy-me-encuentro-mejor.mp3?Expires=1794099633&Signature=1E4Ww8N3JAE93t1J4jYIWHjbuppYMMmnOgFWBIkX0QAGpOWLM9~921r5kEk-CowXpJOxK52K2v2720E21HIq30JmMMiPGnG0molc5~LvaHGcu~5gwunvlfB4b~sQ2UGSvCuCCC2cHRIA1YzNAtYO34dZ33VVPxVbMRDFLs7bvHLpcR9R4k-6jEKMUgR3EiSo2OTQWkXsTmlV-PJPqp4vrZnMAuSKXNtVdfl0WzGZqwnJYdjrVNlCf6fBmi8PWup12US4DAOgIqTMCQ6KqZa9xoFdl28jYG76MBkAb7qFPjDpZsP95Fnk69OiAWx4QrKP1tDiJ5kLntmNCK34ROb0ow__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "b640ec02-bd0d-4239-8d72-c3f856a1619c",
+          "textContent": "<p><strong>Sigo igual desde el lunes.</strong></p><p>Em portugues: <strong>Continuo igual desde segunda-feira.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/066bf81a4340455bbe5f4b579bddf9e9_b04-sigo-igual-desde-el-lunes.mp3?Expires=1794099633&Signature=eripjuFvdalnA1cRdSbpjkg04SguLJgM8pVBpV4SGUplar6Z8juBrprWgQO08ORevklPAP~QJf5Jt7YLeRaMbLD8zfkNcWywLBG3zGootXKWizbcR4~bb9uSCaDcEX7EHw6~NYDmBNQrzpaTKMZzEiUdR5OML8VUBJTNKW8ahaVCJxPkjZpLO867JBHx~mbOfaWahci4kSepURkU7Yx4iUGXwdrs9XVDNVsQy5DPQVoQxBcrJR9EvXwW9QG6IN6EQFr9Gg-8ONMGx0HUrDYnyh260~7ncxppnMvwQHAPW7IOy7O4w5w2It1AefVjitY~sPoLtVg6iB1iRi3kL0JzcQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f9c6f1ae-09f1-4bc6-ab92-1865e4bf336c",
+      "title": "Compare os exemplos e note qual parte fala de duração e qual parte fala de evolução.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "c398d073-aac0-4b7c-a7a0-8ab87d0728a7",
+          "textContent": "<p><strong>Llevo dos días con tos.</strong> responde: <strong>há quanto tempo?</strong></p><p><strong>Desde ayer me encuentro peor.</strong> responde: <strong>desde quando a mudança começou?</strong></p><p><strong>Sigo igual.</strong> mostra que o quadro ainda não mudou.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b62dc1cc-2878-4e33-9a62-030429dbc28c",
+      "title": "Escute e leia o modelo. Observe como as duas informações aparecem na mesma resposta.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "7e76b393-8e90-4bae-bab3-17b63649f731",
+          "textContent": "<p>Agora junte as duas partes no mesmo update.</p><p><strong>Llevo tres dias con dolor de cabeza, pero hoy me encuentro mejor.</strong></p><p>Em português: <strong>Estou com dor de cabeça há três dias, mas hoje estou melhor.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/87647882fbee4ea8a4a57f9cf2732c97_b06-llevo-tres-dias-con-dolor-de-cabeza-pero-hoy-me-encuentro-mejor.mp3?Expires=1794099633&Signature=0nRGqtPRiI5t4A-IbTUPs7xsFmsh~HAVayAIP8UMrj6QgIfY2v8Sp593w~a7DuQ8FOewhnazqPtF-lerFClEH9Hr2xHfNkucTFSpQsnSKJZzDbHzRrPtSXB-23elzoJD2Gjd3QmXksZHy~MYX83aqPAih-oQ7WjinTR084R~84AyBrir5hRwCwOK~WKORvr9TMF9IqyPsfT0qc0tWnCBcF5l5AQFoFZn1c2zxslnLghsKSZE~FdMfsVi2iRQaqriYoY9cn-Z0Y8EizpblglnTPYZU794-FGPINolHsNQiS7C5NGB2B0mWnRMERPGZ3~5K7LQ2XOtmecf33~ZrBgbIQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4b426aa5-af4c-4e75-9c59-0d10b4f5b16f",
+      "title": "Passe pelos tres exemplos finais e pense em onde cada update caberia no seu dia.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "b3923a46-78d1-4cbc-abd0-0f3925dc5db8",
+          "textContent": "<p><strong>Llevo una semana con dolor de espalda, pero hoy me encuentro mejor.</strong></p><p>Funciona ao responder um colega antes de voltar à rotina.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/032126de88294c5792dd7edff5713712_b07-llevo-una-semana-con-dolor-de-espalda-pero-hoy-me-encuentro-mejor.mp3?Expires=1794099633&Signature=uQceKNzTk5022FJ-KNAF317Gz8EoQpkFC5~oXt6ZobiS8Q8S7CB6YwulYZ0jNR7xX5z5obM6CfJfH0Lwel7Lj17evYeJ3OwIOKuBIBdklrFrBuIM6G0fqnN8~HMkAWTRzE8VmT9Zxd8vwKFqEg9yiEJhAbMMNKYdUbM4FiHvHZFPz9ZpHlU0baBW~pgXy5ioxZff7cK~TPDzlOlt7qCzDjyB8atf4LtH12l5zY6ndCtRdVOKo4pEbv~mLI9svGw5Ws7QtL4mYmnduCKXickc7gV8AB9MI0M0f45nJn33tm7sOSbjdX9xKDBvIHPKfYJE4agwbvQ8PrAPUdS8EsiQ9g__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "feb1b381-d619-4de9-8b0e-d1fdbf48bcb0",
+          "textContent": "<p><strong>Llevo tres días con fiebre y desde ayer me encuentro peor.</strong></p><p>Serve para explicar por que você ainda precisou cancelar um plano.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/adeca42084cf433b8d02ab165385a9a6_b07-llevo-tres-dias-con-fiebre-y-desde-ayer-me-encuentro-peor.mp3?Expires=1794099633&Signature=qZeWC2pjNFXopAo3zZgGHmzxf6q2QeiCaL5OWGdcHpCVhEU3pQOcNd0qkGUh7VvydxMygb3K9U2L0GHC5qCRwfoLbO9DSOi-Ld80LVHpxv4teziuZyXFAnbiY~ym9HGoWmehJPh-fat0jyywOe1797R5vizoNPXBBd34QuNMC1jbptdOQYuWg02kcVfjrwNV01-We0yfuxO4QcxhWBz08DkyaA4w2sHVd~ZY0-Kv-f1OT~uuW7ZjYFRnYuCiRiMW48a~HrACypSGCYxBPvGVzM339BBinjRZ3CFeNTopERwAudV4bQfBgOvhx0JIFBSg7AiNlRlz56SQRhLIm9oSdA__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "5378aece-31a1-44ce-9662-be2fe30b4a34",
+          "textContent": "<p><strong>Llevo dos días con dolor de garganta y sigo igual.</strong></p><p>Ajuda a atualizar alguém de casa antes de decidir se você vai descansar mais.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/303a6011d5a744d0b4b9474191d6c665_b07-llevo-dos-dias-con-dolor-de-garganta-y-sigo-igual.mp3?Expires=1794099633&Signature=IXs3RvEDh3Aibxf13fvU0x8G3ropbXyzuzpw8doFvzs7L~6mew0hKsa67V2RhWWi5dX3HaOvpqRAN2uwG8giLCN50qSPxNyl1~SnfPggG6-uU5WSdj7Yc62s4T-0QDZTR2gcuwfK~XG1~7cLS8MgkKob8tc-w6ubJNNVy-fvTa-nSQO1Gw-eNYinjqnmp9jSFsWzxwVRmAh~4TCk8ScIy1Gl9-WFfaJFsMYBwlf6A2Z5CK4nmBK1IJy9lMqHB0s~lILmq8HGmHlRWjAFICzqnjKNj2hme02j1vSsQ4O9~O9aTXIFmvA~TcIpSutiu1-mgJj2g9s1vk9cw3Mv4~d4IQ__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "143b869e-f8ca-41df-b7b8-abd5a938dd12",
+      "title": "Escolha o update de duração",
+      "content": "<p>Qual opção responde <strong>há quanto tempo</strong> a pessoa está assim no modelo mais básico da aula?</p>",
+      "contentPlain": "Qual opção responde há quanto tempo a pessoa está assim no modelo mais básico da aula?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, llevo + tiempo + con marca há quanto tempo o sintoma continua.",
+      "feedbackError": "Nesta aula, llevo + tiempo + con marca há quanto tempo o sintoma continua.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "782bfb97-a3a2-4ab9-ab1a-af73bbbdfb36",
+          "textContent": "Hoy me encuentro mejor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "143b869e-f8ca-41df-b7b8-abd5a938dd12"
+        },
+        {
+          "id": "a5fb1d67-3fa0-463f-a5c8-d22865275e23",
+          "textContent": "Sigo igual desde el lunes.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "143b869e-f8ca-41df-b7b8-abd5a938dd12"
+        },
+        {
+          "id": "caff02ee-b590-4b18-9752-ccee90e1f259",
+          "textContent": "Llevo dos días con tos.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "143b869e-f8ca-41df-b7b8-abd5a938dd12"
+        },
+        {
+          "id": "d17c6b44-3297-40f3-a961-1ce4204e42af",
+          "textContent": "Desde ayer me encuentro peor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "143b869e-f8ca-41df-b7b8-abd5a938dd12"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f",
+      "title": "Identifique as palavras do update",
+      "content": "<p>Escute o modelo completo e marque apenas as palavras que fazem parte dele.</p>",
+      "contentPlain": "Escute o modelo completo e marque apenas as palavras que fazem parte dele.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/350b3ba21863405e8bc3f6c20351f46c_b06-llevo-tres-dias-con-dolor-de-cabeza-pero-hoy-me-encuentro-mejor.mp3?Expires=1794099633&Signature=W80wSyVZKXvJQ0Zp5b-lKHtiTHEjLFrf1INML3jjPBB--wc7TVETvufdfXFhw2KbY~57Md39F42eNVPfU53Ffx1uYuIWa1GLrzVkL38KN9~p1tb1cGG9iE0Vy8YCoHuMYXuJMBwNxrs7tZl~Jj9-fgal~ggtZAG5CJaX44hHteNpDWyqJr82hSUrIzvcYK8P-ieDuh91VS5xji4XXzkDskPllI4CFLFo4EtwA6gD~CUdtO22-EBJspSSg-jux~JYDvOLp1CF6qr2rwoQKSn1tEwwKkd8SIKnn8anZOW5dzdSDOtFtatkIvfbTqn7toszKXSavWYpnfXB1K26MOxXtQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, um update completo junta duração do sintoma e estado atual na mesma resposta.",
+      "feedbackError": "Nesta aula, um update completo junta duração do sintoma e estado atual na mesma resposta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0a5af1d9-104f-4b41-b5cc-b7996ab7bb47",
+          "textContent": "fiebre",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        },
+        {
+          "id": "15323520-9652-41d2-bbbc-cc0dd19b4ad7",
+          "textContent": "dolor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        },
+        {
+          "id": "1cae7bb0-c0b0-40e2-86a6-10df2cf0c4e9",
+          "textContent": "ayer",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        },
+        {
+          "id": "2b10d8bd-db20-45e0-a2ef-0f23dfc177f3",
+          "textContent": "igual",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        },
+        {
+          "id": "44489ebb-8891-4350-b5b6-06f23dbd7e0c",
+          "textContent": "tres",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        },
+        {
+          "id": "67f1defb-da4f-46f6-9c01-0c3cee175665",
+          "textContent": "cabeza",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        },
+        {
+          "id": "8889607f-3080-4ccf-86db-6e9a47b85753",
+          "textContent": "llevo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        },
+        {
+          "id": "d0ff8577-133a-40ad-9d36-8bde2792ec5e",
+          "textContent": "peor",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        },
+        {
+          "id": "e02cc8b8-baca-4c92-8e28-4aa2a85f2d47",
+          "textContent": "hoy",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        },
+        {
+          "id": "f106dc79-6c4b-4cc0-9209-e52c1aa41aa0",
+          "textContent": "mejor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c7f2a11e-85ab-4c6e-8ec2-baee0045944f"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a33be8cd-c0c8-4202-8fdb-e85976962785",
+      "title": "Ligue frase e estado atual",
+      "content": "<p>Relacione as três fórmulas da aula ao sentido que cada uma traz no follow-up.</p>",
+      "contentPlain": "Relacione as três fórmulas da aula ao sentido que cada uma traz no follow-up.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, me encuentro mejor, me encuentro peor e sigo igual marcam a evolução do quadro.",
+      "feedbackError": "Nesta aula, me encuentro mejor, me encuentro peor e sigo igual marcam a evolução do quadro.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "06a029a2-34c8-487d-b755-94d1c4f50de1",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a33be8cd-c0c8-4202-8fdb-e85976962785"
+        },
+        {
+          "id": "c7bd67a1-57a1-4c20-9c77-86cdbadcba2c",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a33be8cd-c0c8-4202-8fdb-e85976962785"
+        }
+      ],
+      "associations": [
+        {
+          "id": "90ae496d-17de-4cf6-9dd6-e689f88d39ec",
+          "exerciseId": "a33be8cd-c0c8-4202-8fdb-e85976962785",
+          "leftContent": "Desde ayer me encuentro peor.",
+          "rightContent": "piora desde ontem",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b1d9d808-2981-4978-a5a2-c5c4617b41ee",
+          "exerciseId": "a33be8cd-c0c8-4202-8fdb-e85976962785",
+          "leftContent": "Hoy me encuentro mejor.",
+          "rightContent": "melhora hoje",
+          "sequenceItem": 2
+        },
+        {
+          "id": "63f6029a-4fd7-464b-be3c-afd04a36fc57",
+          "exerciseId": "a33be8cd-c0c8-4202-8fdb-e85976962785",
+          "leftContent": "Sigo igual desde el lunes.",
+          "rightContent": "sem mudança desde segunda-feira",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "746131d2-6f6a-475b-a547-d9937d1d3628",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita o update completo em voz alta.</p>",
+      "contentPlain": "Escute o modelo e repita o update completo em voz alta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/350b3ba21863405e8bc3f6c20351f46c_b06-llevo-tres-dias-con-dolor-de-cabeza-pero-hoy-me-encuentro-mejor.mp3?Expires=1794099633&Signature=W80wSyVZKXvJQ0Zp5b-lKHtiTHEjLFrf1INML3jjPBB--wc7TVETvufdfXFhw2KbY~57Md39F42eNVPfU53Ffx1uYuIWa1GLrzVkL38KN9~p1tb1cGG9iE0Vy8YCoHuMYXuJMBwNxrs7tZl~Jj9-fgal~ggtZAG5CJaX44hHteNpDWyqJr82hSUrIzvcYK8P-ieDuh91VS5xji4XXzkDskPllI4CFLFo4EtwA6gD~CUdtO22-EBJspSSg-jux~JYDvOLp1CF6qr2rwoQKSn1tEwwKkd8SIKnn8anZOW5dzdSDOtFtatkIvfbTqn7toszKXSavWYpnfXB1K26MOxXtQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, o update completo combina duração e melhora na mesma frase.",
+      "feedbackError": "Nesta aula, o update completo combina duração e melhora na mesma frase.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Llevo tres días con dolor de cabeza, pero hoy me encuentro mejor.",
+      "typeSpecificData": "{\"expectedText\":\"Llevo tres d\\u00EDas con dolor de cabeza, pero hoy me encuentro mejor.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/350b3ba21863405e8bc3f6c20351f46c_b06-llevo-tres-dias-con-dolor-de-cabeza-pero-hoy-me-encuentro-mejor.mp3?Expires=1794099633\\u0026Signature=W80wSyVZKXvJQ0Zp5b-lKHtiTHEjLFrf1INML3jjPBB--wc7TVETvufdfXFhw2KbY~57Md39F42eNVPfU53Ffx1uYuIWa1GLrzVkL38KN9~p1tb1cGG9iE0Vy8YCoHuMYXuJMBwNxrs7tZl~Jj9-fgal~ggtZAG5CJaX44hHteNpDWyqJr82hSUrIzvcYK8P-ieDuh91VS5xji4XXzkDskPllI4CFLFo4EtwA6gD~CUdtO22-EBJspSSg-jux~JYDvOLp1CF6qr2rwoQKSn1tEwwKkd8SIKnn8anZOW5dzdSDOtFtatkIvfbTqn7toszKXSavWYpnfXB1K26MOxXtQ__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4269bb35-b325-4f00-962e-b154e0983231",
+      "title": "Escute e combine os três estados",
+      "content": "<p>Ligue cada gravação da aula a frase que mostra piora, melhora ou falta de mudança.</p>",
+      "contentPlain": "Ligue cada gravação da aula a frase que mostra piora, melhora ou falta de mudança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, os três áudios de contraste treinam melhora, piora e ausência de mudança.",
+      "feedbackError": "Nesta aula, os três áudios de contraste treinam melhora, piora e ausência de mudança.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "a9bc5d97-ee29-4a8e-96e4-1362454cbe8c",
+          "exerciseId": "4269bb35-b325-4f00-962e-b154e0983231",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/11bb94f27bbe43549f124be875f9c866_b04-desde-ayer-me-encuentro-peor.mp3?Expires=1794099633&Signature=ztzvtKUr8WaMBdmyfFyTE25J4SUKk-unMZNKZjqtkvhj~SSicHzHtJaTspZP79QmE1oxsKEXrNSqg6ZVZqCSRTmM5T0IR9jNWP6TsUP44PwGUZUac2m-AGNXp65TPk9aHwZFnwSeoO9YlxO1nrculTKsDy4N7wOLeVJ6qKZzMOWIMRTAcms3ZpLwGCCrgEMcWupYv5SH2VHBbhR3PCts108b74P~cyH6ZhUkVoKJUXKpde4~ymhmd4o~qZdsWQnwhqUDbCJEHVKLfc1jyNiSjDMwswm7wWfbSRFTftjgTIYmPmIy3A-N6NLWlg2QCgFr3qJoBmxHV9kQ5Q35MUU4tA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Desde ayer me encuentro peor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "828aeb5f-17c3-4489-873a-4cd0cd64bc7a",
+          "exerciseId": "4269bb35-b325-4f00-962e-b154e0983231",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/58377ca186c44464aef2ea0f36f37ebc_b04-hoy-me-encuentro-mejor.mp3?Expires=1794099633&Signature=DatdKg1Ppj54k8SV3izgw1ji7O0u0~sTVGlCaqIiuNSrKAMUxdexIj4-Pz1QrRd2hap4czXNdrF3gHYMImiRLREs8C4dQwOOu0AUQE~PasJiGzNkGysVINqXhjSxklfV88GGg1HhKqywhKBKVXA6nKBcykHYUN0AkPuGmu9P5fw4O0gDt-Mdz3KowuKRqLq-tOJ7OXcgi971zFkEAioXHUfLYfG5~x5SHx0EJaxsGkow9jBzBOow1962sizxLCT3zzpDud7Vv-rNq4cPe7~vLYpeIsoWZBCWwE~gk6qruxbT0Fan3qhgAAjnwjkxO3g~NEDLBClzzYiZJ1TCL7EpoQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy me encuentro mejor.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "d1c1f330-254a-4427-9e88-c957ca924632",
+          "exerciseId": "4269bb35-b325-4f00-962e-b154e0983231",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c4d238c8f61243c1a1ca6764501f35df_b04-sigo-igual-desde-el-lunes.mp3?Expires=1794099633&Signature=OTCaIwid-LSJvp13AYm5fEhncS9q2b5SNL5sGceW8WiAZ0BLDd7ifr2CDduI3DO3r8UtccOv3L7FBuvl2Iyoj~SMUpDWLXjh7LMiPebcG4egba6YPKW3UqZAkHT3wsMEl5ID5dq-5yNRzlVYAPBxuOeE456kN4noOVYpRfqwzA2jFoYBjt3HccM6LEPxPw6EdmQpnv5NkTdW-~4h1amT1iCTd~FUwgkeFLpfq-MY3hD31s4f9AHhebdz8mxwyWlx6fw~NuJ0RaLGLDcZokrrlIY04zei-RTCqz9oie7~V~zWeP97awd6sryhTCFmnZNAnU-bQnuW8gK9INminOtakg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sigo igual desde el lunes.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "c70ffaf5-7aa4-4722-a4b4-896bd716e089",
+      "title": "Combine update e situação",
+      "content": "<p>Relacione cada update final ao contexto real em que ele funciona melhor.</p>",
+      "contentPlain": "Relacione cada update final ao contexto real em que ele funciona melhor.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, o recap final liga cada update a um uso plausível em chat, rotina ou casa.",
+      "feedbackError": "Nesta aula, o recap final liga cada update a um uso plausível em chat, rotina ou casa.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4bddb859-59a2-4921-81ce-949bfd1a68b4",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c70ffaf5-7aa4-4722-a4b4-896bd716e089"
+        },
+        {
+          "id": "64f5eb95-f0be-42b3-99b6-ed61dc0cdf30",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c70ffaf5-7aa4-4722-a4b4-896bd716e089"
+        }
+      ],
+      "associations": [
+        {
+          "id": "ea1767f4-3776-4efb-b05c-11c33514c4fb",
+          "exerciseId": "c70ffaf5-7aa4-4722-a4b4-896bd716e089",
+          "leftContent": "Llevo una semana con dolor de espalda, pero hoy me encuentro mejor.",
+          "rightContent": "avisar que já dá para voltar aos poucos",
+          "sequenceItem": 1
+        },
+        {
+          "id": "93cd8788-351e-4c69-b7a2-47cfa9b0cc54",
+          "exerciseId": "c70ffaf5-7aa4-4722-a4b4-896bd716e089",
+          "leftContent": "Llevo tres días con fiebre y desde ayer me encuentro peor.",
+          "rightContent": "justificar por que ainda precisa cancelar um plano",
+          "sequenceItem": 2
+        },
+        {
+          "id": "21dda880-fa2a-4980-8bcf-222cce17d560",
+          "exerciseId": "c70ffaf5-7aa4-4722-a4b4-896bd716e089",
+          "leftContent": "Llevo dos días con dolor de garganta y sigo igual.",
+          "rightContent": "atualizar alguém de casa antes de descansar mais",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "c866fe22-5dfd-4d6f-a85b-d9037c6e7544",
+      "title": "Recupere os updates finais",
+      "content": "<p>Ligue cada áudio do recap ao update completo correspondente, sem apoio de tradução.</p>",
+      "contentPlain": "Ligue cada áudio do recap ao update completo correspondente, sem apoio de tradução.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, os updates finais recompõem duração e evolução sem precisar de tradução visível.",
+      "feedbackError": "Nesta aula, os updates finais recompõem duração e evolução sem precisar de tradução visível.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "3960810f-5826-4523-862f-7fd596560087",
+          "exerciseId": "c866fe22-5dfd-4d6f-a85b-d9037c6e7544",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/49babbc5019c47cfb6616f40da5f1488_b07-llevo-una-semana-con-dolor-de-espalda-pero-hoy-me-encuentro-mejor.mp3?Expires=1794099633&Signature=oZinRjIX7t5TInwwP9hgNN82wzB-2n44vjxIirpRDU5uL2n0SxJrjbHSZf2GETxJdLYPmozRmJ6mmMZ9xhnfOZfhvklyQH~YcqYr-Nui3ZmHvkrzhmBxENIha1LBRyWE32m5VU8FPMCfV~IfAOeUK-5SyAH6yEaz2EfJYxpeWBh1q1tRvayMqHuiDI7G20eAyMXE1JY35DsVkD2kq0uZ3s~Idh5CitIiJ3l9TLXId4ScU7-P6X4jVQlA6Ox4NjhmCo2GF93XbEhVLKMAH1YJbBc~vKvU5SspFqGE0PGJsj8MFX5ixAhFtR6uhNX9nxTXS4~7JNDrNu1kgzPkPwHXcA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Llevo una semana con dolor de espalda, pero hoy me encuentro mejor.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2e4f8495-8d56-4576-922b-87b69e7f3469",
+          "exerciseId": "c866fe22-5dfd-4d6f-a85b-d9037c6e7544",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9e8135246f3a47e58edcb2773dec36f6_b07-llevo-tres-dias-con-fiebre-y-desde-ayer-me-encuentro-peor.mp3?Expires=1794099633&Signature=tL6cqmx~x9Bto4WISnfYaa3ZB~H3GF~rPY320yDSoRAzDnrKCz-Z0Es5jCv7XZluT3E0RR~T9tBxsjRuy9Y7U12M1EkbtKFMh4JAOOjzR3CyYUBoqsb9QtUYDHGcIj~u-INl07H07fJUYEZfYLcIqL5PqDoZc4Gfb~PUOqFD9DurgRuvnRSqKQ0GO2tHcr5COC4STqVx51vV2vKO13I9SPuW8Bba0LtlT4habU~TdVm1S1goL1b1MADzOvFED6bCf391upI2BNmV3rgLVeSMrR0K3XlUQ0BdLAiu5Pvf0E7osu46kyTQWAjfix8RRhSPXVnSPrN1Z~LvYfBV4g4dvg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Llevo tres días con fiebre y desde ayer me encuentro peor.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "06a6f92a-d68c-42c4-848c-7b2c007c8d4d",
+          "exerciseId": "c866fe22-5dfd-4d6f-a85b-d9037c6e7544",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/996a445b4761438487cb023bf61dfdf5_b07-llevo-dos-dias-con-dolor-de-garganta-y-sigo-igual.mp3?Expires=1794099633&Signature=BTv4yQZzJdVnV9-ihkzpwJXBHS6XhDj4CvDw2VKYHYXmT-M5~W3CVshSkKYWw0-sZ2PkndxnfgaLLvSa4T50dZqSxankl5WIiyCOt37vqqugYJEOy0ksjdPFuNPHrMO1E0aIweDzc3EGYSSrT2VpsFY-xao9DtmwAp7qN6JJs5wkDW~uEz5jt3ANHtM2aFjLV0-0VX0CEccbScQdjzjYB7Yr59Ownlv4KSxrTsVgatvfKRNaAe5jkLxU7XaOKvUbWhuY7ZDZZBobc6TSCiiVRr0fh~njjQ9sxoMU4u1uvIQNWrq1Ki2umaXL-rLbNfP2ZoQY0w8stjYvIjvsHmoggQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Llevo dos días con dolor de garganta y sigo igual.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "id": "3e80e100-1bdb-4a31-9ae8-72d2d6e96057",
+      "title": "Complete o início da duração",
+      "content": "<p>_____ dos días con tos.</p><p>Tradução: Estou com tosse há dois dias.</p>",
+      "contentPlain": "_____ dos días con tos. Tradução: Estou com tosse há dois dias.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, llevo abre a estrutura para marcar há quanto tempo o sintoma continua.",
+      "feedbackError": "Nesta aula, llevo abre a estrutura para marcar há quanto tempo o sintoma continua.",
+      "answerType": "buildWord",
+      "expectedAnswer": "llevo",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "498c84c8-cbe3-40ec-88bd-a64659ac8904",
+      "title": "Complete a piora do quadro",
+      "content": "<p>Desde ayer me encuentro ____.</p><p>Tradução: Desde ontem estou pior.</p>",
+      "contentPlain": "Desde ayer me encuentro ____. Tradução: Desde ontem estou pior.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, desde + me encuentro peor marca desde quando a piora começou.",
+      "feedbackError": "Nesta aula, desde + me encuentro peor marca desde quando a piora começou.",
+      "answerType": "buildWord",
+      "expectedAnswer": "peor",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "602286f3-1a40-4d74-a17a-6a531b50bf59",
+      "title": "Recupere o update de piora",
+      "content": "<p>Marque apenas as palavras do update final que combina duração do sintoma e piora recente.</p>",
+      "contentPlain": "Marque apenas as palavras do update final que combina duração do sintoma e piora recente.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/9e8135246f3a47e58edcb2773dec36f6_b07-llevo-tres-dias-con-fiebre-y-desde-ayer-me-encuentro-peor.mp3?Expires=1794099633&Signature=tL6cqmx~x9Bto4WISnfYaa3ZB~H3GF~rPY320yDSoRAzDnrKCz-Z0Es5jCv7XZluT3E0RR~T9tBxsjRuy9Y7U12M1EkbtKFMh4JAOOjzR3CyYUBoqsb9QtUYDHGcIj~u-INl07H07fJUYEZfYLcIqL5PqDoZc4Gfb~PUOqFD9DurgRuvnRSqKQ0GO2tHcr5COC4STqVx51vV2vKO13I9SPuW8Bba0LtlT4habU~TdVm1S1goL1b1MADzOvFED6bCf391upI2BNmV3rgLVeSMrR0K3XlUQ0BdLAiu5Pvf0E7osu46kyTQWAjfix8RRhSPXVnSPrN1Z~LvYfBV4g4dvg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, o recap final pede ouvir duração e mudança do quadro na mesma mensagem.",
+      "feedbackError": "Nesta aula, o recap final pede ouvir duração e mudança do quadro na mesma mensagem.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "980289c8-78c3-4d9c-8108-ba3167d3c47f",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "00875c0f-fb78-4262-8c67-a46e87259145",
+          "textContent": "desde",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        },
+        {
+          "id": "372e5658-c774-42c0-8da2-0a5cd18ca9b9",
+          "textContent": "ayer",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        },
+        {
+          "id": "41353830-9010-4cb9-8bc4-bb8477a0f56a",
+          "textContent": "semana",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        },
+        {
+          "id": "67391d3f-4503-4856-a55d-fee7220222b8",
+          "textContent": "garganta",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        },
+        {
+          "id": "80914597-f77f-492f-851f-65e313c44592",
+          "textContent": "igual",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        },
+        {
+          "id": "809de8d7-a5b0-40f9-898a-b0bdb7f5198d",
+          "textContent": "llevo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        },
+        {
+          "id": "8ebb7247-a66e-49b6-83e1-eb1481607b85",
+          "textContent": "peor",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        },
+        {
+          "id": "913167b9-b820-4ed7-ab7e-c0a6d24ca304",
+          "textContent": "mejor",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        },
+        {
+          "id": "a672330f-1eda-4962-8550-a7ee694398d3",
+          "textContent": "fiebre",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        },
+        {
+          "id": "f0d30f3f-37bc-4a15-bdfe-d01dbbb65d05",
+          "textContent": "tres",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "602286f3-1a40-4d74-a17a-6a531b50bf59"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "title": "Marcar ha quanto tempo e se esta melhorando"
+}

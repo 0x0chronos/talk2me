@@ -1,0 +1,492 @@
+{
+  "attemptId": "55dc424a-0c69-48b3-9fbc-7a820f132f51",
+  "exercises": [
+    {
+      "exerciseId": "60d5ba5e-954a-4447-b825-0a1b3603bfe4",
+      "sequence": 1,
+      "lessonId": "c1240d18-8f0b-48e9-ba5b-f4b04f307681",
+      "title": "Complete a origem",
+      "content": "<p>Hola, soy Elena. Soy de _____ y vivo en Bogotá.</p><p>Tradução: Oi, eu sou Elena. Sou do Chile e moro em Bogotá.</p>",
+      "contentPlain": "Hola, soy Elena. Soy de _____ y vivo en Bogotá. Tradução: Oi, eu sou Elena. Sou do Chile e moro em Bogotá.",
+      "fileUrl": null,
+      "feedbackSuccess": "`soy de` aponta para o país de origem dentro da apresentação.",
+      "feedbackError": "`soy de` aponta para o país de origem dentro da apresentação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Chile",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "0a8273bd-57d3-44d3-9969-60ea387ada8f",
+      "sequence": 2,
+      "lessonId": "92ecad42-8522-4d08-8aee-a1695766033c",
+      "title": "Complete a resposta",
+      "content": "<p>Soy de ______.</p><p>Tradução: Sou do Brasil.</p>",
+      "contentPlain": "Soy de ______. Tradução: Sou do Brasil.",
+      "fileUrl": null,
+      "feedbackSuccess": "Depois de `soy de`, a aula troca só o lugar para dizer a origem.",
+      "feedbackError": "Depois de `soy de`, a aula troca só o lugar para dizer a origem.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Brasil",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "96efc652-34d9-46bd-a8c1-23f08bb980bc",
+      "sequence": 3,
+      "lessonId": "7d496af1-1f4e-4a35-a391-4b28c004a4e7",
+      "title": "Complete a pergunta formal",
+      "content": "<p>¿De dónde __ usted?</p><p>Tradução: De onde o senhor ou a senhora é?</p>",
+      "contentPlain": "¿De dónde __ usted? Tradução: De onde o senhor ou a senhora é?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é recuperar a forma verbal curta que acompanha `usted` na pergunta formal.",
+      "feedbackError": "Aqui o foco é recuperar a forma verbal curta que acompanha `usted` na pergunta formal.",
+      "answerType": "buildWord",
+      "expectedAnswer": "es",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ba255673-8b46-4048-be88-405bedb61bad",
+      "sequence": 4,
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a pergunta curta do diálogo e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a pergunta curta do diálogo e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/f59a1f57bdde4906a459c93da88030e0_b06-d05-de-donde-eres.mp3?Expires=1794099407&Signature=gnL1KtBTiGPq2K9aqwpGwZWh6AOQzP088xpg3V4GH89LfxTJZapbJwKBNBw6HmGbmQDSJPxABukZE8YuMeTo97BHkxO9HTC8uEZASMMpCckVS9ZmHK4vx7vB4kt4WgwfENgjyAgQXmLwxHkJdmdI5phCjaVLvc7628Kv~8frSWCwRSEO2SI08W4yE8f0a8~3nhMQ9dQSb~EwRLX6aq2iyjzCJRELchTIdgD2W8fm-KO7XY8pLCrKuOGzwHcByJERe6XhOHZVbM66W8MeyxKQv1MOgvA7PNIBQWXnC2olDSygFMtZ3cnFt3PenUPpHZfB5rYmVysCmvgNjEnxhT~N9Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A pergunta central da aula para falar de origem é ¿De dónde eres?",
+      "feedbackError": "A pergunta central da aula para falar de origem é ¿De dónde eres?",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "655615bd-c51c-4b1b-981e-7ae29e3c4de0",
+          "text": "eres",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "755b2a34-6d1c-4fd9-b384-b9af62508afe",
+          "text": "De",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8b2b38a0-094d-44f8-b84b-4ee0d7fe9e48",
+          "text": "vivo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "908514cd-9c6e-4edd-b440-0fb731487ec9",
+          "text": "Julia",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cad10e9d-f0b4-478b-8e78-6e8b445efe2e",
+          "text": "dónde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "9b6576dd-ddae-47b6-a70e-a4cbb09edd73",
+      "sequence": 5,
+      "lessonId": "3759cdc1-2832-4e59-beb9-cf30c36a8c98",
+      "title": "Escute e diferencie",
+      "content": "<p>Ouça a pergunta e marque apenas as palavras que fazem parte da forma formal em espanhol.</p>",
+      "contentPlain": "Ouça a pergunta e marque apenas as palavras que fazem parte da forma formal em espanhol.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/eb0cb93a0bb940acb7e5573d11729976_b05-donde-vive-usted.mp3?Expires=1794099407&Signature=Q6Vu0ynyMnsRsBDEdq4LZPKIqLBjFECi9ANIYqUJI4P~hQCOenXtq0LTG3XXaLGm52w~hxSaQ0Z0sIV9KVBSEULhTVtIrkDSuzJ~BrxLx5aHQrdUqAc1m1S4bRA-7GnkKgdpAgfaTOnTrbGZwn0BmRvYfjFnYii1UkLqVEMjDAHAYwifWb0ZLxqwWSi~64-mxc3Jw-DqpU0bgNrYAYPuvUg-xys2gs3aOH88WEr8xOBJZyaC3BSq7LKNyRp6jYJJQ5VtQ4tZWuh04YlLKunClabH7xX9vTSjTO35AxUxIuLCmQ3jDv8rML0Frgv9rKHJlraWD8rHQzTS~AbUGTlVlQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui você diferencia a pergunta formal com usted das formas informais já vistas.",
+      "feedbackError": "Aqui você diferencia a pergunta formal com usted das formas informais já vistas.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "28723e7b-4bed-48a2-87f3-739549f9640b",
+          "text": "eres",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2b6b1c53-d065-4564-9177-e2eb33aaedc4",
+          "text": "vives",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8def5e07-b4fc-4713-b456-c928cad63795",
+          "text": "soy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "afc8c122-a8fb-45c9-92ec-6bdf570543d4",
+          "text": "usted",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d3bf5081-e0be-43ec-b281-64c9b346499d",
+          "text": "dónde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e3325d04-ee56-4f46-bb01-3526edce4516",
+          "text": "vive",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "5237b302-63bb-4b23-88d5-957a11a783db",
+      "sequence": 6,
+      "lessonId": "35f108c8-2f03-4460-8b3f-fb44ea3e7d8e",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Escute a resposta de Diego e marque apenas as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a resposta de Diego e marque apenas as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0646e96db2984093b3e5750e51d2f64b_b05-d03-soy-de-peru-y-vivo-en-recife.mp3?Expires=1794099407&Signature=0BxwKgHGKr08nPXt2zIuQ0TD1yiI8Rx4zinBuh8oU-QztxZCVl17FKEiGU6S0b97aZXeaiAdxF2jLvgM9oIWVycHQjpxbea8UP9IN-1029mmWLczMpqIK3xT-by-3a96GiO1jHr1Heo7zIHV1V8JpasZtF7yx4QHYbZ28-EsmgMkvIWaczqn5pb8U0kokPz29eOk~NWNiGkW4skmFgWYACVJfFlG0E~4vYWr8~QGGcbZRE0WpSBA8RyHBghollqd49~2oTjQuooW5a2J4Ca6ls8OxkrbuvPKOyfhOuBp-EbbFsMtZd8d7ap~B0KDJcIHtBBx8TVH9iYfCd7K7gp4WQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Este exercício recupera pela escuta a resposta que junta origem e moradia atual.",
+      "feedbackError": "Este exercício recupera pela escuta a resposta que junta origem e moradia atual.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "22995a42-e230-4087-963a-85e003ae4e9f",
+          "text": "Recife",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2a244f3d-a711-4dcd-b0f2-4c33d9f60b23",
+          "text": "y",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "69d1aa15-4121-4252-98ce-07b68232dbd3",
+          "text": "Brasil",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6aa96e60-6fae-4aea-875a-48c5e77bb38e",
+          "text": "vivo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6d2326d9-b6be-48ae-9379-1de5f18e4e7c",
+          "text": "de",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a2f758bc-f67d-4102-a9a1-bed6c00e9f20",
+          "text": "soy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a5dc525c-ed4e-45bf-9cab-5af11b5d4e00",
+          "text": "Curitiba",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a6715a22-324e-48e8-8f0b-80d7665a715a",
+          "text": "en",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e930af80-bc97-4943-ad37-42774024eedc",
+          "text": "Perú",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "79cb1fe6-5cfb-4770-b26a-a737288e1041",
+      "sequence": 7,
+      "lessonId": "3759cdc1-2832-4e59-beb9-cf30c36a8c98",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a resposta em espanhol: Vivo __ Curitiba.</p><p>Tradução: Moro em Curitiba.</p>",
+      "contentPlain": "Complete a resposta em espanhol: Vivo __ Curitiba. Tradução: Moro em Curitiba.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você recupera o formato curto usado para responder onde mora.",
+      "feedbackError": "Aqui você recupera o formato curto usado para responder onde mora.",
+      "answerType": "buildWord",
+      "expectedAnswer": "en",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "cd5952fd-f17c-4c65-ac39-cb2af9604dd4",
+      "sequence": 8,
+      "lessonId": "c1240d18-8f0b-48e9-ba5b-f4b04f307681",
+      "title": "Ouça e selecione as palavras",
+      "content": "<p>Marque somente o nome e os lugares que você ouve na apresentação.</p>",
+      "contentPlain": "Marque somente o nome e os lugares que você ouve na apresentação.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/33d9d42e230d41f3a08a44a135dae0b8_l04b04-hola-soy-elena-soy-de-chile-y-vivo-en-bogota.mp3?Expires=1794099407&Signature=MXUaiHkU1~HYy8yo9imvWhGg96N~JvKZKaiEUaPmwx0P~UlW8OBFcANYIyDGeYseqa0IY3j-l6geA8-KvxUm5i~KOb1qp4drFeP5Bvp-mpdTVdfuw-7CcJNhFrz1X2E49El6ZhQieP7clDaCpTgNpQ4B-8lVm4RX4hA~1raEXP~RvQyslraE1qV3XUF~0SfsskO19aHJ84L5Or~UliLSRlBXkZ573XIs~BttG42HwitfdkjLGjw11IG5oBSGgtwYxqlHQTT6kO521WJIJzsa8yNo1jjHgzzus373TxBmIGUTkutHt7UwWJirtVAoBLR~CIvpIVEynRl80WmPbWHoHQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Na apresentação completa, o áudio traz nome, origem e moradia atual.",
+      "feedbackError": "Na apresentação completa, o áudio traz nome, origem e moradia atual.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0794cdb3-d070-4a04-8107-8161ecfa34a4",
+          "text": "Elena",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "11446c3e-4638-43c5-ab35-cbb9737ac81d",
+          "text": "Chile",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "35f24c6c-6c08-45bd-9eec-ed6133eb33ae",
+          "text": "México",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5e56f8d7-0df4-4f68-9cab-4a2bce2663b0",
+          "text": "Bogotá",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b7e2d59b-ba6e-416e-a2d0-8b641eee8cf8",
+          "text": "Quito",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cd6d4c8b-f171-40b2-884f-e717447b9613",
+          "text": "Laura",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "9fbc5235-edba-4372-b277-f5e57536e3e7",
+      "sequence": 9,
+      "lessonId": "35f108c8-2f03-4460-8b3f-fb44ea3e7d8e",
+      "title": "Monte a palavra",
+      "content": "<p>Soy de Perú y ____ en Recife.</p><p>Tradução: Sou do Peru e moro em Recife.</p>",
+      "contentPlain": "Soy de Perú y ____ en Recife. Tradução: Sou do Peru e moro em Recife.",
+      "fileUrl": null,
+      "feedbackSuccess": "Este exercício retoma a segunda parte da resposta completa, que fala da moradia atual.",
+      "feedbackError": "Este exercício retoma a segunda parte da resposta completa, que fala da moradia atual.",
+      "answerType": "buildWord",
+      "expectedAnswer": "vivo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1df945f3-0dbe-4826-a969-a87044a07182",
+      "sequence": 10,
+      "lessonId": "4288ace2-10f1-42d1-948a-17fb6076d8a3",
+      "title": "Escolha a preposição certa",
+      "content": "<p>Soy __ Perú.</p><p>Tradução: Eu sou do Peru.</p>",
+      "contentPlain": "Soy __ Perú. Tradução: Eu sou do Peru.",
+      "fileUrl": null,
+      "feedbackSuccess": "O contraste da aula separa `soy de...` da origem e `vivo en...` da moradia atual.",
+      "feedbackError": "O contraste da aula separa `soy de...` da origem e `vivo en...` da moradia atual.",
+      "answerType": "buildWord",
+      "expectedAnswer": "de",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "aee06b82-6de1-474b-830b-85b1ed82077a",
+      "sequence": 11,
+      "lessonId": "92ecad42-8522-4d08-8aee-a1695766033c",
+      "title": "Complete a pergunta",
+      "content": "<p>¿De dónde ____?</p><p>Tradução: De onde você é?</p>",
+      "contentPlain": "¿De dónde ____? Tradução: De onde você é?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na troca central da aula, a pergunta usa `eres` e a resposta usa `soy`.",
+      "feedbackError": "Na troca central da aula, a pergunta usa `eres` e a resposta usa `soy`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "eres",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "694941e2-18db-46ae-8170-818427a615dd",
+      "sequence": 12,
+      "lessonId": "7d496af1-1f4e-4a35-a391-4b28c004a4e7",
+      "title": "Ouça e ligue em espanhol",
+      "content": "<p>Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol.</p>",
+      "contentPlain": "Relacione cada áudio com a frase correspondente. Use apenas as pistas em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui o foco é diferenciar, só pelo áudio, as versões casual e formal da pergunta sobre origem.",
+      "feedbackError": "Aqui o foco é diferenciar, só pelo áudio, as versões casual e formal da pergunta sobre origem.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "80b6463c-db4f-483e-a50a-f55ba0367a36",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/93118c4add3b421e887d5ffdd49c613c_l05b03-d03-de-donde-eres.mp3?Expires=1794099407&Signature=rzlb6KFnCbW4GrKydmhS53rV6OtNsYr16iUY-MEdlPNtOWIyERNvRLNxhM5RcePWnR-N5BAWIldWyISVw97OBeo420LwVtK7Vtr6c5gh21KUfLW1hZi1Q-zFW9tcSE3I3HVvzLUMVQax-WxLwPMJosGcoKX5-RaQBer~wjaT4ifXT1UfXxlpwfGsvhl1ZKQH1Laqg-S8JA3vj4nbDANXXrJVJSLaFC53mhetNnOt~2A9Y03P7AFthQYgsQZVr9jgIPLw3SSEPrUw2F8kWu1ji7wL5p02kp-Fm2cHMtfipKpbthnTDn10hsw5hh4KWwrxH2m7GuEZ74d~aFdAT-6BWQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿De dónde eres?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b64b23e8-93d7-48e5-992a-325991f70ab7",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0f46510bba1e4254ba9c28ee96cb186c_l05b06-d03-de-donde-es-usted.mp3?Expires=1794099407&Signature=aAr57Md9sX1-LhYCJKxxSYbJvcdjE90EI-5~nkfQHXYgPb1SEn7Iw-hw84U6hgZUfgKo6qxhx677s2cnGCqrV15fxqNB87kJJ2IAerLAMABLwNAE~1e8Ft3B9FdyZTOY-Ukh-BkLGyBbnxJ-xicpNyZ4gh5fSS2zFChFEOivPLULfRu7XjYYwTdMCejH9SES4wPfyq8uViCFesXZY6XPYJeAarv6z4ZR7eAa-s3aNz41BcNyhn-MQHh2jBoeImiRDqWPSf9unpjwbjjW8bvBqA0EKxlFIcLUSpWjkpKTCfvhlmkBY5zbYoZMCw2QYKgpWqItstF4oHGQitTBL~pnzg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿De dónde es usted?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "fe52fcb0-ebdb-4fe6-952f-6a62e8488686",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d30c11c8ba45479db53013a62a7c31ea_l05b03-d04-soy-de-mexico.mp3?Expires=1794099407&Signature=S2cTfgyYRfRsz51Ki7UoboVO2npJCN2icNOOIG2nE~0oUv3ylxAyluWUpx-1z4R8u0jukJj1LxnoUHMBNqvCTomzG-NRjbm-sCDaL1ptSbLBtsdW9mKhr-LeTq1XfrwDLdguV-DCf3YkPqxYPwelwHQPIYeIZydtbn4gnmhHDuAu51zoBrFAv70Qf1-70m4nENlSDMcTu97ehUUA6SulEUHAMO05ZHxyPQFxxiPfksbSS8ojuxkk5ceD3NZtkyyJs76IourswXQj5skv0GX43t3ns8Dss81A3cVk7YSAddFYRJu7AYKayf2WEWCxEUC6l-iT47bm6VlrF-a3Fqqtgg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy de México.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "82ca4064-80b1-4fb6-990a-c40f184e2b13",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/f187300611f94715a9f166b9fe316f04_l05b06-d04-soy-de-chile.mp3?Expires=1794099407&Signature=Mpa4UDXhm8-VAxNdcjvxrdgHWfbHOpKAdUzbwoIcpnNsxNNfOk7cqxvZ0Ct-kXsi31ZwmWZOYiUbonWGNFC6yrb~kvYZm0ioZOk3Op7CBllNXLnkcbio59UJomX3MBgtXQ9~vErhIqyBQHoOOgsXShkS~7RbAbSWWGE8axG9OLdQPz461d3QuuxrM6wMmDOHJMtzNvUzaLL~G6OLP~c4BP14gl1na7p4vGynYlkNcNJXPb-yJuiBsGIDTb~xMPQiVaK2c5~rkGoHhQJn748ju1XWZC3mCU6-7yg0JJR1n-dW8nzO3ZE4p7SbS8PWzbrFgl9FwmEaq13B1o6cc-zq5Q__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Soy de Chile.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "28f21557-f66f-4373-aa48-d126a5e07aa2",
+      "sequence": 13,
+      "lessonId": "3759cdc1-2832-4e59-beb9-cf30c36a8c98",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a pergunta em espanhol: ¿Dónde ____ usted?</p><p>Tradução: Onde o senhor ou a senhora mora?</p>",
+      "contentPlain": "Complete a pergunta em espanhol: ¿Dónde ____ usted? Tradução: Onde o senhor ou a senhora mora?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui você reconstrói o verbo da pergunta formal sobre onde a pessoa mora.",
+      "feedbackError": "Aqui você reconstrói o verbo da pergunta formal sobre onde a pessoa mora.",
+      "answerType": "buildWord",
+      "expectedAnswer": "vive",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "76f4c6b1-90c7-47d0-bc4e-7282c9adff41",
+      "sequence": 14,
+      "lessonId": "4288ace2-10f1-42d1-948a-17fb6076d8a3",
+      "title": "Escute a pergunta",
+      "content": "<p>Marque somente as palavras que você ouvir no começo da conversa.</p>",
+      "contentPlain": "Marque somente as palavras que você ouvir no começo da conversa.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/33b6c8279473497ca454610f106c96fc_b07-dialogo-hola-donde-vives.mp3?Expires=1794099407&Signature=Mx~mCT3VI65GPFjRMVj1JqAQTC8bTQ3pdShhieR4bCswZPNFCSOYBO52vEcefZ3f8~~EkzeLscQq9deelyOHyUR-kID3Yaw0aEMaHuErK9cjGSVwQVJewuh9oRfpSbGMjz3v20hco-T0hK3h-Ka9pgSWLMTHtY9qnYzVmzk1To6XEVWaJnglJEIvPjdU3XD2Hspy0KyoJsVagMOBjY762iAEkTE2nN1lQa7wx85WqlhbcHo5luvfe0wn43vgFMPfMQ7hN7jMi-kP0Jv3tdghksyOlkw5qOrzTmLh2LstseXlABX9p08gHkScOX3ubCk3D60~nG00hd3h8rHTjv~INg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No diálogo, a abertura combina cumprimento curto com `¿Dónde vives?`.",
+      "feedbackError": "No diálogo, a abertura combina cumprimento curto com `¿Dónde vives?`.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "71f29e11-ee5c-453b-a145-deff23c6391a",
+          "text": "dónde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "74283ef9-812a-4c88-997e-971b4dc06b89",
+          "text": "vives",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8543cdae-bdbe-44cd-9bd1-adf554e4678c",
+          "text": "hola",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cd342f30-54ec-43f8-ba73-eaefda5f73ea",
+          "text": "soy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f8d57db5-fa23-4ba0-9cb1-b250acff42e5",
+          "text": "bogotá",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "6ded7e01-e8ee-4d90-80de-724aa2cc90f7",
+      "sequence": 15,
+      "lessonId": "8d164bb1-d59c-4008-8a07-d6c6dd69dcfc",
+      "title": "Reconstrua a palavra",
+      "content": "<p>Complete a frase: <strong>Soy de ______.</strong></p><p>Tradução: Sou do México.</p>",
+      "contentPlain": "Complete a frase: Soy de ______. Tradução: Sou do México.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, soy de + país marca o país de origem.",
+      "feedbackError": "Aqui, soy de + país marca o país de origem.",
+      "answerType": "buildWord",
+      "expectedAnswer": "México",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

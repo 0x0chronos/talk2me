@@ -1,0 +1,637 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+    "attemptId": "54ea5395-e13f-473e-a949-169ee42a4d5e",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "27f1d0f9-3493-4701-a19c-3fc8d427e00c",
+      "b841f58c-9e67-4ec9-bef5-0f5578931d2e",
+      "f3995d4e-00dd-4414-bf9b-79c538d4de69",
+      "bb6d165a-652b-443e-b29c-23dc87d8fe57",
+      "d54ea648-b7e3-4794-9550-bba2c486b2e6"
+    ],
+    "evaluationExerciseIds": [
+      "972d1a45-8515-42bf-a879-cf61764fa954",
+      "9b62068e-b9ef-43da-9410-e96660c6d827",
+      "0bc1e223-962e-42e6-bec6-1084ef02ecc6",
+      "2bd67191-0056-4579-bc7e-544b805385b5",
+      "b6b1babe-0864-4837-b290-02d191e23ea6"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-07T23:59:36.9542406Z"
+  },
+  "contents": [
+    {
+      "id": "06bfc8d8-9976-42eb-8d09-aaa134ef8fac",
+      "title": "Leia o cenário e observe que o foco agora não é convidar nem recusar, mas confirmar o plano.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "dc1f085f-20c6-49e6-aab3-febfd1ba0cc5",
+          "textContent": "<p>O convite já aconteceu. Uma pessoa não podia no primeiro horário, a outra sugeriu uma alternativa, e agora as duas já decidiram o plano.</p><p>Nesta aula, o foco é a última etapa: <strong>fechar o combinado</strong> em espanhol com poucos detalhes, mas com clareza.</p><p>Isso costuma pedir uma frase curta com decisão, horário e ponto de encontro.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "517e9a04-6f2c-469a-980a-63db352cb2e9",
+      "title": "Leia a frase em espanhol e note como ela já soa como uma decisão fechada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "59cd44b1-8163-4bb9-9987-12042e60ec2f",
+          "textContent": "<p><strong>Entonces, quedamos el domingo.</strong></p><p>Em português: <strong>Então, combinamos no domingo.</strong></p><p>Essa frase já não abre opções novas. Ela fecha o plano em torno de uma escolha feita.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2e497f7f-195a-481a-935f-6053857c21fe",
+      "title": "Leia a nota e foque na função da frase, não em memorizar uma regra isolada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "bf24787c-02ae-4de4-a7fc-393339d10679",
+          "textContent": "<p><strong>Entonces</strong> retoma o que já foi decidido.</p><p><strong>Quedamos...</strong> transforma a opção escolhida em compromisso concreto.</p><p>Esse tipo de confirmação aparece depois de convite, ajuste ou alternativa, não no início da conversa.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "24a65c76-3e75-4ada-9150-e9ed9d322b34",
+      "title": "Leia a frase e observe como o horário e o lugar entram de forma direta.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "1ffc7ab3-808d-4873-9561-3e24081fab29",
+          "textContent": "<p><strong>Entonces, quedamos a las siete y media en la entrada del cine.</strong></p><p>Em português: <strong>Então, combinamos às sete e meia na entrada do cinema.</strong></p><p>Agora o combinado já traz os detalhes mínimos para o encontro acontecer.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2403fb98-c103-4924-8872-6e7e10a3e130",
+      "title": "Leia os três elementos e observe que um combinado claro não precisa de muita fala.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "5dfb3052-e5e4-49ea-8f2c-579cff383e56",
+          "textContent": "<p>Um combinado já resolvido costuma ficar claro com três peças curtas:</p><ol><li><strong>decisão</strong>: <strong>Entonces, quedamos...</strong></li><li><strong>horário</strong>: <strong>a las siete y media</strong></li><li><strong>ponto de encontro</strong>: <strong>en la entrada del cine</strong></li></ol><p>Quando essas peças aparecem, a conversa sai do ajuste e entra no plano pronto.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "25fe407c-d83a-4097-8325-24725fc05d51",
+      "title": "Escute e leia a mensagem. Perceba como o plano final cabe em poucas palavras sem reabrir a negociação.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "b04a4c16-a89a-4443-b257-1e2a72d47d78",
+          "textContent": "<p><strong>Perfecto. Entonces, quedamos el domingo a las siete en la plaza para tomar algo.</strong></p><p>Em português: <strong>Perfeito. Então, combinamos no domingo às sete na praça para tomar alguma coisa.</strong></p><p>A mensagem confirma dia, hora, lugar e atividade sem voltar a discutir o plano.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/ae720d15b09b4b7ea60accaecde8da3c_l07b06-perfecto-entonces-quedamos.mp3?Expires=1794099577&Signature=xJP-WzzmTuLT8VC22ceefUX85Q5g5RhU2CgDkG9ZXW31KsYZuvwSdl7a6nQA3a0wC7E7ly31wWLy4BCwSZD89zTTl9~O91Sw-cYJwA80bGtV0tHOpEDMYysWTjp4q5EhkABlekTAsl1uUw7sOdnZNSEqHdGThZaNN-qsaiqpyEsv2DRb1nGK-SlWi~Mcgj63w3KzqW-p2QleSe0s-qlEMpHutz-v982NAsh3U89Q63e2Y-2bi21yI~dpgXJpnOcwOYt0JSwZ4a0Sankk79-UqLCk2QEcBWZcjotn4Plz51~rGgXBrgeP7it0pgFuNU3dkIYCQJ-YJatTPtBRGyZC6Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a1b59f1e-7bc4-4be6-a67b-1ff37c66f619",
+      "title": "Leia o resumo final e conecte estas peças a planos que costumam mudar até o último detalhe.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "4ee659c9-8e75-4b08-a989-29c8b71e388f",
+          "textContent": "<p>Para fechar um plano entre amigos, estas peças já resolvem muita coisa:</p><ul><li><strong>Perfecto.</strong> para confirmar</li><li><strong>Entonces, quedamos...</strong> para fechar a decisão</li><li><strong>a las...</strong> e <strong>en...</strong> para dizer quando e onde</li></ul><p>Isso aparece na vida real quando um café muda de dia, quando o cinema fica para mais tarde ou quando duas pessoas precisam parar de negociar e simplesmente combinar.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "27f1d0f9-3493-4701-a19c-3fc8d427e00c",
+      "title": "Identifique o que falta",
+      "content": "<p>Em <strong>Entonces, quedamos el domingo.</strong>, a decisão já foi fechada. O que ainda falta para o plano ficar executável?</p>",
+      "contentPlain": "Em Entonces, quedamos el domingo. , a decisão já foi fechada. O que ainda falta para o plano ficar executável?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, o plano só fica pronto quando a decisão ganha horário e lugar.",
+      "feedbackError": "Nesta aula, o plano só fica pronto quando a decisão ganha horário e lugar.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "5427ba46-058c-4267-bb9b-e44a7a1c0b71",
+          "textContent": "uma recusa educada",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "27f1d0f9-3493-4701-a19c-3fc8d427e00c"
+        },
+        {
+          "id": "82076700-9b8e-4e31-bfc1-df709581aabb",
+          "textContent": "horário e ponto de encontro",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "27f1d0f9-3493-4701-a19c-3fc8d427e00c"
+        },
+        {
+          "id": "994039f2-2c2b-4f57-8d3d-a0233fcaa4a6",
+          "textContent": "uma nova alternativa de dia",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "27f1d0f9-3493-4701-a19c-3fc8d427e00c"
+        },
+        {
+          "id": "bdde3bc1-5019-4699-bc37-a9659c64ea35",
+          "textContent": "uma justificativa para o convite",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "27f1d0f9-3493-4701-a19c-3fc8d427e00c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "b841f58c-9e67-4ec9-bef5-0f5578931d2e",
+      "title": "Ouça os detalhes do encontro",
+      "content": "<p>Marque apenas as palavras do áudio que indicam quando e onde o encontro vai acontecer.</p>",
+      "contentPlain": "Marque apenas as palavras do áudio que indicam quando e onde o encontro vai acontecer.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0c99edcdfd2645859f5db728af4253f6_l07b06-perfecto-entonces-quedamos.mp3?Expires=1794099577&Signature=XQ4lnU1g1o9-LfP2d48Ayr9RaMNlLnHaBO~Z~KC6SJKK~L6ForuafElcHB-6WM-EDoWIqD-usTSR4fnEn7XPqRFGvJ-rY7sDFhbrCiTOzwUzMArL-D8~iGc2G4kNXyefOUJW5oLRnbeG~VckkYBRpFA-qUNq8X~2pH36-nGAw8CGJ4w3cnHCB5Ie61vaI23fNy8ZcWprfMAoayeoOmqGwYo8tltQqLqII9ArG9jxBQD0xOIiFEPWWw3qqAWZzD8bD9743Ri2ikNieTqGO09R7KCEsbh~cMM57CMY--9G5rJb64yWbSQEw6G0BWVxwOTmOo5KbVOpdqXm-URCEjIsKA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O modelo com áudio junta dia, hora e lugar sem reabrir a negociação.",
+      "feedbackError": "O modelo com áudio junta dia, hora e lugar sem reabrir a negociação.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "4c24cc42-c1c7-4ae9-bfe7-916af7434e49",
+          "textContent": "media",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b841f58c-9e67-4ec9-bef5-0f5578931d2e"
+        },
+        {
+          "id": "75127bd1-f88b-48c7-abc6-9130dc314009",
+          "textContent": "entrada",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b841f58c-9e67-4ec9-bef5-0f5578931d2e"
+        },
+        {
+          "id": "760df12d-7206-4d47-a570-de7b193eb07c",
+          "textContent": "cine",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "b841f58c-9e67-4ec9-bef5-0f5578931d2e"
+        },
+        {
+          "id": "8f712f66-8902-4c22-b42d-7f1d576e6f46",
+          "textContent": "siete",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b841f58c-9e67-4ec9-bef5-0f5578931d2e"
+        },
+        {
+          "id": "d5c44cdc-f352-4d8b-be38-e6f351827e7b",
+          "textContent": "domingo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b841f58c-9e67-4ec9-bef5-0f5578931d2e"
+        },
+        {
+          "id": "efdda0dc-b593-46b7-aa19-63287f73de1b",
+          "textContent": "plaza",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "b841f58c-9e67-4ec9-bef5-0f5578931d2e"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f3995d4e-00dd-4414-bf9b-79c538d4de69",
+      "title": "Ligue peça e função",
+      "content": "<p>Recupere o resumo final da aula ligando cada trecho em espanhol ao papel que ele cumpre.</p>",
+      "contentPlain": "Recupere o resumo final da aula ligando cada trecho em espanhol ao papel que ele cumpre.",
+      "fileUrl": null,
+      "feedbackSuccess": "O resumo final separa confirmação, decisão, horário e lugar em peças curtas.",
+      "feedbackError": "O resumo final separa confirmação, decisão, horário e lugar em peças curtas.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0117d709-0247-47cd-9d0a-3fbc4821aeee",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "f3995d4e-00dd-4414-bf9b-79c538d4de69"
+        },
+        {
+          "id": "f1b33c58-a781-44ab-853e-b6fd9924e738",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "f3995d4e-00dd-4414-bf9b-79c538d4de69"
+        }
+      ],
+      "associations": [
+        {
+          "id": "71d7176f-0431-4b95-b98e-d9e303df3f33",
+          "exerciseId": "f3995d4e-00dd-4414-bf9b-79c538d4de69",
+          "leftContent": "Perfecto.",
+          "rightContent": "confirmar",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1c62342d-366c-475b-a6f0-5dcc8f3f1cc4",
+          "exerciseId": "f3995d4e-00dd-4414-bf9b-79c538d4de69",
+          "leftContent": "Entonces, quedamos...",
+          "rightContent": "fechar a decisão",
+          "sequenceItem": 2
+        },
+        {
+          "id": "abb699a3-f535-4288-9346-134a2518ee37",
+          "exerciseId": "f3995d4e-00dd-4414-bf9b-79c538d4de69",
+          "leftContent": "a las...",
+          "rightContent": "dizer quando",
+          "sequenceItem": 3
+        },
+        {
+          "id": "9fde67ca-dd79-481f-8692-a71f7f4dd334",
+          "exerciseId": "f3995d4e-00dd-4414-bf9b-79c538d4de69",
+          "leftContent": "en...",
+          "rightContent": "dizer onde",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "bb6d165a-652b-443e-b29c-23dc87d8fe57",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta a confirmação final do plano.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta a confirmação final do plano.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0c99edcdfd2645859f5db728af4253f6_l07b06-perfecto-entonces-quedamos.mp3?Expires=1794099577&Signature=XQ4lnU1g1o9-LfP2d48Ayr9RaMNlLnHaBO~Z~KC6SJKK~L6ForuafElcHB-6WM-EDoWIqD-usTSR4fnEn7XPqRFGvJ-rY7sDFhbrCiTOzwUzMArL-D8~iGc2G4kNXyefOUJW5oLRnbeG~VckkYBRpFA-qUNq8X~2pH36-nGAw8CGJ4w3cnHCB5Ie61vaI23fNy8ZcWprfMAoayeoOmqGwYo8tltQqLqII9ArG9jxBQD0xOIiFEPWWw3qqAWZzD8bD9743Ri2ikNieTqGO09R7KCEsbh~cMM57CMY--9G5rJb64yWbSQEw6G0BWVxwOTmOo5KbVOpdqXm-URCEjIsKA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O resumo oral desta aula confirma dia, hora, lugar e atividade em uma fala só.",
+      "feedbackError": "O resumo oral desta aula confirma dia, hora, lugar e atividade em uma fala só.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Perfecto. Entonces, quedamos el domingo a las siete en la plaza para tomar algo.",
+      "typeSpecificData": "{\"expectedText\":\"Perfecto. Entonces, quedamos el domingo a las siete en la plaza para tomar algo.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/0c99edcdfd2645859f5db728af4253f6_l07b06-perfecto-entonces-quedamos.mp3?Expires=1794099577\\u0026Signature=XQ4lnU1g1o9-LfP2d48Ayr9RaMNlLnHaBO~Z~KC6SJKK~L6ForuafElcHB-6WM-EDoWIqD-usTSR4fnEn7XPqRFGvJ-rY7sDFhbrCiTOzwUzMArL-D8~iGc2G4kNXyefOUJW5oLRnbeG~VckkYBRpFA-qUNq8X~2pH36-nGAw8CGJ4w3cnHCB5Ie61vaI23fNy8ZcWprfMAoayeoOmqGwYo8tltQqLqII9ArG9jxBQD0xOIiFEPWWw3qqAWZzD8bD9743Ri2ikNieTqGO09R7KCEsbh~cMM57CMY--9G5rJb64yWbSQEw6G0BWVxwOTmOo5KbVOpdqXm-URCEjIsKA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d54ea648-b7e3-4794-9550-bba2c486b2e6",
+      "title": "Entenda o papel de Entonces",
+      "content": "<p>Na confirmação final entre amigos, o que <strong>Entonces</strong> faz antes de <strong>quedamos</strong>?</p>",
+      "contentPlain": "Na confirmação final entre amigos, o que Entonces faz antes de quedamos ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, Entonces retoma a negociação anterior antes de fechar o combinado.",
+      "feedbackError": "Aqui, Entonces retoma a negociação anterior antes de fechar o combinado.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "16cd3044-44e8-433b-b8ad-0b9d19e66764",
+          "textContent": "abre uma nova negociação",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d54ea648-b7e3-4794-9550-bba2c486b2e6"
+        },
+        {
+          "id": "30fb7c70-077e-4f5f-a124-4e611af30681",
+          "textContent": "marca uma dúvida sobre o plano",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d54ea648-b7e3-4794-9550-bba2c486b2e6"
+        },
+        {
+          "id": "83fecb39-49be-418a-a939-7713fae840a7",
+          "textContent": "explica por que o convite mudou",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "d54ea648-b7e3-4794-9550-bba2c486b2e6"
+        },
+        {
+          "id": "b9bbd87a-0973-49c8-a56d-691902c16a5b",
+          "textContent": "retoma o que já foi decidido",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "d54ea648-b7e3-4794-9550-bba2c486b2e6"
+        }
+      ],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "972d1a45-8515-42bf-a879-cf61764fa954",
+      "title": "Recupere o resumo completo",
+      "content": "<p>Marque apenas as palavras do áudio final. O foco é recuperar os elementos que fecham o plano.</p>",
+      "contentPlain": "Marque apenas as palavras do áudio final. O foco é recuperar os elementos que fecham o plano.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0c99edcdfd2645859f5db728af4253f6_l07b06-perfecto-entonces-quedamos.mp3?Expires=1794099577&Signature=XQ4lnU1g1o9-LfP2d48Ayr9RaMNlLnHaBO~Z~KC6SJKK~L6ForuafElcHB-6WM-EDoWIqD-usTSR4fnEn7XPqRFGvJ-rY7sDFhbrCiTOzwUzMArL-D8~iGc2G4kNXyefOUJW5oLRnbeG~VckkYBRpFA-qUNq8X~2pH36-nGAw8CGJ4w3cnHCB5Ie61vaI23fNy8ZcWprfMAoayeoOmqGwYo8tltQqLqII9ArG9jxBQD0xOIiFEPWWw3qqAWZzD8bD9743Ri2ikNieTqGO09R7KCEsbh~cMM57CMY--9G5rJb64yWbSQEw6G0BWVxwOTmOo5KbVOpdqXm-URCEjIsKA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O áudio final fecha o plano com confirmação, decisão, detalhes e atividade na mesma fala.",
+      "feedbackError": "O áudio final fecha o plano com confirmação, decisão, detalhes e atividade na mesma fala.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "45528ca7-b9eb-4a24-90fa-ad917eef6906",
+          "textContent": "quedamos",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        },
+        {
+          "id": "5b1fd4ae-f240-4f75-b28e-786084779c6a",
+          "textContent": "tomar",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        },
+        {
+          "id": "60283c2c-de6b-42e3-822e-198499f45e24",
+          "textContent": "media",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        },
+        {
+          "id": "6da4aec9-9ac6-46cb-8263-5fde035af1d4",
+          "textContent": "Perfecto",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        },
+        {
+          "id": "7495bd76-737a-402a-8f41-60536dc68f53",
+          "textContent": "entrada",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        },
+        {
+          "id": "7c3e5858-b917-46d2-9855-449f0ae9d7a0",
+          "textContent": "domingo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        },
+        {
+          "id": "8f579361-b9e1-4173-8030-489cc39c227e",
+          "textContent": "cine",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        },
+        {
+          "id": "98a84efe-ebdf-4c5d-a243-8284b33171d0",
+          "textContent": "plaza",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        },
+        {
+          "id": "eef9ebeb-9824-495c-bd15-2b912bccdba7",
+          "textContent": "algo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        },
+        {
+          "id": "fb54d50e-641f-44ad-8cdd-101e0c3253b3",
+          "textContent": "siete",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "972d1a45-8515-42bf-a879-cf61764fa954"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "9b62068e-b9ef-43da-9410-e96660c6d827",
+      "title": "Complete o horário",
+      "content": "<p>Entonces, quedamos a las _____ y media en la entrada del cine.</p><p>Tradução: Então, combinamos às sete e meia na entrada do cinema.</p>",
+      "contentPlain": "Entonces, quedamos a las _____ y media en la entrada del cine. Tradução: Então, combinamos às sete e meia na entrada do cinema.",
+      "fileUrl": null,
+      "feedbackSuccess": "No modelo desta aula, a las siete y media acrescenta o horário ao combinado.",
+      "feedbackError": "No modelo desta aula, a las siete y media acrescenta o horário ao combinado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "siete",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0bc1e223-962e-42e6-bec6-1084ef02ecc6",
+      "title": "Reconstrua as peças do plano",
+      "content": "<p>Ligue cada trecho em espanhol ao detalhe que ele acrescenta na confirmação final.</p>",
+      "contentPlain": "Ligue cada trecho em espanhol ao detalhe que ele acrescenta na confirmação final.",
+      "fileUrl": null,
+      "feedbackSuccess": "A mensagem final distribui confirmação, dia, horário, lugar e atividade em blocos curtos.",
+      "feedbackError": "A mensagem final distribui confirmação, dia, horário, lugar e atividade em blocos curtos.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "48bb796f-f561-4479-b2e0-4ba814ae9ce8",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "0bc1e223-962e-42e6-bec6-1084ef02ecc6"
+        },
+        {
+          "id": "8b4e4de7-727e-464a-b276-46872922bc36",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "0bc1e223-962e-42e6-bec6-1084ef02ecc6"
+        }
+      ],
+      "associations": [
+        {
+          "id": "28731360-bec8-4a41-b696-807b4eb5e56a",
+          "exerciseId": "0bc1e223-962e-42e6-bec6-1084ef02ecc6",
+          "leftContent": "Perfecto.",
+          "rightContent": "confirma o acordo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "1c9b7656-57ba-4d2c-a5c2-8ecb9fb7c0cf",
+          "exerciseId": "0bc1e223-962e-42e6-bec6-1084ef02ecc6",
+          "leftContent": "el domingo",
+          "rightContent": "fixa o dia",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a5ed3188-15ba-4878-9433-8270ea79dc42",
+          "exerciseId": "0bc1e223-962e-42e6-bec6-1084ef02ecc6",
+          "leftContent": "a las siete",
+          "rightContent": "fixa o horário",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c126b645-1a61-41ed-9fac-2c8e3ed9e652",
+          "exerciseId": "0bc1e223-962e-42e6-bec6-1084ef02ecc6",
+          "leftContent": "en la plaza",
+          "rightContent": "marca o lugar",
+          "sequenceItem": 4
+        },
+        {
+          "id": "28e25320-44e6-464d-ac21-7f69c2c06d51",
+          "exerciseId": "0bc1e223-962e-42e6-bec6-1084ef02ecc6",
+          "leftContent": "para tomar algo",
+          "rightContent": "indica a atividade",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "id": "2bd67191-0056-4579-bc7e-544b805385b5",
+      "title": "Complete o fechamento",
+      "content": "<p>Entonces, ________ el domingo.</p><p>Tradução: Então, combinamos no domingo.</p>",
+      "contentPlain": "Entonces, ________ el domingo. Tradução: Então, combinamos no domingo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Quedamos é a forma da aula para transformar a escolha em combinado.",
+      "feedbackError": "Quedamos é a forma da aula para transformar a escolha em combinado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "quedamos",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b6b1babe-0864-4837-b290-02d191e23ea6",
+      "title": "Complete o ponto de encontro",
+      "content": "<p>Perfecto. Entonces, quedamos el domingo a las siete en la _____ para tomar algo.</p><p>Tradução: Perfeito. Então, combinamos no domingo às sete na praça para tomar alguma coisa.</p>",
+      "contentPlain": "Perfecto. Entonces, quedamos el domingo a las siete en la _____ para tomar algo. Tradução: Perfeito. Então, combinamos no domingo às sete na praça para tomar alguma coisa.",
+      "fileUrl": null,
+      "feedbackSuccess": "No resumo, la plaza fecha o lugar do encontro dentro da mesma frase.",
+      "feedbackError": "No resumo, la plaza fecha o lugar do encontro dentro da mesma frase.",
+      "answerType": "buildWord",
+      "expectedAnswer": "plaza",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7eea2ae1-d295-4336-b084-5c0311f6ab6b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Fechar o combinado com clareza"
+}

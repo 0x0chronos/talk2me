@@ -1,0 +1,665 @@
+{
+  "session": {
+    "userLanguageId": "1b35bd1f-306b-4909-af42-0f473896564a",
+    "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+    "attemptId": "d8bc8242-f3aa-46bd-a831-459cc42b89f0",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "9468c624-9508-4bbf-8a7d-0b834dc84bc3",
+      "c7194bc7-1cb8-46a3-86fa-d03e0bf2aef2",
+      "71e8c5d3-8c0d-4b1c-856f-dc9312f90141",
+      "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c",
+      "9fd262a5-d30e-4eac-82e5-807ccfd86f08"
+    ],
+    "evaluationExerciseIds": [
+      "20ceeed8-c34d-4fe6-959c-8f2f340b2264",
+      "4095da32-9c43-49cd-954d-a47e34b47eae",
+      "727ab27f-2eca-4e1f-8cc4-6b5a3a3a386b",
+      "4e75ca52-c821-49b9-abdb-f5aa8e81037a",
+      "5b43fb0a-8a4f-45f7-9b97-5d3e0839b747"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-08T00:00:22.7496505Z"
+  },
+  "contents": [
+    {
+      "id": "2429bb57-17eb-4f92-9c26-8eb1238442c0",
+      "title": "Leia o contexto e observe a ordem básica do check-in: confirmar, identificar e ajustar.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "563bec99-5552-4846-b4ab-ff9e8937d18a",
+          "textContent": "<p>Você chega ao hotel depois da viagem e vai direto para a recepção.</p><p>A conversa costuma ser curta: primeiro confirmar a reserva, depois mostrar um dado e por fim pedir um ajuste prático se precisar.</p><p>Nesta aula, o foco é fazer esses movimentos em espanhol sem alongar a fala.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "844e3920-4186-4f66-b946-15a7b1bc0b7d",
+      "title": "Escute e leia a frase. Note como ela identifica a reserva logo no início.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "df4e5f7e-bfef-47d6-9518-823394438c63",
+          "textContent": "<p>Escute e leia a frase de chegada.</p><p><strong>Tengo una reserva a nombre de Alex Vera.</strong></p><p>Em português: <strong>Tenho uma reserva no nome de Alex Vera.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/72f26cd6f7fd4ff7a093d2226d900e14_l04b02-tengo-una-reserva-a-nombre-de-alex-vera.mp3?Expires=1794099623&Signature=2DtZhlyMNfliNZ1ne2sgt2ppZGF-w9pi3xB6ieLN0P05ydyUsMszCuV7S92dlpzx3Liy~rlQHcPIespwAKjoxPybIJrkNv1gje2zG4wAmYs2U~NcW~EWMxwGcKltCrEIBAouszih-RgjdykOfGiPCC~02QWadKAXu0Qn8RZdrdh~bGzPzS~xKrd~latovesUdl6TTL-e43diXf1krKuT0e0WqcJzqXMe2jLIzrnwcn7HZFmFZFqI0Jfql0RcXHq1pftW2I0OgezvfApL~zRGlqUNMWwXyMYlgmqt5JtjDJ-YKhD57ngCT5iFdmsxn~4rLrt4zR66ysQm23Bqxwyxjw__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "133b3c2d-122b-4b7f-a4e5-03c428d08013",
+      "title": "Leia a nota curta e observe que a frase resolve o nome da reserva sem explicar mais nada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "c187f481-05e7-46a5-ab50-33099b98aeea",
+          "textContent": "<p><strong>a nombre de...</strong> ajuda a dizer em qual nome a reserva foi feita.</p><p>Isso costuma entrar logo no primeiro turno, quando a recepção precisa localizar a estadia.</p><p><strong>Tengo una reserva a nombre de Alex Vera.</strong> resolve esse passo sem contar a história da viagem.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c9de8d62-6101-4c70-883a-7e44bc1891e0",
+      "title": "Escute e leia a frase. Perceba que ela acompanha o momento de mostrar o documento.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 5,
+      "items": [
+        {
+          "id": "475357fa-3c18-46d3-9172-44daae4ba166",
+          "textContent": "<p>Agora observe a entrega do documento.</p><p><strong>Aquí tiene mi pasaporte.</strong></p><p>Em português: <strong>Aqui está o meu passaporte.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/afb40f8b918e4b6080c9b6ab3475bb2d_l04b04-aqui-tiene-mi-pasaporte.mp3?Expires=1794099623&Signature=0iMwyo-QK53JdiMARuLii4~fQSM4Bso8suuLdRcAJnHcqrSHV8lrwxzS7HXi6hYWnI9IuIJnIRaiuzD4cMF6ZOnz-h59JvKBCgEqAw7tWve1PCcVq3fJm0SA0ZN6Fxkpgr0tMp-a2gLFtlsZZ657Py3UXH8zBfrXN2H5HLtEbLdrd9ml3Pjfd7mNmMUGHC6cZdZaaWeSLCv91zzlOTYLVHsKX1BiwbJZR7PojUExw46V7iV5AHeWe73Vi~akLqPr0NxIbkrdn0Vgxi4hwNhohBbIGdyQh0~Bg8R4QGCQCKvMDs9YSDE~p4fwX0lxCKIQj7FN9GevE4S38tVhP~JGPg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "495d7e5f-0c09-4135-9377-98048dd76aa4",
+      "title": "Escute e leia a frase. Note que ela serve para confirmar mais um dado sem mudar o tom.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 6,
+      "items": [
+        {
+          "id": "28475776-5e80-4de4-9428-26bd78d97c37",
+          "textContent": "<p>Se a recepção pedir mais um dado, você pode mostrar este.</p><p><strong>Tengo aquí el número de reserva.</strong></p><p>Em português: <strong>Tenho aqui o número da reserva.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3da06dcbb5784790a103182609d3534f_l04b05-tengo-aqui-el-numero-de-reserva.mp3?Expires=1794099623&Signature=NPrje6ExSI-qammNi10UHo7bosgX7-T--qH8i4GFszLEUEP3u4ol6RU1FoPaAPjUwRGHngmsPT8EczQy~VunTYw4gPdleVH9fYispjUf5SyGG5XfV6dyl~gWF0zt~8bhhMSR3iCi9WtR5PAzHItIkgxQhTpJkXLWLgQZ2Rr7Hq6lLZWnBVsizjnDDKFIHqmdTq8nS~gglHTWyp9NqNiwCoO8n3Pg8Np97Fyo0zXQKCRJX8nGWq17jQUIyXP3T3dTKqKXersRmnhQItAi1xNMiqEKR3UiUUVM0k-Yw-M4pgTtfORRbbcV8-chmVBpr62FBZdvPA46nOZs5uzgsYxe3Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "dee9a164-1a24-419b-8cc6-24eb2d8b961e",
+      "title": "Escute e leia a frase. Observe a abertura educada antes da preferência.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 7,
+      "items": [
+        {
+          "id": "4b0b0c60-3168-4056-b013-0c46606fa7f8",
+          "textContent": "<p>Agora observe um ajuste prático de chegada.</p><p><strong>Si es posible, prefiero una habitación en un piso alto.</strong></p><p>Em português: <strong>Se for possível, prefiro um quarto em um andar alto.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/78c75fb15ca74d1290740cdef2dade7f_l04b06-si-es-posible-prefiero-una-habitacion-en-un-piso-alto.mp3?Expires=1794099623&Signature=gQTuFqwNYjI~P3bRUJiTepOTQvvecFIjOxQnNohqVgKhm2ZjvTBXRant1Zu3HFmbYOLC93i4yJ~6mNSLn93YumFsm2qRxvDX7hG131hZeXIp8RQEziA3qBN~DYw5iLHTnKbYTc-Ki2WU9SNx7TWQRXoL3rtK9i~I4Yxv9vzDClcaBF0BhmjUFVI4Xelo2eFi5g6hg7hxHEL~QW4g9eibS44ucVpMzXSfWO4FjP2SubfMzD6ZZ92LsdyXeWoitOD5LXZu23kL5KTbgetg2Z4hfshZNkyaxdElii73iffoNyoSWy4~~no-Xp7o3hT8~bxE-W4OJfQi6I4LMVxfu3gyKg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "aed2a588-ede0-4174-9629-5159d9a26fe5",
+      "title": "Leia a nota e observe como a preferência aparece depois da abertura educada.",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 8,
+      "items": [
+        {
+          "id": "e0c6d7e3-9d4a-49d5-83b7-91fb887ad054",
+          "textContent": "<p><strong>Si es posible...</strong> suaviza o pedido e mantém o tom educado na recepção.</p><p>Depois dessa abertura, você diz a preferência concreta, como <strong>una habitación en un piso alto</strong>.</p><p>Assim, o ajuste soa claro sem virar reclamação antecipada.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5ffc88d8-a6a1-4d5d-b011-2d5a16e3265e",
+      "title": "Passe pelos quatro cartões e observe como eles montam um check-in curto de verdade.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 9,
+      "items": [
+        {
+          "id": "a4f3a700-1089-498b-944c-81d427305781",
+          "textContent": "<p><strong>Tengo una reserva a nombre de Alex Vera.</strong></p><p>Use esta linha para abrir o check-in e localizar a reserva logo no começo.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/72f26cd6f7fd4ff7a093d2226d900e14_l04b02-tengo-una-reserva-a-nombre-de-alex-vera.mp3?Expires=1794099623&Signature=2DtZhlyMNfliNZ1ne2sgt2ppZGF-w9pi3xB6ieLN0P05ydyUsMszCuV7S92dlpzx3Liy~rlQHcPIespwAKjoxPybIJrkNv1gje2zG4wAmYs2U~NcW~EWMxwGcKltCrEIBAouszih-RgjdykOfGiPCC~02QWadKAXu0Qn8RZdrdh~bGzPzS~xKrd~latovesUdl6TTL-e43diXf1krKuT0e0WqcJzqXMe2jLIzrnwcn7HZFmFZFqI0Jfql0RcXHq1pftW2I0OgezvfApL~zRGlqUNMWwXyMYlgmqt5JtjDJ-YKhD57ngCT5iFdmsxn~4rLrt4zR66ysQm23Bqxwyxjw__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "d636677e-69fb-4a64-b627-3d34b7f1236e",
+          "textContent": "<p><strong>Aquí tiene mi pasaporte.</strong></p><p>Ela ajuda a entregar o documento principal sem alongar a interação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/afb40f8b918e4b6080c9b6ab3475bb2d_l04b04-aqui-tiene-mi-pasaporte.mp3?Expires=1794099623&Signature=0iMwyo-QK53JdiMARuLii4~fQSM4Bso8suuLdRcAJnHcqrSHV8lrwxzS7HXi6hYWnI9IuIJnIRaiuzD4cMF6ZOnz-h59JvKBCgEqAw7tWve1PCcVq3fJm0SA0ZN6Fxkpgr0tMp-a2gLFtlsZZ657Py3UXH8zBfrXN2H5HLtEbLdrd9ml3Pjfd7mNmMUGHC6cZdZaaWeSLCv91zzlOTYLVHsKX1BiwbJZR7PojUExw46V7iV5AHeWe73Vi~akLqPr0NxIbkrdn0Vgxi4hwNhohBbIGdyQh0~Bg8R4QGCQCKvMDs9YSDE~p4fwX0lxCKIQj7FN9GevE4S38tVhP~JGPg__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "e28c5d75-47a4-4c01-a27c-1d1562b98886",
+          "textContent": "<p><strong>Tengo aquí el número de reserva.</strong></p><p>Ela entra quando a recepção precisa confirmar mais um dado da estadia.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/3da06dcbb5784790a103182609d3534f_l04b05-tengo-aqui-el-numero-de-reserva.mp3?Expires=1794099623&Signature=NPrje6ExSI-qammNi10UHo7bosgX7-T--qH8i4GFszLEUEP3u4ol6RU1FoPaAPjUwRGHngmsPT8EczQy~VunTYw4gPdleVH9fYispjUf5SyGG5XfV6dyl~gWF0zt~8bhhMSR3iCi9WtR5PAzHItIkgxQhTpJkXLWLgQZ2Rr7Hq6lLZWnBVsizjnDDKFIHqmdTq8nS~gglHTWyp9NqNiwCoO8n3Pg8Np97Fyo0zXQKCRJX8nGWq17jQUIyXP3T3dTKqKXersRmnhQItAi1xNMiqEKR3UiUUVM0k-Yw-M4pgTtfORRbbcV8-chmVBpr62FBZdvPA46nOZs5uzgsYxe3Q__&Key-Pair-Id=K26R6VFB46REEJ"
+        },
+        {
+          "id": "845eaa7b-89bf-45de-9f06-3dd261adbf5d",
+          "textContent": "<p><strong>Si es posible, prefiero una habitación en un piso alto.</strong></p><p>Ela permite pedir um ajuste prático na chegada com clareza e educação.</p><p>Esse pequeno roteiro funciona em check-in de lazer ou de trabalho, quando você precisa chegar, confirmar e ajustar algo sem transformar a conversa em reclamação.</p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/78c75fb15ca74d1290740cdef2dade7f_l04b06-si-es-posible-prefiero-una-habitacion-en-un-piso-alto.mp3?Expires=1794099623&Signature=gQTuFqwNYjI~P3bRUJiTepOTQvvecFIjOxQnNohqVgKhm2ZjvTBXRant1Zu3HFmbYOLC93i4yJ~6mNSLn93YumFsm2qRxvDX7hG131hZeXIp8RQEziA3qBN~DYw5iLHTnKbYTc-Ki2WU9SNx7TWQRXoL3rtK9i~I4Yxv9vzDClcaBF0BhmjUFVI4Xelo2eFi5g6hg7hxHEL~QW4g9eibS44ucVpMzXSfWO4FjP2SubfMzD6ZZ92LsdyXeWoitOD5LXZu23kL5KTbgetg2Z4hfshZNkyaxdElii73iffoNyoSWy4~~no-Xp7o3hT8~bxE-W4OJfQi6I4LMVxfu3gyKg__&Key-Pair-Id=K26R6VFB46REEJ"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "9468c624-9508-4bbf-8a7d-0b834dc84bc3",
+      "title": "Ligue frase e função",
+      "content": "<p>Recupere o roteiro da aula ligando cada linha ao papel que ela cumpre na recepção.</p>",
+      "contentPlain": "Recupere o roteiro da aula ligando cada linha ao papel que ela cumpre na recepção.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap desta aula separa reserva, identificação, confirmação e ajuste em quatro movimentos curtos.",
+      "feedbackError": "O recap desta aula separa reserva, identificação, confirmação e ajuste em quatro movimentos curtos.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "54f69fff-e8b1-488f-b48d-795c79eb9052",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9468c624-9508-4bbf-8a7d-0b834dc84bc3"
+        },
+        {
+          "id": "819e71f9-8960-4a07-ba7b-1a99e8afed1d",
+          "textContent": "",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9468c624-9508-4bbf-8a7d-0b834dc84bc3"
+        }
+      ],
+      "associations": [
+        {
+          "id": "5cee37cc-8b4b-47b5-9115-b4d7c1fec17d",
+          "exerciseId": "9468c624-9508-4bbf-8a7d-0b834dc84bc3",
+          "leftContent": "Tengo una reserva a nombre de Alex Vera.",
+          "rightContent": "abrir o check-in e localizar a reserva",
+          "sequenceItem": 1
+        },
+        {
+          "id": "98c3062d-da80-4260-90ea-69a6d50ca2d7",
+          "exerciseId": "9468c624-9508-4bbf-8a7d-0b834dc84bc3",
+          "leftContent": "Aquí tiene mi pasaporte.",
+          "rightContent": "entregar o documento principal",
+          "sequenceItem": 2
+        },
+        {
+          "id": "39710075-85fa-42af-8006-56819b52483a",
+          "exerciseId": "9468c624-9508-4bbf-8a7d-0b834dc84bc3",
+          "leftContent": "Tengo aquí el número de reserva.",
+          "rightContent": "confirmar mais um dado da estadia",
+          "sequenceItem": 3
+        },
+        {
+          "id": "50ecda4f-d966-42bc-a2eb-74c9f99418a0",
+          "exerciseId": "9468c624-9508-4bbf-8a7d-0b834dc84bc3",
+          "leftContent": "Si es posible, prefiero una habitación en un piso alto.",
+          "rightContent": "pedir um ajuste prático com educação",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "c7194bc7-1cb8-46a3-86fa-d03e0bf2aef2",
+      "title": "Repita a frase em voz alta",
+      "content": "<p>Escute o modelo e repita em voz alta o pedido educado de ajuste.</p>",
+      "contentPlain": "Escute o modelo e repita em voz alta o pedido educado de ajuste.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d92da3a0f8b94751b6c5e7f3c7402acb_l04b06-si-es-posible-prefiero-una-habitacion-en-un-piso-alto.mp3?Expires=1794099623&Signature=HkHQDqYIDy2126Y3jbXdFqT1YuYTbgP3EH5STeX67bLLe48p7RR7d6I~4HfPCJacwX32VvyAAdkFjxEp0pVNtq6Xd06x07bigJlM-Or2Rho7GIYQXEQU6~HiHzlYbfghnONdRK9usc0nzOxmy3KTuIzIa1J5P8T1IYv7u-OOykSl3rgZHzXzDoQnsW0u4jgJdAakKYEYmSizpPokVWsF9RILWFwEQM8zzkmN3rMc-lRDP9dgYYqoLKwYh~ZObsA8qWAwa5PaU70JCOBJJKrBpfvzxx2JGh8IzTf87hWAkwYUQHBdsuI6aE48geJGIL9hCZeIm3Fvsfi-Q94H7BbfLA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, o ajuste de chegada funciona melhor quando a preferência sai inteira e com tom educado.",
+      "feedbackError": "Nesta aula, o ajuste de chegada funciona melhor quando a preferência sai inteira e com tom educado.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Si es posible, prefiero una habitación en un piso alto.",
+      "typeSpecificData": "{\"expectedText\":\"Si es posible, prefiero una habitaci\\u00F3n en un piso alto.\",\"audioModelUrl\":\"https://d2tew3rxpxsvy8.cloudfront.net/content/d92da3a0f8b94751b6c5e7f3c7402acb_l04b06-si-es-posible-prefiero-una-habitacion-en-un-piso-alto.mp3?Expires=1794099623\\u0026Signature=HkHQDqYIDy2126Y3jbXdFqT1YuYTbgP3EH5STeX67bLLe48p7RR7d6I~4HfPCJacwX32VvyAAdkFjxEp0pVNtq6Xd06x07bigJlM-Or2Rho7GIYQXEQU6~HiHzlYbfghnONdRK9usc0nzOxmy3KTuIzIa1J5P8T1IYv7u-OOykSl3rgZHzXzDoQnsW0u4jgJdAakKYEYmSizpPokVWsF9RILWFwEQM8zzkmN3rMc-lRDP9dgYYqoLKwYh~ZObsA8qWAwa5PaU70JCOBJJKrBpfvzxx2JGh8IzTf87hWAkwYUQHBdsuI6aE48geJGIL9hCZeIm3Fvsfi-Q94H7BbfLA__\\u0026Key-Pair-Id=K26R6VFB46REEJ\",\"minSimilarity\":0.85,\"generateModelAudioViaTts\":false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "71e8c5d3-8c0d-4b1c-856f-dc9312f90141",
+      "title": "Escolha a abertura do check-in",
+      "content": "<p>Qual linha da aula resolve logo o primeiro passo da chegada na recepção?</p>",
+      "contentPlain": "Qual linha da aula resolve logo o primeiro passo da chegada na recepção?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, Tengo una reserva a nombre de... abre o check-in localizando a reserva.",
+      "feedbackError": "Nesta aula, Tengo una reserva a nombre de... abre o check-in localizando a reserva.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "412a89f5-7767-4f11-8033-6cafbc81b35b",
+          "textContent": "Aquí tiene mi pasaporte.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "71e8c5d3-8c0d-4b1c-856f-dc9312f90141"
+        },
+        {
+          "id": "6b87b36f-c731-4b19-ac69-c9d7f1372809",
+          "textContent": "Tengo aquí el número de reserva.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "71e8c5d3-8c0d-4b1c-856f-dc9312f90141"
+        },
+        {
+          "id": "6fe414c5-9a49-47b3-a664-eb3ba7956398",
+          "textContent": "Si es posible, prefiero una habitación en un piso alto.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "71e8c5d3-8c0d-4b1c-856f-dc9312f90141"
+        },
+        {
+          "id": "7cf73974-d92d-4d78-a800-5b03f53d5a59",
+          "textContent": "Tengo una reserva a nombre de Alex Vera.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "71e8c5d3-8c0d-4b1c-856f-dc9312f90141"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c",
+      "title": "Identifique o pedido de ajuste",
+      "content": "<p>Escute a fala educada da aula e marque só as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a fala educada da aula e marque só as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/d92da3a0f8b94751b6c5e7f3c7402acb_l04b06-si-es-posible-prefiero-una-habitacion-en-un-piso-alto.mp3?Expires=1794099623&Signature=HkHQDqYIDy2126Y3jbXdFqT1YuYTbgP3EH5STeX67bLLe48p7RR7d6I~4HfPCJacwX32VvyAAdkFjxEp0pVNtq6Xd06x07bigJlM-Or2Rho7GIYQXEQU6~HiHzlYbfghnONdRK9usc0nzOxmy3KTuIzIa1J5P8T1IYv7u-OOykSl3rgZHzXzDoQnsW0u4jgJdAakKYEYmSizpPokVWsF9RILWFwEQM8zzkmN3rMc-lRDP9dgYYqoLKwYh~ZObsA8qWAwa5PaU70JCOBJJKrBpfvzxx2JGh8IzTf87hWAkwYUQHBdsuI6aE48geJGIL9hCZeIm3Fvsfi-Q94H7BbfLA__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, Si es posible... suaviza a preferência antes do ajuste concreto do quarto.",
+      "feedbackError": "Nesta aula, Si es posible... suaviza a preferência antes do ajuste concreto do quarto.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "093bfc55-f4d6-4a62-bcb5-7f075d5f9a0a",
+          "textContent": "piso",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c"
+        },
+        {
+          "id": "177670ea-a3f2-4a09-9bb2-2657daad67d1",
+          "textContent": "pasaporte",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c"
+        },
+        {
+          "id": "44676f5f-f719-4d7f-ad89-fe5d60a00ed1",
+          "textContent": "alto",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c"
+        },
+        {
+          "id": "47722824-bdda-48d3-b779-fca486dec083",
+          "textContent": "si",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c"
+        },
+        {
+          "id": "62c1ccf2-e787-45a2-8b5c-92f8ef9e3f56",
+          "textContent": "reserva",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c"
+        },
+        {
+          "id": "6f52030d-c587-4473-99a5-70fc29a5531c",
+          "textContent": "número",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c"
+        },
+        {
+          "id": "93460add-386b-4af9-bf17-22a3135f0e09",
+          "textContent": "posible",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c"
+        },
+        {
+          "id": "99037912-679f-4112-abc3-b97ea41625ea",
+          "textContent": "habitación",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c"
+        },
+        {
+          "id": "dfa023c2-03ad-4e36-94c0-dcf245bbfd98",
+          "textContent": "prefiero",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "83998f4f-4ffa-4c17-a2ca-db5bdcb33d3c"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "9fd262a5-d30e-4eac-82e5-807ccfd86f08",
+      "title": "Escute e combine as falas",
+      "content": "<p>Ligue cada áudio de check-in a frase correspondente, sem apoio de tradução.</p>",
+      "contentPlain": "Ligue cada áudio de check-in a frase correspondente, sem apoio de tradução.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a chegada ao hotel depende de reconhecer rapidamente as falas curtas de serviço.",
+      "feedbackError": "Nesta aula, a chegada ao hotel depende de reconhecer rapidamente as falas curtas de serviço.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "25366f48-685a-4e56-8452-77f6c44a59ac",
+          "exerciseId": "9fd262a5-d30e-4eac-82e5-807ccfd86f08",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac0f66fa24f5479e98fa2e3341ff555d_l04b02-tengo-una-reserva-a-nombre-de-alex-vera.mp3?Expires=1794099623&Signature=GgdiyIPvCfesSAzPxZZ6VTFSiDg8UNMdTAo7bRj~uWYW7dQLOoZehlJIPcRr5EbGfrW65mouNcCNCHvxIRMMZdI79XmivLKy1VqMSQfqVfW0JpiuSMWLMde~3s1NJyfeX5ovdI40HOL0L4MRD9qu4oDBoivFzVlYwHz6D4EpFHDEdIr5otKv8BU6jJZOFxSc6qMaSaIyEqF1b43MGqURmjvztUgGVPk4~LRML45uSzcoAvsgnYcOrB5h2YFAx0aduOnaFB6gH07tx1d8Mg-LMCUP38h5CNKYvwH6XWoKfW0lvfHgxx-M4eIViYjBtCR0n0K1jOUe0Hh77nphqQvxgQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo una reserva a nombre de Alex Vera.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d27ab250-ac33-4831-a3b1-547e8459f036",
+          "exerciseId": "9fd262a5-d30e-4eac-82e5-807ccfd86f08",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/743d11f2fd864a2896940b408a911bb5_l04b04-aqui-tiene-mi-pasaporte.mp3?Expires=1794099623&Signature=rlPaQqjDUpso0WRHop-tSIjvEiw6TVhQx357xO84sAvBk3h6FNtPwfvvlsOrlF-KyjyJyyvmYQzkV01tBuG105J6oReP6L~JNTZmnBqymiRrXRA-KeAz2vIjU3uwWo3JPIXsuy6qpE3CjXCYLoe1YaCgqa0pQzANOq9yLBWTODfcoz8j41RBuftoUKbgYtGdId4xQfrph0HNOE0fs0WjQwttsYxkMuj9JkGIV~ESQyGF7aNl5Z3aqPgmZMHxnnw8ey~Ke~nYP7VPeRtfbGfQ8JBhiXNbEPWdMddCzKuvZvJXdTVpkngMmeFBBJl127cKW7SbpGKHKS7~k-Jt1cnKcg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Aquí tiene mi pasaporte.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "f955a8ea-9e8e-40f7-bf78-6d7be1b44b20",
+          "exerciseId": "9fd262a5-d30e-4eac-82e5-807ccfd86f08",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c32ba90285104b2fa7b86a4f26c2e735_l04b05-tengo-aqui-el-numero-de-reserva.mp3?Expires=1794099623&Signature=UwXE7-uXHYkNS3vbmQJL26RzgO0Wnl8boQfjPM7r2AzXaBwy33bmO4nluC8E4uzpk3appUzbhkNLA5BYPA4g4A8QJvKMFgpm7O4aglHFZlm707SmfiabCcukJXEx-DEBMBs02JdRDbqw7gQGO9WMVHqv5aJ88t7hEsdu8KsIzYta9fQCOWGqE64ZrAGHRm5xqr8rs5Ba3ygTYnKUVcIg19HZHvmq-O-idC3YoxmDzfKLDNTtK3PMEkFpFo5vsw8n0nnMGke-kfoYGm5VDTInbwS~5lo1Cgdp9YGViyvgWuY4zM9koqqcOPC9E5wWkf~94gQzyjHv0UsyhfqVtnGmjQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo aquí el número de reserva.",
+          "sequenceItem": 3
+        }
+      ]
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "20ceeed8-c34d-4fe6-959c-8f2f340b2264",
+      "title": "Complete a entrega do documento",
+      "content": "<p>Aquí tiene mi _________.</p><p>Tradução: Aqui está o meu passaporte.</p>",
+      "contentPlain": "Aquí tiene mi _________. Tradução: Aqui está o meu passaporte.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, Aquí tiene mi pasaporte. resolve a identificação sem alongar a fala.",
+      "feedbackError": "Nesta aula, Aquí tiene mi pasaporte. resolve a identificação sem alongar a fala.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pasaporte",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4095da32-9c43-49cd-954d-a47e34b47eae",
+      "title": "Recupere o roteiro da chegada",
+      "content": "<p>Ligue cada gravação à frase certa e recupere a passagem da reserva ao ajuste prático.</p>",
+      "contentPlain": "Ligue cada gravação à frase certa e recupere a passagem da reserva ao ajuste prático.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap desta aula recompõe reserva, identificação, confirmação e ajuste em uma chegada real.",
+      "feedbackError": "O recap desta aula recompõe reserva, identificação, confirmação e ajuste em uma chegada real.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": [
+        {
+          "id": "9c1cf861-fe07-4def-bd7b-798565a8ee38",
+          "exerciseId": "4095da32-9c43-49cd-954d-a47e34b47eae",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ac0f66fa24f5479e98fa2e3341ff555d_l04b02-tengo-una-reserva-a-nombre-de-alex-vera.mp3?Expires=1794099623&Signature=GgdiyIPvCfesSAzPxZZ6VTFSiDg8UNMdTAo7bRj~uWYW7dQLOoZehlJIPcRr5EbGfrW65mouNcCNCHvxIRMMZdI79XmivLKy1VqMSQfqVfW0JpiuSMWLMde~3s1NJyfeX5ovdI40HOL0L4MRD9qu4oDBoivFzVlYwHz6D4EpFHDEdIr5otKv8BU6jJZOFxSc6qMaSaIyEqF1b43MGqURmjvztUgGVPk4~LRML45uSzcoAvsgnYcOrB5h2YFAx0aduOnaFB6gH07tx1d8Mg-LMCUP38h5CNKYvwH6XWoKfW0lvfHgxx-M4eIViYjBtCR0n0K1jOUe0Hh77nphqQvxgQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo una reserva a nombre de Alex Vera.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "277c222e-db08-44bc-8e0b-767ac1643a49",
+          "exerciseId": "4095da32-9c43-49cd-954d-a47e34b47eae",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/743d11f2fd864a2896940b408a911bb5_l04b04-aqui-tiene-mi-pasaporte.mp3?Expires=1794099623&Signature=rlPaQqjDUpso0WRHop-tSIjvEiw6TVhQx357xO84sAvBk3h6FNtPwfvvlsOrlF-KyjyJyyvmYQzkV01tBuG105J6oReP6L~JNTZmnBqymiRrXRA-KeAz2vIjU3uwWo3JPIXsuy6qpE3CjXCYLoe1YaCgqa0pQzANOq9yLBWTODfcoz8j41RBuftoUKbgYtGdId4xQfrph0HNOE0fs0WjQwttsYxkMuj9JkGIV~ESQyGF7aNl5Z3aqPgmZMHxnnw8ey~Ke~nYP7VPeRtfbGfQ8JBhiXNbEPWdMddCzKuvZvJXdTVpkngMmeFBBJl127cKW7SbpGKHKS7~k-Jt1cnKcg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Aquí tiene mi pasaporte.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "8664c367-1de3-44e8-8ccd-97f16e1e4986",
+          "exerciseId": "4095da32-9c43-49cd-954d-a47e34b47eae",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c32ba90285104b2fa7b86a4f26c2e735_l04b05-tengo-aqui-el-numero-de-reserva.mp3?Expires=1794099623&Signature=UwXE7-uXHYkNS3vbmQJL26RzgO0Wnl8boQfjPM7r2AzXaBwy33bmO4nluC8E4uzpk3appUzbhkNLA5BYPA4g4A8QJvKMFgpm7O4aglHFZlm707SmfiabCcukJXEx-DEBMBs02JdRDbqw7gQGO9WMVHqv5aJ88t7hEsdu8KsIzYta9fQCOWGqE64ZrAGHRm5xqr8rs5Ba3ygTYnKUVcIg19HZHvmq-O-idC3YoxmDzfKLDNTtK3PMEkFpFo5vsw8n0nnMGke-kfoYGm5VDTInbwS~5lo1Cgdp9YGViyvgWuY4zM9koqqcOPC9E5wWkf~94gQzyjHv0UsyhfqVtnGmjQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Tengo aquí el número de reserva.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "5818e88e-8411-45fc-9c65-41d7225b73c4",
+          "exerciseId": "4095da32-9c43-49cd-954d-a47e34b47eae",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d92da3a0f8b94751b6c5e7f3c7402acb_l04b06-si-es-posible-prefiero-una-habitacion-en-un-piso-alto.mp3?Expires=1794099623&Signature=HkHQDqYIDy2126Y3jbXdFqT1YuYTbgP3EH5STeX67bLLe48p7RR7d6I~4HfPCJacwX32VvyAAdkFjxEp0pVNtq6Xd06x07bigJlM-Or2Rho7GIYQXEQU6~HiHzlYbfghnONdRK9usc0nzOxmy3KTuIzIa1J5P8T1IYv7u-OOykSl3rgZHzXzDoQnsW0u4jgJdAakKYEYmSizpPokVWsF9RILWFwEQM8zzkmN3rMc-lRDP9dgYYqoLKwYh~ZObsA8qWAwa5PaU70JCOBJJKrBpfvzxx2JGh8IzTf87hWAkwYUQHBdsuI6aE48geJGIL9hCZeIm3Fvsfi-Q94H7BbfLA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Si es posible, prefiero una habitación en un piso alto.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "727ab27f-2eca-4e1f-8cc4-6b5a3a3a386b",
+      "title": "Complete a preferência",
+      "content": "<p>Si es posible, ________ una habitación en un piso alto.</p><p>Tradução: Se for possível, prefiro um quarto em um andar alto.</p>",
+      "contentPlain": "Si es posible, ________ una habitación en un piso alto. Tradução: Se for possível, prefiro um quarto em um andar alto.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, prefiero apresenta a preferência depois da abertura educada Si es posible....",
+      "feedbackError": "Nesta aula, prefiero apresenta a preferência depois da abertura educada Si es posible....",
+      "answerType": "buildWord",
+      "expectedAnswer": "prefiero",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4e75ca52-c821-49b9-abdb-f5aa8e81037a",
+      "title": "Recupere o dado extra da reserva",
+      "content": "<p>Marque somente as palavras que fazem parte da frase usada quando a recepção pede mais um dado.</p>",
+      "contentPlain": "Marque somente as palavras que fazem parte da frase usada quando a recepção pede mais um dado.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c32ba90285104b2fa7b86a4f26c2e735_l04b05-tengo-aqui-el-numero-de-reserva.mp3?Expires=1794099623&Signature=UwXE7-uXHYkNS3vbmQJL26RzgO0Wnl8boQfjPM7r2AzXaBwy33bmO4nluC8E4uzpk3appUzbhkNLA5BYPA4g4A8QJvKMFgpm7O4aglHFZlm707SmfiabCcukJXEx-DEBMBs02JdRDbqw7gQGO9WMVHqv5aJ88t7hEsdu8KsIzYta9fQCOWGqE64ZrAGHRm5xqr8rs5Ba3ygTYnKUVcIg19HZHvmq-O-idC3YoxmDzfKLDNTtK3PMEkFpFo5vsw8n0nnMGke-kfoYGm5VDTInbwS~5lo1Cgdp9YGViyvgWuY4zM9koqqcOPC9E5wWkf~94gQzyjHv0UsyhfqVtnGmjQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, Tengo aquí el número de reserva. confirma um dado extra sem mudar o tom do check-in.",
+      "feedbackError": "Nesta aula, Tengo aquí el número de reserva. confirma um dado extra sem mudar o tom do check-in.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [
+        {
+          "id": "0001f040-8f5f-4c97-9126-2b4c26065006",
+          "textContent": "aquí",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4e75ca52-c821-49b9-abdb-f5aa8e81037a"
+        },
+        {
+          "id": "0072a9d7-7b2f-42a8-81c1-edeec553de44",
+          "textContent": "el",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4e75ca52-c821-49b9-abdb-f5aa8e81037a"
+        },
+        {
+          "id": "2383a350-9281-420c-ae35-77b7e0e5b6a6",
+          "textContent": "número",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4e75ca52-c821-49b9-abdb-f5aa8e81037a"
+        },
+        {
+          "id": "63d7da46-a7da-49e9-b572-c27f1089c7b4",
+          "textContent": "tengo",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4e75ca52-c821-49b9-abdb-f5aa8e81037a"
+        },
+        {
+          "id": "77b224d5-db8c-4de2-bcd9-cde616889e1b",
+          "textContent": "reserva",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4e75ca52-c821-49b9-abdb-f5aa8e81037a"
+        },
+        {
+          "id": "86d68cbc-1a86-4d70-9994-0d0d9325fa0d",
+          "textContent": "pasaporte",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4e75ca52-c821-49b9-abdb-f5aa8e81037a"
+        },
+        {
+          "id": "b5ec318d-7310-4797-934c-e3b2d632e82f",
+          "textContent": "de",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4e75ca52-c821-49b9-abdb-f5aa8e81037a"
+        },
+        {
+          "id": "c57c2606-d9d6-4996-8867-a1725c6096cb",
+          "textContent": "posible",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4e75ca52-c821-49b9-abdb-f5aa8e81037a"
+        },
+        {
+          "id": "cd4a1e4a-4e01-4d54-9bb3-216617dcf72c",
+          "textContent": "alto",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4e75ca52-c821-49b9-abdb-f5aa8e81037a"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5b43fb0a-8a4f-45f7-9b97-5d3e0839b747",
+      "title": "Complete a expressão da reserva",
+      "content": "<p>Tengo una reserva a ______ de Alex Vera.</p><p>Tradução: Tenho uma reserva no nome de Alex Vera.</p>",
+      "contentPlain": "Tengo una reserva a ______ de Alex Vera. Tradução: Tenho uma reserva no nome de Alex Vera.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, a nombre de... serve para localizar a reserva pelo nome na recepção.",
+      "feedbackError": "Nesta aula, a nombre de... serve para localizar a reserva pelo nome na recepção.",
+      "answerType": "buildWord",
+      "expectedAnswer": "nombre",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "650ff7ed-f7a5-406a-aaa1-d55cc6624e2b",
+      "sequenceItem": 0,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Chegar, confirmar e pedir ajustes"
+}

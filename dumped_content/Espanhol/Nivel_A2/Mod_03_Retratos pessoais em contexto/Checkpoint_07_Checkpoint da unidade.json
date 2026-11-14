@@ -1,0 +1,521 @@
+{
+  "attemptId": "687788a2-f0db-43c3-9fc5-47f5a5ea919d",
+  "exercises": [
+    {
+      "exerciseId": "5caac4a5-0caa-4475-a137-84e24cb8609c",
+      "sequence": 1,
+      "lessonId": "faf66edc-f5b9-4bde-965f-53f0918dc2a7",
+      "title": "Recupere a cidade",
+      "content": "<p>Es de _____.</p>",
+      "contentPlain": "Es de _____.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou a cidade usada para marcar a origem.",
+      "feedbackError": "Revise o bloco de origem e complete com a cidade apresentada na aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Quito",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "94f97491-8a92-4df4-9f38-04be4daad518",
+      "sequence": 2,
+      "lessonId": "b358f87e-0cdd-496c-b1e1-cd0c34411e4e",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a expressão em espanhol: la ______</p>",
+      "contentPlain": "Complete a expressão em espanhol: la ______",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você reconstruiu a palavra central para falar da relação atual.",
+      "feedbackError": "Tente de novo e monte a palavra usada com `la` no primeiro bloco da aula.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pareja",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7b19e748-d6f4-4fa5-a4f9-3fbf8b608cef",
+      "sequence": 3,
+      "lessonId": "da0f26f6-bcef-450d-8d5b-8c7bbf56030b",
+      "title": "Escuta final",
+      "content": "<p>Resolva pela escuta e pelo texto em espanhol.</p>",
+      "contentPlain": "Resolva pela escuta e pelo texto em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa escuta final. Você diferenciou estado atual, mudança e contraste habitual.",
+      "feedbackError": "Repasse os três áudios e confirme qual frase corresponde a cada momento.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "05648a42-8ac6-46ee-8294-35296b72c317",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/8d2e9d2be2334ef4ad0e04ee61b89266_A2_M003_L04_audio_d2b6b1ac_l04b01-hoy-esta-nerviosa.mp3?Expires=1794099520&Signature=QPmUsvZrwKrCIvNtx7v4187NHmCO9z~WiW2PXrWlU0kGj8yErnhZ1FAfqZiRADa7CzyhdztCdN8yPN7L3gVQ2NJ~d8r7KU2e6rWVxwQepEzPf7QCVR19CtZGH6Vb-4QqpdHLzTS3u8mE9slkMlJJmz-UTw0u9N8TSv7FhTylQtr5S2cfN9-eUmQx5B~2TzMG6SCzqaUeazk1f2gLDXZ7FzLFJ-O5F~8fQO2SYjPybpLx8j-BmK3VS59Kca27bhwU3ihium9ZEeDiNZUCO6OcZVkfMVkAX8RpTQgyQeeBaZ05upjnOZCwgOKB2yuHsqXlLcCjvbY~afWZ~wDDjA5~~w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Hoy está nerviosa.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "86f9b7b1-e75d-4854-9c70-d23b8e8385b6",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a92ec1cb876742018b63613fb45bff39_A2_M003_L04_audio_7fc383e4_l04b03-ahora-esta-mas-tranquila.mp3?Expires=1794099520&Signature=obAQp17fxUxIVf7irxgCazgFlxqLEsdbRYxeDtHMeeNjW2bzy3P5oJ9sIef5GDwvqpgp1YqLRJ52xmT9dJ2KyQ6~evXJLXqcul4iS75rrAcVIKkgcesop65-7iwJyrroRErkCB-4b47njvbzWOXo2bH74yeKtb-OZlvMHp6CxfN95bQ9DVIKund5X16jrAJsfEgSLyZaaMqi974Uc6ZK8XovtJN~uMgUyn8ldSipdgNZoYUa3yvEOrbDzSfEcgT-sGm0HxeQEsxeiljUGKdeLjQwOPmb7C1JFaH-zxWcP4Xsb8nH1zbsWnZafbD5lhnl~6tZ6HiTky0QTccFduKg2A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ahora está más tranquila.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a7c8721f-219e-4939-aa88-d1d4acf85184",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/d0a172c743194ec592521e791fbcbb1c_A2_M003_L04_audio_27dd3c73_l04b05-es-muy-tranquila-pero-hoy-esta-nerviosa.mp3?Expires=1794099520&Signature=a3ZFfPub63FuSaHWc6AZE8w7Rcc4xjMep6xXOEVJxMwUqQu67bCjsfw6uqrqbeMwXPhkimwxKOwaBNWq8gjGz-O3c~Yvr8Exq7047VobRkFJ9VxMvjJwaGdw-~k0uef8h9IUZLOxhT-bceQ~3HtQ7Bc2u3NzNGIp0VAJXwDwNQPIrJ5cr6NMTqGN1BR-8Rt1U5NyGhy6pW05kcWgfiJwdK8kcudPnywrHG8SwkbRA0QiGZeJB3-5fwKsB7wpymOuclrpan8h64xKcKFH1H54YNzr5GbHdvr115v0p8~7A8iXiOklw4VsT3sELHYj97c9MYsHo7gXzszCx-MoylYliQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Es muy tranquila, pero hoy está nerviosa.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "020302fd-3125-45fa-8873-0961cca81cc1",
+      "sequence": 4,
+      "lessonId": "5c73589b-fd55-402f-b510-aa50e6f69c2f",
+      "title": "Escute o autorretrato completo",
+      "content": "<p>Escute o autorretrato completo e marque somente as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Escute o autorretrato completo e marque somente as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6070d308871e4f3da33dfce860acd8c6_l06b05-diego-full-self-portrait.mp3?Expires=1794099520&Signature=NvFC71wl5ewhTK44pj2YIUznbS1wqqf3DxcSZ2SOSqXKn-IGK2cPZFJVDuxkswjWtsUiPPv6Mx1xDGnor~dJy2i8qCevNyT-qZJLt10ndK0qKKrOyIpptfOTVPFS1yUR7Z4-qfO5yDi~fsUjallXKHOzRgKWo5-BqVF3zxcACLtRKfPXf4eurEbNPxSQZmoDPHsvY4dpsaMEQeURDzABw37NgW~J9k9SG8RDioJVxEbJf5Pim35dF5vZ8kblkoFghqTgelSt8FLoulf0KZwnjGiaQA0-qLIDqCgl0ukzR0hDOFEAwcbLUSRu4ej7Mra8pyQy~48M-fr0VxiAWtOcXQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Você identificou os elementos-chave do autorretrato completo.",
+      "feedbackError": "Escute novamente e selecione apenas as palavras que realmente aparecem no áudio completo.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "08c4aaf5-a205-4846-9fb9-ad60ba32aad6",
+          "text": "tranquilo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5552ca43-4c6d-438e-a397-dbf3a8f439c7",
+          "text": "vivo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5c2651df-c652-45aa-8e50-d4089c30d3df",
+          "text": "Recife",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bf84a2b4-f659-40da-bbbf-42c882f2cb7f",
+          "text": "cansado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "de49b730-c55a-438e-91cb-e7be1e948f54",
+          "text": "Diego",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e2ae435b-3da1-4f22-bed6-db032fd14871",
+          "text": "hoy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e31cca1b-1c97-413e-ad3b-a80ecac73bbc",
+          "text": "hermana",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f3b281a6-0fd3-48c8-8918-458e0c7c6e51",
+          "text": "nervioso",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "2ce7a541-877f-45a9-8a3b-cf912001c5c1",
+      "sequence": 5,
+      "lessonId": "a5052948-3e17-4398-bb62-de41637c8aed",
+      "title": "Escolha a forma correta",
+      "content": "<p>Complete a frase: <strong>Ella es ___ simpática.</strong></p><p>Lembre-se: com adjetivo, a aula mostrou uma palavra; com verbo, mostrou outra.</p>",
+      "contentPlain": "Complete a frase: Ella es ___ simpática. Lembre-se: com adjetivo, a aula mostrou uma palavra; com verbo, mostrou outra.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. `Muy` intensifica o adjetivo `simpática`.",
+      "feedbackError": "Revise o contraste final da aula: `muy` acompanha adjetivo, enquanto `mucho` acompanha verbo.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "02d308b9-fa7b-4b35-8d16-6c21f4297b28",
+          "text": "tímido",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2b7fdaaf-7355-403d-89bf-aaf9b3c701ef",
+          "text": "muy",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "928563a5-38b2-465e-b177-5c350b007d29",
+          "text": "mucho",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "16e8c014-9786-480e-931f-405bb9de5cea",
+      "sequence": 6,
+      "lessonId": "da0f26f6-bcef-450d-8d5b-8c7bbf56030b",
+      "title": "Ouça e escolha",
+      "content": "<p>Selecione a palavra em espanhol que aparece no áudio.</p>",
+      "contentPlain": "Selecione a palavra em espanhol que aparece no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e52adc221f8b4a60b12f0e07426f946c_l04e01-nerviosa.mp3?Expires=1794099520&Signature=N9fP1C4C~cJOpin02depwJqegd2boyGosMHw0C-y9PLct7EUbZlv0KdGFAwBM03aZLvXf-sNNVvzIPZ03h3n1XaylN~umjHo3Db~TyTvLLxZaHm41Dpr9lAynpHmhwiSnaxK2JMJeMy9nzkVzVCA8YSTrcmR5SonFf2c6f8ypao02411A8ZM-ElQy2ptTTs9YSHDO24o3iI85oqXAEQ9IWY3vmX6n0fu4jFqdoQZk2Znx0FzuPT4oCZdbxZGNCIq9QQFtUMLlHZSrhYQ-o84a-ACOXnKjW49shRX-6pQAu1c1fgDEm-O6zGvYvVWzwAWT774YqjctDlQeYqvnPMIWg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Você reconheceu a palavra ligada ao estado tenso do momento.",
+      "feedbackError": "Escute outra vez e foque no adjetivo ouvido.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "19b438c9-f117-4354-bb73-153a884244bd",
+          "text": "hoy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2033701d-129d-4ed1-baa7-7770b7c084b9",
+          "text": "nerviosa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9bc35876-7b6e-4f44-8d25-c0d02a99c9e2",
+          "text": "tranquila",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "ed2bf6e7-210e-433f-84ba-6774f142457f",
+      "sequence": 7,
+      "lessonId": "da0f26f6-bcef-450d-8d5b-8c7bbf56030b",
+      "title": "Complete a forma",
+      "content": "<p>Es muy tranquila, pero hoy ____ nerviosa.</p>",
+      "contentPlain": "Es muy tranquila, pero hoy ____ nerviosa.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. O contraste funciona com es para o habitual e esta para hoje.",
+      "feedbackError": "Observe que a segunda parte fala do estado de hoje, não do jeito permanente.",
+      "answerType": "buildWord",
+      "expectedAnswer": "está",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "60ad7dc7-9caf-484d-bf0c-2906eed33be9",
+      "sequence": 8,
+      "lessonId": "a5052948-3e17-4398-bb62-de41637c8aed",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Él es ______.</p>",
+      "contentPlain": "Complete a frase em espanhol: Él es ______.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você recuperou o adjetivo da frase curta sobre uma pessoa reservada.",
+      "feedbackError": "Tente outra vez e reconstrua o adjetivo apresentado na frase `Es tímido.`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "tímido",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3bab8048-a840-462d-8912-33a85087ca84",
+      "sequence": 9,
+      "lessonId": "8afd95d9-f593-4b1c-8575-7760d50c4d4b",
+      "title": "Função da frase no perfil",
+      "content": "<p>Ligue cada frase ao papel dela no perfil, sem traduzir para o português.</p>",
+      "contentPlain": "Ligue cada frase ao papel dela no perfil, sem traduzir para o português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você distinguiu a função de cada linha dentro do perfil.",
+      "feedbackError": "Volte ao contraste com `es` e `hoy esta`: a tarefa é decidir se a frase mostra retrato estável ou recorte do agora.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4678fc0a-fb02-40d3-b8f7-5cc3b79228e0",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7cb40d29-25e1-4050-ae68-d851fc084596",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "d7b44899-5aec-4518-97b7-e7e0763c0389",
+          "leftContent": "Carla es muy habladora.",
+          "rightContent": "retrato estável da Carla",
+          "sequenceItem": 1
+        },
+        {
+          "id": "cc8d5824-d88a-4348-a8ea-2d245f6eb583",
+          "leftContent": "Hoy esta nerviosa en el trabajo.",
+          "rightContent": "estado do momento da Carla",
+          "sequenceItem": 2
+        },
+        {
+          "id": "01d19a0a-4e85-4798-9ca7-f076b971a879",
+          "leftContent": "Marta es muy tranquila.",
+          "rightContent": "retrato estável da Marta",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d017e405-44f4-4a79-8fbb-7f65e07d0a15",
+          "leftContent": "Hoy esta sorprendida por la noticia.",
+          "rightContent": "estado do momento da Marta",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "0015c5dd-6f2c-4383-9686-bf580f106927",
+      "sequence": 10,
+      "lessonId": "faf66edc-f5b9-4bde-965f-53f0918dc2a7",
+      "title": "Escolha o retrato natural",
+      "content": "<p>Qual opção corresponde a <strong>Vou te apresentar o Nico. Ele é de Quito. Ele trabalha em um museu.</strong>?</p>",
+      "contentPlain": "Qual opção corresponde a Vou te apresentar o Nico. Ele é de Quito. Ele trabalha em um museu. ?",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. Você escolheu a sequência natural para apresentar outra pessoa com três dados curtos.",
+      "feedbackError": "Compare a ordem do retrato no recap final: primeiro apresentação, depois origem e por fim o dado de trabalho.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "4a08a01a-c2fa-4a29-84b9-d1beb50d08bc",
+          "text": "Te presento a Nico. Es de Quito. Trabaja en un museo.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8dfb373d-d19d-4546-8425-2fa6c26967ca",
+          "text": "Es de Nico. Te presento a Quito. Trabaja en un museo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8e04d1b4-204f-41d9-abfd-89099e8fdda9",
+          "text": "Te presento a Nico. Trabaja de Quito. Es en un museo.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "69dc08cd-6626-4b0c-af1d-a726f9fa5d94",
+      "sequence": 11,
+      "lessonId": "faf66edc-f5b9-4bde-965f-53f0918dc2a7",
+      "title": "Ouça e selecione",
+      "content": "<p>Escute o retrato curto completo e marque somente as palavras que você realmente ouvir.</p>",
+      "contentPlain": "Escute o retrato curto completo e marque somente as palavras que você realmente ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/524aa3649f1f4e34b28fdbf0db477527_b06-te-presento-a-nico-es-de-quito-trabaja-en-un-museo.mp3?Expires=1794099520&Signature=dkoguuG74Fe2p6Ojn0VKzfkr0Z7Tqj1bZYYBDAYQbRz9d7lTEowzOW1GE41BBszUH9so-4yPmeQzxNwDewz-cAFypZbVniOd7ARvgtSav~ZhAF4O1V61gSf7kZBTzlJUEYRqYwpSNwgDQ1MQQL1zUnBuAjYlj~ZZJU5fNjDWfZEVTYxYXXa4PisMAQ4ysoMk-NI4BFaJOTCexXrblWW3YBCS2v8zUeR88D4B9-9oo1ZkA0-sg4Y8lUCClvp-mPLwxDMqdAKbnolDecX3R3tz1-ILJDTGW1POkQvEcKIUpUHQCq76HkDB0bBvpf4nw8427Z1Xs06n-WSuwfmkT1XoRw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Boa escuta. Você identificou os pontos-chave do retrato inteiro pelo áudio.",
+      "feedbackError": "Escute outra vez e marque apenas as palavras que pertencem ao retrato de Nico.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "13711dbf-2769-41a8-8be8-b4896a865d5f",
+          "text": "trabaja",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2209164f-595c-4495-90bc-e84a0efdcc43",
+          "text": "museo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4d4d12fd-f8dc-4b4b-bac9-ea65a14c5ae4",
+          "text": "Nico",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "743482b2-a592-48bd-92e5-31765f4bbd57",
+          "text": "Quito",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "76d13636-bbf2-46a2-83d3-d53f5e1e9e03",
+          "text": "presento",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ad2a3540-51d7-4d68-998a-e9575a1bda19",
+          "text": "amiga",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "7685d96c-1a10-4b4f-8305-0aa8684fe19e",
+      "sequence": 12,
+      "lessonId": "5c73589b-fd55-402f-b510-aa50e6f69c2f",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Hoy _____ un poco nervioso.</p>",
+      "contentPlain": "Complete a frase em espanhol: Hoy _____ un poco nervioso.",
+      "fileUrl": null,
+      "feedbackSuccess": "Isso. Aqui a frase pede estoy para falar do estado do momento.",
+      "feedbackError": "Monte a forma usada na linha da aula para falar de como a pessoa está hoje.",
+      "answerType": "buildWord",
+      "expectedAnswer": "estoy",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "7047e722-8b12-4639-9e21-9919838fd827",
+      "sequence": 13,
+      "lessonId": "a5052948-3e17-4398-bb62-de41637c8aed",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Ella es muy _________.</p>",
+      "contentPlain": "Complete a frase em espanhol: Ella es muy _________.",
+      "fileUrl": null,
+      "feedbackSuccess": "Boa. Você reconstruiu o adjetivo completo.",
+      "feedbackError": "Tente de novo e monte o adjetivo usado na frase-modelo com `muy`.",
+      "answerType": "buildWord",
+      "expectedAnswer": "simpática",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "495863cb-0446-4a49-b561-0c0f9a82dd0f",
+      "sequence": 14,
+      "lessonId": "b358f87e-0cdd-496c-b1e1-cd0c34411e4e",
+      "title": "Escolha a forma correta",
+      "content": "<p>Complete a frase: <strong>Ana y Luis ___ el mes pasado.</strong></p><p>Escolha a forma que comunica a mudança pessoal vista na aula.</p>",
+      "contentPlain": "Complete a frase: Ana y Luis ___ el mes pasado. Escolha a forma que comunica a mudança pessoal vista na aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto. `Se casaron` é a forma que marca a novidade pessoal nessa frase.",
+      "feedbackError": "Revise o bloco sobre a notícia pessoal e escolha a expressão que indica a mudança, não o tempo nem a relação.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "b376fe13-75e5-4320-82d5-ab67b1f69729",
+          "text": "la pareja",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bfc5d597-3a21-44e0-b1dd-3aba638c9638",
+          "text": "se casaron",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "eba8903a-df89-4ff3-be1b-266a34c0e89c",
+          "text": "el mes pasado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "15baad06-b676-42d0-84fa-9ade69b40956",
+      "sequence": 15,
+      "lessonId": "8afd95d9-f593-4b1c-8575-7760d50c4d4b",
+      "title": "Reconheça pela escuta",
+      "content": "<p>Toque o áudio e marque a palavra que aparece no final do perfil da Marta.</p>",
+      "contentPlain": "Toque o áudio e marque a palavra que aparece no final do perfil da Marta.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/be725aadf4df4eab86c94fd7ba268b7a_e05-sorprendida.mp3?Expires=1794099520&Signature=kKp-D0N4FiYGyk7PAidtdM2dgH0HqLAfiV3R5gY4Dv3sQxTEgS45blcK-Z9vt~~--ccZEocOxDA~h-izS6YUIJdN7CmimbIAH7xLB6OyqDjY2cD3HVW1sk2aD~0YlK1qSUuKIKSIIKIoDcO~3A20q3sv5ynsBuDZrAfhUSq7eZcXnfR~A4-LaZH7wEgQohTV~queimv~764yNKm5mSwk~03c2YLj8-fKo75CR3uHcLd8hGyIPewUC6uSSfz3ZGJ1Cgex3xCaazy2~DGbDdTOy65D5leHh65EKG7HaKIGT4fASwagducVX8ekvujUr6jdugMxD9sHSqpo~8pJFpzC6A__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Correto. Você reconheceu pela escuta o adjetivo do estado atual.",
+      "feedbackError": "Escute outra vez e compare a palavra ouvida com o adjetivo final do perfil da Marta.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "328025a9-7a48-46bd-a9f3-b35eadc8af9f",
+          "text": "sorprendida",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6f138f09-a98b-44c8-9091-2e18cf30a0dc",
+          "text": "tranquila",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "75797f6e-fdca-4678-9159-0dc1baa713fc",
+          "text": "hoy",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bc3f5f20-3b1a-41f2-a741-9d3a39d5e758",
+          "text": "trabajo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

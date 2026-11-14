@@ -1,0 +1,482 @@
+{
+  "attemptId": "ad6a1932-4818-42a3-b5c7-6843f9b86f4f",
+  "exercises": [
+    {
+      "exerciseId": "cf4042cf-7da0-41bd-b9d7-3c8d2dd701d6",
+      "sequence": 1,
+      "lessonId": "8769a8fd-e5c7-4f53-b47b-b9a5b2b4ac34",
+      "title": "Complete o fechamento do trajeto",
+      "content": "<p>Al _____, voy en metro.</p><p>Tradução: No fim, vou de metrô.</p>",
+      "contentPlain": "Al _____, voy en metro. Tradução: No fim, vou de metrô.",
+      "fileUrl": null,
+      "feedbackSuccess": "Al final leva a mensagem ao resultado real depois da mudança de plano.",
+      "feedbackError": "Al final leva a mensagem ao resultado real depois da mudança de plano.",
+      "answerType": "buildWord",
+      "expectedAnswer": "final",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "e8d208d9-22a7-4af7-93ed-f333d276db68",
+      "sequence": 2,
+      "lessonId": "3bc84ebd-043f-4314-87e4-ab12e10ce4f3",
+      "title": "Complete a intenção explícita",
+      "content": "<p>Tenemos _________ de ir al festival.</p><p>Tradução: Temos a intenção de ir ao festival.</p>",
+      "contentPlain": "Tenemos _________ de ir al festival. Tradução: Temos a intenção de ir ao festival.",
+      "fileUrl": null,
+      "feedbackSuccess": "Tener intención de explicita o plano com mais clareza.",
+      "feedbackError": "Tener intención de explicita o plano com mais clareza.",
+      "answerType": "buildWord",
+      "expectedAnswer": "intención",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b09debae-5a64-4270-9b29-4106fd4375a3",
+      "sequence": 3,
+      "lessonId": "95b225f2-1543-4c19-a867-d195f8f5bf8d",
+      "title": "Complete o meio de transporte",
+      "content": "<p>Voy en _____ hasta el centro.</p><p>Tradução: Vou de metrô até o centro.</p>",
+      "contentPlain": "Voy en _____ hasta el centro. Tradução: Vou de metrô até o centro.",
+      "fileUrl": null,
+      "feedbackSuccess": "O modelo de trajeto começa escolhendo um meio de transporte para entrar na rota.",
+      "feedbackError": "O modelo de trajeto começa escolhendo um meio de transporte para entrar na rota.",
+      "answerType": "buildWord",
+      "expectedAnswer": "metro",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "9fc02f97-e0a4-4ce4-a5f2-f7356eeb46d1",
+      "sequence": 4,
+      "lessonId": "4c3b42a7-5d7a-495e-b068-245bada75cbb",
+      "title": "Recupere o plano alternativo",
+      "content": "<p>Escute o plano alternativo e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute o plano alternativo e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e1702127f7c04c309ba70021aa7170d6_b04-plan-b.mp3?Expires=1794099621&Signature=KEQRpjMkNYfgIMKPtEA3fzkIzcuetCJTzj9emdRiEVLcUJElKQR9WR9fMohWjzZEIiBT4~LFJHmfyzaXJFlEp~88MMJGWc4N9snZdTV935G8iUa-jFCVFTr11~bbF41krxrx-Xv7XbGdclqD8HKtv1JMwDZHff9j6hhQi6tjA1hMQP7IR3UYeEZkP2tTtK~94~e69sFk6ijdXbD2I--fJ0bMtablFjHFQmNOVzKxXDDDsejCQRbea-7Tp32cYgzv~APM-DK7UWyT~QjD5-SohBAc5lgU02Zbygx7J7zdl7CsHi~dpj0qJAgTf2nvgoKUNLFPb6DfPBIYqZQ9sO0ZUg__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Nesta aula, o plano B entra curto e objetivo para manter a atualização fácil de acompanhar.",
+      "feedbackError": "Nesta aula, o plano B entra curto e objetivo para manter a atualização fácil de acompanhar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "16176586-4ccc-487b-b452-3687f201fcfc",
+          "text": "metro",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "670f4b5b-12dc-40c5-9ac3-40d71ba8961c",
+          "text": "tren",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "673ad747-7d66-4776-b1a6-e62f76e64d3d",
+          "text": "ruta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "71510c4e-3a4d-415a-9480-e50bc0a2d25f",
+          "text": "tarde",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7640b709-936a-4f91-a297-65915b97c230",
+          "text": "centro",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c0b26915-5349-4472-8123-ad32d54fdf81",
+          "text": "hotel",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "de1b7311-ebc3-4eff-a581-6034b29e9cce",
+          "text": "museo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "e23bacd7-e6b2-431b-8f7b-dc5dacf84209",
+          "text": "retrasa",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "449995cd-e101-4cdd-9b48-67c9ea00499f",
+      "sequence": 5,
+      "lessonId": "4c3b42a7-5d7a-495e-b068-245bada75cbb",
+      "title": "Complete a atividade prevista",
+      "content": "<p>Tengo _______ dejar la mochila en el hotel.</p><p>Tradução: Pretendo deixar a mochila no hotel.</p>",
+      "contentPlain": "Tengo _______ dejar la mochila en el hotel. Tradução: Pretendo deixar a mochila no hotel.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, tengo pensado abre a parte da mensagem que conta o plano previsto no destino.",
+      "feedbackError": "Nesta aula, tengo pensado abre a parte da mensagem que conta o plano previsto no destino.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pensado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f1069169-825a-462d-aaac-5f9a56f1bd01",
+      "sequence": 6,
+      "lessonId": "a0eb05ed-6b5b-4a88-a950-0e75d58a016a",
+      "title": "Escolha o mini plano completo",
+      "content": "<p>Selecione a única opção que recupera a ordem da rota curta apresentada na aula.</p>",
+      "contentPlain": "Selecione a única opção que recupera a ordem da rota curta apresentada na aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "A rota da aula avança da visita cultural para a permanência no centro antes do evento noturno.",
+      "feedbackError": "A rota da aula avança da visita cultural para a permanência no centro antes do evento noturno.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "20a8d254-b588-4dac-bfb3-6b7f12cad6a3",
+          "text": "Por la mañana, quedarse en el centro. Después, visitar el museo. Al final de la tarde, ir al festival. Por la noche, recorrer la galería.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "38f5e057-5a15-47c6-8358-f71d89928f94",
+          "text": "Por la mañana, visitar el museo. Después, recorrer la galería. Al final de la tarde, quedarse en el centro. Por la noche, ir al festival.",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5dd0cfc7-689e-45f3-ad66-6e16445b4009",
+          "text": "Por la mañana, ir al festival. Después, quedarse en el centro. Al final de la tarde, visitar el museo. Por la noche, recorrer la galería.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d16ba112-3c0d-4edf-a118-85db6204f7f9",
+          "text": "Por la mañana, recorrer la galería. Después, ir al festival. Al final de la tarde, visitar el museo. Por la noche, quedarse en el centro.",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "b221d505-41ff-4ff3-9e52-a66d68a1d543",
+      "sequence": 7,
+      "lessonId": "95b225f2-1543-4c19-a867-d195f8f5bf8d",
+      "title": "Complete a mudança de linha",
+      "content": "<p>Hago __________ y sigo en autobús.</p><p>Tradução: Faço baldeação e sigo de ônibus.</p>",
+      "contentPlain": "Hago __________ y sigo en autobús. Tradução: Faço baldeação e sigo de ônibus.",
+      "fileUrl": null,
+      "feedbackSuccess": "Hacer transbordo entra na aula como a troca entre linhas ou veículos dentro do percurso.",
+      "feedbackError": "Hacer transbordo entra na aula como a troca entre linhas ou veículos dentro do percurso.",
+      "answerType": "buildWord",
+      "expectedAnswer": "transbordo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "78781fe4-5bac-45ec-813d-9924cf7debfe",
+      "sequence": 8,
+      "lessonId": "ddb43c72-7f75-4f79-a230-a8d0421c74df",
+      "title": "Recupere a rota pelo áudio",
+      "content": "<p>Escute a mensagem inteira e marque somente as palavras que ajudam a recompor o trajeto.</p>",
+      "contentPlain": "Escute a mensagem inteira e marque somente as palavras que ajudam a recompor o trajeto.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/6f1fb33df31a492b8e62e72a93cd8c96_b06-te-comparto-mi-ruta-de-manana.mp3?Expires=1794099621&Signature=PBf8ngWAgVWvBPQT95w1j8wZj0dlRoF0XdsQ0zI8FT3fyxJxVW9NHogAe884TkAkkZ3NdvTnTMvcUeadPNwWhtsTHWziShWQVx6v-0dXMV42u7MBrhWTVha0luz8Q6qGkJCrlSdP~pSbFjcuH8UyGLs5EG--JHayA9dJfVsU~jQA3UZduLqzFz1GvAOEigYhUreICf5xHUbcBpJhWsxprOJeZbMaSAUNotHH0lGTNMlDryeP1WmTXmV9K4DuQFREmEW-DL6Gn5nHar1NzBe3XgtuRtI79EOkYbgDPaGUR-dV7sMWXKha1~8rHZCNcHKfKlJYJN--UHcU88~6e~G12w__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "No recado completo, hotel, transportes, parada e mudança final seguram a lógica da rota.",
+      "feedbackError": "No recado completo, hotel, transportes, parada e mudança final seguram a lógica da rota.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0f2ff503-cc04-4952-ae09-f98997a77692",
+          "text": "Plaza",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "16427508-670b-43e4-84de-575f6853e040",
+          "text": "fila",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "1b91cfd0-5a3e-487e-8a5b-8eb6f5befb98",
+          "text": "playa",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "371de9d5-d652-4ce4-8390-6475d6ee8f99",
+          "text": "autobús",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "40d6ca94-5550-48f5-b3cd-f3bd31088562",
+          "text": "hotel",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "92df1c44-cc7c-4945-be42-0841cf7c1df5",
+          "text": "ferry",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a4e546b4-198b-4c2d-ae76-c7e9a29f3852",
+          "text": "metro",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b1a9aa40-6b83-4d20-ba4e-1c2dc93fb2ef",
+          "text": "tren",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d1b7f889-e333-4a5d-b2e9-b510a66ed59e",
+          "text": "taxi",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f854d089-cf0f-4fcb-b2ba-54b439074985",
+          "text": "Mercado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "21ae97e3-7fed-4af3-8628-c637ae792a62",
+      "sequence": 9,
+      "lessonId": "19e3a51a-d21f-4451-ae00-a83a9aa7b69f",
+      "title": "Complete a saída confirmada",
+      "content": "<p>Mañana ______ de la estación central a las siete.</p><p>Tradução: Amanhã sairei da estação central às sete.</p>",
+      "contentPlain": "Mañana ______ de la estación central a las siete. Tradução: Amanhã sairei da estação central às sete.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, saldré marca a primeira etapa assumida do itinerário no futuro simples.",
+      "feedbackError": "Nesta aula, saldré marca a primeira etapa assumida do itinerário no futuro simples.",
+      "answerType": "buildWord",
+      "expectedAnswer": "saldré",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "f6bd6631-8da9-424a-9023-b8563973302d",
+      "sequence": 10,
+      "lessonId": "a0eb05ed-6b5b-4a88-a950-0e75d58a016a",
+      "title": "Monte o mapa do dia",
+      "content": "<p>Ligue cada momento da rota à parada ou decisão que aparece na aula.</p>",
+      "contentPlain": "Ligue cada momento da rota à parada ou decisão que aparece na aula.",
+      "fileUrl": null,
+      "feedbackSuccess": "A nota curta funciona por ordem: manhã, passagem leve, permanência central e fechamento noturno.",
+      "feedbackError": "A nota curta funciona por ordem: manhã, passagem leve, permanência central e fechamento noturno.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "0f4b0977-750e-4f21-ac50-b0fbe0f5fe24",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "2157cd43-235d-416a-86ea-3e6f132be2ba",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "4f7d2fbd-b831-4d8a-9972-371bb63023d3",
+          "leftContent": "Por la mañana",
+          "rightContent": "visitar el museo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "21d704bf-4fc8-460d-9efd-a0509d9ad154",
+          "leftContent": "Después",
+          "rightContent": "recorrer la galería",
+          "sequenceItem": 2
+        },
+        {
+          "id": "9079ecaf-daf2-4813-ab6d-8e5b662a2d6e",
+          "leftContent": "Al final de la tarde",
+          "rightContent": "quedarse en el centro",
+          "sequenceItem": 3
+        },
+        {
+          "id": "fcda3f0b-b95e-460d-a4c2-27f460504dd5",
+          "leftContent": "Por la noche",
+          "rightContent": "ir al festival",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "35ef0b44-1bbe-43a8-8919-e150749ba2b9",
+      "sequence": 11,
+      "lessonId": "8769a8fd-e5c7-4f53-b47b-b9a5b2b4ac34",
+      "title": "Recupere a virada da mensagem",
+      "content": "<p>Tenía pensado ir en autobús, ____ perdí el autobús.</p><p>Tradução: Eu tinha pensado em ir de ônibus, mas perdi o ônibus.</p>",
+      "contentPlain": "Tenía pensado ir en autobús, ____ perdí el autobús. Tradução: Eu tinha pensado em ir de ônibus, mas perdi o ônibus.",
+      "fileUrl": null,
+      "feedbackSuccess": "Pero marca a quebra entre o plano inicial e o problema que muda a rota.",
+      "feedbackError": "Pero marca a quebra entre o plano inicial e o problema que muda a rota.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pero",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "23eb4079-361e-4555-bb62-8b6dcb431821",
+      "sequence": 12,
+      "lessonId": "19e3a51a-d21f-4451-ae00-a83a9aa7b69f",
+      "title": "Complete o retorno do roteiro",
+      "content": "<p>Por la noche _______ al hotel a pie.</p><p>Tradução: À noite voltarei ao hotel a pé.</p>",
+      "contentPlain": "Por la noche _______ al hotel a pie. Tradução: À noite voltarei ao hotel a pé.",
+      "fileUrl": null,
+      "feedbackSuccess": "Nesta aula, volveré fecha o mini itinerário com a etapa de retorno já assumida.",
+      "feedbackError": "Nesta aula, volveré fecha o mini itinerário com a etapa de retorno já assumida.",
+      "answerType": "buildWord",
+      "expectedAnswer": "volveré",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c0acc8f0-27a5-4d01-97c3-4c94b6c224f6",
+      "sequence": 13,
+      "lessonId": "95b225f2-1543-4c19-a867-d195f8f5bf8d",
+      "title": "Relacione palavra e função",
+      "content": "<p>Ligue cada item ao papel que ele cumpre numa rota urbana simples.</p>",
+      "contentPlain": "Ligue cada item ao papel que ele cumpre numa rota urbana simples.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final diferencia transporte, ponto, passagem e mudança de linha no mesmo percurso.",
+      "feedbackError": "O recap final diferencia transporte, ponto, passagem e mudança de linha no mesmo percurso.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2fbd6d7f-b288-4289-ba36-3f54c2595f3c",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "bbdfbe86-2cb0-4e10-a8fc-31c9c4f062f6",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "91bfc146-edc5-4ae5-a0b4-e3b6d7312b3b",
+          "leftContent": "el billete",
+          "rightContent": "o que você compra ou mostra antes da viagem",
+          "sequenceItem": 1
+        },
+        {
+          "id": "87984b44-b8bf-46f5-84d1-ccaf2fae5e58",
+          "leftContent": "la parada",
+          "rightContent": "ponto menor do caminho",
+          "sequenceItem": 2
+        },
+        {
+          "id": "7869d912-ff9c-4ab4-9a35-df8e78452e58",
+          "leftContent": "la estación",
+          "rightContent": "ponto maior com linhas",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a933a06f-016b-47c7-a288-c705cf454f20",
+          "leftContent": "hacer transbordo",
+          "rightContent": "mudar de linha ou de veículo",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "05ad70f0-06e1-4e03-aee4-fce07c3ba08c",
+      "sequence": 14,
+      "lessonId": "ddb43c72-7f75-4f79-a230-a8d0421c74df",
+      "title": "Complete o início do resumo",
+      "content": "<p>Sale del hotel, ____ el metro hasta la Plaza Norte.</p><p>Tradução: Sai do hotel e pega o metrô até a Plaza Norte.</p>",
+      "contentPlain": "Sale del hotel, ____ el metro hasta la Plaza Norte. Tradução: Sai do hotel e pega o metrô até a Plaza Norte.",
+      "fileUrl": null,
+      "feedbackSuccess": "No resumo curto, toma recupera o primeiro deslocamento sem repetir o áudio inteiro.",
+      "feedbackError": "No resumo curto, toma recupera o primeiro deslocamento sem repetir o áudio inteiro.",
+      "answerType": "buildWord",
+      "expectedAnswer": "toma",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "75f9b7ff-5d61-4671-aa5a-4343193fbe24",
+      "sequence": 15,
+      "lessonId": "3bc84ebd-043f-4314-87e4-ab12e10ce4f3",
+      "title": "Complete o plano mais organizado",
+      "content": "<p>Tengo _______ quedarme en el centro.</p><p>Tradução: Tenho pensado em ficar no centro.</p>",
+      "contentPlain": "Tengo _______ quedarme en el centro. Tradução: Tenho pensado em ficar no centro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Tener pensado marca um plano que já parece mais trabalhado.",
+      "feedbackError": "Tener pensado marca um plano que já parece mais trabalhado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pensado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "attemptId": "3fa5b443-fa14-4ff1-876e-4fee8dd3a698",
+  "exercises": [
+    {
+      "exerciseId": "781008e1-bc0a-4535-9376-bce39f0ec88b",
+      "sequence": 1,
+      "lessonId": "42733ae4-a87c-4efb-9aad-f68ca24e9508",
+      "title": "Filtre as palavras do comentário",
+      "content": "<p>Marque apenas as palavras que fazem parte do comentário final.</p>",
+      "contentPlain": "Marque apenas as palavras que fazem parte do comentário final.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/e769814130b34c0a888687ecc23a4fa7_phase4-b07-pertenencia-y-memoria-compartida.mp3?Expires=1794099910&Signature=ZDGZKgoy6FEJkvVaPRNb79Ggj8fAfSd18s2gjeut3EwRzrS4bIvM0qu5S843ETHpKQZV6a48jfRzzQSpbgXeWioiSNm-NdNTIxMFbWj~Wja7SaKZ50zGEE6sOFoXX~qnjQCR67yB9pTjshzT0WY5Yd8WySA~oYNfkOWMau6Xzft-XD2H7m7chN2hxjqd-nKTbFi4wkOr4x61VCmfTWQVvV96ukEueeUzN3ggndNqKdpT2Oc3ZxduTaNx8zbYCROEnL10soRS4TlxOX2Y3wQwZfXp9i5bFW-gnav~3MhTHOeopYOQoN~wWgQuNA04RisIMPhiJuok4BoboSgXhQDMXw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O fechamento da aula junta correcao, pertencimento e memoria compartilhada.",
+      "feedbackError": "O fechamento da aula junta correcao, pertencimento e memoria compartilhada.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "09d6c724-b346-4620-ac7d-a95d02ad2e31",
+          "text": "comportamientos",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6504b765-d5d0-4fdf-9147-8091a2f6efcb",
+          "text": "memoria",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a6ced88e-a830-4c87-add0-707d81ad7769",
+          "text": "rivalidad",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c0b73a0b-c2b0-4738-a353-4127e335dba8",
+          "text": "domingo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "ec37e65e-c75e-4757-96af-73835017247a",
+          "text": "pertenencia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "be91b68f-052c-470a-97b1-cb33160efddb",
+      "sequence": 2,
+      "lessonId": "edd5dec7-bd5c-4972-a929-255d1b3d04ca",
+      "title": "Recupere o lance decisivo",
+      "content": "<p>Complete a frase em espanhol: La ______ cambió por completo el partido.</p><p>Tradução: A jogada mudou completamente a partida.</p>",
+      "contentPlain": "Complete a frase em espanhol: La ______ cambió por completo el partido. Tradução: A jogada mudou completamente a partida.",
+      "fileUrl": null,
+      "feedbackSuccess": "Jugada faz o comentário dar zoom no momento que muda o jogo.",
+      "feedbackError": "Jugada faz o comentário dar zoom no momento que muda o jogo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "jugada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "99d27c3e-17cd-4c45-b30a-a29597a91e15",
+      "sequence": 3,
+      "lessonId": "b05c5e5f-c8b9-4269-a4f4-8d2def04e592",
+      "title": "Complete a concessiva direta",
+      "content": "<p>______ el equipo necesita puntos, arriesgar al central lesionado ser&#237;a un error.</p><p>Tradu&#231;&#227;o: Embora o time precise de pontos, arriscar o zagueiro lesionado seria um erro.</p>",
+      "contentPlain": "______ el equipo necesita puntos, arriesgar al central lesionado sería un error. Tradução: Embora o time precise de pontos, arriscar o zagueiro lesionado seria um erro.",
+      "fileUrl": null,
+      "feedbackSuccess": "Embora a pressão exista, aunque abre a frase sem fazer o comentário ceder ao risco.",
+      "feedbackError": "Embora a pressão exista, aunque abre a frase sem fazer o comentário ceder ao risco.",
+      "answerType": "buildWord",
+      "expectedAnswer": "aunque",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "a2f4bac6-d8ce-4f5d-b2d3-b2a538f25b74",
+      "sequence": 4,
+      "lessonId": "03fe386f-6fd1-447b-9649-6e425579bae1",
+      "title": "Associe pista e efeito social",
+      "content": "<p>Ligue cada fragmento em espanhol ao efeito interpretativo mais preciso em português.</p>",
+      "contentPlain": "Ligue cada fragmento em espanhol ao efeito interpretativo mais preciso em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, o foco e inferir como o texto transforma torcida em identidade coletiva.",
+      "feedbackError": "Aqui, o foco e inferir como o texto transforma torcida em identidade coletiva.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "7cbbe45d-7f67-4977-9aea-a9bfc8a42ca8",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9f9a26e8-b5b6-40d1-975f-bf157f90722a",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "5e7dad77-37d2-43ae-b29a-5468a807531a",
+          "leftContent": "no se junta solo para ver el partido",
+          "rightContent": "a relação com o clube vai além do evento",
+          "sequenceItem": 1
+        },
+        {
+          "id": "6dfe3f89-f0d8-4af6-93b6-970333da681c",
+          "leftContent": "su propia historia",
+          "rightContent": "o bairro incorpora o clube a memoria coletiva",
+          "sequenceItem": 2
+        },
+        {
+          "id": "2f242cf9-52c2-4fdc-b07a-c9a2bc8192c2",
+          "leftContent": "reconocer a quien comparte una memoria común",
+          "rightContent": "as cores servem para localizar pertencimento",
+          "sequenceItem": 3
+        },
+        {
+          "id": "880d6676-d4d3-4454-9058-a58c2732f00a",
+          "leftContent": "incluso cuando hay discusiones o derrotas",
+          "rightContent": "a identidade continua sem consenso nem vitória",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "326b4a14-28cc-454a-865e-ffaaed47054e",
+      "sequence": 5,
+      "lessonId": "b05c5e5f-c8b9-4269-a4f4-8d2def04e592",
+      "title": "Reconstrua o diálogo da volta",
+      "content": "<p>Ligue cada áudio a sua frase e recupere como o diálogo soma concessão, boletim médico, torcida e risco futuro.</p>",
+      "contentPlain": "Ligue cada áudio a sua frase e recupere como o diálogo soma concessão, boletim médico, torcida e risco futuro.",
+      "fileUrl": null,
+      "feedbackSuccess": "O diálogo final recombina as três concessivas em uma mesma linha de argumento sobre risco.",
+      "feedbackError": "O diálogo final recombina as três concessivas em uma mesma linha de argumento sobre risco.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "d3def95e-dd2e-4f4f-85bd-a92c6e84ee17",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6410d8c0329143b4a72911a202af564c_phase4-b08-d01-aunque-el-equipo-llegue-corto-al-clasico.mp3?Expires=1794099910&Signature=jcvxg6AbJED9A4o6sGt3ZyVII7X-TchRbIcUtxtFGbcaOq-St1bvmBS7FH5d-2-98dBeXUZ8patvSgEOLuhWOAU8oHFAnZpzX5qmumEY4VA9ozBx2a0MGc8WwGw8-Gwk0Lr3sh8yjpvcMmGbAnSUYz8L7iNWrh~0hqJ~c484iQIyPdyUpengai92aV89v1zXkDkpOcHrCFowQmQ1x9IFHmZIfyAkvsTnQLLELpLN~Z1ibXPL9oPKmnTPybIJBDWNQx-NE8a6qgesoHxuhtk4sO8LmJPuv5PSM5zGF2ylCTLSB8XVay6jw2GsdOzmSxgC4pK0tqAE24gzZ~dlI05BKA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Aunque el equipo llegue corto al clásico, yo no adelantaría la vuelta de Vega.",
+          "sequenceItem": 1
+        },
+        {
+          "id": "b70d2e6d-fd4b-42bf-8625-cf5e1a8cbc28",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ee88308a85114a278fc4b2d4e84a951d_phase4-b08-d02-a-pesar-de-que-el-parte-medico-es-bueno.mp3?Expires=1794099910&Signature=QV8FQJ7XmV7N983M2m4RxLkjp3o6yk~mTwJ1TgAD6FRhcADLlMfGCkk0gbLT61GqfK6S3unV804LtVfdkz63RxWItY9dWQ7Y9qLCbRD4aycG~Pqqv17o2L-521mT~sQ7o-npMDgZsZYG3UIgntNiHGuVqgUCGzcmgaVjWQ9JHNxVf3cyUqYxomVaemOi0iLJ4rspsBY0krwlQGzwulVtU~i042PbB-AxrLb3QS5Tyf8V70dTNe26lhJVJ7bvO6v6LSPoso9W999nKJiGAv-8tayuQEWFQRMSo9yKFQ5zqZ0H0mqPSfV31qRo1Rkk~5ldfqlsQidMxW3e-I67J4s-pg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Lo entiendo, pero a pesar de que el parte médico es bueno, todavía le falta ritmo de competencia.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "81b89a88-0dc6-4166-a8bc-bcb3fec9bb90",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fa0113f49d55456b8256740ecf58e7b4_phase4-b08-d03-pese-a-que-la-aficion-quiere-verlo-ya.mp3?Expires=1794099910&Signature=DSVbBxoAE8OmMwNR6rbv--fX6uKc5ZDhHY2Z66tJa9y0dXVXXNs6GW1hy8~mKSPmCjJKpITJqCnX0M3El8w5mJYyp8KHd4-x0iqHWeA1G64wRUgJGW3TQY7irf2YT1ljOasiufpsuq4~sZT5lCftOgk8AJtapi0Dmyt2N9SRLMIcUdB5r5zskeBh1ycSv83FFcL5YA1i6RTWbVP2Ihz-avdBZBnVDpXJnq4WWcr8HqAS8l4-7cDRsPN1Sp3vDfJCbwS1NnwlD6aHVJcdJL-GFEzUpOLhu6aNWvuSm5Ah6SI4fa~McOwT0fCZMlirhtw2RX3Vg8yQeVoVdLvb4eACog__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, y pese a que la afición quiere verlo ya, forzarlo ahora puede salir caro en mayo.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c4a0ff58-2f69-415b-a0de-e9db238ee169",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/6f54fd51551c42b69a14945fb3e5281a_phase4-b08-d04-asumir-un-poco-de-presion-hoy.mp3?Expires=1794099910&Signature=XLvNBkUziIaf~GhmSsm5Vxa0DqZ6IRO0NHcZsGF4n17XX7yQCI8eUDAK-zKx-KWovU7XDijhqAqYaKcR-XybAiItF9O9iOBnlAil7ob-CuOFtUdACc0YqFH3Ty064Ww-CgruglcYc~F4cdCqJ~cXs06hOlMRleMzGEVoMbhsoECmL5kvRz4oWg9bMl1zJA6xssEIUZfxlAFPWq5ECwCCPeHf1OKqm3HOhDH6Xx4pdrerwG3BeoO9JTav3cHqCZ3wgF19h5v5v-4sYovFQRPK4wd2GuJKqjTaPyawnBEtvGmXb~ZKrBvgi4hXbwDOduDJ-vJ2xw2s6Zsune2UpTSvFw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Entonces estamos de acuerdo: asumir un poco de presión hoy evita un riesgo mayor después.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "3dd60c0c-a916-4a1f-bd1b-76f26c9fcea0",
+      "sequence": 6,
+      "lessonId": "42733ae4-a87c-4efb-9aad-f68ca24e9508",
+      "title": "Selecione o que você ouve",
+      "content": "<p>Marque só as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Marque só as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/0ef1c723a7d14bc9ac0d978bf12bba62_phase4-b02-aunque-hubo-empujones-a-la-salida.mp3?Expires=1794099910&Signature=djvBX8mhcyEYHn9mJwmt-Ura86h1NOqVx2sdn4e9T9SaCS10BV5rR5ycHD4OAszgpbzN1CWVwSf6rloe4raZxmlllE6BsXcmVnBenh0udu-mXn2920dXkULaHDRbzGnAsv5ZaI9Fe284~uPl3MFzmZa6hc1tknwtYMKjXLJYl6zvCmEK35chP5uIGJwo2mC3u5y8jYJ9xy~NPgDgr05E~4iMpMxxKcdV1OaHCk674npndm~PVPXxmNU0rCrpQfs-NNHBzT~p6tNfjcJUytSyBgGy1ELNbYm6AY~SJzV7dou6nFhlaDaLkiojOBuoUSDHO~hgEWyz4lzuq5NklvfcnQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "A primeira moldura une concessão, bairro e valor comunitario no mesmo comentário.",
+      "feedbackError": "A primeira moldura une concessão, bairro e valor comunitario no mesmo comentário.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "2c6891ac-dcc3-4cb5-8d1a-07a0d4236fa9",
+          "text": "Aunque",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "33826565-4e60-44a4-a40a-176b31881565",
+          "text": "memoria",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "56e7d3f3-909a-4c9e-b87c-7f6860b221fc",
+          "text": "domingo",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "77cf8bfa-0a0c-48eb-b2c9-80c27fc725d3",
+          "text": "barrio",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7a5491f3-49fb-4101-ab1f-ded9bc6074f4",
+          "text": "club",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "892dc63c-2c6c-47d9-af06-47a76c12e6d7",
+      "sequence": 7,
+      "lessonId": "42733ae4-a87c-4efb-9aad-f68ca24e9508",
+      "title": "Recupere a rotina",
+      "content": "<p>Pese a la rivalidad, volver al estadio cada _______ sigue siendo una forma de reconocerse como comunidad.</p><p>Traducao: Apesar da rivalidade, voltar ao estádio todo domingo continua sendo uma forma de se reconhecer como comunidade.</p>",
+      "contentPlain": "Pese a la rivalidad, volver al estadio cada _______ sigue siendo una forma de reconocerse como comunidad. Traducao: Apesar da rivalidade, voltar ao estádio todo domingo continua sendo uma forma de se reconhecer como comunidade.",
+      "fileUrl": null,
+      "feedbackSuccess": "A rotina compartilhada ajuda a aula a mostrar pertencimento como prática repetida.",
+      "feedbackError": "A rotina compartilhada ajuda a aula a mostrar pertencimento como prática repetida.",
+      "answerType": "buildWord",
+      "expectedAnswer": "domingo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "53c34283-3be7-4614-99e0-0af430612b1e",
+      "sequence": 8,
+      "lessonId": "03fe386f-6fd1-447b-9649-6e425579bae1",
+      "title": "Recupere o coletivo central",
+      "content": "<p>En este barrio, la ________ no se junta solo para ver el partido.</p><p>Tradução: Neste bairro, a torcida não se reúne só para ver a partida.</p>",
+      "contentPlain": "En este barrio, la ________ no se junta solo para ver el partido. Tradução: Neste bairro, a torcida não se reúne só para ver a partida.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, hinchada nomeia a torcida como coletivo reconhecível.",
+      "feedbackError": "Aqui, hinchada nomeia a torcida como coletivo reconhecível.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hinchada",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "41e37ff2-062f-46ee-9d4b-d41fd4f3bf5c",
+      "sequence": 9,
+      "lessonId": "edd5dec7-bd5c-4972-a929-255d1b3d04ca",
+      "title": "Recupere a leitura do resultado",
+      "content": "<p>Complete a frase em espanhol: La _______ dejó muchas dudas.</p><p>Tradução: A derrota deixou muitas dúvidas.</p>",
+      "contentPlain": "Complete a frase em espanhol: La _______ dejó muchas dudas. Tradução: A derrota deixou muitas dúvidas.",
+      "fileUrl": null,
+      "feedbackSuccess": "Derrota não e só placar; ela puxa avaliação e consequência.",
+      "feedbackError": "Derrota não e só placar; ela puxa avaliação e consequência.",
+      "answerType": "buildWord",
+      "expectedAnswer": "derrota",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "1a6facb9-dccf-4ff7-9583-3844562252a9",
+      "sequence": 10,
+      "lessonId": "b05c5e5f-c8b9-4269-a4f4-8d2def04e592",
+      "title": "Ligue a objeção ao comentário",
+      "content": "<p>Recupere como cada início concessivo enquadra o comentário antes da avaliação principal.</p>",
+      "contentPlain": "Recupere como cada início concessivo enquadra o comentário antes da avaliação principal.",
+      "fileUrl": null,
+      "feedbackSuccess": "O recap final organiza as três concessivas pelo tipo de ressalva que cada uma destaca.",
+      "feedbackError": "O recap final organiza as três concessivas pelo tipo de ressalva que cada uma destaca.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "9bd09b87-b245-48b8-8300-620e3b628b38",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c33c7155-ddc0-4c36-b44c-82c10dd5fa13",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "0b3d38f7-5f6a-4b3b-b269-d4b587785a6b",
+          "leftContent": "Aunque el equipo necesita puntos",
+          "rightContent": "urgência competitiva",
+          "sequenceItem": 1
+        },
+        {
+          "id": "8301d462-096e-4748-9e79-70f287180bce",
+          "leftContent": "A pesar de que la grada pide espectáculo",
+          "rightContent": "pressão externa da torcida",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e62b796f-8ef4-4fc8-96f7-3447128e82b2",
+          "leftContent": "Pese a que fue una victoria importante",
+          "rightContent": "dado positivo que não apaga o risco",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "6fd0168f-ecbd-4f3c-9a7a-e8253e25b6e7",
+      "sequence": 11,
+      "lessonId": "edd5dec7-bd5c-4972-a929-255d1b3d04ca",
+      "title": "Recupere o quadro geral",
+      "content": "<p>Complete a frase em espanhol: El ______ sigue muy abierto.</p><p>Tradução: O torneio continua muito em aberto.</p>",
+      "contentPlain": "Complete a frase em espanhol: El ______ sigue muy abierto. Tradução: O torneio continua muito em aberto.",
+      "fileUrl": null,
+      "feedbackSuccess": "Torneo organiza o comentário no nível da competição inteira.",
+      "feedbackError": "Torneo organiza o comentário no nível da competição inteira.",
+      "answerType": "buildWord",
+      "expectedAnswer": "torneo",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "31172b9b-7eac-44ac-942d-82783ff53c7c",
+      "sequence": 12,
+      "lessonId": "03fe386f-6fd1-447b-9649-6e425579bae1",
+      "title": "Recupere o nucleo da memoria comum",
+      "content": "<p>Significa reconocer a quien comparte una _______ comun.</p><p>Tradução: Significa reconhecer quem compartilha uma memoria comum.</p>",
+      "contentPlain": "Significa reconocer a quien comparte una _______ comun. Tradução: Significa reconhecer quem compartilha uma memoria comum.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, memoria organiza o reconhecimento entre pessoas do mesmo grupo.",
+      "feedbackError": "Aqui, memoria organiza o reconhecimento entre pessoas do mesmo grupo.",
+      "answerType": "buildWord",
+      "expectedAnswer": "memoria",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "8dfa785e-29e6-4a96-956e-8afc6f652332",
+      "sequence": 13,
+      "lessonId": "edd5dec7-bd5c-4972-a929-255d1b3d04ca",
+      "title": "Relacione o áudio a peça central",
+      "content": "<p>Escute cada frase e ligue o áudio a palavra ou expressao que organiza esse comentário.</p>",
+      "contentPlain": "Escute cada frase e ligue o áudio a palavra ou expressao que organiza esse comentário.",
+      "fileUrl": null,
+      "feedbackSuccess": "O desafio aqui e recuperar qual peça central organiza cada comentário ouvido.",
+      "feedbackError": "O desafio aqui e recuperar qual peça central organiza cada comentário ouvido.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "121db289-ec08-4546-a392-cd8f87302764",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/4c9e528c00d749ce9f6f4efe70674c3d_b02-el-torneo-sigue-muy-abierto.mp3?Expires=1794099910&Signature=csA9~edaKJEwO9kBPAd7e5be78LNFS9E2U7mqLL~eO5~Qvy089uDoLKWpaO03XYsN8Jd3PMeJbkq5n66h4hIyAO3uEc75K9A9VGIEelAfSSTabQqkAImUJcOOL4q4IcTmiRzNZ5POFihjicAKBK9B8o77swWJ-~GeBMNW0kPX61LsI4ka30KsMWjzgx~05szMaHfIyoLB5yrtHbc6mzAi~2tpM4o5xB6xxweG2-1qUorqmdQgDTcBdrnz7icOw7j20peIP4vtN97Q4YFf0nsyCycKpFXMo618CLjfgWDb43oi6sGt5LigatJ-WkBNT7OxpjSaUegJG4vCY3YR2beWw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "torneo",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e97b5e10-c2e3-4c8f-9af1-5a3c032c38cf",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/bf1028a73b584613b472113bf5398d2b_b04-la-jugada-cambio-por-completo-el-partido.mp3?Expires=1794099910&Signature=1N9GaQU6kHmCrPRc-ge3mXfKdpSYKcHUBne~3b-5CXcIixO-wAxUeAqfNZ9gftvq2cXU7RrPYpQFkPSZ1-Dxh5~jyo11Pc0iCU60SakFA8t6RqRVKinD7Q4cEt-eUeH99yqHDKVNHq47Nx8u4ULUSrqSBtkxUegJIP47QZkuJ2HZUmqprGiCCmd3nzoMcgrMB6TO-W8X0TvU-7ELkUAeoYRPs178ZU4I4JFwP6DgJT6vF2YLBT804UVgrYr4j04YvGRe7RfygqnMTFakP9QMqOcZRioJLZsgkGroSxwiIda5GlndBVEi3Ap2Tsgba-RGRS5E4bvpqfaJlu48KSq2Eg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "jugada",
+          "sequenceItem": 2
+        },
+        {
+          "id": "10bd5988-da12-4544-adad-111406247708",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/a625ebfa6f62488ca551d268b147bfce_b06-la-derrota-dejo-muchas-dudas.mp3?Expires=1794099910&Signature=Bt4H~Nw2J7DAnhu~kmeH3zsDcb5ofb1Lg9hVI~JIO4IPNMQfexjcKikHmeP8kv04J1JuME8oRybS5~mwQq8skrazzaMDfHz-SguctdP60F3rqSEge9MwsA3Py4U4IF3MBjebyvd6iEqQVp6K1rpZrPL-iqj0-5yTq1te~kZqpj51l1SZ5IXIHh8WTaEEmqAGlkGZ-WWRjNv1KJCuVLOEvtcvAxCUL8HPt~~KP94YQd1LABGOW6yL0d~Am8nBdNImYLGmxMZh8Gl8jAmIg1Uza~Q~5dUtF4Q~xmgUXzqNuKPOu00JSWJWge6L7DEAJKp~d4drJfwgcG4VZIGU5FX39A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "derrota",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d364da34-ea70-43b7-95fd-55504f315aaa",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/cb2fbdb263824312bc685dad1b1ef6a1_b08-la-lesion-cambio-el-plan-del-equipo.mp3?Expires=1794099910&Signature=es8b7nujWQmL4MMarTz~~RVAszvQoN-CUufT80krihVvtFmLmi0g8wZ77N4PnbRJdXz2D~Kh08kxO61RNizXVua5zh2yLb4CwOKzKV5W6JMqrRJq0KRJFrXTYiXz1IJ-gnnKr4amgdFYfJhUdchrs0wwvtJAasGU1LaEe7-Vy~r40~J~el4l33quidA0VqO-nYm36YniCYlgYBu2AAhzP4Jk5JjeQb7QqmEAmUYZJFec6J90q~o-2RYN4nGlbBgvuUcwMe3GrKWRjlcIWqrgGBEAJ9G-1UF6jL3oVEpw89YJoHOjaesqrZeGO7P8azn~btKrDLBilZCTlk8SSb6N-g__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "lesión",
+          "sequenceItem": 4
+        },
+        {
+          "id": "da264816-3cfc-4952-a17c-3b3841cffea5",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/345f9fa1d6fd449482bd47efa790ff03_b10-el-cuerpo-tecnico-reacciono-rapido-despues-de-la-lesion.mp3?Expires=1794099910&Signature=LCJvPUpN8C4KsJUa1N3M~fuwL~V9Txgci58PPGnucRhIa-E7AFs4Xj01e-t6ZK8RWngoNHCDKG3~YiQjNKREQibskWOtpbajKqsoksFBQaII4mcjfHGHdmzxVtUw345LjlgWLBX-l7G96AYJ6QxKdcBiKPlH9JqjXCEdXdV8TvUR8d3hfSlzM6pZHhUYdBiJ6JQ82piPoASa7n85vQLBlSww-~LVBh7f4TWdPOJR3u4vLG3CBFycAXfBT0L2v7rlbmOZQJTNB~zVvr8e5G7ddbt3JkLfB-T17WK~j56U1WOxQpb0GXgk2Qokrsv0e--Xb2NOl-jVftridAWgLdpcrw__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "cuerpo tecnico",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "bf86f8a2-8688-45f8-9399-759f37abfb08",
+      "sequence": 14,
+      "lessonId": "42733ae4-a87c-4efb-9aad-f68ca24e9508",
+      "title": "Recupere o conector",
+      "content": "<p>______ hubo empujones a la salida, el club siguio siendo un punto de encuentro para mucha gente del barrio.</p><p>Traducao: Embora tenha havido empurroes na saida, o clube continuou sendo um ponto de encontro para muita gente do bairro.</p>",
+      "contentPlain": "______ hubo empujones a la salida, el club siguio siendo un punto de encuentro para mucha gente del barrio. Traducao: Embora tenha havido empurroes na saida, o clube continuou sendo um ponto de encontro para muita gente do bairro.",
+      "fileUrl": null,
+      "feedbackSuccess": "O conector abre a concessão antes de manter o comentário sobre pertencimento.",
+      "feedbackError": "O conector abre a concessão antes de manter o comentário sobre pertencimento.",
+      "answerType": "buildWord",
+      "expectedAnswer": "Aunque",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "c9e8045c-2ba0-4cf9-a60d-128872ca39ed",
+      "sequence": 15,
+      "lessonId": "b05c5e5f-c8b9-4269-a4f4-8d2def04e592",
+      "title": "Complete a concessiva compacta",
+      "content": "<p>____ a que fue una victoria importante, repetir ese ritmo cada semana puede pasar factura.</p><p>Tradu&#231;&#227;o: Apesar de ter sido uma vitória importante, repetir esse ritmo toda semana pode cobrar um preço.</p>",
+      "contentPlain": "____ a que fue una victoria importante, repetir ese ritmo cada semana puede pasar factura. Tradução: Apesar de ter sido uma vitória importante, repetir esse ritmo toda semana pode cobrar um preço.",
+      "fileUrl": null,
+      "feedbackSuccess": "Pese a que serve aqui para admitir o dado positivo e manter a cautela.",
+      "feedbackError": "Pese a que serve aqui para admitir o dado positivo e manter a cautela.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pese",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

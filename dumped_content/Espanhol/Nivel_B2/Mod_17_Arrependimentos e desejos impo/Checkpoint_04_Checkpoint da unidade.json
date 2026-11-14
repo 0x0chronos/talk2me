@@ -1,0 +1,644 @@
+{
+  "attemptId": "59da4298-a918-45e5-805c-a2977af496b8",
+  "exercises": [
+    {
+      "exerciseId": "e3471d42-4dc0-409c-8378-848c643408d7",
+      "sequence": 1,
+      "lessonId": "d9f3ee5d-150e-4b3a-ae1a-9bcea9145ee5",
+      "title": "Reconstrua o diálogo reflexivo",
+      "content": "<p>Associe cada áudio à fala correspondente para recuperar a conversa que vai da pergunta ao aprendizado final.</p>",
+      "contentPlain": "Associe cada áudio à fala correspondente para recuperar a conversa que vai da pergunta ao aprendizado final.",
+      "fileUrl": null,
+      "feedbackSuccess": "No diálogo, a reflexão avança quando a conversa liga pergunta, arrependimento, mudança imaginada e aprendizado.",
+      "feedbackError": "No diálogo, a reflexão avança quando a conversa liga pergunta, arrependimento, mudança imaginada e aprendizado.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "7a5bd582-bfca-4766-86e5-17a2b47653f3",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ad0fbdd991ce4b3da3f7b811fbd92428_phase4-b07-d01-todavia-piensas-en-aquella-presentacion.mp3?Expires=1794099825&Signature=wU5vx9nnZEU1FZL0-UYuYLYEQzXR6PXbteauyJ3RQx8~08vpQqHBWPV7LtqjII19OKfY65qndqL1-j81sv1vTihg29vs-c-mQc3vftiyIaEjxn4SS~md7I5puqH12AMesYTJbJ-yBkWlnajzfK8tQ8i4B-k1aVtzxo~Km~Y9UMY9bHW93kqjjbU75-T56ydKWSjLS65ePT5Liir477AQx64PWvAnFb~OPF~~N~sYIKFiMvy-BCqJCfDA2eBrnguJKg9C1wYv-hCIAca2oT1Pab9NRTidwVIEM0v9mVohaeSHs1j~2KYJ-CleXA9wuv~cJaW66VDbnUCJ8FozmpX9fQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Todavía piensas en aquella presentación?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "bdee52e0-cf4f-462f-8df5-665070103013",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/c00a5192724a49a99d081eda58956d3c_phase4-b02-ojala-hubiera-pedido-ayuda-antes.mp3?Expires=1794099825&Signature=QST5YwJdi6YgAIuJbEqnvm71zalb8A~faaCLETVQ6Ztl-uxNa1hBC6XyJpBihNsEPbBIRSx3xNaiZtDu6hE6HvwqKWdEHZGOx4qhPcZyajD~HP2t0szcRN0dycWkZwkj7nh0Z34yTeEP-RrmMUdM7L8W9sNHQYS-5k0tz15HzJ1E3VyQ87nahDhIXaKNfWkshE2i7esjHnYGdybY72wZLiqaXs08oTeL6agSvymW~efbO8~9kF19V6aWV1lYxXc1fYcnOcw8SKwcJLAmUNXO7nlnv5sTcJtOpSDRFEQHd0xKClFf-DvjJBETcb371s2qJIq3sYzsBYz5h3Y0D9prYA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ojalá hubiera pedido ayuda antes.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "430bf038-b9e3-44eb-bfeb-efa023252604",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/3a77c687719740379296bdcb0ad2990f_phase4-b07-d03-crees-que-habria-cambiado-algo.mp3?Expires=1794099825&Signature=F6v9p1-e~f13yLTzoYw6~ZQWC8elI7~Sn9Y5sWsQQPj4ayVj3C7HnpltLUJZLP6yajtZC3RPvjdxCj28ywgM7pWJn5pUuuxq6L5ZQPVyzcInFbwzwteZGa0ompU1esKuur5C9k9f-wxLizXGlUkMt~t~jMTzWGTaIYAdUw5CPGPE4Ug1DEu365bUGT96FOpWxeG9KSXMnntEqkDEISDpEbO7S98jfVtlcpTijva4AR3jF5~H1xxQBdmJtD7~WBojmX0EEXizS8rWI-bu-5dUzNU-qEPzb-XwXuwWZl5kZX48KlcfE8aVs2Wcgch3o0oRAJWm-34pSusdfzrlCYSa3w__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Crees que habría cambiado algo?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "a545ad88-ae43-4f69-a1bf-3b2bfb56c006",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/ed9d27aadd2348588a5740600690a883_phase4-b04-habria-avanzado-mas-rapido.mp3?Expires=1794099825&Signature=YEGGWpuy2QO30nS-0Cs-PhPSvGIAKMAIBsRpYFsvCqCsGzj9qdy-Nl4t4TIMpL8wnWHpfx5LRjIDz8UojGRNpKGq9RM1AAxTXLWY4yLu-FOOwOHVbj3Ni2-17whYPtDSn2-w4-ETyff4qzV~m6Ia7bp-Rem4L2qqc79QNw49sDyR~h17jUGH1wgoYu~0fwPK~2wILAKftkjz8PRtdQ8uRY~9ueJQVI7QXj~T09nmfsM1cAJoGLzwmTsnh6CeXgVfI1iF5MYBSM-iWkOTfOzlFZjY4sv~L4mwEhkC14DpL4L9uIh~4kUXKO70n6xawSoJMXRLXBHW6-mx8JLntQNk5A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Habría avanzado más rápido.",
+          "sequenceItem": 4
+        },
+        {
+          "id": "3a7068be-0640-451a-8db5-4e6128603f1f",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/01de4fc0fea142639c0a79d707c55858_phase4-b06-ahora-se-que-pedir-ayuda-a-tiempo.mp3?Expires=1794099825&Signature=wnyJT5lfioRYWSxcZ0y-FEtY92oaSsFx7LQsovV9f8vNNzYYuRCVW32fNs~dipF17clro7mEDd6c3MWLnsi9DFS1DydvPHBGTjkePBFP3qpAIyLFJU5fxpl0zUDD09b4qO95B5BQiXLDNdpPqWtKUf~uT~bEL3o~u2XZuICsgVnXvAhYN5U2NQYy2fTGujxDqxxfpfIydBx1sCfoQEsWGZSYofemPYXg9mdxtTlAhxhNaQc2U36evqGGIQqXuc~ZIHqW6PNckAqWkK1k7bKo8ksLjXU7PEsyPGY9XHLPnLaaca32c6TrDYB-lVSN~4FnV9FJEo4N1boCSn2O6zUX0A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ahora sé que pedir ayuda a tiempo evita muchos errores.",
+          "sequenceItem": 5
+        }
+      ]
+    },
+    {
+      "exerciseId": "88ee859a-3815-4a0c-a3f1-01fcab74de7b",
+      "sequence": 2,
+      "lessonId": "441d16c7-0271-45da-b42f-b2324158b99a",
+      "title": "Ouça o áudio e selecione as palavras",
+      "content": "<p>Escute a frase de arrependimento e marque somente as palavras que você ouvir.</p>",
+      "contentPlain": "Escute a frase de arrependimento e marque somente as palavras que você ouvir.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c72a2852e84b4c5cb9aa6cfbab913b59_phase4-b02-ojala-hubiera-aceptado-la-oferta-de-bogota.mp3?Expires=1794099825&Signature=HaznIngEV2fHYPfP~Y5HSNuwOKA~LbVaoisRvmzK7JQzD-xETd39miA~kHAdNXO4OsEAOl0nIBwyzfcNb~z-JSJf0l~cWs04LH~skHzDEzjDB5EKCCCLUnv2QVMk0ouC7DRV65mavAXzeNUGSasd1REIOGrpHfuXaRhuEDiyGCQSSFAxm2WwMGWjmJ2fKNcW2djQP4KYFsmWFtDILMcFsmmnOBOrpz1jiDd6gk9NqGXCfbFDCBhb7VFFFHeDObHYpe-eVmI0G0vdLehQngZQJZfP2q-IXrLTMtDUZBTSvtvcsFbhmcP1vQb900FrccwopXQ8St6mofG2u1RjmCjiCw__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui, a escuta precisa recuperar a decisão lamentada palavra por palavra.",
+      "feedbackError": "Aqui, a escuta precisa recuperar a decisão lamentada palavra por palavra.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "1bd2050e-1275-4d94-afb5-3440290eeca8",
+          "text": "seguridad",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "7f9a3a5e-fe28-4e61-bd12-72c8dffa100e",
+          "text": "aceptado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8bee660c-c986-4fe3-a74c-752603546e6a",
+          "text": "hubiera",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "9e19e40d-a8ba-4bb8-884e-ccbda1351c05",
+          "text": "ojalá",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b47ea362-062d-43f1-b538-211671aabcdd",
+          "text": "ganado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c39d520b-2ea9-4196-8a80-354e3b08709d",
+          "text": "cambiar",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "cabef7d7-31f9-41e8-8b73-b0be1918653c",
+          "text": "Bogotá",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d5260c5d-e656-4eeb-97b9-fff3c72204b4",
+          "text": "oferta",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "2a2f24a7-bca7-4445-baf4-45c0c74a3068",
+      "sequence": 3,
+      "lessonId": "d9f3ee5d-150e-4b3a-ae1a-9bcea9145ee5",
+      "title": "Recupere a consequência imaginada",
+      "content": "<p>Habría avanzado más ______.</p><p>Tradução: Eu teria avançado mais rápido.</p>",
+      "contentPlain": "Habría avanzado más ______. Tradução: Eu teria avançado mais rápido.",
+      "fileUrl": null,
+      "feedbackSuccess": "Com habría..., a aula mostra o que teria mudado naquele outro caminho passado.",
+      "feedbackError": "Com habría..., a aula mostra o que teria mudado naquele outro caminho passado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "rápido",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "fe6e7fb5-e5f6-4889-a89a-1997c77413f5",
+      "sequence": 4,
+      "lessonId": "7601e659-b91b-46e3-8f68-42cf3b57c1f4",
+      "title": "Reconstrua a sequência",
+      "content": "<p>Use só as pistas do espanhol para ligar cada áudio à fala correspondente.</p>",
+      "contentPlain": "Use só as pistas do espanhol para ligar cada áudio à fala correspondente.",
+      "fileUrl": null,
+      "feedbackSuccess": "A sequência do diálogo vai do fato ruim ao arrependimento formulado com ojalá.",
+      "feedbackError": "A sequência do diálogo vai do fato ruim ao arrependimento formulado com ojalá.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "db7d781b-89d2-4b83-8ee1-9bd3c151e913",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/0a438f7158944b0fad5e0ec73ff3baf7_b06-d01-ya-hablaste-con-tu-hermana.mp3?Expires=1794099825&Signature=gKFIvuyrw5W7q-L1mpF4TY~tcLOhawzyFdAPOzR7KnTQs8eu7klt5kPYFMq6x9-FaWN0dx3cCvb4Khfljrg-xiRjgaY2vlc91a~FwdMYQiuzm6czIT0NfovyhWNVe6qIYDke1G59xJJsKLKJ0UG0Lo1kZfw5VqZ~blqb-fJZw27tN6ArwgVWu9fpJO~w26vKfW1v0UOMjZdctxxxA-L9v9WPrmtk6llcaJRmXQKYoWxKlF9N5Q1TyIXOIADTG67s2AauRkWmLpt1MmRy99P1pitrEmDFJT1ONeiWFx~nh9W84bapas60Ysyn-fNdTmWlYfwXqaKaWFSdnEeceTeVig__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Ya hablaste con tu hermana?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "19e6fe91-82ce-467b-8b0f-3d4fa30133af",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/7ab0768080384b61abfa8e3cbf6cb62b_b06-d03-que-pena.mp3?Expires=1794099825&Signature=DDK01Uyhe41CicnnYL5pjQupbLdMmBoug71RvwEQlxDLxik8JRggBcCOh3IHOWb4yhlpSP23JEwAzX0qEnHafgyPxdCm~~aE3UNpqos9u08JIe0nOPgiC8TI1spbRWgbJ8yHkVgrDjMqKEh~9jrej76zpL26~emI-Qpi-EtnHvbaE1WZuKX3vmsSsd3X962gvLytcWYNwvp3ylNUHtc8OQIHEIrvirSrbBgR1TC1cK2Cu0PEP6a5v9wHZAQw8BYci8-QEL-Rw2G99aNsA-DXAb461Pozn28IGhOXc7FKgKiCXHRflRyD1r1JaDtV-Jiz3bCLMruS4FCoaeAc3WIkuA__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Qué pena.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "e2d477a5-67f6-4605-8785-73a912f3fd53",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/b59d2bb488d648f4b783851c4b93d6a7_b04-ojala-no-hubiera-reaccionado-tan-rapido.mp3?Expires=1794099825&Signature=riMVWRiqS06NENzlCQzwspfDMh8S6oDC~RjESE9mCDBinBk6vwr7ykqWBIIlLTMausxLLfI5UFPZUtrYXW0qworeZDPzfJmWMhx4LcdLRCWu1APQzRt8O8lyISqCmxCusaGH9O-rCzhHID80mhCkGQH3iQVOhus9zdwVpdWgIRQT44oCsthd9NR8BvbB9Om~ZFcNLVY4HypsGkEtQv6~ETcwluY~A0yLGeDCCNDJfpENFoiCQjJEEtg5JGyLUVJT6IzbVlzOYjhpgB9C~9IcWjmPZHqZTQY6udWOLBF5-EFqFwgtNuEbH~6xbyKMuwWif65BWFIQD6LhjGIp9h4lnQ__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Ojalá no hubiera reaccionado tan rápido.",
+          "sequenceItem": 3
+        },
+        {
+          "id": "12f2fab9-9890-4bbb-971f-fa5ba459df76",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/08c9d316b5cc49a6a9c3876f74df0d5d_b06-d02-todo-termino-peor-de-lo-que-esperaba.mp3?Expires=1794099825&Signature=IEo-wx2Ig9yhdrYXh9ZLtrhjqlnDjFwFJZfbrCxjSMxWhLQdAfvTLCH3I7taeII-YmVn21RZgnWqsBO-NoQng2~ox7QxGOvYUvbvoBDRwDnUMpUI7hh8WiMal3Nbpnn6upO-D5j-5clWlQwrhHZibjGOguBsComcXW6awzJSU4wwnU1eiijEYgEJEBi6KqHrEL-ls7XuqOxtY4anmhvCjeTCbhhzvGaRJT7uuAGHZonJfZ59CAgJtpO09E0OOS2bNdm5mZIIOsaBgkG6wt3jaFyT2DZamVX5ciY51V4WRcHlDJUurpvfYXKPTbhEIViaBJ39-DvKADLJCCTdQvQo5A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Sí, pero todo terminó peor de lo que esperaba.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "a81af40b-84d9-4400-9fc5-2f8c22b759cb",
+      "sequence": 5,
+      "lessonId": "7601e659-b91b-46e3-8f68-42cf3b57c1f4",
+      "title": "Associe fala e papel",
+      "content": "<p>Ligue cada fala da sequência ao efeito mais preciso que ela produz na conversa.</p>",
+      "contentPlain": "Ligue cada fala da sequência ao efeito mais preciso que ela produz na conversa.",
+      "fileUrl": null,
+      "feedbackSuccess": "No diálogo, o arrependimento só aparece depois que o problema já terminou mal.",
+      "feedbackError": "No diálogo, o arrependimento só aparece depois que o problema já terminou mal.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "071ea04b-408d-4def-802f-3e0561aad643",
+          "text": "",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f2b7bd4c-cc04-4b5e-907f-302d04d0871f",
+          "text": "",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": [
+        {
+          "id": "dc359059-6751-4236-81b6-cc76c8832735",
+          "leftContent": "¿Ya hablaste con tu hermana?",
+          "rightContent": "abre a conversa sobre um fato já encerrado",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d779c960-048b-42fa-8252-8e25fdf0a413",
+          "leftContent": "Sí, pero todo terminó peor de lo que esperaba.",
+          "rightContent": "mostra que o resultado saiu mal",
+          "sequenceItem": 2
+        },
+        {
+          "id": "cba10f66-0a7a-471c-8c8c-a1d6932f14f5",
+          "leftContent": "Qué pena.",
+          "rightContent": "reage com empatia curta",
+          "sequenceItem": 3
+        },
+        {
+          "id": "1f343003-573b-4e9c-9928-2ba6c4767ccf",
+          "leftContent": "Ojalá no hubiera reaccionado tan rápido.",
+          "rightContent": "formula o arrependimento impossível",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "exerciseId": "f31cb764-8969-4ce6-b6a5-d661a2dd8d4c",
+      "sequence": 6,
+      "lessonId": "7601e659-b91b-46e3-8f68-42cf3b57c1f4",
+      "title": "Recupere o auxiliar do arrependimento",
+      "content": "<p>Ojalá _______ revisado el correo antes de salir.</p><p>Tradução: Tomara que eu tivesse revisado o e-mail antes de sair.</p>",
+      "contentPlain": "Ojalá _______ revisado el correo antes de salir. Tradução: Tomara que eu tivesse revisado o e-mail antes de sair.",
+      "fileUrl": null,
+      "feedbackSuccess": "Hubiera ajuda a empurrar o desejo para um passado já fechado.",
+      "feedbackError": "Hubiera ajuda a empurrar o desejo para um passado já fechado.",
+      "answerType": "buildWord",
+      "expectedAnswer": "hubiera",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "96bf59a7-bb05-48f8-91c5-a8df361a9e4e",
+      "sequence": 7,
+      "lessonId": "441d16c7-0271-45da-b42f-b2324158b99a",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: Ojalá hubiera ________ la oferta de Bogotá.</p><p>Tradução: Quem dera eu tivesse aceitado a oferta de Bogotá.</p>",
+      "contentPlain": "Complete a frase em espanhol: Ojalá hubiera ________ la oferta de Bogotá. Tradução: Quem dera eu tivesse aceitado a oferta de Bogotá.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, a forma recuperada nomeia a decisão profissional que ficou para trás.",
+      "feedbackError": "Aqui, a forma recuperada nomeia a decisão profissional que ficou para trás.",
+      "answerType": "buildWord",
+      "expectedAnswer": "aceptado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "b7966a77-6a08-4e9a-b2a1-6d42ceaf037f",
+      "sequence": 8,
+      "lessonId": "7601e659-b91b-46e3-8f68-42cf3b57c1f4",
+      "title": "Recupere a ação lamentada",
+      "content": "<p>Ojalá no hubiera ___________ tan rápido.</p><p>Tradução: Tomara que eu não tivesse reagido tão rápido.</p>",
+      "contentPlain": "Ojalá no hubiera ___________ tan rápido. Tradução: Tomara que eu não tivesse reagido tão rápido.",
+      "fileUrl": null,
+      "feedbackSuccess": "Reaccionado marca a ação que a pessoa gostaria de não ter feito.",
+      "feedbackError": "Reaccionado marca a ação que a pessoa gostaria de não ter feito.",
+      "answerType": "buildWord",
+      "expectedAnswer": "reaccionado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "ac321ae0-b2d8-42e3-8f49-08d747ae8b69",
+      "sequence": 9,
+      "lessonId": "7601e659-b91b-46e3-8f68-42cf3b57c1f4",
+      "title": "Filtre as palavras do recap",
+      "content": "<p>Marque somente as palavras que aparecem no fechamento falado da aula.</p>",
+      "contentPlain": "Marque somente as palavras que aparecem no fechamento falado da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/835bb07f50d641ab8887968d83cbe650_b07-recap-ojala-y-deseo-imposible.mp3?Expires=1794099825&Signature=uWsBizIdOAlKGRf7E-4HetVtwcQ6cmbzgBY2MQm4YLXNDhT8ytiiTOSXRuxtN2aHnTllZw2zBvzP3KvSx4A5-NuRyhvk63phkjkys~iAKRxERwIahanuqN5RIsAzOPUOFNVjngiheiTJrjeNAp~wWPDEKttAxc7BJ4mszRRolCxvz6KxillZeNGIU~gLcBTBL21uFiXKLHXYmZQT1fwT6kMDp-DiB95Wk4AUpxxX~w3BbZzKA5XTPPZqp~pl8~DUYVtkY-a4R6S3eA~20he3gQz9GcGx7ROjo3ZlgNA5ddSCTyiMhMQPEx1fMlOeVdQrz08gW3Iu2~yue6KUpOkl1Q__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap leva ojalá para situações reais já impossíveis de mudar.",
+      "feedbackError": "O recap leva ojalá para situações reais já impossíveis de mudar.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "00131641-95ca-47fe-819f-2db2bd4215d7",
+          "text": "hermana",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "39f68871-fbf3-4a1d-8114-1ff3d9bdbef2",
+          "text": "cambiar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "5df53d17-df04-4e75-b4c6-1545da26e40a",
+          "text": "pena",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6f6e3614-ea15-4551-afa1-acfa2a34186e",
+          "text": "mirar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "77baec85-3345-4227-9462-f5e219b0f4d7",
+          "text": "vida",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "812647a9-baa8-4e5e-a3ec-38b09bc6e07f",
+          "text": "correo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8a84726a-0445-4ec9-bc76-cadc2d917ed1",
+          "text": "mensaje",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8afff993-9760-4983-b50c-63b874c5e184",
+          "text": "reaccionado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "95b94b7c-d1e3-44a7-b345-d722693e600f",
+          "text": "rápido",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "a80dca52-5740-4b19-8cd3-0811cdb2eb1b",
+          "text": "estructura",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c1a1c35c-68a5-4ef9-9e1a-213a80255b6e",
+          "text": "esperaba",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "c2a4b0f3-5273-4295-b303-307ee1d94e11",
+          "text": "real",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "24dc06ac-3b5c-48a1-803d-26e9a89e6327",
+      "sequence": 10,
+      "lessonId": "441d16c7-0271-45da-b42f-b2324158b99a",
+      "title": "Reconstrua o diálogo pelo som",
+      "content": "<p>Associe cada áudio à linha certa do diálogo, sem apoio em português.</p>",
+      "contentPlain": "Associe cada áudio à linha certa do diálogo, sem apoio em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, o diálogo reconstrói perguntas e comentário sobre o que teria sido diferente.",
+      "feedbackError": "Aqui, o diálogo reconstrói perguntas e comentário sobre o que teria sido diferente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "options": [],
+      "associations": [
+        {
+          "id": "22f93863-e966-4e60-888f-5fc66dd31480",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/e8360108a068441db05c97a576679c8a_phase4-b06-d01-todavia-piensas-en-esa-oferta.mp3?Expires=1794099825&Signature=DTUMDO~4HzghaXnHi7mGL-P9y7oUum5XfTqxDfZ53f3wwUTJW-EFfYRds4eg7EY2gyhUDFCBQsVSbewiH91-jr6cBYlc~Zfw-NBZgDBQnKNOZI4R2zqGiSEpkBzgJ9Qey5Boi55Y-cm07wDkLEbxT2vQQxlLgOqwowkmSo~LcSJFAGkoHdxex1LzcGsJTzXSSq65Pz1UfiHyyMl54vI5ktLBDl4giPzjYghrcuXIqSqbVSpRZjUTe2JNM4hRUg6sZlMF8Aour8ZeV1cBM7Y12gX1ZBJxyeU9J1S0ELVEVW5fndtMlgt-Vzup5aoBLaGl9CW3XebRkEuNe-usT7iWug__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Todavía piensas en esa oferta?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "a1cf57c4-aabf-40a8-a7b9-f2221d2e3236",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/9f5d264e4af94f82a72eb36769d2922b_phase4-b06-d03-que-habria-cambiado-para-ti.mp3?Expires=1794099825&Signature=XXcqnX2P7b~GdAA4xXou2qMQgKfj8-TkxTPrYjwj~5exuBpGgxfAyPgaq2AIga2lpCiZLXcA389NlwbAzXu6JbCxUO7RxA73lvj9eC92EbWgW1QJGaWzRekr4liJt23RUMFQwjJ--6l61BxfaasJRK2swbaa4hGARXg9PK5K9ilTzkiI8T~LpOFvMO3OKd5wFV5mxc~7919RGwsPBQK~4G2uo1fUHTP0S-K86u1JYEgeK-WBlEgUuBNip4d-cXIjn1URdHjRTWzqrTKj0q~~~MZ287OOVWH86hVixnUbJuATk9YZWOTEH2KL3cTeww2ck1XHIPOTeUtHf7wrJEfuEg__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "¿Qué habría cambiado para ti?",
+          "sequenceItem": 2
+        },
+        {
+          "id": "075721e4-bad2-4c70-889c-0e3f3c058c3a",
+          "leftContent": "https://d2tew3rxpxsvy8.cloudfront.net/content/fc7bc5ad83b04b82a4cc045b40feb055_phase4-b06-d05-no-piensas-solo-en-la-oferta.mp3?Expires=1794099825&Signature=oC2l--2d-oFFyswQYSWBLoO2fo3HqkiEt8e3b4KnTI0BMfWMciLnT3-dg-wqxS~o1x~~MQJn1rWBzmhSqNvUbUgFGceuD5lxyaCRbnsDo0OEwy~BRBhanpStCemGnXu~uXVgvot6Pak3qHeHzemgUlMe-lQqz2m8s2GvJkeSttqzvlrNIUOaj~Cs1eSmUqAQwexJvRZP03oUADoeh74-6s-zVmjQS5xPS5hQsTW8wiJjLIRi1gcL7MM1T67c2ck57j4D-fCrQ7th8u4w0~NqS5GNQmknOdyHe8Ve7jPGInZZ5paCgzk11nw4azVwoX~1LJFmlG2BvkdTDhdM8YUr6A__&Key-Pair-Id=K26R6VFB46REEJ",
+          "rightContent": "Claro. No piensas solo en la oferta, sino en todo lo que habría cambiado.",
+          "sequenceItem": 3
+        }
+      ]
+    },
+    {
+      "exerciseId": "19052181-f7b6-4a6c-87aa-4eed218abefb",
+      "sequence": 11,
+      "lessonId": "d9f3ee5d-150e-4b3a-ae1a-9bcea9145ee5",
+      "title": "Recupere a lição final",
+      "content": "<p>Ahora sé que pedir ayuda a tiempo evita muchos _______.</p><p>Tradução: Agora sei que pedir ajuda a tempo evita muitos erros.</p>",
+      "contentPlain": "Ahora sé que pedir ayuda a tiempo evita muchos _______. Tradução: Agora sei que pedir ajuda a tempo evita muitos erros.",
+      "fileUrl": null,
+      "feedbackSuccess": "O fechamento com ahora sé que... transforma o arrependimento em uma lição útil para a próxima situação.",
+      "feedbackError": "O fechamento com ahora sé que... transforma o arrependimento em uma lição útil para a próxima situação.",
+      "answerType": "buildWord",
+      "expectedAnswer": "errores",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "6eee8c5e-5fc4-4215-9d11-5cd23b26220e",
+      "sequence": 12,
+      "lessonId": "d9f3ee5d-150e-4b3a-ae1a-9bcea9145ee5",
+      "title": "Filtre o vocabulário do recap",
+      "content": "<p>Marque somente as palavras que você ouve no fechamento falado da aula.</p>",
+      "contentPlain": "Marque somente as palavras que você ouve no fechamento falado da aula.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/c593353f25fc4c148a1a164c76b2b2cc_phase4-b09-cierre-en-la-vida-real.mp3?Expires=1794099825&Signature=X-HgZES3kd7lHQL9Si3I13JCF~1WV-U~DtRlNBIVylHYfHY3S7QSHb8DLhWuQzimC0iAWtnW9ZZjB7fC-xsrEv6V-ErIugbJdw~PI3wc~N8NpYy2ApVwFBddpC0GUcFvltbUESuuQJwKTFc6fDESm138PyMyd3PwW1xjfjlsQbTzxGXlErBfCzP315YdJSCfWHFLgxA3mrFMWM~8cW3EBtHFEuEsF4HGAHWZqviALkdV2uCbJUGKxTQeuZDYuY~XNyFJAr0pXIPiJlEniJgpcprhrYVu1CQpS9QrX6~DYNVtXIIHzT4QB6YvDgobxJNVEa-QWZW7eulywK0FLTeFeQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "O recap final amplia a reflexão para projeto, exame e conversa difícil sem perder o trio central da aula.",
+      "feedbackError": "O recap final amplia a reflexão para projeto, exame e conversa difícil sem perder o trio central da aula.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "15a89561-f043-40fb-b764-a89c24306edd",
+          "text": "conversación",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "3a75e411-edd1-400b-ab2f-2aa6c9049ac7",
+          "text": "ciudad",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "4f9ee50a-3836-4e35-98ea-b2d5cb256379",
+          "text": "tiempo",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "6f3c201d-cee9-419f-a5a7-a3b043604822",
+          "text": "difícil",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "8de55d83-7900-4ec2-aa24-c283274f9395",
+          "text": "reunión",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "964319e7-2b89-42d8-8eeb-34fcff74b58f",
+          "text": "proyecto",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "aa6f8701-d736-4f5f-8be6-8df44ae6dbc8",
+          "text": "examen",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b88acc0c-e3e4-44ab-bd45-d54d7b569021",
+          "text": "oferta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d1e63ac6-9c89-4bd9-b4c2-0bdf2139fbd8",
+          "text": "errores",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f7eb2cf0-4eb5-4a33-9d0e-c4f661104178",
+          "text": "arrepentimiento",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "14a61a0d-2a8f-43c4-845d-dac095b2608d",
+      "sequence": 13,
+      "lessonId": "441d16c7-0271-45da-b42f-b2324158b99a",
+      "title": "Ouça o áudio e selecione as palavras",
+      "content": "<p>Escute a consequência imaginada e marque somente as palavras que aparecem no áudio.</p>",
+      "contentPlain": "Escute a consequência imaginada e marque somente as palavras que aparecem no áudio.",
+      "fileUrl": "https://d2tew3rxpxsvy8.cloudfront.net/content/45b0498195c643a78fb9dfe0237dca7d_phase4-b04-habria-ganado-experiencia-internacional.mp3?Expires=1794099825&Signature=pcC0lc6n-t8ILcUN2~SOBu8Hbfj2acv3OPvv16AalWH8Ne~Qqq~6gudZJw8cavw0-r0qXruWscwYMZh12u0U5pqAnaF188Bd18fNEBpNSXlj8OQ82ITFecUFc8tVhUAGDtNUivn9CsmRDbbierDmCamVTREqVpHE2D8f1YdCLb69zhYngIgPiEm7lQ32orXPg-DkU2uzHHbib~JOo9z7xE5ThouQ9xZulzkN~b7vYaRbcE4dW0rg6f96mzl6OMNcjjenUx8fykn0BmzJEScbrcoaq2mbpol81nt6uMTTQ-pvOyxwRh1l5kvA5T5p3yHFz1QeqG7fJcqFeQt1xN6rZQ__&Key-Pair-Id=K26R6VFB46REEJ",
+      "feedbackSuccess": "Aqui, a escuta seletiva destaca o resultado imaginado da alternativa passada.",
+      "feedbackError": "Aqui, a escuta seletiva destaca o resultado imaginado da alternativa passada.",
+      "answerType": "audioIdentification",
+      "expectedAnswer": "",
+      "typeSpecificData": null,
+      "options": [
+        {
+          "optionId": "232ea2a9-4e51-475e-8961-05bb2def3ee8",
+          "text": "Bogotá",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "57da7989-4b94-4850-97b7-082a8c935f35",
+          "text": "seguridad",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "90749c36-f7c9-4883-aced-bfb304332028",
+          "text": "habría",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b0f56d3a-172d-455e-a491-3d9c0a41db36",
+          "text": "aceptado",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "b42da115-0fa8-4901-81d7-fd0f984477ef",
+          "text": "ganado",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "beca8465-23a2-4c4d-b387-ab8f5ae2b6a6",
+          "text": "experiencia",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "d4fdc557-8fe0-4faa-b871-be5e341e956e",
+          "text": "área",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "db56364e-af22-4c0e-8824-4151a1fac2ef",
+          "text": "internacional",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f53a2a6d-64f5-4038-acfe-30187d6456b9",
+          "text": "oferta",
+          "isCorrect": false,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "optionId": "f72161c1-fef4-46f3-b30a-72752c765b01",
+          "text": "cambiar",
+          "isCorrect": true,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "exerciseId": "8b78e3b4-6c04-4a32-8b9b-0ccd5c5965d4",
+      "sequence": 14,
+      "lessonId": "441d16c7-0271-45da-b42f-b2324158b99a",
+      "title": "Monte a palavra",
+      "content": "<p>Complete a frase em espanhol: ¿Qué habría ________ para ti?</p><p>Tradução: O que teria mudado para você?</p>",
+      "contentPlain": "Complete a frase em espanhol: ¿Qué habría ________ para ti? Tradução: O que teria mudado para você?",
+      "fileUrl": null,
+      "feedbackSuccess": "Aqui, a pergunta puxa o efeito que teria mudado depois da decisão.",
+      "feedbackError": "Aqui, a pergunta puxa o efeito que teria mudado depois da decisão.",
+      "answerType": "buildWord",
+      "expectedAnswer": "cambiado",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    },
+    {
+      "exerciseId": "3c239ca0-e50f-4835-9ee3-eea2cc93234b",
+      "sequence": 15,
+      "lessonId": "d9f3ee5d-150e-4b3a-ae1a-9bcea9145ee5",
+      "title": "Recupere o verbo do lamento",
+      "content": "<p>Ojalá hubiera ______ ayuda antes.</p><p>Tradução: Tomara que eu tivesse pedido ajuda antes.</p>",
+      "contentPlain": "Ojalá hubiera ______ ayuda antes. Tradução: Tomara que eu tivesse pedido ajuda antes.",
+      "fileUrl": null,
+      "feedbackSuccess": "O lamento da aula ganha forma com hubiera + particípio para olhar para o passado de outro jeito.",
+      "feedbackError": "O lamento da aula ganha forma com hubiera + particípio para olhar para o passado de outro jeito.",
+      "answerType": "buildWord",
+      "expectedAnswer": "pedido",
+      "typeSpecificData": null,
+      "options": [],
+      "associations": []
+    }
+  ]
+}
