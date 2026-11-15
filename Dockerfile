@@ -21,6 +21,19 @@ RUN --mount=type=secret,id=audio-drive_b64 --mount=type=tmpfs,target=/run/audio-
       python -m zipfile -e originals.zip /opt/talk2me-audio; \
     fi
 
+# Keep the reference lesson ready even after the Free instance sleeps.
+COPY deploy/preloaded-visuals.md5 /opt/preloaded-visuals.md5
+RUN --mount=type=secret,id=audio-drive_b64 --mount=type=tmpfs,target=/run/visual-build \
+    set -eu; mkdir -p /opt/talk2me-visuals; \
+    if [ -f /run/secrets/audio-drive_b64 ]; then \
+      cd /opt/talk2me-visuals; base64 -d /run/secrets/audio-drive_b64 > /run/visual-build/rclone.conf; \
+      while read -r digest name; do \
+        rclone copyto --config /run/visual-build/rclone.conf --retries 5 --retries-sleep 5s \
+          "talk2me-drive:talk2me/media_all/$name" "$name"; \
+      done < /opt/preloaded-visuals.md5; \
+      md5sum -c /opt/preloaded-visuals.md5; \
+    fi
+
 WORKDIR /app
 
 # Copia arquivos da aplicação

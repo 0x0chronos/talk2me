@@ -275,7 +275,7 @@ def norm_exercise(ex, phase):
     }
 
 
-def load_item(iid):
+def load_item(iid, prepare_visuals=False):
     meta = ITEMS.get(iid)
     if not meta:
         return None
@@ -306,6 +306,9 @@ def load_item(iid):
         lst = d.get(key) or []
         out["exercises"].extend(sorted((norm_exercise(e, phase) for e in lst), key=lambda e: e["seq"]))
     refs = set(re.findall(r'/m/([^\s"<>]+)', json.dumps(out, ensure_ascii=False)))
+    if prepare_visuals:
+        ordered = sorted(refs, key=lambda name: not name.lower().endswith('.mp4'))
+        media_store.prepare_visuals('media_all/' + name for name in ordered)
     missing = sum("media_all/" + name not in media_store.INDEX for name in refs)
     out['availability'] = {'total': len(refs), 'missing': missing}
     out['estimatedMinutes'] = max(1, round(len(out['contents']) * 0.7 + len(out['exercises']) * 0.5))
@@ -522,7 +525,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             })
 
         if path.startswith("/api/lesson/"):
-            data = load_item(urllib.parse.unquote(path[len("/api/lesson/"):]))
+            data = load_item(urllib.parse.unquote(path[len("/api/lesson/"):]), prepare_visuals=True)
             if not data:
                 return self.send_json({"error": "not found"}, 404)
             return self.send_json(data)

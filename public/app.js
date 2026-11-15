@@ -1295,50 +1295,48 @@ function exMatch(ex, ctx) {
   const pairs = ex.pairs || [];
   let leftSel = null, rightSel = null;
   const matched = new Set();
-  const leftCol = h('div', { class: 'mcol' });
-  const rightCol = h('div', { class: 'mcol' });
+  const isAudioText = t => /\.(mp3|wav|ogg)(\?|$)/i.test(t || '');
+  const leftIsAudio = pairs.some(p => isAudioText(p.left));
+  const rightIsAudio = pairs.some(p => isAudioText(p.right));
+  const colName = (aud, side) => aud ? 'Áudios' : (leftIsAudio !== rightIsAudio ? 'Frases' : (side === 'l' ? 'Coluna A' : 'Coluna B'));
+  const leftCol = h('div', { class: 'mcol', role: 'group', 'aria-label': colName(leftIsAudio, 'l') },
+    h('div', { class: 'mcol-label' }, colName(leftIsAudio, 'l')));
+  const rightCol = h('div', { class: 'mcol', role: 'group', 'aria-label': colName(rightIsAudio, 'r') },
+    h('div', { class: 'mcol-label' }, colName(rightIsAudio, 'r')));
+  const hint = h('p', { class: 'match-hint' }, leftIsAudio && !rightIsAudio
+    ? 'Toque em um áudio para ouvir. Depois, escolha a frase correspondente na coluna ao lado.'
+    : 'Escolha um item de cada coluna para formar um par. Toque nos áudios para ouvir.');
+  let checking = false;
+  const progressEl = h('p', { class: 'match-progress', 'aria-live': 'polite' }, `0 de ${pairs.length} pares`);
 
   const L = pairs.map(p => ({ text: p.left, id: p.seq }));
   const R = shuffle(pairs.map(p => ({ text: p.right, id: p.seq })));
 
-  const lBtns = L.map(item => {
-    const isAud = /\.(mp3|wav|ogg)(\?|$)/i.test(item.text);
-    const b = h('button', {
-      type: 'button',
-      class: 'opt m-opt',
-      onclick: () => {
-        if (matched.has(item.id)) return;
-        lBtns.forEach(x => x.classList.remove('on'));
-        b.classList.add('on');
-        leftSel = item;
-        checkPair();
-      }
+  function makeButtons(items, column, select) {
+    return items.map((item, index) => {
+      const audio = isAudioText(item.text);
+      const button = h('button', {
+        type: 'button', class: 'opt m-opt', 'aria-pressed': 'false',
+        onclick: () => {
+          if (checking || matched.has(item.id)) return;
+          if (audio) playAudio(item.text, button);
+          for (const prior of column.querySelectorAll('.on')) {
+            prior.classList.remove('on');
+            prior.setAttribute('aria-pressed', 'false');
+          }
+          button.classList.add('on');
+          button.setAttribute('aria-pressed', 'true');
+          select(item);
+          checkPair();
+        }
+      }, audio ? icon('volume', 'sm') : null,
+      h('span', {}, audio ? 'Áudio ' + (index + 1) : item.text));
+      column.append(button);
+      return button;
     });
-    if (isAud) b.append(audioBtn(item.text, '', 'sm'));
-    b.append(h('span', {}, isAud ? 'Ouvir' : item.text));
-    leftCol.append(b);
-    return b;
-  });
-
-  const rBtns = R.map(item => {
-    const isAud = /\.(mp3|wav|ogg)(\?|$)/i.test(item.text);
-    const b = h('button', {
-      type: 'button',
-      class: 'opt m-opt',
-      onclick: () => {
-        if (matched.has(item.id)) return;
-        rBtns.forEach(x => x.classList.remove('on'));
-        b.classList.add('on');
-        rightSel = item;
-        checkPair();
-      }
-    });
-    if (isAud) b.append(audioBtn(item.text, '', 'sm'));
-    b.append(h('span', {}, isAud ? 'Ouvir' : item.text));
-    rightCol.append(b);
-    return b;
-  });
-
+  }
+  const lBtns = makeButtons(L, leftCol, item => { leftSel = item; });
+  const rBtns = makeButtons(R, rightCol, item => { rightSel = item; });
   function checkPair() {
     if (!leftSel || !rightSel) return;
     const ok = leftSel.id === rightSel.id;
@@ -1346,19 +1344,28 @@ function exMatch(ex, ctx) {
     const rEl = rBtns[R.findIndex(x => x === rightSel)];
     if (ok) {
       matched.add(leftSel.id);
-      lEl.classList.remove('on'); lEl.classList.add('right'); lEl.disabled = true;
-      rEl.classList.remove('on'); rEl.classList.add('right'); rEl.disabled = true;
+      const num = String(matched.size);
+      [lEl, rEl].forEach(el => {
+        el.classList.remove('on'); el.classList.add('right'); el.disabled = true;
+        el.setAttribute('aria-pressed', 'false');
+        el.prepend(h('span', { class: 'pair-num', 'aria-label': 'par ' + num }, num));
+      });
+      progressEl.textContent = `${matched.size} de ${pairs.length} pares`;
       leftSel = rightSel = null;
       if (matched.size === pairs.length) {
         ctx.ready(true);
         ctx.submit();
       }
     } else {
+      checking = true;
+      progressEl.textContent = 'Esses itens não formam um par. Tente novamente.';
       lEl.classList.add('wrong');
       rEl.classList.add('wrong');
       setTimeout(() => {
         lEl.classList.remove('wrong', 'on');
         rEl.classList.remove('wrong', 'on');
+        [lEl, rEl].forEach(el => el.setAttribute('aria-pressed', 'false'));
+        checking = false;
         leftSel = rightSel = null;
       }, 550);
     }
@@ -1367,7 +1374,9 @@ function exMatch(ex, ctx) {
   return {
     el: h('div', {},
       prompt(ex, 'Combine os pares correspondentes'),
-      h('div', { class: 'cols' }, leftCol, rightCol)
+      hint,
+      progressEl,
+      h('div', { class: 'cols match-cols' + (leftIsAudio && !rightIsAudio ? ' audio-first' : '') }, leftCol, rightCol)
     ),
     check: () => ({ correct: matched.size === pairs.length })
   };

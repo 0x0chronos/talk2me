@@ -3,6 +3,7 @@ import hashlib
 import json
 import logging
 import os
+import queue
 import shutil
 import subprocess
 import tempfile
@@ -14,6 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 INDEX = json.loads((ROOT / 'media-index.json').read_text(encoding='utf8'))
 CACHE = Path(os.getenv('TALK2ME_CACHE_DIR', ROOT / '.drive-cache')).resolve()
+PACKAGED_VISUALS = Path("/opt/talk2me-visuals")
 PACKAGED_AUDIO = Path("/opt/talk2me-audio")
 LIMIT = int(os.getenv('TALK2ME_CACHE_MB', '2048')) * 1024 * 1024
 REMOTE = os.getenv('TALK2ME_DRIVE', 'talk2me-drive:talk2me').rstrip('/')
@@ -89,6 +91,11 @@ def media_file(key):
         if valid(original, size, digest):
             yield original
             return
+    elif key.startswith('media_all/'):
+        original = PACKAGED_VISUALS / Path(key).name
+        if valid(original, size, digest):
+            yield original
+            return
     dest = CACHE / (digest + '.blob')
     with LOCK:
         ACTIVE[dest] = ACTIVE.get(dest, 0) + 1
@@ -119,3 +126,37 @@ def media_file(key):
         if CACHE.exists() and time.monotonic() >= getattr(evict,'next_check',0):
             evict.next_check = time.monotonic() + 10
             evict()
+
+
+# One background reader leaves the remaining Drive transfer slots for student requests.
+_warm_queue = queue.Queue(maxsize=12)
+_warming = set()
+_warm_thread = None
+
+def _warm_visuals():
+    while True:
+        key = _warm_queue.get()
+        try:
+            with media_file(key):
+                pass
+        except OSError:
+            pass  # Normal requests retry via the same verified cache.
+        finally:
+            with LOCK:
+                _warming.discard(key)
+            _warm_queue.task_done()
+
+def prepare_visuals(keys):
+    global _warm_thread
+    with LOCK:
+        for key in keys:
+            if key not in INDEX or key in _warming or key.endswith('.mp3'):
+                continue
+            try:
+                _warm_queue.put_nowait(key)
+            except queue.Full:
+                break
+            _warming.add(key)
+        if _warming and _warm_thread is None:
+            _warm_thread = threading.Thread(target=_warm_visuals, daemon=True)
+            _warm_thread.start()
