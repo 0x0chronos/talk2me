@@ -68,6 +68,10 @@ def download(key, dest, size, digest):
         part = Path(tmp) / 'payload'
         command = [executable(), 'copyto', REMOTE + '/' + key, str(part),
                    '--retries','2','--low-level-retries','3','--contimeout','10s','--timeout','45s']
+        if key.endswith('.mp4') and size >= 32 * 1024 * 1024:
+            # Fetch ranges of large originals concurrently into the same temporary file.
+            command.extend(['--multi-thread-cutoff', '32M', '--multi-thread-streams', '3',
+                            '--buffer-size', '1M'])
         subprocess.run(command, check=True, timeout=240, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         if not valid(part, size, digest):
             raise OSError('Mídia recebida diverge do índice')

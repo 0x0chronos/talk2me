@@ -44,7 +44,6 @@ async function saveFiles(cache, paths, onSaved) {
       }
     }
   }
-  // Match the three concurrent transfers supported by the Drive origin.
   await Promise.all(Array.from({length: Math.min(3, queue.length)}, worker));
   if (firstError) throw firstError;
 }
@@ -85,11 +84,17 @@ async function downloadLesson(d, button) {
     const cache = await caches.open(offlineCache);
     const paths = new Set(JSON.stringify(d).match(/\/m\/[^"\s<>\\]+/g) || []);
     let done = 0;
+    const files = [...paths];
+    const visual = files.filter(path => !path.endsWith('.mp3'));
+    // Start large videos first; audio comes from Render independently of Drive.
+    visual.sort((a, b) => Number(b.endsWith('.mp4')) - Number(a.endsWith('.mp4')));
+    const onSaved = () => {
+      button.textContent = `Preparando aula: ${++done}/${paths.size}…`;
+    };
     const results = await Promise.allSettled([
       prepareOffline(),
-      saveFiles(cache, paths, () => {
-        button.textContent = `Preparando aula: ${++done}/${paths.size}…`;
-      })
+      saveFiles(cache, visual, onSaved),
+      saveFiles(cache, files.filter(path => path.endsWith('.mp3')), onSaved)
     ]);
     for (const result of results) {
       if (result.status === 'rejected') throw result.reason;
