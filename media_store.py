@@ -14,6 +14,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 INDEX = json.loads((ROOT / 'media-index.json').read_text(encoding='utf8'))
 CACHE = Path(os.getenv('TALK2ME_CACHE_DIR', ROOT / '.drive-cache')).resolve()
+PACKAGED_AUDIO = Path("/opt/talk2me-audio")
 LIMIT = int(os.getenv('TALK2ME_CACHE_MB', '2048')) * 1024 * 1024
 REMOTE = os.getenv('TALK2ME_DRIVE', 'talk2me-drive:talk2me').rstrip('/')
 LOCK = threading.RLock()
@@ -79,6 +80,11 @@ def media_file(key):
     if key not in INDEX:
         raise FileNotFoundError(key)
     size, digest = INDEX[key]
+    if key.endswith('.mp3'):
+        original = PACKAGED_AUDIO / (digest + '.mp3')
+        if valid(original, size, digest):
+            yield original
+            return
     dest = CACHE / (digest + '.blob')
     with LOCK:
         ACTIVE[dest] = ACTIVE.get(dest, 0) + 1
@@ -93,6 +99,7 @@ def media_file(key):
                     retry_after.pop(key, None)
                 except (OSError, subprocess.SubprocessError) as error:
                     if time.monotonic() >= retry_after.get(key, 0):
+                        LOG.warning('Drive fetch failed for %s (%s, exit=%s)', key, type(error).__name__, getattr(error, 'returncode', None))
                         retry_after[key] = time.monotonic() + 5
                     source = ROOT / key
                     if os.getenv('TALK2ME_LOCAL_FALLBACK','1') != '1' or not valid(source, size, digest):

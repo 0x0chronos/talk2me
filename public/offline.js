@@ -7,14 +7,24 @@ async function saveMissing(cache, path) {
   const saving = (async () => {
     const saved = await cache.match(path, {ignoreVary: true});
     if (saved?.status === 200) return;
-    let response = await fetch(path);
-    if (response.status === 503 && path.startsWith('/m/')) {
-      const seconds = Number(response.headers.get('Retry-After')) || 5;
+    const media = path.startsWith('/m/');
+    const attempts = media ? 5 : 1;
+    for (let attempt = 1; attempt <= attempts; attempt++) {
+      let response;
+      try {
+        response = await fetch(path);
+        if (response.status === 200) {
+          await cache.put(path, response);
+          return;
+        }
+      } catch (error) {
+        if (!(error instanceof TypeError)) throw error;
+      }
+      const transient = !response || [408, 429, 500, 502, 503, 504].includes(response.status);
+      if (!transient || attempt === attempts) throw Error('Um arquivo ficou indisponível. Os arquivos já salvos serão reaproveitados.');
+      const seconds = Number(response?.headers.get('Retry-After')) || 2 ** attempt;
       await new Promise(resolve => setTimeout(resolve, Math.min(60, seconds) * 1000));
-      response = await fetch(path);
     }
-    if (response.status !== 200) throw Error('Um arquivo ficou indisponível. Tente baixar novamente.');
-    await cache.put(path, response);
   })();
   pendingFiles.set(path, saving);
   try { await saving; } finally { pendingFiles.delete(path); }

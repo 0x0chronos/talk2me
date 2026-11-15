@@ -9,6 +9,18 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 # Driver libSQL para integração nativa com Turso (embedded replica / nuvem)
 RUN pip install --no-cache-dir libsql-experimental
 
+# Render mounts the Drive credential only during this step. Keep the audio
+# outside the public directory so the normal session check still applies.
+RUN --mount=type=secret,id=audio-drive_b64 --mount=type=tmpfs,target=/run/audio-build \
+    set -eu; mkdir -p /opt/talk2me-audio; \
+    if [ -f /run/secrets/audio-drive_b64 ]; then \
+      cd /run/audio-build; base64 -d /run/secrets/audio-drive_b64 > rclone.conf; \
+      rclone copyto --config ./rclone.conf --retries 5 --drive-chunk-size 8M \
+        talk2me-drive:talk2me/offline-packs/original-audio-v1.zip originals.zip; \
+      echo '1a2e58dc2cc219c4b9bd6681b8cc1b8a2faeac2265276c23e282e5edba9db8b8  originals.zip' | sha256sum -c -; \
+      python -m zipfile -e originals.zip /opt/talk2me-audio; \
+    fi
+
 WORKDIR /app
 
 # Copia arquivos da aplicação

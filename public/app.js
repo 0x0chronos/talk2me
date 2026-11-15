@@ -169,7 +169,6 @@ const ThemeManager = {
 
 /* ------------------------------------------------ Áudio & Motor de Reprodução */
 let activeAudio = null;
-let activePlayPromise = null;
 let dlgSeqToken = 0;
 
 function stopAudio() {
@@ -180,14 +179,10 @@ function stopAudio() {
   if (activeAudio) {
     const a = activeAudio;
     activeAudio = null;
-    if (activePlayPromise) {
-      activePlayPromise.then(() => {
-        try { a.pause(); a.currentTime = 0; } catch (e) {}
-      }).catch(() => {});
-      activePlayPromise = null;
-    } else {
-      try { a.pause(); a.currentTime = 0; } catch (e) {}
-    }
+    a.onended = a.onerror = null;
+    a.pause();
+    a.removeAttribute('src');
+    a.load();
   }
 }
 
@@ -208,14 +203,17 @@ function playAudio(src, btn, rate = 1.0) {
 
   a.onended = cleanup;
   a.onerror = (e) => {
+    if (activeAudio !== a) return;
     console.warn('Falha no áudio:', src, e);
     mediaFailure(btn, () => playAudio(src, btn, rate));
     cleanup();
   };
 
-  activePlayPromise = a.play();
-  return activePlayPromise.catch(err => {
-    mediaFailure(btn, () => playAudio(src, btn, rate));
+  return a.play().catch(err => {
+    if (activeAudio !== a) return;
+    if (err.name !== 'NotAllowedError' && err.name !== 'AbortError') {
+      mediaFailure(btn, () => playAudio(src, btn, rate));
+    }
     // Captura bloqueio de autoplay sem quebrar o fluxo da aula
     cleanup();
   });
@@ -1103,7 +1101,9 @@ function parseVTT(txt) {
 
 function playDialogueAll(bubbles, nodes, playAllBtn) {
   stopAudio();
-  const tok = ++dlgSeqToken;
+  const tok = dlgSeqToken;
+  const audio = new Audio();
+  activeAudio = audio;
   playAllBtn.classList.add('playing');
   let idx = 0;
   const next = () => {
@@ -1111,17 +1111,19 @@ function playDialogueAll(bubbles, nodes, playAllBtn) {
     nodes.forEach(n => n.classList.remove('active'));
     while (idx < bubbles.length && !bubbles[idx].audioUrl) idx++;
     if (idx >= bubbles.length) {
+      activeAudio = null;
       playAllBtn.classList.remove('playing');
       return;
     }
     const b = bubbles[idx], node = nodes[idx];
     idx++;
     node.classList.add('active');
-    AU.src = b.audioUrl;
-    AU.currentTime = 0;
-    AU.playbackRate = 1.0;
-    AU.onended = AU.onerror = () => setTimeout(next, 280);
-    AU.play().catch(() => {
+    audio.src = b.audioUrl;
+    audio.onended = () => setTimeout(next, 280);
+    audio.play().catch(error => {
+      if (activeAudio !== audio) return;
+      activeAudio = null;
+      if (error.name !== 'NotAllowedError') mediaFailure(playAllBtn, () => playDialogueAll(bubbles, nodes, playAllBtn));
       playAllBtn.classList.remove('playing');
       node.classList.remove('active');
     });
@@ -1191,13 +1193,11 @@ function renderContent(c) {
         class: 'bub' + (n % 2 ? ' r' : ''),
         onclick: () => {
           if (!b.audioUrl) return;
-          nodes.forEach(x => x.classList.remove('active'));
+          playAudio(b.audioUrl, btn);
           row.classList.add('active');
-          playAudio(b.audioUrl, btn).then(() => {});
-          AU.onended = () => {
-            if (btn) btn.classList.remove('playing');
-            row.classList.remove('active');
-          };
+          const clearRow = () => row.classList.remove('active');
+          activeAudio?.addEventListener('ended', clearRow, {once:true});
+          activeAudio?.addEventListener('error', clearRow, {once:true});
         }
       }, btn, h('div', { class: 'b', html: b.text || '' }));
       nodes.push(row);
