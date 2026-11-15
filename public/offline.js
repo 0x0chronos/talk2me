@@ -1,27 +1,87 @@
-const offlineCache='talk2me-offline-v1';
-async function prepareOffline(){
-  if(!('serviceWorker' in navigator)||!window.isSecureContext)return;
+const offlineCache = 'talk2me-offline-v1';
+const pendingFiles = new Map();
+let preparingOffline;
+
+async function saveMissing(cache, path) {
+  if (pendingFiles.has(path)) return pendingFiles.get(path);
+  const saving = (async () => {
+    const saved = await cache.match(path, {ignoreVary: true});
+    if (saved?.status === 200) return;
+    const response = await fetch(path);
+    if (response.status !== 200) throw Error('Um arquivo ficou indisponível. Tente baixar novamente.');
+    await cache.put(path, response);
+  })();
+  pendingFiles.set(path, saving);
+  try { await saving; } finally { pendingFiles.delete(path); }
+}
+
+async function saveFiles(cache, paths, onSaved) {
+  const queue = Array.from(new Set(paths));
+  let next = 0;
+  async function worker() {
+    while (next < queue.length) {
+      await saveMissing(cache, queue[next++]);
+      if (onSaved) onSaved();
+    }
+  }
+  // Match the three concurrent transfers supported by the Drive origin.
+  await Promise.all(Array.from({length: Math.min(3, queue.length)}, worker));
+}
+
+async function cacheStudyResources() {
   await navigator.serviceWorker.register('/sw.js');
   await navigator.serviceWorker.ready;
-  const cache=await caches.open(offlineCache);
-  const resources=['/video-presentation.js','/','/styles.css?v=20261109_06','/talk2me.css','/data.js','/app.js?v=accounts1','/platform.js?v=1','/offline.js','/api/auth/config','/api/profile','/api/tree?lang=es'];
-  for(const path of resources){const r=await fetch(path);if(r.ok)await cache.put(path,r);}
-  // Fonts are fully local; include the font files referenced by the stylesheet.
-  const css=await (await fetch('/styles.css?v=20261109_06')).text();
-  for(const match of css.matchAll(/url\(['"]?(\/fonts\/[^)'"\s]+)/g)){const r=await fetch(match[1]);if(r.ok)await cache.put(match[1],r);}
+  const cache = await caches.open(offlineCache);
+  const assets = [...document.querySelectorAll('script[src],link[rel="stylesheet"]')]
+    .map(el => new URL(el.src || el.href))
+    .filter(url => url.origin === location.origin)
+    .map(url => url.pathname + url.search);
+  await saveFiles(cache, ['/', ...assets, '/api/auth/config', '/api/profile', '/api/tree?lang=es']);
+  const css = await (await cache.match(assets.find(path => path.startsWith('/styles.css')), {ignoreVary: true})).text();
+  const fonts = Array.from(css.matchAll(/url\(['"]?(\/fonts\/[^)'"]+)/g), match => match[1]);
+  await saveFiles(cache, fonts);
 }
-async function downloadLesson(d,button){
-  if(!window.isSecureContext||!('caches' in window)){button.textContent='Downloads precisam de HTTPS ou localhost.';return;}
-  button.disabled=true;
-  try{
-    await prepareOffline();
-    const cache=await caches.open(offlineCache),paths=new Set(JSON.stringify(d).match(/\/m\/[^"\s<>\\]+/g)||[]);
-    let n=0;
-    for(const path of paths){button.textContent=`Baixando ${++n}/${paths.size}…`;const response=await fetch(path);if(!response.ok)throw Error('Há uma mídia indisponível. Tente novamente.');await cache.put(path,response);}
-    const path='/api/lesson/'+d.id,response=await fetch(path);if(!response.ok)throw Error('Entre novamente para baixar.');await cache.put(path,response);
-    button.textContent='Aula disponível sem conexão ✓';
-    if(!S.downloaded)S.downloaded=new Set();S.downloaded.add(d.id);
-  }catch(err){button.textContent=err.message||'Sem espaço ou sem conexão. Tente novamente.';}finally{button.disabled=false;}
+
+function prepareOffline() {
+  if (!('serviceWorker' in navigator) || !window.isSecureContext) return Promise.resolve();
+  if (!preparingOffline) {
+    preparingOffline = cacheStudyResources().catch(error => {
+      preparingOffline = undefined;
+      throw error;
+    });
+  }
+  return preparingOffline;
+}
+
+async function downloadLesson(d, button) {
+  if (!window.isSecureContext || !('serviceWorker' in navigator) || !('caches' in window)) {
+    button.textContent = 'Downloads precisam de HTTPS ou localhost.';
+    return;
+  }
+  button.disabled = true;
+  button.textContent = 'Verificando arquivos salvos…';
+  try {
+    const cache = await caches.open(offlineCache);
+    const paths = new Set(JSON.stringify(d).match(/\/m\/[^"\s<>\\]+/g) || []);
+    let done = 0;
+    await Promise.all([
+      prepareOffline(),
+      saveFiles(cache, paths, () => {
+        button.textContent = `Preparando aula: ${++done}/${paths.size}…`;
+      })
+    ]);
+    // The preview already fetched this lesson. Publish it only after every file is ready.
+    await cache.put('/api/lesson/' + d.id, new Response(JSON.stringify(d), {
+      headers: {'Content-Type': 'application/json; charset=utf-8'}
+    }));
+    button.textContent = 'Aula disponível sem conexão ✓';
+    if (!S.downloaded) S.downloaded = new Set();
+    S.downloaded.add(d.id);
+  } catch (err) {
+    button.textContent = err.message || 'Sem espaço ou sem conexão. Tente novamente.';
+  } finally {
+    button.disabled = false;
+  }
 }
 function pendingKey(){return 'talk2me-pending-'+S.profile.id;}
 async function finishLesson(data){
