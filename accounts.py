@@ -7,6 +7,7 @@ import secrets
 import sqlite3
 import time
 import threading
+from concurrent.futures import ThreadPoolExecutor
 from http.cookies import SimpleCookie
 from urllib.parse import urlparse
 from pathlib import Path
@@ -67,6 +68,30 @@ def provision(email, password, name, admin=False):
     return uid
 
 def secure_handler(Base):
+    # Keep one replica connection on its owning thread for read-only session checks.
+    # Query each request so logout and password changes still take effect immediately.
+    readers = ThreadPoolExecutor(max_workers=1, thread_name_prefix="session-reader")
+    session_db = None
+
+    def read_session(handler):
+        nonlocal session_db
+        if session_db is None:
+            session_db = db.get_db()
+        try:
+            return handler.get_current_user(session_db)
+        except Exception:
+            session_db.close()
+            session_db = None
+            raise
+
+    def authenticated(handler):
+        if not handler.token():
+            return False
+        if db.REMOTE:
+            return bool(readers.submit(read_session, handler).result())
+        with connect() as connection:
+            return bool(handler.get_current_user(connection))
+
     class SecureHandler(Base):
         def end_headers(self):
             self.send_header('X-Content-Type-Options','nosniff')
@@ -98,26 +123,27 @@ def secure_handler(Base):
 
         def do_GET(self):
             path = urlparse(self.path).path
-            with connect() as db:
-                user = self.get_current_user(db)
-                if path == '/api/auth/config':
-                    configured = bool(db.execute("SELECT 1 FROM users WHERE role='admin'").fetchone())
-                    return self.send_json({'configured':configured,'authenticated':bool(user),'user':user})
-                if path == '/api/admin/users':
-                    if not user or user['role'] != 'admin':
-                        return self.send_json({'error':'Acesso exclusivo do administrador.'},403)
-                    return self.send_json([dict(r) for r in db.execute('SELECT id,email,full_name,role,xp FROM users WHERE id IN (SELECT user_id FROM account_passwords) ORDER BY created_at DESC')])
-            if (path.startswith(('/api/','/m/','/media/'))) and not user:
-                return self.send_json({'error':'Entre para continuar.'},401)
-            if path.startswith('/api/auth/'):
-                return self.send_json({'error':'Não encontrado.'},404)
-            # Resolve static paths before the legacy handler; no sibling-prefix traversal.
-            from urllib.parse import unquote
-            if not path.startswith(('/api/','/m/','/media/')):
+            if not path.startswith(('/api/', '/m/', '/media/')):
+                from urllib.parse import unquote
                 root = Path(__file__).with_name('public').resolve()
                 target = (root / unquote(path).lstrip('/')).resolve()
                 if not target.is_relative_to(root):
                     return self.send_json({'error':'Não encontrado.'},404)
+                return super().do_GET()
+            if path in ('/api/auth/config', '/api/admin/users'):
+                with connect() as db:
+                    user = self.get_current_user(db)
+                    if path == '/api/auth/config':
+                        configured = bool(db.execute("SELECT 1 FROM users WHERE role='admin'").fetchone())
+                        return self.send_json({'configured':configured,'authenticated':bool(user),'user':user})
+                    if path == '/api/admin/users':
+                        if not user or user['role'] != 'admin':
+                            return self.send_json({'error':'Acesso exclusivo do administrador.'},403)
+                        return self.send_json([dict(r) for r in db.execute('SELECT id,email,full_name,role,xp FROM users WHERE id IN (SELECT user_id FROM account_passwords) ORDER BY created_at DESC')])
+            if not authenticated(self):
+                return self.send_json({'error':'Entre para continuar.'},401)
+            if path.startswith('/api/auth/'):
+                return self.send_json({'error':'Não encontrado.'},404)
             return super().do_GET()
 
         def do_POST(self):

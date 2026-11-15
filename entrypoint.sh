@@ -1,6 +1,7 @@
 #!/bin/sh
 set -e
 
+export TOKIO_WORKER_THREADS="${TOKIO_WORKER_THREADS:-2}"
 export PORT="${PORT:-8000}"
 
 if [ -n "$RCLONE_CONFIG_BASE64" ]; then
