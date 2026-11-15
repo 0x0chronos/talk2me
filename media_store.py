@@ -92,7 +92,8 @@ def media_file(key):
                     download(key, dest, size, digest)
                     retry_after.pop(key, None)
                 except (OSError, subprocess.SubprocessError) as error:
-                    retry_after[key] = time.monotonic() + 45
+                    if time.monotonic() >= retry_after.get(key, 0):
+                        retry_after[key] = time.monotonic() + 5
                     source = ROOT / key
                     if os.getenv('TALK2ME_LOCAL_FALLBACK','1') != '1' or not valid(source, size, digest):
                         raise OSError('Mídia temporariamente indisponível') from error

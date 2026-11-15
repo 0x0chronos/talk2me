@@ -7,7 +7,12 @@ async function saveMissing(cache, path) {
   const saving = (async () => {
     const saved = await cache.match(path, {ignoreVary: true});
     if (saved?.status === 200) return;
-    const response = await fetch(path);
+    let response = await fetch(path);
+    if (response.status === 503 && path.startsWith('/m/')) {
+      const seconds = Number(response.headers.get('Retry-After')) || 5;
+      await new Promise(resolve => setTimeout(resolve, Math.min(60, seconds) * 1000));
+      response = await fetch(path);
+    }
     if (response.status !== 200) throw Error('Um arquivo ficou indisponível. Tente baixar novamente.');
     await cache.put(path, response);
   })();
@@ -18,14 +23,20 @@ async function saveMissing(cache, path) {
 async function saveFiles(cache, paths, onSaved) {
   const queue = Array.from(new Set(paths));
   let next = 0;
+  let firstError;
   async function worker() {
     while (next < queue.length) {
-      await saveMissing(cache, queue[next++]);
-      if (onSaved) onSaved();
+      try {
+        await saveMissing(cache, queue[next++]);
+        if (onSaved) onSaved();
+      } catch (error) {
+        firstError ??= error;
+      }
     }
   }
   // Match the three concurrent transfers supported by the Drive origin.
   await Promise.all(Array.from({length: Math.min(3, queue.length)}, worker));
+  if (firstError) throw firstError;
 }
 
 async function cacheStudyResources() {
@@ -64,12 +75,15 @@ async function downloadLesson(d, button) {
     const cache = await caches.open(offlineCache);
     const paths = new Set(JSON.stringify(d).match(/\/m\/[^"\s<>\\]+/g) || []);
     let done = 0;
-    await Promise.all([
+    const results = await Promise.allSettled([
       prepareOffline(),
       saveFiles(cache, paths, () => {
         button.textContent = `Preparando aula: ${++done}/${paths.size}…`;
       })
     ]);
+    for (const result of results) {
+      if (result.status === 'rejected') throw result.reason;
+    }
     // The preview already fetched this lesson. Publish it only after every file is ready.
     await cache.put('/api/lesson/' + d.id, new Response(JSON.stringify(d), {
       headers: {'Content-Type': 'application/json; charset=utf-8'}

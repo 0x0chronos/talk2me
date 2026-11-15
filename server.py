@@ -537,7 +537,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     with media_store.media_file(key) as cached:
                         return self.serve_file(cached, cache=False, filename=name)
                 except OSError:
-                    return self.send_json({"error": "Mídia temporariamente indisponível. Tente novamente."}, 503)
+                    return self.send_json({"error": "Mídia temporariamente indisponível. Tente novamente."}, 503, headers={"Retry-After": "5"})
 
         target = os.path.join(STATIC_DIR, "index.html") if path in ("/", "") else \
             os.path.join(STATIC_DIR, path.lstrip("/").replace("/", os.sep))
