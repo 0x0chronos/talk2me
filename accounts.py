@@ -200,6 +200,22 @@ def secure_handler(Base):
                         headers = self.session(db,user['id'])
                         db.commit()
                         return self.send_json({'ok':True},headers=headers)
+                    if path == '/api/admin/student-password':
+                        if user['role'] != 'admin':
+                            return self.send_json({'error':'Acesso exclusivo do administrador.'},403)
+                        uid = data.get('user_id')
+                        student = db.execute("SELECT email FROM users WHERE id=? AND role='student'",
+                                             (uid if isinstance(uid,str) else '',)).fetchone()
+                        if not student:
+                            return self.send_json({'error':'Aluno não encontrado.'},404)
+                        password = data.get('new_password')
+                        validate(student['email'], password)
+                        salt = secrets.token_hex(16)
+                        db.execute('UPDATE account_passwords SET salt=?, hash=? WHERE user_id=?',
+                                   (salt,password_hash(password,salt),uid))
+                        db.execute('DELETE FROM secure_sessions WHERE user_id=?',(uid,))
+                        db.commit()
+                        return self.send_json({'ok':True})
                     if path == '/api/admin/users':
                         if user['role'] != 'admin':
                             return self.send_json({'error':'Acesso exclusivo do administrador.'},403)

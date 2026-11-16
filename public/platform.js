@@ -16,7 +16,7 @@ async function enterStudy() {
   document.querySelector('#account-email').textContent = config.user.email;
   document.querySelector('#admin-nav').hidden = config.user.role !== 'admin';
   if(config.user.role === 'admin') {
-    const b = h('button',{class:'abtn',onclick:openAdmin},'Gerenciar alunos');
+    const b = h('button',{class:'abtn',onclick:openAdmin},'Gerenciar alunos e senhas');
     document.querySelector('.account-settings').prepend(b);
   }
 }
@@ -37,11 +37,53 @@ document.querySelector('#password-form').onsubmit = async e => {
 document.querySelector('#secure-logout').onclick=async()=>{
   try{await syncProgress(); if(JSON.parse(localStorage.getItem(pendingKey())||'[]').length)throw new Error('Conecte-se para sincronizar as aulas antes de sair.'); await api('/api/auth/logout',{}); await caches.delete(offlineCache);navigator.serviceWorker?.controller?.postMessage('clear');location.reload();}catch(err){alert(err.message);}
 };
+function studentRow(user) {
+  const row = h('article', {class:'student-row'}, h('strong',{},user.full_name),
+    h('span',{},user.email), h('small',{},user.role === 'admin' ? 'Administrador' : 'Aluno'));
+  if (user.role !== 'student') return row;
+  const edit = h('button', {type:'button',class:'abtn','aria-expanded':'false'}, 'Trocar senha');
+  const input = () => h('input',{type:'password',autocomplete:'new-password',required:true,minlength:10,maxlength:128});
+  const password = input(), confirm = input();
+  const status = h('p',{role:'status',class:'form-status'});
+  const save = h('button',{type:'submit',class:'btn'},'Salvar nova senha');
+  const form = h('form',{hidden:true},
+    h('label',{},'Nova senha para ' + user.full_name + ' (mínimo de 10 caracteres)',password),
+    h('label',{},'Repita a nova senha',confirm),
+    h('p',{},'O aluno precisará entrar novamente com a nova senha.'), save);
+  edit.onclick = () => {
+    form.hidden = !form.hidden;
+    edit.setAttribute('aria-expanded', String(!form.hidden));
+    edit.textContent = form.hidden ? 'Trocar senha' : 'Cancelar troca';
+    form.reset();
+    status.textContent = '';
+    if (!form.hidden) password.focus();
+  };
+  form.onsubmit = async event => {
+    event.preventDefault();
+    if (password.value !== confirm.value) {
+      status.textContent = 'As senhas precisam ser iguais.';
+      confirm.focus();
+      return;
+    }
+    save.disabled = edit.disabled = true;
+    try {
+      await api('/api/admin/student-password',{user_id:user.id,new_password:password.value});
+      form.reset();
+      form.hidden = true;
+      edit.textContent = 'Trocar senha';
+      edit.setAttribute('aria-expanded','false');
+      status.textContent = 'Senha alterada. Informe a nova senha ao aluno.';
+    } catch(error) { status.textContent = error.message; }
+    finally { save.disabled = edit.disabled = false; if (form.hidden) edit.focus(); }
+  };
+  row.append(edit,form,status);
+  return row;
+}
 async function openAdmin(){
   const dlg=document.querySelector('#admin-dialog');
   if(!dlg.open)dlg.showModal();
   const list=document.querySelector('#student-list');list.replaceChildren();
-  try{const users=await api('/api/admin/users');for(const u of users)list.append(h('article',{class:'student-row'},h('strong',{},u.full_name),h('span',{},u.email),h('small',{},u.role==='admin'?'Administrador':'Aluno')));}
+  try{const users=await api('/api/admin/users');for(const u of users)list.append(studentRow(u));}
   catch(err){list.textContent=err.message;}
 }
 document.querySelector('#close-admin').onclick=()=>document.querySelector('#admin-dialog').close();

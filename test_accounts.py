@@ -56,6 +56,19 @@ class AccountsTest(unittest.TestCase):
         self.assertEqual(self.request(student,'/api/auth/password',{'current_password':'Student-test-12345','new_password':'New-password-123'})[0],200)
         self.assertEqual(self.request(guest,'/api/auth/login',{'email':'student@example.test','password':'Student-test-12345'})[0],401)
         self.assertEqual(self.request(guest,'/api/auth/login',{'email':'student@example.test','password':'New-password-123'})[0],200)
+        users = self.request(admin,'/api/admin/users')[1]
+        uid = next(u['id'] for u in users if u['email']=='student@example.test')
+        change = {'user_id':uid,'new_password':'Admin-reset-12345'}
+        endpoint = '/api/admin/student-password'
+        self.assertEqual(self.request(student,endpoint,change)[0],403)
+        self.assertEqual(self.request(admin,endpoint,{**change,'new_password':'curta'})[0],400)
+        self.assertEqual(self.request(admin,endpoint,{**change,'user_id':next(u['id'] for u in users if u['role']=='admin')})[0],404)
+        self.assertEqual(self.request(admin,endpoint,change)[0],200)
+        self.assertEqual(self.request(student,'/api/profile')[0],401)
+        self.assertEqual(self.request(guest,'/api/profile')[0],401)
+        self.assertEqual(self.request(student,'/api/auth/login',{'email':'student@example.test','password':'New-password-123'})[0],401)
+        self.assertEqual(self.request(student,'/api/auth/login',{'email':'student@example.test','password':change['new_password']})[0],200)
+        self.assertEqual(self.request(student,'/api/profile')[1]['xp'],25)
         self.assertEqual(self.request(student,'/api/auth/logout',{})[0],200)
         self.assertEqual(self.request(student,'/api/profile')[0],401)
 
