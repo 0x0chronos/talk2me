@@ -881,6 +881,8 @@ class Player {
   }
 
   close() {
+    this.disposeExercise?.();
+    this.disposeExercise = null;
     stopAudio();
     keyHandler = null;
     const pEl = $('#player');
@@ -926,6 +928,8 @@ class Player {
   }
 
   show(autoAudio = true) {
+    this.disposeExercise?.();
+    this.disposeExercise = null;
     stopAudio();
     keyHandler = null;
     this.progress();
@@ -976,6 +980,7 @@ class Player {
     const body = $('#pbody');
     if (st.done) {
       const ctrl = (EX[ex.type] || exUnknown)(ex, { ready() {}, submit() {} });
+      this.disposeExercise = ctrl.dispose;
       if (ctrl.lock) ctrl.lock();
       body.append(h('div', { class: 'pin' }, ctrl.el));
       if (ctrl.mount) ctrl.mount();
@@ -993,6 +998,7 @@ class Player {
       onKey: fn => { keyHandler = fn; }
     };
     const ctrl = (EX[ex.type] || exUnknown)(ex, ctx);
+    this.disposeExercise = ctrl.dispose;
     body.append(h('div', { class: 'pin' }, ctrl.el));
     if (ctrl.mount) ctrl.mount();
     this.btn('Verificar resposta', () => {
@@ -1510,11 +1516,81 @@ function exSpeak(ex, ctx) {
   const min = Math.min(t.minSimilarity || 0.7, 0.75);
   const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
   const world = COURSE_WORLDS[S.lang] || COURSE_WORLDS.es;
-  const said = h('div', { class: 'said' }, SR
+  const said = h('div', { class: 'said', role: 'status' }, SR
     ? world.speechHint
     : 'Reconhecimento de voz indisponível neste navegador — repita em voz alta e avance.');
   let passed = false, skipped = false, rec = null;
   const mic = h('button', { class: 'mic', type: 'button', title: 'Gravar voz no microfone' }, icon('mic', 'xl'));
+
+  const playback = h('audio', { controls: true, hidden: true, 'aria-label': 'Sua gravação' });
+  let recording, stream, timer, recordingUrl, disposed = false;
+
+  function releaseMic() {
+    clearTimeout(timer);
+    stream?.getTracks().forEach(track => track.stop());
+    stream = null;
+  }
+
+  function dispose() {
+    disposed = true;
+    if (rec) {
+      rec.onresult = rec.onerror = rec.onend = null;
+      rec.abort();
+      rec = null;
+    }
+    if (recording?.state === 'recording') recording.stop();
+    releaseMic();
+    playback.pause();
+    if (recordingUrl) URL.revokeObjectURL(recordingUrl);
+  }
+
+  function localPractice() {
+    if (!window.MediaRecorder || !navigator.mediaDevices?.getUserMedia) {
+      mic.hidden = true;
+      said.textContent = 'A avaliação de voz está indisponível. Ouça o modelo, repita em voz alta e continue.';
+      return;
+    }
+    mic.title = 'Gravar para ouvir minha voz';
+    said.textContent = 'A avaliação automática está indisponível. Toque no microfone para gravar e comparar sua voz com o modelo.';
+    mic.onclick = async () => {
+      if (recording?.state === 'recording') { recording.stop(); return; }
+      stopAudio();
+      playback.pause();
+      mic.disabled = true;
+      try {
+        stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        if (disposed) { releaseMic(); return; }
+        recording = new MediaRecorder(stream);
+        const chunks = [];
+        recording.ondataavailable = e => { if (e.data.size) chunks.push(e.data); };
+        recording.onstop = () => {
+          releaseMic();
+          if (disposed) return;
+          mic.classList.remove('rec');
+          mic.title = 'Gravar novamente';
+          if (!chunks.length) { said.textContent = 'A gravação ficou vazia. Toque para gravar novamente.'; return; }
+          if (recordingUrl) URL.revokeObjectURL(recordingUrl);
+          recordingUrl = URL.createObjectURL(new Blob(chunks, {type: recording.mimeType}));
+          playback.src = recordingUrl;
+          playback.hidden = false;
+          said.textContent = 'Ouça sua gravação e compare com o modelo. Ela fica só neste aparelho.';
+          skip.textContent = 'Continuar sem avaliação automática';
+        };
+        recording.start();
+        mic.title = 'Parar gravação';
+        mic.classList.add('rec');
+        said.textContent = 'Gravando. Toque para parar ou aguarde 20 segundos.';
+        timer = setTimeout(() => { if (recording.state === 'recording') recording.stop(); }, 20000);
+      } catch (error) {
+        releaseMic();
+        said.textContent = error.name === 'NotAllowedError'
+          ? 'Permita o microfone nas configurações deste site para gravar, ou continue sem avaliação.'
+          : 'O microfone está indisponível. Confira o dispositivo ou continue sem avaliação.';
+      } finally {
+        mic.disabled = false;
+      }
+    };
+  }
 
   if (SR) {
     mic.onclick = () => {
@@ -1546,17 +1622,19 @@ function exSpeak(ex, ctx) {
       };
       rec.onerror = e => {
         said.style.color = 'var(--err-ink)';
+        if (['service-not-allowed', 'network', 'language-not-supported'].includes(e.error)) {
+          localPractice();
+          return;
+        }
         said.textContent = e.error === 'not-allowed'
           ? 'Permissão de microfone negada no navegador. Use a opção abaixo para avançar.'
           : 'Áudio não captado (' + e.error + '). Tente novamente ou pule abaixo.';
       };
       rec.onend = () => { mic.classList.remove('rec'); rec = null; };
-      try { rec.start(); } catch (err) { rec = null; mic.classList.remove('rec'); }
+      try { rec.start(); } catch (err) { rec = null; mic.classList.remove('rec'); localPractice(); }
     };
   } else {
-    mic.style.display = 'none';
-    passed = true;
-    ctx.ready(true);
+    localPractice();
   }
 
   const skip = h('button', {
@@ -1575,12 +1653,15 @@ function exSpeak(ex, ctx) {
       ),
       mic,
       said,
+      playback,
       h('div', { class: 'skip-zone' }, skip)
     ),
     start: src ? () => setTimeout(() => {
       const b = $('#pbody [data-primary-audio]');
       if (b) playAudio(src, b, 1.0);
     }, 260) : null,
+    dispose,
+    lock: dispose,
     check: () => ({ correct: passed || skipped, skipped: skipped && !passed })
   };
 }
