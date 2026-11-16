@@ -1,0 +1,326 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "9cbe3ce9-659f-53c4-a117-15f0e318f3d2",
+    "attemptId": "2ddc5d0b-7106-57f7-9caa-03f2691d02c8",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "c7940c2b-c222-5497-8a18-55e332ab9cac",
+      "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+      "52968ed1-4489-574e-9f50-ae9d9b5a1928",
+      "cddb7c1e-0e77-570e-82aa-bf527132a5cc"
+    ],
+    "evaluationExerciseIds": [
+      "83ab9efe-2a54-5fd8-a4d6-8f0fed351e2a"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "eac8882f-f60e-55fe-815d-05dd2992f5b9",
+      "title": "Escute e pratique a expressão técnica em contexto real de entrevista.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "fe87f119-b8c3-55e9-8c54-3698e427385b",
+          "textContent": "<p>Usar a palavra «bastionado» para *hardening* mostra que você conhece o jargão técnico da Espanha.</p><p><strong>Aplicamos guías de bastionado en los servidores Linux y Windows deshabilitando servicios innecesarios y cerrando puertos expuestos.</strong></p><p>Em português: <strong>Aplicamos guias de hardening nos servidores Linux e Windows desabilitando serviços desnecessários e fechando portas expostas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "df4388e8-ea17-5329-8131-d81f6ea822ae",
+      "title": "Escute e pratique a expressão técnica em contexto real de entrevista.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "08c3bcd3-1ace-59f7-afa1-51eafcf2f0b9",
+          "textContent": "<p>«Principio de mínimo privilegio» é um pilar obrigatório em entrevistas de arquitetura e cloud.</p><p><strong>Implementamos el principio de mínimo privilegio y la autenticación multifactor en todas las cuentas administrativas.</strong></p><p>Em português: <strong>Implementamos o princípio do menor privilégio e a autenticação multifator em todas as contas administrativas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "dd621628-796b-58ec-88f3-435c927ce287",
+      "title": "Escute e pratique a expressão técnica em contexto real de entrevista.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "95328573-feae-50fd-82ed-120d01e67897",
+          "textContent": "<p>Separar «entorno de pruebas / preproducción» de «entorno de producción» é essencial.</p><p><strong>Además, configuramos reglas estrictas en el cortafuegos y segmentamos la red para aislar el entorno de producción.</strong></p><p>Em português: <strong>Além disso, configuramos regras estritas no firewall e segmentamos a rede para isolar o ambiente de produção.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "622b70ba-2c89-5301-9a2c-cb34f95012da",
+      "title": "Guia prático para entrevistas de TI e Cibersegurança na Espanha",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "0f4541fc-6a6f-5ae2-a7eb-e20cea529d4c",
+          "textContent": "<p>Atenção a um termo muito específico da Espanha que sempre cai em entrevistas técnicas:</p><ul><li><strong>Bastionado de sistemas / servidores:</strong> é como se chama <em>Hardening</em> na Espanha!</li><li><strong>Principio de mínimo privilegio y segmentación de red.</strong></li><li><strong>Cortafuegos (firewall), listas de control de acceso y gestión de identidades.</strong></li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4e6ef265-995b-53a5-a8ba-6ced405fbadf",
+      "title": "Protegendo servidores e infraestrutura em nuvem",
+      "description": "<p>Laura pergunta como você protege um servidor recém-implantado.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Qué medidas de bastionado aplicas antes de exponer un servidor nuevo en producción?</div>\n  <div style=\"opacity: 0.55;\">Quais medidas de hardening você aplica antes de expor um servidor novo em produção?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Tú)</div>\n  <div style=\"font-weight: 700;\">Actualizo el sistema operativo, deshabilito el acceso directo del superusuario por SSH y permito únicamente autenticación mediante clave pública.</div>\n  <div style=\"opacity: 0.55;\">Atualizo o sistema operacional, desabilito o acesso direto do root por SSH e permito unicamente autenticação por chave pública.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y a nivel de red y control de accesos?</div>\n  <div style=\"opacity: 0.55;\">E em nível de rede e controle de acessos?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Tú)</div>\n  <div style=\"font-weight: 700;\">Restrinjo los puertos en el cortafuegos según el principio de mínimo privilegio y activo el envío de registros al sistema centralizado.</div>\n  <div style=\"opacity: 0.55;\">Restrinjo as portas no firewall segundo o princípio do menor privilégio e ativo o envio de logs para o sistema centralizado.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "c7940c2b-c222-5497-8a18-55e332ab9cac",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Qual é o termo técnico usado na Espanha (inclusive pelo CCN-CERT) para se referir a «System Hardening»?</p>",
+      "contentPlain": "Qual é o termo técnico usado na Espanha (inclusive pelo CCN-CERT) para se referir a «System Hardening»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, as guias oficiais do CCN-CERT e as vagas de emprego usam o termo «bastionado de sistemas» para *hardening*.",
+      "feedbackError": "Na Espanha, as guias oficiais do CCN-CERT e as vagas de emprego usam o termo «bastionado de sistemas» para *hardening*.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9cbe3ce9-659f-53c4-a117-15f0e318f3d2",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "fd1d3138-36b7-56ee-b0ac-2bd7002e9538",
+          "textContent": "Bastionado de sistemas.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c7940c2b-c222-5497-8a18-55e332ab9cac"
+        },
+        {
+          "id": "8333e9db-0334-5e0f-b642-fe660d312418",
+          "textContent": "Endurecimiento de máquinas.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7940c2b-c222-5497-8a18-55e332ab9cac"
+        },
+        {
+          "id": "d1ca8c34-0066-503a-95f9-3721fb772830",
+          "textContent": "Blindaje pesado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7940c2b-c222-5497-8a18-55e332ab9cac"
+        },
+        {
+          "id": "71231c77-b55b-5b76-8897-1b11b25915fc",
+          "textContent": "Fortificación manual.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7940c2b-c222-5497-8a18-55e332ab9cac"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9cbe3ce9-659f-53c4-a117-15f0e318f3d2",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "c655c8b5-beb2-5515-8e1c-487180d77e2c",
+          "exerciseId": "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+          "leftContent": "bastionado de sistemas",
+          "rightContent": "hardening de sistemas / servidores",
+          "sequenceItem": 1
+        },
+        {
+          "id": "66bd4955-2298-54bf-ac30-d13c7d0a001d",
+          "exerciseId": "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+          "leftContent": "principio de mínimo privilegio",
+          "rightContent": "princípio do menor privilégio",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b332d5c3-0595-5bb9-84c7-7174d5d27ab2",
+          "exerciseId": "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+          "leftContent": "cortafuegos",
+          "rightContent": "firewall",
+          "sequenceItem": 3
+        },
+        {
+          "id": "8f5534d4-3d17-5cd5-99ee-2885f3f94dfc",
+          "exerciseId": "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+          "leftContent": "clave pública",
+          "rightContent": "chave pública (SSH / criptografia)",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "52968ed1-4489-574e-9f50-ae9d9b5a1928",
+      "title": "Compreensão auditiva da entrevista",
+      "content": "<p>Escute cada gravação da simulação de entrevista e associe à fala correspondente em espanhol.</p>",
+      "contentPlain": "Escute cada gravação da simulação de entrevista e associe à fala correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Muito bem! A escuta ativa das perguntas e respostas prepara você para entrevistas por chamada.",
+      "feedbackError": "Escute novamente os áudios prestando atenção às palavras-chave técnicas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9cbe3ce9-659f-53c4-a117-15f0e318f3d2",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "0f0998fc-603d-5463-b062-7670c8415b4a",
+          "exerciseId": "52968ed1-4489-574e-9f50-ae9d9b5a1928",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_d1.mp3",
+          "rightContent": "¿Qué medidas de bastionado aplicas antes de exponer un servidor nuevo en producción?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "e71e23cb-909d-56e9-acfc-818e9598d843",
+          "exerciseId": "52968ed1-4489-574e-9f50-ae9d9b5a1928",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_d2.mp3",
+          "rightContent": "Actualizo el sistema operativo, deshabilito el acceso directo del superusuario por SSH y permito únicamente autenticación mediante clave pública.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c5decf98-8cf2-5b7a-840c-874e4dc05cbc",
+          "exerciseId": "52968ed1-4489-574e-9f50-ae9d9b5a1928",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_d3.mp3",
+          "rightContent": "¿Y a nivel de red y control de accesos?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "be18b0ff-2f10-5269-a98b-be9e0409fe87",
+          "exerciseId": "52968ed1-4489-574e-9f50-ae9d9b5a1928",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_d4.mp3",
+          "rightContent": "Restrinjo los puertos en el cortafuegos según el principio de mínimo privilegio y activo el envío de registros al sistema centralizado.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "cddb7c1e-0e77-570e-82aa-bf527132a5cc",
+      "title": "Treino de pronúncia para a entrevista",
+      "content": "<p>Escute o modelo e fale em voz alta sua resposta como se estivesse diante do entrevistador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta sua resposta como se estivesse diante do entrevistador.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l03_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Aplicamos medidas de bastionado y el principio de mínimo privilegio en los servidores.",
+      "typeSpecificData": "{\"expectedText\": \"Aplicamos medidas de bastionado y el principio de mínimo privilegio en los servidores.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m03_l03_spk.mp3\", \"minSimilarity\": 0.78, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9cbe3ce9-659f-53c4-a117-15f0e318f3d2",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "83ab9efe-2a54-5fd8-a4d6-8f0fed351e2a",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Aplicamos guías de _____ para asegurar los servidores en producción.</p><p>Tradução: Aplicamos guias de hardening (bastionado) para proteger os servidores em produção.</p>",
+      "contentPlain": "Aplicamos guías de _____ para asegurar los servidores en producción. Tradução: Aplicamos guias de hardening (bastionado) para proteger os servidores em produção.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «bastionado» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «bastionado».",
+      "answerType": "buildWord",
+      "expectedAnswer": "bastionado",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9cbe3ce9-659f-53c4-a117-15f0e318f3d2",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Hardening (Bastionado), Redes, Cortafuegos e Segurança em Cloud"
+}

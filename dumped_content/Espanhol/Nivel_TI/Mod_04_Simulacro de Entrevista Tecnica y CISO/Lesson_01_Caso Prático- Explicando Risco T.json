@@ -1,0 +1,326 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "c229a224-69bf-5009-9ddd-7ee0706f35bb",
+    "attemptId": "0c56c29c-909a-54d3-8278-599b3fa5f5d9",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "2dbf8353-db00-5140-a6fb-c7c9888ffc3e",
+      "7328ac94-5117-590b-b436-b810cc56b0d5",
+      "f2ac0020-877e-50a0-a07e-e4ce673cf2eb",
+      "b51d1b87-73bb-5699-971a-42b9647e8f97"
+    ],
+    "evaluationExerciseIds": [
+      "560c6395-4a45-55d7-aad9-1703dcc6ae19"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "24521b1f-de79-5a07-8dd1-457e35322c86",
+      "title": "Escute e pratique a expressão técnica em contexto real de entrevista.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "d775b6b5-b3bd-5050-b85d-3375604e37bb",
+          "textContent": "<p>Mostrar que você entende «riesgo operativo y reputacional» destaca você como profissional sênior.</p><p><strong>Cuando hablo con dirección, traduzco la vulnerabilidad técnica en riesgo operativo, financiero y reputacional.</strong></p><p>Em português: <strong>Quando falo com a diretoria, traduzo a vulnerabilidade técnica em risco operacional, financeiro e reputacional.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "99ccb5c7-48cf-53ef-a66f-6fc169e52805",
+      "title": "Escute e pratique a expressão técnica em contexto real de entrevista.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "0ac4c85a-f1a1-56b4-b0df-3f43d20ca6f8",
+          "textContent": "<p>«Control compensatorio» é a resposta exata para quando um sistema legado não pode receber patch imediato.</p><p><strong>Si un sistema crítico no se puede actualizar de inmediato, propongo un control compensatorio en el cortafuegos de aplicaciones.</strong></p><p>Em português: <strong>Se um sistema crítico não puder ser atualizado imediatamente, proponho um controle compensatório no WAF (Web Application Firewall).</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "07ac3ad3-97fc-5321-8c32-de41176ec20e",
+      "title": "Escute e pratique a expressão técnica em contexto real de entrevista.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "51b991bf-3801-5c80-b650-930df8c8cb34",
+          "textContent": "<p>Demonstra visão colaborativa com o time de engenharia.</p><p><strong>De esta forma protegemos el servicio en producción mientras el equipo de ingeniería desarrolla la solución definitiva.</strong></p><p>Em português: <strong>Desta forma protegemos o serviço em produção enquanto a equipe de engenharia desenvolve a solução definitiva.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c06f5868-9956-5e16-a2fd-8c64e627c64f",
+      "title": "Guia prático para entrevistas de TI e Cibersegurança na Espanha",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "1b9abb65-9e1f-5f75-a473-5edd144a2957",
+          "textContent": "<p>Em entrevistas finais com o <strong>CISO ou Gerente da Área</strong>, eles testam se você sabe traduzir uma falha técnica em linguagem de negócio:</p><ul><li><strong>En lugar de hablar solo del detalle técnico, explico el impacto en el negocio.</strong></li><li><strong>Priorizamos la remediación según la probabilidad y el impacto.</strong></li><li><strong>Proporciono alternativas de mitigación temporal (workaround).</strong></li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "6c4ae06a-2f40-5291-bb46-dfa9eb5dc6d9",
+      "title": "Defendendo uma correção urgente para um diretor",
+      "description": "<p>Laura simula um diretor que não quer parar o sistema para corrigir uma vulnerabilidade crítica.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Si un cliente te dice que no puede detener producción para corregir una vulnerabilidad crítica, ¿cómo le respondes?</div>\n  <div style=\"opacity: 0.55;\">Se um cliente lhe disser que não pode parar a produção para corrigir uma vulnerabilidade crítica, como você responde a ele?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Tú)</div>\n  <div style=\"font-weight: 700;\">Primero le explico con claridad el impacto en el negocio si esa brecha es explotada, como una fuga de datos o sanciones del RGPD.</div>\n  <div style=\"opacity: 0.55;\">Primeiro explico com clareza o impacto no negócio se essa falha for explorada, como um vazamento de dados ou sanções do RGPD.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y si aun así necesitan unos días para programar la ventana de mantenimiento?</div>\n  <div style=\"opacity: 0.55;\">E se mesmo assim eles precisarem de alguns dias para programar a janela de manutenção?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Tú)</div>\n  <div style=\"font-weight: 700;\">En ese caso implementamos un control compensatorio inmediato, como una regla virtual en el cortafuegos, hasta aplicar el parche definitivo.</div>\n  <div style=\"opacity: 0.55;\">Nesse caso implementamos um controle compensatório imediato, como uma regra virtual no firewall (virtual patching), até aplicar o patch definitivo.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "2dbf8353-db00-5140-a6fb-c7c9888ffc3e",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Qual é o termo técnico em espanhol para uma medida temporária de proteção (como uma regra de WAF) quando o patch oficial ainda não pode ser aplicado?</p>",
+      "contentPlain": "Qual é o termo técnico em espanhol para uma medida temporária de proteção (como uma regra de WAF) quando o patch oficial ainda não pode ser aplicado?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Control compensatorio» (compensating control) é o termo padrão em ISO 27001, PCI-DSS e ENS.",
+      "feedbackError": "«Control compensatorio» (compensating control) é o termo padrão em ISO 27001, PCI-DSS e ENS.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c229a224-69bf-5009-9ddd-7ee0706f35bb",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "d89be408-f0d0-5562-a116-4efdfddef568",
+          "textContent": "Un control compensatorio.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "2dbf8353-db00-5140-a6fb-c7c9888ffc3e"
+        },
+        {
+          "id": "8d14c419-7414-5394-b205-d68c2e7cf1cc",
+          "textContent": "Un arreglo de suerte.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2dbf8353-db00-5140-a6fb-c7c9888ffc3e"
+        },
+        {
+          "id": "f58d365d-dc98-5266-bf40-cc1f4226f3cf",
+          "textContent": "Una espera pasiva.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2dbf8353-db00-5140-a6fb-c7c9888ffc3e"
+        },
+        {
+          "id": "33a59b7c-33b5-511a-91d7-602e034f663b",
+          "textContent": "Un salto de red.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "2dbf8353-db00-5140-a6fb-c7c9888ffc3e"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7328ac94-5117-590b-b436-b810cc56b0d5",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c229a224-69bf-5009-9ddd-7ee0706f35bb",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "b2189c6c-c3a6-54ed-8972-708084bb1f28",
+          "exerciseId": "7328ac94-5117-590b-b436-b810cc56b0d5",
+          "leftContent": "control compensatorio",
+          "rightContent": "medida mitigadora temporária (compensating control)",
+          "sequenceItem": 1
+        },
+        {
+          "id": "6cd33937-b489-53ee-813b-4f281e4809b5",
+          "exerciseId": "7328ac94-5117-590b-b436-b810cc56b0d5",
+          "leftContent": "ventana de mantenimiento",
+          "rightContent": "janela de manutenção",
+          "sequenceItem": 2
+        },
+        {
+          "id": "c908fd5a-d2cb-5a70-9165-6f96ccc4b30f",
+          "exerciseId": "7328ac94-5117-590b-b436-b810cc56b0d5",
+          "leftContent": "riesgo reputacional",
+          "rightContent": "risco à imagem / reputação da empresa",
+          "sequenceItem": 3
+        },
+        {
+          "id": "568dba81-faa1-53d3-8b87-bf6a33174265",
+          "exerciseId": "7328ac94-5117-590b-b436-b810cc56b0d5",
+          "leftContent": "fuga de datos",
+          "rightContent": "vazamento de dados (data leak)",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "f2ac0020-877e-50a0-a07e-e4ce673cf2eb",
+      "title": "Compreensão auditiva da entrevista",
+      "content": "<p>Escute cada gravação da simulação de entrevista e associe à fala correspondente em espanhol.</p>",
+      "contentPlain": "Escute cada gravação da simulação de entrevista e associe à fala correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Muito bem! A escuta ativa das perguntas e respostas prepara você para entrevistas por chamada.",
+      "feedbackError": "Escute novamente os áudios prestando atenção às palavras-chave técnicas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c229a224-69bf-5009-9ddd-7ee0706f35bb",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "5304746a-0f5b-568b-b4e1-b65982a9139f",
+          "exerciseId": "f2ac0020-877e-50a0-a07e-e4ce673cf2eb",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_d1.mp3",
+          "rightContent": "Si un cliente te dice que no puede detener producción para corregir una vulnerabilidad crítica, ¿cómo le respondes?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "cac7f6db-5b40-547e-a4ce-80750081dbf6",
+          "exerciseId": "f2ac0020-877e-50a0-a07e-e4ce673cf2eb",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_d2.mp3",
+          "rightContent": "Primero le explico con claridad el impacto en el negocio si esa brecha es explotada, como una fuga de datos o sanciones del RGPD.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "761141cb-a196-5b69-bb24-acfd716bf4cc",
+          "exerciseId": "f2ac0020-877e-50a0-a07e-e4ce673cf2eb",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_d3.mp3",
+          "rightContent": "¿Y si aun así necesitan unos días para programar la ventana de mantenimiento?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "c7f82502-8d52-5fb2-ba59-ebdcbc121401",
+          "exerciseId": "f2ac0020-877e-50a0-a07e-e4ce673cf2eb",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_d4.mp3",
+          "rightContent": "En ese caso implementamos un control compensatorio inmediato, como una regla virtual en el cortafuegos, hasta aplicar el parche definitivo.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "b51d1b87-73bb-5699-971a-42b9647e8f97",
+      "title": "Treino de pronúncia para a entrevista",
+      "content": "<p>Escute o modelo e fale em voz alta sua resposta como se estivesse diante do entrevistador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta sua resposta como se estivesse diante do entrevistador.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l01_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Propongo un control compensatorio mientras el equipo desarrolla la solución definitiva.",
+      "typeSpecificData": "{\"expectedText\": \"Propongo un control compensatorio mientras el equipo desarrolla la solución definitiva.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m04_l01_spk.mp3\", \"minSimilarity\": 0.78, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c229a224-69bf-5009-9ddd-7ee0706f35bb",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "560c6395-4a45-55d7-aad9-1703dcc6ae19",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Implementamos un control _____ hasta aplicar el parche definitivo.</p><p>Tradução: Implementamos um controle compensatório até aplicar o patch definitivo.</p>",
+      "contentPlain": "Implementamos un control _____ hasta aplicar el parche definitivo. Tradução: Implementamos um controle compensatório até aplicar o patch definitivo.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «compensatorio» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «compensatorio».",
+      "answerType": "buildWord",
+      "expectedAnswer": "compensatorio",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c229a224-69bf-5009-9ddd-7ee0706f35bb",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Caso Prático: Explicando Risco Técnico para Diretoria ou Cliente"
+}

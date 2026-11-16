@@ -439,16 +439,15 @@ function renderHome() {
     tabs.append(h('button', {
       type: 'button',
       class: 'lvl-btn' + (l.level === S.level ? ' on' : ''),
-      title: `Nível ${l.level} · ${l.modules.length} módulos, ${items.length} lições`,
+      title: `${l.label || ('Nível ' + l.level)} · ${l.modules.length} módulos, ${items.length} lições`,
       onclick: () => {
         S.level = l.level;
-        localStorage.talk2me_level = l.level;
         localStorage.talk2me_level = l.level;
         S.allModsExpanded = true;
         S.openMods.clear();
         renderHome();
       }
-    }, h('strong', {}, l.level), h('small', {}, `${lDone}/${items.length}`)));
+    }, h('strong', {}, l.level === 'TI' ? 'TI & Cyber' : l.level), h('small', {}, `${lDone}/${items.length}`)));
   }
 
   // Renderiza a visão ativa (Caderno ou Mapa de Progressão)

@@ -86,6 +86,10 @@ def media_file(key):
     if key not in INDEX:
         raise FileNotFoundError(key)
     size, digest = INDEX[key]
+    bundled = ROOT / 'public' / 'audio-ti' / Path(key).name
+    if valid(bundled, size, digest):
+        yield bundled
+        return
     if key.endswith('.mp3'):
         original = PACKAGED_AUDIO / (digest + '.mp3')
         if valid(original, size, digest):

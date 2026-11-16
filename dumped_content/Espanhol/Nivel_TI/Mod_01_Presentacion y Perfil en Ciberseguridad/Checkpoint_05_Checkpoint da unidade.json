@@ -1,0 +1,482 @@
+{
+  "id": "50c83fb0-4d62-54df-aaca-b0c4b99bd897",
+  "title": "Checkpoint: Apresentação e Perfil em TI & Cibersegurança",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "3eaa5bf7-5f94-5e5c-91a4-b7cd1192b26a",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Qual expressão em espanhol é a mais natural na Espanha para dizer «Trabalho há quatro anos em segurança»?</p>",
+      "contentPlain": "Qual expressão em espanhol é a mais natural na Espanha para dizer «Trabalho há quatro anos em segurança»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, a construção «llevar + tempo + gerúndio» é a forma padrão para indicar tempo contínuo em uma função.",
+      "feedbackError": "Na Espanha, a construção «llevar + tempo + gerúndio» é a forma padrão para indicar tempo contínuo em uma função.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fc04e591-1955-55ac-95ea-f82d4141ef1a",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "084dfb86-364b-5d8b-8652-08afd309b8b7",
+          "textContent": "Llevo cuatro años trabajando en seguridad.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "4a7cc632-94e0-553b-bc80-3d42faad70b7"
+        },
+        {
+          "id": "5bdf6e6b-74d6-5ad4-afa1-a0785de22f03",
+          "textContent": "Tengo cuatro años que trabajo en seguridad.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4a7cc632-94e0-553b-bc80-3d42faad70b7"
+        },
+        {
+          "id": "08719a19-217f-59f6-9bac-5cead211dab4",
+          "textContent": "Soy cuatro años trabajando en seguridad.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4a7cc632-94e0-553b-bc80-3d42faad70b7"
+        },
+        {
+          "id": "adabee63-7684-5e2c-a4df-a5d0b32bdbd1",
+          "textContent": "Hago cuatro años en el trabajo de seguridad.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "4a7cc632-94e0-553b-bc80-3d42faad70b7"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "aa1fb531-5967-5226-96c3-c8e03601b874",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fc04e591-1955-55ac-95ea-f82d4141ef1a",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "bf289bf9-96f5-53fe-be99-7450e69c54af",
+          "exerciseId": "478aa661-4dad-58db-9005-ee8b9d01b24e",
+          "leftContent": "trayectoria profesional",
+          "rightContent": "histórico / carreira profissional",
+          "sequenceItem": 1
+        },
+        {
+          "id": "f327ed08-501e-5d1d-a289-b7a1857f3b66",
+          "exerciseId": "478aa661-4dad-58db-9005-ee8b9d01b24e",
+          "leftContent": "aportar experiencia",
+          "rightContent": "contribuir com experiência",
+          "sequenceItem": 2
+        },
+        {
+          "id": "1b10fb57-2310-5767-9020-5800fa8366bf",
+          "exerciseId": "478aa661-4dad-58db-9005-ee8b9d01b24e",
+          "leftContent": "pruebas de penetración",
+          "rightContent": "testes de intrusão (pentest)",
+          "sequenceItem": 3
+        },
+        {
+          "id": "7d8cd838-62fe-5332-8cca-4d7d4212b691",
+          "exerciseId": "478aa661-4dad-58db-9005-ee8b9d01b24e",
+          "leftContent": "entorno de red",
+          "rightContent": "ambiente de rede",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "1bb8871d-5900-529b-9cbd-6fc5bb1410a0",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Llevo más de tres años _____ en ciberseguridad.</p><p>Tradução: Trabalho há mais de três anos em cibersegurança.</p>",
+      "contentPlain": "Llevo más de tres años _____ en ciberseguridad. Tradução: Trabalho há mais de três anos em cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «trabajando» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «trabajando».",
+      "answerType": "buildWord",
+      "expectedAnswer": "trabajando",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fc04e591-1955-55ac-95ea-f82d4141ef1a",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "cc4a49c0-290a-5c8d-8174-de4c9e983448",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Como dizer de forma profissional que você tem bom domínio prático de ambientes Linux e containers?</p>",
+      "contentPlain": "Como dizer de forma profissional que você tem bom domínio prático de ambientes Linux e containers?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+      "feedbackError": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "15cda0e7-2786-5c97-9109-026791bc96bb",
+      "sequenceItem": 4,
+      "options": [
+        {
+          "id": "b0cd200d-934b-5873-97f0-3db9ade25fc8",
+          "textContent": "Manejo con soltura entornos Linux y contenedores.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "11e63680-3ee4-55da-b1c5-5bf68c41726d"
+        },
+        {
+          "id": "be1d404d-9f9c-51fd-bc00-2c5bf76e6942",
+          "textContent": "Soy muy bueno haciendo cosas en Linux.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "11e63680-3ee4-55da-b1c5-5bf68c41726d"
+        },
+        {
+          "id": "9a1eca05-5eee-558d-a699-a3234074bf35",
+          "textContent": "Toco un poco de Linux cuando hace falta.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "11e63680-3ee4-55da-b1c5-5bf68c41726d"
+        },
+        {
+          "id": "66dfe9bf-8c6b-56cc-a58b-4205e89bae64",
+          "textContent": "Conozco el nombre de los contenedores.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "11e63680-3ee4-55da-b1c5-5bf68c41726d"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "771f4f6a-cb6c-5657-bf9b-d439202c7ca1",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "15cda0e7-2786-5c97-9109-026791bc96bb",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": [
+        {
+          "id": "a30e90a6-95d4-5caf-a127-d7a8ba864479",
+          "exerciseId": "5ab83f4f-4bb7-5527-9113-9b5c51999b31",
+          "leftContent": "manejar con soltura",
+          "rightContent": "dominar com desenvoltura",
+          "sequenceItem": 1
+        },
+        {
+          "id": "5d238ce8-c7d4-5150-97fb-82851ba4f93a",
+          "exerciseId": "5ab83f4f-4bb7-5527-9113-9b5c51999b31",
+          "leftContent": "desplegar servicios",
+          "rightContent": "fazer deploy / implantar serviços",
+          "sequenceItem": 2
+        },
+        {
+          "id": "4ffaeec4-50bd-596e-bfff-7fae6928731f",
+          "exerciseId": "5ab83f4f-4bb7-5527-9113-9b5c51999b31",
+          "leftContent": "automatizar escaneos",
+          "rightContent": "automatizar varreduras",
+          "sequenceItem": 3
+        },
+        {
+          "id": "1e7fc75c-270c-5166-92aa-48dbbfef8fb0",
+          "exerciseId": "5ab83f4f-4bb7-5527-9113-9b5c51999b31",
+          "leftContent": "configuración en la nube",
+          "rightContent": "configuração em nuvem (cloud)",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "72be1fd4-d044-5423-9612-f476662117a3",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Utilizo Python para _____ tareas repetitivas de auditoría.</p><p>Tradução: Utilizo Python para automatizar tarefas repetitivas de auditoria.</p>",
+      "contentPlain": "Utilizo Python para _____ tareas repetitivas de auditoría. Tradução: Utilizo Python para automatizar tarefas repetitivas de auditoria.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «automatizar» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «automatizar».",
+      "answerType": "buildWord",
+      "expectedAnswer": "automatizar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "15cda0e7-2786-5c97-9109-026791bc96bb",
+      "sequenceItem": 6,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d392d696-24f7-564d-ac63-c1ca44c07823",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Qual expressão significa «Fiquei responsável por auditar a plataforma»?</p>",
+      "contentPlain": "Qual expressão significa «Fiquei responsável por auditar a plataforma»?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Encargarse de + infinitivo» é a construção perfeita para descrever responsabilidades em projetos.",
+      "feedbackError": "«Encargarse de + infinitivo» é a construção perfeita para descrever responsabilidades em projetos.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "af445284-7930-5a84-967e-fcba5d85b0e9",
+      "sequenceItem": 7,
+      "options": [
+        {
+          "id": "86bf0b31-213b-53f9-9616-b3d99d8c7f71",
+          "textContent": "Me encargué de auditar la plataforma.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "aba9be68-9593-5d31-a32a-1eac616d822f"
+        },
+        {
+          "id": "a008d015-aba3-530a-9ac1-d68fcd8057e2",
+          "textContent": "Me quedé por cuenta de la plataforma.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "aba9be68-9593-5d31-a32a-1eac616d822f"
+        },
+        {
+          "id": "a62b1852-7244-54fd-b908-429c5a50d397",
+          "textContent": "Hice una mirada en la plataforma.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "aba9be68-9593-5d31-a32a-1eac616d822f"
+        },
+        {
+          "id": "ca068993-b582-57c0-9ab1-853a7766dbc9",
+          "textContent": "Pasé cerca de la auditoría.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "aba9be68-9593-5d31-a32a-1eac616d822f"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a2f6061e-cb0d-5a0a-b3d4-f78c31485d44",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "af445284-7930-5a84-967e-fcba5d85b0e9",
+      "sequenceItem": 8,
+      "options": [],
+      "associations": [
+        {
+          "id": "4a373e10-677a-5b09-a4af-95a05de342f8",
+          "exerciseId": "9eb0bc75-76ac-5736-812c-1a401230cc76",
+          "leftContent": "salida a producción",
+          "rightContent": "entrada em produção (go-live)",
+          "sequenceItem": 1
+        },
+        {
+          "id": "fba090fa-1f04-5597-b36c-a619299de19f",
+          "exerciseId": "9eb0bc75-76ac-5736-812c-1a401230cc76",
+          "leftContent": "un fallo crítico",
+          "rightContent": "uma falha / bug crítico",
+          "sequenceItem": 2
+        },
+        {
+          "id": "078f7ad5-8654-5607-9cf3-ec6c6019b67e",
+          "exerciseId": "9eb0bc75-76ac-5736-812c-1a401230cc76",
+          "leftContent": "aplicar el parche",
+          "rightContent": "aplicar a correção / patch",
+          "sequenceItem": 3
+        },
+        {
+          "id": "9dd4ab5a-c096-59fa-a2f9-6d1be46e1b75",
+          "exerciseId": "9eb0bc75-76ac-5736-812c-1a401230cc76",
+          "leftContent": "datos sensibles",
+          "rightContent": "dados sensíveis / confidenciais",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "e2427ff2-9365-530e-8277-120cdeff4ec2",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Identifiqué una vulnerabilidad y ayudé al equipo a aplicar el _____.</p><p>Tradução: Identifiquei uma vulnerabilidade e ajudei a equipe a aplicar o patch.</p>",
+      "contentPlain": "Identifiqué una vulnerabilidad y ayudé al equipo a aplicar el _____. Tradução: Identifiquei uma vulnerabilidade e ajudei a equipe a aplicar o patch.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «parche» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «parche».",
+      "answerType": "buildWord",
+      "expectedAnswer": "parche",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "af445284-7930-5a84-967e-fcba5d85b0e9",
+      "sequenceItem": 9,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "dc6c6e8c-07dd-5ffb-99ad-2fafb70adc82",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Como os salários de TI e Cibersegurança são informados nas entrevistas na Espanha?</p>",
+      "contentPlain": "Como os salários de TI e Cibersegurança são informados nas entrevistas na Espanha?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, toda negociação salarial em TI é feita em euros brutos anuais («brutos anuales»).",
+      "feedbackError": "Na Espanha, toda negociação salarial em TI é feita em euros brutos anuais («brutos anuales»).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e12dbc13-4ea4-57d6-bea3-b438cf8ee1f2",
+      "sequenceItem": 10,
+      "options": [
+        {
+          "id": "9a97ffeb-ebc4-52a0-b4b1-7d2c3efd0f27",
+          "textContent": "Em valor bruto anual (ex.: euros brutos anuales), falando em «banda» ou «horquilla salarial».",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "3121e5d1-d128-58ca-9dee-3983a5a9246b"
+        },
+        {
+          "id": "13eb4512-8eda-5bf4-8ee3-4160193b57d2",
+          "textContent": "Sempre pelo valor líquido por hora trabalhada.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3121e5d1-d128-58ca-9dee-3983a5a9246b"
+        },
+        {
+          "id": "23d551c8-1b9c-51da-a58a-3d671ae3ccda",
+          "textContent": "Apenas pelo salário mínimo mensal sem impostos.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3121e5d1-d128-58ca-9dee-3983a5a9246b"
+        },
+        {
+          "id": "d63ee865-d87a-50b3-a1eb-9d46656b10be",
+          "textContent": "Em salários semanais pagos às sextas-feiras.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "3121e5d1-d128-58ca-9dee-3983a5a9246b"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2cefd856-1bf2-533b-bbfb-85ac4edc000d",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e12dbc13-4ea4-57d6-bea3-b438cf8ee1f2",
+      "sequenceItem": 11,
+      "options": [],
+      "associations": [
+        {
+          "id": "deb840b3-8d8d-551a-80f4-a0654f5956cd",
+          "exerciseId": "c334e90a-f06a-5a69-a0a7-b1b04dd0a019",
+          "leftContent": "incorporación inmediata",
+          "rightContent": "início imediato na vaga",
+          "sequenceItem": 1
+        },
+        {
+          "id": "d2c02df5-a8f2-5935-bf3c-76868617f176",
+          "exerciseId": "c334e90a-f06a-5a69-a0a7-b1b04dd0a019",
+          "leftContent": "horquilla / banda salarial",
+          "rightContent": "faixa salarial",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b36e81fb-9fb2-58b6-9066-d6c6119f8f20",
+          "exerciseId": "c334e90a-f06a-5a69-a0a7-b1b04dd0a019",
+          "leftContent": "euros brutos anuales",
+          "rightContent": "euros brutos por ano",
+          "sequenceItem": 3
+        },
+        {
+          "id": "d173ec90-3a06-5894-8760-8c0718ea77b6",
+          "exerciseId": "c334e90a-f06a-5a69-a0a7-b1b04dd0a019",
+          "leftContent": "modalidad híbrida / teletrabajo",
+          "rightContent": "modelo híbrido / home office",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "a9b8903f-7565-5538-8316-77c0ac1e1f0b",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Busco una banda salarial acorde a las responsabilidades del _____.</p><p>Tradução: Busco uma faixa salarial de acordo com as responsabilidades do cargo/vaga.</p>",
+      "contentPlain": "Busco una banda salarial acorde a las responsabilidades del _____. Tradução: Busco uma faixa salarial de acordo com as responsabilidades do cargo/vaga.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «puesto» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «puesto».",
+      "answerType": "buildWord",
+      "expectedAnswer": "puesto",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e12dbc13-4ea4-57d6-bea3-b438cf8ee1f2",
+      "sequenceItem": 12,
+      "options": [],
+      "associations": []
+    }
+  ]
+}

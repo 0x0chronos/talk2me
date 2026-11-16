@@ -1,0 +1,326 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "2a53c32e-314c-59af-92fd-37f5242df514",
+    "attemptId": "551b828b-5604-5f8d-8cee-eacaad2fe2da",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [],
+    "practiceExerciseIds": [
+      "59775b7f-2af4-54e0-8a4b-a850dc48e805",
+      "5e9d0820-4c8d-578d-a1cc-9504080c447f",
+      "b0db2bba-0475-5cc1-9419-256b1139c8ea",
+      "65da73ce-726e-5ed6-b4cc-e0e5e1a46207"
+    ],
+    "evaluationExerciseIds": [
+      "a936fe38-cf1a-59c3-94d6-b2756f555caf"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "8f69a2ca-0219-53fe-a8a1-53b1d4565980",
+      "title": "Escute e pratique a expressão técnica em contexto real de entrevista.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "1167bb08-c160-5183-8582-3e4a328b3194",
+          "textContent": "<p>Evidência prática + diálogo construtivo é sempre a melhor resposta.</p><p><strong>Si un desarrollador cuestiona la severidad de un hallazgo, le muestro una prueba de concepto práctica y analizamos juntos el contexto.</strong></p><p>Em português: <strong>Se um desenvolvedor questiona a severidade de um achado, mostro uma prova de conceito prática e analisamos juntos o contexto.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d67de36f-9106-55de-8830-c8b41acbf455",
+      "title": "Escute e pratique a expressão técnica em contexto real de entrevista.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "8fb7f6a8-f3b5-5103-8515-c6c496e34273",
+          "textContent": "<p>«No es señalar culpables, sino colaborar» é uma frase de altíssimo impacto em entrevistas.</p><p><strong>Mi objetivo no es señalar culpables, sino colaborar con el equipo para que la aplicación sea más segura.</strong></p><p>Em português: <strong>Meu objetivo não é apontar culpados, mas sim colaborar com a equipe para que a aplicação seja mais segura.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f832bf24-64e5-5040-a192-61fc8e017836",
+      "title": "Escute e pratique a expressão técnica em contexto real de entrevista.",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "f40980cf-fedd-5a8c-be72-4e65570e0ea6",
+          "textContent": "<p>Transparência + prevenção futura responde perfeitamente à pergunta sobre erros.</p><p><strong>Cuando cometo un error, lo comunico con transparencia, aplico la corrección y documento el procedimiento para que no vuelva a ocurrir.</strong></p><p>Em português: <strong>Quando cometo um erro, comunico com transparência, aplico a correção e documento o procedimento para que não volte a acontecer.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "23041a84-2e5c-5902-81d4-1a73d00c10ab",
+      "title": "Guia prático para entrevistas de TI e Cibersegurança na Espanha",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "793580a0-a927-5cd8-9193-73502c8e10bc",
+          "textContent": "<p>Perguntas comportamentais (<em>Behavioral Questions</em>) muito comuns na Espanha:</p><ul><li><strong>«¿Qué haces cuando un desarrollador no está de acuerdo con la severidad de un hallazgo?»</strong></li><li><strong>«Cuéntame algún error técnico que hayas cometido y qué aprendiste.»</strong></li><li>Segredo: nunca culpe os outros; mostre empatia, evidência técnica e melhoria de processo.</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2ee04381-559d-5cd8-bb01-5355dc92614d",
+      "title": "Lidando com resistência da equipe de desenvolvimento",
+      "description": "<p>Laura pergunta como você age quando um desenvolvedor diz que seu relatório está exagerado.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Cómo gestionas la situación cuando el equipo de desarrollo dice que una vulnerabilidad reportada no tiene importancia?</div>\n  <div style=\"opacity: 0.55;\">Como você gerencia a situação quando a equipe de desenvolvimento diz que uma vulnerabilidade reportada não tem importância?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Tú)</div>\n  <div style=\"font-weight: 700;\">Escucho sus argumentos para entender si existe algún control interno que yo no haya visto y les enseño la prueba de concepto en una llamada corta.</div>\n  <div style=\"opacity: 0.55;\">Escuto os argumentos deles para entender se existe algum controle interno que eu não tenha visto e mostro a prova de conceito em uma chamada rápida.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y qué haces para mantener una buena relación con ellos a largo plazo?</div>\n  <div style=\"opacity: 0.55;\">E o que você faz para manter um bom relacionamento com eles no longo prazo?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Tú)</div>\n  <div style=\"font-weight: 700;\">Les propongo soluciones concretas en su propio código en lugar de limitarme a entregar una lista de problemas.</div>\n  <div style=\"opacity: 0.55;\">Proponho a eles soluções concretas no próprio código em vez de me limitar a entregar uma lista de problemas.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [],
+  "practiceExercises": [
+    {
+      "id": "59775b7f-2af4-54e0-8a4b-a850dc48e805",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Qual postura é mais valorizada em entrevistas na Espanha ao responder sobre conflitos com a equipe de desenvolvimento?</p>",
+      "contentPlain": "Qual postura é mais valorizada em entrevistas na Espanha ao responder sobre conflitos com a equipe de desenvolvimento?",
+      "fileUrl": null,
+      "feedbackSuccess": "Empatia técnica e foco em solução conjunta são altamente avaliados na cultura de trabalho espanhola.",
+      "feedbackError": "Empatia técnica e foco em solução conjunta são altamente avaliados na cultura de trabalho espanhola.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "2a53c32e-314c-59af-92fd-37f5242df514",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "31c1a62f-94d8-5e23-821a-faabac061105",
+          "textContent": "Ouvir o contexto, demonstrar o impacto com uma PoC e propor a correção de forma colaborativa.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "59775b7f-2af4-54e0-8a4b-a850dc48e805"
+        },
+        {
+          "id": "dbd5b082-bf1c-5c26-a2c8-ceb77c741e02",
+          "textContent": "Escalar imediatamente para a diretoria para punir o desenvolvedor.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "59775b7f-2af4-54e0-8a4b-a850dc48e805"
+        },
+        {
+          "id": "799b78ea-7758-5e39-8bb3-981965fde781",
+          "textContent": "Ignorar a falha e apagá-la do relatório sem verificar.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "59775b7f-2af4-54e0-8a4b-a850dc48e805"
+        },
+        {
+          "id": "487110f7-c145-5e28-ba01-a2edc1e3a10e",
+          "textContent": "Discutir por e-mail dizendo que o código deles é ruim.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "59775b7f-2af4-54e0-8a4b-a850dc48e805"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5e9d0820-4c8d-578d-a1cc-9504080c447f",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "2a53c32e-314c-59af-92fd-37f5242df514",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "7e258010-982a-5e8f-b732-88cf9705d76c",
+          "exerciseId": "5e9d0820-4c8d-578d-a1cc-9504080c447f",
+          "leftContent": "señalar culpables",
+          "rightContent": "apontar culpados",
+          "sequenceItem": 1
+        },
+        {
+          "id": "2a17cfea-6101-5a0e-aa2a-a97c0753140c",
+          "exerciseId": "5e9d0820-4c8d-578d-a1cc-9504080c447f",
+          "leftContent": "comunicar con transparencia",
+          "rightContent": "comunicar com transparência",
+          "sequenceItem": 2
+        },
+        {
+          "id": "ec290471-3f33-5812-9caf-2c59eac90317",
+          "exerciseId": "5e9d0820-4c8d-578d-a1cc-9504080c447f",
+          "leftContent": "cuestionar la severidad",
+          "rightContent": "questionar a gravidade / criticidade",
+          "sequenceItem": 3
+        },
+        {
+          "id": "7860f718-1b8f-55bf-8351-ab77fb972a19",
+          "exerciseId": "5e9d0820-4c8d-578d-a1cc-9504080c447f",
+          "leftContent": "proponer soluciones concretas",
+          "rightContent": "propor soluções práticas",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "b0db2bba-0475-5cc1-9419-256b1139c8ea",
+      "title": "Compreensão auditiva da entrevista",
+      "content": "<p>Escute cada gravação da simulação de entrevista e associe à fala correspondente em espanhol.</p>",
+      "contentPlain": "Escute cada gravação da simulação de entrevista e associe à fala correspondente em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Muito bem! A escuta ativa das perguntas e respostas prepara você para entrevistas por chamada.",
+      "feedbackError": "Escute novamente os áudios prestando atenção às palavras-chave técnicas.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "2a53c32e-314c-59af-92fd-37f5242df514",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "037a584d-74ba-5629-87ed-ff2128e1f41b",
+          "exerciseId": "b0db2bba-0475-5cc1-9419-256b1139c8ea",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_d1.mp3",
+          "rightContent": "¿Cómo gestionas la situación cuando el equipo de desarrollo dice que una vulnerabilidad reportada no tiene importancia?",
+          "sequenceItem": 1
+        },
+        {
+          "id": "0eba7afa-aa7b-56f3-abd9-61499af25a91",
+          "exerciseId": "b0db2bba-0475-5cc1-9419-256b1139c8ea",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_d2.mp3",
+          "rightContent": "Escucho sus argumentos para entender si existe algún control interno que yo no haya visto y les enseño la prueba de concepto en una llamada corta.",
+          "sequenceItem": 2
+        },
+        {
+          "id": "05a09174-5b8d-564c-9d79-ab200b40f020",
+          "exerciseId": "b0db2bba-0475-5cc1-9419-256b1139c8ea",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_d3.mp3",
+          "rightContent": "¿Y qué haces para mantener una buena relación con ellos a largo plazo?",
+          "sequenceItem": 3
+        },
+        {
+          "id": "465e9f5b-78a7-5363-8f56-9ada90ff7377",
+          "exerciseId": "b0db2bba-0475-5cc1-9419-256b1139c8ea",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_d4.mp3",
+          "rightContent": "Les propongo soluciones concretas en su propio código en lugar de limitarme a entregar una lista de problemas.",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "65da73ce-726e-5ed6-b4cc-e0e5e1a46207",
+      "title": "Treino de pronúncia para a entrevista",
+      "content": "<p>Escute o modelo e fale em voz alta sua resposta como se estivesse diante do entrevistador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta sua resposta como se estivesse diante do entrevistador.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l02_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Mi objetivo es colaborar con el equipo para que la aplicación sea más segura.",
+      "typeSpecificData": "{\"expectedText\": \"Mi objetivo es colaborar con el equipo para que la aplicación sea más segura.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m04_l02_spk.mp3\", \"minSimilarity\": 0.78, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "2a53c32e-314c-59af-92fd-37f5242df514",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "a936fe38-cf1a-59c3-94d6-b2756f555caf",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Mi objetivo no es señalar culpables, sino _____ con el equipo.</p><p>Tradução: Meu objetivo não é apontar culpados, mas sim colaborar com a equipe.</p>",
+      "contentPlain": "Mi objetivo no es señalar culpables, sino _____ con el equipo. Tradução: Meu objetivo não é apontar culpados, mas sim colaborar com a equipe.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «colaborar» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «colaborar».",
+      "answerType": "buildWord",
+      "expectedAnswer": "colaborar",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "2a53c32e-314c-59af-92fd-37f5242df514",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "title": "Perguntas de Pressão: Discordâncias com Devs e Aprendizado com Erros"
+}

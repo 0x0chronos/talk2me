@@ -1,0 +1,482 @@
+{
+  "id": "6f181a8f-b106-5562-988b-d5bc00181182",
+  "title": "Checkpoint: Blue Team, SOC, Resposta a Incidentes e Normas na Espanha (ENS / RGPD)",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "2743b786-7965-56b0-93f0-af68b7466c0f",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Como um analista na Espanha diz «disparou um alerta por tentativas falhas de login»?</p>",
+      "contentPlain": "Como um analista na Espanha diz «disparou um alerta por tentativas falhas de login»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, usa-se o verbo «saltar» para alertas/alarmes («salta una alerta») e «inicio de sesión» para login.",
+      "feedbackError": "Na Espanha, usa-se o verbo «saltar» para alertas/alarmes («salta una alerta») e «inicio de sesión» para login.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "26e082a4-efe6-56ad-b6a1-814c80822131",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "b7463764-a15e-51d3-8e73-56f03025cce0",
+          "textContent": "Ha saltado una alerta por intentos fallidos de inicio de sesión.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "9f3d9a3b-af3a-55d8-97b4-11b5b699afcd"
+        },
+        {
+          "id": "af7366a6-6718-562d-b3b4-ce721227e14e",
+          "textContent": "Ha gritado un aviso por pruebas rotas de entrada.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9f3d9a3b-af3a-55d8-97b4-11b5b699afcd"
+        },
+        {
+          "id": "6f7c2049-7ef3-54db-bd28-8c5721d73cbe",
+          "textContent": "Subió una alarma de logins perdidos.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9f3d9a3b-af3a-55d8-97b4-11b5b699afcd"
+        },
+        {
+          "id": "8d93becd-12b8-55ca-915d-3b6b6d438b7a",
+          "textContent": "Tocó una sirena de cuentas malas.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "9f3d9a3b-af3a-55d8-97b4-11b5b699afcd"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "63f12f6f-2386-5227-a0b1-5062de254f28",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "26e082a4-efe6-56ad-b6a1-814c80822131",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "97b6b6ae-0ae2-53ec-9224-e8830708c375",
+          "exerciseId": "79724b52-ae83-5a02-aeeb-985b7d2457fe",
+          "leftContent": "triaje de alertas",
+          "rightContent": "triagem de alertas no SOC",
+          "sequenceItem": 1
+        },
+        {
+          "id": "47370711-73a9-5184-be39-6b8f2e58b294",
+          "exerciseId": "79724b52-ae83-5a02-aeeb-985b7d2457fe",
+          "leftContent": "registros de eventos",
+          "rightContent": "logs do sistema / auditoria",
+          "sequenceItem": 2
+        },
+        {
+          "id": "0de17e21-348c-5440-8d06-0d7d48fb6722",
+          "exerciseId": "79724b52-ae83-5a02-aeeb-985b7d2457fe",
+          "leftContent": "indicadores de compromiso",
+          "rightContent": "IoCs (hashes, IPs, domínios maliciosos)",
+          "sequenceItem": 3
+        },
+        {
+          "id": "de8d97cb-82d1-5656-ba0f-2ec1cfa57add",
+          "exerciseId": "79724b52-ae83-5a02-aeeb-985b7d2457fe",
+          "leftContent": "intentos fallidos de inicio de sesión",
+          "rightContent": "tentativas falhas de login",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "46548c4f-9372-582d-912f-4beda59548c2",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Cruzamos los indicadores de _____ con fuentes de inteligencia de amenazas.</p><p>Tradução: Cruzamos os indicadores de comprometimento com fontes de inteligência de ameaças.</p>",
+      "contentPlain": "Cruzamos los indicadores de _____ con fuentes de inteligencia de amenazas. Tradução: Cruzamos os indicadores de comprometimento com fontes de inteligência de ameaças.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «compromiso» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «compromiso».",
+      "answerType": "buildWord",
+      "expectedAnswer": "compromiso",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "26e082a4-efe6-56ad-b6a1-814c80822131",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "a3eb1917-a8c7-52bb-9632-861d37a2ea1e",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Quais são os termos em espanhol da Espanha para «phishing», «backups» e «security awareness»?</p>",
+      "contentPlain": "Quais são os termos em espanhol da Espanha para «phishing», «backups» e «security awareness»?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Suplantación de identidad», «copias de seguridad» e «concienciación» (sem o 't' do português) são os termos corretos na Espanha.",
+      "feedbackError": "«Suplantación de identidad», «copias de seguridad» e «concienciación» (sem o 't' do português) são os termos corretos na Espanha.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "06674944-bf5c-5abe-9c02-41c5f6d9c6b8",
+      "sequenceItem": 4,
+      "options": [
+        {
+          "id": "be896184-b3c6-564b-b39e-ed70f3dfe89d",
+          "textContent": "Suplantación de identidad, copias de seguridad y concienciación.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "7018ef9c-a77c-54d7-843a-0f35d8ea8a81"
+        },
+        {
+          "id": "65de0c99-20aa-5042-a3e2-f8f9d7cf7328",
+          "textContent": "Pesca de usuarios, guardados traseros y aviso general.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7018ef9c-a77c-54d7-843a-0f35d8ea8a81"
+        },
+        {
+          "id": "418e480e-4928-5c54-8bc4-49142c356bc9",
+          "textContent": "Falsedad de red, archivos dobles y atención segura.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7018ef9c-a77c-54d7-843a-0f35d8ea8a81"
+        },
+        {
+          "id": "16467e97-74ba-59db-ac72-f722f2a4039a",
+          "textContent": "Clonación de correo, reservas y entrenamiento simple.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "7018ef9c-a77c-54d7-843a-0f35d8ea8a81"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "62d63513-828f-5adb-adbd-ffd0a7d23da8",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "06674944-bf5c-5abe-9c02-41c5f6d9c6b8",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": [
+        {
+          "id": "5b9dc934-cdf6-5dc9-8738-1c78291853ff",
+          "exerciseId": "29563f5e-e533-532c-acb5-8ffdc92a9ad9",
+          "leftContent": "brecha de seguridad",
+          "rightContent": "violação de segurança (data breach)",
+          "sequenceItem": 1
+        },
+        {
+          "id": "c891319c-e386-5c36-b43d-61c868089e6c",
+          "exerciseId": "29563f5e-e533-532c-acb5-8ffdc92a9ad9",
+          "leftContent": "suplantación de identidad",
+          "rightContent": "phishing / falsificação de identidade",
+          "sequenceItem": 2
+        },
+        {
+          "id": "3f0ffe54-da00-5af4-b116-585a80e2c98c",
+          "exerciseId": "29563f5e-e533-532c-acb5-8ffdc92a9ad9",
+          "leftContent": "copias de seguridad",
+          "rightContent": "backups",
+          "sequenceItem": 3
+        },
+        {
+          "id": "db1e9940-a1fe-5642-852f-d409875ece3e",
+          "exerciseId": "29563f5e-e533-532c-acb5-8ffdc92a9ad9",
+          "leftContent": "aislar el equipo de la red",
+          "rightContent": "isolar a máquina da rede",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "baa30138-c005-5789-a8ff-a380a84fb8be",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Restauramos el servicio utilizando las _____ de seguridad verificadas.</p><p>Tradução: Restauramos o serviço utilizando os backups verificados.</p>",
+      "contentPlain": "Restauramos el servicio utilizando las _____ de seguridad verificadas. Tradução: Restauramos o serviço utilizando os backups verificados.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «copias» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «copias».",
+      "answerType": "buildWord",
+      "expectedAnswer": "copias",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "06674944-bf5c-5abe-9c02-41c5f6d9c6b8",
+      "sequenceItem": 6,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "a477828f-a195-5075-af3f-16f3a36656d0",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>Qual é o termo técnico usado na Espanha (inclusive pelo CCN-CERT) para se referir a «System Hardening»?</p>",
+      "contentPlain": "Qual é o termo técnico usado na Espanha (inclusive pelo CCN-CERT) para se referir a «System Hardening»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, as guias oficiais do CCN-CERT e as vagas de emprego usam o termo «bastionado de sistemas» para *hardening*.",
+      "feedbackError": "Na Espanha, as guias oficiais do CCN-CERT e as vagas de emprego usam o termo «bastionado de sistemas» para *hardening*.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9cbe3ce9-659f-53c4-a117-15f0e318f3d2",
+      "sequenceItem": 7,
+      "options": [
+        {
+          "id": "fd1d3138-36b7-56ee-b0ac-2bd7002e9538",
+          "textContent": "Bastionado de sistemas.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "c7940c2b-c222-5497-8a18-55e332ab9cac"
+        },
+        {
+          "id": "8333e9db-0334-5e0f-b642-fe660d312418",
+          "textContent": "Endurecimiento de máquinas.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7940c2b-c222-5497-8a18-55e332ab9cac"
+        },
+        {
+          "id": "d1ca8c34-0066-503a-95f9-3721fb772830",
+          "textContent": "Blindaje pesado.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7940c2b-c222-5497-8a18-55e332ab9cac"
+        },
+        {
+          "id": "71231c77-b55b-5b76-8897-1b11b25915fc",
+          "textContent": "Fortificación manual.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "c7940c2b-c222-5497-8a18-55e332ab9cac"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5cb0b1d1-4979-5302-b919-ac9931d2d9cc",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9cbe3ce9-659f-53c4-a117-15f0e318f3d2",
+      "sequenceItem": 8,
+      "options": [],
+      "associations": [
+        {
+          "id": "c655c8b5-beb2-5515-8e1c-487180d77e2c",
+          "exerciseId": "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+          "leftContent": "bastionado de sistemas",
+          "rightContent": "hardening de sistemas / servidores",
+          "sequenceItem": 1
+        },
+        {
+          "id": "66bd4955-2298-54bf-ac30-d13c7d0a001d",
+          "exerciseId": "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+          "leftContent": "principio de mínimo privilegio",
+          "rightContent": "princípio do menor privilégio",
+          "sequenceItem": 2
+        },
+        {
+          "id": "b332d5c3-0595-5bb9-84c7-7174d5d27ab2",
+          "exerciseId": "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+          "leftContent": "cortafuegos",
+          "rightContent": "firewall",
+          "sequenceItem": 3
+        },
+        {
+          "id": "8f5534d4-3d17-5cd5-99ee-2885f3f94dfc",
+          "exerciseId": "99ee3d96-0c54-5dde-8ca1-02af80d77956",
+          "leftContent": "clave pública",
+          "rightContent": "chave pública (SSH / criptografia)",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "21456320-d69a-528c-84d5-018ec15065fd",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>Aplicamos guías de _____ para asegurar los servidores en producción.</p><p>Tradução: Aplicamos guias de hardening (bastionado) para proteger os servidores em produção.</p>",
+      "contentPlain": "Aplicamos guías de _____ para asegurar los servidores en producción. Tradução: Aplicamos guias de hardening (bastionado) para proteger os servidores em produção.",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «bastionado» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «bastionado».",
+      "answerType": "buildWord",
+      "expectedAnswer": "bastionado",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9cbe3ce9-659f-53c4-a117-15f0e318f3d2",
+      "sequenceItem": 9,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c2499032-2d1a-51bc-b755-5f5098e8a528",
+      "title": "Decisão em entrevista técnica",
+      "content": "<p>O que é o «ENS» que aparece na maioria das vagas de cibersegurança em consultorias na Espanha?</p>",
+      "contentPlain": "O que é o «ENS» que aparece na maioria das vagas de cibersegurança em consultorias na Espanha?",
+      "fileUrl": null,
+      "feedbackSuccess": "O Esquema Nacional de Seguridad (ENS) é exigido de praticamente todas as consultorias e empresas de TI que atendem clientes na Espanha.",
+      "feedbackError": "O Esquema Nacional de Seguridad (ENS) é exigido de praticamente todas as consultorias e empresas de TI que atendem clientes na Espanha.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b10ecf85-71c9-5bb0-b7e3-416c58434eae",
+      "sequenceItem": 10,
+      "options": [
+        {
+          "id": "40cee618-f1fd-510e-8487-307e0dd01eec",
+          "textContent": "Esquema Nacional de Seguridad, o padrão espanhol de segurança para órgãos públicos e fornecedores.",
+          "incorrectReason": null,
+          "isCorrect": true,
+          "exerciseId": "a5c25576-a19c-5e4e-b0f3-6105ed920cd2"
+        },
+        {
+          "id": "8cc7aab6-2c78-563c-aaa9-bece24bc87f5",
+          "textContent": "Escuela Nacional de Software, um curso universitário obrigatório.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a5c25576-a19c-5e4e-b0f3-6105ed920cd2"
+        },
+        {
+          "id": "3e7ef087-383c-525a-8652-81da8e4370e9",
+          "textContent": "Estándar Nuevo de Servidores, protocolo exclusivo de roteadores.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a5c25576-a19c-5e4e-b0f3-6105ed920cd2"
+        },
+        {
+          "id": "bc2107c6-22f4-5077-bf9f-955295996e67",
+          "textContent": "Equipo Neutral de Soporte, sindicato de técnicos de informática.",
+          "incorrectReason": null,
+          "isCorrect": false,
+          "exerciseId": "a5c25576-a19c-5e4e-b0f3-6105ed920cd2"
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "49495b9f-63d2-56b8-934b-c19c66721012",
+      "title": "Domine o vocabulário técnico da vaga",
+      "content": "<p>Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.</p>",
+      "contentPlain": "Relacione cada termo ou expressão em espanhol ao seu significado no mercado de TI e Cibersegurança.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Dominar esses termos evita traduções literais durante a entrevista.",
+      "feedbackError": "Revise a equivalência exata dos termos técnicos usados na Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "b10ecf85-71c9-5bb0-b7e3-416c58434eae",
+      "sequenceItem": 11,
+      "options": [],
+      "associations": [
+        {
+          "id": "79d4cc6b-1c63-5891-b7c5-d2f7542a2639",
+          "exerciseId": "a9b7c3b0-d935-5b7f-8be0-81b55315ade7",
+          "leftContent": "Esquema Nacional de Seguridad (ENS)",
+          "rightContent": "padrão oficial de segurança da Espanha",
+          "sequenceItem": 1
+        },
+        {
+          "id": "653111f1-58b5-5a1e-8fe5-bf2a5e43463d",
+          "exerciseId": "a9b7c3b0-d935-5b7f-8be0-81b55315ade7",
+          "leftContent": "RGPD",
+          "rightContent": "Regulamento Geral de Proteção de Dados (GDPR na Espanha)",
+          "sequenceItem": 2
+        },
+        {
+          "id": "a557929f-e17b-5a49-933c-f10499fdb901",
+          "exerciseId": "a9b7c3b0-d935-5b7f-8be0-81b55315ade7",
+          "leftContent": "INCIBE / CCN-CERT",
+          "rightContent": "centros oficiais de cibersegurança da Espanha",
+          "sequenceItem": 3
+        },
+        {
+          "id": "8f20b4dd-39b1-5991-bc07-815299847082",
+          "exerciseId": "a9b7c3b0-d935-5b7f-8be0-81b55315ade7",
+          "leftContent": "cumplimiento normativo",
+          "rightContent": "conformidade regulatória (compliance)",
+          "sequenceItem": 4
+        }
+      ]
+    },
+    {
+      "id": "92f41e7f-7653-5eb7-85f6-9711a287aeb4",
+      "title": "Complete o termo técnico chave",
+      "content": "<p>En España es muy valorado conocer el Esquema Nacional de _____.</p><p>Tradução: Na Espanha é muito valorizado conhecer o Esquema Nacional de Segurança (ENS).</p>",
+      "contentPlain": "En España es muy valorado conocer el Esquema Nacional de _____. Tradução: Na Espanha é muito valorizado conhecer o Esquema Nacional de Segurança (ENS).",
+      "fileUrl": null,
+      "feedbackSuccess": "Correto! «Seguridad» é o termo exato para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «Seguridad».",
+      "answerType": "buildWord",
+      "expectedAnswer": "Seguridad",
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "b10ecf85-71c9-5bb0-b7e3-416c58434eae",
+      "sequenceItem": 12,
+      "options": [],
+      "associations": []
+    }
+  ]
+}
