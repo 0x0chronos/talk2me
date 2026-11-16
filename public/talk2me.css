@@ -45,3 +45,63 @@ html[data-theme="dark"]{--pick-ink:#9cc0ff;--pick-bg:#16253f;--pick-line:#4f7fd1
   .match-cols .pair-num{width:18px;height:18px}
   .match-cols .right svg{display:none}
 }
+
+/* Cores de cartazes espanhóis e arcadas desenhadas com CSS. */
+:root,html[data-course="es"] {
+  --paper:#f7f3eb; --sheet:#fffdf8; --sheet-tint:#f3ece0; --sheet-hover:#fbf1de;
+  --ink:#312720; --muted:#6f6256; --seam:#ded3c2; --seam-soft:#ede5d9;
+  --cover:#792334; --cover-deep:#581827; --cover-ink:#fffaef; --cover-muted:#f1dccc;
+  --accent:#912d3c; --accent-hover:#712032; --accent-soft:#f6e4e0; --accent-line:#bf7b7b;
+  --cta-bg:#812638; --cta-ink:#fffaf1; --cta-hover:#651b2a; --foil:#902e40;
+  --foil-bar:#b47613; --top-accent:#aa293d;
+}
+html[data-course="es"][data-theme="dark"] {
+  --paper:#201c1d; --sheet:#2b2526; --sheet-tint:#362e30; --sheet-hover:#423236;
+  --ink:#faf1e5; --muted:#c9b8ac; --seam:#514345; --seam-soft:#403638;
+  --cover:#631e30; --cover-deep:#481624; --cover-ink:#fff6e4; --cover-muted:#efdbce;
+  --accent:#ffb6b9; --accent-hover:#ffd1d1; --accent-soft:#4b3036; --accent-line:#aa7079;
+  --cta-bg:#edb95e; --cta-hover:#f5ca7e; --cta-ink:#30221b;
+}
+.wordmark span{color:var(--accent)}
+.login-story,.banner{background:var(--cover);color:var(--cover-ink)}
+.login-story{isolation:isolate}
+.login-story .wordmark span,.login-story .eyebrow,.banner .eyebrow{color:#ffd17c}
+.login-story>p:not(.eyebrow),.login-story small,.banner p{color:var(--cover-muted)}
+.login-story h1,.banner h1{color:var(--cover-ink)}
+.login-story:after,.banner-copy:after{
+  content:"";position:absolute;pointer-events:none;width:15rem;height:22rem;
+  border-radius:9rem 9rem 0 0; border:1px solid #dda47b66;
+  background: radial-gradient(circle at 64% 27%,#edb95e 0 9%,transparent 9.4%),
+    linear-gradient(151deg,transparent 52%,#ab4e4d 52.3% 68%,transparent 68.3%),
+    linear-gradient(26deg,#692034 30%,#b66855 30.3% 43%,#d69a78 43.3% 62%,#efe0bd 62.3%);
+  box-shadow:0 0 0 10px #842f41,0 0 0 11px #c9876e66,0 0 0 21px #842f41,0 0 0 22px #c9876e55;
+}
+.login-story:after{right:-4rem;bottom:-8rem;z-index:-1;transform:rotate(-6deg)}
+.login-art{display:none}
+.login-story .wordmark{margin-bottom:clamp(40px,13vh,130px)}
+.login-story small{margin-top:36px}
+.banner-copy{position:relative;isolation:isolate}
+.banner-copy:after{width:7rem;height:11rem;right:5%;bottom:-4.5rem;z-index:-1;opacity:.55}
+.banner-copy h1,.banner-copy p{position:relative;max-width:80%}
+.banner{border-bottom:4px solid #d9a248}
+.visa-cta{position:relative;color:var(--ink)}
+.resume-badge,.mobile-nav button.selected{color:var(--accent)}
+html[data-theme="dark"] .btn:hover{background:var(--cta-hover);color:var(--cta-ink)}
+@media(max-width:700px){
+  .login-story:after{width:5rem;height:7rem;right:-1.3rem;bottom:-2.3rem}
+  .login-story h1{max-width:85%}
+  .login-story .wordmark{margin-bottom:28px}
+  .banner-copy:after{width:3.8rem;height:6rem;bottom:0;right:-2.3rem}
+}
+/* Keep keyboard focus visible on both the light cards and the burgundy cover. */
+:where(button,a,input,summary,video,[tabindex]):focus-visible{
+  outline:3px solid #762238;
+  outline-offset:3px;
+  box-shadow:0 0 0 3px #fff5db;
+}
+html[data-theme="dark"] :where(button,a,input,summary,video,[tabindex]):focus-visible{
+  outline-color:#ffcf79;
+  box-shadow:0 0 0 3px #2b2526;
+}
+.speak audio{max-width:100%}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.cell:hover{transform:none}}
