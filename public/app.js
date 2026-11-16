@@ -996,7 +996,7 @@ class Player {
       ready: ok => { $('#pbtn').disabled = !ok; },
       submit: () => { if (!$('#pbtn').disabled) $('#pbtn').click(); },
       practiceReady: () => {
-        this.btn('Pratiquei, continuar', () => {
+        this.btn('Continuar', () => {
           st.practiced = true;
           st.done = true;
           this.i++;
@@ -1528,11 +1528,34 @@ function exSpeak(ex, ctx) {
     ? world.speechHint
     : 'Reconhecimento de voz indisponível neste navegador — repita em voz alta e avance.');
   let passed = false, skipped = false, rec = null;
-  const mic = h('button', { class: 'mic', type: 'button', title: 'Gravar voz no microfone' }, icon('mic', 'xl'));
+  const counter = h('span', {class:'mic-seconds', 'aria-hidden':'true'}, '0 s');
+  const stopLabel = h('span', {class:'mic-stop', hidden:true}, counter, 'Toque para parar');
+  const mic = h('button', {class:'mic', type:'button', title:'Gravar voz no microfone',
+    'aria-label':'Gravar voz no microfone'}, icon('mic', 'xl'), stopLabel);
+  let clock;
+
+  function showRecording() {
+    clearInterval(clock);
+    const start = performance.now();
+    counter.textContent = '0 s';
+    stopLabel.hidden = false;
+    mic.classList.add('rec');
+    mic.setAttribute('aria-label', 'Toque para parar');
+    clock = setInterval(() => {
+      counter.textContent = Math.floor((performance.now() - start) / 1000) + ' s';
+    }, 250);
+  }
+
+  function hideRecording() {
+    clearInterval(clock);
+    mic.classList.remove('rec');
+    stopLabel.hidden = true;
+    mic.setAttribute('aria-label', mic.title);
+  }
 
   const playback = h('audio', { controls: true, hidden: true, 'aria-label': 'Sua gravação' });
   const advance = h('button', {type: 'button', class: 'btn', hidden: true,
-    onclick: () => ctx.submit()}, 'Pratiquei, continuar');
+    onclick: () => ctx.submit()}, 'Continuar');
   let recording, stream, timer, recordingUrl, disposed = false;
 
   function releaseMic() {
@@ -1543,10 +1566,11 @@ function exSpeak(ex, ctx) {
 
   function dispose() {
     disposed = true;
+    hideRecording();
     mic.disabled = true;
     advance.hidden = true;
     if (rec) {
-      rec.onresult = rec.onerror = rec.onend = null;
+      rec.onstart = rec.onresult = rec.onerror = rec.onend = null;
       rec.abort();
       rec = null;
     }
@@ -1563,6 +1587,7 @@ function exSpeak(ex, ctx) {
       return;
     }
     mic.title = 'Gravar para ouvir minha voz';
+    hideRecording();
     said.textContent = 'A avaliação automática está indisponível. Toque no microfone para gravar e comparar sua voz com o modelo.';
     mic.onclick = async () => {
       if (recording?.state === 'recording') { recording.stop(); return; }
@@ -1578,8 +1603,8 @@ function exSpeak(ex, ctx) {
         recording.onstop = () => {
           releaseMic();
           if (disposed) return;
-          mic.classList.remove('rec');
           mic.title = 'Gravar novamente';
+          hideRecording();
           if (!chunks.length) { said.textContent = 'A gravação ficou vazia. Toque para gravar novamente.'; return; }
           if (recordingUrl) URL.revokeObjectURL(recordingUrl);
           recordingUrl = URL.createObjectURL(new Blob(chunks, {type: recording.mimeType}));
@@ -1591,8 +1616,7 @@ function exSpeak(ex, ctx) {
           ctx.practiceReady?.();
         };
         recording.start();
-        mic.title = 'Parar gravação';
-        mic.classList.add('rec');
+        showRecording();
         said.textContent = 'Gravando. Toque para parar ou aguarde 20 segundos.';
         timer = setTimeout(() => { if (recording.state === 'recording') recording.stop(); }, 20000);
       } catch (error) {
@@ -1614,20 +1638,21 @@ function exSpeak(ex, ctx) {
       rec.lang = SR_LANG[S.lang] || 'es-ES';
       rec.interimResults = false;
       rec.maxAlternatives = 4;
-      mic.classList.add('rec');
+      rec.onstart = showRecording;
       said.style.color = 'var(--accent)';
       said.textContent = 'Escutando sua pronúncia…';
       rec.onresult = e => {
         let best = 0, txt = '';
-        for (const r of e.results[0]) {
+        for (const r of Array.from(e.results[0])) {
           const a = norm(r.transcript), b = norm(target);
           const s = 1 - lev(a, b) / Math.max(a.length, b.length, 1);
           if (s >= best) { best = s; txt = r.transcript; }
         }
         said.textContent = `Você disse: “${txt}” (${Math.round(best * 100)}%)`;
-        if (best >= min) {
-          passed = true;
-          ctx.ready(true);
+        passed = best >= min;
+        ctx.ready(passed);
+        if (passed) {
+
           said.style.color = 'var(--ok-ink)';
         } else {
           said.style.color = 'var(--err-ink)';
@@ -1637,6 +1662,8 @@ function exSpeak(ex, ctx) {
       rec.onerror = e => {
         said.style.color = 'var(--err-ink)';
         if (['service-not-allowed', 'network', 'language-not-supported'].includes(e.error)) {
+          rec.onstart = rec.onend = null;
+          rec = null;
           localPractice();
           return;
         }
@@ -1644,7 +1671,7 @@ function exSpeak(ex, ctx) {
           ? 'Permissão de microfone negada no navegador. Use a opção abaixo para avançar.'
           : 'Áudio não captado (' + e.error + '). Tente novamente ou pule abaixo.';
       };
-      rec.onend = () => { mic.classList.remove('rec'); rec = null; };
+      rec.onend = () => { hideRecording(); rec = null; };
       try { rec.start(); } catch (err) { rec = null; mic.classList.remove('rec'); localPractice(); }
     };
   } else {
