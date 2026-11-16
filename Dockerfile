@@ -1,12 +1,12 @@
 FROM python:3.13-slim-bookworm
 
-# Instalação do rclone, curl e certificados para streaming de mídia do Drive
+# InstalaÃ§Ã£o do rclone, curl e certificados para streaming de mÃ­dia do Drive
 RUN apt-get update && apt-get install -y --no-install-recommends \
     rclone ca-certificates curl \
     && rm -rf /var/lib/apt/lists/* \
     && useradd --uid 10001 --create-home talk2me
 
-# Driver libSQL para integração nativa com Turso (embedded replica / nuvem)
+# Driver libSQL para integraÃ§Ã£o nativa com Turso (embedded replica / nuvem)
 RUN pip install --no-cache-dir libsql-experimental
 
 # Render mounts the Drive credential only during this step. Keep the audio
@@ -36,7 +36,9 @@ RUN --mount=type=secret,id=audio-drive_b64 --mount=type=tmpfs,target=/run/visual
 
 WORKDIR /app
 
-# Copia arquivos da aplicação
+# Copia arquivos da aplicaÃ§Ã£o
+COPY deploy/build_speech.py deploy/build_speech.py
+RUN python deploy/build_speech.py
 COPY db.py server.py accounts.py media_store.py media-index.json entrypoint.sh ./
 COPY public/ public/
 COPY dumped_content/ dumped_content/

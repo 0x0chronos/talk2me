@@ -53,6 +53,12 @@ self.addEventListener('fetch',event=>{
   if(url.origin!==location.origin||req.method!=='GET')return;
   event.respondWith((async()=>{
     const cache=await caches.open(CACHE);
+    // The speech worker caches its model separately; avoid a second large copy.
+    if (url.pathname === '/speech-es/spanish-042.tar.gz') return fetch(req);
+    if (url.pathname === '/speech-es/worker-008.js') {
+      const saved = await cache.match(req);
+      if (saved) return saved;
+    }
     if (url.pathname.startsWith('/m/')) {
       const saved = await cache.match(req.url, {ignoreVary: true});
       if (saved?.status === 200) return cachedMedia(req, saved);

@@ -98,7 +98,11 @@ def secure_handler(Base):
             self.send_header('X-Frame-Options','DENY')
             self.send_header('Referrer-Policy','same-origin')
             self.send_header('Cache-Control','private, no-store')
-            self.send_header('Content-Security-Policy', "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'")
+            # Emscripten needs dynamic bindings only inside this isolated worker.
+            if urlparse(self.path).path == '/speech-es/worker-008.js':
+                self.send_header('Content-Security-Policy', "default-src 'none'; script-src 'unsafe-eval'; connect-src 'self' data:")
+            else:
+                self.send_header('Content-Security-Policy', "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'")
             super().end_headers()
 
         def token(self):

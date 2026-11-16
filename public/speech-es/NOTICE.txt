@@ -1,0 +1,7 @@
+Spanish speech recognition uses the Vosk small Spanish model 0.42 (Alpha Cephei)
+and the WebAssembly worker from vosk-browser 0.0.8 (Ciaran O'Reilly).
+Both are distributed under the Apache License, Version 2.0 (LICENSE.txt).
+The model is repackaged as a tar archive. The worker is served as a separate
+file and marks its final response when a recognizer is removed.
+https://alphacephei.com/vosk/models
+https://www.npmjs.com/package/vosk-browser/v/0.0.8

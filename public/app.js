@@ -995,9 +995,9 @@ class Player {
     const ctx = {
       ready: ok => { $('#pbtn').disabled = !ok; },
       submit: () => { if (!$('#pbtn').disabled) $('#pbtn').click(); },
-      practiceReady: () => {
+      practiceReady: (evaluated = false) => {
         this.btn('Continuar', () => {
-          st.practiced = true;
+          st.practiced = !evaluated;
           st.done = true;
           this.i++;
           this.show(true);
@@ -1580,15 +1580,63 @@ function exSpeak(ex, ctx) {
     if (recordingUrl) URL.revokeObjectURL(recordingUrl);
   }
 
+  const canCorrect = S.lang === 'es' && typeof SpanishSpeech !== 'undefined' &&
+    window.Worker && window.WebAssembly && window.OfflineAudioContext && window.caches;
+  let localEnabled = canCorrect && localStorage.getItem('talk2me-spanish-speech') === 'on';
+  let usingLocal = false, lastTake, attempt = 0;
+  const enable = h('button', {type:'button', class:'abtn', hidden:true}, 'Ativar correção no aparelho (45 MB)');
+  async function reviewTake(blob, version) {
+    advance.hidden = true;
+    ctx.ready(false);
+    skip.hidden = false;
+    said.textContent = 'Reconhecendo sua frase neste aparelho…';
+    try {
+      const heard = await SpanishSpeech.transcribe(blob);
+      if (disposed || version !== attempt) return;
+      passed = Boolean(heard) && norm(heard) === norm(target);
+      said.textContent = passed ? 'Você acertou! Ouvi: “' + heard + '”.'
+        : heard ? 'Ouvi: “' + heard + '”. Ouça o modelo e tente de novo.'
+                : 'Não consegui identificar palavras. Toque no microfone e tente de novo.';
+      said.style.color = passed ? 'var(--ok-ink)' : 'var(--ink)';
+      if (!passed) skip.textContent = 'Continuar sem avaliação';
+      if (passed) ctx.practiceReady?.(true);
+      else ctx.ready(false);
+      advance.hidden = !passed;
+      skip.hidden = passed;
+    } catch {
+      if (disposed || version !== attempt) return;
+      said.textContent = 'A correção está indisponível. Você pode ouvir sua gravação e continuar sem nota.';
+      advance.hidden = false;
+      ctx.practiceReady?.();
+    }
+  }
+  enable.onclick = async () => {
+    enable.disabled = true;
+    said.textContent = 'Preparando o espanhol. Na primeira vez, o download pode levar alguns segundos.';
+    try {
+      await SpanishSpeech.prepare();
+      localStorage.setItem('talk2me-spanish-speech','on');
+      if (disposed) return;
+      localEnabled = true;
+      enable.hidden = true;
+      if (lastTake && recording?.state !== 'recording') reviewTake(lastTake,attempt);
+      else if (recording?.state !== 'recording') said.textContent = 'Correção pronta. Toque no microfone e diga a frase.';
+    } catch {
+      if (!disposed) said.textContent = 'Não foi possível preparar a correção. Tente de novo ou pratique sem nota.';
+    } finally { enable.disabled = false; }
+  };
   function localPractice() {
+    usingLocal = true;
     if (!window.MediaRecorder || !navigator.mediaDevices?.getUserMedia) {
       mic.hidden = true;
       said.textContent = 'A avaliação de voz está indisponível. Ouça o modelo, repita em voz alta e continue.';
       return;
     }
+    enable.hidden = !canCorrect || localEnabled;
     mic.title = 'Gravar para ouvir minha voz';
     hideRecording();
-    said.textContent = 'A avaliação automática está indisponível. Toque no microfone para gravar e comparar sua voz com o modelo.';
+    said.textContent = canCorrect ? 'Ative a correção de espanhol para receber o resultado da sua fala, ou toque no microfone para praticar sem nota.' : 'Toque no microfone para gravar sua voz e comparar com o modelo.';
+    if (localEnabled) said.textContent = 'Toque no microfone. A correção de espanhol é feita neste aparelho.';
     mic.onclick = async () => {
       if (recording?.state === 'recording') { recording.stop(); return; }
       stopAudio();
@@ -1597,6 +1645,13 @@ function exSpeak(ex, ctx) {
       try {
         stream = await navigator.mediaDevices.getUserMedia({ audio: true });
         if (disposed) { releaseMic(); return; }
+        const version = ++attempt;
+        passed = false;
+        lastTake = null;
+        advance.hidden = true;
+        skip.hidden = false;
+        ctx.ready(false);
+        if (localEnabled) SpanishSpeech.prepare().catch(() => {});
         recording = new MediaRecorder(stream);
         const chunks = [];
         recording.ondataavailable = e => { if (e.data.size) chunks.push(e.data); };
@@ -1607,9 +1662,11 @@ function exSpeak(ex, ctx) {
           hideRecording();
           if (!chunks.length) { said.textContent = 'A gravação ficou vazia. Toque para gravar novamente.'; return; }
           if (recordingUrl) URL.revokeObjectURL(recordingUrl);
-          recordingUrl = URL.createObjectURL(new Blob(chunks, {type: recording.mimeType}));
+          lastTake = new Blob(chunks, {type: recording.mimeType});
+          recordingUrl = URL.createObjectURL(lastTake);
           playback.src = recordingUrl;
           playback.hidden = false;
+          if (localEnabled) { reviewTake(lastTake, version); return; }
           said.textContent = 'Gravação pronta, sem nota automática. Você pode ouvir sua voz, gravar de novo ou continuar.';
           advance.hidden = false;
           skip.hidden = true;
@@ -1630,7 +1687,7 @@ function exSpeak(ex, ctx) {
     };
   }
 
-  if (SR) {
+  if (SR && !localEnabled) {
     mic.onclick = () => {
       if (rec) { rec.stop(); return; }
       stopAudio();
@@ -1681,7 +1738,7 @@ function exSpeak(ex, ctx) {
   const skip = h('button', {
     class: 'skip',
     type: 'button',
-    onclick: () => { skipped = true; ctx.ready(true); ctx.submit(); }
+    onclick: () => { skipped = true; if (usingLocal) ctx.practiceReady?.(); ctx.ready(true); ctx.submit(); }
   }, 'Não posso usar o microfone agora (pular fala)');
 
   return {
@@ -1695,6 +1752,7 @@ function exSpeak(ex, ctx) {
       mic,
       said,
       playback,
+      enable,
       advance,
       h('div', { class: 'skip-zone' }, skip)
     ),
