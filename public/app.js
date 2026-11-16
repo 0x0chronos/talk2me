@@ -985,8 +985,8 @@ class Player {
       body.append(h('div', { class: 'pin' }, ctrl.el));
       if (ctrl.mount) ctrl.mount();
       this.setFoot('ok', h('div', {},
-        h('b', {}, icon('check', 'sm'), 'Exercício já validado'),
-        h('div', {}, ex.ok || '')
+        h('b', {}, icon('check', 'sm'), st.practiced ? 'Fala praticada sem avaliação automática' : 'Exercício já validado'),
+        h('div', {}, st.practiced ? '' : ex.ok || '')
       ));
       this.btn('Continuar', () => { this.i++; this.show(true); }, 'ok', false, true);
       return;
@@ -995,6 +995,14 @@ class Player {
     const ctx = {
       ready: ok => { $('#pbtn').disabled = !ok; },
       submit: () => { if (!$('#pbtn').disabled) $('#pbtn').click(); },
+      practiceReady: () => {
+        this.btn('Pratiquei, continuar', () => {
+          st.practiced = true;
+          st.done = true;
+          this.i++;
+          this.show(true);
+        }, '', false, true);
+      },
       onKey: fn => { keyHandler = fn; }
     };
     const ctrl = (EX[ex.type] || exUnknown)(ex, ctx);
@@ -1039,7 +1047,7 @@ class Player {
     $('#pcount').textContent = '';
     $('#pprev').disabled = true;
     $('#pstep-kind').textContent = 'Visto registrado';
-    const total = Math.max(this.nEx, 1);
+    const total = Math.max(this.nEx - this.queue.filter(step => step.first && step.practiced).length, 1);
     const score = this.nEx ? Math.max(0, Math.round(100 * (total - this.wrong) / total)) : 100;
     const stars = score >= 90 ? 3 : score >= 70 ? 2 : 1;
     const xp = this.d.kind === 'checkpoint' ? 50 : 25;
@@ -1523,6 +1531,8 @@ function exSpeak(ex, ctx) {
   const mic = h('button', { class: 'mic', type: 'button', title: 'Gravar voz no microfone' }, icon('mic', 'xl'));
 
   const playback = h('audio', { controls: true, hidden: true, 'aria-label': 'Sua gravação' });
+  const advance = h('button', {type: 'button', class: 'btn', hidden: true,
+    onclick: () => ctx.submit()}, 'Pratiquei, continuar');
   let recording, stream, timer, recordingUrl, disposed = false;
 
   function releaseMic() {
@@ -1533,6 +1543,8 @@ function exSpeak(ex, ctx) {
 
   function dispose() {
     disposed = true;
+    mic.disabled = true;
+    advance.hidden = true;
     if (rec) {
       rec.onresult = rec.onerror = rec.onend = null;
       rec.abort();
@@ -1573,8 +1585,10 @@ function exSpeak(ex, ctx) {
           recordingUrl = URL.createObjectURL(new Blob(chunks, {type: recording.mimeType}));
           playback.src = recordingUrl;
           playback.hidden = false;
-          said.textContent = 'Ouça sua gravação e compare com o modelo. Ela fica só neste aparelho.';
-          skip.textContent = 'Continuar sem avaliação automática';
+          said.textContent = 'Gravação pronta, sem nota automática. Você pode ouvir sua voz, gravar de novo ou continuar.';
+          advance.hidden = false;
+          skip.hidden = true;
+          ctx.practiceReady?.();
         };
         recording.start();
         mic.title = 'Parar gravação';
@@ -1654,6 +1668,7 @@ function exSpeak(ex, ctx) {
       mic,
       said,
       playback,
+      advance,
       h('div', { class: 'skip-zone' }, skip)
     ),
     start: src ? () => setTimeout(() => {
