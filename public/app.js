@@ -1718,15 +1718,14 @@ function exSpeak(ex, ctx) {
       };
       rec.onerror = e => {
         said.style.color = 'var(--err-ink)';
-        if (['service-not-allowed', 'network', 'language-not-supported'].includes(e.error)) {
+        if (['service-not-allowed', 'not-allowed', 'network', 'language-not-supported'].includes(e.error)) {
           rec.onstart = rec.onend = null;
           rec = null;
           localPractice();
+          if (e.error === 'not-allowed') said.textContent = 'Para gravar, permita o microfone nas configurações deste site. Depois, toque para tentar novamente.';
           return;
         }
-        said.textContent = e.error === 'not-allowed'
-          ? 'Permissão de microfone negada no navegador. Use a opção abaixo para avançar.'
-          : 'Áudio não captado (' + e.error + '). Tente novamente ou pule abaixo.';
+        said.textContent = 'Áudio não captado (' + e.error + '). Tente novamente ou pule abaixo.';
       };
       rec.onend = () => { hideRecording(); rec = null; };
       try { rec.start(); } catch (err) { rec = null; mic.classList.remove('rec'); localPractice(); }

@@ -16,7 +16,7 @@ const SpanishSpeech = (() => {
     if (!pending.size) idleTimer = setTimeout(release, 120000);
   }
 
-  function prepare() {
+  async function prepare() {
     if (loading) return loading;
     worker = new Worker('/speech-es/worker-008.js');
     loading = new Promise((resolve, reject) => {
