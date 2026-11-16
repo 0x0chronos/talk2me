@@ -108,3 +108,9 @@ html[data-theme="dark"] :where(button,a,input,summary,video,[tabindex]):focus-vi
 .mic.rec{display:inline-flex;gap:.65rem;align-items:center;justify-content:center;width:auto;max-width:100%;min-width:min(15rem,100%);padding:0 1rem;border-radius:1.2rem;background:#802738;color:#fff}
 .mic-stop{display:grid;text-align:left;line-height:1.2;font-weight:650}
 .mic-seconds{font-variant-numeric:tabular-nums;font-size:1.15em}
+.nav-svg{width:20px;height:20px;flex:none;fill:none;stroke:currentColor;stroke-width:1.85;stroke-linecap:round;stroke-linejoin:round}
+.mobile-nav .nav-svg{width:21px;height:21px}
+.connection-label[data-state="offline"]:before{background:#d97706}
+.btn.is-loading{display:inline-flex;align-items:center;justify-content:center;gap:10px;opacity:.88;cursor:wait}
+.btn.is-loading:before{content:"";width:16px;height:16px;border-radius:50%;border:2px solid currentColor;border-right-color:transparent;animation:t2m-spin .7s linear infinite}
+@keyframes t2m-spin{to{transform:rotate(360deg)}}

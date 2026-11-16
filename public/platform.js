@@ -1,7 +1,25 @@
 async function api(path, data) {
   return StudyAPI.request(path,data);
 }
+function updateConnectionStatus() {
+  const el = document.querySelector('#connection-status');
+  if (!el) return;
+  if (!navigator.onLine) {
+    el.textContent = 'Modo offline';
+    el.dataset.state = 'offline';
+    return;
+  }
+  const host = location.hostname;
+  const isLocal = host === 'localhost' || host === '127.0.0.1' || host === '[::1]' ||
+    /^(10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.)/.test(host);
+  el.textContent = isLocal ? 'Estudo local' : 'Estudo sincronizado';
+  el.dataset.state = 'online';
+}
+updateConnectionStatus();
+window.addEventListener('online', updateConnectionStatus);
+window.addEventListener('offline', updateConnectionStatus);
 async function enterStudy() {
+  updateConnectionStatus();
   const config = await api('/api/auth/config');
   document.querySelector('#setup-note').hidden = config.configured;
   if (!config.authenticated) return;
@@ -14,6 +32,8 @@ async function enterStudy() {
   await syncProgress();
   prepareOffline().catch(()=>{});
   document.querySelector('#account-email').textContent = config.user.email;
+  const userField = document.querySelector('#account-username');
+  if (userField) userField.value = config.user.email || '';
   document.querySelector('#admin-nav').hidden = config.user.role !== 'admin';
   if(config.user.role === 'admin') {
     const b = h('button',{class:'abtn',onclick:openAdmin},'Gerenciar alunos e senhas');
@@ -23,9 +43,18 @@ async function enterStudy() {
 document.querySelector('#login-form').onsubmit = async e => {
   e.preventDefault();
   const f=e.currentTarget, b=f.querySelector('button'), status=f.querySelector('.form-status');
-  b.disabled=true; status.textContent='Entrando…';
+  const origLabel = b.dataset.label || b.textContent;
+  b.dataset.label = origLabel;
+  b.disabled = true;
+  b.classList.add('is-loading');
+  b.textContent = 'Entrando…';
+  status.textContent = 'Verificando seu acesso…';
+  const slowTimer = setTimeout(() => {
+    if (b.disabled) status.textContent = 'Conectando ao servidor e preparando suas aulas…';
+  }, 1200);
   try {await api('/api/auth/login',Object.fromEntries(new FormData(f))); location.reload();}
-  catch(err){status.textContent=err.message;} finally{b.disabled=false;}
+  catch(err){status.textContent=err.message;}
+  finally{clearTimeout(slowTimer); b.disabled=false; b.classList.remove('is-loading'); b.textContent=origLabel;}
 };
 document.querySelector('#password-form').onsubmit = async e => {
   e.preventDefault();const f=e.currentTarget, d=Object.fromEntries(new FormData(f)), status=f.querySelector('.form-status'),b=f.querySelector('button');
@@ -47,6 +76,7 @@ function studentRow(user) {
   const status = h('p',{role:'status',class:'form-status'});
   const save = h('button',{type:'submit',class:'btn'},'Salvar nova senha');
   const form = h('form',{hidden:true},
+    h('input',{type:'email',name:'username',autocomplete:'username',value:user.email,hidden:true}),
     h('label',{},'Nova senha para ' + user.full_name + ' (mínimo de 10 caracteres)',password),
     h('label',{},'Repita a nova senha',confirm),
     h('p',{},'O aluno precisará entrar novamente com a nova senha.'), save);

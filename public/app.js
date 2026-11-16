@@ -167,6 +167,36 @@ const ThemeManager = {
   }
 };
 
+/* ------------------------------------------------ Pré-carga de mídia (celular) */
+function lightMedia() {
+  const c = navigator.connection;
+  return !!(c && (c.saveData || /(^|-)2g$|3g/.test(c.effectiveType || '')));
+}
+const warmed = new Set();
+function warmAudio(src) {
+  if (!src || typeof src !== 'string' || !src.startsWith('/m/') || warmed.has(src) || lightMedia()) return;
+  warmed.add(src);
+  if (warmed.size > 60) warmed.delete(warmed.values().next().value);
+  // Preenche o cache HTTP (max-age do servidor) antes do toque, sem reter conexões.
+  fetch(src, { priority: 'low' }).then(r => r.blob()).catch(() => warmed.delete(src));
+}
+function exerciseAudios(ex) {
+  if (!ex) return [];
+  return [
+    ex.audio,
+    ...(ex.options || []).map(o => o.audio),
+    ...(ex.pairs || []).flatMap(p => [p.left, p.right])
+  ].filter(s => typeof s === 'string' && /\.(mp3|wav|ogg)(\?|$)/i.test(s));
+}
+function warmAhead(queue, from, count = 2) {
+  const idle = window.requestIdleCallback || (fn => setTimeout(fn, 200));
+  idle(() => {
+    for (const st of queue.slice(from, from + 1 + count)) {
+      if (st.t === 'e') exerciseAudios(st.e).forEach(warmAudio);
+    }
+  });
+}
+
 /* ------------------------------------------------ Áudio & Motor de Reprodução */
 let activeAudio = null;
 let dlgSeqToken = 0;
@@ -938,6 +968,7 @@ class Player {
     body.innerHTML = '';
     body.scrollTop = 0;
     if (this.i >= this.queue.length) return this.finish();
+    warmAhead(this.queue, this.i);
     const st = this.queue[this.i];
     this.setFoot('', null);
     try {
@@ -1157,7 +1188,7 @@ function renderContent(c) {
     if (it === vtt) continue;
     const vsrc = it.videoUrl || (it.fileUrl && /\.mp4$/i.test(it.fileUrl) ? it.fileUrl : null);
     if (vsrc) {
-      const v = h('video', { controls: true, playsinline: true, preload: 'auto', src: vsrc });
+      const v = h('video', { controls: true, playsinline: true, preload: lightMedia() ? 'metadata' : 'auto', src: vsrc });
       v.addEventListener('play', () => stopAudio());
       v.addEventListener('error', () => mediaFailure(v.parentElement, () => v.load()));
       if (vtt) {
@@ -1177,7 +1208,7 @@ function renderContent(c) {
     const hasCard = it.imageUrl || it.audioUrl || (it.textContent && it !== vtt);
     if (hasCard) {
       const card = h('div', { class: 'content-card' });
-      if (it.imageUrl) card.append(h('img', { class: 'media-img', src: it.imageUrl, alt: c.title || '', onerror: e => e.target.remove() }));
+      if (it.imageUrl) card.append(h('img', { class: 'media-img', loading: 'lazy', decoding: 'async', src: it.imageUrl, alt: c.title || '', onerror: e => e.target.remove() }));
       if (it.audioUrl) {
         if (!firstAudio) firstAudio = it.audioUrl;
         card.append(audioPair(it.audioUrl, 'Ouvir pronúncia', false));
@@ -1265,7 +1296,7 @@ function exMC(ex, ctx) {
         ctx.ready(true);
       }
     }, badge);
-    if (o.image) card.append(h('img', { class: 'opt-img', src: o.image, alt: o.text || '', onerror: e => e.target.remove() }));
+    if (o.image) card.append(h('img', { class: 'opt-img', loading: 'lazy', decoding: 'async', src: o.image, alt: o.text || '', onerror: e => e.target.remove() }));
     if (o.audio) card.append(audioBtn(o.audio, '', 'sm'));
     card.append(h('span', { class: 'opt-txt' }, o.text || ''));
     list.append(card);

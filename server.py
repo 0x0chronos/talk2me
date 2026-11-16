@@ -12,10 +12,21 @@ import mimetypes
 import media_store
 import urllib.parse
 import datetime
+import gzip
 import hashlib
 import secrets
 import db
 from http import cookies
+
+_GZIP_CACHE = {}
+_COMPRESSIBLE_MIMES = (
+    "text/",
+    "application/javascript",
+    "text/javascript",
+    "application/json",
+    "application/manifest+json",
+    "image/svg+xml",
+)
 
 PORT = int(os.environ.get("PORT", 3001))
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -322,12 +333,19 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         if len(args) >= 3:
             print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] {args[0]} {args[1]} -> {args[2]}", flush=True)
 
-    def send_json(self, data, status=200, headers=None):
+    def send_json(self, data, status=200, headers=None, cache_control="private, no-store"):
         body = json.dumps(data, ensure_ascii=False).encode("utf-8")
+        use_gzip = status == 200 and len(body) >= 512 and "gzip" in self.headers.get("Accept-Encoding", "").lower()
+        if use_gzip:
+            body = gzip.compress(body, compresslevel=6)
+        self._has_cache_control = True
         self.send_response(status)
         self.send_header("Content-Type", "application/json; charset=utf-8")
+        if use_gzip:
+            self.send_header("Content-Encoding", "gzip")
+            self.send_header("Vary", "Accept-Encoding")
         self.send_header("Content-Length", str(len(body)))
-        self.send_header("Cache-Control", "no-store")
+        self.send_header("Cache-Control", cache_control)
         self.send_header("Connection", "close")
         if headers:
             for k, v in headers.items():
@@ -366,10 +384,12 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 
         return None
 
-    def serve_file(self, path, cache=True, filename=None):
+    def serve_file(self, path, cache=True, filename=None, private_cache=False):
         path = os.fspath(path)
         try:
-            size = os.path.getsize(path)
+            st = os.stat(path)
+            size = st.st_size
+            mtime = st.st_mtime_ns
         except OSError:
             self.send_error(404)
             return
@@ -386,8 +406,65 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 pass
 
         mime = mimetypes.guess_type(filename or path)[0] or "application/octet-stream"
-        start, end, status = 0, size - 1, 200
+        etag = f'W/"{mtime:x}-{size:x}"'
+        if not cache:
+            cache_hdr = "no-cache"
+        elif private_cache:
+            cache_hdr = "private, max-age=86400, stale-while-revalidate=604800"
+        elif path.lower().endswith((".woff2", ".png", ".ico")):
+            cache_hdr = "public, max-age=604800, immutable"
+        else:
+            cache_hdr = "public, max-age=3600, stale-while-revalidate=86400"
+
         rng = self.headers.get("Range")
+        if not rng and self.headers.get("If-None-Match") == etag:
+            self._has_cache_control = True
+            self.send_response(304)
+            self.send_header("ETag", etag)
+            self.send_header("Cache-Control", cache_hdr)
+            self.send_header("Connection", "close")
+            self.end_headers()
+            self.close_connection = True
+            return
+
+        can_gzip = (
+            not rng
+            and 256 <= size <= 524288
+            and any(mime.startswith(p) for p in _COMPRESSIBLE_MIMES)
+            and "gzip" in self.headers.get("Accept-Encoding", "").lower()
+        )
+        if can_gzip:
+            cached_gz = _GZIP_CACHE.get(path)
+            if cached_gz and cached_gz[0] == mtime and cached_gz[1] == size:
+                gz_body = cached_gz[2]
+            else:
+                try:
+                    with open(path, "rb") as f:
+                        gz_body = gzip.compress(f.read(), compresslevel=6)
+                    if len(_GZIP_CACHE) > 64:
+                        _GZIP_CACHE.clear()
+                    _GZIP_CACHE[path] = (mtime, size, gz_body)
+                except OSError:
+                    self.send_error(404)
+                    return
+            self._has_cache_control = True
+            self.send_response(200)
+            self.send_header("Content-Type", mime)
+            self.send_header("Content-Encoding", "gzip")
+            self.send_header("Vary", "Accept-Encoding")
+            self.send_header("ETag", etag)
+            self.send_header("Cache-Control", cache_hdr)
+            self.send_header("Content-Length", str(len(gz_body)))
+            self.send_header("Connection", "close")
+            self.end_headers()
+            try:
+                self.wfile.write(gz_body)
+            except (BrokenPipeError, ConnectionResetError, ConnectionAbortedError):
+                pass
+            self.close_connection = True
+            return
+
+        start, end, status = 0, size - 1, 200
         if rng:
             m = re.match(r"bytes=(\d*)-(\d*)", rng)
             if m:
@@ -398,25 +475,26 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 elif m.group(2):
                     start = max(size - int(m.group(2)), 0)
                 if start >= size:
+                    self._has_cache_control = True
                     self.send_response(416)
                     self.send_header("Content-Range", "bytes */%d" % size)
                     self.send_header("Content-Length", "0")
+                    self.send_header("Cache-Control", cache_hdr)
                     self.send_header("Connection", "close")
                     self.end_headers()
                     self.close_connection = True
                     return
                 status = 206
         length = end - start + 1
+        self._has_cache_control = True
         self.send_response(status)
         self.send_header("Content-Type", mime)
         self.send_header("Accept-Ranges", "bytes")
+        self.send_header("ETag", etag)
         self.send_header("Content-Length", str(length))
         if status == 206:
             self.send_header("Content-Range", "bytes %d-%d/%d" % (start, end, size))
-        self.send_header("Cache-Control", "public, max-age=3600" if cache else "no-cache, no-store, must-revalidate")
-        if not cache:
-            self.send_header("Pragma", "no-cache")
-            self.send_header("Expires", "0")
+        self.send_header("Cache-Control", cache_hdr)
         self.send_header("Connection", "close")
         self.end_headers()
         try:
@@ -528,7 +606,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             data = load_item(urllib.parse.unquote(path[len("/api/lesson/"):]), prepare_visuals=True)
             if not data:
                 return self.send_json({"error": "not found"}, 404)
-            return self.send_json(data)
+            return self.send_json(data, cache_control="private, max-age=3600, stale-while-revalidate=86400")
 
         for prefix, directory in (("/m/", "media_all/"), ("/media/images/", "media/images/")):
             if path.startswith(prefix):
@@ -538,14 +616,15 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     return self.send_error(404)
                 try:
                     with media_store.media_file(key) as cached:
-                        return self.serve_file(cached, cache=False, filename=name)
+                        return self.serve_file(cached, cache=True, filename=name, private_cache=True)
                 except OSError:
                     return self.send_json({"error": "Mídia temporariamente indisponível. Tente novamente."}, 503, headers={"Retry-After": "5"})
 
         target = os.path.join(STATIC_DIR, "index.html") if path in ("/", "") else \
             os.path.join(STATIC_DIR, path.lstrip("/").replace("/", os.sep))
         if os.path.isfile(target) and os.path.abspath(target).startswith(os.path.abspath(STATIC_DIR)):
-            return self.serve_file(target, cache=target.endswith(".woff2"))
+            is_entry = os.path.basename(target).lower() in ("index.html", "sw.js")
+            return self.serve_file(target, cache=not is_entry)
         self.serve_file(os.path.join(STATIC_DIR, "index.html"), cache=False)
 
     def do_POST(self):

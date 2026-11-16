@@ -69,6 +69,23 @@ class AccountsTest(unittest.TestCase):
         self.assertEqual(self.request(student,'/api/auth/login',{'email':'student@example.test','password':'New-password-123'})[0],401)
         self.assertEqual(self.request(student,'/api/auth/login',{'email':'student@example.test','password':change['new_password']})[0],200)
         self.assertEqual(self.request(student,'/api/profile')[1]['xp'],25)
+        gz_req=urllib.request.Request(self.url+'/styles.css',headers={'Accept-Encoding':'gzip'})
+        with student.open(gz_req) as r:
+            self.assertEqual(r.headers.get('Content-Encoding'),'gzip')
+            self.assertIn('max-age=3600',r.headers.get('Cache-Control',''))
+            self.assertEqual(len(r.headers.get_all('Cache-Control')),1)
+            etag=r.headers.get('ETag')
+            self.assertTrue(etag)
+        cond_req=urllib.request.Request(self.url+'/styles.css',headers={'If-None-Match':etag})
+        try:
+            student.open(cond_req)
+            self.fail('Expected 304')
+        except urllib.error.HTTPError as e:
+            self.assertEqual(e.code,304)
+            e.close()
+        tree_gz=urllib.request.Request(self.url+'/api/tree',headers={'Accept-Encoding':'gzip'})
+        with student.open(tree_gz) as r:
+            self.assertEqual(r.headers.get('Content-Encoding'),'gzip')
         self.assertEqual(self.request(student,'/api/auth/logout',{})[0],200)
         self.assertEqual(self.request(student,'/api/profile')[0],401)
 
