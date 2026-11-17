@@ -280,9 +280,13 @@ function audioPair(src, mainLabel = 'Ouvir', big = false) {
 }
 
 /* ------------------------------------------------ Estado & Trilha Principal */
+const CYBER_LEVELS = new Set(['BLUE', 'RED', 'TI']);
+const TAB_NAMES = { BLUE: 'Blue Team', RED: 'Red Team', TI: 'Entrevista TI' };
 const S = {
   lang: 'es',
-  level: localStorage.talk2me_level || localStorage.talk2me_level || null,
+  level: localStorage.talk2me_level || null,
+  lastCefr: CYBER_LEVELS.has(localStorage.talk2me_level) ? 'A1' : (localStorage.talk2me_level || 'A1'),
+  lastCyber: CYBER_LEVELS.has(localStorage.talk2me_level) ? localStorage.talk2me_level : 'BLUE',
   view: 'ledger', // Caderno Consular com todos os módulos e lições sempre como padrão primário
   allModsExpanded: null,
   q: '',
@@ -290,6 +294,30 @@ const S = {
   data: null,
   profile: { xp: 0, streak: 1, daily_goal_xp: 50, full_name: 'Rony Novais', resume: {}, activity: [] }
 };
+
+function levelTrack(level) {
+  return CYBER_LEVELS.has(level) ? 'cyber' : 'cefr';
+}
+
+function selectLevel(level) {
+  S.level = level;
+  localStorage.talk2me_level = level;
+  if (CYBER_LEVELS.has(level)) S.lastCyber = level;
+  else if (level) S.lastCefr = level;
+}
+
+function switchTrack(track, doRender = true) {
+  const levels = (S.data && S.data.levels) || [];
+  const pool = levels.filter(l => levelTrack(l.level) === track);
+  if (!pool.length) return;
+  const preferred = track === 'cyber' ? S.lastCyber : S.lastCefr;
+  const target = pool.find(l => l.level === preferred) || pool[0];
+  selectLevel(target.level);
+  S.allModsExpanded = true;
+  S.openMods.clear();
+  if (doRender) renderHome();
+}
+window.switchTrack = switchTrack;
 
 function applyCourseTheme(lang) {
   document.documentElement.setAttribute('data-course', lang);
@@ -365,8 +393,10 @@ function renderHome() {
   }
 
   $('#hero-t').textContent = world.edition;
-  const lvlSummary = d.levels.length > 1
-    ? `${d.levels.length} níveis CEFR (${d.levels[0].level} ao ${d.levels[d.levels.length - 1].level})`
+  const cefrLevels = d.levels.filter(l => !CYBER_LEVELS.has(l.level));
+  const cyberCount = d.levels.length - cefrLevels.length;
+  const lvlSummary = cefrLevels.length > 1
+    ? `${cefrLevels.length} níveis CEFR (${cefrLevels[0].level} ao ${cefrLevels[cefrLevels.length - 1].level})` + (cyberCount ? ` + ${cyberCount} trilhas de TI & Cyber` : '')
     : (d.levels.length === 1 ? `Nível ${d.levels[0].level} completo` : 'Currículo local');
   $('#hero-p').textContent = `${done} de ${all.length} atividades validadas • ${lvlSummary} com vídeo-aulas e áudio.`;
 
@@ -421,7 +451,7 @@ function renderHome() {
 
     if (nextInfo) {
       $('#next-title').textContent = `${String(nextInfo.seq).padStart(2, '0')} · ${nextInfo.item.title}`;
-      $('#next-sub').textContent = `Nível ${nextInfo.level} · Módulo ${nextInfo.modNum} em aberto`;
+      $('#next-sub').textContent = `${TAB_NAMES[nextInfo.level] || ('Nível ' + nextInfo.level)} · Módulo ${nextInfo.modNum} em aberto`;
       resumeBtn.onclick = () => openItem(nextInfo.item.id, 0);
     } else if (curLv && curLv.modules[0] && curLv.modules[0].items[0]) {
       $('#next-title').textContent = curLv.modules[0].items[0].title;
@@ -430,11 +460,27 @@ function renderHome() {
     }
   }
 
-  // Abas de Níveis CEFR + Trilhas de Cibersegurança
-  const TAB_NAMES = { BLUE: 'Blue Team', RED: 'Red Team', TI: 'Entrevista TI' };
+  // Trilha ativa (Espanhol Geral A1–C2 vs TI & Cibersegurança) + Abas do grupo
+  const hasCyber = d.levels.some(l => CYBER_LEVELS.has(l.level));
+  const activeTrack = hasCyber ? levelTrack(S.level) : 'cefr';
+  const trackSwitch = $('#track-switch');
+  if (trackSwitch) {
+    trackSwitch.hidden = !hasCyber;
+    trackSwitch.querySelectorAll('[data-track]').forEach(btn => {
+      const on = btn.dataset.track === activeTrack;
+      btn.classList.toggle('on', on);
+      btn.setAttribute('aria-selected', String(on));
+      btn.onclick = () => {
+        if (btn.dataset.track !== activeTrack) switchTrack(btn.dataset.track, true);
+      };
+    });
+  }
+
+  const visibleLevels = hasCyber ? d.levels.filter(l => levelTrack(l.level) === activeTrack) : d.levels;
   const tabs = $('#tabs');
   tabs.innerHTML = '';
-  for (const l of d.levels) {
+  tabs.setAttribute('aria-label', activeTrack === 'cyber' ? 'Trilhas de TI e Cibersegurança' : 'Níveis CEFR');
+  for (const l of visibleLevels) {
     const items = l.modules.flatMap(m => m.items);
     const lDone = items.filter(i => i.stars > 0).length;
     tabs.append(h('button', {
@@ -442,8 +488,7 @@ function renderHome() {
       class: 'lvl-btn' + (l.level === S.level ? ' on' : ''),
       title: `${l.label || ('Nível ' + l.level)} · ${l.modules.length} módulos, ${items.length} lições`,
       onclick: () => {
-        S.level = l.level;
-        localStorage.talk2me_level = l.level;
+        selectLevel(l.level);
         S.allModsExpanded = true;
         S.openMods.clear();
         renderHome();
@@ -601,8 +646,8 @@ function renderLedgerView() {
       otherHits.map(hit => h('button', {
         type: 'button',
         class: 'btn',
-        onclick: () => { S.level = hit.level; localStorage.talk2me_level = hit.level; renderHome(); }
-      }, `Ver ${hit.count} no nível ${hit.level}`))
+        onclick: () => { selectLevel(hit.level); renderHome(); }
+      }, `Ver ${hit.count} em ${TAB_NAMES[hit.level] || ('Nível ' + hit.level)}`))
     );
 
     box.append(h('div', { class: 'empty' },
@@ -628,7 +673,7 @@ function renderMapView() {
   const resumeInfo = S.profile && S.profile.resume && S.profile.resume[S.lang];
   const firstTodoId = (allItems.find(i => !i.stars) || {}).id;
 
-  $('#map-heading').textContent = `Trilha Cartográfica · Nível ${lv.level}`;
+  $('#map-heading').textContent = `Trilha Cartográfica · ${TAB_NAMES[lv.level] || ('Nível ' + lv.level)}`;
   $('#map-subheading').textContent = `Passaporte de navegação contínua — ${totalDone} de ${allItems.length} atividades carimbadas.`;
 
   const summary = $('#map-stats-summary');

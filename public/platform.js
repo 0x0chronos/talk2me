@@ -126,7 +126,8 @@ document.querySelectorAll('[data-nav]').forEach(b=>b.onclick=()=>{
   const name=b.dataset.nav;
   document.querySelectorAll('[data-nav]').forEach(x=>x.classList.toggle('selected',x.dataset.nav===name));
   if(name==='home')window.scrollTo({top:0,behavior:'smooth'});
-  if(name==='course')document.querySelector('.trail-main').scrollIntoView({behavior:'smooth'});
+  if(name==='course'){if(typeof switchTrack==='function')switchTrack('cefr',true);document.querySelector('.trail-main').scrollIntoView({behavior:'smooth'});}
+  if(name==='cyber'){if(typeof switchTrack==='function')switchTrack('cyber',true);document.querySelector('.trail-main').scrollIntoView({behavior:'smooth'});}
   if(name==='profile'||name==='account'){
     document.querySelector('#profile-btn').click();
     document.querySelector(name==='account'?'#dtab-auth':'#dtab-overview').click();

@@ -3,22 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>talk2me — Estúdio de Idiomas</title>
+  <title>háblame — Estúdio de Espanhol</title>
   <link rel="stylesheet" href="/styles.css?v=20261109_06">
 <link rel="stylesheet" href="/talk2me.css">
+<link rel="icon" href="/app-icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
 <link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#792334">
 </head>
 <body class="locked">
-<section id="login-screen" class="login-screen"><div class="login-story"><span class="wordmark">talk<span>2</span>me</span><p class="eyebrow">SEU ESPANHOL. SEU RITMO.</p><h1>Uma conversa abre<br>um novo mundo.</h1><p>Um espaço para ouvir, praticar e ganhar confiança. Um pequeno passo, todos os dias.</p><div class="login-art" aria-hidden="true"><span>¡Hola!</span><span>¿Qué tal?</span><span>Vamos juntos.</span></div><small>Do primeiro hola às conversas que importam.</small></div><div class="login-panel"><span class="eyebrow">BEM-VINDO DE VOLTA</span><h2>Seu próximo passo<br>começa aqui.</h2><form id="login-form"><label>E-mail<input name="email" type="email" autocomplete="username" required></label><label>Senha<input name="password" type="password" autocomplete="current-password" required maxlength="128"></label><button type="submit" class="btn">Entrar para estudar →</button><p class="form-status" role="status"></p></form><p class="access-note">Seu acesso é criado pelo professor. Para receber sua conta ou recuperar o acesso, fale com o administrador.</p><p id="setup-note" hidden>A configuração inicial do administrador ainda não foi concluída neste computador.</p></div></section>
-<aside class="study-nav"><a class="wordmark" href="/">talk<span>2</span>me</a><span class="nav-caption">SEU ESPAÇO DE ESTUDO</span><button data-nav="home" class="selected"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 10.5L12 3l9 7.5V20a1 1 0 0 1-1 1h-5.5v-6h-5v6H4a1 1 0 0 1-1-1v-9.5Z"/></svg> <span>Meu estudo</span></button><button data-nav="course"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21.5V5.5Z"/><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M8.5 8h7.5M8.5 12h5"/></svg> <span>Explorar aulas</span></button><button data-nav="profile"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20a8 8 0 1 0-8-8 8 8 0 0 0 8 8Z"/><path d="M12 8v4l2.8 2.8"/><path d="M7.5 3.2A10 10 0 0 1 20.8 16.5"/></svg> <span>Meu progresso</span></button><button data-nav="account"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M5.5 20a6.5 6.5 0 0 1 13 0"/></svg> <span>Minha conta</span></button><button data-nav="admin" id="admin-nav" hidden><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3.5"/><path d="M3.5 19.5a5.5 5.5 0 0 1 11 0"/><circle cx="17" cy="9.5" r="2.5"/><path d="M15.5 19.5a4.5 4.5 0 0 1 5-4.4"/></svg> <span>Alunos e senhas</span></button><div class="nav-bottom"><span class="connection-label" id="connection-status">Conectado</span><p>Um pouco a cada dia.<br>Você chega mais longe.</p></div></aside>
-<nav class="mobile-nav" aria-label="Navegação principal"><button data-nav="home" class="selected"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 10.5L12 3l9 7.5V20a1 1 0 0 1-1 1h-5.5v-6h-5v6H4a1 1 0 0 1-1-1v-9.5Z"/></svg><span>Início</span></button><button data-nav="course"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21.5V5.5Z"/><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M8.5 8h7.5M8.5 12h5"/></svg><span>Aulas</span></button><button data-nav="profile"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20a8 8 0 1 0-8-8 8 8 0 0 0 8 8Z"/><path d="M12 8v4l2.8 2.8"/><path d="M7.5 3.2A10 10 0 0 1 20.8 16.5"/></svg><span>Progresso</span></button><button data-nav="account"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M5.5 20a6.5 6.5 0 0 1 13 0"/></svg><span>Conta</span></button></nav>
+<section id="login-screen" class="login-screen"><div class="login-story"><span class="wordmark"><svg class="wordmark-ico" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#581827" stroke="#d9a248" stroke-width="1.5"/><path d="M8 23V14a8 8 0 0 1 16 0v6a2 2 0 0 1-2 2h-8l-3.5 2.5c-.7.5-1.5 0-1.5-.8Z" fill="none" stroke="#ffd17c" stroke-width="1.6"/><rect x="8" y="25.5" width="16" height="3" rx="1.5" fill="#f1bf00"/><rect x="8" y="25.5" width="16" height=".9" fill="#aa151b"/><rect x="8" y="27.6" width="16" height=".9" fill="#aa151b"/></svg><span>hábla<em>me</em></span></span><p class="eyebrow">SEU ESPANHOL. SEU RITMO.</p><h1>Uma conversa abre<br>um novo mundo.</h1><p>Um espaço para ouvir, praticar e ganhar confiança em espanhol — do dia a dia à carreira na Espanha.</p><div class="login-art" aria-hidden="true"><span>¡Hola!</span><span>¿Qué tal?</span><span>Vamos juntos.</span></div><small>Do primeiro hola às conversas que importam.</small></div><div class="login-panel"><span class="eyebrow">BEM-VINDO DE VOLTA</span><h2>Seu próximo passo<br>começa aqui.</h2><form id="login-form"><label>E-mail<input name="email" type="email" autocomplete="username" required></label><label>Senha<input name="password" type="password" autocomplete="current-password" required maxlength="128"></label><button type="submit" class="btn">Entrar para estudar →</button><p class="form-status" role="status"></p></form><p class="access-note">Seu acesso é criado pelo professor. Para receber sua conta ou recuperar o acesso, fale com o administrador.</p><p id="setup-note" hidden>A configuração inicial do administrador ainda não foi concluída neste computador.</p></div></section>
+<aside class="study-nav"><a class="wordmark" href="/"><svg class="wordmark-ico" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#792334"/><path d="M8 23V14a8 8 0 0 1 16 0v6a2 2 0 0 1-2 2h-8l-3.5 2.5c-.7.5-1.5 0-1.5-.8Z" fill="none" stroke="#ffd17c" stroke-width="1.6"/><rect x="8" y="25.5" width="16" height="3" rx="1.5" fill="#f1bf00"/><rect x="8" y="25.5" width="16" height=".9" fill="#aa151b"/><rect x="8" y="27.6" width="16" height=".9" fill="#aa151b"/></svg><span>hábla<em>me</em></span></a><span class="nav-caption">ESPAÇO DE ESPANHOL</span><button data-nav="home" class="selected"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V11a8 8 0 0 1 16 0v9"/><path d="M2 20h20"/><path d="M9 20v-5a3 3 0 0 1 6 0v5"/></svg> <span>Meu estudo</span></button><button data-nav="course"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21.5V5.5Z"/><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M8.5 8h7.5M8.5 12h5"/></svg> <span>Espanhol Geral</span></button><button data-nav="cyber"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l7 3v5c0 5-3.4 8.7-7 10-3.6-1.3-7-5-7-10V6l7-3Z"/><path d="M9.5 12l1.8 1.8 3.7-3.8"/></svg> <span>TI &amp; Cyber</span></button><button data-nav="profile"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M14.8 9.2l-1.9 5.6-5.6 1.9 1.9-5.6 5.6-1.9Z"/></svg> <span>Meu progresso</span></button><button data-nav="account"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M5.5 20a6.5 6.5 0 0 1 13 0"/></svg> <span>Minha conta</span></button><button data-nav="admin" id="admin-nav" hidden><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3.5"/><path d="M3.5 19.5a5.5 5.5 0 0 1 11 0"/><circle cx="17" cy="9.5" r="2.5"/><path d="M15.5 19.5a4.5 4.5 0 0 1 5-4.4"/></svg> <span>Alunos e senhas</span></button><div class="nav-bottom"><span class="connection-label" id="connection-status">Conectado</span><p>Um pouco a cada dia.<br>¡Vamos adelante!</p></div></aside>
+<nav class="mobile-nav" aria-label="Navegação principal"><button data-nav="home" class="selected"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V11a8 8 0 0 1 16 0v9"/><path d="M2 20h20"/><path d="M9 20v-5a3 3 0 0 1 6 0v5"/></svg><span>Início</span></button><button data-nav="course"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21.5V5.5Z"/><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M8.5 8h7.5M8.5 12h5"/></svg><span>Aulas</span></button><button data-nav="cyber"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l7 3v5c0 5-3.4 8.7-7 10-3.6-1.3-7-5-7-10V6l7-3Z"/><path d="M9.5 12l1.8 1.8 3.7-3.8"/></svg><span>TI/Cyber</span></button><button data-nav="profile"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M14.8 9.2l-1.9 5.6-5.6 1.9 1.9-5.6 5.6-1.9Z"/></svg><span>Progresso</span></button><button data-nav="account"><svg class="nav-svg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M5.5 20a6.5 6.5 0 0 1 13 0"/></svg><span>Conta</span></button></nav>
 <dialog id="admin-dialog"><div class="dialog-heading"><h2>Seus alunos</h2><button class="abtn" id="close-admin">Fechar</button></div><p>Crie um acesso ou escolha um aluno cadastrado para trocar a senha.</p><form id="student-form"><label>Nome do aluno<input name="full_name" autocomplete="name" required maxlength="100"></label><label>E-mail<input name="email" type="email" autocomplete="email" required></label><label>Senha inicial<input name="password" type="password" minlength="10" maxlength="128" required autocomplete="new-password"></label><button type="submit" class="btn">Criar acesso</button><p class="form-status" role="status"></p></form><h3>Alunos cadastrados</h3><div id="student-list"></div></dialog>
 
   <header class="top">
     <div class="top-in">
       <div class="brand">
-        <span class="brand-mark" aria-hidden="true">t2</span>
-        <span>talk2me</span>
+        <span class="brand-es-flag" aria-hidden="true"><svg viewBox="0 0 30 20" xmlns="http://www.w3.org/2000/svg"><rect width="30" height="20" rx="3" fill="#AA151B"/><rect y="5" width="30" height="10" fill="#F1BF00"/><rect x="6.5" y="7.2" width="2.6" height="5.6" rx="1" fill="#AA151B"/></svg></span>
+        <span>háblame</span>
       </div>
       <nav class="langs" id="langs" aria-label="Selecionar curso de idioma"></nav>
       <div class="top-actions">
@@ -39,7 +40,7 @@
   <section class="banner" id="hero">
     <div class="banner-crest" id="banner-crest" aria-hidden="true"></div>
     <div class="banner-in">
-      <div class="banner-copy"><span class="eyebrow">UM NOVO DIA PARA APRENDER</span>
+      <div class="banner-copy"><span class="eyebrow"><svg class="es-pill-flag" viewBox="0 0 30 20" aria-hidden="true"><rect width="30" height="20" rx="2" fill="#AA151B"/><rect y="5" width="30" height="10" fill="#F1BF00"/><rect x="6.5" y="7.2" width="2.6" height="5.6" rx="1" fill="#AA151B"/></svg> ESPAÑA · ESTÚDIO DE ESPANHOL</span>
         <h1 id="hero-t">Espanhol — Caderno Ibérico</h1>
         <p id="hero-p"></p>
       </div>
@@ -64,7 +65,19 @@
 
   <main class="trail-main">
     <div class="toolbar">
-      <div class="levels" id="tabs" role="tablist" aria-label="Níveis CEFR"></div>
+      <div class="levels-group">
+        <div class="track-switch" id="track-switch" role="tablist" aria-label="Trilha de estudo">
+          <button type="button" class="track-btn on" data-track="cefr" role="tab" aria-selected="true">
+            <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21.5V5.5Z"/><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/></svg>
+            <span>Espanhol Geral · A1–C2</span>
+          </button>
+          <button type="button" class="track-btn" data-track="cyber" role="tab" aria-selected="false">
+            <svg class="ico sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 5-3.4 8.7-7 10-3.6-1.3-7-5-7-10V6l7-3Z"/><path d="M9.5 12l1.8 1.8 3.7-3.8"/></svg>
+            <span>TI &amp; Cibersegurança</span>
+          </button>
+        </div>
+        <div class="levels" id="tabs" role="tablist" aria-label="Níveis do curso"></div>
+      </div>
       <div class="toolbar-right">
         <div class="view-switcher" role="radiogroup" aria-label="Modo de visualização da trilha">
           <button class="view-btn on" id="view-ledger-btn" type="button" aria-checked="true" role="radio" title="Visualização em Caderno (módulos e lições)">
@@ -108,7 +121,7 @@
     <div class="profile-drawer" role="dialog" aria-modal="true" aria-labelledby="modal-title">
       <div class="drawer-header">
         <div class="drawer-title-wrap">
-          <span class="consular-flag-seal">SEU ESPAÇO</span>
+          <span class="consular-flag-seal"><svg class="es-pill-flag" viewBox="0 0 30 20" aria-hidden="true"><rect width="30" height="20" rx="2" fill="#AA151B"/><rect y="5" width="30" height="10" fill="#F1BF00"/><rect x="6.5" y="7.2" width="2.6" height="5.6" rx="1" fill="#AA151B"/></svg> PASSAPORTE IBÉRICO</span>
           <h2 id="modal-title">Meu progresso</h2>
         </div>
         <button class="drawer-close-btn" id="drawer-close" type="button" aria-label="Fechar janela de perfil">
