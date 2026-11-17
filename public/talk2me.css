@@ -25,6 +25,16 @@ html[data-theme="dark"]{--pick-ink:#9cc0ff;--pick-bg:#16253f;--pick-line:#4f7fd1
 .match-progress{margin:0 0 10px;font-size:13px;font-weight:700;color:var(--muted);letter-spacing:.2px}
 .cols .mcol{display:grid;gap:10px;align-content:start}
 .mcol-label{font-size:11px;font-weight:800;letter-spacing:1.4px;text-transform:uppercase;color:var(--muted);padding:2px 4px}
+.opt:not(.m-opt){color:var(--ink);cursor:pointer;transition:background-color 140ms,border-color 140ms,box-shadow 140ms}
+.opt:not(.m-opt):disabled{cursor:default}
+.opt:not(.m-opt):hover:not(:disabled):not(.on):not(.right):not(.wrong){background:var(--sheet-hover);border-color:var(--muted);color:var(--ink)}
+.opt:not(.m-opt).on:not(.right):not(.wrong),.opt:not(.m-opt).on:not(.right):not(.wrong):hover:not([data-lock]){border-color:var(--pick-line);background:var(--pick-bg);color:var(--pick-ink);box-shadow:0 0 0 2px var(--pick-line)}
+.opt:not(.m-opt).right,.opt:not(.m-opt).right:hover:not([data-lock]){border-color:var(--ok-ink);background:var(--ok-bg);color:var(--ok-ink)}
+.opt:not(.m-opt).wrong,.opt:not(.m-opt).wrong:hover:not([data-lock]){border-color:var(--err-ink);background:var(--err-bg);color:var(--err-ink)}
+.opt .opt-idx{width:28px;height:28px;border-radius:6px;border:1px solid var(--seam);background:var(--paper);display:grid;place-items:center;font-size:.8125rem;font-weight:700;color:var(--muted);flex:none}
+.opt.on:not(.right):not(.wrong) .opt-idx{background:var(--pick-ink);border-color:var(--pick-ink);color:var(--pick-bg)}
+.opt.right .opt-idx{background:var(--ok-ink);border-color:var(--ok-ink);color:var(--ok-bg)}
+.opt.wrong .opt-idx{background:var(--err-ink);border-color:var(--err-ink);color:var(--err-bg)}
 .m-opt{width:100%;min-height:56px;cursor:pointer;color:var(--ink);transition:background-color 140ms,border-color 140ms,box-shadow 140ms}
 .m-opt:hover:not(:disabled):not(.on){background:var(--sheet-hover);border-color:var(--muted);color:var(--ink)}
 .opt.m-opt.on,.opt.m-opt.on:hover:not([data-lock]){border-color:var(--pick-line);background:var(--pick-bg);color:var(--pick-ink);box-shadow:0 0 0 2px var(--pick-line)}

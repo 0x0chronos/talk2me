@@ -1,0 +1,694 @@
+{
+  "id": "39c9c99e-66bd-507c-bc1b-b5585c16740b",
+  "title": "Checkpoint: Red Team I - Escopo, Reconhecimento, Nmap, Nessus e Fuzzing",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "c6b38ccc-a30b-57f0-8c41-c3507e999f3c",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": [
+        {
+          "id": "6ccfaabc-2055-578e-a5d0-9ac7e5b33f6d",
+          "leftContent": "el alcance de la auditoría",
+          "rightContent": "o escopo do teste / auditoria",
+          "sequenceItem": 1,
+          "exerciseId": "8199d47e-8792-58f1-ad23-e1be4fe7c186"
+        },
+        {
+          "id": "807f342a-3d9e-50ea-bc3e-fbe54f1c7435",
+          "leftContent": "la superficie de ataque",
+          "rightContent": "a superfície de ataque",
+          "sequenceItem": 2,
+          "exerciseId": "8199d47e-8792-58f1-ad23-e1be4fe7c186"
+        },
+        {
+          "id": "1d03e622-d35d-5139-accf-127453eba782",
+          "leftContent": "auditoría de caja gris",
+          "rightContent": "pentest grey-box (com credenciais/contexto parcial)",
+          "sequenceItem": 3,
+          "exerciseId": "8199d47e-8792-58f1-ad23-e1be4fe7c186"
+        },
+        {
+          "id": "53437ef6-7173-5089-a200-60b9a8fe09a0",
+          "leftContent": "descartar falsos positivos",
+          "rightContent": "eliminar alertas falsos do scanner",
+          "sequenceItem": 4,
+          "exerciseId": "8199d47e-8792-58f1-ad23-e1be4fe7c186"
+        }
+      ]
+    },
+    {
+      "id": "a3d229b3-e6d7-55ee-b6fd-e5fed1c2575e",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Pentest Black-box, Grey-box e White-box» em uma consultoria de cibersegurança na Espanha?</p>",
+      "contentPlain": "Como se diz «Pentest Black-box, Grey-box e White-box» em uma consultoria de cibersegurança na Espanha?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+      "feedbackError": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "437988cc-94cb-570a-b044-bd367c0b8d05",
+          "textContent": "Auditoría de caja negra, caja gris y caja blanca.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "3d589615-4b7d-535b-bde7-02e5e00f769e",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a9caa48d-4816-5824-b713-a056c8e60e29",
+          "textContent": "Prueba de bloque oscuro, medio y claro.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+          "exerciseId": "3d589615-4b7d-535b-bde7-02e5e00f769e",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0560f55f-1324-5457-b893-70569e25761a",
+          "textContent": "Testeo de pantalla cerrada y abierta.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+          "exerciseId": "3d589615-4b7d-535b-bde7-02e5e00f769e",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c30dbc42-ed21-5f83-af04-9df75778a464",
+          "textContent": "Revisión sin código y con código.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+          "exerciseId": "3d589615-4b7d-535b-bde7-02e5e00f769e",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a8d1e78e-2262-582b-942c-34c9b3d23995",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo priorizas qué componentes probar primero?»</strong></p><p><em>(E como você prioriza quais componentes testar primeiro?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo priorizas qué componentes probar primero?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l01_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Priorizo los flujos críticos de negocio, como la autenticación, las pasarelas de pago y los paneles de administración expuestos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 3,
+      "options": [
+        {
+          "id": "63208db8-ec98-5e4c-80ff-73ccac5bdc96",
+          "textContent": "Priorizo los flujos críticos de negocio, como la autenticación, las pasarelas de pago y los paneles de administración expuestos.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "adb89b74-5c69-583e-9b61-ead8a302f53c",
+          "textContent": "Primero reviso el alcance acordado y realizo el reconocimiento de la superficie de ataque para identificar activos, puertos y tecnologías.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "af25f401-f322-561a-8170-0f0999d6ad38",
+          "textContent": "Antes de iniciar una prueba de penetración, definimos claramente el alcance y las reglas de enfrentamiento con el cliente.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "30cd5563-f2b9-5d64-9097-799b0d53dc6e",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "0f2894f2-fe93-5685-8686-8c1584926f08",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "0af1c02d-258c-50f1-9ebd-40c0dfc18562",
+          "leftContent": "enumerar puertos abiertos",
+          "rightContent": "listar portas TCP/UDP acessíveis no host",
+          "sequenceItem": 1,
+          "exerciseId": "fe7751dc-6726-56bf-8f19-6558d2b07637"
+        },
+        {
+          "id": "d94cb49a-dbe0-5f97-a127-8b5f85b94a04",
+          "leftContent": "configuraciones inseguras",
+          "rightContent": "misconfigurations de servidores ou serviços",
+          "sequenceItem": 2,
+          "exerciseId": "fe7751dc-6726-56bf-8f19-6558d2b07637"
+        },
+        {
+          "id": "f9f92c8e-9dbe-559b-9011-c097a2ebaed9",
+          "leftContent": "explotabilidad real",
+          "rightContent": "comprovação prática de que a falha pode ser explorada",
+          "sequenceItem": 3,
+          "exerciseId": "fe7751dc-6726-56bf-8f19-6558d2b07637"
+        },
+        {
+          "id": "9f061a92-a5e4-5fc6-885e-b0b9d00f9072",
+          "leftContent": "parches pendientes",
+          "rightContent": "atualizações de segurança não aplicadas (missing patches)",
+          "sequenceItem": 4,
+          "exerciseId": "fe7751dc-6726-56bf-8f19-6558d2b07637"
+        }
+      ]
+    },
+    {
+      "id": "b53c1f5f-0732-5b7d-b6e6-5cfd940ff061",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Por que é importante dizer na entrevista técnica na Espanha que você «valida manualmente los hallazgos de Nessus»?</p>",
+      "contentPlain": "Por que é importante dizer na entrevista técnica na Espanha que você «valida manualmente los hallazgos de Nessus»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+      "feedbackError": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 5,
+      "options": [
+        {
+          "id": "eff40827-7905-5e2a-a32a-91b206a0f069",
+          "textContent": "Porque demonstra que você sabe diferenciar falsos positivos do scanner e comprovar a explorabilidade real no ambiente do cliente.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "61dab818-722d-53d7-82ed-167378d47861",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "28e6bc4d-87b0-504a-a633-d8fa6db5bd2f",
+          "textContent": "Porque o Nessus não funciona em sistemas operacionais em espanhol.",
+          "isCorrect": false,
+          "incorrectReason": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+          "exerciseId": "61dab818-722d-53d7-82ed-167378d47861",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a805db1f-a36f-5bd7-9060-5bed7dac8639",
+          "textContent": "Porque na Espanha é proibido usar ferramentas como Nmap.",
+          "isCorrect": false,
+          "incorrectReason": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+          "exerciseId": "61dab818-722d-53d7-82ed-167378d47861",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "fd82dd96-0d5b-548d-a98e-3b9f64e0871a",
+          "textContent": "Porque o cliente prefere receber apenas uma planilha automática sem análise.",
+          "isCorrect": false,
+          "incorrectReason": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+          "exerciseId": "61dab818-722d-53d7-82ed-167378d47861",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f86fbdb0-b1fd-5cdf-ac41-7b7513fa7b7f",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué haces a continuación con los resultados de Nessus?»</strong></p><p><em>(E o que você faz em seguida com os resultados do Nessus?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué haces a continuación con los resultados de Nessus?",
+      "fileUrl": "https://talk2me.local/content/red_m01_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Dirijo el análisis de Nessus únicamente hacia los servicios activos, reviso las vulnerabilidades reportadas y valido manualmente cada fallo antes de incluirlo en el informe.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 6,
+      "options": [
+        {
+          "id": "581bed88-6e03-58af-b0e0-4c5725e2a9e2",
+          "textContent": "Dirijo el análisis de Nessus únicamente hacia los servicios activos, reviso las vulnerabilidades reportadas y valido manualmente cada fallo antes de incluirlo en el informe.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bf3658e9-1695-5267-88d7-fa82a6b86003",
+          "textContent": "Primero realizo un escaneo controlado con Nmap para identificar qué puertos y servicios están realmente activos en el alcance.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ec1c3159-714f-52ad-9f02-8efd12b4fe6d",
+          "textContent": "Utilizo Nmap para descubrir anfitriones activos, enumerar puertos abiertos e identificar las versiones exactas de los servicios expuestos.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0af430f6-05ba-5777-ba6c-fe6982560a97",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "fb050ad3-9e9e-5dc9-8122-2e17368e9c1d",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 7,
+      "options": [],
+      "associations": [
+        {
+          "id": "4618f5ff-af88-561c-9baa-9781a993d3fa",
+          "leftContent": "credenciales por defecto",
+          "rightContent": "default credentials (ex.: admin/admin)",
+          "sequenceItem": 1,
+          "exerciseId": "3b82b6d4-68aa-54a0-877c-54fd7e459e5e"
+        },
+        {
+          "id": "40ba2f5f-221f-554d-b3ef-b556da9fe4a9",
+          "leftContent": "archivos de respaldo olvidados",
+          "rightContent": "arquivos de backup (.bak, .old, .zip) expostos na web",
+          "sequenceItem": 2,
+          "exerciseId": "3b82b6d4-68aa-54a0-877c-54fd7e459e5e"
+        },
+        {
+          "id": "3170b0f2-63bf-547e-b5f6-d9a315730461",
+          "leftContent": "tasa de peticiones por segundo",
+          "rightContent": "rate limit / velocidade de envio no ffuf ou Feroxbuster",
+          "sequenceItem": 3,
+          "exerciseId": "3b82b6d4-68aa-54a0-877c-54fd7e459e5e"
+        },
+        {
+          "id": "8c36cef3-21f1-58e8-9099-031b59be0223",
+          "leftContent": "política de bloqueo de cuentas",
+          "rightContent": "account lockout policy (cuidado essencial ao usar Hydra)",
+          "sequenceItem": 4,
+          "exerciseId": "3b82b6d4-68aa-54a0-877c-54fd7e459e5e"
+        }
+      ]
+    },
+    {
+      "id": "de4cf8c2-af73-589b-9481-81b63d94913b",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Default credentials (credenciais padrão de fábrica)», «Threads» e «Rate of requests per second» em espanhol técnico?</p>",
+      "contentPlain": "Como se diz «Default credentials (credenciais padrão de fábrica)», «Threads» e «Rate of requests per second» em espanhol técnico?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+      "feedbackError": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 8,
+      "options": [
+        {
+          "id": "17b919bc-fa36-5614-b24c-700b22f20b44",
+          "textContent": "Credenciales por defecto, hilos de ejecución y tasa de peticiones por segundo.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3bf08672-295e-5760-87fc-38567a905d36",
+          "textContent": "Contraseñas de tienda, cuerdas de red y velocidad de cartas.",
+          "isCorrect": false,
+          "incorrectReason": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+          "exerciseId": "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2e7a3931-1219-5cca-879c-6d55fe22dd34",
+          "textContent": "Claves rotas, líneas de código y peso de paquetes.",
+          "isCorrect": false,
+          "incorrectReason": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+          "exerciseId": "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4686c717-06b1-55c1-b95c-18b747fbfc65",
+          "textContent": "Nombres iniciales, cables de servidor y número de clics.",
+          "isCorrect": false,
+          "incorrectReason": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+          "exerciseId": "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "26035d94-8ee1-5ec5-ba8f-262c9e26bd2b",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo evitas saturar el servidor o bloquear cuentas al usar Hydra?»</strong></p><p><em>(E como você evita saturar o servidor ou bloquear contas ao usar o Hydra?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo evitas saturar el servidor o bloquear cuentas al usar Hydra?",
+      "fileUrl": "https://talk2me.local/content/red_m01_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Limito el número de hilos y peticiones por segundo, y con Hydra pruebo listas reducidas de credenciales por defecto verificando antes la política de bloqueo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 9,
+      "options": [
+        {
+          "id": "97da5d28-00f0-58ae-864f-0066e10974dd",
+          "textContent": "Limito el número de hilos y peticiones por segundo, y con Hydra pruebo listas reducidas de credenciales por defecto verificando antes la política de bloqueo.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f3f1f390-77c9-5734-90f8-7ba77ddc29e4",
+          "textContent": "Utilizo ffuf y Feroxbuster durante la enumeración web para encontrar directorios ocultos, puntos finales de API y archivos de configuración olvidados.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d003dd5c-5917-5858-abe2-55fb1f70ecd7",
+          "textContent": "Para descubrir rutas ocultas, paneles administrativos y archivos de respaldo expuestos, utilizo herramientas rápidas como ffuf y Feroxbuster.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0aaff83f-8305-5ebb-97e9-dff63e78577b",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8c89d107-0a83-52fe-b810-745b671d0b88",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "adb48d34-4940-577a-900e-ff92621919c8",
+      "sequenceItem": 10,
+      "options": [],
+      "associations": [
+        {
+          "id": "11b172db-2a52-5728-8bd7-08a92ddffffa",
+          "leftContent": "las partes interesadas",
+          "rightContent": "os stakeholders / responsáveis do cliente",
+          "sequenceItem": 1,
+          "exerciseId": "2d8d27ba-d287-545b-bcae-49b84a9ddeee"
+        },
+        {
+          "id": "0e0fb8f8-82b3-5fc5-97a4-53248a6b9110",
+          "leftContent": "recomendaciones accionables",
+          "rightContent": "recomendações práticas / acionáveis",
+          "sequenceItem": 2,
+          "exerciseId": "2d8d27ba-d287-545b-bcae-49b84a9ddeee"
+        },
+        {
+          "id": "5b619f52-45a2-5760-b3da-ae814102ffb5",
+          "leftContent": "descubrimiento y fuzzing (ffuf / Feroxbuster)",
+          "rightContent": "enumeração de diretórios, rotas e parâmetros",
+          "sequenceItem": 3,
+          "exerciseId": "2d8d27ba-d287-545b-bcae-49b84a9ddeee"
+        },
+        {
+          "id": "158dc6ea-f05b-5305-b8f1-d9c23bcca51f",
+          "leftContent": "seguridad de APIs (certificación ACP)",
+          "rightContent": "auditoria de endpoints e autenticação de APIs",
+          "sequenceItem": 4,
+          "exerciseId": "2d8d27ba-d287-545b-bcae-49b84a9ddeee"
+        }
+      ]
+    },
+    {
+      "id": "5b03c733-c4a6-5c3f-b625-4b17ab40e5db",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como traduzir com precisão para uma entrevista na Espanha: «Forneci suporte direto aos stakeholders, apresentando relatórios detalhados e recomendações acionáveis»?</p>",
+      "contentPlain": "Como traduzir com precisão para uma entrevista na Espanha: «Forneci suporte direto aos stakeholders, apresentando relatórios detalhados e recomendações acionáveis»?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Brindar soporte a las partes interesadas (stakeholders)» e «recomendaciones accionables» traduzem perfeitamente a frase de impacto do seu currículo!",
+      "feedbackError": "«Brindar soporte a las partes interesadas (stakeholders)» e «recomendaciones accionables» traduzem perfeitamente a frase de impacto do seu currículo!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "adb48d34-4940-577a-900e-ff92621919c8",
+      "sequenceItem": 11,
+      "options": [
+        {
+          "id": "e5b18972-d685-595d-a339-dbfe3f724b8c",
+          "textContent": "Brindé soporte directo a las partes interesadas, presentando informes detallados y recomendaciones accionables para mitigar los riesgos.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "d3b0fc36-18ef-533a-ba9d-73f70a9f9f32",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4bbce567-e51c-5c95-b09c-c76cbed6aefa",
+          "textContent": "Entregué los papeles a los jefes sin explicar las vulnerabilidades.",
+          "isCorrect": false,
+          "incorrectReason": "«Brindar soporte a las partes interesadas (stakeholders)» e «recomendaciones accionables» traduzem perfeitamente a frase de impacto do seu currículo!",
+          "exerciseId": "d3b0fc36-18ef-533a-ba9d-73f70a9f9f32",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3207083c-37aa-5bec-b1c7-62fdf342d5e4",
+          "textContent": "Hice veinte escaneos automáticos sin escribir ningún documento.",
+          "isCorrect": false,
+          "incorrectReason": "«Brindar soporte a las partes interesadas (stakeholders)» e «recomendaciones accionables» traduzem perfeitamente a frase de impacto do seu currículo!",
+          "exerciseId": "d3b0fc36-18ef-533a-ba9d-73f70a9f9f32",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3e952b50-fc24-5e85-86c6-97226928429d",
+          "textContent": "Guardé las evidencias sin hablar con el equipo del cliente.",
+          "isCorrect": false,
+          "incorrectReason": "«Brindar soporte a las partes interesadas (stakeholders)» e «recomendaciones accionables» traduzem perfeitamente a frase de impacto do seu currículo!",
+          "exerciseId": "d3b0fc36-18ef-533a-ba9d-73f70a9f9f32",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6a342964-cf66-59e9-bab6-66e189974cde",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y también participabas en la redacción y presentación de los informes a los responsables del cliente?»</strong></p><p><em>(E você também participava da redação e apresentação dos relatórios aos responsáveis do cliente?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y también participabas en la redacción y presentación de los informes a los responsables del cliente?",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Sí, redactaba tanto el informe técnico con las evidencias prácticas como el resumen ejecutivo, y ayudaba al cliente a priorizar las correcciones.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "adb48d34-4940-577a-900e-ff92621919c8",
+      "sequenceItem": 12,
+      "options": [
+        {
+          "id": "6734740e-7341-5a80-a491-8cc9b5aaf198",
+          "textContent": "Sí, redactaba tanto el informe técnico con las evidencias prácticas como el resumen ejecutivo, y ayudaba al cliente a priorizar las correcciones.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "4557ccde-ef01-5a88-90f7-0ff40c05431f",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b24218e9-bb68-59ae-b6e7-00f5ec3a5b95",
+          "textContent": "Auditaba aplicaciones web, interfaces de programación e infraestructuras utilizando Burp Suite, Nmap, Nessus y Metasploit para simular escenarios reales.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "4557ccde-ef01-5a88-90f7-0ff40c05431f",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "964f10f4-4832-5ff5-9304-c7300f14feab",
+          "textContent": "En Access Security planifiqué y ejecuté más de veinte pruebas de penetración en aplicaciones web e infraestructuras de distintos sectores.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "4557ccde-ef01-5a88-90f7-0ff40c05431f",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "30b41d8b-4a0e-57b3-a53b-40fa015452f2",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "4557ccde-ef01-5a88-90f7-0ff40c05431f",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

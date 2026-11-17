@@ -1,0 +1,67 @@
+{
+  "id": "a52e2586-d8c2-5ad8-a612-486514751659",
+  "title": "Red Team III - Active Directory, Pós-Explotação (CRTA/DCPT) e Relatórios",
+  "subTitle": "Exploração de Active Directory, movimento lateral, Metasploit (certificações CRTA e DCPT), redação de relatórios executivos/técnicos e Retesting.",
+  "sequenceItem": 3,
+  "icon": null,
+  "bannerImageUrl": null,
+  "completed": false,
+  "unlocked": true,
+  "learningPath": [
+    {
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "title": "Pós-Explotação, Active Directory e Movimento Lateral (CRTA / DCPT)",
+      "icon": null,
+      "stars": 0,
+      "unlocked": true,
+      "sequence": 1,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "title": "Exploração Controlada, Metasploit, Pivoting e Laboratórios (HTB / TryHackMe)",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 2,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "title": "Relatórios Executivos e Técnicos, CVSS, Hallazgos e Retesting",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 3,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "title": "Purple Team - Transformando seus Pentests em Regras de Detecção no SIEM",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 4,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "00000000-0000-0000-0000-000000000000",
+      "title": "Checkpoint da unidade",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 5,
+      "type": "checkpoint",
+      "checkpointId": "d3fe526f-b92b-512e-b335-50cc0a8d870b",
+      "challengeReached": false
+    }
+  ]
+}

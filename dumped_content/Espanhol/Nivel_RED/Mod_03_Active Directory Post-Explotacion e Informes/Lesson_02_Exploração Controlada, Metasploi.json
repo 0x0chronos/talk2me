@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+    "attemptId": "cfb6b78c-2a04-5d6b-8abe-5eb463fecf8e",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "711fa644-8cb9-5816-84ad-2ea3f36cb0d3",
+      "6a1c7eef-254c-50ec-b28a-37a6221b8989",
+      "4012f9e3-cc63-51c6-ae67-3132cdaff327",
+      "2f315899-61f5-567b-ac6c-6f36b69daf99"
+    ],
+    "practiceExerciseIds": [
+      "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+      "3a4a79b6-c43f-5ef4-b37d-85255f1ff196",
+      "0eb456a8-d0f4-50de-a198-8e8fcd17e714",
+      "8e9b306a-ac9c-54bd-b702-cf1d51a20981",
+      "d7e9f992-f540-5ffe-b60f-80d7bccb6f82"
+    ],
+    "evaluationExerciseIds": [
+      "28ae4694-45af-5c27-ae29-ad410b3b9804",
+      "d99c530b-e912-5990-8d8c-a3f6bd776419",
+      "50de6326-01cd-5181-93ad-e87c4e4aa043"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "3cbe6f17-5d73-5830-972e-7bb1a887fd67",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "f6631e27-c0ab-5a8c-89d6-8df2a9e606a6",
+          "textContent": "<p>Mostra uso profissional e seguro do Metasploit em clientes reais.</p><p><strong>Utilizo Metasploit y pruebas de concepto personalizadas para validar vulnerabilidades de forma controlada sin comprometer la estabilidad del entorno.</strong></p><p>Em português: <strong>Utilizo o Metasploit e provas de conceito (PoCs) personalizadas para validar vulnerabilidades de forma controlada sem comprometer a estabilidade do ambiente.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m03_l02_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "327e2789-ff79-5ce6-ac1f-d1d6ee63a740",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "09ce8cfb-e619-5f18-ad75-6d1cf9172ec2",
+          "textContent": "<p>Saber explicar *pivoting* («tunelización y redirección de puertos») destaca sua formação CRTA e DCPT!</p><p><strong>Cuando audito redes segmentadas, configuro túneles y redirección de puertos desde el equipo comprometido para evaluar el alcance hacia subredes internas.</strong></p><p>Em português: <strong>Quando audito redes segmentadas, configuro túneis e redirecionamento de portas (pivoting) a partir da máquina comprometida para avaliar o alcance até sub-redes internas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m03_l02_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "2155b0fd-0ddd-529b-91da-6ec7519a9d92",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "68309381-f1d2-5e9d-a9a6-041a5386683f",
+          "textContent": "<p>Traz para a entrevista a seção de Desenvolvimento Pessoal do seu currículo!</p><p><strong>Además de mi experiencia profesional, entreno semanalmente en laboratorios de Hack The Box y TryHackMe para mantenerme al día con nuevas técnicas.</strong></p><p>Em português: <strong>Além da minha experiência profissional, treino semanalmente em laboratórios do Hack The Box e TryHackMe para me manter atualizado com novas técnicas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m03_l02_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cb08a886-3220-5fbc-8f38-d1e735f9d24e",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "cf85856e-3942-5d26-a440-5c420a775217",
+          "textContent": "<p>Como falar sobre <strong>Metasploit</strong>, <em>pivoting (tunelamento de rede)</em> e sua prática constante no <strong>Hack The Box e TryHackMe</strong> sem parecer que depende apenas de exploits prontos:</p><ul><li><strong>Validación controlada de vulnerabilidades:</strong> usar módulos do Metasploit ou provas de conceito (<em>pruebas de concepto - PoC</em>) ajustadas ao ambiente.</li><li><strong>Tunelización y redirección de puertos (Pivoting):</strong> acessar sub-redes internas isoladas a partir de um host comprometido.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>prueba de concepto (PoC)</strong> — evidência controlada que demonstra a vulnerabilidade</li><li><strong>denegación de servicio (DoS)</strong> — indisponibilidade do sistema (deve ser evitada em produção)</li><li><strong>redirección de puertos y tunelización</strong> — port forwarding e pivoting para alcançar sub-redes internas</li><li><strong>entornos realistas de laboratorio</strong> — ambientes práticos do Hack The Box e TryHackMe</li><li><strong>Palavra-chave de escrita: «prueba»</strong> (Reviso cada prueba de concepto antes de ejecutarla en el entorno del cliente.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "prueba de concepto (PoC) — evidência controlada que demonstra a vulnerabilidade",
+        "denegación de servicio (DoS) — indisponibilidade do sistema (deve ser evitada em produção)",
+        "redirección de puertos y tunelización — port forwarding e pivoting para alcançar sub-redes internas",
+        "entornos realistas de laboratorio — ambientes práticos do Hack The Box e TryHackMe"
+      ]
+    },
+    {
+      "id": "32e18d24-7c57-59ab-adb4-f9613feea81b",
+      "title": "Falando sobre Exploração, Pivoting e Hack The Box",
+      "description": "<p>Laura pergunta sobre o uso de Metasploit e como você mantém suas habilidades ofensivas afiadas.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">En tu currículum mencionas Metasploit, certificaciones como DCPT y CRTA, y práctica continua en Hack The Box. ¿Qué precauciones tomas al ejecutar un exploit en el entorno de un cliente?</div>\n  <div style=\"opacity: 0.55;\">No seu currículo você menciona Metasploit, certificações como DCPT e CRTA, e prática contínua no Hack The Box. Quais precauções você toma ao executar um exploit no ambiente de um cliente?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m03_l02_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Reviso siempre el código de la prueba de concepto antes de ejecutarla y evito exploits que puedan provocar una denegación de servicio o corromper la memoria del servidor.</div>\n  <div style=\"opacity: 0.55;\">Reviso sempre o código da prova de conceito antes de executá-la e evito exploits que possam provocar uma negação de serviço (DoS) ou corromper a memória do servidor.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m03_l02_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¡Muy prudente! ¿Y qué te aporta entrenar en plataformas como Hack The Box y TryHackMe?</div>\n  <div style=\"opacity: 0.55;\">Muito prudente! E o que treinar em plataformas como Hack The Box e TryHackMe agrega para você?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m03_l02_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Me permite practicar técnicas avanzadas de evasión, tunelización hacia subredes internas y análisis defensivo en escenarios realistas que aplico directamente en mi trabajo.</div>\n  <div style=\"opacity: 0.55;\">Permite-me praticar técnicas avançadas de evasão, tunelamento (pivoting) para sub-redes internas e análise defensiva em cenários realistas que aplico diretamente no meu trabalho.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m03_l02_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "711fa644-8cb9-5816-84ad-2ea3f36cb0d3",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «En tu currículum mencionas Metasploit, certificaciones como DCPT y CRTA, y práctica continua en Hack The Box. ¿Qué precauciones tomas al ejecutar un exploit en el entorno de un cliente?»</p><p><em>(No seu currículo você menciona Metasploit, certificações como DCPT e CRTA, e prática contínua no Hack The Box. Quais precauções você toma ao executar um exploit no ambiente de um cliente?)</em></p>",
+      "contentPlain": "En tu currículum mencionas Metasploit, certificaciones como DCPT y CRTA, y práctica continua en Hack The Box. ¿Qué precauciones tomas al ejecutar un exploit en el entorno de un cliente?",
+      "fileUrl": "https://talk2me.local/content/red_m03_l02_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Reviso siempre el código de la prueba de concepto antes de ejecutarla y evito exploits que puedan provocar una denegación de servicio o corromper la memoria del servidor.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "2f4892db-e6ce-5846-a7a7-292e0d10a3e9",
+          "textContent": "Reviso siempre el código de la prueba de concepto antes de ejecutarla y evito exploits que puedan provocar una denegación de servicio o corromper la memoria del servidor.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "711fa644-8cb9-5816-84ad-2ea3f36cb0d3",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7f19042e-8cef-5bbb-bb98-5f521150d402",
+          "textContent": "Además de mi experiencia profesional, entreno semanalmente en laboratorios de Hack The Box y TryHackMe para mantenerme al día con nuevas técnicas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "711fa644-8cb9-5816-84ad-2ea3f36cb0d3",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1387d9db-1bc3-5ed4-b44b-bb30ac8762be",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "711fa644-8cb9-5816-84ad-2ea3f36cb0d3",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "36265c66-5a4f-5b4a-99ef-f07ea46feb2d",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "711fa644-8cb9-5816-84ad-2ea3f36cb0d3",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6a1c7eef-254c-50ec-b28a-37a6221b8989",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Utilizo Metasploit y pruebas de concepto personalizadas para validar vulnerabilidades de forma controlada sin comprometer la estabilidad del entorno.</strong></p>",
+      "contentPlain": "Utilizo Metasploit y pruebas de concepto personalizadas para validar vulnerabilidades de forma controlada sin comprometer la estabilidad del entorno.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l02_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Utilizo o Metasploit e provas de conceito (PoCs) personalizadas para validar vulnerabilidades de forma controlada sem comprometer a estabilidade do ambiente.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "7490fb8a-f6fb-5b3c-86a5-7bcba60ac4cc",
+          "textContent": "Utilizo o Metasploit e provas de conceito (PoCs) personalizadas para validar vulnerabilidades de forma controlada sem comprometer a estabilidade do ambiente.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "6a1c7eef-254c-50ec-b28a-37a6221b8989",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e0482405-696a-569d-a25f-6d6bc9323ccc",
+          "textContent": "Quando audito redes segmentadas, configuro túneis e redirecionamento de portas (pivoting) a partir da máquina comprometida para avaliar o alcance até sub-redes internas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "6a1c7eef-254c-50ec-b28a-37a6221b8989",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0cb42f7c-b36c-5fa2-a5ea-f6d99c692c89",
+          "textContent": "Além da minha experiência profissional, treino semanalmente em laboratórios do Hack The Box e TryHackMe para me manter atualizado com novas técnicas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "6a1c7eef-254c-50ec-b28a-37a6221b8989",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "04e34299-7225-5407-9359-f16f5c7aba90",
+          "textContent": "No seu currículo você menciona Metasploit, certificações como DCPT e CRTA, e prática contínua no Hack The Box. Quais precauções você toma ao executar um exploit no ambiente de um cliente?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "6a1c7eef-254c-50ec-b28a-37a6221b8989",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4012f9e3-cc63-51c6-ae67-3132cdaff327",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "c633ac9b-4dd1-53eb-9cb1-649ba6f90e5d",
+          "leftContent": "prueba de concepto (PoC)",
+          "rightContent": "evidência controlada que demonstra a vulnerabilidade",
+          "sequenceItem": 1,
+          "exerciseId": "4012f9e3-cc63-51c6-ae67-3132cdaff327"
+        },
+        {
+          "id": "2b564990-e589-5992-b5ac-fec321f42227",
+          "leftContent": "denegación de servicio (DoS)",
+          "rightContent": "indisponibilidade do sistema (deve ser evitada em produção)",
+          "sequenceItem": 2,
+          "exerciseId": "4012f9e3-cc63-51c6-ae67-3132cdaff327"
+        },
+        {
+          "id": "0ad25f1e-6025-50bf-a602-237523495672",
+          "leftContent": "redirección de puertos y tunelización",
+          "rightContent": "port forwarding e pivoting para alcançar sub-redes internas",
+          "sequenceItem": 3,
+          "exerciseId": "4012f9e3-cc63-51c6-ae67-3132cdaff327"
+        },
+        {
+          "id": "02575cb8-f44b-5b20-a1db-8d4efbb99479",
+          "leftContent": "entornos realistas de laboratorio",
+          "rightContent": "ambientes práticos do Hack The Box e TryHackMe",
+          "sequenceItem": 4,
+          "exerciseId": "4012f9e3-cc63-51c6-ae67-3132cdaff327"
+        }
+      ]
+    },
+    {
+      "id": "2f315899-61f5-567b-ac6c-6f36b69daf99",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "18f39ebc-36c9-5efb-a694-fff6b9f9b05d",
+          "leftContent": "https://talk2me.local/content/red_m03_l02_c1.mp3",
+          "rightContent": "Utilizo Metasploit y pruebas de concepto personalizadas para validar vulnerabilidades de forma controlada sin comprometer la estabilidad del entorno.",
+          "sequenceItem": 1,
+          "exerciseId": "2f315899-61f5-567b-ac6c-6f36b69daf99"
+        },
+        {
+          "id": "0f42495b-66b7-5168-ad55-6aa37ce176f0",
+          "leftContent": "https://talk2me.local/content/red_m03_l02_c2.mp3",
+          "rightContent": "Cuando audito redes segmentadas, configuro túneles y redirección de puertos desde el equipo comprometido para evaluar el alcance hacia subredes internas.",
+          "sequenceItem": 2,
+          "exerciseId": "2f315899-61f5-567b-ac6c-6f36b69daf99"
+        },
+        {
+          "id": "2636a3aa-1749-5075-be43-6c3533ba4452",
+          "leftContent": "https://talk2me.local/content/red_m03_l02_c3.mp3",
+          "rightContent": "Además de mi experiencia profesional, entreno semanalmente en laboratorios de Hack The Box y TryHackMe para mantenerme al día con nuevas técnicas.",
+          "sequenceItem": 3,
+          "exerciseId": "2f315899-61f5-567b-ac6c-6f36b69daf99"
+        },
+        {
+          "id": "558cdfad-7fc2-59d0-9a85-f7eb9728b7d7",
+          "leftContent": "https://talk2me.local/content/red_m03_l02_d2.mp3",
+          "rightContent": "Reviso siempre el código de la prueba de concepto antes de ejecutarla y evito exploits que puedan provocar una denegación de servicio o corromper la memoria del servidor.",
+          "sequenceItem": 4,
+          "exerciseId": "2f315899-61f5-567b-ac6c-6f36b69daf99"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Proof of Concept (PoC)», «Denial of Service (DoS)» e «Port forwarding / Pivoting» em espanhol técnico?</p>",
+      "contentPlain": "Como se diz «Proof of Concept (PoC)», «Denial of Service (DoS)» e «Port forwarding / Pivoting» em espanhol técnico?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+      "feedbackError": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "db01e9a8-8ae3-560a-a634-f34a3e31c4fd",
+          "textContent": "Prueba de concepto, denegación de servicio y redirección de puertos (o tunelización).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "77ba0d5e-e573-5501-8b23-26916795d4ac",
+          "textContent": "Intento de idea, caída de luz y salto de cables.",
+          "isCorrect": false,
+          "incorrectReason": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+          "exerciseId": "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "55688572-b757-5e0a-bb11-cfc11bd87a36",
+          "textContent": "Muestra de fallo, bloqueo de pantalla y cambio de puerta.",
+          "isCorrect": false,
+          "incorrectReason": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+          "exerciseId": "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4f169a95-9134-5d4c-b974-50a0bf77f157",
+          "textContent": "Examen de código, corte de internet y puente de hierro.",
+          "isCorrect": false,
+          "incorrectReason": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+          "exerciseId": "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "3a4a79b6-c43f-5ef4-b37d-85255f1ff196",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "4e6230a8-9206-53bb-b813-87142860d464",
+          "leftContent": "https://talk2me.local/content/red_m03_l02_d1.mp3",
+          "rightContent": "No seu currículo você menciona Metasploit, certificações como DCPT e CRTA, e prática contínua no Hack The Box. Quais precauções você toma ao executar um exploit no ambiente de um cliente?",
+          "sequenceItem": 1,
+          "exerciseId": "3a4a79b6-c43f-5ef4-b37d-85255f1ff196"
+        },
+        {
+          "id": "0ac0ea0d-cc44-5e5e-af03-f07b122026b5",
+          "leftContent": "https://talk2me.local/content/red_m03_l02_d2.mp3",
+          "rightContent": "Reviso sempre o código da prova de conceito antes de executá-la e evito exploits que possam provocar uma negação de serviço (DoS) ou corromper a memória do servidor.",
+          "sequenceItem": 2,
+          "exerciseId": "3a4a79b6-c43f-5ef4-b37d-85255f1ff196"
+        },
+        {
+          "id": "90f27546-20a8-5b41-9a1f-04a7f8fffd00",
+          "leftContent": "https://talk2me.local/content/red_m03_l02_d3.mp3",
+          "rightContent": "Muito prudente! E o que treinar em plataformas como Hack The Box e TryHackMe agrega para você?",
+          "sequenceItem": 3,
+          "exerciseId": "3a4a79b6-c43f-5ef4-b37d-85255f1ff196"
+        },
+        {
+          "id": "75393d86-4249-5b55-82c7-f6c48b69d780",
+          "leftContent": "https://talk2me.local/content/red_m03_l02_d4.mp3",
+          "rightContent": "Permite-me praticar técnicas avançadas de evasão, tunelamento (pivoting) para sub-redes internas e análise defensiva em cenários realistas que aplico diretamente no meu trabalho.",
+          "sequenceItem": 4,
+          "exerciseId": "3a4a79b6-c43f-5ef4-b37d-85255f1ff196"
+        }
+      ]
+    },
+    {
+      "id": "0eb456a8-d0f4-50de-a198-8e8fcd17e714",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Reviso cada _____ de concepto antes de ejecutarla en el entorno del cliente.</strong></p><p>Tradução: Reviso cada prova de conceito (PoC) antes de executá-la no ambiente do cliente.</p>",
+      "contentPlain": "Reviso cada _____ de concepto antes de ejecutarla en el entorno del cliente. Tradução: Reviso cada prova de conceito (PoC) antes de executá-la no ambiente do cliente.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l02_spk.mp3",
+      "feedbackSuccess": "Correto! «prueba» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «prueba».",
+      "answerType": "buildWord",
+      "expectedAnswer": "prueba",
+      "typeSpecificData": "{\"word\": \"prueba\", \"translation\": \"Reviso cada prova de conceito (PoC) antes de executá-la no ambiente do cliente.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "8e9b306a-ac9c-54bd-b702-cf1d51a20981",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l02_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Reviso el código de cada prueba de concepto para no afectar la disponibilidad del cliente.",
+      "typeSpecificData": "{\"expectedText\": \"Reviso el código de cada prueba de concepto para no afectar la disponibilidad del cliente.\", \"audioModelUrl\": \"https://talk2me.local/content/red_m03_l02_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "d7e9f992-f540-5ffe-b60f-80d7bccb6f82",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «En tu currículum mencionas Metasploit, certificaciones como DCPT y CRTA, y práctica continua en Hack The Box. ¿Qué precauciones tomas al ejecutar un exploit en el entorno de un cliente?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Reviso siempre el código de la prueba de concepto antes de ejecutarla y evito exploits que puedan provocar una denegación de servicio o corromper la memoria del servidor.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l02_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Reviso siempre el código de la prueba de concepto antes de ejecutarla y evito exploits que puedan provocar una denegación de servicio o corromper la memoria del servidor.",
+      "typeSpecificData": "{\"expectedText\": \"Reviso siempre el código de la prueba de concepto antes de ejecutarla y evito exploits que puedan provocar una denegación de servicio o corromper la memoria del servidor.\", \"audioModelUrl\": \"https://talk2me.local/content/red_m03_l02_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "28ae4694-45af-5c27-ae29-ad410b3b9804",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¡Muy prudente! ¿Y qué te aporta entrenar en plataformas como Hack The Box y TryHackMe?»</strong></p><p><em>(Muito prudente! E o que treinar em plataformas como Hack The Box e TryHackMe agrega para você?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¡Muy prudente! ¿Y qué te aporta entrenar en plataformas como Hack The Box y TryHackMe?",
+      "fileUrl": "https://talk2me.local/content/red_m03_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Me permite practicar técnicas avanzadas de evasión, tunelización hacia subredes internas y análisis defensivo en escenarios realistas que aplico directamente en mi trabajo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "da4cb840-e5d3-508a-a93d-fb9b804a5c92",
+          "textContent": "Me permite practicar técnicas avanzadas de evasión, tunelización hacia subredes internas y análisis defensivo en escenarios realistas que aplico directamente en mi trabajo.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "28ae4694-45af-5c27-ae29-ad410b3b9804",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7256dacb-b551-5e72-bf20-7f6221f8299a",
+          "textContent": "Reviso siempre el código de la prueba de concepto antes de ejecutarla y evito exploits que puedan provocar una denegación de servicio o corromper la memoria del servidor.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "28ae4694-45af-5c27-ae29-ad410b3b9804",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "44ebd21d-6b86-5c6e-8fe0-6e31aea0301e",
+          "textContent": "Utilizo Metasploit y pruebas de concepto personalizadas para validar vulnerabilidades de forma controlada sin comprometer la estabilidad del entorno.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "28ae4694-45af-5c27-ae29-ad410b3b9804",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "24dd6dec-6f2d-5059-9590-397d59c8d2a0",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "28ae4694-45af-5c27-ae29-ad410b3b9804",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d99c530b-e912-5990-8d8c-a3f6bd776419",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Cuando audito redes segmentadas, configuro túneles y redirección de puertos desde el equipo comprometido para evaluar el alcance hacia subredes _____.</strong></p><p>Tradução: Quando audito redes segmentadas, configuro túneis e redirecionamento de portas (pivoting) a partir da máquina comprometida para avaliar o alcance até sub-redes internas.</p>",
+      "contentPlain": "Cuando audito redes segmentadas, configuro túneles y redirección de puertos desde el equipo comprometido para evaluar el alcance hacia subredes _____. Tradução: Quando audito redes segmentadas, configuro túneis e redirecionamento de portas (pivoting) a partir da máquina comprometida para avaliar o alcance até sub-redes internas.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l02_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «internas» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «internas».",
+      "answerType": "buildWord",
+      "expectedAnswer": "internas",
+      "typeSpecificData": "{\"word\": \"internas\", \"translation\": \"Quando audito redes segmentadas, configuro túneis e redirecionamento de portas (pivoting) a partir da máquina comprometida para avaliar o alcance até sub-redes internas.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "50de6326-01cd-5181-93ad-e87c4e4aa043",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "ba327361-2390-5a05-8055-f1c58c51ddf3",
+          "leftContent": "Utilizo o Metasploit e provas de conceito (PoCs) personalizadas para validar vulnerabilidades de forma controlada sem comprometer a estabilidade do ambiente.",
+          "rightContent": "Utilizo Metasploit y pruebas de concepto personalizadas para validar vulnerabilidades de forma controlada sin comprometer la estabilidad del entorno.",
+          "sequenceItem": 1,
+          "exerciseId": "50de6326-01cd-5181-93ad-e87c4e4aa043"
+        },
+        {
+          "id": "7b3fff2c-3d97-556b-ac6d-dc25fbd8bd03",
+          "leftContent": "Quando audito redes segmentadas, configuro túneis e redirecionamento de portas (pivoting) a partir da máquina comprometida para avaliar o alcance até sub-redes internas.",
+          "rightContent": "Cuando audito redes segmentadas, configuro túneles y redirección de puertos desde el equipo comprometido para evaluar el alcance hacia subredes internas.",
+          "sequenceItem": 2,
+          "exerciseId": "50de6326-01cd-5181-93ad-e87c4e4aa043"
+        },
+        {
+          "id": "f02d8935-5428-53d2-8502-5be2bed3159a",
+          "leftContent": "Além da minha experiência profissional, treino semanalmente em laboratórios do Hack The Box e TryHackMe para me manter atualizado com novas técnicas.",
+          "rightContent": "Además de mi experiencia profesional, entreno semanalmente en laboratorios de Hack The Box y TryHackMe para mantenerme al día con nuevas técnicas.",
+          "sequenceItem": 3,
+          "exerciseId": "50de6326-01cd-5181-93ad-e87c4e4aa043"
+        },
+        {
+          "id": "c00f6cea-1ff6-57f5-807e-5c6b8171735f",
+          "leftContent": "Permite-me praticar técnicas avançadas de evasão, tunelamento (pivoting) para sub-redes internas e análise defensiva em cenários realistas que aplico diretamente no meu trabalho.",
+          "rightContent": "Me permite practicar técnicas avanzadas de evasión, tunelización hacia subredes internas y análisis defensivo en escenarios realistas que aplico directamente en mi trabajo.",
+          "sequenceItem": 4,
+          "exerciseId": "50de6326-01cd-5181-93ad-e87c4e4aa043"
+        }
+      ]
+    }
+  ],
+  "title": "Exploração Controlada, Metasploit, Pivoting e Laboratórios (HTB / TryHackMe)"
+}

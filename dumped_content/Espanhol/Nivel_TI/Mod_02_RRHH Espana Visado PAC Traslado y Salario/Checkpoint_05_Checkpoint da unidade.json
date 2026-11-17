@@ -1,0 +1,694 @@
+{
+  "id": "dbfe1d99-7f2f-52f8-9722-ea9739c066a1",
+  "title": "Checkpoint: Entrevista II - RH na Espanha: Visto PAC, Mudança do Guarujá e Salário",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "bdc5bc4b-1cd3-5b45-9027-06b27dff27f2",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "69a04d0d-00eb-55e4-ab4d-86e6643255a0",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": [
+        {
+          "id": "5ad674fd-0775-5c8f-8fd6-f058892cd9bc",
+          "leftContent": "traslado a España",
+          "rightContent": "mudança / relocação para a Espanha",
+          "sequenceItem": 1,
+          "exerciseId": "fc4d2613-e15f-595a-84db-545363722d7c"
+        },
+        {
+          "id": "e2b7ee77-0999-5680-89ef-e909352909d3",
+          "leftContent": "Profesional Altamente Cualificado (PAC)",
+          "rightContent": "visto rápido na Espanha para graduados/especialistas de TI",
+          "sequenceItem": 2,
+          "exerciseId": "fc4d2613-e15f-595a-84db-545363722d7c"
+        },
+        {
+          "id": "935c0a00-00a0-5d3a-80fe-369639a53ff1",
+          "leftContent": "huso horario español",
+          "rightContent": "fuso horário da Espanha (CET / CEST)",
+          "sequenceItem": 3,
+          "exerciseId": "fc4d2613-e15f-595a-84db-545363722d7c"
+        },
+        {
+          "id": "43af2126-ffc0-52ac-ba9a-305b4ab47659",
+          "leftContent": "desenvolverse con soltura",
+          "rightContent": "comunicar-se / virar-se com desenvoltura",
+          "sequenceItem": 4,
+          "exerciseId": "fc4d2613-e15f-595a-84db-545363722d7c"
+        }
+      ]
+    },
+    {
+      "id": "6f883ab5-bcef-568b-9a36-b7a8b37db2f1",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Quando a recrutadora perguntar sobre o fato de você morar no Brasil e precisar de autorização de trabalho na Espanha, qual é a resposta mais estratégica?</p>",
+      "contentPlain": "Quando a recrutadora perguntar sobre o fato de você morar no Brasil e precisar de autorização de trabalho na Espanha, qual é a resposta mais estratégica?",
+      "fileUrl": null,
+      "feedbackSuccess": "As empresas espanholas contratam muitos brasileiros via visto PAC (Unidade de Grandes Empresas) ou contrato remoto inicial quando o candidato mostra que conhece o processo e já tem diploma superior na área!",
+      "feedbackError": "As empresas espanholas contratam muitos brasileiros via visto PAC (Unidade de Grandes Empresas) ou contrato remoto inicial quando o candidato mostra que conhece o processo e já tem diploma superior na área!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "69a04d0d-00eb-55e4-ab4d-86e6643255a0",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "8f0d7039-07a4-5bd1-9182-a4fb01133cc1",
+          "textContent": "Explicar que cumpre os requisitos de Profissional Altamente Qualificado (graduação em Defesa Cibernética + experiência) e que pode iniciar remoto no fuso da Espanha imediatamente enquanto o visto é emitido.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "11fe8f4f-f7cb-5610-8cab-2738bc4bad6b",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c142b71e-27d4-56ad-b154-c3e0d7f2a53d",
+          "textContent": "Dizer que não sabe como funciona o visto e pedir para a empresa descobrir sozinha.",
+          "isCorrect": false,
+          "incorrectReason": "As empresas espanholas contratam muitos brasileiros via visto PAC (Unidade de Grandes Empresas) ou contrato remoto inicial quando o candidato mostra que conhece o processo e já tem diploma superior na área!",
+          "exerciseId": "11fe8f4f-f7cb-5610-8cab-2738bc4bad6b",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7369347d-67ce-5f5c-be9d-4732bf011a51",
+          "textContent": "Dizer que só pode trabalhar daqui a um ano quando tiver passaporte europeu.",
+          "isCorrect": false,
+          "incorrectReason": "As empresas espanholas contratam muitos brasileiros via visto PAC (Unidade de Grandes Empresas) ou contrato remoto inicial quando o candidato mostra que conhece o processo e já tem diploma superior na área!",
+          "exerciseId": "11fe8f4f-f7cb-5610-8cab-2738bc4bad6b",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "30e9fa48-9efb-5fd2-a206-5f6f47872072",
+          "textContent": "Dizer que seu espanhol ainda é muito básico para participar de reuniões.",
+          "isCorrect": false,
+          "incorrectReason": "As empresas espanholas contratam muitos brasileiros via visto PAC (Unidade de Grandes Empresas) ou contrato remoto inicial quando o candidato mostra que conhece o processo e já tem diploma superior na área!",
+          "exerciseId": "11fe8f4f-f7cb-5610-8cab-2738bc4bad6b",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "9f9c03e9-753d-598e-a253-4e5991b5438d",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Entiendo. ¿Y podrías empezar trabajando en remoto con horario de España mientras se gestiona la autorización?»</strong></p><p><em>(Entendo. E você poderia começar trabalhando remoto no fuso horário da Espanha enquanto a autorização é gerenciada?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Entiendo. ¿Y podrías empezar trabajando en remoto con horario de España mientras se gestiona la autorización?",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Por supuesto. Ya trabajo cien por cien en remoto, me adapto sin problema al huso horario español y me desenvuelvo bien con toda la terminología técnica en español.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "69a04d0d-00eb-55e4-ab4d-86e6643255a0",
+      "sequenceItem": 3,
+      "options": [
+        {
+          "id": "40601b1a-e402-5927-891a-99bab8bbea39",
+          "textContent": "Por supuesto. Ya trabajo cien por cien en remoto, me adapto sin problema al huso horario español y me desenvuelvo bien con toda la terminología técnica en español.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "eda2dc1b-eaf9-569d-a603-7e1b0636adb9",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "883ad35c-c58b-5d96-93b6-d6cd2911c321",
+          "textContent": "Tengo total disponibilidad para trasladarme a España. Con mi título superior en Defensa Cibernética cumplo los requisitos del permiso de Profesional Altamente Cualificado.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "eda2dc1b-eaf9-569d-a603-7e1b0636adb9",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "20da24f2-1e9f-5375-b56d-698fae07703c",
+          "textContent": "Actualmente resido en Brasil y tengo total disponibilidad para trasladarme a España en cuanto se tramite la autorización de trabajo.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "eda2dc1b-eaf9-569d-a603-7e1b0636adb9",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bf937646-a9fd-53c5-941e-76bb2a559bd1",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "eda2dc1b-eaf9-569d-a603-7e1b0636adb9",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "33d9e3fa-19ff-5fa1-b512-03a2cde882c5",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "a76bab0f-7d17-50ac-b672-7123f960b547",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "ce701043-645f-52c2-97c5-e89ae27d5f6f",
+          "leftContent": "euros brutos anuales",
+          "rightContent": "padrão de negociação salarial na Espanha",
+          "sequenceItem": 1,
+          "exerciseId": "8d289d4a-2fcf-5a68-8c89-850a201c4a54"
+        },
+        {
+          "id": "c9702aad-299c-5abf-bac2-38a497031988",
+          "leftContent": "horquilla / banda salarial",
+          "rightContent": "faixa salarial",
+          "sequenceItem": 2,
+          "exerciseId": "8d289d4a-2fcf-5a68-8c89-850a201c4a54"
+        },
+        {
+          "id": "2193d7aa-0f2e-5f59-8c94-f6f5233fbcba",
+          "leftContent": "disponibilidad de incorporación",
+          "rightContent": "disponibilidade para início no cargo",
+          "sequenceItem": 3,
+          "exerciseId": "8d289d4a-2fcf-5a68-8c89-850a201c4a54"
+        },
+        {
+          "id": "1b82c0e3-0b3c-5f67-b802-15d6306524c7",
+          "leftContent": "preaviso de quince días",
+          "rightContent": "aviso prévio de 15 dias",
+          "sequenceItem": 4,
+          "exerciseId": "8d289d4a-2fcf-5a68-8c89-850a201c4a54"
+        }
+      ]
+    },
+    {
+      "id": "f98636bd-c18e-5642-bcb1-fe1b502e144d",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como os salários de TI e Cibersegurança são sempre informados e negociados nas entrevistas na Espanha?</p>",
+      "contentPlain": "Como os salários de TI e Cibersegurança são sempre informados e negociados nas entrevistas na Espanha?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha nunca se fala salário mensal líquido na entrevista: fala-se sempre o valor «bruto anual» (que a empresa divide em 12 ou 14 pagas).",
+      "feedbackError": "Na Espanha nunca se fala salário mensal líquido na entrevista: fala-se sempre o valor «bruto anual» (que a empresa divide em 12 ou 14 pagas).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "a76bab0f-7d17-50ac-b672-7123f960b547",
+      "sequenceItem": 5,
+      "options": [
+        {
+          "id": "5bb83ebf-4b9e-523f-a7f2-686ea3031519",
+          "textContent": "Em euros brutos anuais (ex.: 42.000 € brutos anuales).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "2ff73905-4140-5e6f-8806-9d97bfc0dae3",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4224fc29-4287-58e3-b7a0-6881ea66ad77",
+          "textContent": "Em euros líquidos por semana.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha nunca se fala salário mensal líquido na entrevista: fala-se sempre o valor «bruto anual» (que a empresa divide em 12 ou 14 pagas).",
+          "exerciseId": "2ff73905-4140-5e6f-8806-9d97bfc0dae3",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e80a4918-0002-5867-a7ac-2b50cc226e0c",
+          "textContent": "Por hora trabalhada sem contrato anual.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha nunca se fala salário mensal líquido na entrevista: fala-se sempre o valor «bruto anual» (que a empresa divide em 12 ou 14 pagas).",
+          "exerciseId": "2ff73905-4140-5e6f-8806-9d97bfc0dae3",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "5a60eed3-05a8-5b4b-a18b-d6e1dd86e85b",
+          "textContent": "Em salários mínimos mensais.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha nunca se fala salário mensal líquido na entrevista: fala-se sempre o valor «bruto anual» (que a empresa divide em 12 ou 14 pagas).",
+          "exerciseId": "2ff73905-4140-5e6f-8806-9d97bfc0dae3",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f213dc24-5814-5ffe-9b5a-43606b1724c0",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Encaja perfectamente en nuestra banda para el puesto. ¿Qué modalidad de trabajo prefieres?»</strong></p><p><em>(Encaixa perfeitamente na nossa faixa para a vaga. Qual modalidade de trabalho você prefere?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Encaja perfectamente en nuestra banda para el puesto. ¿Qué modalidad de trabajo prefieres?",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Me adapto muy bien tanto al teletrabajo como al modelo híbrido, y podría incorporarme con un preaviso de dos semanas.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "a76bab0f-7d17-50ac-b672-7123f960b547",
+      "sequenceItem": 6,
+      "options": [
+        {
+          "id": "01f4b266-1858-5487-a292-0cdac3fec070",
+          "textContent": "Me adapto muy bien tanto al teletrabajo como al modelo híbrido, y podría incorporarme con un preaviso de dos semanas.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "a9651148-0985-55d9-9068-4d2a01b5b83c",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "983a9724-3518-5919-a368-10bc13141c4a",
+          "textContent": "Busco una banda salarial en torno a los cuarenta y cinco mil euros brutos anuales, aunque soy flexible según el paquete de beneficios y el proyecto.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "a9651148-0985-55d9-9068-4d2a01b5b83c",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f9600d1c-d3ec-5d3b-afc3-becf5d5e48f4",
+          "textContent": "Mi expectativa salarial se sitúa en una horquilla de entre cuarenta mil y cuarenta y ocho mil euros brutos anuales, según las responsabilidades del puesto.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "a9651148-0985-55d9-9068-4d2a01b5b83c",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1fd864c6-e205-5a1f-9468-27d92ece9c35",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "a9651148-0985-55d9-9068-4d2a01b5b83c",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "22d6fc92-f87b-52c6-9187-8248d9014a28",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "5fde8f0c-8412-584c-af9e-34eb0318cb61",
+      "sequenceItem": 7,
+      "options": [],
+      "associations": [
+        {
+          "id": "c6c0fb74-8061-534c-9445-57072ad47694",
+          "leftContent": "trabajar en la oficina",
+          "rightContent": "trabalhar presencialmente no escritório (falso amigo!)",
+          "sequenceItem": 1,
+          "exerciseId": "2487347b-8221-5938-817c-c76fa26b771b"
+        },
+        {
+          "id": "0f68ef50-f40f-58f5-a289-e67cb219c32c",
+          "leftContent": "en un rato",
+          "rightContent": "daqui a pouco / em um instante (falso amigo!)",
+          "sequenceItem": 2,
+          "exerciseId": "2487347b-8221-5938-817c-c76fa26b771b"
+        },
+        {
+          "id": "ede23ee9-4ba1-5eb0-b9e9-fb1450ede218",
+          "leftContent": "lengua materna",
+          "rightContent": "idioma nativo (português)",
+          "sequenceItem": 3,
+          "exerciseId": "2487347b-8221-5938-817c-c76fa26b771b"
+        },
+        {
+          "id": "ddf8142a-b6c6-56fa-8ac6-744332637519",
+          "leftContent": "redactar informes en español",
+          "rightContent": "escrever relatórios técnicos em espanhol",
+          "sequenceItem": 4,
+          "exerciseId": "2487347b-8221-5938-817c-c76fa26b771b"
+        }
+      ]
+    },
+    {
+      "id": "8666dd7f-d6d5-55a0-8218-beb8ad1f6cb7",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Atenção aos falsos amigos na Espanha! O que significam «la oficina» e «espera un rato» em espanhol?</p>",
+      "contentPlain": "Atenção aos falsos amigos na Espanha! O que significam «la oficina» e «espera un rato» em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Nunca confunda: em espanhol, «la oficina» = o escritório (ex.: «trabajar desde casa o en la oficina»), e «un rato» = um momento/instante!",
+      "feedbackError": "Nunca confunda: em espanhol, «la oficina» = o escritório (ex.: «trabajar desde casa o en la oficina»), e «un rato» = um momento/instante!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "5fde8f0c-8412-584c-af9e-34eb0318cb61",
+      "sequenceItem": 8,
+      "options": [
+        {
+          "id": "e5689f69-554a-5f7c-9f67-5f8770ff8464",
+          "textContent": "«La oficina» significa o escritório da empresa, e «un rato» significa um instante / um pouco de tempo.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "d26fad4a-c9c9-5955-92a6-8be277c5a254",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "436a28fe-4cd6-58a1-9f5b-ad4069688eda",
+          "textContent": "«La oficina» significa oficina mecânica, e «un rato» significa um rato no computador.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca confunda: em espanhol, «la oficina» = o escritório (ex.: «trabajar desde casa o en la oficina»), e «un rato» = um momento/instante!",
+          "exerciseId": "d26fad4a-c9c9-5955-92a6-8be277c5a254",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c0aaf1ea-8c6f-56a0-a106-0ab968a39667",
+          "textContent": "«La oficina» significa sala de servidores, e «un rato» significa um erro de rede.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca confunda: em espanhol, «la oficina» = o escritório (ex.: «trabajar desde casa o en la oficina»), e «un rato» = um momento/instante!",
+          "exerciseId": "d26fad4a-c9c9-5955-92a6-8be277c5a254",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "285c7b84-0111-55c1-a6de-6d973161a334",
+          "textContent": "«La oficina» significa loja de celulares, e «un rato» significa um cabo quebrado.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca confunda: em espanhol, «la oficina» = o escritório (ex.: «trabajar desde casa o en la oficina»), e «un rato» = um momento/instante!",
+          "exerciseId": "d26fad4a-c9c9-5955-92a6-8be277c5a254",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "ab4754ee-1b76-5d6e-bc28-390dff437e39",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¡Se nota que hablas con mucha claridad! ¿Y qué tal te manejas con el inglés técnico?»</strong></p><p><em>(Nota-se que você fala com muita clareza! E como você se vira com o inglês técnico?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¡Se nota que hablas con mucha claridad! ¿Y qué tal te manejas con el inglés técnico?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_rh03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Utilizo el inglés técnico todos los días en consolas como QRadar, Sentinel y Burp Suite, así como en mis certificaciones internacionales como CompTIA Security Plus.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "5fde8f0c-8412-584c-af9e-34eb0318cb61",
+      "sequenceItem": 9,
+      "options": [
+        {
+          "id": "7f821e47-bcb8-5ea5-a2fa-b2ed8d3ea1d5",
+          "textContent": "Utilizo el inglés técnico todos los días en consolas como QRadar, Sentinel y Burp Suite, así como en mis certificaciones internacionales como CompTIA Security Plus.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "fad3564f-99e2-5ab1-8182-172c6686b227",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0d6662d2-f035-58bc-852d-7fafb402372e",
+          "textContent": "Me siento muy cómodo. Estudio y practico español enfocado en ciberseguridad a diario, por lo que puedo participar en reuniones y redactar informes sin dificultad.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "fad3564f-99e2-5ab1-8182-172c6686b227",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "823021c9-0bc4-55d7-904d-0c723e5a28d3",
+          "textContent": "Me comunico con fluidez en español para participar en reuniones técnicas, redactar informes de auditoría y atender incidentes con clientes en España.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "fad3564f-99e2-5ab1-8182-172c6686b227",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "08cb331d-7130-5076-af2e-2f6cfaea53dd",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "fad3564f-99e2-5ab1-8182-172c6686b227",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "153b3c64-d54e-5e74-bfd3-cd6a184e8cf9",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 10,
+      "options": [],
+      "associations": [
+        {
+          "id": "03a93f50-1316-57de-bc25-e9456bb4176e",
+          "leftContent": "contrato indefinido",
+          "rightContent": "contrato efetivo por tempo indeterminado na Espanha",
+          "sequenceItem": 1,
+          "exerciseId": "ce2917e8-69e2-5ef2-b1fb-c85059a28270"
+        },
+        {
+          "id": "05b0ea2e-8b79-517b-bec9-0f0b9d626b5e",
+          "leftContent": "guardias remuneradas",
+          "rightContent": "plantões / sobreavisos pagos fora do horário comercial",
+          "sequenceItem": 2,
+          "exerciseId": "ce2917e8-69e2-5ef2-b1fb-c85059a28270"
+        },
+        {
+          "id": "9346e634-bb44-599f-a739-bcbde306d0f3",
+          "leftContent": "entorno multicliente",
+          "rightContent": "ambiente de consultoria ou SOC que atende vários clientes (MSSP)",
+          "sequenceItem": 3,
+          "exerciseId": "ce2917e8-69e2-5ef2-b1fb-c85059a28270"
+        },
+        {
+          "id": "1bfb07f9-f80a-548b-a613-5f88d170f35f",
+          "leftContent": "retribución flexible",
+          "rightContent": "pacote de benefícios (seguro médico, ticket restaurante, formação)",
+          "sequenceItem": 4,
+          "exerciseId": "ce2917e8-69e2-5ef2-b1fb-c85059a28270"
+        }
+      ]
+    },
+    {
+      "id": "62be58e1-a802-5c8c-9741-4e974460425c",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Na Espanha, o que significam «contrato indefinido», «hacer guardias» e «entorno multicliente» em uma vaga de cibersegurança?</p>",
+      "contentPlain": "Na Espanha, o que significam «contrato indefinido», «hacer guardias» e «entorno multicliente» em uma vaga de cibersegurança?",
+      "fileUrl": null,
+      "feedbackSuccess": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+      "feedbackError": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 11,
+      "options": [
+        {
+          "id": "802fc15d-d196-5d1b-880b-a33b5f1f24bc",
+          "textContent": "Contrato efetivo sem prazo para acabar (equivalente a CLT), ficar de sobreaviso/plantão remunerado e atender múltiplos clientes (MSSP/consultoria).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bc5da48d-c44a-53fc-9332-c95536eef15b",
+          "textContent": "Contrato sem salário definido, trabalhar na portaria do prédio e vender produtos em lojas.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+          "exerciseId": "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3d931468-bbc4-5e6f-9a91-abddbfd838bb",
+          "textContent": "Contrato de estágio de uma semana, vigiar câmeras de rua e usar vários computadores.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+          "exerciseId": "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "20ef6a13-682b-52b3-a7b9-37251d5590de",
+          "textContent": "Contrato cancelado, bloquear portas de firewall e ter muitas contas de e-mail.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+          "exerciseId": "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2d2ccaa4-4ff1-51eb-b8da-fadf02d8a28d",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Además del salario base, ofrecemos retribución flexible y pago adicional por guardias. ¿Te parece bien este esquema?»</strong></p><p><em>(Além do salário-base, oferecemos benefícios flexíveis (retribución flexible) e adicional por sobreaviso (guardias). Esse formato parece bom para você?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Además del salario base, ofrecemos retribución flexible y pago adicional por guardias. ¿Te parece bien este esquema?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_rh04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Me parece excelente. Busco precisamente estabilidad en un proyecto de alto nivel técnico donde pueda desarrollar mi carrera en España a largo plazo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 12,
+      "options": [
+        {
+          "id": "430e7698-3e65-5cd1-b0f7-5a96dd343071",
+          "textContent": "Me parece excelente. Busco precisamente estabilidad en un proyecto de alto nivel técnico donde pueda desarrollar mi carrera en España a largo plazo.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e4819af1-1efc-52cc-a2fc-0b0913cb4bfa",
+          "textContent": "Sí, tanto en iT.eam como en Access Security he trabajado con clientes de distintos sectores, cumpliendo acuerdos de nivel de servicio muy exigentes.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3f201d9e-8d58-5b92-8160-a6b60a4e457c",
+          "textContent": "Me interesa mucho el ecosistema de ciberseguridad en España, tanto en centros de operaciones de grandes consultoras como en equipos internos de banca y telecomunicaciones.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f87de3b0-bef6-5f2a-a09f-9713e575845c",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

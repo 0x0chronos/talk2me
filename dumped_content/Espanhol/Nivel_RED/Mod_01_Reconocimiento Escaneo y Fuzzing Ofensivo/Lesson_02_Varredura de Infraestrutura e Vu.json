@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+    "attemptId": "0d050c95-72af-568c-b9fd-24efa87c861c",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "7e1e8ab6-79f5-5032-a51b-d7b32e17de1f",
+      "59a37eb7-3bc2-526f-99a8-90fe036d5580",
+      "fe7751dc-6726-56bf-8f19-6558d2b07637",
+      "89b1a72c-a868-5918-ac08-d2ff2a0a8d1d"
+    ],
+    "practiceExerciseIds": [
+      "61dab818-722d-53d7-82ed-167378d47861",
+      "589fba5d-5384-535e-a916-ba64e57fb32e",
+      "e4bf176e-6827-5c3c-9fb4-24a044ff402a",
+      "67b2ae17-27ec-51c6-b952-dc50db506e1b",
+      "e711bd09-2db4-5b6e-9068-690618868373"
+    ],
+    "evaluationExerciseIds": [
+      "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+      "642b65e7-21f5-558c-8b64-b093a3707107",
+      "2f12d2be-218b-58b9-9822-5c49d11ac86a"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "113c0155-54c7-5c3f-8da0-47a5c4804cae",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "8538737f-78f2-59c9-9ee9-133c67717ab0",
+          "textContent": "<p>Em espanhol técnico, *active hosts* pode ser dito «hosts activos» ou «equipos / anfitriones activos».</p><p><strong>Utilizo Nmap para descubrir anfitriones activos, enumerar puertos abiertos e identificar las versiones exactas de los servicios expuestos.</strong></p><p>Em português: <strong>Utilizo o Nmap para descobrir hosts ativos, enumerar portas abertas e identificar as versões exatas dos serviços expostos.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m01_l02_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "01c01ce1-4a1a-505b-bf0c-f9f0156f8db6",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "b5a7e966-7055-54c2-a099-47f040def9de",
+          "textContent": "<p>Conecta diretamente Nmap + Nessus como consta no seu currículo da Access Security.</p><p><strong>Complemento el análisis con escaneos en Nessus para detectar vulnerabilidades conocidas, parches pendientes y configuraciones inseguras.</strong></p><p>Em português: <strong>Complemento a análise com varreduras no Nessus para detectar vulnerabilidades conhecidas, patches pendentes e configurações inseguras.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m01_l02_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b096b0a2-6e03-539a-a433-40c5022c38d4",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "c02753a6-750a-5c57-808b-bdaf3a08e449",
+          "textContent": "<p>Essa frase separa um Pentester profissional de um operador de scanner em qualquer entrevista na Espanha!</p><p><strong>Nunca entrego el resultado bruto de un escáner; verifico manualmente cada hallazgo crítico para confirmar su explotabilidad real.</strong></p><p>Em português: <strong>Nunca entrego o resultado bruto de um scanner; verifico manualmente cada achado crítico para confirmar sua explorabilidade real.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m01_l02_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d2284f38-05ad-52c4-bc3a-2a4ded00e0da",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "9d4b8adc-4a19-5128-bc0a-bdaa5667707f",
+          "textContent": "<p>Em <strong>Access Security</strong> e <strong>Braptec</strong> você utilizou extensivamente <strong>Nmap</strong> e <strong>Nessus</strong>. Saiba como explicar seu uso técnico em espanhol:</p><ul><li><strong>Escaneo de puertos y enumeración de versiones con Nmap:</strong> identificar portas TCP/UDP abertas, <em>banners</em> de serviços e scripts NSE.</li><li><strong>Evaluación de vulnerabilidades con Nessus:</strong> varreduras autenticadas e não autenticadas, análise de CVEs, pontuação CVSS e validação manual de <em>configuraciones inseguras (misconfigurations)</em>.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>enumerar puertos abiertos</strong> — listar portas TCP/UDP acessíveis no host</li><li><strong>configuraciones inseguras</strong> — misconfigurations de servidores ou serviços</li><li><strong>explotabilidad real</strong> — comprovação prática de que a falha pode ser explorada</li><li><strong>parches pendientes</strong> — atualizações de segurança não aplicadas (missing patches)</li><li><strong>Palavra-chave de escrita: «puertos»</strong> (Utilizo Nmap para enumerar puertos abiertos e identificar versiones de servicios.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "enumerar puertos abiertos — listar portas TCP/UDP acessíveis no host",
+        "configuraciones inseguras — misconfigurations de servidores ou serviços",
+        "explotabilidad real — comprovação prática de que a falha pode ser explorada",
+        "parches pendientes — atualizações de segurança não aplicadas (missing patches)"
+      ]
+    },
+    {
+      "id": "d2185cac-a0f6-52bd-b112-2a16035a7626",
+      "title": "Explicando o uso combinado de Nmap e Nessus",
+      "description": "<p>Laura pergunta como você utiliza Nmap e Nessus durante uma auditoria de infraestrutura.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">En tu experiencia en Access Security utilizabas Nmap y Nessus para auditar infraestructuras. ¿Cómo combinas ambas herramientas sin generar ruido excesivo?</div>\n  <div style=\"opacity: 0.55;\">Na sua experiência na Access Security você utilizava Nmap e Nessus para auditar infraestruturas. Como você combina ambas as ferramentas sem gerar ruído excessivo?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m01_l02_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Primero realizo un escaneo controlado con Nmap para identificar qué puertos y servicios están realmente activos en el alcance.</div>\n  <div style=\"opacity: 0.55;\">Primeiro realizo uma varredura controlada com Nmap para identificar quais portas e serviços estão realmente ativos no escopo.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m01_l02_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y qué haces a continuación con los resultados de Nessus?</div>\n  <div style=\"opacity: 0.55;\">E o que você faz em seguida com os resultados do Nessus?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m01_l02_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Dirijo el análisis de Nessus únicamente hacia los servicios activos, reviso las vulnerabilidades reportadas y valido manualmente cada fallo antes de incluirlo en el informe.</div>\n  <div style=\"opacity: 0.55;\">Direciono a análise do Nessus unicamente para os serviços ativos, reviso as vulnerabilidades reportadas e valido manualmente cada falha antes de incluí-la no relatório.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m01_l02_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "7e1e8ab6-79f5-5032-a51b-d7b32e17de1f",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «En tu experiencia en Access Security utilizabas Nmap y Nessus para auditar infraestructuras. ¿Cómo combinas ambas herramientas sin generar ruido excesivo?»</p><p><em>(Na sua experiência na Access Security você utilizava Nmap e Nessus para auditar infraestruturas. Como você combina ambas as ferramentas sem gerar ruído excessivo?)</em></p>",
+      "contentPlain": "En tu experiencia en Access Security utilizabas Nmap y Nessus para auditar infraestructuras. ¿Cómo combinas ambas herramientas sin generar ruido excesivo?",
+      "fileUrl": "https://talk2me.local/content/red_m01_l02_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Primero realizo un escaneo controlado con Nmap para identificar qué puertos y servicios están realmente activos en el alcance.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "edd4ee16-6a44-5ee3-ada7-1650da1b9b65",
+          "textContent": "Primero realizo un escaneo controlado con Nmap para identificar qué puertos y servicios están realmente activos en el alcance.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "7e1e8ab6-79f5-5032-a51b-d7b32e17de1f",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d1c9def7-195c-581b-9071-6bf7a6af8913",
+          "textContent": "Nunca entrego el resultado bruto de un escáner; verifico manualmente cada hallazgo crítico para confirmar su explotabilidad real.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "7e1e8ab6-79f5-5032-a51b-d7b32e17de1f",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ec544a98-0899-5856-8563-268d01d5d55c",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "7e1e8ab6-79f5-5032-a51b-d7b32e17de1f",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "33d571a5-f213-5fce-ba3d-18a96aea5b7d",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "7e1e8ab6-79f5-5032-a51b-d7b32e17de1f",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "59a37eb7-3bc2-526f-99a8-90fe036d5580",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Utilizo Nmap para descubrir anfitriones activos, enumerar puertos abiertos e identificar las versiones exactas de los servicios expuestos.</strong></p>",
+      "contentPlain": "Utilizo Nmap para descubrir anfitriones activos, enumerar puertos abiertos e identificar las versiones exactas de los servicios expuestos.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l02_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Utilizo o Nmap para descobrir hosts ativos, enumerar portas abertas e identificar as versões exatas dos serviços expostos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "c26a125a-86aa-527d-b6c3-21403d3ac6d1",
+          "textContent": "Utilizo o Nmap para descobrir hosts ativos, enumerar portas abertas e identificar as versões exatas dos serviços expostos.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "59a37eb7-3bc2-526f-99a8-90fe036d5580",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0b38a945-b51e-5a70-93eb-c8c245541700",
+          "textContent": "Complemento a análise com varreduras no Nessus para detectar vulnerabilidades conhecidas, patches pendentes e configurações inseguras.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "59a37eb7-3bc2-526f-99a8-90fe036d5580",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2c093596-29b2-53f2-a9c5-22e6c239050d",
+          "textContent": "Nunca entrego o resultado bruto de um scanner; verifico manualmente cada achado crítico para confirmar sua explorabilidade real.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "59a37eb7-3bc2-526f-99a8-90fe036d5580",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8415dab5-c069-589f-82b5-139764b0bd4e",
+          "textContent": "Na sua experiência na Access Security você utilizava Nmap e Nessus para auditar infraestruturas. Como você combina ambas as ferramentas sem gerar ruído excessivo?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "59a37eb7-3bc2-526f-99a8-90fe036d5580",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "fe7751dc-6726-56bf-8f19-6558d2b07637",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "0af1c02d-258c-50f1-9ebd-40c0dfc18562",
+          "leftContent": "enumerar puertos abiertos",
+          "rightContent": "listar portas TCP/UDP acessíveis no host",
+          "sequenceItem": 1,
+          "exerciseId": "fe7751dc-6726-56bf-8f19-6558d2b07637"
+        },
+        {
+          "id": "d94cb49a-dbe0-5f97-a127-8b5f85b94a04",
+          "leftContent": "configuraciones inseguras",
+          "rightContent": "misconfigurations de servidores ou serviços",
+          "sequenceItem": 2,
+          "exerciseId": "fe7751dc-6726-56bf-8f19-6558d2b07637"
+        },
+        {
+          "id": "f9f92c8e-9dbe-559b-9011-c097a2ebaed9",
+          "leftContent": "explotabilidad real",
+          "rightContent": "comprovação prática de que a falha pode ser explorada",
+          "sequenceItem": 3,
+          "exerciseId": "fe7751dc-6726-56bf-8f19-6558d2b07637"
+        },
+        {
+          "id": "9f061a92-a5e4-5fc6-885e-b0b9d00f9072",
+          "leftContent": "parches pendientes",
+          "rightContent": "atualizações de segurança não aplicadas (missing patches)",
+          "sequenceItem": 4,
+          "exerciseId": "fe7751dc-6726-56bf-8f19-6558d2b07637"
+        }
+      ]
+    },
+    {
+      "id": "89b1a72c-a868-5918-ac08-d2ff2a0a8d1d",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "0caed6b0-d061-5e26-90c7-57c576c00bb0",
+          "leftContent": "https://talk2me.local/content/red_m01_l02_c1.mp3",
+          "rightContent": "Utilizo Nmap para descubrir anfitriones activos, enumerar puertos abiertos e identificar las versiones exactas de los servicios expuestos.",
+          "sequenceItem": 1,
+          "exerciseId": "89b1a72c-a868-5918-ac08-d2ff2a0a8d1d"
+        },
+        {
+          "id": "f6e2017a-517c-5fbc-aceb-303c187f017c",
+          "leftContent": "https://talk2me.local/content/red_m01_l02_c2.mp3",
+          "rightContent": "Complemento el análisis con escaneos en Nessus para detectar vulnerabilidades conocidas, parches pendientes y configuraciones inseguras.",
+          "sequenceItem": 2,
+          "exerciseId": "89b1a72c-a868-5918-ac08-d2ff2a0a8d1d"
+        },
+        {
+          "id": "a3621ff1-3aa0-5ff0-b7c3-99424cf5242d",
+          "leftContent": "https://talk2me.local/content/red_m01_l02_c3.mp3",
+          "rightContent": "Nunca entrego el resultado bruto de un escáner; verifico manualmente cada hallazgo crítico para confirmar su explotabilidad real.",
+          "sequenceItem": 3,
+          "exerciseId": "89b1a72c-a868-5918-ac08-d2ff2a0a8d1d"
+        },
+        {
+          "id": "d4550887-acee-57bb-b328-fe0c18b17ffa",
+          "leftContent": "https://talk2me.local/content/red_m01_l02_d2.mp3",
+          "rightContent": "Primero realizo un escaneo controlado con Nmap para identificar qué puertos y servicios están realmente activos en el alcance.",
+          "sequenceItem": 4,
+          "exerciseId": "89b1a72c-a868-5918-ac08-d2ff2a0a8d1d"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "61dab818-722d-53d7-82ed-167378d47861",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Por que é importante dizer na entrevista técnica na Espanha que você «valida manualmente los hallazgos de Nessus»?</p>",
+      "contentPlain": "Por que é importante dizer na entrevista técnica na Espanha que você «valida manualmente los hallazgos de Nessus»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+      "feedbackError": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "eff40827-7905-5e2a-a32a-91b206a0f069",
+          "textContent": "Porque demonstra que você sabe diferenciar falsos positivos do scanner e comprovar a explorabilidade real no ambiente do cliente.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "61dab818-722d-53d7-82ed-167378d47861",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "28e6bc4d-87b0-504a-a633-d8fa6db5bd2f",
+          "textContent": "Porque o Nessus não funciona em sistemas operacionais em espanhol.",
+          "isCorrect": false,
+          "incorrectReason": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+          "exerciseId": "61dab818-722d-53d7-82ed-167378d47861",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a805db1f-a36f-5bd7-9060-5bed7dac8639",
+          "textContent": "Porque na Espanha é proibido usar ferramentas como Nmap.",
+          "isCorrect": false,
+          "incorrectReason": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+          "exerciseId": "61dab818-722d-53d7-82ed-167378d47861",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "fd82dd96-0d5b-548d-a98e-3b9f64e0871a",
+          "textContent": "Porque o cliente prefere receber apenas uma planilha automática sem análise.",
+          "isCorrect": false,
+          "incorrectReason": "Consultorias espanholas testam sempre se o candidato sabe validar manualmente os achados do Nessus/qualquer scanner.",
+          "exerciseId": "61dab818-722d-53d7-82ed-167378d47861",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "589fba5d-5384-535e-a916-ba64e57fb32e",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "76f6fa33-dc33-595a-bda1-0869b6a744d3",
+          "leftContent": "https://talk2me.local/content/red_m01_l02_d1.mp3",
+          "rightContent": "Na sua experiência na Access Security você utilizava Nmap e Nessus para auditar infraestruturas. Como você combina ambas as ferramentas sem gerar ruído excessivo?",
+          "sequenceItem": 1,
+          "exerciseId": "589fba5d-5384-535e-a916-ba64e57fb32e"
+        },
+        {
+          "id": "3df6060c-1487-5ad1-8ed9-84f387a25711",
+          "leftContent": "https://talk2me.local/content/red_m01_l02_d2.mp3",
+          "rightContent": "Primeiro realizo uma varredura controlada com Nmap para identificar quais portas e serviços estão realmente ativos no escopo.",
+          "sequenceItem": 2,
+          "exerciseId": "589fba5d-5384-535e-a916-ba64e57fb32e"
+        },
+        {
+          "id": "25dd79de-2363-50c5-8d47-c55b7642daaa",
+          "leftContent": "https://talk2me.local/content/red_m01_l02_d3.mp3",
+          "rightContent": "E o que você faz em seguida com os resultados do Nessus?",
+          "sequenceItem": 3,
+          "exerciseId": "589fba5d-5384-535e-a916-ba64e57fb32e"
+        },
+        {
+          "id": "d890af80-c5d1-58af-9331-5c5d162e664f",
+          "leftContent": "https://talk2me.local/content/red_m01_l02_d4.mp3",
+          "rightContent": "Direciono a análise do Nessus unicamente para os serviços ativos, reviso as vulnerabilidades reportadas e valido manualmente cada falha antes de incluí-la no relatório.",
+          "sequenceItem": 4,
+          "exerciseId": "589fba5d-5384-535e-a916-ba64e57fb32e"
+        }
+      ]
+    },
+    {
+      "id": "e4bf176e-6827-5c3c-9fb4-24a044ff402a",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Utilizo Nmap para enumerar _____ abiertos e identificar versiones de servicios.</strong></p><p>Tradução: Utilizo Nmap para enumerar portas (puertos) abertas e identificar versões de serviços.</p>",
+      "contentPlain": "Utilizo Nmap para enumerar _____ abiertos e identificar versiones de servicios. Tradução: Utilizo Nmap para enumerar portas (puertos) abertas e identificar versões de serviços.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l02_spk.mp3",
+      "feedbackSuccess": "Correto! «puertos» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «puertos».",
+      "answerType": "buildWord",
+      "expectedAnswer": "puertos",
+      "typeSpecificData": "{\"word\": \"puertos\", \"translation\": \"Utilizo Nmap para enumerar portas (puertos) abertas e identificar versões de serviços.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "67b2ae17-27ec-51c6-b952-dc50db506e1b",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l02_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Utilizo Nmap para enumerar servicios activos y valido manualmente los hallazgos de Nessus.",
+      "typeSpecificData": "{\"expectedText\": \"Utilizo Nmap para enumerar servicios activos y valido manualmente los hallazgos de Nessus.\", \"audioModelUrl\": \"https://talk2me.local/content/red_m01_l02_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e711bd09-2db4-5b6e-9068-690618868373",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «En tu experiencia en Access Security utilizabas Nmap y Nessus para auditar infraestructuras. ¿Cómo combinas ambas herramientas sin generar ruido excesivo?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Primero realizo un escaneo controlado con Nmap para identificar qué puertos y servicios están realmente activos en el alcance.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l02_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Primero realizo un escaneo controlado con Nmap para identificar qué puertos y servicios están realmente activos en el alcance.",
+      "typeSpecificData": "{\"expectedText\": \"Primero realizo un escaneo controlado con Nmap para identificar qué puertos y servicios están realmente activos en el alcance.\", \"audioModelUrl\": \"https://talk2me.local/content/red_m01_l02_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué haces a continuación con los resultados de Nessus?»</strong></p><p><em>(E o que você faz em seguida com os resultados do Nessus?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué haces a continuación con los resultados de Nessus?",
+      "fileUrl": "https://talk2me.local/content/red_m01_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Dirijo el análisis de Nessus únicamente hacia los servicios activos, reviso las vulnerabilidades reportadas y valido manualmente cada fallo antes de incluirlo en el informe.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "581bed88-6e03-58af-b0e0-4c5725e2a9e2",
+          "textContent": "Dirijo el análisis de Nessus únicamente hacia los servicios activos, reviso las vulnerabilidades reportadas y valido manualmente cada fallo antes de incluirlo en el informe.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bf3658e9-1695-5267-88d7-fa82a6b86003",
+          "textContent": "Primero realizo un escaneo controlado con Nmap para identificar qué puertos y servicios están realmente activos en el alcance.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ec1c3159-714f-52ad-9f02-8efd12b4fe6d",
+          "textContent": "Utilizo Nmap para descubrir anfitriones activos, enumerar puertos abiertos e identificar las versiones exactas de los servicios expuestos.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0af430f6-05ba-5777-ba6c-fe6982560a97",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "86b98dc3-e5ba-5998-bf2d-91e0f7205ea0",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "642b65e7-21f5-558c-8b64-b093a3707107",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Complemento el análisis con escaneos en Nessus para detectar vulnerabilidades conocidas, parches pendientes y configuraciones _____.</strong></p><p>Tradução: Complemento a análise com varreduras no Nessus para detectar vulnerabilidades conhecidas, patches pendentes e configurações inseguras.</p>",
+      "contentPlain": "Complemento el análisis con escaneos en Nessus para detectar vulnerabilidades conocidas, parches pendientes y configuraciones _____. Tradução: Complemento a análise com varreduras no Nessus para detectar vulnerabilidades conhecidas, patches pendentes e configurações inseguras.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l02_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «inseguras» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «inseguras».",
+      "answerType": "buildWord",
+      "expectedAnswer": "inseguras",
+      "typeSpecificData": "{\"word\": \"inseguras\", \"translation\": \"Complemento a análise com varreduras no Nessus para detectar vulnerabilidades conhecidas, patches pendentes e configurações inseguras.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2f12d2be-218b-58b9-9822-5c49d11ac86a",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "ebde4731-cac0-5373-96d4-d5e7809934b7",
+          "leftContent": "Utilizo o Nmap para descobrir hosts ativos, enumerar portas abertas e identificar as versões exatas dos serviços expostos.",
+          "rightContent": "Utilizo Nmap para descubrir anfitriones activos, enumerar puertos abiertos e identificar las versiones exactas de los servicios expuestos.",
+          "sequenceItem": 1,
+          "exerciseId": "2f12d2be-218b-58b9-9822-5c49d11ac86a"
+        },
+        {
+          "id": "3b60885e-b855-5955-85b1-920dd38a6da0",
+          "leftContent": "Complemento a análise com varreduras no Nessus para detectar vulnerabilidades conhecidas, patches pendentes e configurações inseguras.",
+          "rightContent": "Complemento el análisis con escaneos en Nessus para detectar vulnerabilidades conocidas, parches pendientes y configuraciones inseguras.",
+          "sequenceItem": 2,
+          "exerciseId": "2f12d2be-218b-58b9-9822-5c49d11ac86a"
+        },
+        {
+          "id": "48a628ba-1255-59af-97ab-542141f6331a",
+          "leftContent": "Nunca entrego o resultado bruto de um scanner; verifico manualmente cada achado crítico para confirmar sua explorabilidade real.",
+          "rightContent": "Nunca entrego el resultado bruto de un escáner; verifico manualmente cada hallazgo crítico para confirmar su explotabilidad real.",
+          "sequenceItem": 3,
+          "exerciseId": "2f12d2be-218b-58b9-9822-5c49d11ac86a"
+        },
+        {
+          "id": "63665182-06de-57b6-a162-92296d672dc4",
+          "leftContent": "Direciono a análise do Nessus unicamente para os serviços ativos, reviso as vulnerabilidades reportadas e valido manualmente cada falha antes de incluí-la no relatório.",
+          "rightContent": "Dirijo el análisis de Nessus únicamente hacia los servicios activos, reviso las vulnerabilidades reportadas y valido manualmente cada fallo antes de incluirlo en el informe.",
+          "sequenceItem": 4,
+          "exerciseId": "2f12d2be-218b-58b9-9822-5c49d11ac86a"
+        }
+      ]
+    }
+  ],
+  "title": "Varredura de Infraestrutura e Vulnerabilidades com Nmap e Nessus"
+}

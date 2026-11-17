@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+    "attemptId": "effd45e2-51f9-5c9a-93aa-9ff0f5e30cb8",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "10ca72fc-a886-5429-b202-319cbc260216",
+      "15d56a91-276a-54e5-b0ab-cccd1fb4f547",
+      "20a58734-1f29-50d1-9fb3-aaad8d2f50cd",
+      "3274ab6f-789b-595d-9759-a93f3e85ae13"
+    ],
+    "practiceExerciseIds": [
+      "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+      "ed4aea32-5cf2-5f5b-b065-082965ebcc4e",
+      "0aabc3cd-a77c-5b49-a08f-a765fb6e4cfa",
+      "21ad832f-3684-50c6-b882-cd5c24e7de99",
+      "6a198a99-79c6-52c3-ae99-88c1bae62f4e"
+    ],
+    "evaluationExerciseIds": [
+      "3ae12c80-967e-5305-b49d-7e019cfbe102",
+      "82432fdc-812d-5fed-a034-8747d9796641",
+      "02b8521f-fad1-567d-8872-04261d68ac64"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "352d5fb2-40d9-5400-bc5e-73e51e020b64",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "71e2d9db-65fb-5ad4-ba8f-3713093ce257",
+          "textContent": "<p>Mostra organização e rigor na documentação de tickets.</p><p><strong>Documento cada incidente con una cronología clara de los eventos, los activos afectados y las acciones de contención recomendadas.</strong></p><p>Em português: <strong>Documento cada incidente com uma cronologia clara dos eventos, os ativos afetados e as ações de contenção recomendadas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m01_l04_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5401e780-4e8a-52a0-ac46-03340c23085f",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "ad47a97c-914b-5bbf-b55b-0cf0b70734ec",
+          "textContent": "<p>Destaca o resultado concreto descrito no seu currículo da iT.eam.</p><p><strong>Gracias a la estandarización del triaje de nivel uno, logramos reducir significativamente el tiempo medio de respuesta ante incidentes críticos.</strong></p><p>Em português: <strong>Graças à padronização da triagem de nível um, conseguimos reduzir significativamente o tempo médio de resposta (MTTR) diante de incidentes críticos.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m01_l04_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "dd0bdb46-7f22-5100-bbb1-fd3184e3d916",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "7f0203cc-a35f-529e-bb78-3328ea19cac2",
+          "textContent": "<p>«El relevo de turno» é a expressão exata usada em SOCs 24x7 na Espanha.</p><p><strong>Durante el relevo de turno, transmito al equipo entrante el estado de las investigaciones abiertas para garantizar la continuidad del servicio.</strong></p><p>Em português: <strong>Durante a passagem de turno (handover), transmito à equipe que entra o status das investigações abertas para garantir a continuidade do serviço.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m01_l04_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c6ddc8ec-6fdb-5c7a-9197-edd21512ee3e",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "de5e6b83-096f-577c-8c33-9c53f84c50af",
+          "textContent": "<p>Em um SOC 24×7 na Espanha, a comunicação escrita e verbal na <strong>passagem de turno (el relevo de turno / handover)</strong> e o cumprimento dos <strong>acuerdos de nivel de servicio (SLA)</strong> são críticos:</p><ul><li><strong>El tiempo medio de detección (MTTD) y el tiempo medio de respuesta (MTTR):</strong> métricas que você reduziu na iT.eam!</li><li><strong>El relevo de turno:</strong> resumo claro dos incidentes abertos, contenções pendentes e alertas em observação.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>el relevo de turno</strong> — a passagem de plantão (handover no SOC)</li><li><strong>tiempo medio de respuesta (MTTR)</strong> — Mean Time To Respond / Resolve</li><li><strong>acuerdo de nivel de servicio (SLA)</strong> — Service Level Agreement (prazo contratual)</li><li><strong>activos afectados</strong> — máquinas, contas ou servidores impactados</li><li><strong>Palavra-chave de escrita: «relevo»</strong> (Durante el relevo de turno informo sobre las investigaciones abiertas.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "el relevo de turno — a passagem de plantão (handover no SOC)",
+        "tiempo medio de respuesta (MTTR) — Mean Time To Respond / Resolve",
+        "acuerdo de nivel de servicio (SLA) — Service Level Agreement (prazo contratual)",
+        "activos afectados — máquinas, contas ou servidores impactados"
+      ]
+    },
+    {
+      "id": "99dc3767-0903-5b14-ab1f-c9a8ff13cc74",
+      "title": "Explicando métricas do SOC e passagem de turno",
+      "description": "<p>Laura pergunta como você garante a qualidade da documentação e da passagem de plantão no SOC.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">En un servicio veinticuatro por siete, la comunicación entre turnos es fundamental. ¿Cómo gestionas la documentación y el relevo de turno?</div>\n  <div style=\"opacity: 0.55;\">Em um serviço 24x7, a comunicação entre turnos é fundamental. Como você gerencia a documentação e a passagem de turno?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l04_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Registro en el ticket todos los indicadores analizados, las consultas ejecutadas en el SIEM y el estado exacto de la contención.</div>\n  <div style=\"opacity: 0.55;\">Registro no ticket todos os indicadores analisados, as consultas executadas no SIEM e o status exato da contenção.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l04_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y cómo impacta esa organización en los tiempos de respuesta del equipo?</div>\n  <div style=\"opacity: 0.55;\">E como essa organização impacta nos tempos de resposta da equipe?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l04_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Al entregar el contexto completo a nivel dos y hacer un buen relevo de turno, reducimos el tiempo medio de respuesta y cumplimos los acuerdos de nivel de servicio.</div>\n  <div style=\"opacity: 0.55;\">Ao entregar o contexto completo ao nível dois e fazer uma boa passagem de turno, reduzimos o tempo médio de resposta (MTTR) e cumprimos os SLAs.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l04_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "10ca72fc-a886-5429-b202-319cbc260216",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «En un servicio veinticuatro por siete, la comunicación entre turnos es fundamental. ¿Cómo gestionas la documentación y el relevo de turno?»</p><p><em>(Em um serviço 24x7, a comunicação entre turnos é fundamental. Como você gerencia a documentação e a passagem de turno?)</em></p>",
+      "contentPlain": "En un servicio veinticuatro por siete, la comunicación entre turnos es fundamental. ¿Cómo gestionas la documentación y el relevo de turno?",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l04_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Registro en el ticket todos los indicadores analizados, las consultas ejecutadas en el SIEM y el estado exacto de la contención.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "2fb1f348-bdd8-504a-bea0-6a573a4d436e",
+          "textContent": "Registro en el ticket todos los indicadores analizados, las consultas ejecutadas en el SIEM y el estado exacto de la contención.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "10ca72fc-a886-5429-b202-319cbc260216",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "48a4fc07-cce4-5fae-a7ff-f82680ca5db7",
+          "textContent": "Durante el relevo de turno, transmito al equipo entrante el estado de las investigaciones abiertas para garantizar la continuidad del servicio.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "10ca72fc-a886-5429-b202-319cbc260216",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "6c7bd40f-9f5a-5ff2-bd75-10ecac22df82",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "10ca72fc-a886-5429-b202-319cbc260216",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "36c8dfd6-9363-55ff-863f-68a155e78176",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "10ca72fc-a886-5429-b202-319cbc260216",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "15d56a91-276a-54e5-b0ab-cccd1fb4f547",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Documento cada incidente con una cronología clara de los eventos, los activos afectados y las acciones de contención recomendadas.</strong></p>",
+      "contentPlain": "Documento cada incidente con una cronología clara de los eventos, los activos afectados y las acciones de contención recomendadas.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l04_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Documento cada incidente com uma cronologia clara dos eventos, os ativos afetados e as ações de contenção recomendadas.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "d964f36b-2bff-5714-9ea6-a49a8e2396c3",
+          "textContent": "Documento cada incidente com uma cronologia clara dos eventos, os ativos afetados e as ações de contenção recomendadas.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "15d56a91-276a-54e5-b0ab-cccd1fb4f547",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c552e364-8eb2-57f0-bea7-0dba77cbc7f4",
+          "textContent": "Graças à padronização da triagem de nível um, conseguimos reduzir significativamente o tempo médio de resposta (MTTR) diante de incidentes críticos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "15d56a91-276a-54e5-b0ab-cccd1fb4f547",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8569095c-e971-5836-9426-aa0afa9fcff1",
+          "textContent": "Durante a passagem de turno (handover), transmito à equipe que entra o status das investigações abertas para garantir a continuidade do serviço.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "15d56a91-276a-54e5-b0ab-cccd1fb4f547",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "36bdc7fd-ffa5-5c57-ad32-34d67c7a6924",
+          "textContent": "Em um serviço 24x7, a comunicação entre turnos é fundamental. Como você gerencia a documentação e a passagem de turno?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "15d56a91-276a-54e5-b0ab-cccd1fb4f547",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "20a58734-1f29-50d1-9fb3-aaad8d2f50cd",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "5b7e9331-1801-556e-804b-39a8e95cb4a5",
+          "leftContent": "el relevo de turno",
+          "rightContent": "a passagem de plantão (handover no SOC)",
+          "sequenceItem": 1,
+          "exerciseId": "20a58734-1f29-50d1-9fb3-aaad8d2f50cd"
+        },
+        {
+          "id": "661800bb-3d30-5086-bbfa-f3200cbfc485",
+          "leftContent": "tiempo medio de respuesta (MTTR)",
+          "rightContent": "Mean Time To Respond / Resolve",
+          "sequenceItem": 2,
+          "exerciseId": "20a58734-1f29-50d1-9fb3-aaad8d2f50cd"
+        },
+        {
+          "id": "3c8236bd-6c5d-5fa6-b51f-a561b4fd8e06",
+          "leftContent": "acuerdo de nivel de servicio (SLA)",
+          "rightContent": "Service Level Agreement (prazo contratual)",
+          "sequenceItem": 3,
+          "exerciseId": "20a58734-1f29-50d1-9fb3-aaad8d2f50cd"
+        },
+        {
+          "id": "f624d135-f151-597e-a530-12443364fd97",
+          "leftContent": "activos afectados",
+          "rightContent": "máquinas, contas ou servidores impactados",
+          "sequenceItem": 4,
+          "exerciseId": "20a58734-1f29-50d1-9fb3-aaad8d2f50cd"
+        }
+      ]
+    },
+    {
+      "id": "3274ab6f-789b-595d-9759-a93f3e85ae13",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "102cd50d-7d0c-5d55-977b-e45883b30679",
+          "leftContent": "https://talk2me.local/content/blue_m01_l04_c1.mp3",
+          "rightContent": "Documento cada incidente con una cronología clara de los eventos, los activos afectados y las acciones de contención recomendadas.",
+          "sequenceItem": 1,
+          "exerciseId": "3274ab6f-789b-595d-9759-a93f3e85ae13"
+        },
+        {
+          "id": "3739bf27-d04f-5df9-92e2-b081e2981b95",
+          "leftContent": "https://talk2me.local/content/blue_m01_l04_c2.mp3",
+          "rightContent": "Gracias a la estandarización del triaje de nivel uno, logramos reducir significativamente el tiempo medio de respuesta ante incidentes críticos.",
+          "sequenceItem": 2,
+          "exerciseId": "3274ab6f-789b-595d-9759-a93f3e85ae13"
+        },
+        {
+          "id": "d7d6060b-bacf-5f76-8860-2b0f66bb1270",
+          "leftContent": "https://talk2me.local/content/blue_m01_l04_c3.mp3",
+          "rightContent": "Durante el relevo de turno, transmito al equipo entrante el estado de las investigaciones abiertas para garantizar la continuidad del servicio.",
+          "sequenceItem": 3,
+          "exerciseId": "3274ab6f-789b-595d-9759-a93f3e85ae13"
+        },
+        {
+          "id": "34ea11d4-fcdf-5613-a642-598bf79abd32",
+          "leftContent": "https://talk2me.local/content/blue_m01_l04_d2.mp3",
+          "rightContent": "Registro en el ticket todos los indicadores analizados, las consultas ejecutadas en el SIEM y el estado exacto de la contención.",
+          "sequenceItem": 4,
+          "exerciseId": "3274ab6f-789b-595d-9759-a93f3e85ae13"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se chama em espanhol da Espanha a «passagem de plantão / handover» entre analistas de um SOC 24×7?</p>",
+      "contentPlain": "Como se chama em espanhol da Espanha a «passagem de plantão / handover» entre analistas de um SOC 24×7?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+      "feedbackError": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "85bed35f-1240-57e6-847a-ecbbe7149fcf",
+          "textContent": "El relevo de turno (o cambio de turno).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "21338d6b-40b3-5df1-8fe5-06ddeb3a0b52",
+          "textContent": "El paseo de guardia.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+          "exerciseId": "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1afa57c0-b9e0-5fb1-8ab0-d37be59df523",
+          "textContent": "La entrega de llaves.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+          "exerciseId": "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "051a6046-74db-5656-9b3b-4e9009f6c3c1",
+          "textContent": "El salto de horario.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+          "exerciseId": "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "ed4aea32-5cf2-5f5b-b065-082965ebcc4e",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "f46b8e45-eee9-51ce-ac56-29e1ee828709",
+          "leftContent": "https://talk2me.local/content/blue_m01_l04_d1.mp3",
+          "rightContent": "Em um serviço 24x7, a comunicação entre turnos é fundamental. Como você gerencia a documentação e a passagem de turno?",
+          "sequenceItem": 1,
+          "exerciseId": "ed4aea32-5cf2-5f5b-b065-082965ebcc4e"
+        },
+        {
+          "id": "6dff762f-514b-5684-b9e7-c50732d0068b",
+          "leftContent": "https://talk2me.local/content/blue_m01_l04_d2.mp3",
+          "rightContent": "Registro no ticket todos os indicadores analisados, as consultas executadas no SIEM e o status exato da contenção.",
+          "sequenceItem": 2,
+          "exerciseId": "ed4aea32-5cf2-5f5b-b065-082965ebcc4e"
+        },
+        {
+          "id": "8ea399d5-b585-5d03-867b-092ece8ce0c9",
+          "leftContent": "https://talk2me.local/content/blue_m01_l04_d3.mp3",
+          "rightContent": "E como essa organização impacta nos tempos de resposta da equipe?",
+          "sequenceItem": 3,
+          "exerciseId": "ed4aea32-5cf2-5f5b-b065-082965ebcc4e"
+        },
+        {
+          "id": "9f278e70-a3f7-5c30-864d-51402cd9789b",
+          "leftContent": "https://talk2me.local/content/blue_m01_l04_d4.mp3",
+          "rightContent": "Ao entregar o contexto completo ao nível dois e fazer uma boa passagem de turno, reduzimos o tempo médio de resposta (MTTR) e cumprimos os SLAs.",
+          "sequenceItem": 4,
+          "exerciseId": "ed4aea32-5cf2-5f5b-b065-082965ebcc4e"
+        }
+      ]
+    },
+    {
+      "id": "0aabc3cd-a77c-5b49-a08f-a765fb6e4cfa",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Durante el _____ de turno informo sobre las investigaciones abiertas.</strong></p><p>Tradução: Durante a passagem de turno informo sobre as investigações abertas.</p>",
+      "contentPlain": "Durante el _____ de turno informo sobre las investigaciones abiertas. Tradução: Durante a passagem de turno informo sobre as investigações abertas.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l04_spk.mp3",
+      "feedbackSuccess": "Correto! «relevo» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «relevo».",
+      "answerType": "buildWord",
+      "expectedAnswer": "relevo",
+      "typeSpecificData": "{\"word\": \"relevo\", \"translation\": \"Durante a passagem de turno informo sobre as investigações abertas.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "21ad832f-3684-50c6-b882-cd5c24e7de99",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l04_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Durante el relevo de turno documento los activos afectados y reducimos el tiempo medio de respuesta.",
+      "typeSpecificData": "{\"expectedText\": \"Durante el relevo de turno documento los activos afectados y reducimos el tiempo medio de respuesta.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m01_l04_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "6a198a99-79c6-52c3-ae99-88c1bae62f4e",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «En un servicio veinticuatro por siete, la comunicación entre turnos es fundamental. ¿Cómo gestionas la documentación y el relevo de turno?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Registro en el ticket todos los indicadores analizados, las consultas ejecutadas en el SIEM y el estado exacto de la contención.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l04_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Registro en el ticket todos los indicadores analizados, las consultas ejecutadas en el SIEM y el estado exacto de la contención.",
+      "typeSpecificData": "{\"expectedText\": \"Registro en el ticket todos los indicadores analizados, las consultas ejecutadas en el SIEM y el estado exacto de la contención.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m01_l04_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "3ae12c80-967e-5305-b49d-7e019cfbe102",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo impacta esa organización en los tiempos de respuesta del equipo?»</strong></p><p><em>(E como essa organização impacta nos tempos de resposta da equipe?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo impacta esa organización en los tiempos de respuesta del equipo?",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Al entregar el contexto completo a nivel dos y hacer un buen relevo de turno, reducimos el tiempo medio de respuesta y cumplimos los acuerdos de nivel de servicio.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "5a2fc883-8669-5047-a48e-21e82ccd4063",
+          "textContent": "Al entregar el contexto completo a nivel dos y hacer un buen relevo de turno, reducimos el tiempo medio de respuesta y cumplimos los acuerdos de nivel de servicio.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "3ae12c80-967e-5305-b49d-7e019cfbe102",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "6a0b18ee-92ac-5221-b436-e5659b02a56b",
+          "textContent": "Registro en el ticket todos los indicadores analizados, las consultas ejecutadas en el SIEM y el estado exacto de la contención.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "3ae12c80-967e-5305-b49d-7e019cfbe102",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c7244f52-8afa-5937-9982-5a9d17428bd5",
+          "textContent": "Documento cada incidente con una cronología clara de los eventos, los activos afectados y las acciones de contención recomendadas.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "3ae12c80-967e-5305-b49d-7e019cfbe102",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1d345864-4305-5a29-89ae-de8efc0c8843",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "3ae12c80-967e-5305-b49d-7e019cfbe102",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "82432fdc-812d-5fed-a034-8747d9796641",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Gracias a la estandarización del triaje de nivel uno, logramos reducir significativamente el tiempo medio de respuesta ante incidentes _____.</strong></p><p>Tradução: Graças à padronização da triagem de nível um, conseguimos reduzir significativamente o tempo médio de resposta (MTTR) diante de incidentes críticos.</p>",
+      "contentPlain": "Gracias a la estandarización del triaje de nivel uno, logramos reducir significativamente el tiempo medio de respuesta ante incidentes _____. Tradução: Graças à padronização da triagem de nível um, conseguimos reduzir significativamente o tempo médio de resposta (MTTR) diante de incidentes críticos.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l04_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «críticos» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «críticos».",
+      "answerType": "buildWord",
+      "expectedAnswer": "críticos",
+      "typeSpecificData": "{\"word\": \"críticos\", \"translation\": \"Graças à padronização da triagem de nível um, conseguimos reduzir significativamente o tempo médio de resposta (MTTR) diante de incidentes críticos.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "02b8521f-fad1-567d-8872-04261d68ac64",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "b4577bfd-57b3-5c16-bca0-139a0fc2ade8",
+          "leftContent": "Documento cada incidente com uma cronologia clara dos eventos, os ativos afetados e as ações de contenção recomendadas.",
+          "rightContent": "Documento cada incidente con una cronología clara de los eventos, los activos afectados y las acciones de contención recomendadas.",
+          "sequenceItem": 1,
+          "exerciseId": "02b8521f-fad1-567d-8872-04261d68ac64"
+        },
+        {
+          "id": "8db05ca5-a19a-53db-9e19-1f68ec54f896",
+          "leftContent": "Graças à padronização da triagem de nível um, conseguimos reduzir significativamente o tempo médio de resposta (MTTR) diante de incidentes críticos.",
+          "rightContent": "Gracias a la estandarización del triaje de nivel uno, logramos reducir significativamente el tiempo medio de respuesta ante incidentes críticos.",
+          "sequenceItem": 2,
+          "exerciseId": "02b8521f-fad1-567d-8872-04261d68ac64"
+        },
+        {
+          "id": "bab7ca86-0277-5b69-b877-00ba2fb94f06",
+          "leftContent": "Durante a passagem de turno (handover), transmito à equipe que entra o status das investigações abertas para garantir a continuidade do serviço.",
+          "rightContent": "Durante el relevo de turno, transmito al equipo entrante el estado de las investigaciones abiertas para garantizar la continuidad del servicio.",
+          "sequenceItem": 3,
+          "exerciseId": "02b8521f-fad1-567d-8872-04261d68ac64"
+        },
+        {
+          "id": "021e42ef-9e93-5ae8-8a97-a39f3dd672cd",
+          "leftContent": "Ao entregar o contexto completo ao nível dois e fazer uma boa passagem de turno, reduzimos o tempo médio de resposta (MTTR) e cumprimos os SLAs.",
+          "rightContent": "Al entregar el contexto completo a nivel dos y hacer un buen relevo de turno, reducimos el tiempo medio de respuesta y cumplimos los acuerdos de nivel de servicio.",
+          "sequenceItem": 4,
+          "exerciseId": "02b8521f-fad1-567d-8872-04261d68ac64"
+        }
+      ]
+    }
+  ],
+  "title": "Documentação de Incidentes, SLAs, MTTR e Passagem de Turno no SOC"
+}

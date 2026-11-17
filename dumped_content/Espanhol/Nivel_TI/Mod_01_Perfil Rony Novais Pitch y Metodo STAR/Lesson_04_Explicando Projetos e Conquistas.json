@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+    "attemptId": "c102ff49-67ce-50ba-a0b2-11b319af62de",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "db469fa7-205d-585a-b448-71414d338dd7",
+      "40f4e52d-6ec0-5345-a00e-4a67d61e0561",
+      "55bd09e3-3cb9-501f-889d-7435ce3abcc7",
+      "aa44dcf7-59ea-537d-843f-d8db4bc5a639"
+    ],
+    "practiceExerciseIds": [
+      "33e3571e-e7a3-5710-995d-cff90284ae0b",
+      "9b1dbc7e-7abf-583c-823b-f4dc2bfc8724",
+      "bcfaa102-b9fc-5607-86ab-390dfed128c7",
+      "ea90495c-2323-54a6-b45f-2138c86d69f3",
+      "eef20280-696d-523f-9270-08129afb4c11"
+    ],
+    "evaluationExerciseIds": [
+      "e14f2943-963a-523f-8492-50b0e302ab83",
+      "7ca15606-4752-55a1-902a-d2e1510b7db0",
+      "f0865734-c3ee-5739-ab47-cdcda7782874"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "0e9478dd-4d0a-53f5-991a-81defe7b363c",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "e155f771-9228-5f63-8b5a-0c5819b6cf80",
+          "textContent": "<p>Define a Situação (S) de forma objetiva e técnica.</p><p><strong>En mi proyecto anterior detectamos una vulnerabilidad crítica de control de acceso en la interfaz de programación.</strong></p><p>Em português: <strong>No meu projeto anterior detectamos uma vulnerabilidade crítica de controle de acesso na API.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m01_l03_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7275f129-6c1a-5a27-abf6-9d6a3afad80e",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "17595c72-1a0e-5080-8773-f8ec59bbdfd7",
+          "textContent": "<p>Explica a Ação (A) mostrando trabalho em equipe com desenvolvedores.</p><p><strong>Coordiné con el equipo de desarrollo la remediación del código y la validación de sesiones mediante tokens seguros.</strong></p><p>Em português: <strong>Coordenei com a equipe de desenvolvimento a remediação do código e a validação de sessões mediante tokens seguros.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m01_l03_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "df9e434f-7ee0-5f83-8ac1-8382104fb9fd",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "3b7ec890-98d4-53a0-9dc8-d03d3649cc7c",
+          "textContent": "<p>Apresenta o Resultado (R) usando o termo técnico chave «hallazgos» (findings).</p><p><strong>Como resultado, eliminamos la exposición de datos sensibles y superamos la auditoría externa sin hallazgos graves.</strong></p><p>Em português: <strong>Como resultado, eliminamos a exposição de dados sensíveis e aprovamos na auditoria externa sem achados graves.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m01_l03_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f07d3b3f-96d2-5f35-b07c-739139144b4a",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "c71aab30-acb8-5918-8990-1dd8c56c2f83",
+          "textContent": "<p>Entrevistadores na Espanha adoram perguntas baseadas em situações reais: <strong>«Cuéntame un reto técnico difícil que hayas resuelto»</strong>. Estruture sua resposta com o <strong>Método STAR</strong>:</p><ul><li><strong>Situación:</strong> <em>En mi anterior proyecto identificamos...</em></li><li><strong>Tarea:</strong> <em>Mi objetivo era reducir la superficie de ataque...</em></li><li><strong>Acción:</strong> <em>Implementé un flujo de revisión y corregí...</em></li><li><strong>Resultado:</strong> <em>Logramos reducir los incidentes críticos en un ochenta por ciento.</em></li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>un reto técnico</strong> — um desafio técnico</li><li><strong>los hallazgos</strong> — os achados (findings da auditoria)</li><li><strong>plan de remediación</strong> — plano de correção / mitigação</li><li><strong>datos sensibles</strong> — dados sensíveis / confidenciais</li><li><strong>Palavra-chave de escrita: «hallazgos»</strong> (Superamos la auditoría externa sin hallazgos críticos.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "un reto técnico — um desafio técnico",
+        "los hallazgos — os achados (findings da auditoria)",
+        "plan de remediación — plano de correção / mitigação",
+        "datos sensibles — dados sensíveis / confidenciais"
+      ]
+    },
+    {
+      "id": "440f588f-025c-5460-92c4-94c77b45d9c6",
+      "title": "Relatando um caso real de sucesso",
+      "description": "<p>Laura pede um exemplo prático de problema técnico que o candidato resolveu.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Podrías contarme algún reto importante que hayas resuelto en tu último puesto?</div>\n  <div style=\"opacity: 0.55;\">Você poderia me contar algum desafio importante que tenha resolvido no seu último cargo?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m01_l03_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Claro. En una auditoría interna descubrimos que varios microservicios exponían datos sin autenticación adecuada.</div>\n  <div style=\"opacity: 0.55;\">Claro. Em uma auditoria interna descobrimos que vários microsserviços expunham dados sem autenticação adequada.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m01_l03_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y qué medidas tomasteis para solucionarlo sin afectar la producción?</div>\n  <div style=\"opacity: 0.55;\">E que medidas vocês tomaram para resolver isso sem afetar a produção?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m01_l03_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Diseñamos un plan de remediación por fases junto a desarrollo y logramos cerrar todas las brechas en dos semanas.</div>\n  <div style=\"opacity: 0.55;\">Desenhamos um plano de remediação em fases junto ao desenvolvimento e conseguimos fechar todas as brechas em duas semanas.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m01_l03_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "db469fa7-205d-585a-b448-71414d338dd7",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «¿Podrías contarme algún reto importante que hayas resuelto en tu último puesto?»</p><p><em>(Você poderia me contar algum desafio importante que tenha resolvido no seu último cargo?)</em></p>",
+      "contentPlain": "¿Podrías contarme algún reto importante que hayas resuelto en tu último puesto?",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l03_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Claro. En una auditoría interna descubrimos que varios microservicios exponían datos sin autenticación adecuada.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "9eb0fb8b-5ed4-529d-ad85-5abc6f8e7e62",
+          "textContent": "Claro. En una auditoría interna descubrimos que varios microservicios exponían datos sin autenticación adecuada.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "db469fa7-205d-585a-b448-71414d338dd7",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "fc569c24-591a-54e0-8c66-1e8ada8c0de2",
+          "textContent": "Como resultado, eliminamos la exposición de datos sensibles y superamos la auditoría externa sin hallazgos graves.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "db469fa7-205d-585a-b448-71414d338dd7",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "27e82221-a610-5a2d-9f2d-659227dd6d13",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "db469fa7-205d-585a-b448-71414d338dd7",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a8d1de67-363c-5827-8b1e-a1bee5c23fa0",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "db469fa7-205d-585a-b448-71414d338dd7",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "40f4e52d-6ec0-5345-a00e-4a67d61e0561",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>En mi proyecto anterior detectamos una vulnerabilidad crítica de control de acceso en la interfaz de programación.</strong></p>",
+      "contentPlain": "En mi proyecto anterior detectamos una vulnerabilidad crítica de control de acceso en la interfaz de programación.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l03_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «No meu projeto anterior detectamos uma vulnerabilidade crítica de controle de acesso na API.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "0a8e9e4c-e247-59e9-9351-054762ae60fa",
+          "textContent": "No meu projeto anterior detectamos uma vulnerabilidade crítica de controle de acesso na API.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "40f4e52d-6ec0-5345-a00e-4a67d61e0561",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9b09fc4d-1077-5125-af2d-b6ddc56aadd3",
+          "textContent": "Coordenei com a equipe de desenvolvimento a remediação do código e a validação de sessões mediante tokens seguros.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "40f4e52d-6ec0-5345-a00e-4a67d61e0561",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "db0c774e-7251-5bff-9bff-8484478030d6",
+          "textContent": "Como resultado, eliminamos a exposição de dados sensíveis e aprovamos na auditoria externa sem achados graves.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "40f4e52d-6ec0-5345-a00e-4a67d61e0561",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9e12a7f4-4476-5abb-b564-55a9e383a8cc",
+          "textContent": "Você poderia me contar algum desafio importante que tenha resolvido no seu último cargo?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "40f4e52d-6ec0-5345-a00e-4a67d61e0561",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "55bd09e3-3cb9-501f-889d-7435ce3abcc7",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "a514d8f2-1e94-5e8c-abf4-50e06361ea2c",
+          "leftContent": "un reto técnico",
+          "rightContent": "um desafio técnico",
+          "sequenceItem": 1,
+          "exerciseId": "55bd09e3-3cb9-501f-889d-7435ce3abcc7"
+        },
+        {
+          "id": "7f1f8787-7364-57a0-95b9-07bfb01be0ce",
+          "leftContent": "los hallazgos",
+          "rightContent": "os achados (findings da auditoria)",
+          "sequenceItem": 2,
+          "exerciseId": "55bd09e3-3cb9-501f-889d-7435ce3abcc7"
+        },
+        {
+          "id": "d7ee809e-de4a-5657-b59b-2a338888b50c",
+          "leftContent": "plan de remediación",
+          "rightContent": "plano de correção / mitigação",
+          "sequenceItem": 3,
+          "exerciseId": "55bd09e3-3cb9-501f-889d-7435ce3abcc7"
+        },
+        {
+          "id": "79e18720-4585-52c3-a796-b9a174772b38",
+          "leftContent": "datos sensibles",
+          "rightContent": "dados sensíveis / confidenciais",
+          "sequenceItem": 4,
+          "exerciseId": "55bd09e3-3cb9-501f-889d-7435ce3abcc7"
+        }
+      ]
+    },
+    {
+      "id": "aa44dcf7-59ea-537d-843f-d8db4bc5a639",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "8780fb5f-2f1f-5775-839c-2af376ccfd82",
+          "leftContent": "https://talk2me.local/content/ti_m01_l03_c1.mp3",
+          "rightContent": "En mi proyecto anterior detectamos una vulnerabilidad crítica de control de acceso en la interfaz de programación.",
+          "sequenceItem": 1,
+          "exerciseId": "aa44dcf7-59ea-537d-843f-d8db4bc5a639"
+        },
+        {
+          "id": "a99e4ffd-bd73-508e-9f23-51d8375217f3",
+          "leftContent": "https://talk2me.local/content/ti_m01_l03_c2.mp3",
+          "rightContent": "Coordiné con el equipo de desarrollo la remediación del código y la validación de sesiones mediante tokens seguros.",
+          "sequenceItem": 2,
+          "exerciseId": "aa44dcf7-59ea-537d-843f-d8db4bc5a639"
+        },
+        {
+          "id": "6a3d1a18-5ecf-5a01-bfad-fffc3d5bf7b5",
+          "leftContent": "https://talk2me.local/content/ti_m01_l03_c3.mp3",
+          "rightContent": "Como resultado, eliminamos la exposición de datos sensibles y superamos la auditoría externa sin hallazgos graves.",
+          "sequenceItem": 3,
+          "exerciseId": "aa44dcf7-59ea-537d-843f-d8db4bc5a639"
+        },
+        {
+          "id": "2bf199ec-034c-5421-8c57-ae935b6f7049",
+          "leftContent": "https://talk2me.local/content/ti_m01_l03_d2.mp3",
+          "rightContent": "Claro. En una auditoría interna descubrimos que varios microservicios exponían datos sin autenticación adecuada.",
+          "sequenceItem": 4,
+          "exerciseId": "aa44dcf7-59ea-537d-843f-d8db4bc5a639"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "33e3571e-e7a3-5710-995d-cff90284ae0b",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual palavra em espanhol os auditores e pentesters na Espanha usam para se referir aos «findings» (achados/vulnerabilidades de um relatório)?</p>",
+      "contentPlain": "Qual palavra em espanhol os auditores e pentesters na Espanha usam para se referir aos «findings» (achados/vulnerabilidades de um relatório)?",
+      "fileUrl": null,
+      "feedbackSuccess": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+      "feedbackError": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "f5a7fb47-a6c2-58f0-8b18-542789524c04",
+          "textContent": "Los hallazgos.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "33e3571e-e7a3-5710-995d-cff90284ae0b",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "124098a1-dd4b-5bd8-acc4-9a90ddcc45d0",
+          "textContent": "Los encuentros.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+          "exerciseId": "33e3571e-e7a3-5710-995d-cff90284ae0b",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "39204bc8-e323-5195-867b-acb38acf032b",
+          "textContent": "Las búsquedas.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+          "exerciseId": "33e3571e-e7a3-5710-995d-cff90284ae0b",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "003c2797-ee11-52de-8ece-a3ccd7c32b1b",
+          "textContent": "Los descubiertos.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+          "exerciseId": "33e3571e-e7a3-5710-995d-cff90284ae0b",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "9b1dbc7e-7abf-583c-823b-f4dc2bfc8724",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "80cfcc10-fd47-5b8b-b66e-1cb64120a96b",
+          "leftContent": "https://talk2me.local/content/ti_m01_l03_d1.mp3",
+          "rightContent": "Você poderia me contar algum desafio importante que tenha resolvido no seu último cargo?",
+          "sequenceItem": 1,
+          "exerciseId": "9b1dbc7e-7abf-583c-823b-f4dc2bfc8724"
+        },
+        {
+          "id": "2a7e5401-5e19-54dd-83fe-d4bb7ddd6de2",
+          "leftContent": "https://talk2me.local/content/ti_m01_l03_d2.mp3",
+          "rightContent": "Claro. Em uma auditoria interna descobrimos que vários microsserviços expunham dados sem autenticação adequada.",
+          "sequenceItem": 2,
+          "exerciseId": "9b1dbc7e-7abf-583c-823b-f4dc2bfc8724"
+        },
+        {
+          "id": "158ab8ef-de76-5fe3-88e1-737b44d590ac",
+          "leftContent": "https://talk2me.local/content/ti_m01_l03_d3.mp3",
+          "rightContent": "E que medidas vocês tomaram para resolver isso sem afetar a produção?",
+          "sequenceItem": 3,
+          "exerciseId": "9b1dbc7e-7abf-583c-823b-f4dc2bfc8724"
+        },
+        {
+          "id": "fa5824e9-7d86-504f-a9dc-d1eee1bf2989",
+          "leftContent": "https://talk2me.local/content/ti_m01_l03_d4.mp3",
+          "rightContent": "Desenhamos um plano de remediação em fases junto ao desenvolvimento e conseguimos fechar todas as brechas em duas semanas.",
+          "sequenceItem": 4,
+          "exerciseId": "9b1dbc7e-7abf-583c-823b-f4dc2bfc8724"
+        }
+      ]
+    },
+    {
+      "id": "bcfaa102-b9fc-5607-86ab-390dfed128c7",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Superamos la auditoría externa sin _____ críticos.</strong></p><p>Tradução: Aprovamos na auditoria externa sem achados (findings) críticos.</p>",
+      "contentPlain": "Superamos la auditoría externa sin _____ críticos. Tradução: Aprovamos na auditoria externa sem achados (findings) críticos.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l03_spk.mp3",
+      "feedbackSuccess": "Correto! «hallazgos» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «hallazgos».",
+      "answerType": "buildWord",
+      "expectedAnswer": "hallazgos",
+      "typeSpecificData": "{\"word\": \"hallazgos\", \"translation\": \"Aprovamos na auditoria externa sem achados (findings) críticos.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ea90495c-2323-54a6-b45f-2138c86d69f3",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l03_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Logramos eliminar la exposición de datos y superar la auditoría sin hallazgos críticos.",
+      "typeSpecificData": "{\"expectedText\": \"Logramos eliminar la exposición de datos y superar la auditoría sin hallazgos críticos.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m01_l03_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "eef20280-696d-523f-9270-08129afb4c11",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «¿Podrías contarme algún reto importante que hayas resuelto en tu último puesto?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Claro. En una auditoría interna descubrimos que varios microservicios exponían datos sin autenticación adecuada.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l03_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Claro. En una auditoría interna descubrimos que varios microservicios exponían datos sin autenticación adecuada.",
+      "typeSpecificData": "{\"expectedText\": \"Claro. En una auditoría interna descubrimos que varios microservicios exponían datos sin autenticación adecuada.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m01_l03_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "e14f2943-963a-523f-8492-50b0e302ab83",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué medidas tomasteis para solucionarlo sin afectar la producción?»</strong></p><p><em>(E que medidas vocês tomaram para resolver isso sem afetar a produção?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué medidas tomasteis para solucionarlo sin afectar la producción?",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Diseñamos un plan de remediación por fases junto a desarrollo y logramos cerrar todas las brechas en dos semanas.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "a4e3e126-a259-5dc7-b44f-905612e729a7",
+          "textContent": "Diseñamos un plan de remediación por fases junto a desarrollo y logramos cerrar todas las brechas en dos semanas.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "e14f2943-963a-523f-8492-50b0e302ab83",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "17503968-101c-5b09-ad1a-a287c1128295",
+          "textContent": "Claro. En una auditoría interna descubrimos que varios microservicios exponían datos sin autenticación adecuada.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "e14f2943-963a-523f-8492-50b0e302ab83",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8f95f95d-f287-566b-bdc9-7f1fc02eef06",
+          "textContent": "En mi proyecto anterior detectamos una vulnerabilidad crítica de control de acceso en la interfaz de programación.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "e14f2943-963a-523f-8492-50b0e302ab83",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "aac93275-4e0b-52c2-af30-cdaccbb2eef8",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "e14f2943-963a-523f-8492-50b0e302ab83",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7ca15606-4752-55a1-902a-d2e1510b7db0",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Coordiné con el equipo de desarrollo la remediación del código y la validación de sesiones mediante tokens _____.</strong></p><p>Tradução: Coordenei com a equipe de desenvolvimento a remediação do código e a validação de sessões mediante tokens seguros.</p>",
+      "contentPlain": "Coordiné con el equipo de desarrollo la remediación del código y la validación de sesiones mediante tokens _____. Tradução: Coordenei com a equipe de desenvolvimento a remediação do código e a validação de sessões mediante tokens seguros.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l03_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «seguros» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «seguros».",
+      "answerType": "buildWord",
+      "expectedAnswer": "seguros",
+      "typeSpecificData": "{\"word\": \"seguros\", \"translation\": \"Coordenei com a equipe de desenvolvimento a remediação do código e a validação de sessões mediante tokens seguros.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f0865734-c3ee-5739-ab47-cdcda7782874",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "0799bba0-a3a1-516e-80ad-838a516861ac",
+          "leftContent": "No meu projeto anterior detectamos uma vulnerabilidade crítica de controle de acesso na API.",
+          "rightContent": "En mi proyecto anterior detectamos una vulnerabilidad crítica de control de acceso en la interfaz de programación.",
+          "sequenceItem": 1,
+          "exerciseId": "f0865734-c3ee-5739-ab47-cdcda7782874"
+        },
+        {
+          "id": "37d48090-20f9-5302-b234-dce1149f9e61",
+          "leftContent": "Coordenei com a equipe de desenvolvimento a remediação do código e a validação de sessões mediante tokens seguros.",
+          "rightContent": "Coordiné con el equipo de desarrollo la remediación del código y la validación de sesiones mediante tokens seguros.",
+          "sequenceItem": 2,
+          "exerciseId": "f0865734-c3ee-5739-ab47-cdcda7782874"
+        },
+        {
+          "id": "96e07ed4-7c6d-59e3-b0b9-958aca1cd910",
+          "leftContent": "Como resultado, eliminamos a exposição de dados sensíveis e aprovamos na auditoria externa sem achados graves.",
+          "rightContent": "Como resultado, eliminamos la exposición de datos sensibles y superamos la auditoría externa sin hallazgos graves.",
+          "sequenceItem": 3,
+          "exerciseId": "f0865734-c3ee-5739-ab47-cdcda7782874"
+        },
+        {
+          "id": "4d0436d5-805b-50d2-8e2f-f411172e2fa7",
+          "leftContent": "Desenhamos um plano de remediação em fases junto ao desenvolvimento e conseguimos fechar todas as brechas em duas semanas.",
+          "rightContent": "Diseñamos un plan de remediación por fases junto a desarrollo y logramos cerrar todas las brechas en dos semanas.",
+          "sequenceItem": 4,
+          "exerciseId": "f0865734-c3ee-5739-ab47-cdcda7782874"
+        }
+      ]
+    }
+  ],
+  "title": "Explicando Projetos e Conquistas com o Método STAR"
+}

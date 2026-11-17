@@ -1,0 +1,694 @@
+{
+  "id": "b2f07ec7-bf2c-50c1-85c3-e53183ae743b",
+  "title": "Checkpoint: Blue Team III - Resposta a Incidentes, Bastionado e Normativa da Espanha",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "97e8891b-1834-5200-8e35-2b48248165d9",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9d4964cd-c79c-5260-b814-2d03d5e97339",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": [
+        {
+          "id": "2d33b594-0488-51f1-ace7-f0611f5549a5",
+          "leftContent": "aislar el equipo",
+          "rightContent": "isolar a máquina (contenção no EDR/rede)",
+          "sequenceItem": 1,
+          "exerciseId": "d14bac13-2fde-5d6b-bb8c-4be381216883"
+        },
+        {
+          "id": "781c2cba-e26b-5a78-9ec3-d62c47a7f34e",
+          "leftContent": "volcado de memoria",
+          "rightContent": "memory dump (captura de RAM)",
+          "sequenceItem": 2,
+          "exerciseId": "d14bac13-2fde-5d6b-bb8c-4be381216883"
+        },
+        {
+          "id": "3a8d935f-c045-5980-a8f7-ca9408c4fc26",
+          "leftContent": "copia de seguridad",
+          "rightContent": "backup",
+          "sequenceItem": 3,
+          "exerciseId": "d14bac13-2fde-5d6b-bb8c-4be381216883"
+        },
+        {
+          "id": "b38e9e1c-b67e-59df-93b6-f93a13a8c4e3",
+          "leftContent": "vector de entrada",
+          "rightContent": "ponto inicial de invasão (initial access)",
+          "sequenceItem": 4,
+          "exerciseId": "d14bac13-2fde-5d6b-bb8c-4be381216883"
+        }
+      ]
+    },
+    {
+      "id": "749193ab-ba72-531f-9ca1-ba115b4f81a5",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Memory Dump» e «Backup» no espanhol técnico usado na Espanha?</p>",
+      "contentPlain": "Como se diz «Memory Dump» e «Backup» no espanhol técnico usado na Espanha?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Volcado de memoria» (memory dump) e «copia de seguridad» (backup) são termos universais em DFIR na Espanha.",
+      "feedbackError": "«Volcado de memoria» (memory dump) e «copia de seguridad» (backup) são termos universais em DFIR na Espanha.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9d4964cd-c79c-5260-b814-2d03d5e97339",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "e8ab49a5-4517-5f65-b310-54d0507118d6",
+          "textContent": "Volcado de memoria y copia de seguridad.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "12566f59-a9d2-5491-8647-76f1fe02a518",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0e02fdbf-4852-5cb6-95b6-c3a5d314e497",
+          "textContent": "Basura de memoria y archivo doble.",
+          "isCorrect": false,
+          "incorrectReason": "«Volcado de memoria» (memory dump) e «copia de seguridad» (backup) são termos universais em DFIR na Espanha.",
+          "exerciseId": "12566f59-a9d2-5491-8647-76f1fe02a518",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8f419b38-3b8a-5fd3-844d-d411c898ed23",
+          "textContent": "Caída de memoria y copia trasera.",
+          "isCorrect": false,
+          "incorrectReason": "«Volcado de memoria» (memory dump) e «copia de seguridad» (backup) são termos universais em DFIR na Espanha.",
+          "exerciseId": "12566f59-a9d2-5491-8647-76f1fe02a518",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "5480cf64-f46e-50ab-9332-ff244ace941b",
+          "textContent": "Foto de memoria y disco guardado.",
+          "isCorrect": false,
+          "incorrectReason": "«Volcado de memoria» (memory dump) e «copia de seguridad» (backup) são termos universais em DFIR na Espanha.",
+          "exerciseId": "12566f59-a9d2-5491-8647-76f1fe02a518",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "aa0cd55c-17af-5063-b3a4-9ca5bb545459",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué haces antes de restaurar el servicio desde las copias de seguridad?»</strong></p><p><em>(E o que você faz antes de restaurar o serviço a partir dos backups?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué haces antes de restaurar el servicio desde las copias de seguridad?",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Preservo las evidencias para el análisis forense, identifico el vector de entrada y verifico que las copias de seguridad estén libres de código malicioso.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9d4964cd-c79c-5260-b814-2d03d5e97339",
+      "sequenceItem": 3,
+      "options": [
+        {
+          "id": "d6f70bf2-7bca-5ebe-bb0c-10d3adcf4972",
+          "textContent": "Preservo las evidencias para el análisis forense, identifico el vector de entrada y verifico que las copias de seguridad estén libres de código malicioso.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "040dbcea-beea-509d-8739-8e552a1224fc",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bfd6fc42-5030-5c28-82aa-f393d65c4e44",
+          "textContent": "Ejecuto de inmediato la contención aislando el servidor desde el agente EDR y bloqueando las cuentas comprometidas en el directorio activo.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "040dbcea-beea-509d-8739-8e552a1224fc",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f1db47b8-33fa-513b-8c1f-9f0d56c61f31",
+          "textContent": "Ante una sospecha de ransomware, la prioridad inmediata es aislar los equipos afectados para contener la propagación en la red.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "040dbcea-beea-509d-8739-8e552a1224fc",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "471ba2cf-a4af-5017-a05d-021248ed4861",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "040dbcea-beea-509d-8739-8e552a1224fc",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "130d44cd-ca1a-5fce-85e8-7f00ac59fd14",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "40cb68d3-129e-58b7-9686-595baa6b15c1",
+          "leftContent": "el bastionado",
+          "rightContent": "o hardening de sistemas e servidores (termo chave na Espanha!)",
+          "sequenceItem": 1,
+          "exerciseId": "8984a934-0907-59fe-bef8-876c175a6e19"
+        },
+        {
+          "id": "2bb00eff-444a-50fb-bbc3-0eb6c47806fc",
+          "leftContent": "el cortafuegos",
+          "rightContent": "o firewall",
+          "sequenceItem": 2,
+          "exerciseId": "8984a934-0907-59fe-bef8-876c175a6e19"
+        },
+        {
+          "id": "11c9d61c-b620-5d60-8c16-815c1355f6d7",
+          "leftContent": "parches de seguridad",
+          "rightContent": "patches / atualizações de segurança",
+          "sequenceItem": 3,
+          "exerciseId": "8984a934-0907-59fe-bef8-876c175a6e19"
+        },
+        {
+          "id": "446ad9f9-d9c8-54fe-9ce9-3a2e31983245",
+          "leftContent": "cifrado en reposo y en tránsito",
+          "rightContent": "criptografia at rest e in transit",
+          "sequenceItem": 4,
+          "exerciseId": "8984a934-0907-59fe-bef8-876c175a6e19"
+        }
+      ]
+    },
+    {
+      "id": "e7d62ba0-9c46-5282-a646-9eecb56cb8d2",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual é o termo técnico oficial na Espanha (usado pelo CCN-CERT e pelas empresas espanholas) para «Hardening de sistemas»?</p>",
+      "contentPlain": "Qual é o termo técnico oficial na Espanha (usado pelo CCN-CERT e pelas empresas espanholas) para «Hardening de sistemas»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+      "feedbackError": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 5,
+      "options": [
+        {
+          "id": "afad48f1-4549-5ed2-a881-88d97ea48ce8",
+          "textContent": "El bastionado de sistemas.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "fa49138c-f780-5a6a-8022-a922c6d5220e",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "22750e91-097a-504a-9f65-fd0bc682d6fb",
+          "textContent": "El endurecimiento de piedras.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+          "exerciseId": "fa49138c-f780-5a6a-8022-a922c6d5220e",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "caac5e76-2ec3-557b-9720-f178e6ce0e9f",
+          "textContent": "La blindaje de pantallas.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+          "exerciseId": "fa49138c-f780-5a6a-8022-a922c6d5220e",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "eb1b0ec5-38dc-58d3-bb25-805b63b69bbb",
+          "textContent": "El cierre de carpetas.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+          "exerciseId": "fa49138c-f780-5a6a-8022-a922c6d5220e",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "69465684-477a-5c4d-89a2-5634e7d97bb1",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo proteges los datos sensibles almacenados en la nube?»</strong></p><p><em>(E como você protege os dados sensíveis armazenados na nuvem?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo proteges los datos sensibles almacenados en la nube?",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Aplico el principio de mínimo privilegio en los roles de identidad, bloqueo el acceso público al almacenamiento y activo el cifrado en reposo y en tránsito.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 6,
+      "options": [
+        {
+          "id": "fb210911-ac60-5fa9-857f-f27e3d4966d4",
+          "textContent": "Aplico el principio de mínimo privilegio en los roles de identidad, bloqueo el acceso público al almacenamiento y activo el cifrado en reposo y en tránsito.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "6f9ef652-4de5-52af-8deb-1b044734d74e",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "56324cd3-337b-528d-b459-dbf3537646fd",
+          "textContent": "Deshabilitar servicios innecesarios, aplicar los últimos parches de seguridad, exigir autenticación multifactor y restringir los puertos en el cortafuegos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "6f9ef652-4de5-52af-8deb-1b044734d74e",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8957f997-c830-5512-96ff-0678dcf32b58",
+          "textContent": "Aplicamos guías de bastionado en servidores Linux y Windows para reducir los servicios expuestos y reforzar las políticas de acceso.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "6f9ef652-4de5-52af-8deb-1b044734d74e",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "dfd348b7-8c3c-549e-b947-bd04a32488d3",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "6f9ef652-4de5-52af-8deb-1b044734d74e",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c4e1a7ec-c48f-5eb7-9aa9-765fd6565566",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 7,
+      "options": [],
+      "associations": [
+        {
+          "id": "27a0ccdf-1c1f-569c-820f-de2a64223057",
+          "leftContent": "ENS (Esquema Nacional de Seguridad)",
+          "rightContent": "norma espanhola de segurança para setor público e fornecedores",
+          "sequenceItem": 1,
+          "exerciseId": "25cc0211-35c8-59ca-b763-410baf1e033a"
+        },
+        {
+          "id": "507d752b-790e-5f67-b452-03ad587cf9f5",
+          "leftContent": "INCIBE y CCN-CERT",
+          "rightContent": "órgãos nacionais de cibersegurança e CERT governamental da Espanha",
+          "sequenceItem": 2,
+          "exerciseId": "25cc0211-35c8-59ca-b763-410baf1e033a"
+        },
+        {
+          "id": "5e10ddb0-1a03-53c7-8080-b0460a30e8ba",
+          "leftContent": "RGPD y AEPD",
+          "rightContent": "lei europeia de proteção de dados e agência espanhola fiscalizadora",
+          "sequenceItem": 3,
+          "exerciseId": "25cc0211-35c8-59ca-b763-410baf1e033a"
+        },
+        {
+          "id": "6eb77e9e-7dba-5fda-bb5d-c3786fad9b66",
+          "leftContent": "Directiva NIS2",
+          "rightContent": "diretiva europeia de cibersegurança para setores essenciais",
+          "sequenceItem": 4,
+          "exerciseId": "25cc0211-35c8-59ca-b763-410baf1e033a"
+        }
+      ]
+    },
+    {
+      "id": "00f08e06-f476-5a3b-8c17-23960f3cc75f",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Na Espanha, qual é o marco regulatório obrigatório para órgãos públicos e empresas de tecnologia que prestam serviço ao governo espanhol?</p>",
+      "contentPlain": "Na Espanha, qual é o marco regulatório obrigatório para órgãos públicos e empresas de tecnologia que prestam serviço ao governo espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+      "feedbackError": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 8,
+      "options": [
+        {
+          "id": "b207419d-cfcb-5f6c-996b-f17646a3961b",
+          "textContent": "El ENS (Esquema Nacional de Seguridad).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "be18f4f1-6a12-568c-b220-d1ce774383d2",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "6972876d-06a3-5c7a-88dd-ceaec43f475a",
+          "textContent": "El Marco Civil de Internet.",
+          "isCorrect": false,
+          "incorrectReason": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+          "exerciseId": "be18f4f1-6a12-568c-b220-d1ce774383d2",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e4793846-ace7-54cd-8ae8-24bfc859b496",
+          "textContent": "La Ley Federal de Ciberdefensa Americana.",
+          "isCorrect": false,
+          "incorrectReason": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+          "exerciseId": "be18f4f1-6a12-568c-b220-d1ce774383d2",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "89d135b4-03a0-543a-87f5-1ee93af503e5",
+          "textContent": "El Código Penal de Comercio Exterior.",
+          "isCorrect": false,
+          "incorrectReason": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+          "exerciseId": "be18f4f1-6a12-568c-b220-d1ce774383d2",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c4dcb4d7-69af-537d-a484-b399133d54fb",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¡Excelente! No todos los candidatos internacionales conocen el Esquema Nacional de Seguridad. ¿Sabes qué organismos publican las guías técnicas en España?»</strong></p><p><em>(Excelente! Nem todos os candidatos internacionais conhecem o Esquema Nacional de Seguridad. Você sabe quais órgãos publicam os guias técnicos na Espanha?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¡Excelente! No todos los candidatos internacionales conocen el Esquema Nacional de Seguridad. ¿Sabes qué organismos publican las guías técnicas en España?",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Sí, el CCN-CERT publica las guías CCN-STIC para el sector público y el INCIBE coordina la ciberseguridad para empresas y ciudadanos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 9,
+      "options": [
+        {
+          "id": "e6f41a5d-b34f-5632-9a6f-7f0020a237cf",
+          "textContent": "Sí, el CCN-CERT publica las guías CCN-STIC para el sector público y el INCIBE coordina la ciberseguridad para empresas y ciudadanos.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4f665314-cc6c-5e6c-87d2-d6cbb37697d2",
+          "textContent": "Sí, estoy familiarizado con la norma ISO veintisiete mil uno, el Reglamento General de Protección de Datos y el Esquema Nacional de Seguridad en España.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b90e195c-d6a5-54c9-b671-b7a3c7776a43",
+          "textContent": "Conozco los marcos normativos aplicables en España y Europa, como el Esquema Nacional de Seguridad, el RGPD, la directiva NIS dos y la norma ISO veintisiete mil uno.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "17dc14a6-2ea7-5cc5-887f-61374235d444",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "fcf5b859-7526-58b3-a3a5-afaa36c25013",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 10,
+      "options": [],
+      "associations": [
+        {
+          "id": "8cb63b49-dca4-5cad-8b32-d39abdd4e4af",
+          "leftContent": "caza proactiva de amenazas",
+          "rightContent": "Threat Hunting baseado em hipóteses e TTPs",
+          "sequenceItem": 1,
+          "exerciseId": "d13109e2-d9d2-5e08-b55c-94c51aabb9d1"
+        },
+        {
+          "id": "d57a537d-dba9-5ef6-b9ab-144b11dcf151",
+          "leftContent": "comandos ofuscados",
+          "rightContent": "scripts codificados (ex.: PowerShell Base64) para evadir detecção",
+          "sequenceItem": 2,
+          "exerciseId": "d13109e2-d9d2-5e08-b55c-94c51aabb9d1"
+        },
+        {
+          "id": "0e320f98-cb88-59a3-a768-59c4cf2d73b1",
+          "leftContent": "herramientas nativas del sistema (LOLBins)",
+          "rightContent": "binários legítimos do SO abusados pelo atacante",
+          "sequenceItem": 3,
+          "exerciseId": "d13109e2-d9d2-5e08-b55c-94c51aabb9d1"
+        },
+        {
+          "id": "fbc933a1-9edf-5dc2-bafa-ee03ffaaec4f",
+          "leftContent": "brecha de detección",
+          "rightContent": "lacuna de visibilidade coberta por uma nova regra no SIEM",
+          "sequenceItem": 4,
+          "exerciseId": "d13109e2-d9d2-5e08-b55c-94c51aabb9d1"
+        }
+      ]
+    },
+    {
+      "id": "824eb73d-51ee-592a-8097-24640bceaa5a",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Threat Hunting (busca proativa de ameaças)» e «comandos ofuscados» em espanhol técnico?</p>",
+      "contentPlain": "Como se diz «Threat Hunting (busca proativa de ameaças)» e «comandos ofuscados» em espanhol técnico?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+      "feedbackError": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 11,
+      "options": [
+        {
+          "id": "16f8022b-46be-55bd-932f-ff66332e0536",
+          "textContent": "Caza proactiva de amenazas (búsqueda de amenazas) y comandos ofuscados.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "60dc8907-9483-5041-8e82-ea77699d7911",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "cebcf1fc-5400-5bb6-9101-7a88e3a565f2",
+          "textContent": "Pesca de virus y letras escondidas.",
+          "isCorrect": false,
+          "incorrectReason": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+          "exerciseId": "60dc8907-9483-5041-8e82-ea77699d7911",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f3f357f2-c421-59ec-9abb-cabbee263b0f",
+          "textContent": "Captura de pantallas y textos borrados.",
+          "isCorrect": false,
+          "incorrectReason": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+          "exerciseId": "60dc8907-9483-5041-8e82-ea77699d7911",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0f16867d-b2f2-5052-be15-5c3c70508f63",
+          "textContent": "Rastreo de cables y códigos rotos.",
+          "isCorrect": false,
+          "incorrectReason": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+          "exerciseId": "60dc8907-9483-5041-8e82-ea77699d7911",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "09266ef0-b8f2-5941-9be8-3e864dfc3c46",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué haces si durante esa búsqueda encuentras una técnica que el SIEM no estaba alertando?»</strong></p><p><em>(E o que você faz se durante essa busca encontrar uma técnica que o SIEM não estava alertando?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué haces si durante esa búsqueda encuentras una técnica que el SIEM no estaba alertando?",
+      "fileUrl": "https://talk2me.local/content/blue_m03_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Investigo el alcance en todos los equipos y enseguida desarrollo una nueva regla de correlación en QRadar o Sentinel para cubrir esa brecha de detección.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 12,
+      "options": [
+        {
+          "id": "932242fb-3991-5d05-b4f8-13fdb0e48142",
+          "textContent": "Investigo el alcance en todos los equipos y enseguida desarrollo una nueva regla de correlación en QRadar o Sentinel para cubrir esa brecha de detección.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "cc248aa3-4841-599c-9f8d-a95caca5d286",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c1a2629f-e6b5-5626-9ac3-d57555f4cf92",
+          "textContent": "Planteo una hipótesis basada en técnicas de MITRE ATT&CK, por ejemplo la ejecución de comandos ofuscados en PowerShell o el uso indebido de herramientas nativas del sistema.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "cc248aa3-4841-599c-9f8d-a95caca5d286",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0e77cbc8-dcdc-5ca9-bb75-7baf7efd32e1",
+          "textContent": "Además de atender las alertas del SIEM, realizo búsquedas proactivas de amenazas basadas en hipótesis y en boletines de inteligencia.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "cc248aa3-4841-599c-9f8d-a95caca5d286",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4e9b6ed5-2f3e-5b1a-ad7c-f2ecb16bc45d",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "cc248aa3-4841-599c-9f8d-a95caca5d286",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

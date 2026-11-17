@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+    "attemptId": "4235c7d0-970b-5183-a57e-26934fa168e4",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "4526a735-3e46-596f-a270-c681a2d84b81",
+      "5491451d-4ce2-5d05-9e95-eea2fc596ff4",
+      "25cc0211-35c8-59ca-b763-410baf1e033a",
+      "447d3cf0-eeb9-505a-b86d-40a2c8beddd2"
+    ],
+    "practiceExerciseIds": [
+      "be18f4f1-6a12-568c-b220-d1ce774383d2",
+      "4007a561-8b3c-529d-b7fe-405545dad94a",
+      "4a1393ee-2947-51e3-93f1-02b331ef21d4",
+      "974a04af-f346-5c37-a6ce-dd18a85beefe",
+      "efa47ffd-12ad-5d38-9aa6-f54c29e494b0"
+    ],
+    "evaluationExerciseIds": [
+      "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+      "8321cd46-c65e-512e-b9fa-928cbc7f8e4f",
+      "8ef93c8c-e471-5e26-870e-65799c551c05"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "0d19a24f-b915-559b-8d1c-38e30148872c",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "ec8dfcb4-0b28-550f-a1ed-fc5d133ea8b2",
+          "textContent": "<p>Citar o ENS (Esquema Nacional de Seguridad) e a NIS2 mostra preparo específico para o mercado espanhol.</p><p><strong>Conozco los marcos normativos aplicables en España y Europa, como el Esquema Nacional de Seguridad, el RGPD, la directiva NIS dos y la norma ISO veintisiete mil uno.</strong></p><p>Em português: <strong>Conheço os marcos regulatórios aplicáveis na Espanha e na Europa, como o Esquema Nacional de Seguridad (ENS), o RGPD, a diretiva NIS2 e a norma ISO 27001.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m03_l04_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "566833d8-f1c1-5efc-bdb8-3efdb4a31f7e",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "265f27ee-1534-5f37-94c7-1528cb91690b",
+          "textContent": "<p>As guias CCN-STIC do CCN-CERT são a referência técnica em toda consultoria espanhola.</p><p><strong>En mis auditorías alineo los controles técnicos con las guías del CCN-CERT y las buenas prácticas del INCIBE.</strong></p><p>Em português: <strong>Nas minhas auditorias alinho os controles técnicos com os guias do CCN-CERT e as boas práticas do INCIBE.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m03_l04_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ab3717b8-9b6d-5b41-a1b4-25135806c58d",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "dcacfa2f-a827-56a6-bb7a-17fae19d26c0",
+          "textContent": "<p>Saber o prazo de 72h do RGPD é pergunta clássica de entrevista em bancos e consultorias na Espanha.</p><p><strong>Ante una brecha de datos personales, el RGPD exige notificar a la autoridad de control en un plazo máximo de setenta y dos horas.</strong></p><p>Em português: <strong>Diante de um vazamento de dados pessoais, o RGPD exige notificar a autoridade de controle (AEPD) em um prazo máximo de 72 horas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m03_l04_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cbc5ab68-2d5b-5042-adb1-426786998e7f",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "6092c0b5-6931-57ad-b42c-6b8f3da0d782",
+          "textContent": "<p>Conhecer as siglas regulatórias da Espanha e da União Europeia coloca você à frente de 90% dos candidatos estrangeiros:</p><ul><li><strong>ENS (Esquema Nacional de Seguridad):</strong> norma obrigatória para o setor público espanhol e todos os seus fornecedores de TI/cibersegurança (níveis: <em>bajo, medio, alto</em>).</li><li><strong>INCIBE (Instituto Nacional de Ciberseguridad) &amp; CCN-CERT:</strong> órgãos oficiais de cibersegurança e resposta a incidentes na Espanha.</li><li><strong>RGPD (Reglamento General de Protección de Datos) &amp; AEPD:</strong> equivalente europeu à LGPD, fiscalizado na Espanha pela <em>Agencia Española de Protección de Datos</em>.</li><li><strong>Directiva NIS2 y DORA:</strong> diretivas europeias de resiliência cibernética para setores críticos e financeiros.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>ENS (Esquema Nacional de Seguridad)</strong> — norma espanhola de segurança para setor público e fornecedores</li><li><strong>INCIBE y CCN-CERT</strong> — órgãos nacionais de cibersegurança e CERT governamental da Espanha</li><li><strong>RGPD y AEPD</strong> — lei europeia de proteção de dados e agência espanhola fiscalizadora</li><li><strong>Directiva NIS2</strong> — diretiva europeia de cibersegurança para setores essenciais</li><li><strong>Palavra-chave de escrita: «Esquema»</strong> (En España alineamos los controles con el Esquema Nacional de Seguridad y la norma ISO.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "ENS (Esquema Nacional de Seguridad) — norma espanhola de segurança para setor público e fornecedores",
+        "INCIBE y CCN-CERT — órgãos nacionais de cibersegurança e CERT governamental da Espanha",
+        "RGPD y AEPD — lei europeia de proteção de dados e agência espanhola fiscalizadora",
+        "Directiva NIS2 — diretiva europeia de cibersegurança para setores essenciais"
+      ]
+    },
+    {
+      "id": "d807c119-4b1a-5cbf-8944-15386760155d",
+      "title": "Demonstrando domínio das normas espanholas (ENS e RGPD)",
+      "description": "<p>Laura pergunta se você conhece a legislação e os padrões de segurança exigidos em clientes na Espanha.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Muchos de nuestros clientes en España pertenecen al sector público y bancario. ¿Estás familiarizado con la normativa española y europea de ciberseguridad?</div>\n  <div style=\"opacity: 0.55;\">Muitos dos nossos clientes na Espanha pertencem ao setor público e bancário. Você está familiarizado com a regulamentação espanhola e europeia de cibersegurança?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l04_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Sí, estoy familiarizado con la norma ISO veintisiete mil uno, el Reglamento General de Protección de Datos y el Esquema Nacional de Seguridad en España.</div>\n  <div style=\"opacity: 0.55;\">Sim, estou familiarizado com a norma ISO 27001, o Regulamento Geral de Proteção de Dados (RGPD) e o Esquema Nacional de Seguridad (ENS) na Espanha.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l04_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¡Excelente! No todos los candidatos internacionales conocen el Esquema Nacional de Seguridad. ¿Sabes qué organismos publican las guías técnicas en España?</div>\n  <div style=\"opacity: 0.55;\">Excelente! Nem todos os candidatos internacionais conhecem o Esquema Nacional de Seguridad. Você sabe quais órgãos publicam os guias técnicos na Espanha?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l04_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Sí, el CCN-CERT publica las guías CCN-STIC para el sector público y el INCIBE coordina la ciberseguridad para empresas y ciudadanos.</div>\n  <div style=\"opacity: 0.55;\">Sim, o CCN-CERT publica os guias CCN-STIC para o setor público e o INCIBE coordena a cibersegurança para empresas e cidadãos.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l04_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "4526a735-3e46-596f-a270-c681a2d84b81",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Muchos de nuestros clientes en España pertenecen al sector público y bancario. ¿Estás familiarizado con la normativa española y europea de ciberseguridad?»</p><p><em>(Muitos dos nossos clientes na Espanha pertencem ao setor público e bancário. Você está familiarizado com a regulamentação espanhola e europeia de cibersegurança?)</em></p>",
+      "contentPlain": "Muchos de nuestros clientes en España pertenecen al sector público y bancario. ¿Estás familiarizado con la normativa española y europea de ciberseguridad?",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l04_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Sí, estoy familiarizado con la norma ISO veintisiete mil uno, el Reglamento General de Protección de Datos y el Esquema Nacional de Seguridad en España.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "dcf33ee8-9879-5afb-bc40-39fdb47a59a9",
+          "textContent": "Sí, estoy familiarizado con la norma ISO veintisiete mil uno, el Reglamento General de Protección de Datos y el Esquema Nacional de Seguridad en España.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "4526a735-3e46-596f-a270-c681a2d84b81",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c2b59c65-531b-5a87-94a3-e2c86ba53d65",
+          "textContent": "Ante una brecha de datos personales, el RGPD exige notificar a la autoridad de control en un plazo máximo de setenta y dos horas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "4526a735-3e46-596f-a270-c681a2d84b81",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "de80f247-4bb2-52e4-97f5-79cede1f0ac2",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "4526a735-3e46-596f-a270-c681a2d84b81",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bbea00db-d568-58ef-920b-6a03e135cd97",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "4526a735-3e46-596f-a270-c681a2d84b81",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5491451d-4ce2-5d05-9e95-eea2fc596ff4",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Conozco los marcos normativos aplicables en España y Europa, como el Esquema Nacional de Seguridad, el RGPD, la directiva NIS dos y la norma ISO veintisiete mil uno.</strong></p>",
+      "contentPlain": "Conozco los marcos normativos aplicables en España y Europa, como el Esquema Nacional de Seguridad, el RGPD, la directiva NIS dos y la norma ISO veintisiete mil uno.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l04_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Conheço os marcos regulatórios aplicáveis na Espanha e na Europa, como o Esquema Nacional de Seguridad (ENS), o RGPD, a diretiva NIS2 e a norma ISO 27001.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "50dd69be-5a08-5e7a-bd45-c3408c0b18d2",
+          "textContent": "Conheço os marcos regulatórios aplicáveis na Espanha e na Europa, como o Esquema Nacional de Seguridad (ENS), o RGPD, a diretiva NIS2 e a norma ISO 27001.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "5491451d-4ce2-5d05-9e95-eea2fc596ff4",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7475a9f2-73c6-5a33-a8b6-7bbef34b570d",
+          "textContent": "Nas minhas auditorias alinho os controles técnicos com os guias do CCN-CERT e as boas práticas do INCIBE.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "5491451d-4ce2-5d05-9e95-eea2fc596ff4",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "519ed847-2a38-5dd8-aa89-dfb195466660",
+          "textContent": "Diante de um vazamento de dados pessoais, o RGPD exige notificar a autoridade de controle (AEPD) em um prazo máximo de 72 horas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "5491451d-4ce2-5d05-9e95-eea2fc596ff4",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c8c1e1b6-eca6-588a-8ae4-973e67e21ad1",
+          "textContent": "Muitos dos nossos clientes na Espanha pertencem ao setor público e bancário. Você está familiarizado com a regulamentação espanhola e europeia de cibersegurança?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "5491451d-4ce2-5d05-9e95-eea2fc596ff4",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "25cc0211-35c8-59ca-b763-410baf1e033a",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "27a0ccdf-1c1f-569c-820f-de2a64223057",
+          "leftContent": "ENS (Esquema Nacional de Seguridad)",
+          "rightContent": "norma espanhola de segurança para setor público e fornecedores",
+          "sequenceItem": 1,
+          "exerciseId": "25cc0211-35c8-59ca-b763-410baf1e033a"
+        },
+        {
+          "id": "507d752b-790e-5f67-b452-03ad587cf9f5",
+          "leftContent": "INCIBE y CCN-CERT",
+          "rightContent": "órgãos nacionais de cibersegurança e CERT governamental da Espanha",
+          "sequenceItem": 2,
+          "exerciseId": "25cc0211-35c8-59ca-b763-410baf1e033a"
+        },
+        {
+          "id": "5e10ddb0-1a03-53c7-8080-b0460a30e8ba",
+          "leftContent": "RGPD y AEPD",
+          "rightContent": "lei europeia de proteção de dados e agência espanhola fiscalizadora",
+          "sequenceItem": 3,
+          "exerciseId": "25cc0211-35c8-59ca-b763-410baf1e033a"
+        },
+        {
+          "id": "6eb77e9e-7dba-5fda-bb5d-c3786fad9b66",
+          "leftContent": "Directiva NIS2",
+          "rightContent": "diretiva europeia de cibersegurança para setores essenciais",
+          "sequenceItem": 4,
+          "exerciseId": "25cc0211-35c8-59ca-b763-410baf1e033a"
+        }
+      ]
+    },
+    {
+      "id": "447d3cf0-eeb9-505a-b86d-40a2c8beddd2",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "466106d5-e429-53d2-be41-2d1d364295c2",
+          "leftContent": "https://talk2me.local/content/ti_m03_l04_c1.mp3",
+          "rightContent": "Conozco los marcos normativos aplicables en España y Europa, como el Esquema Nacional de Seguridad, el RGPD, la directiva NIS dos y la norma ISO veintisiete mil uno.",
+          "sequenceItem": 1,
+          "exerciseId": "447d3cf0-eeb9-505a-b86d-40a2c8beddd2"
+        },
+        {
+          "id": "b86ccc8e-ed3a-53d5-b1aa-d35ab4785237",
+          "leftContent": "https://talk2me.local/content/ti_m03_l04_c2.mp3",
+          "rightContent": "En mis auditorías alineo los controles técnicos con las guías del CCN-CERT y las buenas prácticas del INCIBE.",
+          "sequenceItem": 2,
+          "exerciseId": "447d3cf0-eeb9-505a-b86d-40a2c8beddd2"
+        },
+        {
+          "id": "4e9b865e-dd2b-5f5a-866b-70ed7885a5f4",
+          "leftContent": "https://talk2me.local/content/ti_m03_l04_c3.mp3",
+          "rightContent": "Ante una brecha de datos personales, el RGPD exige notificar a la autoridad de control en un plazo máximo de setenta y dos horas.",
+          "sequenceItem": 3,
+          "exerciseId": "447d3cf0-eeb9-505a-b86d-40a2c8beddd2"
+        },
+        {
+          "id": "56fcf012-599b-5b4e-98ac-8ee473e0a6f6",
+          "leftContent": "https://talk2me.local/content/ti_m03_l04_d2.mp3",
+          "rightContent": "Sí, estoy familiarizado con la norma ISO veintisiete mil uno, el Reglamento General de Protección de Datos y el Esquema Nacional de Seguridad en España.",
+          "sequenceItem": 4,
+          "exerciseId": "447d3cf0-eeb9-505a-b86d-40a2c8beddd2"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "be18f4f1-6a12-568c-b220-d1ce774383d2",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Na Espanha, qual é o marco regulatório obrigatório para órgãos públicos e empresas de tecnologia que prestam serviço ao governo espanhol?</p>",
+      "contentPlain": "Na Espanha, qual é o marco regulatório obrigatório para órgãos públicos e empresas de tecnologia que prestam serviço ao governo espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+      "feedbackError": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "b207419d-cfcb-5f6c-996b-f17646a3961b",
+          "textContent": "El ENS (Esquema Nacional de Seguridad).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "be18f4f1-6a12-568c-b220-d1ce774383d2",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "6972876d-06a3-5c7a-88dd-ceaec43f475a",
+          "textContent": "El Marco Civil de Internet.",
+          "isCorrect": false,
+          "incorrectReason": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+          "exerciseId": "be18f4f1-6a12-568c-b220-d1ce774383d2",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e4793846-ace7-54cd-8ae8-24bfc859b496",
+          "textContent": "La Ley Federal de Ciberdefensa Americana.",
+          "isCorrect": false,
+          "incorrectReason": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+          "exerciseId": "be18f4f1-6a12-568c-b220-d1ce774383d2",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "89d135b4-03a0-543a-87f5-1ee93af503e5",
+          "textContent": "El Código Penal de Comercio Exterior.",
+          "isCorrect": false,
+          "incorrectReason": "O ENS (Esquema Nacional de Seguridad) é exigido em quase todas as consultorias de TI e Cibersegurança na Espanha (Indra/Minsait, Telefónica Tech, Deloitte, S2 Grupo, Babel, etc.).",
+          "exerciseId": "be18f4f1-6a12-568c-b220-d1ce774383d2",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4007a561-8b3c-529d-b7fe-405545dad94a",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "96977152-d9b6-58ae-a517-0f7b9efb0347",
+          "leftContent": "https://talk2me.local/content/ti_m03_l04_d1.mp3",
+          "rightContent": "Muitos dos nossos clientes na Espanha pertencem ao setor público e bancário. Você está familiarizado com a regulamentação espanhola e europeia de cibersegurança?",
+          "sequenceItem": 1,
+          "exerciseId": "4007a561-8b3c-529d-b7fe-405545dad94a"
+        },
+        {
+          "id": "4f5e5183-f395-508e-ba34-9dd4a6f4a81f",
+          "leftContent": "https://talk2me.local/content/ti_m03_l04_d2.mp3",
+          "rightContent": "Sim, estou familiarizado com a norma ISO 27001, o Regulamento Geral de Proteção de Dados (RGPD) e o Esquema Nacional de Seguridad (ENS) na Espanha.",
+          "sequenceItem": 2,
+          "exerciseId": "4007a561-8b3c-529d-b7fe-405545dad94a"
+        },
+        {
+          "id": "b1107494-34cd-5bb8-8e38-73c5d54c330c",
+          "leftContent": "https://talk2me.local/content/ti_m03_l04_d3.mp3",
+          "rightContent": "Excelente! Nem todos os candidatos internacionais conhecem o Esquema Nacional de Seguridad. Você sabe quais órgãos publicam os guias técnicos na Espanha?",
+          "sequenceItem": 3,
+          "exerciseId": "4007a561-8b3c-529d-b7fe-405545dad94a"
+        },
+        {
+          "id": "02278307-b4e3-5269-aa7b-c3a15a8abd10",
+          "leftContent": "https://talk2me.local/content/ti_m03_l04_d4.mp3",
+          "rightContent": "Sim, o CCN-CERT publica os guias CCN-STIC para o setor público e o INCIBE coordena a cibersegurança para empresas e cidadãos.",
+          "sequenceItem": 4,
+          "exerciseId": "4007a561-8b3c-529d-b7fe-405545dad94a"
+        }
+      ]
+    },
+    {
+      "id": "4a1393ee-2947-51e3-93f1-02b331ef21d4",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>En España alineamos los controles con el _____ Nacional de Seguridad y la norma ISO.</strong></p><p>Tradução: Na Espanha alinhamos os controles com o Esquema Nacional de Seguridad (ENS) e a norma ISO.</p>",
+      "contentPlain": "En España alineamos los controles con el _____ Nacional de Seguridad y la norma ISO. Tradução: Na Espanha alinhamos os controles com o Esquema Nacional de Seguridad (ENS) e a norma ISO.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l04_spk.mp3",
+      "feedbackSuccess": "Correto! «Esquema» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «Esquema».",
+      "answerType": "buildWord",
+      "expectedAnswer": "Esquema",
+      "typeSpecificData": "{\"word\": \"Esquema\", \"translation\": \"Na Espanha alinhamos os controles com o Esquema Nacional de Seguridad (ENS) e a norma ISO.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "974a04af-f346-5c37-a6ce-dd18a85beefe",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l04_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Estoy familiarizado con el Esquema Nacional de Seguridad y el Reglamento General de Protección de Datos.",
+      "typeSpecificData": "{\"expectedText\": \"Estoy familiarizado con el Esquema Nacional de Seguridad y el Reglamento General de Protección de Datos.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m03_l04_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "efa47ffd-12ad-5d38-9aa6-f54c29e494b0",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Muchos de nuestros clientes en España pertenecen al sector público y bancario. ¿Estás familiarizado con la normativa española y europea de ciberseguridad?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Sí, estoy familiarizado con la norma ISO veintisiete mil uno, el Reglamento General de Protección de Datos y el Esquema Nacional de Seguridad en España.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l04_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Sí, estoy familiarizado con la norma ISO veintisiete mil uno, el Reglamento General de Protección de Datos y el Esquema Nacional de Seguridad en España.",
+      "typeSpecificData": "{\"expectedText\": \"Sí, estoy familiarizado con la norma ISO veintisiete mil uno, el Reglamento General de Protección de Datos y el Esquema Nacional de Seguridad en España.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m03_l04_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¡Excelente! No todos los candidatos internacionales conocen el Esquema Nacional de Seguridad. ¿Sabes qué organismos publican las guías técnicas en España?»</strong></p><p><em>(Excelente! Nem todos os candidatos internacionais conhecem o Esquema Nacional de Seguridad. Você sabe quais órgãos publicam os guias técnicos na Espanha?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¡Excelente! No todos los candidatos internacionales conocen el Esquema Nacional de Seguridad. ¿Sabes qué organismos publican las guías técnicas en España?",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Sí, el CCN-CERT publica las guías CCN-STIC para el sector público y el INCIBE coordina la ciberseguridad para empresas y ciudadanos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "e6f41a5d-b34f-5632-9a6f-7f0020a237cf",
+          "textContent": "Sí, el CCN-CERT publica las guías CCN-STIC para el sector público y el INCIBE coordina la ciberseguridad para empresas y ciudadanos.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4f665314-cc6c-5e6c-87d2-d6cbb37697d2",
+          "textContent": "Sí, estoy familiarizado con la norma ISO veintisiete mil uno, el Reglamento General de Protección de Datos y el Esquema Nacional de Seguridad en España.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b90e195c-d6a5-54c9-b671-b7a3c7776a43",
+          "textContent": "Conozco los marcos normativos aplicables en España y Europa, como el Esquema Nacional de Seguridad, el RGPD, la directiva NIS dos y la norma ISO veintisiete mil uno.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "17dc14a6-2ea7-5cc5-887f-61374235d444",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "4f0ea079-87dc-5113-9933-26b21e4b0a06",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8321cd46-c65e-512e-b9fa-928cbc7f8e4f",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>En mis auditorías alineo los controles técnicos con las guías del CCN-CERT y las buenas prácticas del _____.</strong></p><p>Tradução: Nas minhas auditorias alinho os controles técnicos com os guias do CCN-CERT e as boas práticas do INCIBE.</p>",
+      "contentPlain": "En mis auditorías alineo los controles técnicos con las guías del CCN-CERT y las buenas prácticas del _____. Tradução: Nas minhas auditorias alinho os controles técnicos com os guias do CCN-CERT e as boas práticas do INCIBE.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l04_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «INCIBE» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «INCIBE».",
+      "answerType": "buildWord",
+      "expectedAnswer": "INCIBE",
+      "typeSpecificData": "{\"word\": \"INCIBE\", \"translation\": \"Nas minhas auditorias alinho os controles técnicos com os guias do CCN-CERT e as boas práticas do INCIBE.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "8ef93c8c-e471-5e26-870e-65799c551c05",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "cf0811d2-a6bc-516c-a31c-9d63f31db9d0",
+          "leftContent": "Conheço os marcos regulatórios aplicáveis na Espanha e na Europa, como o Esquema Nacional de Seguridad (ENS), o RGPD, a diretiva NIS2 e a norma ISO 27001.",
+          "rightContent": "Conozco los marcos normativos aplicables en España y Europa, como el Esquema Nacional de Seguridad, el RGPD, la directiva NIS dos y la norma ISO veintisiete mil uno.",
+          "sequenceItem": 1,
+          "exerciseId": "8ef93c8c-e471-5e26-870e-65799c551c05"
+        },
+        {
+          "id": "94e618be-c00a-5fbd-a315-04c2a92329f4",
+          "leftContent": "Nas minhas auditorias alinho os controles técnicos com os guias do CCN-CERT e as boas práticas do INCIBE.",
+          "rightContent": "En mis auditorías alineo los controles técnicos con las guías del CCN-CERT y las buenas prácticas del INCIBE.",
+          "sequenceItem": 2,
+          "exerciseId": "8ef93c8c-e471-5e26-870e-65799c551c05"
+        },
+        {
+          "id": "b43f296b-8ac4-595e-a0a5-578c86f734e1",
+          "leftContent": "Diante de um vazamento de dados pessoais, o RGPD exige notificar a autoridade de controle (AEPD) em um prazo máximo de 72 horas.",
+          "rightContent": "Ante una brecha de datos personales, el RGPD exige notificar a la autoridad de control en un plazo máximo de setenta y dos horas.",
+          "sequenceItem": 3,
+          "exerciseId": "8ef93c8c-e471-5e26-870e-65799c551c05"
+        },
+        {
+          "id": "461a34a2-2c66-5fbe-bcab-64897aed42bf",
+          "leftContent": "Sim, o CCN-CERT publica os guias CCN-STIC para o setor público e o INCIBE coordena a cibersegurança para empresas e cidadãos.",
+          "rightContent": "Sí, el CCN-CERT publica las guías CCN-STIC para el sector público y el INCIBE coordina la ciberseguridad para empresas y ciudadanos.",
+          "sequenceItem": 4,
+          "exerciseId": "8ef93c8c-e471-5e26-870e-65799c551c05"
+        }
+      ]
+    }
+  ],
+  "title": "Normativa na Espanha - ENS, INCIBE, CCN-CERT, RGPD, NIS2 e ISO 27001"
+}

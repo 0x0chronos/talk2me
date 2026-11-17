@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+    "attemptId": "308deaf3-4e98-5838-a483-ff255b010379",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "4105855e-8a0c-5863-a352-63c5f5037da3",
+      "6ec88634-9b48-5f95-a7aa-c762b0f1144b",
+      "eabf19ee-5f26-5996-9771-6775af76f089",
+      "38150f93-b179-56fa-9d36-c69e7b0d01e3"
+    ],
+    "practiceExerciseIds": [
+      "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+      "befc1771-901f-5f83-84ef-4dedf1eaa0af",
+      "67a641c2-a3a2-57ec-8da9-00df902ffd32",
+      "570e1cc2-c5e9-5d7e-80ac-160bdc19281c",
+      "4384cdaa-5f90-51b4-839e-fd0295a8045f"
+    ],
+    "evaluationExerciseIds": [
+      "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+      "5d02b9b0-8843-5234-a70a-4c75ba9bd552",
+      "c9ea6717-25c4-578a-9f7a-4d4e83187488"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "a9cdab1d-6e0f-5d5d-8650-8a97905176a7",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "8c231bdf-2c7d-573b-853f-c43a5210d747",
+          "textContent": "<p>Frase direta do seu currículo na iT.eam adaptada ao espanhol corporativo da Espanha.</p><p><strong>Superviso los registros de cortafuegos, proxies y concentradores de VPN para identificar patrones de tráfico anómalos.</strong></p><p>Em português: <strong>Supervisiono os logs de firewalls, proxies e concentradores de VPN para identificar padrões de tráfego anômalos.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m01_l02_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "235079f5-4354-5a58-bca3-b6653d565038",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "f0723f60-d42e-572f-8ff2-07a9d187fae4",
+          "textContent": "<p>«Alerta de viaje imposible» é um caso clássico cobrado em entrevistas de SOC na Espanha.</p><p><strong>Cuando detecto un acceso por VPN desde dos países distintos en pocos minutos, investigo una posible alerta de viaje imposible.</strong></p><p>Em português: <strong>Quando detecto um acesso por VPN de dois países diferentes em poucos minutos, investigo um possível alerta de viagem impossível (impossible travel).</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m01_l02_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1d6263ab-b418-5e03-8e6a-c105784ba432",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "cff30b64-fc7a-5c8a-85b5-9abdf783857f",
+          "textContent": "<p>Mostra visão completa de host + rede durante a investigação.</p><p><strong>Cruzo la telemetría del agente EDR en el endpoint con los registros de red para confirmar si un proceso malicioso abrió conexiones externas.</strong></p><p>Em português: <strong>Cruzo a telemetria do agente EDR no endpoint com os logs de rede para confirmar se um processo malicioso abriu conexões externas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m01_l02_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cc8ceae2-2d40-5f87-b86d-e7a671fd80b2",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "ea7afbd8-f938-5781-8a8c-283b9e8162d7",
+          "textContent": "<p>No seu currículo da <strong>iT.eam</strong> você destaca a supervisão de <strong>firewalls, proxies, VPN e endpoints</strong>. Saiba como detalhar cada fonte de dados em espanhol:</p><ul><li><strong>Registros del cortafuegos (Firewall):</strong> conexões bloqueadas (<em>denegadas</em>), varredura de portas (<em>escaneo de puertos</em>) e tráfego de comando e controle (<em>C2</em>).</li><li><strong>Registros del proxy web y DNS:</strong> domínios recém-criados, <em>phishing</em>, tunelamento DNS e exfiltração de dados.</li><li><strong>Accesos por VPN:</strong> viagens impossíveis (<em>viajes imposibles / accesos desde ubicaciones geográficas incompatibles</em>) e roubo de credenciais.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>conexiones salientes</strong> — conexões de saída (outbound)</li><li><strong>alerta de viaje imposible</strong> — login simultâneo em locais incompatíveis (impossible travel)</li><li><strong>mala reputación de IP</strong> — IP listado em feeds de Threat Intelligence</li><li><strong>telemetría del endpoint (EDR)</strong> — eventos de processos, arquivos e memória do host</li><li><strong>Palavra-chave de escrita: «salientes»</strong> (En el cortafuegos busco conexiones salientes hacia direcciones IP sospechosas.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "conexiones salientes — conexões de saída (outbound)",
+        "alerta de viaje imposible — login simultâneo em locais incompatíveis (impossible travel)",
+        "mala reputación de IP — IP listado em feeds de Threat Intelligence",
+        "telemetría del endpoint (EDR) — eventos de processos, arquivos e memória do host"
+      ]
+    },
+    {
+      "id": "bf2222e3-c1ef-5aa1-a833-6c7f499b16b4",
+      "title": "Investigando tráfego suspeito em Firewall, Proxy e VPN",
+      "description": "<p>A gestora técnica pergunta como você correlaciona fontes de rede e endpoint no dia a dia.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">En tu currículum indicas que analizas eventos de firewalls, proxies y VPN. ¿Qué tipo de anomalías sueles buscar en esas fuentes?</div>\n  <div style=\"opacity: 0.55;\">No seu currículo você indica que analisa eventos de firewalls, proxies e VPN. Que tipo de anomalias costuma buscar nessas fontes?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l02_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">En el cortafuegos busco escaneos de puertos y conexiones salientes hacia direcciones IP con mala reputación.</div>\n  <div style=\"opacity: 0.55;\">No firewall busco varreduras de portas e conexões de saída para endereços IP com má reputação.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l02_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y qué analizas cuando revisas los registros de la VPN corporativa y del proxy?</div>\n  <div style=\"opacity: 0.55;\">E o que você analisa quando revisa os logs da VPN corporativa e do proxy?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l02_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">En la VPN busco accesos desde ubicaciones inusuales o viajes imposibles, y en el proxy analizo peticiones hacia dominios de phishing o comando y control.</div>\n  <div style=\"opacity: 0.55;\">Na VPN busco acessos de localizações incomuns ou viagens impossíveis, e no proxy analiso requisições para domínios de phishing ou comando e controle.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l02_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "4105855e-8a0c-5863-a352-63c5f5037da3",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «En tu currículum indicas que analizas eventos de firewalls, proxies y VPN. ¿Qué tipo de anomalías sueles buscar en esas fuentes?»</p><p><em>(No seu currículo você indica que analisa eventos de firewalls, proxies e VPN. Que tipo de anomalias costuma buscar nessas fontes?)</em></p>",
+      "contentPlain": "En tu currículum indicas que analizas eventos de firewalls, proxies y VPN. ¿Qué tipo de anomalías sueles buscar en esas fuentes?",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l02_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «En el cortafuegos busco escaneos de puertos y conexiones salientes hacia direcciones IP con mala reputación.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "9e7aecda-8ae8-5aa1-9324-e281fe0fdde4",
+          "textContent": "En el cortafuegos busco escaneos de puertos y conexiones salientes hacia direcciones IP con mala reputación.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "4105855e-8a0c-5863-a352-63c5f5037da3",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "6c87f0ba-e399-5e65-acfa-b29f5548b135",
+          "textContent": "Cruzo la telemetría del agente EDR en el endpoint con los registros de red para confirmar si un proceso malicioso abrió conexiones externas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "4105855e-8a0c-5863-a352-63c5f5037da3",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f76167a7-ec2b-5f49-9027-ca996a1da451",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "4105855e-8a0c-5863-a352-63c5f5037da3",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4b9fd3d0-7efe-549a-bc10-50ed5b82fd2e",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "4105855e-8a0c-5863-a352-63c5f5037da3",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6ec88634-9b48-5f95-a7aa-c762b0f1144b",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Superviso los registros de cortafuegos, proxies y concentradores de VPN para identificar patrones de tráfico anómalos.</strong></p>",
+      "contentPlain": "Superviso los registros de cortafuegos, proxies y concentradores de VPN para identificar patrones de tráfico anómalos.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l02_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Supervisiono os logs de firewalls, proxies e concentradores de VPN para identificar padrões de tráfego anômalos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "3e28bdcb-b282-5f32-a2ab-25aaad59ea9f",
+          "textContent": "Supervisiono os logs de firewalls, proxies e concentradores de VPN para identificar padrões de tráfego anômalos.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "6ec88634-9b48-5f95-a7aa-c762b0f1144b",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a6731fa1-6a3d-5e46-86f5-188dd0fc15e4",
+          "textContent": "Quando detecto um acesso por VPN de dois países diferentes em poucos minutos, investigo um possível alerta de viagem impossível (impossible travel).",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "6ec88634-9b48-5f95-a7aa-c762b0f1144b",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9f31388f-6d26-543b-a303-ffe2b009ed89",
+          "textContent": "Cruzo a telemetria do agente EDR no endpoint com os logs de rede para confirmar se um processo malicioso abriu conexões externas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "6ec88634-9b48-5f95-a7aa-c762b0f1144b",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ab1d4f5d-b11b-5ce7-8b68-e800f8bef7ff",
+          "textContent": "No seu currículo você indica que analisa eventos de firewalls, proxies e VPN. Que tipo de anomalias costuma buscar nessas fontes?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "6ec88634-9b48-5f95-a7aa-c762b0f1144b",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "eabf19ee-5f26-5996-9771-6775af76f089",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "8c2d5ac7-4bad-5ae5-85d6-c781005b3eff",
+          "leftContent": "conexiones salientes",
+          "rightContent": "conexões de saída (outbound)",
+          "sequenceItem": 1,
+          "exerciseId": "eabf19ee-5f26-5996-9771-6775af76f089"
+        },
+        {
+          "id": "23a0f788-e499-5a1a-a7dd-e2a8b0d8c759",
+          "leftContent": "alerta de viaje imposible",
+          "rightContent": "login simultâneo em locais incompatíveis (impossible travel)",
+          "sequenceItem": 2,
+          "exerciseId": "eabf19ee-5f26-5996-9771-6775af76f089"
+        },
+        {
+          "id": "c564a326-cedb-5ad9-9317-2281cb779888",
+          "leftContent": "mala reputación de IP",
+          "rightContent": "IP listado em feeds de Threat Intelligence",
+          "sequenceItem": 3,
+          "exerciseId": "eabf19ee-5f26-5996-9771-6775af76f089"
+        },
+        {
+          "id": "5791b650-c01b-5f30-9a9d-df924f226de0",
+          "leftContent": "telemetría del endpoint (EDR)",
+          "rightContent": "eventos de processos, arquivos e memória do host",
+          "sequenceItem": 4,
+          "exerciseId": "eabf19ee-5f26-5996-9771-6775af76f089"
+        }
+      ]
+    },
+    {
+      "id": "38150f93-b179-56fa-9d36-c69e7b0d01e3",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "8a088986-8239-5cf4-8da1-507ebd53fe5e",
+          "leftContent": "https://talk2me.local/content/blue_m01_l02_c1.mp3",
+          "rightContent": "Superviso los registros de cortafuegos, proxies y concentradores de VPN para identificar patrones de tráfico anómalos.",
+          "sequenceItem": 1,
+          "exerciseId": "38150f93-b179-56fa-9d36-c69e7b0d01e3"
+        },
+        {
+          "id": "a7abd01f-f35d-5248-ba93-0d2dcbf1b23f",
+          "leftContent": "https://talk2me.local/content/blue_m01_l02_c2.mp3",
+          "rightContent": "Cuando detecto un acceso por VPN desde dos países distintos en pocos minutos, investigo una posible alerta de viaje imposible.",
+          "sequenceItem": 2,
+          "exerciseId": "38150f93-b179-56fa-9d36-c69e7b0d01e3"
+        },
+        {
+          "id": "fd5bbcc5-3f3e-58af-8349-4fa2cb677c77",
+          "leftContent": "https://talk2me.local/content/blue_m01_l02_c3.mp3",
+          "rightContent": "Cruzo la telemetría del agente EDR en el endpoint con los registros de red para confirmar si un proceso malicioso abrió conexiones externas.",
+          "sequenceItem": 3,
+          "exerciseId": "38150f93-b179-56fa-9d36-c69e7b0d01e3"
+        },
+        {
+          "id": "515804a8-4c41-5fa9-ac02-b1ecd7500f2e",
+          "leftContent": "https://talk2me.local/content/blue_m01_l02_d2.mp3",
+          "rightContent": "En el cortafuegos busco escaneos de puertos y conexiones salientes hacia direcciones IP con mala reputación.",
+          "sequenceItem": 4,
+          "exerciseId": "38150f93-b179-56fa-9d36-c69e7b0d01e3"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se chama em espanhol o alerta de segurança em que uma mesma credencial se conecta à VPN a partir do Brasil e, dez minutos depois, da Rússia?</p>",
+      "contentPlain": "Como se chama em espanhol o alerta de segurança em que uma mesma credencial se conecta à VPN a partir do Brasil e, dez minutos depois, da Rússia?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+      "feedbackError": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "11b9bb36-6f67-5d09-bac9-776c857db042",
+          "textContent": "Una alerta de viaje imposible (acceso desde ubicaciones geográficas incompatibles).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f9bd17ba-3f08-553b-afbc-f8766b17fa0c",
+          "textContent": "Un billete de avión duplicado.",
+          "isCorrect": false,
+          "incorrectReason": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+          "exerciseId": "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "340fffa5-ef13-5002-9a81-88bbb4de675d",
+          "textContent": "Una caída de tensión en el cortafuegos.",
+          "isCorrect": false,
+          "incorrectReason": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+          "exerciseId": "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e07f9ed7-c70e-5a52-9b29-bc46dd4134c5",
+          "textContent": "Un error de traducción de red.",
+          "isCorrect": false,
+          "incorrectReason": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+          "exerciseId": "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "befc1771-901f-5f83-84ef-4dedf1eaa0af",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "cbbffa5b-9653-5e79-b56f-063917da0176",
+          "leftContent": "https://talk2me.local/content/blue_m01_l02_d1.mp3",
+          "rightContent": "No seu currículo você indica que analisa eventos de firewalls, proxies e VPN. Que tipo de anomalias costuma buscar nessas fontes?",
+          "sequenceItem": 1,
+          "exerciseId": "befc1771-901f-5f83-84ef-4dedf1eaa0af"
+        },
+        {
+          "id": "54d77770-d12e-543e-a5d8-5efccf274002",
+          "leftContent": "https://talk2me.local/content/blue_m01_l02_d2.mp3",
+          "rightContent": "No firewall busco varreduras de portas e conexões de saída para endereços IP com má reputação.",
+          "sequenceItem": 2,
+          "exerciseId": "befc1771-901f-5f83-84ef-4dedf1eaa0af"
+        },
+        {
+          "id": "e66398f9-0ef2-588f-b8b1-d8530d3f6cec",
+          "leftContent": "https://talk2me.local/content/blue_m01_l02_d3.mp3",
+          "rightContent": "E o que você analisa quando revisa os logs da VPN corporativa e do proxy?",
+          "sequenceItem": 3,
+          "exerciseId": "befc1771-901f-5f83-84ef-4dedf1eaa0af"
+        },
+        {
+          "id": "6cdd067e-7d26-5cb2-921a-c240dab1f28f",
+          "leftContent": "https://talk2me.local/content/blue_m01_l02_d4.mp3",
+          "rightContent": "Na VPN busco acessos de localizações incomuns ou viagens impossíveis, e no proxy analiso requisições para domínios de phishing ou comando e controle.",
+          "sequenceItem": 4,
+          "exerciseId": "befc1771-901f-5f83-84ef-4dedf1eaa0af"
+        }
+      ]
+    },
+    {
+      "id": "67a641c2-a3a2-57ec-8da9-00df902ffd32",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>En el cortafuegos busco conexiones _____ hacia direcciones IP sospechosas.</strong></p><p>Tradução: No firewall busco conexões de saída (salientes) para endereços IP suspeitos.</p>",
+      "contentPlain": "En el cortafuegos busco conexiones _____ hacia direcciones IP sospechosas. Tradução: No firewall busco conexões de saída (salientes) para endereços IP suspeitos.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l02_spk.mp3",
+      "feedbackSuccess": "Correto! «salientes» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «salientes».",
+      "answerType": "buildWord",
+      "expectedAnswer": "salientes",
+      "typeSpecificData": "{\"word\": \"salientes\", \"translation\": \"No firewall busco conexões de saída (salientes) para endereços IP suspeitos.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "570e1cc2-c5e9-5d7e-80ac-160bdc19281c",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l02_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Superviso los registros de cortafuegos, proxies y VPN para detectar tráfico anómalo.",
+      "typeSpecificData": "{\"expectedText\": \"Superviso los registros de cortafuegos, proxies y VPN para detectar tráfico anómalo.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m01_l02_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "4384cdaa-5f90-51b4-839e-fd0295a8045f",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «En tu currículum indicas que analizas eventos de firewalls, proxies y VPN. ¿Qué tipo de anomalías sueles buscar en esas fuentes?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "En el cortafuegos busco escaneos de puertos y conexiones salientes hacia direcciones IP con mala reputación.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l02_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "En el cortafuegos busco escaneos de puertos y conexiones salientes hacia direcciones IP con mala reputación.",
+      "typeSpecificData": "{\"expectedText\": \"En el cortafuegos busco escaneos de puertos y conexiones salientes hacia direcciones IP con mala reputación.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m01_l02_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué analizas cuando revisas los registros de la VPN corporativa y del proxy?»</strong></p><p><em>(E o que você analisa quando revisa os logs da VPN corporativa e do proxy?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué analizas cuando revisas los registros de la VPN corporativa y del proxy?",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «En la VPN busco accesos desde ubicaciones inusuales o viajes imposibles, y en el proxy analizo peticiones hacia dominios de phishing o comando y control.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "609deb62-5ff4-519f-8a83-2d80aa009c21",
+          "textContent": "En la VPN busco accesos desde ubicaciones inusuales o viajes imposibles, y en el proxy analizo peticiones hacia dominios de phishing o comando y control.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ab06add0-fcb1-5754-8f95-0d2acdf6124f",
+          "textContent": "En el cortafuegos busco escaneos de puertos y conexiones salientes hacia direcciones IP con mala reputación.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3d30cd64-81dd-5226-a569-0121f569719d",
+          "textContent": "Superviso los registros de cortafuegos, proxies y concentradores de VPN para identificar patrones de tráfico anómalos.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "479a2c49-c03a-5e37-b8cf-1e1e8d83d92b",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5d02b9b0-8843-5234-a70a-4c75ba9bd552",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Cuando detecto un acceso por VPN desde dos países distintos en pocos minutos, investigo una posible alerta de viaje _____.</strong></p><p>Tradução: Quando detecto um acesso por VPN de dois países diferentes em poucos minutos, investigo um possível alerta de viagem impossível (impossible travel).</p>",
+      "contentPlain": "Cuando detecto un acceso por VPN desde dos países distintos en pocos minutos, investigo una posible alerta de viaje _____. Tradução: Quando detecto um acesso por VPN de dois países diferentes em poucos minutos, investigo um possível alerta de viagem impossível (impossible travel).",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l02_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «imposible» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «imposible».",
+      "answerType": "buildWord",
+      "expectedAnswer": "imposible",
+      "typeSpecificData": "{\"word\": \"imposible\", \"translation\": \"Quando detecto um acesso por VPN de dois países diferentes em poucos minutos, investigo um possível alerta de viagem impossível (impossible travel).\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c9ea6717-25c4-578a-9f7a-4d4e83187488",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "1e2f2989-db0d-571e-948d-5be44939f1d5",
+          "leftContent": "Supervisiono os logs de firewalls, proxies e concentradores de VPN para identificar padrões de tráfego anômalos.",
+          "rightContent": "Superviso los registros de cortafuegos, proxies y concentradores de VPN para identificar patrones de tráfico anómalos.",
+          "sequenceItem": 1,
+          "exerciseId": "c9ea6717-25c4-578a-9f7a-4d4e83187488"
+        },
+        {
+          "id": "39bd184a-6507-516b-907b-91c7496ffd99",
+          "leftContent": "Quando detecto um acesso por VPN de dois países diferentes em poucos minutos, investigo um possível alerta de viagem impossível (impossible travel).",
+          "rightContent": "Cuando detecto un acceso por VPN desde dos países distintos en pocos minutos, investigo una posible alerta de viaje imposible.",
+          "sequenceItem": 2,
+          "exerciseId": "c9ea6717-25c4-578a-9f7a-4d4e83187488"
+        },
+        {
+          "id": "716bcc07-6fc8-5f87-9dec-d62cffb3ad10",
+          "leftContent": "Cruzo a telemetria do agente EDR no endpoint com os logs de rede para confirmar se um processo malicioso abriu conexões externas.",
+          "rightContent": "Cruzo la telemetría del agente EDR en el endpoint con los registros de red para confirmar si un proceso malicioso abrió conexiones externas.",
+          "sequenceItem": 3,
+          "exerciseId": "c9ea6717-25c4-578a-9f7a-4d4e83187488"
+        },
+        {
+          "id": "bf7a142a-07bd-51c0-a85a-d13bf7ffb54d",
+          "leftContent": "Na VPN busco acessos de localizações incomuns ou viagens impossíveis, e no proxy analiso requisições para domínios de phishing ou comando e controle.",
+          "rightContent": "En la VPN busco accesos desde ubicaciones inusuales o viajes imposibles, y en el proxy analizo peticiones hacia dominios de phishing o comando y control.",
+          "sequenceItem": 4,
+          "exerciseId": "c9ea6717-25c4-578a-9f7a-4d4e83187488"
+        }
+      ]
+    }
+  ],
+  "title": "Análise de Logs de Firewall, Proxy, VPN e Endpoints (EDR)"
+}

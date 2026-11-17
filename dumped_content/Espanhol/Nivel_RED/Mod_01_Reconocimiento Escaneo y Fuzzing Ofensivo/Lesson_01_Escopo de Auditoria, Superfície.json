@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+    "attemptId": "1074fcf1-09c4-5fd2-8ef5-ebc922c47d32",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "c258bac9-74ee-54da-b7a3-63ed20a70b7b",
+      "84777136-0f44-553c-a30e-911e3cea8cee",
+      "8199d47e-8792-58f1-ad23-e1be4fe7c186",
+      "1992ff27-d69e-5da8-9c64-cbe369d4cffd"
+    ],
+    "practiceExerciseIds": [
+      "3d589615-4b7d-535b-bde7-02e5e00f769e",
+      "2aec53fe-d97c-5f39-a3a6-6f8a51357f1d",
+      "854235f6-f774-5238-bd17-d992251871f6",
+      "3acba850-6714-572c-827e-a4dcb1a62ffa",
+      "3156b36a-939a-50db-b1d0-758e2fb8f1d7"
+    ],
+    "evaluationExerciseIds": [
+      "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+      "536f05a0-c085-5547-a79b-75360bdb8cba",
+      "b1a908d4-7db1-5a9a-9a0b-e9bdd8098d6a"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "1a07c1f8-31da-58bf-86bd-85c3f26997e4",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "d1149797-ef6f-5d39-990c-626b3f26a417",
+          "textContent": "<p>Na Espanha, distingue-se muito bem «auditoría de caja negra, caja gris y caja blanca».</p><p><strong>Antes de iniciar una prueba de penetración, definimos claramente el alcance y las reglas de enfrentamiento con el cliente.</strong></p><p>Em português: <strong>Antes de iniciar um teste de intrusão, definimos claramente o escopo e as regras de engajamento (RoE) com o cliente.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_l01_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a5d3c25e-cf58-5f0e-8430-a6f469142da5",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "053901cc-21d1-5e90-9789-25587beb3114",
+          "textContent": "<p>Frase chave para descrever sua metodologia de reconhecimento.</p><p><strong>En la fase de reconocimiento mapeamos toda la superficie de ataque externa, incluyendo subdominios, puertos abiertos y servicios expuestos.</strong></p><p>Em português: <strong>Na fase de reconhecimento mapeamos toda a superfície de ataque externa, incluindo subdomínios, portas abertas e serviços expostos.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_l01_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "400d2ed3-26e4-57f4-824b-5e85db81c3a5",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "de87a26c-822e-5569-9ba6-8d67d14a7249",
+          "textContent": "<p>Essencial em entrevistas técnicas: mostrar que você não apenas roda scanner, mas valida manualmente!</p><p><strong>Combinamos herramientas automatizadas con validación manual para descartar falsos positivos antes de pasar a la explotación.</strong></p><p>Em português: <strong>Combinamos ferramentas automatizadas com validação manual para descartar falsos positivos antes de passar à exploração.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_l01_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "98038875-f2bf-5b76-b6e1-c9e099ae401d",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "8509b87e-e87c-5423-a695-b981feb1ae1a",
+          "textContent": "<p>Vocabulário essencial de Pentest / Red Team na Espanha:</p><ul><li><strong>El alcance de la auditoría:</strong> o escopo do pentest (<em>caja negra, caja gris, caja blanca</em>).</li><li><strong>La superficie de ataque:</strong> todos os ativos, portas, subdomínios e endpoints expostos.</li><li><strong>Las reglas de enfrentamiento (RoE):</strong> limites acordados com o cliente antes do teste.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>el alcance de la auditoría</strong> — o escopo do teste / auditoria</li><li><strong>la superficie de ataque</strong> — a superfície de ataque</li><li><strong>auditoría de caja gris</strong> — pentest grey-box (com credenciais/contexto parcial)</li><li><strong>descartar falsos positivos</strong> — eliminar alertas falsos do scanner</li><li><strong>Palavra-chave de escrita: «superficie»</strong> (En el reconocimiento analizamos toda la superficie de ataque externa.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "el alcance de la auditoría — o escopo do teste / auditoria",
+        "la superficie de ataque — a superfície de ataque",
+        "auditoría de caja gris — pentest grey-box (com credenciais/contexto parcial)",
+        "descartar falsos positivos — eliminar alertas falsos do scanner"
+      ]
+    },
+    {
+      "id": "a4d734fe-6344-540e-9459-f721646adbc6",
+      "title": "Pergunta técnica: Metodologia de Pentest",
+      "description": "<p>O líder técnico pergunta como você estrutura uma auditoria de segurança do início ao fim.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Si te asignamos una auditoría de caja gris sobre una plataforma financiera, ¿cuáles son tus primeros pasos?</div>\n  <div style=\"opacity: 0.55;\">Se atribuirmos a você uma auditoria de caixa cinza em uma plataforma financeira, quais são seus primeiros passos?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l01_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Primero reviso el alcance acordado y realizo el reconocimiento de la superficie de ataque para identificar activos, puertos y tecnologías.</div>\n  <div style=\"opacity: 0.55;\">Primeiro reviso o escopo acordado e realizo o reconhecimento da superfície de ataque para identificar ativos, portas e tecnologias.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l01_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y cómo priorizas qué componentes probar primero?</div>\n  <div style=\"opacity: 0.55;\">E como você prioriza quais componentes testar primeiro?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l01_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Priorizo los flujos críticos de negocio, como la autenticación, las pasarelas de pago y los paneles de administración expuestos.</div>\n  <div style=\"opacity: 0.55;\">Priorizo os fluxos críticos de negócio, como a autenticação, os gateways de pagamento e os painéis de administração expostos.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l01_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "c258bac9-74ee-54da-b7a3-63ed20a70b7b",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Si te asignamos una auditoría de caja gris sobre una plataforma financiera, ¿cuáles son tus primeros pasos?»</p><p><em>(Se atribuirmos a você uma auditoria de caixa cinza em uma plataforma financeira, quais são seus primeiros passos?)</em></p>",
+      "contentPlain": "Si te asignamos una auditoría de caja gris sobre una plataforma financiera, ¿cuáles son tus primeros pasos?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l01_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Primero reviso el alcance acordado y realizo el reconocimiento de la superficie de ataque para identificar activos, puertos y tecnologías.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "2a4ee4bd-cf10-578b-bfb2-535cdde3af81",
+          "textContent": "Primero reviso el alcance acordado y realizo el reconocimiento de la superficie de ataque para identificar activos, puertos y tecnologías.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "c258bac9-74ee-54da-b7a3-63ed20a70b7b",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4a65b4ea-be1d-5eb5-8f3e-3e6bfe7de12f",
+          "textContent": "Combinamos herramientas automatizadas con validación manual para descartar falsos positivos antes de pasar a la explotación.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "c258bac9-74ee-54da-b7a3-63ed20a70b7b",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "04a91dc9-2e15-505b-b5e0-6d115046a415",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "c258bac9-74ee-54da-b7a3-63ed20a70b7b",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f005bd41-6663-546b-bab9-fbf6d3f38b1b",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "c258bac9-74ee-54da-b7a3-63ed20a70b7b",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "84777136-0f44-553c-a30e-911e3cea8cee",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Antes de iniciar una prueba de penetración, definimos claramente el alcance y las reglas de enfrentamiento con el cliente.</strong></p>",
+      "contentPlain": "Antes de iniciar una prueba de penetración, definimos claramente el alcance y las reglas de enfrentamiento con el cliente.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l01_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Antes de iniciar um teste de intrusão, definimos claramente o escopo e as regras de engajamento (RoE) com o cliente.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "fd6fd65a-d7c4-53f4-b1c3-7dc233cb044d",
+          "textContent": "Antes de iniciar um teste de intrusão, definimos claramente o escopo e as regras de engajamento (RoE) com o cliente.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "84777136-0f44-553c-a30e-911e3cea8cee",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "225ed794-eed4-59f7-8f6f-72192c65f1f5",
+          "textContent": "Na fase de reconhecimento mapeamos toda a superfície de ataque externa, incluindo subdomínios, portas abertas e serviços expostos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "84777136-0f44-553c-a30e-911e3cea8cee",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "10ae2654-9eb6-5583-857d-865608a3d4d4",
+          "textContent": "Combinamos ferramentas automatizadas com validação manual para descartar falsos positivos antes de passar à exploração.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "84777136-0f44-553c-a30e-911e3cea8cee",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "31ebdd04-538a-51a3-b008-9cd3e189f306",
+          "textContent": "Se atribuirmos a você uma auditoria de caixa cinza em uma plataforma financeira, quais são seus primeiros passos?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "84777136-0f44-553c-a30e-911e3cea8cee",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8199d47e-8792-58f1-ad23-e1be4fe7c186",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "6ccfaabc-2055-578e-a5d0-9ac7e5b33f6d",
+          "leftContent": "el alcance de la auditoría",
+          "rightContent": "o escopo do teste / auditoria",
+          "sequenceItem": 1,
+          "exerciseId": "8199d47e-8792-58f1-ad23-e1be4fe7c186"
+        },
+        {
+          "id": "807f342a-3d9e-50ea-bc3e-fbe54f1c7435",
+          "leftContent": "la superficie de ataque",
+          "rightContent": "a superfície de ataque",
+          "sequenceItem": 2,
+          "exerciseId": "8199d47e-8792-58f1-ad23-e1be4fe7c186"
+        },
+        {
+          "id": "1d03e622-d35d-5139-accf-127453eba782",
+          "leftContent": "auditoría de caja gris",
+          "rightContent": "pentest grey-box (com credenciais/contexto parcial)",
+          "sequenceItem": 3,
+          "exerciseId": "8199d47e-8792-58f1-ad23-e1be4fe7c186"
+        },
+        {
+          "id": "53437ef6-7173-5089-a200-60b9a8fe09a0",
+          "leftContent": "descartar falsos positivos",
+          "rightContent": "eliminar alertas falsos do scanner",
+          "sequenceItem": 4,
+          "exerciseId": "8199d47e-8792-58f1-ad23-e1be4fe7c186"
+        }
+      ]
+    },
+    {
+      "id": "1992ff27-d69e-5da8-9c64-cbe369d4cffd",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "a3d09c8c-8346-5817-ba33-0a3b52a18526",
+          "leftContent": "https://talk2me.local/content/ti_m02_l01_c1.mp3",
+          "rightContent": "Antes de iniciar una prueba de penetración, definimos claramente el alcance y las reglas de enfrentamiento con el cliente.",
+          "sequenceItem": 1,
+          "exerciseId": "1992ff27-d69e-5da8-9c64-cbe369d4cffd"
+        },
+        {
+          "id": "cc4d7aec-d762-52ac-a941-42a6b61e0882",
+          "leftContent": "https://talk2me.local/content/ti_m02_l01_c2.mp3",
+          "rightContent": "En la fase de reconocimiento mapeamos toda la superficie de ataque externa, incluyendo subdominios, puertos abiertos y servicios expuestos.",
+          "sequenceItem": 2,
+          "exerciseId": "1992ff27-d69e-5da8-9c64-cbe369d4cffd"
+        },
+        {
+          "id": "510ccc41-1d90-57c5-a193-5edbb2fe69f8",
+          "leftContent": "https://talk2me.local/content/ti_m02_l01_c3.mp3",
+          "rightContent": "Combinamos herramientas automatizadas con validación manual para descartar falsos positivos antes de pasar a la explotación.",
+          "sequenceItem": 3,
+          "exerciseId": "1992ff27-d69e-5da8-9c64-cbe369d4cffd"
+        },
+        {
+          "id": "99057207-ec61-5b4b-ba9d-415782aada68",
+          "leftContent": "https://talk2me.local/content/ti_m02_l01_d2.mp3",
+          "rightContent": "Primero reviso el alcance acordado y realizo el reconocimiento de la superficie de ataque para identificar activos, puertos y tecnologías.",
+          "sequenceItem": 4,
+          "exerciseId": "1992ff27-d69e-5da8-9c64-cbe369d4cffd"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "3d589615-4b7d-535b-bde7-02e5e00f769e",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Pentest Black-box, Grey-box e White-box» em uma consultoria de cibersegurança na Espanha?</p>",
+      "contentPlain": "Como se diz «Pentest Black-box, Grey-box e White-box» em uma consultoria de cibersegurança na Espanha?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+      "feedbackError": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "437988cc-94cb-570a-b044-bd367c0b8d05",
+          "textContent": "Auditoría de caja negra, caja gris y caja blanca.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "3d589615-4b7d-535b-bde7-02e5e00f769e",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a9caa48d-4816-5824-b713-a056c8e60e29",
+          "textContent": "Prueba de bloque oscuro, medio y claro.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+          "exerciseId": "3d589615-4b7d-535b-bde7-02e5e00f769e",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0560f55f-1324-5457-b893-70569e25761a",
+          "textContent": "Testeo de pantalla cerrada y abierta.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+          "exerciseId": "3d589615-4b7d-535b-bde7-02e5e00f769e",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c30dbc42-ed21-5f83-af04-9df75778a464",
+          "textContent": "Revisión sin código y con código.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, os termos «auditoría de caja negra / caja gris / caja blanca» são usados em 100% dos contratos e entrevistas técnicas.",
+          "exerciseId": "3d589615-4b7d-535b-bde7-02e5e00f769e",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2aec53fe-d97c-5f39-a3a6-6f8a51357f1d",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "45ddc6ea-8064-5f1a-a668-8dfbcb30ff4c",
+          "leftContent": "https://talk2me.local/content/ti_m02_l01_d1.mp3",
+          "rightContent": "Se atribuirmos a você uma auditoria de caixa cinza em uma plataforma financeira, quais são seus primeiros passos?",
+          "sequenceItem": 1,
+          "exerciseId": "2aec53fe-d97c-5f39-a3a6-6f8a51357f1d"
+        },
+        {
+          "id": "9c29a7ad-76b1-5b6d-85da-836b5bd4f652",
+          "leftContent": "https://talk2me.local/content/ti_m02_l01_d2.mp3",
+          "rightContent": "Primeiro reviso o escopo acordado e realizo o reconhecimento da superfície de ataque para identificar ativos, portas e tecnologias.",
+          "sequenceItem": 2,
+          "exerciseId": "2aec53fe-d97c-5f39-a3a6-6f8a51357f1d"
+        },
+        {
+          "id": "68879e93-5d0d-59f3-87e1-3164c2b4451c",
+          "leftContent": "https://talk2me.local/content/ti_m02_l01_d3.mp3",
+          "rightContent": "E como você prioriza quais componentes testar primeiro?",
+          "sequenceItem": 3,
+          "exerciseId": "2aec53fe-d97c-5f39-a3a6-6f8a51357f1d"
+        },
+        {
+          "id": "3a24b92a-408b-5811-ac7a-d52aabfd1096",
+          "leftContent": "https://talk2me.local/content/ti_m02_l01_d4.mp3",
+          "rightContent": "Priorizo os fluxos críticos de negócio, como a autenticação, os gateways de pagamento e os painéis de administração expostos.",
+          "sequenceItem": 4,
+          "exerciseId": "2aec53fe-d97c-5f39-a3a6-6f8a51357f1d"
+        }
+      ]
+    },
+    {
+      "id": "854235f6-f774-5238-bd17-d992251871f6",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>En el reconocimiento analizamos toda la _____ de ataque externa.</strong></p><p>Tradução: No reconhecimento analisamos toda a superfície de ataque externa.</p>",
+      "contentPlain": "En el reconocimiento analizamos toda la _____ de ataque externa. Tradução: No reconhecimento analisamos toda a superfície de ataque externa.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l01_spk.mp3",
+      "feedbackSuccess": "Correto! «superficie» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «superficie».",
+      "answerType": "buildWord",
+      "expectedAnswer": "superficie",
+      "typeSpecificData": "{\"word\": \"superficie\", \"translation\": \"No reconhecimento analisamos toda a superfície de ataque externa.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3acba850-6714-572c-827e-a4dcb1a62ffa",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l01_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Primero reviso el alcance y analizo la superficie de ataque de la aplicación.",
+      "typeSpecificData": "{\"expectedText\": \"Primero reviso el alcance y analizo la superficie de ataque de la aplicación.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m02_l01_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3156b36a-939a-50db-b1d0-758e2fb8f1d7",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Si te asignamos una auditoría de caja gris sobre una plataforma financiera, ¿cuáles son tus primeros pasos?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Primero reviso el alcance acordado y realizo el reconocimiento de la superficie de ataque para identificar activos, puertos y tecnologías.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l01_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Primero reviso el alcance acordado y realizo el reconocimiento de la superficie de ataque para identificar activos, puertos y tecnologías.",
+      "typeSpecificData": "{\"expectedText\": \"Primero reviso el alcance acordado y realizo el reconocimiento de la superficie de ataque para identificar activos, puertos y tecnologías.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m02_l01_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo priorizas qué componentes probar primero?»</strong></p><p><em>(E como você prioriza quais componentes testar primeiro?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo priorizas qué componentes probar primero?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l01_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Priorizo los flujos críticos de negocio, como la autenticación, las pasarelas de pago y los paneles de administración expuestos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "63208db8-ec98-5e4c-80ff-73ccac5bdc96",
+          "textContent": "Priorizo los flujos críticos de negocio, como la autenticación, las pasarelas de pago y los paneles de administración expuestos.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "adb89b74-5c69-583e-9b61-ead8a302f53c",
+          "textContent": "Primero reviso el alcance acordado y realizo el reconocimiento de la superficie de ataque para identificar activos, puertos y tecnologías.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "af25f401-f322-561a-8170-0f0999d6ad38",
+          "textContent": "Antes de iniciar una prueba de penetración, definimos claramente el alcance y las reglas de enfrentamiento con el cliente.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "30cd5563-f2b9-5d64-9097-799b0d53dc6e",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "d92c6a57-c544-5d56-b4bc-237968cb7eb4",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "536f05a0-c085-5547-a79b-75360bdb8cba",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>En la fase de reconocimiento mapeamos toda la superficie de ataque externa, incluyendo subdominios, puertos abiertos y servicios _____.</strong></p><p>Tradução: Na fase de reconhecimento mapeamos toda a superfície de ataque externa, incluindo subdomínios, portas abertas e serviços expostos.</p>",
+      "contentPlain": "En la fase de reconocimiento mapeamos toda la superficie de ataque externa, incluyendo subdominios, puertos abiertos y servicios _____. Tradução: Na fase de reconhecimento mapeamos toda a superfície de ataque externa, incluindo subdomínios, portas abertas e serviços expostos.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l01_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «expuestos» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «expuestos».",
+      "answerType": "buildWord",
+      "expectedAnswer": "expuestos",
+      "typeSpecificData": "{\"word\": \"expuestos\", \"translation\": \"Na fase de reconhecimento mapeamos toda a superfície de ataque externa, incluindo subdomínios, portas abertas e serviços expostos.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "b1a908d4-7db1-5a9a-9a0b-e9bdd8098d6a",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "94aca44a-b070-5c00-a5da-d5c2a7c8c8da",
+          "leftContent": "Antes de iniciar um teste de intrusão, definimos claramente o escopo e as regras de engajamento (RoE) com o cliente.",
+          "rightContent": "Antes de iniciar una prueba de penetración, definimos claramente el alcance y las reglas de enfrentamiento con el cliente.",
+          "sequenceItem": 1,
+          "exerciseId": "b1a908d4-7db1-5a9a-9a0b-e9bdd8098d6a"
+        },
+        {
+          "id": "d4b82393-1b2d-50bb-85aa-035e1a3ada30",
+          "leftContent": "Na fase de reconhecimento mapeamos toda a superfície de ataque externa, incluindo subdomínios, portas abertas e serviços expostos.",
+          "rightContent": "En la fase de reconocimiento mapeamos toda la superficie de ataque externa, incluyendo subdominios, puertos abiertos y servicios expuestos.",
+          "sequenceItem": 2,
+          "exerciseId": "b1a908d4-7db1-5a9a-9a0b-e9bdd8098d6a"
+        },
+        {
+          "id": "f8443ecc-d1dc-5895-9ae2-2bed7a780401",
+          "leftContent": "Combinamos ferramentas automatizadas com validação manual para descartar falsos positivos antes de passar à exploração.",
+          "rightContent": "Combinamos herramientas automatizadas con validación manual para descartar falsos positivos antes de pasar a la explotación.",
+          "sequenceItem": 3,
+          "exerciseId": "b1a908d4-7db1-5a9a-9a0b-e9bdd8098d6a"
+        },
+        {
+          "id": "b18a1b9c-65a9-5a62-9fdb-c1c39b044c7e",
+          "leftContent": "Priorizo os fluxos críticos de negócio, como a autenticação, os gateways de pagamento e os painéis de administração expostos.",
+          "rightContent": "Priorizo los flujos críticos de negocio, como la autenticación, las pasarelas de pago y los paneles de administración expuestos.",
+          "sequenceItem": 4,
+          "exerciseId": "b1a908d4-7db1-5a9a-9a0b-e9bdd8098d6a"
+        }
+      ]
+    }
+  ],
+  "title": "Escopo de Auditoria, Superfície de Ataque e Reconhecimento"
+}

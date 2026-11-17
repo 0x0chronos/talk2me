@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+    "attemptId": "f8e35b66-22d9-520e-8aa1-08c525feba57",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "541be041-70d3-56c4-b464-271b055642ef",
+      "e2bc59a3-05f6-5099-a73e-1eed2a9354d9",
+      "af084368-f385-5aed-a232-cd1818ecf2aa",
+      "3ee85b7f-a4b1-5246-a73d-c619f08242f2"
+    ],
+    "practiceExerciseIds": [
+      "25e5beca-b44d-53c6-9131-a2430d95742c",
+      "80c760ba-0e34-51b7-8513-3d56e9d986e4",
+      "f1fd27a4-4331-5ceb-bb6d-de386eeadcc5",
+      "2665d54f-7aab-5a61-852d-be588ac4bb9b",
+      "fa2d22c1-1b15-5559-8ba7-4232afe009eb"
+    ],
+    "evaluationExerciseIds": [
+      "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+      "6649cc71-8177-519e-a959-5b747a6095bb",
+      "e9406fd4-be8a-52dd-99fa-2eb770619077"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "4341cba8-9bc6-59e1-b50e-938d91c5b517",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "fd5f2471-36ab-56f0-b2f0-ed829c47019c",
+          "textContent": "<p>Em espanhol técnico, *payload* do log é «la carga útil (payload) del evento».</p><p><strong>En IBM QRadar investigo las ofensas analizando las reglas que las dispararon, las fuentes de registros involucradas y la carga útil de cada evento.</strong></p><p>Em português: <strong>No IBM QRadar investigo as ofensas analisando as regras que as dispararam, as fontes de log envolvidas e o payload de cada evento.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m02_l02_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ef75415b-7253-596a-9303-c3e19a34e6c3",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "f31f3fef-a6a0-5ae9-96b6-e39cb2e544e4",
+          "textContent": "<p>Falar de «conjuntos de referencia (Reference Sets)» prova que você realmente mexe no QRadar na prática!</p><p><strong>Para afinar las reglas de correlación y evitar ruido, actualizo conjuntos de referencia y añado excepciones basadas en el comportamiento legítimo de la red.</strong></p><p>Em português: <strong>Para ajustar as regras de correlação e evitar ruído, atualizo Reference Sets (conjuntos de referencia) e adiciono exceções baseadas no comportamento legítimo da rede.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m02_l02_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ec5165c1-2faa-5626-9621-e2a5113df1f1",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "a992561f-6d50-5f82-97fb-13e4257929e8",
+          "textContent": "<p>Na Espanha, *dashboard* é muito chamado de «cuadro de mando» ou «panel de control».</p><p><strong>Además, construyo cuadros de mando e informes personalizados en QRadar para dar visibilidad ejecutiva sobre las amenazas detectadas.</strong></p><p>Em português: <strong>Além disso, construo dashboards (cuadros de mando) e relatórios personalizados no QRadar para dar visibilidade executiva sobre as ameaças detectadas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m02_l02_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d77757f5-a16b-539a-ae55-6389481e2003",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "ed5a5232-a0ff-5dcc-b19b-81783ef15e7b",
+          "textContent": "<p>Em entrevistas técnicas para clientes que usam <strong>IBM QRadar</strong> na Espanha, eles costumam perguntar sobre os componentes internos da ferramenta:</p><ul><li><strong>Las ofensas (Offenses):</strong> alertas agregados gerados quando uma ou mais <em>reglas de correlación (Custom Rules Engine - CRE)</em> são acionadas.</li><li><strong>Las fuentes de registros (Log Sources / DSM):</strong> ingestão e normalização de eventos (<em>propiedades personalizadas / custom properties</em>).</li><li><strong>Consultas AQL (Ariel Query Language) y conjuntos de referencia (Reference Sets):</strong> listas dinâmicas de IPs/hashes maliciosos ou listas brancas.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>una ofensa en QRadar</strong> — alerta correlacionado gerado pelo SIEM (Offense)</li><li><strong>conjunto de referencia</strong> — Reference Set (lista de IPs, hashes ou usuários no QRadar)</li><li><strong>la carga útil (payload)</strong> — conteúdo bruto original do log recebido</li><li><strong>cuadro de mando</strong> — dashboard / painel executivo de monitoramento</li><li><strong>Palavra-chave de escrita: «cuadros»</strong> (En QRadar creo cuadros de mando personalizados y ajusto las ofensas.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "una ofensa en QRadar — alerta correlacionado gerado pelo SIEM (Offense)",
+        "conjunto de referencia — Reference Set (lista de IPs, hashes ou usuários no QRadar)",
+        "la carga útil (payload) — conteúdo bruto original do log recebido",
+        "cuadro de mando — dashboard / painel executivo de monitoramento"
+      ]
+    },
+    {
+      "id": "ffe9ef8f-3c47-5f72-9644-94eb16104695",
+      "title": "Entrevista Técnica sobre IBM QRadar",
+      "description": "<p>Laura aprofunda nas funcionalidades do IBM QRadar que você utiliza na iT.eam.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">En nuestro SOC utilizamos IBM QRadar como SIEM principal. ¿Cómo abordas el análisis de una ofensa y el ajuste de reglas para reducir falsos positivos?</div>\n  <div style=\"opacity: 0.55;\">No nosso SOC utilizamos o IBM QRadar como SIEM principal. Como você aborda a análise de uma ofensa e o ajuste de regras para reduzir falsos positivos?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l02_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Primero reviso el resumen de la ofensa, los eventos asociados y la carga útil original para entender qué regla de correlación se activó.</div>\n  <div style=\"opacity: 0.55;\">Primeiro reviso o resumo da ofensa, os eventos associados e o payload original para entender qual regra de correlação foi ativada.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l02_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y si detectas que una tarea administrativa legítima está generando decenas de ofensas repetitivas?</div>\n  <div style=\"opacity: 0.55;\">E se você detectar que uma tarefa administrativa legítima está gerando dezenas de ofensas repetitivas?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l02_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Ajusto las condiciones de la regla o incluyo los servidores autorizados en un conjunto de referencia en QRadar, reduciendo los falsos positivos sin perder visibilidad.</div>\n  <div style=\"opacity: 0.55;\">Ajusto as condições da regra ou incluo os servidores autorizados em um Reference Set no QRadar, reduzindo os falsos positivos sem perder visibilidade.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l02_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "541be041-70d3-56c4-b464-271b055642ef",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «En nuestro SOC utilizamos IBM QRadar como SIEM principal. ¿Cómo abordas el análisis de una ofensa y el ajuste de reglas para reducir falsos positivos?»</p><p><em>(No nosso SOC utilizamos o IBM QRadar como SIEM principal. Como você aborda a análise de uma ofensa e o ajuste de regras para reduzir falsos positivos?)</em></p>",
+      "contentPlain": "En nuestro SOC utilizamos IBM QRadar como SIEM principal. ¿Cómo abordas el análisis de una ofensa y el ajuste de reglas para reducir falsos positivos?",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l02_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Primero reviso el resumen de la ofensa, los eventos asociados y la carga útil original para entender qué regla de correlación se activó.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "7104ea6c-085e-509c-ad92-c0076925b334",
+          "textContent": "Primero reviso el resumen de la ofensa, los eventos asociados y la carga útil original para entender qué regla de correlación se activó.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "541be041-70d3-56c4-b464-271b055642ef",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a701a3fc-9f33-534a-a04e-15883c9b8f9d",
+          "textContent": "Además, construyo cuadros de mando e informes personalizados en QRadar para dar visibilidad ejecutiva sobre las amenazas detectadas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "541be041-70d3-56c4-b464-271b055642ef",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e6db2572-b077-508f-bc91-b884b2025d90",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "541be041-70d3-56c4-b464-271b055642ef",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f7cf76ad-69b1-5f48-ad2e-44a5371eaeac",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "541be041-70d3-56c4-b464-271b055642ef",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "e2bc59a3-05f6-5099-a73e-1eed2a9354d9",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>En IBM QRadar investigo las ofensas analizando las reglas que las dispararon, las fuentes de registros involucradas y la carga útil de cada evento.</strong></p>",
+      "contentPlain": "En IBM QRadar investigo las ofensas analizando las reglas que las dispararon, las fuentes de registros involucradas y la carga útil de cada evento.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l02_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «No IBM QRadar investigo as ofensas analisando as regras que as dispararam, as fontes de log envolvidas e o payload de cada evento.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "c8437c33-2f3f-5a2e-8b13-3fc8b8365ec9",
+          "textContent": "No IBM QRadar investigo as ofensas analisando as regras que as dispararam, as fontes de log envolvidas e o payload de cada evento.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "e2bc59a3-05f6-5099-a73e-1eed2a9354d9",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c863a46d-67d8-5555-8b79-7ef3721119c7",
+          "textContent": "Para ajustar as regras de correlação e evitar ruído, atualizo Reference Sets (conjuntos de referencia) e adiciono exceções baseadas no comportamento legítimo da rede.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "e2bc59a3-05f6-5099-a73e-1eed2a9354d9",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ead49732-2c3b-533a-9860-c77d3ed21db9",
+          "textContent": "Além disso, construo dashboards (cuadros de mando) e relatórios personalizados no QRadar para dar visibilidade executiva sobre as ameaças detectadas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "e2bc59a3-05f6-5099-a73e-1eed2a9354d9",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4c4a1ad5-0fe3-59d3-b7f0-52b8f6b61689",
+          "textContent": "No nosso SOC utilizamos o IBM QRadar como SIEM principal. Como você aborda a análise de uma ofensa e o ajuste de regras para reduzir falsos positivos?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "e2bc59a3-05f6-5099-a73e-1eed2a9354d9",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "af084368-f385-5aed-a232-cd1818ecf2aa",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "4a736abb-f22a-5e54-982f-8e5f104e8028",
+          "leftContent": "una ofensa en QRadar",
+          "rightContent": "alerta correlacionado gerado pelo SIEM (Offense)",
+          "sequenceItem": 1,
+          "exerciseId": "af084368-f385-5aed-a232-cd1818ecf2aa"
+        },
+        {
+          "id": "b334bc22-4540-52c3-8ff9-e52fb8472ee2",
+          "leftContent": "conjunto de referencia",
+          "rightContent": "Reference Set (lista de IPs, hashes ou usuários no QRadar)",
+          "sequenceItem": 2,
+          "exerciseId": "af084368-f385-5aed-a232-cd1818ecf2aa"
+        },
+        {
+          "id": "a65cb45e-da41-54e5-b004-da3e6bb299a6",
+          "leftContent": "la carga útil (payload)",
+          "rightContent": "conteúdo bruto original do log recebido",
+          "sequenceItem": 3,
+          "exerciseId": "af084368-f385-5aed-a232-cd1818ecf2aa"
+        },
+        {
+          "id": "f7318471-6fe9-54c7-9dd3-f9c51490ea9e",
+          "leftContent": "cuadro de mando",
+          "rightContent": "dashboard / painel executivo de monitoramento",
+          "sequenceItem": 4,
+          "exerciseId": "af084368-f385-5aed-a232-cd1818ecf2aa"
+        }
+      ]
+    },
+    {
+      "id": "3ee85b7f-a4b1-5246-a73d-c619f08242f2",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "5e0b9362-9b68-570b-b193-5314e60079af",
+          "leftContent": "https://talk2me.local/content/blue_m02_l02_c1.mp3",
+          "rightContent": "En IBM QRadar investigo las ofensas analizando las reglas que las dispararon, las fuentes de registros involucradas y la carga útil de cada evento.",
+          "sequenceItem": 1,
+          "exerciseId": "3ee85b7f-a4b1-5246-a73d-c619f08242f2"
+        },
+        {
+          "id": "72da67b0-a473-5e0e-88c8-d6816728a78b",
+          "leftContent": "https://talk2me.local/content/blue_m02_l02_c2.mp3",
+          "rightContent": "Para afinar las reglas de correlación y evitar ruido, actualizo conjuntos de referencia y añado excepciones basadas en el comportamiento legítimo de la red.",
+          "sequenceItem": 2,
+          "exerciseId": "3ee85b7f-a4b1-5246-a73d-c619f08242f2"
+        },
+        {
+          "id": "c49e652f-5489-586e-a317-93a7321e45bf",
+          "leftContent": "https://talk2me.local/content/blue_m02_l02_c3.mp3",
+          "rightContent": "Además, construyo cuadros de mando e informes personalizados en QRadar para dar visibilidad ejecutiva sobre las amenazas detectadas.",
+          "sequenceItem": 3,
+          "exerciseId": "3ee85b7f-a4b1-5246-a73d-c619f08242f2"
+        },
+        {
+          "id": "2a8a8b53-a03e-54d9-84ab-2c915d249f8f",
+          "leftContent": "https://talk2me.local/content/blue_m02_l02_d2.mp3",
+          "rightContent": "Primero reviso el resumen de la ofensa, los eventos asociados y la carga útil original para entender qué regla de correlación se activó.",
+          "sequenceItem": 4,
+          "exerciseId": "3ee85b7f-a4b1-5246-a73d-c619f08242f2"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "25e5beca-b44d-53c6-9131-a2430d95742c",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>No IBM QRadar, como se diz em espanhol «Offenses», «Payload do log» e «Dashboard»?</p>",
+      "contentPlain": "No IBM QRadar, como se diz em espanhol «Offenses», «Payload do log» e «Dashboard»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+      "feedbackError": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "f8e2b08f-208d-5558-90e8-9e4ab35747e2",
+          "textContent": "Las ofensas, la carga útil del evento y el cuadro de mando (o panel de control).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "25e5beca-b44d-53c6-9131-a2430d95742c",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e17dd298-25f4-55f1-a66a-44dd52bd9303",
+          "textContent": "Los insultos, el peso del archivo y la pizarra.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+          "exerciseId": "25e5beca-b44d-53c6-9131-a2430d95742c",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "dd6a3125-b989-5727-a7e1-a558e52c07b4",
+          "textContent": "Las peleas, el paquete de red y la ventana.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+          "exerciseId": "25e5beca-b44d-53c6-9131-a2430d95742c",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7bea66ed-e75e-5208-8e86-c6161a9f323e",
+          "textContent": "Los errores, el texto bruto y la mesa de control.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+          "exerciseId": "25e5beca-b44d-53c6-9131-a2430d95742c",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "80c760ba-0e34-51b7-8513-3d56e9d986e4",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "a114f4d4-5ec5-53a3-a951-5915d453797e",
+          "leftContent": "https://talk2me.local/content/blue_m02_l02_d1.mp3",
+          "rightContent": "No nosso SOC utilizamos o IBM QRadar como SIEM principal. Como você aborda a análise de uma ofensa e o ajuste de regras para reduzir falsos positivos?",
+          "sequenceItem": 1,
+          "exerciseId": "80c760ba-0e34-51b7-8513-3d56e9d986e4"
+        },
+        {
+          "id": "ebd6b25c-b053-5b74-ba28-95f70931829e",
+          "leftContent": "https://talk2me.local/content/blue_m02_l02_d2.mp3",
+          "rightContent": "Primeiro reviso o resumo da ofensa, os eventos associados e o payload original para entender qual regra de correlação foi ativada.",
+          "sequenceItem": 2,
+          "exerciseId": "80c760ba-0e34-51b7-8513-3d56e9d986e4"
+        },
+        {
+          "id": "9e8fd8c9-bd12-5d25-b2b2-d4392383e35e",
+          "leftContent": "https://talk2me.local/content/blue_m02_l02_d3.mp3",
+          "rightContent": "E se você detectar que uma tarefa administrativa legítima está gerando dezenas de ofensas repetitivas?",
+          "sequenceItem": 3,
+          "exerciseId": "80c760ba-0e34-51b7-8513-3d56e9d986e4"
+        },
+        {
+          "id": "1302dda5-be89-56c2-833f-c48af0184388",
+          "leftContent": "https://talk2me.local/content/blue_m02_l02_d4.mp3",
+          "rightContent": "Ajusto as condições da regra ou incluo os servidores autorizados em um Reference Set no QRadar, reduzindo os falsos positivos sem perder visibilidade.",
+          "sequenceItem": 4,
+          "exerciseId": "80c760ba-0e34-51b7-8513-3d56e9d986e4"
+        }
+      ]
+    },
+    {
+      "id": "f1fd27a4-4331-5ceb-bb6d-de386eeadcc5",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>En QRadar creo _____ de mando personalizados y ajusto las ofensas.</strong></p><p>Tradução: No QRadar crio dashboards (cuadros de mando) personalizados e ajusto as ofensas.</p>",
+      "contentPlain": "En QRadar creo _____ de mando personalizados y ajusto las ofensas. Tradução: No QRadar crio dashboards (cuadros de mando) personalizados e ajusto as ofensas.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l02_spk.mp3",
+      "feedbackSuccess": "Correto! «cuadros» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «cuadros».",
+      "answerType": "buildWord",
+      "expectedAnswer": "cuadros",
+      "typeSpecificData": "{\"word\": \"cuadros\", \"translation\": \"No QRadar crio dashboards (cuadros de mando) personalizados e ajusto as ofensas.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2665d54f-7aab-5a61-852d-be588ac4bb9b",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l02_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "En QRadar analizo las ofensas y ajusto las reglas utilizando conjuntos de referencia.",
+      "typeSpecificData": "{\"expectedText\": \"En QRadar analizo las ofensas y ajusto las reglas utilizando conjuntos de referencia.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m02_l02_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "fa2d22c1-1b15-5559-8ba7-4232afe009eb",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «En nuestro SOC utilizamos IBM QRadar como SIEM principal. ¿Cómo abordas el análisis de una ofensa y el ajuste de reglas para reducir falsos positivos?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Primero reviso el resumen de la ofensa, los eventos asociados y la carga útil original para entender qué regla de correlación se activó.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l02_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Primero reviso el resumen de la ofensa, los eventos asociados y la carga útil original para entender qué regla de correlación se activó.",
+      "typeSpecificData": "{\"expectedText\": \"Primero reviso el resumen de la ofensa, los eventos asociados y la carga útil original para entender qué regla de correlación se activó.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m02_l02_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y si detectas que una tarea administrativa legítima está generando decenas de ofensas repetitivas?»</strong></p><p><em>(E se você detectar que uma tarefa administrativa legítima está gerando dezenas de ofensas repetitivas?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y si detectas que una tarea administrativa legítima está generando decenas de ofensas repetitivas?",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Ajusto las condiciones de la regla o incluyo los servidores autorizados en un conjunto de referencia en QRadar, reduciendo los falsos positivos sin perder visibilidad.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "d825b70a-0a4e-58d3-8d80-14d1581b19b9",
+          "textContent": "Ajusto las condiciones de la regla o incluyo los servidores autorizados en un conjunto de referencia en QRadar, reduciendo los falsos positivos sin perder visibilidad.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3ee8f43d-9f69-5662-afc5-3a5a50e6890c",
+          "textContent": "Primero reviso el resumen de la ofensa, los eventos asociados y la carga útil original para entender qué regla de correlación se activó.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "951618eb-9fad-523d-af3e-19324412b3ee",
+          "textContent": "En IBM QRadar investigo las ofensas analizando las reglas que las dispararon, las fuentes de registros involucradas y la carga útil de cada evento.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a9ae6fc4-788b-581e-8078-d8d8bfae88cc",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6649cc71-8177-519e-a959-5b747a6095bb",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Para afinar las reglas de correlación y evitar ruido, actualizo conjuntos de referencia y añado excepciones basadas en el comportamiento _____ de la red.</strong></p><p>Tradução: Para ajustar as regras de correlação e evitar ruído, atualizo Reference Sets (conjuntos de referencia) e adiciono exceções baseadas no comportamento legítimo da rede.</p>",
+      "contentPlain": "Para afinar las reglas de correlación y evitar ruido, actualizo conjuntos de referencia y añado excepciones basadas en el comportamiento _____ de la red. Tradução: Para ajustar as regras de correlação e evitar ruído, atualizo Reference Sets (conjuntos de referencia) e adiciono exceções baseadas no comportamento legítimo da rede.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l02_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «legítimo» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «legítimo».",
+      "answerType": "buildWord",
+      "expectedAnswer": "legítimo",
+      "typeSpecificData": "{\"word\": \"legítimo\", \"translation\": \"Para ajustar as regras de correlação e evitar ruído, atualizo Reference Sets (conjuntos de referencia) e adiciono exceções baseadas no comportamento legítimo da rede.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "e9406fd4-be8a-52dd-99fa-2eb770619077",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "7a0f5159-ea10-51fc-a778-7ad029c98781",
+          "leftContent": "No IBM QRadar investigo as ofensas analisando as regras que as dispararam, as fontes de log envolvidas e o payload de cada evento.",
+          "rightContent": "En IBM QRadar investigo las ofensas analizando las reglas que las dispararon, las fuentes de registros involucradas y la carga útil de cada evento.",
+          "sequenceItem": 1,
+          "exerciseId": "e9406fd4-be8a-52dd-99fa-2eb770619077"
+        },
+        {
+          "id": "8ac6be6c-16ff-556f-806f-4dfe2cc4b788",
+          "leftContent": "Para ajustar as regras de correlação e evitar ruído, atualizo Reference Sets (conjuntos de referencia) e adiciono exceções baseadas no comportamento legítimo da rede.",
+          "rightContent": "Para afinar las reglas de correlación y evitar ruido, actualizo conjuntos de referencia y añado excepciones basadas en el comportamiento legítimo de la red.",
+          "sequenceItem": 2,
+          "exerciseId": "e9406fd4-be8a-52dd-99fa-2eb770619077"
+        },
+        {
+          "id": "8fda1ffc-1052-5e1e-b0a4-d28040e3c051",
+          "leftContent": "Além disso, construo dashboards (cuadros de mando) e relatórios personalizados no QRadar para dar visibilidade executiva sobre as ameaças detectadas.",
+          "rightContent": "Además, construyo cuadros de mando e informes personalizados en QRadar para dar visibilidad ejecutiva sobre las amenazas detectadas.",
+          "sequenceItem": 3,
+          "exerciseId": "e9406fd4-be8a-52dd-99fa-2eb770619077"
+        },
+        {
+          "id": "04ceb62b-64d5-549b-b955-9bc1daf4f5a1",
+          "leftContent": "Ajusto as condições da regra ou incluo os servidores autorizados em um Reference Set no QRadar, reduzindo os falsos positivos sem perder visibilidade.",
+          "rightContent": "Ajusto las condiciones de la regla o incluyo los servidores autorizados en un conjunto de referencia en QRadar, reduciendo los falsos positivos sin perder visibilidad.",
+          "sequenceItem": 4,
+          "exerciseId": "e9406fd4-be8a-52dd-99fa-2eb770619077"
+        }
+      ]
+    }
+  ],
+  "title": "IBM QRadar a Fundo - Ofensas, Fontes de Log (DSM), AQL e Tuning"
+}

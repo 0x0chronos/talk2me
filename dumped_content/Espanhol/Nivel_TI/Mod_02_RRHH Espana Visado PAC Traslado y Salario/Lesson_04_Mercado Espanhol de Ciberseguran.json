@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+    "attemptId": "bc642f87-8afc-5371-b071-b7fba04a12cb",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "8f190432-179e-5cc0-ad3f-42fe6892094a",
+      "6558ea57-f693-5e53-873d-a408788069a6",
+      "ce2917e8-69e2-5ef2-b1fb-c85059a28270",
+      "0eec6503-3e1c-5149-837b-89fed2b57f58"
+    ],
+    "practiceExerciseIds": [
+      "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+      "a57bd5a9-22c6-5f01-8754-300c889e023b",
+      "b17f60cc-d708-56ff-a33a-0c77027224c8",
+      "bba7f09a-9d50-5d56-894f-4e96d27d6181",
+      "7e0bba84-4eb0-5a35-8dc1-584184b0d2f3"
+    ],
+    "evaluationExerciseIds": [
+      "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+      "420106d5-afd8-5e37-9c60-b9937e668b0d",
+      "ab7c5a08-8f17-56ad-85e0-d74c39fb8436"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "b67d8efb-7f9e-51f2-8fb9-93b5d5bbd32e",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "2911a58c-baa1-56b9-8720-33b6b48d14cf",
+          "textContent": "<p>Mostra que você pesquisou o mercado espanhol a fundo.</p><p><strong>Me interesa mucho el ecosistema de ciberseguridad en España, tanto en centros de operaciones de grandes consultoras como en equipos internos de banca y telecomunicaciones.</strong></p><p>Em português: <strong>Interessa-me muito o ecossistema de cibersegurança na Espanha, tanto em SOCs de grandes consultorias quanto em equipes internas de bancos e telecomunicações.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_rh04_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1e79088c-8ce9-5c1f-95d1-cb8a81cc3abc",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "352df039-6b21-563b-899e-b65b4d056363",
+          "textContent": "<p>Na Espanha, plantão/sobreaviso em TI e SOC chama-se «hacer guardias» ou «turnos rotativos».</p><p><strong>Tengo experiencia trabajando en entornos multicliente con turnos rotativos y total disposición para realizar guardias o intervenciones planificadas.</strong></p><p>Em português: <strong>Tenho experiência trabalhando em ambientes multicliente (MSSP) com turnos rotativos e total disposição para realizar sobreavisos (guardias) ou intervenções planejadas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_rh04_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3245bf00-14e7-59f0-9905-4e70acda3c1f",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "29a81956-2d75-5f24-82c9-388232595c5e",
+          "textContent": "<p>Em espanhol da Espanha, contrato efetivo (CLT) é «contrato indefinido».</p><p><strong>Busco un proyecto estable con contrato indefinido donde pueda seguir creciendo técnicamente y aportar valor a largo plazo.</strong></p><p>Em português: <strong>Busco um projeto estável com contrato por tempo indeterminado (contrato indefinido) onde possa continuar crescendo tecnicamente e agregar valor no longo prazo.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_rh04_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "3448e5f1-371d-5a5d-bc5e-46c2d2ed5a90",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "c5f29835-0046-5248-8806-8ad38e458c00",
+          "textContent": "<p>Onde estão as melhores vagas para o seu perfil (<strong>SOC QRadar/Sentinel + Pentest</strong>) na Espanha:</p><ul><li><strong>Principais polos:</strong> <em>Madrid, Barcelona, Málaga (Google Safety Engineering Center / polo cyber), Valencia y Bilbao</em>, além de vagas 100% remotas em território espanhol.</li><li><strong>Grandes MSSPs e Consultorias na Espanha:</strong> <em>Telefónica Tech, Indra (Minsait Cyber), S2 Grupo, Tarlogic, Deloitte Cyber, Accenture, Babel, Entelgy Innotec, Ayesa, Cipher (Prosegur)</em>.</li><li><strong>Termos de contratação na Espanha:</strong> <em>contrato indefinido (CLT sem prazo), cliente final vs. consultora, guardias remuneradas (sobreaviso pago no SOC) e retribución flexible</em>.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>contrato indefinido</strong> — contrato efetivo por tempo indeterminado na Espanha</li><li><strong>guardias remuneradas</strong> — plantões / sobreavisos pagos fora do horário comercial</li><li><strong>entorno multicliente</strong> — ambiente de consultoria ou SOC que atende vários clientes (MSSP)</li><li><strong>retribución flexible</strong> — pacote de benefícios (seguro médico, ticket restaurante, formação)</li><li><strong>Palavra-chave de escrita: «indefinido»</strong> (Ofrecemos contrato indefinido y pago adicional por guardias en el centro de operaciones.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "contrato indefinido — contrato efetivo por tempo indeterminado na Espanha",
+        "guardias remuneradas — plantões / sobreavisos pagos fora do horário comercial",
+        "entorno multicliente — ambiente de consultoria ou SOC que atende vários clientes (MSSP)",
+        "retribución flexible — pacote de benefícios (seguro médico, ticket restaurante, formação)"
+      ]
+    },
+    {
+      "id": "f81bb4f4-0714-5456-9e34-fe9754d6dec7",
+      "title": "Conversando sobre o projeto, turnos e tipo de contrato na Espanha",
+      "description": "<p>Laura explica como funciona o projeto para um cliente bancário em Madri e pergunta sobre sua adaptação.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">El puesto es con contrato indefinido para dar servicio a un cliente del sector bancario en Madrid. ¿Tienes experiencia trabajando en entornos multicliente?</div>\n  <div style=\"opacity: 0.55;\">A vaga é com contrato efetivo (indefinido) para atender um cliente do setor bancário em Madri. Você tem experiência trabalhando em ambientes multicliente?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_rh04_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Sí, tanto en iT.eam como en Access Security he trabajado con clientes de distintos sectores, cumpliendo acuerdos de nivel de servicio muy exigentes.</div>\n  <div style=\"opacity: 0.55;\">Sim, tanto na iT.eam quanto na Access Security trabalhei com clientes de diferentes setores, cumprindo SLAs muito exigentes.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_rh04_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Además del salario base, ofrecemos retribución flexible y pago adicional por guardias. ¿Te parece bien este esquema?</div>\n  <div style=\"opacity: 0.55;\">Além do salário-base, oferecemos benefícios flexíveis (retribución flexible) e adicional por sobreaviso (guardias). Esse formato parece bom para você?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_rh04_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Me parece excelente. Busco precisamente estabilidad en un proyecto de alto nivel técnico donde pueda desarrollar mi carrera en España a largo plazo.</div>\n  <div style=\"opacity: 0.55;\">Parece-me excelente. Busco justamente estabilidade em um projeto de alto nível técnico onde eu possa desenvolver minha carreira na Espanha no longo prazo.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_rh04_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "8f190432-179e-5cc0-ad3f-42fe6892094a",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «El puesto es con contrato indefinido para dar servicio a un cliente del sector bancario en Madrid. ¿Tienes experiencia trabajando en entornos multicliente?»</p><p><em>(A vaga é com contrato efetivo (indefinido) para atender um cliente do setor bancário em Madri. Você tem experiência trabalhando em ambientes multicliente?)</em></p>",
+      "contentPlain": "El puesto es con contrato indefinido para dar servicio a un cliente del sector bancario en Madrid. ¿Tienes experiencia trabajando en entornos multicliente?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_rh04_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Sí, tanto en iT.eam como en Access Security he trabajado con clientes de distintos sectores, cumpliendo acuerdos de nivel de servicio muy exigentes.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "0d1b99da-cfa7-5f6a-b8cb-a891f623bacf",
+          "textContent": "Sí, tanto en iT.eam como en Access Security he trabajado con clientes de distintos sectores, cumpliendo acuerdos de nivel de servicio muy exigentes.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "8f190432-179e-5cc0-ad3f-42fe6892094a",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0a3b6582-223c-5aac-af18-cfbe3cd6330c",
+          "textContent": "Busco un proyecto estable con contrato indefinido donde pueda seguir creciendo técnicamente y aportar valor a largo plazo.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "8f190432-179e-5cc0-ad3f-42fe6892094a",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "048f1668-b30a-565e-9611-fab9033c00d4",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "8f190432-179e-5cc0-ad3f-42fe6892094a",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0f6d6e1d-c16e-5825-ab84-d99b50fd99e4",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "8f190432-179e-5cc0-ad3f-42fe6892094a",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6558ea57-f693-5e53-873d-a408788069a6",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Me interesa mucho el ecosistema de ciberseguridad en España, tanto en centros de operaciones de grandes consultoras como en equipos internos de banca y telecomunicaciones.</strong></p>",
+      "contentPlain": "Me interesa mucho el ecosistema de ciberseguridad en España, tanto en centros de operaciones de grandes consultoras como en equipos internos de banca y telecomunicaciones.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_rh04_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Interessa-me muito o ecossistema de cibersegurança na Espanha, tanto em SOCs de grandes consultorias quanto em equipes internas de bancos e telecomunicações.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "a28873d0-84d1-5d26-b916-2fc9e9d09bcb",
+          "textContent": "Interessa-me muito o ecossistema de cibersegurança na Espanha, tanto em SOCs de grandes consultorias quanto em equipes internas de bancos e telecomunicações.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "6558ea57-f693-5e53-873d-a408788069a6",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2a0b4bdb-ec6b-55ed-ab8d-161f74592c97",
+          "textContent": "Tenho experiência trabalhando em ambientes multicliente (MSSP) com turnos rotativos e total disposição para realizar sobreavisos (guardias) ou intervenções planejadas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "6558ea57-f693-5e53-873d-a408788069a6",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9fe0c8e7-6594-5117-b314-b6f29c7f17ed",
+          "textContent": "Busco um projeto estável com contrato por tempo indeterminado (contrato indefinido) onde possa continuar crescendo tecnicamente e agregar valor no longo prazo.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "6558ea57-f693-5e53-873d-a408788069a6",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b7b3129e-38f3-5d56-8331-ef68b7d385e2",
+          "textContent": "A vaga é com contrato efetivo (indefinido) para atender um cliente do setor bancário em Madri. Você tem experiência trabalhando em ambientes multicliente?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "6558ea57-f693-5e53-873d-a408788069a6",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "ce2917e8-69e2-5ef2-b1fb-c85059a28270",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "03a93f50-1316-57de-bc25-e9456bb4176e",
+          "leftContent": "contrato indefinido",
+          "rightContent": "contrato efetivo por tempo indeterminado na Espanha",
+          "sequenceItem": 1,
+          "exerciseId": "ce2917e8-69e2-5ef2-b1fb-c85059a28270"
+        },
+        {
+          "id": "05b0ea2e-8b79-517b-bec9-0f0b9d626b5e",
+          "leftContent": "guardias remuneradas",
+          "rightContent": "plantões / sobreavisos pagos fora do horário comercial",
+          "sequenceItem": 2,
+          "exerciseId": "ce2917e8-69e2-5ef2-b1fb-c85059a28270"
+        },
+        {
+          "id": "9346e634-bb44-599f-a739-bcbde306d0f3",
+          "leftContent": "entorno multicliente",
+          "rightContent": "ambiente de consultoria ou SOC que atende vários clientes (MSSP)",
+          "sequenceItem": 3,
+          "exerciseId": "ce2917e8-69e2-5ef2-b1fb-c85059a28270"
+        },
+        {
+          "id": "1bfb07f9-f80a-548b-a613-5f88d170f35f",
+          "leftContent": "retribución flexible",
+          "rightContent": "pacote de benefícios (seguro médico, ticket restaurante, formação)",
+          "sequenceItem": 4,
+          "exerciseId": "ce2917e8-69e2-5ef2-b1fb-c85059a28270"
+        }
+      ]
+    },
+    {
+      "id": "0eec6503-3e1c-5149-837b-89fed2b57f58",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "d7411b76-47c5-5cbe-9334-83582996dc71",
+          "leftContent": "https://talk2me.local/content/ti_m02_rh04_c1.mp3",
+          "rightContent": "Me interesa mucho el ecosistema de ciberseguridad en España, tanto en centros de operaciones de grandes consultoras como en equipos internos de banca y telecomunicaciones.",
+          "sequenceItem": 1,
+          "exerciseId": "0eec6503-3e1c-5149-837b-89fed2b57f58"
+        },
+        {
+          "id": "987a2f96-4864-5932-aab2-dba198cab8a5",
+          "leftContent": "https://talk2me.local/content/ti_m02_rh04_c2.mp3",
+          "rightContent": "Tengo experiencia trabajando en entornos multicliente con turnos rotativos y total disposición para realizar guardias o intervenciones planificadas.",
+          "sequenceItem": 2,
+          "exerciseId": "0eec6503-3e1c-5149-837b-89fed2b57f58"
+        },
+        {
+          "id": "ff76c6bb-d2e9-5dac-b4e2-2c09fbc833e4",
+          "leftContent": "https://talk2me.local/content/ti_m02_rh04_c3.mp3",
+          "rightContent": "Busco un proyecto estable con contrato indefinido donde pueda seguir creciendo técnicamente y aportar valor a largo plazo.",
+          "sequenceItem": 3,
+          "exerciseId": "0eec6503-3e1c-5149-837b-89fed2b57f58"
+        },
+        {
+          "id": "c51f0065-0d9d-59c4-bcca-e88e4a36a1fa",
+          "leftContent": "https://talk2me.local/content/ti_m02_rh04_d2.mp3",
+          "rightContent": "Sí, tanto en iT.eam como en Access Security he trabajado con clientes de distintos sectores, cumpliendo acuerdos de nivel de servicio muy exigentes.",
+          "sequenceItem": 4,
+          "exerciseId": "0eec6503-3e1c-5149-837b-89fed2b57f58"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Na Espanha, o que significam «contrato indefinido», «hacer guardias» e «entorno multicliente» em uma vaga de cibersegurança?</p>",
+      "contentPlain": "Na Espanha, o que significam «contrato indefinido», «hacer guardias» e «entorno multicliente» em uma vaga de cibersegurança?",
+      "fileUrl": null,
+      "feedbackSuccess": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+      "feedbackError": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "802fc15d-d196-5d1b-880b-a33b5f1f24bc",
+          "textContent": "Contrato efetivo sem prazo para acabar (equivalente a CLT), ficar de sobreaviso/plantão remunerado e atender múltiplos clientes (MSSP/consultoria).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bc5da48d-c44a-53fc-9332-c95536eef15b",
+          "textContent": "Contrato sem salário definido, trabalhar na portaria do prédio e vender produtos em lojas.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+          "exerciseId": "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3d931468-bbc4-5e6f-9a91-abddbfd838bb",
+          "textContent": "Contrato de estágio de uma semana, vigiar câmeras de rua e usar vários computadores.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+          "exerciseId": "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "20ef6a13-682b-52b3-a7b9-37251d5590de",
+          "textContent": "Contrato cancelado, bloquear portas de firewall e ter muitas contas de e-mail.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos trabalhistas da Espanha («contrato indefinido», «guardias remuneradas», «retribución flexible», «12 o 14 pagas») evita qualquer dúvida na entrevista de RH!",
+          "exerciseId": "eeeb6b3a-ad22-5358-b481-3f744d8e1ac4",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a57bd5a9-22c6-5f01-8754-300c889e023b",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "14ce0147-ba39-5f23-9950-db18830c739e",
+          "leftContent": "https://talk2me.local/content/ti_m02_rh04_d1.mp3",
+          "rightContent": "A vaga é com contrato efetivo (indefinido) para atender um cliente do setor bancário em Madri. Você tem experiência trabalhando em ambientes multicliente?",
+          "sequenceItem": 1,
+          "exerciseId": "a57bd5a9-22c6-5f01-8754-300c889e023b"
+        },
+        {
+          "id": "a9ebd21b-f1c9-548b-86b3-2488a79aff6e",
+          "leftContent": "https://talk2me.local/content/ti_m02_rh04_d2.mp3",
+          "rightContent": "Sim, tanto na iT.eam quanto na Access Security trabalhei com clientes de diferentes setores, cumprindo SLAs muito exigentes.",
+          "sequenceItem": 2,
+          "exerciseId": "a57bd5a9-22c6-5f01-8754-300c889e023b"
+        },
+        {
+          "id": "9764b6e6-0f04-54d9-933b-32a810489fd9",
+          "leftContent": "https://talk2me.local/content/ti_m02_rh04_d3.mp3",
+          "rightContent": "Além do salário-base, oferecemos benefícios flexíveis (retribución flexible) e adicional por sobreaviso (guardias). Esse formato parece bom para você?",
+          "sequenceItem": 3,
+          "exerciseId": "a57bd5a9-22c6-5f01-8754-300c889e023b"
+        },
+        {
+          "id": "a98d91bc-44e7-56d0-a8fa-9bdc1e3b313b",
+          "leftContent": "https://talk2me.local/content/ti_m02_rh04_d4.mp3",
+          "rightContent": "Parece-me excelente. Busco justamente estabilidade em um projeto de alto nível técnico onde eu possa desenvolver minha carreira na Espanha no longo prazo.",
+          "sequenceItem": 4,
+          "exerciseId": "a57bd5a9-22c6-5f01-8754-300c889e023b"
+        }
+      ]
+    },
+    {
+      "id": "b17f60cc-d708-56ff-a33a-0c77027224c8",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Ofrecemos contrato _____ y pago adicional por guardias en el centro de operaciones.</strong></p><p>Tradução: Oferecemos contrato efetivo (indefinido) e pagamento adicional por sobreavisos no SOC.</p>",
+      "contentPlain": "Ofrecemos contrato _____ y pago adicional por guardias en el centro de operaciones. Tradução: Oferecemos contrato efetivo (indefinido) e pagamento adicional por sobreavisos no SOC.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_rh04_spk.mp3",
+      "feedbackSuccess": "Correto! «indefinido» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «indefinido».",
+      "answerType": "buildWord",
+      "expectedAnswer": "indefinido",
+      "typeSpecificData": "{\"word\": \"indefinido\", \"translation\": \"Oferecemos contrato efetivo (indefinido) e pagamento adicional por sobreavisos no SOC.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "bba7f09a-9d50-5d56-894f-4e96d27d6181",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_rh04_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Busco un proyecto estable en España donde pueda aportar mi experiencia en entornos multicliente.",
+      "typeSpecificData": "{\"expectedText\": \"Busco un proyecto estable en España donde pueda aportar mi experiencia en entornos multicliente.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m02_rh04_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "7e0bba84-4eb0-5a35-8dc1-584184b0d2f3",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «El puesto es con contrato indefinido para dar servicio a un cliente del sector bancario en Madrid. ¿Tienes experiencia trabajando en entornos multicliente?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Sí, tanto en iT.eam como en Access Security he trabajado con clientes de distintos sectores, cumpliendo acuerdos de nivel de servicio muy exigentes.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_rh04_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Sí, tanto en iT.eam como en Access Security he trabajado con clientes de distintos sectores, cumpliendo acuerdos de nivel de servicio muy exigentes.",
+      "typeSpecificData": "{\"expectedText\": \"Sí, tanto en iT.eam como en Access Security he trabajado con clientes de distintos sectores, cumpliendo acuerdos de nivel de servicio muy exigentes.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m02_rh04_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Además del salario base, ofrecemos retribución flexible y pago adicional por guardias. ¿Te parece bien este esquema?»</strong></p><p><em>(Além do salário-base, oferecemos benefícios flexíveis (retribución flexible) e adicional por sobreaviso (guardias). Esse formato parece bom para você?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Además del salario base, ofrecemos retribución flexible y pago adicional por guardias. ¿Te parece bien este esquema?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_rh04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Me parece excelente. Busco precisamente estabilidad en un proyecto de alto nivel técnico donde pueda desarrollar mi carrera en España a largo plazo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "430e7698-3e65-5cd1-b0f7-5a96dd343071",
+          "textContent": "Me parece excelente. Busco precisamente estabilidad en un proyecto de alto nivel técnico donde pueda desarrollar mi carrera en España a largo plazo.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e4819af1-1efc-52cc-a2fc-0b0913cb4bfa",
+          "textContent": "Sí, tanto en iT.eam como en Access Security he trabajado con clientes de distintos sectores, cumpliendo acuerdos de nivel de servicio muy exigentes.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3f201d9e-8d58-5b92-8160-a6b60a4e457c",
+          "textContent": "Me interesa mucho el ecosistema de ciberseguridad en España, tanto en centros de operaciones de grandes consultoras como en equipos internos de banca y telecomunicaciones.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f87de3b0-bef6-5f2a-a09f-9713e575845c",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "00df4acb-77e0-570a-ad7a-63e2b712bac6",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "420106d5-afd8-5e37-9c60-b9937e668b0d",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Tengo experiencia trabajando en entornos multicliente con turnos rotativos y total disposición para realizar guardias o intervenciones _____.</strong></p><p>Tradução: Tenho experiência trabalhando em ambientes multicliente (MSSP) com turnos rotativos e total disposição para realizar sobreavisos (guardias) ou intervenções planejadas.</p>",
+      "contentPlain": "Tengo experiencia trabajando en entornos multicliente con turnos rotativos y total disposición para realizar guardias o intervenciones _____. Tradução: Tenho experiência trabalhando em ambientes multicliente (MSSP) com turnos rotativos e total disposição para realizar sobreavisos (guardias) ou intervenções planejadas.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_rh04_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «planificadas» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «planificadas».",
+      "answerType": "buildWord",
+      "expectedAnswer": "planificadas",
+      "typeSpecificData": "{\"word\": \"planificadas\", \"translation\": \"Tenho experiência trabalhando em ambientes multicliente (MSSP) com turnos rotativos e total disposição para realizar sobreavisos (guardias) ou intervenções planejadas.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ab7c5a08-8f17-56ad-85e0-d74c39fb8436",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9bc7e34e-edd6-52a3-980d-f3c107c32d46",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "f17e726d-2591-56e1-83fd-d273bc32fafd",
+          "leftContent": "Interessa-me muito o ecossistema de cibersegurança na Espanha, tanto em SOCs de grandes consultorias quanto em equipes internas de bancos e telecomunicações.",
+          "rightContent": "Me interesa mucho el ecosistema de ciberseguridad en España, tanto en centros de operaciones de grandes consultoras como en equipos internos de banca y telecomunicaciones.",
+          "sequenceItem": 1,
+          "exerciseId": "ab7c5a08-8f17-56ad-85e0-d74c39fb8436"
+        },
+        {
+          "id": "02852093-9bd4-585f-873f-a94ece120029",
+          "leftContent": "Tenho experiência trabalhando em ambientes multicliente (MSSP) com turnos rotativos e total disposição para realizar sobreavisos (guardias) ou intervenções planejadas.",
+          "rightContent": "Tengo experiencia trabajando en entornos multicliente con turnos rotativos y total disposición para realizar guardias o intervenciones planificadas.",
+          "sequenceItem": 2,
+          "exerciseId": "ab7c5a08-8f17-56ad-85e0-d74c39fb8436"
+        },
+        {
+          "id": "71d362df-3921-5847-9123-a714a65de40b",
+          "leftContent": "Busco um projeto estável com contrato por tempo indeterminado (contrato indefinido) onde possa continuar crescendo tecnicamente e agregar valor no longo prazo.",
+          "rightContent": "Busco un proyecto estable con contrato indefinido donde pueda seguir creciendo técnicamente y aportar valor a largo plazo.",
+          "sequenceItem": 3,
+          "exerciseId": "ab7c5a08-8f17-56ad-85e0-d74c39fb8436"
+        },
+        {
+          "id": "02f8afef-63b0-5fd8-ba38-178a1657fc77",
+          "leftContent": "Parece-me excelente. Busco justamente estabilidade em um projeto de alto nível técnico onde eu possa desenvolver minha carreira na Espanha no longo prazo.",
+          "rightContent": "Me parece excelente. Busco precisamente estabilidad en un proyecto de alto nivel técnico donde pueda desarrollar mi carrera en España a largo plazo.",
+          "sequenceItem": 4,
+          "exerciseId": "ab7c5a08-8f17-56ad-85e0-d74c39fb8436"
+        }
+      ]
+    }
+  ],
+  "title": "Mercado Espanhol de Cibersegurança - Consultorias, MSSPs, Bancos e Polos de TI"
+}

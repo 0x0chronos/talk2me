@@ -430,7 +430,8 @@ function renderHome() {
     }
   }
 
-  // Abas de Níveis CEFR
+  // Abas de Níveis CEFR + Trilhas de Cibersegurança
+  const TAB_NAMES = { BLUE: 'Blue Team', RED: 'Red Team', TI: 'Entrevista TI' };
   const tabs = $('#tabs');
   tabs.innerHTML = '';
   for (const l of d.levels) {
@@ -447,7 +448,7 @@ function renderHome() {
         S.openMods.clear();
         renderHome();
       }
-    }, h('strong', {}, l.level === 'TI' ? 'TI & Cyber' : l.level), h('small', {}, `${lDone}/${items.length}`)));
+    }, h('strong', {}, TAB_NAMES[l.level] || l.level), h('small', {}, `${lDone}/${items.length}`)));
   }
 
   // Renderiza a visão ativa (Caderno ou Mapa de Progressão)
@@ -1287,10 +1288,12 @@ function exMC(ex, ctx) {
     const card = h('button', {
       type: 'button',
       class: 'opt',
+      'aria-pressed': 'false',
       onclick: () => {
         if (locked) return;
-        cards.forEach(c => c.classList.remove('on'));
+        cards.forEach(c => { c.classList.remove('on'); c.setAttribute('aria-pressed', 'false'); });
         card.classList.add('on');
+        card.setAttribute('aria-pressed', 'true');
         sel = o;
         ctx.ready(true);
       }

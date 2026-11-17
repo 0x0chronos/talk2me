@@ -1,0 +1,694 @@
+{
+  "id": "b25ecd24-081e-5c09-a3a9-7ef61c910466",
+  "title": "Checkpoint: Entrevista III - Simulacro com CISO: Risco, Devs, Daily e Fechamento",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "6f87de4a-da0f-5811-a6ac-d6e17576fb26",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": [
+        {
+          "id": "22ace2ec-a5f9-50a2-af4d-5b849352e7eb",
+          "leftContent": "control compensatorio",
+          "rightContent": "medida alternativa de proteção quando não há patch imediato",
+          "sequenceItem": 1,
+          "exerciseId": "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b"
+        },
+        {
+          "id": "a979ae58-fbee-5dfe-a775-b59752f5fc90",
+          "leftContent": "riesgo residual",
+          "rightContent": "risco que permanece após aplicar controles",
+          "sequenceItem": 2,
+          "exerciseId": "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b"
+        },
+        {
+          "id": "3326426e-c64f-5525-a5f7-a919a09f4d17",
+          "leftContent": "impacto reputacional",
+          "rightContent": "dano à imagem da empresa perante clientes/mercado",
+          "sequenceItem": 3,
+          "exerciseId": "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b"
+        },
+        {
+          "id": "93f541c2-bd9b-5a8a-ba77-74c5f7568f01",
+          "leftContent": "desplegar el parche",
+          "rightContent": "fazer o deploy da correção em produção",
+          "sequenceItem": 4,
+          "exerciseId": "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b"
+        }
+      ]
+    },
+    {
+      "id": "4a56b77d-301c-549f-a876-6a557a3ac42e",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Quando um servidor legado não pode ser atualizado imediatamente, como se chama a medida de proteção alternativa (ex.: regra no WAF ou isolamento em VLAN) aplicada para reduzir o risco?</p>",
+      "contentPlain": "Quando um servidor legado não pode ser atualizado imediatamente, como se chama a medida de proteção alternativa (ex.: regra no WAF ou isolamento em VLAN) aplicada para reduzir o risco?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+      "feedbackError": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "abb60253-5256-560f-9311-d2b052341d92",
+          "textContent": "Un control compensatorio.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ff174faa-611e-54e2-ae1c-3788e1cc666e",
+          "textContent": "Un parche mágico.",
+          "isCorrect": false,
+          "incorrectReason": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+          "exerciseId": "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9cdb346f-4469-50d7-9d2d-c6c4cf379d04",
+          "textContent": "Un olvido programado.",
+          "isCorrect": false,
+          "incorrectReason": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+          "exerciseId": "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2d2982b8-57ea-5290-9bd6-10d1f3b449fb",
+          "textContent": "Una excepción sin control.",
+          "isCorrect": false,
+          "incorrectReason": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+          "exerciseId": "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c01b3ff5-aaaf-5ded-a87e-02079b271597",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo garantizas que esa solución temporal no se olvide después del lanzamiento?»</strong></p><p><em>(E como você garante que essa solução temporária não seja esquecida depois do lançamento?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo garantizas que esa solución temporal no se olvide después del lanzamiento?",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l01_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Acordamos por escrito un plazo máximo para desplegar el parche en el código, reforzamos las alertas en el SIEM y dejamos registrado el riesgo residual.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 3,
+      "options": [
+        {
+          "id": "aa88641f-3508-52df-b4fc-102214482be5",
+          "textContent": "Acordamos por escrito un plazo máximo para desplegar el parche en el código, reforzamos las alertas en el SIEM y dejamos registrado el riesgo residual.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "3a87aa5a-804a-5789-b919-9691a0a028c8",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bccfad98-ee37-574e-8519-3195e72f6f29",
+          "textContent": "Primero explico a la dirección el riesgo real en términos de negocio y propongo aplicar un control compensatorio inmediato, como una regla específica en el WAF.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "3a87aa5a-804a-5789-b919-9691a0a028c8",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a8924297-a39e-5bd6-97c3-70a0ca6fc1dc",
+          "textContent": "Si un lanzamiento crítico no puede retrasarse, propongo controles compensatorios inmediatos para mitigar el riesgo mientras se desarrolla el parche definitivo.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "3a87aa5a-804a-5789-b919-9691a0a028c8",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d49967ac-54f2-520f-8fd3-5a0321491da7",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "3a87aa5a-804a-5789-b919-9691a0a028c8",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5028d547-bf94-550d-8a10-f661cb49e733",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "1b91216d-3934-59ee-a396-896dcc2ffbf3",
+          "leftContent": "trabajar codo con codo",
+          "rightContent": "trabalhar lado a lado / em parceria",
+          "sequenceItem": 1,
+          "exerciseId": "f0629003-85fd-576e-99ba-91ac72beaf99"
+        },
+        {
+          "id": "101b30c0-9ee7-5b58-96c6-ab3268a4bf1f",
+          "leftContent": "encadenar vulnerabilidades",
+          "rightContent": "chaining de vulnerabilidades (combinar falhas)",
+          "sequenceItem": 2,
+          "exerciseId": "f0629003-85fd-576e-99ba-91ac72beaf99"
+        },
+        {
+          "id": "b219519d-5c84-5d32-9b50-33ec244605ea",
+          "leftContent": "degradación del servicio",
+          "rightContent": "lentidão ou instabilidade no ambiente",
+          "sequenceItem": 3,
+          "exerciseId": "f0629003-85fd-576e-99ba-91ac72beaf99"
+        },
+        {
+          "id": "089551ce-de9d-5f20-97aa-5a97252568a4",
+          "leftContent": "señalar culpables",
+          "rightContent": "apontar culpados",
+          "sequenceItem": 4,
+          "exerciseId": "f0629003-85fd-576e-99ba-91ac72beaf99"
+        }
+      ]
+    },
+    {
+      "id": "4947b49b-bdfe-582d-b376-36a796f3e362",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual expressão idiomática espanhola significa «trabalhar lado a lado / em estreita colaboração» com outra equipe?</p>",
+      "contentPlain": "Qual expressão idiomática espanhola significa «trabalhar lado a lado / em estreita colaboração» com outra equipe?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+      "feedbackError": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 5,
+      "options": [
+        {
+          "id": "b0efbf0d-0a45-5028-9292-faeec3cb8528",
+          "textContent": "Trabajar codo con codo.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b7081dca-b419-5801-98d2-bb5b24dd5385",
+          "textContent": "Trabajar pie con cabeza.",
+          "isCorrect": false,
+          "incorrectReason": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+          "exerciseId": "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f962f724-c16b-521b-8ab1-816b40e08cf5",
+          "textContent": "Trabajar espalda contra espalda.",
+          "isCorrect": false,
+          "incorrectReason": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+          "exerciseId": "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "58459498-4b70-50f4-aeb7-80f557e23852",
+          "textContent": "Trabajar lejos del código.",
+          "isCorrect": false,
+          "incorrectReason": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+          "exerciseId": "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4737d77b-15c5-53bb-880a-cf4820385421",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y si el equipo tiene poco tiempo para implementar la solución ideal?»</strong></p><p><em>(E se a equipe tiver pouco tempo para implementar a solução ideal?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y si el equipo tiene poco tiempo para implementar la solución ideal?",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Trabajo codo con codo con ellos para encontrar la corrección más sencilla y efectiva en su propio lenguaje de programación.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 6,
+      "options": [
+        {
+          "id": "05ddafd8-695b-5c1e-804e-a7544392c6f3",
+          "textContent": "Trabajo codo con codo con ellos para encontrar la corrección más sencilla y efectiva en su propio lenguaje de programación.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "cdc27606-d329-5933-8626-25624da4365d",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "047e7420-d26e-5497-b1a7-d179c51da81e",
+          "textContent": "Le pido una breve reunión para mostrarle la prueba de concepto en vivo y explicarle cómo un atacante podría encadenar ese fallo.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "cdc27606-d329-5933-8626-25624da4365d",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b0ab082a-add0-5a7d-97db-f1e2ebbfd2b7",
+          "textContent": "Cuando un equipo cuestiona un hallazgo, muestro una prueba de concepto práctica para evidenciar el impacto real y colaboro en la solución.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "cdc27606-d329-5933-8626-25624da4365d",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c8dce908-7505-5f21-8d21-d9909a0c6d26",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "cdc27606-d329-5933-8626-25624da4365d",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c55c5878-a2fe-5233-aa55-efb61fa9060f",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 7,
+      "options": [],
+      "associations": [
+        {
+          "id": "d878ab21-c126-56e1-bbff-20cb68f228b1",
+          "leftContent": "una incidencia",
+          "rightContent": "um ticket / chamado técnico (Jira, etc.)",
+          "sequenceItem": 1,
+          "exerciseId": "5c774fdf-85b5-5cea-b0e8-6320bc7189da"
+        },
+        {
+          "id": "4aefb470-8b64-5bbb-9d12-350a3f252345",
+          "leftContent": "ningún bloqueo",
+          "rightContent": "nenhum impedimento / blocker na daily",
+          "sequenceItem": 2,
+          "exerciseId": "5c774fdf-85b5-5cea-b0e8-6320bc7189da"
+        },
+        {
+          "id": "3c92be85-04cb-5c11-8c64-c128838f9ab9",
+          "leftContent": "análisis estático",
+          "rightContent": "SAST (Static Application Security Testing)",
+          "sequenceItem": 3,
+          "exerciseId": "5c774fdf-85b5-5cea-b0e8-6320bc7189da"
+        },
+        {
+          "id": "aee127a5-a64d-5be6-8dfd-2f5a3d8e05d1",
+          "leftContent": "integración continua",
+          "rightContent": "CI (Continuous Integration)",
+          "sequenceItem": 4,
+          "exerciseId": "5c774fdf-85b5-5cea-b0e8-6320bc7189da"
+        }
+      ]
+    },
+    {
+      "id": "1675c62f-75f1-5dc0-94ce-2cca8f3e5fd9",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Na Espanha, como os times de TI costumam chamar um «ticket / chamado de problema» em sistemas como Jira ou ServiceNow?</p>",
+      "contentPlain": "Na Espanha, como os times de TI costumam chamar um «ticket / chamado de problema» em sistemas como Jira ou ServiceNow?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+      "feedbackError": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 8,
+      "options": [
+        {
+          "id": "b6780773-8b3c-5fd7-966b-6970a5dcf95a",
+          "textContent": "Una incidencia (ex.: «cerré la incidencia» / «abrir una incidencia»).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "9a358790-c723-528c-979b-49955ba6d79a",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "212f258c-5b83-5f63-a32e-947d0b7f80d0",
+          "textContent": "Un billete de error.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+          "exerciseId": "9a358790-c723-528c-979b-49955ba6d79a",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "94d66901-2df1-588b-b4e2-3cabcd841c15",
+          "textContent": "Una carta rota.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+          "exerciseId": "9a358790-c723-528c-979b-49955ba6d79a",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f5581bf0-53ba-526d-be4b-4e6947b52493",
+          "textContent": "Un papel de soporte.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+          "exerciseId": "9a358790-c723-528c-979b-49955ba6d79a",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "71a0bbea-1e61-5f53-a59c-b60b42cd1ca4",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Genial. ¿Y qué tienes previsto para hoy? ¿Hay algún bloqueo?»</strong></p><p><em>(Ótimo. E o que você tem previsto para hoje? Há algum bloqueio?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Genial. ¿Y qué tienes previsto para hoy? ¿Hay algún bloqueo?",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Hoy voy a revisar los permisos del nuevo entorno en la nube. De momento no tengo ningún bloqueo, gracias.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 9,
+      "options": [
+        {
+          "id": "4e24d83b-4c11-57ce-af94-640f5b344c4e",
+          "textContent": "Hoy voy a revisar los permisos del nuevo entorno en la nube. De momento no tengo ningún bloqueo, gracias.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "549353d3-9307-5926-a69e-c3c3ddf21986",
+          "textContent": "Buenos días. Ayer validé la corrección de los tres hallazgos críticos y cerré las incidencias correspondientes.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9ea72122-d5e8-57df-9565-4dc2fdc70930",
+          "textContent": "Ayer terminé la revisión de seguridad de la interfaz de programación y hoy voy a validar las nuevas reglas del cortafuegos.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9123da2c-d734-59c6-9255-3da2de2e2258",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "a2d1e9e7-6bc7-59ce-8a4e-18bf9e30360f",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4e9078c9-393b-56a4-91bf-4c81515202a7",
+      "sequenceItem": 10,
+      "options": [],
+      "associations": [
+        {
+          "id": "a2ef0da7-4b38-5b46-a88a-d251d418fbc3",
+          "leftContent": "estar muy ilusionado",
+          "rightContent": "estar muito entusiasmado / motivado (falso amigo!)",
+          "sequenceItem": 1,
+          "exerciseId": "e1cc48a8-38bd-57f3-8a0f-6773bfee9bfe"
+        },
+        {
+          "id": "7c18401c-3388-5653-8552-b764fe97fafe",
+          "leftContent": "los principales retos",
+          "rightContent": "os principais desafios",
+          "sequenceItem": 2,
+          "exerciseId": "e1cc48a8-38bd-57f3-8a0f-6773bfee9bfe"
+        },
+        {
+          "id": "3a045190-c051-580e-9e11-1d37ff15c9ee",
+          "leftContent": "el proceso de selección",
+          "rightContent": "o processo seletivo",
+          "sequenceItem": 3,
+          "exerciseId": "e1cc48a8-38bd-57f3-8a0f-6773bfee9bfe"
+        },
+        {
+          "id": "c7a79cc3-e38e-5222-8792-20a199fbdf80",
+          "leftContent": "¿cómo medís el éxito?",
+          "rightContent": "como vocês medem o sucesso? (vosotros na Espanha)",
+          "sequenceItem": 4,
+          "exerciseId": "e1cc48a8-38bd-57f3-8a0f-6773bfee9bfe"
+        }
+      ]
+    },
+    {
+      "id": "1002fd64-346b-5db5-b7a5-99e0d9b9eee4",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Na Espanha, o que significa dizer «Estoy muy ilusionado con esta oportunidad» ao final da entrevista?</p>",
+      "contentPlain": "Na Espanha, o que significa dizer «Estoy muy ilusionado con esta oportunidad» ao final da entrevista?",
+      "fileUrl": null,
+      "feedbackSuccess": "Atenção ao falso cognato! Em espanhol, «estar ilusionado» é 100% positivo e significa estar entusiasmado, animado e cheio de expectativa positiva!",
+      "feedbackError": "Atenção ao falso cognato! Em espanhol, «estar ilusionado» é 100% positivo e significa estar entusiasmado, animado e cheio de expectativa positiva!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4e9078c9-393b-56a4-91bf-4c81515202a7",
+      "sequenceItem": 11,
+      "options": [
+        {
+          "id": "cca9b0fd-5c3d-533e-83ed-40015db70826",
+          "textContent": "Estou muito entusiasmado / motivado com esta oportunidade (expressão positiva e muito natural na Espanha).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "66a0cf82-70e1-5396-a1f1-5e8eae96880b",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c727cfba-2dd3-53d7-bae6-e919c2a6c564",
+          "textContent": "Estou enganado ou sofrendo uma ilusão sobre a empresa.",
+          "isCorrect": false,
+          "incorrectReason": "Atenção ao falso cognato! Em espanhol, «estar ilusionado» é 100% positivo e significa estar entusiasmado, animado e cheio de expectativa positiva!",
+          "exerciseId": "66a0cf82-70e1-5396-a1f1-5e8eae96880b",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "fe22d4ff-edcb-545c-9fda-4cb9f329aaea",
+          "textContent": "Estou confuso com o salário oferecido.",
+          "isCorrect": false,
+          "incorrectReason": "Atenção ao falso cognato! Em espanhol, «estar ilusionado» é 100% positivo e significa estar entusiasmado, animado e cheio de expectativa positiva!",
+          "exerciseId": "66a0cf82-70e1-5396-a1f1-5e8eae96880b",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "01401e38-a661-5664-a66b-7d13a946cc72",
+          "textContent": "Estou desistindo do processo seletivo.",
+          "isCorrect": false,
+          "incorrectReason": "Atenção ao falso cognato! Em espanhol, «estar ilusionado» é 100% positivo e significa estar entusiasmado, animado e cheio de expectativa positiva!",
+          "exerciseId": "66a0cf82-70e1-5396-a1f1-5e8eae96880b",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4e3b0986-6367-556d-9b24-766bb3fe0c66",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Buscamos automatizar las auditorías continuas y reducir el tiempo de remediación. En unos días te daremos respuesta sobre la siguiente fase.»</strong></p><p><em>(Buscamos automatizar as auditorias contínuas e reduzir o tempo de remediação. Em alguns dias daremos retorno sobre a próxima fase.)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Buscamos automatizar las auditorías continuas y reducir el tiempo de remediación. En unos días te daremos respuesta sobre la siguiente fase.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Muchas gracias por vuestro tiempo, Laura. Estoy muy ilusionado con la oportunidad de aportar al equipo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4e9078c9-393b-56a4-91bf-4c81515202a7",
+      "sequenceItem": 12,
+      "options": [
+        {
+          "id": "80c4ad71-31c1-563d-91ca-3ea8b798b6a6",
+          "textContent": "Muchas gracias por vuestro tiempo, Laura. Estoy muy ilusionado con la oportunidad de aportar al equipo.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "245ac209-9e90-58b5-beb3-a0326a121392",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "748c37a4-ace1-57a2-8e45-e95efba14ac8",
+          "textContent": "Sí, me gustaría saber cuáles son las prioridades del área de ciberseguridad para este año y cómo medís el éxito en el puesto.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "245ac209-9e90-58b5-beb3-a0326a121392",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d017b64d-9982-5ba1-8457-f3cc71ef60c5",
+          "textContent": "Sí, me gustaría saber cuáles son los principales retos técnicos que afrontará el equipo en los próximos meses.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "245ac209-9e90-58b5-beb3-a0326a121392",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "597ae317-e537-53c8-be02-3409307844d1",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "245ac209-9e90-58b5-beb3-a0326a121392",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

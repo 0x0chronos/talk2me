@@ -1,0 +1,67 @@
+{
+  "id": "271d5b60-d443-5e36-8427-545a12dff65f",
+  "title": "Blue Team I - SOC 24x7, Triagem de Alertas e Análise de Logs",
+  "subTitle": "Domine o vocabulário de operação em Centro de Operaciones de Seguridad (SOC) na Espanha: triagem N1/N2/N3, falsos positivos, logs de firewall, proxy, VPN, EDR e autenticação.",
+  "sequenceItem": 1,
+  "icon": null,
+  "bannerImageUrl": null,
+  "completed": false,
+  "unlocked": true,
+  "learningPath": [
+    {
+      "lessonId": "67534720-44e3-5064-b180-cf6458e7b34c",
+      "title": "Operação em SOC 24x7 - Triagem, Falsos Positivos e Escalonamento",
+      "icon": null,
+      "stars": 0,
+      "unlocked": true,
+      "sequence": 1,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "title": "Análise de Logs de Firewall, Proxy, VPN e Endpoints (EDR)",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 2,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "title": "Mapeamento de Ataques com MITRE ATT&CK - Força Bruta, Phishing e Privilégios",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 3,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "title": "Documentação de Incidentes, SLAs, MTTR e Passagem de Turno no SOC",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 4,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "00000000-0000-0000-0000-000000000000",
+      "title": "Checkpoint da unidade",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 5,
+      "type": "checkpoint",
+      "checkpointId": "901a893a-3bf7-55a4-8cbb-04d8cd71f36e",
+      "challengeReached": false
+    }
+  ]
+}

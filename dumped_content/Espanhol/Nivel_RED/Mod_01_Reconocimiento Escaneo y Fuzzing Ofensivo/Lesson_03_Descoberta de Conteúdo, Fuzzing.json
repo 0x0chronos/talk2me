@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+    "attemptId": "178f8ed3-a1c5-58c7-b46a-eadf6e0b8bb5",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "b95c6944-6740-521b-8ad4-5b713fb1eee8",
+      "00ba14b3-2d14-5184-b551-cf67fd04d703",
+      "3b82b6d4-68aa-54a0-877c-54fd7e459e5e",
+      "1c6c0a9d-3b73-536d-a85a-e7d7fcde0d10"
+    ],
+    "practiceExerciseIds": [
+      "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+      "eadbe28d-6602-5852-aab6-c31a06d7088a",
+      "e3e22bd2-8a21-573d-a673-c3c0b9a53748",
+      "50118977-2daf-5d20-ad71-71962e99388a",
+      "2bff3bd9-25d1-5bde-9ea2-26943d14b7b8"
+    ],
+    "evaluationExerciseIds": [
+      "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+      "366836c4-ac2c-521f-b963-5b534919d982",
+      "0b39995d-3ceb-501c-b1db-4426769046a0"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "d6376c88-ebe5-50e5-b970-c7a7faf4f155",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "737a2020-4808-529d-b21f-de9cf865d59e",
+          "textContent": "<p>Explica com precisão por que você usa ffuf e Feroxbuster nos pentests.</p><p><strong>Para descubrir rutas ocultas, paneles administrativos y archivos de respaldo expuestos, utilizo herramientas rápidas como ffuf y Feroxbuster.</strong></p><p>Em português: <strong>Para descobrir rotas ocultas, painéis administrativos e arquivos de backup expostos, utilizo ferramentas rápidas como ffuf e Feroxbuster.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m01_l03_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c7af1bf7-6f5e-56e5-9ad7-ccee29a16631",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "a3235770-47bf-5a3b-996d-f78a813bd88a",
+          "textContent": "<p>Detalhe técnico prático (filtrar por status/tamanho no ffuf) que prova experiência real!</p><p><strong>Ajusto la tasa de peticiones por segundo y filtro por código de estado o tamaño de respuesta para evitar bloqueos del WAF.</strong></p><p>Em português: <strong>Ajusto a taxa de requisições por segundo e filtro por código de status ou tamanho de resposta para evitar bloqueios do WAF.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m01_l03_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "57048dbc-7d3f-508c-a2e6-58f8a0d97394",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "e8cc7829-c510-5565-9885-6c55abb6564b",
+          "textContent": "<p>Mostra responsabilidade operacional ao testar força bruta em ambientes de clientes.</p><p><strong>Con Hydra evalúo la exposición de servicios ante credenciales por defecto o contraseñas débiles, cuidando de no bloquear cuentas de usuarios.</strong></p><p>Em português: <strong>Com o Hydra avalio a exposição de serviços a credenciais padrão ou senhas fracas, tomando cuidado para não bloquear contas de usuários.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m01_l03_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ea31badc-ffdb-5faf-bfe5-3caf2d00b824",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "2e153f4f-1f1a-5090-bfbe-9260ce4545ce",
+          "textContent": "<p>No seu currículo você lista <strong>ffuf, Feroxbuster e Hydra</strong> — três ferramentas que os recrutadores de Red Team adoram perguntar:</p><ul><li><strong>Descubrimiento de contenido y fuzzing web (ffuf y Feroxbuster):</strong> encontrar diretórios ocultos, arquivos de backup (<em>archivos de respaldo</em>), painéis administrativos e parâmetros não documentados usando <em>diccionarios personalizados (wordlists)</em>.</li><li><strong>Auditoría de autenticación con Hydra:</strong> testar resistência a força bruta e credenciais padrão (<em>credenciales por defecto</em>) em SSH, FTP, RDP e formulários HTTP, respeitando políticas de bloqueio de conta.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>credenciales por defecto</strong> — default credentials (ex.: admin/admin)</li><li><strong>archivos de respaldo olvidados</strong> — arquivos de backup (.bak, .old, .zip) expostos na web</li><li><strong>tasa de peticiones por segundo</strong> — rate limit / velocidade de envio no ffuf ou Feroxbuster</li><li><strong>política de bloqueo de cuentas</strong> — account lockout policy (cuidado essencial ao usar Hydra)</li><li><strong>Palavra-chave de escrita: «tasa»</strong> (Limito la tasa de peticiones por segundo para no saturar el servidor del cliente.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "credenciales por defecto — default credentials (ex.: admin/admin)",
+        "archivos de respaldo olvidados — arquivos de backup (.bak, .old, .zip) expostos na web",
+        "tasa de peticiones por segundo — rate limit / velocidade de envio no ffuf ou Feroxbuster",
+        "política de bloqueo de cuentas — account lockout policy (cuidado essencial ao usar Hydra)"
+      ]
+    },
+    {
+      "id": "21617902-e964-5f77-b67e-45f3cef16fb8",
+      "title": "Fuzzing com ffuf/Feroxbuster e testes com Hydra",
+      "description": "<p>Laura pergunta como você utiliza ffuf, Feroxbuster e Hydra sem derrubar o ambiente do cliente.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Veo en tu currículum herramientas como ffuf, Feroxbuster e Hydra. ¿En qué fase de la auditoría las empleas y qué precauciones tomas?</div>\n  <div style=\"opacity: 0.55;\">Vejo no seu currículo ferramentas como ffuf, Feroxbuster e Hydra. Em que fase da auditoria você as emprega e quais precauções toma?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m01_l03_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Utilizo ffuf y Feroxbuster durante la enumeración web para encontrar directorios ocultos, puntos finales de API y archivos de configuración olvidados.</div>\n  <div style=\"opacity: 0.55;\">Utilizo ffuf e Feroxbuster durante a enumeração web para encontrar diretórios ocultos, endpoints de API e arquivos de configuração esquecidos.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m01_l03_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y cómo evitas saturar el servidor o bloquear cuentas al usar Hydra?</div>\n  <div style=\"opacity: 0.55;\">E como você evita saturar o servidor ou bloquear contas ao usar o Hydra?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m01_l03_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Limito el número de hilos y peticiones por segundo, y con Hydra pruebo listas reducidas de credenciales por defecto verificando antes la política de bloqueo.</div>\n  <div style=\"opacity: 0.55;\">Limito o número de threads e requisições por segundo e, com o Hydra, testo listas reduzidas de credenciais padrão verificando antes a política de bloqueio.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m01_l03_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "b95c6944-6740-521b-8ad4-5b713fb1eee8",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Veo en tu currículum herramientas como ffuf, Feroxbuster e Hydra. ¿En qué fase de la auditoría las empleas y qué precauciones tomas?»</p><p><em>(Vejo no seu currículo ferramentas como ffuf, Feroxbuster e Hydra. Em que fase da auditoria você as emprega e quais precauções toma?)</em></p>",
+      "contentPlain": "Veo en tu currículum herramientas como ffuf, Feroxbuster e Hydra. ¿En qué fase de la auditoría las empleas y qué precauciones tomas?",
+      "fileUrl": "https://talk2me.local/content/red_m01_l03_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Utilizo ffuf y Feroxbuster durante la enumeración web para encontrar directorios ocultos, puntos finales de API y archivos de configuración olvidados.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "97db1d42-409b-510b-a83a-f442f0708b05",
+          "textContent": "Utilizo ffuf y Feroxbuster durante la enumeración web para encontrar directorios ocultos, puntos finales de API y archivos de configuración olvidados.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "b95c6944-6740-521b-8ad4-5b713fb1eee8",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3dde0711-819d-5b17-ae1d-a103c4dac244",
+          "textContent": "Con Hydra evalúo la exposición de servicios ante credenciales por defecto o contraseñas débiles, cuidando de no bloquear cuentas de usuarios.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "b95c6944-6740-521b-8ad4-5b713fb1eee8",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "93f61833-7044-56ab-8182-5382bf3dcdd6",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "b95c6944-6740-521b-8ad4-5b713fb1eee8",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "39012428-66bb-589d-bb69-4a7c426e683c",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "b95c6944-6740-521b-8ad4-5b713fb1eee8",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "00ba14b3-2d14-5184-b551-cf67fd04d703",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Para descubrir rutas ocultas, paneles administrativos y archivos de respaldo expuestos, utilizo herramientas rápidas como ffuf y Feroxbuster.</strong></p>",
+      "contentPlain": "Para descubrir rutas ocultas, paneles administrativos y archivos de respaldo expuestos, utilizo herramientas rápidas como ffuf y Feroxbuster.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l03_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Para descobrir rotas ocultas, painéis administrativos e arquivos de backup expostos, utilizo ferramentas rápidas como ffuf e Feroxbuster.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "5e76c266-3c2f-5220-b0eb-4df6695f787b",
+          "textContent": "Para descobrir rotas ocultas, painéis administrativos e arquivos de backup expostos, utilizo ferramentas rápidas como ffuf e Feroxbuster.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "00ba14b3-2d14-5184-b551-cf67fd04d703",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e7764fd0-97ee-5574-99b6-afad175e277f",
+          "textContent": "Ajusto a taxa de requisições por segundo e filtro por código de status ou tamanho de resposta para evitar bloqueios do WAF.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "00ba14b3-2d14-5184-b551-cf67fd04d703",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "497c9b4f-feb1-5493-90b5-5961682b4b10",
+          "textContent": "Com o Hydra avalio a exposição de serviços a credenciais padrão ou senhas fracas, tomando cuidado para não bloquear contas de usuários.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "00ba14b3-2d14-5184-b551-cf67fd04d703",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "63eb0b79-0efd-57d6-9637-1b04625b4c40",
+          "textContent": "Vejo no seu currículo ferramentas como ffuf, Feroxbuster e Hydra. Em que fase da auditoria você as emprega e quais precauções toma?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "00ba14b3-2d14-5184-b551-cf67fd04d703",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "3b82b6d4-68aa-54a0-877c-54fd7e459e5e",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "4618f5ff-af88-561c-9baa-9781a993d3fa",
+          "leftContent": "credenciales por defecto",
+          "rightContent": "default credentials (ex.: admin/admin)",
+          "sequenceItem": 1,
+          "exerciseId": "3b82b6d4-68aa-54a0-877c-54fd7e459e5e"
+        },
+        {
+          "id": "40ba2f5f-221f-554d-b3ef-b556da9fe4a9",
+          "leftContent": "archivos de respaldo olvidados",
+          "rightContent": "arquivos de backup (.bak, .old, .zip) expostos na web",
+          "sequenceItem": 2,
+          "exerciseId": "3b82b6d4-68aa-54a0-877c-54fd7e459e5e"
+        },
+        {
+          "id": "3170b0f2-63bf-547e-b5f6-d9a315730461",
+          "leftContent": "tasa de peticiones por segundo",
+          "rightContent": "rate limit / velocidade de envio no ffuf ou Feroxbuster",
+          "sequenceItem": 3,
+          "exerciseId": "3b82b6d4-68aa-54a0-877c-54fd7e459e5e"
+        },
+        {
+          "id": "8c36cef3-21f1-58e8-9099-031b59be0223",
+          "leftContent": "política de bloqueo de cuentas",
+          "rightContent": "account lockout policy (cuidado essencial ao usar Hydra)",
+          "sequenceItem": 4,
+          "exerciseId": "3b82b6d4-68aa-54a0-877c-54fd7e459e5e"
+        }
+      ]
+    },
+    {
+      "id": "1c6c0a9d-3b73-536d-a85a-e7d7fcde0d10",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "c7a5bad6-9d1a-5cd1-9939-954c281ff86b",
+          "leftContent": "https://talk2me.local/content/red_m01_l03_c1.mp3",
+          "rightContent": "Para descubrir rutas ocultas, paneles administrativos y archivos de respaldo expuestos, utilizo herramientas rápidas como ffuf y Feroxbuster.",
+          "sequenceItem": 1,
+          "exerciseId": "1c6c0a9d-3b73-536d-a85a-e7d7fcde0d10"
+        },
+        {
+          "id": "abbaeb78-db49-5d99-95f2-42282002a952",
+          "leftContent": "https://talk2me.local/content/red_m01_l03_c2.mp3",
+          "rightContent": "Ajusto la tasa de peticiones por segundo y filtro por código de estado o tamaño de respuesta para evitar bloqueos del WAF.",
+          "sequenceItem": 2,
+          "exerciseId": "1c6c0a9d-3b73-536d-a85a-e7d7fcde0d10"
+        },
+        {
+          "id": "3ff4a014-6d3a-53a2-a1b8-93df2e3ec410",
+          "leftContent": "https://talk2me.local/content/red_m01_l03_c3.mp3",
+          "rightContent": "Con Hydra evalúo la exposición de servicios ante credenciales por defecto o contraseñas débiles, cuidando de no bloquear cuentas de usuarios.",
+          "sequenceItem": 3,
+          "exerciseId": "1c6c0a9d-3b73-536d-a85a-e7d7fcde0d10"
+        },
+        {
+          "id": "ed2cdb86-6df6-598f-ab74-c6fe4b433f6d",
+          "leftContent": "https://talk2me.local/content/red_m01_l03_d2.mp3",
+          "rightContent": "Utilizo ffuf y Feroxbuster durante la enumeración web para encontrar directorios ocultos, puntos finales de API y archivos de configuración olvidados.",
+          "sequenceItem": 4,
+          "exerciseId": "1c6c0a9d-3b73-536d-a85a-e7d7fcde0d10"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Default credentials (credenciais padrão de fábrica)», «Threads» e «Rate of requests per second» em espanhol técnico?</p>",
+      "contentPlain": "Como se diz «Default credentials (credenciais padrão de fábrica)», «Threads» e «Rate of requests per second» em espanhol técnico?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+      "feedbackError": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "17b919bc-fa36-5614-b24c-700b22f20b44",
+          "textContent": "Credenciales por defecto, hilos de ejecución y tasa de peticiones por segundo.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3bf08672-295e-5760-87fc-38567a905d36",
+          "textContent": "Contraseñas de tienda, cuerdas de red y velocidad de cartas.",
+          "isCorrect": false,
+          "incorrectReason": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+          "exerciseId": "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2e7a3931-1219-5cca-879c-6d55fe22dd34",
+          "textContent": "Claves rotas, líneas de código y peso de paquetes.",
+          "isCorrect": false,
+          "incorrectReason": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+          "exerciseId": "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4686c717-06b1-55c1-b95c-18b747fbfc65",
+          "textContent": "Nombres iniciales, cables de servidor y número de clics.",
+          "isCorrect": false,
+          "incorrectReason": "«Credenciales por defecto», «hilos (threads)» e «tasa de peticiones por segundo» são termos essenciais de pentesting.",
+          "exerciseId": "5ed87edd-fa99-5b0a-ba18-12cb8684c6ed",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "eadbe28d-6602-5852-aab6-c31a06d7088a",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "afcee592-79a8-57aa-a921-2356352da69f",
+          "leftContent": "https://talk2me.local/content/red_m01_l03_d1.mp3",
+          "rightContent": "Vejo no seu currículo ferramentas como ffuf, Feroxbuster e Hydra. Em que fase da auditoria você as emprega e quais precauções toma?",
+          "sequenceItem": 1,
+          "exerciseId": "eadbe28d-6602-5852-aab6-c31a06d7088a"
+        },
+        {
+          "id": "31bcc934-f972-545f-bd9a-6506aa4d30d1",
+          "leftContent": "https://talk2me.local/content/red_m01_l03_d2.mp3",
+          "rightContent": "Utilizo ffuf e Feroxbuster durante a enumeração web para encontrar diretórios ocultos, endpoints de API e arquivos de configuração esquecidos.",
+          "sequenceItem": 2,
+          "exerciseId": "eadbe28d-6602-5852-aab6-c31a06d7088a"
+        },
+        {
+          "id": "e55388b6-1b51-5001-963a-c03c369f9147",
+          "leftContent": "https://talk2me.local/content/red_m01_l03_d3.mp3",
+          "rightContent": "E como você evita saturar o servidor ou bloquear contas ao usar o Hydra?",
+          "sequenceItem": 3,
+          "exerciseId": "eadbe28d-6602-5852-aab6-c31a06d7088a"
+        },
+        {
+          "id": "7f8dde10-dbf7-560f-a054-530b5fee8e1d",
+          "leftContent": "https://talk2me.local/content/red_m01_l03_d4.mp3",
+          "rightContent": "Limito o número de threads e requisições por segundo e, com o Hydra, testo listas reduzidas de credenciais padrão verificando antes a política de bloqueio.",
+          "sequenceItem": 4,
+          "exerciseId": "eadbe28d-6602-5852-aab6-c31a06d7088a"
+        }
+      ]
+    },
+    {
+      "id": "e3e22bd2-8a21-573d-a673-c3c0b9a53748",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Limito la _____ de peticiones por segundo para no saturar el servidor del cliente.</strong></p><p>Tradução: Limito a taxa de requisições por segundo para não saturar o servidor do cliente.</p>",
+      "contentPlain": "Limito la _____ de peticiones por segundo para no saturar el servidor del cliente. Tradução: Limito a taxa de requisições por segundo para não saturar o servidor do cliente.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l03_spk.mp3",
+      "feedbackSuccess": "Correto! «tasa» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «tasa».",
+      "answerType": "buildWord",
+      "expectedAnswer": "tasa",
+      "typeSpecificData": "{\"word\": \"tasa\", \"translation\": \"Limito a taxa de requisições por segundo para não saturar o servidor do cliente.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "50118977-2daf-5d20-ad71-71962e99388a",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l03_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Utilizo herramientas de descubrimiento para encontrar directorios ocultos y archivos de configuración expuestos.",
+      "typeSpecificData": "{\"expectedText\": \"Utilizo herramientas de descubrimiento para encontrar directorios ocultos y archivos de configuración expuestos.\", \"audioModelUrl\": \"https://talk2me.local/content/red_m01_l03_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2bff3bd9-25d1-5bde-9ea2-26943d14b7b8",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Veo en tu currículum herramientas como ffuf, Feroxbuster e Hydra. ¿En qué fase de la auditoría las empleas y qué precauciones tomas?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Utilizo ffuf y Feroxbuster durante la enumeración web para encontrar directorios ocultos, puntos finales de API y archivos de configuración olvidados.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l03_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Utilizo ffuf y Feroxbuster durante la enumeración web para encontrar directorios ocultos, puntos finales de API y archivos de configuración olvidados.",
+      "typeSpecificData": "{\"expectedText\": \"Utilizo ffuf y Feroxbuster durante la enumeración web para encontrar directorios ocultos, puntos finales de API y archivos de configuración olvidados.\", \"audioModelUrl\": \"https://talk2me.local/content/red_m01_l03_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo evitas saturar el servidor o bloquear cuentas al usar Hydra?»</strong></p><p><em>(E como você evita saturar o servidor ou bloquear contas ao usar o Hydra?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo evitas saturar el servidor o bloquear cuentas al usar Hydra?",
+      "fileUrl": "https://talk2me.local/content/red_m01_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Limito el número de hilos y peticiones por segundo, y con Hydra pruebo listas reducidas de credenciales por defecto verificando antes la política de bloqueo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "97da5d28-00f0-58ae-864f-0066e10974dd",
+          "textContent": "Limito el número de hilos y peticiones por segundo, y con Hydra pruebo listas reducidas de credenciales por defecto verificando antes la política de bloqueo.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f3f1f390-77c9-5734-90f8-7ba77ddc29e4",
+          "textContent": "Utilizo ffuf y Feroxbuster durante la enumeración web para encontrar directorios ocultos, puntos finales de API y archivos de configuración olvidados.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d003dd5c-5917-5858-abe2-55fb1f70ecd7",
+          "textContent": "Para descubrir rutas ocultas, paneles administrativos y archivos de respaldo expuestos, utilizo herramientas rápidas como ffuf y Feroxbuster.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0aaff83f-8305-5ebb-97e9-dff63e78577b",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "e34948f8-b6bb-52d2-8271-00c71d59cc14",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "366836c4-ac2c-521f-b963-5b534919d982",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Ajusto la tasa de peticiones por segundo y filtro por código de estado o tamaño de respuesta para evitar _____ del WAF.</strong></p><p>Tradução: Ajusto a taxa de requisições por segundo e filtro por código de status ou tamanho de resposta para evitar bloqueios do WAF.</p>",
+      "contentPlain": "Ajusto la tasa de peticiones por segundo y filtro por código de estado o tamaño de respuesta para evitar _____ del WAF. Tradução: Ajusto a taxa de requisições por segundo e filtro por código de status ou tamanho de resposta para evitar bloqueios do WAF.",
+      "fileUrl": "https://talk2me.local/content/red_m01_l03_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «bloqueos» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «bloqueos».",
+      "answerType": "buildWord",
+      "expectedAnswer": "bloqueos",
+      "typeSpecificData": "{\"word\": \"bloqueos\", \"translation\": \"Ajusto a taxa de requisições por segundo e filtro por código de status ou tamanho de resposta para evitar bloqueios do WAF.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0b39995d-3ceb-501c-b1db-4426769046a0",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "ce542c96-a8dc-5a5a-987c-f046fab3f4f1",
+          "leftContent": "Para descobrir rotas ocultas, painéis administrativos e arquivos de backup expostos, utilizo ferramentas rápidas como ffuf e Feroxbuster.",
+          "rightContent": "Para descubrir rutas ocultas, paneles administrativos y archivos de respaldo expuestos, utilizo herramientas rápidas como ffuf y Feroxbuster.",
+          "sequenceItem": 1,
+          "exerciseId": "0b39995d-3ceb-501c-b1db-4426769046a0"
+        },
+        {
+          "id": "ac834ff1-99c2-5b2f-8681-ae35435f2e3d",
+          "leftContent": "Ajusto a taxa de requisições por segundo e filtro por código de status ou tamanho de resposta para evitar bloqueios do WAF.",
+          "rightContent": "Ajusto la tasa de peticiones por segundo y filtro por código de estado o tamaño de respuesta para evitar bloqueos del WAF.",
+          "sequenceItem": 2,
+          "exerciseId": "0b39995d-3ceb-501c-b1db-4426769046a0"
+        },
+        {
+          "id": "6d30a347-5f9b-52b7-b842-53862bbf1f8a",
+          "leftContent": "Com o Hydra avalio a exposição de serviços a credenciais padrão ou senhas fracas, tomando cuidado para não bloquear contas de usuários.",
+          "rightContent": "Con Hydra evalúo la exposición de servicios ante credenciales por defecto o contraseñas débiles, cuidando de no bloquear cuentas de usuarios.",
+          "sequenceItem": 3,
+          "exerciseId": "0b39995d-3ceb-501c-b1db-4426769046a0"
+        },
+        {
+          "id": "d341b62d-63cd-53b4-b368-3a0cee124659",
+          "leftContent": "Limito o número de threads e requisições por segundo e, com o Hydra, testo listas reduzidas de credenciais padrão verificando antes a política de bloqueio.",
+          "rightContent": "Limito el número de hilos y peticiones por segundo, y con Hydra pruebo listas reducidas de credenciales por defecto verificando antes la política de bloqueo.",
+          "sequenceItem": 4,
+          "exerciseId": "0b39995d-3ceb-501c-b1db-4426769046a0"
+        }
+      ]
+    }
+  ],
+  "title": "Descoberta de Conteúdo, Fuzzing e Força Bruta com ffuf, Feroxbuster e Hydra"
+}

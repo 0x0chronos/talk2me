@@ -1,0 +1,694 @@
+{
+  "id": "83cfdaef-fc10-5258-96ab-5cd72b80edfa",
+  "title": "Checkpoint: Blue Team II - IBM QRadar, Microsoft Sentinel e IBM Resilient (SOAR)",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "364cbf9c-0f3f-59ba-8d28-d6a1fc08bc42",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": [
+        {
+          "id": "f3492bd8-f7ac-5661-beb3-16a9b6e67385",
+          "leftContent": "ajustar reglas de correlación",
+          "rightContent": "fazer tuning de regras no QRadar / Sentinel",
+          "sequenceItem": 1,
+          "exerciseId": "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599"
+        },
+        {
+          "id": "7fd546ec-949a-5a71-a3e7-6ac01cc1b28c",
+          "leftContent": "automatizar playbooks en IBM Resilient",
+          "rightContent": "criar workflows SOAR de contenção e enriquecimento",
+          "sequenceItem": 2,
+          "exerciseId": "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599"
+        },
+        {
+          "id": "d460ced1-4f10-5264-a1bf-c848e659fa7e",
+          "leftContent": "enriquecimiento de datos",
+          "rightContent": "consulta automática de Threat Intel, WHOIS e geolocalização",
+          "sequenceItem": 3,
+          "exerciseId": "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599"
+        },
+        {
+          "id": "1b818f30-968d-5de9-aad7-befbb9b075ee",
+          "leftContent": "tiempo medio de respuesta (MTTR)",
+          "rightContent": "métrica reduzida pela sua triagem e automação",
+          "sequenceItem": 4,
+          "exerciseId": "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599"
+        }
+      ]
+    },
+    {
+      "id": "188d8826-f04c-5399-a6a3-4ca9c6096f00",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como explicar em espanhol sua experiência com o IBM Resilient e MITRE ATT&CK na iT.eam?</p>",
+      "contentPlain": "Como explicar em espanhol sua experiência com o IBM Resilient e MITRE ATT&CK na iT.eam?",
+      "fileUrl": null,
+      "feedbackSuccess": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+      "feedbackError": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "b7ca6d5b-67d9-58e9-b0c5-d588d53b84fd",
+          "textContent": "Automatizo playbooks en IBM Resilient para enriquecer alertas y utilizo MITRE ATT&CK para clasificar las tácticas y técnicas del atacante.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "b758c2ba-883e-5237-969a-04b412598eac",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ef70acba-14f8-5d41-9646-1c17414e799f",
+          "textContent": "Solo miro la pantalla del QRadar y llamo por teléfono cuando sale una luz roja.",
+          "isCorrect": false,
+          "incorrectReason": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+          "exerciseId": "b758c2ba-883e-5237-969a-04b412598eac",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9f5991cc-778d-552a-a9f4-a64b5df6542f",
+          "textContent": "Apago las reglas del SIEM para que no salgan alertas durante mi turno.",
+          "isCorrect": false,
+          "incorrectReason": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+          "exerciseId": "b758c2ba-883e-5237-969a-04b412598eac",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "fe1b7d06-eeb2-5df7-954b-a7cbfe463ca1",
+          "textContent": "No utilizo marcos de referencia ni automatización en el centro de operaciones.",
+          "isCorrect": false,
+          "incorrectReason": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+          "exerciseId": "b758c2ba-883e-5237-969a-04b412598eac",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d0458242-76ef-51ef-9851-c3a4de692103",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¡Qué bien! ¿Y habéis implementado alguna automatización con herramientas SOAR?»</strong></p><p><em>(Que ótimo! E vocês implementaram alguma automação com ferramentas SOAR?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¡Qué bien! ¿Y habéis implementado alguna automatización con herramientas SOAR?",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Sí, automatizo playbooks en IBM Resilient para enriquecer alertas con datos de geolocalización e inteligencia de amenazas, reduciendo el tiempo medio de respuesta.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 3,
+      "options": [
+        {
+          "id": "9c3adecc-db89-5842-9441-12f2676c2f88",
+          "textContent": "Sí, automatizo playbooks en IBM Resilient para enriquecer alertas con datos de geolocalización e inteligencia de amenazas, reduciendo el tiempo medio de respuesta.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9a2b6f3b-9c1f-5473-8c50-c2a4f29d7f5e",
+          "textContent": "Además del triaje y escalado a nivel dos y tres, ajusto reglas de correlación en QRadar para reducir falsos positivos y mapeo las tácticas con MITRE ATT&CK.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2bee58f4-6f3b-542d-89dd-d197bd69afa4",
+          "textContent": "En mi puesto actual realizo monitorización continua en IBM QRadar y Microsoft Sentinel, correlacionando registros de cortafuegos, proxies y puntos finales.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "03753b5b-95ff-5160-be33-6c06698b901e",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "feb936eb-0889-5846-abad-f44e2e08d836",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "4a736abb-f22a-5e54-982f-8e5f104e8028",
+          "leftContent": "una ofensa en QRadar",
+          "rightContent": "alerta correlacionado gerado pelo SIEM (Offense)",
+          "sequenceItem": 1,
+          "exerciseId": "af084368-f385-5aed-a232-cd1818ecf2aa"
+        },
+        {
+          "id": "b334bc22-4540-52c3-8ff9-e52fb8472ee2",
+          "leftContent": "conjunto de referencia",
+          "rightContent": "Reference Set (lista de IPs, hashes ou usuários no QRadar)",
+          "sequenceItem": 2,
+          "exerciseId": "af084368-f385-5aed-a232-cd1818ecf2aa"
+        },
+        {
+          "id": "a65cb45e-da41-54e5-b004-da3e6bb299a6",
+          "leftContent": "la carga útil (payload)",
+          "rightContent": "conteúdo bruto original do log recebido",
+          "sequenceItem": 3,
+          "exerciseId": "af084368-f385-5aed-a232-cd1818ecf2aa"
+        },
+        {
+          "id": "f7318471-6fe9-54c7-9dd3-f9c51490ea9e",
+          "leftContent": "cuadro de mando",
+          "rightContent": "dashboard / painel executivo de monitoramento",
+          "sequenceItem": 4,
+          "exerciseId": "af084368-f385-5aed-a232-cd1818ecf2aa"
+        }
+      ]
+    },
+    {
+      "id": "0e3c50e5-232a-5cc0-bb10-f882db19538e",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>No IBM QRadar, como se diz em espanhol «Offenses», «Payload do log» e «Dashboard»?</p>",
+      "contentPlain": "No IBM QRadar, como se diz em espanhol «Offenses», «Payload do log» e «Dashboard»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+      "feedbackError": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 5,
+      "options": [
+        {
+          "id": "f8e2b08f-208d-5558-90e8-9e4ab35747e2",
+          "textContent": "Las ofensas, la carga útil del evento y el cuadro de mando (o panel de control).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "25e5beca-b44d-53c6-9131-a2430d95742c",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e17dd298-25f4-55f1-a66a-44dd52bd9303",
+          "textContent": "Los insultos, el peso del archivo y la pizarra.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+          "exerciseId": "25e5beca-b44d-53c6-9131-a2430d95742c",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "dd6a3125-b989-5727-a7e1-a558e52c07b4",
+          "textContent": "Las peleas, el paquete de red y la ventana.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+          "exerciseId": "25e5beca-b44d-53c6-9131-a2430d95742c",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7bea66ed-e75e-5208-8e86-c6161a9f323e",
+          "textContent": "Los errores, el texto bruto y la mesa de control.",
+          "isCorrect": false,
+          "incorrectReason": "Dominar os termos «ofensas», «carga útil (payload)», «conjunto de referencia (Reference Set)» e «cuadro de mando (dashboard)» impressiona qualquer gestor de QRadar na Espanha.",
+          "exerciseId": "25e5beca-b44d-53c6-9131-a2430d95742c",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "79748bad-7042-5ded-adf5-c7d01f7a3f42",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y si detectas que una tarea administrativa legítima está generando decenas de ofensas repetitivas?»</strong></p><p><em>(E se você detectar que uma tarefa administrativa legítima está gerando dezenas de ofensas repetitivas?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y si detectas que una tarea administrativa legítima está generando decenas de ofensas repetitivas?",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Ajusto las condiciones de la regla o incluyo los servidores autorizados en un conjunto de referencia en QRadar, reduciendo los falsos positivos sin perder visibilidad.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "sequenceItem": 6,
+      "options": [
+        {
+          "id": "d825b70a-0a4e-58d3-8d80-14d1581b19b9",
+          "textContent": "Ajusto las condiciones de la regla o incluyo los servidores autorizados en un conjunto de referencia en QRadar, reduciendo los falsos positivos sin perder visibilidad.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3ee8f43d-9f69-5662-afc5-3a5a50e6890c",
+          "textContent": "Primero reviso el resumen de la ofensa, los eventos asociados y la carga útil original para entender qué regla de correlación se activó.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "951618eb-9fad-523d-af3e-19324412b3ee",
+          "textContent": "En IBM QRadar investigo las ofensas analizando las reglas que las dispararon, las fuentes de registros involucradas y la carga útil de cada evento.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a9ae6fc4-788b-581e-8078-d8d8bfae88cc",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "4657fa21-b1d3-56f6-9e06-333b6fb4f868",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8ec0d8ee-a651-53e2-8083-e36eebfb1051",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 7,
+      "options": [],
+      "associations": [
+        {
+          "id": "20d1a257-5fef-5dbf-bbf5-5d6c4a4851b7",
+          "leftContent": "reglas analíticas",
+          "rightContent": "Analytics Rules no Microsoft Sentinel",
+          "sequenceItem": 1,
+          "exerciseId": "df7b69f4-39f9-533f-9c63-e8fa2806a6e5"
+        },
+        {
+          "id": "69b5edc1-08d1-5164-be7a-b47b7c02ff8b",
+          "leftContent": "gráfico de investigación",
+          "rightContent": "Investigation Graph de entidades no Sentinel",
+          "sequenceItem": 2,
+          "exerciseId": "df7b69f4-39f9-533f-9c63-e8fa2806a6e5"
+        },
+        {
+          "id": "87b5e344-8ea4-5cc4-a820-d95f3f52ae71",
+          "leftContent": "entidades afectadas",
+          "rightContent": "usuários, hosts, IPs e hashes ligados ao incidente",
+          "sequenceItem": 3,
+          "exerciseId": "df7b69f4-39f9-533f-9c63-e8fa2806a6e5"
+        },
+        {
+          "id": "1ceabf6c-47f9-5a0e-bca9-38773168dfd1",
+          "leftContent": "entornos híbridos y en la nube",
+          "rightContent": "ambientes on-premises + Cloud (Azure/AWS)",
+          "sequenceItem": 4,
+          "exerciseId": "df7b69f4-39f9-533f-9c63-e8fa2806a6e5"
+        }
+      ]
+    },
+    {
+      "id": "683bcfdd-5882-5b80-bd1f-f21fbd89f945",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se chamam em espanhol as «Analytics Rules» e o «Investigation Graph» do Microsoft Sentinel?</p>",
+      "contentPlain": "Como se chamam em espanhol as «Analytics Rules» e o «Investigation Graph» do Microsoft Sentinel?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+      "feedbackError": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 8,
+      "options": [
+        {
+          "id": "e5b71c11-1fbc-5dfc-9637-c052d74a82d6",
+          "textContent": "Las reglas analíticas y el gráfico de investigación.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "824188d3-3e5b-5305-91ce-e18fe307eecd",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "87adc661-4821-5066-bcd7-35bd86a7060a",
+          "textContent": "Las leyes de cálculo y el dibujo de red.",
+          "isCorrect": false,
+          "incorrectReason": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+          "exerciseId": "824188d3-3e5b-5305-91ce-e18fe307eecd",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "eaab95f3-9887-5a49-acd4-09c3e1062c3d",
+          "textContent": "Los filtros de nube y el mapa de calor.",
+          "isCorrect": false,
+          "incorrectReason": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+          "exerciseId": "824188d3-3e5b-5305-91ce-e18fe307eecd",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f37194f9-b0f6-5835-ac22-4adb40d3b417",
+          "textContent": "Las normas de texto y la tabla de colores.",
+          "isCorrect": false,
+          "incorrectReason": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+          "exerciseId": "824188d3-3e5b-5305-91ce-e18fe307eecd",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "ae631d63-3bef-55f6-8a34-dfb77116edd6",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Qué ventaja encuentras al trabajar tanto con QRadar como con Microsoft Sentinel?»</strong></p><p><em>(Que vantagem você encontra ao trabalhar tanto com o QRadar quanto com o Microsoft Sentinel?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Qué ventaja encuentras al trabajar tanto con QRadar como con Microsoft Sentinel?",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Conocer ambos SIEM me permite adaptarme rápidamente a entornos híbridos o en la nube y aplicar la misma lógica de correlación y reducción de falsos positivos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 9,
+      "options": [
+        {
+          "id": "38dae7e1-a3bd-59de-9881-182200591b88",
+          "textContent": "Conocer ambos SIEM me permite adaptarme rápidamente a entornos híbridos o en la nube y aplicar la misma lógica de correlación y reducción de falsos positivos.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b281df64-808d-5424-a09a-7501128fd2c1",
+          "textContent": "Utilizo el gráfico de investigación para revisar las entidades afectadas y escribo consultas en KQL sobre los registros de inicio de sesión y de cortafuegos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a3b25f56-7f1c-5731-b321-2001f9e32ef1",
+          "textContent": "En Microsoft Sentinel investigo incidentes ejecutando consultas en KQL para filtrar eventos de inicio de sesión, procesos y tráfico de red.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f0cc5951-975c-5ed8-99a7-279ebe2df413",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4b45bb7b-24b7-5ebc-9d28-3583c5921ea4",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 10,
+      "options": [],
+      "associations": [
+        {
+          "id": "e748202b-a09d-50db-bd01-34afda7462fd",
+          "leftContent": "flujo de trabajo (workflow)",
+          "rightContent": "sequência automatizada de etapas no SOAR",
+          "sequenceItem": 1,
+          "exerciseId": "34c5becc-845d-5286-9300-10b82121f03c"
+        },
+        {
+          "id": "565fb5eb-d1f1-5657-9ef0-6f6170f9ef2a",
+          "leftContent": "inteligencia de amenazas",
+          "rightContent": "Threat Intelligence (feeds de reputação de IoCs)",
+          "sequenceItem": 2,
+          "exerciseId": "34c5becc-845d-5286-9300-10b82121f03c"
+        },
+        {
+          "id": "498f2297-0e03-5602-babf-0918fa2f8d6e",
+          "leftContent": "notificación automática",
+          "rightContent": "alerta imediato enviado às áreas envolvidas",
+          "sequenceItem": 3,
+          "exerciseId": "34c5becc-845d-5286-9300-10b82121f03c"
+        },
+        {
+          "id": "0eddf128-dc69-5b5f-b684-752816e2b602",
+          "leftContent": "tareas manuales repetitivas",
+          "rightContent": "trabalho operacional que o SOAR automatiza",
+          "sequenceItem": 4,
+          "exerciseId": "34c5becc-845d-5286-9300-10b82121f03c"
+        }
+      ]
+    },
+    {
+      "id": "f82bb82c-d3bf-5643-976c-0d43845f1bd9",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual é o principal benefício de negócio de automatizar o enriquecimento (Threat Intel, WHOIS, geolocalização) no IBM Resilient que você deve destacar na entrevista?</p>",
+      "contentPlain": "Qual é o principal benefício de negócio de automatizar o enriquecimento (Threat Intel, WHOIS, geolocalização) no IBM Resilient que você deve destacar na entrevista?",
+      "fileUrl": null,
+      "feedbackSuccess": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+      "feedbackError": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 11,
+      "options": [
+        {
+          "id": "2806ae66-e8a9-568a-90ed-4fad452192c3",
+          "textContent": "Reduzir o trabalho manual repetitivo do analista N1 e diminuir drasticamente o tempo médio de resposta (MTTR).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ce1edd34-dc1b-52a4-9d03-236199f899cd",
+          "textContent": "Substituir todos os firewalls da empresa por planilhas.",
+          "isCorrect": false,
+          "incorrectReason": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+          "exerciseId": "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "27c94125-a924-505b-8657-543e5f867376",
+          "textContent": "Fazer com que o SIEM pare de coletar registros de rede.",
+          "isCorrect": false,
+          "incorrectReason": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+          "exerciseId": "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3a242883-72e7-51b8-9432-5340c19cfcf5",
+          "textContent": "Aumentar o número de falsos positivos enviados aos clientes.",
+          "isCorrect": false,
+          "incorrectReason": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+          "exerciseId": "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "340e693e-6c79-55c9-9568-c577eb7f7690",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¡Qué útil! ¿Y el playbook también ejecuta alguna acción de respuesta o notificación?»</strong></p><p><em>(Que útil! E o playbook também executa alguma ação de resposta ou notificação?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¡Qué útil! ¿Y el playbook también ejecuta alguna acción de respuesta o notificación?",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Sí, si la reputación es maliciosa, el playbook sugiere el bloqueo para contención y envía una notificación automática al equipo responsable del activo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 12,
+      "options": [
+        {
+          "id": "a09b2ead-3a9b-5f5e-87eb-74c4499cd598",
+          "textContent": "Sí, si la reputación es maliciosa, el playbook sugiere el bloqueo para contención y envía una notificación automática al equipo responsable del activo.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "31b1e033-cc0a-579a-a4f7-61657deb87c5",
+          "textContent": "Claro. Configuré un flujo de trabajo que, al recibir una ofensa de QRadar, extrae automáticamente las direcciones IP y consulta su reputación, WHOIS y geolocalización.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8d8ead4f-ca95-57e2-b6ac-fdf93598da63",
+          "textContent": "En IBM Resilient diseño flujos de trabajo automáticos para enriquecer los indicadores de compromiso con inteligencia de amenazas, datos WHOIS y geolocalización.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f7971928-ad77-5f76-826e-28718aa97a97",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

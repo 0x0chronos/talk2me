@@ -96,19 +96,51 @@
     "maxStars": 156
   },
   {
-    "levelId": "694c2af0-687f-5fd5-b365-d562e52f10c2",
-    "name": "TI",
-    "sequence": 7,
-    "label": "TI & Ciberseguridad (España)",
+    "levelId": "13ecdca7-fc5e-50e3-941c-256fa72a6e61",
+    "name": "BLUE",
+    "sequence": 6,
+    "label": "Blue Team, SOC, SIEM (QRadar/Sentinel) & DFIR",
     "icon": null,
     "bannerImageUrl": null,
     "unlocked": true,
     "completed": false,
     "completedByPlacement": false,
     "isCurrent": false,
-    "totalModules": 4,
+    "totalModules": 3,
     "completedModules": 0,
     "totalStars": 0,
-    "maxStars": 60
+    "maxStars": 45
+  },
+  {
+    "levelId": "7b7967bf-216c-5899-bc91-8c348254973e",
+    "name": "RED",
+    "sequence": 7,
+    "label": "Red Team, Pentest Web, APIs (ACP) & Active Directory",
+    "icon": null,
+    "bannerImageUrl": null,
+    "unlocked": true,
+    "completed": false,
+    "completedByPlacement": false,
+    "isCurrent": false,
+    "totalModules": 3,
+    "completedModules": 0,
+    "totalStars": 0,
+    "maxStars": 45
+  },
+  {
+    "levelId": "694c2af0-687f-5fd5-b365-d562e52f10c2",
+    "name": "TI",
+    "sequence": 8,
+    "label": "Entrevista TI & Perfil Rony Novais (España)",
+    "icon": null,
+    "bannerImageUrl": null,
+    "unlocked": true,
+    "completed": false,
+    "completedByPlacement": false,
+    "isCurrent": false,
+    "totalModules": 3,
+    "completedModules": 0,
+    "totalStars": 0,
+    "maxStars": 45
   }
 ]

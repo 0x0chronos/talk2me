@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+    "attemptId": "551b828b-5604-5f8d-8cee-eacaad2fe2da",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "ae63ffc8-0d4b-5a63-a2ab-734af1d3d896",
+      "07f008ef-6f69-5d27-a4d5-926c92b38818",
+      "f0629003-85fd-576e-99ba-91ac72beaf99",
+      "291465a6-1d11-5051-8bc3-7cc6805df939"
+    ],
+    "practiceExerciseIds": [
+      "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+      "fd6f701f-febd-5d49-9d02-654c4ea0ea20",
+      "ffe3b21d-2cde-5c6e-aba7-c463db610756",
+      "5c1a01da-7142-52f9-bb05-9c75b90fe43c",
+      "14678402-420b-5f2d-84bd-1584efad981a"
+    ],
+    "evaluationExerciseIds": [
+      "cdc27606-d329-5933-8626-25624da4365d",
+      "19c4abdd-803d-5b2c-92fe-449d2c7b92ac",
+      "c9dc988e-c136-5f36-9635-d22b10bf8724"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "8f69a2ca-0219-53fe-a8a1-53b1d4565980",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "1167bb08-c160-5183-8582-3e4a328b3194",
+          "textContent": "<p>Evita confronto e foca em evidência técnica e parceria.</p><p><strong>Cuando un equipo cuestiona un hallazgo, muestro una prueba de concepto práctica para evidenciar el impacto real y colaboro en la solución.</strong></p><p>Em português: <strong>Quando uma equipe questiona um achado, mostro uma prova de conceito prática para evidenciar o impacto real e colaboro na solução.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d67de36f-9106-55de-8830-c8b41acbf455",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "8fb7f6a8-f3b5-5103-8515-c6c496e34273",
+          "textContent": "<p>Transparência imediata é a atitude mais valorizada em segurança ofensiva.</p><p><strong>Si durante una prueba noto degradación en el servicio, detengo el escaneo de inmediato y aviso al equipo de infraestructura.</strong></p><p>Em português: <strong>Se durante um teste noto degradação no serviço, interrompo o scan imediatamente e aviso a equipe de infraestrutura.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f832bf24-64e5-5040-a192-61fc8e017836",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "f40980cf-fedd-5a8c-be72-4e65570e0ea6",
+          "textContent": "<p>A expressão idiomática espanhola «trabajar codo con codo» (trabalhar lado a lado / ombro a ombro) causa excelente impressão!</p><p><strong>Mi objetivo no es señalar culpables, sino trabajar codo con codo con desarrollo para construir aplicaciones más seguras.</strong></p><p>Em português: <strong>Meu objetivo não é apontar culpados, mas trabalhar lado a lado com o desenvolvimento para construir aplicações mais seguras.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "23041a84-2e5c-5902-81d4-1a73d00c10ab",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "793580a0-a927-5cd8-9193-73502c8e10bc",
+          "textContent": "<p>Duas perguntas comportamentais clássicas em entrevistas na Espanha:</p><ul><li><strong>¿Qué haces cuando un desarrollador no está de acuerdo con la severidad de un hallazgo?</strong> Demonstre empatia e apresente uma <em>prueba de concepto (PoC)</em> prática.</li><li><strong>¿Alguna vez un escaneo tuyo causó una caída o degradación del servicio?</strong> Mostre transparência, comunicação imediata e ajuste da taxa de requisições (<em>limitar la tasa de peticiones</em>).</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>trabajar codo con codo</strong> — trabalhar lado a lado / em parceria</li><li><strong>encadenar vulnerabilidades</strong> — chaining de vulnerabilidades (combinar falhas)</li><li><strong>degradación del servicio</strong> — lentidão ou instabilidade no ambiente</li><li><strong>señalar culpables</strong> — apontar culpados</li><li><strong>Palavra-chave de escrita: «codo»</strong> (Trabajo codo con codo con los desarrolladores para proteger las aplicaciones.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "trabajar codo con codo — trabalhar lado a lado / em parceria",
+        "encadenar vulnerabilidades — chaining de vulnerabilidades (combinar falhas)",
+        "degradación del servicio — lentidão ou instabilidade no ambiente",
+        "señalar culpables — apontar culpados"
+      ]
+    },
+    {
+      "id": "2ee04381-559d-5cd8-bb01-5355dc92614d",
+      "title": "Resolvendo atrito com a equipe de Desenvolvimento",
+      "description": "<p>Laura pergunta como você reage quando o time de engenharia contesta seu relatório.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Cómo manejas la situación cuando un líder de desarrollo dice que tu hallazgo no es explotable y se niega a corregirlo?</div>\n  <div style=\"opacity: 0.55;\">Como você lida com a situação quando um líder de desenvolvimento diz que seu achado não é explorável e se recusa a corrigi-lo?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Le pido una breve reunión para mostrarle la prueba de concepto en vivo y explicarle cómo un atacante podría encadenar ese fallo.</div>\n  <div style=\"opacity: 0.55;\">Peço uma breve reunião para mostrar a prova de conceito ao vivo e explicar como um atacante poderia encadear essa falha.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y si el equipo tiene poco tiempo para implementar la solución ideal?</div>\n  <div style=\"opacity: 0.55;\">E se a equipe tiver pouco tempo para implementar a solução ideal?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Trabajo codo con codo con ellos para encontrar la corrección más sencilla y efectiva en su propio lenguaje de programación.</div>\n  <div style=\"opacity: 0.55;\">Trabalho lado a lado com eles para encontrar a correção mais simples e efetiva na própria linguagem de programação deles.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l02_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "ae63ffc8-0d4b-5a63-a2ab-734af1d3d896",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «¿Cómo manejas la situación cuando un líder de desarrollo dice que tu hallazgo no es explotable y se niega a corregirlo?»</p><p><em>(Como você lida com a situação quando um líder de desenvolvimento diz que seu achado não é explorável e se recusa a corrigi-lo?)</em></p>",
+      "contentPlain": "¿Cómo manejas la situación cuando un líder de desarrollo dice que tu hallazgo no es explotable y se niega a corregirlo?",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l02_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Le pido una breve reunión para mostrarle la prueba de concepto en vivo y explicarle cómo un atacante podría encadenar ese fallo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "4eefe559-57b3-5735-aab2-8b52d1a7c779",
+          "textContent": "Le pido una breve reunión para mostrarle la prueba de concepto en vivo y explicarle cómo un atacante podría encadenar ese fallo.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "ae63ffc8-0d4b-5a63-a2ab-734af1d3d896",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "65546370-39a3-5d6d-8a07-ba72d9096dca",
+          "textContent": "Mi objetivo no es señalar culpables, sino trabajar codo con codo con desarrollo para construir aplicaciones más seguras.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "ae63ffc8-0d4b-5a63-a2ab-734af1d3d896",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e25c3a70-895c-5b3c-a40f-b4619845d1c0",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "ae63ffc8-0d4b-5a63-a2ab-734af1d3d896",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7ad9ecc0-e60c-567f-8427-0f1a6e081a4d",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "ae63ffc8-0d4b-5a63-a2ab-734af1d3d896",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "07f008ef-6f69-5d27-a4d5-926c92b38818",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Cuando un equipo cuestiona un hallazgo, muestro una prueba de concepto práctica para evidenciar el impacto real y colaboro en la solución.</strong></p>",
+      "contentPlain": "Cuando un equipo cuestiona un hallazgo, muestro una prueba de concepto práctica para evidenciar el impacto real y colaboro en la solución.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l02_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Quando uma equipe questiona um achado, mostro uma prova de conceito prática para evidenciar o impacto real e colaboro na solução.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "6162d3b0-fc73-5230-a59b-79b6a4ac00dd",
+          "textContent": "Quando uma equipe questiona um achado, mostro uma prova de conceito prática para evidenciar o impacto real e colaboro na solução.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "07f008ef-6f69-5d27-a4d5-926c92b38818",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "87a4e400-60e2-59ea-966a-20f9f66ea3b8",
+          "textContent": "Se durante um teste noto degradação no serviço, interrompo o scan imediatamente e aviso a equipe de infraestrutura.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "07f008ef-6f69-5d27-a4d5-926c92b38818",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "65535107-9026-55ed-ac43-a555f336e3a7",
+          "textContent": "Meu objetivo não é apontar culpados, mas trabalhar lado a lado com o desenvolvimento para construir aplicações mais seguras.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "07f008ef-6f69-5d27-a4d5-926c92b38818",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3fbb30e1-4f12-56f9-b1d4-7d55f0ebeceb",
+          "textContent": "Como você lida com a situação quando um líder de desenvolvimento diz que seu achado não é explorável e se recusa a corrigi-lo?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "07f008ef-6f69-5d27-a4d5-926c92b38818",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f0629003-85fd-576e-99ba-91ac72beaf99",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "1b91216d-3934-59ee-a396-896dcc2ffbf3",
+          "leftContent": "trabajar codo con codo",
+          "rightContent": "trabalhar lado a lado / em parceria",
+          "sequenceItem": 1,
+          "exerciseId": "f0629003-85fd-576e-99ba-91ac72beaf99"
+        },
+        {
+          "id": "101b30c0-9ee7-5b58-96c6-ab3268a4bf1f",
+          "leftContent": "encadenar vulnerabilidades",
+          "rightContent": "chaining de vulnerabilidades (combinar falhas)",
+          "sequenceItem": 2,
+          "exerciseId": "f0629003-85fd-576e-99ba-91ac72beaf99"
+        },
+        {
+          "id": "b219519d-5c84-5d32-9b50-33ec244605ea",
+          "leftContent": "degradación del servicio",
+          "rightContent": "lentidão ou instabilidade no ambiente",
+          "sequenceItem": 3,
+          "exerciseId": "f0629003-85fd-576e-99ba-91ac72beaf99"
+        },
+        {
+          "id": "089551ce-de9d-5f20-97aa-5a97252568a4",
+          "leftContent": "señalar culpables",
+          "rightContent": "apontar culpados",
+          "sequenceItem": 4,
+          "exerciseId": "f0629003-85fd-576e-99ba-91ac72beaf99"
+        }
+      ]
+    },
+    {
+      "id": "291465a6-1d11-5051-8bc3-7cc6805df939",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "7f47d4a8-76d9-5d03-86be-bef5e005bde3",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_c1.mp3",
+          "rightContent": "Cuando un equipo cuestiona un hallazgo, muestro una prueba de concepto práctica para evidenciar el impacto real y colaboro en la solución.",
+          "sequenceItem": 1,
+          "exerciseId": "291465a6-1d11-5051-8bc3-7cc6805df939"
+        },
+        {
+          "id": "e7c27b2e-1d34-55ab-ada2-2f6fa17f56ff",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_c2.mp3",
+          "rightContent": "Si durante una prueba noto degradación en el servicio, detengo el escaneo de inmediato y aviso al equipo de infraestructura.",
+          "sequenceItem": 2,
+          "exerciseId": "291465a6-1d11-5051-8bc3-7cc6805df939"
+        },
+        {
+          "id": "9b329d55-a1a3-5218-9f48-678556df8f23",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_c3.mp3",
+          "rightContent": "Mi objetivo no es señalar culpables, sino trabajar codo con codo con desarrollo para construir aplicaciones más seguras.",
+          "sequenceItem": 3,
+          "exerciseId": "291465a6-1d11-5051-8bc3-7cc6805df939"
+        },
+        {
+          "id": "4eebce0d-9557-5450-ba98-ed6850178a1d",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_d2.mp3",
+          "rightContent": "Le pido una breve reunión para mostrarle la prueba de concepto en vivo y explicarle cómo un atacante podría encadenar ese fallo.",
+          "sequenceItem": 4,
+          "exerciseId": "291465a6-1d11-5051-8bc3-7cc6805df939"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual expressão idiomática espanhola significa «trabalhar lado a lado / em estreita colaboração» com outra equipe?</p>",
+      "contentPlain": "Qual expressão idiomática espanhola significa «trabalhar lado a lado / em estreita colaboração» com outra equipe?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+      "feedbackError": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "b0efbf0d-0a45-5028-9292-faeec3cb8528",
+          "textContent": "Trabajar codo con codo.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b7081dca-b419-5801-98d2-bb5b24dd5385",
+          "textContent": "Trabajar pie con cabeza.",
+          "isCorrect": false,
+          "incorrectReason": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+          "exerciseId": "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f962f724-c16b-521b-8ab1-816b40e08cf5",
+          "textContent": "Trabajar espalda contra espalda.",
+          "isCorrect": false,
+          "incorrectReason": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+          "exerciseId": "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "58459498-4b70-50f4-aeb7-80f557e23852",
+          "textContent": "Trabajar lejos del código.",
+          "isCorrect": false,
+          "incorrectReason": "«Trabajar codo con codo» (literalmente 'cotovelo com cotovelo') é muito usada no ambiente corporativo espanhol para destacar trabalho em equipe.",
+          "exerciseId": "3c0810ca-1e69-51e1-8504-a2cad2fbd714",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "fd6f701f-febd-5d49-9d02-654c4ea0ea20",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "ab104787-a9e8-5664-84c9-c1baf7ddda3e",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_d1.mp3",
+          "rightContent": "Como você lida com a situação quando um líder de desenvolvimento diz que seu achado não é explorável e se recusa a corrigi-lo?",
+          "sequenceItem": 1,
+          "exerciseId": "fd6f701f-febd-5d49-9d02-654c4ea0ea20"
+        },
+        {
+          "id": "7720bbbf-44f4-51d8-aceb-7ae0af6af75c",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_d2.mp3",
+          "rightContent": "Peço uma breve reunião para mostrar a prova de conceito ao vivo e explicar como um atacante poderia encadear essa falha.",
+          "sequenceItem": 2,
+          "exerciseId": "fd6f701f-febd-5d49-9d02-654c4ea0ea20"
+        },
+        {
+          "id": "8a0fe720-58c8-5b68-8cae-dd43d5d750e2",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_d3.mp3",
+          "rightContent": "E se a equipe tiver pouco tempo para implementar a solução ideal?",
+          "sequenceItem": 3,
+          "exerciseId": "fd6f701f-febd-5d49-9d02-654c4ea0ea20"
+        },
+        {
+          "id": "6cb5aa1e-8fca-5c57-9d3c-8add7fa22de9",
+          "leftContent": "https://talk2me.local/content/ti_m04_l02_d4.mp3",
+          "rightContent": "Trabalho lado a lado com eles para encontrar a correção mais simples e efetiva na própria linguagem de programação deles.",
+          "sequenceItem": 4,
+          "exerciseId": "fd6f701f-febd-5d49-9d02-654c4ea0ea20"
+        }
+      ]
+    },
+    {
+      "id": "ffe3b21d-2cde-5c6e-aba7-c463db610756",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Trabajo codo con _____ con los desarrolladores para proteger las aplicaciones.</strong></p><p>Tradução: Trabalho lado a lado (codo con codo) com os desenvolvedores para proteger as aplicações.</p>",
+      "contentPlain": "Trabajo codo con _____ con los desarrolladores para proteger las aplicaciones. Tradução: Trabalho lado a lado (codo con codo) com os desenvolvedores para proteger as aplicações.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l02_spk.mp3",
+      "feedbackSuccess": "Correto! «codo» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «codo».",
+      "answerType": "buildWord",
+      "expectedAnswer": "codo",
+      "typeSpecificData": "{\"word\": \"codo\", \"translation\": \"Trabalho lado a lado (codo con codo) com os desenvolvedores para proteger as aplicações.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5c1a01da-7142-52f9-bb05-9c75b90fe43c",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l02_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Trabajo codo con codo con el equipo de desarrollo para remediar las vulnerabilidades.",
+      "typeSpecificData": "{\"expectedText\": \"Trabajo codo con codo con el equipo de desarrollo para remediar las vulnerabilidades.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m04_l02_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "14678402-420b-5f2d-84bd-1584efad981a",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «¿Cómo manejas la situación cuando un líder de desarrollo dice que tu hallazgo no es explotable y se niega a corregirlo?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Le pido una breve reunión para mostrarle la prueba de concepto en vivo y explicarle cómo un atacante podría encadenar ese fallo.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l02_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Le pido una breve reunión para mostrarle la prueba de concepto en vivo y explicarle cómo un atacante podría encadenar ese fallo.",
+      "typeSpecificData": "{\"expectedText\": \"Le pido una breve reunión para mostrarle la prueba de concepto en vivo y explicarle cómo un atacante podría encadenar ese fallo.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m04_l02_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "cdc27606-d329-5933-8626-25624da4365d",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y si el equipo tiene poco tiempo para implementar la solución ideal?»</strong></p><p><em>(E se a equipe tiver pouco tempo para implementar a solução ideal?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y si el equipo tiene poco tiempo para implementar la solución ideal?",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Trabajo codo con codo con ellos para encontrar la corrección más sencilla y efectiva en su propio lenguaje de programación.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "05ddafd8-695b-5c1e-804e-a7544392c6f3",
+          "textContent": "Trabajo codo con codo con ellos para encontrar la corrección más sencilla y efectiva en su propio lenguaje de programación.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "cdc27606-d329-5933-8626-25624da4365d",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "047e7420-d26e-5497-b1a7-d179c51da81e",
+          "textContent": "Le pido una breve reunión para mostrarle la prueba de concepto en vivo y explicarle cómo un atacante podría encadenar ese fallo.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "cdc27606-d329-5933-8626-25624da4365d",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b0ab082a-add0-5a7d-97db-f1e2ebbfd2b7",
+          "textContent": "Cuando un equipo cuestiona un hallazgo, muestro una prueba de concepto práctica para evidenciar el impacto real y colaboro en la solución.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "cdc27606-d329-5933-8626-25624da4365d",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c8dce908-7505-5f21-8d21-d9909a0c6d26",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "cdc27606-d329-5933-8626-25624da4365d",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "19c4abdd-803d-5b2c-92fe-449d2c7b92ac",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Si durante una prueba noto degradación en el servicio, detengo el escaneo de inmediato y aviso al equipo de _____.</strong></p><p>Tradução: Se durante um teste noto degradação no serviço, interrompo o scan imediatamente e aviso a equipe de infraestrutura.</p>",
+      "contentPlain": "Si durante una prueba noto degradación en el servicio, detengo el escaneo de inmediato y aviso al equipo de _____. Tradução: Se durante um teste noto degradação no serviço, interrompo o scan imediatamente e aviso a equipe de infraestrutura.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l02_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «infraestructura» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «infraestructura».",
+      "answerType": "buildWord",
+      "expectedAnswer": "infraestructura",
+      "typeSpecificData": "{\"word\": \"infraestructura\", \"translation\": \"Se durante um teste noto degradação no serviço, interrompo o scan imediatamente e aviso a equipe de infraestrutura.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c9dc988e-c136-5f36-9635-d22b10bf8724",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4648aac2-4f5c-5e07-aa95-69a6c15655ef",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "50e6bf15-e1e3-58b3-af39-d682ef51aec0",
+          "leftContent": "Quando uma equipe questiona um achado, mostro uma prova de conceito prática para evidenciar o impacto real e colaboro na solução.",
+          "rightContent": "Cuando un equipo cuestiona un hallazgo, muestro una prueba de concepto práctica para evidenciar el impacto real y colaboro en la solución.",
+          "sequenceItem": 1,
+          "exerciseId": "c9dc988e-c136-5f36-9635-d22b10bf8724"
+        },
+        {
+          "id": "047532a3-bd74-5431-8cc4-0f29341672b8",
+          "leftContent": "Se durante um teste noto degradação no serviço, interrompo o scan imediatamente e aviso a equipe de infraestrutura.",
+          "rightContent": "Si durante una prueba noto degradación en el servicio, detengo el escaneo de inmediato y aviso al equipo de infraestructura.",
+          "sequenceItem": 2,
+          "exerciseId": "c9dc988e-c136-5f36-9635-d22b10bf8724"
+        },
+        {
+          "id": "62584969-b4bd-5337-906b-e670e15b37fc",
+          "leftContent": "Meu objetivo não é apontar culpados, mas trabalhar lado a lado com o desenvolvimento para construir aplicações mais seguras.",
+          "rightContent": "Mi objetivo no es señalar culpables, sino trabajar codo con codo con desarrollo para construir aplicaciones más seguras.",
+          "sequenceItem": 3,
+          "exerciseId": "c9dc988e-c136-5f36-9635-d22b10bf8724"
+        },
+        {
+          "id": "b70928df-0db3-545b-b8e7-c4cfb8916acc",
+          "leftContent": "Trabalho lado a lado com eles para encontrar a correção mais simples e efetiva na própria linguagem de programação deles.",
+          "rightContent": "Trabajo codo con codo con ellos para encontrar la corrección más sencilla y efectiva en su propio lenguaje de programación.",
+          "sequenceItem": 4,
+          "exerciseId": "c9dc988e-c136-5f36-9635-d22b10bf8724"
+        }
+      ]
+    }
+  ],
+  "title": "Lidando com Resistência de Desenvolvedores e Falhas em Produção"
+}

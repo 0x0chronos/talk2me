@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+    "attemptId": "e9d03aa9-1017-5c90-a270-dbc2e8697786",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "12673875-42c5-562f-b3bc-62c8c30e1938",
+      "82201d83-e7fd-5ee9-9c8e-4eccab746b9e",
+      "2f64236f-3f9d-53a9-8379-e068962daed0",
+      "05499dbc-1bf7-50c2-ab3f-2f31d72ab326"
+    ],
+    "practiceExerciseIds": [
+      "d80805ef-3047-51ee-a225-94b797035d4a",
+      "1cc10d21-8fce-5cf2-9b4e-b8d49545b05d",
+      "3df4c618-2ddc-5444-ba02-2f8b643e3962",
+      "96fddcb4-a59f-5c3d-bde2-2034bd3237e8",
+      "f9a54eb2-0851-5ebf-b28d-ff3b4420a78e"
+    ],
+    "evaluationExerciseIds": [
+      "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+      "33b34a28-2962-5764-935b-45b9cc8f0187",
+      "582a0223-a2c0-57d6-845e-e6b88a017372"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "30245587-3382-53cc-8e1b-ca715a452489",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "65213a24-b722-5a03-bb3e-1faedc2cf7ee",
+          "textContent": "<p>Mostra que você sabe falar tanto com o CISO/Diretoria quanto com os engenheiros.</p><p><strong>Al finalizar la auditoría redacto un informe con un resumen ejecutivo orientado al riesgo de negocio y un anexo técnico con los pasos de reproducción.</strong></p><p>Em português: <strong>Ao finalizar a auditoria redijo um relatório com um resumo executivo voltado ao risco de negócio e um anexo técnico com o passo a passo de reprodução.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_l04_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "b23accfc-d4f7-5925-8968-11ec3f9a552f",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "520fcf1e-6b0f-5fa2-9b57-44dc2fbd55f6",
+          "textContent": "<p>Em espanhol, *finding* em uma auditoria é sempre «el hallazgo» (plural: «los hallazgos»).</p><p><strong>Clasifico cada hallazgo según su severidad en CVSS y el impacto real en la organización, proponiendo controles de remediación claros.</strong></p><p>Em português: <strong>Classifico cada achado segundo sua severidade no CVSS e o impacto real na organização, propondo controles de remediação claros.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_l04_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7fd2bece-4206-5d8d-b1eb-e860b915f222",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "31a3c40a-4e81-527a-a792-5dd4c6f4a09f",
+          "textContent": "<p>«Pruebas de verificación / reauditoría» = retesting.</p><p><strong>Una vez que el equipo corrige las vulnerabilidades, realizo las pruebas de verificación para certificar que el fallo ha sido mitigado.</strong></p><p>Em português: <strong>Uma vez que a equipe corrige as vulnerabilidades, realizo os testes de verificação (retesting) para certificar que a falha foi mitigada.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_l04_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a71bb935-a9c8-5221-b70f-6cc0cc597766",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "d9e6d92d-04c2-51aa-9940-b11d6aa15eed",
+          "textContent": "<p>Em consultorias espanholas, a qualidade do <strong>informe de auditoría</strong> vale tanto quanto o pentest em si:</p><ul><li><strong>Los hallazgos:</strong> as vulnerabilidades/achados identificados na auditoria.</li><li><strong>El resumen ejecutivo vs. el informe técnico detallado:</strong> visão de risco para a diretoria vs. passo a passo de reprodução e remediação para os devs.</li><li><strong>La reauditoría / el retesting:</strong> validação de que as correções aplicadas eliminaram o risco.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>los hallazgos</strong> — os achados / findings da auditoria</li><li><strong>el resumen ejecutivo</strong> — o sumário executivo (para a diretoria)</li><li><strong>la prueba de concepto (PoC)</strong> — a prova de conceito</li><li><strong>el despliegue del parche</strong> — o deploy do patch / correção</li><li><strong>Palavra-chave de escrita: «hallazgos»</strong> (Presentamos los hallazgos críticos junto con el plan de remediación.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "los hallazgos — os achados / findings da auditoria",
+        "el resumen ejecutivo — o sumário executivo (para a diretoria)",
+        "la prueba de concepto (PoC) — a prova de conceito",
+        "el despliegue del parche — o deploy do patch / correção"
+      ]
+    },
+    {
+      "id": "7546908a-af25-59c9-aed0-720f02e5fcd3",
+      "title": "Defendendo o Relatório de Pentest para o Cliente",
+      "description": "<p>Laura pergunta como você apresenta os achados quando conversa com a diretoria e com a equipe técnica.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Después de terminar las pruebas técnicas, ¿cómo estructuras el informe y la presentación de resultados al cliente?</div>\n  <div style=\"opacity: 0.55;\">Depois de terminar os testes técnicos, como você estrutura o relatório e a apresentação de resultados ao cliente?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l04_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Divido el documento en un resumen ejecutivo para la dirección, centrado en el impacto de negocio, y un desglose técnico con evidencias y remediación.</div>\n  <div style=\"opacity: 0.55;\">Divido o documento em um resumo executivo para a diretoria, focado no impacto de negócio, e um detalhamento técnico com evidências e remediação.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l04_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y qué haces si el equipo técnico tiene dudas sobre cómo reproducir o corregir un hallazgo?</div>\n  <div style=\"opacity: 0.55;\">E o que você faz se a equipe técnica tiver dúvidas sobre como reproduzir ou corrigir um achado?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l04_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Organizo una sesión conjunta con los desarrolladores para revisar la prueba de concepto y luego ejecuto la reauditoría tras el despliegue del parche.</div>\n  <div style=\"opacity: 0.55;\">Organizo uma sessão conjunta com os desenvolvedores para revisar a prova de conceito (PoC) e depois executo o retesting após o deploy do patch.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l04_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "12673875-42c5-562f-b3bc-62c8c30e1938",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Después de terminar las pruebas técnicas, ¿cómo estructuras el informe y la presentación de resultados al cliente?»</p><p><em>(Depois de terminar os testes técnicos, como você estrutura o relatório e a apresentação de resultados ao cliente?)</em></p>",
+      "contentPlain": "Después de terminar las pruebas técnicas, ¿cómo estructuras el informe y la presentación de resultados al cliente?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l04_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Divido el documento en un resumen ejecutivo para la dirección, centrado en el impacto de negocio, y un desglose técnico con evidencias y remediación.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "2428ea4b-ea86-521e-8c15-c05cf4850965",
+          "textContent": "Divido el documento en un resumen ejecutivo para la dirección, centrado en el impacto de negocio, y un desglose técnico con evidencias y remediación.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "12673875-42c5-562f-b3bc-62c8c30e1938",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8bff5daf-3cd8-585c-9c17-db9cfdb30b36",
+          "textContent": "Una vez que el equipo corrige las vulnerabilidades, realizo las pruebas de verificación para certificar que el fallo ha sido mitigado.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "12673875-42c5-562f-b3bc-62c8c30e1938",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e94d6901-b226-5cb3-bd99-37117d0a9d35",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "12673875-42c5-562f-b3bc-62c8c30e1938",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4937b934-31cd-51a4-a6de-4fec01c41c0e",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "12673875-42c5-562f-b3bc-62c8c30e1938",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "82201d83-e7fd-5ee9-9c8e-4eccab746b9e",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Al finalizar la auditoría redacto un informe con un resumen ejecutivo orientado al riesgo de negocio y un anexo técnico con los pasos de reproducción.</strong></p>",
+      "contentPlain": "Al finalizar la auditoría redacto un informe con un resumen ejecutivo orientado al riesgo de negocio y un anexo técnico con los pasos de reproducción.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l04_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Ao finalizar a auditoria redijo um relatório com um resumo executivo voltado ao risco de negócio e um anexo técnico com o passo a passo de reprodução.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "bf4b5900-d2ff-5185-bc8d-47f443ed31bc",
+          "textContent": "Ao finalizar a auditoria redijo um relatório com um resumo executivo voltado ao risco de negócio e um anexo técnico com o passo a passo de reprodução.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "82201d83-e7fd-5ee9-9c8e-4eccab746b9e",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3065f246-a00e-59da-b8ba-4e7a77126ef6",
+          "textContent": "Classifico cada achado segundo sua severidade no CVSS e o impacto real na organização, propondo controles de remediação claros.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "82201d83-e7fd-5ee9-9c8e-4eccab746b9e",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4a15e3dd-f13a-52f3-9879-48da96936f48",
+          "textContent": "Uma vez que a equipe corrige as vulnerabilidades, realizo os testes de verificação (retesting) para certificar que a falha foi mitigada.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "82201d83-e7fd-5ee9-9c8e-4eccab746b9e",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a97ed1da-0d83-5970-9123-497ac137cea1",
+          "textContent": "Depois de terminar os testes técnicos, como você estrutura o relatório e a apresentação de resultados ao cliente?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "82201d83-e7fd-5ee9-9c8e-4eccab746b9e",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2f64236f-3f9d-53a9-8379-e068962daed0",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "9ad3c43f-6dc8-5c5e-8fd1-9b283f6333f3",
+          "leftContent": "los hallazgos",
+          "rightContent": "os achados / findings da auditoria",
+          "sequenceItem": 1,
+          "exerciseId": "2f64236f-3f9d-53a9-8379-e068962daed0"
+        },
+        {
+          "id": "5e9ca06d-29e9-543c-b2e9-ca720148fbf3",
+          "leftContent": "el resumen ejecutivo",
+          "rightContent": "o sumário executivo (para a diretoria)",
+          "sequenceItem": 2,
+          "exerciseId": "2f64236f-3f9d-53a9-8379-e068962daed0"
+        },
+        {
+          "id": "ed92821d-3422-510d-a17c-644d5cb58029",
+          "leftContent": "la prueba de concepto (PoC)",
+          "rightContent": "a prova de conceito",
+          "sequenceItem": 3,
+          "exerciseId": "2f64236f-3f9d-53a9-8379-e068962daed0"
+        },
+        {
+          "id": "32151906-cae1-524a-814b-0a1641a6a867",
+          "leftContent": "el despliegue del parche",
+          "rightContent": "o deploy do patch / correção",
+          "sequenceItem": 4,
+          "exerciseId": "2f64236f-3f9d-53a9-8379-e068962daed0"
+        }
+      ]
+    },
+    {
+      "id": "05499dbc-1bf7-50c2-ab3f-2f31d72ab326",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "750a10e3-ebf7-5531-9a4f-1cc0bf7cfe4c",
+          "leftContent": "https://talk2me.local/content/ti_m02_l04_c1.mp3",
+          "rightContent": "Al finalizar la auditoría redacto un informe con un resumen ejecutivo orientado al riesgo de negocio y un anexo técnico con los pasos de reproducción.",
+          "sequenceItem": 1,
+          "exerciseId": "05499dbc-1bf7-50c2-ab3f-2f31d72ab326"
+        },
+        {
+          "id": "ee0b43d5-25ca-5c81-8bd3-21c980e12d8f",
+          "leftContent": "https://talk2me.local/content/ti_m02_l04_c2.mp3",
+          "rightContent": "Clasifico cada hallazgo según su severidad en CVSS y el impacto real en la organización, proponiendo controles de remediación claros.",
+          "sequenceItem": 2,
+          "exerciseId": "05499dbc-1bf7-50c2-ab3f-2f31d72ab326"
+        },
+        {
+          "id": "1be80010-25c4-5896-ad9b-597e754fb875",
+          "leftContent": "https://talk2me.local/content/ti_m02_l04_c3.mp3",
+          "rightContent": "Una vez que el equipo corrige las vulnerabilidades, realizo las pruebas de verificación para certificar que el fallo ha sido mitigado.",
+          "sequenceItem": 3,
+          "exerciseId": "05499dbc-1bf7-50c2-ab3f-2f31d72ab326"
+        },
+        {
+          "id": "a0b53da8-61c4-5bed-bb49-6b9d6091ace3",
+          "leftContent": "https://talk2me.local/content/ti_m02_l04_d2.mp3",
+          "rightContent": "Divido el documento en un resumen ejecutivo para la dirección, centrado en el impacto de negocio, y un desglose técnico con evidencias y remediación.",
+          "sequenceItem": 4,
+          "exerciseId": "05499dbc-1bf7-50c2-ab3f-2f31d72ab326"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "d80805ef-3047-51ee-a225-94b797035d4a",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual palavra em espanhol é usada em 100% dos relatórios de auditoria e pentest na Espanha para traduzir «Findings (achados / vulnerabilidades encontradas)»?</p>",
+      "contentPlain": "Qual palavra em espanhol é usada em 100% dos relatórios de auditoria e pentest na Espanha para traduzir «Findings (achados / vulnerabilidades encontradas)»?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+      "feedbackError": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "6fd6a7d0-cdae-5437-9172-894d8df50da6",
+          "textContent": "Los hallazgos (ex.: «hallazgos críticos y de severidad alta»).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "d80805ef-3047-51ee-a225-94b797035d4a",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bfd077fb-1dca-5a58-b4dd-37028272a083",
+          "textContent": "Los encuentros casuales.",
+          "isCorrect": false,
+          "incorrectReason": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+          "exerciseId": "d80805ef-3047-51ee-a225-94b797035d4a",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e967264d-5417-58b8-873d-844823df66b2",
+          "textContent": "Las búsquedas perdidas.",
+          "isCorrect": false,
+          "incorrectReason": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+          "exerciseId": "d80805ef-3047-51ee-a225-94b797035d4a",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "313e7475-c10c-5723-a2be-84ee0877cd72",
+          "textContent": "Los trofeos de red.",
+          "isCorrect": false,
+          "incorrectReason": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+          "exerciseId": "d80805ef-3047-51ee-a225-94b797035d4a",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "1cc10d21-8fce-5cf2-9b4e-b8d49545b05d",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "d3e91b99-20e2-5718-9c0f-92cb2f86e744",
+          "leftContent": "https://talk2me.local/content/ti_m02_l04_d1.mp3",
+          "rightContent": "Depois de terminar os testes técnicos, como você estrutura o relatório e a apresentação de resultados ao cliente?",
+          "sequenceItem": 1,
+          "exerciseId": "1cc10d21-8fce-5cf2-9b4e-b8d49545b05d"
+        },
+        {
+          "id": "c800c650-9619-5e75-809b-1f2957584c26",
+          "leftContent": "https://talk2me.local/content/ti_m02_l04_d2.mp3",
+          "rightContent": "Divido o documento em um resumo executivo para a diretoria, focado no impacto de negócio, e um detalhamento técnico com evidências e remediação.",
+          "sequenceItem": 2,
+          "exerciseId": "1cc10d21-8fce-5cf2-9b4e-b8d49545b05d"
+        },
+        {
+          "id": "63951ca0-fcdc-5287-98b0-288a0c7eb1e6",
+          "leftContent": "https://talk2me.local/content/ti_m02_l04_d3.mp3",
+          "rightContent": "E o que você faz se a equipe técnica tiver dúvidas sobre como reproduzir ou corrigir um achado?",
+          "sequenceItem": 3,
+          "exerciseId": "1cc10d21-8fce-5cf2-9b4e-b8d49545b05d"
+        },
+        {
+          "id": "f56e9d76-af09-5e43-89d4-3c0b3b3bc426",
+          "leftContent": "https://talk2me.local/content/ti_m02_l04_d4.mp3",
+          "rightContent": "Organizo uma sessão conjunta com os desenvolvedores para revisar a prova de conceito (PoC) e depois executo o retesting após o deploy do patch.",
+          "sequenceItem": 4,
+          "exerciseId": "1cc10d21-8fce-5cf2-9b4e-b8d49545b05d"
+        }
+      ]
+    },
+    {
+      "id": "3df4c618-2ddc-5444-ba02-2f8b643e3962",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Presentamos los _____ críticos junto con el plan de remediación.</strong></p><p>Tradução: Apresentamos os achados (findings) críticos junto com o plano de remediação.</p>",
+      "contentPlain": "Presentamos los _____ críticos junto con el plan de remediación. Tradução: Apresentamos os achados (findings) críticos junto com o plano de remediação.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l04_spk.mp3",
+      "feedbackSuccess": "Correto! «hallazgos» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «hallazgos».",
+      "answerType": "buildWord",
+      "expectedAnswer": "hallazgos",
+      "typeSpecificData": "{\"word\": \"hallazgos\", \"translation\": \"Apresentamos os achados (findings) críticos junto com o plano de remediação.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "96fddcb4-a59f-5c3d-bde2-2034bd3237e8",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l04_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Clasifico cada hallazgo por su impacto y acompaño al equipo en la remediación.",
+      "typeSpecificData": "{\"expectedText\": \"Clasifico cada hallazgo por su impacto y acompaño al equipo en la remediación.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m02_l04_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "f9a54eb2-0851-5ebf-b28d-ff3b4420a78e",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Después de terminar las pruebas técnicas, ¿cómo estructuras el informe y la presentación de resultados al cliente?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Divido el documento en un resumen ejecutivo para la dirección, centrado en el impacto de negocio, y un desglose técnico con evidencias y remediación.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l04_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Divido el documento en un resumen ejecutivo para la dirección, centrado en el impacto de negocio, y un desglose técnico con evidencias y remediación.",
+      "typeSpecificData": "{\"expectedText\": \"Divido el documento en un resumen ejecutivo para la dirección, centrado en el impacto de negocio, y un desglose técnico con evidencias y remediación.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m02_l04_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué haces si el equipo técnico tiene dudas sobre cómo reproducir o corregir un hallazgo?»</strong></p><p><em>(E o que você faz se a equipe técnica tiver dúvidas sobre como reproduzir ou corrigir um achado?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué haces si el equipo técnico tiene dudas sobre cómo reproducir o corregir un hallazgo?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Organizo una sesión conjunta con los desarrolladores para revisar la prueba de concepto y luego ejecuto la reauditoría tras el despliegue del parche.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "5af808ab-db8e-5d45-b4c5-bca1e895702a",
+          "textContent": "Organizo una sesión conjunta con los desarrolladores para revisar la prueba de concepto y luego ejecuto la reauditoría tras el despliegue del parche.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b591d1f4-682c-51ce-8ebe-be46fee52396",
+          "textContent": "Divido el documento en un resumen ejecutivo para la dirección, centrado en el impacto de negocio, y un desglose técnico con evidencias y remediación.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2cd0918b-d9dd-590d-8f03-73748d8d54c0",
+          "textContent": "Al finalizar la auditoría redacto un informe con un resumen ejecutivo orientado al riesgo de negocio y un anexo técnico con los pasos de reproducción.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7375fce1-fe29-57fc-93ac-d068f0c6ead3",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "33b34a28-2962-5764-935b-45b9cc8f0187",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Clasifico cada hallazgo según su severidad en CVSS y el impacto real en la organización, proponiendo controles de remediación _____.</strong></p><p>Tradução: Classifico cada achado segundo sua severidade no CVSS e o impacto real na organização, propondo controles de remediação claros.</p>",
+      "contentPlain": "Clasifico cada hallazgo según su severidad en CVSS y el impacto real en la organización, proponiendo controles de remediación _____. Tradução: Classifico cada achado segundo sua severidade no CVSS e o impacto real na organização, propondo controles de remediação claros.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l04_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «claros» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «claros».",
+      "answerType": "buildWord",
+      "expectedAnswer": "claros",
+      "typeSpecificData": "{\"word\": \"claros\", \"translation\": \"Classifico cada achado segundo sua severidade no CVSS e o impacto real na organização, propondo controles de remediação claros.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "582a0223-a2c0-57d6-845e-e6b88a017372",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "a49816c2-69ef-59f9-82a9-92e188795336",
+          "leftContent": "Ao finalizar a auditoria redijo um relatório com um resumo executivo voltado ao risco de negócio e um anexo técnico com o passo a passo de reprodução.",
+          "rightContent": "Al finalizar la auditoría redacto un informe con un resumen ejecutivo orientado al riesgo de negocio y un anexo técnico con los pasos de reproducción.",
+          "sequenceItem": 1,
+          "exerciseId": "582a0223-a2c0-57d6-845e-e6b88a017372"
+        },
+        {
+          "id": "21c0fe89-7cc9-5e43-b360-2b2146f2a270",
+          "leftContent": "Classifico cada achado segundo sua severidade no CVSS e o impacto real na organização, propondo controles de remediação claros.",
+          "rightContent": "Clasifico cada hallazgo según su severidad en CVSS y el impacto real en la organización, proponiendo controles de remediación claros.",
+          "sequenceItem": 2,
+          "exerciseId": "582a0223-a2c0-57d6-845e-e6b88a017372"
+        },
+        {
+          "id": "cf94b424-de43-5038-b73f-5a8650bd6dd3",
+          "leftContent": "Uma vez que a equipe corrige as vulnerabilidades, realizo os testes de verificação (retesting) para certificar que a falha foi mitigada.",
+          "rightContent": "Una vez que el equipo corrige las vulnerabilidades, realizo las pruebas de verificación para certificar que el fallo ha sido mitigado.",
+          "sequenceItem": 3,
+          "exerciseId": "582a0223-a2c0-57d6-845e-e6b88a017372"
+        },
+        {
+          "id": "ffdd87f2-9703-5b41-96e9-627c1dfe5ecb",
+          "leftContent": "Organizo uma sessão conjunta com os desenvolvedores para revisar a prova de conceito (PoC) e depois executo o retesting após o deploy do patch.",
+          "rightContent": "Organizo una sesión conjunta con los desarrolladores para revisar la prueba de concepto y luego ejecuto la reauditoría tras el despliegue del parche.",
+          "sequenceItem": 4,
+          "exerciseId": "582a0223-a2c0-57d6-845e-e6b88a017372"
+        }
+      ]
+    }
+  ],
+  "title": "Relatórios Executivos e Técnicos, CVSS, Hallazgos e Retesting"
+}

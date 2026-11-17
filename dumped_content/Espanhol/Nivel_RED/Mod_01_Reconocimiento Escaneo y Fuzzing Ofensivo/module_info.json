@@ -1,0 +1,67 @@
+{
+  "id": "ab58acb9-f938-54e4-b69b-e68d5e103042",
+  "title": "Red Team I - Escopo, Reconhecimento, Nmap, Nessus e Fuzzing",
+  "subTitle": "Domine em espanhol da Espanha o vocabulário de escopo de auditoria (RoE), varredura de rede (Nmap/Nessus) e descoberta/força bruta (ffuf, Feroxbuster, Hydra).",
+  "sequenceItem": 1,
+  "icon": null,
+  "bannerImageUrl": null,
+  "completed": false,
+  "unlocked": true,
+  "learningPath": [
+    {
+      "lessonId": "0da1005e-b156-5340-81b0-8043dbce7f09",
+      "title": "Escopo de Auditoria, Superfície de Ataque e Reconhecimento",
+      "icon": null,
+      "stars": 0,
+      "unlocked": true,
+      "sequence": 1,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "932da11f-4ed7-58d9-b536-c2234b1640e8",
+      "title": "Varredura de Infraestrutura e Vulnerabilidades com Nmap e Nessus",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 2,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "242e5dba-f4be-5999-9cc5-0bdf379e0afd",
+      "title": "Descoberta de Conteúdo, Fuzzing e Força Bruta com ffuf, Feroxbuster e Hydra",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 3,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "adb48d34-4940-577a-900e-ff92621919c8",
+      "title": "Seus +20 Pentests na Access Security - Experiência Real e Stakeholders",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 4,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "00000000-0000-0000-0000-000000000000",
+      "title": "Checkpoint da unidade",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 5,
+      "type": "checkpoint",
+      "checkpointId": "39c9c99e-66bd-507c-bc1b-b5585c16740b",
+      "challengeReached": false
+    }
+  ]
+}

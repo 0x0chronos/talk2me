@@ -185,11 +185,17 @@ def build_index(seed_progress=True):
             TREE[code] = levels
             continue
         level_labels = {}
+        level_seq = {}
         lp = os.path.join(lang_dir, "levels.json")
         if os.path.exists(lp):
-            for l in read_json(lp):
+            for idx_l, l in enumerate(read_json(lp)):
                 level_labels[l["name"]] = l.get("label") or l["name"]
-        for lvl_name in sorted(d for d in os.listdir(lang_dir) if d.startswith("Nivel_")):
+                level_seq[l["name"]] = l.get("sequence") or (idx_l + 1)
+        lvl_dirs = sorted(
+            (d for d in os.listdir(lang_dir) if d.startswith("Nivel_")),
+            key=lambda d: (level_seq.get(d.replace("Nivel_", ""), 999), d),
+        )
+        for lvl_name in lvl_dirs:
             lvl_dir = os.path.join(lang_dir, lvl_name)
             lvl = lvl_name.replace("Nivel_", "")
             mods = []

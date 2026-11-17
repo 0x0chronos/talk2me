@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+    "attemptId": "c71be32d-0ebd-5c75-87b0-5fefe592b354",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "3bf11ac8-08ec-5502-806f-713752448ff8",
+      "3a009737-9a65-594b-b089-39d8a2e83fdc",
+      "f1444498-3487-5399-b64d-774327794b4c",
+      "76aba8e1-3766-5587-9a62-6bb437ec2d3c"
+    ],
+    "practiceExerciseIds": [
+      "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+      "5390fc4f-8480-5bb2-b6a6-462390fbd759",
+      "5d443475-e61a-5a5f-b587-883836655f83",
+      "1d248370-cb01-5726-bcc0-5994d3463124",
+      "8d2b9830-e39b-5169-8645-128eb8f4ac06"
+    ],
+    "evaluationExerciseIds": [
+      "d53e6051-d9b1-51e8-bd98-3c551811d231",
+      "d403c9fb-9fa5-5850-b24c-34914ed961d6",
+      "8959f97e-90ad-5dc6-ba89-2b75689d6d68"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "d96977b3-8326-5244-b488-1dcbc4a378de",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "73a890dc-c3ae-52b3-9f06-db4d83942ff0",
+          "textContent": "<p>«Rutas de escalada de privilegios» (ex.: via BloodHound) mostra domínio prático de AD.</p><p><strong>Una vez obtenido el acceso inicial en la red interna, enumero los permisos del Directorio Activo para identificar rutas de escalada de privilegios.</strong></p><p>Em português: <strong>Uma vez obtido o acesso inicial na rede interna, enumero as permissões do Active Directory para identificar rotas de escalada de privilégios.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_l03_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "978e3bbd-ffeb-54b2-a080-fcdc3f5cbbf6",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "f4322fec-f5b9-5bce-91c9-3739482b5045",
+          "textContent": "<p>«Cuentas de servicio» (service accounts) e «reutilización de credenciales» são achados reais clássicos.</p><p><strong>Realizo pruebas de movimiento lateral evaluando la reutilización de credenciales locales y el abuso de cuentas de servicio mal configuradas.</strong></p><p>Em português: <strong>Realizo testes de movimento lateral avaliando a reutilização de credenciais locais e o abuso de contas de serviço mal configuradas.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_l03_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d4ee5e3e-f2b2-5a92-a6f5-e6c840055f88",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "5bb468b4-ebe6-58fb-b954-6d419f097ac1",
+          "textContent": "<p>Mostra maturidade e responsabilidade profissional diante do gestor espanhol.</p><p><strong>Siempre detengo la explotación al demostrar el impacto acordado, evitando afectar la disponibilidad de los sistemas en producción.</strong></p><p>Em português: <strong>Sempre interrompo a exploração ao demonstrar o impacto acordado, evitando afetar a disponibilidade dos sistemas em produção.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m02_l03_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "cd38d8fe-9eab-5b08-8f44-681dfd8a795b",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "fa144f0e-a051-5354-91a8-3d69bc8f2ff2",
+          "textContent": "<p>Você possui as certificações <strong>CRTA (Certified Red Team Analyst)</strong> e <strong>DCPT</strong>! Em entrevistas de Red Team e Pentest Interno na Espanha, <strong>Active Directory (El Directorio Activo)</strong> é sempre cobrado:</p><ul><li><strong>La escalada de privilegios:</strong> sair de usuário comum para <em>Administrador de Dominio</em>.</li><li><strong>El movimiento lateral:</strong> deslocar-se entre máquinas na rede interna (<em>Pass-the-Hash, Kerberoasting, abuso de permisos en BloodHound</em>).</li><li><strong>El controlador de dominio (Domain Controller):</strong> o alvo central das auditorias internas.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>el Directorio Activo</strong> — o Active Directory (AD)</li><li><strong>el movimiento lateral</strong> — a movimentação lateral na rede</li><li><strong>cuentas de servicio</strong> — service accounts</li><li><strong>protocolos heredados</strong> — protocolos legados (legacy protocols)</li><li><strong>Palavra-chave de escrita: «escalada»</strong> (Buscamos rutas de escalada de privilegios dentro del Directorio Activo.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "el Directorio Activo — o Active Directory (AD)",
+        "el movimiento lateral — a movimentação lateral na rede",
+        "cuentas de servicio — service accounts",
+        "protocolos heredados — protocolos legados (legacy protocols)"
+      ]
+    },
+    {
+      "id": "eccb1647-00b6-54cb-9c9e-eb5b88d9ad00",
+      "title": "Cenário de Pentest Interno e Active Directory",
+      "description": "<p>Laura testa seu conhecimento prático de auditoria de rede interna e Active Directory.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">En una auditoría de red interna, ¿qué técnicas sueles emplear para evaluar la seguridad del Directorio Activo?</div>\n  <div style=\"opacity: 0.55;\">Em uma auditoría de rede interna, quais técnicas você costuma empregar para avaliar a segurança do Active Directory?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l03_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Empiezo enumerando usuarios, grupos y políticas de dominio, y busco cuentas de servicio vulnerables a Kerberoasting o permisos excesivos.</div>\n  <div style=\"opacity: 0.55;\">Começo enumerando usuários, grupos e políticas de domínio, e busco contas de serviço vulneráveis a Kerberoasting ou permissões excessivas.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l03_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y qué medidas recomiendas para frenar el movimiento lateral entre estaciones de trabajo?</div>\n  <div style=\"opacity: 0.55;\">E quais medidas você recomenda para frear o movimento lateral entre estações de trabalho?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l03_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Recomiendo segmentar la red, aplicar contraseñas locales únicas mediante LAPS, restringir las cuentas privilegiadas y deshabilitar protocolos heredados.</div>\n  <div style=\"opacity: 0.55;\">Recomendo segmentar a rede, aplicar senhas locais únicas via LAPS, restringir as contas privilegiadas e desabilitar protocolos legados.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m02_l03_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "3bf11ac8-08ec-5502-806f-713752448ff8",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «En una auditoría de red interna, ¿qué técnicas sueles emplear para evaluar la seguridad del Directorio Activo?»</p><p><em>(Em uma auditoría de rede interna, quais técnicas você costuma empregar para avaliar a segurança do Active Directory?)</em></p>",
+      "contentPlain": "En una auditoría de red interna, ¿qué técnicas sueles emplear para evaluar la seguridad del Directorio Activo?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l03_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Empiezo enumerando usuarios, grupos y políticas de dominio, y busco cuentas de servicio vulnerables a Kerberoasting o permisos excesivos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "26bce461-c21a-5b4d-bf86-418ac0a68204",
+          "textContent": "Empiezo enumerando usuarios, grupos y políticas de dominio, y busco cuentas de servicio vulnerables a Kerberoasting o permisos excesivos.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "3bf11ac8-08ec-5502-806f-713752448ff8",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9dc66a37-3fe3-5686-9308-7ac1ddd39740",
+          "textContent": "Siempre detengo la explotación al demostrar el impacto acordado, evitando afectar la disponibilidad de los sistemas en producción.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "3bf11ac8-08ec-5502-806f-713752448ff8",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "848bbc2f-54bb-5094-bc7f-82256981d818",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "3bf11ac8-08ec-5502-806f-713752448ff8",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "21b18d98-d09d-5147-9d7c-159e9dc9a843",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "3bf11ac8-08ec-5502-806f-713752448ff8",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "3a009737-9a65-594b-b089-39d8a2e83fdc",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Una vez obtenido el acceso inicial en la red interna, enumero los permisos del Directorio Activo para identificar rutas de escalada de privilegios.</strong></p>",
+      "contentPlain": "Una vez obtenido el acceso inicial en la red interna, enumero los permisos del Directorio Activo para identificar rutas de escalada de privilegios.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l03_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Uma vez obtido o acesso inicial na rede interna, enumero as permissões do Active Directory para identificar rotas de escalada de privilégios.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "b79718d6-ae6a-5121-beab-69264688815e",
+          "textContent": "Uma vez obtido o acesso inicial na rede interna, enumero as permissões do Active Directory para identificar rotas de escalada de privilégios.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "3a009737-9a65-594b-b089-39d8a2e83fdc",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8bba84c2-c1f2-53f7-93df-6449365cad46",
+          "textContent": "Realizo testes de movimento lateral avaliando a reutilização de credenciais locais e o abuso de contas de serviço mal configuradas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "3a009737-9a65-594b-b089-39d8a2e83fdc",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "500a40ee-d2bd-5454-9bf3-f8c02e91eed8",
+          "textContent": "Sempre interrompo a exploração ao demonstrar o impacto acordado, evitando afetar a disponibilidade dos sistemas em produção.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "3a009737-9a65-594b-b089-39d8a2e83fdc",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "78685565-ae1f-5fcc-bdf5-c182012a07ab",
+          "textContent": "Em uma auditoría de rede interna, quais técnicas você costuma empregar para avaliar a segurança do Active Directory?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "3a009737-9a65-594b-b089-39d8a2e83fdc",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f1444498-3487-5399-b64d-774327794b4c",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "19cb8013-4930-572a-ad74-378e6b262118",
+          "leftContent": "el Directorio Activo",
+          "rightContent": "o Active Directory (AD)",
+          "sequenceItem": 1,
+          "exerciseId": "f1444498-3487-5399-b64d-774327794b4c"
+        },
+        {
+          "id": "1bae36de-0445-530b-9ee2-b8daace623b3",
+          "leftContent": "el movimiento lateral",
+          "rightContent": "a movimentação lateral na rede",
+          "sequenceItem": 2,
+          "exerciseId": "f1444498-3487-5399-b64d-774327794b4c"
+        },
+        {
+          "id": "ad2b7811-d862-5843-ac4d-b3a8bdf6cb63",
+          "leftContent": "cuentas de servicio",
+          "rightContent": "service accounts",
+          "sequenceItem": 3,
+          "exerciseId": "f1444498-3487-5399-b64d-774327794b4c"
+        },
+        {
+          "id": "6b67d888-6f92-5af7-b0c8-8e1cefcd106f",
+          "leftContent": "protocolos heredados",
+          "rightContent": "protocolos legados (legacy protocols)",
+          "sequenceItem": 4,
+          "exerciseId": "f1444498-3487-5399-b64d-774327794b4c"
+        }
+      ]
+    },
+    {
+      "id": "76aba8e1-3766-5587-9a62-6bb437ec2d3c",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "a4b6f1f8-c1f9-5311-8488-06580f345e67",
+          "leftContent": "https://talk2me.local/content/ti_m02_l03_c1.mp3",
+          "rightContent": "Una vez obtenido el acceso inicial en la red interna, enumero los permisos del Directorio Activo para identificar rutas de escalada de privilegios.",
+          "sequenceItem": 1,
+          "exerciseId": "76aba8e1-3766-5587-9a62-6bb437ec2d3c"
+        },
+        {
+          "id": "e4d6453b-1985-5556-93cf-6bf7c694560d",
+          "leftContent": "https://talk2me.local/content/ti_m02_l03_c2.mp3",
+          "rightContent": "Realizo pruebas de movimiento lateral evaluando la reutilización de credenciales locales y el abuso de cuentas de servicio mal configuradas.",
+          "sequenceItem": 2,
+          "exerciseId": "76aba8e1-3766-5587-9a62-6bb437ec2d3c"
+        },
+        {
+          "id": "a2257556-695b-53f8-9a52-587ae6203fb0",
+          "leftContent": "https://talk2me.local/content/ti_m02_l03_c3.mp3",
+          "rightContent": "Siempre detengo la explotación al demostrar el impacto acordado, evitando afectar la disponibilidad de los sistemas en producción.",
+          "sequenceItem": 3,
+          "exerciseId": "76aba8e1-3766-5587-9a62-6bb437ec2d3c"
+        },
+        {
+          "id": "41d4e657-6f0f-5e4f-97b9-25348182168c",
+          "leftContent": "https://talk2me.local/content/ti_m02_l03_d2.mp3",
+          "rightContent": "Empiezo enumerando usuarios, grupos y políticas de dominio, y busco cuentas de servicio vulnerables a Kerberoasting o permisos excesivos.",
+          "sequenceItem": 4,
+          "exerciseId": "76aba8e1-3766-5587-9a62-6bb437ec2d3c"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Legacy protocols (protocolos legados, como LLMNR/NBT-NS/SMBv1)» em espanhol?</p>",
+      "contentPlain": "Como se diz «Legacy protocols (protocolos legados, como LLMNR/NBT-NS/SMBv1)» em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+      "feedbackError": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "2120e4a9-2052-5ba9-8b04-da161458305b",
+          "textContent": "Protocolos heredados (o protocolos obsoletos).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d5909595-afc7-5deb-a17c-04a77cdd2a5f",
+          "textContent": "Protocolos viejos de fábrica.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+          "exerciseId": "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1607185e-aefe-5156-b3b0-34457b0548f6",
+          "textContent": "Leyes antiguas de red.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+          "exerciseId": "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9d7d2d94-7664-58fa-b9e3-29c492279673",
+          "textContent": "Cables pasados de moda.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+          "exerciseId": "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5390fc4f-8480-5bb2-b6a6-462390fbd759",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "68fdb73f-26ed-5502-a91f-4a2e9935c718",
+          "leftContent": "https://talk2me.local/content/ti_m02_l03_d1.mp3",
+          "rightContent": "Em uma auditoría de rede interna, quais técnicas você costuma empregar para avaliar a segurança do Active Directory?",
+          "sequenceItem": 1,
+          "exerciseId": "5390fc4f-8480-5bb2-b6a6-462390fbd759"
+        },
+        {
+          "id": "ba6961e1-a4a9-55e9-b70d-36fdf30d8b61",
+          "leftContent": "https://talk2me.local/content/ti_m02_l03_d2.mp3",
+          "rightContent": "Começo enumerando usuários, grupos e políticas de domínio, e busco contas de serviço vulneráveis a Kerberoasting ou permissões excessivas.",
+          "sequenceItem": 2,
+          "exerciseId": "5390fc4f-8480-5bb2-b6a6-462390fbd759"
+        },
+        {
+          "id": "42233f90-5e60-5bee-8a7f-35828698a00d",
+          "leftContent": "https://talk2me.local/content/ti_m02_l03_d3.mp3",
+          "rightContent": "E quais medidas você recomenda para frear o movimento lateral entre estações de trabalho?",
+          "sequenceItem": 3,
+          "exerciseId": "5390fc4f-8480-5bb2-b6a6-462390fbd759"
+        },
+        {
+          "id": "be721661-db62-5488-923a-f50e66ec4e75",
+          "leftContent": "https://talk2me.local/content/ti_m02_l03_d4.mp3",
+          "rightContent": "Recomendo segmentar a rede, aplicar senhas locais únicas via LAPS, restringir as contas privilegiadas e desabilitar protocolos legados.",
+          "sequenceItem": 4,
+          "exerciseId": "5390fc4f-8480-5bb2-b6a6-462390fbd759"
+        }
+      ]
+    },
+    {
+      "id": "5d443475-e61a-5a5f-b587-883836655f83",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Buscamos rutas de _____ de privilegios dentro del Directorio Activo.</strong></p><p>Tradução: Buscamos rotas de escalada de privilégios dentro do Active Directory.</p>",
+      "contentPlain": "Buscamos rutas de _____ de privilegios dentro del Directorio Activo. Tradução: Buscamos rotas de escalada de privilégios dentro do Active Directory.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l03_spk.mp3",
+      "feedbackSuccess": "Correto! «escalada» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «escalada».",
+      "answerType": "buildWord",
+      "expectedAnswer": "escalada",
+      "typeSpecificData": "{\"word\": \"escalada\", \"translation\": \"Buscamos rotas de escalada de privilégios dentro do Active Directory.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "1d248370-cb01-5726-bcc0-5994d3463124",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l03_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Enumero el Directorio Activo para identificar rutas de escalada de privilegios y movimiento lateral.",
+      "typeSpecificData": "{\"expectedText\": \"Enumero el Directorio Activo para identificar rutas de escalada de privilegios y movimiento lateral.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m02_l03_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "8d2b9830-e39b-5169-8645-128eb8f4ac06",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «En una auditoría de red interna, ¿qué técnicas sueles emplear para evaluar la seguridad del Directorio Activo?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Empiezo enumerando usuarios, grupos y políticas de dominio, y busco cuentas de servicio vulnerables a Kerberoasting o permisos excesivos.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l03_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Empiezo enumerando usuarios, grupos y políticas de dominio, y busco cuentas de servicio vulnerables a Kerberoasting o permisos excesivos.",
+      "typeSpecificData": "{\"expectedText\": \"Empiezo enumerando usuarios, grupos y políticas de dominio, y busco cuentas de servicio vulnerables a Kerberoasting o permisos excesivos.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m02_l03_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "d53e6051-d9b1-51e8-bd98-3c551811d231",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué medidas recomiendas para frenar el movimiento lateral entre estaciones de trabajo?»</strong></p><p><em>(E quais medidas você recomenda para frear o movimento lateral entre estações de trabalho?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué medidas recomiendas para frenar el movimiento lateral entre estaciones de trabajo?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Recomiendo segmentar la red, aplicar contraseñas locales únicas mediante LAPS, restringir las cuentas privilegiadas y deshabilitar protocolos heredados.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "420bf42c-b571-51ae-9f14-0982048b925a",
+          "textContent": "Recomiendo segmentar la red, aplicar contraseñas locales únicas mediante LAPS, restringir las cuentas privilegiadas y deshabilitar protocolos heredados.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "d53e6051-d9b1-51e8-bd98-3c551811d231",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "db9d6820-b00d-579a-8ed8-c4e88ddaf321",
+          "textContent": "Empiezo enumerando usuarios, grupos y políticas de dominio, y busco cuentas de servicio vulnerables a Kerberoasting o permisos excesivos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "d53e6051-d9b1-51e8-bd98-3c551811d231",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ef954d33-cd92-56bb-88da-51727fcd2f80",
+          "textContent": "Una vez obtenido el acceso inicial en la red interna, enumero los permisos del Directorio Activo para identificar rutas de escalada de privilegios.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "d53e6051-d9b1-51e8-bd98-3c551811d231",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "41b17108-6aeb-53e6-9297-10f830d5fb2b",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "d53e6051-d9b1-51e8-bd98-3c551811d231",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d403c9fb-9fa5-5850-b24c-34914ed961d6",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Realizo pruebas de movimiento lateral evaluando la reutilización de credenciales locales y el abuso de cuentas de servicio mal _____.</strong></p><p>Tradução: Realizo testes de movimento lateral avaliando a reutilização de credenciais locais e o abuso de contas de serviço mal configuradas.</p>",
+      "contentPlain": "Realizo pruebas de movimiento lateral evaluando la reutilización de credenciales locales y el abuso de cuentas de servicio mal _____. Tradução: Realizo testes de movimento lateral avaliando a reutilização de credenciais locais e o abuso de contas de serviço mal configuradas.",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l03_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «configuradas» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «configuradas».",
+      "answerType": "buildWord",
+      "expectedAnswer": "configuradas",
+      "typeSpecificData": "{\"word\": \"configuradas\", \"translation\": \"Realizo testes de movimento lateral avaliando a reutilização de credenciais locais e o abuso de contas de serviço mal configuradas.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "8959f97e-90ad-5dc6-ba89-2b75689d6d68",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "0bda895f-753b-515b-984a-7f86a002429c",
+          "leftContent": "Uma vez obtido o acesso inicial na rede interna, enumero as permissões do Active Directory para identificar rotas de escalada de privilégios.",
+          "rightContent": "Una vez obtenido el acceso inicial en la red interna, enumero los permisos del Directorio Activo para identificar rutas de escalada de privilegios.",
+          "sequenceItem": 1,
+          "exerciseId": "8959f97e-90ad-5dc6-ba89-2b75689d6d68"
+        },
+        {
+          "id": "7c7b3086-2bef-5e22-9ad5-e7b34300c240",
+          "leftContent": "Realizo testes de movimento lateral avaliando a reutilização de credenciais locais e o abuso de contas de serviço mal configuradas.",
+          "rightContent": "Realizo pruebas de movimiento lateral evaluando la reutilización de credenciales locales y el abuso de cuentas de servicio mal configuradas.",
+          "sequenceItem": 2,
+          "exerciseId": "8959f97e-90ad-5dc6-ba89-2b75689d6d68"
+        },
+        {
+          "id": "3907be1f-9517-5b8d-9f4a-2f4dd6cefca6",
+          "leftContent": "Sempre interrompo a exploração ao demonstrar o impacto acordado, evitando afetar a disponibilidade dos sistemas em produção.",
+          "rightContent": "Siempre detengo la explotación al demostrar el impacto acordado, evitando afectar la disponibilidad de los sistemas en producción.",
+          "sequenceItem": 3,
+          "exerciseId": "8959f97e-90ad-5dc6-ba89-2b75689d6d68"
+        },
+        {
+          "id": "0992e2c4-f47b-5aca-a15f-20a7abf4cb9a",
+          "leftContent": "Recomendo segmentar a rede, aplicar senhas locais únicas via LAPS, restringir as contas privilegiadas e desabilitar protocolos legados.",
+          "rightContent": "Recomiendo segmentar la red, aplicar contraseñas locales únicas mediante LAPS, restringir las cuentas privilegiadas y deshabilitar protocolos heredados.",
+          "sequenceItem": 4,
+          "exerciseId": "8959f97e-90ad-5dc6-ba89-2b75689d6d68"
+        }
+      ]
+    }
+  ],
+  "title": "Pós-Explotação, Active Directory e Movimento Lateral (CRTA / DCPT)"
+}

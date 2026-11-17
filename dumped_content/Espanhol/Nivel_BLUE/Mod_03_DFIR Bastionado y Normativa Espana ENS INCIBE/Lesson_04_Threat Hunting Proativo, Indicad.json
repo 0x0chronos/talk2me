@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+    "attemptId": "ad152827-3f17-5e6d-9cf2-514eb3cd2097",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "3bbaa0f4-9bd3-5951-898d-fe8dd7316ad9",
+      "636c3e16-4b22-5104-8fda-5de64188e7e1",
+      "d13109e2-d9d2-5e08-b55c-94c51aabb9d1",
+      "19dfc660-03b0-50c6-840f-7b164062da31"
+    ],
+    "practiceExerciseIds": [
+      "60dc8907-9483-5041-8e82-ea77699d7911",
+      "44bd92c4-763f-5a67-8701-76c0adabf377",
+      "b4a4cdc7-d27d-5aa6-9431-595e2f067d6d",
+      "9574cdfb-1bad-57dd-8e5d-00384d9922eb",
+      "6f252086-d3be-5392-a617-27d10d6bf512"
+    ],
+    "evaluationExerciseIds": [
+      "cc248aa3-4841-599c-9f8d-a95caca5d286",
+      "d56b27ab-48a7-51f5-8dc8-6c65d1762b3a",
+      "c19d2880-c08e-5d3e-9c33-cfb008796e79"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "fe9fd66e-63bd-5636-8565-399b362ff64c",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "a135b78f-03c7-56dc-a1f0-c59934669626",
+          "textContent": "<p>Mostra atitude proativa em vez de apenas esperar o alerta tocar.</p><p><strong>Además de atender las alertas del SIEM, realizo búsquedas proactivas de amenazas basadas en hipótesis y en boletines de inteligencia.</strong></p><p>Em português: <strong>Além de atender aos alertas do SIEM, realizo buscas proativas de ameaças (Threat Hunting) baseadas em hipóteses e em boletins de inteligência.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m03_l04_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "87dc301f-89f5-53f6-b2ef-38a4b27918c9",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "e32587e1-4160-5d79-891d-a8e6c4a74f66",
+          "textContent": "<p>Exemplos técnicos concretos que todo gestor de Blue Team valoriza.</p><p><strong>Busco ejecuciones sospechosas de PowerShell codificado, conexiones periódicas hacia el exterior y creaciones inusuales de servicios.</strong></p><p>Em português: <strong>Busco execuções suspechosas de PowerShell codificado, conexões periódicas para o exterior (beaconing) e criações incomuns de serviços.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m03_l04_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "ee18ba88-94a0-5fca-972a-b8a8715a1344",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "8f256caa-cfea-5bb9-8f1e-e4289b1c735b",
+          "textContent": "<p>Conecta o Threat Hunting diretamente à melhoria contínua do SIEM (Detection Engineering).</p><p><strong>Cuando identifico un nuevo patrón de ataque, propongo una nueva regla de detección en el SIEM para automatizar su captura en el futuro.</strong></p><p>Em português: <strong>Quando identifico um novo padrão de ataque, proponho uma nova regra de detecção no SIEM para automatizar sua captura no futuro.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m03_l04_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "71522066-0415-5f95-a326-d3ee1f9a3627",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "4a8b8f6d-6114-50d4-a031-4302de523594",
+          "textContent": "<p>Para se destacar em vagas de <strong>SOC N2 / Threat Detection</strong> na Espanha, mostre que você também faz busca proativa de ameaças (<strong>caza de amenazas / Threat Hunting</strong>):</p><ul><li><strong>Búsqueda basada en hipótesis:</strong> formular uma hipótese a partir de um relatório de inteligência (ex.: CCN-CERT ou INCIBE-CERT) e buscar comportamentos anômalos nos logs.</li><li><strong>Indicadores de compromiso (IoCs) vs. Indicadores de ataque (IoAs):</strong> hashes/IPs estáticos vs. comportamento de processos na memória.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>caza proactiva de amenazas</strong> — Threat Hunting baseado em hipóteses e TTPs</li><li><strong>comandos ofuscados</strong> — scripts codificados (ex.: PowerShell Base64) para evadir detecção</li><li><strong>herramientas nativas del sistema (LOLBins)</strong> — binários legítimos do SO abusados pelo atacante</li><li><strong>brecha de detección</strong> — lacuna de visibilidade coberta por uma nova regra no SIEM</li><li><strong>Palavra-chave de escrita: «proactivas»</strong> (Realizo búsquedas proactivas de amenazas basadas en hipótesis y en el marco MITRE.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "caza proactiva de amenazas — Threat Hunting baseado em hipóteses e TTPs",
+        "comandos ofuscados — scripts codificados (ex.: PowerShell Base64) para evadir detecção",
+        "herramientas nativas del sistema (LOLBins) — binários legítimos do SO abusados pelo atacante",
+        "brecha de detección — lacuna de visibilidade coberta por uma nova regra no SIEM"
+      ]
+    },
+    {
+      "id": "b3341e99-28aa-5559-ba76-ff409e9013e4",
+      "title": "Explicando Threat Hunting e Engenharia de Detecção",
+      "description": "<p>Laura pergunta como você atua proativamente para encontrar ameaças que ainda não geraram alerta.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">En ocasiones un atacante logra evadir las firmas tradicionales del antivirus. ¿Cómo buscas amenazas de forma proactiva en los registros?</div>\n  <div style=\"opacity: 0.55;\">Às vezes um atacante consegue evadir as assinaturas tradicionais do antivírus. Como você busca ameaças de forma proativa nos logs?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m03_l04_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Planteo una hipótesis basada en técnicas de MITRE ATT&CK, por ejemplo la ejecución de comandos ofuscados en PowerShell o el uso indebido de herramientas nativas del sistema.</div>\n  <div style=\"opacity: 0.55;\">Formulo uma hipótese baseada em técnicas do MITRE ATT&CK, por exemplo a execução de comandos ofuscados em PowerShell ou o abuso de ferramentas nativas do sistema (LOLBins).</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m03_l04_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y qué haces si durante esa búsqueda encuentras una técnica que el SIEM no estaba alertando?</div>\n  <div style=\"opacity: 0.55;\">E o que você faz se durante essa busca encontrar uma técnica que o SIEM não estava alertando?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m03_l04_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Investigo el alcance en todos los equipos y enseguida desarrollo una nueva regla de correlación en QRadar o Sentinel para cubrir esa brecha de detección.</div>\n  <div style=\"opacity: 0.55;\">Investigo o alcance em todas as máquinas e em seguida desenvolvo uma nova regra de correlação no QRadar ou Sentinel para cobrir essa lacuna de detecção.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m03_l04_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "3bbaa0f4-9bd3-5951-898d-fe8dd7316ad9",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «En ocasiones un atacante logra evadir las firmas tradicionales del antivirus. ¿Cómo buscas amenazas de forma proactiva en los registros?»</p><p><em>(Às vezes um atacante consegue evadir as assinaturas tradicionais do antivírus. Como você busca ameaças de forma proativa nos logs?)</em></p>",
+      "contentPlain": "En ocasiones un atacante logra evadir las firmas tradicionales del antivirus. ¿Cómo buscas amenazas de forma proactiva en los registros?",
+      "fileUrl": "https://talk2me.local/content/blue_m03_l04_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Planteo una hipótesis basada en técnicas de MITRE ATT&CK, por ejemplo la ejecución de comandos ofuscados en PowerShell o el uso indebido de herramientas nativas del sistema.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "e140c58b-073c-572c-90a4-c69baf7ce9a0",
+          "textContent": "Planteo una hipótesis basada en técnicas de MITRE ATT&CK, por ejemplo la ejecución de comandos ofuscados en PowerShell o el uso indebido de herramientas nativas del sistema.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "3bbaa0f4-9bd3-5951-898d-fe8dd7316ad9",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1183fa57-907d-537a-baa7-b66dd0b0247e",
+          "textContent": "Cuando identifico un nuevo patrón de ataque, propongo una nueva regla de detección en el SIEM para automatizar su captura en el futuro.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "3bbaa0f4-9bd3-5951-898d-fe8dd7316ad9",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "99edbb4f-de94-5b52-a117-6fd4fdcb74b8",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "3bbaa0f4-9bd3-5951-898d-fe8dd7316ad9",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b16d4c9e-c396-5c00-9483-220884417d23",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "3bbaa0f4-9bd3-5951-898d-fe8dd7316ad9",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "636c3e16-4b22-5104-8fda-5de64188e7e1",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Además de atender las alertas del SIEM, realizo búsquedas proactivas de amenazas basadas en hipótesis y en boletines de inteligencia.</strong></p>",
+      "contentPlain": "Además de atender las alertas del SIEM, realizo búsquedas proactivas de amenazas basadas en hipótesis y en boletines de inteligencia.",
+      "fileUrl": "https://talk2me.local/content/blue_m03_l04_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Além de atender aos alertas do SIEM, realizo buscas proativas de ameaças (Threat Hunting) baseadas em hipóteses e em boletins de inteligência.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "3c2b6643-f940-5e65-84cd-2b088874e56e",
+          "textContent": "Além de atender aos alertas do SIEM, realizo buscas proativas de ameaças (Threat Hunting) baseadas em hipóteses e em boletins de inteligência.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "636c3e16-4b22-5104-8fda-5de64188e7e1",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "037898bf-68ca-5cad-8e4b-e883d26875eb",
+          "textContent": "Busco execuções suspechosas de PowerShell codificado, conexões periódicas para o exterior (beaconing) e criações incomuns de serviços.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "636c3e16-4b22-5104-8fda-5de64188e7e1",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "18285c4c-b9b1-5035-b0e6-b7cf16117198",
+          "textContent": "Quando identifico um novo padrão de ataque, proponho uma nova regra de detecção no SIEM para automatizar sua captura no futuro.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "636c3e16-4b22-5104-8fda-5de64188e7e1",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "cc2d471f-a1f6-50c4-a1ae-af5d6a54760c",
+          "textContent": "Às vezes um atacante consegue evadir as assinaturas tradicionais do antivírus. Como você busca ameaças de forma proativa nos logs?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "636c3e16-4b22-5104-8fda-5de64188e7e1",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d13109e2-d9d2-5e08-b55c-94c51aabb9d1",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "8cb63b49-dca4-5cad-8b32-d39abdd4e4af",
+          "leftContent": "caza proactiva de amenazas",
+          "rightContent": "Threat Hunting baseado em hipóteses e TTPs",
+          "sequenceItem": 1,
+          "exerciseId": "d13109e2-d9d2-5e08-b55c-94c51aabb9d1"
+        },
+        {
+          "id": "d57a537d-dba9-5ef6-b9ab-144b11dcf151",
+          "leftContent": "comandos ofuscados",
+          "rightContent": "scripts codificados (ex.: PowerShell Base64) para evadir detecção",
+          "sequenceItem": 2,
+          "exerciseId": "d13109e2-d9d2-5e08-b55c-94c51aabb9d1"
+        },
+        {
+          "id": "0e320f98-cb88-59a3-a768-59c4cf2d73b1",
+          "leftContent": "herramientas nativas del sistema (LOLBins)",
+          "rightContent": "binários legítimos do SO abusados pelo atacante",
+          "sequenceItem": 3,
+          "exerciseId": "d13109e2-d9d2-5e08-b55c-94c51aabb9d1"
+        },
+        {
+          "id": "fbc933a1-9edf-5dc2-bafa-ee03ffaaec4f",
+          "leftContent": "brecha de detección",
+          "rightContent": "lacuna de visibilidade coberta por uma nova regra no SIEM",
+          "sequenceItem": 4,
+          "exerciseId": "d13109e2-d9d2-5e08-b55c-94c51aabb9d1"
+        }
+      ]
+    },
+    {
+      "id": "19dfc660-03b0-50c6-840f-7b164062da31",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "09248aad-69cb-5809-b66d-1201de87dcfb",
+          "leftContent": "https://talk2me.local/content/blue_m03_l04_c1.mp3",
+          "rightContent": "Además de atender las alertas del SIEM, realizo búsquedas proactivas de amenazas basadas en hipótesis y en boletines de inteligencia.",
+          "sequenceItem": 1,
+          "exerciseId": "19dfc660-03b0-50c6-840f-7b164062da31"
+        },
+        {
+          "id": "3554da53-5317-5eb0-9f90-de6c223159ba",
+          "leftContent": "https://talk2me.local/content/blue_m03_l04_c2.mp3",
+          "rightContent": "Busco ejecuciones sospechosas de PowerShell codificado, conexiones periódicas hacia el exterior y creaciones inusuales de servicios.",
+          "sequenceItem": 2,
+          "exerciseId": "19dfc660-03b0-50c6-840f-7b164062da31"
+        },
+        {
+          "id": "b8fb6ec7-a1fb-5e2f-bc8a-7f61cc3a6fb4",
+          "leftContent": "https://talk2me.local/content/blue_m03_l04_c3.mp3",
+          "rightContent": "Cuando identifico un nuevo patrón de ataque, propongo una nueva regla de detección en el SIEM para automatizar su captura en el futuro.",
+          "sequenceItem": 3,
+          "exerciseId": "19dfc660-03b0-50c6-840f-7b164062da31"
+        },
+        {
+          "id": "57c16c39-60f8-5c7c-b68f-c187cd0e472b",
+          "leftContent": "https://talk2me.local/content/blue_m03_l04_d2.mp3",
+          "rightContent": "Planteo una hipótesis basada en técnicas de MITRE ATT&CK, por ejemplo la ejecución de comandos ofuscados en PowerShell o el uso indebido de herramientas nativas del sistema.",
+          "sequenceItem": 4,
+          "exerciseId": "19dfc660-03b0-50c6-840f-7b164062da31"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "60dc8907-9483-5041-8e82-ea77699d7911",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Threat Hunting (busca proativa de ameaças)» e «comandos ofuscados» em espanhol técnico?</p>",
+      "contentPlain": "Como se diz «Threat Hunting (busca proativa de ameaças)» e «comandos ofuscados» em espanhol técnico?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+      "feedbackError": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "16f8022b-46be-55bd-932f-ff66332e0536",
+          "textContent": "Caza proactiva de amenazas (búsqueda de amenazas) y comandos ofuscados.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "60dc8907-9483-5041-8e82-ea77699d7911",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "cebcf1fc-5400-5bb6-9101-7a88e3a565f2",
+          "textContent": "Pesca de virus y letras escondidas.",
+          "isCorrect": false,
+          "incorrectReason": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+          "exerciseId": "60dc8907-9483-5041-8e82-ea77699d7911",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f3f357f2-c421-59ec-9abb-cabbee263b0f",
+          "textContent": "Captura de pantallas y textos borrados.",
+          "isCorrect": false,
+          "incorrectReason": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+          "exerciseId": "60dc8907-9483-5041-8e82-ea77699d7911",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0f16867d-b2f2-5052-be15-5c3c70508f63",
+          "textContent": "Rastreo de cables y códigos rotos.",
+          "isCorrect": false,
+          "incorrectReason": "«Caza de amenazas (Threat Hunting)» e «comandos ofuscados / codificados» demonstram vocabulário avançado de Blue Team.",
+          "exerciseId": "60dc8907-9483-5041-8e82-ea77699d7911",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "44bd92c4-763f-5a67-8701-76c0adabf377",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "4d385d2d-05da-562f-a52f-b17b57199db1",
+          "leftContent": "https://talk2me.local/content/blue_m03_l04_d1.mp3",
+          "rightContent": "Às vezes um atacante consegue evadir as assinaturas tradicionais do antivírus. Como você busca ameaças de forma proativa nos logs?",
+          "sequenceItem": 1,
+          "exerciseId": "44bd92c4-763f-5a67-8701-76c0adabf377"
+        },
+        {
+          "id": "f3e84f9e-3ec8-5e14-837a-de007f773966",
+          "leftContent": "https://talk2me.local/content/blue_m03_l04_d2.mp3",
+          "rightContent": "Formulo uma hipótese baseada em técnicas do MITRE ATT&CK, por exemplo a execução de comandos ofuscados em PowerShell ou o abuso de ferramentas nativas do sistema (LOLBins).",
+          "sequenceItem": 2,
+          "exerciseId": "44bd92c4-763f-5a67-8701-76c0adabf377"
+        },
+        {
+          "id": "27a34326-cc79-52e2-93f8-6160f17241a9",
+          "leftContent": "https://talk2me.local/content/blue_m03_l04_d3.mp3",
+          "rightContent": "E o que você faz se durante essa busca encontrar uma técnica que o SIEM não estava alertando?",
+          "sequenceItem": 3,
+          "exerciseId": "44bd92c4-763f-5a67-8701-76c0adabf377"
+        },
+        {
+          "id": "9ed42e28-7dc5-5e26-870e-229acfe06af3",
+          "leftContent": "https://talk2me.local/content/blue_m03_l04_d4.mp3",
+          "rightContent": "Investigo o alcance em todas as máquinas e em seguida desenvolvo uma nova regra de correlação no QRadar ou Sentinel para cobrir essa lacuna de detecção.",
+          "sequenceItem": 4,
+          "exerciseId": "44bd92c4-763f-5a67-8701-76c0adabf377"
+        }
+      ]
+    },
+    {
+      "id": "b4a4cdc7-d27d-5aa6-9431-595e2f067d6d",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Realizo búsquedas _____ de amenazas basadas en hipótesis y en el marco MITRE.</strong></p><p>Tradução: Realizo buscas proativas de ameaças baseadas em hipóteses e no framework MITRE.</p>",
+      "contentPlain": "Realizo búsquedas _____ de amenazas basadas en hipótesis y en el marco MITRE. Tradução: Realizo buscas proativas de ameaças baseadas em hipóteses e no framework MITRE.",
+      "fileUrl": "https://talk2me.local/content/blue_m03_l04_spk.mp3",
+      "feedbackSuccess": "Correto! «proactivas» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «proactivas».",
+      "answerType": "buildWord",
+      "expectedAnswer": "proactivas",
+      "typeSpecificData": "{\"word\": \"proactivas\", \"translation\": \"Realizo buscas proativas de ameaças baseadas em hipóteses e no framework MITRE.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "9574cdfb-1bad-57dd-8e5d-00384d9922eb",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/blue_m03_l04_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Realizo búsquedas proactivas de amenazas y desarrollo nuevas reglas de detección en el SIEM.",
+      "typeSpecificData": "{\"expectedText\": \"Realizo búsquedas proactivas de amenazas y desarrollo nuevas reglas de detección en el SIEM.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m03_l04_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "6f252086-d3be-5392-a617-27d10d6bf512",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «En ocasiones un atacante logra evadir las firmas tradicionales del antivirus. ¿Cómo buscas amenazas de forma proactiva en los registros?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Planteo una hipótesis basada en técnicas de MITRE ATT&CK, por ejemplo la ejecución de comandos ofuscados en PowerShell o el uso indebido de herramientas nativas del sistema.",
+      "fileUrl": "https://talk2me.local/content/blue_m03_l04_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Planteo una hipótesis basada en técnicas de MITRE ATT&CK, por ejemplo la ejecución de comandos ofuscados en PowerShell o el uso indebido de herramientas nativas del sistema.",
+      "typeSpecificData": "{\"expectedText\": \"Planteo una hipótesis basada en técnicas de MITRE ATT&CK, por ejemplo la ejecución de comandos ofuscados en PowerShell o el uso indebido de herramientas nativas del sistema.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m03_l04_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "cc248aa3-4841-599c-9f8d-a95caca5d286",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué haces si durante esa búsqueda encuentras una técnica que el SIEM no estaba alertando?»</strong></p><p><em>(E o que você faz se durante essa busca encontrar uma técnica que o SIEM não estava alertando?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué haces si durante esa búsqueda encuentras una técnica que el SIEM no estaba alertando?",
+      "fileUrl": "https://talk2me.local/content/blue_m03_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Investigo el alcance en todos los equipos y enseguida desarrollo una nueva regla de correlación en QRadar o Sentinel para cubrir esa brecha de detección.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "932242fb-3991-5d05-b4f8-13fdb0e48142",
+          "textContent": "Investigo el alcance en todos los equipos y enseguida desarrollo una nueva regla de correlación en QRadar o Sentinel para cubrir esa brecha de detección.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "cc248aa3-4841-599c-9f8d-a95caca5d286",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c1a2629f-e6b5-5626-9ac3-d57555f4cf92",
+          "textContent": "Planteo una hipótesis basada en técnicas de MITRE ATT&CK, por ejemplo la ejecución de comandos ofuscados en PowerShell o el uso indebido de herramientas nativas del sistema.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "cc248aa3-4841-599c-9f8d-a95caca5d286",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0e77cbc8-dcdc-5ca9-bb75-7baf7efd32e1",
+          "textContent": "Además de atender las alertas del SIEM, realizo búsquedas proactivas de amenazas basadas en hipótesis y en boletines de inteligencia.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "cc248aa3-4841-599c-9f8d-a95caca5d286",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4e9b6ed5-2f3e-5b1a-ad7c-f2ecb16bc45d",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "cc248aa3-4841-599c-9f8d-a95caca5d286",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d56b27ab-48a7-51f5-8dc8-6c65d1762b3a",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Busco ejecuciones sospechosas de PowerShell codificado, conexiones periódicas hacia el exterior y creaciones inusuales de _____.</strong></p><p>Tradução: Busco execuções suspechosas de PowerShell codificado, conexões periódicas para o exterior (beaconing) e criações incomuns de serviços.</p>",
+      "contentPlain": "Busco ejecuciones sospechosas de PowerShell codificado, conexiones periódicas hacia el exterior y creaciones inusuales de _____. Tradução: Busco execuções suspechosas de PowerShell codificado, conexões periódicas para o exterior (beaconing) e criações incomuns de serviços.",
+      "fileUrl": "https://talk2me.local/content/blue_m03_l04_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «servicios» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «servicios».",
+      "answerType": "buildWord",
+      "expectedAnswer": "servicios",
+      "typeSpecificData": "{\"word\": \"servicios\", \"translation\": \"Busco execuções suspechosas de PowerShell codificado, conexões periódicas para o exterior (beaconing) e criações incomuns de serviços.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c19d2880-c08e-5d3e-9c33-cfb008796e79",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "846fda2e-306b-5629-8aa0-2607fa54a704",
+          "leftContent": "Além de atender aos alertas do SIEM, realizo buscas proativas de ameaças (Threat Hunting) baseadas em hipóteses e em boletins de inteligência.",
+          "rightContent": "Además de atender las alertas del SIEM, realizo búsquedas proactivas de amenazas basadas en hipótesis y en boletines de inteligencia.",
+          "sequenceItem": 1,
+          "exerciseId": "c19d2880-c08e-5d3e-9c33-cfb008796e79"
+        },
+        {
+          "id": "8e34f511-a9ee-5e73-9105-79f92ff64d7d",
+          "leftContent": "Busco execuções suspechosas de PowerShell codificado, conexões periódicas para o exterior (beaconing) e criações incomuns de serviços.",
+          "rightContent": "Busco ejecuciones sospechosas de PowerShell codificado, conexiones periódicas hacia el exterior y creaciones inusuales de servicios.",
+          "sequenceItem": 2,
+          "exerciseId": "c19d2880-c08e-5d3e-9c33-cfb008796e79"
+        },
+        {
+          "id": "6aeeb764-9dad-5806-b8b0-ad5a0c1ce018",
+          "leftContent": "Quando identifico um novo padrão de ataque, proponho uma nova regra de detecção no SIEM para automatizar sua captura no futuro.",
+          "rightContent": "Cuando identifico un nuevo patrón de ataque, propongo una nueva regla de detección en el SIEM para automatizar su captura en el futuro.",
+          "sequenceItem": 3,
+          "exerciseId": "c19d2880-c08e-5d3e-9c33-cfb008796e79"
+        },
+        {
+          "id": "95c13da5-df7d-5288-8b88-f1597b605896",
+          "leftContent": "Investigo o alcance em todas as máquinas e em seguida desenvolvo uma nova regra de correlação no QRadar ou Sentinel para cobrir essa lacuna de detecção.",
+          "rightContent": "Investigo el alcance en todos los equipos y enseguida desarrollo una nueva regla de correlación en QRadar o Sentinel para cubrir esa brecha de detección.",
+          "sequenceItem": 4,
+          "exerciseId": "c19d2880-c08e-5d3e-9c33-cfb008796e79"
+        }
+      ]
+    }
+  ],
+  "title": "Threat Hunting Proativo, Indicadores de Comprometimento (IoCs) e EDR"
+}

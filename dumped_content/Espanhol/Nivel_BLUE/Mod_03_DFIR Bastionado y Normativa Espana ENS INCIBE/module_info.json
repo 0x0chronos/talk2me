@@ -1,0 +1,67 @@
+{
+  "id": "d223a8db-eeb2-5637-ab79-ed493e52be43",
+  "title": "Blue Team III - Resposta a Incidentes, Bastionado e Normativa da Espanha",
+  "subTitle": "Domine DFIR, contenção de Ransomware, Bastionado (Hardening) e as leis e órgãos que toda empresa espanhola exige: ENS, INCIBE, CCN-CERT, RGPD, AEPD, NIS2 e ISO 27001.",
+  "sequenceItem": 3,
+  "icon": null,
+  "bannerImageUrl": null,
+  "completed": false,
+  "unlocked": true,
+  "learningPath": [
+    {
+      "lessonId": "9d4964cd-c79c-5260-b814-2d03d5e97339",
+      "title": "Resposta a Incidentes (DFIR), Ransomware e Forense Digital",
+      "icon": null,
+      "stars": 0,
+      "unlocked": true,
+      "sequence": 1,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "title": "Bastionado de Sistemas (Hardening), Cortafuegos e Segurança em Nuvem",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 2,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "e9a282dc-49f3-55eb-88e5-34388d2fbc1c",
+      "title": "Normativa na Espanha - ENS, INCIBE, CCN-CERT, RGPD, NIS2 e ISO 27001",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 3,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "4c21b262-227d-5dac-b8ca-a65684be7441",
+      "title": "Threat Hunting Proativo, Indicadores de Comprometimento (IoCs) e EDR",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 4,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "00000000-0000-0000-0000-000000000000",
+      "title": "Checkpoint da unidade",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 5,
+      "type": "checkpoint",
+      "checkpointId": "b2f07ec7-bf2c-50c1-85c3-e53183ae743b",
+      "challengeReached": false
+    }
+  ]
+}

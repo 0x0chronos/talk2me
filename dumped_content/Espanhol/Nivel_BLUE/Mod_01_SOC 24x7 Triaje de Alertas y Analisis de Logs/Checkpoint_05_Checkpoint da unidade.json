@@ -1,0 +1,694 @@
+{
+  "id": "901a893a-3bf7-55a4-8cbb-04d8cd71f36e",
+  "title": "Checkpoint: Blue Team I - SOC 24x7, Triagem de Alertas e Análise de Logs",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "8e5944a3-ce94-5661-865b-57b2fe007395",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "67534720-44e3-5064-b180-cf6458e7b34c",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": [
+        {
+          "id": "73f21e08-0128-58e6-976a-79e9b4984b19",
+          "leftContent": "falso positivo",
+          "rightContent": "alerta disparado sem ataque real",
+          "sequenceItem": 1,
+          "exerciseId": "f190bcca-354f-53c5-bfc4-d5eafda73b25"
+        },
+        {
+          "id": "a5ed532c-7089-51e7-b0c1-250e4f902a1a",
+          "leftContent": "indicador de compromiso (IoC)",
+          "rightContent": "artefato ou rastro deixado pelo atacante",
+          "sequenceItem": 2,
+          "exerciseId": "f190bcca-354f-53c5-bfc4-d5eafda73b25"
+        },
+        {
+          "id": "45ad1aa2-550c-5413-92d8-c2bd6e881851",
+          "leftContent": "intentos fallidos de inicio de sesión",
+          "rightContent": "tentativas falhas de login",
+          "sequenceItem": 3,
+          "exerciseId": "f190bcca-354f-53c5-bfc4-d5eafda73b25"
+        },
+        {
+          "id": "856bc852-e95d-59cb-8c22-9315e29268de",
+          "leftContent": "pulverización de contraseñas",
+          "rightContent": "password spraying",
+          "sequenceItem": 4,
+          "exerciseId": "f190bcca-354f-53c5-bfc4-d5eafda73b25"
+        }
+      ]
+    },
+    {
+      "id": "f7bfb192-ef3a-5428-83db-54172b6d179b",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «logs de segurança» e «tentativas falhas de login» em espanhol técnico na Espanha?</p>",
+      "contentPlain": "Como se diz «logs de segurança» e «tentativas falhas de login» em espanhol técnico na Espanha?",
+      "fileUrl": null,
+      "feedbackSuccess": "Embora muitos usem «logs», o termo formal na Espanha é «registros (de eventos / de seguridad)» e «intentos fallidos de inicio de sesión».",
+      "feedbackError": "Embora muitos usem «logs», o termo formal na Espanha é «registros (de eventos / de seguridad)» e «intentos fallidos de inicio de sesión».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "67534720-44e3-5064-b180-cf6458e7b34c",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "595c13c3-b465-56b4-87b9-04c6b42ac71b",
+          "textContent": "Registros de seguridad / intentos fallidos de inicio de sesión.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "4af89289-c7e1-5d7e-ab1c-0a81f855991d",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "dc5a1643-b451-5551-87fb-078ccb4e782a",
+          "textContent": "Maderas de seguridad / pruebas rotas de entrada.",
+          "isCorrect": false,
+          "incorrectReason": "Embora muitos usem «logs», o termo formal na Espanha é «registros (de eventos / de seguridad)» e «intentos fallidos de inicio de sesión».",
+          "exerciseId": "4af89289-c7e1-5d7e-ab1c-0a81f855991d",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "eb806f5c-d920-5fc5-bbb9-d5796e093f0a",
+          "textContent": "Archivos de texto / caídas de contraseña.",
+          "isCorrect": false,
+          "incorrectReason": "Embora muitos usem «logs», o termo formal na Espanha é «registros (de eventos / de seguridad)» e «intentos fallidos de inicio de sesión».",
+          "exerciseId": "4af89289-c7e1-5d7e-ab1c-0a81f855991d",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bbeb3cf4-b90a-5f0d-b7c2-4cd7786c2779",
+          "textContent": "Listas de errores / bloqueos de pantalla.",
+          "isCorrect": false,
+          "incorrectReason": "Embora muitos usem «logs», o termo formal na Espanha é «registros (de eventos / de seguridad)» e «intentos fallidos de inicio de sesión».",
+          "exerciseId": "4af89289-c7e1-5d7e-ab1c-0a81f855991d",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "2026d786-5675-54d8-9a9b-640a4c971c2e",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo compruebas si se trata de un falso positivo o de una cuenta comprometida?»</strong></p><p><em>(E como você comprova se se trata de um falso positivo ou de uma conta comprometida?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo compruebas si se trata de un falso positivo o de una cuenta comprometida?",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l01_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Reviso los registros de actividad posterior al acceso, como descargas inusuales o creación de reglas de reenvío, y si hay anomalías bloqueo la sesión y escalo el caso.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "67534720-44e3-5064-b180-cf6458e7b34c",
+      "sequenceItem": 3,
+      "options": [
+        {
+          "id": "38a72010-02e2-517c-9c8a-c60cd229f699",
+          "textContent": "Reviso los registros de actividad posterior al acceso, como descargas inusuales o creación de reglas de reenvío, y si hay anomalías bloqueo la sesión y escalo el caso.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "58a1fcbd-a43a-5b54-b1ec-7cf75e48dd66",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "07b4b6a6-1303-5803-86f1-5462a1098f15",
+          "textContent": "Primero verifico el origen de la dirección IP, el horario habitual del usuario y si existe un patrón de fuerza bruta o pulverización de contraseñas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "58a1fcbd-a43a-5b54-b1ec-7cf75e48dd66",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "32584021-cf2c-5649-a23c-46ca65798399",
+          "textContent": "En el centro de operaciones de seguridad analizamos alertas del SIEM para distinguir incidentes reales de falsos positivos.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "58a1fcbd-a43a-5b54-b1ec-7cf75e48dd66",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "deec9ba2-b358-5418-aad3-66f5c773ee0c",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "58a1fcbd-a43a-5b54-b1ec-7cf75e48dd66",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "86b9a937-ac95-5bc4-b026-259b85190300",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "8c2d5ac7-4bad-5ae5-85d6-c781005b3eff",
+          "leftContent": "conexiones salientes",
+          "rightContent": "conexões de saída (outbound)",
+          "sequenceItem": 1,
+          "exerciseId": "eabf19ee-5f26-5996-9771-6775af76f089"
+        },
+        {
+          "id": "23a0f788-e499-5a1a-a7dd-e2a8b0d8c759",
+          "leftContent": "alerta de viaje imposible",
+          "rightContent": "login simultâneo em locais incompatíveis (impossible travel)",
+          "sequenceItem": 2,
+          "exerciseId": "eabf19ee-5f26-5996-9771-6775af76f089"
+        },
+        {
+          "id": "c564a326-cedb-5ad9-9317-2281cb779888",
+          "leftContent": "mala reputación de IP",
+          "rightContent": "IP listado em feeds de Threat Intelligence",
+          "sequenceItem": 3,
+          "exerciseId": "eabf19ee-5f26-5996-9771-6775af76f089"
+        },
+        {
+          "id": "5791b650-c01b-5f30-9a9d-df924f226de0",
+          "leftContent": "telemetría del endpoint (EDR)",
+          "rightContent": "eventos de processos, arquivos e memória do host",
+          "sequenceItem": 4,
+          "exerciseId": "eabf19ee-5f26-5996-9771-6775af76f089"
+        }
+      ]
+    },
+    {
+      "id": "15139373-ad13-5d4c-9d9d-7946143c9ec7",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se chama em espanhol o alerta de segurança em que uma mesma credencial se conecta à VPN a partir do Brasil e, dez minutos depois, da Rússia?</p>",
+      "contentPlain": "Como se chama em espanhol o alerta de segurança em que uma mesma credencial se conecta à VPN a partir do Brasil e, dez minutos depois, da Rússia?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+      "feedbackError": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 5,
+      "options": [
+        {
+          "id": "11b9bb36-6f67-5d09-bac9-776c857db042",
+          "textContent": "Una alerta de viaje imposible (acceso desde ubicaciones geográficas incompatibles).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f9bd17ba-3f08-553b-afbc-f8766b17fa0c",
+          "textContent": "Un billete de avión duplicado.",
+          "isCorrect": false,
+          "incorrectReason": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+          "exerciseId": "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "340fffa5-ef13-5002-9a81-88bbb4de675d",
+          "textContent": "Una caída de tensión en el cortafuegos.",
+          "isCorrect": false,
+          "incorrectReason": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+          "exerciseId": "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e07f9ed7-c70e-5a52-9b29-bc46dd4134c5",
+          "textContent": "Un error de traducción de red.",
+          "isCorrect": false,
+          "incorrectReason": "«Alerta de viaje imposible» (impossible travel) é um dos casos de uso mais perguntados em entrevistas para Analista SOC.",
+          "exerciseId": "ce881eac-ad72-5eca-b5a0-62fffd1baeec",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "29e77c6c-d6b7-5a02-9ae8-1f94986be4b0",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué analizas cuando revisas los registros de la VPN corporativa y del proxy?»</strong></p><p><em>(E o que você analisa quando revisa os logs da VPN corporativa e do proxy?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué analizas cuando revisas los registros de la VPN corporativa y del proxy?",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «En la VPN busco accesos desde ubicaciones inusuales o viajes imposibles, y en el proxy analizo peticiones hacia dominios de phishing o comando y control.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "94a0055b-3703-578f-8794-0b0850a2338d",
+      "sequenceItem": 6,
+      "options": [
+        {
+          "id": "609deb62-5ff4-519f-8a83-2d80aa009c21",
+          "textContent": "En la VPN busco accesos desde ubicaciones inusuales o viajes imposibles, y en el proxy analizo peticiones hacia dominios de phishing o comando y control.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ab06add0-fcb1-5754-8f95-0d2acdf6124f",
+          "textContent": "En el cortafuegos busco escaneos de puertos y conexiones salientes hacia direcciones IP con mala reputación.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3d30cd64-81dd-5226-a569-0121f569719d",
+          "textContent": "Superviso los registros de cortafuegos, proxies y concentradores de VPN para identificar patrones de tráfico anómalos.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "479a2c49-c03a-5e37-b8cf-1e1e8d83d92b",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "c7ffaaee-5936-51c1-b4e6-3265621f04fb",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "3a65197f-fc27-586c-8ffc-d38f8997c08d",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 7,
+      "options": [],
+      "associations": [
+        {
+          "id": "4f2ebd46-823d-5a21-81b4-0d9b523941a1",
+          "leftContent": "suplantación de identidad",
+          "rightContent": "phishing / spoofing de identidade",
+          "sequenceItem": 1,
+          "exerciseId": "d9842a7f-964c-5812-940e-125158bd6e40"
+        },
+        {
+          "id": "a503b807-ee6e-5d9e-b5cb-3b1151982da8",
+          "leftContent": "tareas programadas",
+          "rightContent": "scheduled tasks (persistência no sistema)",
+          "sequenceItem": 2,
+          "exerciseId": "d9842a7f-964c-5812-940e-125158bd6e40"
+        },
+        {
+          "id": "67a2f5fb-5701-55b2-a01f-e353ffca3b5e",
+          "leftContent": "volcado de credenciales",
+          "rightContent": "credential dumping (ex.: LSASS)",
+          "sequenceItem": 3,
+          "exerciseId": "d9842a7f-964c-5812-940e-125158bd6e40"
+        },
+        {
+          "id": "18751e0c-1c10-57b2-98e4-f222086b2fba",
+          "leftContent": "cadena de ataque (kill chain)",
+          "rightContent": "sequência de fases do ataque cibernético",
+          "sequenceItem": 4,
+          "exerciseId": "d9842a7f-964c-5812-940e-125158bd6e40"
+        }
+      ]
+    },
+    {
+      "id": "970246fb-75d8-520c-8b9c-e1780d663808",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «phishing / falsificação de identidade» e «tarefas agendadas (scheduled tasks)» em espanhol da Espanha?</p>",
+      "contentPlain": "Como se diz «phishing / falsificação de identidade» e «tarefas agendadas (scheduled tasks)» em espanhol da Espanha?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+      "feedbackError": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 8,
+      "options": [
+        {
+          "id": "e76a82da-390c-5228-a693-a10aaff76f25",
+          "textContent": "Suplantación de identidad (phishing) y tareas programadas.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "c2efce19-edd2-595d-ac8a-43cec58066f0",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3891b886-0cd9-5497-9890-8517a1c116d8",
+          "textContent": "Pesca de usuarios y trabajos de reloj.",
+          "isCorrect": false,
+          "incorrectReason": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+          "exerciseId": "c2efce19-edd2-595d-ac8a-43cec58066f0",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "921cce8d-b0aa-5ed1-8356-31d5d24522a0",
+          "textContent": "Robo de nombres y agendas de sistema.",
+          "isCorrect": false,
+          "incorrectReason": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+          "exerciseId": "c2efce19-edd2-595d-ac8a-43cec58066f0",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "75d0636b-c849-577f-aee8-904cc5458656",
+          "textContent": "Falsificación de red y listas de tiempo.",
+          "isCorrect": false,
+          "incorrectReason": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+          "exerciseId": "c2efce19-edd2-595d-ac8a-43cec58066f0",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "493eea91-8f4e-5a0b-82f8-073e607cd01c",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué haces cuando detectas una técnica de persistencia o de acceso a credenciales en un servidor?»</strong></p><p><em>(E o que você faz quando detecta uma técnica de persistência ou de acesso a credenciais em um servidor?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué haces cuando detectas una técnica de persistencia o de acceso a credenciales en un servidor?",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Busco otras técnicas asociadas al mismo grupo de amenazas, reviso tareas programadas o servicios nuevos y documento los códigos de técnica en el informe del incidente.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 9,
+      "options": [
+        {
+          "id": "f921aa50-2366-57e2-a86f-16e1f05dfde7",
+          "textContent": "Busco otras técnicas asociadas al mismo grupo de amenazas, reviso tareas programadas o servicios nuevos y documento los códigos de técnica en el informe del incidente.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4dfc4221-9cf9-50ed-a355-debc27d2e9d9",
+          "textContent": "Me permite clasificar qué táctica está ejecutando el atacante, por ejemplo si está en fase de acceso inicial mediante phishing o intentando escalar privilegios.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ec55e769-1033-598a-abad-d0f1e8a36042",
+          "textContent": "Utilizo el marco MITRE ATT&CK como referencia para clasificar las tácticas, técnicas y procedimientos observados en cada incidente.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9894e042-44ae-57c9-94dc-b873ebf636a7",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "4053da21-0778-5610-8eb1-dbd565936250",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 10,
+      "options": [],
+      "associations": [
+        {
+          "id": "5b7e9331-1801-556e-804b-39a8e95cb4a5",
+          "leftContent": "el relevo de turno",
+          "rightContent": "a passagem de plantão (handover no SOC)",
+          "sequenceItem": 1,
+          "exerciseId": "20a58734-1f29-50d1-9fb3-aaad8d2f50cd"
+        },
+        {
+          "id": "661800bb-3d30-5086-bbfa-f3200cbfc485",
+          "leftContent": "tiempo medio de respuesta (MTTR)",
+          "rightContent": "Mean Time To Respond / Resolve",
+          "sequenceItem": 2,
+          "exerciseId": "20a58734-1f29-50d1-9fb3-aaad8d2f50cd"
+        },
+        {
+          "id": "3c8236bd-6c5d-5fa6-b51f-a561b4fd8e06",
+          "leftContent": "acuerdo de nivel de servicio (SLA)",
+          "rightContent": "Service Level Agreement (prazo contratual)",
+          "sequenceItem": 3,
+          "exerciseId": "20a58734-1f29-50d1-9fb3-aaad8d2f50cd"
+        },
+        {
+          "id": "f624d135-f151-597e-a530-12443364fd97",
+          "leftContent": "activos afectados",
+          "rightContent": "máquinas, contas ou servidores impactados",
+          "sequenceItem": 4,
+          "exerciseId": "20a58734-1f29-50d1-9fb3-aaad8d2f50cd"
+        }
+      ]
+    },
+    {
+      "id": "0983a1e8-b9bf-5aae-8deb-8e037f809278",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se chama em espanhol da Espanha a «passagem de plantão / handover» entre analistas de um SOC 24×7?</p>",
+      "contentPlain": "Como se chama em espanhol da Espanha a «passagem de plantão / handover» entre analistas de um SOC 24×7?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+      "feedbackError": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 11,
+      "options": [
+        {
+          "id": "85bed35f-1240-57e6-847a-ecbbe7149fcf",
+          "textContent": "El relevo de turno (o cambio de turno).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "21338d6b-40b3-5df1-8fe5-06ddeb3a0b52",
+          "textContent": "El paseo de guardia.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+          "exerciseId": "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1afa57c0-b9e0-5fb1-8ab0-d37be59df523",
+          "textContent": "La entrega de llaves.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+          "exerciseId": "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "051a6046-74db-5656-9b3b-4e9009f6c3c1",
+          "textContent": "El salto de horario.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, usa-se «hacer el relevo de turno» para o handover entre equipes de operações 24x7.",
+          "exerciseId": "f8a43dbc-9cd4-5633-b01e-464b8ec7a353",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f5571c19-c71e-5e70-96e6-09e74e89eef1",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo impacta esa organización en los tiempos de respuesta del equipo?»</strong></p><p><em>(E como essa organização impacta nos tempos de resposta da equipe?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo impacta esa organización en los tiempos de respuesta del equipo?",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Al entregar el contexto completo a nivel dos y hacer un buen relevo de turno, reducimos el tiempo medio de respuesta y cumplimos los acuerdos de nivel de servicio.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "c707c4de-6e85-5c03-8b1b-081b6f964d1a",
+      "sequenceItem": 12,
+      "options": [
+        {
+          "id": "5a2fc883-8669-5047-a48e-21e82ccd4063",
+          "textContent": "Al entregar el contexto completo a nivel dos y hacer un buen relevo de turno, reducimos el tiempo medio de respuesta y cumplimos los acuerdos de nivel de servicio.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "3ae12c80-967e-5305-b49d-7e019cfbe102",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "6a0b18ee-92ac-5221-b436-e5659b02a56b",
+          "textContent": "Registro en el ticket todos los indicadores analizados, las consultas ejecutadas en el SIEM y el estado exacto de la contención.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "3ae12c80-967e-5305-b49d-7e019cfbe102",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c7244f52-8afa-5937-9982-5a9d17428bd5",
+          "textContent": "Documento cada incidente con una cronología clara de los eventos, los activos afectados y las acciones de contención recomendadas.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "3ae12c80-967e-5305-b49d-7e019cfbe102",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1d345864-4305-5a29-89ae-de8efc0c8843",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "3ae12c80-967e-5305-b49d-7e019cfbe102",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+    "attemptId": "fcaa652f-29e3-59f9-9f7d-8cd1e39032f9",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "079668a3-c9c9-5d66-8bda-f0c07e63269a",
+      "db8a90fd-72e1-5cd7-8bf7-7324d84e292d",
+      "cda010f6-2c07-5fd5-b2b9-136e3871f15b",
+      "4934f146-535b-54c1-81f3-c018fcca987b"
+    ],
+    "practiceExerciseIds": [
+      "c8df467a-db01-588a-b632-fe16bf41aee2",
+      "7968769f-ee65-5b84-8cfb-7bc0e223d0c6",
+      "2a73c3f8-753c-56d5-bb88-a98a8bb101cc",
+      "c9447151-5984-5f0e-97fe-2681e9f58f5e",
+      "3e2188f1-527e-5575-be1a-ffc45dd83059"
+    ],
+    "evaluationExerciseIds": [
+      "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+      "981698fc-af63-5349-82fd-0040b54e5138",
+      "dd8ea505-f1c2-53a0-9374-5c71202b839a"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "3df84d89-befb-5f50-9e5d-92c20d5bf2a0",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "34c761f8-8539-579b-9f7a-b8508f770f97",
+          "textContent": "<p>Argumento matador para qualquer entrevista de SOC, Pentest ou Purple Team!</p><p><strong>Mi experiencia en pentesting me permite entender exactamente qué artefactos y registros deja un atacante en cada fase de la intrusión.</strong></p><p>Em português: <strong>Minha experiência em pentesting me permite entender exatamente quais artefatos e logs um atacante deixa em cada fase da intrusão.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m03_l04_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "df6d7f15-b04d-59d2-8d71-8580b4ea92ba",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "0ec9dfad-be49-5db3-beca-fa925af53d6d",
+          "textContent": "<p>Explica na prática o que é validação de controles e Purple Team.</p><p><strong>Realizo ejercicios de Purple Team ejecutando técnicas ofensivas controladas para verificar si las reglas de QRadar y Sentinel disparan la alerta esperada.</strong></p><p>Em português: <strong>Realizo exercícios de Purple Team executando técnicas ofensivas controladas para verificar se as regras do QRadar e do Sentinel disparam o alerta esperado.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m03_l04_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1a4a5057-60ab-5757-8ac6-176677d31a54",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "267f20e3-ebbd-576e-a432-414e46c2397f",
+          "textContent": "<p>Em espanhol de SOC/SIEM, as regras de detecção são frequentemente chamadas de «casos de uso del SIEM».</p><p><strong>Cuando una técnica ofensiva logra evadir la monitorización, analizamos la telemetría cruda y ajustamos los casos de uso del SIEM.</strong></p><p>Em português: <strong>Quando uma técnica ofensiva consegue evadir o monitoramento, analisamos a telemetria bruta e ajustamos os casos de uso do SIEM.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/red_m03_l04_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "27bb906e-6781-5f24-a88f-c4cd26176216",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "6100ea93-2283-5465-a909-4493d1bb4975",
+          "textContent": "<p>Esta lição une as duas metades do seu currículo (<strong>Red Team na Access Security + Blue Team na iT.eam</strong>) na abordagem mais valorizada hoje na Espanha: <strong>Purple Team (Equipo Púrpura)</strong>:</p><ul><li>Ao executar um ataque (ex.: <em>Kerberoasting, SQLi, força bruta ou execução de PowerShell</em>), você sabe exatamente <strong>qual log é gerado no Windows Event Viewer, no WAF ou no Firewall</strong> e como criar a regra no <strong>QRadar / Sentinel</strong>!</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>ejercicio de Purple Team</strong> — simulação colaborativa entre ataque (Red) e defesa (Blue)</li><li><strong>casos de uso del SIEM</strong> — regras e cenários de detecção configurados no QRadar/Sentinel</li><li><strong>evadir la monitorización</strong> — passar pelos controles sem gerar alerta (bypass de detecção)</li><li><strong>artefactos de la intrusión</strong> — rastros deixados em logs, memória, registro ou sistema de arquivos</li><li><strong>Palavra-chave de escrita: «casos»</strong> (Traduzco cada técnica ofensiva en nuevos casos de uso para mejorar la detección en el SIEM.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "ejercicio de Purple Team — simulação colaborativa entre ataque (Red) e defesa (Blue)",
+        "casos de uso del SIEM — regras e cenários de detecção configurados no QRadar/Sentinel",
+        "evadir la monitorización — passar pelos controles sem gerar alerta (bypass de detecção)",
+        "artefactos de la intrusión — rastros deixados em logs, memória, registro ou sistema de arquivos"
+      ]
+    },
+    {
+      "id": "f276780c-804e-5830-984f-031f8ec4bb37",
+      "title": "Explicando sua visão Purple Team (Ataque + Defesa)",
+      "description": "<p>Laura pergunta como sua experiência em Pentest ajuda no SOC e vice-versa.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Rony, tienes un perfil poco común porque combinas más de veinte pentests con operación diaria en QRadar y Sentinel. ¿Cómo conectas ambos mundos en la práctica?</div>\n  <div style=\"opacity: 0.55;\">Rony, você tem um perfil incomum porque combina mais de vinte pentests com operação diária no QRadar e Sentinel. Como você conecta ambos os mundos na prática?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m03_l04_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Cuando estoy en el lado ofensivo, sé qué controles y reglas del SIEM monitorean la red, lo que me ayuda a diseñar pruebas más realistas.</div>\n  <div style=\"opacity: 0.55;\">Quando estou no lado ofensivo, sei quais controles e regras do SIEM monitoram a rede, o que me ajuda a desenhar testes mais realistas.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m03_l04_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y cuando estás analizando alertas en el centro de operaciones de seguridad?</div>\n  <div style=\"opacity: 0.55;\">E quando você está analisando alertas no centro de operações de segurança (SOC)?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m03_l04_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Reconozco de inmediato las cargas útiles de herramientas como Burp Suite, Nmap o Metasploit en los registros y traduzco cada técnica ofensiva en nuevos casos de uso para el SIEM.</div>\n  <div style=\"opacity: 0.55;\">Reconheço de imediato os payloads de ferramentas como Burp Suite, Nmap ou Metasploit nos logs e traduzo cada técnica ofensiva em novos casos de uso para o SIEM.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/red_m03_l04_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "079668a3-c9c9-5d66-8bda-f0c07e63269a",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Rony, tienes un perfil poco común porque combinas más de veinte pentests con operación diaria en QRadar y Sentinel. ¿Cómo conectas ambos mundos en la práctica?»</p><p><em>(Rony, você tem um perfil incomum porque combina mais de vinte pentests com operação diária no QRadar e Sentinel. Como você conecta ambos os mundos na prática?)</em></p>",
+      "contentPlain": "Rony, tienes un perfil poco común porque combinas más de veinte pentests con operación diaria en QRadar y Sentinel. ¿Cómo conectas ambos mundos en la práctica?",
+      "fileUrl": "https://talk2me.local/content/red_m03_l04_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Cuando estoy en el lado ofensivo, sé qué controles y reglas del SIEM monitorean la red, lo que me ayuda a diseñar pruebas más realistas.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "c030ada0-d51d-5811-b2db-463034170cbe",
+          "textContent": "Cuando estoy en el lado ofensivo, sé qué controles y reglas del SIEM monitorean la red, lo que me ayuda a diseñar pruebas más realistas.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "079668a3-c9c9-5d66-8bda-f0c07e63269a",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "02108d3a-a570-5160-b3ce-a9308d44731c",
+          "textContent": "Cuando una técnica ofensiva logra evadir la monitorización, analizamos la telemetría cruda y ajustamos los casos de uso del SIEM.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "079668a3-c9c9-5d66-8bda-f0c07e63269a",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "83dff8b3-0bdc-58dc-b16b-c97dd96e82f0",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "079668a3-c9c9-5d66-8bda-f0c07e63269a",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0ab2b480-46b5-5891-9016-217c56b69686",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "079668a3-c9c9-5d66-8bda-f0c07e63269a",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "db8a90fd-72e1-5cd7-8bf7-7324d84e292d",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Mi experiencia en pentesting me permite entender exactamente qué artefactos y registros deja un atacante en cada fase de la intrusión.</strong></p>",
+      "contentPlain": "Mi experiencia en pentesting me permite entender exactamente qué artefactos y registros deja un atacante en cada fase de la intrusión.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l04_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Minha experiência em pentesting me permite entender exatamente quais artefatos e logs um atacante deixa em cada fase da intrusão.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "c3f34910-a54f-5666-a51b-75576e0d8107",
+          "textContent": "Minha experiência em pentesting me permite entender exatamente quais artefatos e logs um atacante deixa em cada fase da intrusão.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "db8a90fd-72e1-5cd7-8bf7-7324d84e292d",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0a521de0-cba4-5c6d-8857-7d0001447a52",
+          "textContent": "Realizo exercícios de Purple Team executando técnicas ofensivas controladas para verificar se as regras do QRadar e do Sentinel disparam o alerta esperado.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "db8a90fd-72e1-5cd7-8bf7-7324d84e292d",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "710c647b-0f1f-5fa5-9f83-51e2fe92c56c",
+          "textContent": "Quando uma técnica ofensiva consegue evadir o monitoramento, analisamos a telemetria bruta e ajustamos os casos de uso do SIEM.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "db8a90fd-72e1-5cd7-8bf7-7324d84e292d",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9e3cf6da-4ed4-55ed-95d1-26c2e6d2f6a8",
+          "textContent": "Rony, você tem um perfil incomum porque combina mais de vinte pentests com operação diária no QRadar e Sentinel. Como você conecta ambos os mundos na prática?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "db8a90fd-72e1-5cd7-8bf7-7324d84e292d",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "cda010f6-2c07-5fd5-b2b9-136e3871f15b",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "59a7041e-8019-5146-b8e1-b209e1a5cc3f",
+          "leftContent": "ejercicio de Purple Team",
+          "rightContent": "simulação colaborativa entre ataque (Red) e defesa (Blue)",
+          "sequenceItem": 1,
+          "exerciseId": "cda010f6-2c07-5fd5-b2b9-136e3871f15b"
+        },
+        {
+          "id": "2e1ba49b-6076-55b2-8e59-f137de9f9151",
+          "leftContent": "casos de uso del SIEM",
+          "rightContent": "regras e cenários de detecção configurados no QRadar/Sentinel",
+          "sequenceItem": 2,
+          "exerciseId": "cda010f6-2c07-5fd5-b2b9-136e3871f15b"
+        },
+        {
+          "id": "51e07d05-cb6b-57ec-89ea-057f42b4a2f8",
+          "leftContent": "evadir la monitorización",
+          "rightContent": "passar pelos controles sem gerar alerta (bypass de detecção)",
+          "sequenceItem": 3,
+          "exerciseId": "cda010f6-2c07-5fd5-b2b9-136e3871f15b"
+        },
+        {
+          "id": "eeabe66b-041c-5f4e-894c-ecb1aeb5d10c",
+          "leftContent": "artefactos de la intrusión",
+          "rightContent": "rastros deixados em logs, memória, registro ou sistema de arquivos",
+          "sequenceItem": 4,
+          "exerciseId": "cda010f6-2c07-5fd5-b2b9-136e3871f15b"
+        }
+      ]
+    },
+    {
+      "id": "4934f146-535b-54c1-81f3-c018fcca987b",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "f885f91f-6935-5310-9861-e06cd785d53f",
+          "leftContent": "https://talk2me.local/content/red_m03_l04_c1.mp3",
+          "rightContent": "Mi experiencia en pentesting me permite entender exactamente qué artefactos y registros deja un atacante en cada fase de la intrusión.",
+          "sequenceItem": 1,
+          "exerciseId": "4934f146-535b-54c1-81f3-c018fcca987b"
+        },
+        {
+          "id": "ff3476ab-d491-5f0b-9646-367fb9fb7a44",
+          "leftContent": "https://talk2me.local/content/red_m03_l04_c2.mp3",
+          "rightContent": "Realizo ejercicios de Purple Team ejecutando técnicas ofensivas controladas para verificar si las reglas de QRadar y Sentinel disparan la alerta esperada.",
+          "sequenceItem": 2,
+          "exerciseId": "4934f146-535b-54c1-81f3-c018fcca987b"
+        },
+        {
+          "id": "fe0d1065-035d-5aa5-bd98-e286b4960c6b",
+          "leftContent": "https://talk2me.local/content/red_m03_l04_c3.mp3",
+          "rightContent": "Cuando una técnica ofensiva logra evadir la monitorización, analizamos la telemetría cruda y ajustamos los casos de uso del SIEM.",
+          "sequenceItem": 3,
+          "exerciseId": "4934f146-535b-54c1-81f3-c018fcca987b"
+        },
+        {
+          "id": "ce45f915-e967-5359-8f0d-389ab5b22078",
+          "leftContent": "https://talk2me.local/content/red_m03_l04_d2.mp3",
+          "rightContent": "Cuando estoy en el lado ofensivo, sé qué controles y reglas del SIEM monitorean la red, lo que me ayuda a diseñar pruebas más realistas.",
+          "sequenceItem": 4,
+          "exerciseId": "4934f146-535b-54c1-81f3-c018fcca987b"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "c8df467a-db01-588a-b632-fe16bf41aee2",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Nos SOCs e consultorias da Espanha, o que significa a expressão «desarrollar nuevos casos de uso en el SIEM»?</p>",
+      "contentPlain": "Nos SOCs e consultorias da Espanha, o que significa a expressão «desarrollar nuevos casos de uso en el SIEM»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+      "feedbackError": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "ae154f13-b285-5ff3-8f8d-6a0657220eda",
+          "textContent": "Criar e configurar novas regras/cenários de correlação e detecção de ameaças no SIEM (QRadar / Sentinel).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "c8df467a-db01-588a-b632-fe16bf41aee2",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f6bfa646-ee82-5847-b2f7-c65a24851859",
+          "textContent": "Escrever contratos comerciais de venda de licenças.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+          "exerciseId": "c8df467a-db01-588a-b632-fe16bf41aee2",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3f3d8b2c-0a42-5b35-8c19-15f1e2cc33e9",
+          "textContent": "Trocar o gabinete físico dos computadores dos analistas.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+          "exerciseId": "c8df467a-db01-588a-b632-fe16bf41aee2",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9f345537-904b-51e6-a715-539201130a6f",
+          "textContent": "Desinstalar os agentes de endpoint das máquinas.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+          "exerciseId": "c8df467a-db01-588a-b632-fe16bf41aee2",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7968769f-ee65-5b84-8cfb-7bc0e223d0c6",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "2b9c87e9-66f9-59ac-a7c9-f7cde9258643",
+          "leftContent": "https://talk2me.local/content/red_m03_l04_d1.mp3",
+          "rightContent": "Rony, você tem um perfil incomum porque combina mais de vinte pentests com operação diária no QRadar e Sentinel. Como você conecta ambos os mundos na prática?",
+          "sequenceItem": 1,
+          "exerciseId": "7968769f-ee65-5b84-8cfb-7bc0e223d0c6"
+        },
+        {
+          "id": "906926d1-e7ee-5863-9a1a-d19d58b5f849",
+          "leftContent": "https://talk2me.local/content/red_m03_l04_d2.mp3",
+          "rightContent": "Quando estou no lado ofensivo, sei quais controles e regras do SIEM monitoram a rede, o que me ajuda a desenhar testes mais realistas.",
+          "sequenceItem": 2,
+          "exerciseId": "7968769f-ee65-5b84-8cfb-7bc0e223d0c6"
+        },
+        {
+          "id": "25056000-771d-5957-98d4-44c437d463a1",
+          "leftContent": "https://talk2me.local/content/red_m03_l04_d3.mp3",
+          "rightContent": "E quando você está analisando alertas no centro de operações de segurança (SOC)?",
+          "sequenceItem": 3,
+          "exerciseId": "7968769f-ee65-5b84-8cfb-7bc0e223d0c6"
+        },
+        {
+          "id": "fe45fa39-ae38-5649-af39-7d07cce78788",
+          "leftContent": "https://talk2me.local/content/red_m03_l04_d4.mp3",
+          "rightContent": "Reconheço de imediato os payloads de ferramentas como Burp Suite, Nmap ou Metasploit nos logs e traduzo cada técnica ofensiva em novos casos de uso para o SIEM.",
+          "sequenceItem": 4,
+          "exerciseId": "7968769f-ee65-5b84-8cfb-7bc0e223d0c6"
+        }
+      ]
+    },
+    {
+      "id": "2a73c3f8-753c-56d5-bb88-a98a8bb101cc",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Traduzco cada técnica ofensiva en nuevos _____ de uso para mejorar la detección en el SIEM.</strong></p><p>Tradução: Traduzo cada técnica ofensiva em novos casos de uso para melhorar a detecção no SIEM.</p>",
+      "contentPlain": "Traduzco cada técnica ofensiva en nuevos _____ de uso para mejorar la detección en el SIEM. Tradução: Traduzo cada técnica ofensiva em novos casos de uso para melhorar a detecção no SIEM.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l04_spk.mp3",
+      "feedbackSuccess": "Correto! «casos» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «casos».",
+      "answerType": "buildWord",
+      "expectedAnswer": "casos",
+      "typeSpecificData": "{\"word\": \"casos\", \"translation\": \"Traduzo cada técnica ofensiva em novos casos de uso para melhorar a detecção no SIEM.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c9447151-5984-5f0e-97fe-2681e9f58f5e",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l04_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Combino mi experiencia en pentesting con el análisis en el SIEM para mejorar los casos de uso de detección.",
+      "typeSpecificData": "{\"expectedText\": \"Combino mi experiencia en pentesting con el análisis en el SIEM para mejorar los casos de uso de detección.\", \"audioModelUrl\": \"https://talk2me.local/content/red_m03_l04_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3e2188f1-527e-5575-be1a-ffc45dd83059",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Rony, tienes un perfil poco común porque combinas más de veinte pentests con operación diaria en QRadar y Sentinel. ¿Cómo conectas ambos mundos en la práctica?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Cuando estoy en el lado ofensivo, sé qué controles y reglas del SIEM monitorean la red, lo que me ayuda a diseñar pruebas más realistas.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l04_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Cuando estoy en el lado ofensivo, sé qué controles y reglas del SIEM monitorean la red, lo que me ayuda a diseñar pruebas más realistas.",
+      "typeSpecificData": "{\"expectedText\": \"Cuando estoy en el lado ofensivo, sé qué controles y reglas del SIEM monitorean la red, lo que me ayuda a diseñar pruebas más realistas.\", \"audioModelUrl\": \"https://talk2me.local/content/red_m03_l04_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cuando estás analizando alertas en el centro de operaciones de seguridad?»</strong></p><p><em>(E quando você está analisando alertas no centro de operações de segurança (SOC)?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cuando estás analizando alertas en el centro de operaciones de seguridad?",
+      "fileUrl": "https://talk2me.local/content/red_m03_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Reconozco de inmediato las cargas útiles de herramientas como Burp Suite, Nmap o Metasploit en los registros y traduzco cada técnica ofensiva en nuevos casos de uso para el SIEM.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "1bf6dd31-b58c-5a05-a9d3-7b5e950cfbff",
+          "textContent": "Reconozco de inmediato las cargas útiles de herramientas como Burp Suite, Nmap o Metasploit en los registros y traduzco cada técnica ofensiva en nuevos casos de uso para el SIEM.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8896f468-487c-520f-aafb-e57db3d7c7f0",
+          "textContent": "Cuando estoy en el lado ofensivo, sé qué controles y reglas del SIEM monitorean la red, lo que me ayuda a diseñar pruebas más realistas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e7cba9b8-28ed-5a1a-854b-1b1b40434c5c",
+          "textContent": "Mi experiencia en pentesting me permite entender exactamente qué artefactos y registros deja un atacante en cada fase de la intrusión.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2b81e08e-b3b7-528a-9e00-098ee4eaab8a",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "981698fc-af63-5349-82fd-0040b54e5138",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Realizo ejercicios de Purple Team ejecutando técnicas ofensivas controladas para verificar si las reglas de QRadar y Sentinel disparan la alerta _____.</strong></p><p>Tradução: Realizo exercícios de Purple Team executando técnicas ofensivas controladas para verificar se as regras do QRadar e do Sentinel disparam o alerta esperado.</p>",
+      "contentPlain": "Realizo ejercicios de Purple Team ejecutando técnicas ofensivas controladas para verificar si las reglas de QRadar y Sentinel disparan la alerta _____. Tradução: Realizo exercícios de Purple Team executando técnicas ofensivas controladas para verificar se as regras do QRadar e do Sentinel disparam o alerta esperado.",
+      "fileUrl": "https://talk2me.local/content/red_m03_l04_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «esperada» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «esperada».",
+      "answerType": "buildWord",
+      "expectedAnswer": "esperada",
+      "typeSpecificData": "{\"word\": \"esperada\", \"translation\": \"Realizo exercícios de Purple Team executando técnicas ofensivas controladas para verificar se as regras do QRadar e do Sentinel disparam o alerta esperado.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "dd8ea505-f1c2-53a0-9374-5c71202b839a",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "43b5635b-50e2-5b03-8252-bd6e7f71eb05",
+          "leftContent": "Minha experiência em pentesting me permite entender exatamente quais artefatos e logs um atacante deixa em cada fase da intrusão.",
+          "rightContent": "Mi experiencia en pentesting me permite entender exactamente qué artefactos y registros deja un atacante en cada fase de la intrusión.",
+          "sequenceItem": 1,
+          "exerciseId": "dd8ea505-f1c2-53a0-9374-5c71202b839a"
+        },
+        {
+          "id": "57b39950-d332-5cfc-8660-0a540a6e11e7",
+          "leftContent": "Realizo exercícios de Purple Team executando técnicas ofensivas controladas para verificar se as regras do QRadar e do Sentinel disparam o alerta esperado.",
+          "rightContent": "Realizo ejercicios de Purple Team ejecutando técnicas ofensivas controladas para verificar si las reglas de QRadar y Sentinel disparan la alerta esperada.",
+          "sequenceItem": 2,
+          "exerciseId": "dd8ea505-f1c2-53a0-9374-5c71202b839a"
+        },
+        {
+          "id": "c8a86bde-dacd-57c9-80da-587848162768",
+          "leftContent": "Quando uma técnica ofensiva consegue evadir o monitoramento, analisamos a telemetria bruta e ajustamos os casos de uso do SIEM.",
+          "rightContent": "Cuando una técnica ofensiva logra evadir la monitorización, analizamos la telemetría cruda y ajustamos los casos de uso del SIEM.",
+          "sequenceItem": 3,
+          "exerciseId": "dd8ea505-f1c2-53a0-9374-5c71202b839a"
+        },
+        {
+          "id": "6c3494d3-34a4-573e-bb97-a6a64c706eea",
+          "leftContent": "Reconheço de imediato os payloads de ferramentas como Burp Suite, Nmap ou Metasploit nos logs e traduzo cada técnica ofensiva em novos casos de uso para o SIEM.",
+          "rightContent": "Reconozco de inmediato las cargas útiles de herramientas como Burp Suite, Nmap o Metasploit en los registros y traduzco cada técnica ofensiva en nuevos casos de uso para el SIEM.",
+          "sequenceItem": 4,
+          "exerciseId": "dd8ea505-f1c2-53a0-9374-5c71202b839a"
+        }
+      ]
+    }
+  ],
+  "title": "Purple Team - Transformando seus Pentests em Regras de Detecção no SIEM"
+}

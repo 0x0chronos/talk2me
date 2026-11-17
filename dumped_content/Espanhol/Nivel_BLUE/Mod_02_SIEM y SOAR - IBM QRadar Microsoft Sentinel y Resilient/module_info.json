@@ -1,0 +1,67 @@
+{
+  "id": "2de6226b-2f96-5e21-83d4-a8c61ced106e",
+  "title": "Blue Team II - IBM QRadar, Microsoft Sentinel e IBM Resilient (SOAR)",
+  "subTitle": "Treinamento profundo na sua stack principal da iT.eam: ofensas e regras no QRadar, consultas KQL no Sentinel, tuning de falsos positivos e playbooks no IBM Resilient.",
+  "sequenceItem": 2,
+  "icon": null,
+  "bannerImageUrl": null,
+  "completed": false,
+  "unlocked": true,
+  "learningPath": [
+    {
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "title": "Sua Rotina na iT.eam - IBM QRadar, Microsoft Sentinel e IBM Resilient",
+      "icon": null,
+      "stars": 0,
+      "unlocked": true,
+      "sequence": 1,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "81c698fe-52de-5a67-ae78-1697d29cde89",
+      "title": "IBM QRadar a Fundo - Ofensas, Fontes de Log (DSM), AQL e Tuning",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 2,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "title": "Microsoft Sentinel na Prática - Consultas KQL, Reglas Analíticas e Incidentes",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 3,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "title": "Automação SOAR no IBM Resilient - Playbooks, Threat Intel e Contenção",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 4,
+      "type": "lesson",
+      "checkpointId": null,
+      "challengeReached": false
+    },
+    {
+      "lessonId": "00000000-0000-0000-0000-000000000000",
+      "title": "Checkpoint da unidade",
+      "icon": null,
+      "stars": 0,
+      "unlocked": false,
+      "sequence": 5,
+      "type": "checkpoint",
+      "checkpointId": "83cfdaef-fc10-5258-96ab-5cd72b80edfa",
+      "challengeReached": false
+    }
+  ]
+}

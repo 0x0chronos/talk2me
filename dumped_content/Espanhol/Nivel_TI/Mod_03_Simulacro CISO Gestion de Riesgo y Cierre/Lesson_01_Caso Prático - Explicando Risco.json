@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+    "attemptId": "0c56c29c-909a-54d3-8278-599b3fa5f5d9",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "3992d4e5-14c5-5768-a27c-fb05bc4cee39",
+      "aba3caab-08c0-59f8-a788-12088ade4def",
+      "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b",
+      "f7290feb-e3b4-56db-9751-219c283a5541"
+    ],
+    "practiceExerciseIds": [
+      "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+      "3b1869aa-d87e-5f0a-bc58-483e33f1d765",
+      "4f33f16a-765b-5a19-8267-9ce55423abc9",
+      "de9d26cb-66cb-5e43-8adf-85327651cb0e",
+      "241fb30c-635c-59ef-ac19-6d749589d13b"
+    ],
+    "evaluationExerciseIds": [
+      "3a87aa5a-804a-5789-b919-9691a0a028c8",
+      "69d5650d-3841-5e23-8bfc-cf395cb24ffc",
+      "55eb90c8-c747-57f4-8754-2e876ba2a92c"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "24521b1f-de79-5a07-8dd1-457e35322c86",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "d775b6b5-b3bd-5050-b85d-3375604e37bb",
+          "textContent": "<p>Essa é a resposta número 1 que todo CISO na Espanha quer ouvir!</p><p><strong>Si un lanzamiento crítico no puede retrasarse, propongo controles compensatorios inmediatos para mitigar el riesgo mientras se desarrolla el parche definitivo.</strong></p><p>Em português: <strong>Se um lançamento crítico não puder ser adiado, proponho controles compensatórios imediatos para mitigar o risco enquanto o patch definitivo é desenvolvido.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "99ccb5c7-48cf-53ef-a66f-6fc169e52805",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "0ac4c85a-f1a1-56b4-b0df-3f43d20ca6f8",
+          "textContent": "<p>Mostra visão executiva (risco financeiro, operacional e reputacional).</p><p><strong>Traduzco el fallo técnico a impacto de negocio, explicando el riesgo financiero, operativo y reputacional a la dirección.</strong></p><p>Em português: <strong>Traduzo a falha técnica em impacto de negócio, explicando o risco financeiro, operacional e reputacional para a diretoria.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "07ac3ad3-97fc-5321-8c32-de41176ec20e",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "51b991bf-3801-5c80-b650-930df8c8cb34",
+          "textContent": "<p>«Asumir el riesgo residual» é o termo exato de governança de segurança.</p><p><strong>Si la dirección decide asumir el riesgo residual, lo dejamos formalmente documentado con una fecha límite de remediación.</strong></p><p>Em português: <strong>Se a diretoria decidir assumir o risco residual, deixamos isso formalmente documentado com uma data-limite de remediação.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "c06f5868-9956-5e16-a2fd-8c64e627c64f",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "1b9abb65-9e1f-5f75-a473-5edd144a2957",
+          "textContent": "<p>Na entrevista final com o <strong>CISO (Director de Seguridad de la Información)</strong>, a pergunta clássica é: <em>«¿Qué haces si negocio quiere salir a producción mañana pero hay una vulnerabilidad crítica?»</em></p><ul><li>Mostre equilíbrio entre segurança e negócio: <strong>evaluar el impacto real</strong> e propor <strong>controles compensatorios</strong> (ex.: regra no WAF, restrição de IP, monitoramento reforçado no SIEM) enquanto o patch definitivo é desenvolvido.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>control compensatorio</strong> — medida alternativa de proteção quando não há patch imediato</li><li><strong>riesgo residual</strong> — risco que permanece após aplicar controles</li><li><strong>impacto reputacional</strong> — dano à imagem da empresa perante clientes/mercado</li><li><strong>desplegar el parche</strong> — fazer o deploy da correção em produção</li><li><strong>Palavra-chave de escrita: «compensatorio»</strong> (Aplicamos un control compensatorio en el WAF mientras el equipo corrige el código.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "control compensatorio — medida alternativa de proteção quando não há patch imediato",
+        "riesgo residual — risco que permanece após aplicar controles",
+        "impacto reputacional — dano à imagem da empresa perante clientes/mercado",
+        "desplegar el parche — fazer o deploy da correção em produção"
+      ]
+    },
+    {
+      "id": "6c4ae06a-2f40-5291-bb46-dfa9eb5dc6d9",
+      "title": "Entrevista com o CISO: Negócio vs. Segurança",
+      "description": "<p>Laura (atuando como CISO) coloca você sob pressão em um dilema real de produção.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Imagina que mañana lanzamos una nueva pasarela de pagos y descubres una vulnerabilidad alta, pero dirección dice que no puede retrasar la salida. ¿Qué haces?</div>\n  <div style=\"opacity: 0.55;\">Imagine que amanhã lançaremos um novo gateway de pagamentos e você descobre uma vulnerabilidade alta, mas a diretoria diz que não pode atrasar o lançamento. O que você faz?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Primero explico a la dirección el riesgo real en términos de negocio y propongo aplicar un control compensatorio inmediato, como una regla específica en el WAF.</div>\n  <div style=\"opacity: 0.55;\">Primeiro explico à diretoria o risco real em termos de negócio e proponho aplicar um controle compensatório imediato, como uma regra específica no WAF.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y cómo garantizas que esa solución temporal no se olvide después del lanzamiento?</div>\n  <div style=\"opacity: 0.55;\">E como você garante que essa solução temporária não seja esquecida depois do lançamento?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Acordamos por escrito un plazo máximo para desplegar el parche en el código, reforzamos las alertas en el SIEM y dejamos registrado el riesgo residual.</div>\n  <div style=\"opacity: 0.55;\">Acordamos por escrito um prazo máximo para fazer o deploy do patch no código, reforçamos os alertas no SIEM e deixamos registrado o risco residual.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l01_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "3992d4e5-14c5-5768-a27c-fb05bc4cee39",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Imagina que mañana lanzamos una nueva pasarela de pagos y descubres una vulnerabilidad alta, pero dirección dice que no puede retrasar la salida. ¿Qué haces?»</p><p><em>(Imagine que amanhã lançaremos um novo gateway de pagamentos e você descobre uma vulnerabilidade alta, mas a diretoria diz que não pode atrasar o lançamento. O que você faz?)</em></p>",
+      "contentPlain": "Imagina que mañana lanzamos una nueva pasarela de pagos y descubres una vulnerabilidad alta, pero dirección dice que no puede retrasar la salida. ¿Qué haces?",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l01_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Primero explico a la dirección el riesgo real en términos de negocio y propongo aplicar un control compensatorio inmediato, como una regla específica en el WAF.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "dfec31c0-b011-5362-b6a9-ed250f8d4168",
+          "textContent": "Primero explico a la dirección el riesgo real en términos de negocio y propongo aplicar un control compensatorio inmediato, como una regla específica en el WAF.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "3992d4e5-14c5-5768-a27c-fb05bc4cee39",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b1a45200-5256-55bc-a037-79d3ac6ab195",
+          "textContent": "Si la dirección decide asumir el riesgo residual, lo dejamos formalmente documentado con una fecha límite de remediación.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "3992d4e5-14c5-5768-a27c-fb05bc4cee39",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "fd204354-6be6-55a7-972a-b43f5725dd75",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "3992d4e5-14c5-5768-a27c-fb05bc4cee39",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ed90ed53-37b6-51a0-8e12-6921c42ddc7e",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "3992d4e5-14c5-5768-a27c-fb05bc4cee39",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "aba3caab-08c0-59f8-a788-12088ade4def",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Si un lanzamiento crítico no puede retrasarse, propongo controles compensatorios inmediatos para mitigar el riesgo mientras se desarrolla el parche definitivo.</strong></p>",
+      "contentPlain": "Si un lanzamiento crítico no puede retrasarse, propongo controles compensatorios inmediatos para mitigar el riesgo mientras se desarrolla el parche definitivo.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l01_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Se um lançamento crítico não puder ser adiado, proponho controles compensatórios imediatos para mitigar o risco enquanto o patch definitivo é desenvolvido.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "4de0b241-1042-575e-95a3-251d96d53c3b",
+          "textContent": "Se um lançamento crítico não puder ser adiado, proponho controles compensatórios imediatos para mitigar o risco enquanto o patch definitivo é desenvolvido.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "aba3caab-08c0-59f8-a788-12088ade4def",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "10f53d36-9432-58b7-b65f-c74bfbd29638",
+          "textContent": "Traduzo a falha técnica em impacto de negócio, explicando o risco financeiro, operacional e reputacional para a diretoria.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "aba3caab-08c0-59f8-a788-12088ade4def",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b8af8117-80e3-52f3-824e-f39083c540db",
+          "textContent": "Se a diretoria decidir assumir o risco residual, deixamos isso formalmente documentado com uma data-limite de remediação.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "aba3caab-08c0-59f8-a788-12088ade4def",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c7ec70cd-6f42-5519-9626-7ec34933896b",
+          "textContent": "Imagine que amanhã lançaremos um novo gateway de pagamentos e você descobre uma vulnerabilidade alta, mas a diretoria diz que não pode atrasar o lançamento. O que você faz?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "aba3caab-08c0-59f8-a788-12088ade4def",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "22ace2ec-a5f9-50a2-af4d-5b849352e7eb",
+          "leftContent": "control compensatorio",
+          "rightContent": "medida alternativa de proteção quando não há patch imediato",
+          "sequenceItem": 1,
+          "exerciseId": "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b"
+        },
+        {
+          "id": "a979ae58-fbee-5dfe-a775-b59752f5fc90",
+          "leftContent": "riesgo residual",
+          "rightContent": "risco que permanece após aplicar controles",
+          "sequenceItem": 2,
+          "exerciseId": "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b"
+        },
+        {
+          "id": "3326426e-c64f-5525-a5f7-a919a09f4d17",
+          "leftContent": "impacto reputacional",
+          "rightContent": "dano à imagem da empresa perante clientes/mercado",
+          "sequenceItem": 3,
+          "exerciseId": "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b"
+        },
+        {
+          "id": "93f541c2-bd9b-5a8a-ba77-74c5f7568f01",
+          "leftContent": "desplegar el parche",
+          "rightContent": "fazer o deploy da correção em produção",
+          "sequenceItem": 4,
+          "exerciseId": "773b7f2e-02a1-5a39-8cdc-d4e5a973e08b"
+        }
+      ]
+    },
+    {
+      "id": "f7290feb-e3b4-56db-9751-219c283a5541",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "eee1c7d2-c37e-53e8-b314-b28c84e6917c",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_c1.mp3",
+          "rightContent": "Si un lanzamiento crítico no puede retrasarse, propongo controles compensatorios inmediatos para mitigar el riesgo mientras se desarrolla el parche definitivo.",
+          "sequenceItem": 1,
+          "exerciseId": "f7290feb-e3b4-56db-9751-219c283a5541"
+        },
+        {
+          "id": "1837c357-b31f-582f-8630-420fab0357ae",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_c2.mp3",
+          "rightContent": "Traduzco el fallo técnico a impacto de negocio, explicando el riesgo financiero, operativo y reputacional a la dirección.",
+          "sequenceItem": 2,
+          "exerciseId": "f7290feb-e3b4-56db-9751-219c283a5541"
+        },
+        {
+          "id": "74ba921c-2cb1-5d68-872e-bd6abaedc3bf",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_c3.mp3",
+          "rightContent": "Si la dirección decide asumir el riesgo residual, lo dejamos formalmente documentado con una fecha límite de remediación.",
+          "sequenceItem": 3,
+          "exerciseId": "f7290feb-e3b4-56db-9751-219c283a5541"
+        },
+        {
+          "id": "52aa0876-cb42-5ce9-8876-dd68604cf52d",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_d2.mp3",
+          "rightContent": "Primero explico a la dirección el riesgo real en términos de negocio y propongo aplicar un control compensatorio inmediato, como una regla específica en el WAF.",
+          "sequenceItem": 4,
+          "exerciseId": "f7290feb-e3b4-56db-9751-219c283a5541"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Quando um servidor legado não pode ser atualizado imediatamente, como se chama a medida de proteção alternativa (ex.: regra no WAF ou isolamento em VLAN) aplicada para reduzir o risco?</p>",
+      "contentPlain": "Quando um servidor legado não pode ser atualizado imediatamente, como se chama a medida de proteção alternativa (ex.: regra no WAF ou isolamento em VLAN) aplicada para reduzir o risco?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+      "feedbackError": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "abb60253-5256-560f-9311-d2b052341d92",
+          "textContent": "Un control compensatorio.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ff174faa-611e-54e2-ae1c-3788e1cc666e",
+          "textContent": "Un parche mágico.",
+          "isCorrect": false,
+          "incorrectReason": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+          "exerciseId": "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9cdb346f-4469-50d7-9d2d-c6c4cf379d04",
+          "textContent": "Un olvido programado.",
+          "isCorrect": false,
+          "incorrectReason": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+          "exerciseId": "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2d2982b8-57ea-5290-9bd6-10d1f3b449fb",
+          "textContent": "Una excepción sin control.",
+          "isCorrect": false,
+          "incorrectReason": "«Controles compensatorios» e «riesgo residual» são expressões que demonstram maturidade sênior diante de qualquer CISO.",
+          "exerciseId": "cf27b6bd-85b2-5fcb-8eaa-be6134f1c5a6",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "3b1869aa-d87e-5f0a-bc58-483e33f1d765",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "edb9838e-1ad0-56a5-8ae1-1654d41ca21e",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_d1.mp3",
+          "rightContent": "Imagine que amanhã lançaremos um novo gateway de pagamentos e você descobre uma vulnerabilidade alta, mas a diretoria diz que não pode atrasar o lançamento. O que você faz?",
+          "sequenceItem": 1,
+          "exerciseId": "3b1869aa-d87e-5f0a-bc58-483e33f1d765"
+        },
+        {
+          "id": "b5c5517c-4581-56bc-9604-fa2671f1c178",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_d2.mp3",
+          "rightContent": "Primeiro explico à diretoria o risco real em termos de negócio e proponho aplicar um controle compensatório imediato, como uma regra específica no WAF.",
+          "sequenceItem": 2,
+          "exerciseId": "3b1869aa-d87e-5f0a-bc58-483e33f1d765"
+        },
+        {
+          "id": "a9fcfd7c-53f5-5815-8736-0f2348cd1bbe",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_d3.mp3",
+          "rightContent": "E como você garante que essa solução temporária não seja esquecida depois do lançamento?",
+          "sequenceItem": 3,
+          "exerciseId": "3b1869aa-d87e-5f0a-bc58-483e33f1d765"
+        },
+        {
+          "id": "124abe61-a99c-5594-ae23-0ec1e5296e87",
+          "leftContent": "https://talk2me.local/content/ti_m04_l01_d4.mp3",
+          "rightContent": "Acordamos por escrito um prazo máximo para fazer o deploy do patch no código, reforçamos os alertas no SIEM e deixamos registrado o risco residual.",
+          "sequenceItem": 4,
+          "exerciseId": "3b1869aa-d87e-5f0a-bc58-483e33f1d765"
+        }
+      ]
+    },
+    {
+      "id": "4f33f16a-765b-5a19-8267-9ce55423abc9",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Aplicamos un control _____ en el WAF mientras el equipo corrige el código.</strong></p><p>Tradução: Aplicamos um controle compensatório no WAF enquanto a equipe corrige o código.</p>",
+      "contentPlain": "Aplicamos un control _____ en el WAF mientras el equipo corrige el código. Tradução: Aplicamos um controle compensatório no WAF enquanto a equipe corrige o código.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l01_spk.mp3",
+      "feedbackSuccess": "Correto! «compensatorio» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «compensatorio».",
+      "answerType": "buildWord",
+      "expectedAnswer": "compensatorio",
+      "typeSpecificData": "{\"word\": \"compensatorio\", \"translation\": \"Aplicamos um controle compensatório no WAF enquanto a equipe corrige o código.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "de9d26cb-66cb-5e43-8adf-85327651cb0e",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l01_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Propongo controles compensatorios para mitigar el riesgo sin frenar el negocio.",
+      "typeSpecificData": "{\"expectedText\": \"Propongo controles compensatorios para mitigar el riesgo sin frenar el negocio.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m04_l01_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "241fb30c-635c-59ef-ac19-6d749589d13b",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Imagina que mañana lanzamos una nueva pasarela de pagos y descubres una vulnerabilidad alta, pero dirección dice que no puede retrasar la salida. ¿Qué haces?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Primero explico a la dirección el riesgo real en términos de negocio y propongo aplicar un control compensatorio inmediato, como una regla específica en el WAF.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l01_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Primero explico a la dirección el riesgo real en términos de negocio y propongo aplicar un control compensatorio inmediato, como una regla específica en el WAF.",
+      "typeSpecificData": "{\"expectedText\": \"Primero explico a la dirección el riesgo real en términos de negocio y propongo aplicar un control compensatorio inmediato, como una regla específica en el WAF.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m04_l01_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "3a87aa5a-804a-5789-b919-9691a0a028c8",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo garantizas que esa solución temporal no se olvide después del lanzamiento?»</strong></p><p><em>(E como você garante que essa solução temporária não seja esquecida depois do lançamento?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo garantizas que esa solución temporal no se olvide después del lanzamiento?",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l01_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Acordamos por escrito un plazo máximo para desplegar el parche en el código, reforzamos las alertas en el SIEM y dejamos registrado el riesgo residual.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "aa88641f-3508-52df-b4fc-102214482be5",
+          "textContent": "Acordamos por escrito un plazo máximo para desplegar el parche en el código, reforzamos las alertas en el SIEM y dejamos registrado el riesgo residual.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "3a87aa5a-804a-5789-b919-9691a0a028c8",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bccfad98-ee37-574e-8519-3195e72f6f29",
+          "textContent": "Primero explico a la dirección el riesgo real en términos de negocio y propongo aplicar un control compensatorio inmediato, como una regla específica en el WAF.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "3a87aa5a-804a-5789-b919-9691a0a028c8",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a8924297-a39e-5bd6-97c3-70a0ca6fc1dc",
+          "textContent": "Si un lanzamiento crítico no puede retrasarse, propongo controles compensatorios inmediatos para mitigar el riesgo mientras se desarrolla el parche definitivo.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "3a87aa5a-804a-5789-b919-9691a0a028c8",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d49967ac-54f2-520f-8fd3-5a0321491da7",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "3a87aa5a-804a-5789-b919-9691a0a028c8",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "69d5650d-3841-5e23-8bfc-cf395cb24ffc",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Traduzco el fallo técnico a impacto de negocio, explicando el riesgo financiero, operativo y reputacional a la _____.</strong></p><p>Tradução: Traduzo a falha técnica em impacto de negócio, explicando o risco financeiro, operacional e reputacional para a diretoria.</p>",
+      "contentPlain": "Traduzco el fallo técnico a impacto de negocio, explicando el riesgo financiero, operativo y reputacional a la _____. Tradução: Traduzo a falha técnica em impacto de negócio, explicando o risco financeiro, operacional e reputacional para a diretoria.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l01_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «dirección» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «dirección».",
+      "answerType": "buildWord",
+      "expectedAnswer": "dirección",
+      "typeSpecificData": "{\"word\": \"dirección\", \"translation\": \"Traduzo a falha técnica em impacto de negócio, explicando o risco financeiro, operacional e reputacional para a diretoria.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "55eb90c8-c747-57f4-8754-2e876ba2a92c",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "329e84ec-2e62-52cd-8329-fe21e074dfba",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "e7c36be2-3650-5d82-beaa-dce3effef7dd",
+          "leftContent": "Se um lançamento crítico não puder ser adiado, proponho controles compensatórios imediatos para mitigar o risco enquanto o patch definitivo é desenvolvido.",
+          "rightContent": "Si un lanzamiento crítico no puede retrasarse, propongo controles compensatorios inmediatos para mitigar el riesgo mientras se desarrolla el parche definitivo.",
+          "sequenceItem": 1,
+          "exerciseId": "55eb90c8-c747-57f4-8754-2e876ba2a92c"
+        },
+        {
+          "id": "11bd74dc-fdae-5597-84ca-d7c506d9ef3b",
+          "leftContent": "Traduzo a falha técnica em impacto de negócio, explicando o risco financeiro, operacional e reputacional para a diretoria.",
+          "rightContent": "Traduzco el fallo técnico a impacto de negocio, explicando el riesgo financiero, operativo y reputacional a la dirección.",
+          "sequenceItem": 2,
+          "exerciseId": "55eb90c8-c747-57f4-8754-2e876ba2a92c"
+        },
+        {
+          "id": "9e3a9ada-5012-58a8-9e85-cc5520f115d8",
+          "leftContent": "Se a diretoria decidir assumir o risco residual, deixamos isso formalmente documentado com uma data-limite de remediação.",
+          "rightContent": "Si la dirección decide asumir el riesgo residual, lo dejamos formalmente documentado con una fecha límite de remediación.",
+          "sequenceItem": 3,
+          "exerciseId": "55eb90c8-c747-57f4-8754-2e876ba2a92c"
+        },
+        {
+          "id": "01400ee2-4cde-5024-9d3a-7cadcb0d16f9",
+          "leftContent": "Acordamos por escrito um prazo máximo para fazer o deploy do patch no código, reforçamos os alertas no SIEM e deixamos registrado o risco residual.",
+          "rightContent": "Acordamos por escrito un plazo máximo para desplegar el parche en el código, reforzamos las alertas en el SIEM y dejamos registrado el riesgo residual.",
+          "sequenceItem": 4,
+          "exerciseId": "55eb90c8-c747-57f4-8754-2e876ba2a92c"
+        }
+      ]
+    }
+  ],
+  "title": "Caso Prático - Explicando Risco e Controles Compensatórios à Diretoria"
+}

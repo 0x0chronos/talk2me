@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+    "attemptId": "ad906666-81ce-560d-9319-ae6de223ea7f",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "bd7d3dfe-97e9-516f-b6e1-4abfed20eda4",
+      "489d52ca-8ef9-599a-99e8-def66e0851b9",
+      "abcceb20-af8d-5fe5-af16-ca81cccaa3ab",
+      "19f0c3e1-bd9c-53b9-aa70-62b6190f8463"
+    ],
+    "practiceExerciseIds": [
+      "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+      "677cc6e3-97be-5c15-82c8-9d7073b4c6fa",
+      "1672c22f-6aa4-5d09-bf08-2d341079a417",
+      "fffdc327-d333-54cd-a4f8-cf4fa4d8c773",
+      "ff192c53-1855-599f-b255-8832823248a8"
+    ],
+    "evaluationExerciseIds": [
+      "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+      "baf648f2-b2f3-5ca7-a528-0d7d0b56e4c7",
+      "40075a6f-5685-5859-8706-29b23e268396"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "5f3866ec-51ef-53c6-b0d6-e09ab49f5001",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "80f1e3ee-2c8c-5a84-bd5a-cb6a2e22a699",
+          "textContent": "<p>«En mi día a día» conecta a ferramenta diretamente à prática real.</p><p><strong>En mi día a día utilizo herramientas de análisis de vulnerabilidades, proxies de interceptación y scripts en Python.</strong></p><p>Em português: <strong>No meu dia a dia utilizo ferramentas de análise de vulnerabilidades, proxies de interceptação e scripts em Python.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m01_l02_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "273c896d-8519-5486-aefe-71aa7656adce",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "7d23ed5f-b928-5a3e-8971-9a4bb87eb3bb",
+          "textContent": "<p>«Manejar con soltura» soa muito mais natural em espanhol do que «tener fluidez en una herramienta».</p><p><strong>Manejo con soltura entornos Linux, contenedores en Docker y herramientas de monitoreo de eventos de seguridad.</strong></p><p>Em português: <strong>Domino com desenvoltura ambientes Linux, containers em Docker e ferramentas de monitoramento de eventos de segurança.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m01_l02_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "aa78ed91-9bdc-5a23-ad3e-4db622e0d49a",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "53702c21-57a1-5fec-a8d1-946a63a78700",
+          "textContent": "<p>Recrutadores técnicos valorizam candidatos que mantêm prática ativa em laboratórios.</p><p><strong>Además, practico constantemente en laboratorios de seguridad y plataformas de captura la bandera.</strong></p><p>Em português: <strong>Além disso, pratico constantemente em laboratórios de segurança e plataformas de Capture The Flag (CTF).</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m01_l02_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "5d928026-6aec-5e5b-ae1a-f5dd735fe5a3",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "4385be17-83f9-508e-a12d-b62d4f513524",
+          "textContent": "<p>Ao descrever ferramentas e habilidades técnicas em espanhol:</p><ul><li><strong>Domino / Manejo con soltura:</strong> indica domínio prático no dia a dia.</li><li><strong>Automatizo tareas con Python y playbooks SOAR:</strong> mostra proatividade técnica.</li><li><strong>Cuento con certificaciones como CompTIA Security+, DCPT, CRTA y ACP:</strong> forma profissional de citar suas certificações.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>manejar con soltura</strong> — dominar com desenvoltura</li><li><strong>desplegar servicios</strong> — fazer deploy / implantar serviços</li><li><strong>entornos en la nube</strong> — ambientes em nuvem (cloud)</li><li><strong>automatizar escaneos</strong> — automatizar varreduras / scans</li><li><strong>Palavra-chave de escrita: «desplegamos»</strong> (En mi equipo desplegamos servicios en contenedores Docker.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "manejar con soltura — dominar com desenvoltura",
+        "desplegar servicios — fazer deploy / implantar serviços",
+        "entornos en la nube — ambientes em nuvem (cloud)",
+        "automatizar escaneos — automatizar varreduras / scans"
+      ]
+    },
+    {
+      "id": "0c86b035-b074-5298-9c8a-7b8f5425c291",
+      "title": "Pergunta sobre ferramentas e laboratórios",
+      "description": "<p>A recrutadora pergunta quais tecnologias o candidato domina na prática.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Con qué herramientas y tecnologías te sientes más cómodo trabajando a diario?</div>\n  <div style=\"opacity: 0.55;\">Com quais ferramentas e tecnologias você se sente mais confortável trabalhando diariamente?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m01_l02_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Trabajo a diario con Linux, Burp Suite y Nmap para auditorías, además de Python para automatizar escaneos.</div>\n  <div style=\"opacity: 0.55;\">Trabalho diariamente com Linux, Burp Suite e Nmap para auditorias, além de Python para automatizar varreduras.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m01_l02_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿También tienes experiencia con entornos en la nube o contenedores?</div>\n  <div style=\"opacity: 0.55;\">Você também tem experiência com ambientes em nuvem ou containers?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m01_l02_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Sí, despliego servicios en Docker y reviso configuraciones de seguridad e identidades en la nube.</div>\n  <div style=\"opacity: 0.55;\">Sim, faço deploy de serviços em Docker e reviso configurações de segurança e identidades na nuvem.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m01_l02_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "bd7d3dfe-97e9-516f-b6e1-4abfed20eda4",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «¿Con qué herramientas y tecnologías te sientes más cómodo trabajando a diario?»</p><p><em>(Com quais ferramentas e tecnologias você se sente mais confortável trabalhando diariamente?)</em></p>",
+      "contentPlain": "¿Con qué herramientas y tecnologías te sientes más cómodo trabajando a diario?",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l02_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Trabajo a diario con Linux, Burp Suite y Nmap para auditorías, además de Python para automatizar escaneos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "670eae20-32d7-5b70-ac75-ea9e8f383283",
+          "textContent": "Trabajo a diario con Linux, Burp Suite y Nmap para auditorías, además de Python para automatizar escaneos.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "bd7d3dfe-97e9-516f-b6e1-4abfed20eda4",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8dd7f8a6-87db-58c6-a695-ffa523bfa36c",
+          "textContent": "Además, practico constantemente en laboratorios de seguridad y plataformas de captura la bandera.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "bd7d3dfe-97e9-516f-b6e1-4abfed20eda4",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "77da1a72-bd5d-5d41-bcb7-b36d71373187",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "bd7d3dfe-97e9-516f-b6e1-4abfed20eda4",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1ef27f30-da63-5968-bce0-c4b4016bc03c",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "bd7d3dfe-97e9-516f-b6e1-4abfed20eda4",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "489d52ca-8ef9-599a-99e8-def66e0851b9",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>En mi día a día utilizo herramientas de análisis de vulnerabilidades, proxies de interceptación y scripts en Python.</strong></p>",
+      "contentPlain": "En mi día a día utilizo herramientas de análisis de vulnerabilidades, proxies de interceptación y scripts en Python.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l02_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «No meu dia a dia utilizo ferramentas de análise de vulnerabilidades, proxies de interceptação e scripts em Python.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "ba79a472-2510-5592-ab72-59114b50f9ac",
+          "textContent": "No meu dia a dia utilizo ferramentas de análise de vulnerabilidades, proxies de interceptação e scripts em Python.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "489d52ca-8ef9-599a-99e8-def66e0851b9",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "00bb9f41-216b-5d6c-b4e6-2349bd11b8bc",
+          "textContent": "Domino com desenvoltura ambientes Linux, containers em Docker e ferramentas de monitoramento de eventos de segurança.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "489d52ca-8ef9-599a-99e8-def66e0851b9",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "64b901ef-be83-5fbc-b100-a8ba6981f3ba",
+          "textContent": "Além disso, pratico constantemente em laboratórios de segurança e plataformas de Capture The Flag (CTF).",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "489d52ca-8ef9-599a-99e8-def66e0851b9",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ec1c09e5-bdac-540d-8735-c09d493a15fc",
+          "textContent": "Com quais ferramentas e tecnologias você se sente mais confortável trabalhando diariamente?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "489d52ca-8ef9-599a-99e8-def66e0851b9",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "abcceb20-af8d-5fe5-af16-ca81cccaa3ab",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "6a8448ed-e2ca-546d-b519-d99b0a8141a5",
+          "leftContent": "manejar con soltura",
+          "rightContent": "dominar com desenvoltura",
+          "sequenceItem": 1,
+          "exerciseId": "abcceb20-af8d-5fe5-af16-ca81cccaa3ab"
+        },
+        {
+          "id": "b6b557cd-4e9c-541c-b7f5-a97a6c2a30b1",
+          "leftContent": "desplegar servicios",
+          "rightContent": "fazer deploy / implantar serviços",
+          "sequenceItem": 2,
+          "exerciseId": "abcceb20-af8d-5fe5-af16-ca81cccaa3ab"
+        },
+        {
+          "id": "4324e133-8bc2-57af-ac74-8ddfab6ebb7f",
+          "leftContent": "entornos en la nube",
+          "rightContent": "ambientes em nuvem (cloud)",
+          "sequenceItem": 3,
+          "exerciseId": "abcceb20-af8d-5fe5-af16-ca81cccaa3ab"
+        },
+        {
+          "id": "52cb8454-54fa-5231-a5c3-3964081fa3ca",
+          "leftContent": "automatizar escaneos",
+          "rightContent": "automatizar varreduras / scans",
+          "sequenceItem": 4,
+          "exerciseId": "abcceb20-af8d-5fe5-af16-ca81cccaa3ab"
+        }
+      ]
+    },
+    {
+      "id": "19f0c3e1-bd9c-53b9-aa70-62b6190f8463",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "38bfa1c3-9789-5d67-bff5-d23a06a1d0e6",
+          "leftContent": "https://talk2me.local/content/ti_m01_l02_c1.mp3",
+          "rightContent": "En mi día a día utilizo herramientas de análisis de vulnerabilidades, proxies de interceptación y scripts en Python.",
+          "sequenceItem": 1,
+          "exerciseId": "19f0c3e1-bd9c-53b9-aa70-62b6190f8463"
+        },
+        {
+          "id": "df3accbd-7c1b-5ce4-90d3-4d59c939cd01",
+          "leftContent": "https://talk2me.local/content/ti_m01_l02_c2.mp3",
+          "rightContent": "Manejo con soltura entornos Linux, contenedores en Docker y herramientas de monitoreo de eventos de seguridad.",
+          "sequenceItem": 2,
+          "exerciseId": "19f0c3e1-bd9c-53b9-aa70-62b6190f8463"
+        },
+        {
+          "id": "3c822b7f-b3f7-5c84-bc68-2d1d5c9b1d4f",
+          "leftContent": "https://talk2me.local/content/ti_m01_l02_c3.mp3",
+          "rightContent": "Además, practico constantemente en laboratorios de seguridad y plataformas de captura la bandera.",
+          "sequenceItem": 3,
+          "exerciseId": "19f0c3e1-bd9c-53b9-aa70-62b6190f8463"
+        },
+        {
+          "id": "cde2ab9b-6f3c-53ff-9fbf-f508c161a4c4",
+          "leftContent": "https://talk2me.local/content/ti_m01_l02_d2.mp3",
+          "rightContent": "Trabajo a diario con Linux, Burp Suite y Nmap para auditorías, además de Python para automatizar escaneos.",
+          "sequenceItem": 4,
+          "exerciseId": "19f0c3e1-bd9c-53b9-aa70-62b6190f8463"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como dizer de forma profissional que você tem bom domínio prático de ambientes Linux e containers?</p>",
+      "contentPlain": "Como dizer de forma profissional que você tem bom domínio prático de ambientes Linux e containers?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+      "feedbackError": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "3853e725-b1fa-5329-97b9-5cf0893b4b53",
+          "textContent": "Manejo con soltura entornos Linux y contenedores.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c0549e7f-0af2-51ad-9596-734227966fd7",
+          "textContent": "Soy muy bueno haciendo cosas en Linux.",
+          "isCorrect": false,
+          "incorrectReason": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+          "exerciseId": "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3f73697a-4038-59f3-865e-3c8bb7370a7b",
+          "textContent": "Toco un poco de Linux cuando hace falta.",
+          "isCorrect": false,
+          "incorrectReason": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+          "exerciseId": "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d2577814-ab45-5c54-ab23-7ddc62093815",
+          "textContent": "Conozco el nombre de los contenedores.",
+          "isCorrect": false,
+          "incorrectReason": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+          "exerciseId": "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "677cc6e3-97be-5c15-82c8-9d7073b4c6fa",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "f1cdaab2-0493-511f-a738-057038d2d99d",
+          "leftContent": "https://talk2me.local/content/ti_m01_l02_d1.mp3",
+          "rightContent": "Com quais ferramentas e tecnologias você se sente mais confortável trabalhando diariamente?",
+          "sequenceItem": 1,
+          "exerciseId": "677cc6e3-97be-5c15-82c8-9d7073b4c6fa"
+        },
+        {
+          "id": "a681611e-dd96-5ee2-8caf-7b6be7d5e379",
+          "leftContent": "https://talk2me.local/content/ti_m01_l02_d2.mp3",
+          "rightContent": "Trabalho diariamente com Linux, Burp Suite e Nmap para auditorias, além de Python para automatizar varreduras.",
+          "sequenceItem": 2,
+          "exerciseId": "677cc6e3-97be-5c15-82c8-9d7073b4c6fa"
+        },
+        {
+          "id": "9e818f0e-bdfc-5727-9de6-c8349dc97f26",
+          "leftContent": "https://talk2me.local/content/ti_m01_l02_d3.mp3",
+          "rightContent": "Você também tem experiência com ambientes em nuvem ou containers?",
+          "sequenceItem": 3,
+          "exerciseId": "677cc6e3-97be-5c15-82c8-9d7073b4c6fa"
+        },
+        {
+          "id": "01280d37-d5ad-5437-838d-01f6b44a62ab",
+          "leftContent": "https://talk2me.local/content/ti_m01_l02_d4.mp3",
+          "rightContent": "Sim, faço deploy de serviços em Docker e reviso configurações de segurança e identidades na nuvem.",
+          "sequenceItem": 4,
+          "exerciseId": "677cc6e3-97be-5c15-82c8-9d7073b4c6fa"
+        }
+      ]
+    },
+    {
+      "id": "1672c22f-6aa4-5d09-bf08-2d341079a417",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>En mi equipo _____ servicios en contenedores Docker.</strong></p><p>Tradução: Na minha equipe fazemos deploy (desplegamos) de serviços em containers Docker.</p>",
+      "contentPlain": "En mi equipo _____ servicios en contenedores Docker. Tradução: Na minha equipe fazemos deploy (desplegamos) de serviços em containers Docker.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l02_spk.mp3",
+      "feedbackSuccess": "Correto! «desplegamos» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «desplegamos».",
+      "answerType": "buildWord",
+      "expectedAnswer": "desplegamos",
+      "typeSpecificData": "{\"word\": \"desplegamos\", \"translation\": \"Na minha equipe fazemos deploy (desplegamos) de serviços em containers Docker.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "fffdc327-d333-54cd-a4f8-cf4fa4d8c773",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l02_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Trabajo a diario con Linux y utilizo Python para automatizar análisis de seguridad.",
+      "typeSpecificData": "{\"expectedText\": \"Trabajo a diario con Linux y utilizo Python para automatizar análisis de seguridad.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m01_l02_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ff192c53-1855-599f-b255-8832823248a8",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «¿Con qué herramientas y tecnologías te sientes más cómodo trabajando a diario?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Trabajo a diario con Linux, Burp Suite y Nmap para auditorías, además de Python para automatizar escaneos.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l02_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Trabajo a diario con Linux, Burp Suite y Nmap para auditorías, además de Python para automatizar escaneos.",
+      "typeSpecificData": "{\"expectedText\": \"Trabajo a diario con Linux, Burp Suite y Nmap para auditorías, además de Python para automatizar escaneos.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m01_l02_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿También tienes experiencia con entornos en la nube o contenedores?»</strong></p><p><em>(Você também tem experiência com ambientes em nuvem ou containers?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿También tienes experiencia con entornos en la nube o contenedores?",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Sí, despliego servicios en Docker y reviso configuraciones de seguridad e identidades en la nube.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "f7cf915d-8a81-5a67-94c4-0e5ba32673a5",
+          "textContent": "Sí, despliego servicios en Docker y reviso configuraciones de seguridad e identidades en la nube.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8c5acd18-bb26-5e05-8e38-533c96893f88",
+          "textContent": "Trabajo a diario con Linux, Burp Suite y Nmap para auditorías, además de Python para automatizar escaneos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "35316723-8580-567c-9046-045768a7e8aa",
+          "textContent": "En mi día a día utilizo herramientas de análisis de vulnerabilidades, proxies de interceptación y scripts en Python.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "60e9b353-c940-599f-9d5e-4f738e8ee28d",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "baf648f2-b2f3-5ca7-a528-0d7d0b56e4c7",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Manejo con soltura entornos Linux, contenedores en Docker y herramientas de monitoreo de eventos de _____.</strong></p><p>Tradução: Domino com desenvoltura ambientes Linux, containers em Docker e ferramentas de monitoramento de eventos de segurança.</p>",
+      "contentPlain": "Manejo con soltura entornos Linux, contenedores en Docker y herramientas de monitoreo de eventos de _____. Tradução: Domino com desenvoltura ambientes Linux, containers em Docker e ferramentas de monitoramento de eventos de segurança.",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l02_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «seguridad» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «seguridad».",
+      "answerType": "buildWord",
+      "expectedAnswer": "seguridad",
+      "typeSpecificData": "{\"word\": \"seguridad\", \"translation\": \"Domino com desenvoltura ambientes Linux, containers em Docker e ferramentas de monitoramento de eventos de segurança.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "40075a6f-5685-5859-8706-29b23e268396",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "0439e635-eb39-5782-a0fb-ebaa90f9a883",
+          "leftContent": "No meu dia a dia utilizo ferramentas de análise de vulnerabilidades, proxies de interceptação e scripts em Python.",
+          "rightContent": "En mi día a día utilizo herramientas de análisis de vulnerabilidades, proxies de interceptación y scripts en Python.",
+          "sequenceItem": 1,
+          "exerciseId": "40075a6f-5685-5859-8706-29b23e268396"
+        },
+        {
+          "id": "3a6d25dc-d5f3-514e-a24d-bda0b0d4919f",
+          "leftContent": "Domino com desenvoltura ambientes Linux, containers em Docker e ferramentas de monitoramento de eventos de segurança.",
+          "rightContent": "Manejo con soltura entornos Linux, contenedores en Docker y herramientas de monitoreo de eventos de seguridad.",
+          "sequenceItem": 2,
+          "exerciseId": "40075a6f-5685-5859-8706-29b23e268396"
+        },
+        {
+          "id": "783118bd-9b71-533b-9f18-28966b94323a",
+          "leftContent": "Além disso, pratico constantemente em laboratórios de segurança e plataformas de Capture The Flag (CTF).",
+          "rightContent": "Además, practico constantemente en laboratorios de seguridad y plataformas de captura la bandera.",
+          "sequenceItem": 3,
+          "exerciseId": "40075a6f-5685-5859-8706-29b23e268396"
+        },
+        {
+          "id": "e85a22be-8d88-5ef5-9412-2fe22e7cbf47",
+          "leftContent": "Sim, faço deploy de serviços em Docker e reviso configurações de segurança e identidades na nuvem.",
+          "rightContent": "Sí, despliego servicios en Docker y reviso configuraciones de seguridad e identidades en la nube.",
+          "sequenceItem": 4,
+          "exerciseId": "40075a6f-5685-5859-8706-29b23e268396"
+        }
+      ]
+    }
+  ],
+  "title": "Apresentando sua Stack, Ferramentas e Certificações"
+}

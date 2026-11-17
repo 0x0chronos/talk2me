@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+    "attemptId": "1dbb8804-6280-556b-a1d4-611f421f51e4",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "a085d83c-f3e2-5edf-8a83-9ed045f2ba35",
+      "80fabfd7-bd1c-5c19-b761-b420600d6ece",
+      "df7b69f4-39f9-533f-9c63-e8fa2806a6e5",
+      "13ee1bd8-8624-5de0-951c-24314d17e0cb"
+    ],
+    "practiceExerciseIds": [
+      "824188d3-3e5b-5305-91ce-e18fe307eecd",
+      "7129a7a1-ad53-5361-a868-572cd29d1ada",
+      "c16cd607-0ddb-56ec-a63b-636cf6f75dfe",
+      "0bddfa60-3faf-5adc-88e1-f5c0f069040b",
+      "7f8c1662-90b7-53d7-a8e4-129f18121881"
+    ],
+    "evaluationExerciseIds": [
+      "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+      "219d8062-9610-5fb6-bb45-b13c26890eef",
+      "dacefbf1-10c2-5662-b312-0a11d7f358a3"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "40c8e0e5-23b1-594b-8a03-d463d85d6493",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "4c93624f-8197-5cb8-951b-7755dc45dadd",
+          "textContent": "<p>Citar KQL (Kusto Query Language) mostra domínio prático do Microsoft Sentinel.</p><p><strong>En Microsoft Sentinel investigo incidentes ejecutando consultas en KQL para filtrar eventos de inicio de sesión, procesos y tráfico de red.</strong></p><p>Em português: <strong>No Microsoft Sentinel investigo incidentes executando consultas em KQL para filtrar eventos de login, processos e tráfego de rede.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m02_l03_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "12a0b141-4e8c-533a-8246-0d4e5ea888a8",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "1446775e-bf90-5af3-ab18-893f546a57f2",
+          "textContent": "<p>O mapeamento de «entidades (entities)» é central na investigação dentro do Sentinel.</p><p><strong>Analizo las entidades vinculadas al incidente, como cuentas de usuario, direcciones IP y equipos, para determinar el alcance del ataque.</strong></p><p>Em português: <strong>Analiso as entidades vinculadas ao incidente, como contas de usuário, endereços IP e máquinas, para determinar o escopo do ataque.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m02_l03_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "d11d2c08-d899-5949-87ab-49f953804035",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "02673162-b6b8-5084-94b1-038ee1191738",
+          "textContent": "<p>Em espanhol, os *Workbooks* do Sentinel são chamados de «libros de trabajo (Workbooks)».</p><p><strong>También colaboro en el ajuste de las reglas analíticas y en la visualización de métricas mediante libros de trabajo en Azure.</strong></p><p>Em português: <strong>Também colaboro no ajuste das regras analíticas (Analytics Rules) e na visualização de métricas por meio de Workbooks no Azure.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m02_l03_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "7ac2c026-b26c-5d3c-b26b-5566e827bd85",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "127d2b09-3291-5f0a-97f7-58fe574301c0",
+          "textContent": "<p>O <strong>Microsoft Sentinel</strong> é o SIEM em nuvem que mais cresce na Espanha. Veja como explicar sua experiência com ele na entrevista:</p><ul><li><strong>Consultas en KQL (Kusto Query Language):</strong> filtragem rápida de tabelas como <em>SecurityEvent</em>, <em>SigninLogs</em>, <em>CommonSecurityLog</em> e <em>DeviceProcessEvents</em>.</li><li><strong>Reglas analíticas (Analytics Rules):</strong> regras agendadas que geram incidentes e agrupam alertas (<em>entidades: cuentas, hosts, direcciones IP</em>).</li><li><strong>Libros de trabajo (Workbooks):</strong> painéis interativos no Sentinel.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>reglas analíticas</strong> — Analytics Rules no Microsoft Sentinel</li><li><strong>gráfico de investigación</strong> — Investigation Graph de entidades no Sentinel</li><li><strong>entidades afectadas</strong> — usuários, hosts, IPs e hashes ligados ao incidente</li><li><strong>entornos híbridos y en la nube</strong> — ambientes on-premises + Cloud (Azure/AWS)</li><li><strong>Palavra-chave de escrita: «entidades»</strong> (En Sentinel reviso las entidades afectadas como cuentas, equipos y direcciones IP.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "reglas analíticas — Analytics Rules no Microsoft Sentinel",
+        "gráfico de investigación — Investigation Graph de entidades no Sentinel",
+        "entidades afectadas — usuários, hosts, IPs e hashes ligados ao incidente",
+        "entornos híbridos y en la nube — ambientes on-premises + Cloud (Azure/AWS)"
+      ]
+    },
+    {
+      "id": "8f26a4b9-9eb3-568c-ad58-77885a710424",
+      "title": "Investigando no Microsoft Sentinel com KQL",
+      "description": "<p>Laura pergunta sobre sua experiência prática com o Microsoft Sentinel listada no seu currículo.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Además de QRadar, en tu perfil mencionas experiencia con Microsoft Sentinel. ¿Cómo realizas la búsqueda de amenazas y el análisis de incidentes en Sentinel?</div>\n  <div style=\"opacity: 0.55;\">Além do QRadar, no seu perfil você menciona experiência com Microsoft Sentinel. Como você realiza a busca de ameaças e a análise de incidentes no Sentinel?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l03_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Utilizo el gráfico de investigación para revisar las entidades afectadas y escribo consultas en KQL sobre los registros de inicio de sesión y de cortafuegos.</div>\n  <div style=\"opacity: 0.55;\">Utilizo o grafo de investigação para revisar as entidades afetadas e escrevo consultas em KQL sobre os logs de login e de firewalls.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l03_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Qué ventaja encuentras al trabajar tanto con QRadar como con Microsoft Sentinel?</div>\n  <div style=\"opacity: 0.55;\">Que vantagem você encontra ao trabalhar tanto com o QRadar quanto com o Microsoft Sentinel?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l03_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Conocer ambos SIEM me permite adaptarme rápidamente a entornos híbridos o en la nube y aplicar la misma lógica de correlación y reducción de falsos positivos.</div>\n  <div style=\"opacity: 0.55;\">Conhecer ambos os SIEMs me permite adaptar rapidamente a ambientes híbridos ou em nuvem e aplicar a mesma lógica de correlação e redução de falsos positivos.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l03_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "a085d83c-f3e2-5edf-8a83-9ed045f2ba35",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Además de QRadar, en tu perfil mencionas experiencia con Microsoft Sentinel. ¿Cómo realizas la búsqueda de amenazas y el análisis de incidentes en Sentinel?»</p><p><em>(Além do QRadar, no seu perfil você menciona experiência com Microsoft Sentinel. Como você realiza a busca de ameaças e a análise de incidentes no Sentinel?)</em></p>",
+      "contentPlain": "Además de QRadar, en tu perfil mencionas experiencia con Microsoft Sentinel. ¿Cómo realizas la búsqueda de amenazas y el análisis de incidentes en Sentinel?",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l03_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Utilizo el gráfico de investigación para revisar las entidades afectadas y escribo consultas en KQL sobre los registros de inicio de sesión y de cortafuegos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "3acb3298-2282-5de2-acc4-95b8bba57993",
+          "textContent": "Utilizo el gráfico de investigación para revisar las entidades afectadas y escribo consultas en KQL sobre los registros de inicio de sesión y de cortafuegos.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "a085d83c-f3e2-5edf-8a83-9ed045f2ba35",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "5a24ac5e-d7bb-50df-9e0d-a90ac303fcc4",
+          "textContent": "También colaboro en el ajuste de las reglas analíticas y en la visualización de métricas mediante libros de trabajo en Azure.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "a085d83c-f3e2-5edf-8a83-9ed045f2ba35",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "53513e55-84c6-56bf-87d8-d2153e8f3bbb",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "a085d83c-f3e2-5edf-8a83-9ed045f2ba35",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b4107653-a6e8-51c7-a389-ecbb6efdaa53",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "a085d83c-f3e2-5edf-8a83-9ed045f2ba35",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "80fabfd7-bd1c-5c19-b761-b420600d6ece",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>En Microsoft Sentinel investigo incidentes ejecutando consultas en KQL para filtrar eventos de inicio de sesión, procesos y tráfico de red.</strong></p>",
+      "contentPlain": "En Microsoft Sentinel investigo incidentes ejecutando consultas en KQL para filtrar eventos de inicio de sesión, procesos y tráfico de red.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l03_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «No Microsoft Sentinel investigo incidentes executando consultas em KQL para filtrar eventos de login, processos e tráfego de rede.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "81f66b9f-ea4c-502d-b470-191ab04768ef",
+          "textContent": "No Microsoft Sentinel investigo incidentes executando consultas em KQL para filtrar eventos de login, processos e tráfego de rede.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "80fabfd7-bd1c-5c19-b761-b420600d6ece",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "16e521c5-1fc7-5ab3-a159-e64b77f32de1",
+          "textContent": "Analiso as entidades vinculadas ao incidente, como contas de usuário, endereços IP e máquinas, para determinar o escopo do ataque.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "80fabfd7-bd1c-5c19-b761-b420600d6ece",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0ac1fabb-19b1-5ba3-bae7-e0cba5e2cb78",
+          "textContent": "Também colaboro no ajuste das regras analíticas (Analytics Rules) e na visualização de métricas por meio de Workbooks no Azure.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "80fabfd7-bd1c-5c19-b761-b420600d6ece",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a4574aeb-c113-5d33-8f31-b795f0461fa7",
+          "textContent": "Além do QRadar, no seu perfil você menciona experiência com Microsoft Sentinel. Como você realiza a busca de ameaças e a análise de incidentes no Sentinel?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "80fabfd7-bd1c-5c19-b761-b420600d6ece",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "df7b69f4-39f9-533f-9c63-e8fa2806a6e5",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "20d1a257-5fef-5dbf-bbf5-5d6c4a4851b7",
+          "leftContent": "reglas analíticas",
+          "rightContent": "Analytics Rules no Microsoft Sentinel",
+          "sequenceItem": 1,
+          "exerciseId": "df7b69f4-39f9-533f-9c63-e8fa2806a6e5"
+        },
+        {
+          "id": "69b5edc1-08d1-5164-be7a-b47b7c02ff8b",
+          "leftContent": "gráfico de investigación",
+          "rightContent": "Investigation Graph de entidades no Sentinel",
+          "sequenceItem": 2,
+          "exerciseId": "df7b69f4-39f9-533f-9c63-e8fa2806a6e5"
+        },
+        {
+          "id": "87b5e344-8ea4-5cc4-a820-d95f3f52ae71",
+          "leftContent": "entidades afectadas",
+          "rightContent": "usuários, hosts, IPs e hashes ligados ao incidente",
+          "sequenceItem": 3,
+          "exerciseId": "df7b69f4-39f9-533f-9c63-e8fa2806a6e5"
+        },
+        {
+          "id": "1ceabf6c-47f9-5a0e-bca9-38773168dfd1",
+          "leftContent": "entornos híbridos y en la nube",
+          "rightContent": "ambientes on-premises + Cloud (Azure/AWS)",
+          "sequenceItem": 4,
+          "exerciseId": "df7b69f4-39f9-533f-9c63-e8fa2806a6e5"
+        }
+      ]
+    },
+    {
+      "id": "13ee1bd8-8624-5de0-951c-24314d17e0cb",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "63f548d3-32d1-5faf-a6f8-509e3b4c426e",
+          "leftContent": "https://talk2me.local/content/blue_m02_l03_c1.mp3",
+          "rightContent": "En Microsoft Sentinel investigo incidentes ejecutando consultas en KQL para filtrar eventos de inicio de sesión, procesos y tráfico de red.",
+          "sequenceItem": 1,
+          "exerciseId": "13ee1bd8-8624-5de0-951c-24314d17e0cb"
+        },
+        {
+          "id": "2869d306-2a7d-5c5e-8ebb-a8671c0dd184",
+          "leftContent": "https://talk2me.local/content/blue_m02_l03_c2.mp3",
+          "rightContent": "Analizo las entidades vinculadas al incidente, como cuentas de usuario, direcciones IP y equipos, para determinar el alcance del ataque.",
+          "sequenceItem": 2,
+          "exerciseId": "13ee1bd8-8624-5de0-951c-24314d17e0cb"
+        },
+        {
+          "id": "eadb1ec3-0170-5f6c-b424-2df49dfcfc54",
+          "leftContent": "https://talk2me.local/content/blue_m02_l03_c3.mp3",
+          "rightContent": "También colaboro en el ajuste de las reglas analíticas y en la visualización de métricas mediante libros de trabajo en Azure.",
+          "sequenceItem": 3,
+          "exerciseId": "13ee1bd8-8624-5de0-951c-24314d17e0cb"
+        },
+        {
+          "id": "2003d538-151f-5b68-8a3e-64fa6558ffff",
+          "leftContent": "https://talk2me.local/content/blue_m02_l03_d2.mp3",
+          "rightContent": "Utilizo el gráfico de investigación para revisar las entidades afectadas y escribo consultas en KQL sobre los registros de inicio de sesión y de cortafuegos.",
+          "sequenceItem": 4,
+          "exerciseId": "13ee1bd8-8624-5de0-951c-24314d17e0cb"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "824188d3-3e5b-5305-91ce-e18fe307eecd",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se chamam em espanhol as «Analytics Rules» e o «Investigation Graph» do Microsoft Sentinel?</p>",
+      "contentPlain": "Como se chamam em espanhol as «Analytics Rules» e o «Investigation Graph» do Microsoft Sentinel?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+      "feedbackError": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "e5b71c11-1fbc-5dfc-9637-c052d74a82d6",
+          "textContent": "Las reglas analíticas y el gráfico de investigación.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "824188d3-3e5b-5305-91ce-e18fe307eecd",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "87adc661-4821-5066-bcd7-35bd86a7060a",
+          "textContent": "Las leyes de cálculo y el dibujo de red.",
+          "isCorrect": false,
+          "incorrectReason": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+          "exerciseId": "824188d3-3e5b-5305-91ce-e18fe307eecd",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "eaab95f3-9887-5a49-acd4-09c3e1062c3d",
+          "textContent": "Los filtros de nube y el mapa de calor.",
+          "isCorrect": false,
+          "incorrectReason": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+          "exerciseId": "824188d3-3e5b-5305-91ce-e18fe307eecd",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f37194f9-b0f6-5835-ac22-4adb40d3b417",
+          "textContent": "Las normas de texto y la tabla de colores.",
+          "isCorrect": false,
+          "incorrectReason": "«Reglas analíticas», «entidades» e «gráfico de investigación» são os termos oficiais da interface em espanhol do Microsoft Sentinel.",
+          "exerciseId": "824188d3-3e5b-5305-91ce-e18fe307eecd",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "7129a7a1-ad53-5361-a868-572cd29d1ada",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "23396cf5-b568-5edc-8ea5-30b49a360ae0",
+          "leftContent": "https://talk2me.local/content/blue_m02_l03_d1.mp3",
+          "rightContent": "Além do QRadar, no seu perfil você menciona experiência com Microsoft Sentinel. Como você realiza a busca de ameaças e a análise de incidentes no Sentinel?",
+          "sequenceItem": 1,
+          "exerciseId": "7129a7a1-ad53-5361-a868-572cd29d1ada"
+        },
+        {
+          "id": "2e4e50bb-e932-50b8-81bb-a1538f792d86",
+          "leftContent": "https://talk2me.local/content/blue_m02_l03_d2.mp3",
+          "rightContent": "Utilizo o grafo de investigação para revisar as entidades afetadas e escrevo consultas em KQL sobre os logs de login e de firewalls.",
+          "sequenceItem": 2,
+          "exerciseId": "7129a7a1-ad53-5361-a868-572cd29d1ada"
+        },
+        {
+          "id": "383b6348-5825-567d-a0c3-f9f3d0c99d37",
+          "leftContent": "https://talk2me.local/content/blue_m02_l03_d3.mp3",
+          "rightContent": "Que vantagem você encontra ao trabalhar tanto com o QRadar quanto com o Microsoft Sentinel?",
+          "sequenceItem": 3,
+          "exerciseId": "7129a7a1-ad53-5361-a868-572cd29d1ada"
+        },
+        {
+          "id": "5e727b3f-3c81-56ed-8717-29648aa3a261",
+          "leftContent": "https://talk2me.local/content/blue_m02_l03_d4.mp3",
+          "rightContent": "Conhecer ambos os SIEMs me permite adaptar rapidamente a ambientes híbridos ou em nuvem e aplicar a mesma lógica de correlação e redução de falsos positivos.",
+          "sequenceItem": 4,
+          "exerciseId": "7129a7a1-ad53-5361-a868-572cd29d1ada"
+        }
+      ]
+    },
+    {
+      "id": "c16cd607-0ddb-56ec-a63b-636cf6f75dfe",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>En Sentinel reviso las _____ afectadas como cuentas, equipos y direcciones IP.</strong></p><p>Tradução: No Sentinel reviso as entidades afetadas como contas, máquinas e endereços IP.</p>",
+      "contentPlain": "En Sentinel reviso las _____ afectadas como cuentas, equipos y direcciones IP. Tradução: No Sentinel reviso as entidades afetadas como contas, máquinas e endereços IP.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l03_spk.mp3",
+      "feedbackSuccess": "Correto! «entidades» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «entidades».",
+      "answerType": "buildWord",
+      "expectedAnswer": "entidades",
+      "typeSpecificData": "{\"word\": \"entidades\", \"translation\": \"No Sentinel reviso as entidades afetadas como contas, máquinas e endereços IP.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "0bddfa60-3faf-5adc-88e1-f5c0f069040b",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l03_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "En Microsoft Sentinel ejecuto consultas para investigar las entidades afectadas en cada incidente.",
+      "typeSpecificData": "{\"expectedText\": \"En Microsoft Sentinel ejecuto consultas para investigar las entidades afectadas en cada incidente.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m02_l03_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "7f8c1662-90b7-53d7-a8e4-129f18121881",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Además de QRadar, en tu perfil mencionas experiencia con Microsoft Sentinel. ¿Cómo realizas la búsqueda de amenazas y el análisis de incidentes en Sentinel?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Utilizo el gráfico de investigación para revisar las entidades afectadas y escribo consultas en KQL sobre los registros de inicio de sesión y de cortafuegos.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l03_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Utilizo el gráfico de investigación para revisar las entidades afectadas y escribo consultas en KQL sobre los registros de inicio de sesión y de cortafuegos.",
+      "typeSpecificData": "{\"expectedText\": \"Utilizo el gráfico de investigación para revisar las entidades afectadas y escribo consultas en KQL sobre los registros de inicio de sesión y de cortafuegos.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m02_l03_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Qué ventaja encuentras al trabajar tanto con QRadar como con Microsoft Sentinel?»</strong></p><p><em>(Que vantagem você encontra ao trabalhar tanto com o QRadar quanto com o Microsoft Sentinel?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Qué ventaja encuentras al trabajar tanto con QRadar como con Microsoft Sentinel?",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Conocer ambos SIEM me permite adaptarme rápidamente a entornos híbridos o en la nube y aplicar la misma lógica de correlación y reducción de falsos positivos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "38dae7e1-a3bd-59de-9881-182200591b88",
+          "textContent": "Conocer ambos SIEM me permite adaptarme rápidamente a entornos híbridos o en la nube y aplicar la misma lógica de correlación y reducción de falsos positivos.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b281df64-808d-5424-a09a-7501128fd2c1",
+          "textContent": "Utilizo el gráfico de investigación para revisar las entidades afectadas y escribo consultas en KQL sobre los registros de inicio de sesión y de cortafuegos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a3b25f56-7f1c-5731-b321-2001f9e32ef1",
+          "textContent": "En Microsoft Sentinel investigo incidentes ejecutando consultas en KQL para filtrar eventos de inicio de sesión, procesos y tráfico de red.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f0cc5951-975c-5ed8-99a7-279ebe2df413",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "fa3efed7-bcb9-5db8-a5e6-e3c9ed6123fa",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "219d8062-9610-5fb6-bb45-b13c26890eef",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Analizo las entidades vinculadas al incidente, como cuentas de usuario, direcciones IP y equipos, para determinar el alcance del _____.</strong></p><p>Tradução: Analiso as entidades vinculadas ao incidente, como contas de usuário, endereços IP e máquinas, para determinar o escopo do ataque.</p>",
+      "contentPlain": "Analizo las entidades vinculadas al incidente, como cuentas de usuario, direcciones IP y equipos, para determinar el alcance del _____. Tradução: Analiso as entidades vinculadas ao incidente, como contas de usuário, endereços IP e máquinas, para determinar o escopo do ataque.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l03_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «ataque» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «ataque».",
+      "answerType": "buildWord",
+      "expectedAnswer": "ataque",
+      "typeSpecificData": "{\"word\": \"ataque\", \"translation\": \"Analiso as entidades vinculadas ao incidente, como contas de usuário, endereços IP e máquinas, para determinar o escopo do ataque.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "dacefbf1-10c2-5662-b312-0a11d7f358a3",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "859df30e-990e-5a5c-b7cc-68b34735df97",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "1b11f9d0-4168-5aab-be33-464acdc46e7f",
+          "leftContent": "No Microsoft Sentinel investigo incidentes executando consultas em KQL para filtrar eventos de login, processos e tráfego de rede.",
+          "rightContent": "En Microsoft Sentinel investigo incidentes ejecutando consultas en KQL para filtrar eventos de inicio de sesión, procesos y tráfico de red.",
+          "sequenceItem": 1,
+          "exerciseId": "dacefbf1-10c2-5662-b312-0a11d7f358a3"
+        },
+        {
+          "id": "823f36e1-7bc6-58f1-b2be-4b0b28c9d430",
+          "leftContent": "Analiso as entidades vinculadas ao incidente, como contas de usuário, endereços IP e máquinas, para determinar o escopo do ataque.",
+          "rightContent": "Analizo las entidades vinculadas al incidente, como cuentas de usuario, direcciones IP y equipos, para determinar el alcance del ataque.",
+          "sequenceItem": 2,
+          "exerciseId": "dacefbf1-10c2-5662-b312-0a11d7f358a3"
+        },
+        {
+          "id": "2adbbe6e-c437-57ab-8ab2-95ac2be5f60d",
+          "leftContent": "Também colaboro no ajuste das regras analíticas (Analytics Rules) e na visualização de métricas por meio de Workbooks no Azure.",
+          "rightContent": "También colaboro en el ajuste de las reglas analíticas y en la visualización de métricas mediante libros de trabajo en Azure.",
+          "sequenceItem": 3,
+          "exerciseId": "dacefbf1-10c2-5662-b312-0a11d7f358a3"
+        },
+        {
+          "id": "49e3a6ac-c832-58a1-a97e-a3b3e08cacd7",
+          "leftContent": "Conhecer ambos os SIEMs me permite adaptar rapidamente a ambientes híbridos ou em nuvem e aplicar a mesma lógica de correlação e redução de falsos positivos.",
+          "rightContent": "Conocer ambos SIEM me permite adaptarme rápidamente a entornos híbridos o en la nube y aplicar la misma lógica de correlación y reducción de falsos positivos.",
+          "sequenceItem": 4,
+          "exerciseId": "dacefbf1-10c2-5662-b312-0a11d7f358a3"
+        }
+      ]
+    }
+  ],
+  "title": "Microsoft Sentinel na Prática - Consultas KQL, Reglas Analíticas e Incidentes"
+}

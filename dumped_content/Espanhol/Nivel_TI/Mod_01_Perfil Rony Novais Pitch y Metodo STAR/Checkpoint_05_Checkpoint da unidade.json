@@ -1,0 +1,694 @@
+{
+  "id": "ffd2734c-a178-5169-9f11-272912d0932a",
+  "title": "Checkpoint: Entrevista I - Perfil Rony Novais, Pitch, Certificações e Método STAR",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "9ede0e39-655f-5225-b0c2-758a89a69453",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": [
+        {
+          "id": "82935af0-3d1c-53ba-9097-63ef0851fb5e",
+          "leftContent": "Defensa Cibernética",
+          "rightContent": "sua graduação tecnológica superior (Estácio)",
+          "sequenceItem": 1,
+          "exerciseId": "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a"
+        },
+        {
+          "id": "8d6b07d8-f0f4-5125-98d0-2fa35dcdc308",
+          "leftContent": "perfil híbrido (Purple Team)",
+          "rightContent": "união de Pentest (Access Security) + SOC (iT.eam)",
+          "sequenceItem": 2,
+          "exerciseId": "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a"
+        },
+        {
+          "id": "06d8b55e-77fd-57f5-a73e-c91c5443ed5b",
+          "leftContent": "más de veinte pruebas de penetración",
+          "rightContent": "seu histórico prático de +20 pentests entregues",
+          "sequenceItem": 3,
+          "exerciseId": "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a"
+        },
+        {
+          "id": "83d31a07-5dfa-5ce7-9929-da825a334f36",
+          "leftContent": "rutina en Hack The Box y TryHackMe",
+          "rightContent": "prática contínua em laboratórios realistas",
+          "sequenceItem": 4,
+          "exerciseId": "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a"
+        }
+      ]
+    },
+    {
+      "id": "1bbf24e7-f046-58ec-87b6-0029da060614",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Quando o recrutador espanhol perguntar qual é o grande diferencial do seu currículo entre tantos candidatos juniores/plenos, qual resposta valoriza melhor sua trajetória na Access Security e na iT.eam?</p>",
+      "contentPlain": "Quando o recrutador espanhol perguntar qual é o grande diferencial do seu currículo entre tantos candidatos juniores/plenos, qual resposta valoriza melhor sua trajetória na Access Security e na iT.eam?",
+      "fileUrl": null,
+      "feedbackSuccess": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+      "feedbackError": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "133440de-51a7-5dfd-b713-33f8f8814cc8",
+          "textContent": "Tengo un perfil híbrido: conozco cómo piensa el atacante por mis más de veinte pentests y aplico esa visión para detectar ataques reales en el SOC.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "49de9bee-b9ca-5ebc-9bd3-363565af127c",
+          "textContent": "Ya trabajé con soporte de celulares y ahora solo quiero cambiar de área.",
+          "isCorrect": false,
+          "incorrectReason": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+          "exerciseId": "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "57fab005-e7ac-5ac0-a560-f0a029543f49",
+          "textContent": "Prefiero no hablar de pentesting si la vacante es para analista de monitoreo.",
+          "isCorrect": false,
+          "incorrectReason": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+          "exerciseId": "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c67d47a3-bf3f-5238-af44-2beb3dd38688",
+          "textContent": "Solo sé usar herramientas automáticas sin analizar los registros.",
+          "isCorrect": false,
+          "incorrectReason": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+          "exerciseId": "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "599b9aa4-12e0-5da6-8684-014cd40543c8",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Veo también que tienes la certificación CompTIA Security Plus y varias certificaciones ofensivas como CRTA y DCPT.»</strong></p><p><em>(Vejo também que você tem a certificação CompTIA Security+ e várias certificações ofensivas como CRTA e DCPT.)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Veo también que tienes la certificación CompTIA Security Plus y varias certificaciones ofensivas como CRTA y DCPT.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l01_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Así es. Además, mantengo una rutina práctica constante en laboratorios de Hack The Box y TryHackMe para simular escenarios reales.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 3,
+      "options": [
+        {
+          "id": "f2db6825-93b8-568d-b6d9-63615b34f54c",
+          "textContent": "Así es. Además, mantengo una rutina práctica constante en laboratorios de Hack The Box y TryHackMe para simular escenarios reales.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "81008d4b-9be5-5968-b94b-84e8910e50fa",
+          "textContent": "Muchas gracias, Laura. Soy graduado en Defensa Cibernética y tengo un perfil híbrido: he realizado más de veinte pruebas de penetración y hoy trabajo como analista SOC.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "488a450a-ec26-5cc2-83d0-75724c7289b8",
+          "textContent": "Me llamo Rony Novais, soy graduado en Defensa Cibernética y cuento con unos tres años de experiencia combinando operaciones de SOC y pentesting.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3ff747c6-388c-53dc-89e9-675b56833f46",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c6784a76-9774-57aa-aa31-cb1d796aafd2",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "fffaa238-8cbe-57a7-b4e3-e58b0dcfe43e",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "2841cf70-bc56-5d96-b220-5b435e59f699",
+          "leftContent": "trayectoria profesional",
+          "rightContent": "histórico / carreira profissional",
+          "sequenceItem": 1,
+          "exerciseId": "8b52e245-6e21-5f09-9545-a8554088edd5"
+        },
+        {
+          "id": "6413e3c1-b1b8-5513-90ef-f365853bbadb",
+          "leftContent": "aportar experiencia",
+          "rightContent": "contribuir com experiência",
+          "sequenceItem": 2,
+          "exerciseId": "8b52e245-6e21-5f09-9545-a8554088edd5"
+        },
+        {
+          "id": "a5a7686e-2d44-53a2-880b-e07e4447aac1",
+          "leftContent": "pruebas de penetración",
+          "rightContent": "testes de intrusão (pentest)",
+          "sequenceItem": 3,
+          "exerciseId": "8b52e245-6e21-5f09-9545-a8554088edd5"
+        },
+        {
+          "id": "5db02e7c-3d60-5da0-9b7a-3b8bc55c525e",
+          "leftContent": "entorno de red",
+          "rightContent": "ambiente de rede",
+          "sequenceItem": 4,
+          "exerciseId": "8b52e245-6e21-5f09-9545-a8554088edd5"
+        }
+      ]
+    },
+    {
+      "id": "f8ab71d5-8b3c-5b66-aae5-e40c6eec02da",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual expressão em espanhol é a mais natural na Espanha para dizer «Trabalho há quatro anos em segurança»?</p>",
+      "contentPlain": "Qual expressão em espanhol é a mais natural na Espanha para dizer «Trabalho há quatro anos em segurança»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, a construção «llevar + tempo + gerúndio» é a forma padrão para indicar tempo contínuo em uma função.",
+      "feedbackError": "Na Espanha, a construção «llevar + tempo + gerúndio» é a forma padrão para indicar tempo contínuo em uma função.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "fffaa238-8cbe-57a7-b4e3-e58b0dcfe43e",
+      "sequenceItem": 5,
+      "options": [
+        {
+          "id": "4b05d2f2-e432-50bf-80b6-6ca09917b5df",
+          "textContent": "Llevo cuatro años trabajando en seguridad.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "7cc1ebd5-1b67-52f5-8823-8e60d5632af9",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "0283bc5d-939b-5123-86b9-2298fcecc118",
+          "textContent": "Tengo cuatro años que trabajo en seguridad.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, a construção «llevar + tempo + gerúndio» é a forma padrão para indicar tempo contínuo em uma função.",
+          "exerciseId": "7cc1ebd5-1b67-52f5-8823-8e60d5632af9",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8c773edc-433f-5a32-a5ef-04b0ebfb003f",
+          "textContent": "Soy cuatro años trabajando en seguridad.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, a construção «llevar + tempo + gerúndio» é a forma padrão para indicar tempo contínuo em uma função.",
+          "exerciseId": "7cc1ebd5-1b67-52f5-8823-8e60d5632af9",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1733e32e-9e58-5aa5-86f5-431d48d819c4",
+          "textContent": "Hago cuatro años en el trabajo de seguridad.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, a construção «llevar + tempo + gerúndio» é a forma padrão para indicar tempo contínuo em uma função.",
+          "exerciseId": "7cc1ebd5-1b67-52f5-8823-8e60d5632af9",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f19a85da-f425-5123-bfe2-bb3a6d563d47",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Qué interesante. ¿Y cómo fue tu transición hacia el área de seguridad ofensiva?»</strong></p><p><em>(Que interessante. E como foi sua transição para a área de segurança ofensiva?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Qué interesante. ¿Y cómo fue tu transición hacia el área de seguridad ofensiva?",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l01_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Empecé en soporte e infraestructura de redes, y desde entonces me especialicé en identificar vulnerabilidades en aplicaciones web.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "fffaa238-8cbe-57a7-b4e3-e58b0dcfe43e",
+      "sequenceItem": 6,
+      "options": [
+        {
+          "id": "af50b411-b553-559c-8fd9-cfff7d10baa2",
+          "textContent": "Empecé en soporte e infraestructura de redes, y desde entonces me especialicé en identificar vulnerabilidades en aplicaciones web.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "805fad6d-28a2-5c43-bc4c-bd9e91f6c82b",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b49a983c-e9ee-5750-bf44-02965d9fea63",
+          "textContent": "Encantado, Laura. Soy analista de ciberseguridad y llevo más de tres años realizando pruebas de penetración y auditorías técnicas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "805fad6d-28a2-5c43-bc4c-bd9e91f6c82b",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "207e73aa-cf7e-57ab-b0c1-bf64bc403817",
+          "textContent": "Soy especialista en ciberseguridad y llevo cuatro años trabajando en seguridad ofensiva y protección de infraestructuras.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "805fad6d-28a2-5c43-bc4c-bd9e91f6c82b",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e7439130-b1a5-52f8-a586-2a2cc121d650",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "805fad6d-28a2-5c43-bc4c-bd9e91f6c82b",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6233c4ee-c239-5fc3-9613-930f21e41f9e",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 7,
+      "options": [],
+      "associations": [
+        {
+          "id": "6a8448ed-e2ca-546d-b519-d99b0a8141a5",
+          "leftContent": "manejar con soltura",
+          "rightContent": "dominar com desenvoltura",
+          "sequenceItem": 1,
+          "exerciseId": "abcceb20-af8d-5fe5-af16-ca81cccaa3ab"
+        },
+        {
+          "id": "b6b557cd-4e9c-541c-b7f5-a97a6c2a30b1",
+          "leftContent": "desplegar servicios",
+          "rightContent": "fazer deploy / implantar serviços",
+          "sequenceItem": 2,
+          "exerciseId": "abcceb20-af8d-5fe5-af16-ca81cccaa3ab"
+        },
+        {
+          "id": "4324e133-8bc2-57af-ac74-8ddfab6ebb7f",
+          "leftContent": "entornos en la nube",
+          "rightContent": "ambientes em nuvem (cloud)",
+          "sequenceItem": 3,
+          "exerciseId": "abcceb20-af8d-5fe5-af16-ca81cccaa3ab"
+        },
+        {
+          "id": "52cb8454-54fa-5231-a5c3-3964081fa3ca",
+          "leftContent": "automatizar escaneos",
+          "rightContent": "automatizar varreduras / scans",
+          "sequenceItem": 4,
+          "exerciseId": "abcceb20-af8d-5fe5-af16-ca81cccaa3ab"
+        }
+      ]
+    },
+    {
+      "id": "c7a6c4c4-9ee7-5859-9700-29b13d5bde1e",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como dizer de forma profissional que você tem bom domínio prático de ambientes Linux e containers?</p>",
+      "contentPlain": "Como dizer de forma profissional que você tem bom domínio prático de ambientes Linux e containers?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+      "feedbackError": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 8,
+      "options": [
+        {
+          "id": "3853e725-b1fa-5329-97b9-5cf0893b4b53",
+          "textContent": "Manejo con soltura entornos Linux y contenedores.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c0549e7f-0af2-51ad-9596-734227966fd7",
+          "textContent": "Soy muy bueno haciendo cosas en Linux.",
+          "isCorrect": false,
+          "incorrectReason": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+          "exerciseId": "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3f73697a-4038-59f3-865e-3c8bb7370a7b",
+          "textContent": "Toco un poco de Linux cuando hace falta.",
+          "isCorrect": false,
+          "incorrectReason": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+          "exerciseId": "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d2577814-ab45-5c54-ab23-7ddc62093815",
+          "textContent": "Conozco el nombre de los contenedores.",
+          "isCorrect": false,
+          "incorrectReason": "«Manejar con soltura» transmite segurança e senioridade sem soar arrogante.",
+          "exerciseId": "6ca7e57a-48dc-56b5-abc4-6a2efc313429",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "b3579dbb-9731-5588-8bd7-fabdc2b44f8e",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿También tienes experiencia con entornos en la nube o contenedores?»</strong></p><p><em>(Você também tem experiência com ambientes em nuvem ou containers?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿También tienes experiencia con entornos en la nube o contenedores?",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Sí, despliego servicios en Docker y reviso configuraciones de seguridad e identidades en la nube.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "68595bb2-f0c1-577c-b4bd-43946655c646",
+      "sequenceItem": 9,
+      "options": [
+        {
+          "id": "f7cf915d-8a81-5a67-94c4-0e5ba32673a5",
+          "textContent": "Sí, despliego servicios en Docker y reviso configuraciones de seguridad e identidades en la nube.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8c5acd18-bb26-5e05-8e38-533c96893f88",
+          "textContent": "Trabajo a diario con Linux, Burp Suite y Nmap para auditorías, además de Python para automatizar escaneos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "35316723-8580-567c-9046-045768a7e8aa",
+          "textContent": "En mi día a día utilizo herramientas de análisis de vulnerabilidades, proxies de interceptación y scripts en Python.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "60e9b353-c940-599f-9d5e-4f738e8ee28d",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "ccedecbe-2a3d-5d5e-a594-d5653542d052",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8cb18585-2831-58ed-801b-5e846668f0ed",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 10,
+      "options": [],
+      "associations": [
+        {
+          "id": "a514d8f2-1e94-5e8c-abf4-50e06361ea2c",
+          "leftContent": "un reto técnico",
+          "rightContent": "um desafio técnico",
+          "sequenceItem": 1,
+          "exerciseId": "55bd09e3-3cb9-501f-889d-7435ce3abcc7"
+        },
+        {
+          "id": "7f1f8787-7364-57a0-95b9-07bfb01be0ce",
+          "leftContent": "los hallazgos",
+          "rightContent": "os achados (findings da auditoria)",
+          "sequenceItem": 2,
+          "exerciseId": "55bd09e3-3cb9-501f-889d-7435ce3abcc7"
+        },
+        {
+          "id": "d7ee809e-de4a-5657-b59b-2a338888b50c",
+          "leftContent": "plan de remediación",
+          "rightContent": "plano de correção / mitigação",
+          "sequenceItem": 3,
+          "exerciseId": "55bd09e3-3cb9-501f-889d-7435ce3abcc7"
+        },
+        {
+          "id": "79e18720-4585-52c3-a796-b9a174772b38",
+          "leftContent": "datos sensibles",
+          "rightContent": "dados sensíveis / confidenciais",
+          "sequenceItem": 4,
+          "exerciseId": "55bd09e3-3cb9-501f-889d-7435ce3abcc7"
+        }
+      ]
+    },
+    {
+      "id": "0ab8f81f-26c9-5e1d-9d11-e3fb9352a66a",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual palavra em espanhol os auditores e pentesters na Espanha usam para se referir aos «findings» (achados/vulnerabilidades de um relatório)?</p>",
+      "contentPlain": "Qual palavra em espanhol os auditores e pentesters na Espanha usam para se referir aos «findings» (achados/vulnerabilidades de um relatório)?",
+      "fileUrl": null,
+      "feedbackSuccess": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+      "feedbackError": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 11,
+      "options": [
+        {
+          "id": "f5a7fb47-a6c2-58f0-8b18-542789524c04",
+          "textContent": "Los hallazgos.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "33e3571e-e7a3-5710-995d-cff90284ae0b",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "124098a1-dd4b-5bd8-acc4-9a90ddcc45d0",
+          "textContent": "Los encuentros.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+          "exerciseId": "33e3571e-e7a3-5710-995d-cff90284ae0b",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "39204bc8-e323-5195-867b-acb38acf032b",
+          "textContent": "Las búsquedas.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+          "exerciseId": "33e3571e-e7a3-5710-995d-cff90284ae0b",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "003c2797-ee11-52de-8ece-a3ccd7c32b1b",
+          "textContent": "Los descubiertos.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol de cibersegurança e auditoria, «finding» é sempre «el hallazgo» (ex.: «hallazgos críticos», «informe de hallazgos»).",
+          "exerciseId": "33e3571e-e7a3-5710-995d-cff90284ae0b",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "dd5dd1b4-e2f9-5078-806d-e476227ea12a",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué medidas tomasteis para solucionarlo sin afectar la producción?»</strong></p><p><em>(E que medidas vocês tomaram para resolver isso sem afetar a produção?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué medidas tomasteis para solucionarlo sin afectar la producción?",
+      "fileUrl": "https://talk2me.local/content/ti_m01_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Diseñamos un plan de remediación por fases junto a desarrollo y logramos cerrar todas las brechas en dos semanas.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "28e16ca1-1909-5422-91cf-c54678f45d87",
+      "sequenceItem": 12,
+      "options": [
+        {
+          "id": "a4e3e126-a259-5dc7-b44f-905612e729a7",
+          "textContent": "Diseñamos un plan de remediación por fases junto a desarrollo y logramos cerrar todas las brechas en dos semanas.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "e14f2943-963a-523f-8492-50b0e302ab83",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "17503968-101c-5b09-ad1a-a287c1128295",
+          "textContent": "Claro. En una auditoría interna descubrimos que varios microservicios exponían datos sin autenticación adecuada.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "e14f2943-963a-523f-8492-50b0e302ab83",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8f95f95d-f287-566b-bdc9-7f1fc02eef06",
+          "textContent": "En mi proyecto anterior detectamos una vulnerabilidad crítica de control de acceso en la interfaz de programación.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "e14f2943-963a-523f-8492-50b0e302ab83",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "aac93275-4e0b-52c2-af30-cdaccbb2eef8",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "e14f2943-963a-523f-8492-50b0e302ab83",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

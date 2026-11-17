@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+    "attemptId": "85563c25-20c9-5131-8434-f3823a0d01f2",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "451ee2e6-b168-585e-9b1e-855662b69e94",
+      "1c19966b-c233-536b-86ef-5346d3d29ae6",
+      "34c5becc-845d-5286-9300-10b82121f03c",
+      "0e8ecf67-3092-5c76-8b0b-dbf90b2814ff"
+    ],
+    "practiceExerciseIds": [
+      "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+      "d45b8dcf-0412-53d5-9d34-fb1e89c09269",
+      "33654fbb-bbbb-58b0-80f2-b87389090e64",
+      "3d42e2ab-802d-5ba6-8385-2a9bb414f41e",
+      "61771892-8290-5438-a0ed-c5cf28eed95d"
+    ],
+    "evaluationExerciseIds": [
+      "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+      "bf03bd57-5444-5b34-9354-434050fa21dd",
+      "fcefe49a-6c80-5bb2-8e24-c4baa0b15ec5"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "5d437b02-a4d6-53c3-99a5-41fec7d259cd",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "7c5603af-0438-57e2-8f29-bea7781cd917",
+          "textContent": "<p>Descreve palavra por palavra a entrega de alto valor do seu currículo na iT.eam.</p><p><strong>En IBM Resilient diseño flujos de trabajo automáticos para enriquecer los indicadores de compromiso con inteligencia de amenazas, datos WHOIS y geolocalización.</strong></p><p>Em português: <strong>No IBM Resilient desenho workflows automáticos para enriquecer os indicadores de comprometimento com Threat Intelligence, dados WHOIS e geolocalização.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m02_l04_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "1f34a582-1308-5d90-8819-8f3d2e0e1698",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "3ccb19a4-3d23-5589-8dd2-79fc39be7ccf",
+          "textContent": "<p>Mostra como o SOAR integra técnica e governança.</p><p><strong>Los playbooks automatizan las acciones iniciales de contención y envían notificaciones automáticas a las áreas responsables según la criticidad.</strong></p><p>Em português: <strong>Os playbooks automatizam as ações iniciais de contenção e enviam notificações automáticas às áreas responsáveis segundo a criticidade.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m02_l04_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "916f082a-5527-59d5-827c-68c5496e9d48",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "c3d1d999-287b-586e-9b74-b522f28ecf2f",
+          "textContent": "<p>Argumento perfeito de valor de negócio para falar ao gestor do SOC ou CISO.</p><p><strong>Con esta automatización eliminamos tareas manuales repetitivas y permitimos que el analista se enfoque en la investigación profunda.</strong></p><p>Em português: <strong>Com essa automação eliminamos tarefas manuais repetitivas e permitimos que o analista se concentre na investigação profunda.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m02_l04_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "a042e0b1-e420-5d81-8a77-eb4c366082cb",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "5d6d21bd-646b-58a1-a455-0cc9617088b5",
+          "textContent": "<p>Sua experiência criando workflows no <strong>IBM Resilient (IBM Security QRadar SOAR)</strong> é um grande diferencial competitivo:</p><ul><li><strong>Enriquecimiento automático:</strong> consultar reputação de IPs, domínios e hashes em fontes de <em>Threat Intelligence</em>, <em>WHOIS</em> e geolocalização assim que o incidente abre.</li><li><strong>Flujos de trabajo (Workflows) y Playbooks:</strong> automatizar tarefas repetitivas, isolar máquinas via EDR, bloquear IPs no firewall e notificar as áreas responsáveis.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>flujo de trabajo (workflow)</strong> — sequência automatizada de etapas no SOAR</li><li><strong>inteligencia de amenazas</strong> — Threat Intelligence (feeds de reputação de IoCs)</li><li><strong>notificación automática</strong> — alerta imediato enviado às áreas envolvidas</li><li><strong>tareas manuales repetitivas</strong> — trabalho operacional que o SOAR automatiza</li><li><strong>Palavra-chave de escrita: «enriquecer»</strong> (Diseño flujos de trabajo para enriquecer los indicadores con inteligencia de amenazas.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "flujo de trabajo (workflow) — sequência automatizada de etapas no SOAR",
+        "inteligencia de amenazas — Threat Intelligence (feeds de reputação de IoCs)",
+        "notificación automática — alerta imediato enviado às áreas envolvidas",
+        "tareas manuales repetitivas — trabalho operacional que o SOAR automatiza"
+      ]
+    },
+    {
+      "id": "d0c5df10-f4d7-53b0-bfc2-1c94f096a51f",
+      "title": "Explicando seus Playbooks no IBM Resilient (SOAR)",
+      "description": "<p>Laura pede um exemplo prático de playbook que você automatizou no IBM Resilient.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Me llamó mucho la atención tu experiencia con IBM Resilient. ¿Podrías darme un ejemplo de un playbook que hayas configurado o mejorado?</div>\n  <div style=\"opacity: 0.55;\">Chamou muito minha atenção sua experiência com o IBM Resilient. Você poderia me dar um exemplo de um playbook que tenha configurado ou melhorado?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l04_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Claro. Configuré un flujo de trabajo que, al recibir una ofensa de QRadar, extrae automáticamente las direcciones IP y consulta su reputación, WHOIS y geolocalización.</div>\n  <div style=\"opacity: 0.55;\">Claro. Configurei um workflow que, ao receber uma ofensa do QRadar, extrai automaticamente os endereços IP e consulta sua reputação, WHOIS e geolocalização.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l04_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¡Qué útil! ¿Y el playbook también ejecuta alguna acción de respuesta o notificación?</div>\n  <div style=\"opacity: 0.55;\">Que útil! E o playbook também executa alguma ação de resposta ou notificação?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l04_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Sí, si la reputación es maliciosa, el playbook sugiere el bloqueo para contención y envía una notificación automática al equipo responsable del activo.</div>\n  <div style=\"opacity: 0.55;\">Sim, se a reputação for maliciosa, o playbook sugere o bloqueio para contenção e envia uma notificação automática à equipe responsável pelo ativo.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m02_l04_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "451ee2e6-b168-585e-9b1e-855662b69e94",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Me llamó mucho la atención tu experiencia con IBM Resilient. ¿Podrías darme un ejemplo de un playbook que hayas configurado o mejorado?»</p><p><em>(Chamou muito minha atenção sua experiência com o IBM Resilient. Você poderia me dar um exemplo de um playbook que tenha configurado ou melhorado?)</em></p>",
+      "contentPlain": "Me llamó mucho la atención tu experiencia con IBM Resilient. ¿Podrías darme un ejemplo de un playbook que hayas configurado o mejorado?",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l04_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Claro. Configuré un flujo de trabajo que, al recibir una ofensa de QRadar, extrae automáticamente las direcciones IP y consulta su reputación, WHOIS y geolocalización.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "e4d7559c-32d3-5359-8b2b-96335a4df67c",
+          "textContent": "Claro. Configuré un flujo de trabajo que, al recibir una ofensa de QRadar, extrae automáticamente las direcciones IP y consulta su reputación, WHOIS y geolocalización.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "451ee2e6-b168-585e-9b1e-855662b69e94",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3c20eca4-087f-512b-8b0d-ba537310a526",
+          "textContent": "Con esta automatización eliminamos tareas manuales repetitivas y permitimos que el analista se enfoque en la investigación profunda.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "451ee2e6-b168-585e-9b1e-855662b69e94",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f20daf2d-dda0-5a9b-8b47-10af76efee74",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "451ee2e6-b168-585e-9b1e-855662b69e94",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7c787d00-a0fc-5bc4-886e-0dc485227d10",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "451ee2e6-b168-585e-9b1e-855662b69e94",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "1c19966b-c233-536b-86ef-5346d3d29ae6",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>En IBM Resilient diseño flujos de trabajo automáticos para enriquecer los indicadores de compromiso con inteligencia de amenazas, datos WHOIS y geolocalización.</strong></p>",
+      "contentPlain": "En IBM Resilient diseño flujos de trabajo automáticos para enriquecer los indicadores de compromiso con inteligencia de amenazas, datos WHOIS y geolocalización.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l04_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «No IBM Resilient desenho workflows automáticos para enriquecer os indicadores de comprometimento com Threat Intelligence, dados WHOIS e geolocalização.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "f21245e4-2519-518b-9bfe-be94d63f8326",
+          "textContent": "No IBM Resilient desenho workflows automáticos para enriquecer os indicadores de comprometimento com Threat Intelligence, dados WHOIS e geolocalização.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "1c19966b-c233-536b-86ef-5346d3d29ae6",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "96f1f9e2-2011-5df5-a6f8-fb8a4fa64f3e",
+          "textContent": "Os playbooks automatizam as ações iniciais de contenção e enviam notificações automáticas às áreas responsáveis segundo a criticidade.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "1c19966b-c233-536b-86ef-5346d3d29ae6",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "6910e558-3f46-521e-8af7-8200571cefcb",
+          "textContent": "Com essa automação eliminamos tarefas manuais repetitivas e permitimos que o analista se concentre na investigação profunda.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "1c19966b-c233-536b-86ef-5346d3d29ae6",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "00d61964-eef8-5945-a4a1-cae5c8df55f8",
+          "textContent": "Chamou muito minha atenção sua experiência com o IBM Resilient. Você poderia me dar um exemplo de um playbook que tenha configurado ou melhorado?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "1c19966b-c233-536b-86ef-5346d3d29ae6",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "34c5becc-845d-5286-9300-10b82121f03c",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "e748202b-a09d-50db-bd01-34afda7462fd",
+          "leftContent": "flujo de trabajo (workflow)",
+          "rightContent": "sequência automatizada de etapas no SOAR",
+          "sequenceItem": 1,
+          "exerciseId": "34c5becc-845d-5286-9300-10b82121f03c"
+        },
+        {
+          "id": "565fb5eb-d1f1-5657-9ef0-6f6170f9ef2a",
+          "leftContent": "inteligencia de amenazas",
+          "rightContent": "Threat Intelligence (feeds de reputação de IoCs)",
+          "sequenceItem": 2,
+          "exerciseId": "34c5becc-845d-5286-9300-10b82121f03c"
+        },
+        {
+          "id": "498f2297-0e03-5602-babf-0918fa2f8d6e",
+          "leftContent": "notificación automática",
+          "rightContent": "alerta imediato enviado às áreas envolvidas",
+          "sequenceItem": 3,
+          "exerciseId": "34c5becc-845d-5286-9300-10b82121f03c"
+        },
+        {
+          "id": "0eddf128-dc69-5b5f-b684-752816e2b602",
+          "leftContent": "tareas manuales repetitivas",
+          "rightContent": "trabalho operacional que o SOAR automatiza",
+          "sequenceItem": 4,
+          "exerciseId": "34c5becc-845d-5286-9300-10b82121f03c"
+        }
+      ]
+    },
+    {
+      "id": "0e8ecf67-3092-5c76-8b0b-dbf90b2814ff",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "9c2b5b08-c980-5d44-a02a-585659f041a6",
+          "leftContent": "https://talk2me.local/content/blue_m02_l04_c1.mp3",
+          "rightContent": "En IBM Resilient diseño flujos de trabajo automáticos para enriquecer los indicadores de compromiso con inteligencia de amenazas, datos WHOIS y geolocalización.",
+          "sequenceItem": 1,
+          "exerciseId": "0e8ecf67-3092-5c76-8b0b-dbf90b2814ff"
+        },
+        {
+          "id": "dfa02703-1d50-59d0-bd3d-f07213a6d91b",
+          "leftContent": "https://talk2me.local/content/blue_m02_l04_c2.mp3",
+          "rightContent": "Los playbooks automatizan las acciones iniciales de contención y envían notificaciones automáticas a las áreas responsables según la criticidad.",
+          "sequenceItem": 2,
+          "exerciseId": "0e8ecf67-3092-5c76-8b0b-dbf90b2814ff"
+        },
+        {
+          "id": "d0de9aad-e819-523f-bd32-810df7e63305",
+          "leftContent": "https://talk2me.local/content/blue_m02_l04_c3.mp3",
+          "rightContent": "Con esta automatización eliminamos tareas manuales repetitivas y permitimos que el analista se enfoque en la investigación profunda.",
+          "sequenceItem": 3,
+          "exerciseId": "0e8ecf67-3092-5c76-8b0b-dbf90b2814ff"
+        },
+        {
+          "id": "569dd3aa-24cf-5666-a2e0-035a68a299f6",
+          "leftContent": "https://talk2me.local/content/blue_m02_l04_d2.mp3",
+          "rightContent": "Claro. Configuré un flujo de trabajo que, al recibir una ofensa de QRadar, extrae automáticamente las direcciones IP y consulta su reputación, WHOIS y geolocalización.",
+          "sequenceItem": 4,
+          "exerciseId": "0e8ecf67-3092-5c76-8b0b-dbf90b2814ff"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual é o principal benefício de negócio de automatizar o enriquecimento (Threat Intel, WHOIS, geolocalização) no IBM Resilient que você deve destacar na entrevista?</p>",
+      "contentPlain": "Qual é o principal benefício de negócio de automatizar o enriquecimento (Threat Intel, WHOIS, geolocalização) no IBM Resilient que você deve destacar na entrevista?",
+      "fileUrl": null,
+      "feedbackSuccess": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+      "feedbackError": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "2806ae66-e8a9-568a-90ed-4fad452192c3",
+          "textContent": "Reduzir o trabalho manual repetitivo do analista N1 e diminuir drasticamente o tempo médio de resposta (MTTR).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ce1edd34-dc1b-52a4-9d03-236199f899cd",
+          "textContent": "Substituir todos os firewalls da empresa por planilhas.",
+          "isCorrect": false,
+          "incorrectReason": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+          "exerciseId": "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "27c94125-a924-505b-8657-543e5f867376",
+          "textContent": "Fazer com que o SIEM pare de coletar registros de rede.",
+          "isCorrect": false,
+          "incorrectReason": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+          "exerciseId": "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3a242883-72e7-51b8-9432-5340c19cfcf5",
+          "textContent": "Aumentar o número de falsos positivos enviados aos clientes.",
+          "isCorrect": false,
+          "incorrectReason": "Explicar o ganho de eficiência e redução do MTTR demonstra visão de engenharia de segurança (SOAR).",
+          "exerciseId": "8b2f6582-c4fa-5688-b659-4eb438de6af2",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d45b8dcf-0412-53d5-9d34-fb1e89c09269",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "dd7822a0-203e-524b-b7a5-3df58c584a19",
+          "leftContent": "https://talk2me.local/content/blue_m02_l04_d1.mp3",
+          "rightContent": "Chamou muito minha atenção sua experiência com o IBM Resilient. Você poderia me dar um exemplo de um playbook que tenha configurado ou melhorado?",
+          "sequenceItem": 1,
+          "exerciseId": "d45b8dcf-0412-53d5-9d34-fb1e89c09269"
+        },
+        {
+          "id": "1a38018e-cb17-5b71-94d1-29316eb57678",
+          "leftContent": "https://talk2me.local/content/blue_m02_l04_d2.mp3",
+          "rightContent": "Claro. Configurei um workflow que, ao receber uma ofensa do QRadar, extrai automaticamente os endereços IP e consulta sua reputação, WHOIS e geolocalização.",
+          "sequenceItem": 2,
+          "exerciseId": "d45b8dcf-0412-53d5-9d34-fb1e89c09269"
+        },
+        {
+          "id": "b766ac22-7ae0-541c-bfbc-450c9655641a",
+          "leftContent": "https://talk2me.local/content/blue_m02_l04_d3.mp3",
+          "rightContent": "Que útil! E o playbook também executa alguma ação de resposta ou notificação?",
+          "sequenceItem": 3,
+          "exerciseId": "d45b8dcf-0412-53d5-9d34-fb1e89c09269"
+        },
+        {
+          "id": "eea74ca1-1b12-5f1f-8327-f99786d2bdf4",
+          "leftContent": "https://talk2me.local/content/blue_m02_l04_d4.mp3",
+          "rightContent": "Sim, se a reputação for maliciosa, o playbook sugere o bloqueio para contenção e envia uma notificação automática à equipe responsável pelo ativo.",
+          "sequenceItem": 4,
+          "exerciseId": "d45b8dcf-0412-53d5-9d34-fb1e89c09269"
+        }
+      ]
+    },
+    {
+      "id": "33654fbb-bbbb-58b0-80f2-b87389090e64",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Diseño flujos de trabajo para _____ los indicadores con inteligencia de amenazas.</strong></p><p>Tradução: Desenho workflows para enriquecer os indicadores com inteligência de ameaças.</p>",
+      "contentPlain": "Diseño flujos de trabajo para _____ los indicadores con inteligencia de amenazas. Tradução: Desenho workflows para enriquecer os indicadores com inteligência de ameaças.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l04_spk.mp3",
+      "feedbackSuccess": "Correto! «enriquecer» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «enriquecer».",
+      "answerType": "buildWord",
+      "expectedAnswer": "enriquecer",
+      "typeSpecificData": "{\"word\": \"enriquecer\", \"translation\": \"Desenho workflows para enriquecer os indicadores com inteligência de ameaças.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "3d42e2ab-802d-5ba6-8385-2a9bb414f41e",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l04_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Diseño flujos de trabajo en IBM Resilient para enriquecer indicadores y acelerar la contención.",
+      "typeSpecificData": "{\"expectedText\": \"Diseño flujos de trabajo en IBM Resilient para enriquecer indicadores y acelerar la contención.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m02_l04_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "61771892-8290-5438-a0ed-c5cf28eed95d",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Me llamó mucho la atención tu experiencia con IBM Resilient. ¿Podrías darme un ejemplo de un playbook que hayas configurado o mejorado?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Claro. Configuré un flujo de trabajo que, al recibir una ofensa de QRadar, extrae automáticamente las direcciones IP y consulta su reputación, WHOIS y geolocalización.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l04_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Claro. Configuré un flujo de trabajo que, al recibir una ofensa de QRadar, extrae automáticamente las direcciones IP y consulta su reputación, WHOIS y geolocalización.",
+      "typeSpecificData": "{\"expectedText\": \"Claro. Configuré un flujo de trabajo que, al recibir una ofensa de QRadar, extrae automáticamente las direcciones IP y consulta su reputación, WHOIS y geolocalización.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m02_l04_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¡Qué útil! ¿Y el playbook también ejecuta alguna acción de respuesta o notificación?»</strong></p><p><em>(Que útil! E o playbook também executa alguma ação de resposta ou notificação?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¡Qué útil! ¿Y el playbook también ejecuta alguna acción de respuesta o notificación?",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Sí, si la reputación es maliciosa, el playbook sugiere el bloqueo para contención y envía una notificación automática al equipo responsable del activo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "a09b2ead-3a9b-5f5e-87eb-74c4499cd598",
+          "textContent": "Sí, si la reputación es maliciosa, el playbook sugiere el bloqueo para contención y envía una notificación automática al equipo responsable del activo.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "31b1e033-cc0a-579a-a4f7-61657deb87c5",
+          "textContent": "Claro. Configuré un flujo de trabajo que, al recibir una ofensa de QRadar, extrae automáticamente las direcciones IP y consulta su reputación, WHOIS y geolocalización.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8d8ead4f-ca95-57e2-b6ac-fdf93598da63",
+          "textContent": "En IBM Resilient diseño flujos de trabajo automáticos para enriquecer los indicadores de compromiso con inteligencia de amenazas, datos WHOIS y geolocalización.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f7971928-ad77-5f76-826e-28718aa97a97",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "7e968ddb-0e01-5464-982a-7eb2c6766b0d",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "bf03bd57-5444-5b34-9354-434050fa21dd",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Los playbooks automatizan las acciones iniciales de contención y envían notificaciones automáticas a las áreas responsables según la _____.</strong></p><p>Tradução: Os playbooks automatizam as ações iniciais de contenção e enviam notificações automáticas às áreas responsáveis segundo a criticidade.</p>",
+      "contentPlain": "Los playbooks automatizan las acciones iniciales de contención y envían notificaciones automáticas a las áreas responsables según la _____. Tradução: Os playbooks automatizam as ações iniciais de contenção e enviam notificações automáticas às áreas responsáveis segundo a criticidade.",
+      "fileUrl": "https://talk2me.local/content/blue_m02_l04_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «criticidad» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «criticidad».",
+      "answerType": "buildWord",
+      "expectedAnswer": "criticidad",
+      "typeSpecificData": "{\"word\": \"criticidad\", \"translation\": \"Os playbooks automatizam as ações iniciais de contenção e enviam notificações automáticas às áreas responsáveis segundo a criticidade.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "fcefe49a-6c80-5bb2-8e24-c4baa0b15ec5",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "6c2d4ccb-045c-5a65-ba09-f3a07e733a79",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "374c48e4-1150-5fc3-8f67-28f383319832",
+          "leftContent": "No IBM Resilient desenho workflows automáticos para enriquecer os indicadores de comprometimento com Threat Intelligence, dados WHOIS e geolocalização.",
+          "rightContent": "En IBM Resilient diseño flujos de trabajo automáticos para enriquecer los indicadores de compromiso con inteligencia de amenazas, datos WHOIS y geolocalización.",
+          "sequenceItem": 1,
+          "exerciseId": "fcefe49a-6c80-5bb2-8e24-c4baa0b15ec5"
+        },
+        {
+          "id": "232131b3-7fe9-5b47-bbd1-f6bc76713962",
+          "leftContent": "Os playbooks automatizam as ações iniciais de contenção e enviam notificações automáticas às áreas responsáveis segundo a criticidade.",
+          "rightContent": "Los playbooks automatizan las acciones iniciales de contención y envían notificaciones automáticas a las áreas responsables según la criticidad.",
+          "sequenceItem": 2,
+          "exerciseId": "fcefe49a-6c80-5bb2-8e24-c4baa0b15ec5"
+        },
+        {
+          "id": "acc25087-aca2-5f0b-b195-15a093116d22",
+          "leftContent": "Com essa automação eliminamos tarefas manuais repetitivas e permitimos que o analista se concentre na investigação profunda.",
+          "rightContent": "Con esta automatización eliminamos tareas manuales repetitivas y permitimos que el analista se enfoque en la investigación profunda.",
+          "sequenceItem": 3,
+          "exerciseId": "fcefe49a-6c80-5bb2-8e24-c4baa0b15ec5"
+        },
+        {
+          "id": "17413fe4-0aee-548a-9096-0eeec029af24",
+          "leftContent": "Sim, se a reputação for maliciosa, o playbook sugere o bloqueio para contenção e envia uma notificação automática à equipe responsável pelo ativo.",
+          "rightContent": "Sí, si la reputación es maliciosa, el playbook sugiere el bloqueo para contención y envía una notificación automática al equipo responsable del activo.",
+          "sequenceItem": 4,
+          "exerciseId": "fcefe49a-6c80-5bb2-8e24-c4baa0b15ec5"
+        }
+      ]
+    }
+  ],
+  "title": "Automação SOAR no IBM Resilient - Playbooks, Threat Intel e Contenção"
+}

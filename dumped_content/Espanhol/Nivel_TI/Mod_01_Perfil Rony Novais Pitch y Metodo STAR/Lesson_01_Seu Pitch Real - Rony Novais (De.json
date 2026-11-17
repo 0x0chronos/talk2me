@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+    "attemptId": "e47a76b2-7e74-50cb-897f-7bd8fc326e6e",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "dd12777b-1b3a-53c3-b0a5-579e964652df",
+      "26b0c253-dcff-5d6d-8c14-c123542b9347",
+      "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a",
+      "56277331-2158-56b7-9614-e3e66d81a613"
+    ],
+    "practiceExerciseIds": [
+      "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+      "047250e9-e55c-587f-8410-c42d0d458fb1",
+      "dc0faec7-732a-5967-8dfd-1a725b8e4cb9",
+      "7bc1b32b-2433-57a8-940a-2bdc5b06be85",
+      "908c9b91-3940-519a-8e2c-8008161bf998"
+    ],
+    "evaluationExerciseIds": [
+      "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+      "822266ea-190f-5787-91cb-17e6c8e7e4f7",
+      "c5de2d41-aee1-5ed2-a9fe-9ba3239d320c"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "2437ada1-9016-503f-8a2b-fd5f78946ecb",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "b44a4109-97b2-5170-a661-717b7e2676e3",
+          "textContent": "<p>Apresenta de imediato sua formação superior específica e seu diferencial híbrido (Blue + Red Team).</p><p><strong>Me llamo Rony Novais, soy graduado en Defensa Cibernética y cuento con unos tres años de experiencia combinando operaciones de SOC y pentesting.</strong></p><p>Em português: <strong>Meu nome é Rony Novais, sou graduado em Defesa Cibernética e tenho cerca de três anos de experiência combinando operações de SOC e pentesting.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m05_l01_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "66c1f9d4-3fb8-5c1f-ac62-37dbe1ca9d30",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "fb028962-ba2e-552e-b036-e7777230bc64",
+          "textContent": "<p>Conecta sua empresa atual (iT.eam) e sua experiência ofensiva comprovada (Access Security).</p><p><strong>Actualmente trabajo como analista SOC utilizando IBM QRadar y Microsoft Sentinel, y anteriormente realicé más de veinte pruebas de penetración en Access Security.</strong></p><p>Em português: <strong>Atualmente trabalho como analista SOC utilizando IBM QRadar e Microsoft Sentinel, e anteriormente realizei mais de vinte testes de intrusão na Access Security.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m05_l01_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "29916972-d4ac-5c55-a424-ee8cff5db398",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "c41d78d2-4b40-5651-b104-88d26b877aaf",
+          "textContent": "<p>Na Espanha, CompTIA Security+ passa pelos filtros de RH e DCPT/CRTA/ACP impressionam o gestor técnico.</p><p><strong>Cuento con la certificación CompTIA Security Plus, además de certificaciones prácticas en Red Team, pentesting y seguridad de interfaces de programación.</strong></p><p>Em português: <strong>Possuo a certificação CompTIA Security+, além de certificações práticas em Red Team (CRTA), pentesting (DCPT/SYCP) e segurança de APIs (ACP).</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m05_l01_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "358c2833-72ba-508c-b2b2-6b0fad470a67",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "68e10bf3-b211-5937-9747-64c912d6bbc2",
+          "textContent": "<p>Este módulo foi desenhado exatamente sobre o seu currículo real (<strong>Rony Simões Novais</strong>):</p><ul><li><strong>Formação:</strong> <em>Título superior de tecnólogo en Defensa Cibernética por la Universidad Estácio</em> (2024).</li><li><strong>Base técnica:</strong> transição sólida desde suporte técnico (<em>Sagati</em>) para <strong>Seguridad Ofensiva (Access Security)</strong> e <strong>SOC 24x7 (iT.eam)</strong>.</li><li><strong>Certificações de peso na Espanha:</strong> <em>CompTIA Security+</em>, <em>DCPT</em>, <em>CRTA (Red Team)</em>, <em>SYCP</em>, <em>CNSP</em> e <em>ACP (APIsec)</em>.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>Defensa Cibernética</strong> — sua graduação tecnológica superior (Estácio)</li><li><strong>perfil híbrido (Purple Team)</strong> — união de Pentest (Access Security) + SOC (iT.eam)</li><li><strong>más de veinte pruebas de penetración</strong> — seu histórico prático de +20 pentests entregues</li><li><strong>rutina en Hack The Box y TryHackMe</strong> — prática contínua em laboratórios realistas</li><li><strong>Palavra-chave de escrita: «Defensa»</strong> (Soy graduado en Defensa Cibernética y tengo experiencia en SOC y pentesting.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "Defensa Cibernética — sua graduação tecnológica superior (Estácio)",
+        "perfil híbrido (Purple Team) — união de Pentest (Access Security) + SOC (iT.eam)",
+        "más de veinte pruebas de penetración — seu histórico prático de +20 pentests entregues",
+        "rutina en Hack The Box y TryHackMe — prática contínua em laboratórios realistas"
+      ]
+    },
+    {
+      "id": "c8bfb02c-2e07-59c7-a6c4-e5120bca2a7a",
+      "title": "Entrevista na Espanha: Apresentando o currículo de Rony Novais",
+      "description": "<p>Laura (recrutadora sênior em Madri) analisa o currículo de Rony Simões Novais e pede que ele resuma seu perfil híbrido.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Hola, Rony. He visto en tu currículum que tienes experiencia tanto en centro de operaciones de seguridad como en pentesting. ¿Cómo resumes tu perfil?</div>\n  <div style=\"opacity: 0.55;\">Olá, Rony. Vi no seu currículo que você tem experiência tanto em SOC quanto em pentesting. Como você resume seu perfil?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m05_l01_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Muchas gracias, Laura. Soy graduado en Defensa Cibernética y tengo un perfil híbrido: he realizado más de veinte pruebas de penetración y hoy trabajo como analista SOC.</div>\n  <div style=\"opacity: 0.55;\">Muito obrigado, Laura. Sou graduado em Defesa Cibernética e tenho um perfil híbrido: realizei mais de vinte testes de intrusão e hoje trabalho como analista SOC.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m05_l01_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Veo también que tienes la certificación CompTIA Security Plus y varias certificaciones ofensivas como CRTA y DCPT.</div>\n  <div style=\"opacity: 0.55;\">Vejo também que você tem a certificação CompTIA Security+ e várias certificações ofensivas como CRTA e DCPT.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m05_l01_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Así es. Además, mantengo una rutina práctica constante en laboratorios de Hack The Box y TryHackMe para simular escenarios reales.</div>\n  <div style=\"opacity: 0.55;\">Exato. Além disso, mantenho uma rotina prática constante em laboratórios do Hack The Box e TryHackMe para simular cenários reais.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m05_l01_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "dd12777b-1b3a-53c3-b0a5-579e964652df",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Hola, Rony. He visto en tu currículum que tienes experiencia tanto en centro de operaciones de seguridad como en pentesting. ¿Cómo resumes tu perfil?»</p><p><em>(Olá, Rony. Vi no seu currículo que você tem experiência tanto em SOC quanto em pentesting. Como você resume seu perfil?)</em></p>",
+      "contentPlain": "Hola, Rony. He visto en tu currículum que tienes experiencia tanto en centro de operaciones de seguridad como en pentesting. ¿Cómo resumes tu perfil?",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l01_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Muchas gracias, Laura. Soy graduado en Defensa Cibernética y tengo un perfil híbrido: he realizado más de veinte pruebas de penetración y hoy trabajo como analista SOC.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "b99977b5-a3c8-5e00-ad2b-f79c5e6f5193",
+          "textContent": "Muchas gracias, Laura. Soy graduado en Defensa Cibernética y tengo un perfil híbrido: he realizado más de veinte pruebas de penetración y hoy trabajo como analista SOC.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "dd12777b-1b3a-53c3-b0a5-579e964652df",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "6ebe275f-4597-56ad-b400-8af46225ecbc",
+          "textContent": "Cuento con la certificación CompTIA Security Plus, además de certificaciones prácticas en Red Team, pentesting y seguridad de interfaces de programación.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "dd12777b-1b3a-53c3-b0a5-579e964652df",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9463a6c6-957e-5c99-9fd5-439a45ada368",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "dd12777b-1b3a-53c3-b0a5-579e964652df",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4439709e-38ca-5aa8-bc04-7a4743964e0d",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "dd12777b-1b3a-53c3-b0a5-579e964652df",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "26b0c253-dcff-5d6d-8c14-c123542b9347",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Me llamo Rony Novais, soy graduado en Defensa Cibernética y cuento con unos tres años de experiencia combinando operaciones de SOC y pentesting.</strong></p>",
+      "contentPlain": "Me llamo Rony Novais, soy graduado en Defensa Cibernética y cuento con unos tres años de experiencia combinando operaciones de SOC y pentesting.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l01_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Meu nome é Rony Novais, sou graduado em Defesa Cibernética e tenho cerca de três anos de experiência combinando operações de SOC e pentesting.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "91c979cf-f81d-506e-aee7-b29b2d8aee30",
+          "textContent": "Meu nome é Rony Novais, sou graduado em Defesa Cibernética e tenho cerca de três anos de experiência combinando operações de SOC e pentesting.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "26b0c253-dcff-5d6d-8c14-c123542b9347",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c22b051d-38cc-5822-b067-32e307507315",
+          "textContent": "Atualmente trabalho como analista SOC utilizando IBM QRadar e Microsoft Sentinel, e anteriormente realizei mais de vinte testes de intrusão na Access Security.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "26b0c253-dcff-5d6d-8c14-c123542b9347",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "875cfdb6-8f8e-54f0-823b-0983cd172645",
+          "textContent": "Possuo a certificação CompTIA Security+, além de certificações práticas em Red Team (CRTA), pentesting (DCPT/SYCP) e segurança de APIs (ACP).",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "26b0c253-dcff-5d6d-8c14-c123542b9347",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "6f36f203-4d00-57c9-b825-5068965253d5",
+          "textContent": "Olá, Rony. Vi no seu currículo que você tem experiência tanto em SOC quanto em pentesting. Como você resume seu perfil?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "26b0c253-dcff-5d6d-8c14-c123542b9347",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "82935af0-3d1c-53ba-9097-63ef0851fb5e",
+          "leftContent": "Defensa Cibernética",
+          "rightContent": "sua graduação tecnológica superior (Estácio)",
+          "sequenceItem": 1,
+          "exerciseId": "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a"
+        },
+        {
+          "id": "8d6b07d8-f0f4-5125-98d0-2fa35dcdc308",
+          "leftContent": "perfil híbrido (Purple Team)",
+          "rightContent": "união de Pentest (Access Security) + SOC (iT.eam)",
+          "sequenceItem": 2,
+          "exerciseId": "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a"
+        },
+        {
+          "id": "06d8b55e-77fd-57f5-a73e-c91c5443ed5b",
+          "leftContent": "más de veinte pruebas de penetración",
+          "rightContent": "seu histórico prático de +20 pentests entregues",
+          "sequenceItem": 3,
+          "exerciseId": "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a"
+        },
+        {
+          "id": "83d31a07-5dfa-5ce7-9929-da825a334f36",
+          "leftContent": "rutina en Hack The Box y TryHackMe",
+          "rightContent": "prática contínua em laboratórios realistas",
+          "sequenceItem": 4,
+          "exerciseId": "e837a077-ce0e-5b8c-bc9f-f0bb8c41d80a"
+        }
+      ]
+    },
+    {
+      "id": "56277331-2158-56b7-9614-e3e66d81a613",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "f8f77cc0-d4fb-5b97-8386-a8cf37236023",
+          "leftContent": "https://talk2me.local/content/ti_m05_l01_c1.mp3",
+          "rightContent": "Me llamo Rony Novais, soy graduado en Defensa Cibernética y cuento con unos tres años de experiencia combinando operaciones de SOC y pentesting.",
+          "sequenceItem": 1,
+          "exerciseId": "56277331-2158-56b7-9614-e3e66d81a613"
+        },
+        {
+          "id": "b15979c6-b90f-50de-8547-3a4821c2e85e",
+          "leftContent": "https://talk2me.local/content/ti_m05_l01_c2.mp3",
+          "rightContent": "Actualmente trabajo como analista SOC utilizando IBM QRadar y Microsoft Sentinel, y anteriormente realicé más de veinte pruebas de penetración en Access Security.",
+          "sequenceItem": 2,
+          "exerciseId": "56277331-2158-56b7-9614-e3e66d81a613"
+        },
+        {
+          "id": "9b8d210b-aed4-531c-95a9-853e858c9989",
+          "leftContent": "https://talk2me.local/content/ti_m05_l01_c3.mp3",
+          "rightContent": "Cuento con la certificación CompTIA Security Plus, además de certificaciones prácticas en Red Team, pentesting y seguridad de interfaces de programación.",
+          "sequenceItem": 3,
+          "exerciseId": "56277331-2158-56b7-9614-e3e66d81a613"
+        },
+        {
+          "id": "8a208b26-9c66-5372-87d8-1d049b114581",
+          "leftContent": "https://talk2me.local/content/ti_m05_l01_d2.mp3",
+          "rightContent": "Muchas gracias, Laura. Soy graduado en Defensa Cibernética y tengo un perfil híbrido: he realizado más de veinte pruebas de penetración y hoy trabajo como analista SOC.",
+          "sequenceItem": 4,
+          "exerciseId": "56277331-2158-56b7-9614-e3e66d81a613"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Quando o recrutador espanhol perguntar qual é o grande diferencial do seu currículo entre tantos candidatos juniores/plenos, qual resposta valoriza melhor sua trajetória na Access Security e na iT.eam?</p>",
+      "contentPlain": "Quando o recrutador espanhol perguntar qual é o grande diferencial do seu currículo entre tantos candidatos juniores/plenos, qual resposta valoriza melhor sua trajetória na Access Security e na iT.eam?",
+      "fileUrl": null,
+      "feedbackSuccess": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+      "feedbackError": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "133440de-51a7-5dfd-b713-33f8f8814cc8",
+          "textContent": "Tengo un perfil híbrido: conozco cómo piensa el atacante por mis más de veinte pentests y aplico esa visión para detectar ataques reales en el SOC.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "49de9bee-b9ca-5ebc-9bd3-363565af127c",
+          "textContent": "Ya trabajé con soporte de celulares y ahora solo quiero cambiar de área.",
+          "isCorrect": false,
+          "incorrectReason": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+          "exerciseId": "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "57fab005-e7ac-5ac0-a560-f0a029543f49",
+          "textContent": "Prefiero no hablar de pentesting si la vacante es para analista de monitoreo.",
+          "isCorrect": false,
+          "incorrectReason": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+          "exerciseId": "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c67d47a3-bf3f-5238-af44-2beb3dd38688",
+          "textContent": "Solo sé usar herramientas automáticas sin analizar los registros.",
+          "isCorrect": false,
+          "incorrectReason": "Ter feito +20 pentests reais na Access Security faz de você um analista SOC muito superior (e vice-versa), pois você entende a exploração real por trás dos logs!",
+          "exerciseId": "7cf726b2-a5a0-5a75-9ba0-f4c85e007c83",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "047250e9-e55c-587f-8410-c42d0d458fb1",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "c955d889-9b63-5b50-a4cc-3409daab504f",
+          "leftContent": "https://talk2me.local/content/ti_m05_l01_d1.mp3",
+          "rightContent": "Olá, Rony. Vi no seu currículo que você tem experiência tanto em SOC quanto em pentesting. Como você resume seu perfil?",
+          "sequenceItem": 1,
+          "exerciseId": "047250e9-e55c-587f-8410-c42d0d458fb1"
+        },
+        {
+          "id": "c24dc1e1-3a84-5c33-bdbc-48d82fcc0179",
+          "leftContent": "https://talk2me.local/content/ti_m05_l01_d2.mp3",
+          "rightContent": "Muito obrigado, Laura. Sou graduado em Defesa Cibernética e tenho um perfil híbrido: realizei mais de vinte testes de intrusão e hoje trabalho como analista SOC.",
+          "sequenceItem": 2,
+          "exerciseId": "047250e9-e55c-587f-8410-c42d0d458fb1"
+        },
+        {
+          "id": "9086aaa8-1fb3-5b33-83a0-a04a248b1712",
+          "leftContent": "https://talk2me.local/content/ti_m05_l01_d3.mp3",
+          "rightContent": "Vejo também que você tem a certificação CompTIA Security+ e várias certificações ofensivas como CRTA e DCPT.",
+          "sequenceItem": 3,
+          "exerciseId": "047250e9-e55c-587f-8410-c42d0d458fb1"
+        },
+        {
+          "id": "407b832c-7853-5641-b461-ba833b9a2cfc",
+          "leftContent": "https://talk2me.local/content/ti_m05_l01_d4.mp3",
+          "rightContent": "Exato. Além disso, mantenho uma rotina prática constante em laboratórios do Hack The Box e TryHackMe para simular cenários reais.",
+          "sequenceItem": 4,
+          "exerciseId": "047250e9-e55c-587f-8410-c42d0d458fb1"
+        }
+      ]
+    },
+    {
+      "id": "dc0faec7-732a-5967-8dfd-1a725b8e4cb9",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Soy graduado en _____ Cibernética y tengo experiencia en SOC y pentesting.</strong></p><p>Tradução: Sou graduado em Defesa Cibernética e tenho experiência em SOC e pentesting.</p>",
+      "contentPlain": "Soy graduado en _____ Cibernética y tengo experiencia en SOC y pentesting. Tradução: Sou graduado em Defesa Cibernética e tenho experiência em SOC e pentesting.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l01_spk.mp3",
+      "feedbackSuccess": "Correto! «Defensa» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «Defensa».",
+      "answerType": "buildWord",
+      "expectedAnswer": "Defensa",
+      "typeSpecificData": "{\"word\": \"Defensa\", \"translation\": \"Sou graduado em Defesa Cibernética e tenho experiência em SOC e pentesting.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "7bc1b32b-2433-57a8-940a-2bdc5b06be85",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l01_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Soy graduado en Defensa Cibernética y combino experiencia en operaciones de seguridad con más de veinte pruebas de penetración.",
+      "typeSpecificData": "{\"expectedText\": \"Soy graduado en Defensa Cibernética y combino experiencia en operaciones de seguridad con más de veinte pruebas de penetración.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m05_l01_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "908c9b91-3940-519a-8e2c-8008161bf998",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Hola, Rony. He visto en tu currículum que tienes experiencia tanto en centro de operaciones de seguridad como en pentesting. ¿Cómo resumes tu perfil?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Muchas gracias, Laura. Soy graduado en Defensa Cibernética y tengo un perfil híbrido: he realizado más de veinte pruebas de penetración y hoy trabajo como analista SOC.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l01_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Muchas gracias, Laura. Soy graduado en Defensa Cibernética y tengo un perfil híbrido: he realizado más de veinte pruebas de penetración y hoy trabajo como analista SOC.",
+      "typeSpecificData": "{\"expectedText\": \"Muchas gracias, Laura. Soy graduado en Defensa Cibernética y tengo un perfil híbrido: he realizado más de veinte pruebas de penetración y hoy trabajo como analista SOC.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m05_l01_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Veo también que tienes la certificación CompTIA Security Plus y varias certificaciones ofensivas como CRTA y DCPT.»</strong></p><p><em>(Vejo também que você tem a certificação CompTIA Security+ e várias certificações ofensivas como CRTA e DCPT.)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Veo también que tienes la certificación CompTIA Security Plus y varias certificaciones ofensivas como CRTA y DCPT.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l01_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Así es. Además, mantengo una rutina práctica constante en laboratorios de Hack The Box y TryHackMe para simular escenarios reales.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "f2db6825-93b8-568d-b6d9-63615b34f54c",
+          "textContent": "Así es. Además, mantengo una rutina práctica constante en laboratorios de Hack The Box y TryHackMe para simular escenarios reales.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "81008d4b-9be5-5968-b94b-84e8910e50fa",
+          "textContent": "Muchas gracias, Laura. Soy graduado en Defensa Cibernética y tengo un perfil híbrido: he realizado más de veinte pruebas de penetración y hoy trabajo como analista SOC.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "488a450a-ec26-5cc2-83d0-75724c7289b8",
+          "textContent": "Me llamo Rony Novais, soy graduado en Defensa Cibernética y cuento con unos tres años de experiencia combinando operaciones de SOC y pentesting.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3ff747c6-388c-53dc-89e9-675b56833f46",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "db6537fa-7314-5f89-9f3e-0c2287d4bafa",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "822266ea-190f-5787-91cb-17e6c8e7e4f7",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Actualmente trabajo como analista SOC utilizando IBM QRadar y Microsoft Sentinel, y anteriormente realicé más de veinte pruebas de penetración en Access _____.</strong></p><p>Tradução: Atualmente trabalho como analista SOC utilizando IBM QRadar e Microsoft Sentinel, e anteriormente realizei mais de vinte testes de intrusão na Access Security.</p>",
+      "contentPlain": "Actualmente trabajo como analista SOC utilizando IBM QRadar y Microsoft Sentinel, y anteriormente realicé más de veinte pruebas de penetración en Access _____. Tradução: Atualmente trabalho como analista SOC utilizando IBM QRadar e Microsoft Sentinel, e anteriormente realizei mais de vinte testes de intrusão na Access Security.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l01_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «Security» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «Security».",
+      "answerType": "buildWord",
+      "expectedAnswer": "Security",
+      "typeSpecificData": "{\"word\": \"Security\", \"translation\": \"Atualmente trabalho como analista SOC utilizando IBM QRadar e Microsoft Sentinel, e anteriormente realizei mais de vinte testes de intrusão na Access Security.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "c5de2d41-aee1-5ed2-a9fe-9ba3239d320c",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ad0e1716-a1e2-5f48-830e-7eba653ed833",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "a63a4fd2-5054-55d3-9300-0c5720dde071",
+          "leftContent": "Meu nome é Rony Novais, sou graduado em Defesa Cibernética e tenho cerca de três anos de experiência combinando operações de SOC e pentesting.",
+          "rightContent": "Me llamo Rony Novais, soy graduado en Defensa Cibernética y cuento con unos tres años de experiencia combinando operaciones de SOC y pentesting.",
+          "sequenceItem": 1,
+          "exerciseId": "c5de2d41-aee1-5ed2-a9fe-9ba3239d320c"
+        },
+        {
+          "id": "dcf7b9db-2014-5520-9fab-58a9ea7b93a8",
+          "leftContent": "Atualmente trabalho como analista SOC utilizando IBM QRadar e Microsoft Sentinel, e anteriormente realizei mais de vinte testes de intrusão na Access Security.",
+          "rightContent": "Actualmente trabajo como analista SOC utilizando IBM QRadar y Microsoft Sentinel, y anteriormente realicé más de veinte pruebas de penetración en Access Security.",
+          "sequenceItem": 2,
+          "exerciseId": "c5de2d41-aee1-5ed2-a9fe-9ba3239d320c"
+        },
+        {
+          "id": "e8ee0b69-e720-591b-b6aa-eb186b485845",
+          "leftContent": "Possuo a certificação CompTIA Security+, além de certificações práticas em Red Team (CRTA), pentesting (DCPT/SYCP) e segurança de APIs (ACP).",
+          "rightContent": "Cuento con la certificación CompTIA Security Plus, además de certificaciones prácticas en Red Team, pentesting y seguridad de interfaces de programación.",
+          "sequenceItem": 3,
+          "exerciseId": "c5de2d41-aee1-5ed2-a9fe-9ba3239d320c"
+        },
+        {
+          "id": "1171f815-7e8a-5b7f-8a75-0a72e32af94d",
+          "leftContent": "Exato. Além disso, mantenho uma rotina prática constante em laboratórios do Hack The Box e TryHackMe para simular cenários reais.",
+          "rightContent": "Así es. Además, mantengo una rutina práctica constante en laboratorios de Hack The Box y TryHackMe para simular escenarios reales.",
+          "sequenceItem": 4,
+          "exerciseId": "c5de2d41-aee1-5ed2-a9fe-9ba3239d320c"
+        }
+      ]
+    }
+  ],
+  "title": "Seu Pitch Real - Rony Novais (Defensa Cibernética, SOC e Pentest)"
+}

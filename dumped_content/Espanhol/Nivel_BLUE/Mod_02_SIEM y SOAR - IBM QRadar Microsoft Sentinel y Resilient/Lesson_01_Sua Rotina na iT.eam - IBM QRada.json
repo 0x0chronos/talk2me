@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+    "attemptId": "00951c9c-eae2-5ba5-b4c8-0c990338546c",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "ddd581d7-c501-5bbf-a075-9bb08e822d62",
+      "d6249152-ccac-59aa-bede-4e58e3a0a8dd",
+      "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599",
+      "7df65069-6d0e-5e1c-a81f-adc20e0f4885"
+    ],
+    "practiceExerciseIds": [
+      "b758c2ba-883e-5237-969a-04b412598eac",
+      "16db0a8c-eb72-531b-a080-80151b46b111",
+      "30bb97d1-4851-5221-aa36-93991da1734c",
+      "dd697054-440d-5e12-9578-270ff9198bdc",
+      "7b190069-a353-578b-8096-8c98329e11c7"
+    ],
+    "evaluationExerciseIds": [
+      "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+      "6cdd5943-ebb9-58dc-b755-2d2998d618bb",
+      "68fe3e0f-e017-5597-834b-c1f606c71225"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "929fa9d6-9458-52b0-b692-8bda7497adec",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "84953e72-d0b0-5a70-9724-0a0ed2589336",
+          "textContent": "<p>Na Espanha, diz-se «monitorización continua» e «puntos finales / endpoints».</p><p><strong>En mi puesto actual realizo monitorización continua en IBM QRadar y Microsoft Sentinel, correlacionando registros de cortafuegos, proxies y puntos finales.</strong></p><p>Em português: <strong>No meu cargo atual realizo monitoramento contínuo no IBM QRadar e Microsoft Sentinel, correlacionando logs de firewalls, proxies e endpoints.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m05_l02_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "f7dd67d2-2732-53dc-9bff-647e2200214a",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "1c3e9bbf-9e47-5093-9808-0b59033cb97e",
+          "textContent": "<p>Esta é uma entrega de nível Pleno/Sênior que está no seu currículo em português e deve sempre ser dita na entrevista!</p><p><strong>Desarrollo y ajusto reglas de correlación en QRadar y creo paneles personalizados para optimizar la detección y reducir los falsos positivos.</strong></p><p>Em português: <strong>Desenvolvo e ajusto regras de correlação no QRadar e crio dashboards personalizados para otimizar a detecção e reduzir os falsos positivos.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m05_l02_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "12a6c193-f46d-55cf-aa22-6863854700a1",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "4296f56a-b86b-5175-9aaa-02771c0d0ae7",
+          "textContent": "<p>Saber SOAR (IBM Resilient) diferencia você de 90% dos analistas SOC N1/N2 na Espanha.</p><p><strong>Además, automatizo flujos de respuesta en IBM Resilient para enriquecer indicadores con inteligencia de amenazas y acelerar la contención.</strong></p><p>Em português: <strong>Além disso, automatizo playbooks no IBM Resilient para enriquecer indicadores com Threat Intelligence e acelerar a contenção.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m05_l02_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "55185a85-7722-5349-bd4a-97b72f27501c",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "ea621b8c-04bc-538b-913d-1535a97f1bff",
+          "textContent": "<p>Grandes consultorias e SOCs na Espanha (Telefónica Tech, Indra/Minsait, Deloitte, Santander, S2 Grupo, Tarlogic) usam exatamente a sua stack da <strong>iT.eam</strong>:</p><ul><li><strong>SIEM:</strong> <em>IBM QRadar</em> e <em>Microsoft Sentinel</em> (ingestão, correlação e ajuste de regras / <em>tuning</em>).</li><li><strong>SOAR:</strong> <em>IBM Resilient (QRadar SOAR)</em> — automação de <em>playbooks</em>, contenção e enriquecimento (<em>Threat Intel, WHOIS, geolocalización</em>).</li><li><strong>Framework:</strong> <em>MITRE ATT&amp;CK</em> para classificar e mapear TTPs de ataques de força bruta, <em>phishing</em> e escalada de privilégios.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>ajustar reglas de correlación</strong> — fazer tuning de regras no QRadar / Sentinel</li><li><strong>automatizar playbooks en IBM Resilient</strong> — criar workflows SOAR de contenção e enriquecimento</li><li><strong>enriquecimiento de datos</strong> — consulta automática de Threat Intel, WHOIS e geolocalização</li><li><strong>tiempo medio de respuesta (MTTR)</strong> — métrica reduzida pela sua triagem e automação</li><li><strong>Palavra-chave de escrita: «correlación»</strong> (Ajusto reglas de correlación en QRadar para reducir los falsos positivos.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "ajustar reglas de correlación — fazer tuning de regras no QRadar / Sentinel",
+        "automatizar playbooks en IBM Resilient — criar workflows SOAR de contenção e enriquecimento",
+        "enriquecimiento de datos — consulta automática de Threat Intel, WHOIS e geolocalização",
+        "tiempo medio de respuesta (MTTR) — métrica reduzida pela sua triagem e automação"
+      ]
+    },
+    {
+      "id": "9167c819-aaa0-50ba-93ee-c40a1a340020",
+      "title": "Pergunta técnica sobre QRadar, Sentinel e SOAR na iT.eam",
+      "description": "<p>A gestora do SOC em Madri pergunta detalhes práticos sobre sua experiência atual na iT.eam.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">En tu puesto actual en iT.eam trabajas con IBM QRadar y Microsoft Sentinel. ¿Te limitas al triaje de nivel uno o también ajustas reglas y automatizas respuestas?</div>\n  <div style=\"opacity: 0.55;\">No seu cargo atual na iT.eam você trabalha com IBM QRadar e Microsoft Sentinel. Você se limita à triagem de nível 1 ou também ajusta regras e automatiza respostas?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m05_l02_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Además del triaje y escalado a nivel dos y tres, ajusto reglas de correlación en QRadar para reducir falsos positivos y mapeo las tácticas con MITRE ATT&CK.</div>\n  <div style=\"opacity: 0.55;\">Além da triagem e escalonamento para nível 2 e 3, ajusto regras de correlação no QRadar para reduzir falsos positivos e mapeio as táticas com MITRE ATT&CK.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m05_l02_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¡Qué bien! ¿Y habéis implementado alguna automatización con herramientas SOAR?</div>\n  <div style=\"opacity: 0.55;\">Que ótimo! E vocês implementaram alguma automação com ferramentas SOAR?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m05_l02_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Sí, automatizo playbooks en IBM Resilient para enriquecer alertas con datos de geolocalización e inteligencia de amenazas, reduciendo el tiempo medio de respuesta.</div>\n  <div style=\"opacity: 0.55;\">Sim, automatizo playbooks no IBM Resilient para enriquecer alertas com dados de geolocalização e inteligência de ameaças, reduzindo o tempo médio de resposta.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m05_l02_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "ddd581d7-c501-5bbf-a075-9bb08e822d62",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «En tu puesto actual en iT.eam trabajas con IBM QRadar y Microsoft Sentinel. ¿Te limitas al triaje de nivel uno o también ajustas reglas y automatizas respuestas?»</p><p><em>(No seu cargo atual na iT.eam você trabalha com IBM QRadar e Microsoft Sentinel. Você se limita à triagem de nível 1 ou também ajusta regras e automatiza respostas?)</em></p>",
+      "contentPlain": "En tu puesto actual en iT.eam trabajas con IBM QRadar y Microsoft Sentinel. ¿Te limitas al triaje de nivel uno o también ajustas reglas y automatizas respuestas?",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l02_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Además del triaje y escalado a nivel dos y tres, ajusto reglas de correlación en QRadar para reducir falsos positivos y mapeo las tácticas con MITRE ATT&CK.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "9b4fe769-f811-5eea-b16b-a829e431bd49",
+          "textContent": "Además del triaje y escalado a nivel dos y tres, ajusto reglas de correlación en QRadar para reducir falsos positivos y mapeo las tácticas con MITRE ATT&CK.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "ddd581d7-c501-5bbf-a075-9bb08e822d62",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ef05dd13-f6f2-5005-b013-2f2402c3ff55",
+          "textContent": "Además, automatizo flujos de respuesta en IBM Resilient para enriquecer indicadores con inteligencia de amenazas y acelerar la contención.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "ddd581d7-c501-5bbf-a075-9bb08e822d62",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8f39f87f-7814-5bff-ac10-140922c3fd39",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "ddd581d7-c501-5bbf-a075-9bb08e822d62",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3b127d92-c67f-5eff-a85a-4fda69e3772a",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "ddd581d7-c501-5bbf-a075-9bb08e822d62",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d6249152-ccac-59aa-bede-4e58e3a0a8dd",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>En mi puesto actual realizo monitorización continua en IBM QRadar y Microsoft Sentinel, correlacionando registros de cortafuegos, proxies y puntos finales.</strong></p>",
+      "contentPlain": "En mi puesto actual realizo monitorización continua en IBM QRadar y Microsoft Sentinel, correlacionando registros de cortafuegos, proxies y puntos finales.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l02_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «No meu cargo atual realizo monitoramento contínuo no IBM QRadar e Microsoft Sentinel, correlacionando logs de firewalls, proxies e endpoints.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "bac110e5-8eb2-54eb-a236-93119e3269ee",
+          "textContent": "No meu cargo atual realizo monitoramento contínuo no IBM QRadar e Microsoft Sentinel, correlacionando logs de firewalls, proxies e endpoints.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "d6249152-ccac-59aa-bede-4e58e3a0a8dd",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c651e39d-ee95-5db0-9eb8-f806fa92adb0",
+          "textContent": "Desenvolvo e ajusto regras de correlação no QRadar e crio dashboards personalizados para otimizar a detecção e reduzir os falsos positivos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "d6249152-ccac-59aa-bede-4e58e3a0a8dd",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bcee8392-159a-5687-af11-895fde09d722",
+          "textContent": "Além disso, automatizo playbooks no IBM Resilient para enriquecer indicadores com Threat Intelligence e acelerar a contenção.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "d6249152-ccac-59aa-bede-4e58e3a0a8dd",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9c55a5da-47d9-5d42-a5ed-2804190cf0f6",
+          "textContent": "No seu cargo atual na iT.eam você trabalha com IBM QRadar e Microsoft Sentinel. Você se limita à triagem de nível 1 ou também ajusta regras e automatiza respostas?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "d6249152-ccac-59aa-bede-4e58e3a0a8dd",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "f3492bd8-f7ac-5661-beb3-16a9b6e67385",
+          "leftContent": "ajustar reglas de correlación",
+          "rightContent": "fazer tuning de regras no QRadar / Sentinel",
+          "sequenceItem": 1,
+          "exerciseId": "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599"
+        },
+        {
+          "id": "7fd546ec-949a-5a71-a3e7-6ac01cc1b28c",
+          "leftContent": "automatizar playbooks en IBM Resilient",
+          "rightContent": "criar workflows SOAR de contenção e enriquecimento",
+          "sequenceItem": 2,
+          "exerciseId": "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599"
+        },
+        {
+          "id": "d460ced1-4f10-5264-a1bf-c848e659fa7e",
+          "leftContent": "enriquecimiento de datos",
+          "rightContent": "consulta automática de Threat Intel, WHOIS e geolocalização",
+          "sequenceItem": 3,
+          "exerciseId": "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599"
+        },
+        {
+          "id": "1b818f30-968d-5de9-aad7-befbb9b075ee",
+          "leftContent": "tiempo medio de respuesta (MTTR)",
+          "rightContent": "métrica reduzida pela sua triagem e automação",
+          "sequenceItem": 4,
+          "exerciseId": "1f6c8b5a-f412-5bb1-b2e4-6d104c8d8599"
+        }
+      ]
+    },
+    {
+      "id": "7df65069-6d0e-5e1c-a81f-adc20e0f4885",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "266d86b0-b97b-5540-b04c-b1378f967ca5",
+          "leftContent": "https://talk2me.local/content/ti_m05_l02_c1.mp3",
+          "rightContent": "En mi puesto actual realizo monitorización continua en IBM QRadar y Microsoft Sentinel, correlacionando registros de cortafuegos, proxies y puntos finales.",
+          "sequenceItem": 1,
+          "exerciseId": "7df65069-6d0e-5e1c-a81f-adc20e0f4885"
+        },
+        {
+          "id": "5c1a2871-a1ca-5cdf-838a-d01eb3e0955a",
+          "leftContent": "https://talk2me.local/content/ti_m05_l02_c2.mp3",
+          "rightContent": "Desarrollo y ajusto reglas de correlación en QRadar y creo paneles personalizados para optimizar la detección y reducir los falsos positivos.",
+          "sequenceItem": 2,
+          "exerciseId": "7df65069-6d0e-5e1c-a81f-adc20e0f4885"
+        },
+        {
+          "id": "bbce2c3e-0548-5d41-a37d-f5c3d248304f",
+          "leftContent": "https://talk2me.local/content/ti_m05_l02_c3.mp3",
+          "rightContent": "Además, automatizo flujos de respuesta en IBM Resilient para enriquecer indicadores con inteligencia de amenazas y acelerar la contención.",
+          "sequenceItem": 3,
+          "exerciseId": "7df65069-6d0e-5e1c-a81f-adc20e0f4885"
+        },
+        {
+          "id": "bad93dc6-bf74-5063-98f9-7fd473af79cd",
+          "leftContent": "https://talk2me.local/content/ti_m05_l02_d2.mp3",
+          "rightContent": "Además del triaje y escalado a nivel dos y tres, ajusto reglas de correlación en QRadar para reducir falsos positivos y mapeo las tácticas con MITRE ATT&CK.",
+          "sequenceItem": 4,
+          "exerciseId": "7df65069-6d0e-5e1c-a81f-adc20e0f4885"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "b758c2ba-883e-5237-969a-04b412598eac",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como explicar em espanhol sua experiência com o IBM Resilient e MITRE ATT&CK na iT.eam?</p>",
+      "contentPlain": "Como explicar em espanhol sua experiência com o IBM Resilient e MITRE ATT&CK na iT.eam?",
+      "fileUrl": null,
+      "feedbackSuccess": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+      "feedbackError": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "b7ca6d5b-67d9-58e9-b0c5-d588d53b84fd",
+          "textContent": "Automatizo playbooks en IBM Resilient para enriquecer alertas y utilizo MITRE ATT&CK para clasificar las tácticas y técnicas del atacante.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "b758c2ba-883e-5237-969a-04b412598eac",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ef70acba-14f8-5d41-9646-1c17414e799f",
+          "textContent": "Solo miro la pantalla del QRadar y llamo por teléfono cuando sale una luz roja.",
+          "isCorrect": false,
+          "incorrectReason": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+          "exerciseId": "b758c2ba-883e-5237-969a-04b412598eac",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9f5991cc-778d-552a-a9f4-a64b5df6542f",
+          "textContent": "Apago las reglas del SIEM para que no salgan alertas durante mi turno.",
+          "isCorrect": false,
+          "incorrectReason": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+          "exerciseId": "b758c2ba-883e-5237-969a-04b412598eac",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "fe1b7d06-eeb2-5df7-954b-a7cbfe463ca1",
+          "textContent": "No utilizo marcos de referencia ni automatización en el centro de operaciones.",
+          "isCorrect": false,
+          "incorrectReason": "Destacar IBM Resilient (SOAR) + tuning de regras no QRadar + MITRE ATT&CK mostra que você opera muito acima de um N1 básico.",
+          "exerciseId": "b758c2ba-883e-5237-969a-04b412598eac",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "16db0a8c-eb72-531b-a080-80151b46b111",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "9dbb75a6-7832-5f21-8fd8-a4efd55c2195",
+          "leftContent": "https://talk2me.local/content/ti_m05_l02_d1.mp3",
+          "rightContent": "No seu cargo atual na iT.eam você trabalha com IBM QRadar e Microsoft Sentinel. Você se limita à triagem de nível 1 ou também ajusta regras e automatiza respostas?",
+          "sequenceItem": 1,
+          "exerciseId": "16db0a8c-eb72-531b-a080-80151b46b111"
+        },
+        {
+          "id": "09aee6bc-9224-5028-8e13-f93e20b96553",
+          "leftContent": "https://talk2me.local/content/ti_m05_l02_d2.mp3",
+          "rightContent": "Além da triagem e escalonamento para nível 2 e 3, ajusto regras de correlação no QRadar para reduzir falsos positivos e mapeio as táticas com MITRE ATT&CK.",
+          "sequenceItem": 2,
+          "exerciseId": "16db0a8c-eb72-531b-a080-80151b46b111"
+        },
+        {
+          "id": "d422d76f-e742-52d6-a34e-499ef95eb560",
+          "leftContent": "https://talk2me.local/content/ti_m05_l02_d3.mp3",
+          "rightContent": "Que ótimo! E vocês implementaram alguma automação com ferramentas SOAR?",
+          "sequenceItem": 3,
+          "exerciseId": "16db0a8c-eb72-531b-a080-80151b46b111"
+        },
+        {
+          "id": "b6af7410-531d-596d-ae8b-8a4c6131e3c7",
+          "leftContent": "https://talk2me.local/content/ti_m05_l02_d4.mp3",
+          "rightContent": "Sim, automatizo playbooks no IBM Resilient para enriquecer alertas com dados de geolocalização e inteligência de ameaças, reduzindo o tempo médio de resposta.",
+          "sequenceItem": 4,
+          "exerciseId": "16db0a8c-eb72-531b-a080-80151b46b111"
+        }
+      ]
+    },
+    {
+      "id": "30bb97d1-4851-5221-aa36-93991da1734c",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Ajusto reglas de _____ en QRadar para reducir los falsos positivos.</strong></p><p>Tradução: Ajusto regras de correlação no QRadar para reduzir os falsos positivos.</p>",
+      "contentPlain": "Ajusto reglas de _____ en QRadar para reducir los falsos positivos. Tradução: Ajusto regras de correlação no QRadar para reduzir os falsos positivos.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l02_spk.mp3",
+      "feedbackSuccess": "Correto! «correlación» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «correlación».",
+      "answerType": "buildWord",
+      "expectedAnswer": "correlación",
+      "typeSpecificData": "{\"word\": \"correlación\", \"translation\": \"Ajusto regras de correlação no QRadar para reduzir os falsos positivos.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "dd697054-440d-5e12-9578-270ff9198bdc",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l02_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Ajusto reglas de correlación en QRadar y automatizo flujos de respuesta en IBM Resilient.",
+      "typeSpecificData": "{\"expectedText\": \"Ajusto reglas de correlación en QRadar y automatizo flujos de respuesta en IBM Resilient.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m05_l02_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "7b190069-a353-578b-8096-8c98329e11c7",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «En tu puesto actual en iT.eam trabajas con IBM QRadar y Microsoft Sentinel. ¿Te limitas al triaje de nivel uno o también ajustas reglas y automatizas respuestas?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Además del triaje y escalado a nivel dos y tres, ajusto reglas de correlación en QRadar para reducir falsos positivos y mapeo las tácticas con MITRE ATT&CK.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l02_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Además del triaje y escalado a nivel dos y tres, ajusto reglas de correlación en QRadar para reducir falsos positivos y mapeo las tácticas con MITRE ATT&CK.",
+      "typeSpecificData": "{\"expectedText\": \"Además del triaje y escalado a nivel dos y tres, ajusto reglas de correlación en QRadar para reducir falsos positivos y mapeo las tácticas con MITRE ATT&CK.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m05_l02_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¡Qué bien! ¿Y habéis implementado alguna automatización con herramientas SOAR?»</strong></p><p><em>(Que ótimo! E vocês implementaram alguma automação com ferramentas SOAR?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¡Qué bien! ¿Y habéis implementado alguna automatización con herramientas SOAR?",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Sí, automatizo playbooks en IBM Resilient para enriquecer alertas con datos de geolocalización e inteligencia de amenazas, reduciendo el tiempo medio de respuesta.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "9c3adecc-db89-5842-9441-12f2676c2f88",
+          "textContent": "Sí, automatizo playbooks en IBM Resilient para enriquecer alertas con datos de geolocalización e inteligencia de amenazas, reduciendo el tiempo medio de respuesta.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9a2b6f3b-9c1f-5473-8c50-c2a4f29d7f5e",
+          "textContent": "Además del triaje y escalado a nivel dos y tres, ajusto reglas de correlación en QRadar para reducir falsos positivos y mapeo las tácticas con MITRE ATT&CK.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2bee58f4-6f3b-542d-89dd-d197bd69afa4",
+          "textContent": "En mi puesto actual realizo monitorización continua en IBM QRadar y Microsoft Sentinel, correlacionando registros de cortafuegos, proxies y puntos finales.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "03753b5b-95ff-5160-be33-6c06698b901e",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "28d82c3e-ee85-5bdf-a77b-6b8f802e8c2a",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6cdd5943-ebb9-58dc-b755-2d2998d618bb",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Desarrollo y ajusto reglas de correlación en QRadar y creo paneles personalizados para optimizar la detección y reducir los falsos _____.</strong></p><p>Tradução: Desenvolvo e ajusto regras de correlação no QRadar e crio dashboards personalizados para otimizar a detecção e reduzir os falsos positivos.</p>",
+      "contentPlain": "Desarrollo y ajusto reglas de correlación en QRadar y creo paneles personalizados para optimizar la detección y reducir los falsos _____. Tradução: Desenvolvo e ajusto regras de correlação no QRadar e crio dashboards personalizados para otimizar a detecção e reduzir os falsos positivos.",
+      "fileUrl": "https://talk2me.local/content/ti_m05_l02_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «positivos» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «positivos».",
+      "answerType": "buildWord",
+      "expectedAnswer": "positivos",
+      "typeSpecificData": "{\"word\": \"positivos\", \"translation\": \"Desenvolvo e ajusto regras de correlação no QRadar e crio dashboards personalizados para otimizar a detecção e reduzir os falsos positivos.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "68fe3e0f-e017-5597-834b-c1f606c71225",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "730ef7ba-3eac-5741-831c-d39f06f8e965",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "d6481aee-386e-5d31-9506-2d64be0d05eb",
+          "leftContent": "No meu cargo atual realizo monitoramento contínuo no IBM QRadar e Microsoft Sentinel, correlacionando logs de firewalls, proxies e endpoints.",
+          "rightContent": "En mi puesto actual realizo monitorización continua en IBM QRadar y Microsoft Sentinel, correlacionando registros de cortafuegos, proxies y puntos finales.",
+          "sequenceItem": 1,
+          "exerciseId": "68fe3e0f-e017-5597-834b-c1f606c71225"
+        },
+        {
+          "id": "8de36821-f0c0-5430-90c2-1ab5ff06474b",
+          "leftContent": "Desenvolvo e ajusto regras de correlação no QRadar e crio dashboards personalizados para otimizar a detecção e reduzir os falsos positivos.",
+          "rightContent": "Desarrollo y ajusto reglas de correlación en QRadar y creo paneles personalizados para optimizar la detección y reducir los falsos positivos.",
+          "sequenceItem": 2,
+          "exerciseId": "68fe3e0f-e017-5597-834b-c1f606c71225"
+        },
+        {
+          "id": "a051bbf4-ae4b-5c92-9f6d-61c133fe28c3",
+          "leftContent": "Além disso, automatizo playbooks no IBM Resilient para enriquecer indicadores com Threat Intelligence e acelerar a contenção.",
+          "rightContent": "Además, automatizo flujos de respuesta en IBM Resilient para enriquecer indicadores con inteligencia de amenazas y acelerar la contención.",
+          "sequenceItem": 3,
+          "exerciseId": "68fe3e0f-e017-5597-834b-c1f606c71225"
+        },
+        {
+          "id": "8376fc90-a1e2-5a56-9c28-274f31447ce9",
+          "leftContent": "Sim, automatizo playbooks no IBM Resilient para enriquecer alertas com dados de geolocalização e inteligência de ameaças, reduzindo o tempo médio de resposta.",
+          "rightContent": "Sí, automatizo playbooks en IBM Resilient para enriquecer alertas con datos de geolocalización e inteligencia de amenazas, reduciendo el tiempo medio de respuesta.",
+          "sequenceItem": 4,
+          "exerciseId": "68fe3e0f-e017-5597-834b-c1f606c71225"
+        }
+      ]
+    }
+  ],
+  "title": "Sua Rotina na iT.eam - IBM QRadar, Microsoft Sentinel e IBM Resilient"
+}

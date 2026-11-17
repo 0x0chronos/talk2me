@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+    "attemptId": "7d7fd89a-420d-5ef7-af0d-6e58a642748e",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "b35ed933-6977-506d-97b6-cc5323d53768",
+      "5ae120c6-7d9e-584d-940e-918aea8d9cbe",
+      "d9842a7f-964c-5812-940e-125158bd6e40",
+      "0b86dc9f-a2fe-5312-bff9-ba0b8fceef3e"
+    ],
+    "practiceExerciseIds": [
+      "c2efce19-edd2-595d-ac8a-43cec58066f0",
+      "04d8f3d6-fbd0-598e-af64-b9669a3cc062",
+      "6c5e3e76-e5ec-55f5-ba8d-009db21d55de",
+      "aafe1875-4300-5de6-a62d-0af5472124ae",
+      "8714e3ca-368b-57b1-b258-98bb7fa0d890"
+    ],
+    "evaluationExerciseIds": [
+      "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+      "208f81e7-ce7c-53e5-a7f3-9d84f36636e9",
+      "2d456c88-1435-5fdd-b796-c6cec6603277"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "099452ba-08c0-5885-ba3e-b4a5b6f01ac0",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "0520bfda-7fde-5093-81b6-133ff14501c4",
+          "textContent": "<p>Destaca diretamente o diferencial técnico do seu currículo.</p><p><strong>Utilizo el marco MITRE ATT&CK como referencia para clasificar las tácticas, técnicas y procedimientos observados en cada incidente.</strong></p><p>Em português: <strong>Utilizo o framework MITRE ATT&CK como referência para classificar as táticas, técnicas e procedimentos (TTPs) observados em cada incidente.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m01_l03_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9f280e74-f30c-5366-a3e2-375ad412af97",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "275e3c67-5643-5c91-88e1-7ad2547ff05c",
+          "textContent": "<p>Na Espanha, *phishing* é frequentemente acompanhado do termo «suplantación de identidad».</p><p><strong>Identifico y mitigo ataques de fuerza bruta, campañas de suplantación de identidad y tentativas de escalada de privilegios.</strong></p><p>Em português: <strong>Identifico e mitigo ataques de força bruta, campanhas de phishing (suplantación de identidad) e tentativas de escalada de privilégios.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m01_l03_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "9b9e74dd-49f3-5394-86fb-de8080a8a717",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "399c0753-47ac-52e6-962a-a5c723a96524",
+          "textContent": "<p>Mostra maturidade analítica de nível N2/Threat Hunter.</p><p><strong>Al mapear la cadena de ataque completa, podemos anticipar el siguiente movimiento del adversario y aplicar controles preventivos.</strong></p><p>Em português: <strong>Ao mapear a cadeia de ataque (kill chain) completa, podemos antecipar o próximo movimento do adversário e aplicar controles preventivos.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/blue_m01_l03_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "157d2a50-419e-53a0-8052-76508e843717",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "9df553c9-68c2-56cb-9f98-6ee3cb63d885",
+          "textContent": "<p>No seu currículo você destaca o uso do <strong>MITRE ATT&amp;CK</strong> para classificar e mapear <strong>TTPs (Tácticas, Técnicas y Procedimientos)</strong>:</p><ul><li><strong>Acceso inicial (Initial Access):</strong> <em>phishing con enlace malicioso o archivo adjunto</em>.</li><li><strong>Acceso a credenciales (Credential Access):</strong> <em>ataques de fuerza bruta, pulverización de contraseñas y volcado de credenciales (credential dumping)</em>.</li><li><strong>Escalada de privilegios y Persistencia:</strong> criação de tarefas agendadas (<em>tareas programadas</em>) ou contas locais.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>suplantación de identidad</strong> — phishing / spoofing de identidade</li><li><strong>tareas programadas</strong> — scheduled tasks (persistência no sistema)</li><li><strong>volcado de credenciales</strong> — credential dumping (ex.: LSASS)</li><li><strong>cadena de ataque (kill chain)</strong> — sequência de fases do ataque cibernético</li><li><strong>Palavra-chave de escrita: «suplantación»</strong> (Identifico campañas de suplantación de identidad y ataques de fuerza bruta.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "suplantación de identidad — phishing / spoofing de identidade",
+        "tareas programadas — scheduled tasks (persistência no sistema)",
+        "volcado de credenciales — credential dumping (ex.: LSASS)",
+        "cadena de ataque (kill chain) — sequência de fases do ataque cibernético"
+      ]
+    },
+    {
+      "id": "0ee8d2c0-911d-580c-a54a-25a7308eb25d",
+      "title": "Classificando incidentes com MITRE ATT&CK na entrevista",
+      "description": "<p>Laura pergunta como você aplica o framework MITRE ATT&CK nas investigações do SOC.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Veo que utilizas MITRE ATT&CK en tu trabajo diario. ¿Cómo te ayuda este marco durante la investigación de un incidente?</div>\n  <div style=\"opacity: 0.55;\">Vejo que você utiliza o MITRE ATT&CK no seu trabalho diário. Como esse framework ajuda você durante a investigação de um incidente?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l03_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Me permite clasificar qué táctica está ejecutando el atacante, por ejemplo si está en fase de acceso inicial mediante phishing o intentando escalar privilegios.</div>\n  <div style=\"opacity: 0.55;\">Permite-me classificar qual tática o atacante está executando, por exemplo se está na fase de acesso inicial via phishing ou tentando escalar privilégios.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l03_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y qué haces cuando detectas una técnica de persistencia o de acceso a credenciales en un servidor?</div>\n  <div style=\"opacity: 0.55;\">E o que você faz quando detecta uma técnica de persistência ou de acesso a credenciais em um servidor?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l03_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Busco otras técnicas asociadas al mismo grupo de amenazas, reviso tareas programadas o servicios nuevos y documento los códigos de técnica en el informe del incidente.</div>\n  <div style=\"opacity: 0.55;\">Busco outras técnicas associadas ao mesmo grupo de ameaças, reviso tarefas agendadas ou serviços novos e documento os códigos de técnica no relatório do incidente.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/blue_m01_l03_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "b35ed933-6977-506d-97b6-cc5323d53768",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Veo que utilizas MITRE ATT&CK en tu trabajo diario. ¿Cómo te ayuda este marco durante la investigación de un incidente?»</p><p><em>(Vejo que você utiliza o MITRE ATT&CK no seu trabalho diário. Como esse framework ajuda você durante a investigação de um incidente?)</em></p>",
+      "contentPlain": "Veo que utilizas MITRE ATT&CK en tu trabajo diario. ¿Cómo te ayuda este marco durante la investigación de un incidente?",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l03_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Me permite clasificar qué táctica está ejecutando el atacante, por ejemplo si está en fase de acceso inicial mediante phishing o intentando escalar privilegios.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "6947ae34-f67f-5109-884b-4f977450e63b",
+          "textContent": "Me permite clasificar qué táctica está ejecutando el atacante, por ejemplo si está en fase de acceso inicial mediante phishing o intentando escalar privilegios.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "b35ed933-6977-506d-97b6-cc5323d53768",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b241b9a3-d173-520e-8899-eadf9509ac81",
+          "textContent": "Al mapear la cadena de ataque completa, podemos anticipar el siguiente movimiento del adversario y aplicar controles preventivos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "b35ed933-6977-506d-97b6-cc5323d53768",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "a2a25018-4b21-55b7-b919-ef1d374a4cee",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "b35ed933-6977-506d-97b6-cc5323d53768",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1236ac44-b0a3-5b50-9f26-c59bd287f610",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "b35ed933-6977-506d-97b6-cc5323d53768",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5ae120c6-7d9e-584d-940e-918aea8d9cbe",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Utilizo el marco MITRE ATT&CK como referencia para clasificar las tácticas, técnicas y procedimientos observados en cada incidente.</strong></p>",
+      "contentPlain": "Utilizo el marco MITRE ATT&CK como referencia para clasificar las tácticas, técnicas y procedimientos observados en cada incidente.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l03_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Utilizo o framework MITRE ATT&CK como referência para classificar as táticas, técnicas e procedimentos (TTPs) observados em cada incidente.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "d979a16b-c92a-5e15-af16-609b8cd9b683",
+          "textContent": "Utilizo o framework MITRE ATT&CK como referência para classificar as táticas, técnicas e procedimentos (TTPs) observados em cada incidente.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "5ae120c6-7d9e-584d-940e-918aea8d9cbe",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "00ad51d7-bbe7-5d33-996c-3f3543397706",
+          "textContent": "Identifico e mitigo ataques de força bruta, campanhas de phishing (suplantación de identidad) e tentativas de escalada de privilégios.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "5ae120c6-7d9e-584d-940e-918aea8d9cbe",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2f279d53-91ac-5833-8e14-019e705ea80f",
+          "textContent": "Ao mapear a cadeia de ataque (kill chain) completa, podemos antecipar o próximo movimento do adversário e aplicar controles preventivos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "5ae120c6-7d9e-584d-940e-918aea8d9cbe",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "eaf4dce2-c39b-5302-948e-d2e66620136b",
+          "textContent": "Vejo que você utiliza o MITRE ATT&CK no seu trabalho diário. Como esse framework ajuda você durante a investigação de um incidente?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "5ae120c6-7d9e-584d-940e-918aea8d9cbe",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "d9842a7f-964c-5812-940e-125158bd6e40",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "4f2ebd46-823d-5a21-81b4-0d9b523941a1",
+          "leftContent": "suplantación de identidad",
+          "rightContent": "phishing / spoofing de identidade",
+          "sequenceItem": 1,
+          "exerciseId": "d9842a7f-964c-5812-940e-125158bd6e40"
+        },
+        {
+          "id": "a503b807-ee6e-5d9e-b5cb-3b1151982da8",
+          "leftContent": "tareas programadas",
+          "rightContent": "scheduled tasks (persistência no sistema)",
+          "sequenceItem": 2,
+          "exerciseId": "d9842a7f-964c-5812-940e-125158bd6e40"
+        },
+        {
+          "id": "67a2f5fb-5701-55b2-a01f-e353ffca3b5e",
+          "leftContent": "volcado de credenciales",
+          "rightContent": "credential dumping (ex.: LSASS)",
+          "sequenceItem": 3,
+          "exerciseId": "d9842a7f-964c-5812-940e-125158bd6e40"
+        },
+        {
+          "id": "18751e0c-1c10-57b2-98e4-f222086b2fba",
+          "leftContent": "cadena de ataque (kill chain)",
+          "rightContent": "sequência de fases do ataque cibernético",
+          "sequenceItem": 4,
+          "exerciseId": "d9842a7f-964c-5812-940e-125158bd6e40"
+        }
+      ]
+    },
+    {
+      "id": "0b86dc9f-a2fe-5312-bff9-ba0b8fceef3e",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "d87f76ed-a789-538f-8102-8de63c6fa6b8",
+          "leftContent": "https://talk2me.local/content/blue_m01_l03_c1.mp3",
+          "rightContent": "Utilizo el marco MITRE ATT&CK como referencia para clasificar las tácticas, técnicas y procedimientos observados en cada incidente.",
+          "sequenceItem": 1,
+          "exerciseId": "0b86dc9f-a2fe-5312-bff9-ba0b8fceef3e"
+        },
+        {
+          "id": "45c4389f-10f9-5973-9c2f-d83b9bc7c132",
+          "leftContent": "https://talk2me.local/content/blue_m01_l03_c2.mp3",
+          "rightContent": "Identifico y mitigo ataques de fuerza bruta, campañas de suplantación de identidad y tentativas de escalada de privilegios.",
+          "sequenceItem": 2,
+          "exerciseId": "0b86dc9f-a2fe-5312-bff9-ba0b8fceef3e"
+        },
+        {
+          "id": "2ffea889-b2b3-5c40-ab69-8efac545bc1e",
+          "leftContent": "https://talk2me.local/content/blue_m01_l03_c3.mp3",
+          "rightContent": "Al mapear la cadena de ataque completa, podemos anticipar el siguiente movimiento del adversario y aplicar controles preventivos.",
+          "sequenceItem": 3,
+          "exerciseId": "0b86dc9f-a2fe-5312-bff9-ba0b8fceef3e"
+        },
+        {
+          "id": "21617548-fc4b-5439-b67a-e727bca10f45",
+          "leftContent": "https://talk2me.local/content/blue_m01_l03_d2.mp3",
+          "rightContent": "Me permite clasificar qué táctica está ejecutando el atacante, por ejemplo si está en fase de acceso inicial mediante phishing o intentando escalar privilegios.",
+          "sequenceItem": 4,
+          "exerciseId": "0b86dc9f-a2fe-5312-bff9-ba0b8fceef3e"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "c2efce19-edd2-595d-ac8a-43cec58066f0",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «phishing / falsificação de identidade» e «tarefas agendadas (scheduled tasks)» em espanhol da Espanha?</p>",
+      "contentPlain": "Como se diz «phishing / falsificação de identidade» e «tarefas agendadas (scheduled tasks)» em espanhol da Espanha?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+      "feedbackError": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "e76a82da-390c-5228-a693-a10aaff76f25",
+          "textContent": "Suplantación de identidad (phishing) y tareas programadas.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "c2efce19-edd2-595d-ac8a-43cec58066f0",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3891b886-0cd9-5497-9890-8517a1c116d8",
+          "textContent": "Pesca de usuarios y trabajos de reloj.",
+          "isCorrect": false,
+          "incorrectReason": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+          "exerciseId": "c2efce19-edd2-595d-ac8a-43cec58066f0",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "921cce8d-b0aa-5ed1-8356-31d5d24522a0",
+          "textContent": "Robo de nombres y agendas de sistema.",
+          "isCorrect": false,
+          "incorrectReason": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+          "exerciseId": "c2efce19-edd2-595d-ac8a-43cec58066f0",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "75d0636b-c849-577f-aee8-904cc5458656",
+          "textContent": "Falsificación de red y listas de tiempo.",
+          "isCorrect": false,
+          "incorrectReason": "«Suplantación de identidad» (para phishing/spoofing) e «tareas programadas» (scheduled tasks) são termos indispensáveis em Blue Team na Espanha.",
+          "exerciseId": "c2efce19-edd2-595d-ac8a-43cec58066f0",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "04d8f3d6-fbd0-598e-af64-b9669a3cc062",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "69127013-aab9-55af-acef-1a2eb3500f5b",
+          "leftContent": "https://talk2me.local/content/blue_m01_l03_d1.mp3",
+          "rightContent": "Vejo que você utiliza o MITRE ATT&CK no seu trabalho diário. Como esse framework ajuda você durante a investigação de um incidente?",
+          "sequenceItem": 1,
+          "exerciseId": "04d8f3d6-fbd0-598e-af64-b9669a3cc062"
+        },
+        {
+          "id": "c120c042-240b-5df7-ac77-d60b8344368c",
+          "leftContent": "https://talk2me.local/content/blue_m01_l03_d2.mp3",
+          "rightContent": "Permite-me classificar qual tática o atacante está executando, por exemplo se está na fase de acesso inicial via phishing ou tentando escalar privilégios.",
+          "sequenceItem": 2,
+          "exerciseId": "04d8f3d6-fbd0-598e-af64-b9669a3cc062"
+        },
+        {
+          "id": "3bb85d35-e7c4-59a8-b0b7-ade263564a5c",
+          "leftContent": "https://talk2me.local/content/blue_m01_l03_d3.mp3",
+          "rightContent": "E o que você faz quando detecta uma técnica de persistência ou de acesso a credenciais em um servidor?",
+          "sequenceItem": 3,
+          "exerciseId": "04d8f3d6-fbd0-598e-af64-b9669a3cc062"
+        },
+        {
+          "id": "5dfc7b7c-1e2d-5b8a-8bed-87f8e26eedd3",
+          "leftContent": "https://talk2me.local/content/blue_m01_l03_d4.mp3",
+          "rightContent": "Busco outras técnicas associadas ao mesmo grupo de ameaças, reviso tarefas agendadas ou serviços novos e documento os códigos de técnica no relatório do incidente.",
+          "sequenceItem": 4,
+          "exerciseId": "04d8f3d6-fbd0-598e-af64-b9669a3cc062"
+        }
+      ]
+    },
+    {
+      "id": "6c5e3e76-e5ec-55f5-ba8d-009db21d55de",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Identifico campañas de _____ de identidad y ataques de fuerza bruta.</strong></p><p>Tradução: Identifico campanhas de falsificação de identidade (phishing) e ataques de força bruta.</p>",
+      "contentPlain": "Identifico campañas de _____ de identidad y ataques de fuerza bruta. Tradução: Identifico campanhas de falsificação de identidade (phishing) e ataques de força bruta.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l03_spk.mp3",
+      "feedbackSuccess": "Correto! «suplantación» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «suplantación».",
+      "answerType": "buildWord",
+      "expectedAnswer": "suplantación",
+      "typeSpecificData": "{\"word\": \"suplantación\", \"translation\": \"Identifico campanhas de falsificação de identidade (phishing) e ataques de força bruta.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "aafe1875-4300-5de6-a62d-0af5472124ae",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l03_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Utilizo el marco MITRE para clasificar las tácticas y técnicas del atacante en cada incidente.",
+      "typeSpecificData": "{\"expectedText\": \"Utilizo el marco MITRE para clasificar las tácticas y técnicas del atacante en cada incidente.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m01_l03_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "8714e3ca-368b-57b1-b258-98bb7fa0d890",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Veo que utilizas MITRE ATT&CK en tu trabajo diario. ¿Cómo te ayuda este marco durante la investigación de un incidente?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Me permite clasificar qué táctica está ejecutando el atacante, por ejemplo si está en fase de acceso inicial mediante phishing o intentando escalar privilegios.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l03_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Me permite clasificar qué táctica está ejecutando el atacante, por ejemplo si está en fase de acceso inicial mediante phishing o intentando escalar privilegios.",
+      "typeSpecificData": "{\"expectedText\": \"Me permite clasificar qué táctica está ejecutando el atacante, por ejemplo si está en fase de acceso inicial mediante phishing o intentando escalar privilegios.\", \"audioModelUrl\": \"https://talk2me.local/content/blue_m01_l03_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué haces cuando detectas una técnica de persistencia o de acceso a credenciales en un servidor?»</strong></p><p><em>(E o que você faz quando detecta uma técnica de persistência ou de acesso a credenciais em um servidor?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué haces cuando detectas una técnica de persistencia o de acceso a credenciales en un servidor?",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Busco otras técnicas asociadas al mismo grupo de amenazas, reviso tareas programadas o servicios nuevos y documento los códigos de técnica en el informe del incidente.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "f921aa50-2366-57e2-a86f-16e1f05dfde7",
+          "textContent": "Busco otras técnicas asociadas al mismo grupo de amenazas, reviso tareas programadas o servicios nuevos y documento los códigos de técnica en el informe del incidente.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4dfc4221-9cf9-50ed-a355-debc27d2e9d9",
+          "textContent": "Me permite clasificar qué táctica está ejecutando el atacante, por ejemplo si está en fase de acceso inicial mediante phishing o intentando escalar privilegios.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ec55e769-1033-598a-abad-d0f1e8a36042",
+          "textContent": "Utilizo el marco MITRE ATT&CK como referencia para clasificar las tácticas, técnicas y procedimientos observados en cada incidente.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9894e042-44ae-57c9-94dc-b873ebf636a7",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "948d5790-01bb-56d4-9e4d-991fb4a61f46",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "208f81e7-ce7c-53e5-a7f3-9d84f36636e9",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Identifico y mitigo ataques de fuerza bruta, campañas de suplantación de identidad y tentativas de escalada de _____.</strong></p><p>Tradução: Identifico e mitigo ataques de força bruta, campanhas de phishing (suplantación de identidad) e tentativas de escalada de privilégios.</p>",
+      "contentPlain": "Identifico y mitigo ataques de fuerza bruta, campañas de suplantación de identidad y tentativas de escalada de _____. Tradução: Identifico e mitigo ataques de força bruta, campanhas de phishing (suplantación de identidad) e tentativas de escalada de privilégios.",
+      "fileUrl": "https://talk2me.local/content/blue_m01_l03_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «privilegios» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «privilegios».",
+      "answerType": "buildWord",
+      "expectedAnswer": "privilegios",
+      "typeSpecificData": "{\"word\": \"privilegios\", \"translation\": \"Identifico e mitigo ataques de força bruta, campanhas de phishing (suplantación de identidad) e tentativas de escalada de privilégios.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "2d456c88-1435-5fdd-b796-c6cec6603277",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "8b756052-9fab-5d98-ad00-db4eed62b2e1",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "0137fe7c-745b-559e-a54a-4da1bd00f192",
+          "leftContent": "Utilizo o framework MITRE ATT&CK como referência para classificar as táticas, técnicas e procedimentos (TTPs) observados em cada incidente.",
+          "rightContent": "Utilizo el marco MITRE ATT&CK como referencia para clasificar las tácticas, técnicas y procedimientos observados en cada incidente.",
+          "sequenceItem": 1,
+          "exerciseId": "2d456c88-1435-5fdd-b796-c6cec6603277"
+        },
+        {
+          "id": "3d060851-911a-536b-8adc-aceae090e7f6",
+          "leftContent": "Identifico e mitigo ataques de força bruta, campanhas de phishing (suplantación de identidad) e tentativas de escalada de privilégios.",
+          "rightContent": "Identifico y mitigo ataques de fuerza bruta, campañas de suplantación de identidad y tentativas de escalada de privilegios.",
+          "sequenceItem": 2,
+          "exerciseId": "2d456c88-1435-5fdd-b796-c6cec6603277"
+        },
+        {
+          "id": "de5daf34-e144-5480-84d8-f3da7175ee4b",
+          "leftContent": "Ao mapear a cadeia de ataque (kill chain) completa, podemos antecipar o próximo movimento do adversário e aplicar controles preventivos.",
+          "rightContent": "Al mapear la cadena de ataque completa, podemos anticipar el siguiente movimiento del adversario y aplicar controles preventivos.",
+          "sequenceItem": 3,
+          "exerciseId": "2d456c88-1435-5fdd-b796-c6cec6603277"
+        },
+        {
+          "id": "b94c7000-d472-567d-ab38-4cedbe725786",
+          "leftContent": "Busco outras técnicas associadas ao mesmo grupo de ameaças, reviso tarefas agendadas ou serviços novos e documento os códigos de técnica no relatório do incidente.",
+          "rightContent": "Busco otras técnicas asociadas al mismo grupo de amenazas, reviso tareas programadas o servicios nuevos y documento los códigos de técnica en el informe del incidente.",
+          "sequenceItem": 4,
+          "exerciseId": "2d456c88-1435-5fdd-b796-c6cec6603277"
+        }
+      ]
+    }
+  ],
+  "title": "Mapeamento de Ataques com MITRE ATT&CK - Força Bruta, Phishing e Privilégios"
+}

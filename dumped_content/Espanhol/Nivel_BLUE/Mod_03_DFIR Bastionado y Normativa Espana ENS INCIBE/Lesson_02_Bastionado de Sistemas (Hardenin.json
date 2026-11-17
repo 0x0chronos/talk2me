@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+    "attemptId": "2ddc5d0b-7106-57f7-9caa-03f2691d02c8",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "278d4572-0931-5086-879e-34016bc312c2",
+      "aaf07983-4cbe-541a-934c-65cbd063f945",
+      "8984a934-0907-59fe-bef8-876c175a6e19",
+      "e0525077-0bdb-53e8-81f1-197a3ba3b8d2"
+    ],
+    "practiceExerciseIds": [
+      "fa49138c-f780-5a6a-8022-a922c6d5220e",
+      "8ec8c322-7da8-5b7d-9d91-157cfd363ffd",
+      "ee046435-0390-586e-ac89-29d366622c4f",
+      "5fb533b1-9f22-597e-b441-b8795519d55a",
+      "60f8714f-291e-5b0f-9bea-26912b798b2b"
+    ],
+    "evaluationExerciseIds": [
+      "6f9ef652-4de5-52af-8deb-1b044734d74e",
+      "27050d8a-b4c3-5d13-ad26-c31f94ef929b",
+      "8018955c-d398-5969-9c97-55dec36b0226"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "eac8882f-f60e-55fe-815d-05dd2992f5b9",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "fe87f119-b8c3-55e9-8c54-3698e427385b",
+          "textContent": "<p>Usar a palavra «bastionado» mostra imediatamente que você conhece o jargão de cibersegurança da Espanha (CCN-STIC).</p><p><strong>Aplicamos guías de bastionado en servidores Linux y Windows para reducir los servicios expuestos y reforzar las políticas de acceso.</strong></p><p>Em português: <strong>Aplicamos guias de hardening (bastionado) em servidores Linux e Windows para reduzir os serviços expostos e reforçar as políticas de acesso.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "df4388e8-ea17-5329-8131-d81f6ea822ae",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "08c3bcd3-1ace-59f7-afa1-51eafcf2f0b9",
+          "textContent": "<p>«Cortafuegos perimetral» e «segmentación de red» são pilares de infraestrutura segura.</p><p><strong>Configuramos reglas estrictas en el cortafuegos perimetral y segmentamos la red en distintas zonas de seguridad.</strong></p><p>Em português: <strong>Configuramos regras estritas no firewall perimetral e segmentamos a rede em diferentes zonas de segurança.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "dd621628-796b-58ec-88f3-435c927ce287",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "95328573-feae-50fd-82ed-120d01e67897",
+          "textContent": "<p>«Cifrado en reposo y en tránsito» = encryption at rest and in transit.</p><p><strong>En entornos en la nube revisamos las políticas de gestión de identidades, el cifrado en reposo y la exposición de contenedores.</strong></p><p>Em português: <strong>Em ambientes em nuvem revisamos as políticas de IAM, a criptografia em repouso e a exposição de containers/buckets.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "622b70ba-2c89-5301-9a2c-cb34f95012da",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "0f4541fc-6a6f-5ae2-a7eb-e20cea529d4c",
+          "textContent": "<p>Atenção máxima a esta palavra: na Espanha, <strong>Hardening</strong> é universalmente chamado de <strong>el bastionado de sistemas / servidores</strong>!</p><ul><li><strong>El bastionado (Hardening):</strong> desativar serviços desnecessários, aplicar <em>parches de seguridad</em> e configurar políticas restritivas.</li><li><strong>El cortafuegos (Firewall):</strong> tanto o termo em inglês quanto «cortafuegos» são usados diariamente.</li><li><strong>Segmentación de red y Zero Trust (Confianza Cero):</strong> evitar que um atacante se mova livremente na rede interna.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>el bastionado</strong> — o hardening de sistemas e servidores (termo chave na Espanha!)</li><li><strong>el cortafuegos</strong> — o firewall</li><li><strong>parches de seguridad</strong> — patches / atualizações de segurança</li><li><strong>cifrado en reposo y en tránsito</strong> — criptografia at rest e in transit</li><li><strong>Palavra-chave de escrita: «bastionado»</strong> (Aplicamos guías de bastionado en los servidores antes de pasarlos a producción.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "el bastionado — o hardening de sistemas e servidores (termo chave na Espanha!)",
+        "el cortafuegos — o firewall",
+        "parches de seguridad — patches / atualizações de segurança",
+        "cifrado en reposo y en tránsito — criptografia at rest e in transit"
+      ]
+    },
+    {
+      "id": "4e6ef265-995b-53a5-a8ba-6ced405fbadf",
+      "title": "Pergunta sobre Hardening e Arquitetura Segura",
+      "description": "<p>Laura pergunta sobre medidas preventivas em servidores e nuvem.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Qué medidas de bastionado consideras imprescindibles antes de poner un servidor en producción?</div>\n  <div style=\"opacity: 0.55;\">Quais medidas de hardening (bastionado) você considera imprescindíveis antes de colocar um servidor em produção?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Deshabilitar servicios innecesarios, aplicar los últimos parches de seguridad, exigir autenticación multifactor y restringir los puertos en el cortafuegos.</div>\n  <div style=\"opacity: 0.55;\">Desabilitar serviços desnecessários, aplicar os últimos patches de segurança, exigir autenticação multifator (MFA) e restringir as portas no firewall.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">¿Y cómo proteges los datos sensibles almacenados en la nube?</div>\n  <div style=\"opacity: 0.55;\">E como você protege os dados sensíveis armazenados na nuvem?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Aplico el principio de mínimo privilegio en los roles de identidad, bloqueo el acceso público al almacenamiento y activo el cifrado en reposo y en tránsito.</div>\n  <div style=\"opacity: 0.55;\">Aplico o princípio do privilégio mínimo nas roles de identidade, bloqueio o acesso público ao armazenamento e ativo a criptografia em repouso e em trânsito.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m03_l03_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "278d4572-0931-5086-879e-34016bc312c2",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «¿Qué medidas de bastionado consideras imprescindibles antes de poner un servidor en producción?»</p><p><em>(Quais medidas de hardening (bastionado) você considera imprescindíveis antes de colocar um servidor em produção?)</em></p>",
+      "contentPlain": "¿Qué medidas de bastionado consideras imprescindibles antes de poner un servidor en producción?",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l03_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Deshabilitar servicios innecesarios, aplicar los últimos parches de seguridad, exigir autenticación multifactor y restringir los puertos en el cortafuegos.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "e4e3736f-84d4-563f-a2b1-564cf46ae814",
+          "textContent": "Deshabilitar servicios innecesarios, aplicar los últimos parches de seguridad, exigir autenticación multifactor y restringir los puertos en el cortafuegos.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "278d4572-0931-5086-879e-34016bc312c2",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3200cfc7-63fc-54e8-91c6-7dc2b0c41992",
+          "textContent": "En entornos en la nube revisamos las políticas de gestión de identidades, el cifrado en reposo y la exposición de contenedores.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "278d4572-0931-5086-879e-34016bc312c2",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ed90a5cb-a6b4-555b-98f2-1683948ea388",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "278d4572-0931-5086-879e-34016bc312c2",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "48bc047e-4d3e-5c0d-8b18-8464d168717d",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "278d4572-0931-5086-879e-34016bc312c2",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "aaf07983-4cbe-541a-934c-65cbd063f945",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Aplicamos guías de bastionado en servidores Linux y Windows para reducir los servicios expuestos y reforzar las políticas de acceso.</strong></p>",
+      "contentPlain": "Aplicamos guías de bastionado en servidores Linux y Windows para reducir los servicios expuestos y reforzar las políticas de acceso.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l03_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Aplicamos guias de hardening (bastionado) em servidores Linux e Windows para reduzir os serviços expostos e reforçar as políticas de acesso.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "99c5de5b-d55e-595d-9763-6673e6957540",
+          "textContent": "Aplicamos guias de hardening (bastionado) em servidores Linux e Windows para reduzir os serviços expostos e reforçar as políticas de acesso.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "aaf07983-4cbe-541a-934c-65cbd063f945",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d04b2739-20d9-58c6-89e1-9be78828da32",
+          "textContent": "Configuramos regras estritas no firewall perimetral e segmentamos a rede em diferentes zonas de segurança.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "aaf07983-4cbe-541a-934c-65cbd063f945",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b90d55dc-b62d-5036-8519-53126b7b0b55",
+          "textContent": "Em ambientes em nuvem revisamos as políticas de IAM, a criptografia em repouso e a exposição de containers/buckets.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "aaf07983-4cbe-541a-934c-65cbd063f945",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8babc185-d005-50bf-874d-a6956b211a9c",
+          "textContent": "Quais medidas de hardening (bastionado) você considera imprescindíveis antes de colocar um servidor em produção?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "aaf07983-4cbe-541a-934c-65cbd063f945",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8984a934-0907-59fe-bef8-876c175a6e19",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "40cb68d3-129e-58b7-9686-595baa6b15c1",
+          "leftContent": "el bastionado",
+          "rightContent": "o hardening de sistemas e servidores (termo chave na Espanha!)",
+          "sequenceItem": 1,
+          "exerciseId": "8984a934-0907-59fe-bef8-876c175a6e19"
+        },
+        {
+          "id": "2bb00eff-444a-50fb-bbc3-0eb6c47806fc",
+          "leftContent": "el cortafuegos",
+          "rightContent": "o firewall",
+          "sequenceItem": 2,
+          "exerciseId": "8984a934-0907-59fe-bef8-876c175a6e19"
+        },
+        {
+          "id": "11c9d61c-b620-5d60-8c16-815c1355f6d7",
+          "leftContent": "parches de seguridad",
+          "rightContent": "patches / atualizações de segurança",
+          "sequenceItem": 3,
+          "exerciseId": "8984a934-0907-59fe-bef8-876c175a6e19"
+        },
+        {
+          "id": "446ad9f9-d9c8-54fe-9ce9-3a2e31983245",
+          "leftContent": "cifrado en reposo y en tránsito",
+          "rightContent": "criptografia at rest e in transit",
+          "sequenceItem": 4,
+          "exerciseId": "8984a934-0907-59fe-bef8-876c175a6e19"
+        }
+      ]
+    },
+    {
+      "id": "e0525077-0bdb-53e8-81f1-197a3ba3b8d2",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "98d96f69-eb55-56dd-b41f-8e3cf75a7d5a",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_c1.mp3",
+          "rightContent": "Aplicamos guías de bastionado en servidores Linux y Windows para reducir los servicios expuestos y reforzar las políticas de acceso.",
+          "sequenceItem": 1,
+          "exerciseId": "e0525077-0bdb-53e8-81f1-197a3ba3b8d2"
+        },
+        {
+          "id": "17b6e191-1156-5e13-b028-a3b8b0572c42",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_c2.mp3",
+          "rightContent": "Configuramos reglas estrictas en el cortafuegos perimetral y segmentamos la red en distintas zonas de seguridad.",
+          "sequenceItem": 2,
+          "exerciseId": "e0525077-0bdb-53e8-81f1-197a3ba3b8d2"
+        },
+        {
+          "id": "e3ef874b-77f3-5e9a-be97-05ab87e75b25",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_c3.mp3",
+          "rightContent": "En entornos en la nube revisamos las políticas de gestión de identidades, el cifrado en reposo y la exposición de contenedores.",
+          "sequenceItem": 3,
+          "exerciseId": "e0525077-0bdb-53e8-81f1-197a3ba3b8d2"
+        },
+        {
+          "id": "58ebf6f2-9492-555f-9b67-e33139be55ba",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_d2.mp3",
+          "rightContent": "Deshabilitar servicios innecesarios, aplicar los últimos parches de seguridad, exigir autenticación multifactor y restringir los puertos en el cortafuegos.",
+          "sequenceItem": 4,
+          "exerciseId": "e0525077-0bdb-53e8-81f1-197a3ba3b8d2"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "fa49138c-f780-5a6a-8022-a922c6d5220e",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual é o termo técnico oficial na Espanha (usado pelo CCN-CERT e pelas empresas espanholas) para «Hardening de sistemas»?</p>",
+      "contentPlain": "Qual é o termo técnico oficial na Espanha (usado pelo CCN-CERT e pelas empresas espanholas) para «Hardening de sistemas»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+      "feedbackError": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "afad48f1-4549-5ed2-a881-88d97ea48ce8",
+          "textContent": "El bastionado de sistemas.",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "fa49138c-f780-5a6a-8022-a922c6d5220e",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "22750e91-097a-504a-9f65-fd0bc682d6fb",
+          "textContent": "El endurecimiento de piedras.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+          "exerciseId": "fa49138c-f780-5a6a-8022-a922c6d5220e",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "caac5e76-2ec3-557b-9720-f178e6ce0e9f",
+          "textContent": "La blindaje de pantallas.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+          "exerciseId": "fa49138c-f780-5a6a-8022-a922c6d5220e",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "eb1b0ec5-38dc-58d3-bb25-805b63b69bbb",
+          "textContent": "El cierre de carpetas.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «bastionado» (e «guías de bastionado CCN-STIC») é o termo padrão para system hardening!",
+          "exerciseId": "fa49138c-f780-5a6a-8022-a922c6d5220e",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "8ec8c322-7da8-5b7d-9d91-157cfd363ffd",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "aaae81a6-5e6d-57e9-adba-6e40a05c5e8e",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_d1.mp3",
+          "rightContent": "Quais medidas de hardening (bastionado) você considera imprescindíveis antes de colocar um servidor em produção?",
+          "sequenceItem": 1,
+          "exerciseId": "8ec8c322-7da8-5b7d-9d91-157cfd363ffd"
+        },
+        {
+          "id": "b7e4f442-c0c0-5cab-8c52-eeeb97550365",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_d2.mp3",
+          "rightContent": "Desabilitar serviços desnecessários, aplicar os últimos patches de segurança, exigir autenticação multifator (MFA) e restringir as portas no firewall.",
+          "sequenceItem": 2,
+          "exerciseId": "8ec8c322-7da8-5b7d-9d91-157cfd363ffd"
+        },
+        {
+          "id": "1882ade6-93c4-5b6d-8b13-4d662b002c5b",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_d3.mp3",
+          "rightContent": "E como você protege os dados sensíveis armazenados na nuvem?",
+          "sequenceItem": 3,
+          "exerciseId": "8ec8c322-7da8-5b7d-9d91-157cfd363ffd"
+        },
+        {
+          "id": "79764fe7-2965-59d3-aae7-dd8e817739a4",
+          "leftContent": "https://talk2me.local/content/ti_m03_l03_d4.mp3",
+          "rightContent": "Aplico o princípio do privilégio mínimo nas roles de identidade, bloqueio o acesso público ao armazenamento e ativo a criptografia em repouso e em trânsito.",
+          "sequenceItem": 4,
+          "exerciseId": "8ec8c322-7da8-5b7d-9d91-157cfd363ffd"
+        }
+      ]
+    },
+    {
+      "id": "ee046435-0390-586e-ac89-29d366622c4f",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Aplicamos guías de _____ en los servidores antes de pasarlos a producción.</strong></p><p>Tradução: Aplicamos guias de hardening (bastionado) nos servidores antes de passá-los para produção.</p>",
+      "contentPlain": "Aplicamos guías de _____ en los servidores antes de pasarlos a producción. Tradução: Aplicamos guias de hardening (bastionado) nos servidores antes de passá-los para produção.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l03_spk.mp3",
+      "feedbackSuccess": "Correto! «bastionado» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «bastionado».",
+      "answerType": "buildWord",
+      "expectedAnswer": "bastionado",
+      "typeSpecificData": "{\"word\": \"bastionado\", \"translation\": \"Aplicamos guias de hardening (bastionado) nos servidores antes de passá-los para produção.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "5fb533b1-9f22-597e-b441-b8795519d55a",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l03_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Aplicamos medidas de bastionado y configuramos reglas estrictas en el cortafuegos.",
+      "typeSpecificData": "{\"expectedText\": \"Aplicamos medidas de bastionado y configuramos reglas estrictas en el cortafuegos.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m03_l03_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "60f8714f-291e-5b0f-9bea-26912b798b2b",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «¿Qué medidas de bastionado consideras imprescindibles antes de poner un servidor en producción?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Deshabilitar servicios innecesarios, aplicar los últimos parches de seguridad, exigir autenticación multifactor y restringir los puertos en el cortafuegos.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l03_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Deshabilitar servicios innecesarios, aplicar los últimos parches de seguridad, exigir autenticación multifactor y restringir los puertos en el cortafuegos.",
+      "typeSpecificData": "{\"expectedText\": \"Deshabilitar servicios innecesarios, aplicar los últimos parches de seguridad, exigir autenticación multifactor y restringir los puertos en el cortafuegos.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m03_l03_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "6f9ef652-4de5-52af-8deb-1b044734d74e",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cómo proteges los datos sensibles almacenados en la nube?»</strong></p><p><em>(E como você protege os dados sensíveis armazenados na nuvem?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cómo proteges los datos sensibles almacenados en la nube?",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Aplico el principio de mínimo privilegio en los roles de identidad, bloqueo el acceso público al almacenamiento y activo el cifrado en reposo y en tránsito.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "fb210911-ac60-5fa9-857f-f27e3d4966d4",
+          "textContent": "Aplico el principio de mínimo privilegio en los roles de identidad, bloqueo el acceso público al almacenamiento y activo el cifrado en reposo y en tránsito.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "6f9ef652-4de5-52af-8deb-1b044734d74e",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "56324cd3-337b-528d-b459-dbf3537646fd",
+          "textContent": "Deshabilitar servicios innecesarios, aplicar los últimos parches de seguridad, exigir autenticación multifactor y restringir los puertos en el cortafuegos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "6f9ef652-4de5-52af-8deb-1b044734d74e",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8957f997-c830-5512-96ff-0678dcf32b58",
+          "textContent": "Aplicamos guías de bastionado en servidores Linux y Windows para reducir los servicios expuestos y reforzar las políticas de acceso.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "6f9ef652-4de5-52af-8deb-1b044734d74e",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "dfd348b7-8c3c-549e-b947-bd04a32488d3",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "6f9ef652-4de5-52af-8deb-1b044734d74e",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "27050d8a-b4c3-5d13-ad26-c31f94ef929b",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>Configuramos reglas estrictas en el cortafuegos perimetral y segmentamos la red en distintas zonas de _____.</strong></p><p>Tradução: Configuramos regras estritas no firewall perimetral e segmentamos a rede em diferentes zonas de segurança.</p>",
+      "contentPlain": "Configuramos reglas estrictas en el cortafuegos perimetral y segmentamos la red en distintas zonas de _____. Tradução: Configuramos regras estritas no firewall perimetral e segmentamos a rede em diferentes zonas de segurança.",
+      "fileUrl": "https://talk2me.local/content/ti_m03_l03_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «seguridad» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «seguridad».",
+      "answerType": "buildWord",
+      "expectedAnswer": "seguridad",
+      "typeSpecificData": "{\"word\": \"seguridad\", \"translation\": \"Configuramos regras estritas no firewall perimetral e segmentamos a rede em diferentes zonas de segurança.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "8018955c-d398-5969-9c97-55dec36b0226",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "ba303476-b374-5f5a-b736-d73fbc94aa37",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "c6dd3806-5a11-5f5a-9256-121db4ec9b3c",
+          "leftContent": "Aplicamos guias de hardening (bastionado) em servidores Linux e Windows para reduzir os serviços expostos e reforçar as políticas de acesso.",
+          "rightContent": "Aplicamos guías de bastionado en servidores Linux y Windows para reducir los servicios expuestos y reforzar las políticas de acceso.",
+          "sequenceItem": 1,
+          "exerciseId": "8018955c-d398-5969-9c97-55dec36b0226"
+        },
+        {
+          "id": "c1577bd2-1527-5402-8e57-daa15f29cab7",
+          "leftContent": "Configuramos regras estritas no firewall perimetral e segmentamos a rede em diferentes zonas de segurança.",
+          "rightContent": "Configuramos reglas estrictas en el cortafuegos perimetral y segmentamos la red en distintas zonas de seguridad.",
+          "sequenceItem": 2,
+          "exerciseId": "8018955c-d398-5969-9c97-55dec36b0226"
+        },
+        {
+          "id": "2c4b1278-7b79-542c-ba7d-d3395ecbf0ac",
+          "leftContent": "Em ambientes em nuvem revisamos as políticas de IAM, a criptografia em repouso e a exposição de containers/buckets.",
+          "rightContent": "En entornos en la nube revisamos las políticas de gestión de identidades, el cifrado en reposo y la exposición de contenedores.",
+          "sequenceItem": 3,
+          "exerciseId": "8018955c-d398-5969-9c97-55dec36b0226"
+        },
+        {
+          "id": "4bfaed08-7b21-5102-8f70-cebc0f9ddabc",
+          "leftContent": "Aplico o princípio do privilégio mínimo nas roles de identidade, bloqueio o acesso público ao armazenamento e ativo a criptografia em repouso e em trânsito.",
+          "rightContent": "Aplico el principio de mínimo privilegio en los roles de identidad, bloqueo el acceso público al almacenamiento y activo el cifrado en reposo y en tránsito.",
+          "sequenceItem": 4,
+          "exerciseId": "8018955c-d398-5969-9c97-55dec36b0226"
+        }
+      ]
+    }
+  ],
+  "title": "Bastionado de Sistemas (Hardening), Cortafuegos e Segurança em Nuvem"
+}

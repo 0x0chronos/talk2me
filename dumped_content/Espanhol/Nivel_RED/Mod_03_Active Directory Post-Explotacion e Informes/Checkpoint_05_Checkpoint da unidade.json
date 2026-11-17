@@ -1,0 +1,694 @@
+{
+  "id": "d3fe526f-b92b-512e-b335-50cc0a8d870b",
+  "title": "Checkpoint: Red Team III - Active Directory, Pós-Explotação (CRTA/DCPT) e Relatórios",
+  "contents": [],
+  "learningExercises": [],
+  "practiceExercises": [],
+  "challengeExercises": [],
+  "exercises": [
+    {
+      "id": "8eacb95e-6632-5c78-9145-815573dde40e",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 1,
+      "options": [],
+      "associations": [
+        {
+          "id": "19cb8013-4930-572a-ad74-378e6b262118",
+          "leftContent": "el Directorio Activo",
+          "rightContent": "o Active Directory (AD)",
+          "sequenceItem": 1,
+          "exerciseId": "f1444498-3487-5399-b64d-774327794b4c"
+        },
+        {
+          "id": "1bae36de-0445-530b-9ee2-b8daace623b3",
+          "leftContent": "el movimiento lateral",
+          "rightContent": "a movimentação lateral na rede",
+          "sequenceItem": 2,
+          "exerciseId": "f1444498-3487-5399-b64d-774327794b4c"
+        },
+        {
+          "id": "ad2b7811-d862-5843-ac4d-b3a8bdf6cb63",
+          "leftContent": "cuentas de servicio",
+          "rightContent": "service accounts",
+          "sequenceItem": 3,
+          "exerciseId": "f1444498-3487-5399-b64d-774327794b4c"
+        },
+        {
+          "id": "6b67d888-6f92-5af7-b0c8-8e1cefcd106f",
+          "leftContent": "protocolos heredados",
+          "rightContent": "protocolos legados (legacy protocols)",
+          "sequenceItem": 4,
+          "exerciseId": "f1444498-3487-5399-b64d-774327794b4c"
+        }
+      ]
+    },
+    {
+      "id": "636b454a-ba5a-5e7c-a6bd-274779301ea5",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Legacy protocols (protocolos legados, como LLMNR/NBT-NS/SMBv1)» em espanhol?</p>",
+      "contentPlain": "Como se diz «Legacy protocols (protocolos legados, como LLMNR/NBT-NS/SMBv1)» em espanhol?",
+      "fileUrl": null,
+      "feedbackSuccess": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+      "feedbackError": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "2120e4a9-2052-5ba9-8b04-da161458305b",
+          "textContent": "Protocolos heredados (o protocolos obsoletos).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "d5909595-afc7-5deb-a17c-04a77cdd2a5f",
+          "textContent": "Protocolos viejos de fábrica.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+          "exerciseId": "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "1607185e-aefe-5156-b3b0-34457b0548f6",
+          "textContent": "Leyes antiguas de red.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+          "exerciseId": "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9d7d2d94-7664-58fa-b9e3-29c492279673",
+          "textContent": "Cables pasados de moda.",
+          "isCorrect": false,
+          "incorrectReason": "Em espanhol técnico, *legacy systems / legacy protocols* é traduzido como «sistemas heredados / protocolos heredados».",
+          "exerciseId": "22bfce38-cb8e-5a23-8424-4845fbbf5ffa",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "c12d8fb4-55ee-5ea3-9a7a-5d8a37900ef9",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué medidas recomiendas para frenar el movimiento lateral entre estaciones de trabajo?»</strong></p><p><em>(E quais medidas você recomenda para frear o movimento lateral entre estações de trabalho?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué medidas recomiendas para frenar el movimiento lateral entre estaciones de trabajo?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Recomiendo segmentar la red, aplicar contraseñas locales únicas mediante LAPS, restringir las cuentas privilegiadas y deshabilitar protocolos heredados.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "9364e9e4-3ed0-5970-bd41-aa0de6339386",
+      "sequenceItem": 3,
+      "options": [
+        {
+          "id": "420bf42c-b571-51ae-9f14-0982048b925a",
+          "textContent": "Recomiendo segmentar la red, aplicar contraseñas locales únicas mediante LAPS, restringir las cuentas privilegiadas y deshabilitar protocolos heredados.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "d53e6051-d9b1-51e8-bd98-3c551811d231",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "db9d6820-b00d-579a-8ed8-c4e88ddaf321",
+          "textContent": "Empiezo enumerando usuarios, grupos y políticas de dominio, y busco cuentas de servicio vulnerables a Kerberoasting o permisos excesivos.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "d53e6051-d9b1-51e8-bd98-3c551811d231",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "ef954d33-cd92-56bb-88da-51727fcd2f80",
+          "textContent": "Una vez obtenido el acceso inicial en la red interna, enumero los permisos del Directorio Activo para identificar rutas de escalada de privilegios.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "d53e6051-d9b1-51e8-bd98-3c551811d231",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "41b17108-6aeb-53e6-9297-10f830d5fb2b",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "d53e6051-d9b1-51e8-bd98-3c551811d231",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "44653f39-f842-5e56-8dfb-b2aa729d569c",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "c633ac9b-4dd1-53eb-9cb1-649ba6f90e5d",
+          "leftContent": "prueba de concepto (PoC)",
+          "rightContent": "evidência controlada que demonstra a vulnerabilidade",
+          "sequenceItem": 1,
+          "exerciseId": "4012f9e3-cc63-51c6-ae67-3132cdaff327"
+        },
+        {
+          "id": "2b564990-e589-5992-b5ac-fec321f42227",
+          "leftContent": "denegación de servicio (DoS)",
+          "rightContent": "indisponibilidade do sistema (deve ser evitada em produção)",
+          "sequenceItem": 2,
+          "exerciseId": "4012f9e3-cc63-51c6-ae67-3132cdaff327"
+        },
+        {
+          "id": "0ad25f1e-6025-50bf-a602-237523495672",
+          "leftContent": "redirección de puertos y tunelización",
+          "rightContent": "port forwarding e pivoting para alcançar sub-redes internas",
+          "sequenceItem": 3,
+          "exerciseId": "4012f9e3-cc63-51c6-ae67-3132cdaff327"
+        },
+        {
+          "id": "02575cb8-f44b-5b20-a1db-8d4efbb99479",
+          "leftContent": "entornos realistas de laboratorio",
+          "rightContent": "ambientes práticos do Hack The Box e TryHackMe",
+          "sequenceItem": 4,
+          "exerciseId": "4012f9e3-cc63-51c6-ae67-3132cdaff327"
+        }
+      ]
+    },
+    {
+      "id": "78063896-2fd3-5404-ac74-fb9b17a0c099",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Como se diz «Proof of Concept (PoC)», «Denial of Service (DoS)» e «Port forwarding / Pivoting» em espanhol técnico?</p>",
+      "contentPlain": "Como se diz «Proof of Concept (PoC)», «Denial of Service (DoS)» e «Port forwarding / Pivoting» em espanhol técnico?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+      "feedbackError": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 5,
+      "options": [
+        {
+          "id": "db01e9a8-8ae3-560a-a634-f34a3e31c4fd",
+          "textContent": "Prueba de concepto, denegación de servicio y redirección de puertos (o tunelización).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "77ba0d5e-e573-5501-8b23-26916795d4ac",
+          "textContent": "Intento de idea, caída de luz y salto de cables.",
+          "isCorrect": false,
+          "incorrectReason": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+          "exerciseId": "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "55688572-b757-5e0a-bb11-cfc11bd87a36",
+          "textContent": "Muestra de fallo, bloqueo de pantalla y cambio de puerta.",
+          "isCorrect": false,
+          "incorrectReason": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+          "exerciseId": "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "4f169a95-9134-5d4c-b974-50a0bf77f157",
+          "textContent": "Examen de código, corte de internet y puente de hierro.",
+          "isCorrect": false,
+          "incorrectReason": "«Prueba de concepto (PoC)», «denegación de servicio (DoS)» e «redirección de puertos / tunelización» são termos essenciais de exploração.",
+          "exerciseId": "98d499b2-4d83-54d8-8c95-558e3c9e5bd0",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "994f8569-63d0-5fee-9dcc-4d16b7b42816",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¡Muy prudente! ¿Y qué te aporta entrenar en plataformas como Hack The Box y TryHackMe?»</strong></p><p><em>(Muito prudente! E o que treinar em plataformas como Hack The Box e TryHackMe agrega para você?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¡Muy prudente! ¿Y qué te aporta entrenar en plataformas como Hack The Box y TryHackMe?",
+      "fileUrl": "https://talk2me.local/content/red_m03_l02_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Me permite practicar técnicas avanzadas de evasión, tunelización hacia subredes internas y análisis defensivo en escenarios realistas que aplico directamente en mi trabajo.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "7809ee00-cb30-5a9a-8195-a210eb23cc5a",
+      "sequenceItem": 6,
+      "options": [
+        {
+          "id": "da4cb840-e5d3-508a-a93d-fb9b804a5c92",
+          "textContent": "Me permite practicar técnicas avanzadas de evasión, tunelización hacia subredes internas y análisis defensivo en escenarios realistas que aplico directamente en mi trabajo.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "28ae4694-45af-5c27-ae29-ad410b3b9804",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7256dacb-b551-5e72-bf20-7f6221f8299a",
+          "textContent": "Reviso siempre el código de la prueba de concepto antes de ejecutarla y evito exploits que puedan provocar una denegación de servicio o corromper la memoria del servidor.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "28ae4694-45af-5c27-ae29-ad410b3b9804",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "44ebd21d-6b86-5c6e-8fe0-6e31aea0301e",
+          "textContent": "Utilizo Metasploit y pruebas de concepto personalizadas para validar vulnerabilidades de forma controlada sin comprometer la estabilidad del entorno.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "28ae4694-45af-5c27-ae29-ad410b3b9804",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "24dd6dec-6f2d-5059-9590-397d59c8d2a0",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "28ae4694-45af-5c27-ae29-ad410b3b9804",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "dc49251f-47ea-5126-9edf-abd501db4af2",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 7,
+      "options": [],
+      "associations": [
+        {
+          "id": "9ad3c43f-6dc8-5c5e-8fd1-9b283f6333f3",
+          "leftContent": "los hallazgos",
+          "rightContent": "os achados / findings da auditoria",
+          "sequenceItem": 1,
+          "exerciseId": "2f64236f-3f9d-53a9-8379-e068962daed0"
+        },
+        {
+          "id": "5e9ca06d-29e9-543c-b2e9-ca720148fbf3",
+          "leftContent": "el resumen ejecutivo",
+          "rightContent": "o sumário executivo (para a diretoria)",
+          "sequenceItem": 2,
+          "exerciseId": "2f64236f-3f9d-53a9-8379-e068962daed0"
+        },
+        {
+          "id": "ed92821d-3422-510d-a17c-644d5cb58029",
+          "leftContent": "la prueba de concepto (PoC)",
+          "rightContent": "a prova de conceito",
+          "sequenceItem": 3,
+          "exerciseId": "2f64236f-3f9d-53a9-8379-e068962daed0"
+        },
+        {
+          "id": "32151906-cae1-524a-814b-0a1641a6a867",
+          "leftContent": "el despliegue del parche",
+          "rightContent": "o deploy do patch / correção",
+          "sequenceItem": 4,
+          "exerciseId": "2f64236f-3f9d-53a9-8379-e068962daed0"
+        }
+      ]
+    },
+    {
+      "id": "ac1d9daa-2e09-5f38-b059-80fac0fd560b",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Qual palavra em espanhol é usada em 100% dos relatórios de auditoria e pentest na Espanha para traduzir «Findings (achados / vulnerabilidades encontradas)»?</p>",
+      "contentPlain": "Qual palavra em espanhol é usada em 100% dos relatórios de auditoria e pentest na Espanha para traduzir «Findings (achados / vulnerabilidades encontradas)»?",
+      "fileUrl": null,
+      "feedbackSuccess": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+      "feedbackError": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 8,
+      "options": [
+        {
+          "id": "6fd6a7d0-cdae-5437-9172-894d8df50da6",
+          "textContent": "Los hallazgos (ex.: «hallazgos críticos y de severidad alta»).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "d80805ef-3047-51ee-a225-94b797035d4a",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "bfd077fb-1dca-5a58-b4dd-37028272a083",
+          "textContent": "Los encuentros casuales.",
+          "isCorrect": false,
+          "incorrectReason": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+          "exerciseId": "d80805ef-3047-51ee-a225-94b797035d4a",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e967264d-5417-58b8-873d-844823df66b2",
+          "textContent": "Las búsquedas perdidas.",
+          "isCorrect": false,
+          "incorrectReason": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+          "exerciseId": "d80805ef-3047-51ee-a225-94b797035d4a",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "313e7475-c10c-5723-a2be-84ee0877cd72",
+          "textContent": "Los trofeos de red.",
+          "isCorrect": false,
+          "incorrectReason": "«Los hallazgos» é uma das palavras mais importantes de todo o vocabulário de cibersegurança em espanhol!",
+          "exerciseId": "d80805ef-3047-51ee-a225-94b797035d4a",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "344c9b5a-9808-54bc-8ebd-74e7e3af4733",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y qué haces si el equipo técnico tiene dudas sobre cómo reproducir o corregir un hallazgo?»</strong></p><p><em>(E o que você faz se a equipe técnica tiver dúvidas sobre como reproduzir ou corrigir um achado?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y qué haces si el equipo técnico tiene dudas sobre cómo reproducir o corregir un hallazgo?",
+      "fileUrl": "https://talk2me.local/content/ti_m02_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Organizo una sesión conjunta con los desarrolladores para revisar la prueba de concepto y luego ejecuto la reauditoría tras el despliegue del parche.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "1f055f2c-3186-59c5-b637-e5d636f88540",
+      "sequenceItem": 9,
+      "options": [
+        {
+          "id": "5af808ab-db8e-5d45-b4c5-bca1e895702a",
+          "textContent": "Organizo una sesión conjunta con los desarrolladores para revisar la prueba de concepto y luego ejecuto la reauditoría tras el despliegue del parche.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "b591d1f4-682c-51ce-8ebe-be46fee52396",
+          "textContent": "Divido el documento en un resumen ejecutivo para la dirección, centrado en el impacto de negocio, y un desglose técnico con evidencias y remediación.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2cd0918b-d9dd-590d-8f03-73748d8d54c0",
+          "textContent": "Al finalizar la auditoría redacto un informe con un resumen ejecutivo orientado al riesgo de negocio y un anexo técnico con los pasos de reproducción.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7375fce1-fe29-57fc-93ac-d068f0c6ead3",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "1a4418d7-4aec-597c-93a1-caef4ce209d5",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "fb9966e2-eaa8-53db-a4eb-80d2747cdc0d",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 10,
+      "options": [],
+      "associations": [
+        {
+          "id": "59a7041e-8019-5146-b8e1-b209e1a5cc3f",
+          "leftContent": "ejercicio de Purple Team",
+          "rightContent": "simulação colaborativa entre ataque (Red) e defesa (Blue)",
+          "sequenceItem": 1,
+          "exerciseId": "cda010f6-2c07-5fd5-b2b9-136e3871f15b"
+        },
+        {
+          "id": "2e1ba49b-6076-55b2-8e59-f137de9f9151",
+          "leftContent": "casos de uso del SIEM",
+          "rightContent": "regras e cenários de detecção configurados no QRadar/Sentinel",
+          "sequenceItem": 2,
+          "exerciseId": "cda010f6-2c07-5fd5-b2b9-136e3871f15b"
+        },
+        {
+          "id": "51e07d05-cb6b-57ec-89ea-057f42b4a2f8",
+          "leftContent": "evadir la monitorización",
+          "rightContent": "passar pelos controles sem gerar alerta (bypass de detecção)",
+          "sequenceItem": 3,
+          "exerciseId": "cda010f6-2c07-5fd5-b2b9-136e3871f15b"
+        },
+        {
+          "id": "eeabe66b-041c-5f4e-894c-ecb1aeb5d10c",
+          "leftContent": "artefactos de la intrusión",
+          "rightContent": "rastros deixados em logs, memória, registro ou sistema de arquivos",
+          "sequenceItem": 4,
+          "exerciseId": "cda010f6-2c07-5fd5-b2b9-136e3871f15b"
+        }
+      ]
+    },
+    {
+      "id": "8c467b5c-f8ba-5d60-9c62-c68afab3103f",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Nos SOCs e consultorias da Espanha, o que significa a expressão «desarrollar nuevos casos de uso en el SIEM»?</p>",
+      "contentPlain": "Nos SOCs e consultorias da Espanha, o que significa a expressão «desarrollar nuevos casos de uso en el SIEM»?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+      "feedbackError": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 11,
+      "options": [
+        {
+          "id": "ae154f13-b285-5ff3-8f8d-6a0657220eda",
+          "textContent": "Criar e configurar novas regras/cenários de correlação e detecção de ameaças no SIEM (QRadar / Sentinel).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "c8df467a-db01-588a-b632-fe16bf41aee2",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f6bfa646-ee82-5847-b2f7-c65a24851859",
+          "textContent": "Escrever contratos comerciais de venda de licenças.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+          "exerciseId": "c8df467a-db01-588a-b632-fe16bf41aee2",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3f3d8b2c-0a42-5b35-8c19-15f1e2cc33e9",
+          "textContent": "Trocar o gabinete físico dos computadores dos analistas.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+          "exerciseId": "c8df467a-db01-588a-b632-fe16bf41aee2",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9f345537-904b-51e6-a715-539201130a6f",
+          "textContent": "Desinstalar os agentes de endpoint das máquinas.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, «casos de uso del SIEM (SIEM use cases)» é o termo padrão para regras e cenários de detecção!",
+          "exerciseId": "c8df467a-db01-588a-b632-fe16bf41aee2",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "da94d58d-29e4-506f-844b-31b27e0417e5",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«¿Y cuando estás analizando alertas en el centro de operaciones de seguridad?»</strong></p><p><em>(E quando você está analisando alertas no centro de operações de segurança (SOC)?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "¿Y cuando estás analizando alertas en el centro de operaciones de seguridad?",
+      "fileUrl": "https://talk2me.local/content/red_m03_l04_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Reconozco de inmediato las cargas útiles de herramientas como Burp Suite, Nmap o Metasploit en los registros y traduzco cada técnica ofensiva en nuevos casos de uso para el SIEM.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "e519f3b2-01e0-5ca1-8f4a-8055fc8c1b42",
+      "sequenceItem": 12,
+      "options": [
+        {
+          "id": "1bf6dd31-b58c-5a05-a9d3-7b5e950cfbff",
+          "textContent": "Reconozco de inmediato las cargas útiles de herramientas como Burp Suite, Nmap o Metasploit en los registros y traduzco cada técnica ofensiva en nuevos casos de uso para el SIEM.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "8896f468-487c-520f-aafb-e57db3d7c7f0",
+          "textContent": "Cuando estoy en el lado ofensivo, sé qué controles y reglas del SIEM monitorean la red, lo que me ayuda a diseñar pruebas más realistas.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "e7cba9b8-28ed-5a1a-854b-1b1b40434c5c",
+          "textContent": "Mi experiencia en pentesting me permite entender exactamente qué artefactos y registros deja un atacante en cada fase de la intrusión.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2b81e08e-b3b7-528a-9e00-098ee4eaab8a",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "ef9f4a7e-1e4c-5650-8494-7f67e7fe8eb9",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "session": {
+    "userLanguageId": "2a990eb0-b9e3-5625-a888-ec105e8baf0d",
+    "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+    "attemptId": "37d5e0fa-cbdf-5a8d-95fc-6dfd065a503a",
+    "currentStepSequence": 1,
+    "currentContentIndex": 0,
+    "currentExerciseIndex": 0,
+    "learningExerciseIds": [
+      "96a81392-7c74-53c0-ab65-5ba545fca172",
+      "5ca34e7b-994a-550e-99b1-0d99a3a15c1c",
+      "5c774fdf-85b5-5cea-b0e8-6320bc7189da",
+      "85ff515c-bc92-5669-90bf-4b96e35ffa46"
+    ],
+    "practiceExerciseIds": [
+      "9a358790-c723-528c-979b-49955ba6d79a",
+      "f03ad880-ca68-586c-8c3e-044e3ecbbd7d",
+      "a9d4ef8f-c217-57fc-b0dd-a51b8fc7008c",
+      "ba53b9a4-ec1d-5e71-8529-5e14f5466cf4",
+      "8ce12f78-56e9-5819-b5ca-38027603dd76"
+    ],
+    "evaluationExerciseIds": [
+      "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+      "6ea91379-5617-5234-b02c-135c32173f06",
+      "03bc5464-8072-5dba-a4c5-7043f313a18e"
+    ],
+    "learningAnswers": [],
+    "practiceAnswers": [],
+    "evaluationAnswers": [],
+    "startedAt": "2026-11-16T18:00:00Z"
+  },
+  "contents": [
+    {
+      "id": "73e7cfc1-bf7d-5d99-bd13-000a08fb604c",
+      "title": "Expressão Chave 1 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 1,
+      "items": [
+        {
+          "id": "955919af-b4ae-5e35-bdd7-312a458c1323",
+          "textContent": "<p>Estrutura clássica e limpa para falar na *daily* em espanhol.</p><p><strong>Ayer terminé la revisión de seguridad de la interfaz de programación y hoy voy a validar las nuevas reglas del cortafuegos.</strong></p><p>Em português: <strong>Ontem terminei a revisão de segurança da API e hoje vou validar as novas regras do firewall.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l03_c1.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "e2572ea2-04e7-5552-a4f5-46cc2c5afb9d",
+      "title": "Expressão Chave 2 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 2,
+      "items": [
+        {
+          "id": "79b1b108-2d30-52a8-b75a-bf4a894f88b7",
+          "textContent": "<p>«De momento no tengo ningún bloqueo» é exatamente como os profissionais espanhóis falam na daily.</p><p><strong>De momento no tengo ningún bloqueo, pero necesito coordinar una ventana de pruebas con el equipo de infraestructura.</strong></p><p>Em português: <strong>No momento não tenho nenhum bloqueio (impedimento), mas preciso coordenar uma janela de testes com a equipe de infraestrutura.</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l03_c2.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "14f834ab-b7ee-5d9e-9ee9-5ef90946ae26",
+      "title": "Expressão Chave 3 de 3 — Escute e pratique em contexto real",
+      "description": null,
+      "contentType": 6,
+      "sequenceItem": 3,
+      "items": [
+        {
+          "id": "4e3ee11f-bdcf-5f02-90d5-7f998cd1950d",
+          "textContent": "<p>Excelente frase para demonstrar maturidade em DevSecOps.</p><p><strong>Hemos integrado análisis estático y escaneo de dependencias directamente en el flujo de integración continua.</strong></p><p>Em português: <strong>Integramos análise estática (SAST) e varredura de dependências diretamente no fluxo de integração contínua (CI/CD).</strong></p>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": "https://talk2me.local/content/ti_m04_l03_c3.mp3"
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": null
+    },
+    {
+      "id": "4f878af9-47ca-5ed3-85f2-e67246017648",
+      "title": "Guia Estratégico & Glossário Técnico da Aula (Espanha)",
+      "description": null,
+      "contentType": 1,
+      "sequenceItem": 4,
+      "items": [
+        {
+          "id": "2583ab3d-c4be-5a2e-8024-79e1863f7cd5",
+          "textContent": "<p>Palavras que você vai ouvir todos os dias trabalhando em uma empresa espanhola de TI:</p><ul><li><strong>Una incidencia:</strong> um ticket/chamado ou problema em produção (ex.: <em>«abrir una incidencia en Jira»</em>).</li><li><strong>Un despliegue (desplegar):</strong> um deploy (fazer deploy).</li><li><strong>Un bloqueo:</strong> um blocker/impedimento na <em>daily</em>.</li><li><strong>La tubería de integración y entrega continua (el pipeline de CI/CD)</strong>.</li></ul><hr style='margin:14px 0;opacity:0.25'><p><strong>Vocabulário Obrigatório para Fixação nesta Aula:</strong></p><ul><li><strong>una incidencia</strong> — um ticket / chamado técnico (Jira, etc.)</li><li><strong>ningún bloqueo</strong> — nenhum impedimento / blocker na daily</li><li><strong>análisis estático</strong> — SAST (Static Application Security Testing)</li><li><strong>integración continua</strong> — CI (Continuous Integration)</li><li><strong>Palavra-chave de escrita: «incidencias»</strong> (Ayer validé la corrección y cerré las incidencias en el sistema.)</li></ul>",
+          "fileUrl": null,
+          "videoUrl": null,
+          "imageUrl": null,
+          "audioUrl": null
+        }
+      ],
+      "dialogue_bubbles": null,
+      "glossary": [
+        "una incidencia — um ticket / chamado técnico (Jira, etc.)",
+        "ningún bloqueo — nenhum impedimento / blocker na daily",
+        "análisis estático — SAST (Static Application Security Testing)",
+        "integración continua — CI (Continuous Integration)"
+      ]
+    },
+    {
+      "id": "fec8c585-d6a6-51f2-a54c-a10706b18688",
+      "title": "Participando de uma Daily em uma equipe espanhola",
+      "description": "<p>Laura coordena a reunião diária da equipe de segurança e pede sua atualização.</p>",
+      "contentType": 7,
+      "sequenceItem": 5,
+      "items": [],
+      "dialogue_bubbles": [
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Buenos días, equipo. Rony, ¿nos cuentas qué tal avanzaste ayer y en qué te enfocas hoy?</div>\n  <div style=\"opacity: 0.55;\">Bom dia, equipe. Rony, conta para nós como avançou ontem e no que vai focar hoje?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l03_d1.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Buenos días. Ayer validé la corrección de los tres hallazgos críticos y cerré las incidencias correspondientes.</div>\n  <div style=\"opacity: 0.55;\">Bom dia. Ontem validei a correção dos três achados críticos e fechei os tickets (incidencias) correspondentes.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l03_d2.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Entrevistadora (Laura)</div>\n  <div style=\"font-weight: 700;\">Genial. ¿Y qué tienes previsto para hoy? ¿Hay algún bloqueo?</div>\n  <div style=\"opacity: 0.55;\">Ótimo. E o que você tem previsto para hoje? Há algum bloqueio?</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l03_d3.mp3",
+          "translation": null
+        },
+        {
+          "text": "<div>\n  <div style=\"font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:0.65;\">Candidato (Rony)</div>\n  <div style=\"font-weight: 700;\">Hoy voy a revisar los permisos del nuevo entorno en la nube. De momento no tengo ningún bloqueo, gracias.</div>\n  <div style=\"opacity: 0.55;\">Hoje vou revisar as permissões do novo ambiente em nuvem. No momento não tenho nenhum bloqueio, obrigado.</div>\n</div>",
+          "audioUrl": "https://talk2me.local/content/ti_m04_l03_d4.mp3",
+          "translation": null
+        }
+      ],
+      "glossary": null
+    }
+  ],
+  "learningExercises": [
+    {
+      "id": "96a81392-7c74-53c0-ab65-5ba545fca172",
+      "title": "Compreensão da Entrevista: Escute a pergunta da Laura e escolha sua resposta",
+      "content": "<p><strong>Pergunta da entrevistadora:</strong> «Buenos días, equipo. Rony, ¿nos cuentas qué tal avanzaste ayer y en qué te enfocas hoy?»</p><p><em>(Bom dia, equipe. Rony, conta para nós como avançou ontem e no que vai focar hoje?)</em></p>",
+      "contentPlain": "Buenos días, equipo. Rony, ¿nos cuentas qué tal avanzaste ayer y en qué te enfocas hoy?",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l03_d1.mp3",
+      "feedbackSuccess": "Excelente compreensão auditiva! Você conectou a pergunta da entrevistadora à resposta técnica ideal.",
+      "feedbackError": "A resposta correta para essa pergunta é: «Buenos días. Ayer validé la corrección de los tres hallazgos críticos y cerré las incidencias correspondientes.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "09e3df66-ea29-5827-8da7-eaf94694a9e1",
+          "textContent": "Buenos días. Ayer validé la corrección de los tres hallazgos críticos y cerré las incidencias correspondientes.",
+          "isCorrect": true,
+          "incorrectReason": "Perfeito! Esta é a resposta técnica direta para a pergunta da entrevistadora.",
+          "exerciseId": "96a81392-7c74-53c0-ab65-5ba545fca172",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f8865bac-8a3a-5a64-91bd-9eaaa867d141",
+          "textContent": "Hemos integrado análisis estático y escaneo de dependencias directamente en el flujo de integración continua.",
+          "isCorrect": false,
+          "incorrectReason": "Esta frase pertence a outro contexto da aula; escute novamente a pergunta da Laura.",
+          "exerciseId": "96a81392-7c74-53c0-ab65-5ba545fca172",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7a464d49-6970-5d63-bfe4-ccbb349517d2",
+          "textContent": "No tengo experiencia en ese tipo de entornos ni utilizo esas herramientas.",
+          "isCorrect": false,
+          "incorrectReason": "Nunca dê uma resposta negativa quando você domina o tema.",
+          "exerciseId": "96a81392-7c74-53c0-ab65-5ba545fca172",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "7104073b-705b-5e5c-82f5-400aacc9e1fe",
+          "textContent": "Prefiero no responder preguntas técnicas durante la entrevista.",
+          "isCorrect": false,
+          "incorrectReason": "Em entrevistas técnicas na Espanha, responda sempre com clareza e exemplos práticos.",
+          "exerciseId": "96a81392-7c74-53c0-ab65-5ba545fca172",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5ca34e7b-994a-550e-99b1-0d99a3a15c1c",
+      "title": "Escute a frase em espanhol e selecione seu significado em português",
+      "content": "<p><strong>Ayer terminé la revisión de seguridad de la interfaz de programación y hoy voy a validar las nuevas reglas del cortafuegos.</strong></p>",
+      "contentPlain": "Ayer terminé la revisión de seguridad de la interfaz de programación y hoy voy a validar las nuevas reglas del cortafuegos.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l03_c1.mp3",
+      "feedbackSuccess": "Muito bem! Você compreendeu perfeitamente a estrutura técnica em espanhol.",
+      "feedbackError": "O significado correto é: «Ontem terminei a revisão de segurança da API e hoje vou validar as novas regras do firewall.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 2,
+      "options": [
+        {
+          "id": "da0c5c7f-6fdf-5509-8fcb-f701885ec6c8",
+          "textContent": "Ontem terminei a revisão de segurança da API e hoje vou validar as novas regras do firewall.",
+          "isCorrect": true,
+          "incorrectReason": "Tradução exata da primeira expressão técnica da aula!",
+          "exerciseId": "5ca34e7b-994a-550e-99b1-0d99a3a15c1c",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "3c2c774c-5d03-5a67-b59c-177385e8a3e6",
+          "textContent": "No momento não tenho nenhum bloqueio (impedimento), mas preciso coordenar uma janela de testes com a equipe de infraestrutura.",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao segundo cartão da aula.",
+          "exerciseId": "5ca34e7b-994a-550e-99b1-0d99a3a15c1c",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "c95e73b9-caa6-546f-9c92-7e7ad5b6ca01",
+          "textContent": "Integramos análise estática (SAST) e varredura de dependências diretamente no fluxo de integração contínua (CI/CD).",
+          "isCorrect": false,
+          "incorrectReason": "Esta tradução corresponde ao terceiro cartão da aula.",
+          "exerciseId": "5ca34e7b-994a-550e-99b1-0d99a3a15c1c",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "2f185419-813a-5a6a-9ba8-ca1e592ea908",
+          "textContent": "Bom dia, equipe. Rony, conta para nós como avançou ontem e no que vai focar hoje?",
+          "isCorrect": false,
+          "incorrectReason": "Esta é a tradução da pergunta da entrevistadora.",
+          "exerciseId": "5ca34e7b-994a-550e-99b1-0d99a3a15c1c",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "5c774fdf-85b5-5cea-b0e8-6320bc7189da",
+      "title": "Fixação de Vocabulário: Conecte o termo em espanhol à tradução",
+      "content": "<p>Associe cada termo técnico usado na Espanha ao seu equivalente em português.</p>",
+      "contentPlain": "Associe cada termo técnico usado na Espanha ao seu equivalente em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Vocabulário técnico memorizado! Esses termos aparecem em quase todas as entrevistas.",
+      "feedbackError": "Revise os pares técnicos para fixar os termos da Espanha.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "d878ab21-c126-56e1-bbff-20cb68f228b1",
+          "leftContent": "una incidencia",
+          "rightContent": "um ticket / chamado técnico (Jira, etc.)",
+          "sequenceItem": 1,
+          "exerciseId": "5c774fdf-85b5-5cea-b0e8-6320bc7189da"
+        },
+        {
+          "id": "4aefb470-8b64-5bbb-9d12-350a3f252345",
+          "leftContent": "ningún bloqueo",
+          "rightContent": "nenhum impedimento / blocker na daily",
+          "sequenceItem": 2,
+          "exerciseId": "5c774fdf-85b5-5cea-b0e8-6320bc7189da"
+        },
+        {
+          "id": "3c92be85-04cb-5c11-8c64-c128838f9ab9",
+          "leftContent": "análisis estático",
+          "rightContent": "SAST (Static Application Security Testing)",
+          "sequenceItem": 3,
+          "exerciseId": "5c774fdf-85b5-5cea-b0e8-6320bc7189da"
+        },
+        {
+          "id": "aee127a5-a64d-5be6-8dfd-2f5a3d8e05d1",
+          "leftContent": "integración continua",
+          "rightContent": "CI (Continuous Integration)",
+          "sequenceItem": 4,
+          "exerciseId": "5c774fdf-85b5-5cea-b0e8-6320bc7189da"
+        }
+      ]
+    },
+    {
+      "id": "85ff515c-bc92-5669-90bf-4b96e35ffa46",
+      "title": "Treino de Ouvido: Escute o áudio e associe à frase em espanhol",
+      "content": "<p>Toque em cada áudio e conecte-o à transcrição exata em espanhol.</p>",
+      "contentPlain": "Toque em cada áudio e conecte-o à transcrição exata em espanhol.",
+      "fileUrl": null,
+      "feedbackSuccess": "Ouvido afiado! Reconhecer rapidamente as palavras faladas dá segurança total na entrevista.",
+      "feedbackError": "Escute novamente com atenção cada áudio e conecte à frase correspondente.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "aprender"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": [
+        {
+          "id": "72668398-ffbe-5198-b595-4f907fc71d4e",
+          "leftContent": "https://talk2me.local/content/ti_m04_l03_c1.mp3",
+          "rightContent": "Ayer terminé la revisión de seguridad de la interfaz de programación y hoy voy a validar las nuevas reglas del cortafuegos.",
+          "sequenceItem": 1,
+          "exerciseId": "85ff515c-bc92-5669-90bf-4b96e35ffa46"
+        },
+        {
+          "id": "cc38a8f9-ca1d-5c7a-b80a-b0326eeaa01d",
+          "leftContent": "https://talk2me.local/content/ti_m04_l03_c2.mp3",
+          "rightContent": "De momento no tengo ningún bloqueo, pero necesito coordinar una ventana de pruebas con el equipo de infraestructura.",
+          "sequenceItem": 2,
+          "exerciseId": "85ff515c-bc92-5669-90bf-4b96e35ffa46"
+        },
+        {
+          "id": "af87b445-1735-5824-b008-d605f5d5e83d",
+          "leftContent": "https://talk2me.local/content/ti_m04_l03_c3.mp3",
+          "rightContent": "Hemos integrado análisis estático y escaneo de dependencias directamente en el flujo de integración continua.",
+          "sequenceItem": 3,
+          "exerciseId": "85ff515c-bc92-5669-90bf-4b96e35ffa46"
+        },
+        {
+          "id": "f4e54399-ed0a-5a1e-990b-688fda289d6c",
+          "leftContent": "https://talk2me.local/content/ti_m04_l03_d2.mp3",
+          "rightContent": "Buenos días. Ayer validé la corrección de los tres hallazgos críticos y cerré las incidencias correspondientes.",
+          "sequenceItem": 4,
+          "exerciseId": "85ff515c-bc92-5669-90bf-4b96e35ffa46"
+        }
+      ]
+    }
+  ],
+  "practiceExercises": [
+    {
+      "id": "9a358790-c723-528c-979b-49955ba6d79a",
+      "title": "Decisão em Entrevista Técnica na Espanha",
+      "content": "<p>Na Espanha, como os times de TI costumam chamar um «ticket / chamado de problema» em sistemas como Jira ou ServiceNow?</p>",
+      "contentPlain": "Na Espanha, como os times de TI costumam chamar um «ticket / chamado de problema» em sistemas como Jira ou ServiceNow?",
+      "fileUrl": null,
+      "feedbackSuccess": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+      "feedbackError": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "b6780773-8b3c-5fd7-966b-6970a5dcf95a",
+          "textContent": "Una incidencia (ex.: «cerré la incidencia» / «abrir una incidencia»).",
+          "isCorrect": true,
+          "incorrectReason": null,
+          "exerciseId": "9a358790-c723-528c-979b-49955ba6d79a",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "212f258c-5b83-5f63-a32e-947d0b7f80d0",
+          "textContent": "Un billete de error.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+          "exerciseId": "9a358790-c723-528c-979b-49955ba6d79a",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "94d66901-2df1-588b-b4e2-3cabcd841c15",
+          "textContent": "Una carta rota.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+          "exerciseId": "9a358790-c723-528c-979b-49955ba6d79a",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "f5581bf0-53ba-526d-be4b-4e6947b52493",
+          "textContent": "Un papel de soporte.",
+          "isCorrect": false,
+          "incorrectReason": "Na Espanha, *ticket/issue* é universalmente chamado de «una incidencia» («abrir/resolver/cerrar una incidencia»).",
+          "exerciseId": "9a358790-c723-528c-979b-49955ba6d79a",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "f03ad880-ca68-586c-8c3e-044e3ecbbd7d",
+      "title": "Simulacro Auditivo: Escute o diálogo em espanhol e associe à tradução",
+      "content": "<p>Escute cada fala da entrevista (sem ler em espanhol) e conecte diretamente ao significado em português.</p>",
+      "contentPlain": "Escute cada fala da entrevista e conecte diretamente ao significado em português.",
+      "fileUrl": null,
+      "feedbackSuccess": "Excelente! Você já consegue entender as perguntas e respostas em velocidade natural.",
+      "feedbackError": "Escute novamente o áudio e associe à tradução correta.",
+      "answerType": "matchingAudio",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": [
+        {
+          "id": "f529caff-3d9a-59d8-a35e-273089e88ebd",
+          "leftContent": "https://talk2me.local/content/ti_m04_l03_d1.mp3",
+          "rightContent": "Bom dia, equipe. Rony, conta para nós como avançou ontem e no que vai focar hoje?",
+          "sequenceItem": 1,
+          "exerciseId": "f03ad880-ca68-586c-8c3e-044e3ecbbd7d"
+        },
+        {
+          "id": "885c272e-290c-543b-b520-995b43aec16e",
+          "leftContent": "https://talk2me.local/content/ti_m04_l03_d2.mp3",
+          "rightContent": "Bom dia. Ontem validei a correção dos três achados críticos e fechei os tickets (incidencias) correspondentes.",
+          "sequenceItem": 2,
+          "exerciseId": "f03ad880-ca68-586c-8c3e-044e3ecbbd7d"
+        },
+        {
+          "id": "9f20ac51-7bfd-552e-ba6e-97da433dc65b",
+          "leftContent": "https://talk2me.local/content/ti_m04_l03_d3.mp3",
+          "rightContent": "Ótimo. E o que você tem previsto para hoje? Há algum bloqueio?",
+          "sequenceItem": 3,
+          "exerciseId": "f03ad880-ca68-586c-8c3e-044e3ecbbd7d"
+        },
+        {
+          "id": "ab7ee27e-bc08-5836-a5e1-3f6610116d5b",
+          "leftContent": "https://talk2me.local/content/ti_m04_l03_d4.mp3",
+          "rightContent": "Hoje vou revisar as permissões do novo ambiente em nuvem. No momento não tenho nenhum bloqueio, obrigado.",
+          "sequenceItem": 4,
+          "exerciseId": "f03ad880-ca68-586c-8c3e-044e3ecbbd7d"
+        }
+      ]
+    },
+    {
+      "id": "a9d4ef8f-c217-57fc-b0dd-a51b8fc7008c",
+      "title": "Escrita Técnica I: Complete o termo chave em espanhol",
+      "content": "<p><strong>Ayer validé la corrección y cerré las _____ en el sistema.</strong></p><p>Tradução: Ontem validei a correção e fechei os tickets/chamados no sistema.</p>",
+      "contentPlain": "Ayer validé la corrección y cerré las _____ en el sistema. Tradução: Ontem validei a correção e fechei os tickets/chamados no sistema.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l03_spk.mp3",
+      "feedbackSuccess": "Correto! «incidencias» é um termo essencial para usar na entrevista.",
+      "feedbackError": "O termo esperado nesta frase é «incidencias».",
+      "answerType": "buildWord",
+      "expectedAnswer": "incidencias",
+      "typeSpecificData": "{\"word\": \"incidencias\", \"translation\": \"Ontem validei a correção e fechei os tickets/chamados no sistema.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "ba53b9a4-ec1d-5e71-8529-5e14f5466cf4",
+      "title": "Treino de Pronúncia I: Frase Chave da Aula",
+      "content": "<p>Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.</p>",
+      "contentPlain": "Escute o modelo e fale em voz alta com firmeza, como se estivesse respondendo ao recrutador.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l03_spk.mp3",
+      "feedbackSuccess": "Pronúncia clara e segura! Repetir em voz alta automatiza sua fluência sob pressão.",
+      "feedbackError": "Escute o ritmo da frase modelo e tente pronunciar cada palavra com clareza.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "De momento no tengo ningún bloqueo y hoy voy a validar las correcciones.",
+      "typeSpecificData": "{\"expectedText\": \"De momento no tengo ningún bloqueo y hoy voy a validar las correcciones.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m04_l03_spk.mp3\", \"minSimilarity\": 0.76, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 4,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "8ce12f78-56e9-5819-b5ca-38027603dd76",
+      "title": "Treino de Pronúncia II: Sua Resposta na Entrevista",
+      "content": "<p><strong>Pergunta da Laura:</strong> «Buenos días, equipo. Rony, ¿nos cuentas qué tal avanzaste ayer y en qué te enfocas hoy?»</p><p>Agora fale em voz alta a sua resposta completa em espanhol:</p>",
+      "contentPlain": "Buenos días. Ayer validé la corrección de los tres hallazgos críticos y cerré las incidencias correspondientes.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l03_d2.mp3",
+      "feedbackSuccess": "Excelente! Falar respostas completas em voz alta destrava sua conversação para a entrevista real.",
+      "feedbackError": "Ouça o áudio modelo da resposta e tente repetir no mesmo ritmo.",
+      "answerType": "speakAndPractice",
+      "expectedAnswer": "Buenos días. Ayer validé la corrección de los tres hallazgos críticos y cerré las incidencias correspondientes.",
+      "typeSpecificData": "{\"expectedText\": \"Buenos días. Ayer validé la corrección de los tres hallazgos críticos y cerré las incidencias correspondientes.\", \"audioModelUrl\": \"https://talk2me.local/content/ti_m04_l03_d2.mp3\", \"minSimilarity\": 0.74, \"generateModelAudioViaTts\": false}",
+      "isActive": true,
+      "exerciseTypes": [
+        "praticar"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 5,
+      "options": [],
+      "associations": []
+    }
+  ],
+  "challengeExercises": [
+    {
+      "id": "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+      "title": "Desafio de Entrevista: Pergunta de Aprofundamento Técnico",
+      "content": "<p>A entrevistadora aprofunda a questão:</p><p><strong>«Genial. ¿Y qué tienes previsto para hoy? ¿Hay algún bloqueo?»</strong></p><p><em>(Ótimo. E o que você tem previsto para hoje? Há algum bloqueio?)</em></p><p>Qual é a melhor resposta em espanhol?</p>",
+      "contentPlain": "Genial. ¿Y qué tienes previsto para hoy? ¿Hay algún bloqueo?",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l03_d3.mp3",
+      "feedbackSuccess": "Domínio total! Você manteve o nível técnico na pergunta de aprofundamento.",
+      "feedbackError": "A resposta ideal é: «Hoy voy a revisar los permisos del nuevo entorno en la nube. De momento no tengo ningún bloqueo, gracias.».",
+      "answerType": "multipleChoice",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 1,
+      "options": [
+        {
+          "id": "4e24d83b-4c11-57ce-af94-640f5b344c4e",
+          "textContent": "Hoy voy a revisar los permisos del nuevo entorno en la nube. De momento no tengo ningún bloqueo, gracias.",
+          "isCorrect": true,
+          "incorrectReason": "Resposta perfeita para a segunda pergunta de aprofundamento da entrevistadora!",
+          "exerciseId": "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+          "sequence": 1,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "549353d3-9307-5926-a69e-c3c3ddf21986",
+          "textContent": "Buenos días. Ayer validé la corrección de los tres hallazgos críticos y cerré las incidencias correspondientes.",
+          "isCorrect": false,
+          "incorrectReason": "Esta foi a resposta da primeira pergunta; veja o que a Laura perguntou na segunda.",
+          "exerciseId": "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+          "sequence": 2,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9ea72122-d5e8-57df-9565-4dc2fdc70930",
+          "textContent": "Ayer terminé la revisión de seguridad de la interfaz de programación y hoy voy a validar las nuevas reglas del cortafuegos.",
+          "isCorrect": false,
+          "incorrectReason": "Boa frase, mas não responde diretamente à pergunta de aprofundamento da Laura.",
+          "exerciseId": "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+          "sequence": 3,
+          "audioUrl": null,
+          "imageUrl": null
+        },
+        {
+          "id": "9123da2c-d734-59c6-9255-3da2de2e2258",
+          "textContent": "No sabría cómo actuar en esa situación técnica.",
+          "isCorrect": false,
+          "incorrectReason": "Evite respostas inseguras; mostre seu método prático.",
+          "exerciseId": "6a6c1b9b-9863-5d03-9737-fbde4ed24dfe",
+          "sequence": 4,
+          "audioUrl": null,
+          "imageUrl": null
+        }
+      ],
+      "associations": []
+    },
+    {
+      "id": "6ea91379-5617-5234-b02c-135c32173f06",
+      "title": "Desafio de Escrita Técnica II: Domine o vocabulário em contexto",
+      "content": "<p><strong>De momento no tengo ningún bloqueo, pero necesito coordinar una ventana de pruebas con el equipo de _____.</strong></p><p>Tradução: No momento não tenho nenhum bloqueio (impedimento), mas preciso coordenar uma janela de testes com a equipe de infraestrutura.</p>",
+      "contentPlain": "De momento no tengo ningún bloqueo, pero necesito coordinar una ventana de pruebas con el equipo de _____. Tradução: No momento não tenho nenhum bloqueio (impedimento), mas preciso coordenar uma janela de testes com a equipe de infraestrutura.",
+      "fileUrl": "https://talk2me.local/content/ti_m04_l03_c2.mp3",
+      "feedbackSuccess": "Perfeito! Você fixou a grafia exata de «infraestructura» em espanhol.",
+      "feedbackError": "A palavra esperada na frase é «infraestructura».",
+      "answerType": "buildWord",
+      "expectedAnswer": "infraestructura",
+      "typeSpecificData": "{\"word\": \"infraestructura\", \"translation\": \"No momento não tenho nenhum bloqueio (impedimento), mas preciso coordenar uma janela de testes com a equipe de infraestrutura.\"}",
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 2,
+      "options": [],
+      "associations": []
+    },
+    {
+      "id": "03bc5464-8072-5dba-a4c5-7043f313a18e",
+      "title": "Desafio Final: Traduza mentalmente as frases completas para o espanhol",
+      "content": "<p>Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.</p>",
+      "contentPlain": "Conecte cada ideia em português a como você deve expressá-la em espanhol durante a entrevista.",
+      "fileUrl": null,
+      "feedbackSuccess": "Lição dominada com 100% de aproveitamento! Essas frases já estão prontas para você usar na entrevista.",
+      "feedbackError": "Revise a estrutura das frases completas em espanhol.",
+      "answerType": "matching",
+      "expectedAnswer": null,
+      "typeSpecificData": null,
+      "isActive": true,
+      "exerciseTypes": [
+        "desafio"
+      ],
+      "lessonId": "44e53352-432a-5641-89e9-cdb53b489e7d",
+      "sequenceItem": 3,
+      "options": [],
+      "associations": [
+        {
+          "id": "6aecbd74-44bf-5c5a-b59a-e975c29899be",
+          "leftContent": "Ontem terminei a revisão de segurança da API e hoje vou validar as novas regras do firewall.",
+          "rightContent": "Ayer terminé la revisión de seguridad de la interfaz de programación y hoy voy a validar las nuevas reglas del cortafuegos.",
+          "sequenceItem": 1,
+          "exerciseId": "03bc5464-8072-5dba-a4c5-7043f313a18e"
+        },
+        {
+          "id": "2f0e8b59-1b82-5fb8-a0f7-13d4cb306697",
+          "leftContent": "No momento não tenho nenhum bloqueio (impedimento), mas preciso coordenar uma janela de testes com a equipe de infraestrutura.",
+          "rightContent": "De momento no tengo ningún bloqueo, pero necesito coordinar una ventana de pruebas con el equipo de infraestructura.",
+          "sequenceItem": 2,
+          "exerciseId": "03bc5464-8072-5dba-a4c5-7043f313a18e"
+        },
+        {
+          "id": "18f8e16f-86c0-5cf1-be5f-2eeaa2a63a09",
+          "leftContent": "Integramos análise estática (SAST) e varredura de dependências diretamente no fluxo de integração contínua (CI/CD).",
+          "rightContent": "Hemos integrado análisis estático y escaneo de dependencias directamente en el flujo de integración continua.",
+          "sequenceItem": 3,
+          "exerciseId": "03bc5464-8072-5dba-a4c5-7043f313a18e"
+        },
+        {
+          "id": "498bf614-75f3-58ec-922f-088134c9c8ad",
+          "leftContent": "Hoje vou revisar as permissões do novo ambiente em nuvem. No momento não tenho nenhum bloqueio, obrigado.",
+          "rightContent": "Hoy voy a revisar los permisos del nuevo entorno en la nube. De momento no tengo ningún bloqueo, gracias.",
+          "sequenceItem": 4,
+          "exerciseId": "03bc5464-8072-5dba-a4c5-7043f313a18e"
+        }
+      ]
+    }
+  ],
+  "title": "Vocabulário do Dia a Dia na Espanha - Daily Standup, Tickets e CI/CD"
+}
